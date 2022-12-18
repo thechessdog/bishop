@@ -1,0 +1,21 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Kuijpers"]
+[Black "Flohr, Salo"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "e4b8d06f"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. d4 Bd6 7. Bd3 O-O
+8. O-O Bg4 9. Be3 Nd7 10. c4 c5 11. Bc2 Qc7 12. h3 Bh5 13. dxc5 Bxc5 14. Bxc5
+Nxc5 15. Qd5 g6 16. b4 Ne6 17. c5 Rad8 18. Qb3 Bxf3 19. Qxf3 Nd4 20. Qd3 Rfe8
+21. Rfe1 Re5 22. Re4 Rxe4 23. Qxe4 f5 24. Qd3 Qe5 25. Kh1 Nc6 26. Qf1 Nxb4 27.
+Bb3 Nc6 28. Rc1 Rd4 29. Rc4 Kf8 30. Qc1 Kg7 31. f3 Na5 32. Rxd4 Qxd4 33. Qc2
+Nc6 34. Qc1 Ne5 35. Qa3 a6 36. Qa5 Nd3 37. c6 bxc6 38. Qxa6 Qa1+ 39. Kh2 Qe5+
+40. Kg1 Qd4+ 41. Kh2 c5 42. Qa4 Qxa4 43. Bxa4 c4 44. Kg1 c3 45. Kf1 Nb4 46. Ke2
+Nxa2 47. Kd3 Nb4+ 48. Kxc3 Nd5+ 49. Kd4 Nf4 50. g4 Nxh3 51. gxf5 g5 0-1

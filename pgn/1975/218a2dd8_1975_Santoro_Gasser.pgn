@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Santoro"]
+[Black "Gasser"]
+[Result "0-1"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "218a2dd8"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+Nfd7 9. Ne4 dxe5 10. Nd6+ Ke7 11. Nxc8+ Qxc8 12. Nf3 Re8 13. Be2 Kf8 14.
+O-O e4 15. Ng5 h6 16. f5 hxg5 17. fxg6 Bd4+ 18. Kh1 f6 19. Bxg5 Kg7 20. Bg4
+Rf8 21. Be6 Qe8 22. Bf7 Qd8 23. Qb3 fxg5 24. Qxb7 Nb6 25. Be8+ N8d7 26.
+Rf7+ Rxf7 27. gxf7 Qc8 0-1
+

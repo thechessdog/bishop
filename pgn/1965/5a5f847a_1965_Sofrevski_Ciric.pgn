@@ -1,0 +1,17 @@
+[Event "Titograd"]
+[Site "Titograd"]
+[Date "1965.01.01"]
+[Round "15"]
+[White "Sofrevski, Jovan"]
+[Black "Ciric, Dragoljub M"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "5a5f847a"]
+[Epoch "Bishop"]
+[WhiteCountry "MKD"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 b6 8. Rc1
+Bb7 9. cxd5 Nxd5 10. Bxe7 Qxe7 11. Be2 Rc8 12. O-O Nd7 13. Qd2 c5 14. Rfd1 Nxc3
+15. Rxc3 cxd4 16. Rxc8+ Rxc8 17. Qxd4 1/2-1/2

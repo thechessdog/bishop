@@ -1,0 +1,19 @@
+[Event "Dravograd"]
+[Site "Dravograd"]
+[Date "1963.01.01"]
+[Round "11"]
+[White "Ceglar, Robert"]
+[Black "Zidansek, Bojan"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "fc97ffec"]
+[Epoch "Bishop"]
+[BlackID "14403447"]
+[BlackCountry "BIH"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 e6 5. d4 Nf6 6. Nxf6+ Qxf6 7. Bg5 Qf5 8.
+Bd3 Qa5+ 9. Bd2 Qb6 10. O-O Qxb2 11. Rb1 Qxa2 12. Rb3 a5 13. Ne5 a4 14. Qf3 Be7
+15. Qxf7+ Kd8 16. Rbb1 Rf8 17. Qxg7 Nd7 18. Nxd7 Kxd7 19. Bb4 Re8 20. d5 Kd8
+21. d6 1-0

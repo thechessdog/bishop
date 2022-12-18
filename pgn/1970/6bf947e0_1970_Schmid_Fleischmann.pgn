@@ -1,0 +1,19 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schmid, H."]
+[Black "Fleischmann, F."]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "6bf947e0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Be7 8.
+Be2 Qc7 9. O-O-O O-O 10. f4 Nbd7 11. Bf3 Rb8 12. Kb1 h6 13. h4 Nc5 14. g4
+Bd7 15. Bxf6 Bxf6 16. g5 Be7 17. gxh6 gxh6 18. f5 Kh7 19. Bh5 b5 20. fxe6
+fxe6 21. Rdg1 Rg8 22. Bf7 Rg7 23. Rxg7+ Kxg7 24. Rg1+ Bg5 25. hxg5 Kxf7 26.
+Qf4+ Ke8 27. gxh6 1-0
+

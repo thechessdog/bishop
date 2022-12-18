@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Roizman, A."]
+[Black "Kogan"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "167490ee"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 b5
+8. Bd5 Nxd5 9. Nxd5 Bb7 10. O-O g6 11. a4 Nc5 12. axb5 Nxe4 13. Nc6 Bxc6
+14. bxc6 Nxg5 15. c7 Qc8 16. Qd4 e5 17. Qa4+ 1-0
+

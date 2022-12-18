@@ -1,0 +1,18 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Meinsohn"]
+[Black "Cosulich, Roberto"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "25aa0f21"]
+[Epoch "Bishop"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. g4
+Bxc4 9. Bxc4 dxc4 10. e4 c5 11. g5 Nfd7 12. f4 Nc6 13. Be3 cxd4 14. Bxd4 e5 15.
+Be3 exf4 16. Bxf4 Nc5 17. Nd5 Nd3+ 18. Ke2 O-O 19. Qg1 Nxf4+ 20. Nxf4 Re8 21.
+Qe3 Nd4+ 22. Kf2 Nc2 23. Qc3 Qxg5 0-1

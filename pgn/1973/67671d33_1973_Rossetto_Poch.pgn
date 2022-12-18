@@ -1,0 +1,23 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Rossetto, Hector"]
+[Black "Poch, Cesar G."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "67671d33"]
+[Epoch "Bishop"]
+[BlackID "100315"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 h6 5. Bxf6 Nxf6 6. e4 e6 7. e5 Nd7 8. f4
+c5 9. Nf3 a6 10. Qd2 cxd4 11. Nxd4 Be7 12. Bd3 Qb6 13. Nb3 g5 14. O-O-O gxf4
+15. Rde1 Bh4 16. Re2 Bg5 17. h4 f3 18. hxg5 fxe2 19. Qxe2 Qc7 20. Rxh6 Rg8 21.
+g6 f5 22. Nd4 Nxe5 23. Nxd5 Nxd3+ 24. Kb1 Qe5 25. Qxe5 Nxe5 26. Nc7+ Ke7 27.
+Nxa8 Rxg6 28. Rxg6 Nxg6 29. Nb6 Bd7 30. Nxd7 Kxd7 31. Kc1 f4 32. Kd2 Nh4 33.
+Kd3 Nxg2 34. Ke4 Kd6 35. Nf3 Ne3 36. Ne1 e5 37. Nd3 Nc4 38. b3 Nd2+ 39. Kf5 f3
+40. Nf2 Kd5 41. c3 b5 42. Nd1 Nb1 43. Ne3+ Kd6 44. Nd1 f2 45. Nxf2 Nxc3 46. Ng4
+Nxa2 47. Nxe5 Nc1 48. b4 Na2 0-1

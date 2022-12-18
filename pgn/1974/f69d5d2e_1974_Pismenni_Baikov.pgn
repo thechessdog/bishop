@@ -1,0 +1,19 @@
+[Event "Moscow ch"]
+[Site "Moscow ch"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pismenni, Avraam"]
+[Black "Baikov, Vladimir"]
+[Result "0-1"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "f69d5d2e"]
+[Epoch "Bishop"]
+[BlackID "44145322"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 d5 4. d4 Bg7 5. Bf4 O-O 6. Rc1 dxc4 7. e4 Bg4 8.
+Bxc4 Bxf3 9. gxf3 Nh5 10. Be3 e6 11. Qd2 Nc6 12. d5 Ne5 13. Be2 exd5 14. Nxd5
+c6 15. Nf4 Qh4 16. Nxh5 Qxh5 17. Qd1 Rfd8 18. Bd2 Bh6 19. f4 Qh4 20. Qc2 Bxf4
+0-1

@@ -1,0 +1,20 @@
+[Event "San Benedetto"]
+[Site "San Benedetto"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Giubbolini"]
+[Black "Campioli"]
+[Result "0-1"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, not Scheveningen"]
+[HashCode "764bb621"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Bd7 7. Bb3 g6
+8. f3 Bg7 9. Be3 Na5 10. Qd2 Nxb3 11. Nxb3 O-O 12. O-O-O a5 13. g4 a4 14.
+Nd4 b5 15. Ndxb5 Bxb5 16. Nxb5 Nd7 17. Bh6 Bxh6 18. Qxh6 Qb6 19. Nc3 Rfb8
+20. b3 axb3 21. axb3 Ne5 22. Nd5 Nc4 23. Nc3 Ra1+ 24. Nb1 Qa5 25. Rd3 Qa2
+26. bxc4 Qxb1+ 27. Kd2 Qxh1 28. Qh4 Qc1+ 29. Kc3 Qb2+ 30. Kd2 Ra2 31. Rc3
+Qb4 32. Kd3 Ra1 0-1
+

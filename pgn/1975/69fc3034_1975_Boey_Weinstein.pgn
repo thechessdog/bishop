@@ -1,0 +1,24 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1975.07.01"]
+[Round "11"]
+[White "Boey, Josef"]
+[Black "Weinstein, Norman"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "69fc3034"]
+[Epoch "Bishop"]
+[WhiteID "200093"]
+[WhiteCountry "BEL"]
+[BlackID "2000466"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Qd2 e6 8.
+O-O-O Bd7 9. f4 b5 10. Qe1 Nxd4 11. e5 h6 12. Bh4 Nf5 13. exf6 Nxh4 14. Ne4 g5
+15. g3 Nf5 16. Bh3 Qc7 17. Bxf5 O-O-O 18. Bh3 d5 19. Nd2 gxf4 20. Nf3 Bd6 21.
+Rd3 Kb7 22. Rc3 Qb8 23. gxf4 Bxf4+ 24. Kb1 Rc8 25. Rb3 Qc7 26. Nd4 Be5 27. Rc3
+Qd6 28. Rxc8 Rxc8 29. Nb3 Bxf6 30. Rf1 Qe5 31. Qxe5 Bxe5 32. Rxf7 Rc7 33. Bxe6
+Bxe6 34. Nc5+ Kb6 35. Rxc7 Bxc7 36. Nxe6 Bxh2 37. Kc1 h5 38. Kd2 h4 39. Kd3 Be5
+40. Ng5 Bxb2 0-1

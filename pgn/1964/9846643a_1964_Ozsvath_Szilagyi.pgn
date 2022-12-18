@@ -1,0 +1,21 @@
+[Event "Budapest-ch"]
+[Site "Budapest"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Ozsvath, Andras"]
+[Black "Szilagyi, Peter"]
+[Result "0-1"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "9846643a"]
+[Epoch "Bishop"]
+[BlackID "700355"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 d6 6. h3 Rb8 7. O-O b5 8. d3 b4
+9. Nd5 e6 10. Ne3 Nge7 11. f4 Nd4 12. g4 h5 13. f5 hxg4 14. f6 Bxf6 15. Rxf6
+gxh3 16. Bf1 Nef5 17. Rxf5 gxf5 18. Nxd4 cxd4 19. Nc4 Qh4 20. Qf3 Ke7 21. Kh2
+e5 22. Bd2 fxe4 23. dxe4 Bg4 24. Qg3 Qxg3+ 25. Kxg3 Rbg8 26. Kf2 Be6 27. Na5 f5
+28. Nc6+ Kf6 29. exf5 h2 0-1

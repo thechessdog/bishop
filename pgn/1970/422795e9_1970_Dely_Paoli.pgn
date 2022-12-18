@@ -1,0 +1,19 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Dely, Peter"]
+[Black "Paoli, Enrico"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "422795e9"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 Qc7 9. Bb3 a6 10. O-O-O O-O 11. g4 Na5 12. g5 Nxb3+ 13. axb3 Nd7 14. h4 b5
+15. g6 hxg6 16. h5 g5 17. Rhg1 b4 18. Bxg5 Bxg5+ 19. Rxg5 Nf6 20. Rdg1 Ne8 21.
+Rxg7+ Nxg7 22. h6 Qc5 23. Nf5 exf5 24. hxg7 f4 25. Nd5 1-0

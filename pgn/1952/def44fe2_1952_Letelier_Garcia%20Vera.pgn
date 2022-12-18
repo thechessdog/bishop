@@ -1,0 +1,24 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1952.01.01"]
+[Round "11"]
+[White "Letelier, Rene"]
+[Black "Garcia Vera, Romeo"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "def44fe2"]
+[Epoch "Bishop"]
+[WhiteCountry "CHL"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 b6 6. Ne2 Bb7 7. O-O O-O 8. d5
+Bxc3 9. Nxc3 exd5 10. cxd5 Ba6 11. e4 Bxd3 12. Qxd3 d6 13. Bg5 Nbd7 14. f4 Re8
+15. Rae1 h6 16. Bh4 Qc7 17. Qf3 Nh7 18. e5 dxe5 19. d6 Qxd6 20. Rd1 Qe6 21. f5
+Qc4 22. Ne4 Nhf6 23. Bxf6 Nxf6 24. Nxf6+ gxf6 25. Qh5 Rad8 26. Qxh6 Qg4 27.
+Rxd8 Rxd8 28. Qxf6 Rd2 29. Qc6 Kh7 30. h3 Qd4+ 31. Kh2 Qd5 32. Qxd5 Rxd5 33.
+Rf2 b5 34. Rc2 c4 35. b3 Rc5 36. a4 a6 37. axb5 axb5 38. Kg3 Kh6 39. Kf3 Kg5
+40. Ke4 f6 41. bxc4 bxc4 42. g3 c3 43. g4 Rc8 44. Kf3 Kh4 45. Ke4 Kxh3 46. g5
+fxg5 47. f6 g4 48. Kxe5 g3 49. f7 g2 50. Rxc3+ Rxc3 51. f8=Q g1=Q 52. Qf5+ Kh2
+53. Qh5+ Rh3 0-1

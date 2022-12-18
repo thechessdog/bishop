@@ -1,0 +1,20 @@
+[Event "DDR-12ch"]
+[Site "Gera"]
+[Date "1962.??.??"]
+[Round "9"]
+[White "Starck, Bodo"]
+[Black "Liebert, Heinz"]
+[Result "1/2-1/2"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "dbc28e18"]
+[Epoch "Bishop"]
+[WhiteID "4611829"]
+[BlackID "4611438"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 8. Qc2
+Qc7 9. e4 fxe4 10. Nxe4 Bf5 11. Nh4 Nxe4 12. Bxe4 e6 13. Be3 Nd7 14. Nxf5 exf5
+15. Bg2 Nf6 16. Rab1 1/2-1/2

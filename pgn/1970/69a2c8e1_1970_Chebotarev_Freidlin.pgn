@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Chebotarev"]
+[Black "Freidlin"]
+[Result "1-0"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[HashCode "69a2c8e1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Bg5 Bb4+ 5. Nc3 dxc4 6. e4 c5 7. e5 cxd4 8.
+Qa4+ Nc6 9. O-O-O Bd7 10. Ne4 Be7 11. exf6 gxf6 12. Bh4 Rc8 13. Kb1 Na5 14.
+Qc2 e5 15. Nxd4 exd4 16. Rxd4 Qb6 17. Rd6 Rc6 18. Bxf6 Rg8 19. Bd4 Qb5 20.
+Rxc6 Nxc6 21. Bc5 Bf5 22. Bxe7 Nd4 23. Bxc4 Qc6 24. Nd6+ Kd7 25. Nxf5 Nxc2
+26. Rd1+ Kc8 27. Bxf7 Rg4 28. Nd6+ Kc7 29. Ne8+ Kb6 30. Rd6 1-0
+

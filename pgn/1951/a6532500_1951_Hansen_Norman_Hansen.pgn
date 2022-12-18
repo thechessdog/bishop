@@ -1,0 +1,25 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Hansen, Bjarne"]
+[Black "Norman Hansen, Holger"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Italian variation"]
+[HashCode "a6532500"]
+[Epoch "Bishop"]
+[WhiteID "1403176"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Qe2 O-O 11. Nbd2 Nxd2 12. Bxd2 Bg4 13. h3 Bxf3 14. gxf3 Qh4
+15. Bxd5 Qg3+ 16. Kh1 Qxh3+ 17. Kg1 Nxe5 18. Rfe1 Rad8 19. Qxe5 Bd6 20. Be6
+fxe6 21. Qxe6+ Qxe6 22. Rxe6 Rxf3 23. Be3 Kf7 24. Re4 Re8 25. Rxe8 Kxe8 26. a4
+b4 27. cxb4 Bxb4 28. Rd1 Rf5 29. Rd4 Bc5 30. Re4+ Kd7 31. Bxc5 Rxc5 32. Rf4 Ke6
+33. Re4+ Re5 34. Rc4 Kd6 35. Rd4+ Rd5 36. Rg4 g6 37. Rh4 h5 38. Rc4 c6 39. Kg2
+a5 40. Rc3 g5 41. b3 Rd4 42. Kg3 c5 43. Rf3 Rg4+ 44. Kh2 Rf4 45. Rd3+ Ke5 46.
+Re3+ Kd4 47. Kg2 c4 48. bxc4 Kxc4 49. Re5 Rg4+ 50. Kh3 Kb4 51. f3 Rf4 52. Rxg5
+Rxf3+ 0-1

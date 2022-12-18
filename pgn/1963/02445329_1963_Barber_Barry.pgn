@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Barber"]
+[Black "Barry"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "02445329"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bc4 Be7 8.
+Qd3 O-O 9. O-O-O d5 10. exd5 exd5 11. Bb3 b5 12. Bxf6 Bxf6 13. Nxd5 Bg5+
+14. f4 Bb7 15. Nf3 Bf6 16. Nxf6+ Qxf6 17. g3 Nc6 18. Ng5 g6 19. Rhe1 Rad8
+20. Qe3 Nd4 21. Qe7 Nxb3+ 22. axb3 Rxd1+ 23. Kxd1 Rd8+ 24. Kc1 Qxe7 25.
+Rxe7 Bd5 26. Ne4 Kg7 27. Nc5 Rc8 0-1
+

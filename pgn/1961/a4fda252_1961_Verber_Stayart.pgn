@@ -1,0 +1,19 @@
+[Event "Illinois"]
+[Site "Illinois"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Verber, R."]
+[Black "Stayart, G."]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "a4fda252"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nde2 Bb4 7. Bg5 d6
+8. Qd3 Nbd7 9. O-O-O Nc5 10. Qf3 Bg4 11. Qe3 Bxc3 12. Bxf6 Bxb2+ 13. Kxb2
+Qxf6 14. f3 Bd7 15. Nc3 Na4+ 16. Nxa4 Bxa4 17. Qa3 Bc6 18. Rxd6 Qe7 19. Bc4
+O-O 20. Rhd1 Qc7 21. Qc5 Rac8 22. Bb3 Rfe8 23. g3 g6 24. h4 Kg7 25. h5 Bb5
+26. Qe3 Red8 27. h6+ Kg8 28. Bxf7+ Kxf7 29. Qb3+ Bc4 30. Rxd8 0-1
+

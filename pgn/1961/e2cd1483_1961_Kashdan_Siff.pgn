@@ -1,0 +1,18 @@
+[Event "Fresno"]
+[Site "Fresno"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Kashdan, Isaac"]
+[Black "Siff, B."]
+[Result "0-1"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "e2cd1483"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c5 8. Bd3 Nh5
+9. Qd2 f5 10. exf5 gxf5 11. Bg5 Qe8 12. Nge2 Na6 13. Nb5 Bd7 14. O-O-O Bxb5 15.
+cxb5 c4 16. Bxf5 Rxf5 17. bxa6 Nf4 18. axb7 Nd3+ 19. Kb1 Rb8 20. Nc1 e4 21.
+fxe4 Rf2 0-1

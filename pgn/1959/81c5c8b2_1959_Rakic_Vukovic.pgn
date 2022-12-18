@@ -1,0 +1,25 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Rakic, Tomislav"]
+[Black "Vukovic, Sava"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "81c5c8b2"]
+[Epoch "Bishop"]
+[WhiteID "900842"]
+[BlackID "941387"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. Be3
+b5 9. a3 O-O 10. Qe2 Bb7 11. f3 Nbd7 12. Rd1 Qc7 13. O-O Ne5 14. f4 Ned7 15.
+Bc1 Nc5 16. e5 dxe5 17. fxe5 Nfd7 18. Bf4 Nxb3 19. cxb3 Rfd8 20. Bg3 Nf8 21. b4
+Ng6 22. Ne4 Bxe4 23. Qxe4 Rd5 24. Nf3 Qd7 25. Rc1 Rc8 26. Rc3 Rxc3 27. bxc3 Qc6
+28. h4 Qxc3 29. h5 Nf8 30. Qf4 h6 31. Kh2 f5 32. Bh4 Bxh4 33. Qxh4 Qxa3 34. Qe7
+a5 35. g4 Qxb4 36. Qxb4 axb4 37. gxf5 exf5 38. Rb1 Rd3 39. Nh4 Re3 40. Nxf5
+Rxe5 41. Ng3 Nd7 42. Rxb4 Nf6 43. Rh4 Kf7 44. Kg2 Ke6 45. Kf3 Kd6 46. Rh1 b4
+47. Kf4 Ke6 0-1

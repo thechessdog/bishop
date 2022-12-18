@@ -1,0 +1,16 @@
+[Event "BCF-ch op"]
+[Site "Rhyl"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ripley, John M"]
+[Black "Yeeles, WJE."]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "865934cf"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 Be6 6. Nbd2 Nge7 7. g3 Ng6 8. Bg2
+Be7 9. O-O Qd7 10. Qa4 Bh3 11. Bxh3 Qxh3 12. Nxd4 O-O 13. Nxc6 bxc6 14. Nf3 h5
+15. Qxc6 h4 16. Qe4 hxg3 17. hxg3 Rae8 18. Be3 Bd6 19. Ng5 Qc8 20. Qh1 1-0

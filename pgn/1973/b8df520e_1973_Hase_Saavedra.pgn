@@ -1,0 +1,27 @@
+[Event "Pinamar tt"]
+[Site "Pinamar"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Hase, Juan Carlos"]
+[Black "Saavedra, Adolfo"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "b8df520e"]
+[Epoch "Bishop"]
+[WhiteID "100722"]
+[WhiteCountry "ARG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Nc6 7. a3 Be7 8. Bd3
+dxc4 9. Bxc4 O-O 10. O-O a6 11. Bg5 Nd5 12. Bxd5 exd5 13. Bxe7 Nxe7 14. Qb3 Qd6
+15. Rfe1 Be6 16. Na4 b5 17. Nc5 Nf5 18. Qd3 h6 19. Re5 Ne7 20. Rae1 Nc6 21.
+R5e3 Rfe8 22. Nxe6 Rxe6 23. Rxe6 fxe6 24. Qg6 Nd8 25. Rc1 Ra7 26. Qe8+ Kh7 27.
+Rc3 Nf7 28. g3 Qd7 29. Qxd7 Rxd7 30. Rc6 Rd6 31. Rc7 Kg6 32. Kf1 Kf6 33. Ke2 g6
+34. b3 e5 35. dxe5+ Nxe5 36. Nd4 Rd7 37. Rxd7 Nxd7 38. Ke3 Ne5 39. f3 g5 40. g4
+Kg6 41. h3 Kf6 42. Nf5 h5 43. Nd6 hxg4 44. fxg4 Nc6 45. Ne8+ Ke5 46. Nc7 b4 47.
+a4 a5 48. Nb5 Nd8 49. Nd4 Kd6 50. Nf3 Ne6 51. h4 gxh4 52. Nxh4 Kc5 53. Nf3 Kd6
+54. Nd4 Ng5 55. Nf3 Ne6 56. g5 d4+ 57. Kd2 Kd5 58. g6 Kd6 59. Nxd4 Ng7 60. Kd3
+Ke5 61. Nc6+ Kf6 62. Nxa5 Kxg6 63. Nc6 Kf6 64. Nxb4 Ke6 65. Kc4 Kd6 66. Nc2 Ne6
+67. b4 Kc7 68. Nd4 Nf4 69. a5 Kb7 70. b5 Ka7 71. Nb3 Ng6 72. Nc5 Ne5+ 73. Kd5
+Ng4 74. b6+ Kb8 75. a6 Ne3+ 76. Kc6 Ka8 77. b7+ Ka7 78. Nd7 1-0

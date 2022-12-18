@@ -1,0 +1,21 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Garcia Palermo, Carlos"]
+[Black "Paolini, Claudio"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "3915358e"]
+[Epoch "Bishop"]
+[BlackID "129984"]
+[BlackCountry "ARG"]
+[WhiteID "110124"]
+[WhiteCountry "ITA"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Bc5 4. Nf3 d6 5. d4 exd4 6. exd4 Qf6 7. c3 Bb6 8. Bb5
+a6 9. Bxc6+ bxc6 10. O-O Ne7 11. Nbd2 Bf5 12. Re1 O-O 13. Ne4 Bxe4 14. Rxe4 Ng6
+15. Qd2 Rfe8 16. Rae1 Rxe4 17. Rxe4 Kf8 18. c4 d5 19. Re1 dxc4 20. bxc4 Rb8 21.
+Bc3 Rd8 22. Qe3 Ne7 23. Ng5 Ke8 24. c5 Ba7 25. Nxh7 Qe6 26. Qg5 1-0

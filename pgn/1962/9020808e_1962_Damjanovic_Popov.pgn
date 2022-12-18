@@ -1,0 +1,23 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1962.01.01"]
+[Round "2"]
+[White "Damjanovic, Mato"]
+[Black "Popov, Luben"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "9020808e"]
+[Epoch "Bishop"]
+[BlackID "2900173"]
+[BlackCountry "FID"]
+[WhiteCountry "HRV"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. f4 e5 8. f5
+b5 9. a4 Bb7 10. Qe2 Rc8 11. Nd2 Qc7 12. g4 h6 13. Nf1 Nf6 14. Ng3 Bc5 15. h4
+Qd6 16. Bd2 Rd8 17. g5 hxg5 18. hxg5 Rxh1+ 19. Nxh1 Nd7 20. a5 Ba7 21. O-O-O
+Nc5 22. Be3 Nxd3+ 23. Rxd3 Bxe3+ 24. Qxe3 Qb4 25. Rxd8+ Kxd8 26. Nf2 c5 27. c3
+Qc4 28. b3 Qf1+ 29. Kb2 b4 30. cxb4 cxb4 31. Qc5 Qe2+ 32. Kc1 Qe1+ 33. Nd1 Qxe4
+34. Qf8+ Kd7 35. Qxf7+ Kd6 36. Qg6+ Kc7 37. Qxg7+ Kb8 38. Qf8+ Bc8 39. f6 Qf4+
+40. Kb1 1-0

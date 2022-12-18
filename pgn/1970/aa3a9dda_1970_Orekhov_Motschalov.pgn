@@ -1,0 +1,19 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Orekhov, N."]
+[Black "Motschalov"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "aa3a9dda"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. h3 O-O 11. Be3 Be6 12. Bxe6 fxe6 13. Qc4 Qd7 14.
+Ng5 Nd8 15. b4 Rc8 16. Qb3 Nh5 17. Nf3 Qe8 18. Nd2 Nf4 19. Kh2 Qg6 20. g3
+Nh5 21. Rac1 Nf7 22. Qa4 Bg5 23. Bxa7 Qh6 24. Qc2 Bxd2 25. Rxd2 Ng5 26. Be3
+Nf4 27. h4 Nf3+ 28. Kh1 Qh5 29. Bxf4 exf4 30. Qd1 Qg4 31. Kg2 Nxh4+ 0-1
+

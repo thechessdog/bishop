@@ -1,0 +1,19 @@
+[Event "Kislovodsk"]
+[Site "Kislovodsk"]
+[Date "1966.??.??"]
+[Round "11"]
+[White "Hamann, Svend"]
+[Black "Stefanov, P."]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "9a11e21f"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. e5 Nd5 7. d4 cxd4 8. cxd4
+O-O 9. Nc3 Nxc3 10. bxc3 d6 11. exd6 Qxd6 12. a4 Bg4 13. h3 Bxf3 14. Qxf3 Rfc8
+15. Ba3 Qf6 16. Qe4 e6 17. Rab1 Nd8 18. Qe3 Bf8 19. Bb2 Rc7 20. Bd3 Nc6 21. c4
+Qd8 22. Rfd1 Rd7 23. Be2 Bg7 24. d5 exd5 25. Bxg7 Kxg7 26. cxd5 Rxd5 1/2-1/2

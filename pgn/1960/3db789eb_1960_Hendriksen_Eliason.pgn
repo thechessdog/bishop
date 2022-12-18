@@ -1,0 +1,21 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Hendriksen, A."]
+[Black "Eliason, D."]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "3db789eb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. a3 Bb7 12. h4 Nc5 13. Bxf6 Bxf6 14. g5
+Bxd4 15. Rxd4 O-O-O 16. Bh3 Kb8 17. Rhd1 g6 18. Qe3 Bc6 19. Bf1 h6 20. b4
+Nb7 21. R4d2 hxg5 22. hxg5 Rc8 23. a4 a5 24. axb5 Be8 25. Na2 axb4 26. Nxb4
+Qa5 27. Na6+ Ka8 28. Kb2 Bxb5 29. Ra1 Bxf1 30. Nb4 Rc5 31. Rdd1 Rh1 32. Qd4
+Rb5 33. Kc1 Qxa1+ 34. Qxa1+ Kb8 35. Qd4 Kc7 36. Qc3+ Kb6 37. Qe3+ Kc7 38.
+Na6+ Kc6 39. Qf3 Bg2 40. Qxg2 1-0
+

@@ -1,0 +1,18 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1954.01.01"]
+[Round "6"]
+[White "Rabar, Braslav"]
+[Black "Nedeljkovic, Strecko"]
+[Result "1/2-1/2"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "c9c8c811"]
+[Epoch "Bishop"]
+[WhiteCountry "HRV"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 c5 6. Be2 b6 7. O-O Bxc3 8. bxc3
+Nc6 9. Qc2 d6 10. e4 Qc7 11. Bg5 Nd7 12. e5 f6 13. exf6 Nxf6 14. d5 exd5 15.
+cxd5 Ne7 16. c4 Bf5 17. Bd3 Bxd3 18. Qxd3 h6 1/2-1/2

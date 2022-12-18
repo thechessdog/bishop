@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Shashin"]
+[Black "Aronin, Lev Solomonovich"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "a662106b"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 gxf6 5. e3 e6 6. Bd3 Bg6 7. h4 c5 8.
+Bb5+ Ke7 9. h5 Be4 10. f3 Bf5 11. g4 Bh6 12. dxc5 Bxe3 13. gxf5 d4 14. Ke2 Bxg1
+15. Rxg1 dxc3 16. b4 Qc7 17. Qd6+ Qxd6 18. cxd6+ Kxd6 19. Rad1+ Ke5 20. Ke3
+Kxf5 21. Bf1 1-0

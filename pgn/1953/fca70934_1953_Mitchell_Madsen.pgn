@@ -1,0 +1,21 @@
+[Event "corr Wch1"]
+[Site "corr Wch1"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Mitchell, Graham"]
+[Black "Madsen, Svend"]
+[Result "1/2-1/2"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "fca70934"]
+[Epoch "Bishop"]
+[WhiteID "343113898"]
+[BlackID "1419846"]
+[WhiteCountry "FID"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Be3 Na5 11. dxe5 dxe5 12. Qxd8 Raxd8 13. Nxe5 Bd6 14. Nxg4
+Nxg4 15. h3 Nxe3 16. Rxe3 Bc5 17. Re1 Rd7 18. e5 Rfd8 19. e6 Re7 20. exf7+ Kf8
+21. Kf1 Rd6 22. Rxe7 Kxe7 23. Na3 Nxb3 24. axb3 Rd2 1/2-1/2

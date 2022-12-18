@@ -1,0 +1,22 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bjuhr, Arne"]
+[Black "Runstrom, Harry"]
+[Result "1-0"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical main line"]
+[HashCode "4af681e8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Qc7 8.
+f4 Nc6 9. Be3 Be7 10. Qe1 O-O 11. Qg3 Bd7 12. Rae1 Nxd4 13. Bxd4 Bc6 14.
+Bd3 e5 15. fxe5 Nh5 16. Qh3 dxe5 17. Be3 g6 18. Bh6 Ng7 19. Nd1 Bd7 20. Qg3
+Be6 21. Ne3 Bc5 22. Kh1 f6 23. Ng4 Be7 24. Re2 Bc4 25. Ref2 Bxd3 26. Qxd3
+Rad8 27. Qb3+ Kh8 28. Ne3 Rd7 29. Nd5 Qd8 30. g4 Bc5 31. Rf3 f5 32. Qc4 Ba7
+33. gxf5 Rff7 34. fxg6 Rxf3 35. Rxf3 hxg6 36. Qf1 Bc5 37. b4 Be7 38. Rf7
+Rxd5 39. exd5 Nf5 40. Rxf5 gxf5 41. c4 b5 42. Qxf5 bxc4 43. Qxe5+ Bf6 44.
+Qh5 Kg8 45. Kg2 c3 46. d6 c2 47. Qd5+ Kh7 48. Bf4 Bb2 49. d7 1-0
+

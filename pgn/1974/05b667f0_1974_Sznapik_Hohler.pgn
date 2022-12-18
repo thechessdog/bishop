@@ -1,0 +1,21 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Hohler, Peter"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "05b667f0"]
+[Epoch "Bishop"]
+[BlackID "1300296"]
+[BlackCountry "SUI"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Qh5 g6 13. Qg4 Nxe5 14. Qe4 Bc5 15.
+Be3 Nbc6 16. Rad1 Qb6 17. Kh1 Nxd4 18. Qxe5 Nxb3 19. Ne4 Qb8 20. Nf6+ Kh8 21.
+Qc3 e5 22. axb3 Bxe3 23. Qxe3 Kg7 24. Nh5+ gxh5 25. Qg5+ Kh8 26. Rxf7 1-0

@@ -1,0 +1,24 @@
+[Event "Budapest-ch"]
+[Site "Budapest"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Gasztonyi, Endre"]
+[Black "Szekely, Mihaly"]
+[Result "0-1"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "ffc62e6d"]
+[Epoch "Bishop"]
+[BlackID "785539"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8. Nc3
+Be7 9. Qe2 O-O 10. Rd1 Qc7 11. b3 e5 12. d5 e4 13. dxc6 exf3 14. gxf3 bxc6 15.
+Bb2 Re8 16. Kh1 Bd6 17. Rg1 Bxh2 18. Ne4 Bxg1 19. Nxf6+ gxf6 20. Rxg1+ Kf8 21.
+Bxf6 Bf5 22. Qb2 Qd6 23. Bg5 Re5 24. f4 Be4+ 25. Kh2 Rxg5 26. Rxg5 Qh6+ 27. Kg3
+f6 28. Rg4 Bf5 29. Rh4 Qg6+ 30. Kh2 Ra7 31. f3 Rg7 32. Qf2 Bd3 33. e4 Bxc4 34.
+bxc4 f5 35. e5 Ke8 36. Rh3 Rd7 37. Qg2 Rd4 38. Qxg6+ hxg6 39. Kg3 Rxc4 40. Kh4
+Kf7 41. Kg5 Rc1 42. Rh7+ Ke6 43. Ra7 Rg1+ 44. Kh6 c4 45. Rxa6 Kd5 46. Ra5+ c5
+47. e6 0-1

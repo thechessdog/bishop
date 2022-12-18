@@ -1,0 +1,21 @@
+[Event "Argentina"]
+[Site "Buenos Aires"]
+[Date "1955.01.01"]
+[Round "2"]
+[White "Corte, Cesar Juan"]
+[Black "Behrensen, Jorge"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "1df41d83"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+Be7 9. O-O Be6 10. Qe2 b5 11. Bd2 O-O 12. Kh1 Nbd7 13. a4 Bc4 14. Rfc1 Bxd3 15.
+cxd3 Qb7 16. axb5 axb5 17. b4 Rxa1 18. Rxa1 exf4 19. Ra5 Ra8 20. Rxa8+ Qxa8 21.
+Nxb5 Ne5 22. Bc3 Qa6 23. d4 Neg4 24. Kg1 Bf8 25. e5 dxe5 26. dxe5 Nd5 27. Bd2
+Qa1+ 28. Qe1 Qxe1+ 29. Bxe1 Nxb4 30. h3 Ne3 31. Bd2 Bc5 32. Kh1 Nd3 33. Bxe3
+fxe3 34. Nc3 Nc1 35. g3 e2 36. Kg2 e1=Q 37. Nxe1 Bb4 38. Kf3 Bxc3 0-1

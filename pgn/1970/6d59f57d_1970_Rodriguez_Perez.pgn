@@ -1,0 +1,21 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Leon Rodriguez, Orlando"]
+[Black "Perez Perez, Francisco Jose"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "6d59f57d"]
+[Epoch "Bishop"]
+[WhiteID "2210665"]
+[WhiteCountry "ESP"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. a3 Bb7 14. Bh3 Qc4 15.
+Rhe1 O-O 16. Bf1 Qc5 17. h4 Rfc8 18. f5 Ne5 19. Qg3 exf5 20. exf5 b4 21. axb4
+Qxb4 22. f6 Bf8 23. Nb3 a5 24. Rd4 Qb6 25. Re3 Bc6 26. fxg7 Bxg7 27. Rxd6 a4
+28. Nd5 Qa7 29. Nf6+ Kh8 30. Nd4 a3 31. bxa3 Bf8 32. Qxe5 Bxd6 33. Qf5 Bxa3+
+34. Kb1 Rcb8+ 35. Nb3 Rxb3+ 36. cxb3 Be4+ 37. Qxe4 1-0

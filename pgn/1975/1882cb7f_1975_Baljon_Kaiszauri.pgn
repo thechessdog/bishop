@@ -1,0 +1,25 @@
+[Event "Bad Meinberg"]
+[Site "Bad Meinberg"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Baljon, Christofoor"]
+[Black "Kaiszauri, Konstanty"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "1882cb7f"]
+[Epoch "Bishop"]
+[WhiteID "1000772"]
+[BlackID "1700510"]
+[WhiteCountry "NED"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Bg5 Nc6 8. Qd2
+e5 9. dxe5 dxe5 10. Qxd8 Nxd8 11. Bxf6 Bxf6 12. Nd5 Bg7 13. Nxc7 Rc8 14. Nb5
+Rxc2 15. Bd1 Rxb2 16. Bb3 Be6 17. Nxa7 Bxb3 18. axb3 Rxb3 19. Rfb1 Rxb1+ 20.
+Rxb1 f6 21. Kf1 Rf7 22. Rd1 Ne6 23. Rd6 Nc5 24. Nd2 Bf8 25. Rd8 Ne6 26. Rb8 Rd7
+27. Nc4 Kf7 28. Nc8 Nc5 29. N8b6 Rd1+ 30. Ke2 Rc1 31. Ne3 Rb1 32. Nec4 Rc1 33.
+Ne3 Rb1 34. Nec4 h5 35. Rc8 Nxe4 36. Rc7+ Ke6 37. Rxb7 Bc5 38. f3 Nd6 39. Rc7
+Bxb6 40. Rc6 Bc5 41. Rxc5 Rc1 42. Kd3 Rxc4 43. Rxc4 Nxc4 44. Kxc4 Kd6 45. g3
+Kc6 0-1

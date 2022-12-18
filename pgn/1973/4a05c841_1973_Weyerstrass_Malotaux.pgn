@@ -1,0 +1,17 @@
+[Event "LarenI-DBCI jr"]
+[Site "LarenI-DBCI jr"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Malotaux"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "4a05c841"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 O-O 5. e4 h6 6. Bxf6 Qxf6 7. Nf3 Nc6 8. e5
+Qf4 9. Bd3 Nxd4 10. Nxd4 Qxd4 11. Bh7+ Kxh7 12. Qxd4 f5 13. O-O-O b6 14. g4 Bb7
+15. Rhg1 Bf3 16. Rd3 Bxg4 17. Rdg3 Rf7 18. Rxg4 Rd8 19. R4g2 c6 20. Qh4 f4 21.
+Qxd8 1-0

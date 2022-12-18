@@ -1,0 +1,22 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Kovacs"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "dc6730b0"]
+[Epoch "Bishop"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Bd2 b4 11. c3 a5 12. Qc2 d5 13. Bg5 bxc3 14. bxc3 dxe4 15.
+dxe4 Nd7 16. Bc1 Bc5 17. Bd5 Qc8 18. Rd1 Nd8 19. Bxb7 Nxb7 20. Nbd2 Nd6 21. Nb3
+f6 22. Rd5 Ba7 23. Ba3 Nb6 24. Bxd6 cxd6 25. Rxd6 Qc7 26. Rd3 Nc4 27. Nbd2 Nxd2
+28. Nxd2 Kh8 29. Rd1 h6 30. Nf1 Rf7 31. Ng3 Rc8 32. h4 Bc5 33. h5 Bf8 34. Nf5
+Qc4 35. Rd8 Rxd8 36. Rxd8 Kh7 37. Kh2 g6 38. hxg6+ Kxg6 39. Ne3 Qc6 40. Nf5 Kh7
+41. Qa2 Qc7 42. Qe6 1-0

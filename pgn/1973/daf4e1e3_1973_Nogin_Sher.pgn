@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Nogin"]
+[Black "Sher"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "daf4e1e3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O cxd4 8.
+exd4 dxc4 9. Bxc4 b6 10. Qd3 Bb7 11. Bg5 Nbd7 12. Rad1 Qb8 13. Rfe1 h6 14.
+Bh4 Nh5 15. Bb5 Ndf6 16. Bxf6 Nxf6 17. Ne5 Qd6 18. Ba4 Rfd8 19. Bc2 Rac8
+20. Re3 Bxc3 21. bxc3 Qa3 22. Rg3 Qxa2 23. Nxf7 Be4 24. Nxh6+ Kh7 25. Qb5
+gxh6 26. Bb3 Qb2 27. Qb4 Rc7 28. Qa4 Rxc3 29. Bxe6 Rxg3 30. hxg3 a5 31. f3
+Bc2 32. Qc4 Bxd1 33. Qc7+ Rd7 0-1
+

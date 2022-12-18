@@ -1,0 +1,16 @@
+[Event "Vilnius tt"]
+[Site "Vilnius tt"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Veresov, Gavriil"]
+[Black "Lutikov, Anatoly S"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "ace4b922"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 c6 5. e3 Qa5 6. Bd3 Ne4 7. O-O Ndf6 8.
+Nxe4 dxe4 9. Bxf6 exf3 10. Be5 fxg2 11. Re1 f6 12. Bg3 g6 13. Bc4 h5 14. Qd3 h4
+15. Qxg6+ Kd8 16. Bxh4 Rxh4 17. Qg8 Kc7 18. Qg3+ 1-0

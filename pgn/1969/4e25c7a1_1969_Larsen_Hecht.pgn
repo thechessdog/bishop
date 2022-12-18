@@ -1,0 +1,20 @@
+[Event "Busum"]
+[Site "Busum"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Larsen, Bent Ravn"]
+[Black "Hecht, Hans-Joachim"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "English variation"]
+[HashCode "4e25c7a1"]
+[Epoch "Bishop"]
+[WhiteID "1430670"]
+[BlackID "4600320"]
+[WhiteCountry "DNK"]
+[BlackCountry "DEU"]
+
+1. b3 c5 2. c4 Nc6 3. Bb2 e5 4. g3 d6 5. Bg2 g6 6. e3 Bg7 7. Nc3 Nge7 8. Nge2
+O-O 9. d3 Be6 10. Nd5 Rb8 11. Qd2 Qd7 12. h4 h5 13. Nec3 a6 14. O-O-O b5 15. f4
+Bg4 16. Rdf1 Nxd5 17. Nxd5 Ne7 1/2-1/2

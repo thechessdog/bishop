@@ -1,0 +1,19 @@
+[Event "Skopje/Ohrid"]
+[Site "Skopje"]
+[Date "1968.01.01"]
+[Round "12"]
+[White "Matulovic, Milan"]
+[Black "Nicevski, Risto"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "eee7e979"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "MKD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Bd7 8. Nf3
+Qa5 9. Qd2 Nc6 10. Bd3 Be7 11. O-O h6 12. Bh4 g5 13. fxg5 hxg5 14. Bxg5 O-O-O
+15. Nd1 Qc5+ 16. Qf2 Qa5 17. Ne3 Nd4 18. h4 Qc5 19. Nxd4 Qxd4 20. Nc4 Qxf2+ 21.
+Rxf2 Ng4 22. Bxe7 Nxf2 23. Bxd8 Nxd3 24. Bf6 1-0

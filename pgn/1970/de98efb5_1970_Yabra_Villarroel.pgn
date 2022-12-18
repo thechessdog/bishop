@@ -1,0 +1,17 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Yabra, Freddy"]
+[Black "Villarroel, Geber"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "de98efb5"]
+[Epoch "Bishop"]
+[BlackID "3900061"]
+[BlackCountry "VEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Nbd2 Bb7 5. Bd3 d5 6. O-O Be7 7. c3 O-O 8. Re1
+Nbd7 9. e4 Nxe4 10. Nxe4 dxe4 11. Bxe4 Bxe4 12. Rxe4 Nf6 13. Re1 c5 1/2-1/2

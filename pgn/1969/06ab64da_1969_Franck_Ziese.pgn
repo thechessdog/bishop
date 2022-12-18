@@ -1,0 +1,21 @@
+[Event "Wuppertal"]
+[Site "Wuppertal"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Franck, R."]
+[Black "Ziese, G."]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, fianchetto variation"]
+[HashCode "06ab64da"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 g6 6. Nc3 Bg7 7. Be3 O-O 8.
+Be2 c6 9. Rc1 Bd7 10. Nf3 Bg4 11. O-O N8d7 12. h3 Bxf3 13. Rxf3 d5 14. c5
+Nc8 15. f5 gxf5 16. Rxf5 e6 17. Rh5 f5 18. Bg5 Qe8 19. Qd2 Rf7 20. Rf1 Ne7
+21. Bd1 Ng6 22. Ne2 Ndf8 23. Bh6 Rd8 24. Rf3 Rdd7 25. Rg3 Qc8 26. Bxg7 Rxg7
+27. Qh6 b6 28. Rhg5 bxc5 29. Nf4 cxd4 30. Nh5 Qc7 31. Nf6+ Kf7 32. Bh5 Rd8
+33. Nxh7 Qxe5 34. Nxf8 Rxf8 35. Bxg6+ Ke7 36. h4 Kd6 37. Bxf5 Qe1+ 38. Kh2
+Rgf7 39. Rf3 Qe5+ 40. Kh3 Rxf5 41. Qxf8+ Rxf8 42. Rxf8 Qe2 43. b4 d3 0-1
+

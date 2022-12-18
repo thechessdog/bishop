@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kuchta"]
+[Black "Mocary"]
+[Result "1-0"]
+[ECO "D28"]
+[Opening "QGA"]
+[Variation "classical, 7.Qe2"]
+[HashCode "4a66e918"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 Nbd7 8.
+Nc3 b5 9. Bb3 Bb7 10. Rd1 Qb8 11. e4 cxd4 12. Nxd4 Bd6 13. h3 b4 14. Na4
+Bxe4 15. Nxe6 fxe6 16. Bxe6 Bh2+ 17. Kh1 Qe5 18. Qc4 Rd8 19. f3 Bb7 20. f4
+Qb5 21. Kxh2 Qxa4 22. Re1 Kf8 23. Qc7 Re8 24. Qd6+ Re7 25. Bb3 1-0
+

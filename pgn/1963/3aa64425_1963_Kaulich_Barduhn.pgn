@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Kaulich, K."]
+[Black "Barduhn"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "3aa64425"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Bg6
+8. h4 Be4 9. Nxe4 Nxe4 10. Qf3 Nd6 11. c4 Qf6 12. Bf4 c6 13. c5 Nc8 14. Qe4
+Qd8 15. Bc4 Ne7 16. Nxf7 Kxf7 17. Qxe6+ Ke8 18. Qf7+ Kd7 19. Be6# 1-0
+

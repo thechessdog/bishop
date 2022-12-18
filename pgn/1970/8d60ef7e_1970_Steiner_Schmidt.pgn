@@ -1,0 +1,21 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "19"]
+[White "Steiner, Ulrich A"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "8d60ef7e"]
+[Epoch "Bishop"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 d6 8. O-O
+Bd7 9. a4 Nf6 10. Nde2 Be7 11. b3 O-O 12. Ba3 Rfd8 13. Qd2 Be8 14. Qe3 Rab8 15.
+h3 b5 16. axb5 axb5 17. Bb2 b4 18. Na4 e5 19. Rfd1 Na5 20. Rd2 Bc6 21. Kh2 Qb7
+22. f3 Nd7 23. Nc1 Ra8 24. Qe1 Nc4 25. bxc4 Rxa4 26. Rxa4 Bxa4 27. Nb3 Qc7 28.
+Bf1 Nb6 29. Qa1 Ra8 30. c5 Bxb3 31. cxd6 Bxd6 32. Qd1 Bc4 33. Rxd6 Bxf1 34.
+Bxe5 Qc8 35. Qxf1 Nc4 0-1

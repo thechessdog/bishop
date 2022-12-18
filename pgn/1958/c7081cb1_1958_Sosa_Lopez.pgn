@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Sosa, A."]
+[Black "Lopez Jorge"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, Geller variation"]
+[HashCode "c7081cb1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 e5 10. Nf5 Bxf5 11. exf5 exf4 12. Bxf4 Qa5 13. g4 Rac8
+14. g5 Nb4 15. Qd4 Rxc3 16. bxc3 Nxa2+ 17. Kb2 d5 18. gxf6 Qa3+ 19. Kb1
+Bxf6 20. Qxf6 gxf6 0-1
+

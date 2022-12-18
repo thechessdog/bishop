@@ -1,0 +1,21 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Benner, H."]
+[Black "Mayer, K."]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "b08184e4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8.
+Bd2 Nxd2 9. Qxd2 Nc6 10. a3 Bxc3 11. Nxc3 Qf6 12. O-O-O O-O 13. b4 Bd7 14.
+f4 h5 15. Be2 Qh6 16. g4 hxg4 17. Bxg4 f5 18. Bf3 Ne7 19. Rdg1 Kf7 20. Rg5
+Rh8 21. h4 Rag8 22. h5 Qf6 23. b5 g6 24. hxg6+ Nxg6 25. Bh5 Kf8 26. Rhg1
+Ne7 27. Qf2 Rxg5 28. Rxg5 Rh6 29. a4 Qh8 30. Bf3 Rh2 31. Rg2 Rh4 32. Qe3
+Qh6 33. Ne2 Ng6 34. Rg5 Kf7 35. Qg1 Kf6 36. Rxg6+ Qxg6 37. Qe1 Rh8 38. Qa5
+Qe8 39. Qxa7 Rh3 40. Qxb7 Rxf3 41. c6 Qf8 0-1
+

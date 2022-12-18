@@ -1,0 +1,22 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Estimo, Samuel"]
+[Black "Resende, A."]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "e6ad30ad"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. f4 dxe5 5. fxe5 Nc6 6. c4 Nb6 7. Be3 Bf5 8. Nf3
+e6 9. Bd3 Bg4 10. O-O Be7 11. Nc3 Qd7 12. h3 Bh5 13. g4 Bg6 14. d5 Nb4 15. Bxg6
+hxg6 16. a3 Nxc4 17. dxe6 Qxe6 18. Nd4 Qd7 19. Qf3 Bc5 20. e6 fxe6 21. Qe4
+O-O-O 22. axb4 Bxd4 23. Bxd4 Qxd4+ 24. Qxd4 Rxd4 25. Nb5 Rd7 26. Rxa7 Kb8 27.
+Raa1 c6 28. Na3 Nxa3 29. Rxa3 Rhd8 30. Re3 Re7 31. Rfe1 Rd6 32. Re5 b5 33. Rg5
+Kc7 34. Rxg6 Kd7 35. Ra1 Ke8 36. Ra8+ Kf7 37. Rg5 Rd5 38. Rxd5 exd5 39. Rc8 Re6
+40. Kf2 g6 41. Kf3 Ke7 42. h4 d4 43. Ra8 Re1 44. Ra3 Ke6 45. Kf4 Kd5 46. Kg5
+Re6 47. Rd3 Kc4 48. Rd2 d3 49. Rd1 Kd4 50. Kf4 Rf6+ 51. Kg5 Re6 52. Kf4 Re2 53.
+h5 gxh5 54. gxh5 Rh2 55. Kg5 d2 56. h6 Kd3 57. Ra1 Kc2 58. b3 d1=Q 0-1

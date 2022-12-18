@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Freeman"]
+[Black "Mednis"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto with ...Nc6"]
+[HashCode "5d49b4a2"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nc6 7. e4 Bg4 8.
+h3 Bxf3 9. Bxf3 Nd7 10. Be3 Na5 11. Qa4 c5 12. d5 a6 13. Bd2 Ne5 14. Be2
+Naxc4 15. Bxc4 b5 16. Bxb5 axb5 17. Qc2 b4 18. Nd1 Nf3+ 19. Kf1 Rxa2 20.
+Rb1 Qa5 21. Kg2 b3 0-1
+

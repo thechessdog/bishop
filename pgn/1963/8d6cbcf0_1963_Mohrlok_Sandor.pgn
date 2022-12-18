@@ -1,0 +1,19 @@
+[Event "Hoogovens-B"]
+[Site "Beverwijk"]
+[Date "1963.01.01"]
+[Round "2"]
+[White "Mohrlok, Dieter"]
+[Black "Sandor, Bela"]
+[Result "1/2-1/2"]
+[ECO "C76"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, fianchetto (Bronstein) variation"]
+[HashCode "8d6cbcf0"]
+[Epoch "Bishop"]
+[WhiteID "4600339"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 g6 7. dxe5 Nxe5 8. Nxe5
+dxe5 9. O-O Bxa4 10. Qxa4+ Qd7 11. Qc4 Bh6 12. Na3 Bxc1 13. Raxc1 Nf6 14. Qb4
+O-O-O 15. Nc4 Rhe8 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1975.07.01"]
+[Round "9"]
+[White "Ree, Hans"]
+[Black "Makarichev, Sergey"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "81ee512b"]
+[Epoch "Bishop"]
+[WhiteID "1000098"]
+[WhiteCountry "NED"]
+[BlackID "4100468"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 Be4 10. b3 f5 11. Bb2 Bf6 12. Rad1 d6 13. Ne1 Bxg2 14. Nxg2 Nc6
+15. Qf3 Qd7 16. e4 fxe4 17. Qxe4 Rae8 18. Rfe1 d5 19. Qc2 g6 20. Ne3 Bg7 21. f4
+Rd8 22. Kg2 dxc4 23. Qxc4 Nxd4 24. Bxd4 Bxd4 25. Ng4 c5 1/2-1/2

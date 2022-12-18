@@ -1,0 +1,18 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Bonsdorff"]
+[Black "Liipola"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "7ae76098"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 e6 3. e4 Bb4 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 Nxe4 7. Qxh7 Rg6
+8. Qh8+ Kd7 9. Qxd8+ Kxd8 10. Bd2 Nxd2 11. Kxd2 c5 12. a3 cxd4 13. axb4
+dxc3+ 14. bxc3 Nc6 15. Nf3 e5 16. b5 e4 17. bxc6 exf3 18. cxb7 fxg2 19.
+bxa8=Q gxh1=Q 20. Qxc8+ Kxc8 21. Bh3+ 1-0
+

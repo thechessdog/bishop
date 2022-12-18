@@ -1,0 +1,17 @@
+[Event "Normandy"]
+[Site "Normandy"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Derouineau"]
+[Black "Noblesse"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "18001595"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 Nxe4 4. Nxe4 dxe4 5. f3 exf3 6. Nxf3 e6 7. Bd3 c5
+8. O-O Be7 9. Be3 cxd4 10. Bxd4 Bf6 11. Bxf6 Qxf6 12. c3 Qe7 13. Qc2 Nd7
+14. Rad1 Nf6 15. Kh1 O-O 16. Ne5 h6 17. Rf3 Nd7 18. Rxf7 Qe8 19. Bh7+ Kh8
+20. Rdf1 1-0
+

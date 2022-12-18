@@ -1,0 +1,22 @@
+[Event "Nordre Birk"]
+[Site "Lyngby"]
+[Date "1974.??.??"]
+[Round "4"]
+[White "Jensen, Allan"]
+[Black "Fedder, Steen"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "ca0403ac"]
+[Epoch "Bishop"]
+[WhiteID "1401181"]
+[BlackID "1400126"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qc7 10. Qg3 Nc6 11. Nf5 exf5 12. Qxg7 Rf8 13. Bg5 b4 14. Bxf6 bxc3
+15. exf5 Bxf5 16. Ba4 O-O-O 17. Rfe1 Ne5 18. Bxe7 Qxe7 19. Re3 Qh4 20. Rxc3+
+Kb8 21. Rb3+ Ka7 22. f4 Rg8 23. Bc6 Rxg7 24. Rb7+ Ka8 25. fxe5 Qd4+ 26. Kh1 Be4
+27. Rb4+ Bxc6 28. Rxd4 Rxg2 29. Rxd6 Rxd6 0-1

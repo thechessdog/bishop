@@ -1,0 +1,22 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Fink"]
+[Black "Schober"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "2d02c00c"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. e4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 f6 9. exf6 Qxf6 10. Nf3 Bd6 11. O-O e5 12. Bg5 Qf7 13. dxe5 Ndxe5 14.
+Nxe5 Bxe5 15. Qc2 Bxh2+ 16. Kxh2 Qh5+ 17. Kg1 Qxg5 18. Nc3 Be6 19. Rae1 Kd7
+20. f4 Qf6 21. Bb5 Kc7 22. Re5 Rad8 23. Rd1 Kb8 24. Bxc6 bxc6 25. Na4 Rd6
+26. Nc5 Bc8 27. Rd4 Qd8 28. Rb4+ Ka8 29. Qb3 Bd7 30. Na6 c5 31. Rb8+ Qxb8
+32. Nxb8 Rxb8 33. Qa3 Rb5 34. Re7 d4 35. Qf3+ Bc6 36. Qg4 Rg6 37. Qc8+ Rb8
+38. Qc7 Rxg2+ 39. Kf1 Bb7 40. Qxc5 Rxb2 41. Qxd4 Bg2+ 42. Kg1 Rxa2 43. Rxg7
+Rb1+ 0-1
+

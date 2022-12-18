@@ -1,0 +1,17 @@
+[Event "USA-op52"]
+[Site "Forth Worth"]
+[Date "1951.??.??"]
+[Round "3"]
+[White "Weiner, Milan"]
+[Black "Westbrock, C."]
+[Result "0-1"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "0ee2297e"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4
+8. Bxc4 c5 9. Ne2 e5 10. d5 Nbd7 11. Bb3 e4 12. c4 b5 13. cxb5 Qa5+ 14. Bd2
+Qxb5 15. Nc3 Qa6 16. Qc2 Ne5 17. Nxe4 Nd3+ 0-1
+

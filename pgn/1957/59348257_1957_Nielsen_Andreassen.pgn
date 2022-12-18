@@ -1,0 +1,19 @@
+[Event "Kalundborg"]
+[Site "Kalundborg"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Nielsen, E Verner"]
+[Black "Andreassen, MA."]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "59348257"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Ne2 d6 3. c4 Nf6 4. Nbc3 a6 5. d4 cxd4 6. Nxd4 e5 7. Nc2 Be7 8.
+Be2 O-O 9. O-O Nbd7 10. Be3 Nc5 11. f3 Ne8 12. Nd5 Bg5 13. Qd2 Bxe3+ 14.
+Qxe3 f5 15. Rad1 f4 16. Nxf4 Nxe4 17. Nd3 N4f6 18. c5 Qc7 19. Rd2 Nd5 20.
+Qf2 dxc5 21. Qxc5 Qxc5+ 22. Nxc5 Nb6 23. Ne3 Rf6 24. Nc4 Nxc4 25. Bxc4+ Kf8
+26. Re1 Rc6 27. Rxe5 b6 28. Rd8 Bb7 29. Rexe8# 1-0
+

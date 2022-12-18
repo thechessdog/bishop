@@ -1,0 +1,17 @@
+[Event "Orebro"]
+[Site "Orebro"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Johannsson, Ingi Randver"]
+[Black "Liliestrom, M."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "4f750126"]
+[Epoch "Bishop"]
+[WhiteCountry "ISL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5 8.
+Nh3 Qd8 9. Nf4 Nc6 10. Qg4 g6 11. O-O-O Nf8 12. Qg3 Qe7 13. Nfxd5 exd5 14. Nxd5
+Qd8 15. Nf6+ Ke7 16. Qa3+ Ke6 17. Bc4+ 1-0

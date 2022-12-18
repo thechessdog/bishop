@@ -1,0 +1,21 @@
+[Event "World Student tt"]
+[Site "World Student tt"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Verber, Richard William"]
+[Black "Segal, Alexandru Sorin"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "30c540b2"]
+[Epoch "Bishop"]
+[BlackID "2100150"]
+[BlackCountry "BRA"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 c5 7. d5 e6 8. Nc3
+exd5 9. cxd5 Qh4+ 10. g3 Qd4 11. Bf4 g5 12. Bxg5 Qxe5+ 13. Qe2 Bg7 14. O-O-O
+Qxe2 15. Ngxe2 Bg4 16. Bg2 O-O 17. h3 Bxe2 18. Nxe2 Nc4 19. b3 Ne5 20. Nf4 c4
+21. Kb1 Nbd7 22. d6 a5 23. Nd5 cxb3 24. axb3 a4 25. b4 a3 26. Ka2 Kh8 27. Rc1
+Nd3 28. Rc7 Rfe8 29. Be7 Rec8 30. Rd1 N7e5 31. Bf1 Nb2 32. Rdc1 Rg8 33. Nb6
+Nbd3 34. Bxd3 Nxd3 35. Nxa8 Bb2 36. R1c4 Rxa8 37. d7 b5 38. Rc8+ 1-0

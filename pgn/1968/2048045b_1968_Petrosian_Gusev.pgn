@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Petrosian, Arshak B"]
+[Black "Gusev"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "2048045b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bf4 O-O 7. Qd2 a6 8.
+O-O-O b5 9. f3 b4 10. Nd5 Nxd5 11. exd5 a5 12. g4 Bb7 13. Nf5 Bf6 14. h4 Qd7
+15. Bg5 Qd8 16. Re1 Nd7 17. Re7 Kh8 18. Rxd7 Bxb2+ 19. Kxb2 Qxd7 20. Bf6 Rg8
+21. Qh6 1-0

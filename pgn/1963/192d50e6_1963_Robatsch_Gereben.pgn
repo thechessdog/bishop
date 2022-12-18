@@ -1,0 +1,25 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1963.01.01"]
+[Round "8"]
+[White "Robatsch, Karl"]
+[Black "Gereben, Erno"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "192d50e6"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 Bf6 9. b3 b5 10. a4 O-O 11. Bb2 Re8 12. Re1 Nf8 13. d4 Bg4 14. h3 Bxf3 15.
+Nxf3 Ng6 16. dxe5 Nxe5 17. Nxe5 Bxe5 18. Bxe5 Rxe5 19. axb5 axb5 20. Rxa8 Qxa8
+21. Qd7 h6 22. Qxc7 Qe8 23. Rd1 Kh7 24. Rd8 Qe6 25. Rd6 Qe8 26. f3 Rc5 27. Rd7
+Qe6 28. Rd2 Qf6 29. Qg3 Rg5 30. Qf2 Qf4 31. Re2 Rg6 32. Qe3 Qh4 33. Kf1 Rd6 34.
+Rd2 Rxd2 35. Qxd2 Qf6 36. Qd7 Qc3 37. Qd3 Qe5 38. b4 Qa1+ 39. Kf2 Qb2 40. Qd2
+h5 41. Ke3 Qa3+ 42. Kf4 Qb2 43. Ke3 Qa1 44. f4 f6 45. c3 Qg1+ 46. Kf3 Qf1+ 47.
+Qf2 Qc4 48. Qe3 Kg8 49. Kg3 Qf1 50. e5 fxe5 51. fxe5 h4+ 52. Kxh4 Qxg2 53. e6
+Kf8 54. Qf4+ Ke7 55. Qg5+ Qxg5+ 56. Kxg5 Kxe6 57. Kg6 Kd5 58. Kxg7 Kc4 59. h4
+Kxc3 60. h5 Kxb4 61. h6 c5 62. h7 c4 63. h8=Q c3 64. Qh2 1-0

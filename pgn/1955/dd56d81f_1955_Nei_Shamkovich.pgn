@@ -1,0 +1,19 @@
+[Event "Lugansk"]
+[Site "Lugansk"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Nei, Iivo"]
+[Black "Shamkovich, Leonid"]
+[Result "0-1"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "dd56d81f"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteID "4500059"]
+[WhiteCountry "EST"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 g6 5. h4 h6 6. e3 Bg7 7. Bc4 Nb6 8. Bb3
+c5 9. Ne4 c4 10. Bxc4 Nxc4 11. Qa4+ Nc6 12. Qxc4 Bf5 13. Nc5 Rc8 14. g4 b5 15.
+Qxb5 Bxg4 16. Nh2 Bf5 17. e4 O-O 18. exf5 Qd5 19. O-O gxf5 20. d3 Nd4 0-1

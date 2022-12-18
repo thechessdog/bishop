@@ -1,0 +1,20 @@
+[Event "Leipzig olm fin-C"]
+[Site "Leipzig olm"]
+[Date "1960.10.01"]
+[Round "5"]
+[White "Casa, Alex"]
+[Black "Garcia Soruco, Julio"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "d97eb365"]
+[Epoch "Bishop"]
+[WhiteID "602515"]
+[WhiteCountry "FRA"]
+[BlackID "3301362"]
+[BlackCountry "BOL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. a3 Bb7 11. Bxf6 Nxf6 12. g4 Rc8 13. Bd3 d5 14. e5 Bxa3 15.
+Ncxb5 Bxb2+ 16. Kxb2 axb5 17. exf6 Qc3+ 18. Kb1 O-O 19. Qh3 h6 20. g5 1-0

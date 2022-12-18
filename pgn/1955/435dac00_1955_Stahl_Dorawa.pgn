@@ -1,0 +1,20 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Stahl, F."]
+[Black "Dorawa"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "435dac00"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nf6 6. Ne2 O-O 7. O-O b6
+8. Bg5 Bb7 9. Ng3 Nbd7 10. Nce2 Re8 11. Nf5 Bf8 12. Re1 Qc8 13. f3 c5 14.
+c3 Qc6 15. Qd2 Ne4 16. fxe4 dxe4 17. d5 Qxd5 18. Bb5 Qxd2 19. Bxd2 Red8 20.
+Bg5 f6 21. Bc4+ Kh8 22. Bf4 g6 23. Nd6 Bxd6 24. Bxd6 Kg7 25. Nf4 Rh8 26.
+Ne6+ Kh6 27. Re3 g5 28. Rd1 Kg6 29. Nc7 Rac8 30. Nd5 Rce8 31. Ne7+ Kg7 32.
+Bb5 Rd8 33. Bc7 1-0
+

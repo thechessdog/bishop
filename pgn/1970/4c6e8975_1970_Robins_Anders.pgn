@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Robins, E."]
+[Black "Anders, W."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "4c6e8975"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 d5 4. Bxd5 Nf6 5. Bb3 Nxe4 6. Nxe5 Nxf2 7. Qh5+
+g6 8. Bf7+ Ke7 9. Qg5+ Kd6 10. Qxd8+ 1-0
+

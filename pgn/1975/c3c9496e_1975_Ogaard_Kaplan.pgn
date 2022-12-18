@@ -1,0 +1,15 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Ogaard"]
+[Black "Kaplan, Julio"]
+[Result "1/2-1/2"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "c3c9496e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Be7 7. d5 O-O 8. Ng3
+Re8 9. Be2 exd5 10. cxd5 c6 11. e4 cxd5 12. exd5 Bd6 1/2-1/2

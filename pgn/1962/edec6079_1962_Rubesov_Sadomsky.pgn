@@ -1,0 +1,19 @@
+[Event "corr ch5-SU"]
+[Site "corr ch5-SU"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Rubesov"]
+[Black "Sadomsky"]
+[Result "0-1"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "edec6079"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. O-O Be7
+8. Be3 O-O 9. Bb3 Bd7 10. f4 Nxd4 11. Bxd4 Bc6 12. Qe2 b5 13. Rad1 b4 14.
+e5 bxc3 15. exf6 Bxf6 16. Bxf6 gxf6 17. f5 cxb2 18. fxe6 fxe6 19. Kh1 Kh8
+20. Qxe6 Qb6 21. Qf5 Rae8 22. Rfe1 Rxe1+ 23. Rxe1 Qd4 24. Qf1 Be4 25. Qg1
+Qe5 26. Qf2 d5 27. Kg1 Rg8 28. g3 f5 29. Kf1 f4 30. Qxf4 Bg2+ 0-1
+

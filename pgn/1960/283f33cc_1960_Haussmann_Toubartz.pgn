@@ -1,0 +1,18 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Haussmann, B."]
+[Black "Toubartz, H."]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "283f33cc"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. e5 Nfd7 6. c4 Nb6 7. cxd5 Nxd5
+8. Ne4 Nd7 9. Bc4 cxd4 10. O-O N7b6 11. Bb5+ Bd7 12. Nxd4 a6 13. Bg5 Be7
+14. Nxe6 fxe6 15. Nd6+ Kf8 16. Qh5 g6 17. Qf3+ Nf6 18. Nxb7 Qc7 19. exf6
+Bd6 20. Nxd6 Qxd6 21. Bf4 Qd5 22. Qa3+ 1-0
+

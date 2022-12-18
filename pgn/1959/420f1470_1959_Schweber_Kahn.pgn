@@ -1,0 +1,17 @@
+[Event "Buenos Aires VC"]
+[Site "Buenos Aires"]
+[Date "1959.01.01"]
+[Round "3"]
+[White "Schweber, Samuel"]
+[Black "Kahn, J."]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "420f1470"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 d5 4. Qh5+ g6 5. Qxd5 Nf6 6. Qxd8+ Kxd8 7. Bg5 Bf5
+8. h3 h5 9. O-O-O Nbd7 10. Bc4 Bh6 11. Bxh6 Rxh6 12. Nge2 e6 13. Rhe1 c6 14.
+Ng3 Ke7 15. Ncxe4 Rg8 16. Nxf6 1-0

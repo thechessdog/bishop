@@ -1,0 +1,17 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Jovic, I."]
+[Black "Drcar, J."]
+[Result "1-0"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, siesta variation"]
+[HashCode "4492fe28"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. d4 e4 8.
+Ng5 d5 9. f3 Be7 10. fxe4 dxe4 11. O-O Nh6 12. Nf7 Kxf7 13. Bxh6 Kg6 14.
+Rxf5 Kxf5 15. Qh5+ Bg5 16. Nd2 gxh6 17. Rf1+ Ke6 18. Qf7+ Kd6 19. Nxe4# 1-0
+

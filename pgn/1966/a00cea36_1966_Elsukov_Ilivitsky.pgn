@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Elsukov"]
+[Black "Ilivitsky, Georgy"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "a00cea36"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 Nf6 6. Nc3 d6 7. g4 h6 8. a4
+Nc6 9. Be3 Bd7 10. f4 Nxd4 11. Qxd4 Nxg4 12. O-O-O Nxe3 13. Qxe3 Qa5 14. e5
+dxe5 15. Rxd7 Kxd7 16. Rd1+ Kc7 17. Bb5 Rd8 18. Qxe5+ Bd6 19. Rxd6 Rxd6 20.
+Qc5+ Rc6 21. Qe5+ Kd8 22. Qxg7 axb5 23. Qxh8+ Ke7 24. f5 b4 25. f6+ Kd7 26. Qf8
+bxc3 27. Qxf7+ Kd6 28. Qf8+ Ke5 29. b4 Qxa4 30. Kb1 Qa3 0-1

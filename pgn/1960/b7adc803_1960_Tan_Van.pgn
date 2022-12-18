@@ -1,0 +1,19 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "15"]
+[White "Tan Hiong Liong"]
+[Black "Van Hoorne"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "b7adc803"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Bg4
+8. h3 Bh5 9. g4 Nxg4 10. hxg4 Bxg4 11. Kg2 h5 12. Qe1 Qd6 13. Nh2 Qe6 14.
+Qe3 O-O-O 15. Nc3 g5 16. Bd2 h4 17. Nxg4 Qxg4+ 18. Kh2 Qh5 19. f3 Rdg8 20.
+Rg1 Rh7 21. Rg4 b6 22. Qg1 Rhg7 23. Nd1 f5 24. exf5 Bd6 25. Kh3 Rf8 26. Ne3
+Bc5 27. Rf1 Bxe3 28. Qxe3 Rxf5 29. Qe4 Qg6 30. a4 Rgf7 31. Bxg5 1-0
+

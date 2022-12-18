@@ -1,0 +1,17 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Di Camillo, Attilio"]
+[Black "Engel"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "a2513632"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Bxf6 gxf6 9. Na3 d5 10. Nxd5 Be6 11. Nc4 f5 12. Ncb6 Rb8 13. exf5 Bxf5 14. Qh5
+Bxc2 15. Bc4 Bg6 16. Qh3 Bb4+ 17. Kf1 Bc5 18. Nd7 Nb4 19. N7f6+ Kf8 20. Qh6#
+1-0

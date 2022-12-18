@@ -1,0 +1,17 @@
+[Event "Cardinal Open,OH"]
+[Site "Cardinal Open,OH"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Snyder, H."]
+[Black "Parker, D."]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "b7ca746e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 Nc6 7. O-O cxd4 8.
+exd4 d5 9. Bg5 Re8 10. cxd5 Bxc3 11. dxc6 Bb4 12. Qb3 a5 13. a3 Qd5 14.
+Qxd5 Nxd5 15. cxb7 Bxb7 16. axb4 1-0
+

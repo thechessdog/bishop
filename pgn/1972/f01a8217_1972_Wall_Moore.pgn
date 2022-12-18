@@ -1,0 +1,16 @@
+[Event "Okinawa"]
+[Site "Okinawa"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Moore, F."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[HashCode "f01a8217"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. dxc5 Bxc5 5. Nf3 Nd7 6. Bd3 Ne7 7. O-O Nc6 8. Bf4
+Qc7 9. Nc3 Ndxe5 10. Nxe5 Nxe5 11. Qh5 Bd6 12. Nb5 Qb8 13. Nxd6+ 1-0

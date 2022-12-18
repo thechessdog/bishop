@@ -1,0 +1,18 @@
+[Event "Lockheed"]
+[Site "Lockheed"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Metcalf, G."]
+[Black "Radke, H."]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "3fa60433"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 Be7 4. Nbd2 c5 5. e4 cxd4 6. Nxd4 Nc6 7. N4f3
+Qb6 8. b3 Ng4 9. Qe2 Bxg5 10. Nxg5 Nd4 11. Qd3 Nxc2+ 12. Ke2 Qxf2+ 13. Kd1
+Nge3+ 14. Qxe3 Nxe3+ 15. Kc1 Qe1+ 16. Kb2 Qxd2+ 17. Ka3 Nc2+ 18. Ka4 Qb4#
+0-1
+

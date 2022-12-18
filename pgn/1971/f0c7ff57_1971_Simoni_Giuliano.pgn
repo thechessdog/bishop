@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Simoni"]
+[Black "Giuliano"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "f0c7ff57"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Bg5 Nbd7 9. Be2 Nb6 10. Bf3 Bg4 11. Bxf6 Bxf3 12. Nxf3 Bxf6 13. O-O Qc7
+14. Ne4 Bg7 15. Rfe1 Rac8 16. Nc3 a6 17. a4 Rfd8 18. Ne5 Rd6 19. a5 Nc4 20.
+Nxc4 Qxc4 21. Qxc4 Rxc4 22. Rxe7 Rxd4 1/2-1/2
+

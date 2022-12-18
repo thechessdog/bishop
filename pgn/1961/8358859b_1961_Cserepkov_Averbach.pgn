@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Cserepkov"]
+[Black "Averbakh, Yuri L"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "8358859b"]
+[Epoch "Bishop"]
+[BlackID "4101529"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 a6 10. O-O-O Na5 11. Bb3 Qc7 12. Bh6 Nc4 13. Qg5 b5 14. h4 b4 15.
+Nd5 Nxd5 16. Bxg7 Kxg7 17. Qxd5 Nb6 18. Qg5 h6 19. Qg3 e5 20. Nf5+ Bxf5 21.
+exf5 a5 22. Bxf7 Qxf7 23. Rxd6 Nc4 24. Rxg6+ Kh7 25. Qg5 1-0

@@ -1,0 +1,17 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hohne"]
+[Black "Weinitschke"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "dfe003f9"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 Bf5 5. fxe4 Bxe4 6. Nxe4 Nxe4 7. Qf3
+Nd6 8. Bf4 Nd7 9. O-O-O e6 10. Bd3 Be7 11. Qg3 Bf6 12. Nf3 Qe7 13. d5 O-O-O
+14. Rhe1 Nc5 15. dxe6 Nxd3+ 16. Rxd3 fxe6 17. Qh3 Nf5 18. Rxd8+ Rxd8 19. g4
+Qb4 20. Be5 Bxe5 21. c3 Bxc3 0-1
+

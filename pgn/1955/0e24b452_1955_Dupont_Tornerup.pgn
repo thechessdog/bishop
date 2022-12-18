@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Dupont, Christopher"]
+[Black "Tornerup, John"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "0e24b452"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Nf3 Nbd7 7. O-O Bxc3
+8. bxc3 e5 9. e4 Re8 10. Re1 b6 11. a4 a5 12. Bg5 h6 13. Bh4 Nf8 14. c5
+bxc5 15. Bb5 Bd7 16. dxe5 dxe5 17. Bxf6 Qxf6 18. Bxd7 Red8 19. Rb1 Rxd7 20.
+Qe2 c6 21. Rb6 Ng6 22. Qb2 Rd3 23. c4 Kh7 24. Rb8 Rxb8 25. Qxb8 Rxf3 26.
+gxf3 Qxf3 27. Qc8 Nh4 28. Kf1 Qg2+ 29. Ke2 Qxe4+ 30. Kf1 Qxc4+ 31. Re2 Qd5
+32. Re3 Qd1+ 33. Re1 Qd3+ 34. Re2 f5 35. Qxc6 Nf3 36. Qb5 c4 37. Qxa5 Qd1+
+38. Re1 Nd2+ 39. Kg2 Qxe1 0-1
+

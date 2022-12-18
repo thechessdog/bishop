@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "9"]
+[White "Ostojic, Predrag"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "146f7793"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Bb4 7. Ne2 Nc6 8. Bg2
+Nf6 9. Bf4 e5 10. Bg5 Nd4 11. O-O Nxe2+ 12. Nxe2 d6 13. a3 Ba5 14. Rc1 Be6 15.
+c4 Bxc4 16. Bxf6 gxf6 17. Nd4 Bxf1 18. Rxc7 Bxc7 19. Bxf1 exd4 20. Qxd4 Ke7 21.
+Bc4 Rhf8 22. Qd5 b5 23. Bb3 Ra7 24. Qd4 Rb7 25. Qd5 Ra7 26. h4 Bb6 27. Kg2 Rc7
+28. f4 Bc5 29. g4 a5 30. g5 fxg5 31. hxg5 a4 32. Ba2 b4 33. axb4 Bxb4 34. Kf3
+a3 35. bxa3 Bxa3 36. Kg4 Bc1 37. e5 dxe5 38. fxe5 Ba3 39. Qa5 Bd6 40. exd6+
+Kxd6 41. Qd2+ 1-0

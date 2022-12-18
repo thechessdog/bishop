@@ -1,0 +1,24 @@
+[Event "Helsinki zt"]
+[Site "Helsinki zt"]
+[Date "1972.07.01"]
+[Round "4"]
+[White "Saren, Ilkka J."]
+[Black "Ogaard, Leif"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "c1aca4f8"]
+[Epoch "Bishop"]
+[WhiteID "500089"]
+[WhiteCountry "FIN"]
+[BlackID "1500074"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+d6 9. Re1 Bd7 10. Nxc6 Bxc6 11. Nd5 Bxd5 12. exd5 e5 13. a4 a5 14. f4 Be7 15.
+Qe2 Nd7 16. Ra3 O-O 17. Rc3 Qd8 18. Qb5 Bf6 19. Rd3 Re8 20. Rdd1 Qe7 21. Be3
+exf4 22. Bxf4 Be5 23. Be3 f5 24. c4 Rac8 25. Rc1 b6 26. Bf1 Nc5 27. Rcd1 Rb8
+28. Bh3 Qf7 29. Bg2 Qf6 30. Bc1 h5 31. Bf4 Re7 32. Bxe5 Rxe5 33. h3 Qe7 34. Rf1
+Re2 35. Rxf5 Qe3+ 36. Kh1 Ne4 37. Rf3 Nxg3+ 38. Rxg3 Qxg3 39. Rg1 Rf8 40. Qxb6
+Rxg2 0-1

@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Freeling"]
+[Black "Hornstein"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "3de5afc6"]
+[Epoch "Bishop"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. e3 O-O 5. a3 Be7 6. c4 d5 7. cxd5 Nxd5
+8. Bc4 c5 9. Nf3 Nc6 10. Bb2 Be6 11. Qc2 Bf6 12. d3 Ndb4 0-1
+

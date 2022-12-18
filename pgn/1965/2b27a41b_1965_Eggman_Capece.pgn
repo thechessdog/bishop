@@ -1,0 +1,15 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Eggman"]
+[Black "Capece, Adolivio"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "2b27a41b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Bc4 Qc7 6. Qe2 Nb6 7. Bd3 Nc6 8. Nf3
+d5 9. cxd4 Nxd4 0-1

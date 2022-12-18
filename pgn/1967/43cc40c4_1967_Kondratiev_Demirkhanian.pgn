@@ -1,0 +1,17 @@
+[Event "URS-chT"]
+[Site "Moscow"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kondratiev, Pavel E"]
+[Black "Demirkhanian, Adolf"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "43cc40c4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. Be3
+O-O 9. g4 d5 10. exd5 exd5 11. Qf3 Bxg4 12. Qg2 Nc6 13. f3 Bc5 14. O-O-O Re8
+15. fxg4 Rxe3 16. Nf5 Re5 17. Nxd5 Nxd5 18. Bxd5 Qc7 19. Rhf1 Rf8 20. Qf3 Kh8
+21. Kb1 f6 1/2-1/2

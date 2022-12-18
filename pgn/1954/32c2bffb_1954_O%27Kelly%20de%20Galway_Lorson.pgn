@@ -1,0 +1,25 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "O'Kelly, Albéric de Galway"]
+[Black "Lorson, Gerhard"]
+[Result "1-0"]
+[ECO "B37"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 5...Bg7"]
+[HashCode "32c2bffb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Nc2 d6 7. Nc3 f5 8. exf5
+Bxf5 9. Be3 Nh6 10. Nd4 O-O 11. Be2 Bd7 12. O-O Nf5 13. Nxf5 gxf5 14. Qd2 Qe8
+15. f4 Rd8 16. Nb5 b6 17. Rad1 Qf7 18. b3 Kh8 19. Bf3 Ra8 20. Rfe1 Rfc8 21. Bf2
+Bf6 22. Nd4 Qg6 23. Nb5 Qg7 24. Bd5 a6 25. Nd4 Rab8 26. Ne6 Bxe6 27. Bxe6 Bc3
+28. Qd3 Bxe1 29. Bxe1 Rf8 30. Bc3 Rf6 31. Qd5 Nd8 32. Bxf5 e5 33. Bh3 Nf7 34.
+Rf1 Rf8 35. g3 h5 36. Bg2 Qg6 37. Qd2 h4 38. Qe3 hxg3 39. hxg3 Rg8 40. Kf2 Rg7
+41. Be4 Qg4 42. Rh1+ Kg8 43. Qf3 Qxf3+ 44. Bxf3 Kf8 45. Bd5 Rh6 46. Rxh6 Nxh6
+47. Kf3 Nf7 48. a4 Ke7 49. b4 Kd7 50. Bb7 a5 51. bxa5 bxa5 52. Bd5 Rh7 53. Bxa5
+exf4 54. gxf4 Nd8 55. Kg3 Rg7+ 56. Kf2 Rg4 57. Bd2 Nc6 58. a5 Rh4 59. a6 Rh2+
+60. Bg2 Rh8 61. Be3 Rf8 62. Be4 Kc7 63. Kg3 Re8 64. Kf3 Rf8 65. a7 Ne5+ 66. Ke2
+Nc6 67. f5 Re8 68. Kf3 Rg8 69. Kf4 Rf8 70. Bd5 Kd7 71. Bb6 Rh8 72. Kg5 Rf8 73.
+f6 1-0

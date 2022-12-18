@@ -1,0 +1,19 @@
+[Event "El Paso ch-USA"]
+[Site "El Paso ch-USA"]
+[Date "1973.01.01"]
+[Round "7"]
+[White "Grefe, John Alan"]
+[Black "Browne, Walter S"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "68d4c789"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Nbd7 10. O-O-O Qc7 11. Be2 Rb8 12. Qg3 Rg8 13. Rhf1 g5 14. fxg5 Ne5
+15. Nf3 b5 16. Nxe5 b4 17. Nxf7 bxc3 18. gxf6 Rxg3 19. fxe7 Rg5 20. Bxg5 hxg5
+21. Nxd6+ 1-0

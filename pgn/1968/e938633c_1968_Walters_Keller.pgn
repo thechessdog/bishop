@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Walters"]
+[Black "Keller, Dieter"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "e938633c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. cxd5 exd5 8. Bd2
+Nc6 9. a3 cxd4 10. exd4 Bd6 11. Bg5 Re8 12. Bxf6 Qxf6 13. O-O Bg4 14. Nxd5 Qh4
+15. g3 Qh5 16. Ndc3 Bf3 17. h4 Qg4 18. Kh2 Qxh4+ 0-1

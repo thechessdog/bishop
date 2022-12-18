@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Vivi"]
+[Black "Zjukov"]
+[Result "0-1"]
+[ECO "C22"]
+[Opening "Centre game"]
+[Variation "Berger variation"]
+[HashCode "741b08a1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2 O-O 7. O-O-O
+Re8 8. Qg3 Rxe4 9. Be2 Bxc3 10. Bxc3 d6 11. Rd5 Nb4 12. Ra5 c5 13. Ra3 Nbd5
+14. Bd2 Qe7 15. Bh6 Ng4 16. Bd2 Ngf6 17. Bh6 g6 18. f3 Re5 19. Qf2 Bd7 20.
+Bd3 b5 21. Ne2 a5 0-1
+

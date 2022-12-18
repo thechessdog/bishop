@@ -1,0 +1,19 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Stamn, J."]
+[Black "Venesaar, K."]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "07117fc2"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 d5 6. a3 cxd4 7. exd4 Bxc3+
+8. bxc3 O-O 9. Bd3 Ne4 10. Qc2 f5 11. O-O Nc6 12. cxd5 exd5 13. c4 Kh8 14.
+cxd5 Qxd5 15. Bc4 Nxd4 16. Nxd4 Qxd4 17. Bb2 Qd2 18. Qb3 Nc5 19. Bxg7+ Kxg7
+20. Qg3+ Kf6 21. Qh4+ Kg7 22. Qe7+ Kg6 23. Qxf8 b6 24. Qf7+ Kg5 25. Qg7+
+1-0
+

@@ -1,0 +1,21 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Batik"]
+[Black "Svancer"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "376f0792"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. e3 Nbd7 6. Nge2 e5 7. Ng3 Bg6 8.
+dxe5 h6 9. Bf4 Nh5 10. Nxh5 Bxh5 11. e4 Qb6 12. exd5 Qxb2 13. Bd2 Nxe5 14.
+Rb1 Qa3 15. Rxb7 Bb4 16. Nb1 Bxd2+ 17. Qxd2 Qc5 18. Qb4 Qxb4+ 19. Rxb4 O-O
+20. dxc6 Nxc6 21. Rc4 Rfe8+ 22. Kf2 Ne5 23. Rc3 Rab8 24. Rb3 Bg6 25. Na3
+Rbd8 26. Bb5 Rd2+ 27. Kg3 Re6 28. Rc3 Bf5 29. Re1 Rd5 30. Re2 Rg6+ 31. Kf2
+Rf6 32. Rce3 Ng6 33. g3 Rc5 34. Bc4 Nf8 35. Re8 Bg4 36. R2e3 Be6 37. Bb3 g5
+38. Rd3 Kg7 39. Rdd8 Bxb3 40. axb3 Ne6 41. Rd3 h5 42. c4 Ra5 43. b4 Ra4 44.
+Nc2 1-0
+

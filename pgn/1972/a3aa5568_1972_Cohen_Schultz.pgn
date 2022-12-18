@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Cohen"]
+[Black "Schultz, L."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a3aa5568"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 a6 9. Rd1 Qc7 10. Bf4 Ne5 11. Bxe5 dxe5 12. Rac1 Qb8 13. Bb5+ Bd7
+14. Bxd7+ Nxd7 15. Nb5 axb5 16. Rxd7 Kxd7 17. Qxb5+ Ke7 18. Nxe5 Qd6 19.
+Qxb7+ Kf6 20. Ng4+ Kg5 21. Qxa8 Kxg4 22. h3+ Kg5 23. a4 g6 24. Qb7 Be7 25.
+e5 Qb4 26. f4+ Kh6 27. Qxb4 Bxb4 28. Rc7 Rb8 29. Kf2 Kg7 30. Kf3 Ba5 31.
+Rc2 Rb4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Rellstab, Ludwig"]
+[Black "Teschner, Rudolf"]
+[Result "1/2-1/2"]
+[ECO "D16"]
+[Opening "QGD Slav accepted"]
+[Variation "Alapin variation"]
+[HashCode "f50c5cf0"]
+[Epoch "Bishop"]
+[WhiteID "4671155"]
+[WhiteCountry "GER"]
+[BlackCountry "SRB"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Na6 6. e3 Bg4 7. Bxc4 e6 8. h3
+Bh5 9. Be2 Nb4 10. Ne5 Bxe2 11. Qxe2 Be7 12. Nd3 Nxd3+ 13. Qxd3 e5 14. O-O exd4
+15. exd4 O-O 16. Bg5 Re8 17. Rfe1 1/2-1/2

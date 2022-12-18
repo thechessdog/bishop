@@ -1,0 +1,21 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Weiner"]
+[Black "Sulc"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "b898b09a"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+Bd3 Bxd3 9. Qxd3 Qc7 10. Bd2 Ngf6 11. O-O-O e6 12. c4 Bd6 13. Ne4 Bf4 14.
+g3 Bxd2+ 15. Nfxd2 O-O-O 16. Qa3 Kb8 17. Nd6 Nb6 18. c5 Nc8 19. N2c4 Nxd6
+20. cxd6 Qc8 21. Rd3 Rhf8 22. Kb1 Qd7 23. Rc1 Ne4 24. Rb3 f6 25. Qb4 Rc8
+26. Re1 c5 27. Qb5 Qxb5 28. Rxb5 f5 29. f3 a6 30. Ra5 cxd4 31. fxe4 Rxc4
+32. exf5 d3 33. d7 d2 34. Rd1 Re4 35. Rxd2 Rd8 36. fxe6 Rxe6 37. Rad5 Re3
+38. R5d3 Rxd3 39. Rxd3 Kc7 40. Kc2 Rxd7 41. Rxd7+ Kxd7 42. Kd3 Ke6 1/2-1/2
+

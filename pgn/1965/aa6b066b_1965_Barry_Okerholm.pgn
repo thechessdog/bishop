@@ -1,0 +1,19 @@
+[Event "Rhode Island"]
+[Site "Rhode Island"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Barry"]
+[Black "Okerholm"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "aa6b066b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Nbd7
+8. Be3 Be7 9. f4 Qc7 10. Bf3 e5 11. Nf5 Bf8 12. Kh1 g6 13. Ng3 b5 14. f5
+Bb7 15. a3 Bg7 16. Qd2 Rd8 17. Rad1 Nb6 18. Be2 Nc4 19. Bxc4 Qxc4 20. Bg5
+Rd7 21. Bxf6 Bxf6 22. fxg6 Bd8 23. Nf5 Bc7 24. b3 Qc5 25. Ng7+ Kd8 26. gxf7
+1-0
+

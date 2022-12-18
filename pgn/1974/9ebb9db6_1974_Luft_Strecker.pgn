@@ -1,0 +1,17 @@
+[Event "Bundesliga"]
+[Site "Bundesliga"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Luft, Andreas"]
+[Black "Strecker"]
+[Result "1-0"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[HashCode "9ebb9db6"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2 h6 8. Bh4
+c5 9. Rd1 cxd4 10. exd4 dxc4 11. Bxc4 Nd5 12. Bxe7 Qxe7 13. O-O N7b6 14. Bb3
+Rd8 15. Rfe1 Qf8 16. Ne5 Nxc3 17. bxc3 Nd7 18. Nxf7 Re8 19. Rxe6 Rxe6 20. Bxe6
+Nc5 21. Ng5+ 1-0

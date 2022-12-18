@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Belachov"]
+[Black "Sitzky"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "406d493b"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Nxc3 a6
+14. Bd2 Rc8 15. Ne2 Nf5 16. g4 Nxe5 17. fxe5 Qxe5 18. Bc3 Rxc3 19. Qxc3 d4
+20. Qd3 Ne3 21. Kd2 Rxg4 22. a4 Qg5 23. Kc1 Nc4+ 24. Kb1 Bb5 25. Qh7 Qc5
+26. c3 Nd2+ 27. Kc2 Bxe2 28. Kxd2 Bxf1 29. Raxf1 dxc3+ 0-1
+

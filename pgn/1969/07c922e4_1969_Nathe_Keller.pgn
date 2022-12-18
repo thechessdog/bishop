@@ -1,0 +1,16 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Nathe, E."]
+[Black "Keller, Martina"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "07c922e4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. Bxe6 fxe6 10. Nxe6 Qd7 11. Nd5 Bxd5 12. exd5 h6 13. g4 Kf7 14. f4 Kg8
+15. Be3 Qb7 16. Qf3 Qxd5 17. Nc7 Qxf3 18. Rxf3 Nxg4 19. Nxa8 1-0

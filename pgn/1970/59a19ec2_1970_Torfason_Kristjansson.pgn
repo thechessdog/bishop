@@ -1,0 +1,19 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "6"]
+[White "Torfason, Jon"]
+[Black "Kristjansson, Bragi"]
+[Result "1/2-1/2"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "59a19ec2"]
+[Epoch "Bishop"]
+[WhiteID "2300222"]
+[BlackID "2300346"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. f4 Nge7 7. Nf3 O-O 8. O-O
+d5 9. Qe1 d4 10. Nb1 f6 11. g4 f5 12. gxf5 exf5 13. h4 Be6 14. e5 Qd7 1/2-1/2

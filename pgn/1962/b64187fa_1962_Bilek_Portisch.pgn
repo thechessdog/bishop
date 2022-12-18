@@ -1,0 +1,18 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Portisch, Lajos"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "b64187fa"]
+[Epoch "Bishop"]
+[BlackID "700037"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Qxd8 Rxd8 11. Bg5 Rd4 12. b3 c6 13. Be3 Rd8 14. Rad1 Rxd1
+15. Rxd1 Be6 1/2-1/2

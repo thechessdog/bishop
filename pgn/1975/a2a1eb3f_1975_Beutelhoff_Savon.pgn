@@ -1,0 +1,23 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1975.01.01"]
+[Round "10"]
+[White "Beutelhoff, Josef"]
+[Black "Savon, Vladimir"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "a2a1eb3f"]
+[Epoch "Bishop"]
+[WhiteID "4621336"]
+[WhiteCountry "GER"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. e3 Nc6 6. Nf3 d5 7. a3 cxd4 8. exd4
+Bxc3+ 9. bxc3 Bd7 10. Bg5 h6 11. Bh4 Rc8 12. cxd5 exd5 13. Bd3 Qe7+ 14. Qe2
+Qxe2+ 15. Kxe2 Ne4 16. Bxe4 dxe4 17. Nd2 f5 18. Bg3 O-O 19. f4 Na5 20. Rhc1
+Bb5+ 21. Ke3 Rf6 22. a4 Bd3 23. Be1 Rg6 24. g3 Rgc6 25. Ra3 b6 26. Kf2 Kf7 27.
+Ke3 R6c7 28. Kf2 Ke6 29. Ke3 g5 30. Bf2 Nb7 31. Rb3 Nd6 32. Ra3 Ne8 33. fxg5
+hxg5 34. Nf3 f4+ 35. gxf4 gxf4+ 36. Kxf4 Rf7+ 0-1

@@ -1,0 +1,25 @@
+[Event "Moskou olm"]
+[Site "Moskou olm"]
+[Date "1956.09.01"]
+[Round "1"]
+[White "Ljungquist, Lennart"]
+[Black "Thorbergsson, Freysteinn"]
+[Result "0-1"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "5e7b18b7"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+[BlackCountry "ISL"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 c5 6. Nf3 O-O 7. O-O Bg4 8. Be3
+Qa5 9. Qd2 Bxf3 10. gxf3 cxd4 11. Bxd4 Nc6 12. Be3 Qh5 13. Kg2 Nd7 14. Bg5 Nd4
+15. Bxe7 Nxe2 16. Nxe2 Ne5 17. Qf4 Rfe8 18. Ng3 Qxf3+ 19. Qxf3 Nxf3 20. Kxf3
+Rxe7 21. Rab1 h5 22. Rfd1 Rae8 23. Rxd6 h4 24. Nf1 Rxe4 25. Rd8 Rxd8 26. Kxe4
+f5+ 27. Ke3 Kf7 28. b3 g5 29. Kf3 g4+ 30. Kg2 f4 31. Re1 Rd4 32. f3 g3 33. hxg3
+hxg3 34. Re2 Rd1 35. Rd2 Ra1 36. Nxg3 fxg3 37. Rd7+ Kg6 38. Kxg3 Rxa2 39. Rxb7
+Be5+ 40. Kg4 Rg2+ 41. Kh4 Kf5 42. Rf7+ Bf6+ 43. Kh3 Rg7 44. Rf8 Rb7 45. c5 Rxb3
+46. c6 Rxf3+ 47. Kg2 Rc3 48. Rf7 a6 49. c7 a5 50. Kf1 Ke6 51. Rh7 Be5 52. Ke2
+Rxc7 53. Rh6+ Kd5 54. Ra6 Rc2+ 55. Kd3 Ra2 56. Ra8 Ra3+ 57. Kc2 Kc4 58. Rc8+
+Kb4 59. Re8 Ra2+ 60. Kb1 Re2 61. Re7 Kc3 62. Re6 Re1+ 63. Ka2 Kc2 0-1

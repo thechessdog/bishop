@@ -1,0 +1,23 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Stull, Norbert"]
+[Black "Ujtumen, Tudev"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "9fb179ef"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+c6 9. d5 c5 10. Ne1 Ne8 11. f4 f5 12. Kh1 Ndf6 13. Nd3 fxe4 14. Nxe4 Nxe4 15.
+Bxe4 Nf6 16. Bg2 e4 17. Nf2 Re8 18. Be3 h5 19. Qc2 Bf5 20. h3 Qd7 21. Rae1 Re7
+22. Kh2 Rae8 23. a3 b5 24. b3 Qb7 25. Rg1 Qa6 26. a4 bxa4 27. bxa4 Bd7 28. Ra1
+Rb8 29. Rgb1 Rxb1 30. Qxb1 Qxc4 31. Qb8+ Ne8 32. Rb1 Bxa4 33. Rb7 Rxb7 34. Qxb7
+Qe2 35. Qxa7 Bc2 36. Qa2 Nf6 37. Bxc5 dxc5 38. d6+ Kh7 39. d7 Nxd7 40. Nxe4 c4
+41. Ng5+ Kh8 42. Qa8+ Nf8 43. Qd5 Bf5 44. Nf7+ Kg8 45. Nh6+ Kh7 46. Nxf5 gxf5
+47. Qxf5+ Kh8 48. Kh1 c3 49. Be4 h4 50. g4 Qe1+ 51. Kg2 Qd2+ 52. Kf1 Qd1+ 53.
+Kg2 Qe2+ 54. Kh1 Qa6 55. Kg2 c2 56. Bxc2 Qe2+ 57. Kh1 Qf3+ 0-1

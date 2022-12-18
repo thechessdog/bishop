@@ -1,0 +1,18 @@
+[Event "corr EUR/M/GT"]
+[Site "corr EUR/M/GT"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Grossmann, P."]
+[Black "Baluev, A."]
+[Result "0-1"]
+[ECO "E84"]
+[Opening "King's Indian"]
+[Variation "Saemisch, Panno main line"]
+[HashCode "f358a9da"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8.
+Qd2 Rb8 9. g4 b5 10. Ng3 e5 11. d5 Nd4 12. Bxd4 exd4 13. Nce2 d3 14. Nd4
+Nxe4 15. Nxe4 bxc4 16. Nc6 Qh4+ 17. Kd1 Rxb2 18. Qg5 Qxg5 19. Nxg5 c3 20.
+Ne7+ Kh8 21. Bxd3 Rd2+ 0-1
+

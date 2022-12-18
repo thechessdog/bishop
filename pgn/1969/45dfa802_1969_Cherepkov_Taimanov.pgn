@@ -1,0 +1,19 @@
+[Event "Leningrad ch-SU sf"]
+[Site "Leningrad ch-SU sf"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Cherepkov, Alexander V"]
+[Black "Taimanov, Mark"]
+[Result "1/2-1/2"]
+[ECO "E31"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, main line"]
+[HashCode "45dfa802"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 h6 6. Bh4 d6 7. e3 Bxc3+ 8. bxc3
+e5 9. f4 exf4 10. exf4 Qe7+ 11. Qe2 Qxe2+ 12. Nxe2 Ne4 13. Ng3 Nxg3 14. Bxg3
+Bf5 15. Kd2 Kd7 16. Bd3 Bxd3 17. Kxd3 Re8 18. Rae1 Na6 19. f5 Nc7 20. a4 Rxe1
+21. Rxe1 Re8 22. Rf1 b6 23. Rf4 f6 24. Re4 Rxe4 25. Kxe4 Ke7 26. Kf3 a6 1/2-1/2

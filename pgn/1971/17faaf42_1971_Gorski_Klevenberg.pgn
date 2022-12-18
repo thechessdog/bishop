@@ -1,0 +1,18 @@
+[Event "corr NOR-POL"]
+[Site "corr NOR-POL"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Gorski, J."]
+[Black "Klevenberg"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "17faaf42"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 h6 6. Bh4 Be7 7. e3 Ne4 8.
+Bg3 O-O 9. Bd3 f5 10. Bxe4 fxe4 11. Nd2 Bb4 12. Qg4 Qg5 13. Qxg5 hxg5 14.
+Bxc7 Na6 15. Bg3 d5 16. O-O Be7 17. a3 Rac8 18. Nb5 dxc4 19. Nxa7 Ra8 20.
+Nb5 Rfd8 21. Nxc4 1-0
+

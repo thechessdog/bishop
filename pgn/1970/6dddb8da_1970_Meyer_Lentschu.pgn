@@ -1,0 +1,19 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Meyer, K."]
+[Black "Lentschu, D."]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "6dddb8da"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8.
+Bxc4 Bd7 9. Qe2 Bc6 10. Rd1 Qe7 11. Ne5 Rd8 12. a3 Ba5 13. dxc5 Rxd1+ 14.
+Nxd1 Qxc5 15. Nxc6 Qxc6 16. b4 Bc7 17. Bb2 Nbd7 18. Nc3 a6 19. Bb3 Rc8 20.
+Rc1 Qd6 21. f4 Bb6 22. Kh1 h6 23. Rd1 Qc7 24. Qf3 Ba7 25. e4 e5 26. Nd5
+Nxd5 27. exd5 exf4 28. d6 1-0
+

@@ -1,0 +1,16 @@
+[Event "Milwaukee"]
+[Site "Milwaukee"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Kujuth"]
+[Black "Fashingbauer"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Marshall variation"]
+[HashCode "81674f18"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. b4 cxb4 3. a3 Nc6 4. axb4 Nf6 5. b5 Nb8 6. e5 Qc7 7. d4 Nd5 8.
+c4 Nb6 9. c5 Nd5 10. b6 1-0
+

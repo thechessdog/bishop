@@ -1,0 +1,20 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Machate"]
+[Black "Unzicker, Wolfgang"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "899af17b"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. O-O Nc6 8. a3
+cxd4 9. exd4 dxc4 10. Bxc4 Bd6 11. h3 h6 12. Be3 a6 13. Qd3 b5 14. Ba2 Bb7 15.
+Rad1 Ne7 16. Nf4 Bxf4 17. Bxf4 Nfd5 18. Bb1 Ng6 19. Be5 Nxc3 20. Qxc3 Nxe5 21.
+dxe5 Qg5 22. g3 Rac8 23. Qd3 Rfd8 24. Qe2 Rxd1 25. Rxd1 Rc1 26. Qe1 Rxd1 27.
+Qxd1 g6 28. Qe1 Qh5 29. Kh2 Qf3 30. Qf1 Qd5 31. h4 Qxe5 32. b4 Bd5 33. Qd1 Qb2
+34. Kg1 h5 35. Qc2 Qxa3 0-1

@@ -1,0 +1,18 @@
+[Event "Kiev ch-URS"]
+[Site "Kiev ch-URS"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Flohr, Salo"]
+[Black "Abramovich Furman, Semyon"]
+[Result "1/2-1/2"]
+[ECO "D50"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch"]
+[HashCode "9fa7d5bd"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c5 5. cxd5 cxd4 6. Qxd4 Be7 7. e4 Nc6 8.
+Qe3 Nxd5 9. exd5 Bxg5 10. f4 Nb4 11. O-O-O Be7 12. dxe6 Qc7 13. exf7+ Kxf7 14.
+Nf3 Nxa2+ 15. Kb1 Bf5+ 16. Kxa2 Qa5+ 17. Kb3 Qb4+ 18. Ka2 Qa5+ 1/2-1/2

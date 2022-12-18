@@ -1,0 +1,18 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Barsch, G."]
+[Black "Kroener, O."]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "9bb9e01e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7
+8. Bxc6 bxc6 9. O-O Bc5 10. f3 Ng5 11. Be3 Bb6 12. c3 O-O 13. a4 a6 14. Qc1
+Ne6 15. a5 Bxd4 16. cxd4 f6 17. Rd1 fxe5 18. dxe5 Rf5 19. Qc3 Qh4 20. g3
+Qh5 21. Nd2 1/2-1/2
+

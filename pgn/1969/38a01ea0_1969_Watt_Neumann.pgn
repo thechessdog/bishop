@@ -1,0 +1,20 @@
+[Event "WchT U26"]
+[Site "Dresden"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Watt"]
+[Black "Neumann, Joachim"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "38a01ea0"]
+[Epoch "Bishop"]
+[BlackID "4608259"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Be3 O-O 10. a4 b4 11. Na2 Nxe4 12. Nxb4 Qc7 13. f4 d5 14. Nd3 Nd7 15.
+Rc1 Nb6 16. f5 Bd6 17. Qh5 Nf6 18. Qh4 Bxh2+ 19. Kh1 Bd6 20. Bg5 Ne4 21. Rf3 f6
+22. Be3 Ng3+ 23. Kg1 Nxf5 24. Nxf5 exf5 25. Qd4 Rb8 26. a5 Nd7 27. Bxd5+ Kh8
+28. Rh3 Ne5 29. Rxh7+ 1-0

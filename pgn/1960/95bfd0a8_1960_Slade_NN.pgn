@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Slade"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "classical"]
+[HashCode "95bfd0a8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7
+8. f4 Qb6 9. Qd3 Qxb2 10. Rb1 Qa3 11. O-O Qa5 12. Rb5 Qd8 13. e5 dxe5 14.
+fxe5 Nxd4 15. exf6 Nxe2+ 16. Qxe2 Bxf6 17. Rd5 Qc7 18. Nb5 Qc6 19. Rxf6
+exf6 20. Nc7+ Qxc7 21. Bb6+ Qe7 22. Rd8# 1-0
+

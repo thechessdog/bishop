@@ -1,0 +1,17 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Sobel, Robert"]
+[Black "Di Camillo, Attilio"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack"]
+[HashCode "1ac826a6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. O-O d6 7. c3 Bg4 8. h3
+Bh5 9. Rd1 O-O 10. d3 Qd7 11. Nbd2 g5 12. g4 Nxg4 13. hxg4 Qxg4+ 14. Kh2 Qf4+
+15. Kh1 f5 16. Bb3+ Kh8 17. Bd5 g4 18. Ng1 Qg5 19. exf5 Qh4+ 20. Kg2 Rxf5 21.
+Ne4 g3 22. f3 Qh2+ 23. Kf1 Bxf3 24. Qxh2 gxh2 0-1

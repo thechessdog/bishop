@@ -1,0 +1,25 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Flesch"]
+[Black "Honfi"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "dcbfa8b5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nf3 Bg7 5. Nc3 O-O 6. e4 d6 7. Be2 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 b6 11. f3 Ba6 12. Bxa6 Nxa6 13. Nc4 Nc7 14. Bf4
+Bf8 15. a4 Nh5 16. Be3 Qd7 17. g4 Ng7 18. e5 Rxe5 19. Nxe5 dxe5 20. a5 Rd8
+21. axb6 axb6 22. Ra7 Nge8 23. Qc2 Qc8 24. Bg5 f6 25. Bh4 Qb8 26. Raa1 g5
+27. Bf2 Nxd5 28. Nxd5 Rxd5 29. Qc4 Nc7 30. h4 b5 31. Qe4 gxh4 32. Bxh4 Rd4
+33. Qc6 f5 34. Rfd1 fxg4 35. Rxd4 cxd4 36. Rc1 d3 37. Rd1 gxf3 38. Rxd3
+Qa7+ 39. Bf2 Qa1+ 40. Kh2 Qxb2 41. Rxf3 e4 42. Rf5 Qd2 43. Qxe4 Qh6+ 44.
+Kg2 Ne6 45. Qd5 Kh8 46. Bg3 Qg6 47. Kh2 h6 48. Rf6 Qxf6 49. Be5 Qxe5+ 50.
+Qxe5+ Ng7 51. Qf6 Kg8 52. Qxh6 b4 53. Qf6 Nh5 54. Qe5 Ng7 55. Qd5+ Kh7 56.
+Qf7 Bd6+ 57. Kh3 b3 58. Qxb3 Be7 59. Qf7 Bg5 60. Kg4 Bd8 61. Qf8 Bg5 62.
+Qf3 Bh6 63. Qd3+ Kg8 64. Qg6 Be3 65. Qd6 1-0
+

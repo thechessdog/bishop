@@ -1,0 +1,22 @@
+[Event "Harrachov"]
+[Site "Harrachov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Krantz, Kjell"]
+[Black "Tompa, Janos"]
+[Result "0-1"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Pilnik variation"]
+[HashCode "7e4c3a19"]
+[Epoch "Bishop"]
+[WhiteID "1700782"]
+[WhiteCountry "SWE"]
+[BlackID "700193"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d3 Na5 10. Bc2 c5 11. Nbd2 Qc7 12. Nf1 h6 13. Ne3 Re8 14. d4 Bf8 15. Bd2
+Bb7 16. b4 exd4 17. cxd4 cxb4 18. e5 dxe5 19. dxe5 Ne4 20. Ng4 Nxd2 21. Nxd2 h5
+22. Rc1 Qd7 23. Nf6+ gxf6 24. Qxh5 Bg7 25. Rcd1 Rxe5 26. Rxe5 fxe5 27. Nc4 Qc6
+28. Ne3 Nc4 29. Nd5 Qd6 30. Be4 Rc8 31. Qh4 Bxd5 32. Rxd5 Nb6 0-1

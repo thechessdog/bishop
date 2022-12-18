@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Florian, Tibor"]
+[Black "Szily, Jozsef"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "85058f74"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 e6 2. g3 c5 3. Nf3 Nc6 4. Bg2 Nf6 5. O-O d5 6. c4 dxc4 7. Qa4 Bd7 8. dxc5
+Bxc5 9. Qxc4 Qe7 10. Bg5 Rc8 11. Nc3 h6 12. Bxf6 gxf6 13. Rad1 f5 14. e4 b5 15.
+Qxb5 f4 16. Rxd7 Bxf2+ 17. Rxf2 Qxd7 18. Ne5 Nxe5 19. Qxe5 Rg8 20. Nd5 Rc1+ 21.
+Bf1 1-0

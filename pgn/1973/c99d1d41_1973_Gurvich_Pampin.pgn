@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Gurvich, A."]
+[Black "Pampin, H."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "c99d1d41"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. d4 exd4 6. cxd4 dxe4 7. Ne5 Bd7
+8. Nxd7 Bb4+ 9. Nc3 Qxd7 10. d5 Rd8 11. Bg5 f6 12. dxc6 Qf5 13. cxb7+ Qxb5
+14. Qxd8+ 1-0
+

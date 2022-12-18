@@ -1,0 +1,22 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Moraza, Manuel"]
+[Black "Iglesias"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "308cdbe4"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 e5 3. Nf3 Nd7 4. Bc4 Be7 5. dxe5 Nxe5 6. Nxe5 dxe5 7. Qh5 g6
+8. Qxe5 Nf6 9. Bh6 Qd6 10. Qxd6 cxd6 11. Nc3 Be6 12. Bb5+ Nd7 13. O-O-O
+O-O-O 14. Nd5 Bxd5 15. Bxd7+ Rxd7 16. Rxd5 Re8 17. f3 Bf6 18. Bf4 Be5 19.
+Bxe5 dxe5 20. Rhd1 Rxd5 21. Rxd5 f5 22. Kd2 Kc7 23. c4 f4 24. Kc3 g5 25. h3
+h5 26. c5 g4 27. hxg4 hxg4 28. b4 g3 29. Kc4 Re6 30. Rd6 Rxd6 31. cxd6+
+Kxd6 32. Kb5 b6 33. Ka6 Kc6 34. b5+ Kc5 35. a4 Kd4 36. Kxa7 Ke3 37. a5 Kf2
+38. axb6 Kxg2 39. b7 Kxf3 40. b8=Q Kg2 41. Qxe5 f3 42. b6 f2 43. b7 f1=Q
+44. b8=Q Qf2+ 45. Qb6 Qa2+ 46. Kb7 Qf7+ 47. Qec7 Qg8 48. Qc2+ 1-0
+

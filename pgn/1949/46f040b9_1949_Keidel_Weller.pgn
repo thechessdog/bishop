@@ -1,0 +1,16 @@
+[Event "Stuttgart"]
+[Site "Stuttgart"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Keidel"]
+[Black "Weller"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Alapin variation"]
+[HashCode "46f040b9"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Bf5 6. a3 Qe7 7. g3 O-O-O
+8. b4 Nxe5 9. Bb2 Nd3# 0-1
+

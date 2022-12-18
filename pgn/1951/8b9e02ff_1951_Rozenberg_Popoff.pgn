@@ -1,0 +1,23 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Rozenberg, V."]
+[Black "Popoff"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "8b9e02ff"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Qa5 7. exf6
+Bxc3+ 8. bxc3 Qxc3+ 9. Qd2 Qxa1 10. fxg7 Rg8 11. c3 Qb1 12. Bd3 Qb6 13. Qh6
+Qc5 14. O-O Qe5 15. Bg5 Qxg7 16. Qxg7 Rxg7 17. Bf6 Rg6 18. Bxg6 fxg6 19.
+Nb5 Na6 20. Nd6+ Kf8 21. Re1 Nc5 22. Bd4 Na4 23. Re3 b6 24. Rf3+ Ke7 25.
+Be5 Kd8 26. Rf8+ Kc7 27. Nxc8+ d6 28. Bxd6+ Kb7 29. Rf7+ Kxc8 30. Be5 h5
+31. Rg7 a5 32. Rxg6 Kd7 33. Rh6 Rc8 34. Rxh5 Rc5 35. Rh7+ Ke8 36. Bd4 Rc4
+37. h4 b5 38. Bf6 Nxc3 39. Bxc3 Rxc3 40. g4 b4 41. Kg2 Kf8 42. h5 Kg8 43.
+Rb7 Rc2 44. g5 Rxa2 45. h6 Rc2 46. g6 Rc8 47. Kg3 Ra8 48. Kg4 a4 49. h7+
+Kh8 50. Kg5 a3 51. Kh6 1-0
+

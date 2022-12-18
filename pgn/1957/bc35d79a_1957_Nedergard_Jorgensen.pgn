@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Nedergard, Herluf"]
+[Black "Jorgensen, Georg"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "bc35d79a"]
+[Epoch "Bishop"]
+[BlackID "1432060"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1 d5 8.
+Bxd5 Nf6 9. Bxf7+ Kxf7 10. Nxh4 Re8 11. d3 Kg8 12. Bg5 Rf8 13. Nc3 Qd6 14. Bxf6
+Rxf6 15. Qh5 Bd7 16. Nd5 Rh6 17. Qf7+ 1-0

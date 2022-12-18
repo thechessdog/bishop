@@ -1,0 +1,22 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Pedersen, Eigil"]
+[Black "Gemzoe, Jacob"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "9737c631"]
+[Epoch "Bishop"]
+[BlackID "1412396"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 h6 7. Be3 c5 8. Qg4
+Kf8 9. Rh3 f5 10. Qg6 Qe8 11. Qxe8+ Kxe8 12. Nb5 cxd4 13. Bxd4 Nc6 14. Nf3 Kd8
+15. O-O-O Nxd4 16. Nbxd4 Nb6 17. Rg3 Rg8 18. Rg6 Ke8 19. h5 Kf7 20. Bd3 Rd8 21.
+g4 fxg4 22. Rxg4 Bd7 23. Rdg1 Bf8 24. Rf4+ Kg8 25. Bg6 Rac8 26. Bf7+ Kh8 27.
+Nh4 Bc5 28. Nxe6 Bxe6 29. Bxe6 Rc7 30. b4 Be7 31. Ng6+ Kh7 32. Rf7 Bg5+ 33. f4
+Rc6 34. fxg5 Rxe6 35. gxh6 Kxh6 36. Nf4 Rxe5 37. Rg6+ Kh7 38. Rgxg7+ 1-0

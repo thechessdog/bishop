@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Oldekop"]
+[Black "Sudnikov"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "e3257d2f"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. e6
+fxe6 9. h5 gxh5 10. Rxh5 Nf6 11. Rh4 Nc6 12. dxc5 d5 13. Bd3 Qc7 14. Qe2 h6
+15. Nb5 Qb8 16. Bd2 b6 17. cxb6 Qxb6 18. Qe3 Qb7 19. Bc3 Bd7 20. Nbd4 Qb6
+21. Ne5 Nxe5 22. fxe5 Ne4 23. Rxe4 dxe4 24. Qxe4 Rfc8 25. Ke2 Kf8 26. Rf1+
+Ke8 27. Qg6+ Kd8 28. Qxg7 Kc7 29. Qxe7 a6 30. Ba5 Qxa5 31. Qd6+ Kb7 32.
+Qxd7+ Rc7 33. Be4+ Kb6 34. Qd6+ Ka7 35. Nc6+ Rxc6 36. Rf7+ 1-0
+

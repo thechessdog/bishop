@@ -1,0 +1,30 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Lengyel, Levente"]
+[Black "Nei, Iivo"]
+[Result "1-0"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "a28d000e"]
+[Epoch "Bishop"]
+[BlackID "4500059"]
+[BlackCountry "EST"]
+[WhiteCountry "HUN"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bf5 5. d3 e6 6. Nbd2 Be7 7. Qe1 h6 8. e4
+Bh7 9. Qe2 O-O 10. e5 Nfd7 11. Ne1 c5 12. f4 Nc6 13. Ndf3 b5 14. g4 Rc8 15. Bh3
+Qc7 16. Be3 Rce8 17. Bf2 f5 18. Ng2 g5 19. Bg3 Nd4 20. Nxd4 cxd4 21. fxg5 hxg5
+22. gxf5 exf5 23. e6 Bd6 24. Bxd6 Qxd6 25. Qh5 Rxe6 26. Qxg5+ Kh8 27. Qf4 Rh6
+28. Qxd4+ Qe5 29. Qxe5+ Nxe5 30. Nf4 Rg8+ 31. Kh1 Rc8 32. Rf2 d4 33. Re1 Ng4
+34. Bxg4 fxg4 35. Kg2 b4 36. Nd5 Bg8 37. Ne7 Rd8 38. Re5 Be6 39. Rf4 Rd7 40.
+Nf5 Rf6 41. Nh4 Rxf4 42. Ng6+ Kg8 43. Nxf4 Bxa2 44. Rc5 b3 45. Kg3 bxc2 46.
+Rxc2 Bb3 47. Rc8+ Kf7 48. Kxg4 Rb7 49. Kf5 Ba4 50. Ke5 Rb5+ 51. Kxd4 Rxb2 52.
+Rc7+ Kf6 53. Rxa7 Bd1 54. Nd5+ Kg5 55. Rg7+ Kh6 56. Rg1 Ba4 57. h3 Bd7 58. Nf4
+Bf5 59. Ke5 Rb5+ 60. Kf6 Bh7 61. Rg4 Rf5+ 62. Ke7 Re5+ 63. Kd6 Re3 64. Rh4+ Kg7
+65. d4 Bc2 66. d5 Bf5 67. Rh5 Kf6 68. h4 Ra3 69. Rg5 Ra6+ 70. Kc7 Be4 71. d6
+Rc6+ 72. Kd7 Rc4 73. Nd5+ Kf7 74. Re5 Bc2 75. Nb6 Rc3 76. h5 Bd1 77. Re7+ Kg8
+78. h6 Bg4+ 79. Ke8 Rc6 80. Rg7+ Kh8 81. Ke7 Bh3 82. Nd5 Ra6 83. Nf6 Ra7+ 84.
+Kf8 1-0

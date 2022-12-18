@@ -1,0 +1,19 @@
+[Event "Philidor Leiden"]
+[Site "Philidor Leiden"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Dickhoff"]
+[Black "Piket, Ton"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "ddd289db"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Qg4 6. O-O Qxe4 7. d4
+Qf5 8. dxc5 Qxc5 9. Be3 Qc8 10. Nc3 Nf6 11. Re1 Qxc4 12. Bg5 Nbd7 13. Rc1
+e6 14. b3 Qa6 15. Nd5 Nxd5 16. Qxd5 Ne5 17. Nxe5 exd5 18. Ng6+ Kd7 19.
+Nxf8+ Rhxf8 20. Re7+ Kd8 21. Rxf7+ Ke8 22. Re7+ Kd8 23. Rxg7+ Rf6 24. Bxf6+
+Ke8 25. Rcc7 1-0
+

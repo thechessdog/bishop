@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Gunderam, Gerhard"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "e77df221"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Bg6 8. h4
+Bb4 9. Bg2 Nbd7 10. Qe2 Nxe5 11. dxe5 Nd5 12. h5 Bxc3+ 13. Kf2 Bd4+ 14. Kg3
+Bxc2 0-1

@@ -1,0 +1,18 @@
+[Event "Laren"]
+[Site "Laren"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Snijders"]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed system (without ...d6)"]
+[HashCode "745a3d23"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 Nge7 6. Rb1 O-O 7. b4 f5 8. Bd2
+d6 9. b5 Nd4 10. e3 Ne6 11. f4 exf4 12. gxf4 g5 13. fxg5 Nxg5 14. h4 Ne6 15.
+Nf3 Ng6 16. h5 Ne5 17. Nxe5 dxe5 18. h6 Bf6 19. Qe2 Kh8 20. Nd5 Nc5 21. Bc3 Qd6
+22. Rd1 Ne6 23. Qb2 Nc5 24. Nxf6 Nxd3+ 25. Rxd3 Qxd3 26. Bxe5 Rd8 27. Nh5+ Kg8
+28. Bd5+ Rxd5 29. Rg1+ Kf7 30. Rg7+ Ke8 31. Nf6+ Kd8 32. Bxc7# 1-0

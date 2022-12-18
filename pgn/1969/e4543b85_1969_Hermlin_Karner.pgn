@@ -1,0 +1,21 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Hermlin, Arne"]
+[Black "Karner, Hillar"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "e4543b85"]
+[Epoch "Bishop"]
+[BlackID "4500202"]
+[BlackCountry "EST"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 h6 5. Bh4 c6 6. f4 Bg7 7. Nf3 O-O 8. Qd2 b5
+9. Bd3 b4 10. Nd1 a5 11. O-O Ba6 12. Bxa6 Nxa6 13. Qd3 Qb6 14. Ne3 e6 15. Nc4
+Qc7 16. Nxd6 Nh5 17. e5 Nxf4 18. Qd2 Nd5 19. Ne4 Rfb8 20. Nf6+ Bxf6 21. Bxf6
+Kh7 22. Rae1 Nxf6 23. exf6 Rb5 24. Ne5 Rd8 25. Qe3 c5 26. c3 bxc3 27. bxc3 cxd4
+28. cxd4 Nb4 29. Rc1 Qb7 30. Qe2 Nxa2 31. Rc2 Rxd4 32. Nxf7 Re4 33. Qxb5 Qxb5
+34. Ng5+ hxg5 35. f7 Qxf1+ 36. Kxf1 Kg7 0-1

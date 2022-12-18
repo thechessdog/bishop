@@ -1,0 +1,18 @@
+[Event "corr DDR-PV"]
+[Site "corr DDR-PV"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Klein"]
+[Black "Fleischer, W."]
+[Result "0-1"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "81f86a3a"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. Bd2 cxd4 9. cxd4 Qh4+ 10. g3 Qxd4 11. Bg2 Nc6 12. f4 Ne3 13. Bxe3 Qxe3
+14. Bxc6+ bxc6 15. Nf3 Ba6 16. Ne5 O-O 17. Qc2 Rfd8 18. Rd1 Rxd1+ 19. Kxd1
+Rd8+ 20. Ke1 Rb8 21. Rf1 Rb1+ 0-1
+

@@ -1,0 +1,20 @@
+[Event "ch-URS, semi final"]
+[Site "Tbilisi"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Miasnikov, A."]
+[Black "Sardaratov, E."]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz, Rosenthal variation"]
+[HashCode "4aa965c1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nd5 Bg7 6. Bg5 Nce7 7. Qd2 h6
+8. Bh4 c6 9. Nxe7 Nxe7 10. O-O-O c5 11. Kb1 d6 12. Bc4 Be6 13. Qd3 Bxc4 14.
+Qxc4 O-O 15. e5 dxe5 16. Qxc5 g5 17. Bg3 Rc8 18. Qb5 Nc6 19. Rhe1 Re8 20.
+Qxb7 Qa5 21. a3 Qc5 22. Nd2 d3 23. cxd3 Rb8 24. Qa6 Rxb2+ 25. Kxb2 Rb8+ 26.
+Nb3 Rxb3+ 27. Kxb3 Nd4+ 28. Ka4 Qc2+ 29. Ka5 Qc3+ 30. Ka4 Qb3+ 31. Ka5
+Qxa3# 0-1
+

@@ -1,0 +1,24 @@
+[Event "York ch-BCF"]
+[Site "York ch-BCF"]
+[Date "1959.08.01"]
+[Round "1"]
+[White "Beaty, J."]
+[Black "Ellison, D."]
+[Result "1-0"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "bc86ade7"]
+[Epoch "Bishop"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 d6 6. Nc3 e5 7. d3 c6 8. e4
+Nbd7 9. Ne1 Ne8 10. f4 f5 11. Be3 Nef6 12. Kh1 Ng4 13. Bg1 exf4 14. gxf4
+Qh4 15. Qd2 Ndf6 16. Rf3 Nh5 17. Ne2 Bh6 18. Bf1 fxe4 19. dxe4 Ne5 20. Rf2
+Bxf4 21. Qxd6 Nxc4 22. Qd4 Be6 23. Ng2 Qg4 24. Nexf4 Nxf4 25. Bxc4 Nh3 26.
+Rxf8+ Rxf8 27. Bxe6+ Qxe6 28. Be3 c5 29. Qd5 Qxd5 30. exd5 Nf2+ 31. Bxf2
+Rxf2 32. Rd1 Kf8 33. Ne3 Rxb2 34. Nc4 Rxa2 35. d6 Ke8 36. Ne5 Rf2 37. Rb1
+Rf5 38. Nd3 Rd5 39. Nf4 Rxd6 40. Rxb7 Rd7 41. Rb5 c4 42. Rc5 Rd4 43. Ne6
+Rd1+ 44. Kg2 Ke7 45. Ng5 Rc1 46. Rc7+ Kf6 47. Nxh7+ Ke5 48. Rxa7 c3 49. Rc7
+Kd4 50. Nf8 c2 51. Nxg6 Kd3 52. Ne5+ Ke4 53. Nf3 Kf5 54. Rxc2 Ra1 55. Kg3
+Ra6 56. Rc4 Kg6 57. Rc6+ Rxc6 58. Ne5+ Kh5 59. Nxc6 Kg5 60. Nd4 1-0
+

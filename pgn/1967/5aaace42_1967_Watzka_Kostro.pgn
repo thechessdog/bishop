@@ -1,0 +1,20 @@
+[Event "Vrnjacka Banja zt"]
+[Site "Vrnjacka Banja zt"]
+[Date "1967.01.01"]
+[Round "6"]
+[White "Watzka, Horst"]
+[Black "Kostro, Jerzy"]
+[Result "1/2-1/2"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "5aaace42"]
+[Epoch "Bishop"]
+[WhiteID "1600311"]
+[WhiteCountry "AUT"]
+[BlackID "1101188"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. a3 Bxc5 7. Nf3 O-O 8.
+Bg5 Be7 9. e3 b6 10. Be2 Bb7 11. O-O Nc5 12. Rfd1 Nfe4 13. Bxe7 Qxe7 14. b4
+Nxc3 15. Qxc3 Ne4 16. Qd4 d5 1/2-1/2

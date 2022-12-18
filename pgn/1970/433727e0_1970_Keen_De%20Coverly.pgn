@@ -1,0 +1,21 @@
+[Event "Bucks League"]
+[Site "Bucks League"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Keen, K."]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "433727e0"]
+[Epoch "Bishop"]
+[BlackID "405213"]
+[BlackCountry "END"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. e3 O-O 6. Nc3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Bd3 c5 11. O-O Nxc3 12. bxc3 Bb7 13. Qe2 Nd7 14. e4 Nf6
+15. Rfd1 Rfd8 16. Rac1 Rac8 17. e5 Nd5 18. Qe1 a6 19. Be4 b5 20. c4 Nf4 21. g3
+Ng6 22. d5 exd5 23. cxd5 c4 24. d6 Qd7 25. Nd4 Bxe4 26. Qxe4 Rc5 27. e6 Qxd6
+28. Nc6 Qxd1+ 29. Rxd1 Rxd1+ 30. Kg2 Rxc6 31. Qxc6 fxe6 32. Qxe6+ Kh7 33. Qxa6
+c3 34. Qxb5 c2 0-1

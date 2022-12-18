@@ -1,0 +1,19 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Paoli, Enrico"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "07c1fac6"]
+[Epoch "Bishop"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. dxc5 Qxc5 6. Na3 e5 7. Nb5 Qe7 8.
+Be3 b6 9. Qf3 Bb7 10. O-O-O Rd8 11. Rxd8+ Nxd8 12. Qd1 Bc6 13. Qa4 Qd7 14. Nf3
+Bxf3 15. gxf3 Nc6 16. Bc4 1-0

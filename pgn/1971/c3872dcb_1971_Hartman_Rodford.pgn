@@ -1,0 +1,19 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Hartman, WF."]
+[Black "Rodford, DE."]
+[Result "0-1"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "c3872dcb"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. Qd3 cxd4 9. cxd4 b6 10. e4 Ba6 11. Qd2 Bxf1 12. Kxf1 Ne7 13. Ne2 O-O 14.
+Bb2 f5 15. Nf4 Qd7 16. d5 fxe4 17. Nxe6 Rf7 18. Ng5 Rf5 19. Nxe4 Rxd5 20.
+Qc3 Nf5 21. Rc1 Nc6 22. g4 Nfd4 23. Kg2 Ne5 24. Rhd1 Nexf3 25. h3 Re8 26.
+Ng3 Nh4+ 27. Kh1 Ne2 28. Qc4 Nxg3+ 29. Kh2 Re2+ 30. Kxg3 Rg2+ 0-1
+

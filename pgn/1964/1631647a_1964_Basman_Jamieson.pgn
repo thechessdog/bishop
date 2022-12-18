@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Basman"]
+[Black "Jamieson"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "1631647a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Nxc6 bxc6
+8. e5 Nd7 9. Bc4 Nb6 10. Be2 Bg7 11. exd6 exd6 12. Be3 O-O 13. Bd4 Bh6 14.
+Qd2 c5 15. Bf2 Bb7 16. O-O Qf6 17. g3 Rfe8 18. Rad1 Rad8 19. a4 Qf5 20.
+Rfe1 Nxa4 21. Bd3 Qc8 22. Bb5 Nxc3 23. Rxe8+ Rxe8 24. Qxc3 Bg7 25. Qb3 Re4
+26. Rxd6 c4 27. Qa4 Bf8 28. Rd7 Bc5 29. Rxb7 Bxf2+ 30. Kg2 Bb6 31. Rd7 Re2+
+32. Kf1 Rf2+ 33. Ke1 Qe8+ 0-1
+

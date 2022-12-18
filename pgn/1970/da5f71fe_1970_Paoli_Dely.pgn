@@ -1,0 +1,19 @@
+[Event "Bari"]
+[Site "Bari"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Paoli, Enrico"]
+[Black "Dely"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "da5f71fe"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. Bb5 Bg7 5. O-O d6 6. Re1 e5 7. d3 Ne7 8. Bg5
+h6 9. Be3 O-O 10. Bc4 Kh7 11. Nd5 f5 12. Nxe7 Nxe7 13. h3 f4 14. Bd2 g5 15. c3
+Nc6 16. Kf1 h5 17. Ke2 Kg6 18. Rh1 Bf6 19. Qg1 g4 20. Ne1 Rb8 21. Nc2 b5 22.
+Bd5 Ne7 23. Bb3 d5 24. Ne1 c4 25. Bc2 cxd3+ 26. Bxd3 dxe4 27. Bxe4+ Bf5 28. f3
+Bxe4 29. fxe4 Qc7 30. Kd1 Rbd8 31. hxg4 hxg4 32. Qf1 Qd7 33. Qe2 Bg5 34. Rh2 f3
+35. gxf3 Bxd2 36. Kc2 Bf4 37. Rg2 g3 38. Nd3 Kf6 39. Nxf4 exf4 40. e5+ Kg5 0-1

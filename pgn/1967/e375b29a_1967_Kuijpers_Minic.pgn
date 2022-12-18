@@ -1,0 +1,19 @@
+[Event "Halle zt"]
+[Site "Halle"]
+[Date "1967.??.??"]
+[Round "14"]
+[White "Kuijpers, Frans"]
+[Black "Minic, Dragoljub"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Ne2 e5 (Botvinnik)"]
+[HashCode "e375b29a"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteID "1000349"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 e5 4. g3 g6 5. Bg2 Bg7 6. d3 Nc6 7. Be3 Nge7 8. Qd2
+O-O 9. O-O Nd4 10. Nd1 Rb8 11. c3 Nxe2+ 12. Qxe2 b6 13. f4 exf4 14. Bxf4 Be6
+15. Qd2 Qd7 1/2-1/2

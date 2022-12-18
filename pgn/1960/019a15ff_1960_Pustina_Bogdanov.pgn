@@ -1,0 +1,18 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Pustina"]
+[Black "Bogdanov, Valentin"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "019a15ff"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. O-O gxf6 13. Ne4 Qe3+ 14. Kh1
+Nd7 15. Bh5 Qxe4 16. Re1 Qh4 17. Nxe6 Ra7 18. Qd5 Qc4 19. Ng5+ Ne5 20. Rxe5+
+fxe5 21. Qxe5+ Re7 22. Qxh8 Bb7 23. Qxh7 Qd5 24. Nf3 Qe6 25. h3 Be4 26. Qg8
+Bxf3 27. Bxf3 Qg6 28. Qh8 Qxc2 29. Rf1 Qc4 30. Rd1 Qc5 31. Qf6 Rd7 32. Bc6 1-0

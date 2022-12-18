@@ -1,0 +1,25 @@
+[Event "CSR-ch"]
+[Site "Ostrava"]
+[Date "1960.??.??"]
+[Round "2"]
+[White "Florian, Jaromir"]
+[Black "Cucka, Josef"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "dbd1f32f"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 Bf6 10. Be3 Re8 11. Qd2 Nf8 12. h3 Ng6 13. Rae1 b6 14. Qc3 c5
+15. Bc1 h6 16. Ne3 Nf4 17. Ng4 Bxg4 18. hxg4 Ng6 19. g3 Qd7 20. Nh2 Rad8 21.
+Be3 Nf8 22. Kg2 Ne6 23. Rh1 Nd4 24. f3 Qa4 25. b3 Qxa2 26. Bxd4 cxd4 27. Qd2
+Bg5 28. f4 exf4 29. gxf4 Bxf4 30. Qxf4 Qxc2+ 31. Kg3 Qxd3+ 32. Nf3 Rd6 33. e5
+Rg6 34. Qxd4 Qxb3 35. Re3 Qe6 36. Rhe1 c5 37. Qf4 Rd8 38. Nh4 Rg5 39. Nf5 b5
+40. Rc1 c4 41. Nd4 Rxg4+ 42. Qxg4 Qxg4+ 43. Kxg4 Rxd4+ 44. Kf5 b4 45. Re4 g6+
+46. Kf4 g5+ 47. Kf5 Rxe4 48. Kxe4 c3 49. Kd3 Kg7 50. Kc4 a5 51. Kb5 Kg6 52.
+Kxa5 Kf5 53. Kxb4 g4 54. Kxc3 Kxe5 55. Kd3 Kf4 56. Ke2 f5 57. Kf2 h5 58. Rc8 h4
+59. Rg8 h3 60. Rg7 h2 61. Kg2 h1=Q+ 62. Kxh1 Kg3 63. Kg1 f4 64. Rf7 Kf3 65. Kh2
+Ke3 66. Rg7 Kf3 67. Rg8 1-0

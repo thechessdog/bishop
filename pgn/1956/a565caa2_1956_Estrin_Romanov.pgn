@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Romanov"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "a565caa2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be6 10. c3 Be7 11. Bxf6 Bxf6 12. Be2 Bg5 13. Nc2 f5 14. a4 Rb8
+15. axb5 axb5 16. exf5 Bxf5 17. Ncb4 Nxb4 18. Nxb4 O-O 19. Nc6 Qb6 20. Nxb8
+Rxb8 21. Qd5+ Kh8 22. O-O b4 23. Ra6 1-0

@@ -1,0 +1,22 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Enklaar, Bertus F"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "7a3fc586"]
+[Epoch "Bishop"]
+[BlackID "3500179"]
+[BlackCountry "CUB"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 d5 5. Bg5 Be7 6. e3 O-O 7. Nc3 h6 8. Bxf6
+Bxf6 9. Rc1 a6 10. Be2 Bb7 11. cxd5 exd5 12. O-O Qd6 13. b4 Nd7 14. Qb3 Rfe8
+15. Ne1 c6 16. Bf3 b5 17. Rd1 a5 18. Nd3 axb4 19. Nxb4 Be7 20. e4 dxe4 21. Nxe4
+Qg6 22. Rfe1 Bf8 23. Ng3 Nb6 24. Rxe8 Rxe8 25. Nd3 Nc4 26. a4 Rd8 27. axb5 Rxd4
+28. Qc3 Rh4 29. Re1 Na3 30. Ne5 Qf6 31. bxc6 Bb4 32. cxb7 Bxc3 33. b8=Q+ Kh7
+34. Nd7 1-0

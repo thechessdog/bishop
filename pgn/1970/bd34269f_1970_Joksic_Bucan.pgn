@@ -1,0 +1,17 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Joksic, Sinisa"]
+[Black "Bucan, Dusan"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "bd34269f"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. a3 Nge7 8. Bg2
+Ng6 9. Qa4 Be7 10. b4 Rd8 11. Bb2 O-O 12. O-O Bh3 13. Rad1 Bxg2 14. Kxg2 Qg4
+15. b5 Ncxe5 16. Nxe5 Nxe5 17. Nf3 Ng6 18. Qxa7 Nf4+ 19. Kh1 d3 0-1

@@ -1,0 +1,19 @@
+[Event "corr Golden Knights"]
+[Site "corr Golden Knights"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Thomas, J."]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "b9a3f338"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bb4 7. Bd2 Bxc3 8.
+Bxc3 Nxe4 9. Bxe5 Nxe5 10. Qe2 Nxf3+ 11. gxf3 O-O 12. fxe4 d5 13. O-O-O Be6 14.
+Rg1 Re8 15. exd5 Bf5 16. Qf3 Bg6 17. Bd3 Bxd3 18. Rxd3 Qd6 19. Qg3 Qh6+ 20. Qg5
+Re1+ 21. Rd1 Rxd1+ 22. Kxd1 Qxg5 23. Rxg5 Rd8 24. c4 f6 25. Rg3 a6 26. Rd3 b5
+27. c5 Kf7 28. b4 Ke7 29. d6+ Kd7 30. Re3 a5 31. Re7+ Kc6 32. Rc7+ Kd5 33. d7
+axb4 34. c6 Kd6 35. Rc8 1-0

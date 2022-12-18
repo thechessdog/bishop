@@ -1,0 +1,19 @@
+[Event "Montevideo"]
+[Site "Montevideo"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Rossetto, Hector"]
+[Black "Alvarez del Monte, Jose Luis"]
+[Result "1-0"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "11ecbc5d"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 dxc4 6. e3 c5 7. Bxc4 O-O 8. O-O
+Nbd7 9. Qe2 a6 10. dxc5 Nxc5 11. Rfd1 Qe8 12. e4 Ne6 13. e5 Ng4 14. Bh4 g5 15.
+Bg3 Qc6 16. Bd5 Qc7 17. h3 Nh6 18. Be4 Kh8 19. Nd5 Qa5 20. b4 Qb5 21. Qc2 f5
+22. exf6 exf6 23. Bd6 f5 24. Bxf8 Nxf8 25. Nc7 fxe4 26. Nxb5 Bxa1 27. Rxa1 axb5
+28. Qxe4 Bf5 29. Qxb7 1-0

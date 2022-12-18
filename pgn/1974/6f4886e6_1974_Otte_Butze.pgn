@@ -1,0 +1,17 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Otte, H."]
+[Black "Butze, Roland"]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "6f4886e6"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Bd3 Be7 8.
+Qc2 O-O 9. g4 Re8 10. Bxf6 Nxf6 11. g5 Ne4 12. Nxe4 dxe4 13. Bxe4 Bb4+ 14. Kd1
+Qxg5 15. Bxh7+ Kh8 16. Be4 Rxe4 17. Qxe4 Bf5 18. Qe5 Qg4+ 0-1

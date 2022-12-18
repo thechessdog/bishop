@@ -1,0 +1,20 @@
+[Event "Caserta"]
+[Site "Caserta"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Panizzolo"]
+[Black "Buonpane"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "4c0cb5cd"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Ne2 Nc6 3. g3 d6 4. Bg2 g6 5. c3 Bg7 6. O-O Nf6 7. h3 Bd7 8.
+Na3 a6 9. d4 cxd4 10. cxd4 O-O 11. Nc4 b5 12. Ne3 Rc8 13. b3 e6 14. Bb2 Ne8
+15. f4 Qb6 16. Qd2 Ne7 17. Kh2 Bc6 18. Rac1 Nf6 19. d5 exd5 20. exd5 Ba8
+21. Rxc8 Rxc8 22. f5 g5 23. Ng4 Nxg4+ 24. hxg4 f6 25. Nc3 Qb7 26. Ne4 Qd7
+27. Nxf6+ Bxf6 28. Bxf6 h6 29. Bxg5 hxg5 30. Qxg5+ Kf7 31. Qh5+ Kf8 32. f6
+Ng6 33. Qh6+ Ke8 34. Qxg6+ Qf7 35. Re1+ Kf8 36. Qh6+ Kg8 37. Re7 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Pasqua, D."]
+[Black "Galli"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "3ae43aec"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. f4 a6 7. Be3 Qc7 8.
+Be2 Be7 9. O-O O-O 10. Bf3 Nbd7 11. g4 Nb6 12. Kh1 Re8 13. g5 Nfd7 14. Bg2
+Nc4 15. Bc1 b5 16. b3 Ncb6 17. Bb2 Bb7 18. Qg4 b4 19. Nce2 e5 20. Nf5 Qxc2
+21. Nh6+ Kf8 22. fxe5 1-0
+

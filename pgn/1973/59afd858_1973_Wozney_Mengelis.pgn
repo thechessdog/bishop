@@ -1,0 +1,17 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1973.01.01"]
+[Round "3"]
+[White "Wozney, Tom"]
+[Black "Mengelis, Alnis"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "59afd858"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. d3 d5 6. Nbd2 Bg4 7. O-O e6 8. c3
+Bd6 9. Qa4 Qd7 10. e5 Bxf3 11. Nxf3 Bc7 12. Be3 Bb6 13. b4 d4 14. bxc5 dxe3 15.
+cxb6 exf2+ 16. Rxf2 Ne7 17. Ng5 O-O 18. Qe4 Ng6 19. Raf1 Rad8 20. d4 Qb7 21. h4
+h6 22. Nxf7 Rd7 23. Qxg6 1-0

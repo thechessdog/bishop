@@ -1,0 +1,17 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1970.01.01"]
+[Round "3"]
+[White "Minic, Dragoljub"]
+[Black "Bronstein, David Ionovich"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "ceb3b172"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Bb5+ Nbd7 8.
+d6 O-O 9. dxe7 Qxe7+ 10. Nge2 a6 11. Bd3 b5 12. a3 Bb7 13. O-O Rfe8 14. Bg5
+1/2-1/2

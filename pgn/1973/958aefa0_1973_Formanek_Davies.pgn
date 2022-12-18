@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1973.01.01"]
+[Round "4"]
+[White "Formanek, Edward"]
+[Black "Davies, J."]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "958aefa0"]
+[Epoch "Bishop"]
+[WhiteID "2001640"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 cxd4 8. cxd4
+Be7 9. Bd3 f5 10. Ne2 O-O 11. h3 b6 12. g4 Nb4 13. Bb1 Ba6 14. gxf5 exf5 15.
+Be3 Rc8 16. h4 Qc7 17. Nc3 Qc4 18. a3 Nd3+ 19. Bxd3 Qxd3 20. Qxd3 Bxd3 21. Nxd5
+Rfe8 22. Nc3 b5 23. d5 Bc5 24. Kd2 Bc4 25. d6 Be6 26. Bxc5 Nxc5 27. Nd4 a6 28.
+Rac1 Bc4 29. Nxf5 Nb3+ 30. Ke3 Nxc1 31. d7 Be6 32. dxc8=Q Bxc8 33. Nd6 1-0

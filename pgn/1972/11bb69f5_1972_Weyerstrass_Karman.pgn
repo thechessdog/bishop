@@ -1,0 +1,17 @@
+[Event "Blaricum"]
+[Site "Blaricum"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Karman"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "11bb69f5"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Bg4 4. Nc3 Nf6 5. cxd5 cxd5 6. Qb3 b6 7. Bf4 Nc6 8. e3
+Nd7 9. Bb5 Rc8 10. Qxd5 Nb4 11. Qb3 Bxf3 12. gxf3 e6 13. a3 Rxc3 14. bxc3 Nd5
+15. Bg3 Be7 16. Rg1 O-O 17. Bd3 Qc8 18. c4 N5f6 19. e4 Nh5 20. Qc2 Qb7 21. Ke2
+Rc8 22. f4 f6 23. Qb3 Kf8 24. f5 1-0

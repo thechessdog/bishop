@@ -1,0 +1,17 @@
+[Event "Ph Leeuwarden-LSG SB"]
+[Site "Ph Leeuwarden-LSG SB"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Van Wijngaarden"]
+[Black "De Groot, Pieter"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[HashCode "8fe21034"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be3 Nf6 6. Nd2 d5 7. e5 Nfd7 8. f4
+Nc6 9. c3 Ne7 10. Bd3 g6 11. Bf2 Nf5 12. Bc2 h5 13. g4 hxg4 14. Qxg4 Nb6 15.
+Qg1 Nc4 16. Nxc4 dxc4 17. O-O-O Qe7 18. Ba4+ b5 19. Nxb5 axb5 20. Bxb5+ Bd7 21.
+Rxd7 1-0

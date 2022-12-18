@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kretschmar, H."]
+[Black "Nordstrom, E."]
+[Result "1-0"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "1111f2c4"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Bd3 Bb7 8.
+f3 O-O 9. Ne2 Nc6 10. e4 Na5 11. Bg5 d6 12. O-O Ba6 13. f4 Bxc4 14. e5 dxe5
+15. fxe5 h6 16. Bxf6 gxf6 17. Rxf6 Kg7 18. Nf4 Bxd3 19. Nh5+ 1-0
+

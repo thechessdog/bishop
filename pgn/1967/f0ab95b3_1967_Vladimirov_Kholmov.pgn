@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Vladimirov, Boris T"]
+[Black "Kholmov, Ratmir D"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "f0ab95b3"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bxf6 Bxf6 7. e4 dxe4 8.
+Nxe4 Nc6 9. Nxf6+ Qxf6 10. Qd2 Bd7 11. Qe3 O-O-O 12. Be2 Rhe8 13. O-O Kb8 14.
+Ne5 Nxe5 15. dxe5 Qg5 1/2-1/2

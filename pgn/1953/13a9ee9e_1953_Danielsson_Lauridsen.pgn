@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Danielsson, Gosta"]
+[Black "Lauridsen, Evald"]
+[Result "1-0"]
+[ECO "E85"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox variation"]
+[HashCode "13a9ee9e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 exd4 8.
+Nxd4 c6 9. Qd2 Nbd7 10. O-O-O d5 11. exd5 cxd5 12. Bh6 Nb6 13. Bxg7 Kxg7
+14. cxd5 Nbxd5 15. Bc4 Nb6 16. Bb3 Bd7 17. h4 Rc8 18. h5 Qe7 19. hxg6 fxg6
+20. Rde1 Qb4 21. Nc2 Qc5 22. Qh6+ 1-0
+

@@ -1,0 +1,24 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "9"]
+[White "Csom, Istvan"]
+[Black "Gerusel, Mathias"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b14d0721"]
+[Epoch "Bishop"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackID "4601122"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 Nc6 5. Nf3 cxd4 6. cxd4 d6 7. Nc3 dxe5 8.
+dxe5 Nxc3 9. Qxd8+ Nxd8 10. bxc3 a6 11. Be3 Nc6 12. Bc4 Bf5 13. e6 fxe6 14. Nd4
+Nd8 15. O-O g6 16. Nxf5 gxf5 17. Bd4 Rg8 18. Rfe1 Rg6 19. Be2 Nf7 20. Bf3 e5
+21. Bxe5 Nxe5 22. Rxe5 Rb6 23. Rxf5 O-O-O 24. Rf7 h6 25. h4 Kc7 26. Re1 Rbd6
+27. Re4 Rf6 28. Rxf6 exf6 29. Re6 Rd6 30. Re8 Rd8 31. Rxd8 Kxd8 32. Bxb7 a5 33.
+g3 Kc7 34. Ba8 Kd6 35. Kg2 Kc5 36. f4 Kc4 37. Kf3 Bc5 38. g4 Kxc3 39. Ke4 Bf2
+40. g5 hxg5 41. hxg5 fxg5 42. fxg5 Kc4 43. Ke5 Kc5 44. Ke6 Bd4 45. g6 1-0

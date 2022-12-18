@@ -1,0 +1,18 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Neu, A."]
+[Black "Cuellar Gacharna, Miguel"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "7bdbdeff"]
+[Epoch "Bishop"]
+[BlackCountry "COL"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. cxd5 Nxd5 7. Nc3 c6 8. O-O
+Nb6 9. e3 N8d7 10. Qc2 e5 11. Rd1 exd4 12. Nxd4 Qe7 13. Qe4 Ne5 14. Qc2 c5 15.
+Nb3 Bg4 16. Ne2 Rad8 17. Rxd8 Rxd8 18. h3 Nf3+ 19. Bxf3 Bxf3 20. Nc3 Bxc3 21.
+bxc3 Rd1+ 0-1

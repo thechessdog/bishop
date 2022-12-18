@@ -1,0 +1,23 @@
+[Event "Bylderup"]
+[Site "Bylderup"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Lund, Jens"]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "4d33254a"]
+[Epoch "Bishop"]
+[BlackID "1437518"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 Nc6 5. Nc3 g6 6. e4 Bg7 7. Bf4 O-O 8. g3
+Nxd4 9. Qxd4 Nh5 10. Qd2 Nxf4 11. Qxf4 Qa5 12. Rc1 Bxc3+ 13. Rxc3 Qxa2 14. Qd2
+e6 15. Bd3 d5 16. Ra3 Qxa3 17. bxa3 dxc4 18. Bxc4 b5 19. Bxb5 Bb7 20. Qf4 f5
+21. Qe5 Bxe4 22. Qxe6+ Kg7 23. O-O a6 24. Bc6 Bxc6 25. Qxc6 a5 26. Rd1 f4 27.
+Rd7+ Kh6 28. Qb7 f3 29. Rxh7+ Kg5 30. h4+ Kg4 31. Qd7+ Rf5 32. Rf7 Rb8 33. Kh2
+Rd8 34. Rxf5 Rxd7 35. Rg5# 1-0

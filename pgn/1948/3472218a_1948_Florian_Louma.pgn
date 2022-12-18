@@ -1,0 +1,19 @@
+[Event "CSR-ch"]
+[Site "Bratislava"]
+[Date "1948.??.??"]
+[Round "6"]
+[White "Florian, Jaromir"]
+[Black "Louma, Jiri"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "3472218a"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 Bd7 15.
+Bd2 Rfc8 16. Rc1 exd4 17. Nfxd4 Ne5 18. Bb1 Nc4 19. Rc3 Qb6 20. Bc1 a5 21. Ne2
+d5 22. exd5 Bb4 23. Nbd4 Bxc3 24. Nxc3 Re8 25. Ne4 Nxe4 26. Bxe4 Nd6 27. Bf3
+Rxe1+ 28. Qxe1 Qxd4 29. Qe7 Qc4 30. Be3 Qc7 31. Bf4 Nf5 0-1

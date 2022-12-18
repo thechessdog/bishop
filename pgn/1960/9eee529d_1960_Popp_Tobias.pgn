@@ -1,0 +1,17 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Popp, F."]
+[Black "Tobias, F."]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "9eee529d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 Bxd4 6. Nxd4 Nxd4 7. f4 d6
+8. fxe5 dxe5 9. c3 Bg4 10. Qe1 Nc2 11. Qg3 Qd6 12. Be3 O-O 13. Na3 Nxa1 14.
+b4 b6 15. Bg5 Nxe4 16. Qxg4 Nd2 17. Bf6 g6 18. Qh4 h5 19. Qg5 Ne4 20. Qxg6#
+1-0
+

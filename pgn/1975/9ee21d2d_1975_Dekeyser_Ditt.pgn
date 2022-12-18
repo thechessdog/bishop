@@ -1,0 +1,23 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Dekeyser"]
+[Black "Ditt"]
+[Result "0-1"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system, Kotov variation"]
+[HashCode "9ee21d2d"]
+[Epoch "Bishop"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6 5. Nge2 e5 6. d5 Nce7 7. Ng3 Nh6 8.
+Bd3 O-O 9. O-O c6 10. f4 Ng4 11. Qe2 cxd5 12. f5 dxe4 13. Ncxe4 gxf5 14.
+Nxf5 Bxf5 15. Rxf5 Nxf5 16. Qxg4 d5 17. cxd5 Qb6+ 18. Kh1 Nd4 19. Ng3 f5
+20. Bxf5 Nxf5 21. Nxf5 Qf6 22. Bh6 Rf7 23. Rf1 Qg6 24. Qxg6 hxg6 25. Bxg7
+Rxf5 26. Rxf5 gxf5 27. Bxe5 Re8 28. Bc3 Rd8 29. h3 Kf7 30. g4 Kg6 31. Kg2
+fxg4 32. hxg4 Rxd5 33. Kf3 Kg5 34. Ke4 Rd7 35. Kf3 a6 36. Be5 Rd3+ 37. Ke4
+Rd1 38. Kf3 Rf1+ 39. Ke4 Kxg4 40. Kd5 Kf5 41. Bc3 Rg1 42. Kd6 Rg6+ 43. Kc7
+b5 44. Kb7 Ke4 45. Ba5 Kd5 46. Bb6 Rg4 47. Kxa6 Kc6 48. b3 Rg8 49. a3 Ra8+
+50. Ba7 Kc7 51. b4 Kc6 52. a4 Rxa7+ 53. Kxa7 bxa4 0-1
+

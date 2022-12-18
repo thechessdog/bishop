@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Kozlovskaya, Valentina"]
+[Black "Jakira"]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "bb69a290"]
+[Epoch "Bishop"]
+[WhiteID "4107098"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. b4 c6 7. Bd3 dxc4 8. Bxc4
+Nd5 9. Qb3 Nxc3 10. Qxc3 Nd7 11. O-O a5 12. Bb2 Nb6 13. Ne5 axb4 14. Qb3 Bxe5
+15. dxe5 Nxc4 16. Qxc4 Qa5 17. a3 bxa3 18. Rxa3 Be6 19. Qh4 Qc7 20. Rd3 Ra2 21.
+Bc3 Rfa8 22. e4 h5 23. Rg3 Kh7 24. Qg5 Qd8 25. f4 Ra1 26. Bxa1 Rxa1 27. f5
+Rxf1+ 28. Kxf1 Bc4+ 29. Kf2 Qd4+ 30. Re3 Qc5 31. e6 Qd6 32. e5 Qc5 33. exf7
+Bxf7 34. e6 Qc2+ 35. Kg3 Be8 36. Qxe7+ Kh6 37. Qf8+ Kh7 38. Qxe8 1-0

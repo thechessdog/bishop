@@ -1,0 +1,21 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Shean, R."]
+[Black "Murray, W."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Treybal (Bayreuth) variation (exchange var. deferred)"]
+[HashCode "5ca95b31"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. d3 Bg4 7. Nbd2 Bd6
+8. h3 Bxf3 9. Nxf3 h6 10. Bd2 c5 11. Bc3 Qe7 12. Qe2 O-O 13. Nh4 Nh7 14.
+Nf5 Qf6 15. f4 b5 16. O-O b4 17. fxe5 Bxe5 18. Nxh6+ Qxh6 19. Bxe5 Rae8 20.
+Bxc7 Re6 21. Bf4 Qh4 22. Qf2 Qh5 23. Kh2 Rg6 24. Qf3 Qxf3 25. Rxf3 Rc8 26.
+Raf1 Rcc6 27. Be3 Rc7 28. Rf5 Rf6 29. Rxf6 Nxf6 30. Rf5 Nd7 31. Rd5 f6 32.
+Bf4 Rb7 33. Bd6 a5 34. Bxc5 Nxc5 35. Rxc5 a4 36. Kg3 b3 37. cxb3 axb3 38.
+a3 Kf7 39. Kf4 Rd7 40. Ke3 g5 41. d4 Kg6 42. d5 Rd6 43. Rb5 1-0
+

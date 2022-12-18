@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Solter, R."]
+[Black "Gudath, R."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Gunderam attack"]
+[HashCode "31d64d85"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. c5 b6 6. b4 a5 7. b5 bxc5 8.
+dxc5 e5 9. c6 Bc5 10. Ba3 Bd4 11. Nd2 Qb6 12. Be2 Bxf2+ 13. Kf1 h5 14. Rc1
+Rh6 15. Nc4 Qa7 16. Nd6+ Kd8 17. c7+ Kd7 18. cxb8=N+ Rxb8 19. Qc2 Ng4 20.
+Qc6+ 1-0
+

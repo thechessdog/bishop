@@ -1,0 +1,18 @@
+[Event "CSR-ch Army"]
+[Site "Prague"]
+[Date "1965.??.??"]
+[Round "15"]
+[White "Goeth, Jiri"]
+[Black "Sorsak, Jozef"]
+[Result "1-0"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "d3a7bfde"]
+[Epoch "Bishop"]
+[BlackID "14901846"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c5 8. Bd3 Na6
+9. Qd2 Bd7 10. Nge2 Nc7 11. h4 h5 12. Bg5 a6 13. g4 hxg4 14. h5 gxh5 15. Ng3
+gxf3 16. Nxh5 f2+ 17. Kf1 Nce8 18. Nxg7 Qc8 19. Nf5 Nxe4 20. Ne7+ Kg7 1-0

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Niephaus, Walter"]
+[Black "Farber"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "8a141c11"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Bc5 10. Nbd2 Nxd2 11. Qxd2 Ne7 12. Qc3 Ba7 13. Be3 Bb8 14. a4 c6 15.
+Bc5 Bd7 16. Nd4 O-O 17. Rfe1 Re8 18. axb5 cxb5 19. e6 1-0

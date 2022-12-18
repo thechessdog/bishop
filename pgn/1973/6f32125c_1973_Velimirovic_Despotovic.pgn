@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Velimirovic, Dragoljub"]
+[Black "Despotovic, Momcilo"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "6f32125c"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f5 8. Qh5+
+Qf7 9. Qxf7+ Kxf7 10. c4 dxc4 11. dxc5 c3 12. Nf3 h6 13. Be3 Ne7 14. O-O-O Nd5
+15. Bc4 Nxe3 16. fxe3 Nd7 17. Rhf1 Nxc5 18. g4 Kg6 19. gxf5+ exf5 20. Rd6+ Kh7
+21. Bf7 g5 22. e6 b6 23. Nd4 Ne4 24. Rc6 Ba6 25. Rxf5 Rhc8 26. e7 Rxc6 27. Nxc6
+Nd6 28. Rf6 Nxf7 29. Rxf7+ Kg8 30. Nd8 Bb5 31. Rf8+ Kh7 32. Nc6 1-0

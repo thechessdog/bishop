@@ -1,0 +1,21 @@
+[Event "Canada"]
+[Site "Toronto"]
+[Date "1972.01.01"]
+[Round "10"]
+[White "Selick, Paul"]
+[Black "MacPhail, John"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "fcbd495e"]
+[Epoch "Bishop"]
+[BlackID "2600153"]
+[BlackCountry "CAN"]
+[WhiteID "2600501"]
+[WhiteCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 O-O 6. a3 Bxc3+ 7. Nxc3 b6 8. Be2
+Bb7 9. O-O d5 10. dxc5 bxc5 11. cxd5 exd5 12. Bf3 Qd6 13. Nxd5 Nxd5 14. e4 Nc6
+15. Qxd5 Qxd5 16. exd5 Nd4 17. Bd1 Rfd8 18. Be3 Rxd5 19. b4 c4 20. Rc1 Rc8 21.
+Bg4 f5 22. Bxd4 1/2-1/2

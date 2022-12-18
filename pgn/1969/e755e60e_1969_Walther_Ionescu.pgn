@@ -1,0 +1,17 @@
+[Event "corr ICCF/EU/I"]
+[Site "corr ICCF/EU/I"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Ionescu"]
+[Result "1-0"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, solid line"]
+[HashCode "e755e60e"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 d6 8. a4
+Bg4 9. c3 Na5 10. Bc2 c6 11. d4 O-O 12. h3 Be6 13. Nbd2 Nh5 14. dxe5 Nf4 15.
+Qe3 Bg5 16. Kh2 Nxh3 17. Nxg5 Nxg5 18. f4 Bc4 19. Nxc4 1-0

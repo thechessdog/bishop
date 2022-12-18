@@ -1,0 +1,17 @@
+[Event "North Carolina"]
+[Site "North Carolina"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Lipkin, A."]
+[Black "Lankford"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "335bc657"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nc6 4. Nf3 Nce7 5. Bf4 Nf6 6. Bg3 Ng6 7. e3 b6 8.
+cxd5 exd5 9. Nb5 Bb4+ 10. Nd2 O-O 11. Nxc7 Ne4 12. Nxa8 Bxd2+ 13. Ke2 Ba6+
+14. Kf3 Qf6+ 15. Bf4 Nh4+ 16. Kg4 Bc8+ 17. Kh5 g6+ 18. Kh6 Qg7# 0-1
+

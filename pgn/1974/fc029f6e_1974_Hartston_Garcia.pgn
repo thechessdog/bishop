@@ -1,0 +1,20 @@
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1974.04.01"]
+[Round "1"]
+[White "Hartston, William R"]
+[Black "Garcia, Gildardo"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Pachman system"]
+[HashCode "fc029f6e"]
+[Epoch "Bishop"]
+[BlackID "4400020"]
+[BlackCountry "COL"]
+[WhiteID "400262"]
+[WhiteCountry "ENG"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. Nbd2 O-O 7. e4 d4 8. Nc4
+Nd7 9. a4 a5 10. c3 Nc6 11. cxd4 exd4 12. Bg5 Bf6 13. Bh6 Re8 14. Ne1 Nde5 15.
+Nxe5 Rxe5 16. Bd2 Re8 17. f4 1/2-1/2

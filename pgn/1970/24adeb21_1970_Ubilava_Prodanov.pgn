@@ -1,0 +1,22 @@
+[Event "Sukhumi"]
+[Site "Sukhumi"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ubilava"]
+[Black "Prodanov"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "24adeb21"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 c6 8.
+a4 Qc7 9. a5 h6 10. d5 b5 11. axb6 Nxb6 12. Bf1 cxd5 13. exd5 Bb7 14. Nb5
+Qc8 15. Rxa7 Nfxd5 16. c4 Rxa7 17. Nxa7 Qb8 18. Nb5 Nc7 19. Nxd6 Rd8 20. c5
+Ne8 21. Rxe5 Bxd6 22. cxd6 Nxd6 23. Re1 Bc6 24. Bf4 Nd5 25. Be5 Qb4 26. Qd4
+Nf5 27. Qxb4 Nxb4 28. Bc3 Rb8 29. Ne5 Bb5 30. Bxb4 Bxf1 31. Nc6 Rc8 32.
+Kxf1 Rxc6 33. Bc3 Nd6 34. Re5 Rb6 35. Bd4 Rb3 36. Re3 Rb5 37. Bc3 f6 38. b4
+Nc4 39. Re8+ Kf7 40. Rc8 Nd6 41. Rc7+ Kf8 42. Ke2 Ne4 43. Kd3 Nxf2+ 44. Kc4
+Rb8 45. b5 Ne4 46. Bb4+ Kg8 47. Bc5 Nd2+ 48. Kb4 1-0
+

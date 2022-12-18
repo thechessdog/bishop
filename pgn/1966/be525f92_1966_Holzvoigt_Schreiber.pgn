@@ -1,0 +1,19 @@
+[Event "corr ch10-BRD"]
+[Site "corr ch10-BRD"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Holzvoigt, G."]
+[Black "Schreiber, W."]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "be525f92"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. Nf3 exf4 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6
+8. Qe2+ Be6 9. Ng5 O-O 10. Nxe6 fxe6 11. Bxc6 bxc6 12. Qxe6+ Kh8 13. O-O f3
+14. Rxf3 Re8 15. Qc4 Re1+ 16. Rf1 Ng4 17. g3 Qf6 18. Bf4 Rxf1+ 19. Qxf1
+Qxd4+ 20. Kh1 Qd5+ 21. Qg2 Qd1+ 22. Qg1 Qf3+ 23. Qg2 Nf2+ 24. Kg1 Nh3+ 25.
+Kh1 Qd1+ 26. Qg1 Qxg1# 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gerer, J."]
+[Black "Bluemmel, P."]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "393069ec"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. Nc4 f6 10. a4 Nb6 11. Ne3 Be6 12. Nh4 Qd7 13. Qf3 Rae8 14.
+Nef5 Bd8 15. Qg3 Kh8 16. b3 g6 17. Ne3 Qg7 18. Bb2 Be7 19. d4 exd4 20. Bxd4
+Bd6 21. f4 Nd7 22. Kh1 Nc5 23. Qf3 Qh6 24. g3 Nxe4 25. Rad1 Bh3 26. Rfe1
+Bb4 27. c3 Bxc3 28. Bxc3 Nxc3 29. Nef5 Nxd1 0-1
+

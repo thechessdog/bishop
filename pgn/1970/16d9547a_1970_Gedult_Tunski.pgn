@@ -1,0 +1,17 @@
+[Event "Vittel"]
+[Site "Vittel"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Tunski"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "16d9547a"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 f5 4. Bg5 Nd7 5. f3 Ngf6 6. fxe4 fxe4 7. Bc4 h6 8.
+Nxe4 hxg5 9. Nxg5 e6 10. Bxe6 Qe7 11. N1f3 Nb6 12. O-O Bxe6 13. Nxe6 Kf7 14.
+Nfg5+ Kg8 15. Qd3 c6 16. Rf3 Nbd5 17. Raf1 Rc8 18. c4 Nb4 19. Qb3 Na6 20. c5
+Rh4 21. Nf4+ Kh8 22. Ng6# 1-0

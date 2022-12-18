@@ -1,0 +1,23 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Kramer"]
+[Black "Paloma"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "4d1a7ed0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Nbd7 5. g3 Bg7 6. Bg2 O-O 7. O-O e5 8.
+e4 Re8 9. d5 Nc5 10. Ne1 a5 11. h3 Bd7 12. Be3 b6 13. b3 Qc8 14. Kh2 Nh5
+15. Rc1 Bh8 16. Bh6 Bg7 17. Bxg7 Nxg7 18. Nd3 Nxd3 19. Qxd3 Rf8 20. f4 f6
+21. Rce1 Qd8 22. Rf2 Qe7 23. Qd2 Rab8 24. a3 Ra8 25. Nd1 Rab8 26. Nb2 Rbd8
+27. Nd3 Ra8 28. Qc3 Rfd8 29. Ref1 Rf8 30. b4 axb4 31. axb4 Rac8 32. Ra1 Ra8
+33. Rfa2 Rxa2 34. Rxa2 exf4 35. gxf4 g5 36. e5 fxe5 37. fxe5 Bf5 38. e6
+Bxd3 39. Qxd3 Qf6 40. Qe4 Qf4+ 41. Qxf4 Rxf4 42. Ra8+ Rf8 43. Ra7 Ne8 44.
+Kg3 Kg7 45. Bf3 Kg6 46. Ra8 h5 47. Bd1 h4+ 48. Kg2 Kf6 49. Bh5 Ke7 50.
+Rxe8+ 1-0
+

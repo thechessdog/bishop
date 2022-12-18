@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Owens"]
+[Black "Oberwitz"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "14ec7d12"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d4 exd4 8.
+Ng5 Ne5 9. Qxd4 Bd6 10. f4 Qe7 11. Qd1 Bc5+ 12. Kh1 h6 13. fxe5 hxg5 14.
+exf6 Qe5 15. Bxf7+ Kd8 16. h3 Rxh3+ 17. gxh3 Bxe4+ 18. Rf3 Bxf3+ 19. Qxf3
+Qe1+ 20. Kg2 Qg1# 0-1
+

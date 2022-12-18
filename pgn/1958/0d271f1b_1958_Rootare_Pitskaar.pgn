@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Rootare, Salme"]
+[Black "Pitskaar"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "0d271f1b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. c3 O-O 8.
+O-O d5 9. exd5 e4 10. Ng5 Bg4 11. Qe1 Ne5 12. d4 Nd3 13. Qe3 Bd6 14. Nxe4
+Nxc1 15. Nxf6+ Qxf6 16. Qxc1 Bf4 17. Qc2 Rae8 18. f3 Bf5 19. Qd1 Qh4 20. g3
+Bxg3 21. Qd2 Bf4 22. Qg2 Bh3 0-1
+

@@ -1,0 +1,18 @@
+[Event "US op"]
+[Site "Omaha"]
+[Date "1949.??.??"]
+[Round "5"]
+[White "Bain, O."]
+[Black "Schaffer, J."]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "50a5eb64"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Bd3 O-O 6. Nf3 c5 7. O-O Nc6 8.
+a3 cxd4 9. exd4 dxc4 10. Bxc4 Be7 11. Qd3 b6 12. Re1 Bb7 13. Bg5 Rc8 14.
+Rad1 Nd5 15. Bxe7 Ncxe7 16. Ba2 Nf4 17. Qe3 Nxg2 18. Kxg2 Nf5 19. Qf4 g5
+20. Qc1 Nh4+ 21. Kf1 Ba6+ 0-1
+

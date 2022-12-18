@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Quednau"]
+[Black "Schuetz"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Marini variation"]
+[HashCode "12181d60"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. d3 Be7 7. e3 Be6 8.
+Be2 O-O 9. Qc2 f5 10. Na4 Rf6 11. Nc5 Bxc5 12. Qxc5 Rg6 13. g3 f4 14. e4
+Nb6 15. Nxe5 Nxe5 16. Qxe5 f3 17. Bf1 Qd7 18. Be3 Re8 19. Rc1 c6 20. Qa5
+Bd5 21. h4 Bxe4 22. dxe4 Rxe4 23. Bh3 Qd3 24. Qd2 Qb5 25. Bf1 Qe5 26. Qc3
+Qe8 27. Bd3 Rxe3+ 28. fxe3 Qxe3+ 29. Kf1 Nd5 30. Bc4 Re6 31. Re1 1-0
+

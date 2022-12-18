@@ -1,0 +1,23 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Vasiukov, Evgeni"]
+[Black "Bukic, Enver"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, Malkin variation"]
+[HashCode "8a553c7b"]
+[Epoch "Bishop"]
+[WhiteID "4100522"]
+[BlackID "14600030"]
+[WhiteCountry "RUS"]
+[BlackCountry "SLO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nbd2 O-O 11. Qe2 Na5 12. Bc2 Nxd2 13. Qxd2 c5 14. Qd3 g6 15.
+Bh6 Re8 16. Rad1 Nc4 17. Bc1 f6 18. exf6 Bxf6 19. Rfe1 Qd6 20. Bb3 Rad8 21. h3
+Re7 22. a4 d4 23. axb5 axb5 24. cxd4 cxd4 25. Bg5 Bf7 26. Bxf6 Qxf6 27. Rxe7
+Qxe7 28. Re1 Qf6 29. Re4 Nxb2 30. Qxb5 d3 31. Bxf7+ Kxf7 32. Ng5+ Kg8 33. Qb3+
+Kg7 34. Qb7+ Kh6 35. Qxh7+ Kxg5 36. Qh4+ 1-0

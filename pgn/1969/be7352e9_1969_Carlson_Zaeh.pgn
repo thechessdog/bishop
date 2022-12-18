@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Zaeh"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "be7352e9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Qe2
+Bb7 9. Bg5 Nbd7 10. O-O-O Rc8 11. Rhe1 h6 12. Bh4 Rxc3 13. bxc3 Qa5 0-1

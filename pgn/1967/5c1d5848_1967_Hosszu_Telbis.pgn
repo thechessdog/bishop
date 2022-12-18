@@ -1,0 +1,19 @@
+[Event "corr ch-RUM"]
+[Site "corr ch-RUM"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Hosszu, E."]
+[Black "Telbis, C."]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[HashCode "5c1d5848"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. Be2 Qb6 13. a4 b4 14. a5 Qc7
+15. Ne4 Rxh2 16. Rxh2 Qxh2 17. a6 Bc8 18. Qa4 Nb6 19. Qxc6+ Bd7 20. Qb7 Rb8
+21. g3 Rxb7 22. axb7 Qh1+ 23. Kd2 c3+ 24. Ke3 Nd5+ 25. Kd3 Bb5+ 26. Kc2
+Qxe4+ 27. Kb3 Bd6 0-1
+

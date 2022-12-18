@@ -1,0 +1,19 @@
+[Event "Ilford"]
+[Site "Ilford"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Oliff"]
+[Black "Naylor"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "6d9e5814"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 h6 4. Bh4 e6 5. e4 g5 6. Bg3 Nxe4 7. Nxe4 dxe4
+8. f3 c5 9. fxe4 cxd4 10. Nf3 Qa5+ 11. Kf2 Nc6 12. Bd3 e5 13. a3 Bd6 14.
+Rf1 Bg4 15. Kg1 O-O 16. b4 Qc7 17. Qd2 f6 18. Rac1 a6 19. c3 dxc3 20. Rxc3
+Qe7 21. Rd1 Rfd8 22. Bc4+ Kg7 23. Bd5 Nd4 24. Rd3 Bxf3 25. gxf3 Rac8 26.
+Bf2 Rc2 27. Rxd4 Rxd2 28. R4xd2 b5 29. Kg2 Qc7 30. Be6 Qb8 31. Bc5 Bc7 32.
+Rxd8 Bxd8 33. Rd7+ Kg6 34. Bf5+ Kh5 35. Rg7 Bb6 36. Kh3 1-0
+

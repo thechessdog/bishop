@@ -1,0 +1,16 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Hargery"]
+[Black "Popovych, Orest"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "35043dd3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Ne2 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 O-O 10. Qf3 Qc7 11. e5 dxe5 12. Ndxb5 axb5 13. fxe5 Nfd7 14. Be3 Ra5
+15. Qg3 Bc5 0-1

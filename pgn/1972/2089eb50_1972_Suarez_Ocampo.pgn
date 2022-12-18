@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Suarez, OC."]
+[Black "Ocampo, R."]
+[Result "0-1"]
+[ECO "E75"]
+[Opening "King's Indian"]
+[Variation "Averbakh, main line"]
+[HashCode "2089eb50"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bg5 O-O 5. e4 c5 6. d5 d6 7. Be2 e6 8. Qd2
+exd5 9. cxd5 Re8 10. Bd3 Nbd7 11. f4 h6 12. Bh4 b5 13. Nf3 c4 14. Bc2 b4
+15. Nb5 Nxe4 16. Bxe4 Rxe4+ 17. Kf1 Qb6 18. a4 bxa3 19. Nxa3 c3 20. Qc2
+cxb2 21. Re1 Ba6+ 0-1
+

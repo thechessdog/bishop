@@ -1,0 +1,15 @@
+[Event "Metz"]
+[Site "Metz"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Kuenzler"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest defence declined"]
+[HashCode "95095c45"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e5 3. e3 Bb4+ 4. Bd2 Qe7 5. Nc3 exd4 6. Nd5 Nxd5 7. cxd5 dxe3
+8. fxe3 Qxe3+ 9. Qe2 Bxd2+ 0-1

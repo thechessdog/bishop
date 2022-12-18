@@ -1,0 +1,16 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Savanto"]
+[Black "Molder"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "6fd53293"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1
+Be7 8. Bxf7+ Kxf7 9. Ne5+ Ke6 10. Qg4+ Kxe5 11. Qf5+ Kd6 12. Qd5# 1-0
+

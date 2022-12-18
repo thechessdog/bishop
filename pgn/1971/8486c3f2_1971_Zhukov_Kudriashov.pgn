@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Zhukov, V."]
+[Black "Kudriashov, Anatoli"]
+[Result "1-0"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "8486c3f2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Be3 a6 8. Bb3
+O-O 9. Qe2 Nc6 10. O-O-O Qc7 11. Rhg1 b5 12. g4 Nxd4 13. Bxd4 Nd7 14. g5 Bb7
+15. Qh5 g6 16. Qh6 e5 17. Rd3 Rfc8 18. Bxf7+ Kxf7 19. Qxh7+ Ke8 20. Qxg6+ Kd8
+21. Qg8+ Nf8 22. Bxe5 Qc4 23. Qg7 Ne6 24. Qf7 Rc7 25. Bxd6 Bxg5+ 26. Bf4+ Kc8
+27. Qe8+ Bd8 28. Rg8 Bxe4 29. Rxd8+ Kb7 30. Bxc7 Qf1+ 31. Nd1 Qe2 32. Rb8+ 1-0

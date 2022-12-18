@@ -1,0 +1,23 @@
+[Event "Helsinki olm"]
+[Site "Helsinki"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Mueller, P."]
+[Black "Oren, Menachem"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, Eliskases variation"]
+[HashCode "bf2d12ec"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd8 7. O-O Nf6
+8. Nb3 Be7 9. Qe2 a6 10. Nbxd4 Qc7 11. Ne5 Nc6 12. Ndxc6 bxc6 13. Re1 O-O
+14. Bg5 Nd5 15. Bxe7 Nxe7 16. Qe4 Bb7 17. Bd3 Ng6 18. Nxg6 hxg6 19. Qe5
+Rac8 20. Qxc7 Rxc7 21. Red1 Rd8 22. Be2 Rcd7 23. Rxd7 Rxd7 24. Rd1 Rxd1+
+25. Bxd1 a5 26. Kf1 Kf8 27. Ke2 Ke7 28. c3 c5 29. g3 g5 30. a3 c4 31. b4
+cxb3 32. Bxb3 Kd6 33. Ke3 f6 34. Kd3 e5 35. Bf7 Kc5 36. Kc2 Be4+ 37. Kd2
+Bd5 38. Be8 Kc4 39. Ba4 f5 40. Bc2 f4 41. Bd1 Be6 42. gxf4 gxf4 43. h4 e4
+44. a4 Kd5 45. Bb3+ Ke5 46. Bd1 Kf5 47. Ke1 f3 48. Kd2 Kf4 49. c4 e3+ 50.
+fxe3+ Kg3 51. c5 f2 0-1
+

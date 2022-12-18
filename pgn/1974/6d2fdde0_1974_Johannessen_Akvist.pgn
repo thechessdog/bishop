@@ -1,0 +1,20 @@
+[Event "Oslo CI"]
+[Site "Oslo"]
+[Date "1974.??.??"]
+[Round "6"]
+[White "Johannessen, Svein"]
+[Black "Akvist, Hakan"]
+[Result "1/2-1/2"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "6d2fdde0"]
+[Epoch "Bishop"]
+[BlackID "1700901"]
+[BlackCountry "SWE"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. g3 d6 8. Bg2
+Bg7 9. Nf3 O-O 10. O-O Nbd7 11. Re1 Qa5 12. Bd2 Rfb8 13. Qc2 Qb6 14. Reb1 Bb7
+15. e4 Ng4 16. Nd1 Ba6 17. Bc3 Nge5 18. Ne1 c4 19. Qd2 Nc5 20. Nc2 Qc7 21. Nd4
+Bb5 22. Ne3 Na4 23. f4 Nxc3 24. bxc3 Nd7 25. Nc6 Bxc6 26. dxc6 Rxb1+ 27. Rxb1
+Rb8 1/2-1/2

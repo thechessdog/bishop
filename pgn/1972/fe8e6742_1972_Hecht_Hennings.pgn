@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1972.06.01"]
+[Round "5"]
+[White "Hecht, Hans-Joachim"]
+[Black "Hennings, Artur"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "fe8e6742"]
+[Epoch "Bishop"]
+[BlackID "4611594"]
+[BlackCountry "GER"]
+[WhiteID "4600320"]
+[WhiteCountry "DEU"]
+
+1. b3 d5 2. Bb2 Bg4 3. g3 c6 4. Bg2 Nd7 5. c4 e6 6. Nf3 Ngf6 7. O-O Bd6 8. cxd5
+cxd5 9. d4 Bxf3 10. Bxf3 O-O 11. Nc3 Bb4 12. Qd3 Rc8 13. Rfc1 a6 14. Rc2 Nb6
+15. e3 Qd7 16. Rac1 Rc6 17. Ne2 Rfc8 18. Nf4 R8c7 19. Bd1 Bd6 20. f3 Nc8 21.
+Rxc6 Rxc6 22. Rxc6 Qxc6 23. Qc2 Na7 24. Nd3 Nd7 25. Qxc6 Nxc6 26. Bc3 a5 27. a4
+Nb4 28. Nxb4 1/2-1/2

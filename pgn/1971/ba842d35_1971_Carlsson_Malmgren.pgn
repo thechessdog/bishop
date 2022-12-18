@@ -1,0 +1,21 @@
+[Event "SWE-ch"]
+[Site "Eskilstuna"]
+[Date "1971.??.??"]
+[Round "1"]
+[White "Carlsson, Aake"]
+[Black "Malmgren, Sven Goran"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "ba842d35"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8.
+h3 Bxf3 9. Bxf3 e5 10. d5 Ne7 11. g3 Nd7 12. Bg2 f5 13. exf5 gxf5 14. Bg5
+h6 15. Bxe7 Qxe7 16. g4 fxg4 17. Qxg4 Nc5 18. Be4 Rf4 19. Qg2 Kh8 20. Kh2
+Qf7 21. f3 Nxe4 22. fxe4 Rf8 23. Rxf4 exf4 24. Qf3 c6 25. Rg1 Kh7 26. Nd1
+cxd5 27. exd5 Be5 28. c4 Qf5 29. b3 b6 30. Nf2 Bd4 31. Rg2 Re8 32. Nd1 h5
+33. Rd2 Be5 34. Nf2 Bf6 35. Re2 Rxe2 36. Qxe2 f3 37. Qe4 Be5+ 38. Kg1 Kg6
+39. Qxf5+ Kxf5 40. Nd3 Bd4+ 41. Kf1 Ke4 42. Nb4 a5 43. Na6 Kd3 0-1
+

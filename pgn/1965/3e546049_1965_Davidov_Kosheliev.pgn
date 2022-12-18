@@ -1,0 +1,17 @@
+[Event "Smolensk"]
+[Site "Smolensk"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Davidov"]
+[Black "Kosheliev"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, Flohr variation"]
+[HashCode "3e546049"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nh3 e6 7. Nf4 Bd6
+8. h4 Qc7 9. h5 Bxf4 10. hxg6 Bxg3 11. Rxh7 Rxh7 12. gxh7 Qa5+ 13. c3 Bxf2+
+14. Kd2 Be3+ 15. Kc2 1-0
+

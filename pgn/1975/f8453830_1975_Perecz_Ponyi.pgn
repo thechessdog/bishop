@@ -1,0 +1,20 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Perecz, Laszlo"]
+[Black "Ponyi, Attila"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "f8453830"]
+[Epoch "Bishop"]
+[WhiteID "700746"]
+[WhiteCountry "HUN"]
+[BlackID "715972"]
+[BlackCountry "HUN"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Bf5 7. Nc3 e6 8. Nf3
+Bb4 9. Bd3 c5 10. O-O Nc6 11. Bxf5 cxd4 12. Bg5 Qd7 13. Nd5 exf5 14. Nxb4 Nxb4
+15. e6 fxe6 16. Ne5 Qc7 17. Qh5+ g6 18. Nxg6 Qf7 19. Rae1 Kd7 20. Ne5+ 1-0

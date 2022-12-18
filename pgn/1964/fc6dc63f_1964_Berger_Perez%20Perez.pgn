@@ -1,0 +1,19 @@
+[Event "Amsterdam Interzonal"]
+[Site "Amsterdam izt"]
+[Date "1964.05.01"]
+[Round "20"]
+[White "Berger, Bela"]
+[Black "Perez Perez, Francisco Jose"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "fc6dc63f"]
+[Epoch "Bishop"]
+[BlackCountry "EST"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. c4 Nc6 8. O-O
+Nge7 9. Nc3 Ne5 10. Kh1 Qc7 11. Qe2 O-O 12. f4 Nxd3 13. Qxd3 f5 14. Bd2 b6 15.
+Nd4 Bb7 16. Rac1 Rac8 17. b3 b5 18. cxb5 Qd6 19. Be3 fxe4 20. Qd1 Bxd4 21. Qxd4
+Qxd4 22. Bxd4 Nf5 23. Rfd1 axb5 24. Nxb5 Rxc1 25. Rxc1 Bc6 26. g4 e3+ 27. Kg1
+Nh4 0-1

@@ -1,0 +1,20 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Mueller"]
+[Black "Klee"]
+[Result "1/2-1/2"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "33d46602"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c6 5. Bd3 d6 6. Ne2 e5 7. O-O O-O 8. a3
+Ba5 9. b4 Bc7 10. d5 cxd5 11. cxd5 Bg4 12. f3 Bh5 13. e4 Nbd7 14. Bg5 Rc8
+15. Kh1 h6 16. Bh4 g5 17. Bf2 Bb6 18. g4 Bg6 19. Qd2 Kg7 20. Nb5 Bxf2 21.
+Rxf2 a6 22. Nbc3 Ng8 23. Ng3 Qb6 24. Kg2 Rc7 25. Rh1 Rfc8 26. Nce2 Ne7 27.
+h4 f6 28. hxg5 fxg5 29. Nf1 Nf6 30. Kg3 Nfg8 31. Rfh2 Rd7 32. Ne3 Qd8 33.
+b5 Rc5 34. Rb1 Be8 35. b6 Bg6 1/2-1/2
+

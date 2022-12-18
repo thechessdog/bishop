@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Baranov"]
+[Black "Kogan, Boris"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "2b04c57b"]
+[Epoch "Bishop"]
+[BlackID "2804352"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. g3 c5 3. d5 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. c4 Na6 8. Nc3
+Nc7 9. e4 Rb8 10. a4 Bg4 11. h3 Bxf3 12. Bxf3 b6 13. Kg2 a6 14. Be2 e6 15. f4
+exd5 16. cxd5 Re8 17. Bf3 b5 18. e5 dxe5 19. fxe5 Rxe5 20. Bf4 Nfxd5 21. axb5
+axb5 22. Nxd5 Nxd5 23. Bxe5 Ne3+ 24. Kh1 Nxd1 25. Bxb8 Ne3 26. Rf2 h5 27. Bf4
+Nd5 28. Ra7 Bd4 29. Rd2 Qc8 30. Rxd4 Qxh3+ 31. Kg1 Nxf4 0-1

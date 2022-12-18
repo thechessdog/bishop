@@ -1,0 +1,17 @@
+[Event "Zevenaar"]
+[Site "Zevenaar"]
+[Date "1961.01.01"]
+[Round "12"]
+[White "Henneberke, Franciscus"]
+[Black "Bouwmeester, Hans"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "28e1d1ad"]
+[Epoch "Bishop"]
+[BlackID "1000187"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. Ng3 dxc4 8. Bxc4
+c5 9. dxc5 Qxd1+ 10. Kxd1 Bxc5 11. b4 Be7 12. Bb2 b6 13. f3 Bb7 1/2-1/2

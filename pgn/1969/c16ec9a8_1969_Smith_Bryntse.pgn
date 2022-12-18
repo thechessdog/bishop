@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Smith, Olle"]
+[Black "Bryntse, Arne"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "c16ec9a8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 d6 7. Bd2 a6 8.
+Qe2 e5 9. Nb3 Be6 10. O-O Nc6 11. Bc4 Rc8 12. Nd5 Bxd5 13. Bxd5 Bxd2 14.
+Qxd2 Qb6 15. Bxc6+ Rxc6 16. Qe2 a5 17. Rab1 a4 18. Nc1 O-O 19. Qd3 Rfc8 20.
+c3 Rc4 21. Re1 a3 22. bxa3 Qc5 23. Re3 Ng4 24. Rf3 Nxf2 25. Qe3 Nxe4 26.
+Qxc5 Nxc5 27. Rb4 Rxb4 28. axb4 Ne4 29. Ne2 Ra8 30. Re3 d5 31. Ng3 Nxg3 32.
+Rxg3 b5 33. Rd3 Rd8 34. Kf2 Kf8 35. Rf3 Ke7 0-1
+

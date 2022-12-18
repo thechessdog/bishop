@@ -1,0 +1,22 @@
+[Event "Cordoba CR"]
+[Site "Cordoba"]
+[Date "1968.01.01"]
+[Round "2"]
+[White "Fiszman, Felix"]
+[Black "Bronstein, Luis Marcos"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "dd0cb4f6"]
+[Epoch "Bishop"]
+[BlackID "100463"]
+[BlackCountry "ARG"]
+[WhiteID "114502"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Nf6 5. Nf3 Nxd5 6. c4 Nb4 7. a3 N4c6 8. b4
+e5 9. Ra2 e4 10. Nfd2 f5 11. g3 Be6 12. Nb3 a5 13. b5 Ne5 14. N1d2 a4 15. Na1
+Qa5 16. Bg2 Bxc4 17. Bxe4 fxe4 18. Qh5+ Nf7 19. Rc2 Be6 20. O-O Be7 21. Nxe4
+O-O 22. Rd1 d3 23. Rc3 Nd7 24. Rcxd3 Nde5 25. Bd2 Qxb5 26. Bf4 Bg4 27. Rd5 Bxh5
+28. Rxb5 Bxd1 29. Bxe5 Nxe5 30. Rxe5 Bxa3 0-1

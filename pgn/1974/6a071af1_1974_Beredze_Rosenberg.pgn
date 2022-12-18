@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Beredze"]
+[Black "Rosenberg"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "6a071af1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bb5+ Bd7 7. Qe2 Nc6
+8. Be3 Bg7 9. O-O-O O-O 10. h4 Ng4 11. h5 Nxe3 12. fxe3 Ne5 13. hxg6 hxg6
+14. Qf2 Bxb5 15. Qh4 Re8 16. Qh7+ Kf8 17. Ne6+ fxe6 18. Nxb5 Ng4 19. Rdf1+
+Nf6 20. Qxg6 Kg8 21. Rh3 1-0
+

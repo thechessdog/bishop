@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Niesche"]
+[Black "Fahnenschmidt, Gerhard"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "6ae1bc01"]
+[Epoch "Bishop"]
+[BlackID "4600568"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7. Kg1
+Qh4 8. g3 Nxg3 9. hxg3 Qxg3+ 10. Kf1 Rf8 11. Qh5 Nd4 12. Qh2 Qf3+ 13. Kg1 d5
+14. Qxe5+ Be6 15. Bxd5 Ne2+ 16. Kh2 Qh3# 0-1

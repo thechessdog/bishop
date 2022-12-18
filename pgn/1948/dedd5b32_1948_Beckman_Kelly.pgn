@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Beckman, F."]
+[Black "Kelly, V."]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[HashCode "dedd5b32"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 c6 4. Nf3 Bb4 5. O-O d5 6. exd5 Bg4 7. dxc6 Nxc6
+8. d3 Nd4 9. Bxf7+ Kf8 10. Bb3 Nxf3+ 11. gxf3 Bh3 12. Re1 Qe8 13. Kh1 Qc6
+14. d4 exd4 15. Ba4 b5 16. Bxb5 Qb7 17. Bf4 dxc3 18. Bd6+ Kf7 19. Bc4+ Kg6
+20. Qd3+ Kh6 21. Bf4+ g5 22. Bxg5+ Kxg5 23. Qe3+ Kh5 24. Qe5+ 1-0
+

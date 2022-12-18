@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Suhr_Hansen, Allan"]
+[Black "Pedersen, Bent"]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "74100c28"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Bxc3+ 7. Nxc3 b6 8.
+cxd5 exd5 9. Bd3 Re8 10. O-O Ba6 11. b4 Bxd3 12. Qxd3 a6 13. Bb2 b5 14. f3
+Nbd7 15. e4 Nb6 16. e5 Nfd7 17. Bc1 Nf8 18. f4 f6 19. Ne2 Nc4 20. Ng3 g6
+21. exf6 Qxf6 22. f5 Re7 23. Bh6 Rae8 24. fxg6 Qxg6 25. Nf5 Re2 26. Qxe2
+Ne6 27. Ne7+ 1-0
+

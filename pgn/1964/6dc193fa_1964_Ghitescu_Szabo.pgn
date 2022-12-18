@@ -1,0 +1,18 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Ghitescu, Theodor"]
+[Black "Szabo, Laszlo"]
+[Result "1-0"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Chigorin defence"]
+[HashCode "6dc193fa"]
+[Epoch "Bishop"]
+[WhiteCountry "ROU"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 Bd6 7. e4 dxc4 8. Bxc4
+e5 9. O-O O-O 10. Bg5 Qc7 11. Bb3 exd4 12. Qxd4 Ne5 13. Bxf6 Nxf3+ 14. gxf3
+gxf6 15. Qxf6 Bh3 16. Kh1 Bxf1 17. Rxf1 Bxh2 18. e5 Qd8 19. Kxh2 Qxf6 20. exf6
+Kh8 21. Ne4 a5 22. Nd6 1-0

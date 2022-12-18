@@ -1,0 +1,15 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Lehman"]
+[Black "Gregory"]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[HashCode "15db9736"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 d5 6. dxe5 Nxe4 7. Qxd5 Nxf2
+8. Qxf7# 1-0
+

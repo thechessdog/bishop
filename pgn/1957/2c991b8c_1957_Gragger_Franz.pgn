@@ -1,0 +1,20 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Gragger"]
+[Black "Franz, Jrma"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "2c991b8c"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qh3 Nc6 10. Bxf5 exf5 11. Qg3 Qa5 12. Ne2 Be6 13. O-O O-O-O 14.
+a4 h4 15. Qxg7 cxd4 16. cxd4 Rdg8 17. Qf6 Rh7 18. Nf4 h3 19. g3 Nxd4 20. c3
+Nf3+ 21. Kh1 Qa6 22. Be3 Qc6 23. Bd4 Kd7 24. Rfb1 Nd2 25. f3 Nxf3 26. Rb5
+Nxd4 27. cxd4 Qc3 28. Rf1 Qc2 29. Re1 b6 30. Rbb1 Rg6 31. Rbc1 Qb2 32. Rb1
+Qc3 0-1
+

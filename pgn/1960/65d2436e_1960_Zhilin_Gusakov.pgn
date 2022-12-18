@@ -1,0 +1,16 @@
+[Event "Perm"]
+[Site "Perm"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Zhilin, Vitaly"]
+[Black "Gusakov, VS."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "65d2436e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Nc3 Nc6 8.
+Qf4 g6 9. Bd2 Bg7 10. O-O-O O-O 11. h4 Be6 12. h5 Re8 13. Qh2 Bf5 14. hxg6 hxg6
+15. Bg5 Qd7 16. Qh7+ Kf8 17. Nd5 f6 18. Qh8+ Bxh8 19. Rxh8+ Kf7 20. Rh7+ 1-0

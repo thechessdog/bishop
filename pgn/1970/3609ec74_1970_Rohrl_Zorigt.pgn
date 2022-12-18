@@ -1,0 +1,16 @@
+[Event "Siegen ol"]
+[Site "Siegen ol"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Roehrl, Karl"]
+[Black "Zorigt"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "3609ec74"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. Qe2 d6 8. Kh1
+Be7 9. f4 Nbd7 10. Nc3 O-O 11. Be3 b5 12. e5 Ne8 13. Qh5 g6 14. Qh6 Bb7 15. Ne4
+dxe5 16. Rf3 Bxe4 17. Bxe4 exd4 18. Bxd4 Rd8 19. Qxh7+ 1-0

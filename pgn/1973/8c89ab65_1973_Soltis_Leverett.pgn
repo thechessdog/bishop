@@ -1,0 +1,20 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Soltis, Andrew"]
+[Black "Leverett, Bruce W"]
+[Result "1-0"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "8c89ab65"]
+[Epoch "Bishop"]
+[BlackID "2002906"]
+[BlackCountry "USA"]
+[WhiteID "2000741"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Nb3 Be7 7. Bb5 O-O 8. Qe2
+Ncb8 9. h4 b6 10. Bd3 h6 11. Rh3 f5 12. exf6 Rxf6 13. g4 c5 14. g5 Rxf3 15.
+Rxf3 e5 16. gxh6 cxd4 17. Rg3 Bf6 18. hxg7 Bxg7 19. Bh7+ 1-0

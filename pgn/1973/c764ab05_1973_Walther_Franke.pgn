@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Walther, G."]
+[Black "Franke, C."]
+[Result "0-1"]
+[ECO "D89"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 13.Bd3"]
+[HashCode "c764ab05"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 O-O 9. O-O cxd4 10. cxd4 Nc6 11. Be3 Na5 12. Bd3 Bg4 13. f3 Be6 14.
+Qa4 a6 15. Rac1 b5 16. Qc2 Nc4 17. Bf2 Rc8 18. Bxc4 Bxc4 19. d5 Qa5 20.
+Rfe1 Qxa2 21. Qd1 Bxe2 0-1
+

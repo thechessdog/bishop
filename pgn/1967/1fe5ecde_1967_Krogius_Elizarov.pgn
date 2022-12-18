@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Krogius, Nikolai V"]
+[Black "Elizarov, A."]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "1fe5ecde"]
+[Epoch "Bishop"]
+[WhiteID "4100565"]
+[WhiteCountry "RUS"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 d6 4. d4 g6 5. O-O Bg7 6. c4 O-O 7. Nc3 c6 8. d5 e5
+9. dxe6 Bxe6 10. b3 Ne4 11. Nxe4 Bxa1 12. Nxd6 Bg7 13. Nxb7 Qxd1 14. Rxd1 Na6
+15. Ng5 Bc8 16. Nd8 Bd7 17. Nxc6 Bxc6 18. Bxc6 Rab8 19. Bd5+ Kh8 20. Nf7+ Kg8
+21. Ne5+ Kh8 22. Nd7 Nb4 23. Nxf8 Rxf8 24. Be3 Nxa2 25. Bxa7 1-0

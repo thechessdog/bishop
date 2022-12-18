@@ -1,0 +1,23 @@
+[Event "Mar del Plata ch"]
+[Site "Mar del Plata ch"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Leskovar"]
+[Black "De Urquia"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "c3b2a593"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 b6 9. Ne2 cxd4 10. Qb3 Qe7 11. exd4 Nc6 12. Bg5 Na5 13. Qd3 Nxc4 14.
+Qxc4 Bb7 15. Ne5 Rfc8 16. Qd3 Qf8 17. Rac1 Ne4 18. Be3 Qe8 19. f3 Nf6 20.
+Nc3 Nd5 21. Bd2 Bf8 22. f4 f6 23. Nf3 Nxc3 24. Bxc3 Qg6 25. Qe3 Qe4 26.
+Rce1 Qxe3+ 27. Rxe3 Bd5 28. a4 b5 29. axb5 Rcb8 30. Ra1 Rxb5 31. Ne1 a5 32.
+Nc2 Bd6 33. g3 Kf7 34. Ree1 h5 35. Ne3 Bb7 36. Ra4 h4 37. Nc4 Bc7 38. Rea1
+hxg3 39. hxg3 Rh5 40. Kf2 Bc6 41. R4a3 Rh2+ 42. Ke3 Rg2 43. Be1 Rh8 44.
+Nxa5 Bd5 45. Rc3 Bxf4+ 46. Kxf4 Re2 47. Rc7+ Kg6 48. Rac1 e5+ 49. dxe5
+fxe5+ 50. Kg4 Re4+ 51. Kf3 Rf8+ 52. Kg2 Rh4+ 0-1
+

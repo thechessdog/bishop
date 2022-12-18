@@ -1,0 +1,18 @@
+[Event "Cacak"]
+[Site "Cacak"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Planinc, Albin"]
+[Black "Puc, Stojan"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "d32ef0c5"]
+[Epoch "Bishop"]
+[WhiteCountry "SVN"]
+[BlackCountry "SVN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Qc2 Re8+ 9. Ne2 g6 10. h4 c5 11. h5 f5 12. hxg6 hxg6 13. g4 Qc7 14. Bg5 Qc6 15.
+O-O-O c4 16. Bxc4 Bf8 17. Qb3 Qc7 18. Bxf7+ 1-0

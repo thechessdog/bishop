@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Garcia Vera, Romeo"]
+[Black "Maderna, Carlos Hugo"]
+[Result "0-1"]
+[ECO "A12"]
+[Opening "English"]
+[Variation "New York (London) defensive system"]
+[HashCode "be81b10e"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. c4 Nf6 2. Nf3 c6 3. b3 d5 4. Bb2 Bf5 5. g3 Nbd7 6. Bg2 e6 7. O-O h6 8. d3
+Be7 9. Nc3 O-O 10. Rc1 a5 11. Nd4 Bh7 12. cxd5 exd5 13. e4 Bc5 14. Nde2 dxe4
+15. dxe4 Qe7 16. Qc2 Rfe8 17. Rfd1 Rad8 18. Nd4 Ba7 19. f3 Nf8 0-1

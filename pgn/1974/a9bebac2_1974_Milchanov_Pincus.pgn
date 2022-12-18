@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Milchanov"]
+[Black "Pincus"]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "a9bebac2"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O cxd4
+8. Nb3 Ne7 9. Nbxd4 O-O 10. b3 Bg4 11. Bb2 Bc5 12. Qd2 Bd7 13. Nxc6 bxc6
+14. Bd3 Bd6 15. c4 Rc8 16. Rad1 Qc7 17. Qg5 f6 18. Qh5 g6 19. Qh4 Kg7 20.
+g4 h6 21. g5 hxg5 22. Nxg5 1-0
+

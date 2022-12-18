@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "4"]
+[White "Van der Weide, Piet"]
+[Black "Prins, Lodewijk"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "50655710"]
+[Epoch "Bishop"]
+[WhiteID "1001370"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. f4 exd4 5. Qxd4 Nc6 6. Bb5 Bd7 7. Bxc6 Bxc6 8.
+Nf3 Be7 9. Bd2 O-O 10. O-O-O Re8 11. Rhe1 a5 12. h3 b5 13. g4 b4 14. Nd5 Nxd5
+15. exd5 Bb5 16. g5 Qd7 17. Nh4 Bf8 18. Rg1 c5 19. dxc6 Bxc6 20. g6 hxg6 21. f5
+Be4 22. fxg6 Rac8 23. c3 Qa4 24. gxf7+ Kh7 0-1

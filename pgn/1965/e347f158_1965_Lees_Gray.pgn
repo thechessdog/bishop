@@ -1,0 +1,21 @@
+[Event "Houston"]
+[Site "Houston"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Lees, David"]
+[Black "Gray, Richard"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "e347f158"]
+[Epoch "Bishop"]
+[BlackID "2009242"]
+[BlackCountry "USA"]
+[WhiteCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 c5 8. c3
+Qc7 9. O-O b6 10. Qe2 Bb7 11. Ne5 Bd6 12. f4 O-O 13. b3 Rac8 14. Bb2 Qd8 15.
+Rad1 Qe7 16. Nc4 cxd4 17. cxd4 Nd5 18. Qh5 N7f6 19. Qh4 h6 20. Rde1 Bb4 21. Nf5
+Qd8 22. Nxh6+ gxh6 23. Qxh6 Bxe1 24. Rf3 Nxf4 25. Rxf4 Qd5 26. Rg4+ Nxg4 27.
+Qh7# 1-0

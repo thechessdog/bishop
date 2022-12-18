@@ -1,0 +1,20 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Crabbendam, H."]
+[Black "Van Geet, Dirk Daniel"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "118a5dd4"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. a3 a5 7. Qd5 Qe7 8. Bd2
+O-O 9. Bc3 Re8 10. Nbd2 d6 11. exd6 cxd6 12. Be2 Nxf2 13. O-O Qxe3 14. Rae1
+Nd3+ 15. Kh1 Nxe1 16. Rxe1 Be6 17. Qh5 h6 18. g3 Ba7 19. Bd1 Qc5 20. Qh4 Bf5
+21. Rf1 Bg6 22. Qf4 Qe3 23. Qg4 Ne5 24. Nxe5 dxe5 25. Bf3 h5 26. Qd7 Rad8 27.
+Qxb7 Rb8 28. Qc7 Bd4 29. Bxd4 exd4 30. Bd5 Qxd2 31. Bxf7+ Bxf7 32. Qxf7+ Kh8
+33. Rf5 Qd1+ 34. Rf1 Qe2 35. Rf5 0-1

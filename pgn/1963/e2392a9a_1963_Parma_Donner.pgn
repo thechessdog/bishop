@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1963.08.01"]
+[Round "7"]
+[White "Parma, Bruno"]
+[Black "Donner, Jan Hein"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "e2392a9a"]
+[Epoch "Bishop"]
+[WhiteID "14600706"]
+[WhiteCountry "SLO"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O d6 9. Bg5 Qe7 10. f4 d5 11. exd5 Bxc3 12. bxc3 Qc5+ 13. Kh1 Nxd5 14. f5
+Qxc3 15. Qe1 1/2-1/2

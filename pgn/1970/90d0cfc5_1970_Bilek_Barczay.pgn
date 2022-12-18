@@ -1,0 +1,15 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Barczay, Laszlo"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "90d0cfc5"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. e3 Nf6 5. d4 cxd4 6. exd4 d5 7. cxd5 Nxd5 8.
+Qb3 Nxc3 9. Bc4 Nd5 10. Bxd5 e6 11. Bxc6+ bxc6 12. O-O Qd5 1-0

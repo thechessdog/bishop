@@ -1,0 +1,24 @@
+[Event "SWE-ch"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "8"]
+[White "Wahlbom, Magnus"]
+[Black "Fredriksson, Leif"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "b263111a"]
+[Epoch "Bishop"]
+[WhiteID "1700685"]
+[BlackID "1701061"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 Bb7 12. Qg3 O-O-O 13. Bxf6 Nxf6 14. Qxg7
+Rdf8 15. Qg3 b4 16. Na4 Qa5 17. b3 Nh5 18. Qf2 Nxf4 19. Bxa6 Qxa6 20. Qxf4 Rhg8
+21. Qf2 Kb8 22. Kb1 Rg4 23. Qd2 d5 24. e5 h5 25. Rf1 Bc8 26. Rf4 Rg7 27. Nf3
+Rfg8 28. g3 Bd7 29. Nb2 Kc7 30. Nd3 Ra8 31. Nxb4 Bxb4 32. Qxb4 Qxa2+ 33. Kc1
+Ra6 34. Nd4 Rg4 35. Rxg4 hxg4 36. Kd2 Ra7 37. Rf1 Be8 38. Qe7+ Bd7 39. Qd6+ Kc8
+40. Rxf7 1-0

@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Flesch, János"]
+[Black "Honfi, Karoly"]
+[Result "0-1"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "2e8d2404"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 g6 4. h4 d5 5. h5 Bg7 6. f3 Nc6 7. Bb5 Qd6 8. fxe4
+Qg3+ 9. Kf1 Nh6 10. Bxh6 O-O+ 11. Nf3 Bxh6 12. Be2 Bg4 13. Qe1 Qxe1+ 14. Kxe1
+dxe4 15. Nxe4 Bxf3 16. Bxf3 Nxd4 17. Bd1 Rf4 18. Ng3 Bg5 19. c3 Nc6 20. Ne2 Re4
+21. hxg6 hxg6 22. Bc2 Bh4+ 23. Kd1 Rd8+ 24. Nd4 Rg4 25. Bb3+ Kg7 26. Be6 Rxg2
+27. Rxh4 Nxd4 28. cxd4 Rg1+ 29. Kc2 Rxa1 30. d5 Rxa2 31. d6 Ra6 0-1

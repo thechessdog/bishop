@@ -1,0 +1,19 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Wick, P."]
+[Black "Blank, A."]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "61c7e5c5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. f3 d5 12. Qe1 Bb4 13. a3 Bxc3 14.
+Qxc3 O-O 15. h4 Rc8 16. Qe3 Qa5 17. e5 d4 18. Rxd4 Nd5 19. Qd2 Qb6 20. Bxh6
+f5 21. Bg5 Rc7 22. Kb1 Ba4 23. Rc4 Rfc8 24. Rxc7 Qxc7 25. Bd3 Qxe5 26. Re1
+Qd6 27. c4 Nb6 28. Bxf5 Qxd2 29. Bxe6+ 1-0
+

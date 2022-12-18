@@ -1,0 +1,21 @@
+[Event "Krasnoiarsk"]
+[Site "Krasnoiarsk"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Kalinkin, B."]
+[Black "Zaitsev, Igor A"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "46c64691"]
+[Epoch "Bishop"]
+[BlackID "4103017"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 Nc5 11. c4 d4 12. cxb5 d3 13. Qf1 Bxb3 14. axb3 Nb4 15.
+Bd2 Nc2 16. Ra5 Nxb3 17. Rxa6 Rxa6 18. bxa6 c5 19. Bc3 c4 20. Nbd2 Nxd2 21.
+Nxd2 Qd5 22. Nxc4 Qxc4 23. Qxd3 Qxd3 24. Rxd3 O-O 25. Rd7 Bc5 26. Rc7 Rd8 27.
+Kf1 Bf8 28. a7 h6 29. Ke2 g6 30. Rb7 Ra8 31. Kd1 Na1 32. Bb4 Rd8+ 33. Bd6 Bxd6
+34. exd6 Kg7 35. Kc1 1-0

@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Averkin, Orest N"]
+[Black "Vasiukov, Evgeni"]
+[Result "1/2-1/2"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Steiner variation"]
+[HashCode "e39a896a"]
+[Epoch "Bishop"]
+[BlackID "4100522"]
+[BlackCountry "RUS"]
+[WhiteCountry "MDA"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. g3 e6 8. Bg2
+Bb4 9. O-O O-O 10. Nxc4 Nd5 11. Ne4 Nd7 12. Bd2 Qe7 13. Bxb4 Qxb4 14. Qc2 a5
+15. e3 Rfd8 16. Rfc1 Bg6 17. Qe2 Qe7 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Navarovszky, Laszlo"]
+[Black "Popov, Luben"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "74d23ef7"]
+[Epoch "Bishop"]
+[BlackID "2900173"]
+[BlackCountry "FID"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. Rfc1 Rac8 13. Ne2 Ne4 14. Ng3
+Nxg3 15. hxg3 Ne7 16. Qd2 1/2-1/2

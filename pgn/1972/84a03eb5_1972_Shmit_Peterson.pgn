@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Shmit, Anatoly"]
+[Black "Peterson"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Rellstab variation"]
+[HashCode "84a03eb5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 Nc5 6. Bg5 Be7 7. exd6
+Qxd6 8. Nc3 h6 9. Be3 c6 10. Qxd6 Bxd6 11. O-O-O Be7 12. Bc4 Nba6 13. Rhe1
+Be6 14. Ne5 O-O 15. Bxe6 Nxe6 16. f4 Rfd8 17. Rxd8+ Bxd8 18. f5 Nf8 19. Nd3
+Bc7 20. f6 Ne6 21. fxg7 Kxg7 22. g3 b6 23. Rf1 Kg6 24. Ne2 Re8 25. Ng1 Nac5
+26. Nxc5 Nxc5 27. Bxc5 bxc5 28. Nf3 Kh5 29. Kd2 f5 30. Ng1 1/2-1/2
+

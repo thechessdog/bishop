@@ -1,0 +1,22 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Alfredsson, Ove"]
+[Black "Skold, Kristian"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "11a21f58"]
+[Epoch "Bishop"]
+[WhiteID "1717383"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Qb3 c5 6. dxc5 bxc5 7. Bg5 Nc6 8. e3
+h6 9. Bf4 O-O 10. Bd6 Re8 11. Nd2 e5 12. a3 Bxc3 13. bxc3 Re6 14. Bxc5 d6 15.
+Bb4 a5 16. Be2 Re7 17. O-O e4 18. Rfd1 axb4 19. cxb4 Qb6 20. Nf1 Ne8 21. Ng3 g6
+22. Qc3 h5 23. Rac1 Bb7 24. Rd5 Qa7 25. Nxh5 Qxa3 26. Qxa3 Rxa3 27. b5 Ne5 28.
+Nf6+ Kf8 29. Nxe8 Bxd5 30. Nxd6 Rd7 31. c5 Nd3 32. Bxd3 exd3 33. e4 d2 34. Rd1
+Rc3 35. Kf1 Rxd6 36. Ke2 Bc4# 0-1

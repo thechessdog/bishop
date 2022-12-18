@@ -1,0 +1,19 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Kolarov, Atanas S."]
+[Black "Kholmov, Ratmir D"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "851f4c6d"]
+[Epoch "Bishop"]
+[WhiteID "2900246"]
+[WhiteCountry "BGR"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Bf4 d6 10. Qd2 Nd7 11. Rfd1 a5 12. Ne1 Bxg2 13. Nxg2 e5 14. dxe5 Nxe5
+15. Ne3 Ng6 16. Nd5 Nxf4 17. Qxf4 Re8 18. Rd3 1/2-1/2

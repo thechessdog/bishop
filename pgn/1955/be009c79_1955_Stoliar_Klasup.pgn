@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Stoliar, Efim"]
+[Black "Klasup, Karlis"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "be009c79"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 cxd4 7. cxd4 a5 8.
+Bd3 Bd7 9. Bc2 f6 10. O-O fxe5 11. dxe5 g6 12. Nc3 Bg7 13. Re1 Nge7 14. Be3
+Qd8 15. Qd2 Nxe5 16. Nxe5 Bxe5 17. Bg5 Bxc3 18. Qxc3 O-O 19. Rac1 Rc8 20.
+Qd2 Rf7 21. h4 Qb6 22. h5 Nf5 23. Bxf5 Rxc1 24. Rxc1 Rxf5 25. Be3 Qd8 26.
+h6 a4 27. Qd4 Qf6 28. Rc7 Qxd4 29. Bxd4 Bc6 30. Rg7+ Kf8 31. Rxh7 e5 32.
+Bc5+ Kg8 33. Rg7+ Kh8 34. Rc7 d4 35. f3 g5 36. Re7 d3 37. Bb4 g4 38. fxg4
+Rg5 39. Bc3 d2 40. Bxd2 Rxg4 41. Bc3 Be4 42. Bxe5+ Kg8 43. g3 1-0
+

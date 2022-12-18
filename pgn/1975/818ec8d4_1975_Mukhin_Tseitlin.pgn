@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Mukhin, Mikhail A"]
+[Black "Tseitlin, Mikhail S"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "818ec8d4"]
+[Epoch "Bishop"]
+[BlackCountry "BLR"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. Qe2 Qc7 13. Ne5 c5 14. Nxd7 Qxd7
+15. O-O-O O-O-O 16. Ba5 Re8 17. dxc5 Qa4 18. a3 1/2-1/2

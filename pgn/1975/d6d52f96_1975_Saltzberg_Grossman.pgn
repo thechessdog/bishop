@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Saltzberg, M."]
+[Black "Grossman, N."]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "d6d52f96"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 c5 7. a3 Ba5 8.
+O-O Nc6 9. Ne2 dxc4 10. Bxc4 Bb6 11. dxc5 Bxc5 12. b4 Be7 13. Bb2 a6 14.
+Qc2 Bd7 15. Rac1 Rc8 16. Qd3 Be8 17. Qb1 Qc7 18. Rfe1 h6 19. Nf4 Bd7 20.
+Bb3 Rcd8 21. Ne5 Rfe8 22. Nxf7 Kxf7 23. Qg6+ Kg8 24. Bxe6+ Kh8 25. Nh5 1-0
+

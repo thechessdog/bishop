@@ -1,0 +1,18 @@
+[Event "France"]
+[Site "France"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pytel"]
+[Black "Straub"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "998cf480"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d6 5. e4 Nc6 6. c3 e5 7. dxe5 Nxe5
+8. Nxe5 dxe5 9. Bc4 Qe7 10. Qb3 h6 11. Bh4 g5 12. Bg3 Nh5 13. Nf1 Nf4 14.
+Ne3 Be6 15. O-O-O O-O 16. h4 Ne2+ 17. Kb1 Nxg3 18. fxg3 b5 19. Bxe6 Qxe6
+20. hxg5 hxg5 21. Nf5 Qxb3 22. Ne7# 1-0
+

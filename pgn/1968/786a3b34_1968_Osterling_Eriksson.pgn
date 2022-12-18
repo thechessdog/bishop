@@ -1,0 +1,18 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Osterling, Gosta"]
+[Black "Eriksson, Sixten"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "786a3b34"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nc6 5. Qd2 Qd7 6. e4 dxe4 7. d5 e3 8.
+Bxe3 Nb4 9. O-O-O Rd8 10. Bb5 Nxa2+ 11. Nxa2 Qxb5 12. Nc3 Qa5 13. Qd4 Qa1+
+14. Kd2 Qxb2 15. Qa4+ c6 16. Rb1 Rxd5+ 17. Nxd5 Qxb1 18. Nc3 Qf1 19. Nge2
+Qxh1 20. Qxa7 e5 21. Qb8+ Kd7 22. Qxb7+ Ke6 23. Qc8+ Nd7 24. Qxc6+ Bd6 25.
+Nb5 Kf6 26. Nxd6 Be6 27. f4 g6 28. fxe5+ Kg7 29. Nd4 Bh3 30. N6f5+ 1-0
+

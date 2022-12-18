@@ -1,0 +1,21 @@
+[Event "Grindsted"]
+[Site "Grindsted"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kristensen, Leif"]
+[Black "Schutz, Ingemar"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "67ba14ae"]
+[Epoch "Bishop"]
+[WhiteID "1404571"]
+[BlackID "1704575"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bxd7+ Bxd7 6. d4 cxd4 7. Qxd4 Nf6
+8. Rd1 g6 9. e5 dxe5 10. Qxe5 Bg7 11. Nc3 O-O 12. Bg5 Re8 13. Qf4 Nh5 14. Qe3
+f6 15. Nd5 Rc8 16. Nb6 Rc7 17. Nxd7 fxg5 18. Qe6+ Kh8 19. Nxg5 Rf8 20. Nxf8
+Qxf8 21. Rd8 1-0

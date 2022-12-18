@@ -1,0 +1,23 @@
+[Event "Hungary"]
+[Site "Budapest"]
+[Date "1962.01.01"]
+[Round "7"]
+[White "Filep, Tibor"]
+[Black "Liptay, Laszlo"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "348236a3"]
+[Epoch "Bishop"]
+[WhiteID "701092"]
+[BlackID "700320"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nf6 3. d3 Nc6 4. g3 d5 5. Nbd2 g6 6. Bg2 Bg7 7. O-O O-O 8. Re1
+e6 9. c3 a5 10. Qc2 b6 11. Nf1 Ba6 12. Bg5 dxe4 13. dxe4 Qd3 14. Qxd3 Bxd3 15.
+Rad1 Bb5 16. N1d2 h6 17. Bf4 Bd3 18. Bf1 Bxf1 19. Kxf1 Rfd8 20. Bc7 Rd7 21.
+Bxb6 Rb8 22. Nc4 Rxd1 23. Rxd1 Nxe4 24. Nfd2 Nxd2+ 25. Rxd2 Ne5 26. Nxe5 Rxb6
+27. Rd8+ Kh7 28. Nc4 Ra6 29. Rc8 a4 30. Rxc5 a3 31. b4 Bxc3 32. b5 Ra8 33. b6
+Rb8 34. Rb5 Kg7 35. b7 Kf6 36. Rb3 1-0

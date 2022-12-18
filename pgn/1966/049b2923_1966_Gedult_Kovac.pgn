@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Kovac"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "049b2923"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qb4 7. O-O-O Bg4
+8. Nb5 Qa5 9. Qxb7 Bd7 10. b4 Qxb4 11. Qc8+ Bxc8 12. Nxc7# 1-0

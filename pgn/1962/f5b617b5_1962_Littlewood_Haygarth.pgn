@@ -1,0 +1,18 @@
+[Event "Whitby ch-BCF"]
+[Site "Whitby ch-BCF"]
+[Date "1962.08.01"]
+[Round "1"]
+[White "Littlewood, John Eric"]
+[Black "Haygarth, Michael J"]
+[Result "1/2-1/2"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed (with ...d6)"]
+[HashCode "f5b617b5"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. a4 Na5 10. Bc2 Bb7 11. d4 c5 12. dxe5 dxe5 13. Nbd2 Qc7 14. axb5 axb5
+15. Qe2 c4 16. Nf1 Rfd8 17. Bg5 Nh5 18. Ng3 Nxg3 19. hxg3 Ra6 1/2-1/2

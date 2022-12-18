@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Guzman"]
+[Black "Eggas"]
+[Result "1-0"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "Greco variation"]
+[HashCode "0cbcb371"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3
+Nxe4 8. O-O Nxc3 9. Re1+ Ne7 10. Bxf7+ Kxf7 11. bxc3 Ba5 12. Ng5+ Kg8 13.
+Ba3 d6 14. Qb3+ d5 15. Rxe7 c6 16. Rae1 Bd7 17. Qxb7 Rb8 18. Rxd7 Rxb7 19.
+Rxd8+ Bxd8 20. Re8# 1-0
+

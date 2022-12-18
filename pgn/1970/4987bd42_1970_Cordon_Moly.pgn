@@ -1,0 +1,16 @@
+[Event "Oxford"]
+[Site "Oxford"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Cordon"]
+[Black "Moly"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "4987bd42"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Qf3 Qe7+ 6. Ne2 Nc6 7. Be3 Nf6
+8. O-O-O Bxc3 9. bxc3 Bg4 10. Qf4 g5 0-1
+

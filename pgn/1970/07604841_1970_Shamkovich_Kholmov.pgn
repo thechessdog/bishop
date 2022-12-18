@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Shamkovich, Leonid"]
+[Black "Kholmov, Ratmir D"]
+[Result "0-1"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "07604841"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Bg5 h6 12. Bh4 Bb7 13. Nbd2 Re8 14. Bc2 c5 15.
+dxe5 dxe5 16. Nf1 c4 17. Ne3 g6 18. a4 Nc5 19. Nxe5 Nfxe4 20. Bxe7 Rxe7 21.
+Qxd8+ Rxd8 22. axb5 Rxe5 23. bxa6 Bxa6 24. Ng4 Re6 25. Bxe4 h5 26. Ra5 Rc8 27.
+Nh6+ Kg7 28. Nxf7 Rxe4 29. Rxe4 Nxe4 30. Rxa6 Kxf7 31. f3 Ng3 32. h4 Nf5 33.
+Ra7+ Kf6 34. Ra6+ Kg7 35. Kf2 Nxh4 0-1

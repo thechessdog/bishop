@@ -1,0 +1,19 @@
+[Event "corr ch-SU"]
+[Site "corr ch-SU"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Sitskij"]
+[Black "Konstantinopolsky, Alexander"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "bddc298d"]
+[Epoch "Bishop"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8. Nf4
+O-O 9. Be2 Nb8 10. O-O c6 11. Bd3 Re8 12. Qc2 Nbd7 13. f3 Nf8 14. Kh1 Bd6 15.
+e4 dxe4 16. fxe4 Bxf4 17. Bxf4 Qxd4 18. e5 Nh5 19. Rad1 Qc5 20. b4 Qe7 21. Qf2
+Nxf4 22. Qxf4 Be6 23. Ne4 Ng6 24. Qg3 Qh4 25. Ng5 Qxg3 26. hxg3 Bd5 27. e6 f6
+28. Nh3 Bxe6 29. Bxg6 hxg6 30. Nf4 Bc4 0-1

@@ -1,0 +1,29 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1965.01.01"]
+[Round "17"]
+[White "Behrensen, Jorge"]
+[Black "Duin, L."]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "22cb8589"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. Re1 Nf6 7. d4 cxd4
+8. Nxd4 g6 9. Nc3 Bg7 10. Nb3 O-O 11. Nd5 Rfe8 12. c3 Ne5 13. Qe2 Rac8 14.
+Nxf6+ Bxf6 15. Be3 a6 16. Bd4 Bg7 17. Rad1 Qa4 18. f4 Nc6 19. Bxg7 Kxg7 20. Nc1
+b5 21. Rd3 Qc4 22. Kh1 a5 23. b3 Qc5 24. Qd2 b4 25. c4 a4 26. Ree3 axb3 27.
+axb3 Ra8 28. Rh3 f6 29. Rd5 Qa7 30. Qe1 Qa1 31. Rd1 Qb2 32. Nd3 Qc3 33. Qh4 Rh8
+34. f5 Ra1 35. Rxa1 Qxa1+ 36. Ne1 Ne5 37. fxg6 Nxg6 38. Qf2 Ra8 39. Re3 Ra2 40.
+Qg3 Rb2 41. h4 Kf7 42. Kh2 Rb1 43. h5 Ne5 44. Kh3 Qd4 45. Qf4 Qc5 46. g4 Qd4
+47. g5 Qd1 48. g6+ hxg6 49. hxg6+ Nxg6 50. Qf3 Ne5 51. Qxd1 Rxd1 52. Kg3 Ke6
+53. Nc2 Nc6 54. Kf4 Rf1+ 55. Kg4 Rc1 56. Re2 Rb1 57. Re3 Ke5 58. Ne1 Na5 59.
+Nf3+ Ke6 60. Nd4+ Kd7 61. Rh3 Nc6 62. Nc2 Rb2 63. Ne1 Re2 64. Nd3 Rxe4+ 65. Kf3
+f5 66. Kf2 Nd4 67. Nxb4 Re2+ 68. Kf1 Rb2 69. Nd5 Rxb3 70. Rh7 Nc6 71. Kf2 Ke6
+72. Ke2 Ra3 73. Kd2 Ra7 74. Kc3 Ke5 75. Rh5 e6 76. Nb6 Rg7 77. Kd3 Rg3+ 78. Kd2
+Kd4 79. Rh6 Rd3+ 80. Kc2 Nb4+ 81. Kc1 Re3 82. Kd2 Re4 83. Nc8 Kc5 84. Rh7 Rxc4
+85. Rc7+ Kd4 86. Rxc4+ Kxc4 87. Nxd6+ Kd5 88. Ne8 e5 89. Ke3 Nc6 90. Nc7+ Kd6
+91. Nb5+ Ke6 92. Nc7+ Kf6 93. Ne8+ Kg5 94. Nd6 Nb4 95. Nf7+ Kf6 0-1

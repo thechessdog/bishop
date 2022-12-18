@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Peters"]
+[Black "Larsen, Bent Ravn"]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "000e5776"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Nbd7 7. f4 a6 8. a4
+Qc7 9. O-O b6 10. Bf3 Bb7 11. Kh1 Be7 12. Qe1 O-O 13. g4 Qc4 14. Be3 d5 15. e5
+Ne4 16. Nxe4 dxe4 17. Bg2 Rac8 18. Qg3 Qb4 19. f5 Qxb2 20. fxe6 fxe6 21. Rfb1
+Qc3 22. Nxe6 Rf3 23. Bxf3 exf3 24. Bf2 Nxe5 25. Kg1 Ng6 26. g5 a5 27. Qg4 Re8
+28. Nd4 Bc5 29. Re1 Rf8 30. Rad1 Nf4 31. Kh1 Bxd4 32. Qg3 Ne2 33. Qh4 Rf4 34.
+Qh5 g6 35. Qh3 Rf8 36. Rf1 Bc8 37. Qh4 Bxf2 38. Qxf2 Qxc2 39. Qxb6 Bh3 40. Rb1
+Bg2# 0-1

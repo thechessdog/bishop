@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Eitel, T."]
+[Black "Zuckmann, V."]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "9afda7dc"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Ng3 Bd6 7. Nxe5
+Bxe5 8. Bxc6+ bxc6 9. Qh5+ g6 10. Qxe5+ Qe7 11. d4 Ba6 12. Bf4 Nf6 13.
+Qxe7+ Kxe7 14. Bxc7 Kd7 15. Be5 Rhe8 16. f3 c5 17. O-O-O Ng8 18. Rhe1 c4
+19. Ne2 1-0
+

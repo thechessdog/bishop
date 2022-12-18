@@ -1,0 +1,18 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Passov"]
+[Black "Augustin, H."]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "cbc92b3a"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Qxe7 8.
+Nb5 O-O 9. Nc7 cxd4 10. Nxa8 Nc6 11. Qd2 f6 12. exf6 Nxf6 13. f3 e5 14. Bd3
+e4 15. Qe2 Qd6 16. fxe4 dxe4 17. Bxe4 Re8 18. O-O-O Rxe4 19. Qb5 Re5 20.
+Qb3+ Be6 21. Qxb7 Rc5 22. Qc7 Qd5 23. Qg3 Rxc2+ 0-1
+

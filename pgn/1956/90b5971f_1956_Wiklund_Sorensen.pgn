@@ -1,0 +1,16 @@
+[Event "Frederiksvark"]
+[Site "Frederiksvark"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Wiklund"]
+[Black "Sorensen, Robert"]
+[Result "1-0"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "90b5971f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 Nge7 6. O-O g6 7. Bg5 exd4
+8. Nd5 a6 9. Nf6# 1-0
+

@@ -1,0 +1,16 @@
+[Event "Amersfoort"]
+[Site "Amersfoort"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Jentze"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "15e2dc4c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nc3 O-O 6. Nf3 Nc6 7. O-O e5 8. d5
+Ne7 9. c5 dxc5 10. Nxe5 Nfxd5 11. Nxf7 Nxc3 12. Nxd8 Nxd1 13. Rxd1 Bg4 14. Nxb7
+Bxe2 15. Re1 1-0

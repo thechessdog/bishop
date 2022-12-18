@@ -1,0 +1,18 @@
+[Event "Stuttgart"]
+[Site "Stuttgart"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Machate"]
+[Black "Schuster, Theo"]
+[Result "0-1"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence, Pillsbury variation"]
+[HashCode "e0942e7f"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c5 5. Bg5 cxd4 6. Nxd4 e5 7. Bxf6 gxf6
+8. Ndb5 a6 9. Qa4 Bd7 10. e4 Bc5 11. Nxd5 O-O 12. O-O-O Ra7 13. Qb3 axb5
+14. Qf3 Rxa2 15. Nxf6+ Kh8 16. Rxd7 Nxd7 17. Nxd7 Qg5+ 18. Kb1 Rfa8 19.
+Nxc5 Qd2 0-1
+

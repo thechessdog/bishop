@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Hecht, Hans-Joachim"]
+[Black "Kristjansson, Bragi"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "e4661c9b"]
+[Epoch "Bishop"]
+[BlackID "2300346"]
+[WhiteID "4600320"]
+[WhiteCountry "DEU"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 h6 8. Bh4
+Nbd7 9. O-O-O Qc7 10. Rg1 Be7 11. Bxf6 Bxf6 12. Kb1 Rb8 13. Qe3 b5 14. f4 Nb6
+15. e5 dxe5 16. fxe5 Bg5 17. Qg3 Bb7 18. Bxb5+ Kf8 19. Rgf1 Kg8 20. h4 Be7 21.
+Rxf7 Kxf7 22. Nxe6 Kxe6 23. Qg6+ Bf6 24. exf6 gxf6 25. Re1+ Qe5 26. Rxe5+ Kxe5
+27. Qg3+ Ke6 28. Qe3+ Kf7 29. Qxb6 axb5 30. Nxb5 Bxg2 31. Qc7+ Kg6 32. Nd6 Bd5
+33. h5+ 1-0

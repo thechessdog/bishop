@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Polugaevsky, Lev"]
+[Black "Keclah"]
+[Result "1/2-1/2"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "8a2ecb5a"]
+[Epoch "Bishop"]
+[WhiteCountry "BLR"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. d4 Nbd7 7. Qc2 c6 8. b3
+b5 9. c5 Ne4 10. Bb2 a5 11. Ne1 f5 12. Nd3 Bg5 13. e3 Qe8 14. Nd2 h5 15. Nf3
+Bd8 16. Nfe5 Nxe5 17. dxe5 h4 18. f3 Ng5 19. gxh4 Nh7 20. Qf2 Qh5 21. Nf4 Qh6
+22. h5 Bg5 23. Qg3 Bxf4 24. Qxf4 Qxf4 25. exf4 Kf7 26. h6 gxh6 27. Kf2 Rg8 28.
+Rg1 Nf8 29. a3 Bd7 30. Bd4 a4 31. b4 Ng6 32. Ke3 Nh4 33. Bh3 Rxg1 1/2-1/2

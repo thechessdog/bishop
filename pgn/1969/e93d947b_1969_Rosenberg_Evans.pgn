@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Rosenberg, G."]
+[Black "Evans, J."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "e93d947b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Ng4 9. h3 Bxd4+ 10. Kh1 h5 11. hxg4 hxg4 12. Ng5 Bf6 13. Qh4 Bxg5
+14. Bxg5 Qd4 15. Nd5 Nc6 16. Bf6 1-0
+

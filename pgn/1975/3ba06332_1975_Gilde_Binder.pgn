@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gilde, G."]
+[Black "Binder, E."]
+[Result "1-0"]
+[ECO "B37"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 5...Bg7"]
+[HashCode "3ba06332"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Nb3 d6 7. Nc3 f5 8.
+c5 dxc5 9. Qxd8+ Kxd8 10. Nxc5 Bxc3+ 11. bxc3 b6 12. Bb5 Bd7 13. Nxd7 Kxd7
+14. O-O e5 15. exf5 gxf5 16. Re1 Re8 17. Bf4 1-0
+

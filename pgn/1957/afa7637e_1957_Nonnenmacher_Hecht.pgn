@@ -1,0 +1,25 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Nonnenmacher"]
+[Black "Hecht, Hans-Joachim"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "afa7637e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O a6 5. Ba4 Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. h3 O-O 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. d5 Bc8 15.
+Nf1 Bd7 16. b3 Rfc8 17. Bd3 Nb7 18. Be3 Nc5 19. Rc1 Qb8 20. Bxc5 dxc5 21. g4
+Ne8 22. Ne3 g6 23. h4 h6 24. h5 g5 25. Nd2 Nd6 26. Ra1 Ra7 27. Qe2 Bd8 28. Rec1
+Ba5 29. Rc2 Bxd2 30. Rxd2 Rac7 31. Rc1 a5 32. Rdc2 a4 33. Qf1 axb3 34. axb3 Qb6
+35. Ra1 Ra7 36. Rxa7 Qxa7 37. Rc1 Qa5 38. Qd1 Kf8 39. Qc2 f6 40. Kf1 c4 41.
+bxc4 bxc4 42. Be2 Qa3 43. Nxc4 Nxc4 44. Bxc4 Ba4 45. Qb1 Bb5 46. Kg2 Qc5 47.
+Qxb5 Qxb5 48. Bxb5 Rxc1 49. Bd7 Ke7 50. Bf5 Kd6 51. Kf3 Kc5 52. Ke3 Rc3+ 53.
+Kd2 Kc4 54. Ke2 Rd3 55. Be6 Kc3 56. Bf5 Rd2+ 57. Ke1 Kc2 58. Kf1 Kd1 59. Be6
+Rd4 60. Bf5 Kd2 61. Bg6 Ra4 62. Bf5 Ra1+ 63. Kg2 Ra6 64. Be6 Ke1 65. f3 Ra2+
+66. Kg3 Rd2 67. Bg8 Kf1 68. Bf7 Kg1 69. Be6 Rg2+ 70. Kh3 Kf2 71. d6 Rg1 72. Kh2
+Rd1 73. Bd5 Rb1 74. d7 Rb8 75. Bb7 Rd8 76. Bc6 Kxf3 77. Kh3 Kf4 0-1

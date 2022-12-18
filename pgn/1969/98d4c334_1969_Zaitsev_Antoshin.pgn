@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Zaitsev, Igor"]
+[Black "Antoshin, Vladimir S"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "98d4c334"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bf4 O-O 7. Qd2 a6 8.
+O-O-O d5 9. exd5 Nxd5 10. Nf5 Nxf4 11. Nxe7+ Qxe7 12. Qxf4 Be6 13. g3 Nc6 14.
+Bg2 Rad8 15. Bxc6 bxc6 16. Rxd8 Rxd8 17. Rd1 Rxd1+ 18. Kxd1 h6 19. Kd2 c5 20.
+Qe5 c4 21. Ne2 1/2-1/2

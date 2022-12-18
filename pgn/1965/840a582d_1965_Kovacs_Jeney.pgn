@@ -1,0 +1,26 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Kovacs, Lajos"]
+[Black "Jeney, F."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "840a582d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O d6 5. d4 exd4 6. Nxd4 Bd7 7. Nxc6
+bxc6 8. Ba4 Qh4 9. Nc3 Nf6 10. Qf3 O-O 11. Be3 Ng4 12. Bf4 f5 13. Bb3+ Kh8
+14. Qg3 Qxg3 15. hxg3 fxe4 16. Nxe4 Bb6 17. Ng5 h6 18. Nf3 g5 19. Bd2 Kh7
+20. Rae1 Rae8 21. Rxe8 Rxe8 22. Bc4 Bf5 23. c3 Bd7 24. Bd3+ Kg7 25. Nd4 Ne5
+26. Be2 c5 27. Nc2 Bf5 28. Ne3 Bd3 29. Bxd3 Nxd3 30. c4 Rf8 31. Bc3+ Kg6
+32. Nd5 Ne5 33. b3 c6 34. Nxb6 axb6 35. Rd1 Nf7 36. Re1 b5 37. Re6+ Kh7 38.
+a4 bxa4 39. bxa4 Ra8 40. a5 Ne5 41. Rxd6 Nxc4 42. Rd7+ Kg8 43. Rg7+ Kf8 44.
+Rh7 Ra6 45. Rxh6 Nxa5 46. Rg6 Nb7 47. Rxg5 Ra3 48. Be5 Rb3 49. Rf5+ Ke7 50.
+g4 Ke6 51. Bf4 Rb1+ 52. Kh2 Re1 53. Rf8 Kd5 54. g5 Re6 55. Kg3 c4 56. Kg4
+c3 57. Kh5 Nd6 58. Rf6 Rxf6 59. gxf6 c2 60. Kg6 Ke6 61. Bc1 c5 62. g4 c4
+63. f4 c3 64. f5+ Kd5 65. f7 Nxf7 66. Kxf7 Ke4 67. Ke6 Kd3 68. f6 Ke2 69.
+f7 Kd1 70. Ba3 1-0
+

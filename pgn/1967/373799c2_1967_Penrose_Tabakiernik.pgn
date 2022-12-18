@@ -1,0 +1,19 @@
+[Event "Oxford ch-BCF"]
+[Site "Oxford ch-BCF"]
+[Date "1967.08.01"]
+[Round "1"]
+[White "Penrose, Jonathan"]
+[Black "Tabakiernik, W."]
+[Result "1-0"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Rubinstein variation"]
+[HashCode "373799c2"]
+[Epoch "Bishop"]
+[WhiteID "400360"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nge7 7. Bb3 h6 8. Nbd2
+Ng6 9. Nc4 Be7 10. Ne3 Nf4 11. h4 Bf6 12. g3 Ng6 13. Kf1 Qc8 14. Kg2 Nd8 15.
+Qd3 Ne7 16. Bd2 O-O 17. Bc2 c6 18. dxe5 Bxe5 19. Nxe5 dxe5 20. Nc4 f6 21. Nb6
+1-0

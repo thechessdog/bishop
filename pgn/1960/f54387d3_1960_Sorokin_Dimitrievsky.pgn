@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Sorokin, Gerald"]
+[Black "Dimitrievsky"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "f54387d3"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Ne7 8.
+Qxg7 Rg8 9. Qxh7 dxc3 10. bxa5 Nbc6 11. f4 Qxa5 12. Rb1 Nd4 13. Nh3 Bd7 14.
+Ng5 O-O-O 15. Nxf7 Nef5 16. Nxd8 Nxc2+ 17. Kd1 Ncd4 18. Rb4 Rxd8 19. Bd3
+Qc5 20. Rf1 a5 21. Rxd4 Nxd4 22. g4 Bb5 23. g5 Nf5 24. Bxf5 exf5 25. Qxf5+
+Kb8 26. Rh1 Qf2 0-1
+

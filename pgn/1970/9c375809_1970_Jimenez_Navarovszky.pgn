@@ -1,0 +1,16 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Jimenez Zerquera, Eleazar"]
+[Black "Navarovszky, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld with e3    Bd3"]
+[HashCode "9c375809"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd3 c5 7. dxc5 dxc4 8.
+Bxc4 Qxd1+ 9. Nxd1 Nfd7 10. Bd2 Nxc5 11. Bc3 Nc6 12. Bxg7 Kxg7 13. Nc3 Bg4 14.
+O-O Rfd8 15. Rfd1 1/2-1/2

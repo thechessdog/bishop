@@ -1,0 +1,19 @@
+[Event "Venice-Vienna"]
+[Site "Venice-Vienna"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Fletzer, G."]
+[Black "Lenner"]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "f215cc71"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nde2 Bc5 7. Ng3 d6
+8. Be2 Be6 9. O-O Nc6 10. Kh1 Nd4 11. f4 Nxe2 12. Qxe2 Ng4 13. f5 Qh4 14.
+h3 h5 15. Rf3 Bd7 16. Bd2 Bc6 17. f6 gxf6 18. Raf1 Bd7 19. Qd3 O-O-O 20.
+Nd5 Rhe8 21. b4 Ba7 22. Qc4+ Kb8 23. Qc7+ Ka8 24. Nb6+ Bxb6 25. Qxb6 Rc8
+26. b5 Bxb5 27. Nf5 Nf2+ 28. R1xf2 Qxe4 29. Be3 Kb8 30. Nxd6 1-0
+

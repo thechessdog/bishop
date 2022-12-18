@@ -1,0 +1,22 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "7"]
+[White "Mazzoni, Guy"]
+[Black "Gerusel, Mathias"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "139e10f3"]
+[Epoch "Bishop"]
+[BlackID "4601122"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 a6 3. d3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O d6 7. Nc3 Bd7 8. a3 e6
+9. Rb1 Nge7 10. Nh4 O-O 11. f4 f5 12. Be3 Qc7 13. Qd2 Nd4 14. Kh1 Rae8 15. Ne2
+fxe4 16. dxe4 Bb5 17. Bxd4 cxd4 18. Nf3 e5 19. Ng5 Qc4 20. Rfe1 Bh6 21. b3 Qc8
+22. a4 Bc6 23. Ng1 d5 24. N1h3 exf4 25. gxf4 dxe4 26. Bxe4 Bg7 27. Qg2 Nf5 28.
+Bd5+ Kh8 29. Bxc6 bxc6 30. Qf2 Ne3 31. Qh4 h6 32. Re2 Qf5 33. Kg1 Kg8 34. Rbe1
+Rd8 35. c3 Rfe8 36. Nf3 c5 37. cxd4 cxd4 38. Nf2 g5 39. Qg3 gxf4 40. Qh4 Qg6+
+41. Ng4 h5 0-1

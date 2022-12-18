@@ -1,0 +1,18 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Krumpholz"]
+[Black "Heinrich"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Ne2 e5 (Botvinnik)"]
+[HashCode "8454e67c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e5 7. Be3 Nge7 8.
+Qd2 Nd4 9. O-O O-O 10. h3 Rb8 11. Nd1 b6 12. c3 Nxe2+ 13. Qxe2 d5 14. c4
+dxe4 15. dxe4 Be6 16. Nc3 Nc6 17. Nd5 Nd4 18. Qd2 Bxh3 19. Bxd4 Bxg2 20.
+Bxc5 Bxf1 21. Bxf8 Bxc4 1/2-1/2
+

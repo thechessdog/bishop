@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bukhman, Eduard"]
+[Black "Orlov, Vsevolod"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[HashCode "74d67a26"]
+[Epoch "Bishop"]
+[WhiteID "4102088"]
+[BlackID "4108647"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. c4 c6 2. Nf3 d5 3. d4 Nf6 4. e3 e6 5. Bd3 dxc4 6. Bxc4 b5 7. Bd3 a6 8. a4
+Bb7 9. O-O Nbd7 10. e4 Nb6 11. Qb3 Qc7 12. Nc3 b4 13. e5 bxc3 14. exf6 cxb2 15.
+Qxb2 Nd7 16. Bf4 Qb6 17. Qxb6 Nxb6 18. Be5 c5 19. fxg7 Bxg7 20. Bxg7 Rg8 21.
+Ne1 Rxg7 22. Rb1 1-0

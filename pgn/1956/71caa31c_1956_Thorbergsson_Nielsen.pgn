@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1956.01.01"]
+[Round "4"]
+[White "Thorbergsson, Freysteinn"]
+[Black "Nielsen, Axel"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "71caa31c"]
+[Epoch "Bishop"]
+[BlackID "1421905"]
+[BlackCountry "DEN"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 Nbd7 10. Bb3 Nb6 11. Bg5 h6 12. Bh4 Bd7 13. Ne5 Rc8 14. Qd3 Bc6
+15. Bc2 g5 16. Ng4 Kg7 17. Nxf6 Kxf6 18. Bg3 Ke7 19. Bb3 Nd5 20. Nxd5+ Bxd5 21.
+Rac1 Qd7 22. a3 Ba5 23. Bxd5 Qxd5 24. Be5 Bb6 25. Rfd1 Rfd8 26. Rxc8 Rxc8 27.
+h4 gxh4 28. Qh3 Qe4 29. Kh2 Rc2 30. f3 Qe2 31. Qxh4+ Kd7 32. Rg1 Qxf3 33. Qxh6
+Qg4 34. Qh7 Rf2 35. Qh8 Rf5 0-1

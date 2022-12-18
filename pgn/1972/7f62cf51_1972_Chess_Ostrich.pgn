@@ -1,0 +1,27 @@
+[Event "ACM Boston"]
+[Site "ACM Boston"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Chess 3 6"]
+[Black "Ostrich"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "7f62cf51"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nf3 Qb6 6. Nc3 Bc5 7. Qd2 d6
+8. Nd5 Qd8 9. b4 Bd4 10. c3 Bb6 11. Nxb6 axb6 12. Bc4 Be6 13. Bxe6 fxe6 14.
+Ng5 Qd7 15. O-O h6 16. Nf3 O-O-O 17. Rd1 Nf6 18. Qe2 Qc7 19. Bb2 Ne7 20.
+Nd2 d5 21. c4 d4 22. Qd3 Ng6 23. g3 Qe7 24. Ba3 Kc7 25. Rab1 Rh7 26. Re1
+Rd7 27. Kg2 Qd8 28. h3 Ng8 29. Rb3 Qg5 30. Kh2 Rf7 31. Qe2 Nf6 32. Rf3 h5
+33. h4 Ng4+ 34. Kh1 Qe7 35. Kg2 Rxf3 36. Nxf3 Qf6 37. Bc1 Kd6 38. Bg5 Qf7
+39. Bd8 Rh8 40. Bxb6 Ke7 41. Ng5 Qe8 42. b5 Qc8 43. Rb1 Rf8 44. Rf1 Re8 45.
+Qf3 Rf8 46. Qa3+ Kd7 47. Bc5 Rh8 48. Nf7 Rh7 49. Rc1 Nh6 50. Nd6 Qc7 51. b6
+Qc6 52. Re1 Rh8 53. Kg1 Ng4 54. Rf1 Rh6 55. Nf7 Qxe4 56. Nxh6 Nxh6 57. f3
+Qc6 58. Kf2 Kd8 59. Rb1 Qd7 60. Kg2 Nf5 61. Kf2 Qc8 62. Rb5 Kd7 63. Rb2 Kc6
+64. Qb4 Kd7 65. Qb5+ Qc6 66. Rd2 Qxb5 67. cxb5 Kd8 68. Rd3 Nge7 69. a4 g6
+70. a5 Kd7 71. a6 bxa6 72. bxa6 Kc8 73. a7 Kb7 74. Ra3 Ka8 75. b7+ Kxb7 76.
+a8=Q+ Kc7 77. Ra7# 1-0
+

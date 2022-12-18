@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Freeman, S."]
+[Black "Allman, J."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "4bf6fcbf"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Be7 8.
+Be3 h6 9. Bd3 e5 10. Nde2 d5 11. g5 hxg5 12. Bxg5 d4 13. Bxf6 Bxf6 14. Nd5
+Nc6 15. Qd2 Rxh3 16. Rxh3 Bxh3 17. O-O-O Qd7 18. Rg1 Ne7 19. Nb6 Qe6 20.
+Nxa8 Qxa2 21. Qb4 Bf1 22. Qxb7 Bxe2 23. Nc7+ Kd8 24. Kd2 Bxd3 25. Kxd3 Ng6
+26. Nxa6 Nf4+ 27. Kd2 Qa5+ 28. Nb4 Be7 29. c3 dxc3+ 30. bxc3 Bxb4 31. Rd1
+Bxc3+ 32. Ke3+ Bd4+ 33. Rxd4+ exd4+ 34. Kxf4 Qc7+ 35. Qxc7+ Kxc7 36. e5 Kc6
+37. Ke4 Kc5 38. Kd3 Kd5 39. f4 g5 0-1
+

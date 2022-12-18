@@ -1,0 +1,19 @@
+[Event "Havana+"]
+[Site "Havana"]
+[Date "1952.??.??"]
+[Round "5"]
+[White "Araiza Munoz, Jose Joaquin"]
+[Black "Jimenez Zerquera, Eleazar"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Richter variation"]
+[HashCode "9838a94a"]
+[Epoch "Bishop"]
+[BlackCountry "CUB"]
+[WhiteID "5101093"]
+[WhiteCountry "MEX"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. d5 Nb8 8. Re1
+bxa4 9. Rxe4 d6 10. Nc3 Be7 11. Nxa4 O-O 12. h3 f5 13. Re1 Qe8 14. Nc3 Qg6 15.
+Nxe5 dxe5 0-1

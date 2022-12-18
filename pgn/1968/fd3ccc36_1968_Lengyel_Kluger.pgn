@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Lengyel, Levente"]
+[Black "Kluger, Gyula"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "fd3ccc36"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. c4 Nf6 2. Nf3 e6 3. d4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. Qa4 c6 12. Be3 Qd7 13. Nf4 b5 14. cxb5 cxb5
+15. Qb3 Nc6 16. Qxb5 Rab8 17. Qa4 Rb4 18. Qd1 Rxb2 19. Nd3 Rb5 1/2-1/2

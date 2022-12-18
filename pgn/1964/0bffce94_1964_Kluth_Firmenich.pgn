@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Kluth, O."]
+[Black "Firmenich, P."]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "0bffce94"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Nc3 Bb4 6. Bc4 O-O 7. O-O Bf5
+8. d3 Bd6 9. Ne2 Nh5 10. Nfd4 Bg4 11. Rf2 Qh4 12. Qf1 Ng3 13. Qd1 Nxe2+ 14.
+Nxe2 f3 15. Nf4 fxg2 16. Qd2 Nd7 17. Kxg2 Rae8 18. d4 Nf6 19. Qd3 Nh5 20.
+a4 Bxf4 0-1
+

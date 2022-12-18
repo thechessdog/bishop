@@ -1,0 +1,19 @@
+[Event "Lugano ol (Men)"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Garcia, Raimundo"]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Larsen variation"]
+[HashCode "c20a7b01"]
+[Epoch "Bishop"]
+[BlackID "100420"]
+[BlackCountry "ARG"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 Qd7 9. O-O b6 10. a4 Nc6 11. Bb5 a6 12. Bd3 Bb7 13. Qc2 Rfd8 14. Rd1 Na5
+15. Be3 e6 16. Bg5 Rdc8 17. f3 c5 18. dxc5 Qc7 19. cxb6 Qc5+ 0-1

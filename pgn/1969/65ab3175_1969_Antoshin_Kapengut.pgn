@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Antoshin, Vladimir S"]
+[Black "Kapengut, Albert Z"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "65ab3175"]
+[Epoch "Bishop"]
+[BlackID "13500058"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. d5 O-O 6. Nc3 e6 7. dxe6 dxe6 8. Qxd8
+Rxd8 9. Be3 Na6 10. Nf3 Ng4 11. Bg5 f6 12. Bd2 Nb4 13. Rc1 Nc6 14. h3 Nh6 15.
+Na4 b6 16. Ng5 Bd7 17. Nxe6 Bxe6 18. Bxc6 Rac8 19. Bg2 Nf5 20. b3 Rd7 21. Nc3
+Rcd8 22. Bd5 Bxd5 23. Nxd5 Ne7 24. Nxe7+ Rxe7 25. Rd1 f5 26. e3 g5 27. Bc1
+Rxd1+ 28. Kxd1 Kf7 29. g4 Kg6 30. gxf5+ Kxf5 31. Ke2 h5 32. f3 Be5 33. Rd1 Bf6
+34. Rd6 Ke5 35. Rc6 Bg7 36. Kf2 g4 37. hxg4 hxg4 38. Rg6 Bf8 39. Bb2+ 1-0

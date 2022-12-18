@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Thompson, P."]
+[Black "Ivok, L."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "728f382b"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. fxe4 Nxe4 6. Qf3 Nd6 7. Bf4 Qc8
+8. Bxd6 cxd6 9. Bb5+ Bd7 10. Nge2 Bxb5 11. Nxb5 Nc6 12. O-O f6 13. c4 g6
+14. Nxd6+ exd6 15. Qxf6 Qd7 16. Qxh8 Qg7 17. Qxg7 Bxg7 18. Rf4 1-0
+

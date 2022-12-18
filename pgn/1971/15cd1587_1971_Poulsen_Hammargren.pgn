@@ -1,0 +1,21 @@
+[Event "Stockholm op"]
+[Site "Stockholm"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Poulsen, Allan"]
+[Black "Hammargren, Par"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "15cd1587"]
+[Epoch "Bishop"]
+[WhiteID "1400533"]
+[BlackID "1701495"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. Qd3 Ra7 13. Ne4 Qe5 14. O-O-O
+Rd7 15. Qc3 Bb7 16. Nxb5 Qxe4 17. fxg7 Bxg7 18. Qxg7 Rf8 19. Qg3 e5 20. Nd6+
+Rxd6 21. Rxd6 Ke7 22. Bd3 Qf4+ 23. Qxf4 exf4 24. Rd4 Bxg2 25. Re1+ 1-0

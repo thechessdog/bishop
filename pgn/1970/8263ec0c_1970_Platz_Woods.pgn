@@ -1,0 +1,21 @@
+[Event "Springfield"]
+[Site "Springfield"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Woods, A."]
+[Result "1-0"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "8263ec0c"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nbd7 8. Qe2
+b6 9. Rd1 Bb7 10. Nc3 Qb8 11. e4 cxd4 12. Nxd4 Bd6 13. Nf3 O-O 14. Bg5 Ne5 15.
+g3 Nxf3+ 16. Qxf3 Be5 17. Bd3 Rc8 18. Rac1 Rc5 19. Be3 Rc6 20. Qe2 Qc7 21. f3
+Nd7 22. Na2 Bd6 23. b4 Ne5 24. b5 axb5 25. Bxb5 Rxc1 26. Rxc1 Qd8 27. f4 Nd7
+28. Rd1 Qc7 29. e5 Nxe5 30. fxe5 Bxe5 31. Rd7 Qb8 32. Bxb6 Bf6 33. a5 Bd5 34.
+Nb4 Qxb6+ 35. axb6 Ra1+ 36. Kf2 Bd4+ 37. Qe3 Bxe3+ 38. Kxe3 Ra8 39. Nxd5 exd5
+40. Ra7 1-0

@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Dyson"]
+[Black "Johnson, A."]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Berlin variation"]
+[HashCode "d5aa3842"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Nc5 10. Bc2 Bg4 11. Re1 d4 12. h3 Bh5 13. e6 fxe6 14. b4 d3
+15. bxc5 dxc2 16. Rxe6+ Be7 17. Qxc2 Qd5 18. Qe4 Bxf3 19. gxf3 Qxe4 20.
+Rxe4 O-O-O 21. Re1 Bxc5 22. Be3 Rhe8 23. Kf1 Bxe3 24. fxe3 Rd3 25. Kf2 Ne5
+26. Ke2 Red8 27. a4 Kb7 28. axb5 axb5 29. Ra2 Nc4 30. e4 c6 31. Rc2 Ne5 32.
+Rf1 Nc4 33. Re1 g6 34. h4 h5 35. f4 Rh3 36. Rf1 Re3+ 37. Kf2 Rf8 38. Nd2
+Rxf4+ 0-1
+

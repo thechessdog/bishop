@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Vorotnikov, Vladislav V"]
+[Black "Novopashin, Arkady"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "df48a0f5"]
+[Epoch "Bishop"]
+[BlackID "4103670"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 d6 5. Nf3 Nc6 6. exd6 cxd4 7. dxe7 Qxe7+ 8.
+Be2 dxc3 9. Qxd5 Nb4 10. Qb5+ Bd7 11. Qxb7 Nc2+ 12. Kf1 Rc8 13. Nxc3 Nxa1 14.
+Bd3 a5 15. Bd2 a4 16. Nd5 Qd6 17. Ke2 Nc2 18. Rc1 Rc5 19. Nb6 Qxd3+ 20. Kxd3
+Bb5+ 21. Ke4 Bc6+ 22. Qxc6+ Rxc6 23. Nxa4 Nb4 24. Nc3 Be7 25. Nd4 Rg6 26. a3
+Nc6 27. Nd5 Nxd4 28. Kxd4 Bd8 29. Rc8 Kd7 30. Rb8 Rxg2 1-0

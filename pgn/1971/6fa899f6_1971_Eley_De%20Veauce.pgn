@@ -1,0 +1,19 @@
+[Event "Blackpool ch-BCF"]
+[Site "Blackpool ch-BCF"]
+[Date "1971.01.01"]
+[Round "8"]
+[White "Eley, Brian"]
+[Black "De Veauce, Louis"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Bonsch-Osmolovsky variation"]
+[HashCode "6fa899f6"]
+[Epoch "Bishop"]
+[WhiteID "400718"]
+[BlackID "401145"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Ne7 4. d4 d5 5. Nc3 dxe4 6. Nxe4 Nd5 7. c4 Bb4+ 8.
+Kf2 Ne3 9. Qa4+ Nc6 10. d5 Qe7 11. dxc6 Ng4+ 12. Ke2 Qxe4+ 13. Be3 Qxe3+ 0-1

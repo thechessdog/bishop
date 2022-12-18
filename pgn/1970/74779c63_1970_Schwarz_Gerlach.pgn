@@ -1,0 +1,18 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schwarz, M."]
+[Black "Gerlach, M."]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "74779c63"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Be3 Nf6
+8. O-O Bd6 9. Nxc6 dxc6 10. f4 e5 11. f5 Bd7 12. Kh1 h6 13. a4 a5 14. h3
+Ke7 15. Qf3 Rag8 16. Qf2 Ra8 17. Rad1 Kf8 18. Bc4 Be7 19. Bb6 Qb8 20. Rd3
+Kg8 21. Rfd1 Qe8 22. Bc7 Bd8 23. Qb6 1-0
+

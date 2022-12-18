@@ -1,0 +1,20 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "McLennan, D."]
+[Black "Madsen, C."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "82cf8efe"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Bb5+ Bd7 11. Bxd7+ Nxd7 12. Ne2 dxc3 13. Be3
+Qxe5 14. Bd4 Qf5 15. Qxf5 Nxf5 16. O-O Nh4 17. Ng3 e5 18. Bxc3 Rc8 19. Bb4
+Rxc2 20. Rac1 Rc6 21. Rxc6 bxc6 22. f3 c5 23. Be1 f5 24. Rf2 Nf6 25. Ne2 d4
+26. g3 Nd5 27. Kh1 Ng6 28. h4 Nge7 29. Bd2 d3 30. Nc3 Rxg3 31. Nxd5 Nxd5
+32. h5 Rh3+ 0-1
+

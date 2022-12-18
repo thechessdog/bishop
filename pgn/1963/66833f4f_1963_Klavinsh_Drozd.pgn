@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Klavinsh, Janis"]
+[Black "Drozd, Ryszard"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "66833f4f"]
+[Epoch "Bishop"]
+[BlackID "21831661"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 Qc7 8. Ba2
+Be7 9. O-O O-O 10. Kh1 Nc6 11. f4 b5 12. f5 Nxd4 13. Qxd4 Ng4 14. Qd3 Ne5 15.
+Qh3 Nc4 16. f6 Bxf6 17. Rxf6 gxf6 18. Bxc4 Kh8 19. Qh4 Qe7 20. Bd3 1-0

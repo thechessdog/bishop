@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Fallenstein, P."]
+[Black "Eder, G."]
+[Result "0-1"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "865a3ba0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 a5 8. Be3
+Na6 9. a3 Bd7 10. Qd2 Nc5 11. Bxc5 dxc5 12. Bd3 Ne8 13. O-O f5 14. exf5
+gxf5 15. Bc2 Nd6 16. Rae1 e4 17. Nh2 Nxc4 18. Qc1 Nxa3 19. bxa3 Bxc3 20. d6
+Bd4 0-1
+

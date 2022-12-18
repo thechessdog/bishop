@@ -1,0 +1,16 @@
+[Event "Caracas"]
+[Site "Caracas"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Tapaszto, Laszlo"]
+[Black "Biava"]
+[Result "1-0"]
+[ECO "B53"]
+[Opening "Sicilian, Chekhover variation"]
+[HashCode "b77d65b9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 bxc6 7. O-O
+Qb6 8. Qd3 g6 9. Be3 c5 10. Nc3 Bg7 11. e5 dxe5 12. Qc4 Rc8 13. Ng5 Nh6 14.
+Rad1 f6 15. Nge4 Be6 16. Nd5 Qb4 17. Ndxf6+ Bxf6 18. Nd6+ 1-0
+

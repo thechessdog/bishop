@@ -1,0 +1,17 @@
+[Event "Hoechst ch-GER"]
+[Site "Hoechst ch-GER"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Hoenlinger, Baldur"]
+[Black "Niephaus, Walter"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "dc4413b2"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEU"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. d4 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 Bg5 11. Bxg5 Qxg5 12. Qc1 Qxc1 13. Raxc1 d6 1/2-1/2

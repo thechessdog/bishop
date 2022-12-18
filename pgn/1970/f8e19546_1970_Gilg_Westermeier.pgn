@@ -1,0 +1,22 @@
+[Event "Bad Aibling"]
+[Site "Bad Aibling"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gilg, Karl"]
+[Black "Westermeier, Arnulf"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "f8e19546"]
+[Epoch "Bishop"]
+[BlackID "4604288"]
+[BlackCountry "GER"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nb3 Be7 8. Bg2
+Qc7 9. O-O b5 10. f4 Bb7 11. a3 O-O 12. g4 Nfd7 13. f5 Re8 14. g5 Nb6 15. Qh5
+g6 16. Qh4 N8d7 17. f6 Bf8 18. Rf3 Nc5 19. Rh3 h5 20. Nxc5 dxc5 21. Bf3 Bc8 22.
+Rg3 b4 23. Nd1 Qd6 24. axb4 cxb4 25. Bxh5 Nc4 26. Nf2 Qd4 27. Bxg6 fxg6 28. f7+
+Kxf7 29. Qh7+ Bg7 30. Rf3+ Bf5 31. exf5 e4 32. Qxg6+ Kf8 33. f6 exf3 34. Qxg7#
+1-0

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Kabes"]
+[Black "Kaudr"]
+[Result "1-0"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "525e99e1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. O-O Be7
+8. Be3 a6 9. Bb3 Qc7 10. f4 Na5 11. Qf3 b5 12. e5 Bb7 13. Qg3 dxe5 14. fxe5
+Nh5 15. Bxe6 Nxg3 16. Bxf7+ Kd7 17. Be6+ Kd8 18. Rad1 Bd6 19. exd6 Qc5 20.
+hxg3 h6 21. Nf5 Qc6 22. Bd5 Qe8 23. Bb6+ Kd7 24. Bxa5 Bxd5 25. Nxd5 Rb8 26.
+Nb6+ Kc6 27. Rfe1 Qh5 28. Rd5 g5 29. Nd4+ Kb7 30. Re7# 1-0
+

@@ -1,0 +1,22 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1966.01.01"]
+[Round "11"]
+[White "Andersen, Borge"]
+[Black "Petersen, Finn"]
+[Result "1-0"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "bb7138b8"]
+[Epoch "Bishop"]
+[BlackID "1400754"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. d4 g6 2. c4 Nf6 3. Nc3 d5 4. Bf4 c6 5. e3 Bg7 6. Nf3 O-O 7. Rc1 Nh5 8. Bg5
+h6 9. Bh4 g5 10. Nd2 Nf6 11. Bg3 Bf5 12. Be2 e6 13. O-O Nbd7 14. b4 Re8 15. Qb3
+e5 16. cxd5 exd4 17. exd4 Nxd5 18. Nxd5 cxd5 19. Bf3 Nb6 20. Bc7 Qd7 21. Bxb6
+axb6 22. Qxd5 Qxd5 23. Bxd5 Red8 24. Bb3 Rxd4 25. Nc4 b5 26. Ne3 Be6 27. Bxe6
+fxe6 28. a3 Rxa3 29. Rc8+ Bf8 30. Nc2 Rad3 31. Nxd4 Rxd4 32. g3 Rxb4 33. Rd1
+Rc4 34. Rb8 Rc7 35. Rb1 1-0

@@ -1,0 +1,20 @@
+[Event "corr DDR-PV"]
+[Site "corr DDR-PV"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Balzarek, H."]
+[Black "Beutler, M."]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "36907f30"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. a3 Bd6 10. b4 Nbd7 11. Qb3 c6 12. Bb2 Qe7 13. Rfe1 Ne4 14. Qc2
+f5 15. Nd2 Bxh2+ 16. Kf1 Bd6 17. Nf3 Ndf6 18. Ke2 Ng4 19. Nd1 Rae8 20. Bc1
+Rf6 21. Ng1 Re6 22. Bxe4 Rxe4 23. Nf3 Ba6+ 24. Kd2 f4 25. Kc3 c5 26. bxc5
+bxc5 27. Qa4 cxd4+ 28. Nxd4 Rxd4 29. Qxa6 Rxd1 30. Rxd1 Be5+ 31. Rd4 Qc5+
+0-1
+

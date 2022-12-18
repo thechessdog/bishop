@@ -1,0 +1,19 @@
+[Event "Salgo"]
+[Site "Salgo"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Ponyi, A."]
+[Black "Bakos, S."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "stonewall attack"]
+[HashCode "14d77d26"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. e3 d5 3. Bd3 c5 4. c3 e6 5. Nd2 Nc6 6. f4 Bd6 7. Ngf3 cxd4 8.
+cxd4 Bd7 9. Ne5 Rc8 10. O-O O-O 11. a3 a6 12. Rf3 g6 13. Rh3 Bxe5 14. fxe5
+Ne8 15. Nf3 f5 16. Bd2 Na5 17. Bxa5 Qxa5 18. Ng5 h5 19. Rxh5 Qd8 20. Rh7
+Qxg5 21. Rxd7 Qxe3+ 22. Kh1 Rf7 23. Rxf7 Kxf7 24. Bf1 Ng7 25. Qd3 Qf4 26.
+Rd1 Rh8 27. g3 Qf2 28. h3 Nh5 29. Bg2 Nxg3+ 30. Kh2 Ne4 31. Rc1 Qf4+ 0-1
+

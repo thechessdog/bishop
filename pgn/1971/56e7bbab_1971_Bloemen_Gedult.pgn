@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Bloemen"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "56e7bbab"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 d5 5. cxd5 Qxd5 6. Qxc7 Bb4+ 7. Nd2 Nxd2
+8. Qxc8+ Ke7 0-1

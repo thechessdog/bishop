@@ -1,0 +1,17 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Fitzgerald, K."]
+[Black "Grefe, John Alan"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "95a0e6af"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. g3 g6 2. Bg2 Bg7 3. d3 d5 4. Nd2 e5 5. e4 Ne7 6. Nh3 O-O 7. O-O Nbc6 8. c3
+h6 9. f3 Be6 10. Nf2 Qd7 11. Nb3 b6 12. Qe2 Rad8 13. Rd1 Qe8 14. Be3 f6 15. d4
+Qf7 16. Nc1 f5 17. dxe5 Nxe5 18. Ncd3 Nxd3 19. Rxd3 dxe4 20. Rxd8 Rxd8 21. fxe4
+fxe4 22. Bxe4 Bxa2 23. Ng4 Bc4 24. Qc2 Kh7 25. Rxa7 Qf1# 0-1

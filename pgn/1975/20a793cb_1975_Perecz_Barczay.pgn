@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Perecz, Laszlo"]
+[Black "Barczay, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "20a793cb"]
+[Epoch "Bishop"]
+[WhiteID "700746"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. a3 O-O 10. f4 Bb7 11. f5 e5 12. Nde2 Nbd7 13. Ng3 Rc8 14. Bg5 Nb6 15.
+Nh5 Nxh5 16. Bxe7 Qxe7 17. Qxh5 Nd7 1/2-1/2

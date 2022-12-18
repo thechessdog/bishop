@@ -1,0 +1,16 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Oliveira, U."]
+[Black "Amilibia, C."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "4d1b53f8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qg6 6. d3 Bb4 7. dxe4
+Qxe4+ 8. Ne3 Bxc3+ 9. bxc3 Ne7 10. Bc4 b5 11. Bxb5 Qe5 12. Qd3 c6 13. Ba4
+O-O 14. O-O Ba6 15. c4 Qxa1 0-1
+

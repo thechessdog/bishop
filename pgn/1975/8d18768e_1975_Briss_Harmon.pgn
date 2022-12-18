@@ -1,0 +1,15 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Briss"]
+[Black "Harmon"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "8d18768e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. Nc3 d6 6. Ng5 d5 7. exd5 Na5
+8. Bd3 Ng4 9. Be2 Bxf2+ 10. Kh1 Qxg5 11. Ne4 Qf4 12. d3 Qxh2# 0-1
+

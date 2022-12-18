@@ -1,0 +1,18 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Kolvig, Bent"]
+[Black "Auchenberg, E."]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "48784e60"]
+[Epoch "Bishop"]
+[WhiteID "1400746"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. e5 Nh5 8. Bb5+
+Kf8 9. O-O f5 10. Be3 e6 11. exd6 Qxd6 12. Nxe6+ Qxe6 13. Bc5+ Kg8 14. Bc4 Qxc4
+15. Qd8+ Kf7 16. Qe7+ 1-0

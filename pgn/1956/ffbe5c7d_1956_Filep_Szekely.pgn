@@ -1,0 +1,27 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Filep, Tibor"]
+[Black "Szekely, Jeno"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "ffbe5c7d"]
+[Epoch "Bishop"]
+[WhiteID "701092"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 h6 8. Bh4
+Qa5 9. Qd2 b5 10. Bxf6 Nxf6 11. e5 b4 12. Ncb5 Ne4 13. Qe3 Bb7 14. Nb3 Qd8 15.
+exd6 exd6 16. N5d4 Be7 17. Bd3 Nf6 18. O-O O-O 19. Nf5 Re8 20. Qg3 Qb6+ 21. Kh1
+g6 22. Nxh6+ Kg7 23. Nf5+ Kf8 24. Nxe7 Rxe7 25. f5 Re3 26. Qg5 Nh5 27. fxg6 Rh3
+28. g7+ Nxg7 29. Qf4 f5 30. Qf2 Qxf2 31. Rxf2 Rh5 32. Raf1 Ke7 33. Kg1 Rah8 34.
+g3 Rg5 35. Re2+ Kd7 36. Nd4 Rf8 37. Ref2 Rh8 38. Rf4 Rgh5 39. R1f2 Rg5 40.
+Bxf5+ Kd8 41. Be4 d5 42. Bg2 Re8 43. Rf7 Re1+ 44. Rf1 Re7 45. Bh3 Rh5 46. Bg2
+Rhe5 47. Rxe7 Kxe7 48. Nf3 Rf5 49. Nh4 Rg5 50. Bh3 d4 51. Nf5+ Nxf5 52. Rxf5
+Rg6 53. Bg2 Bxg2 54. Kxg2 Rc6 55. Rf2 Kd6 56. g4 Ke5 57. Kg3 Ke4 58. Re2+ Kd5
+59. g5 Kc4 60. h4 a5 61. h5 a4 62. g6 b3 63. axb3+ axb3 64. g7 Rc8 65. h6 d3
+66. cxd3+ Kxd3 67. Rf2 1-0

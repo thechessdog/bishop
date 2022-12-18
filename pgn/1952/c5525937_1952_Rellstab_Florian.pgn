@@ -1,0 +1,25 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Rellstab, Ludwig"]
+[Black "Florian, Tibor"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "c5525937"]
+[Epoch "Bishop"]
+[WhiteID "4671155"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O 8. c3
+Nbc6 9. f4 cxd4 10. cxd4 Qb6 11. Nf3 Bd7 12. Nc3 Rac8 13. Be2 f5 14. O-O Na5
+15. b3 Rc7 16. Rac1 Rfc8 17. Bd3 Qb4 18. Ne2 Nac6 19. Qxb4 Nxb4 20. Rxc7 Rxc7
+21. Rc1 Rc6 22. Rxc6 Nexc6 23. Nc1 Be8 24. a3 Nxd3 25. Nxd3 Bh5 26. Nde1 Na5
+27. Nd2 Bd1 28. b4 Nc4 29. Nxc4 dxc4 30. Kf2 b5 31. g3 Kf8 32. Ke3 Ke7 33. Kd2
+Bh5 34. Nc2 Be8 35. Kc3 a6 36. a4 h6 37. axb5 axb5 38. d5 exd5 39. Ne3 Ke6 40.
+Kd4 Bc6 41. Kc5 d4 42. Kxd4 Be4 43. Nd1 Bc6 44. Nc3 Be8 45. Kc5 Ke7 46. Ne2 Bh5
+47. Nd4 c3 48. Kxb5 Bd1 49. Kc4 c2 50. Nb3 Ke6 51. Kd4 g5 52. b5 gxf4 53. gxf4
+Kd7 54. Ke3 Ke6 55. Kd2 c1=Q+ 56. Nxc1 Ba4 57. Ne2 1-0

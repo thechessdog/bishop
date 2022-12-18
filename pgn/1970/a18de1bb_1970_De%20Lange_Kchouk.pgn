@@ -1,0 +1,20 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "De Lange, D."]
+[Black "Kchouk, Bechir"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "a18de1bb"]
+[Epoch "Bishop"]
+[BlackCountry "TUN"]
+
+1. d4 d5 2. Nf3 c6 3. c4 e6 4. Nbd2 g6 5. e3 Bg7 6. Bd3 Ne7 7. O-O O-O 8. Rb1
+a6 9. b4 Nd7 10. Bb2 Nb6 11. a4 dxc4 12. Nxc4 Nbd5 13. Qb3 b5 14. Na5 Qd6 15.
+Ba1 Nb6 16. axb5 axb5 17. Rfc1 Rd8 18. Bf1 Nbd5 19. Rc5 Ra7 20. Rbc1 Bd7 21. e4
+Nb6 22. Ne5 Be8 23. Qb1 Rc8 24. g3 f6 25. Ng4 Na4 26. R5c2 h5 27. Nxf6+ Bxf6
+28. e5 Qd7 29. exf6 Nd5 30. Bxb5 Rxa5 31. bxa5 Rb8 32. Rxc6 Qxc6 33. Rxc6 Kf7
+34. Rc7+ Kxf6 35. Qe4 Kg5 36. Rh7 1-0

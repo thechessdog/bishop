@@ -1,0 +1,17 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Ostroverhov"]
+[Black "Mazurenko"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Blackburne variation"]
+[HashCode "556f490a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 cxb5 9. Qxa8 Be7 10. b4 Bxb4 11. Qxa7 O-O 12. O-O Nd5 13. Nc3
+Nf4 14. Nge4 f5 15. Ng3 Bb7 16. a3 Bxg2 17. f3 Rf7 18. Qe3 Nc4 0-1
+

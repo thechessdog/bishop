@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1956.01.01"]
+[Round "8"]
+[White "Bouwmeester, Hans"]
+[Black "Roessel, Fritz"]
+[Result "0-1"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "96fda6bd"]
+[Epoch "Bishop"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7 8. f4
+O-O 9. f5 Qb6 10. Bg5 Nxe4 11. Bxe7 Qf2# 0-1

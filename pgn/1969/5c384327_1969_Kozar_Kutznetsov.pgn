@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Kozar"]
+[Black "Kutznetsov"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "5c384327"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 Bg4 6. Nbd2 Qe7 7. h3 Bf5 8.
+b4 O-O-O 9. Bb2 Nxe5 10. Nxd4 Nd3# 0-1
+

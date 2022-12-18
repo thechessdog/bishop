@@ -1,0 +1,18 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Ilivitsky, Georgy"]
+[Black "Antoshin, Vladimir S"]
+[Result "1-0"]
+[ECO "A81"]
+[Opening "Dutch defence"]
+[HashCode "004552f2"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 d5 5. O-O Bd6 6. c4 c6 7. b3 Qe7 8. Bb2 O-O
+9. Qc1 b5 10. Ne5 a5 11. a4 b4 12. Nd2 Bxe5 13. dxe5 Ne4 14. Nxe4 fxe4 15. cxd5
+cxd5 16. Bd4 Nd7 17. Qe3 Rf5 18. Bh3 Rh5 19. Bg4 Rg5 20. Bxe6+ Qxe6 21. Qxg5
+Ba6 22. Rfe1 Rf8 23. Rac1 h6 24. Qh5 g6 25. Qxh6 Rf5 26. Rc6 1-0

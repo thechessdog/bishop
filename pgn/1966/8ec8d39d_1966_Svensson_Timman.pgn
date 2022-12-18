@@ -1,0 +1,21 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Svensson, Gert"]
+[Black "Timman, Jan H"]
+[Result "0-1"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "Alekhine defense, Borisenko-Furman variation"]
+[HashCode "8ec8d39d"]
+[Epoch "Bishop"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e4 b5 5. a4 Bb7 6. b3 Bxe4 7. bxc4 b4 8. Nbd2
+Bb7 9. Bd3 e6 10. Qe2 Be7 11. Bb2 Nf6 12. O-O O-O 13. Rfe1 Nbd7 14. Ne5 Nxe5
+15. dxe5 Nd7 16. Rad1 Nc5 17. Be4 Qc8 18. Qh5 g6 19. Qh6 Rd8 20. Re3 Nxe4 21.
+Rh3 Ng5 22. Rh4 Nf3+ 23. gxf3 Bxh4 24. Qxh4 Bxf3 25. Bd4 Rxd4 26. Qxd4 Bxd1 27.
+Ne4 Qd8 28. Nf6+ Kg7 29. Qf4 b3 30. f3 Qd3 31. Ng4 Qf5 32. Qh6+ Kh8 33. Nf6 g5
+34. Qh5 Qxf6 35. Qh3 b2 0-1

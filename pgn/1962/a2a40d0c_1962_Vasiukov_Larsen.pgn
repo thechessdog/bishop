@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Vasiukov, Evgeni"]
+[Black "Larsen, Bent Ravn"]
+[Result "1/2-1/2"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[HashCode "a2a40d0c"]
+[Epoch "Bishop"]
+[BlackID "1430670"]
+[BlackCountry "DNK"]
+[WhiteID "4100522"]
+[WhiteCountry "RUS"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Ng5 dxe5 6. dxe5 Bg7 7. Bc4 c6 8. Qe2
+O-O 9. O-O h6 10. Nf3 Bg4 11. Nbd2 Qc7 12. h3 Bxf3 13. Nxf3 e6 1/2-1/2

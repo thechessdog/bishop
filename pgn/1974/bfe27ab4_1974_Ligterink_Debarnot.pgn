@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1974.07.01"]
+[Round "8"]
+[White "Ligterink, Gert"]
+[Black "Debarnot, Roberto"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "bfe27ab4"]
+[Epoch "Bishop"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "100595"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 c5
+8. dxc5 Bxc5 9. O-O h6 10. Qe2 O-O 11. Bf4 b6 12. Rad1 Qe7 13. Ne5 Bb7 14. Bg3
+Rad8 15. Bb5 Rxd1 16. Rxd1 Rd8 17. Bc6 Rxd1+ 18. Qxd1 Bxc6 19. Nxc6 1/2-1/2

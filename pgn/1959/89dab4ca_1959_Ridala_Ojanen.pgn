@@ -1,0 +1,19 @@
+[Event "Helsinki Open"]
+[Site "Helsinki Open"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Ridala"]
+[Black "Ojanen"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "89dab4ca"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5
+8. Qd2 e6 9. O-O-O h6 10. Bh4 b5 11. Bxe6 fxe6 12. Nxe6 Ne5 13. Nxf8 Nc4
+14. Qd4 Rxf8 15. a3 Be6 16. f4 O-O-O 17. e5 dxe5 18. Qa7 Qb6 19. Qxg7 b4
+20. Na4 Qe3+ 21. Kb1 Nxa3+ 22. bxa3 Qxa3 23. Nb6+ Kb8 24. Nd5 Bxd5 25. Rxd5
+Nxd5 26. Qxe5+ Kc8 0-1
+

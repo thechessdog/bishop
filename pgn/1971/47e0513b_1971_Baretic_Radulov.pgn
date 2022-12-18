@@ -1,0 +1,19 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Baretic, Dragoljub"]
+[Black "Radulov, Ivan"]
+[Result "1-0"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "47e0513b"]
+[Epoch "Bishop"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+[WhiteID "920541"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 Nxd4 8.
+Qxd4 Qa5 9. f4 Rc8 10. e5 dxe5 11. fxe5 Be6 12. b4 1-0

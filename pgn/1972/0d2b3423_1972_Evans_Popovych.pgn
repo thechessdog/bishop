@@ -1,0 +1,19 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Evans, Larry D."]
+[Black "Popovych, Orest"]
+[Result "1-0"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "0d2b3423"]
+[Epoch "Bishop"]
+[WhiteID "2001713"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Bg4 7. O-O Nfd7 8. Be3
+e5 9. d5 Bxf3 10. Bxf3 f5 11. b4 a5 12. a3 Na6 13. Qb3 Kh8 14. Be2 f4 15. Bd2
+Nf6 16. f3 Rg8 17. Na4 axb4 18. axb4 Bf8 19. Qc3 g5 20. c5 dxc5 21. b5 Nb8 22.
+Qxe5 1-0

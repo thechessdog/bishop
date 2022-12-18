@@ -1,0 +1,17 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kaiser"]
+[Black "Jackl"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "70417c6c"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Qe7 7. dxc5
+Qxe2+ 8. Nxe2 Bxc5 9. Nb3 Bb6 10. O-O Ne7 11. Re1 O-O 12. c3 a6 13. Bd3 Ne5
+14. Bc2 N7c6 15. h3 Re8 16. Kf1 Bd7 17. Rd1 Na5 18. Nbd4 Bc6 1/2-1/2
+

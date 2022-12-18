@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Nicotra"]
+[Black "Cane"]
+[Result "1-0"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer"]
+[HashCode "3476e41a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Qa5 7. Bxf6
+gxf6 8. Bb5 Bd7 9. Nb3 Qd8 10. Qh5 Ne5 11. f4 Ng6 12. Bc4 e6 13. g3 Rc8 14.
+Nd2 a6 15. f5 exf5 16. exf5 Ne5 17. Bb3 Bc6 18. Rf1 d5 19. O-O-O Qc7 20.
+Rfe1 Bb4 21. Nf3 Bxc3 22. bxc3 Bb5 23. Nxe5 O-O 24. Nd3 Qxc3 25. Nb2 Qb4
+26. Bxd5 a5 27. Re4 Qc3 28. Rd2 Rce8 29. Rdd4 Rxe4 30. Rxe4 a4 31. Qh6 Qf3
+32. Qxf6 Bd7 33. Qg5+ Kh8 34. Rg4 Qc3 35. f6 1-0
+

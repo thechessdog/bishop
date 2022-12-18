@@ -1,0 +1,20 @@
+[Event "Hammersmith"]
+[Site "Hammersmith"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Dickson"]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "e41f77f5"]
+[Epoch "Bishop"]
+[BlackID "405213"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qe2 O-O 10. Rd1 Qc7 11. Rd3 b4 12. Nd1 Bb7 13. Rh3 Bxe4 14. Bg5 Qb7 15.
+f3 Bg6 16. Nf2 e5 17. Re1 Bd8 18. Nd3 exd4 19. Nf4 Bb6 20. Kh1 Nbd7 21. Nxg6
+hxg6 22. Qf2 Rfe8 23. Rxe8+ Rxe8 24. Qh4 Nh5 25. g4 Ne5 26. gxh5 Nxf3 27. Bxf7+
+Kf8 28. Bd5 Nxh4 0-1

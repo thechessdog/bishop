@@ -1,0 +1,20 @@
+[Event "Orebro"]
+[Site "Orebro"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Soby, Frode"]
+[Black "Kerje, A."]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "5878a02b"]
+[Epoch "Bishop"]
+[WhiteID "1407880"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Bc4
+b5 9. Bxe6 fxe6 10. Nxe6 Qb6 11. Qf3 Bb7 12. O-O-O Rc8 13. Rhe1 Kf7 14. Nd5 Qa5
+15. Bxf6 Nxf6 16. Ng5+ Kg8 17. Qh3 Re8 18. Nxf6+ gxf6 19. Qb3+ d5 20. exd5 Rc8
+21. d6+ Rc4 22. d7 Bd5 23. Re8 Rd4 24. Rxd4 Bxb3 25. d8=Q Qxd8 26. Rdxd8 Kg7
+27. axb3 1-0

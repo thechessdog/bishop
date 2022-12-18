@@ -1,0 +1,16 @@
+[Event "corr DFFM"]
+[Site "corr DFFM"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Popp, F."]
+[Black "Von der Fecht, C."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian defence"]
+[HashCode "f03c29d3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Nxc6 bxc6 7. e5 Ng8
+8. Qf3 f5 9. h4 Qa5 10. Bf4 Bg7 11. Qe3 Rb8 12. O-O-O h5 13. Qg3 Kf7 14.
+e6+ dxe6 15. Bxb8 Bxc3 16. Qxc3 Qxc3 17. bxc3 a6 18. Rd8 0-1
+

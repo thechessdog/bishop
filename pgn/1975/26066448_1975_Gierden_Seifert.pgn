@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gierden, H."]
+[Black "Seifert, W."]
+[Result "1-0"]
+[ECO "E86"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.Nge2 c6"]
+[HashCode "26066448"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8.
+Qd2 Nbd7 9. d5 cxd5 10. Nxd5 a6 11. Nec3 Nxd5 12. Nxd5 Rb8 13. Qb4 Nf6 14.
+Nb6 Ne8 15. O-O-O Qc7 16. Kb1 Kh8 17. c5 dxc5 18. Bxc5 Rg8 19. Nd5 1-0
+

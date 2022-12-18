@@ -1,0 +1,26 @@
+[Event "Hungary ch"]
+[Site "Hungary ch"]
+[Date "1952.01.01"]
+[Round "13"]
+[White "Szily, Jozsef"]
+[Black "Florian, Tibor"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "dedc394d"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bd3 O-O 8. O-O
+Nc6 9. a3 dxc4 10. Bxc4 Bd7 11. Qd3 Rc8 12. Ba2 Qc7 13. Bg5 Rfd8 14. Rad1 Be8
+15. Ne4 Nd5 16. Rfe1 Nf4 17. Qe3 Bxg5 18. Nexg5 h6 19. Ne4 Ne7 20. Ne5 Ned5 21.
+Qg3 Qc2 22. Kh1 Qxb2 23. Bxd5 Nxd5 24. h4 b6 25. Kh2 f5 26. Rb1 Qxd4 27. Rbd1
+f4 28. Rxd4 fxg3+ 29. Kxg3 Rc2 30. Nc4 Bc6 31. f3 b5 32. Ne5 Be8 33. Nd3 e5 34.
+Nxe5 Rxg2+ 35. Kxg2 Nf4+ 36. Kf2 Rxd4 37. Ke3 Ng2+ 38. Kxd4 Nxe1 39. Nd6 Kf8
+40. Kc5 a6 41. Kb6 Nc2 42. Kxa6 Nxa3 43. Ka5 Nc4+ 44. Ndxc4 bxc4 45. Nxc4 Kf7
+46. Kb6 Kg6 47. Nd6 Ba4 48. Kc5 Kh5 49. Kd4 Bc6 50. Ke3 Kxh4 51. Kf2 Bd7 52.
+Kg2 h5 53. Nf7 Bf5 54. Kh2 Be6 55. Ne5 Kg5 56. Kg3 h4+ 57. Kf2 Kf5 58. Nd3 Bc4
+59. Ne1 g5 60. Ng2 Bd5 61. Ne3+ Ke5 62. Ng2 Kd4 63. Ne3 Be6 64. Nf1 Kd3 65. Nh2
+Bh3 0-1

@@ -1,0 +1,26 @@
+[Event "Buenos Aires qual"]
+[Site "Buenos Aires"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Pelikán, Jiří (Jorge)"]
+[Black "Mazzoleni, Julio"]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed system"]
+[HashCode "ebebe997"]
+[Epoch "Bishop"]
+[BlackID "100811"]
+[BlackCountry "ARG"]
+[WhiteCountry "CZE"]
+
+1. c4 Nc6 2. Nc3 e5 3. g3 g6 4. Bg2 Bg7 5. Nf3 Nge7 6. O-O d6 7. Rb1 O-O 8. b4
+Nd4 9. Ne1 c6 10. e3 Ne6 11. Ba3 a6 12. Nc2 f5 13. f4 Ra7 14. b5 axb5 15. cxb5
+d5 16. fxe5 Bxe5 17. d4 Bg7 18. Qd3 Re8 19. Rb3 Ng5 20. Bc5 Ra8 21. bxc6 bxc6
+22. Nb4 Bd7 23. Na6 Ne4 24. Bb6 Qc8 25. Nc7 h5 26. Nxa8 Qxa8 27. a4 Bc8 28. Re1
+Kh7 29. a5 Ba6 30. Qc2 Ng8 31. Nxe4 fxe4 32. Rc3 Re6 33. Bh3 Rf6 34. Bc7 Bd3
+35. Qc1 Ne7 36. Be5 Qxa5 37. Qd2 Qa6 38. Bxf6 Bxf6 39. Bf1 Bxf1 40. Rxf1 Nf5
+41. Re1 Qb6 42. Rec1 Nxd4 43. exd4 Bxd4+ 44. Kg2 c5 45. R3c2 Qf6 46. Rf1 Qe5
+47. Ra2 e3 48. Qe2 c4 49. Ra8 Bc5 50. Rf7+ Kh6 51. Rf4 g5 52. Ra6+ Kg7 53. Qxh5
+Qb2+ 54. Kh3 gxf4 55. Qg6+ Kf8 56. Ra8+ Ke7 57. Re8+ Kd7 58. Qe6+ Kc7 59. Rc8+
+Kb7 60. Qc6+ Ka7 61. Ra8# 1-0

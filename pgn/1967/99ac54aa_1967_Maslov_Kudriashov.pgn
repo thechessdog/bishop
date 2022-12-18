@@ -1,0 +1,18 @@
+[Event "URS-chT"]
+[Site "Moscow"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Maslov, Leonid P"]
+[Black "Kudriashov, Anatoli"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "99ac54aa"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 dxc4 7. Bxc4 Bxc3+ 8.
+bxc3 e5 9. Ne2 c5 10. O-O Qc7 11. d5 Ne8 12. e4 Nd6 13. Bd3 c4 14. Bc2 Na6 15.
+f4 f6 16. fxe5 fxe5 17. Rxf8+ Kxf8 18. Ng3 Kg8 19. Be3 Qa5 20. Qe1 Bd7 21. Nh5
+Be8 22. Nxg7 Bg6 23. Ne6 Nc7 24. Nxc7 Qxc7 25. Qg3 Qg7 26. Qh4 b5 27. Bh6 Qh8
+28. Qe7 1-0

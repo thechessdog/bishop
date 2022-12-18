@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Guischard"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "5442f427"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. d4 Ng4 6. Nc3 Bxh2 7. Bg5 Bg3+
+8. Kd2 f6 9. Bh4 Nf2 10. Qc1 Nxh1 0-1

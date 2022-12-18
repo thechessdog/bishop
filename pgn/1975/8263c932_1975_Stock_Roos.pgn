@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Stock"]
+[Black "Roos"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "8263c932"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Be3 exd4 5. Bxd4 Nc6 6. Bb5 Bd7 7. Nge2
+Nf6 8. Ng3 Bb4 9. Bxf6 Qxf6 10. Nxe4 Bxc3+ 11. Nxc3 O-O-O 12. O-O Bf5 13.
+Bd3 Bxd3 14. cxd3 Qf5 15. Qa4 Rd4 16. Qa3 Rxd3 17. Rad1 Rhd8 18. Rxd3 Qxd3
+19. Qb3 Qg6 20. Rd1 Qe6 21. Qxe6+ fxe6 22. Kf1 Rxd1+ 23. Nxd1 Kd7 24. Ke2
+Nb4 25. a3 Nd5 26. g3 c5 27. Kd3 b5 28. h4 a5 29. b3 Kc6 30. f3 Nb6 31. Nf2
+a4 32. bxa4 c4+ 33. Kd4 Nxa4 34. Ne4 e5+ 35. Ke3 h6 36. g4 Nc5 37. Ng3 Kb6
+38. Nf5 Ka5 39. Kd2 Ka4 40. Nd6 Nb3+ 41. Kc3 Nd4 42. Nxc4 bxc4 43. Kxc4
+Kxa3 44. g5 Nxf3 45. gxh6 gxh6 46. Kd5 Kb3 47. Ke4 Kc3 48. h5 Kd2 0-1
+

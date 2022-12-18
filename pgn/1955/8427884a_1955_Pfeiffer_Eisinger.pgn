@@ -1,0 +1,22 @@
+[Event "Hoechst ch-GER"]
+[Site "Hoechst ch-GER"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Pfeiffer, Gerhard"]
+[Black "Eisinger, Max Jr"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "8427884a"]
+[Epoch "Bishop"]
+[WhiteID "1649027"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. d4 d5 8. e5
+Ne4 9. Nbd2 cxd4 10. cxd4 Nxd2 11. Bxd2 Qb6 12. Bxc6 bxc6 13. Bc3 Bg4 14. h3
+Bxf3 15. Qxf3 e6 16. Qe3 a5 17. Rac1 Rfc8 18. Rc2 c5 19. Rec1 c4 20. f4 a4 21.
+a3 Re8 22. g4 f6 23. Rf2 fxe5 24. fxe5 Rf8 25. h4 Rxf2 26. Kxf2 Rf8+ 27. Ke2
+Qd8 28. Rh1 h5 29. gxh5 gxh5 30. Qg3 Qd7 31. Rg1 Rf5 32. Bd2 Kh8 33. Bh6 Rf7
+34. Qg6 Qe7 35. Kd1 Bxh6 36. Qg8# 1-0

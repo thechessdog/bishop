@@ -1,0 +1,20 @@
+[Event "British CCC"]
+[Site "British CCC"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Thimann, R."]
+[Black "Lawrence, J."]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line with Nb3"]
+[HashCode "422dd9a0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. Be2 Be7 7. Be3 Nf6
+8. O-O O-O 9. f4 Bd7 10. Nb3 Qc7 11. Qe1 a6 12. a4 Nb4 13. Qd2 d5 14. e5
+Ne4 15. Nxe4 dxe4 16. c3 Nd5 17. Bd4 b5 18. a5 Rad8 19. Qe1 f5 20. Qf2 Rc8
+21. Rfc1 g5 22. fxg5 f4 23. h4 f3 24. gxf3 Nf4 25. Qe3 Nxe2+ 26. Qxe2 exf3
+27. Qe3 f2+ 28. Kh2 Rf5 29. Rf1 Rcf8 30. Nd2 Bc6 31. Qg3 Qd8 32. Rad1 Qd5
+33. Rxf2 Rxf2+ 34. Bxf2 Rf4 35. Kh3 Qxe5 36. Bd4 Qf5+ 37. Kh2 Bd6 0-1
+

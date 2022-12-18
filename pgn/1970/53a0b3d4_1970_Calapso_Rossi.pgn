@@ -1,0 +1,19 @@
+[Event "Rovigo"]
+[Site "Rovigo"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Calapso, R."]
+[Black "Rossi"]
+[Result "1-0"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Richter variation"]
+[HashCode "53a0b3d4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O
+8. O-O Nc6 9. Qd2 Ng4 10. Bxg4 Bxg4 11. f4 Bd7 12. Nxc6 Bxc6 13. Bd4 e5 14.
+Be3 exf4 15. Rxf4 Be5 16. Rf2 Qa5 17. Raf1 Bxc3 18. Qxc3 Qxc3 19. bxc3 Bxe4
+20. Bh6 f5 21. Bxf8 Rxf8 22. Rd1 Rc8 23. Rxd6 Rxc3 24. Rd7 Ra3 25. Rc7 Ra5
+26. c4 Ra3 27. Rd2 Rd3 28. Rxd3 Bxd3 29. Rxb7 1-0
+

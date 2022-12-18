@@ -1,0 +1,23 @@
+[Event "Olot"]
+[Site "Olot"]
+[Date "1969.01.01"]
+[Round "5"]
+[White "Ulvestad, Olaf"]
+[Black "Bellon Lopez, Juan Manuel"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "4cc590a7"]
+[Epoch "Bishop"]
+[BlackID "2200031"]
+[BlackCountry "SWE"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 Nxc3 7. bxc3 c5 8. e3
+Nc6 9. cxd5 Qxd5 10. Qb3 Qxb3 11. axb3 Be6 12. Ra3 a6 13. Kd2 O-O-O 14. Bg3 Bd5
+15. Kc2 Be4+ 16. Kb2 cxd4 17. exd4 Bxf3 18. gxf3 e5 19. d5 Rxd5 20. Bh3+ f5 21.
+Rc1 Kb8 22. f4 Bh6 23. Ra4 exf4 24. Bxf4+ Bxf4 25. Rxf4 Ne5 26. Bf1 Re8 27. Rc2
+Nd3+ 28. Bxd3 Rxd3 29. f3 Ree3 30. Rh4 h5 31. f4 a5 32. Rg2 Rxc3 33. Rxg6 Rxb3+
+34. Kc2 a4 35. Rxh5 a3 36. Rg8+ Ka7 37. Rxf5 Rb2+ 38. Kd1 Rf3 39. Ke1 Rff2 40.
+Rh8 Rfe2+ 41. Kd1 Rg2 42. Ra5+ Kb6 0-1

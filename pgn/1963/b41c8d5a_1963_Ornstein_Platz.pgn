@@ -1,0 +1,23 @@
+[Event "New England"]
+[Site "New England"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Ornstein, Axel"]
+[Black "Platz"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "b41c8d5a"]
+[Epoch "Bishop"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Nf3 Nf6 6. Bg5 h6 7. Bh4 O-O 8.
+Be2 g5 9. Nxg5 hxg5 10. Bxg5 Bf5 11. g4 Bh7 12. f4 Be7 13. Qd2 Ne4 14. Nxe4
+Bxe4 15. Rf1 Nd7 16. O-O-O Rc8 17. Bh6 Re8 18. g5 c5 19. Bd3 Bf8 20. Bxe4 Rxe4
+21. dxc5 Rxc5 22. Qg2 Qc7 23. Rxd5 Rxc2+ 24. Qxc2 Rc4 25. Rd2 Nb6 26. Bxf8 Kxf8
+27. b3 Rxc2+ 28. Rxc2 Qe7 29. Rff2 Nd5 30. Rf3 Nxf4 31. Rcf2 Nd3+ 32. Rxd3 Qe1+
+33. Kc2 Qxf2+ 34. Rd2 Qf5+ 35. Kd1 Qxg5 36. Re2 Qa5 37. Rd2 Qc3 38. Rc2 Qf3+
+39. Re2 f5 40. Ke1 Qh1+ 41. Kd2 Kf7 42. Rf2 Kf6 43. Ke2 Qb1 44. Ke3 Ke5 45. Re2
+f4+ 46. Kf3+ Kf5 47. Rf2 Qe4# 0-1

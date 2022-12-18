@@ -1,0 +1,27 @@
+[Event "Rhyl ch-BCF"]
+[Site "Rhyl ch-BCF"]
+[Date "1969.08.01"]
+[Round "2"]
+[White "Hempson, Peter W"]
+[Black "De Veauce, Louis"]
+[Result "1-0"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "2855fbb1"]
+[Epoch "Bishop"]
+[WhiteID "401560"]
+[WhiteCountry "ENG"]
+[BlackID "401145"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. f3 d6 7. e4 e5 8. Bg5
+Re8 9. Ne2 h6 10. Bh4 Nbd7 11. g4 Nf8 12. Bf2 Bxg4 13. fxg4 Nxe4 14. d5 Qf6 15.
+Bg3 Qf3 16. Rg1 Ng6 17. Bg2 Qxg4 18. h3 Qf5 19. Qd3 Nxg3 20. Qxg3 Qf4 21. Qxf4
+Nxf4 22. Nxf4 exf4+ 23. Kd2 Re3 24. Raf1 Rae8 25. Rxf4 Re2+ 26. Kd3 R8e3+ 27.
+Kd4 Rg3 28. Rg4 Rd2+ 29. Ke4 Rxc3 30. Bf1 g6 31. Rf4 c5 32. dxc6 bxc6 33. Rf3
+Rxf3 34. Kxf3 Ra2 35. Ke3 Rxa3+ 36. Bd3 Kf8 37. Rg4 Ke7 38. Rh4 h5 39. Re4+ Kd7
+40. Rf4 f5 41. h4 Ke6 42. Rf1 Ra2 43. Kf4 Kf6 44. Re1 d5 45. Re8 dxc4 46. Bxc4
+Rg2 47. Re6+ Kg7 48. Ke5 Rg4 49. Re7+ Kh6 50. Be6 Rxh4 51. Kf6 Re4 52. Re8 Kh7
+53. Rc8 h4 54. Bf7 Rg4 55. Bg8+ Kh8 56. Be6+ Kh7 57. Rc7+ Kh8 58. Bf7 Rd4 59.
+Rc8+ Kh7 60. Bxg6+ Kh6 61. Rh8# 1-0

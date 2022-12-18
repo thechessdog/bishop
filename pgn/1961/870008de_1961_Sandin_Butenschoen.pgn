@@ -1,0 +1,20 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Sandin, S."]
+[Black "Butenschoen, F."]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "870008de"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3
+Bxc3+ 8. Nxc3 d5 9. exd5 exd5 10. Bd3 Bg4 11. f3 Be6 12. O-O Qb6+ 13. Kh1
+d4 14. Ne2 O-O 15. b4 Kh8 16. f4 Bg4 17. Qd2 Rae8 18. Ng3 Re3 19. b5 Ne7
+20. Qb4 Nfd5 21. Qb3 f5 22. Bxe3 Nxe3 23. Rf2 N7d5 24. Ne2 Rc8 25. Re1 Qa5
+26. c3 h6 27. Rc1 Bxe2 28. Rxe2 Nxf4 29. Rxe3 dxe3 30. Bxf5 Rf8 31. g4 Qd8
+0-1
+

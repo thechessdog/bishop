@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Goldberg, Grigory"]
+[Black "Veltmander, Ioganess"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "16f74fe6"]
+[Epoch "Bishop"]
+[WhiteID "2808927"]
+[WhiteCountry "ISR"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nf3
+O-O 9. O-O Re8 10. Bf4 Na6 11. Re1 Nc7 12. a4 b6 13. h3 Nh5 14. Bh2 Bh6 15. e5
+dxe5 16. Nxe5 Nf4 17. Bc4 Qg5 18. Bxf4 Qxf4 19. g3 Qf6 20. d6 Rxe5 21. dxc7
+Rxe1+ 22. Qxe1 Bxh3 23. Qe4 Rf8 24. Nd5 Qxb2 25. Rb1 Qg7 26. Qh4 Bc8 27. Ne7+
+Kh8 28. Nxc8 Rxc8 29. Ba6 g5 30. Bxc8 gxh4 31. Bf5 1-0

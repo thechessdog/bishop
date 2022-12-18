@@ -1,0 +1,20 @@
+[Event "Ins League"]
+[Site "Ins League"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "De Coverly, Roger D"]
+[Black "Brooks, F."]
+[Result "1-0"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "3416883f"]
+[Epoch "Bishop"]
+[WhiteID "405213"]
+[WhiteCountry "END"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 b6 10. cxd5 exd5 11. c4 Bg4 12. dxc5 dxc4 13. Bxc4 bxc5 14. Bb2
+Qe7 15. Qa4 Bxf3 16. gxf3 Rfc8 17. Rac1 Ne5 18. Be2 Qe6 19. Rfd1 Qf5 20. f4
+Nfg4 21. Bxe5 f6 22. Qd7 Qxd7 23. Rxd7 fxe5 24. Bxg4 exf4 25. Be6+ Kh8 26. exf4
+Re8 27. f5 g6 28. Rxc5 1-0

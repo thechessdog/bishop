@@ -1,0 +1,18 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Tordion"]
+[Black "Blau, Max"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Steinitz variation"]
+[HashCode "4789ae38"]
+[Epoch "Bishop"]
+[BlackCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 Ng4 7. Bf4 O-O 8. h3
+Nh6 9. c3 dxc3 10. Nxc3 d6 11. Bg5 Qd7 12. Bxh6 gxh6 13. Ne4 Qe7 14. Nf6+ Kg7
+15. Qd3 Nxe5 16. Qxh7+ Kxf6 17. Nxe5 dxe5 18. Qxh6+ Kf5 19. g4+ Ke4 20. Rfe1+
+Kd4 21. Qe3+ Kxc4 22. Qb3+ 1-0

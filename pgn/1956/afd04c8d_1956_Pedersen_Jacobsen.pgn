@@ -1,0 +1,20 @@
+[Event "Fredericia"]
+[Site "Fredericia"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Pedersen, Henry"]
+[Black "Jacobsen, Bo"]
+[Result "1-0"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "afd04c8d"]
+[Epoch "Bishop"]
+[WhiteID "1429205"]
+[WhiteCountry "DEN"]
+[BlackID "1400738"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 g6 7. f3 Bg7 8. Bc4
+O-O 9. a4 Na5 10. Ba2 a6 11. Qd3 Bd7 12. g4 Rc8 13. g5 Ne8 14. h4 Nc6 15. h5
+Nb4 16. Qe2 Nxa2 17. Rxa2 f5 18. hxg6 hxg6 19. Qh2 e6 20. Qh7+ Kf7 21. Rh6 Qe7
+22. Qxg6+ Kg8 23. Nxe6 Bxe6 24. Qh7+ 1-0

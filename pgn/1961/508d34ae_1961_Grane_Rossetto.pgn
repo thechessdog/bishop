@@ -1,0 +1,27 @@
+[Event "Mar del Plata KIM"]
+[Site "Mar del Plata"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Grane, E."]
+[Black "Rossetto, Hector"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "508d34ae"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Bg4 7. Be3 Qxd4
+8. Nxd4 c5 9. Ne2 Nf6 10. f3 Bd7 11. Nd2 Be7 12. O-O-O b6 13. Nf4 Bc6 14. Nb1
+g5 15. Ne2 Nd7 16. Nbc3 Ne5 17. Nd5 Bd8 18. h3 Nc4 19. Bf2 Bxd5 20. Rxd5 c6 21.
+Rdd1 Bc7 22. b3 Nd6 23. Bg3 O-O-O 24. Be5 Rhg8 25. Ng3 Nb5 26. Bxc7 Kxc7 27.
+Rxd8 Rxd8 28. Re1 a5 29. a4 Nd4 30. Ne2 h5 31. Kb2 h4 32. c3 Ne6 33. Kc2 Re8
+34. Rd1 c4 35. bxc4 Nc5 36. Nd4 Nxa4 37. Nb3 Re5 38. Rd4 Nc5 39. Nxc5 Rxc5 40.
+Kb3 Re5 41. Ka4 Re7 42. Rd2 Re5 43. Rd4 f6 44. Rd2 f5 45. exf5 Rxf5 46. Kb3 Rf4
+47. Rd1 a4+ 48. Kxa4 b5+ 49. Kb3 Rxc4 50. Rg1 Rf4 51. Rd1 Rf5 52. Rd4 c5 53.
+Re4 Kd6 54. Rg4 Ke5 55. Re4+ Kf6 56. Re2 Re5 57. Rd2 Kf5 58. Kc2 Kf4 59. Kd1
+Kg3 60. Kc2 Kh2 61. Kd1 Kg1 62. Kc2 Kf1 63. Kb3 Ke1 64. Rd7 Kf2 65. Rd2+ Kf1
+66. Ka3 Re3 67. Rd5 b4+ 68. Ka4 bxc3 69. Rxg5 c2 70. Rxc5 Kxg2 71. Rxc2+ Kxh3
+72. Kb4 Kg3 73. Kc4 h3 74. Kd4 Rxf3 75. Ke4 Rf4+ 76. Ke5 Rf2 77. Rc7 h2 78.
+Rg7+ Kf3 0-1

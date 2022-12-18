@@ -1,0 +1,28 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "1b312be9"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. e3 e6 5. Nf3 Be7 6. d4 O-O 7. Bd3 c5 8. O-O
+Nc6 9. a3 cxd4 10. exd4 Bd7 11. Nxd5 exd5 12. Qb3 Bg4 13. Qxb7 Na5 14. Qa6 Bxf3
+15. gxf3 Nb3 16. Rb1 Nxc1 17. Rfxc1 Bd6 18. Rc6 Qg5+ 19. Kh1 Bf4 20. Rg1 Qh5
+21. Rg2 Qxf3 22. Be2 Qb3 23. Qb5 Qa2 24. Bf3 Rab8 25. Qxd5 Qxb2 26. Qe4 Qb1+
+27. Rg1 Qxe4 28. Bxe4 Rb3 29. Ra6 Rh3 30. Rb1 Rxh2+ 31. Kg1 Rh4 32. Bf3 Bb8 33.
+d5 Rd4 34. Rb7 g5 35. Ra5 g4 36. Be2 Kg7 37. Rab5 Re8 38. Kf1 Bd6 39. Rxa7 Rf4
+40. Ra6 g3 41. f3 g2+ 42. Kxg2 Rxe2+ 43. Kf1 Rc2 44. Rxd6 Rxf3+ 45. Kg1 Rxa3
+46. Rb1 Raa2 47. Rdb6 Rg2+ 48. Kh1 Rh2+ 49. Kg1 Rhd2 50. d6 h5 51. Rc1 Rg2+ 52.
+Kh1 Rh2+ 53. Kg1 Rag2+ 54. Kf1 Rd2 55. Kg1 Rhe2 56. Kf1 Rh2 57. Kg1 h4 58. Rb3
+Rhe2 59. Kf1 Re4 60. Rf3 Rxd6 61. Rc7 Rf6 62. Rxf6 Kxf6 63. Kg2 Re3 64. Rc5
+Rg3+ 65. Kf2 Kg6 66. Rc4 Kh5 67. Rc5+ Rg5 68. Rc3 f5 69. Rb3 Rg6 70. Rb1 h3 71.
+Rh1 Kh4 72. Kf3 Rg3+ 73. Kf4 Rg2 74. Kf3 Ra2 0-1

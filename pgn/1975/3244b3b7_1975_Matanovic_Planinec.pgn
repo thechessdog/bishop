@@ -1,0 +1,19 @@
+[Event "JUG-ch"]
+[Site "Novi Sad"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Matanovic, Aleksandar"]
+[Black "Planinec, Albin"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "3244b3b7"]
+[Epoch "Bishop"]
+[WhiteID "900230"]
+[WhiteCountry "SRB"]
+[BlackCountry "SVN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6 8.
+e5 fxe5 9. Nxe5 Ne7 10. Bg5 Be6 11. Nc3 O-O 12. Rfe1 Rf5 13. Nf3 Rxg5 14. Rxe6
+Rf5 15. Re2 Rxf3 0-1

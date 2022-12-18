@@ -1,0 +1,24 @@
+[Event "Trencianske-Teplice"]
+[Site "Trencianske-Teplice"]
+[Date "1949.08.01"]
+[Round "3"]
+[White "Platt, Josef"]
+[Black "Richter, Emil"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "e07e00f9"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Nbd7 5. cxd5 exd5 6. Bg5 h6 7. Bh4 c6 8. e3
+Be7 9. Qc2 O-O 10. Bd3 b6 11. O-O Bb7 12. Rfd1 Re8 13. Bf5 Nh5 14. Bxe7 Qxe7
+15. Rac1 Nf8 16. Ne5 g6 17. Bg4 Ng7 18. Bf3 Nd7 19. Nxd7 Qxd7 20. a4 Ne6 21. b4
+Ng5 22. Be2 a6 23. a5 b5 24. Re1 Re7 25. Nb1 Ne4 26. Nd2 Nd6 27. Nf3 Nc4 28.
+Bd3 Qd6 29. Qc3 Rae8 30. Nd2 Bc8 31. Nb3 f5 32. Nc5 Kh7 33. g3 Qf6 34. Bf1 h5
+35. Nd3 h4 36. Qc2 hxg3 37. hxg3 Kg7 38. Bg2 Qg5 39. Nf4 Rh8 40. Qe2 Kf8 41.
+Rc2 Reh7 42. Qf3 Qf6 43. Nd3 Kg7 44. Qe2 g5 45. Ne5 Kf8 46. f4 g4 47. Kf2 Rh2
+48. Rg1 R8h3 49. Qe1 Rxg3 50. Ng6+ Qxg6 51. Kxg3 Qh7 52. Kf2 Qh3 53. Qe2 Bd7
+54. Rc3 Nd6 55. Kf1 Qh4 56. Qe1 g3 57. Rc2 Be8 58. Ke2 Ne4 59. Kd3 Qe7 60. Bf3
+Rf2 61. Bd1 Qg7 62. Rg2 Qe7 63. Rb2 c5 64. bxc5 Nxc5+ 65. dxc5 Qe4+ 66. Kc3
+Qc4# 0-1

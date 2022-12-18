@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Zaitsev, Igor"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "c898980e"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 d6 7. c3 Rf8 8.
+d4 exd4 9. Bxc6 bxc6 10. O-O dxc3 11. Nxc3 h6 12. Qe2 Bg4 13. Nf3 Nd7 14. h3
+Bxf3 15. gxf3 g5 16. Be3 Ne5 17. Bxc5 dxc5 18. Kg2 Rxf3 19. Rh1 Qg8 0-1

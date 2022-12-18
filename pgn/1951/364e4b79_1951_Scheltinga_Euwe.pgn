@@ -1,0 +1,19 @@
+[Event "radio"]
+[Site "radio"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Scheltinga & Muhrin"]
+[Black "Euwe, Max and vd Berg"]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "364e4b79"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 Nc6 8. e3
+b6 9. Be2 Bb7 10. O-O Rc8 11. b4 Be7 12. Bb2 Qc7 13. Rfd1 Rfd8 14. Rac1 Qb8 15.
+Qb3 Ng4 16. h3 Nge5 17. Nd4 Ng6 18. g3 f5 19. c5 Nxd4 20. exd4 f4 21. Rd3 bxc5
+22. bxc5 f3 23. Bd1 Rf8 24. d5 Ba6 25. dxe6 Qxb3 26. Bxb3 Rb8 27. Nb5 Bxb5 28.
+exd7+ Kh8 29. c6 Bxd3 30. c7 Bf5 31. cxb8=Q Rxb8 32. Ba4 Bxd7 33. Bxd7 Rxb2 34.
+Rc8+ Nf8 0-1

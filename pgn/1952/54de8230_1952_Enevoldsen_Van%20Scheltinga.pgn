@@ -1,0 +1,18 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Enevoldsen, Jens"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "54de8230"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "DNK"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 e6 7. Be2 Be7 8. O-O
+O-O 9. Bf4 Nbd7 10. Rab1 e5 11. Bd2 d4 12. Nd1 Ne8 13. Qg3 Bd6 14. Bg4 Qe7 15.
+Bxd7 Qxd7 16. f4 exf4 17. Bxf4 Bxf4 18. Qxf4 1/2-1/2

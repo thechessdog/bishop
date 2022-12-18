@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Nocci, R."]
+[Black "SchieÃ¡l, J."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "bd181ca9"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Qf6 5. d4 exd4 6. e5 Qg6 7. cxd4 Nxd4
+8. Nxd4 Qb6 9. Qg4 Kf8 10. Be3 Bxd4 11. Bxd4 Qxb5 12. Nc3 Qc6 13. O-O d5
+14. e6 f6 15. Rfe1 Ne7 16. Rac1 h5 17. Qf3 Bxe6 18. Bxf6 Re8 19. Bxe7+ Kg8
+20. Ba3 1-0
+

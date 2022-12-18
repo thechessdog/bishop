@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Ubilava, Elizbar"]
+[Black "Timoshchenko, Gennadi"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "81624d80"]
+[Epoch "Bishop"]
+[WhiteID "13600052"]
+[WhiteCountry "ESP"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Nc3 a6 6. Bxc6 Nxc6 7. d4 cxd4 8.
+Nxd4 d6 9. Nxc6 bxc6 10. Qh5 g6 11. Qh3 Rb8 12. Rd1 Bg7 13. Qg3 Be5 14. Qxe5
+dxe5 15. Rxd8+ Kxd8 16. Bg5+ Ke8 17. Bf6 Rg8 18. Rd1 Bd7 19. Na4 Rb4 20. Nc5
+Rd4 21. Rxd4 exd4 22. h4 e5 23. f3 Be6 24. b3 a5 25. g4 h5 26. g5 Bh3 27. Kf2
+Rf8 28. Ke2 Rg8 29. a4 Rf8 30. b4 axb4 31. a5 Bc8 32. Kd3 Rg8 33. Kc4 1-0

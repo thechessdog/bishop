@@ -1,0 +1,23 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "3"]
+[White "Szabo, Iuliu"]
+[Black "Weinstein, Raymond Allen"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "e548041e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5
+8. Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 O-O-O 12. f3 Be7 13. a3 Kb8 14.
+Be3 Rc8 15. Kb1 Rhd8 16. Ba2 Ne5 17. Nb3 Qc7 18. Qd4 Nc6 19. Qb6 Nd7 20.
+Qxc7+ Kxc7 21. Nd4 Nxd4 22. Bxd4 g5 23. Ne2 g4 24. c4 gxf3 25. gxf3 Ne5 26.
+Bxe5 dxe5 27. cxb5 axb5 28. Nc3 Bc6 29. b4 Rxd1+ 30. Rxd1 Rg8 31. Rc1 Kb6
+32. Bb3 h5 33. Bd1 h4 34. Be2 Rg2 35. Rh1 f5 36. Kc1 Bg5+ 37. Kd1 Be3 38.
+a4 bxa4 39. b5 Bd7 40. Nxa4+ Ka5 41. Nb2 Bxb5 42. Nc4+ Kb4 43. Nxe3 Rxe2
+44. Re1 Ra2 45. Nc2+ Kc4 46. Kc1 Ba4 47. Ne3+ Kd3 48. Kb1 Re2 49. Rxe2 Kxe2
+50. Nc4 Kxf3 51. exf5 exf5 52. Nxe5+ Kg2 53. Ng6 0-1
+

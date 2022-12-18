@@ -1,0 +1,23 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kapengut, Albert Z"]
+[Black "Faibisovich, Vadim Z"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "ee873451"]
+[Epoch "Bishop"]
+[BlackID "4102703"]
+[BlackCountry "RUS"]
+[WhiteID "13500058"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Be7 9. Qf3 Nbd7 10. O-O-O Qc7 11. Qg3 b5 12. Bxf6 Bxf6 13. Bxb5 axb5 14. Nxb5
+Qb8 15. Nxd6+ Kf8 16. e5 Be7 17. Qc3 Nb6 18. f5 exf5 19. Nd4 Rxa2 20. b3 Nd5
+21. Qc6 Be6 22. Nxe6+ fxe6 23. Rxd5 exd5 24. Qxd5 Bxd6 25. exd6 Qc8 26. c4 Ra1+
+27. Kc2 Rxh1 28. d7 Qd8 29. c5 Ke7 30. Qd6+ Kf7 31. Qd5+ Kg6 32. Qe6+ Qf6 33.
+Qe8+ Rxe8 34. dxe8=Q+ Kh6 35. Qe3+ g5 36. b4 Ra1 37. Qb3 Qe5 0-1

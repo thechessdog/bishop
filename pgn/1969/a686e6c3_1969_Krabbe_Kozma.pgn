@@ -1,0 +1,24 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1969.01.01"]
+[Round "12"]
+[White "Krabbe, Tim"]
+[Black "Kozma, Julius"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "a686e6c3"]
+[Epoch "Bishop"]
+[WhiteID "1000969"]
+[WhiteCountry "NED"]
+[BlackID "14934019"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. Nb3 O-O 10. f4 Rd8 11. Be3 d5 12. e5 d4 13. exf6 Bxf6 14. Ne4 dxe3 15.
+Nxf6+ gxf6 16. Qe2 Qb6 17. Rad1 Bd7 18. c4 Ne7 19. c5 Qc7 20. Qxe3 Bb5 21. Rfe1
+Rxd1 22. Rxd1 Rd8 23. Rxd8+ Qxd8 24. Qd4 Qxd4+ 25. Nxd4 Bc6 26. Nxc6 Nxc6 27.
+Bxc6 bxc6 28. Kf2 f5 29. Kf3 h5 30. h3 f6 31. g4 hxg4+ 32. hxg4 fxg4+ 33. Kxg4
+Kf7 34. b4 Kg6 35. a4 f5+ 36. Kf3 Kf6 37. Ke3 e5 38. b5 cxb5 39. axb5 axb5 40.
+c6 exf4+ 41. Kxf4 Ke6 42. c7 Kd7 43. Kxf5 Kxc7 44. Ke4 Kb6 45. Kd3 Ka5 0-1

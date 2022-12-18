@@ -1,0 +1,20 @@
+[Event "Cienfuegos"]
+[Site "Cienfuegos"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Vogt, Lothar"]
+[Black "Andersson, Ulf"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "a3a81bbc"]
+[Epoch "Bishop"]
+[WhiteID "4611292"]
+[BlackID "1700014"]
+[WhiteCountry "GER"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. f4 Qc7 8. O-O
+Be7 9. Kh1 Nc6 10. Be3 Nxd4 11. Qxd4 b5 12. Rad1 O-O 13. e5 dxe5 14. Qxe5 Qb8
+15. a3 1/2-1/2

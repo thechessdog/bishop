@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Zelevinsky, Vladimi"]
+[Black "Chepukaitis, Genrik"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "e3137f3e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 c5 5. e3 d6 6. Bd3 Nc6 7. O-O Bxc3 8.
+bxc3 e5 9. Ng5 Qe7 10. Qc2 Ng4 11. f4 exf4 12. exf4 cxd4 13. cxd4 Ne3 14.
+Bxe3 Qxe3+ 15. Kh1 Qxd4 16. Rae1+ Kd7 17. Be4 Nd8 18. Rd1 Qf6 19. c5 Ke8
+20. Rxd6 Qe7 21. Rfd1 Bg4 22. Re1 Kf8 23. Qf2 h6 24. Bf3 Qc7 25. Bxg4 hxg5
+26. fxg5 Nc6 27. g6 Rh6 28. Rf1 Nd8 29. h3 f6 30. Rxf6+ gxf6 31. Qxf6+ Nf7
+32. Qg5 Rh8 33. g7+ Kg8 34. gxh8=Q+ Kxh8 35. Qf6+ 1-0
+

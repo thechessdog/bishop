@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Den Ouden, A."]
+[Black "Mostert, H."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "e8438654"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. a3 Bxc3+ 7. bxc3 cxd4
+8. Bd3 Qc7 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qxh7 Qxe5 12. Bf4 Qf6 13. h4 Nbc6
+14. Bg5 Qe5 15. Rh3 d4 16. f4 Qc7 17. Nxd4 Bd7 18. Nb5 Qb8 19. Nxc3 f5 20.
+Be2 Rf8 21. Qg7 1-0
+

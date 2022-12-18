@@ -1,0 +1,16 @@
+[Event "San Antonio"]
+[Site "San Antonio"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Adkins"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "d21a1c2c"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Be3 a6 9. Qd2 Nc6 10. Bh6 Nxd4 11. Bxg7 Nxe2+ 12. Qxe2 Kxg7 0-1

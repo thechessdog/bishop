@@ -1,0 +1,18 @@
+[Event "Brno KOLT"]
+[Site "Brno"]
+[Date "1968.??.??"]
+[Round "7"]
+[White "Hausner, Ivan"]
+[Black "Achimsky, Ivan"]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "8558002b"]
+[Epoch "Bishop"]
+[WhiteID "300110"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nf3 a6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Nc6 10. Bxf6 gxf6 11. Bd3 Bg7 12. Rb1 Qa3 13. O-O Qb4 14. f5 Ne5
+15. Kh1 b5 16. a3 Qxa3 17. Ra1 Qb4 18. Bxb5+ axb5 1/2-1/2

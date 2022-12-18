@@ -1,0 +1,20 @@
+[Event "CSR-ch"]
+[Site "Luhacovice"]
+[Date "1971.??.??"]
+[Round "12"]
+[White "Kostro, Jerzy"]
+[Black "Kolarov, Atanas S."]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "dbeb413e"]
+[Epoch "Bishop"]
+[WhiteID "1101188"]
+[WhiteCountry "POL"]
+[BlackID "2900246"]
+[BlackCountry "BGR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Nf5 Bxf5 12. exf5 Qd7 13. Qf3 b6 14. Be3 Nb7
+15. a4 Rab8 16. Qh5 Nd6 1/2-1/2

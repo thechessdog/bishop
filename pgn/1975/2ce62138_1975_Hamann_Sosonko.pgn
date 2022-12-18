@@ -1,0 +1,21 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1975.07.01"]
+[Round "6"]
+[White "Hamann, Svend"]
+[Black "Sosonko, Gennadi"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "2ce62138"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+[BlackID "1000039"]
+[BlackCountry "NED"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 Bb4 5. e3 O-O 6. a3 Bxc3+ 7. bxc3 c5 8. Bd3
+dxc4 9. Bxc4 Qc7 10. Be2 b6 11. O-O Bb7 12. Bb2 Nbd7 13. c4 Rac8 14. Rc1 Rfd8
+15. h3 Be4 16. Qb3 Qb7 17. Rfd1 Bc6 18. Ne1 Rb8 19. a4 h6 20. Bf1 a6 21. Ba3
+cxd4 22. exd4 Nf8 23. Ra1 1/2-1/2

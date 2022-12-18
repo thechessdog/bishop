@@ -1,0 +1,18 @@
+[Event "Atlantic City"]
+[Site "Atlantic City"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Harris"]
+[Black "Gruchacz, Robert"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "c8829ed0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 h6 9. Bh4 Nbd7 10. Bc4 g5 11. fxg5 Ne5 12. Qe2 Nfg4 13. O-O-O hxg5 14.
+Bg3 Nxc4 15. Qxc4 Ne3 16. Qa4+ Bd7 17. Nc6 Qb6 18. Qa5 Qxc6 19. Nd5 Qxc2#
+0-1
+

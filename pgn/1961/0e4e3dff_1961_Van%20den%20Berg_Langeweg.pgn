@@ -1,0 +1,22 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1961.01.01"]
+[Round "3"]
+[White "Van den Berg, Carel Benjamin"]
+[Black "Langeweg, Kick"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "0e4e3dff"]
+[Epoch "Bishop"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. O-O Ra7 13. Qd3 Rd7 14. Ne4 Qe5
+15. Nf3 Qxb2 16. Qe3 Bb7 17. Rad1 Bxe4 18. fxg7 Qxg7 19. Qxe4 Bd6 20. Bd3 Rg8
+21. Rd2 h5 22. a4 b4 23. Re1 Qg4 24. Qa8 Ke7 25. Re4 Qg7 26. Rde2 Qa1+ 27. Re1
+Qxa4 28. Rxe6+ fxe6 29. Qe4 Kd8 30. Qxe6 Rgg7 31. Bf5 Qc6 32. Kh1 Rde7 33. Qf6
+Nd7 34. Qh4 Kc7 35. Be4 Qc5 0-1

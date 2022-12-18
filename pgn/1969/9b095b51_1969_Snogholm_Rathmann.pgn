@@ -1,0 +1,19 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Snogholm, B."]
+[Black "Rathmann, H."]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "9b095b51"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8.
+c3 d6 9. d4 Bb6 10. Bg5 h6 11. Bh4 Qe7 12. Bd5 g5 13. Bg3 Nd7 14. a4 Rb8
+15. axb5 axb5 16. Na3 Na7 17. Bxb7 Rxb7 18. Nc2 h5 19. h4 g4 20. Nh2 Rb8
+21. Nf1 f6 22. Nfe3 Qh7 23. dxe5 fxe5 24. Nb4 O-O 25. Ned5 Ra8 26. Na6 Qf7
+27. Qd2 c6 28. Nxb6 Nxb6 29. Qxd6 Nc4 30. Qb4 Rad8 31. b3 Nb2 0-1
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Tardivello"]
+[Black "Rugiadini"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "e0c2a51a"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8.
+Nf3 cxd4 9. cxd4 Bb4+ 10. Kf1 f6 11. Nf4 fxe5 12. dxe5 Ndxe5 13. Nxe5 Nxe5
+14. Qh5+ Nf7 15. Be3 Qd6 16. Bxh7 Qe5 17. Qxe5 Nxe5 18. Bc2 O-O 19. Ng6
+Nxg6 20. Bxg6 e5 21. h4 Bd7 22. Rc1 d4 23. Bg5 Bc6 24. Rh3 e4 25. Kg1 Rac8
+26. Rc4 Be1 27. f4 e3 28. Rxd4 Bf2+ 29. Kf1 Bb5+ 30. Bd3 Bxd3+ 31. Rxd3
+Rfe8 0-1
+

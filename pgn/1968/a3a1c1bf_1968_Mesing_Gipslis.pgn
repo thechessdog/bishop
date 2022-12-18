@@ -1,0 +1,17 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Messing, Hrvoje"]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "a3a1c1bf"]
+[Epoch "Bishop"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. Nc3 c5 3. d5 d6 4. e4 g6 5. Be2 Bg7 6. h4 O-O 7. h5 b5 8. Bxb5
+Nxe4 9. Nxe4 Qa5+ 10. Nc3 Bxc3+ 11. bxc3 Qxb5 12. Bh6 Re8 13. hxg6 fxg6 14. Rh4
+Nd7 15. Nf3 Rb8 16. Qd2 Ba6 17. c4 Qb4 18. a3 Qxd2+ 19. Kxd2 Nb6 20. Kc3 Na4+
+21. Kd2 1/2-1/2

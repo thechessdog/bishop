@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Bader"]
+[Black "Hammerling"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "3b0912b7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O Qc7 10. Bb3 a6 11. Rhg1 b5 12. g4 b4 13. Nxc6 Qxc6 14.
+Nd5 Nxd5 15. exd5 Qb7 16. f4 Re8 17. Qf3 Rb8 18. Rg3 Bf8 19. g5 g6 20. f5
+exf5 21. Bf4 Qb5 22. Rh3 Qe2 23. Qg3 Qg4 24. Rh4 Qxg3 25. hxg3 Bd7 26. Rdh1
+h5 27. Bd2 Re4 28. Rxe4 fxe4 29. Rf1 f5 30. g4 a5 31. Bc4 Re8 32. Be3 f4
+33. Kd2 Be7 34. Rh1 Bd8 35. Rh4 Re5 0-1
+

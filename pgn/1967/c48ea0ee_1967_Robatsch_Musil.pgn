@@ -1,0 +1,18 @@
+[Event "Maribor"]
+[Site "Maribor"]
+[Date "1967.01.01"]
+[Round "13"]
+[White "Robatsch, Karl"]
+[Black "Musil, Vojko"]
+[Result "1/2-1/2"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical variation with ...Qc7 and ...Nc6"]
+[HashCode "c48ea0ee"]
+[Epoch "Bishop"]
+[BlackID "14600145"]
+[BlackCountry "SLO"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. f4 a6 7. Be2 d6 8. O-O
+Nf6 9. Nb3 Be7 10. Be3 O-O 11. a4 Na5 12. Nxa5 Qxa5 13. Qe1 Qc7 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hultquist, Torsten"]
+[Black "Carlsson, Gosta"]
+[Result "1/2-1/2"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "c179895a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8.
+Bh4 Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Bd3 Rg8 12. Rhe1 g5 13. fxg5 Ne5 14.
+Qe2 hxg5 15. Bf2 Bd7 16. Nf3 b5 17. Nxe5 dxe5 18. Bg3 b4 19. Nb1 a5 20. Bb5
+g4 21. Bh4 Bxb5 22. Qxb5+ Nd7 23. Bxe7 Kxe7 24. Re3 Rac8 25. Qe2 a4 26. Rd2
+Nc5 27. c3 Qb7 28. Kd1 bxc3 29. Nxc3 a3 30. Ke1 Rgd8 31. Rxd8 Rxd8 32. bxa3
+Qd7 33. Kf2 Qd4 34. Qxg4 Nd3+ 35. Ke2 Rd6 36. Nd5+ Rxd5 37. Qg5+ f6 38.
+Qg7+ Kd6 39. exd5 Nf4+ 40. Kf3 Qxd5+ 41. Kf2 Qd2+ 42. Kf3 Qd5+ 1/2-1/2
+

@@ -1,0 +1,23 @@
+[Event "Vicenza tt"]
+[Site "Vicenza tt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Magrin"]
+[Black "Masera"]
+[Result "0-1"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "0ffacf6d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 Nbd7 6. Bg5 O-O 7. Qd2 e5 8.
+d5 a5 9. f3 Nc5 10. Rd1 Qe8 11. Nb5 Qd7 12. Nh3 Ne8 13. Nf2 f5 14. O-O Qf7
+15. Rc1 f4 16. Nd3 b6 17. Nxc5 bxc5 18. Rc3 Bf6 19. Bh6 Bg7 20. Bxg7 Qxg7
+21. Ra3 g5 22. Qc3 a4 23. Qc2 g4 24. Rxa4 Rxa4 25. Qxa4 g3 26. h3 Qh6 27.
+Qc2 Rf6 28. Bd3 Qh5 29. Na7 Bd7 30. Nc6 Kf8 31. Qe2 Rh6 32. a4 Bxh3 33.
+gxh3 Qxh3 34. Qg2 Qc8 35. Re1 Rh2 36. Qf1 Rf2 37. Qxf2 gxf2+ 38. Kxf2 Qb7
+39. Re2 Nf6 40. Nd8 Qb4 41. Ne6+ Ke7 42. Bc2 Nh5 43. Bd1 Ng3 44. Rc2 Qxa4
+45. Nxc7 Qb3 46. Ke1 Qe3+ 47. Be2 h5 48. Nb5 h4 49. Nc3 h3 50. Nd1 Qg1+ 51.
+Kd2 h2 0-1
+

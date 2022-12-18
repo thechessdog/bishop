@@ -1,0 +1,16 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Scheeren, M."]
+[Black "Welling, Gerard"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "6fa41e2a"]
+[Epoch "Bishop"]
+[BlackID "1000446"]
+[BlackCountry "NED"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Bf4 Qb4+ 5. Qd2 Qxb2 6. Qc3 Bb4 0-1

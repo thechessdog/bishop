@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Tarjan, James"]
+[Black "Buljovcic, Ivan"]
+[Result "1-0"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "36f0bb6b"]
+[Epoch "Bishop"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+[BlackCountry "SRB"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 cxd4 8. exd4
+Nc6 9. Nc3 Be7 10. Bg5 O-O 11. Re1 b6 12. d5 Nxd5 13. Nxd5 exd5 14. Qxd5 Bxg5
+15. Qxg5 Bb7 16. Rad1 Qc7 17. Bd3 g6 18. Qh6 f5 19. Bc4+ Kh8 20. Be6 Rad8 21.
+Rd7 1-0

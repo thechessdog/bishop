@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1968.01.01"]
+[Round "2"]
+[White "Smederevac, Petar"]
+[Black "Bakker, Piet"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "40be46e7"]
+[Epoch "Bishop"]
+[BlackID "1024469"]
+[BlackCountry "NED"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e5 7. Qd2 Nge7 8. Bh6
+O-O 9. h4 Bxh6 10. Qxh6 f6 11. Qd2 Rb8 12. f4 Nd4 13. h5 Qa5 14. hxg6 hxg6 15.
+O-O-O Be6 16. f5 Bxa2 17. fxg6 Nxg6 18. Qh6 Kf7 19. Qh7+ Ke8 20. Qxg6+ Bf7 21.
+Qg7 Qa1+ 22. Kd2 Qxb2 23. Rh8 Qxc2+ 24. Ke3 Rxh8 25. Qxh8+ Ke7 26. Qxb8 Qxg2
+27. Nce2 Bh5 28. Qxb7+ Kf8 29. Qc8+ Ke7 30. Rb1 Nc2+ 31. Kd2 Nb4 32. Qb7+ Ke6
+33. Rxb4 cxb4 34. Qxa7 f5 35. Qh7 Bf7 36. exf5+ Kf6 37. Qh4+ Kxf5 38. Qxb4 d5
+39. Qf8 Ke6 40. Nh3 1-0

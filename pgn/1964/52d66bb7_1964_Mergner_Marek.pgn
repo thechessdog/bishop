@@ -1,0 +1,20 @@
+[Event "corr YUG-BRD"]
+[Site "corr YUG-BRD"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Mergner, H."]
+[Black "Marek, I."]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "52d66bb7"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. a3 Bxc3+ 7. bxc3 d5 8.
+cxd5 exd5 9. Ne2 b6 10. O-O Ba6 11. Bxa6 Nxa6 12. Qd3 c4 13. Qc2 b5 14. f3
+Re8 15. Ng3 Qb6 16. Kh1 Qc6 17. Re1 Re6 18. Bd2 Rae8 19. Re2 h5 20. Rae1 g6
+21. Kg1 Nc7 22. Nh1 a5 23. Nf2 Qd6 24. Qb2 Nh7 25. e4 f6 26. h4 Qg3 27. Nh3
+g5 28. hxg5 fxg5 29. Qb1 Kg7 30. e5 g4 31. Bf4 Qh4 32. fxg4 hxg4 33. Re3
+Qh5 34. Rg3 Rg8 35. Rf1 Kh8 36. Qd1 Nf8 37. Ng5 Reg6 38. Rh3 1-0
+

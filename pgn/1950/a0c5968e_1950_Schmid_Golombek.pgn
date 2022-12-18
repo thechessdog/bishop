@@ -1,0 +1,18 @@
+[Event "Southsea"]
+[Site "Southsea"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Schmid, Lothar Maximilian Lorenz"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "a0c5968e"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 Bd6 8.
+Qe2 O-O 9. Ne4 Nxe4 10. Qxe4 Nf6 11. Qh4 Qa5+ 12. Bd2 Qh5 13. Qxh5 Nxh5 14. Ne5
+Nf6 15. O-O Rd8 16. Ba5 Re8 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Keene, Raymond D"]
+[Black "Camara, Helder"]
+[Result "1/2-1/2"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "5bf4ffd1"]
+[Epoch "Bishop"]
+[WhiteID "400211"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nf3 O-O 6. Nc3 Nc6 7. O-O a6 8. d5
+Na5 9. Nd2 c5 10. Qc2 e5 11. b3 Ng4 12. h3 Nh6 13. Bb2 Rb8 14. Rae1 f5 15. f4
+e4 16. e3 Rf7 17. Ne2 b5 18. Bxg7 Rxg7 1/2-1/2

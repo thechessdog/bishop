@@ -1,0 +1,18 @@
+[Event "Bari"]
+[Site "Bari"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Mandato"]
+[Black "Actis"]
+[Result "0-1"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "3a91d3f8"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 a6 13. Qc2 Rb8 14. Nc4 b5
+15. Na5 Bd7 16. axb5 axb5 17. Bf4 Qe7 18. Rfe1 Nh5 19. Bd2 Bd4+ 20. Kf1 Qh4
+21. Nd1 Ng3+ 0-1
+

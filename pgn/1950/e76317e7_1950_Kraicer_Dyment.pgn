@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Kraicer"]
+[Black "Dyment"]
+[Result "1-0"]
+[ECO "D48"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, 8...a6"]
+[HashCode "e76317e7"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 a6 9. e4 Be7 10. e5 Nd5 11. Nxd5 cxd5 12. Bd2 O-O 13. h4 f6 14. Ng5
+fxg5 15. Bxh7+ Kxh7 16. hxg5+ Kg8 17. Rh8+ Kxh8 18. Qh5+ Kg8 19. g6 1-0
+

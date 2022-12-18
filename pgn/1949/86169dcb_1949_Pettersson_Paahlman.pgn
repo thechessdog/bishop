@@ -1,0 +1,15 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Pettersson, Sven"]
+[Black "Paahlman, Sten"]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld defence"]
+[HashCode "86169dcb"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. g3 c5 5. Bg2 cxd4 6. Nxd5 Nxd5 7. cxd5 Qa5+
+8. Bd2 Qb6 9. Rc1 Na6 10. Rxc8+ 1-0
+

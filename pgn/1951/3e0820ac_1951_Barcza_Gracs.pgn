@@ -1,0 +1,18 @@
+[Event "Hungary ch"]
+[Site "Hungary ch"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Barcza, Gedeon"]
+[Black "Gracs, Pal"]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[HashCode "3e0820ac"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. O-O d6 6. b4 Bb6 7. a4 a6 8. d3 Nf6
+9. Na3 O-O 10. Ba2 Be6 11. Nc4 Ba7 12. Ng5 Bg4 13. Nf3 Rad8 14. h3 Be6 15. b5
+Nb8 16. Qe2 h6 17. Re1 Bc5 18. Bd2 axb5 19. axb5 Nbd7 20. d4 Bxc4 21. Bxc4 Bb6
+22. Nh4 Rfe8 23. Ng6 1-0

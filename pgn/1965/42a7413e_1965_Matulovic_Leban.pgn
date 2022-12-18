@@ -1,0 +1,18 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1965.01.01"]
+[Round "4"]
+[White "Matulovic, Milan"]
+[Black "Leban, Slavko"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "42a7413e"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 c5
+8. dxc5 Bxc5 9. Qe2 Qa5+ 10. Bd2 Bb4 11. c3 Be7 12. Bg5 O-O 13. O-O h6 14. Bh4
+Qh5 15. Rad1 g6 16. Rfe1 b6 17. Be4 Rb8 18. Bg3 Bb7 19. Bxb8 Nxe4 20. Bg3 Bc5
+21. Rd7 Ba8 22. Rxa7 f5 23. b4 f4 24. bxc5 fxg3 25. hxg3 Qd5 26. Rxa8 1-0

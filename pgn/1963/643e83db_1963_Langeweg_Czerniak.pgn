@@ -1,0 +1,20 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1963.08.01"]
+[Round "3"]
+[White "Langeweg, Kick"]
+[Black "Czerniak, Moshe"]
+[Result "0-1"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Petrosian system"]
+[HashCode "643e83db"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "ISR"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 Ne8 8. Bg5 f6
+9. Bh4 Nd7 10. Nd2 Rf7 11. O-O Nf8 12. b4 g5 13. Bg3 Ng6 14. Bg4 Bf8 15. Bxc8
+Qxc8 16. Nb3 Ng7 17. c5 h5 18. f3 h4 19. Bf2 Nh5 20. Rc1 Qe8 21. Na5 b6 22. Nc6
+Ngf4 23. Nb5 Rg7 24. Ncxa7 bxc5 25. bxc5 dxc5 26. Bxc5 Bxc5+ 27. Rxc5 Qb8 0-1

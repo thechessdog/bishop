@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Larghi"]
+[Black "Della Maggiore"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "69f320b8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+f4 b4 9. Na4 Nxe4 10. O-O Nf6 11. Qf3 d5 12. f5 e5 13. Re1 e4 14. Qg3 Bd6
+15. Qxg7 Rg8 16. Qh6 Be5 17. Qd2 Ng4 18. h3 Qh4 19. Nf3 exf3 20. hxg4 Qh2+
+21. Kf1 Rxg4 0-1
+

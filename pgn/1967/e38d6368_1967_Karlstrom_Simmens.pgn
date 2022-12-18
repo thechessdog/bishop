@@ -1,0 +1,15 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Karlstrom"]
+[Black "Simmens"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "e38d6368"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Bc4 e6 3. Nc3 Nc6 4. Nf3 a6 5. d4 cxd4 6. Nxd4 Qc7 7. Nxc6 Qxc6
+8. Qe2 b5 9. Bd5 1-0
+

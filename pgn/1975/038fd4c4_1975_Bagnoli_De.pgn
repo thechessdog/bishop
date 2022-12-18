@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Bagnoli"]
+[Black "De Biase"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "038fd4c4"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bd3 Be7 9. N1f3 O-O 10. Bd2 Qc7 11. g4 c5 12. c3 c4 13. Bc2 Nbd5 14. Ne5
+b5 15. Rg1 Bd6 16. f4 Bd7 17. Rg3 Rac8 18. Rh3 g6 19. Qf2 Bxe5 20. fxe5
+Nxg4 21. Qg3 h5 22. Rh4 f5 23. h3 f4 24. Qg1 Nxe5 25. dxe5 Qxe5+ 26. Ne4
+Qg7 27. O-O-O e5 28. Be1 Be6 29. Ng5 Nc7 30. Rd6 Bf5 31. Nf3 Ne8 32. Ra6
+Bxc2 33. Kxc2 Nf6 34. Rxa7 Qh6 35. Nxe5 1-0
+

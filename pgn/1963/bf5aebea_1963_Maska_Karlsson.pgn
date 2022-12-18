@@ -1,0 +1,19 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Maska, J."]
+[Black "Karlsson, O."]
+[Result "1-0"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "bf5aebea"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5 7. d5 Nh5 8. Nh2
+Na6 9. g3 c6 10. Be2 Nf6 11. Bg5 h6 12. Be3 cxd5 13. cxd5 Nc7 14. Qd2 Kh7
+15. O-O-O Bd7 16. f4 Ng8 17. g4 f5 18. gxf5 gxf5 19. Bd3 b5 20. exf5 Kh8
+21. fxe5 dxe5 22. Ng4 b4 23. f6 Nxf6 24. Bxh6 Ng8 25. Bxg7+ Kxg7 26. Nxe5
+bxc3 27. Rhg1+ 1-0
+

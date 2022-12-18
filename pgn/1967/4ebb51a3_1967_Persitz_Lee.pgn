@@ -1,0 +1,23 @@
+[Event "Ilford"]
+[Site "Ilford"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Persitz"]
+[Black "Lee"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "4ebb51a3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8.
+f4 Nc6 9. Bb3 O-O 10. Be3 Na5 11. e5 dxe5 12. fxe5 Nd7 13. Rxf7 Nxe5 14.
+Rxf8+ Bxf8 15. Bxe6+ Bxe6 16. Nxe6 Qxd1+ 17. Rxd1 Nac4 18. Bc1 Re8 19. Nxf8
+Rxf8 20. b3 Na5 21. Ne4 Re8 22. Bb2 Nec4 23. Re1 Nd6 24. Bc3 Rxe4 25. Rxe4
+Nxe4 26. Bxa5 Kf7 27. Kf1 Ke6 28. Ke2 Kd5 29. Ke3 Nd6 30. c4+ Kc5 31. Bc3
+b5 32. cxb5 axb5 33. g4 g6 34. Kf4 Kd5 35. h4 Ne4 36. Bb4 Nf2 37. Kg5 Ke6
+38. a4 bxa4 39. bxa4 Nd3 40. Bc3 Nc5 41. Kh6 Nxa4 42. Bd4 Kd5 43. Ba1 Ke4
+44. Kxh7 Kf4 45. g5 Nc5 46. Kxg6 Kg4 47. Kf7 Ne4 48. g6 Nd6+ 49. Kf8 Nf5
+50. Bf6 Kh5 51. g7 Nxg7 52. Kxg7 1-0
+

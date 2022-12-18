@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Hartston"]
+[Black "Farina"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "47a6a962"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 g6 7. f3 Bg7 8.
+Qd2 O-O 9. O-O-O a6 10. g4 Ne5 11. Kb1 Be6 12. h4 Nc4 13. Bxc4 Bxc4 14. h5
+Qd7 15. Bh6 e6 16. b3 Bb5 17. Bxg7 Kxg7 18. hxg6 fxg6 19. e5 dxe5 20. Qh6+
+Kg8 21. Ndxb5 Qg7 22. Qxg7+ Kxg7 23. Nc7 1-0
+

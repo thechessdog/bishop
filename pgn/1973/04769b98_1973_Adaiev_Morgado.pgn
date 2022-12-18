@@ -1,0 +1,16 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Adaiev, Y."]
+[Black "Morgado, Juan Sebastian"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "04769b98"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nfd7 7. Nc3 e5 8. e4
+Nc6 9. d5 Ne7 10. Be3 h6 11. Nd2 f5 12. f3 f4 13. Bf2 h5 14. b4 g5 15. c5 Nf6
+16. cxd6 cxd6 1/2-1/2

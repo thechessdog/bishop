@@ -1,0 +1,25 @@
+[Event "CSR-DDR"]
+[Site "Prague"]
+[Date "1958.??.??"]
+[Round "2"]
+[White "Fichtl, Jiri"]
+[Black "Malich, Burkhard, Dr."]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "949d1253"]
+[Epoch "Bishop"]
+[BlackID "4611330"]
+[WhiteCountry "CZE"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. Be2 b5 10. a3 Rc8 11. f4 Be7 12. Nb3 Qc7 13. Rhe1 b4 14. axb4 Nxb4
+15. e5 dxe5 16. fxe5 Ng8 17. Bxe7 Nxe7 18. Bh5 Ned5 19. Nxd5 Nxd5 20. Bf3 O-O
+21. Bxd5 exd5 22. Re3 Bf5 23. Nd4 Be4 24. e6 fxe6 25. Rxe4 dxe4 26. Nxe6 e3 27.
+Qd3 Qa5 28. Kb1 Rfe8 29. Nd4 Kh8 30. c3 Qb6 31. Re1 Rb8 32. b3 Qh6 33. h3 a5
+34. Kb2 Qg5 35. Re2 Qd5 36. Rxe3 Qxg2+ 37. Ka3 Qg1 38. Rxe8+ Rxe8 39. Kb2 Qg2+
+40. Nc2 h6 41. c4 Qe2 42. Kc3 Qe5+ 43. Qd4 Qg5 44. h4 Qg3+ 45. Kb2 Rb8 46. Qc3
+Qxh4 47. c5 Qf6 48. c6 h5 49. Nd4 Rd8 50. Qc5 g6 51. Kc3 h4 52. Kc4 Qf1+ 53.
+Kc3 Qe1+ 54. Kb2 Qf2+ 55. Ka3 Qf8 0-1

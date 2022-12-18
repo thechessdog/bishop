@@ -1,0 +1,15 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Muhlberg"]
+[Black "Neukirch, Detlef"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "fa944fae"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 h6 7. Bh4 Ne4 8.
+Bxd8 Nxc3 9. Nxc6 1-0

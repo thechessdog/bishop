@@ -1,0 +1,18 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Cafferty, Bernard"]
+[Black "Cortlever, Nicolaas"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[Opening "Two knights defence (Modern bishop's opening)"]
+[HashCode "b3b86b08"]
+[Epoch "Bishop"]
+[WhiteID "401005"]
+[WhiteCountry "ENG"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. c3 O-O 6. Nbd2 d5 7. Bb5 Bd6 8. O-O
+Ne7 9. d4 Ng6 10. dxe5 Nxe5 11. Nxe5 Bxe5 12. Nf3 Bg4 13. exd5 Nxd5 14. h3 Bxf3
+15. Qxf3 c6 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr ch-BRD"]
+[Site "corr ch-BRD"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Huttl, W."]
+[Black "Mendel, G."]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "a2c85076"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Re1 O-O
+8. e5 Ne8 9. Bf4 f6 10. Bb3+ Kh8 11. Nbd2 d5 12. e6 g5 13. Bg3 Ng7 14. c4
+dxc3 15. bxc3 Bxe6 16. Qe2 g4 17. Nd4 Nxd4 18. cxd4 Bd6 19. Rad1 Qd7 20.
+Bxd6 Qxd6 21. Nf1 Qf4 22. Ne3 c6 23. Qd3 Bf7 24. Qc3 Bg6 25. Rd2 Rfe8 26.
+Rc1 Nf5 27. Nxf5 Bxf5 28. Rf1 Be4 29. Rb2 Re7 30. Bd1 Rg8 31. f3 gxf3 32.
+Bxf3 Qg5 33. g3 f5 34. Rg2 f4 0-1
+

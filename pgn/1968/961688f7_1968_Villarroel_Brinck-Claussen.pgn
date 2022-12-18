@@ -1,0 +1,21 @@
+[Event "Lugano ol (Men)"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "?"]
+[White "Villarroel, Geber"]
+[Black "Brinck-Claussen, Bjorn"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "961688f7"]
+[Epoch "Bishop"]
+[WhiteID "3900061"]
+[BlackID "1400134"]
+[WhiteCountry "VEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. O-O d6 6. Re1 e5 7. d3 Be7 8.
+Nbd2 f5 9. c3 Nf6 10. Qb3 fxe4 11. dxe4 Nh5 12. Nc4 Be6 13. Be3 O-O 14. Nfd2
+Nf4 15. Qa4 Qe8 16. Rad1 Nd3 17. Nf3 Nxe1 18. Nxe1 Qb8 19. b3 Qb5 20. Nxd6 Qxa4
+21. bxa4 Rad8 22. Bxc5 Rd7 23. Nf3 Bg4 0-1

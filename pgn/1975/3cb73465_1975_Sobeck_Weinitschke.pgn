@@ -1,0 +1,22 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Sobeck"]
+[Black "Weinitschke, G."]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "3cb73465"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Bg4
+8. h3 Bh5 9. g4 Bg6 10. Qe2 Nd7 11. d4 f6 12. Be3 O-O 13. Rad1 Qe8 14. Nh4
+Rd8 15. f4 exd4 16. Bxd4 c5 17. Be3 Bd6 18. a4 Bf7 19. Nf5 Nb6 20. b3 Nc8
+21. Qg2 Ne7 22. Nxd6 cxd6 23. Bf2 Nc6 24. Nd5 Ne7 25. Rfe1 Nxd5 26. exd5
+Qd7 27. f5 Rfe8 28. c4 b5 29. axb5 axb5 30. Qf3 bxc4 31. bxc4 Qa4 32. Qc3
+Rb8 33. Ra1 Qb4 34. Qc2 Rxe1+ 35. Bxe1 Qb6 36. h4 h6 37. Bg3 Be8 38. Re1
+Bf7 39. Re3 Re8 40. Rxe8+ Bxe8 41. Qe4 Bf7 42. Kh2 Kf8 43. Qe3 Qa6 44. g5
+Qxc4 45. Bxd6+ 1/2-1/2
+

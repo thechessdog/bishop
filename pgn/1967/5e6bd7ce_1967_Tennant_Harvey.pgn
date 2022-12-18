@@ -1,0 +1,18 @@
+[Event "Mid-Central Open"]
+[Site "Mid-Central Open"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Tennant, S."]
+[Black "Harvey"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "5e6bd7ce"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 c5 7. dxc5 dxc5 8.
+e5 Nfd7 9. h4 Nb6 10. Qe2 Bg4 11. h5 Nc6 12. hxg6 fxg6 13. Rxh7 Nd4 14. Qf2
+Kxh7 15. Qh4+ Bh5 16. Qxh5+ Kg8 17. Bxg6 Nxf3+ 18. gxf3 Re8 19. Bf7+ Kf8
+20. Be6 1-0
+

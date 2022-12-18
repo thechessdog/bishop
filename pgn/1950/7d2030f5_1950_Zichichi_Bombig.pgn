@@ -1,0 +1,19 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Zichichi"]
+[Black "Bombig"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Lasker trap"]
+[HashCode "7d2030f5"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e3 Bb4+ 5. Bd2 dxe3 6. Bxb4 exf2+ 7. Ke2
+fxg1=N+ 8. Ke1 Qh4+ 9. Kd2 Nc6 10. Bc5 Bg4 11. Qc1 Rd8+ 12. Kc3 Ne2+ 13.
+Bxe2 Bxe2 14. b3 Qe4 15. Qg5 f6 16. exf6 gxf6 17. Qg7 Qe5+ 18. Kc2 Qxc5 19.
+Qxh8 Nb4+ 20. Kc3 Rd3+ 21. Kb2 Qe5+ 22. Ka3 Nc2+ 23. Ka4 b5+ 24. Ka5 bxc4+
+25. Ka4 Qe6 0-1
+

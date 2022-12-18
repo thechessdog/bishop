@@ -1,0 +1,17 @@
+[Event "Mar del Plata KIM"]
+[Site "Mar del Plata"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Wexler, Bernardo"]
+[Black "Dominguez, Cristoba"]
+[Result "1/2-1/2"]
+[ECO "D68"]
+[Opening "QGD"]
+[Variation "Orthodox defence, classical variation"]
+[HashCode "87fa0933"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 e5 13. a3 a6 14. dxe5 Nxe5
+15. Nxe5 Qxe5 16. Qc2 Be6 17. Rd1 Bxc4 18. Rxc4 Rfd8 19. Rxd8+ Rxd8 1/2-1/2

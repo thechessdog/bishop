@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Svensson, Arvid"]
+[Black "Berg, Klaus"]
+[Result "0-1"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "52ef1418"]
+[Epoch "Bishop"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. O-O Nge7 7. Re1 Ng6 8. d4
+Be7 9. Nbd2 O-O 10. Bb3 Qc8 11. d5 Nd8 12. Nf1 f5 13. exf5 Bxf5 14. Ng3 Bg4 15.
+Bc2 Nh4 16. Be4 Bxf3 17. Bxf3 Rxf3 18. gxf3 Qh3 0-1

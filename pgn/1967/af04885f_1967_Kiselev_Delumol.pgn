@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kiselev"]
+[Black "Delumol"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "af04885f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 6. Nc3 d6 7. exd6 Bxd6
+8. Qe2+ Qe7 9. Ne4 O-O 10. Nxd6 Qxd6 11. O-O Nc6 12. c3 Bd7 13. h3 Rae8 14.
+Qd3 Qc5+ 15. Kh1 Nge5 16. Nxe5 Nxe5 17. Qd5 Qxc4 18. Qxc4 Nxc4 19. Rxf4
+Re1+ 20. Kh2 Ne5 0-1
+

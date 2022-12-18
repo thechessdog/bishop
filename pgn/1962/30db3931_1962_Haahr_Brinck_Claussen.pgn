@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Haahr, Thorkild"]
+[Black "Brinck-Claussen, Bjorn"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "30db3931"]
+[Epoch "Bishop"]
+[BlackID "1400134"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 e5 4. Bc4 Be7 5. Qh5 Nh6 6. d3 O-O 7. Bxh6 gxh6 8.
+Qxh6 Bf5 9. Nf3 Bxe4 10. dxe4 Qd6 11. Qh5 Qb4+ 12. Nd2 Nc6 13. O-O-O Rad8 14.
+Bd5 Bf6 15. Nf3 Ne7 16. Ng5 Bxg5+ 17. Qxg5+ Ng6 18. Bxf7+ 1-0

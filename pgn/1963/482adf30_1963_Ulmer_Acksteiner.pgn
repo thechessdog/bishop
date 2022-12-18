@@ -1,0 +1,17 @@
+[Event "BRD"]
+[Site "BRD"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Ulmer"]
+[Black "Acksteiner"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "482adf30"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6 5. Qd2 Bg7 6. Bh6 O-O 7. h4 Ne4
+8. Nxe4 dxe4 9. Bxg7 Kxg7 10. h5 exf3 11. hxg6 Nf6 12. Qh6+ Kg8 13. gxh7+
+Kh8 14. gxf3 Bf5 15. O-O-O Nxh7 16. e4 Bg6 17. f4 Bxe4 18. Bd3 Qxd4 19.
+Qxh7+ 1-0
+

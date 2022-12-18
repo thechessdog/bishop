@@ -1,0 +1,16 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1952.01.01"]
+[Round "2"]
+[White "Huguet, Horacio"]
+[Black "Garibaldi, O."]
+[Result "1-0"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "c734e43d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Ne2 d6 8. Ng3
+Qe7 9. Bd3 O-O 10. O-O Nc6 11. f4 Ne8 12. f5 e5 13. Qf3 Qc7 14. Nh5 Bb7 15.
+Nxg7 Nxg7 16. f6 Nxd4 17. Qh3 e4 18. exd4 Ne8 19. Bh6 exd3 20. Rae1 1-0

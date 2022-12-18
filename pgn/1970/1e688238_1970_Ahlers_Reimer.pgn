@@ -1,0 +1,20 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ahlers, K."]
+[Black "Reimer, K."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "1e688238"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. dxc5 exf3 7. Qxf3 Nf6
+8. Bg5 O-O 9. Nd2 Qe7 10. Ne4 d6 11. cxd6 cxd6 12. Rd1 d5 13. Nxf6+ gxf6
+14. Bh6 Rd8 15. Rxd5 Be6 16. Rxd8+ Rxd8 17. b3 Bd5 18. Qe3 Qf7 19. O-O Ne7
+20. Rd1 Rc8 21. Bd7 Ra8 22. Qh3 Kh8 23. c4 Be4 24. Qg4 Bxg2 25. Be6 Bf3 26.
+Qg3 Nf5 27. Bxf7 Nxg3 28. Rd6 Nh5 29. Bxh5 Bxh5 30. Rxf6 e4 31. Rd6 Be2 32.
+Kg2 Bd3 33. Rd7 1-0
+

@@ -1,0 +1,21 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Jansson, Borje"]
+[Black "Nilsson, Nils Specht"]
+[Result "1-0"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "c5e52783"]
+[Epoch "Bishop"]
+[WhiteID "1700189"]
+[WhiteCountry "SWE"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 a6 10. a4 Qe7 11. Na2 cxd4 12. Nxb4 Qxb4 13. exd4 Nb6 14. Bd3 Nbd5
+15. Bb1 Bd7 16. Ra3 Bxa4 17. Bd2 Bb5 18. Qd1 Qd6 19. Re1 Nf4 20. Re5 Ng6 21.
+Qe1 Rfe8 22. h4 Bc6 23. h5 Nf8 24. Rg5 h6 25. Rxg7+ Kxg7 26. Ne5 Nxh5 27. Qe3
+Qd5 28. Qxh6+ Kg8 29. Rf3 f6 30. Qxh5 Re7 31. Rg3+ Rg7 32. Qf7+ 1-0

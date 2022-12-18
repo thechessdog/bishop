@@ -1,0 +1,21 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Thorban, W."]
+[Black "Auer, G."]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "90a3389d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8.
+a3 Be7 9. b3 Nbd7 10. Bb2 Re8 11. Qe2 Nf8 12. Rfd1 c6 13. Ne5 Bd6 14. e4
+Bxe5 15. dxe5 N6d7 16. exd5 exd5 17. f4 dxc4 18. Bxc4 b5 19. Bd3 Qb6+ 20.
+Qf2 Qxf2+ 21. Kxf2 Nc5 22. Bc2 a5 23. Ne4 Nxe4+ 24. Bxe4 Ne6 25. f5 Nf4 26.
+Rd7 Ba6 27. e6 fxe6 28. f6 Red8 29. Rad1 Rxd7 30. Rxd7 gxf6 31. Bxf6 Nd5
+32. Bxh7+ Kf8 33. Be5 Bc8 34. Rg7 Ne7 35. h4 a4 36. b4 c5 37. Be4 Ra6 38.
+h5 Nf5 39. Rc7 1-0
+

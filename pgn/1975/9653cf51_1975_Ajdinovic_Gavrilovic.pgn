@@ -1,0 +1,20 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Ajdinovic, B."]
+[Black "Gavrilovic, B."]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "9653cf51"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 h6 9. Bh4 Nbd7 10. O-O-O Qc7 11. Bd3 b5 12. e5 Bb7 13. Nxe6 fxe6 14.
+Bg6+ Kd8 15. exf6 Bxf3 16. fxe7+ Kc8 17. gxf3 d5 18. Kb1 Kb7 19. f5 b4 20.
+fxe6 bxc3 21. exd7 Qxd7 22. Bf7 Kc6 23. Rhe1 Rae8 24. Re6+ Kb5 25. Rg6 d4
+26. bxc3 Rxe7 27. Bb3 dxc3 28. Rxd7 Rxd7 29. a4+ Kb4 30. Ka2 Ra8 31. Rc6
+Rd4 32. Be1 1-0
+

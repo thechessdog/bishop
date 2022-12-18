@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Terpugov"]
+[Black "Bonch_Osmolovsky, M"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3"]
+[HashCode "33183e86"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2 Ba6 7. Qc2 c5
+8. Bg2 Nc6 9. dxc5 bxc5 10. O-O O-O 11. Rd1 Rc8 12. b3 Qe7 13. Nc3 d5 14.
+cxd5 exd5 15. Ng5 g6 16. Qd2 Rcd8 17. Nxd5 Nxd5 18. Bxd5 Nd4 19. Bxf7+ Rxf7
+20. Nxf7 Nf3+ 0-1
+

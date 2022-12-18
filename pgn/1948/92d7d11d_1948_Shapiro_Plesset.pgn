@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Shapiro"]
+[Black "Plesset, K."]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "92d7d11d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 d6 6. g3 e5 7. dxe5 dxe5 8.
+Nxe5 Qd4 9. Nf3 Qxc4 10. Bd2 Nc6 11. Bg2 Re8 12. b3 Rxe2+ 13. Kd1 Rxd2+ 0-1
+

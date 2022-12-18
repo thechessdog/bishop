@@ -1,0 +1,17 @@
+[Event "Colorado"]
+[Site "Colorado"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Steinshouer"]
+[Black "Martin, Pedro"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "015df23f"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bg5
+Qc7 9. Bd3 cxd4 10. Ne2 dxc3 11. h4 Nf5 12. Bf6 Kh8 13. Bxf5 gxf6 14. Bxh7 Qxe5
+15. f4 Qe3 16. Rh3 Qxh3 17. gxh3 Kxh7 18. Kf2 Rg8 19. Qh5+ Kg7 20. Rg1+ Kf8 21.
+Qh6+ 1-0

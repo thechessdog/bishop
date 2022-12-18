@@ -1,0 +1,20 @@
+[Event "corr DDR-PV"]
+[Site "corr DDR-PV"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Hessmer, H."]
+[Black "Liebener"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "258861ac"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Qf6 5. d4 exd4 6. e5 Qg6 7. cxd4 Nxd4
+8. Nxd4 Qb6 9. e6 Bxd4 10. exf7+ Kxf7 11. Bc4+ d5 12. Qh5+ Kf8 13. Qxd5 Be6
+14. Qf3+ Nf6 15. Nd2 Bg4 16. Qf4 g5 17. Qg3 Re8+ 18. Kf1 h5 19. h4 Qc5 20.
+hxg5 Qe7 21. f3 h4 22. gxf6 Bxf6 23. Qf2 Bd4 24. Qe2 Qc5 25. Qd3 Bf5 26.
+Ne4 Qb6 27. Rb1 Rh5 28. b3 h3 29. Ba3+ Kg7 30. gxh3 Bxe4 31. fxe4 Qf6+ 32.
+Ke2 Rxe4+ 33. Qxe4 Re5 34. Rhg1+ 1-0
+

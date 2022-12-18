@@ -1,0 +1,15 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Nikolianu"]
+[Black "Georgescu, Vasily"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "a8dc69b1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. a3 d6 5. exd6 Bxd6 6. g3 Nxf2 0-1
+

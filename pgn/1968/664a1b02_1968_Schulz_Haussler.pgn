@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Schulz, Klaus-Juergen"]
+[Black "Haussler"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "664a1b02"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Ne2 f5 10. c3 Bd7 11. Be3 Qa5 12. Nd2 e5 13. fxe5 Nxe5 14. d4 cxd4 15.
+Nb3 Qa6 16. Nbxd4 fxe4 17. Qb3+ Nc4 18. Rxf8+ Bxf8 19. Bxe4 d5 0-1

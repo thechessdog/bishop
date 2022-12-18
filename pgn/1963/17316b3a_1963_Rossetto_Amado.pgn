@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Rossetto, Hector"]
+[Black "Amado, Claudio"]
+[Result "1-0"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[HashCode "17316b3a"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. d3 d5 2. g3 c5 3. Bg2 Nc6 4. Nf3 Nf6 5. O-O e6 6. Nbd2 Be7 7. e4 O-O 8. Re1
+b5 9. c3 a5 10. a4 b4 11. exd5 exd5 12. Nf1 h6 13. Ne3 Be6 14. d4 Qb6 15. Ne5
+cxd4 16. Nxc6 Qxc6 17. cxd4 Rad8 18. Qd3 Ne4 19. f3 Nd6 20. f4 Ne4 21. f5 Bc8
+22. Qb5 Qf6 23. Nxd5 Qxd4+ 24. Be3 Qxd5 25. Qxd5 Rxd5 26. Bxe4 Re5 27. Bd4 Bc5
+28. Bxc5 Rxc5 29. Rac1 Re5 30. Bf3 Rxe1+ 31. Rxe1 Bxf5 32. Re5 Be6 33. Rxa5 Rc8
+34. Ra8 Rxa8 35. Bxa8 Bc8 36. Kf2 Kf8 37. Ke3 Bd7 38. a5 Bb5 39. Bb7 1-0

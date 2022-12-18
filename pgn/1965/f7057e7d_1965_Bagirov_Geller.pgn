@@ -1,0 +1,15 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1965.01.01"]
+[Round "9"]
+[White "Bagirov, Y."]
+[Black "Geller, Efim P"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "f7057e7d"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Nf3 d5 6. Be2 dxc4 7. Bxc4 c5 8. O-O
+Nbd7 9. Qb3 a6 10. a4 Qe7 11. Rd1 Rd8 12. dxc5 Bxc5 1/2-1/2

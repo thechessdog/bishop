@@ -1,0 +1,17 @@
+[Event "Boston US op"]
+[Site "Boston US op"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Neville, P."]
+[Black "Berry, Jonathan"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "9e3ab6df"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 d6 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Be7 8.
+O-O-O Nbd7 9. Bd3 Qc7 10. Rhe1 b5 11. Bxf6 Nxf6 12. a3 O-O 13. g4 Rb8 14. Qh3
+g6 15. Nf3 b4 16. axb4 Rxb4 17. Rg1 Qa5 18. Qh6 Bb7 19. Nd2 Qa1+ 20. Ndb1 Qxb2+
+21. Kd2 0-1

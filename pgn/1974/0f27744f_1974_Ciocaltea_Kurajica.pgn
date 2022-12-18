@@ -1,0 +1,21 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1974.01.01"]
+[Round "8"]
+[White "Ciocaltea, Victor"]
+[Black "Kurajica, Bojan"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "0f27744f"]
+[Epoch "Bishop"]
+[BlackID "14400057"]
+[BlackCountry "BIH"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 Bb7 8. d3
+d5 9. Qe2 Ng6 10. Ng5 Be7 11. Qh5 e5 12. h4 Bf6 13. g3 d4 14. Nd2 Qe7 15. Bb3
+Bxg5 16. Qxg5 Qxg5 17. hxg5 Rd8 18. Bc2 Nf8 19. f4 exf4 20. gxf4 h6 21. gxh6
+Rxh6 22. Nf3 f5 23. exf5 Ne7 24. cxd4 Nxf5 25. dxc5 Ne6 26. b4 Rh3 27. d4 Nexd4
+28. Nxd4 Rg3+ 29. Kf2 Rg2+ 30. Ke1 Nxd4 31. Bg6+ Rxg6 0-1

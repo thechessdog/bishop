@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Altschuler, B."]
+[Black "Zagorovsky"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "2cc3320c"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6
+8. O-O Bd6 9. f4 Bf5 10. Nxf5 exf5 11. Ng3 g6 12. Re1+ Kf8 13. Qf3 Qc7 14.
+Bd3 c5 15. c3 Nbd7 16. Kh1 h5 17. Be3 Ng4 18. dxc5 Bxc5 19. Bxc5+ Nxc5 20.
+Bc2 Ne6 21. Rf1 h4 22. Ne2 Ng5 23. Qd3 h3 0-1
+

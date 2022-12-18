@@ -1,0 +1,21 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Matanovic, Aleksandar"]
+[Black "Kostic, Boris"]
+[Result "0-1"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "815b8666"]
+[Epoch "Bishop"]
+[WhiteID "900230"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f3 e5 7. Nb3 h6 8. Bc4
+Be7 9. Be3 O-O 10. Qd2 Be6 11. Bd5 Bxd5 12. Nxd5 Nxd5 13. Qxd5 a5 14. Qd1 a4
+15. Nc1 a3 16. b3 d5 17. exd5 Bb4+ 18. Kf2 Bc3 19. Rb1 Ne7 20. d6 Nf5 21. Qd3
+Nxe3 22. Qxc3 Nf5 23. Qb4 Rc8 24. c3 b5 25. Re1 Qb6+ 26. Kf1 Ne3+ 27. Rxe3 Qxe3
+28. Ne2 Qd3 29. Rc1 Rfd8 30. Qxa3 Rxd6 31. Qa7 e4 32. f4 e3 33. Re1 Rxc3 34.
+Qb8+ Kh7 35. Qe8 Rc1 0-1

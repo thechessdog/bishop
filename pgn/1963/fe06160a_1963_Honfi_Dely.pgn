@@ -1,0 +1,19 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1963.12.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Dely, Peter"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "fe06160a"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 b5 8. O-O
+Bb7 9. Qe2 Nbd7 10. Kh1 g6 11. Nf3 b4 12. Nd1 Nc5 13. Nf2 Bg7 14. Bd2 Nfd7 15.
+Rab1 a5 16. Rfc1 O-O 17. c4 Nxd3 18. Qxd3 Nc5 19. Qe2 f5 20. exf5 Rxf5 21. Nd3
+Nxd3 22. Qxd3 e5 23. c5 e4 24. Qb3+ Bd5 0-1

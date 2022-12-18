@@ -1,0 +1,22 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "4"]
+[White "Davis, ME."]
+[Black "Nikitin, Aleksander S"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "1fe73b16"]
+[Epoch "Bishop"]
+[BlackID "4103173"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 b5 7. Bc2 O-O 8. O-O
+d5 9. d3 d4 10. Nbd2 Bg4 11. h3 Bh5 12. g4 Bg6 13. cxd4 exd4 14. Nb3 Qd7 15.
+Bg5 Nxg4 16. Bxe7 Nxe7 17. Nfxd4 Nf6 18. Qe3 Rad8 19. Ne2 Rfe8 20. Qg3 Nc6 21.
+Rac1 Ne5 22. Nf4 Nh5 23. Nxh5 Bxh5 24. Nc5 Qe7 25. Bd1 Bxd1 26. Rfxd1 Rd6 27.
+Kf1 Rg6 28. Qe3 Qh4 29. Nb3 Qh5 30. Nd4 c5 31. Ne2 Rf6 32. Ng1 c4 33. Qc5 Rg6
+34. Qe3 Nxd3 35. Rxd3 cxd3 36. Qxd3 Rxg1+ 37. Kxg1 Qg5+ 38. Kh2 Qxc1 39. Qd7
+Qc8 0-1

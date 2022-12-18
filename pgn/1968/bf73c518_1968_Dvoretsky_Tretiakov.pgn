@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Dvoretsky, Mark Izrailovich"]
+[Black "Tretiakov, A."]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "bf73c518"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. e5 Nd5 7. Nc3 Nc7 8.
+Bxc6 bxc6 9. d3 Rb8 10. Ne4 Ne6 11. Nfg5 Bxe5 12. Nxc5 Bxh2+ 13. Kxh2 Nxc5 14.
+Qf3 O-O 15. Nxh7 Re8 16. Qe3 Ne6 17. Qh6 Rb5 18. g4 Qc7+ 19. Kg2 Bb7 20. Rh1
+Qe5 21. Nf6+ Qxf6 22. Qh7+ Kf8 23. Bh6+ 1-0

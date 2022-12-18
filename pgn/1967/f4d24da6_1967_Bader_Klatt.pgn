@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Bader"]
+[Black "Klatt"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "f4d24da6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. Nc3 Bh6 7. Nf3 Rg8
+8. e5 Qb6 9. Nd5 Qxb2 10. c3 Kd8 11. Rb1 Qxa2 12. dxc5 Bd2+ 13. Nxd2 Qxd5
+14. e4 Qxe5 15. Qf3 Rg7 16. Bc4 f6 17. Bd5 Nc6 18. Nc4 Qg5 19. Ne3 Ne5 20.
+Qe2 e6 0-1
+

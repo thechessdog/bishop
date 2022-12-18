@@ -1,0 +1,20 @@
+[Event "Lucca tt"]
+[Site "Lucca tt"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Albano"]
+[Black "Mariotti"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "528df5c8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. Kh1 Nc6
+8. Nxc6 dxc6 9. f4 e5 10. Nd2 exf4 11. Nc4 g5 12. e5 Ng4 13. Bd2 Be6 14.
+Bc3 O-O-O 15. Ba5 Rxd3 16. cxd3 Qe7 17. Qf3 Bg7 18. Rac1 Kb8 19. d4 Bxc4
+20. Rxc4 Ne3 21. Bb4 Qd7 22. Bd6+ Ka7 23. Ra4 Bf8 24. Bxf8 Rxf8 25. Rc1 f6
+26. Qe4 f5 27. Qd3 Qd5 28. Qe2 Rd8 29. h3 g4 30. hxg4 fxg4 31. Kg1 Qe4 32.
+Re1 c5 33. Qxg4 Qc2 34. Qg5 h6 35. Rc4 hxg5 0-1
+

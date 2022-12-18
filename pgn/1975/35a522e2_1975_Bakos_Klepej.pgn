@@ -1,0 +1,16 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Bakos, S."]
+[Black "Klepej, J."]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "35a522e2"]
+[Epoch "Bishop"]
+
+1. e4 g6 2. d4 Bg7 3. f4 d5 4. e5 Nh6 5. Nf3 O-O 6. Be3 b6 7. Nbd2 Na6 8. h3
+Bb7 9. c3 Qd7 10. Bd3 f6 11. Qe2 Qc8 12. g4 c5 13. a3 cxd4 14. cxd4 Nc7 15. Rc1
+Qd7 16. O-O Rac8 17. Kh2 Kh8 18. Rg1 fxe5 19. Nxe5 1/2-1/2

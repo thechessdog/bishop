@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Curdo"]
+[Black "Thornton"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "265c048a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 g6 7. c3
+Bg7 8. d4 cxd4 9. cxd4 O-O 10. Nc3 a6 11. e5 dxe5 12. dxe5 Ng4 13. Rd1 e6
+14. h3 Nh6 15. Bxh6 Bxh6 16. Ne4 Bg7 17. Nc5 1-0
+

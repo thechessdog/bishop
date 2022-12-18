@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Distler"]
+[Black "Eriksen"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "a2dc5184"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. Nh3 Nf6 5. f3 c6 6. e3 Bd6 7. Bd2 O-O 8. c5
+Bc7 9. f4 Ne4 10. Nxe4 fxe4 11. Ng5 h6 12. h4 hxg5 13. hxg5 Qxg5 14. fxg5
+Bg3+ 15. Ke2 Rf2+ 16. Ke1 Rxg2# 0-1
+

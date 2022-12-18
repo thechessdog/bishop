@@ -1,0 +1,25 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Musil, Vojko"]
+[Black "Simon, Ferenc"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "a91fafee"]
+[Epoch "Bishop"]
+[WhiteID "14600145"]
+[BlackID "716359"]
+[WhiteCountry "SLO"]
+[BlackCountry "HUN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 Bg7 5. Be3 O-O 6. Qd2 Re8 7. O-O-O c6 8. g4
+b5 9. h4 h5 10. gxh5 Nxh5 11. Bh3 Qa5 12. Kb1 Bxh3 13. Nxh3 Nd7 14. Nf4 b4 15.
+Nce2 Ndf6 16. Rdg1 Rab8 17. Rg5 Rb5 18. Rhg1 Rxg5 19. Rxg5 e5 20. Nd3 Nh7 21.
+Rg2 Rb8 22. dxe5 dxe5 23. Bc5 Qd8 24. Bxa7 Ra8 25. Bc5 Qxh4 26. Nxb4 Qh1+ 27.
+Ng1 Bh6 28. Rh2 Bxd2 29. Rxh1 Ng3 30. Rh2 Bg5 31. c3 Rd8 32. Kc2 Nf1 33. Rf2
+Ne3+ 34. Bxe3 Bxe3 35. Rg2 Rd6 36. Nh3 Rf6 37. Rg3 Rd6 38. Nd3 Re6 39. b4 Nf6
+40. a4 Kf8 41. Rg2 Nd7 42. Re2 Ba7 43. c4 Rf6 44. Ng5 Rd6 45. c5 Rd4 46. Kc3
+Bxc5 47. Nxc5 Nxc5 48. bxc5 Rxa4 49. Rb2 Ra7 50. Rb6 Rc7 51. Nh3 Ke7 52. Nf2
+Kd7 53. Nd3 f6 54. Nb4 Rc8 55. Rb7+ Ke6 56. Rg7 Ra8 57. Nxc6 Rc8 58. Re7# 1-0

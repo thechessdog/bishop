@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Carreras"]
+[Black "Ferrer"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "3f66c19e"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bf4 Ngf6
+8. Bd3 Bxd3 9. Qxd3 e6 10. O-O Nd5 11. Be5 f6 12. Bxf6 Qxf6 13. Ne4 Qg6 14.
+Nfg5 Be7 0-1
+

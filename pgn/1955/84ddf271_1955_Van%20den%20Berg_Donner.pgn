@@ -1,0 +1,18 @@
+[Event "Venendahl"]
+[Site "Venendahl"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Van den Berg, John"]
+[Black "Donner, Jan Hein"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "84ddf271"]
+[Epoch "Bishop"]
+[WhiteID "1001434"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O Rb8 10. Bd3 b5 11. Rhe1 Be7 12. e5 b4 13. exf6 bxc3 14. Nxe6 1-0

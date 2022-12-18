@@ -1,0 +1,20 @@
+[Event "Rhyl ch-BCF"]
+[Site "Rhyl ch-BCF"]
+[Date "1969.08.01"]
+[Round "2"]
+[White "Saverymuttu, Seth"]
+[Black "Bailey, Richard"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "1ad84b61"]
+[Epoch "Bishop"]
+[WhiteID "401404"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Bd3 g5 12. e5 gxh4 13. exf6 Nxf6 14. Rhe1 Bd7
+15. f5 e5 16. Nd5 Nxd5 17. Qxd5 Bc6 18. Qb3 d5 19. Nf3 e4 20. Nd4 exd3 21. Nxc6
+bxc6 22. Qxd3 O-O 23. g3 hxg3 24. hxg3 Bg5+ 25. Kb1 Rfe8 26. Rh1 Re3 27. Qd4
+Qe5 0-1

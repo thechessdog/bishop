@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Mareosian"]
+[Result "1-0"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "92f4a7e4"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. f4 Bg4 13. f5 gxf5 14. h3 cxd4
+15. cxd4 Bxe2 16. Qxe2 Qb6 17. Qh5 Nxd4 18. Bxf7+ Kh8 19. exf5 h6 20. f6 exf6
+21. Bxh6 1-0

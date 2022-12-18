@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Pebo"]
+[Black "Sazontiev"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "0bc6948b"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+
+Be7 8. Nf3 O-O 9. Be3 Nd7 10. O-O Bd6 11. Nh4 Nb6 12. Bd3 Nd5 13. Rae1 Ne7
+14. Qf3 Ng6 15. Nxg6 hxg6 16. h4 f5 17. Bg5 Qb6 18. h5 gxh5 19. c3 Qxb2 20.
+Bc4 f4 21. Be7 Bg4 22. Qd3 Bxe7 23. Rxe7 b5 24. Bb3 Qa3 25. Rfe1 Qd6 26.
+Qe4 Be6 27. Rxe6 fxe6 28. Qg6 Rf7 29. Rxe6 Qd7 30. Re5 a5 31. Rxh5 Re8 32.
+Bxf7+ 1-0
+

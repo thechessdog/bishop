@@ -1,0 +1,20 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Florian"]
+[Black "Seimeanu"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "aab06b7c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nbd7 7. O-O e5 8.
+e4 Re8 9. h3 a5 10. Be3 b6 11. d5 Nc5 12. Nd2 Rf8 13. a3 Nh5 14. Rb1 f5 15.
+b4 axb4 16. axb4 f4 17. Bxc5 bxc5 18. g4 cxb4 19. Rxb4 Nf6 20. Ra4 Rxa4 21.
+Qxa4 h5 22. f3 Nh7 23. Qa7 Qh4 24. Qf2 Qe7 25. Ra1 Bf6 26. Ra7 Bh4 27. Qe2
+Bg3 28. Nf1 Qh4 29. Rxc7 Ng5 30. Nb5 hxg4 31. hxg4 Bxg4 32. Nxd6 Bxf3 33.
+Bxf3 Bf2+ 34. Kg2 Bd4 35. Ne3 Qh3+ 0-1
+

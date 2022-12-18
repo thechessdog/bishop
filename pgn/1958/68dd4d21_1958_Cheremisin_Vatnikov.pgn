@@ -1,0 +1,23 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Cheremisin"]
+[Black "Vatnikov"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence (classical defence, modern defence[!])"]
+[HashCode "68dd4d21"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Qxd5 5. d4 Ne7 6. Nc3 Qe6+ 7. Kf2 Qh6
+8. Bc4 Be6 9. Bxe6 fxe6 10. Qe2 Nbc6 11. Qe4 Qg6 12. Bxf4 O-O-O 13. Rhe1
+Nf5 14. Nb5 Bd6 15. Nxd6+ cxd6 16. Rad1 Rhf8 17. Kg1 Rde8 18. Bc1 d5 19.
+Qd3 Qg4 20. b4 Nh4 21. Nxh4 Qxh4 22. Qc3 Qf2+ 23. Kh1 Kb8 24. b5 Ne7 25.
+Ba3 Rf7 26. Bd6+ Ka8 27. Bg3 Qf5 28. Qe3 Ng8 29. Qe2 Nf6 30. Rf1 Qg6 31.
+Qf3 Rd7 32. Be5 Ne4 33. Rd3 b6 34. c4 Ng5 35. Qe2 Rc8 36. Rc3 Rf7 37. Rxf7
+Nxf7 38. Bg3 Nd6 39. c5 Qb1+ 40. Be1 Qxb5 41. Qf3 bxc5 42. Rxc5 Rxc5 43.
+dxc5 Nf5 44. Qf2 h5 45. h4 Kb7 46. Bc3 Qc4 47. Be1 Kc6 48. Qf3 Qc1 49. Qf2
+Qxc5 0-1
+

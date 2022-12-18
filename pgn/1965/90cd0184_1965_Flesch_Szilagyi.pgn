@@ -1,0 +1,19 @@
+[Event "HUN-ch20"]
+[Site "Hungary"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Flesch, János"]
+[Black "Szilagyi, Peter"]
+[Result "1-0"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "90cd0184"]
+[Epoch "Bishop"]
+[BlackID "700355"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. a3 Be7 7. b4 b6 8. cxd5
+exd5 9. Bd3 c5 10. bxc5 bxc5 11. O-O Ba6 12. dxc5 Bxc5 13. Bb2 Re8 14. Rc1 Qd6
+15. Nb5 Qb6 16. Bxf6 gxf6 17. a4 Nd7 18. Nfd4 Ne5 19. a5 1-0

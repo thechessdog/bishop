@@ -1,0 +1,17 @@
+[Event "Ljubljana ch-YUG"]
+[Site "Ljubljana ch-YUG"]
+[Date "1960.01.01"]
+[Round "9"]
+[White "Kozomara, Vladimir"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "45a5b3b5"]
+[Epoch "Bishop"]
+[BlackCountry "HRV"]
+[WhiteCountry "BIH"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e5 5. Nf3 Nc6 6. Nxe5 Nxe5 7. dxe5 Qxe5+
+8. Qe2 Qxe2+ 9. Bxe2 1/2-1/2

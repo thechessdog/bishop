@@ -1,0 +1,18 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Bertok, Mario"]
+[Result "1/2-1/2"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "ac37be2d"]
+[Epoch "Bishop"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+[BlackCountry "HRV"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. h3 e6 7. g4 d5 8. Bg2
+Bb4 9. exd5 Nxd5 10. Ne2 Nxc3 11. Qxd8+ Nxd8 12. bxc3 Bd6 13. Rb1 Bd7 14. O-O
+Bc6 15. Bxc6+ bxc6 16. Rd1 Bc5 17. Kg2 e5 18. f4 f6 19. f5 Rf8 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Berglund, Martin"]
+[Black "Mattsson, Bertil"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "56a46676"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. h3 Nd7 8.
+Ne2 Nb4 9. c3 Nxd3+ 10. Qxd3 e5 11. O-O c6 12. Be3 Qe7 13. fxe5 dxe5 14.
+Ng3 a5 15. Rf2 b6 16. Bg5 Qd6 17. Qd2 f6 18. Be3 exd4 19. cxd4 Re8 20. Bf4
+Qb4 21. Qc2 Bb7 22. h4 Nf8 23. Bd2 Qd6 24. e5 Qd5 25. Ne4 Re6 26. Nc3 Qc4
+27. b3 Qa6 28. Ne4 fxe5 29. Nfg5 Re7 30. dxe5 Bxe5 31. Bc3 a4 32. Bxe5 Rxe5
+33. Nf6+ Kg7 34. Ng4 axb3 35. Qxb3 1-0
+

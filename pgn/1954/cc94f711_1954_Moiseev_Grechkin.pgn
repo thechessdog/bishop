@@ -1,0 +1,17 @@
+[Event "URS-chTJ Coop"]
+[Site "Riga"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Moiseev, Oleg L"]
+[Black "Grechkin, Dmitry Makarovich"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "cc94f711"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. Re1 Ne5 12. f4 Neg4 13. Bf3 b5 14. h3 h5 15.
+Nxb5 Qb6 0-1

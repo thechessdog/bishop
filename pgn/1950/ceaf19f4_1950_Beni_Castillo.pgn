@@ -1,0 +1,24 @@
+[Event "Dubrovnik olm"]
+[Site "Dubrovnik olm"]
+[Date "1950.01.01"]
+[Round "13"]
+[White "Beni, Alfred"]
+[Black "Castillo, Manuel"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "ceaf19f4"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 a6 7. a4 Nc6 8. O-O
+Bg4 9. Be3 e5 10. fxe5 dxe5 11. d5 Nd4 12. Ne2 Nxf3+ 13. gxf3 Bh3 14. Re1 Nh5
+15. Qd2 f5 16. Bg5 Bf6 17. Bxf6 Qxf6 18. Kh1 Rad8 19. Rg1 f4 20. Qe1 Kh8 21.
+Nc3 g5 22. Bf1 Bc8 23. Nd1 Ng3+ 24. hxg3 Qh6+ 25. Kg2 g4 26. Qc3 gxf3+ 27. Kxf3
+fxg3+ 28. Ke2 Qh2+ 29. Rg2 Qh5+ 30. Kd2 Rxf1 31. Qxg3 Qg6 32. Qxe5+ Qf6 33.
+Qxf6+ Rxf6 34. Ne3 c6 35. c4 Rf4 36. e5 Re4 37. Rg5 h6 38. Rh1 Kh7 39. Rgh5 Kg7
+40. Rxh6 Rxe5 41. Rh7+ Kg6 42. R1h6+ Kg5 43. Rh5+ Kg6 44. Rxe5 Kxh7 45. Kc3
+cxd5 46. Nxd5 Bd7 47. Nf6+ Kg6 48. Nxd7 Rxd7 49. a5 Kf6 50. Re3 Rd6 51. b4 Rd7
+52. b5 Rc7 53. bxa6 bxa6 54. Kd4 Rc8 55. c5 Rd8+ 56. Kc4 Rd1 57. c6 Rc1+ 58.
+Kd5 Kf7 59. Kd6 Rd1+ 60. Kc5 Rc1+ 61. Kb6 Rc2 62. Kb7 1-0

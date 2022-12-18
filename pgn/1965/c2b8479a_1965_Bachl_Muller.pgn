@@ -1,0 +1,18 @@
+[Event "Worms"]
+[Site "Worms"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Bachl, E."]
+[Black "Muller, Hans P"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "c2b8479a"]
+[Epoch "Bishop"]
+[BlackID "3223167"]
+[BlackCountry "AUS"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bg4 6. Bf4 c6 7. Bc4 e6 8.
+Qd3 Bxf3 9. gxf3 Nbd7 10. O-O-O Be7 11. h4 Nh5 12. Bd2 O-O 13. Ne4 a5 14. c3 a4
+15. a3 b5 16. Ba2 Nb6 17. Bb1 Nd5 18. Ng5 g6 19. Rdg1 Qd6 20. Nxh7 Kxh7 21.
+Rxg6 Ndf4 22. Rg7+ Kxg7 23. Qh7+ Kf6 24. Qh6+ Ng6 25. Bg5# 1-0

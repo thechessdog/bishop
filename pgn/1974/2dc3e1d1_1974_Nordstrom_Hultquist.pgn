@@ -1,0 +1,23 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Nordstrom"]
+[Black "Hultquist"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit, Bardeleben variation"]
+[HashCode "2dc3e1d1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 Nf6 6. Nxc3 Bb4 7. e5 d5
+8. exf6 dxc4 9. Qxd8+ Nxd8 10. fxg7 Rg8 11. Bh6 Ne6 12. O-O-O Bxc3 13. bxc3
+Nxg7 14. Nd4 Ne6 15. Rhe1 Ke7 16. Bf4 Kf6 17. Be5+ Kg6 18. Re3 h6 19. Rg3+
+Kh7 20. Rf3 Ng5 21. Rf4 Rf8 22. Nb5 Ne6 23. Rxc4 a6 24. Nxc7 Nxc7 25. Rxc7
+Be6 26. Rxb7 Bxa2 27. Kb2 Be6 28. Ka3 Rfd8 29. Rd4 Rxd4 30. Bxd4 Rc8 31.
+Rb6 Bc4 32. Be3 Be6 33. Kb2 Ra8 34. Bf4 h5 35. Rc6 Kg6 36. Rc5 Bf5 37. Ra5
+f6 38. c4 Re8 39. Kc3 Re6 40. c5 Rc6 41. Bd6 Kf7 42. Kd4 Be6 43. Ra1 Kg6
+44. Rb1 Rc8 45. Rb6 Ra8 46. c6 a5 47. c7 Kf5 48. Be7 Rc8 49. Bd8 a4 50. h3
+1-0
+

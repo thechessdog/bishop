@@ -1,0 +1,19 @@
+[Event "Dieren"]
+[Site "Dieren"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Bednarski, Jacek B"]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "3d75dd41"]
+[Epoch "Bishop"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+[BlackCountry "POL"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 d6 4. Nc3 e5 5. e4 Be6 6. d3 Nc6 7. Nge2 Qd7 8. Nd5
+Nce7 9. d4 c6 10. Ne3 Bh3 11. O-O Bxg2 12. Kxg2 exd4 13. Nxd4 Nf6 14. f3 O-O
+15. b3 Qc7 16. Bb2 Rfe8 17. Qc2 Rad8 18. Rad1 Nc8 19. Qc1 Nb6 20. Nef5 gxf5 21.
+Nxf5 h6 22. Nxh6+ Kf8 23. Nf5 Re5 24. Bxe5 dxe5 25. Nxg7 1-0

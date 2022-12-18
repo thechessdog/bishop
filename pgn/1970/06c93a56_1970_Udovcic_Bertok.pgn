@@ -1,0 +1,18 @@
+[Event "Rovinj"]
+[Site "Rovinj"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Udovcic, Mijo"]
+[Black "Bertok, Mario"]
+[Result "1/2-1/2"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "06c93a56"]
+[Epoch "Bishop"]
+[BlackCountry "HRV"]
+[WhiteCountry "HRV"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. Re1 Nc7 12. a4 b6 13. Bf1 Ng4 14. Nf3 f5 15. Bg5
+Qd7 16. Bd3 1/2-1/2

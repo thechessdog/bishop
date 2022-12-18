@@ -1,0 +1,18 @@
+[Event "York ch-BCF"]
+[Site "York ch-BCF"]
+[Date "1959.08.01"]
+[Round "10"]
+[White "Wood, Baruch Harold"]
+[Black "Thomas, Andrew Rowland Benedick"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "dea508c6"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 e6 5. Nc3 exd5 6. Nxd5 Bb7 7. Nxf6+ Qxf6 8.
+Nf3 d5 9. g3 Bd6 10. Bg2 O-O 11. O-O Re8 12. Ng5 Nd7 13. Bxd5 Bxd5 14. Qxd5
+Rad8 15. Qd3 Nf8 16. Ne4 Qe5 17. Nxd6 Rxd6 18. Qc3 Qxe2 19. Qxc5 Rd1 20. Be3
+Qxf1# 0-1

@@ -1,0 +1,20 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1972.04.01"]
+[Round "1"]
+[White "Ree, Hans"]
+[Black "Kuijpers, Frans"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[HashCode "b52ce38a"]
+[Epoch "Bishop"]
+[WhiteID "1000098"]
+[WhiteCountry "NED"]
+[BlackID "1000349"]
+[BlackCountry "NED"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. O-O O-O 6. b3 b6 7. Bb2 Bb7 8. d4
+Nbd7 9. Nc3 c5 10. cxd5 Nxd5 11. Nxd5 Bxd5 12. dxc5 Nxc5 13. Rc1 Rc8 14. Ne5
+Bxg2 15. Kxg2 1/2-1/2

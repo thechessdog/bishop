@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pierangeli"]
+[Black "Lombardo"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "cc0f6dbd"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7
+8. f4 Nc5 9. f5 e5 10. Nde2 Nfxe4 11. Nxe4 Nxe4 12. Qd5 Qh4+ 13. g3 Qg4 14.
+Qxf7+ Kd8 15. Be3 Bd7 16. Bb6+ Kc8 17. Be6 Nf6 18. Bxd7+ 1-0
+

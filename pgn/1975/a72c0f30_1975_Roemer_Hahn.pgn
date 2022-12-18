@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Roemer"]
+[Black "Hahn"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "a72c0f30"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. d3 e6 6. f4 d6 7. Nf3 Nge7 8.
+O-O O-O 9. Bd2 Rb8 10. Rb1 b5 11. Nh4 Nd4 12. Ne2 d5 13. Be3 Nxe2+ 14. Qxe2
+d4 15. Bd2 b4 16. g4 Bd7 17. f5 Nxf5 18. Nxf5 exf5 19. gxf5 Be5 20. Qf2 f6
+21. Bh6 Rf7 22. fxg6 hxg6 23. Bf4 Qe7 24. Qg3 Rb6 25. Kh1 g5 26. Bxe5 fxe5
+27. Rxf7 Kxf7 28. Bh3 Ke8 29. Rg1 Ra6 30. Bxd7+ Kxd7 31. Qh3+ Kc7 32. Qf5
+Rf6 33. Qxg5 Kb6 34. Qg8 Qd6 35. Rg7 a6 36. Kg2 Rf8 37. Qh7 Ka5 38. Rg5 Rf6
+39. Qg7 Re6 40. h4 Re7 41. Qg8 Qd7 42. h5 Re8 43. Qd5 Qxd5 44. exd5 e4 45.
+d6 exd3 46. cxd3 Kb6 47. d7 Rd8 48. Rg7 1-0
+

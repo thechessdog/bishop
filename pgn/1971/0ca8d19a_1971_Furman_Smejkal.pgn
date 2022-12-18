@@ -1,0 +1,29 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Furman, Semyon"]
+[Black "Smejkal, Jan"]
+[Result "0-1"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "0ca8d19a"]
+[Epoch "Bishop"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 Re8 10. Nd2 e5 11. d5 Ne7 12. e4 c6 13. Nb3 cxd5 14. exd5 Nf5 15.
+Nc5 Nd6 16. b3 e4 17. Bd2 f5 18. Rc1 Nf7 19. Re1 Nxd5 20. Nxd5 Qxd5 21. f3 b6
+22. Na4 Bb7 23. fxe4 Qd4+ 24. Be3 Qxd1 25. Rexd1 Bxe4 26. Bxe4 Rxe4 27. Bf2 Re7
+28. Nc3 Ne5 29. h3 Rae8 30. Kf1 Nf3 31. Nd5 Re2 32. Nc7 R8e7 33. Rd8+ Kf7 34.
+Nd5 Nd2+ 35. Kg1 Nf3+ 36. Kf1 Nd2+ 37. Kg1 Bb2 38. Rd1 Re8 39. Rxe8 Kxe8 40.
+Nf4 Nf3+ 41. Kg2 Rd2 42. Rxd2 Nxd2 43. g4 Kd7 44. gxf5 gxf5 45. Nd3 Bc3 46. Be3
+Kd6 47. Kf2 Ne4+ 48. Kf3 Bf6 49. Bf4+ Kd7 50. Bb8 a5 51. Be5 Bd8 52. Ke3 Ng5
+53. Nf4 Ne6 54. Nh5 Bg5+ 55. Kf3 Kc6 56. Ng3 Kd5 57. Bb2 Nd4+ 58. Bxd4 Kxd4 59.
+Nxf5+ Kc3 60. Ke4 Kb2 61. Kd3 Kxa2 62. Kc2 Ka3 63. Nd4 Kb4 64. Ne6 Be7 65. Nf4
+Kc5 66. Kd3 Bf6 67. Ng2 Kb4 68. Kc2 Kc5 69. Kd3 b5 70. Ne3 Bg5 71. Nc2 Bf6 72.
+Ne3 Bb2 73. Kc2 Bd4 74. Nf1 Bf6 75. Nd2 Kd4 76. Nb1 Be5 77. Nc3 Kc5 78. Ne4+
+Kd5 79. Ng5 h6 80. Nf3 Ke4 81. Nd2+ Kf4 82. Kd3 Kg3 83. h4 h5 84. Ke2 a4 85.
+bxa4 bxa4 86. Nc4 Bf6 87. Kf1 Bxh4 88. Kg1 Be7 89. Kh1 Bc5 90. Nd2 a3 91. Ne4+
+Kf3 92. Nxc5 a2 93. Nb3 Ke4 94. Kg2 Kd5 0-1

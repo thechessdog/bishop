@@ -1,0 +1,16 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Voiculescu, Paul"]
+[Black "Balanel, Ion"]
+[Result "0-1"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "16f044a0"]
+[Epoch "Bishop"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. e3 b6 5. Nc3 cxd4 6. exd4 Bb7 7. Bd3 Be7 8. O-O
+O-O 9. Qe2 d5 10. cxd5 Nxd5 11. Qe4 g6 12. Bh6 Re8 13. Rfd1 Nd7 14. Qe2 Bf8 15.
+Bg5 Nxc3 0-1

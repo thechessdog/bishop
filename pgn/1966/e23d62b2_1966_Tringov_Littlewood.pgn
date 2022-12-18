@@ -1,0 +1,17 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Tringov, Georgi P"]
+[Black "Littlewood"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "e23d62b2"]
+[Epoch "Bishop"]
+[WhiteCountry "BGR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+O-O 9. Nd2 Na6 10. Be2 h6 11. Bh4 Re8 12. O-O Nc7 13. f4 b6 14. a4 Rb8 15. Bd3
+Qd7 16. Bxf6 Bxf6 17. e5 dxe5 18. Nde4 Bg7 19. d6 Ne6 20. Bb5 Qd8 21. d7 1-0

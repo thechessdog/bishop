@@ -1,0 +1,18 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Navarro"]
+[Black "Polard"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "a32aa4c5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d3 f6 7. Nbd2 Be6
+8. b3 Ne7 9. a4 g5 10. Nc4 Qd7 11. Bb2 g4 12. Nfd2 Ng6 13. Qe2 h5 14. g3
+Bc5 15. b4 Bxb4 16. Ba3 Bxa3 17. Rxa3 h4 18. Rb1 O-O-O 19. Qe3 hxg3 20. f3
+gxh2+ 21. Kh1 Bxc4 22. Nxc4 g3 23. Qa7 g2+ 24. Kxg2 Nf4+ 25. Kh1 Qh3 0-1
+

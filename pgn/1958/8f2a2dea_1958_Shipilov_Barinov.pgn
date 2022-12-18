@@ -1,0 +1,18 @@
+[Event "Volgograd ch"]
+[Site "Volgograd ch"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Shipilov, K."]
+[Black "Barinov, V."]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "8f2a2dea"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qa4+ Bd7 6. Qxd4 exd5 7. Qxd5
+Nc6 8. Bg5 Nf6 9. Qd2 h6 10. Bh4 g5 11. Bg3 Bb4 12. a3 Qa5 13. Rd1 O-O-O
+14. axb4 Nxb4 15. Rc1 Bc6 16. Bd6 Rxd6 17. Qxd6 Rd8 18. Qxd8+ Kxd8 19. Nf3
+Ne4 20. Nd4 Nd5 21. f3 Nexc3 22. Nb3 Qb4 0-1
+

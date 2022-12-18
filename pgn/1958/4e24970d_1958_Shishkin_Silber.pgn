@@ -1,0 +1,18 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Shishkin, V."]
+[Black "Silber"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "4e24970d"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Qa5 8.
+Qd2 Nbc6 9. Nf3 b6 10. Bb5 Ba6 11. Rb1 O-O 12. O-O cxd4 13. Qd3 Bxb5 14.
+axb5 Nb8 15. cxd4 Rc8 16. Ng5 Ng6 17. Qf3 Nh8 18. Qh3 h6 19. Nxe6 Rc3 20.
+Qg4 fxe6 21. Qxe6+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Selenograd"]
+[Site "Selenograd"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Obukhovsky"]
+[Black "Gussew"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "e22c6d11"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8.
+Qe2 Nxc4 9. dxc4 Bd6 10. Nc3 O-O 11. Nd4 Bg4 12. Qe3 Re8 13. h3 Bf3 14. O-O
+Ng4 15. Qe1 Qh4 16. Nxf3 exf3 17. Ne4 Bh2+ 18. Kh1 Rxe4 19. Qxe4 Nxf2+ 20.
+Rxf2 Qxf2 0-1
+

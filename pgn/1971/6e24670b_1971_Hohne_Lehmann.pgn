@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Hohne, P."]
+[Black "Lehmann, W."]
+[Result "0-1"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "6e24670b"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 Ne7 8.
+h4 b6 9. h5 h6 10. a4 Nd7 11. Ba3 cxd4 12. Bb5 Qxc3+ 13. Kf1 a6 14. Nxd4
+axb5 15. Nxb5 Ba6 0-1
+

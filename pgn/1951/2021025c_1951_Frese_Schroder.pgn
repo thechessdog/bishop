@@ -1,0 +1,17 @@
+[Event "Marburg"]
+[Site "Marburg"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Frese"]
+[Black "Schroeder, Raymond"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "Queen's gambit accepted"]
+[HashCode "2021025c"]
+[Epoch "Bishop"]
+[BlackID "4638476"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e5 4. d5 Bd6 5. e4 f5 6. Bxc4 Nf6 7. Bd3 fxe4 8.
+Nxe4 O-O 9. Bg5 Nxe4 10. Bxd8 Bb4+ 11. Ke2 Rxf2+ 12. Ke3 Bc5+ 13. Kxe4 Bf5+ 14.
+Kxe5 Nd7# 0-1

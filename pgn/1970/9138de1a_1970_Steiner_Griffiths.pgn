@@ -1,0 +1,17 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Steiner, Ulrich A"]
+[Black "Griffiths, Peter C"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "9138de1a"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O 8.
+dxc5 Nbc6 9. f4 f6 10. exf6 Rxf6 11. Nf3 Ng6 12. g3 e5 13. Nxe5 Ngxe5 14. fxe5
+Nxe5 15. Bg2 Be6 16. O-O-O Nc4 17. Qd4 Rf7 18. Rhe1 Qa5 19. Nc3 b6 20. Rxe6
+bxc5 21. Qxd5 1-0

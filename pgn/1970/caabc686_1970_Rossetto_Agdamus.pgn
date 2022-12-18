@@ -1,0 +1,22 @@
+[Event "Buenos Aires qual"]
+[Site "Buenos Aires"]
+[Date "1970.01.01"]
+[Round "2"]
+[White "Rossetto, Hector"]
+[Black "Agdamus, Jose Luis"]
+[Result "0-1"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "caabc686"]
+[Epoch "Bishop"]
+[BlackID "2101785"]
+[WhiteCountry "ARG"]
+[BlackCountry "BRA"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nf3 Ne4 4. Bf4 c5 5. e3 Nc6 6. c3 Qb6 7. Qb3 c4 8. Qc2
+Bf5 9. Nh4 e6 10. Nxf5 exf5 11. f3 Nf6 12. Nd2 Be7 13. O-O-O Qa5 14. Kb1 b5 15.
+Qxf5 b4 16. Qc2 bxc3 17. bxc3 O-O 18. Ka1 Rac8 19. Be2 Rfe8 20. g4 Nd7 21. Rb1
+Nb6 22. e4 Bf6 23. e5 Be7 24. g5 Na4 25. Rhc1 Ba3 26. Bd1 Bxc1 27. Rxc1 Nxc3
+28. Qxc3 Qxc3+ 29. Rxc3 Nxd4 30. Bg3 Nb5 31. Rc1 Red8 32. a4 Nd4 33. Bf2 Nc6
+34. f4 Nb4 35. Bxa7 c3 36. Nf3 Nd3 37. Rc2 Nb4 38. Bb6 Rd7 39. Nd4 Nxc2+ 40.
+Bxc2 Rb7 41. a5 Ra8 0-1

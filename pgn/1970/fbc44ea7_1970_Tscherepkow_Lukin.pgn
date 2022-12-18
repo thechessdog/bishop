@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Tscherepkow"]
+[Black "Lukin, Andrei M"]
+[Result "1-0"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Botvinnik variation"]
+[HashCode "fbc44ea7"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c5 7. dxc5 Be6 8. Nf3
+Nc6 9. Be2 Qa5 10. Ng5 Rad8 11. Nxe6 fxe6 12. Qa4 Qxc5 13. O-O Qb6 14. cxd5
+exd5 15. Qb5 Qxb5 16. Bxb5 h6 17. Rfd1 e6 18. h3 Kf7 19. Na4 Rc8 20. Nc5 a6 21.
+Be2 Nd8 22. Nd7 Rxc1 23. Ne5+ Ke8 24. Rxc1 Nh5 25. Nxg6 Nxf4 26. exf4 Rf6 27.
+Ne5 Rf5 28. Bg4 1-0

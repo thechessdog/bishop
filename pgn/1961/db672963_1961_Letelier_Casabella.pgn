@@ -1,0 +1,19 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Letelier, Rene"]
+[Black "Casabella, Miguel"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "db672963"]
+[Epoch "Bishop"]
+[WhiteCountry "CHL"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 b5 7. Bg2 Bb7 8. O-O
+Nf6 9. Re1 d6 10. a4 b4 11. Na2 d5 12. exd5 Bc5 13. Nb3 O-O 14. Nxc5 Qxc5 15.
+Be3 Qa5 16. dxe6 Bxg2 17. exf7+ Rxf7 18. Kxg2 Qxa4 19. Qf3 Qc6 20. Nxb4 Qxf3+
+21. Kxf3 Nd5+ 22. Bf4 Rxf4+ 23. gxf4 Nxb4 24. Re8+ Kf7 25. Rc8 N4c6 26. Rc7+
+Ne7 27. b4 1-0

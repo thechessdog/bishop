@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Pogats, Jozsef Jr."]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "5b33af69"]
+[Epoch "Bishop"]
+[WhiteID "710741"]
+[WhiteCountry "HUN"]
+[BlackID "744450"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bb5 b6 12. Re1 Bb7 13. e4 Na5 14. Bd3 c4 15.
+Bb1 Nb3 16. Ra2 Nxc1 17. Qxc1 Nh5 18. Qg5 Nf4 19. e5 Nh3+ 20. gxh3 Bxf3 21. Re3
+Bb7 22. Qh4 h6 23. Rg3 Kh8 24. Rxg7 Kxg7 25. Qf6+ Kg8 26. f3 Bxf3 27. Rf2 Qd8
+28. Qxh6 f5 29. Rxf3 Kf7 30. Rg3 Qd5 31. Rg7+ Ke8 32. Qh5+ Kd8 33. Qh4+ Kc8 34.
+Qe7 1-0

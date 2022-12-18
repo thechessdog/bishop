@@ -1,0 +1,22 @@
+[Event "POL-ch"]
+[Site "Gdynia"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Schinzel, Wladyslaw"]
+[Black "Filipowicz, Andrzej"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "cf4e010f"]
+[Epoch "Bishop"]
+[WhiteID "1100327"]
+[BlackID "1100491"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. f4 a6 12. a4 Rb8 13. Qc2 b5 14. axb5 axb5 15.
+Bxb5 Ng4 16. Nc4 Bd4+ 17. Kh1 Nxh2 18. Be3 Nxf1 19. Rxf1 Bxc3 20. bxc3 Rxb5 21.
+Nxd6 Ra5 22. Nxe8 Qxe8 23. c4 Nf6 24. e5 Ng4 25. Bd2 Qf8 26. f5 Bxf5 27. Qb3
+Ra8 0-1

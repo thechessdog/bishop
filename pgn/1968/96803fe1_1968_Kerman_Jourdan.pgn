@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kerman, D."]
+[Black "Jourdan, R."]
+[Result "1-0"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "96803fe1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 O-O 9. O-O cxd4 10. cxd4 Nc6 11. Be3 Na5 12. Bd3 b6 13. Rc1 Bb7 14.
+Qa4 Qd6 15. d5 Rfc8 16. Rfd1 Rxc1 17. Rxc1 Rd8 18. Bd2 e6 19. Bb4 Qe5 20.
+Be7 Ra8 21. f4 Qb2 22. dxe6 fxe6 23. Qd7 Qd2 24. Qxe6+ Kh8 25. Bf6 Bc6 26.
+Bxg7+ Kxg7 27. Qe5+ Kh6 28. Kf2 Qxd3 29. Rc3 Bxe4 30. Rxd3 Bxd3 31. Qd5 1-0
+

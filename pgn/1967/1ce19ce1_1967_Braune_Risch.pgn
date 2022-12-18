@@ -1,0 +1,18 @@
+[Event "corr BdF-Th"]
+[Site "corr BdF-Th"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Braune, P."]
+[Black "Risch, H."]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "1ce19ce1"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Bg4 5. e4 Qe7 6. Nc3 f5 7. d3 h6 8.
+Be2 Nf6 9. O-O fxe4 10. dxe4 Nc6 11. Bd3 O-O-O 12. Qe1 g5 13. Be3 Ne5 14.
+Nb5 Bb4 15. Nxa7+ Kb8 16. Nxe5 Bxe1 17. Nac6+ bxc6 18. Nxc6+ Kb7 19. Nxe7
+Bb4 20. Ng6 1-0
+

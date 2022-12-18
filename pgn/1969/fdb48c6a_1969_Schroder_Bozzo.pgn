@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Schroeder, Raymond"]
+[Black "Bozzo"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "fdb48c6a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. a3 Nc6 5. Nf3 d6 6. Qc2 Nc5 7. b4 Ne6 8. exd6
+Bxd6 9. Bb2 O-O 10. e3 b6 11. Bd3 h6 12. O-O Bb7 13. Nbd2 Ng5 14. Qc3 f6 15. c5
+Be5 16. Qc4+ Kh8 17. Nxe5 Nxe5 18. Bxe5 fxe5 19. cxb6 cxb6 20. Rad1 Rc8 21. Qb3
+Nh3+ 22. Kh1 Nxf2+ 23. Rxf2 Rxf2 24. Ne4 Rxg2 25. Kxg2 Qg5+ 26. Kh1 Qxe3 27.
+Qb1 Rc3 28. Re1 Qf3+ 29. Kg1 Rxd3 0-1

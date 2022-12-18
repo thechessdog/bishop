@@ -1,0 +1,22 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Falconer, Niel"]
+[Black "Poliakoff, D."]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "827f06c8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 Bg4 9. h3 Bh5 10. d4 Bxf3 11. gxf3 O-O 12. f4 exf4 13. Bxf4 d5 14. Bxd5
+Nxd5 15. exd5 Qxd5 16. Bxc7 Qd7 17. Bg3 Qxh3 18. d5 Bc5 19. Qf3 Rae8 20.
+Nd2 Rd8 21. b4 Ba7 22. Nf1 Nb8 23. Re7 Nd7 24. d6 h5 25. Qg2 Qg4 26. Rae1
+Bb8 27. Ne3 Qg6 28. Rd1 Nb6 29. d7 Qg5 30. Bxb8 Qxe7 31. Bd6 Qf6 32. Bxf8
+Kxf8 33. Qb7 Nc4 34. Nxc4 bxc4 35. Qc8 Qh4 36. Qc5+ Kg8 37. Rd4 Qf6 38. Qc8
+Qg5+ 39. Kf1 Qc1+ 40. Kg2 Qg5+ 41. Kh1 Qf6 42. Qxc4 Qxf2 43. Qd3 h4 44. Re4
+Kf8 45. Re8+ Rxe8 46. Qd6+ Kg8 47. dxe8=Q+ 1-0
+

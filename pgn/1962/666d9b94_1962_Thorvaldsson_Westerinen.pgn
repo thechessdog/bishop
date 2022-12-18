@@ -1,0 +1,21 @@
+[Event "Varna olm"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "10"]
+[White "Thorvaldsson, Jonas"]
+[Black "Westerinen, Heikki M.J."]
+[Result "0-1"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "666d9b94"]
+[Epoch "Bishop"]
+[WhiteID "2300192"]
+[WhiteCountry "ISL"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. f4 Be7 8. Qd2
+a6 9. O-O-O Bd7 10. Nf3 b5 11. Bxf6 gxf6 12. f5 Qa5 13. Kb1 Rc8 14. fxe6 fxe6
+15. e5 fxe5 16. Qh6 Nb4 17. a3 Nxc2 18. Kxc2 Qa4+ 19. Kc1 b4 20. axb4 Qa1+ 21.
+Kd2 Qxb2+ 22. Ke1 Rxc3 23. Qd2 Rc2 24. Qe3 d5 25. Be2 Bxb4+ 26. Kf1 Rxe2 0-1

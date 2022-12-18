@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Schiffer, C."]
+[Black "Kleinwaechter, M."]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "3f21f5c8"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Bxc3+ 7. Qxc3
+Ne4 8. Qa3 Qf6 9. Be3 b6 10. cxb6 axb6 11. Qxa8 Qxb2 12. Rc1 Qb4+ 13. Kd1
+d5 14. a3 Qb3+ 15. Ke1 Ba6 16. g3 Qa4 17. Bg2 Nc6 18. Qxf8+ Kxf8 19. Bxe4
+dxe4 20. Kf1 Bxc4 21. Bxb6 e5 22. Kg2 Nd4 23. e3 Nb3 24. Rd1 Qb5 25. Bc7
+Nd2 26. Bd6+ Ke8 27. h4 Bf1+ 0-1
+

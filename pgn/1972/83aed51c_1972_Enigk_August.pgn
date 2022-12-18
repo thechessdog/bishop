@@ -1,0 +1,18 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Enigk, G."]
+[Black "August, A."]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line"]
+[HashCode "83aed51c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e6 7. Be3 Be7
+8. O-O O-O 9. f4 Bd7 10. g4 Nxd4 11. Bxd4 Bc6 12. Bf3 Qc7 13. g5 Nd7 14.
+Be3 f5 15. Qe2 fxe4 16. Bg4 Kh8 17. Bxe6 Qa5 18. a3 a6 19. Qg4 Rfd8 20. Bd4
+d5 21. b4 Qc7 22. Qh5 Bd6 23. Bxd7 1-0
+

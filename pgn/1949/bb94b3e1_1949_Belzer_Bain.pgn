@@ -1,0 +1,17 @@
+[Event "US op"]
+[Site "Omaha"]
+[Date "1949.??.??"]
+[Round "12"]
+[White "Belzer, J."]
+[Black "Bain, O."]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen"]
+[HashCode "bb94b3e1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e6 7. Bg5 Be7
+8. Qd2 a6 9. O-O O-O 10. Rad1 Qc7 11. Kh1 Bd7 12. f4 b5 13. Bf3 Rfd8 14. e5
+dxe5 15. fxe5 Qxe5 16. Bxc6 Ng4 17. Bf4 Qh5 18. Bxa8 g5 19. Bf3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "2"]
+[White "Kerr, Stephen G.R."]
+[Black "Magnusson, Olafur"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "bdea6555"]
+[Epoch "Bishop"]
+[WhiteID "3200230"]
+[WhiteCountry "AUS"]
+
+1. e4 e6 2. d3 c5 3. g3 g6 4. Bg2 Bg7 5. Nf3 Ne7 6. O-O O-O 7. Nbd2 Nbc6 8. c3
+d5 9. Qe2 b6 10. e5 Ba6 11. Re1 h6 12. h4 Nf5 13. Nf1 b5 14. Bf4 b4 15. Ne3
+bxc3 16. bxc3 Kh7 17. Ng4 Rc8 18. Qd2 Nb8 19. Kh2 Nd7 20. Rh1 Rh8 1/2-1/2

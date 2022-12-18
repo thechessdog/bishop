@@ -1,0 +1,19 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Udovcic, Mijo"]
+[Black "Marovic, Drazen"]
+[Result "1/2-1/2"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "54512e51"]
+[Epoch "Bishop"]
+[BlackID "14500183"]
+[WhiteCountry "HRV"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. dxe5
+dxe5 9. b3 Re8 10. Bb2 c6 11. Ng5 Qc7 12. Qd2 Nc5 13. Rad1 h6 14. Nge4 Nfxe4
+15. Nxe4 Nxe4 16. Bxe4 Bh3 17. Bg2 Bxg2 18. Kxg2 Rad8 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Trautmann, K."]
+[Black "Sobeck, G."]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "c53fc6d8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Qe2 Bc5 10. Be3 Bxe3 11. Qxe3 Ne7 12. Nd4 c5 13. Nxe6 fxe6 14.
+c4 Nf5 15. Qd3 bxc4 16. Bxc4 O-O 17. Bb3 Nh4 18. Bc2 Qg5 19. g3 Nf3+ 20.
+Kg2 Qh5 21. h3 Ne1+ 0-1
+

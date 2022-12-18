@@ -1,0 +1,22 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1969.01.01"]
+[Round "2"]
+[White "Janosevic, Dragoljub"]
+[Black "Suttles, Duncan"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "5e284d51"]
+[Epoch "Bishop"]
+[BlackID "2600056"]
+[BlackCountry "CAN"]
+[WhiteCountry "SRB"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 c6 5. Be2 Nd7 6. O-O Nh6 7. Bg5 f6 8. Be3
+O-O 9. d5 f5 10. Nd4 Bxd4 11. Qxd4 f4 12. dxc6 bxc6 13. Bc4+ Nf7 14. Bxf4 e5
+15. Qxd6 exf4 16. Rad1 Qg5 17. Bxf7+ Rxf7 18. Qxc6 f3 19. g3 Nb6 20. Nd5 Bd7
+21. Qd6 Nc4 22. Qb4 Rc8 23. b3 Ne5 24. Ne3 Qh6 25. Rd5 Ng4 26. Nxg4 Bxg4 27. h4
+Rxc2 28. Rfd1 Rc8 29. e5 Be6 30. Rd8+ Rxd8 31. Rxd8+ Kg7 32. Qc3 Qh5 33. Kf1
+Qf5 34. Rd6 Qb1+ 0-1

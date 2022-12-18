@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Bondarevsky, Igor"]
+[Black "Bilek, Istvan"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "49733b3c"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Nh5 10. e3 Nxg3 11. hxg3 Bg7 12. Nh2 O-O 13. Ng4 Bxg4 14. Qxg4 f5 15.
+Qa4 Nd7 16. Be2 a6 17. Qc2 b5 18. O-O Qf6 19. Rae1 Nb6 20. g4 b4 21. Nd1 a5 22.
+gxf5 Qxf5 23. Qxf5 Rxf5 24. e4 Rf4 25. Bd3 c4 26. Bb1 a4 27. Re2 Bd4 28. Ne3
+Re8 29. Rfe1 Bxe3 30. Rxe3 Nd7 31. g3 Rf6 32. Bc2 Ne5 33. Bd1 g4 34. Be2 Rc8
+35. Rc1 Rf7 36. a3 Rb7 37. Bd1 Ra8 38. axb4 Rxb4 39. Rc2 Rab8 40. Kg2 Rxb2 41.
+Rxb2 Rxb2 42. Ra3 Rb1 43. Be2 Re1 44. f4 Rxe2+ 45. Kf1 Rxe4 46. fxe5 Rxe5 47.
+Rxa4 Rxd5 48. Rxc4 h5 49. Rc7 Rf5+ 50. Ke2 Rf3 51. Rd7 Rxg3 52. Rxd6 Kg7 53.
+Rd7+ Kg6 54. Rd6+ Kg5 55. Rd5+ Kh4 56. Kf2 Ra3 0-1

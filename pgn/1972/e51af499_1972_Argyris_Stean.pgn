@@ -1,0 +1,19 @@
+[Event "Islington op"]
+[Site "Islington"]
+[Date "1972.12.16"]
+[Round "4"]
+[White "Argyris, Nick"]
+[Black "Stean, Michael F"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "e51af499"]
+[Epoch "Bishop"]
+[BlackID "400130"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 Bb7 12. Qg3 b4 13. Nd5 exd5 14. exd5 Kd8
+15. Nf5 Bf8 16. Re4 Qb6 17. Rc4 Bxd5 18. Rd4 Bc6 19. Bc4 Kc7 20. Bxf6 Nxf6 21.
+Nxd6 Bxd6 22. Qxg7 Bxf4+ 23. Kb1 Be5 24. Qxf7+ Nd7 25. Rxd7+ Bxd7 0-1

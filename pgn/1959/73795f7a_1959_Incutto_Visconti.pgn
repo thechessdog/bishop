@@ -1,0 +1,18 @@
+[Event "Argentina"]
+[Site "Buenos Aires"]
+[Date "1959.01.01"]
+[Round "11"]
+[White "Incutto, Carlos"]
+[Black "Visconti"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "73795f7a"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O d6 6. c3 O-O 7. b4 Bb6 8. Bc4
+Ne7 9. Re1 Ng6 10. Nbd2 c6 11. d4 d5 12. Bb3 exd4 13. cxd4 dxe4 14. Nxe4 Bg4
+15. Bg5 Bxf3 16. Qxf3 Qxd4 17. Rad1 Qxb4 18. Nxf6+ gxf6 19. Re4 Qc5 20. Qxf6
+Bd8 21. Rxd8 Raxd8 22. Bh6 1-0

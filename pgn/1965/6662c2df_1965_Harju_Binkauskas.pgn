@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Harju"]
+[Black "Binkauskas"]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "6662c2df"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Nxc6 bxc6
+8. e5 dxe5 9. Qxd8+ Kxd8 10. fxe5 Nd5 11. Bd2 Bg7 12. Nxd5 cxd5 13. Bc3 Bd7
+14. O-O-O e6 15. Ba6 Ke8 16. Rhf1 Bc6 17. Bd4 Rd8 18. Rd3 Rd7 19. Bc3 1-0
+

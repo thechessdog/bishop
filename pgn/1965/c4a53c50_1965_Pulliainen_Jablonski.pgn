@@ -1,0 +1,18 @@
+[Event "corr Baltic"]
+[Site "corr Baltic"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Pulliainen"]
+[Black "Jablonski"]
+[Result "0-1"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "c4a53c50"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nf6 7. Qe2 Be7 8.
+O-O O-O 9. Bc2 exd4 10. cxd4 Nb4 11. Nc3 Nxc2 12. Qxc2 c5 13. e5 Nh5 14.
+Nd5 cxd4 15. Nxe7+ Qxe7 16. exd6 Qxd6 17. Rd1 Rac8 18. Qb3 Rfe8 19. Bd2 Bc6
+20. Rac1 Qg6 21. Rc5 Bxf3 0-1
+

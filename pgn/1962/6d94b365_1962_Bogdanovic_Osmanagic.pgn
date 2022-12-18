@@ -1,0 +1,29 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1962.03.01"]
+[Round "7"]
+[White "Bogdanovic, Rajko"]
+[Black "Osmanagic, Dusan"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "6d94b365"]
+[Epoch "Bishop"]
+[WhiteID "14400316"]
+[WhiteCountry "BIH"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Nf3
+Nbc6 9. Bd3 f5 10. exf6 Rxf6 11. Ne5 Nxe5 12. dxe5 Rf7 13. O-O c4 14. Be2 Qc7
+15. f4 Bd7 16. Qh3 Raf8 17. Qe3 b5 18. Bd2 a5 19. g4 Nc6 20. h4 Bc8 21. Qc5 Qa7
+22. Qxa7 Rxa7 23. Rab1 Rb7 24. Kh2 Bd7 25. Be3 Rfb8 26. Bc5 Rc8 27. Bd6 Nd8 28.
+h5 Nf7 29. Be7 b4 30. axb4 Ba4 31. Bc5 Bxc2 32. Ra1 axb4 33. Bxb4 Be4 34. Rfe1
+g5 35. hxg6 hxg6 36. g5 Bf5 37. Red1 Nd8 38. Kg3 Nc6 39. Bd6 Rb3 40. Rdc1 d4
+41. Bxc4 Rxc3+ 42. Rxc3 dxc3 43. Kf2 Nd4 44. Ba2 c2 45. Rc1 Rc3 46. Bb4 Rf3+
+47. Ke1 Re3+ 48. Kd2 Rd3+ 49. Ke1 Bg4 50. Kf2 Rf3+ 51. Ke1 Rxf4 52. Kd2 Bf5 53.
+Bc5 Nf3+ 54. Ke3 Nxe5 55. Bb3 Re4+ 56. Kd2 Nf3+ 57. Kc3 Re2 58. Ra1 Nxg5 59.
+Ra8+ Kg7 60. Kb2 Re1 61. Ra7+ Kh6 62. Bxc2 Re2 63. Bf8+ Kh5 64. Rc7 Nf3 65. Kc1
+Rxc2+ 66. Rxc2 Bxc2 67. Kxc2 Kg4 68. Kd3 Kf4 69. Ke2 e5 70. Kf2 g5 71. Ba3 Nh2
+72. Bc1+ Kf5 73. Kg3 Ng4 74. Ba3 e4 75. Bf8 Ne5 76. Bc5 Nd3 77. Bb6 Nf4 78. Ba7
+Nh5+ 79. Kf2 g4 80. Bb8 Nf4 81. Ba7 Nd3+ 82. Kg3 Nf4 83. Kf2 Nd5 84. Bc5 Kg5
+85. Kg3 e3 86. Bd6 Kf5 87. Bc5 e2 88. Kf2 Nf4 0-1

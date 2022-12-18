@@ -1,0 +1,20 @@
+[Event "Pula zt"]
+[Site "Pula zt"]
+[Date "1975.10.01"]
+[Round "1"]
+[White "Hug, Werner"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "ae5f620e"]
+[Epoch "Bishop"]
+[WhiteID "1300040"]
+[WhiteCountry "SUI"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d6 5. Nf3 Nc6 6. Bb5 Bd7 7. Qe2 a6 8.
+Bc4 e6 9. Bf4 dxe5 10. Nxe5 Bd6 11. Bg3 Nxe5 12. Bxe5 Bxe5 13. Qxe5 Qf6 14.
+Qxf6 gxf6 1/2-1/2

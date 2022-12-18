@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Hamann, Svend"]
+[Black "Roos, Axel"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "377e30f7"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nc6 7. Bg2 Nf6 8. O-O
+Be7 9. Re1 d6 10. Nxc6 bxc6 11. e5 dxe5 12. Rxe5 Nd5 13. Nxd5 cxd5 14. Bf4 Qc5
+15. c4 f6 16. Re1 Qxc4 17. Bd6 Qb5 18. Bxd5 Ra7 19. Rc1 Kf7 20. Rxc8 1-0

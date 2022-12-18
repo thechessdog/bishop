@@ -1,0 +1,18 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Timev, Angelo"]
+[Black "Mevel, Alberic"]
+[Result "1/2-1/2"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "41f1771f"]
+[Epoch "Bishop"]
+[BlackID "602574"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nd2 d5 6. e3 Bf5 7. Bd3 Qg5 8. g3
+Nd7 9. Nf3 Qg4 10. O-O Bxd2 11. Nxd2 Nxd2 12. Bxf5 Nf3+ 13. Kh1 Qh5 14. Bxd7+
+Kxd7 15. Kg2 Nh4+ 16. gxh4 Qg4+ 17. Kh1 Qf3+ 18. Kg1 Qg4+ 1/2-1/2

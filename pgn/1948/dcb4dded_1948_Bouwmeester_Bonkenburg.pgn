@@ -1,0 +1,18 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Bouwmeester, Hans"]
+[Black "Bonkenburg, J."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "dcb4dded"]
+[Epoch "Bishop"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nf6 7. d4 e4 8. d5
+Ne7 9. Ng5 Nexd5 10. Bb3 c6 11. Nxe4 Be7 12. c4 Nxe4 13. cxd5 Nd6 14. Bg5 f6
+15. Bf4 Kf8 16. Nc3 b5 17. Ne4 Nxe4 18. d6 f5 19. Rxe4 fxe4 20. dxe7+ 1-0

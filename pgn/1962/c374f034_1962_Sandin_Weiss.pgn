@@ -1,0 +1,17 @@
+[Event "corr Wch5 sf"]
+[Site "corr Wch5 sf"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Sandin, S."]
+[Black "Weiss, W."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "c374f034"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bxb5 Qxd5 7. Bxc6+
+Qxc6 8. Qf3 e4 9. Qb3 Bc5 10. Qxf7+ Kd8 11. O-O Rf8 12. Qxg7 Rg8 13. Qh6
+Bb7 14. Rd1 Bxf2+ 15. Kf1 Ke7 16. Nxh7 Bd4 17. b3 Qxc2 0-1
+

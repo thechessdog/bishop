@@ -1,0 +1,17 @@
+[Event "Santa Cruz"]
+[Site "Santa Cruz"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Barrett, E."]
+[Black "Oakes, G."]
+[Result "0-1"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[HashCode "2c7c70b7"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 O-O
+8. a3 Bxd2+ 9. Nbxd2 Nxe4 10. Bxf7+ Rxf7 11. Nxe4 Re7 12. Ne5 Nxe5 13. dxe5
+Rxe5 14. Qd4 Qe7 15. f3 d5 16. O-O-O dxe4 17. f4 Rc5+ 18. Kb1 Bf5 19. Ka1
+Ra5 20. h3 Rxa3+ 21. Kb1 e3+ 22. Kc1 Ra1# 0-1
+

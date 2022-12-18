@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Hachaturov"]
+[Black "Cherniev"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "c3dbe4a0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. Nxd5 Nxd5 6. e4 h6 7. Bh4 Ne3
+8. Qd3 Nxf1 9. exf5 Nxh2 10. Rxh2 c6 11. O-O-O Qc7 12. Rh1 O-O-O 13. Ne2
+Qa5 14. Kb1 Kb8 15. g4 Nf6 16. Qb3 Nd5 17. c4 Nf6 18. Be1 Qb6 19. Bg3+ Kc8
+20. Qc2 Rg8 21. d5 c5 22. Nc3 g6 23. fxg6 fxg6 24. Rhe1 Ne8 25. Re6 Nd6 26.
+Nb5 g5 27. Rde1 a6 28. Nc3 Qb4 29. Na4 Rg7 30. Bf2 b6 31. a3 Qa5 32. b4
+cxb4 33. Bxb6 b3 34. Qxb3 Qd2 35. Bxd8 Kxd8 36. Rxd6+ Ke8 37. Rde6 Kf7 38.
+c5 Rg6 39. d6 Rxe6 40. Qxe6+ Kg7 1-0
+

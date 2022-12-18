@@ -1,0 +1,19 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Lubin, A."]
+[Black "Winzer, T."]
+[Result "1-0"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "9d489da8"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. Qd3 a6 10. a4 Qe7 11. Rd1 b6 12. d5 Bxc3 13. dxe6 fxe6 14.
+Qxc3 Kh8 15. Ng5 Nb8 16. Qb3 Ng4 17. e4 h6 18. Nxe6 Re8 19. Nf4 Qxe4 20.
+Bd3 Qd4 21. Ng6+ Kh7 22. Ne5+ Kh8 23. Nf7+ Kg8 24. Nxh6+ Kh8 25. Qg8+ Rxg8
+26. Nf7# 1-0
+

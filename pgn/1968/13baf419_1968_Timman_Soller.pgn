@@ -1,0 +1,18 @@
+[Event "Biel open"]
+[Site "Biel open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Soller, C."]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Czech Benoni defence"]
+[HashCode "13baf419"]
+[Epoch "Bishop"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Bd7 6. Bd3 Na6 7. a3 Nc7 8. f4 Ng4
+9. f5 h5 10. Qf3 Be7 11. h3 Nf6 12. g4 hxg4 13. hxg4 Rxh1 14. Qxh1 Nxg4 15. Qg2
+Bh4+ 16. Ke2 Nf2 17. Qxg7 Bc8 18. Bc2 b5 19. Nf3 Nxe4 20. Nxe4 Be7 21. Nfg5 Ba6
+22. Nf6+ 1-0

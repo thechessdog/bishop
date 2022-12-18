@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1968.01.01"]
+[Round "7"]
+[White "Bilek, Istvan"]
+[Black "Bouwmeester, Hans"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "4c6e0984"]
+[Epoch "Bishop"]
+[BlackID "1000187"]
+[BlackCountry "NED"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. Qe2 c5 3. Nf3 Nc6 4. d3 Be7 5. g3 Nf6 6. Bg2 O-O 7. O-O d5 8. e5
+Ne8 9. c4 Nc7 10. Nc3 Rb8 11. b3 b5 12. Nxb5 Nxb5 13. cxb5 Rxb5 14. Be3 Ba6 15.
+Rfc1 Qb8 16. d4 Rb6 1/2-1/2

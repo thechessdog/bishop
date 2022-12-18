@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1962.03.01"]
+[Round "1"]
+[White "Eliskases, Erich Gottlieb"]
+[Black "Byrne, Donald"]
+[Result "1/2-1/2"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[HashCode "671d087d"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. Nf3 g6 3. g3 c5 4. Bg2 Bg7 5. O-O O-O 6. d4 Nc6 7. Nc3 d6 8. dxc5
+dxc5 9. Be3 Qa5 10. Bd2 Qd8 11. Qc1 Be6 12. b3 Qc8 13. Bh6 Bh3 14. Bxg7 Kxg7
+15. Qf4 Bxg2 16. Kxg2 Qf5 1/2-1/2

@@ -1,0 +1,27 @@
+[Event "IBM-B"]
+[Site "Amsterdam"]
+[Date "1966.??.??"]
+[Round "2"]
+[White "Ostojic, Predrag"]
+[Black "Hartoch, Robert G"]
+[Result "1-0"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "27d8dfa6"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
+d6 9. c3 Bg4 10. d5 Na5 11. Bc2 c6 12. dxc6 Qc7 13. Nbd2 Qxc6 14. h3 Be6 15.
+Ng5 Bd7 16. Nf1 h6 17. Nf3 Nc4 18. a4 Qc7 19. Ng3 bxa4 20. Bxa4 Rfb8 21. Qe2
+Be6 22. Nf5 Bf8 23. Ne3 Nxe3 24. Qxe3 Nd7 25. Nd2 Be7 26. Qe2 Bg5 27. Ra3 Nb6
+28. Bb3 Bxb3 29. Rxb3 Bxd2 30. Qxd2 Nc4 31. Qd1 Rxb3 32. Qxb3 a5 33. Qa4 Nb6
+34. Qb5 a4 35. Re3 Nc4 36. Rg3 Kf8 37. Kh2 Ra5 38. Qb4 Ra8 39. Qb5 Ra5 40. Qb4
+Ra8 41. f4 Rb8 42. Qxa4 exf4 43. Bxf4 Rxb2 44. Qa8+ Rb8 45. Qd5 Ne5 46. Rd3 Rb6
+47. Qa8+ Rb8 48. Qa3 Nc4 49. Bxd6+ Nxd6 50. Qxd6+ Qxd6+ 51. Rxd6 Rc8 52. Rd3
+Rc4 53. Re3 Ke7 54. Kg3 Ke6 55. Kf3 Ke5 56. Rd3 Rc7 57. Ke3 Ra7 58. Rd5+ Ke6
+59. c4 Ra1 60. c5 Rc1 61. Kd4 Rc2 62. g4 Rc1 63. Rd6+ Ke7 64. e5 Rc2 65. Kd5
+Rd2+ 66. Kc6 Re2 67. Kb6 Rxe5 68. Rd3 Re1 69. c6 Ra1 70. c7 Rb1+ 71. Ka7 Ra1+
+72. Kb7 Rb1+ 73. Kc8 Rb2 74. Re3+ Kf8 75. Re5 1-0

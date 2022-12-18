@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Usachee"]
+[Black "Holak"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "1b8de9e3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. d4 e6 5. c4 Nb6 6. d5 d6 7. Nc3 dxe5 8.
+Nxe5 Bd6 9. Bf4 O-O 10. dxe6 Qe7 11. Ne4 Bxe5 12. Bxe5 Qxe6 13. Qd6 Nxc4
+14. Bxc4 Qxc4 15. Nf6+ 1-0
+

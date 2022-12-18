@@ -1,0 +1,24 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Stabenow, J."]
+[Black "Ohaupt, H."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "a7902345"]
+[Epoch "Bishop"]
+
+1. b4 Nf6 2. Bb2 e6 3. b5 d5 4. e3 c5 5. f4 Bd6 6. Nf3 Nbd7 7. Be2 b6 8. a4
+Qc7 9. c4 Bb7 10. Qc2 O-O 11. O-O e5 12. fxe5 Nxe5 13. Nxe5 Bxe5 14. Bxe5
+Qxe5 15. Ra3 d4 16. Bf3 Bxf3 17. Rxf3 Rad8 18. Qf5 Qxf5 19. Rxf5 Rfe8 20.
+exd4 Rxd4 21. d3 Re3 22. Rf3 Rxf3 23. gxf3 Nd7 24. Kf2 Kf8 25. Ke3 Rh4 26.
+Ra2 Ne5 27. Rf2 f5 28. Nc3 Kf7 29. a5 Rh3 30. axb6 axb6 31. Ke2 g5 32. Nd5
+Rh6 33. Ne3 Re6 34. Kd2 f4 35. Nd5 Kg6 36. Kc3 Nd7 37. Ra2 Kf5 38. Ra7 Ne5
+39. Ne7+ Kf6 40. Nd5+ Kf5 41. Ra6 Nxf3 42. Nxb6 g4 43. Nd7 g3 44. hxg3 fxg3
+45. Ra2 Rg6 46. Rg2 h5 47. b6 Nd4 48. Nxc5 Nc6 49. Ne4 Kf4 50. Rxg3 Rxg3
+51. Nxg3 Kxg3 52. d4 h4 53. d5 Nb8 54. c5 h3 55. c6 Nxc6 56. dxc6 h2 57. b7
+h1=Q 58. b8=Q+ Kg4 59. Qg8+ Kf5 60. Qc4 Qh3+ 61. Kb4 Kf6 62. Qc5 Qc8 63.
+Qd6+ Kf7 64. Kc5 Qh3 65. Qd5+ Ke7 66. Kb6 1-0
+

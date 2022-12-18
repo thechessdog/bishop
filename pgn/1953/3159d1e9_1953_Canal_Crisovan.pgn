@@ -1,0 +1,17 @@
+[Event "Toronto"]
+[Site "Toronto"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Canal, Esteban"]
+[Black "Crisovan"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "3159d1e9"]
+[Epoch "Bishop"]
+[WhiteCountry "PER"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. c4 c6 6. Nc3 Ne7 7. Bd3 O-O 8. O-O
+Bf5 9. Bxf5 Nxf5 10. cxd5 cxd5 11. Qb3 Nc6 12. Qxd5 Nfxd4 13. Nxd4 Nxd4 14. Rd1
+Re8 15. Bg5 1-0

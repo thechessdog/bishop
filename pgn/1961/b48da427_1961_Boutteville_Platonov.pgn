@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Boutteville"]
+[Black "Platonov"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Bogolyubov variation"]
+[HashCode "b48da427"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Be7 9. Bxc6+ Nxc6 10. Qxc6+ Bd7 11. Qc4 O-O 12. Nc3 Nh5 13. Nf3
+Nf4 14. Nxe5 Nxg2+ 15. Kd1 Bf5 16. d3 Bf6 17. f4 Bxe5 18. fxe5 Rc8 19. Qa4
+Bxd3 20. Bd2 Rc4 21. Qxa7 Bg6 22. Qf2 Rxc3 23. bxc3 Qa8 24. Qe2 Nf4 0-1
+

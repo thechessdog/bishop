@@ -1,0 +1,17 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Radojevic, Zoran"]
+[Black "Masic, Ljubomir"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "e9c44f8f"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. b4 c6 7. Bb2 e6 8. a4 b6
+9. Ne5 Bb7 10. Be2 Nbd7 11. cxd5 cxd5 12. Nd3 Re8 13. O-O a6 14. Qb3 h5 15. Bf3
+Ne4 16. Bxe4 dxe4 17. Nf4 Qg5 18. Rad1 Rac8 19. a5 b5 1/2-1/2

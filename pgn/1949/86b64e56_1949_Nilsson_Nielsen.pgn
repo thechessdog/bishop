@@ -1,0 +1,20 @@
+[Event "Jonkoping"]
+[Site "Jonkoping"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Nielsen, Axel"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "86b64e56"]
+[Epoch "Bishop"]
+[BlackID "1421905"]
+[BlackCountry "DEN"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 b6 6. a3 Bxc3+ 7. Nxc3 O-O 8. d5
+d6 9. Be2 e5 10. e4 Ne8 11. O-O f5 12. f4 fxe4 13. fxe5 Rxf1+ 14. Qxf1 dxe5 15.
+Nxe4 Nd7 16. Bg5 Ndf6 17. Bh5 Bd7 18. Re1 h6 19. Bh4 g5 20. Bxe8 Nxe8 21. Bg3
+Qe7 22. Bxe5 Qf7 23. Qd3 Bf5 24. Rf1 Ng7 25. g4 Bxe4 26. Qxe4 Qe8 27. Rf6 1-0

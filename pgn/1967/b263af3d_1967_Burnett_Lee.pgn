@@ -1,0 +1,20 @@
+[Event "Oxford ch-BCF"]
+[Site "Oxford ch-BCF"]
+[Date "1967.08.01"]
+[Round "1"]
+[White "Burnett, LP."]
+[Black "Lee, Peter N"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "b263af3d"]
+[Epoch "Bishop"]
+[BlackID "400394"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. e5 dxe5 11. fxe5 Nfd7 12. Bc4 Qa5 13. Bxe6 fxe6 14. Nxe6
+Qxe5+ 15. Qe3 Qxe3+ 16. Bxe3 Bd6 17. Nd5 Nf6 18. Nec7+ Kd7 19. Nxf6+ Kxc7 20.
+Nd5+ Kc6 21. Nb6 Re8 22. Nxa8 Rxe3+ 23. Kd2 Bf4 24. Rb6+ Kc5 25. Rf1 g5 26.
+Rxf4 gxf4 27. Rf6 Nc6 28. Rxf4 Re7 0-1

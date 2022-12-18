@@ -1,0 +1,15 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Arguelles, R."]
+[Black "Barros"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "93693a4c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nf6 4. Nc3 fxe4 5. Nxe5 d5 6. Nxd5 Nxd5 7. Qh5+
+g6 8. Nxg6 hxg6 9. Qxh8 Qf6 10. Qh7 Be6 11. d3 Bb4+ 12. Kf1 Bc5 0-1
+

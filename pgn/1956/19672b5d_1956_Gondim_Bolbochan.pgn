@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1956.01.01"]
+[Round "10"]
+[White "Gondim"]
+[Black "Bolbochan, Julio"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "19672b5d"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Bd7 8. Qf3
+Nc6 9. Nxc6 Bxc6 10. Bd3 Be7 11. f5 O-O 12. fxe6 fxe6 13. Qh3 e5 14. O-O-O b5
+15. Kb1 Bd7 16. Qh4 h6 17. Bd2 b4 18. Ne2 Ng4 19. Qg3 Bh4 20. Bc4+ Kh8 21. Qb3
+a5 22. Be3 Bf2 23. Rxd6 Nxe3 24. Bd5 Rc8 25. Qd3 Rf6 26. Be6 Rxe6 27. Rxd7 Qf6
+28. Ng3 Bxg3 29. Qxe3 Bf4 30. Qa7 Rec6 31. g3 Bg5 32. Rdd1 Rxc2 0-1

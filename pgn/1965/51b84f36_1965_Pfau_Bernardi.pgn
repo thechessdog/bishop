@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Pfau"]
+[Black "Bernardi"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "51b84f36"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. Nf3 d6 7. Qc2 Nc6
+8. e4 e5 9. d5 Na5 10. Bd3 O-O 11. O-O Bg4 12. Nd2 Nh5 13. h3 Bd7 14. Nf3
+Qf6 15. Bg5 Qg6 16. Kh2 b5 17. cxb5 c4 18. Be2 f5 19. Bc1 Nb3 20. Rb1 Nxc1
+21. Rbxc1 fxe4 22. Ne1 Nf4 23. Rd1 Qh6 24. Qxe4 Bxh3 25. Kg1 Bxg2 26. Nxg2
+Nh3+ 27. Kh2 Rf4 0-1
+

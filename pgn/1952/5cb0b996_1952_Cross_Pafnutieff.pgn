@@ -1,0 +1,17 @@
+[Event "Hollywood"]
+[Site "Hollywood"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Cross, J."]
+[Black "Pafnutieff, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "5cb0b996"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+exd4 9. Nxd4 Ne5 10. b3 Bg4 11. f3 Bd7 12. Bb2 Nc6 13. Nde2 Re8 14. Qd2 Ne5 15.
+Rad1 Qc8 16. Bc1 a5 17. Nf4 a4 18. Nfd5 Nxd5 19. Nxd5 axb3 20. axb3 Be6 21. f4
+Nd7 22. Qc2 Bg4 1/2-1/2

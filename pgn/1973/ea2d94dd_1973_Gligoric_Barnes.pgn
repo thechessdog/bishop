@@ -1,0 +1,18 @@
+[Event "Sim"]
+[Site "Sim"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Gligorić, Svetozar"]
+[Black "Barnes, C."]
+[Result "0-1"]
+[ECO "B38"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 6.Be3"]
+[HashCode "ea2d94dd"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 d6 7. Nc3 Nh6 8. Be2
+O-O 9. O-O f5 10. Qd2 Nxd4 11. Bxd4 e5 12. Be3 f4 13. Qd5+ Kh8 14. Bd2 Qh4 15.
+f3 g5 16. Be1 Qh5 17. Qxd6 g4 18. Rd1 Qg5 19. Nd5 Ng8 20. Nc7 Rf6 21. Qd8 g3
+22. h3 Bxh3 23. Qxa8 Bd7 24. Rxd7 Qh4 0-1

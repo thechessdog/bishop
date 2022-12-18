@@ -1,0 +1,21 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Luginbuhl, Erwin"]
+[Black "Szapiro"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "35ceaf30"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. O-O
+Be7 9. Bf3 O-O 10. Be3 Nbd7 11. Nd5 Bxd5 12. exd5 Nb6 13. Qd3 Na4 14. Rab1 Rc8
+15. c4 Nd7 16. g4 Bg5 17. Nd2 Nac5 18. Qe2 Bxe3 19. fxe3 a5 20. b3 Qg5 21. Kh1
+Rce8 22. e4 Ra8 23. a3 Rfc8 24. Bg2 Nf8 25. Qf2 Qe7 26. Qe3 Ng6 27. Rfc1 Nf4
+28. Bf1 Nd7 29. Rc2 Qg5 30. h3 Qe7 31. Kh2 b6 32. Rcb2 Ra7 33. Nf3 h6 34. Nd4
+exd4 35. Qxf4 Re8 36. Bg2 Nc5 37. Re2 f6 38. Kh1 Qe5 39. Qxe5 fxe5 40. Rd2 Rf8
+41. b4 axb4 42. axb4 Nd7 43. Kh2 Rf4 44. Rbb2 Ra4 45. Rdc2 Kf8 46. Rf2 Rxf2 47.
+Rxf2+ Ke7 48. Rb2 Ra3 49. h4 Rc3 0-1

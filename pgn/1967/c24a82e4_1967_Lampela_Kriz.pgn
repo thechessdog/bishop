@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Lampela, O."]
+[Black "Kriz, M."]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Katalimov variation"]
+[HashCode "c24a82e4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 b6 3. d4 cxd4 4. Nxd4 Bb7 5. Bc4 Bxe4 6. Nc3 Bxg2 7. Rg1
+Bb7 8. Bf4 d6 9. Bxf7+ Kxf7 10. Rxg7+ Ke8 11. Qh5+ Kd7 12. Qf5+ Ke8 13. Ne6
+1-0
+

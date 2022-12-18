@@ -1,0 +1,18 @@
+[Event "ACM Minneapolis"]
+[Site "ACM Minneapolis"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Chute 1 2"]
+[Black "Black Knight"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "99f92a6d"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. Nf3 Be6 5. Nd4 Qf6 6. Nxe6 Qxe6+ 7. Be2
+d4 8. Nb1 Nc6 9. O-O Nf6 10. b3 Bc5 11. Bc4 Qd7 12. Re1+ Kd8 13. d3 Bf8 14.
+Bd2 a6 15. a4 Ra7 16. Qf3 Nb4 17. Na3 c5 18. Bg5 Rg8 19. Qf4 Kc8 20. Bxf6
+Nd5 21. Bxd5 b5 22. Be4 Bd6 23. Be5 b4 24. Nc4 g5 25. Nxd6+ Kb8 26. Qf6 Rg6
+27. Nc4+ Kc8 28. Nb6# 1-0
+

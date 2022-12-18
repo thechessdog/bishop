@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Lutikov, Anatoly S"]
+[Black "Kljavin, J."]
+[Result "1-0"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "5b6366be"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be3 a6 7. a3 b5 8. Nxc6
+Qxc6 9. Be2 Bb7 10. Bf3 Qc7 11. e5 Rc8 12. O-O Bxf3 13. Qxf3 d6 14. exd6 Bxd6
+15. Bd4 Bxh2+ 16. Kh1 Be5 17. Nd5 Qb8 18. Bxe5 Qxe5 19. Nb6 Rd8 20. Rad1 Rxd1
+21. Rxd1 f5 22. Nd7 Qe4 23. Qg3 Qe2 24. Qb8+ Kf7 25. Ne5+ Kf6 26. Qf8+ Kxe5 27.
+Qxg7+ Nf6 28. Qg3+ Ke4 29. f3+ Ke3 30. Re1 f4 31. Rxe2+ Kxe2 32. Qxf4 1-0

@@ -1,0 +1,19 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1950.09.01"]
+[Round "9"]
+[White "Letelier, Rene"]
+[Black "Steiner, Herman"]
+[Result "1-0"]
+[ECO "A83"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Chigorin variation"]
+[HashCode "a0be7e8b"]
+[Epoch "Bishop"]
+[WhiteCountry "CHL"]
+[BlackCountry "USA"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 c6 5. f3 Qa5 6. Bxf6 exf6 7. fxe4 Bb4 8.
+Ne2 Qg5 9. a3 Bxc3+ 10. Nxc3 d5 11. Qf3 O-O 12. Bd3 Qh4+ 13. g3 dxe4 14. Nxe4
+Qg4 15. Bc4+ Kh8 16. Qxg4 Bxg4 17. Nd6 Bc8 18. O-O-O b5 19. Nxb5 Nd7 20. Nd6
+Nb6 21. Bb3 Bh3 22. Nf7+ 1-0

@@ -1,0 +1,17 @@
+[Event "ACM Chicago"]
+[Site "ACM Chicago"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Mr Turk"]
+[Black "CCCP"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "ea364d16"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 Bg4 3. Na3 Bxf3 4. exf3 Nc6 5. c3 Qd6 6. Nb5 Qd8 7. a4 a6
+8. c4 axb5 9. cxb5 Na5 10. b4 Nc4 11. h3 Qd7 12. Bd2 Nb2 13. Qe2 Nxa4 14.
+Ra2 Qe6 15. Qe3 Qd7 16. Be2 f5 17. Qf4 g5 18. Qxg5 Nf6 19. Bd3 Rg8 20. Qxf5
+Qxf5 21. g4 Qxd3 22. Kd1 Nc3+ 0-1
+

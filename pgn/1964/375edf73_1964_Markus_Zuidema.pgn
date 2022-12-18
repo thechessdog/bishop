@@ -1,0 +1,26 @@
+[Event "Zuerich-J"]
+[Site "Zuerich"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Markus, Marcel"]
+[Black "Zuidema, Coen"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "375edf73"]
+[Epoch "Bishop"]
+[BlackID "1000101"]
+[BlackCountry "NED"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Be7 10. Be2 O-O 11. O-O f6 12. exf6 Bxf6 13. Qd2 Rf7 14. Rad1 Rd7 15.
+c5 Nd5 16. Nxd5 exd5 17. Ne5 Bxe5 18. Rxf5 Bf6 19. g4 g6 20. Rf3 Qe7 21. g5 Bg7
+22. Rdf1 Re8 23. Bb5 Qe6 24. Bf2 Rde7 25. Rf4 a6 26. Bd3 Rf7 27. Rxf7 Qxf7 28.
+Bc2 Rf8 29. Re1 Qxf2+ 30. Qxf2 Bxd4 31. Qxd4 Nxd4 32. Bd1 c6 33. Bg4 Nf3+ 34.
+Bxf3 Rxf3 35. Re7 Rf7 36. Re8+ Rf8 37. Re7 Rf7 38. Re8+ Kg7 39. Rd8 Re7 40. Kf2
+Kf7 41. Rd6 Ke8 42. h4 Re5 43. Kg3 Ke7 44. Rf6 Re3+ 45. Kg4 Re4+ 46. Kg3 Re2
+47. h5 gxh5 48. Rh6 Rxb2 49. Rxh5 Kf7 50. Kf4 Rf2+ 51. Ke5 Kg6 52. Rh6+ Kxg5
+53. Rxh7 Re2+ 54. Kd6 Rb2 55. Ke5 Kg4 56. Rf7 Kg3 57. a3 Rb3 58. Kd4 Rb5 59.
+Rf6 Kg4 60. Rf7 Kg5 61. a4 Rb4+ 62. Ke5 Kg4 63. Kd6 Kg3 64. Kc7 d4 65. a5 d3
+66. Rd7 Rb3 67. Rxd3+ Rxd3 68. Kxb7 Rb3+ 0-1

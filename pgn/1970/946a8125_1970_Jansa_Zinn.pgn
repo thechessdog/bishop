@@ -1,0 +1,18 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "18"]
+[White "Jansa, Vlastimil"]
+[Black "Zinn, Lothar"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "946a8125"]
+[Epoch "Bishop"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 cxd4 7. Nxd4 Qe7+
+8. Qe2 Qxe2+ 9. Kxe2 Bd7 10. N2f3 Bd6 11. Bg5 1/2-1/2

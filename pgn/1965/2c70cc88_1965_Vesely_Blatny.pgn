@@ -1,0 +1,20 @@
+[Event "Pardubice"]
+[Site "Pardubice"]
+[Date "1965.01.01"]
+[Round "13"]
+[White "Vesely, Jiri"]
+[Black "Blatny, Frantisek"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "2c70cc88"]
+[Epoch "Bishop"]
+[BlackID "300764"]
+[BlackCountry "CZE"]
+[WhiteID "353280"]
+[WhiteCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Qf3 Ne7 6. a3 Bxc3+ 7. Qxc3 Nf5 8.
+Bf4 Nc6 9. Bb5 Bd7 10. Ne2 O-O 11. Bxc6 Bxc6 12. O-O Re8 13. Ng3 Nxg3 14. Bxg3
+Qd7 15. Rfe1 b6 16. Rxe8+ Rxe8 17. Re1 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "4"]
+[White "Kagan, Shimon"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "76415c1d"]
+[Epoch "Bishop"]
+[WhiteID "2800284"]
+[WhiteCountry "ISR"]
+[BlackID "3500179"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. b3 O-O 10. Bb2 Rd8 11. Nde2 b5 12. Nf4 Bb7 13. Re1 Ne5 14. Nd3 d6 15. a4
+Nxd3 16. cxd3 bxa4 17. Nxa4 Nd7 18. Qd2 Rdc8 19. Rec1 Qd8 20. Bc3 Bc6 21. Ba5
+Qe8 22. d4 Rab8 23. Qe3 Bd8 24. Bd2 Nb6 25. Nc3 Bb7 26. Bf1 Ra8 27. Ra2 Rcb8
+28. Rca1 Nc8 29. Nd1 Bb6 30. Ba5 Qd8 31. Nb2 Ne7 32. Bxb6 Qxb6 33. Nc4 Qc6 34.
+f3 Bc8 35. Rc1 Ng6 36. Na5 Qb6 37. Rc6 Qd8 38. Qc3 Ra7 39. Rc2 Ne7 40. Rc7 Rxc7
+41. Qxc7 Bd7 42. Qxd8+ Rxd8 43. Rc7 1-0

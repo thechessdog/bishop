@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Koblenz, A."]
+[Black "Kopylov, Nikolai G"]
+[Result "1-0"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "Siesta, Kopayev variation"]
+[HashCode "de4cbd4a"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O Bd3 8. Re1
+Be7 9. Re3 e4 10. Nd4 Qd7 11. Nxc6 bxc6 12. Bc2 Bxc2 13. Qxc2 Nf6 14. d3 d5 15.
+Nd2 O-O 16. h3 Bc5 17. Re2 Nh5 18. Nb3 exd3 19. Qxd3 Bb6 20. c4 Bxf2+ 21. Rxf2
+Rxf2 22. Kxf2 Rf8+ 23. Kg1 Qf7 24. cxd5 Qf2+ 25. Kh2 Qf6 26. Bd2 Qd6+ 27. Kg1
+cxd5 28. Be3 Rf3 29. Qe2 Rf5 30. Bc5 Qg6 31. Re1 Nf4 32. Qe8+ Qxe8 33. Rxe8+
+Kf7 34. Re7+ Kg6 35. Bd4 Rf7 36. Re3 h5 37. Nc5 Rf5 38. Ne6 Kf7 39. Nxf4 Rxf4
+40. Rf3 Rxf3 41. gxf3 g6 42. Kf2 Ke6 43. b4 Kf5 44. a4 c6 45. Bc5 Kg5 46. Be7+
+Kf4 47. Bd6+ Kg5 48. Bg3 Kf5 49. Ke3 g5 50. Kd4 g4 51. fxg4+ hxg4 52. hxg4+
+Kxg4 53. Be5 1-0

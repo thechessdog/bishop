@@ -1,0 +1,20 @@
+[Event "Munchen olm"]
+[Site "Munchen olm"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Johansson, Ingi"]
+[Black "Sliwa, Bogdan"]
+[Result "1-0"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "d68c1bb5"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Bd3 b6 10. Qe2 Bb7 11. Rd1 cxd4 12. exd4 Rc8 13. Bd2 h6 14. Nb5 Bxd2
+15. Rxd2 a6 16. Nd6 Bxf3 17. Qxf3 Rc7 18. Rdd1 Nd5 19. a3 N7f6 20. Nc4 b5 21.
+Ne5 Qd6 22. Re1 Qb6 23. Rad1 b4 24. a4 Kh8 25. Bb1 Qa5 26. h4 Qxa4 27. g4 g5
+28. hxg5 hxg5 29. Nd3 Kg7 30. Re5 Rh8 31. Rxg5+ Kf8 32. Nc5 Qc6 33. Ne4 Rd7 34.
+Nxf6 1-0

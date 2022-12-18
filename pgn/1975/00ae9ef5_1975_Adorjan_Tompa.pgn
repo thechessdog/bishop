@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Adorjan, Andras"]
+[Black "Tompa, Janos"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "00ae9ef5"]
+[Epoch "Bishop"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackID "700193"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. O-O Nbd7 8. a4
+Nc5 9. Bf3 Qc7 10. b3 Rb8 11. a5 Be7 12. Bb2 O-O 13. Qe2 g6 14. Qe3 e5 15. Nde2
+Be6 16. Nc1 b5 17. axb6 Rxb6 18. Rd1 1/2-1/2

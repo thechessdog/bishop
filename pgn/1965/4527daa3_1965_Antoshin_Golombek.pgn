@@ -1,0 +1,18 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1965.01.01"]
+[Round "4"]
+[White "Antoshin, Vladimir S"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "4527daa3"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. cxd5 exd5 8. a3
+Ba5 9. dxc5 Bxc3+ 10. bxc3 Nbd7 11. O-O Nxc5 12. Be2 Bg4 13. c4 Nce4 14. Qb3
+dxc4 15. Bxc4 Qc7 16. Nd2 Rac8 17. Nxe4 Nxe4 18. Bd5 Nc5 19. Qc3 Be6 1/2-1/2

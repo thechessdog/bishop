@@ -1,0 +1,16 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Alvarez del Monte, Jose Luis"]
+[Black "Iglesias"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "709a80f7"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Be2 Nb4 10. Rc1 c5 11. Nf3 Rc8 12. O-O Bg6 13. d5 exd5 14. cxd5 c4 15. d6
+Nd3 16. Bxd3 Bxd3 17. Re1 h6 18. Nb5 Nd5 19. Qa4 Qd7 20. e6 1-0

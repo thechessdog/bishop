@@ -1,0 +1,23 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Krabbe, T."]
+[Black "Kurajica, Bojan"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "53a90aa9"]
+[Epoch "Bishop"]
+[BlackID "14400057"]
+[BlackCountry "BIH"]
+
+1. g3 d5 2. f4 c5 3. Nf3 Nc6 4. Bg2 g6 5. d3 Bg7 6. O-O Nf6 7. c3 d4 8. a4 O-O
+9. Bd2 Nd5 10. Qc1 Na5 11. Qc2 Qb6 12. c4 Nb3 13. Ra3 Nxd2 14. Qxd2 Ne3 15. Rc1
+f6 16. Ne1 e5 17. Nc3 exf4 18. Nd5 Qd6 19. gxf4 Bh6 20. Nc2 Nxg2 21. Kxg2 Be6
+22. Rf1 Bxd5+ 23. cxd5 Qxd5+ 24. Rf3 Rfe8 25. e4 dxe3 26. Nxe3 Qd7 27. Nf1 Rad8
+28. Qf2 Qc6 29. Rc3 Rd5 30. Ne3 Rd4 31. Ng4 Bg7 32. Qxd4 cxd4 33. Rxc6 bxc6 34.
+h3 Rb8 35. Rf2 h5 36. Nh2 Rb3 37. Rd2 Bh6 38. Kf3 f5 39. Nf1 h4 40. Nh2 c5 41.
+a5 c4 42. Nf1 Kf7 43. a6 cxd3 44. Nh2 Ke6 45. Nf1 Kd5 46. Rg2 d2+ 47. Ke2 Bxf4
+48. Rxg6 d3+ 49. Kd1 Rxb2 50. Ne3+ Ke4 51. Re6+ Kf3 52. Re7 Ra2 53. Re6 Ra1+
+54. Kxd2 Ra2+ 0-1

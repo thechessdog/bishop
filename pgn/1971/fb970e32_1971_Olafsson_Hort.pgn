@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Olafsson, Fridrik"]
+[Black "Hort, Vlastimil"]
+[Result "0-1"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "fb970e32"]
+[Epoch "Bishop"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+[WhiteID "2300052"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. Nf3 O-O 6. Rc1 c6 7. e3 Be6 8. c5
+Nh5 9. Be5 f6 10. Bxb8 Rxb8 11. h3 f5 12. Be2 Nf6 13. Ng5 Qd7 14. f4 b6 15. b4
+h6 16. Nf3 bxc5 17. bxc5 Ne4 18. O-O Rb2 19. a3 Rfb8 20. Bd3 Qb7 21. Qa4 Qc7
+22. Ne5 Bxe5 23. fxe5 Bf7 24. Ne2 R8b3 25. Nf4 g5 26. Ne2 Rxd3 0-1

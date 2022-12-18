@@ -1,0 +1,23 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "14"]
+[White "Hennings, Artur"]
+[Black "Radulov, Ivan"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "817eab7a"]
+[Epoch "Bishop"]
+[WhiteID "4611594"]
+[WhiteCountry "GER"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5 Bg7 7. Qd2 h6 8. Bf4
+g5 9. Bg3 Nh5 10. Be2 Nxg3 11. hxg3 Nc6 12. Bb5 Bd7 13. Nde2 Qf6 14. O-O O-O-O
+15. Rad1 h5 16. Qe3 h4 17. Nd5 Qxb2 18. Bxc6 Bxc6 19. Ne7+ Kd7 20. Nxc6 bxc6
+21. Qxg5 Bf6 22. Qf5+ Ke7 23. g4 Qxa2 24. g5 Bg7 25. Nf4 Be5 26. c4 Qxc4 27.
+Rc1 Qb5 28. Rb1 Qc4 29. Rfc1 Qa2 30. Nd5+ Kf8 31. g6 Kg7 32. Nxc7 Rh6 33. gxf7
+Rf8 34. Ne8+ Kh8 35. Qg5 Qe6 36. Rxc6 h3 37. Rxd6 Bxd6 38. Qg7# 1-0

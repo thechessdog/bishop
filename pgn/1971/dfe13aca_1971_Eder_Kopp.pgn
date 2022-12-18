@@ -1,0 +1,21 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Eder, G."]
+[Black "Kopp, B."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "dfe13aca"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bg5 h6 10. Bf4 Ne8 11. Qd2 g5 12. Bg3 f5 13. e3 Qe7 14. Be2 Nd7
+15. O-O Nb6 16. Nxb6 axb6 17. f4 Bd7 18. Bd3 b5 19. Nxb5 Bxb2 20. Rab1 Bg7
+21. Rfe1 Bxb5 22. Rxb5 Ra3 23. Rb3 Rxb3 24. axb3 Nc7 25. fxg5 hxg5 26. Qc2
+b5 27. Bxf5 Nxd5 28. Bf2 Nb4 29. Qb1 d5 30. e4 d4 31. e5 Rd8 32. Bh7+ Kh8
+33. Bd3 Nxd3 34. Qxd3 b4 35. e6 Bf6 36. Bg3 Kg7 37. h4 gxh4 38. Bf4 Bg5 39.
+Qf5 Bf6 40. Be5 Rf8 41. Re4 Bxe5 42. Rg4+ 1-0
+

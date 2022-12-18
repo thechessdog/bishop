@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Mueller"]
+[Black "Schwieweck"]
+[Result "1-0"]
+[ECO "B38"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 6.Be3"]
+[HashCode "77947bac"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. c4 Nh6 7. Nc3 O-O
+8. Be2 f5 9. exf5 Bxd4 10. Bxh6 Rxf5 11. O-O Qb6 12. Nd5 Bxf2+ 13. Kh1 Qd4
+14. Bg4 Qxd1 15. Raxd1 Rf7 16. Nxe7+ Nxe7 17. Be6 1-0
+

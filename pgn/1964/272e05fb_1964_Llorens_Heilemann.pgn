@@ -1,0 +1,25 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Llorens, R."]
+[Black "Heilemann, P."]
+[Result "1/2-1/2"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Botvinnik variation"]
+[HashCode "272e05fb"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Nc6 7. Nf3 Ne4
+8. Qb3 Na5 9. Qa4+ c6 10. cxd5 exd5 11. e3 Bf5 12. Bd2 Nxd2 13. Nxd2 O-O
+14. Be2 Re8 15. O-O Re6 16. Rfc1 Rh6 17. Nf1 b5 18. Qb4 Bd7 19. a4 Nb7 20.
+axb5 cxb5 21. Qb3 Rd6 22. Bf3 Be8 23. e4 Na5 24. Qc3 Rc6 25. Qd3 Rxc1 26.
+Rxc1 Rc8 27. Rxc8 Qxc8 28. exd5 Nc4 29. Qc2 a5 30. Nd2 a4 31. Be4 g6 32.
+Bd3 Nb6 33. Qxc8 Nxc8 34. Ne4 Kf8 35. Kf1 Ke7 36. Nc3 Na7 37. Ke2 f5 38.
+Na2 Kd6 39. Nb4 Nc8 40. Kd2 Nb6 41. Kc3 Bd7 42. h4 h6 43. g3 g5 44. hxg5
+hxg5 45. Be2 Be8 46. Bf1 Bd7 47. Bd3 Nxd5+ 48. Nxd5 Kxd5 49. Kb4 Kxd4 50.
+Bxb5 Bxb5 51. Kxb5 Ke4 52. Kxa4 Kf3 53. b4 Kxf2 54. b5 f4 55. gxf4 gxf4 56.
+b6 f3 57. b7 Kg2 58. b8=Q f2 59. Qg8+ Kh2 60. Qc4 Kg2 61. Qg4+ Kh2 62. Qf3
+Kg1 63. Qg3+ Kf1 64. Qxf2+ 1/2-1/2
+

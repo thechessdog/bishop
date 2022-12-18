@@ -1,0 +1,17 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Sidlo"]
+[Black "Janku"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "3f31c959"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 Nb6 9. O-O Bd7 10. Nf3 Rc8 11. a3 Be7 12. Nf4 O-O 13. Bb1 f6 14. exf6
+Rxf6 15. Re1 Bd6 16. Nh5 Rxf3 17. Qxf3 Nxd4 18. Qg4 Be5 19. Bxh7+ 1-0
+

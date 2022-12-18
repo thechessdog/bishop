@@ -1,0 +1,16 @@
+[Event "New Jersey"]
+[Site "New Jersey"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gelinas, C."]
+[Black "Sanchez"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "3a3a2faf"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Nbd7 7. Bc4 b5
+8. Bd5 Nxd5 9. Nxd5 e6 10. Nc6 Qh4 11. Nc7# 1-0
+

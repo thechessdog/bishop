@@ -1,0 +1,16 @@
+[Event "Tacoma,WA"]
+[Site "Tacoma,WA"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Bosse"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Reti (Spielmann) variation"]
+[HashCode "d2766a5b"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. b3 Nc6 3. Bb2 Bc5 4. Bxg7 Bd4 5. Bxh8 Bxh8 6. c3 d5 7. Qg4 Nf6 8.
+Qh4 dxe4 9. g4 Ne5 10. g5 Nfg4 11. Qxh7 1-0

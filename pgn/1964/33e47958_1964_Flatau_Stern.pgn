@@ -1,0 +1,25 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Flatau, L."]
+[Black "Stern, D."]
+[Result "1/2-1/2"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "33e47958"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8.
+c3 d5 9. d3 Re8 10. Re1 Bb7 11. Nbd2 Bf8 12. Nf1 Na5 13. Bc2 c5 14. Ng3 d4
+15. Nf5 dxc3 16. bxc3 c4 17. Bg5 Qb6 18. a4 cxd3 19. Bxd3 Nb3 20. Rab1 bxa4
+21. Nd2 Nd7 22. Nxb3 axb3 23. Bc4 Qg6 24. h4 Nc5 25. Qf3 Bc8 26. Nd4 h5 27.
+Nxb3 Bg4 28. Qe3 Be6 29. Bxe6 Nxe6 30. Qd3 Nxg5 31. hxg5 Qxg5 32. Na5 Re6
+33. Re3 Bc5 34. Rg3 Qh4 35. Nb7 Bb6 36. Nd6 Rxd6 37. Qxd6 Qxg3 38. Qxb6
+Qxc3 39. Qb7 Qc8 40. Qd5 Rb8 41. Ra1 Qc3 42. Rd1 a5 43. Rd3 Qc7 44. Kh2 a4
+45. Qa2 Rb4 46. Qd5 g6 47. g3 Qa7 48. Rf3 Rb3 49. Rf6 Kg7 50. Qxe5 Kh7 51.
+Qd5 Rb7 52. Rf3 Rd7 53. Qa2 Kg7 54. e5 Re7 55. Rf4 a3 56. Rf3 Rxe5 57. Qxa3
+Qb8 58. Rb3 Qe8 59. Qb2 Kh7 60. Rb8 Qe6 61. Qd4 Qf5 62. Kg2 Qf6 63. Qd8
+Qxd8 64. Rxd8 g5 65. Rd4 1/2-1/2
+

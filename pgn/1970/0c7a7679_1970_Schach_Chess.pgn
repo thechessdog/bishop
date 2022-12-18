@@ -1,0 +1,20 @@
+[Event "ACM New York"]
+[Site "ACM New York"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schach"]
+[Black "Chess 3 0"]
+[Result "0-1"]
+[ECO "D28"]
+[Opening "QGA"]
+[Variation "classical, 7.Qe2"]
+[HashCode "0c7a7679"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 Nc6 8.
+Nc3 cxd4 9. exd4 Nxd4 10. Nxd4 Qxd4 11. Rd1 Qh4 12. g3 Qg4 13. f3 Bc5+ 14.
+Kh1 Qg6 15. Be3 Bxe3 16. Qxe3 O-O 17. Qc5 Bd7 18. a3 Rfc8 19. Qb4 Bc6 20.
+Rd3 b5 21. Nxb5 axb5 22. Bxb5 Bxb5 23. Qxb5 Rcb8 24. Qc4 Rxb2 25. Rb3 Rd2
+26. Qc6 Re8 27. Re1 Red8 28. Rb7 Qd3 29. a4 Rc2 30. Qb6 Qxf3+ 31. Kg1 Qg2#
+0-1
+

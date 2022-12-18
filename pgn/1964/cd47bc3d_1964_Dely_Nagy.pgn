@@ -1,0 +1,22 @@
+[Event "Budapest-ch"]
+[Site "Budapest"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Dely, Peter"]
+[Black "Nagy, Ervin"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "cd47bc3d"]
+[Epoch "Bishop"]
+[BlackID "14913194"]
+[BlackCountry "SVK"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Kxe7 8. Qg4
+cxd4 9. Qg5+ Ke8 10. Qxg7 Rf8 11. Nb5 Qa5+ 12. Kd1 Nc6 13. Nf3 a6 14. Nd6+ Kd8
+15. Nxf7+ Kc7 16. N7g5 Re8 17. Qxh7 Qb4 18. Rb1 Kb6 19. c3 Qa4+ 20. Qc2 Qxa2
+21. Nxd4 Ndxe5 22. Be2 Bd7 23. Qb3+ Qxb3+ 24. Nxb3 Ng6 25. h5 Nf4 26. g3 Nxe2
+27. Kxe2 e5 28. h6 e4 29. h7 Ne5 30. Rh6+ Kc7 31. Rbh1 Rh8 32. Ne6+ Bxe6 33.
+Rxe6 Nd7 34. Re7 Kd6 35. Rg7 Rae8 36. Rh6+ 1-0

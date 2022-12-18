@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1951.01.01"]
+[Round "11"]
+[White "Casas, Fernando"]
+[Black "Corte, Cesar Juan"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "e737d7a0"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. e3 d6 6. Bd3 O-O 7. Ne2 Qe8 8. O-O
+Kh8 9. Ne4 Nxe4 10. Bxe4 a6 11. a3 Ba5 12. c5 f5 13. Bxc6 Qxc6 14. b4 Bb6 15.
+d5 Qxd5 16. cxb6 e5 17. Rd1 Qc6 18. Qxc6 bxc6 19. bxc7 d5 20. f4 exf4 21. Nxf4
+Ra7 22. Bb2 Re8 23. Rac1 Bd7 24. Bd4 1-0

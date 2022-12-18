@@ -1,0 +1,20 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Bednarski, Jacek B"]
+[Black "Tolush, Alexander"]
+[Result "0-1"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "e355ee52"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. g4 Bd7 10. O-O-O Rc8 11. h4 Ne5 12. Bh6 Bxh6 13. Qxh6 Rxc3 14. bxc3 Qa5
+15. Kb2 Rc8 16. Qe3 Qb6+ 17. Ka1 Qa5 18. Nb3 Qxc3+ 19. Qxc3 Rxc3 20. Be2 Nxf3
+21. Bxf3 Rxf3 22. e5 Ne8 23. Rd4 Re3 24. exd6 Nxd6 25. Kb2 Kg7 26. Rh2 Be6 27.
+g5 Nc4+ 28. Kc1 b5 29. Rd3 Re5 30. Nd4 Bg4 31. c3 Re1+ 32. Kc2 Ra1 0-1

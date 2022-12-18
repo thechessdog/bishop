@@ -1,0 +1,19 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Redeleit, F."]
+[Black "Tarnai, K."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "949a95a7"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. c5 O-O 8.
+Bd3 b6 9. b4 a5 10. Na4 Nfd7 11. b5 bxc5 12. dxc5 e5 13. c6 e4 14. cxd7
+Nxd7 15. O-O exf3 16. Re1 Bd6 17. Bb2 Qh4 18. g3 Qh5 19. Bf1 Bb7 20. Qd4 f6
+21. Rac1 Be5 22. Qh4 Qf7 23. Ba3 Rfe8 24. Nc5 Nxc5 25. Bxc5 Bb2 26. Rb1 Bc3
+27. Re3 Rxe3 28. Bxe3 d4 29. Bxd4 g5 30. Qg4 h5 0-1
+

@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Sarkany, Petra"]
+[Black "Bronstein, J."]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "5...Be7"]
+[HashCode "72b7f396"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 exd4 7. O-O dxc3
+8. Qd5 Nh6 9. Bxh6 O-O 10. Be3 Nb4 11. Qh5 Nc2 12. Nxc3 Nxa1 13. Nd5 b5 14.
+Ng5 h6 15. f4 bxc4 16. Rf3 d6 17. Rg3 hxg5 18. f5 f6 19. Rh3 1-0
+

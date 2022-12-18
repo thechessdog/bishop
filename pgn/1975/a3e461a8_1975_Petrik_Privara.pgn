@@ -1,0 +1,23 @@
+[Event "SVK-ch"]
+[Site "Hlohovec"]
+[Date "1975.??.??"]
+[Round "3"]
+[White "Petrik, Karol"]
+[Black "Privara, Igor"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "a3e461a8"]
+[Epoch "Bishop"]
+[WhiteID "14900238"]
+[BlackID "14901340"]
+[WhiteCountry "SVK"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. h3 d5 8. e5
+Ne8 9. d4 Qb6 10. a4 cxd4 11. cxd4 Bf5 12. Nc3 Nc7 13. g4 Be4 14. Bxc6 Bxf3 15.
+Qxf3 bxc6 16. Qd3 f6 17. Be3 Ne6 18. a5 Qc7 19. f4 fxe5 20. dxe5 d4 21. Qc4 Qc8
+22. Bxd4 Rxf4 23. Re4 Kh8 24. Rxf4 Nxf4 25. e6 Nxh3+ 26. Kh2 Ng5 27. Bxg7+ Kxg7
+28. Ne4 Qc7+ 29. Kh1 Nxe4 30. Qxe4 Rf8 31. Qd4+ Kg8 32. Qd7 Qg3 33. Qxe7 Qh3+
+34. Kg1 Qxg4+ 35. Kh1 Rf2 0-1

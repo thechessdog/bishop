@@ -1,0 +1,17 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Koch, Robert"]
+[Black "Starcke"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann defence"]
+[HashCode "06d9626b"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 e5 6. Qe2 Qxd4 7. Nf3 Bb4+
+8. c3 Bxc3+ 9. bxc3 Qxc3+ 10. Qd2 Qxa1 11. Bc4 Be6 12. Bxe6 fxe6 13. O-O
+Nd5 14. Ne4 Qb1 15. Nd6+ Kd7 16. Ba3 Qb6 17. Nxe5+ Kc7 18. Qg5 Nd7 19. Nxd7
+Kxd7 20. Qxg7+ Ne7 21. Nc4 1-0
+

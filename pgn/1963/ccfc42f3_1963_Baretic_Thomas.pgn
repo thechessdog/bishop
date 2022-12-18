@@ -1,0 +1,23 @@
+[Event "Hastings-B6364"]
+[Site "Hastings"]
+[Date "1963.??.??"]
+[Round "5"]
+[White "Baretic, Dragoljub"]
+[Black "Thomas, Andrew Rowland Benedick"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "ccfc42f3"]
+[Epoch "Bishop"]
+[WhiteID "920541"]
+[WhiteCountry "SRB"]
+[BlackCountry "ENG"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. d4 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bf5 11. O-O Qd7 12. Bf4 Rfd8 13. d6 exd6 14. Nb5
+Be6 15. d5 Nfxd5 16. Bg5 Nc7 17. Nxc7 Bxb3 18. Nxa8 Rxa8 19. axb3 Bxb2 20. Ra5
+d5 21. Be3 Qd6 22. Rb1 Qb4 23. Bxb6 Qxb6 24. Rxd5 Bg7 25. Rd7 Rd8 26. Rxb7 Qa5
+27. h3 Be5 28. b4 Qa4 29. Ng3 Qc2 30. Rf1 Bd4 31. Ne2 Bb6 32. Nf4 Qc4 33. g3
+Qxb4 34. Kh2 Qc5 35. h4 Rd2 36. Nh3 Qc2 37. Bg2 h6 38. Re1 Bxf2 39. Re8+ Kg7
+40. Ree7 Bxg3+ 41. Kxg3 0-1

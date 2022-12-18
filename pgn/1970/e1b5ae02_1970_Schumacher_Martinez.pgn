@@ -1,0 +1,17 @@
+[Event "Siegen olm"]
+[Site "Siegen"]
+[Date "1970.??.??"]
+[Round "19"]
+[White "Schumacher, Helmut"]
+[Black "Martinez, F."]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "e1b5ae02"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 Nf6 4. e3 e6 5. Nd2 Be7 6. Bd3 c5 7. c3 Nc6 8. f4
+cxd4 9. exd4 Nd7 10. Bxe7 Qxe7 11. Ngf3 g5 12. fxg5 hxg5 13. Qe2 e5 14.
+dxe5 Ndxe5 15. Nxe5 Qxe5 16. O-O-O Qxe2 17. Bxe2 Be6 18. Bb5 O-O-O 19. Bxc6
+bxc6 1/2-1/2
+

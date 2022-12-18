@@ -1,0 +1,25 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1950.11.01"]
+[Round "4"]
+[White "Kramer, Haije"]
+[Black "Pirc, Vasja"]
+[Result "0-1"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "eb555159"]
+[Epoch "Bishop"]
+[BlackCountry "SVN"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 f5 10. b3 Bf6 11. Bb2 Qe8 12. Qd2 d6 13. Ne1 Bxg2 14. Nxg2 Nd7 15.
+Rad1 g5 16. f4 Qg6 17. Qc2 Rae8 18. Rfe1 Bd8 19. e4 fxe4 20. Qxe4 Qxe4 21. Rxe4
+Nf6 22. Re2 g4 23. Rde1 Kf7 24. Ne3 h5 25. Nd1 c6 26. Nc3 d5 27. Ba3 Rg8 28.
+Bd6 Nd7 29. f5 exf5 30. Rxe8 Rxe8 31. Rxe8 Kxe8 32. cxd5 cxd5 33. Nxd5 Bf6 34.
+Be5 Bxe5 35. dxe5 Nxe5 36. Nf6+ Kf7 37. Nxh5 Nd3 38. Kf1 Nc1 39. Nf4 Nxa2 40.
+Nd3 Nc3 41. Ke1 Ke6 42. Kd2 Nd5 43. Nf2 Ke5 44. Kd3 b5 45. h3 gxh3 46. Nxh3 a5
+47. Ng5 Nb4+ 48. Kc3 Nc6 49. Kd3 Kd5 50. Nh7 Kc5 51. Kc3 Nd4 52. g4 fxg4 53.
+Nf6 Ne2+ 54. Kd2 Kb4 55. Kxe2 g3 56. Ne4 g2 57. Kf2 Kxb3 58. Nd6 b4 59. Nb7 a4
+60. Nc5+ Ka3 61. Kxg2 b3 62. Ne4 Kb2 63. Kf2 a3 0-1

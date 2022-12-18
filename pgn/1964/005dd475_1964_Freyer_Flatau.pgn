@@ -1,0 +1,20 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Freyer, D."]
+[Black "Flatau, L."]
+[Result "1-0"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "005dd475"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8.
+c3 d5 9. d4 Bg4 10. h3 Bxf3 11. gxf3 Re8 12. dxe5 Nxe5 13. f4 Nc4 14. e5
+Bc5 15. Bc2 Ne4 16. Bxe4 dxe4 17. Qxe4 Qh4 18. Qf3 Rad8 19. b3 Nb6 20. Nd2
+Nd5 21. Ne4 Ba7 22. Kh2 f6 23. c4 Bd4 24. Nd6 Rxe5 25. fxe5 Bxe5+ 26. Kg2
+Rxd6 27. Re1 Qd4 28. Rb1 Nc3 29. Rb2 bxc4 30. bxc4 g5 31. Rb8+ Kg7 32. Re8
+Qxc4 33. R1xe5 fxe5 34. Qf8+ Kg6 35. Rxe5 Ne4 36. Qf5+ Kh5 37. Bxg5 1-0
+

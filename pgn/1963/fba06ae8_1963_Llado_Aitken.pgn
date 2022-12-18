@@ -1,0 +1,18 @@
+[Event "Enschede zt"]
+[Site "Enschede zt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Llado, J."]
+[Black "Aitken, James"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "fba06ae8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Na5 8. Bc2
+c5 9. d4 Qc7 10. h3 Be7 11. Re1 O-O 12. Nbd2 cxd4 13. cxd4 Nc6 14. d5 Nb4 15.
+Bb1 a5 16. Nf1 Bd7 17. a3 Na6 18. Be3 Rfc8 19. Bd3 g6 20. Qc1 Qxc1 21. Rexc1
+Bd8 22. Ng3 Ne8 23. Rxc8 Rxc8 24. Rc1 Rxc1+ 25. Bxc1 Nc5 26. Bc2 f6 27. Be3 Kf7
+28. Ne1 Nc7 29. Nd3 N7a6 30. Nxc5 Nxc5 1/2-1/2

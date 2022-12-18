@@ -1,0 +1,20 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1958.03.01"]
+[Round "1"]
+[White "Sokolov, Vladimir"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "8170121f"]
+[Epoch "Bishop"]
+[BlackID "900141"]
+[BlackCountry "SRB"]
+[WhiteID "904031"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 b6 10. d5 Bxc3 11. dxe6 Ne5 12. bxc3 Nxf3+ 13. Qxf3 Bxe6 14. Bxe6
+fxe6 15. e4 1/2-1/2

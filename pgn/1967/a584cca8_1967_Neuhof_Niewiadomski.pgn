@@ -1,0 +1,16 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Neuhof, K."]
+[Black "Niewiadomski, C."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "a584cca8"]
+[Epoch "Bishop"]
+
+1. b4 Nf6 2. Bb2 e6 3. b5 d5 4. e3 c5 5. c4 Bd6 6. Nf3 Nbd7 7. d4 O-O 8.
+Nbd2 b6 9. cxd5 exd5 10. Bd3 c4 11. Bc2 Bb4 12. a3 Ba5 13. Bc1 Ne4 14. O-O
+Nc3 15. Qe1 Nxb5 16. e4 Re8 17. e5 Bc3 18. Rb1 Nxd4 19. Nxd4 Bxd4 0-1
+

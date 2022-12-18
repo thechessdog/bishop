@@ -1,0 +1,21 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Deutsch, A."]
+[Black "Formanek, Edward"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "5eba73ac"]
+[Epoch "Bishop"]
+[BlackID "2001640"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. Qe2 g6 6. d4 Be7 7. Nc3 d5 8. exd6
+Qxd6 9. Qe5 Qxe5+ 10. Nxe5 Bh4+ 11. Kd1 O-O 12. Be2 Rd8 13. Bxh5 gxh5 14. d5 f6
+15. Nf3 Bg5 16. Ke2 Na6 17. a3 Nc5 18. Bd2 Bf5 19. Rac1 h4 20. b4 Nd7 21. Nb5
+h3 22. gxh3 Be4 23. Rhg1 Bxf3+ 24. Kxf3 Ne5+ 25. Ke4 Ng6 26. Nxc7 Rac8 27. h4
+Rxc7 28. hxg5 Rc4+ 29. Kd3 Ne5+ 30. Ke2 Rxd5 31. gxf6+ Kf7 32. c3 Re4+ 33. Kd1
+Nc4 34. Rc2 Ne3+ 35. Kc1 Nxc2 36. Kxc2 Re2 37. Rd1 f3 38. c4 Rd7 0-1

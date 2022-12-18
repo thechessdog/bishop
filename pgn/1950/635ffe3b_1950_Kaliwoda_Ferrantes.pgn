@@ -1,0 +1,22 @@
+[Event "Zurigo"]
+[Site "Zurigo"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Kaliwoda"]
+[Black "Ferrantes"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "635ffe3b"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 Be7 7. Bd3 b6
+8. O-O Bb7 9. Qe2 O-O 10. Rd1 c5 11. dxc5 Bxc5 12. Bg5 Qc7 13. Ne4 Be7 14.
+c4 Rac8 15. Rac1 Rfe8 16. Bb1 Nxe4 17. Bxe7 Rxe7 18. Bxe4 Bxe4 19. Qxe4 Nf6
+20. Qe5 Rd7 21. Qxc7 Rdxc7 22. Rd4 Kf8 23. a4 Ke7 24. Ne5 Nd7 25. Nxd7 Rxd7
+26. Rxd7+ Kxd7 27. Kf1 a5 28. Ke2 Rc5 29. f4 g5 30. Ke3 gxf4+ 31. Kxf4 Rf5+
+32. Ke3 Kc6 33. Rd1 Kc5 34. b3 Rg5 35. g3 h5 36. Rd7 Rf5 37. Rd3 Rf1 38. h4
+Rf5 39. Ke2 Rf6 40. Re3 Rf5 41. Rd3 Re5+ 42. Re3 Rxe3+ 43. Kxe3 f5 44. Kf4
+Kd4 45. Kg5 e5 0-1
+

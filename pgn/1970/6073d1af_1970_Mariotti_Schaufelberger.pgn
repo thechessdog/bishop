@@ -1,0 +1,21 @@
+[Event "Lugano II"]
+[Site "Lugano II"]
+[Date "1970.03.01"]
+[Round "2"]
+[White "Mariotti, Sergio"]
+[Black "Schaufelberger, Heinz"]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Benoni defence, Hromodka system"]
+[HashCode "6073d1af"]
+[Epoch "Bishop"]
+[WhiteID "800023"]
+[WhiteCountry "ITA"]
+[BlackID "1300415"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Bd3 e6 7. Nge2 exd5 8. cxd5
+O-O 9. O-O b6 10. h3 Ba6 11. a4 Ne8 12. f4 Bxd3 13. Qxd3 a6 14. Rb1 Ra7 15. b4
+Re7 16. Be3 f5 17. exf5 gxf5 18. Bf2 Bf6 19. a5 b5 20. bxc5 dxc5 21. Bxc5 Nd6
+22. Nd4 Bxd4+ 23. Qxd4 Rfe8 24. Rf3 Rg7 25. Qd3 Ne4 26. Bd4 Rg6 27. Re3 Rd6 28.
+Nxe4 fxe4 29. Rxe4 Rxd5 30. Qg3+ 1-0

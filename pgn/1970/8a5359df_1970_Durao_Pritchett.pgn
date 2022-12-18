@@ -1,0 +1,22 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Durão, Joaquim Manuel"]
+[Black "Pritchett, Craig W"]
+[Result "0-1"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "8a5359df"]
+[Epoch "Bishop"]
+[BlackID "2400065"]
+[BlackCountry "SCO"]
+[WhiteCountry "PRT"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 Nd7 13. Nc4 Ne5 14. Ne3 f5 15. f4
+Nf7 16. exf5 gxf5 17. Rf3 Bd7 18. Bd2 a6 19. Qc2 Bd4 20. Kh1 Qf6 21. Bd3 Nh6
+22. Rg3+ Kh8 23. Ne2 Rxe3 24. Nxd4 Rxg3 25. hxg3 cxd4 26. Qxc7 Ng4 27. Qxd7
+Qh6+ 28. Kg1 Qh2+ 29. Kf1 Qxg3 30. Ke2 Qxg2+ 31. Kd1 Ne3+ 32. Ke1 Qg1+ 33. Ke2
+Qh2+ 0-1

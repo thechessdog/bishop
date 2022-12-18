@@ -1,0 +1,21 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Broden, Per"]
+[Black "Nikitin, Aleksander S"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "ae700844"]
+[Epoch "Bishop"]
+[BlackID "4103173"]
+[BlackCountry "RUS"]
+[WhiteID "1713922"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 Bd7 8. Bh3 Na5
+9. Nbd2 Ne7 10. O-O h6 11. Ne1 O-O-O 12. Ng2 Nec6 13. Ne3 g5 14. Rb1 h5 15. b4
+cxb3 16. Nxb3 Nxb3 17. Rxb3 Qc7 18. c4 Na5 19. Rc3 dxc4 20. Qc2 b5 21. Bd2 Bc6
+22. d5 g4 23. d6 Bxd6 0-1

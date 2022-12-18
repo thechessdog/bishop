@@ -1,0 +1,17 @@
+[Event "Ettelbruck"]
+[Site "Ettelbruck"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Leuthold"]
+[Black "Soultanbeieff"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "a34c58fb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 e6
+8. O-O b5 9. Bxe6 fxe6 10. Nxe6 Qb6 11. Nd5 Nxd5 12. Bd8 Qa7 13. exd5 Ne5
+14. Bh4 Bxe6 15. dxe6 Be7 16. Bg3 O-O 17. Kh1 Qc5 0-1
+

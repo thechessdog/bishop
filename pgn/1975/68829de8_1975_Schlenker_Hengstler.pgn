@@ -1,0 +1,19 @@
+[Event "Donau"]
+[Site "Donau"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Schlenker, R."]
+[Black "Hengstler, R."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Breyer gambit"]
+[HashCode "68829de8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Qf3 Nc6 4. c3 d6 5. d4 g5 6. Bc4 Qf6 7. g3 Be6 8.
+Bb5 Bd7 9. gxf4 gxf4 10. Bxf4 Nge7 11. Nd2 Rg8 12. Bg3 Qg5 13. Bc4 O-O-O
+14. Qf2 Bh6 15. Ngf3 Qh5 16. d5 Nb8 17. Be2 Bg4 18. Nd4 Rde8 19. Nc4 Bxe2
+20. Nxe2 Nxd5 21. Qd4 Nb6 22. Nxd6+ cxd6 23. Qxd6 Na6 24. Qd3 Rd8 25. Nd4
+Nc5 26. Qf1 Nxe4 27. Nf5 Bd2# 0-1
+

@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "1"]
+[White "Piket, Jeroen"]
+[Black "Prins, Lodewijk"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "King's pawn game"]
+[HashCode "00f5be84"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. c3 h6 5. d4 Qf6 6. d5 Nb8 7. Bd3 Ne7 8. Be3 g5
+9. h4 g4 10. Nfd2 h5 11. g3 Bh6 12. Nf1 Nd7 13. Nbd2 Qg6 14. Bxh6 Qxh6 15. Ne3
+O-O 16. b4 a5 17. a4 c6 18. dxc6 bxc6 19. O-O Bb7 20. Nb3 axb4 21. cxb4 Rad8
+22. b5 cxb5 23. axb5 d5 24. exd5 Nxd5 25. Nxd5 Bxd5 26. Bh7+ Qxh7 27. Qxd5 Qg7
+28. Rfe1 Rfe8 29. Qc6 e4 30. Qc2 Ne5 31. Rxe4 Nf3+ 32. Kg2 Rxe4 33. Qxe4 Qxa1
+34. Nxa1 Rd1 0-1

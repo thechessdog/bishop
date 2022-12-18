@@ -1,0 +1,20 @@
+[Event "Quito"]
+[Site "Quito"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Yepez, Trotzky"]
+[Black "Idrovo, Franklin"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "e86c6f1d"]
+[Epoch "Bishop"]
+[WhiteID "3600181"]
+[BlackID "3600157"]
+[WhiteCountry "ECU"]
+[BlackCountry "ECU"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. g3 Be7 7. Bg2 a6 8. O-O
+O-O 9. Re1 e5 10. Nf5 d6 11. Nxe7+ Qxe7 12. Bg5 Be6 13. Nd5 Bxd5 14. exd5 Nd4
+15. Qxd4 1-0

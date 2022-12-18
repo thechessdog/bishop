@@ -1,0 +1,20 @@
+[Event "FRG"]
+[Site "FRG"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Herberg"]
+[Black "Bareth"]
+[Result "0-1"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "f1a7d9d4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 e5 6. d5 O-O 7. Be3 Nh5 8.
+Nge2 f5 9. exf5 gxf5 10. Qd2 f4 11. Bf2 a6 12. O-O-O b5 13. g3 bxc4 14.
+gxf4 Nd7 15. Bh3 Nxf4 16. Nxf4 exf4 17. Be6+ Kh8 18. Rhg1 Ne5 19. Bd4 Bxe6
+20. dxe6 c6 21. Ne4 Qe7 22. Bxe5 Bxe5 23. Ng5 Rab8 24. Nf7+ Rxf7 25. exf7
+Qxf7 26. Qa5 Bxb2+ 27. Kc2 Be5 28. Kd2 c3+ 29. Ke1 c2 30. Rc1 Qc4 31. Qc7
+Qc3+ 32. Kf2 Bd4+ 33. Kg2 Rg8+ 34. Kh3 Qxf3+ 35. Rg3 Rxg3+ 0-1
+

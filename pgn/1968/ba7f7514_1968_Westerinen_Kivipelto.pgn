@@ -1,0 +1,20 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Kivipelto, Kaj"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "ba7f7514"]
+[Epoch "Bishop"]
+[BlackID "500399"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. O-O
+b5 9. f4 b4 10. Na4 Bb7 11. e5 Nd5 12. Qg4 O-O 13. Bxd5 Bxd5 14. f5 Kh8 15.
+fxe6 dxe5 16. Nf5 g6 17. Nxe7 Qxe7 18. Bh6 Bxe6 19. Bxf8 Qa7+ 20. Bc5 1-0

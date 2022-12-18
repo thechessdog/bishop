@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Baluev"]
+[Black "Lehmann, W."]
+[Result "0-1"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "0779f506"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f5 8.
+Qg3 cxd4 9. cxd4 Ne7 10. Bd2 O-O 11. Bd3 Nbc6 12. Nf3 Bd7 13. h4 f4 14. Qg4
+Nxd4 15. Bxh7+ Kxh7 16. Qh5+ Kg8 17. Nxd4 Rf5 18. Nxf5 Qxe5+ 19. Be3 Qc3+
+20. Ke2 Nxf5 0-1
+

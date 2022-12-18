@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Gobel, W."]
+[Black "Leppek, E."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich variation"]
+[HashCode "26c703ee"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Bc4 c6 6. exd6 Bxd6 7. O-O O-O
+8. Qd4 Bf5 9. Nc3 Nxc3 10. bxc3 Bxc2 11. Bg5 Qc7 12. Rac1 c5 13. Qg4 Bg6
+14. Nh4 Kh8 15. f4 Nc6 16. Rf3 Be4 17. Rh3 Be7 18. f5 Bxg5 19. Qxg5 Qe7 20.
+Ng6+ 1-0
+

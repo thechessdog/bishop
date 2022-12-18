@@ -1,0 +1,17 @@
+[Event "corr BdF-Th"]
+[Site "corr BdF-Th"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kremer, H."]
+[Black "Braune, P."]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "bb7db834"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. g3 Nc6 6. Bg2 Bg4 7. d3 Bc5
+8. Nbd2 Qe7 9. c4 O-O-O 10. a3 Rxd3 11. b4 Bd4 12. Ra2 Qe3 13. Rf1 Bxf3 14.
+Bxf3 Ne5 15. Bg2 Bc3 0-1
+

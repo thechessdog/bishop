@@ -1,0 +1,19 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Myhre, Erling"]
+[Black "Lorson, Gerhard"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "787bfe26"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nc3 O-O 6. Nf3 Nbd7 7. O-O e5 8. e4
+Re8 9. h3 exd4 10. Nxd4 Nc5 11. Re1 a5 12. Qc2 Nfxe4 13. Nxe4 Bxd4 14. Bg5 Qd7
+15. Nf6+ Bxf6 16. Bxf6 Re6 17. Qc3 Qe8 18. Bd5 Rxe1+ 19. Rxe1 Be6 20. Bd4 c6
+21. Bxc5 dxc5 22. Bxe6 fxe6 23. Qf6 Qf7 24. Rxe6 Qxf6 25. Rxf6 Rd8 26. Rf3 a4
+27. Ra3 Rd2 28. b3 b5 29. Kf1 Kg7 30. Ke1 Rc2 31. Kf1 Kh6 32. Ke1 Kg7 33. Kf1
+g5 34. Ke1 h6 35. Kf1 Rc3 36. Ke2 h5 37. g4 h4 38. f3 Kf6 0-1

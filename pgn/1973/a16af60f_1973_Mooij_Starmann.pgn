@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Mooij, W."]
+[Black "Starmann, W."]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's lesser variation"]
+[HashCode "a16af60f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 b6 9. h4 e5 10. h5 exd4 11. hxg6 hxg6 12. cxd4 Qe7 13. Qb3 Re8 14.
+Bg5 Bf6 15. Bxf6 Qxf6 16. Bxf7+ 1-0
+

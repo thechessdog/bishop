@@ -1,0 +1,19 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Hunter, C."]
+[Black "Engel, K."]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "ca7f64e9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Nc6
+8. Qe2 d6 9. Be3 Bxe3 10. Qxe3 Nf6 11. Rd1 O-O 12. Nc3 Qc7 13. Be2 b5 14.
+Rac1 Rd8 15. a4 bxa4 16. Nxa4 Rb8 17. Nc3 e5 18. Bc4 Nb4 19. Nd2 d5 20.
+exd5 Nbxd5 21. Nxd5 Nxd5 22. Bxd5 Rxd5 23. Nc4 Rxd1+ 24. Rxd1 Bg4 25. f3
+Qxc4 26. Qxe5 Rc8 27. fxg4 Qxc2 1/2-1/2
+

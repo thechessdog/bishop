@@ -1,0 +1,22 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Dely, Peter"]
+[Black "Csom, Istvan"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "fefb9939"]
+[Epoch "Bishop"]
+[BlackID "700100"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Nf3 b6 6. Bd2 Nc6 7. Bd3 h6 8. Ne2
+Bb7 9. Bxb4 Nxb4 10. h4 Ne7 11. Qd2 a5 12. Nf4 Nxd3+ 13. cxd3 Qa4 14. Nh5 O-O-O
+15. Qc3 Rhg8 16. a3 Qc6 17. Qd2 Qb5 18. Rc1 Nc6 19. O-O Rd7 20. Rc3 Qa4 21. Qe3
+Na7 22. Rfc1 Kb8 23. R3c2 Re7 24. Qf4 Qe8 25. Nf6 gxf6 26. exf6 Rd7 27. Rxc7 e5
+28. Nxe5 Rxc7 29. Rxc7 Kxc7 30. Nxf7+ Kd7 31. Ne5+ Ke6 32. f7 Qf8 33. fxg8=Q+
+Qxg8 34. Qxh6+ Ke7 35. Qxb6 Qb8 36. h5 Nc8 37. Nc6+ Kf7 38. Qxb7+ 1-0

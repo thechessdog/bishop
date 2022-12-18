@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Grassia, A."]
+[Black "Cillo, A."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "c306abf0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. Bxf6 gxf6 11. Be2 Bg7 12. f5 Bh6 13. Qd3 Qc5 14.
+Bh5 Nc6 15. Nxe6 Bxe6 16. fxe6 Qxh5 17. Nd5 Kf8 18. Rxb7 fxe6 19. Nxf6 Qa5+
+20. c3 Bf4 21. Rf1 Be5 22. Nd5+ Ke8 23. Qc4 Rc8 24. Nf6+ Bxf6 25. Qxe6+ Ne7
+26. Qd7+ 1-0
+

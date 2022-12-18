@@ -1,0 +1,17 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Buchal, Stephan"]
+[Black "Auchenberg, Per"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Riga variation"]
+[HashCode "e2e0885e"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Nxe4 7. Re1 d5 8.
+Nxd4 Be6 9. Nxc6 Qd7 10. c4 bxc6 11. cxd5 Bxd5 12. Nc3 Bb4 13. f3 f5 14. fxe4
+fxe4 15. Qh5+ Kd8 16. Nxd5 Bxe1 17. Bg5+ Kc8 18. Bxc6 1-0

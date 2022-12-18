@@ -1,0 +1,21 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Stabenow, J."]
+[Black "Donath, R."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "37e21909"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 cxd4 6. O-O Qb6 7. Nbd2 f6 8.
+Qe2 Nge7 9. Nb3 Bd7 10. Rd1 O-O-O 11. a4 Ng6 12. Bxg6 hxg6 13. a5 Qc7 14.
+Bf4 g5 15. Bg3 g4 16. Nh4 Rh6 17. exf6 e5 18. fxg7 Bd6 19. Qd3 Ne7 20. c3
+dxc3 21. Rdc1 Bb4 22. Qe3 Re6 23. bxc3 Bd6 24. Qxa7 Bb5 25. Qe3 Kb8 26. Nd4
+exd4 27. Qxe6 Bxg3 28. hxg3 dxc3 29. Nf5 Ng8 30. Nd4 Ba6 31. Qxg4 Ka8 32.
+Qf4 Qe7 33. Rxc3 Qxg7 34. Rac1 Qd7 35. Rc7 Qe8 36. Qf5 Kb8 37. Ne6 Ne7 38.
+Qf4 1-0
+

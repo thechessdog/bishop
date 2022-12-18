@@ -1,0 +1,20 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos B"]
+[Date "1975.01.01"]
+[Round "10"]
+[White "Gutierrez, Jose Antonio"]
+[Black "Rodriguez Cespedes, Amador"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "a651473a"]
+[Epoch "Bishop"]
+[BlackID "3500039"]
+[BlackCountry "ESP"]
+[WhiteCountry "COL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qb6 13. Bf4 Nc5 14. Be2
+Nbd7 15. Rhf1 Rc8 16. Bg3 b4 17. Nb1 Be4 18. Nd2 Nd3+ 19. Kb1 Qxd4 20. Bxd3
+Rxc2 21. Nc4 Rxb2+ 22. Nxb2 Bxd3+ 23. Rxd3 Qxg4 24. Rfd1 Qe4 25. Ka1 Qc6 0-1

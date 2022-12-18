@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Littleton, Michael"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "8fd0b33a"]
+[Epoch "Bishop"]
+[WhiteID "1400134"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6 8.
+O-O O-O 9. Nc3 Bg4 10. Bxc6 bxc6 11. Qd3 Re8 12. Ne5 Bxe5 13. dxe5 Qb6+ 14. Kh1
+Rad8 15. Na4 Qa5 16. Qc3 Qxa4 17. exf6 Be2 18. Re1 Qe4 19. Bd2 f3 20. Kg1 Qg4
+0-1

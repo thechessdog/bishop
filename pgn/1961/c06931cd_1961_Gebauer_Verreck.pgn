@@ -1,0 +1,18 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Gebauer, Peter"]
+[Black "Verreck, W."]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "c06931cd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 6. Nc3 d6 7. exd6 Bxd6
+8. Qe2+ Kf8 9. O-O Nc6 10. Kh1 Bf5 11. d4 Qf6 12. Nd5 Qh6 13. g3 Re8 14.
+Qg2 Ne3 15. Nxe3 Bh3 16. Qg1 fxe3 17. Re1 Bg4 18. Rxe3 Rxe3 19. Nh4 Qxh4
+20. Qxe3 Qf6 0-1
+

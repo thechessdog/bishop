@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ahlers, K."]
+[Black "Dahlhaus, F."]
+[Result "1-0"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "c6b42e26"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. g3 Bd6 13. Re1 f5 14. f4
+g5 15. d4 gxf4 16. Bxd5+ cxd5 17. Bxf4 Bxf4 18. gxf4 Qh4 19. Rf1 Ra7 20.
+Nd2 Rg7+ 21. Kh1 Rg4 22. Qf3 Re8 23. a4 Kh8 24. axb5 axb5 25. Qf2 Qh6 26.
+Rae1 Reg8 27. Qe3 b4 28. Qe5+ R8g7 29. Nf3 Qh3 30. Rf2 h6 31. cxb4 Bd7 32.
+b5 Rg2 33. Ref1 1-0
+

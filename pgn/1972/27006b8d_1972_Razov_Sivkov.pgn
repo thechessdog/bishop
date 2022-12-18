@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Razov"]
+[Black "Sivkov, A."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "27006b8d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. exf5 Bxf5 12. Bd3 e4 13. Bxe4 Bxe4
+14. Qe2 f5 15. f3 Nd4 16. Qe3 Qh4+ 17. Kd1 Bh6 18. Qe1 Qg5 19. c3 Qxg2 0-1
+

@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Mevel, Alberic"]
+[Black "Tarjan, James"]
+[Result "1-0"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "be8f7eb5"]
+[Epoch "Bishop"]
+[BlackID "2000180"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. b3 O-O 7. Bb2 c5 8. O-O
+cxd4 9. exd4 d5 10. Nbd2 Nc6 11. Rc1 Rc8 12. Qe2 Bd6 13. Ne5 dxc4 14. bxc4 Bxe5
+15. dxe5 Nd7 16. Rfd1 Ncxe5 17. Ne4 Nxd3 18. Rxd3 Bxe4 19. Qxe4 Nf6 20. Qf3 Qc7
+21. Bxf6 gxf6 22. Qxf6 Rfd8 23. Rg3+ Kf8 24. Rg7 Rb8 25. Rxh7 1-0

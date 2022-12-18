@@ -1,0 +1,19 @@
+[Event "Beverwijk-D"]
+[Site "Beverwijk-D"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Van Minnen, J."]
+[Black "Nowak, A."]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "9b15cf70"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. f4 a6 9. O-O-O Nxd4 10. Qxd4 Qa5 11. e5 dxe5 12. fxe5 Nd5 13. Bxe7 Nxe7
+14. Bc4 O-O 15. Rhf1 Nc6 16. Qh4 Nxe5 17. Bd3 Nxd3+ 18. Rxd3 f5 19. Qe7 Qe5
+20. Rfd1 Qf6 21. Qc7 e5 22. Nd5 Qg5+ 23. Kb1 Be6 24. Rg3 Qh6 25. Rh3 Qg5
+26. Rg3 Qh6 27. Ne7+ Kh8 28. Ng6+ Kg8 29. Nxf8 1-0
+

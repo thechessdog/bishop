@@ -1,0 +1,15 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Ungr, J."]
+[Black "Bergqvist, Allan"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "861a19e7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. e5 Bb7 11. Qh3 Nd5 12. Nxe6 1-0

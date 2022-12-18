@@ -1,0 +1,19 @@
+[Event "corr DDR-PV"]
+[Site "corr DDR-PV"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Wrobel"]
+[Black "Kuhn"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti v Dutch"]
+[HashCode "ebac2a14"]
+[Epoch "Bishop"]
+
+1. Nf3 f5 2. d4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. e4 fxe4 7. Nxe4
+O-O 8. Bd3 Nc6 9. c3 b6 10. Qc2 h6 11. O-O-O Bb7 12. h4 Be7 13. Rh3 Rf4 14.
+Qd2 Qf8 15. Kb1 Nd8 16. Qe2 Nf7 17. Nfg5 Nxg5 18. hxg5 Bxe4 19. Bxe4 Rxf2
+20. Bh7+ Kh8 21. Qe4 Bxg5 22. Rf3 Rxf3 23. gxf3 d5 24. Qxe6 Kxh7 25. Qxd5
+Re8 26. Rh1 Re2 27. Qxg5 Re1+ 28. Kc2 Rxh1 29. Qd5 Rf1 30. Qe4+ Kh8 31. Qd5
+Qxf3 0-1
+

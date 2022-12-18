@@ -1,0 +1,17 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Antoshin, Vladimir S"]
+[Black "Rabar"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "317278a5"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. g3 d5 2. Bg2 g6 3. f4 Bg7 4. Nf3 Nd7 5. d3 e5 6. Nc3 Ne7 7. O-O O-O 8. fxe5
+Nxe5 9. Nxe5 Bxe5 10. Bh6 Bg7 11. Bxg7 Kxg7 12. Qd2 c6 13. e4 d4 14. Ne2 Bg4
+15. Bf3 Bxf3 16. Rxf3 c5 17. Qg5 Rc8 18. Nf4 Ng8 19. Qe5+ Kh6 20. g4 Qf6 21.
+Ne6 1-0

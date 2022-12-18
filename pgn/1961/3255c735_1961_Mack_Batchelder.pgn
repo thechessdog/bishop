@@ -1,0 +1,19 @@
+[Event "match"]
+[Site "match"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Mack, A."]
+[Black "Batchelder, C."]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "QGD"]
+[HashCode "3255c735"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 c6 5. e3 Nbd7 6. cxd5 exd5 7. Bd3 Be7
+8. Nc3 h6 9. Bf4 O-O 10. O-O Re8 11. Qc2 Nf8 12. h3 Nh5 13. Bh2 Bd6 14. a3
+Bxh2+ 15. Nxh2 Ne6 16. b4 a6 17. a4 Ng5 18. b5 Nxh3+ 19. gxh3 Bxh3 20. Kh1
+Bxf1 21. Rxf1 axb5 22. axb5 Qh4 23. Rg1 Nf6 24. bxc6 bxc6 25. Na4 Ne4 26.
+Bxe4 Qxe4+ 27. Qxe4 dxe4 28. Nc5 Ra2 29. Ng4 Kf8 30. Kg2 f6 31. Rb1 h5 32.
+Nh2 f5 33. Rb6 f4 34. Kg1 Ra1+ 35. Nf1 f3 36. Rxc6 Rea8 37. Nxe4 Rxf1+ 0-1
+

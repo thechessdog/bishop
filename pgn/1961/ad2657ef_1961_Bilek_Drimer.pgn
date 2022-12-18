@@ -1,0 +1,18 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Drimer, Dolfi"]
+[Result "1-0"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "ad2657ef"]
+[Epoch "Bishop"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 d6 4. Bg2 h5 5. h3 g6 6. d3 Bg7 7. f4 e5 8. Nf3 Be6
+9. O-O Qd7 10. Ng5 h4 11. g4 exf4 12. Ne2 Bf6 13. Nxe6 fxe6 14. Nxf4 Nge7 15.
+c3 Bg7 16. Qb3 Nd8 17. Be3 e5 18. Nd5 Nxd5 19. exd5 Bh6 20. Bxh6 Rxh6 21. Rf6
+Qg7 22. Rxd6 Qe7 23. Qb5+ 1-0

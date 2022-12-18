@@ -1,0 +1,18 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Boleslavsky, Isaac"]
+[Black "Taimanov, Mark"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "e1c56b73"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 b6 8. Bg5
+Bb7 9. e3 Be7 10. Be2 h6 11. Bh4 d5 12. Bxf6 Bxf6 13. cxd5 Bxc3+ 14. Qxc3 Bxd5
+15. O-O 1/2-1/2

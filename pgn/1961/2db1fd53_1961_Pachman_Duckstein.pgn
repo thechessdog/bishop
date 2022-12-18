@@ -1,0 +1,17 @@
+[Event "Graz"]
+[Site "Graz"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Pachman, Ludek"]
+[Black "Dueckstein, Andreas"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "2db1fd53"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 Bg4 5. d5 Bxf3 6. exf3 Ne5 7. Bf4 Nd3+ 8.
+Bxd3 cxd3 9. O-O Nf6 10. Qb3 g5 11. Bxg5 Bg7 12. Rad1 O-O 13. Rxd3 b6 14. Re1
+Kh8 15. Ne4 Nd7 16. Rde3 f6 17. Bf4 Rc8 18. Ng3 1-0

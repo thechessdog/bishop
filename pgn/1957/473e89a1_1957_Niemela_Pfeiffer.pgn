@@ -1,0 +1,21 @@
+[Event "Sofia zt"]
+[Site "Sofia zt"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Niemela, Ilmari"]
+[Black "Pfeiffer, Gerhard"]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "473e89a1"]
+[Epoch "Bishop"]
+[BlackID "1649027"]
+[BlackCountry "AUT"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 c6 7. Rc1 a6 8. cxd5
+cxd5 9. Bd3 b5 10. O-O Bb7 11. Ne5 O-O 12. Bb1 Nxe5 13. dxe5 Nd7 14. Bf4 Rc8
+15. a3 Nb6 16. Qg4 Re8 17. Bh6 g6 18. h4 Bxh4 19. f4 Nc4 20. Rf3 d4 21. Rh3
+Nxe3 22. Rxe3 dxe3 23. f5 Bf2+ 24. Kh2 Rc4 25. Ne4 Bxe4 26. Rxc4 exf5 27. Qf4
+bxc4 28. Bxe4 fxe4 29. Bg5 Qd1 0-1

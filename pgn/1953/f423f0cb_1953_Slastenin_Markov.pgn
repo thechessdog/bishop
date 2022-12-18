@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Slastenin, Petr"]
+[Black "Markov, Yuri"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "f423f0cb"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Nxe4 6. Qe2 f5 7. Ng5 Be7
+8. Nxe4 fxe4 9. Qxe4 O-O 10. Bd3 g6 11. Bh6 Re8 12. O-O d6 13. Nf4 Bf6 14.
+Bc4+ Kh8 15. Nxg6+ hxg6 16. Qxg6 Ne5 17. Bg7+ 1-0
+

@@ -1,0 +1,15 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Lopez Esnaola, B."]
+[Black "Catlak, D."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "2148f077"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. dxc5 Qa5 7. Qd2
+Qxc5 8. Bb5+ Nc6 9. O-O-O Bg4 10. Nd5 O-O-O 11. Qf4 Bh6 12. Qxh6 Bxd1 0-1
+

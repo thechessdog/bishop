@@ -1,0 +1,17 @@
+[Event "Mulcahy mem"]
+[Site "Mulcahy mem"]
+[Date "1974.01.01"]
+[Round "6"]
+[White "O'Connor, E."]
+[Black "Coveney, Maurice J."]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "7c0f122a"]
+[Epoch "Bishop"]
+[BlackID "2505940"]
+[BlackCountry "IRL"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 f5 5. Qh5+ Ke7 6. Qf7+ Kd6 7. Bc4 Nh6 8.
+Qd5+ Ke7 9. Ng6+ hxg6 10. Qe5+ Kd7 11. Qe6# 1-0

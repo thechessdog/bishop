@@ -1,0 +1,17 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Jansma, J."]
+[Black "Pojedziniec, W."]
+[Result "0-1"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed (with ...d6)"]
+[HashCode "653aa9cd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. a4 b4 10. a5 bxc3 11. dxc3 Be6 12. Bc2 Nh5 13. Ng5 Bxg5 14. Qxh5
+Bxc1 15. Rxc1 Ne7 16. Nd2 Ng6 17. g3 Qc8 18. f3 Qb7 0-1
+

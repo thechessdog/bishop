@@ -1,0 +1,18 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Pehnec, T."]
+[Black "Kreckler, Warren"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "0fee4f8d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bh4 Qc7 10. O-O-O Nbd7 11. f5 e5 12. Nb3 b5 13. a3 Bb7 14. Kb1 Rc8 15.
+Bd3 Nb6 16. g4 Nc4 17. Bxc4 bxc4 18. Nd2 Ba8 19. Rhg1 Rb8 20. Qe2 d5 21. exd5
+Bxa3 22. Nxc4 Bxb2 23. Na4 Nxd5 24. Rxd5 Bd4+ 25. Ncb2 Bxd5 26. Re1 Rxb2+ 27.
+Nxb2 Qc3 0-1

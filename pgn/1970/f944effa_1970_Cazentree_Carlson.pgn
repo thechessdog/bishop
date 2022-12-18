@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Cazentree"]
+[Black "Carlson, Curtis"]
+[Result "1-0"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "f944effa"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Bg2 g6 7. Nc3 Bg7 8. Nf3
+O-O 9. O-O Re8 10. Re1 Bg4 11. Bf4 Na6 12. e4 Nc7 13. Qb3 b5 14. Nd2 Nh5 15.
+Nxb5 1-0

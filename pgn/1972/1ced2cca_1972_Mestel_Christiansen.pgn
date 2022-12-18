@@ -1,0 +1,19 @@
+[Event "Schilde"]
+[Site "Schilde"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Mestel, A Jonathan"]
+[Black "Kristiansen, Erling"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "1ced2cca"]
+[Epoch "Bishop"]
+[WhiteID "400122"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Nge7 7. d4 cxd4 8.
+cxd4 exd4 9. e5 O-O 10. Bg5 Qb6 11. Na3 Nf5 12. Qd2 d6 13. exd6 Be6 14. g4 Nxd6
+15. Bxc6 Qxc6 16. Nxd4 Qa4 17. Nxe6 Qxg4+ 18. Kh1 fxe6 19. Qxd6 Qxg5 20. Qxe6+
+Kh8 21. Qe2 Qd5+ 22. Kg1 Bd4 23. Red1 Rxf2 24. Rxd4 Qg2# 0-1

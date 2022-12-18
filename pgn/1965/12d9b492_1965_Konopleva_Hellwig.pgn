@@ -1,0 +1,17 @@
+[Event "Piotrkow Trybunalski"]
+[Site "Piotrkow Trybunalski"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Konopleva"]
+[Black "Hellwig"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "12d9b492"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. cxd5 exd5 6. Qc2 O-O 7. e3 Re8
+8. Bd3 Nbd7 9. h3 c6 10. O-O-O Ne4 11. Bxe4 dxe4 12. Bf4 f5 13. Nb5 Nf6 14.
+Nc7 Nd5 15. Nxa8 Nxf4 16. exf4 Be6 17. d5 Bf7 18. dxc6 Qxa8 19. c7 1-0
+

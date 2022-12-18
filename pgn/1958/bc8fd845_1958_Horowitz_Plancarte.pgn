@@ -1,0 +1,16 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Horowitz, Israel Albert"]
+[Black "Plancarte"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "bc8fd845"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d5 5. Nc3 dxe4 6. d5 Ne5 7. Qa4+ Bd7 8.
+Qxe4 Ng6 9. Nb5 Nf6 10. Nd6# 1-0

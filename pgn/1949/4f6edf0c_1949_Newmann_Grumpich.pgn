@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Newmann, R."]
+[Black "Grumpich, V."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "4f6edf0c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5
+8. O-O O-O 9. Nxc6 bxc6 10. Bxc6 Ba6 11. Bxa8 Bxf1 12. Bxd5 Bc4 13. Bg5
+Bxf2+ 14. Kh1 Ng3+ 0-1
+

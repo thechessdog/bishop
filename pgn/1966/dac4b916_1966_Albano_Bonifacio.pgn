@@ -1,0 +1,21 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Albano"]
+[Black "Bonifacio"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "dac4b916"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bd3 O-O 6. O-O c5 7. dxc5 dxc5
+8. e5 Nfd7 9. Bf4 Nc6 10. Re1 e6 11. Bb5 Qc7 12. Bxc6 Qxc6 13. Qd2 Nb6 14.
+Bh6 Nd5 15. Bxg7 Kxg7 16. Re4 Nxc3 17. Rh4 h5 18. Rxh5 gxh5 19. Qg5+ Kh7
+20. Qxh5+ Kg7 21. Qg5+ Kh7 22. Qh5+ Kg7 23. Qg4+ Kh6 24. Qf4+ Kg7 25. Qf6+
+Kg8 26. Ng5 Ne4 27. Qh6 Nxg5 28. Qxg5+ Kh7 29. Qh5+ Kg7 30. Qg5+ Kh7 31.
+Qh4+ Kg7 32. Rd1 Qd5 33. Qg5+ Kh7 34. Rxd5 exd5 35. f4 Bd7 36. f5 Rae8 37.
+f6 1-0
+

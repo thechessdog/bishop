@@ -1,0 +1,19 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schmid, H."]
+[Black "Heinrich, E."]
+[Result "1-0"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "bc2c2a81"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Nc6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bd3 Qa5 12. Kb1 b4 13. Ne2 O-O 14. h3
+Ne8 15. Bxe7 Nxe7 16. e5 Nd5 17. Ng5 f5 18. g4 h6 19. Nf3 dxe5 20. Nxe5 Bb5
+21. Bxf5 Rxf5 22. gxf5 Rc8 23. fxe6 Nef6 24. Nd7 Bc4 25. Nxf6+ gxf6 26.
+Rhg1+ Kh8 27. b3 Qa3 28. f5 1-0
+

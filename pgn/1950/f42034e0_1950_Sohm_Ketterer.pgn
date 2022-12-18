@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Sohm, E."]
+[Black "Ketterer, C."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "f42034e0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 exf3 5. Nxf3 Bg4 6. Be2 e6 7. Be3 Bb4
+8. O-O Nc6 9. a3 Ba5 10. Na4 O-O 11. b4 Bb6 12. Nxb6 cxb6 13. Rc1 Nd5 14.
+Bd2 Bxf3 15. Rxf3 Nxd4 16. Rg3 Nxe2+ 17. Qxe2 g6 18. Bg5 Qc7 19. Rf1 Rac8
+20. Bh6 Nc3 21. Qe3 Rfd8 22. Rgf3 Rd7 23. Qxe6 Re7 24. Rxf7 Rxf7 25. Rxf7
+Ne2+ 26. Kh1 Nd4 27. Rf8# 1-0
+

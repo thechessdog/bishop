@@ -1,0 +1,16 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Brix, Gunnar"]
+[Black "Engelhardt"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "cb30812a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nc3 Bb4 5. Qd3 d5 6. cxd5 Bf5 7. Qb5+ Nc6
+8. dxc6 Nxc3 0-1
+

@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Klaman"]
+[Black "Mikenas"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "9cc22614"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2 e6 5. Nf4 h6 6. c3 Qb6 7. Nd2 c5 8. Nf3
+Nc6 9. Bd3 Bxd3 10. dxc5 Bxc5 11. Nxd3 a5 12. Qa4 Bf8 13. b4 Rc8 14. Be3
+Qd8 15. O-O axb4 16. cxb4 Ra8 17. Qb5 Qd7 18. a4 f5 19. Bc5 Nge7 20. Bd6
+Nd8 21. Nd4 Nec6 22. Nc5 Qf7 23. Rfe1 Ra7 24. Ncxe6 Nxe6 25. Nxc6 bxc6 26.
+Qb8+ Nd8 27. e6 Qf6 28. Qxa7 Bxd6 29. Qd7+ Kf8 30. Qxd6+ Qe7 31. Qe5 1-0
+

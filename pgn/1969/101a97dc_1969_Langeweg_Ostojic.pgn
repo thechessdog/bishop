@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1969.01.01"]
+[Round "15"]
+[White "Langeweg, Kick"]
+[Black "Ostojic, Predrag"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "101a97dc"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O O-O 7. b3 c5 8. Bb2 d5
+9. Qe2 Nbd7 10. Nc3 cxd4 11. exd4 1/2-1/2

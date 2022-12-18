@@ -1,0 +1,18 @@
+[Event "Alkmaar"]
+[Site "Alkmaar"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Wichers"]
+[Black "Stegeman"]
+[Result "1/2-1/2"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "37d477e4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 Bb6 6. Bxc6 dxc6 7. Nxe5
+Nxe4 8. Qe2 O-O 9. Qxe4 f6 10. Nxc6 bxc6 11. Qxc6 Ba6 12. Na3 f5 13. Bf4
+Re8+ 14. Be5 Rxe5+ 15. dxe5 Bxf2+ 16. Kxf2 Qd2+ 17. Kg3 Qg5+ 18. Kf2 Qd2+
+19. Kg3 Qg5+ 1/2-1/2
+

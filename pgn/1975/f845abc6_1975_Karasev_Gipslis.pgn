@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Karasev, Vladimir I"]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "f845abc6"]
+[Epoch "Bishop"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 Re8 6. a3 Bf8 7. e4 d5 8. e5
+Nfd7 9. cxd5 exd5 10. f4 c5 11. g3 cxd4 12. Nxd4 Nc6 13. Bg2 Ndxe5 14. fxe5
+Rxe5+ 15. Nce2 Qb6 16. Nf3 Re8 17. Kf1 Bf5 18. Nh4 Bg4 19. Bf3 Bh3+ 20. Bg2 Bg4
+21. Bf3 Bh3+ 22. Bg2 Bg4 23. Bf3 Bh3+ 24. Bg2 1/2-1/2

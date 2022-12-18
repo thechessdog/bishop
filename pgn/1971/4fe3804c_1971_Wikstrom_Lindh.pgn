@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Wikstrom, B."]
+[Black "Lindh, B."]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "4fe3804c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 c5 7. O-O b6 8. a3
+Bxc3 9. bxc3 Ba6 10. cxd5 c4 11. Bb1 exd5 12. Nd2 Re8 13. Re1 Ne4 14. Nxe4
+dxe4 15. f3 Bb7 16. Ra2 Nd7 17. Rf1 Nf6 18. Bd2 b5 19. Qe1 Re6 20. Qh4 Qe8
+21. f4 Ra6 22. Kh1 Qe7 23. Bc1 Re8 24. g4 Nd5 25. Qe1 f5 26. g5 Bc6 27. Rg1
+Bd7 28. Ra1 Rb8 29. Bc2 b4 30. cxb4 Nxb4 31. Rb1 1-0
+

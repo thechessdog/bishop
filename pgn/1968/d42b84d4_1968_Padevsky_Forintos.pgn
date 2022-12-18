@@ -1,0 +1,20 @@
+[Event "Monaco"]
+[Site "Monaco"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Padevsky, Nikola"]
+[Black "Forintos, Gyozo V"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "d42b84d4"]
+[Epoch "Bishop"]
+[BlackID "700690"]
+[BlackCountry "HUN"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 a6 6. a4 c5 7. O-O Nc6 8. Nc3
+Be7 9. b3 O-O 10. Bb2 cxd4 11. exd4 Bd7 12. Qe2 Na5 13. Rfd1 Bc6 14. Ne5 Bd5
+15. Rab1 Rc8 16. Bc1 Bb4 17. Na2 Be7 18. Nc3 Bb4 1/2-1/2

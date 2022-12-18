@@ -1,0 +1,17 @@
+[Event "URS Spartakiad"]
+[Site "Moscow"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Pupov"]
+[Black "Sambursky, V."]
+[Result "1-0"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "fe723f2e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. Qe2
+Bb4+ 9. c3 O-O 10. cxb4 exf3 11. gxf3 Re8 12. Be3 Nxc4 13. dxc4 b5 14. Nc3 bxc4
+15. Qxc4 Bb7 16. O-O-O Re5 17. Rhg1 Kh8 18. Qf4 Qd6 19. Rxg7 Nh5 20. Bc5 Nxf4
+21. Bxd6 Rf5 22. Bxf4 Kxg7 23. Bxc7 Rc8 24. d6 a5 25. b5 Rc5 26. b6 1-0

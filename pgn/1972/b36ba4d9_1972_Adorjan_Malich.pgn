@@ -1,0 +1,19 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Adorjan, Andras"]
+[Black "Malich, Burkhard, Dr."]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "b36ba4d9"]
+[Epoch "Bishop"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackID "4611330"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Bg2
+Nc6 9. Be3 Nde5 10. f4 1/2-1/2

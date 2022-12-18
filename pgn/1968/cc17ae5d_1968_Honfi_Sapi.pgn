@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Sapi, Laszlo"]
+[Result "1-0"]
+[ECO "B38"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 6.Be3"]
+[HashCode "cc17ae5d"]
+[Epoch "Bishop"]
+[BlackID "701513"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 O-O 8.
+Be2 d6 9. O-O Bd7 10. Rc1 a6 11. Qd2 Nxd4 12. Bxd4 Bc6 13. Qe3 Nd7 14. Bxg7
+Kxg7 15. b4 Qb6 16. b5 1-0

@@ -1,0 +1,26 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "3"]
+[White "Santos, Luis"]
+[Black "Levy, Mauricio"]
+[Result "1-0"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "c7578c52"]
+[Epoch "Bishop"]
+[WhiteID "1900056"]
+[WhiteCountry "POR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. h3 Be6 11. a4 b4 12. Nxe5 Nxe5 13. Rxe5 c6 14. d4 Bd6 15.
+Re1 Re8 16. Bc2 Qh4 17. Re4 Qf6 18. Qe2 Bd7 19. c4 Nf4 20. Bxf4 Bxf4 21. Nd2 c5
+22. Nf3 cxd4 23. Re1 g6 24. Nxd4 Rxe4 25. Bxe4 Re8 26. Qd1 Rd8 27. Bd5 Be5 28.
+Re4 Kh8 29. b3 Be6 30. Nc6 Bxd5 31. Nxe5 Bxe4 32. Qxd8+ Qxd8 33. Nxf7+ Kg8 34.
+Nxd8 Bc2 35. Nc6 Bxb3 36. Nxb4 Bxc4 37. f4 Kf7 38. Kf2 Ke6 39. Ke3 Kd6 40. g4
+a5 41. Nd3 Bb3 42. Nb2 Kd5 43. Kd3 Ba2 44. Kc3 Ke4 45. Nc4 Kxf4 46. Nxa5 Bd5
+47. Nc4 Kg3 48. Kd4 Bb7 49. Nd6 Ba8 50. g5 Kxh3 51. Ke5 Kg4 52. Nf7 Kf3 53. Kf6
+Kf4 54. a5 Bb7 55. Kg7 Bd5 56. a6 Kf5 57. a7 Ke6 58. Nh8 Kf5 59. Kh6 Be4 60.
+Nf7 Ke6 61. Kg7 Bd5 62. Nh6 Be4 63. Kxh7 Ke7 64. Ng8+ Kf7 65. Nf6 Bc6 66. Nd7
+Ke6 67. Nb6 Kf5 68. Kh6 1-0

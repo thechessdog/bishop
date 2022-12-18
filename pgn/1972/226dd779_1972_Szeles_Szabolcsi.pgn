@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Szeles, Karoly"]
+[Black "Szabolcsi, Janos"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Nimzovich variation"]
+[HashCode "226dd779"]
+[Epoch "Bishop"]
+[WhiteID "700924"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d5 5. Nxc6 bxc6 6. exd5 Qxd5 7. Qe2 Bf5
+8. Nc3 Qd7 9. Bf4 Nf6 10. Rd1 Qb7 11. Qa6 Qb6 12. Qa4 e6 13. Bb5 Rc8 14. O-O
+cxb5 15. Nxb5 Qc6 16. Bc7 Be4 17. Rfe1 a6 0-1

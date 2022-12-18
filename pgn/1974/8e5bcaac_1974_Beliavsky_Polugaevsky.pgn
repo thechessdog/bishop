@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Beliavsky, Alexander G"]
+[Black "Polugaevsky, Lev"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "8e5bcaac"]
+[Epoch "Bishop"]
+[WhiteID "14602377"]
+[WhiteCountry "SLO"]
+[BlackCountry "BLR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. O-O
+Nbd7 9. Kh1 Bg7 10. Be3 b5 11. Qf3 Bb7 12. a3 O-O 13. Rae1 Nb6 14. Nd1 Nc4 15.
+Bc1 e5 16. fxe5 Nxe5 17. Qe2 Nxd3 18. Qxd3 Nxe4 19. Ne3 Rae8 20. Nf3 f5 21. Nd5
+Qc5 22. Ne3 f4 0-1

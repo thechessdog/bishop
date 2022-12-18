@@ -1,0 +1,20 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Jukanovic, D."]
+[Black "Ivkov, Borislav"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "6ab8369c"]
+[Epoch "Bishop"]
+[BlackID "900141"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bd3
+O-O 9. h3 a6 10. a4 Nbd7 11. O-O Re8 12. Bf4 Qc7 13. Nd2 Ne5 14. Bxe5 Rxe5 15.
+f4 Re8 16. Nc4 Nd7 17. Qf3 Nb6 18. Nxb6 Qxb6 19. Bc4 Qxb2 20. e5 Qb4 21. Ba2
+Bf5 22. Rae1 dxe5 23. fxe5 Rxe5 24. Rxe5 Bxe5 25. g4 Qxc3 26. Qxc3 Bxc3 27.
+gxf5 b5 28. d6 c4 29. fxg6 hxg6 30. Bb1 Bd4+ 31. Kg2 Rd8 0-1

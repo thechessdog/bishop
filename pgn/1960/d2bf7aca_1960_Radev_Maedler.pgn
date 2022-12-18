@@ -1,0 +1,24 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "9"]
+[White "Radev, Nikolai"]
+[Black "Maedler, Juergen, Dr."]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "d2bf7aca"]
+[Epoch "Bishop"]
+[BlackID "4631188"]
+[WhiteCountry "BGR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. e4 Bg7 6. Be2 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 a6 11. a4 Nbd7 12. f4 Rb8 13. Re1 Qc7 14. Ra3 c4 15.
+a5 b5 16. axb6 Nxb6 17. Kh1 Bb7 18. Bf1 Qc5 19. Na4 Nxa4 20. Rxa4 c3 21. bxc3
+Qxc3 22. Rc4 Qa5 23. Ra4 Qc7 24. Ba3 Nd7 25. Rc4 Qb6 26. Nf3 Rbc8 27. Qa4 Nf6
+28. Rb4 Qa7 29. Reb1 Ng4 30. h3 Nf2+ 31. Kh2 Re7 32. Qb3 Rc3 33. Rxb7 Rxb7 34.
+Qxb7 Qxb7 35. Rxb7 Rxa3 36. Rb8+ Bf8 37. e5 Kg7 38. Rb7 Ra1 39. Nd2 Rd1 40. Rb2
+dxe5 41. fxe5 Ba3 42. Rb3 Bc1 43. Rf3 Rxd2 44. e6 f5 45. Rc3 Bb2 46. Rc7+ Kf8
+47. Rc8+ Ke7 48. Rc7+ Kd8 49. Rd7+ Ke8 50. Bxa6 Ne4 51. Rb7 Be5+ 52. Kg1 Rd1+
+53. Bf1 Bd4+ 54. Kh2 Rxf1 55. Rb8+ Ke7 56. Rb7+ Kd8 57. Rb8+ Kc7 0-1

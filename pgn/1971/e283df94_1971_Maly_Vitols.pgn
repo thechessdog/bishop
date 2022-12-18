@@ -1,0 +1,15 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Maly"]
+[Black "Vitols, K."]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Rousseau gambit"]
+[HashCode "e283df94"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nc6 4. d4 Qe7 5. O-O fxe4 6. Ng5 Nf6 7. Bf7+ Kd8
+8. dxe5 Nxe5 9. Ne6+ Qxe6 10. Bxe6 1-0
+

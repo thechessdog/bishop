@@ -1,0 +1,19 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Machala, R."]
+[Black "Cvachoucek, F."]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "9bb5a2bd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Bc2 O-O 11. Qe2 f5 12. exf6 Rxf6 13. Ng5 Bc5 14.
+Nxe4 dxe4 15. Bxe4 Bc4 16. Qh5 Bxf2+ 17. Rxf2 g6 18. Bd5+ Bxd5 19. Qh4 Re6
+20. Qxd8+ Rxd8 21. Nd2 Ne5 22. Nf1 Nd3 23. Rd2 Re1 24. Rxd3 Rf8 25. h4
+Rfxf1+ 26. Kh2 Rh1+ 27. Kg3 c6 28. c4 bxc4 29. Rc3 Re2 30. b3 Rf1 0-1
+

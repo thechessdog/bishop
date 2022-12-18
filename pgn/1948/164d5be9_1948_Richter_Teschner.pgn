@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Teschner, Rudolf"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "164d5be9"]
+[Epoch "Bishop"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Qg4 Kf8 8. Nf3
+Ne7 9. Bd3 Ng6 10. O-O Qc7 11. Ra3 cxb2 12. Bxb2 Nc6 13. b5 h5 14. Qg5 Nce7 15.
+Rc3 Qd7 16. Ba3 Kg8 17. Bd6 Nf5 18. Rc7 Qe8 19. b6 Bd7 20. Ra1 a5 21. Rxb7 Nxd6
+22. exd6 Rh6 23. Bxg6 Rxg6 24. Qe7 Qxe7 25. dxe7 Be8 26. Ra7 Rb8 27. b7 f6 28.
+Rb1 Bc6 29. Ra8 1-0

@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bodini"]
+[Black "Biggi"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "6861da4d"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Qa4+ Nc6 5. Nf3 Bd7 6. cxd5 Nxd4 7. Qd1
+Nxf3+ 8. exf3 exd5 9. Qxd5 Nf6 10. Qxb7 Qe7+ 11. Be3 O-O 12. Be2 Rfb8 13.
+Qa6 Nd5 14. Qd3 Nxc3 15. bxc3 Bb5 16. Qc2 Bxe2 17. Kxe2 Bc5 18. Rhe1 Bxe3
+19. fxe3 Qa3 20. Kf1 Rb2 21. Qe4 Rab8 22. Qc4 Qd6 23. f4 Qh6 24. h3 Qh4 25.
+Re2 Rb1+ 26. Rxb1 Rxb1+ 27. Re1 Rxe1# 0-1
+

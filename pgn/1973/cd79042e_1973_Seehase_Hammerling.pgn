@@ -1,0 +1,21 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Seehase, R."]
+[Black "Hammerling, G."]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "cd79042e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. Bb3 Qa5 10. O-O-O Nxd4 11. Bxd4 Bd7 12. g4 Qg5+ 13. Be3 Qxg4
+14. f3 Qh5 15. Rhg1 Ne8 16. Rg2 Bc6 17. Rdg1 g6 18. Bg5 Bxg5+ 19. Rxg5 Qh6
+20. Kb1 Rd8 21. f4 Nf6 22. f5 exf5 23. exf5 Kh8 24. Qf2 d5 25. Qd4 Qg7 26.
+Qh4 Ne4 27. Nxe4 dxe4 28. a3 Rd6 29. Qg3 Rfd8 30. h4 h6 31. Rg4 Kh7 32. Kc1
+Qd4 33. Kb1 Qxg1+ 34. Qxg1 Rd1+ 35. Ka2 Rxg1 36. fxg6+ Kg7 37. Rxg1 f5 38.
+h5 f4 0-1
+

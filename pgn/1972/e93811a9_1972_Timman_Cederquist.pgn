@@ -1,0 +1,19 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Cederquist, L."]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "e93811a9"]
+[Epoch "Bishop"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 Nf6 5. e3 e4 6. d3 Bb4 7. Ne2 O-O 8. O-O
+exd3 9. Qxd3 Ne5 10. Qxf5 d6 11. Qc2 Qe8 12. h3 Be6 13. b3 Qd7 14. Kh2 Rae8 15.
+Bb2 Bxc3 16. Nxc3 Qf7 17. Qe2 Bg4 18. f3 Bf5 19. e4 h5 20. exf5 Neg4+ 21. fxg4
+Rxe2 22. Nxe2 hxg4 23. Nf4 1-0

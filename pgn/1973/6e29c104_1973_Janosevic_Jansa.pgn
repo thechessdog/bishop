@@ -1,0 +1,25 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Janosevic, Dragoljub"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "6e29c104"]
+[Epoch "Bishop"]
+[BlackID "300128"]
+[WhiteCountry "SRB"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 a6 9. O-O-O Qc7 10. Rhg1 O-O 11. g4 Nxe4 12. Nxe4 d5 13. Bd3 dxe4 14. Bxe4
+e5 15. Nf5 Be6 16. Qf3 Rfd8 17. Qh3 g6 18. Qh6 Bf8 19. Qh4 Rxd1+ 20. Rxd1 Rd8
+21. Rxd8 Qxd8 22. Bxc6 Qxh4 23. Nxh4 bxc6 24. Nf3 f6 25. g5 Bd5 26. Nd2 Kf7 27.
+c4 Bg2 28. h4 Ke6 29. gxf6 Kxf6 30. Nb3 Kf5 31. Nc5 Be7 32. Nxa6 Bxh4 33. Nc5
+h5 34. a4 Bd8 35. b4 h4 36. f3 h3 37. Bg1 Bg5+ 38. Kc2 Bxf3 39. a5 Be3 40. Bh2
+Bf4 41. a6 Bxh2 42. a7 Bf4 43. a8=Q h2 44. Qc8+ Kg5 45. Nd3 h1=Q 46. Qd8+ Kh5
+47. Qh8+ Bh6 48. Qxe5+ g5 49. Qe8+ Kh4 50. Qg6 Qd1+ 51. Kc3 Qa1+ 52. Kc2 Bg7
+53. Qd6 Qd1# 0-1

@@ -1,0 +1,19 @@
+[Event "Hjoerring ch-DEN"]
+[Site "Hjoerring ch-DEN"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Jacobsen, Bo"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "b23b5b57"]
+[Epoch "Bishop"]
+[WhiteID "1400754"]
+[BlackID "1400738"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. g3 c5 2. Bg2 g6 3. e4 Bg7 4. Nc3 Nc6 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 1/2-1/2

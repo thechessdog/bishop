@@ -1,0 +1,19 @@
+[Event "Budapest-ch"]
+[Site "Budapest"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Pogats, Jozsef Jr."]
+[Black "Dely, Peter"]
+[Result "1/2-1/2"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Pilnik variation"]
+[HashCode "ce91258b"]
+[Epoch "Bishop"]
+[WhiteID "744450"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. c3 Nd7 10. Nbd2 Nb6 11. Nf1 Na5 12. Bc2 c5 13. Ne3 Be6 14. h3 Nc6 15. d4
+cxd4 16. cxd4 Nxd4 17. Nxd4 exd4 18. Qxd4 1/2-1/2

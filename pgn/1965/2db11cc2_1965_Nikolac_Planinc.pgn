@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Nikolac, Juraj"]
+[Black "Planinc, Albin"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "2db11cc2"]
+[Epoch "Bishop"]
+[BlackCountry "SVN"]
+[WhiteID "14500140"]
+[WhiteCountry "CRO"]
+
+1. d4 d5 2. Nf3 Nc6 3. g3 Bg4 4. Nbd2 e6 5. Bg2 Nf6 6. O-O Bd6 7. b3 e5 8. dxe5
+Nxe5 9. Bb2 Nxf3+ 10. Nxf3 c6 11. Qd3 Qe7 12. c4 dxc4 13. Qxc4 Bxf3 14. exf3
+O-O-O 15. Rfe1 Qc7 16. f4 Kb8 17. b4 Rhe8 18. a4 Qb6 19. Rxe8 Rxe8 20. Bc3 Ng4
+21. Rf1 a5 22. bxa5 Qc5 23. Qd4 f6 24. Bf3 Nh6 25. Rb1 Nf5 26. Qd3 Rd8 27. Qa6
+Rd7 28. Bxc6 1-0

@@ -1,0 +1,17 @@
+[Event "Hanover"]
+[Site "Hanover"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Jonas"]
+[Black "Peters"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Kiel variation"]
+[HashCode "13714bc5"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb4 5. Qa4+ N8c6 6. d5 b5 7. cxb5 Nd4
+8. Na3 Qxd5 9. Be3 Qe4 10. Rc1 Nbc2+ 11. Kd1 Bg4+ 12. Be2 Qd3+ 13. Bd2
+Bxe2+ 14. Nxe2 Qxe2# 0-1
+

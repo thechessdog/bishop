@@ -1,0 +1,22 @@
+[Event "Kragujevac ch14-YUG"]
+[Site "Kragujevac ch14-YUG"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Trifunovic, Petar"]
+[Black "Ivkovic, Dusan"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "d93e1cd0"]
+[Epoch "Bishop"]
+[BlackID "908843"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nc3 Nf6 5. e3 Nbd7 6. Qc2 a6 7. b3 b6 8. Bd3 Bb7
+9. O-O Be7 10. Bb2 O-O 11. Rad1 Qc7 12. e4 dxe4 13. Nxe4 Nxe4 14. Bxe4 Nf6 15.
+Bd3 c5 16. d5 exd5 17. cxd5 Bd6 18. Bxf6 gxf6 19. Qc4 f5 20. Bxf5 f6 21. Rfe1
+Kh8 22. Qh4 Qg7 23. Qh3 Rfe8 24. Be6 Rad8 25. Re4 Bc8 26. Rde1 Bxe6 27. dxe6
+Rg8 28. g3 b5 29. e7 Rde8 30. Nh4 Be5 31. Nf5 Qg6 32. Nh6 Rg7 33. Rg4 Qc2 34.
+Rxg7 Kxg7 35. Nf5+ Kh8 36. Qg4 1-0

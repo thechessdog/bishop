@@ -1,0 +1,25 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1960.03.01"]
+[Round "2"]
+[White "Bielicki, Carlos"]
+[Black "Redolfi, Argentino Rodolfo"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "d3cf05c2"]
+[Epoch "Bishop"]
+[WhiteID "100684"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. Qc2 Re8 13. e4 c4 14. Bxc4 exd4
+15. cxd4 Na5 16. Bd3 Qxc2 17. Bxc2 Nxe4 18. Re1 Bf5 19. Bf4 h6 20. d5 Bh7 21.
+Bc7 Nc4 22. Bxe4 Bxe4 23. d6 Bf5 24. Rec1 b5 25. Nd4 Bd7 26. a4 a6 27. h3 Re4
+28. Nb3 Re5 29. axb5 Rxb5 30. Nd4 Rb4 31. Nf3 a5 32. Rxc4 Rxc4 33. Ne5 Rxc7 34.
+dxc7 Be6 35. Nc6 a4 36. Rd1 Kh7 37. Rd8 Rc8 38. Rxc8 Bxc8 39. Nb4 Kg6 40. Kf1
+Kf5 41. Ke2 Ke5 42. Kd3 Kd6 43. Kc4 Kxc7 44. Kc5 a3 45. Nc2 a2 46. h4 Bb7 47.
+f3 Bc6 48. Kb4 Kd6 49. Kb3 Bd5+ 50. Kb2 Ke5 51. g3 f5 52. Ne3 Be6 53. Ng2 Kd4
+54. h5 Bf7 55. Nh4 Ke5 56. g4 f4 57. Nf5 Kf6 58. Nh4 Bd5 59. Ka1 g5 60. Nf5
+Bxf3 61. Nxh6 Bd5 62. Nf5 Be6 0-1

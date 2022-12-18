@@ -1,0 +1,15 @@
+[Event "Salgo"]
+[Site "Salgo"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Eigler, Ferenc"]
+[Black "Hardicsay, Peter"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3, counterthrust variation"]
+[HashCode "218a167e"]
+[Epoch "Bishop"]
+
+1. d4 g6 2. g3 Bg7 3. Bg2 Nf6 4. c4 d5 5. e3 dxc4 6. Na3 O-O 7. Nxc4 c5 8. Ne2
+cxd4 9. exd4 Nbd7 10. Bf4 Nb6 11. Ne5 Nbd5 12. Bd2 Qb6 13. Qc2 1/2-1/2

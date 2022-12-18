@@ -1,0 +1,17 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Brandstaetter, Frie"]
+[Black "Geiger, W."]
+[Result "0-1"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[HashCode "f9e51c2d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nc6 4. d3 Bb4 5. Bd2 Bxc3 6. bxc3 d5 7. exd5
+Nxd5 8. Ne2 O-O 9. O-O Kh8 10. Kh1 b6 11. a3 Bb7 12. f4 f5 13. fxe5 Nxe5
+14. Bb3 Ng4 15. h3 Qh4 16. Qe1 Qxh3+ 17. gxh3 Nf4+ 18. Rf3 Bxf3+ 19. Kg1
+Nxh3+ 20. Kf1 Nh2# 0-1
+

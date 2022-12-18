@@ -1,0 +1,15 @@
+[Event "corr Baltic"]
+[Site "corr Baltic"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Merilo, J."]
+[Black "Harju"]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "dd65c3ce"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qa5 9. Nd5 Be6 10. Bg5 Qxd5 11. c3 Nxg5 0-1
+

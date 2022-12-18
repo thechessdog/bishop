@@ -1,0 +1,18 @@
+[Event "corr Wch8"]
+[Site "corr Wch8"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Nun, L."]
+[Black "Maedler, J."]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "9084f8db"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. Be2 O-O 7. f4 e6 8. Nf3
+exd5 9. e5 Ng4 10. cxd5 dxe5 11. h3 e4 12. Nxe4 Re8 13. hxg4 Rxe4 14. Qd3
+Re8 15. Ne5 Nd7 16. Nxd7 Bxd7 17. Kf2 c4 18. Qc2 Qb6+ 19. Kf1 Rac8 20. a4
+c3 21. b3 Qd4 22. Bf3 h5 0-1
+

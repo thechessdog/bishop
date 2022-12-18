@@ -1,0 +1,21 @@
+[Event "Schiavno Zdroj"]
+[Site "Schiavno Zdroj"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Foltys, Jan"]
+[Black "Gawliczek, Andreas"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "771d7417"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qf6 5. c3 Nge7 6. Re1 h6 7. d4 Bb6 8. Na3
+O-O 9. Nc4 d6 10. h3 Ng6 11. a4 a6 12. Nxb6 cxb6 13. Bf1 Nf4 14. Kh2 g5 15. g3
+Ng6 16. Be3 Qg7 17. dxe5 dxe5 18. Bxb6 f5 19. Qd5+ Kh7 20. exf5 Bxf5 21. Bg2
+Rae8 22. a5 Be6 23. Qd3 Rf7 24. Nd2 Rd7 25. Qe2 Nce7 26. Ne4 Nd5 27. Nc5 Nxb6
+28. axb6 Rd6 29. Nxb7 Rxb6 30. Nc5 Bc8 31. Nxa6 Bb7 32. Bxb7 Qxb7 33. Nc5 Qf7
+34. Ne4 Rf8 35. b4 Nh4 36. gxh4 Qf4+ 37. Ng3 gxh4 38. Qe4+ Rg6 39. Qxf4 exf4
+40. Ne4 f3 41. c4 1-0

@@ -1,0 +1,19 @@
+[Event "Maribor"]
+[Site "Maribor"]
+[Date "1967.01.01"]
+[Round "4"]
+[White "Matanovic, Aleksandar"]
+[Black "Janosevic, Dragoljub"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "7e281efc"]
+[Epoch "Bishop"]
+[WhiteID "900230"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. b3 d6 10. Bb2 Nxd4 11. Qxd4 O-O 12. Rac1 b5 13. Nd1 Bb7 14. c4 Qb8 15.
+Ne3 Rc8 16. Rfd1 1/2-1/2

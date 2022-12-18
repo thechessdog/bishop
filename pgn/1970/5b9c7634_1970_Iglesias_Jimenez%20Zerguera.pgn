@@ -1,0 +1,18 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Iglesias"]
+[Black "Jimenez Zerquera, Eleazar"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "5b9c7634"]
+[Epoch "Bishop"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Bd3 O-O 9. Be3 Nc6 10. e5 cxd4 11. cxd4 Qa5+ 12. Qd2 Qxd2+ 13. Kxd2 Rd8 14. h3
+Be6 15. Rhb1 Rd7 16. a4 f6 17. Rb5 fxe5 18. Ng5 exd4 19. Bf4 Bf7 20. Nxf7 Kxf7
+21. Rab1 e5 22. Rxb7 0-1

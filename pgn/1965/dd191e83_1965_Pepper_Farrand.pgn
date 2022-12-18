@@ -1,0 +1,17 @@
+[Event "BCM"]
+[Site "BCM"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Pepper, WP."]
+[Black "Farrand, J."]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Noteboom variation"]
+[HashCode "dd191e83"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. a4 Bb4 6. e3 b5 7. Ne5 Bb7 8.
+Bd2 a5 9. Qf3 Qc7 10. axb5 Bxc3 11. Bxc3 cxb5 12. Qg3 g6 13. d5 Ne7 14.
+Nxf7 Qxg3 15. hxg3 Rf8 16. Nd6+ 1-0
+

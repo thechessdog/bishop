@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Nostrant"]
+[Black "Carpenter"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Herman Steiner variation"]
+[HashCode "5cf43bc8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8.
+c3 d5 9. exd5 e4 10. dxc6 exf3 11. Qxf3 Bg4 12. Qe3 Re8 13. f4 Bc5 14. Qxc5
+Rxe1+ 15. Kf2 Ne4+ 16. Kxe1 Nxc5 17. d4 Qe8+ 0-1
+

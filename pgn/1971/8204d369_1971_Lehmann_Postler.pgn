@@ -1,0 +1,19 @@
+[Event "DDR-ch 20th"]
+[Site "Strausberg"]
+[Date "1971.??.??"]
+[Round "13"]
+[White "Lehmann, Karl Heinz"]
+[Black "Postler, Reinhard"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "8204d369"]
+[Epoch "Bishop"]
+[BlackID "4611608"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O Na6 10. Ng3 Rb8 11. h3 Nc7 12. a4 a6 13. a5 b5 14. axb6 Rxb6 15. f4
+Bd7 16. Qe2 Re8 17. Be3 Nfxd5 18. Nxd5 Nxd5 19. Bc1 Bd4+ 20. Kh2 Nb4 21. Rd1 f5
+0-1

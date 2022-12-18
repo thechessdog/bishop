@@ -1,0 +1,23 @@
+[Event "Trinec"]
+[Site "Trinec"]
+[Date "1972.01.01"]
+[Round "10"]
+[White "Novak, Ivan"]
+[Black "Kubicek, Antonin"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "d1d9c3cc"]
+[Epoch "Bishop"]
+[WhiteID "14900246"]
+[BlackID "301213"]
+[WhiteCountry "SVK"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. d5 e6 8. dxe6
+Bxe6 9. O-O d5 10. f5 gxf5 11. exf5 Bxf5 12. Ne5 Bg6 13. Bg5 d4 14. Ng4 Nxg4
+15. Bxd8 Ne3 16. Qe1 Rxd8 17. Qh4 Re8 18. Ne4 Nxc2 19. Bc4 Nc6 20. Nd6 Ne5 21.
+Nxe8 Rxe8 22. Bb5 Rf8 23. Rac1 d3 24. Rfd1 Nd4 25. Rxc5 Nef3+ 26. gxf3 Nxf3+
+27. Kf1 Nxh4 28. Bxd3 Nf3 29. Rc7 Nxh2+ 30. Kg1 Nf3+ 31. Kg2 Bxd3 32. Kxf3 Bb5
+0-1

@@ -1,0 +1,19 @@
+[Event "New York Rosenwald5556"]
+[Site "New York"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Bisguier, Arthur Bernard"]
+[Black "Evans, Larry D."]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "848b30dc"]
+[Epoch "Bishop"]
+[BlackID "2001713"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Ba5 9. cxd5 exd5 10. Ne2 c4 11. Bc2 Re8 12. Bd2 Bc7 13. Ng3 b5 14. h3 a5 15.
+Nh2 Rb8 16. f4 b4 17. axb4 Nxb4 18. Nf3 Ba6 19. Ba4 Re6 20. Ne5 Bb5 1/2-1/2

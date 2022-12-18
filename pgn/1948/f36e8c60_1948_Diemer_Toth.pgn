@@ -1,0 +1,18 @@
+[Event "Lindau"]
+[Site "Lindau"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Toth, Bela"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "f36e8c60"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+[BlackID "736112"]
+[BlackCountry "ITA"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qb4 7. O-O-O Nc6
+8. Nb5 Qa5 9. Qf2 e6 10. Qe1 Bb4 11. c3 Qxa2 12. cxb4 Qa1+ 13. Kc2 Qa4+ 14. Kb1
+Nxb4 15. Nxc7+ Ke7 16. Bc5# 1-0

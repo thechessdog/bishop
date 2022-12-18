@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Korzin, Vitaly"]
+[Black "Makarichev, Sergey"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "c7a4b150"]
+[Epoch "Bishop"]
+[BlackID "4100468"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bxf6 Bxf6 11. Nxc6 bxc6 12. Qxd6 Qb6 13. Qd3 Rb8 14. b3
+Qb4 15. Kb2 Rd8 16. Qxd8+ Bxd8 17. Rxd8+ Kh7 18. Be2 Qe7 19. Rhd1 e5 20. f5 Qc7
+21. Bc4 Qe7 22. g4 a5 23. h3 Ra8 24. Na4 Rb8 25. a3 h5 26. g5 Qxg5 27. Bxf7 Qe7
+28. Bxh5 1-0

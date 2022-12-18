@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Kolvig, Bent"]
+[Black "Andersen, Henrik"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "dca70205"]
+[Epoch "Bishop"]
+[WhiteID "1400746"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 Qa5 11. Nb3 Qh5 12. Bf2 e5 13. f5 Ng4 14. Kb1 Nxf2
+15. Qxf2 f6 16. Bc4+ Kh8 17. Rd3 Bd7 18. Nb5 Nb4 19. Rh3 Qg5 20. a3 d5 21. Be2
+a6 22. Nc3 d4 23. Rh5 Qf4 24. Bf3 Nxc2 25. Nd5 Qe3 26. Nxe3 Nxe3 27. Rc1 Rac8
+28. Be2 Ba4 29. Rxc8 Rxc8 30. Na1 Bc5 31. Bd3 Nd1 32. Qd2 Bxa3 33. Rxh6+ Kg8
+34. Qa5 gxh6 35. Qxa4 Bxb2 36. Qxd1 Rc1+ 37. Qxc1 Bxc1 38. Kxc1 1-0

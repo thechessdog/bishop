@@ -1,0 +1,21 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Jean"]
+[Result "1/2-1/2"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Grigoriev variation"]
+[HashCode "dd02a24f"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 d6 7. Qd2 Nf6 8.
+Be2 O-O 9. O-O-O Nxd4 10. Bxd4 Be6 11. Kb1 a6 12. h4 b5 13. h5 b4 14. Bxf6 Bxf6
+15. Nd5 Bg7 16. Qg5 Bxd5 17. Qxd5 e6 18. Qb3 Qf6 19. hxg6 hxg6 20. Rxd6 a5 21.
+Bc4 Rfb8 22. Bxe6 a4 23. Bxf7+ Qxf7 24. Qxf7+ Kxf7 25. Rd7+ Kg8 26. f4 b3 27.
+e5 bxa2+ 28. Kxa2 Rb4 29. g3 Rab8 30. Rb1 g5 31. c3 Re4 32. Rbd1 gxf4 33. gxf4
+Rxf4 34. e6 Bf6 35. Rg1+ Kh8 36. Rd5 Rb7 37. Rh5+ Rh7 38. Ra5 Rb7 39. Rh5+ Rh7
+40. Ra5 Rb7 41. Rd1 1/2-1/2

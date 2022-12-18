@@ -1,0 +1,17 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Alieva, Elvira"]
+[Black "Chekhov, Valery A"]
+[Result "0-1"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "b78c07a6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nc6 7. Nc3 a6 8. a4
+Na5 9. Nd2 c5 10. d5 Rb8 11. Rb1 Bd7 12. b4 cxb4 13. Rxb4 Qc8 14. Nce4 Nxe4 15.
+Bxe4 Bc3 16. Ba3 Bxb4 17. Bxb4 Nxc4 18. Nf3 Bf5 19. Qd4 b5 20. Nh4 Bxe4 21.
+Qxe4 a5 22. Bc3 b4 0-1

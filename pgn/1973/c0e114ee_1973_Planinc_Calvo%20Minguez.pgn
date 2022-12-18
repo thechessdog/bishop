@@ -1,0 +1,17 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1973.11.01"]
+[Round "1"]
+[White "Planinc, Albin"]
+[Black "Calvo José Minguez, Ricardo"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "c0e114ee"]
+[Epoch "Bishop"]
+[WhiteCountry "SVN"]
+[BlackCountry "EST"]
+
+1. g3 g6 2. Bg2 Bg7 3. Nf3 c5 4. O-O Nc6 5. c3 e5 6. e4 Nge7 7. a3 O-O 8. b4 b6
+9. d3 Ba6 10. Ne1 Qc7 11. Nd2 Rad8 12. Rb1 Bc8 13. Qe2 d5 14. bxc5 bxc5 15. Nb3
+c4 16. dxc4 dxe4 17. Qxe4 Bf5 0-1

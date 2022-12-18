@@ -1,0 +1,18 @@
+[Event "corr WER"]
+[Site "corr WER"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Keffler"]
+[Black "Kocem"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "cab14146"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 Bb4 6. Bc4 Bxc3+ 7. bxc3
+d6 8. O-O Nf6 9. e5 dxe5 10. Qb3 O-O 11. Rd1 Bd7 12. Ba3 Na5 13. Qb4 Nxc4
+14. Qxc4 Re8 15. Ng5 Qc8 16. Qxf7+ Kh8 17. Be7 Ng8 18. Bf8 Rxf8 19. Rxd7
+1-0
+

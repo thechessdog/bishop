@@ -1,0 +1,23 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ree, Hans"]
+[Black "Tatai, Stefano"]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English opening"]
+[HashCode "50a908d3"]
+[Epoch "Bishop"]
+[WhiteID "1000098"]
+[WhiteCountry "NED"]
+[BlackCountry "ITA"]
+
+1. Nf3 Nf6 2. c4 g6 3. b4 Bg7 4. Bb2 O-O 5. g3 c6 6. Bg2 a5 7. b5 d5 8. O-O
+dxc4 9. bxc6 Nxc6 10. Na3 Be6 11. Ng5 Bd7 12. Nxc4 b5 13. Na3 Rb8 14. d4 e6 15.
+e4 Qb6 16. Nc2 h6 17. Nh3 Rfd8 18. Nf4 Ne8 19. Rb1 Ne7 20. Ne3 b4 21. d5 Bb5
+22. Re1 Rbc8 23. e5 exd5 24. Bd4 Qc6 25. h4 Bc4 26. Rb2 Qb5 27. e6 Nc6 28.
+exf7+ Kxf7 29. Bxg7 Nxg7 30. Qg4 Ne5 31. Qd1 Nd3 32. Nxd3 Bxd3 33. Qf3+ Kg8 34.
+Nxd5 Rf8 35. Qe3 Rce8 36. Ne7+ Rxe7 37. Qxe7 Re8 38. Qc7 Rxe1+ 39. Kh2 Bf5 40.
+Rd2 Qe5 41. Rd8+ Kh7 42. Qf7 Be6 43. Qf8 g5 44. hxg5 Qxg5 45. Qh8+ Kg6 46. Bf3
+Qf5 0-1

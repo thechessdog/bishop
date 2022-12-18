@@ -1,0 +1,18 @@
+[Event "corr ch2-RSFSR"]
+[Site "corr ch2-RSFSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Omelchenko"]
+[Black "Neelov"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "55f0389b"]
+[Epoch "Bishop"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Bf4 Qf6 5. Bg3 Bc5 6. Nc3 Ne7 7. f4 N5g6
+8. Qd2 d5 9. f5 Nf8 10. Nf3 dxe4 11. Nxe4 Qxb2 12. Nxc5 Qxa1+ 13. Kf2 Qb2
+14. Bxc7 Nd7 15. Be2 Nxf5 16. g4 Ne7 17. Rd1 O-O 18. Nxd7 Bxd7 19. Qxd7
+Rfe8 20. Rd2 Qxa2 21. Bd8 Kf8 22. Ng5 f6 23. Bb5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Grdinic, Zvonimir"]
+[Black "Siaperas, Triantafyllos"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "44d16c8e"]
+[Epoch "Bishop"]
+[WhiteID "14500230"]
+[WhiteCountry "CRO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Bd3 b6 8. cxd5
+Nxd5 9. Bg3 Bb7 10. Nf3 c5 11. O-O cxd4 12. exd4 Nc6 13. Qe2 Ncb4 14. Bc4 Nf6
+15. Rfd1 Rc8 16. Ne5 Nbd5 17. Rac1 Bd6 18. Bd3 Qe7 1/2-1/2

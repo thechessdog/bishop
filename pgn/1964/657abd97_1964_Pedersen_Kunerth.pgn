@@ -1,0 +1,22 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Pedersen, JC."]
+[Black "Kunerth, W."]
+[Result "0-1"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "classical"]
+[HashCode "657abd97"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7
+8. h3 O-O 9. Qd2 a6 10. f4 Nxd4 11. Bxd4 e5 12. Be3 exf4 13. Bd4 Be6 14.
+O-O-O Qa5 15. Qxf4 Ne8 16. a3 Rc8 17. g4 Bxd4 18. Rxd4 Rxc3 19. bxc3 Qxc3
+20. Rb4 Qxa3+ 21. Rb2 d5 22. e5 Nc7 23. Rd1 Qa1+ 24. Rb1 Qa3+ 25. Kd2 d4
+26. Qxd4 Nd5 27. Rb3 Qa5+ 28. Kc1 Nf4 29. Re3 Nxe2+ 30. Rxe2 Qa3+ 31. Kd2
+Qxh3 32. Re4 Rc8 33. Rde1 h5 34. gxh5 Qxh5 35. Kc1 Bf5 36. R4e2 b5 37. Rd2
+a5 38. Kb2 a4 39. Re3 Qg4 40. c3 Qg1 41. Rd1 Qg2+ 42. Qd2 a3+ 43. Ka1 Qxd2
+44. Rxd2 Be6 45. Rd6 Kg7 46. Ra6 a2 47. Kb2 Rh8 48. Re2 b4 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Sacripanti"]
+[Black "Battaglia"]
+[Result "1/2-1/2"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "22ef51e3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. dxc5 f5 9. Qc2 Qa5 10. e4 fxe4 11. fxe4 Qxc3+ 12. Qxc3 Nxc3 13. Bd3 O-O
+14. Bd2 Na4 15. Be3 Bd7 16. Rc1 Bc6 17. Nf3 Nd7 18. Ke2 h6 19. Bd4 Nf6 20.
+Bxf6 Rxf6 21. Rc2 a6 22. Rb1 Rc8 23. Ne5 Rc7 24. Nxc6 Rxc6 25. Rxb7 Rxc5
+26. Rb8+ Rf8 27. Rxf8+ Kxf8 28. Rxc5 Nxc5 29. Ke3 Nxd3 30. Kxd3 Ke7 31. Kd4
+Kd6 32. e5+ Kc6 1/2-1/2
+

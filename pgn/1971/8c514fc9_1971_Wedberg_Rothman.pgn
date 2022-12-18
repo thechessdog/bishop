@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Wedberg, Tom"]
+[Black "Rothman"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "8c514fc9"]
+[Epoch "Bishop"]
+[WhiteID "1700073"]
+[WhiteCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. e6 fxe6 8. Ng5
+Nb6 9. Bd3 Nc6 10. Be3 Nb4 11. h4 Nxd3+ 12. Qxd3 Nd5 13. h5 Qe8 14. O-O-O Nxc3
+15. bxc3 Bf6 16. Nxh7 Kxh7 17. hxg6+ Kg7 18. Rh7+ Kg8 19. Rdh1 Bg7 20. Rxg7+
+Kxg7 21. Rh7+ Kg8 22. g7 1-0

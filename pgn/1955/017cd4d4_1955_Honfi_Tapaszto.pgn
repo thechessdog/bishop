@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Tapaszto, Laszlo"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "017cd4d4"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. d5 d6 5. Be2 Nf6 6. Nc3 O-O 7. Bf4 b5 8. Nd2 b4
+9. Ncb1 Nxd5 10. exd5 Bxb2 11. Nb3 a5 12. a4 Bxa1 13. Nxa1 Bd7 14. Bh6 Bxa4 15.
+h4 Nd7 16. h5 Re8 17. hxg6 fxg6 18. Bg4 Nf8 19. Nd2 e6 20. Ne4 exd5 21. Qxd5+
+Kh8 22. Qf7 Rxe4+ 23. Kd1 1-0

@@ -1,0 +1,18 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Spulber"]
+[Black "Socaciu"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "b7f91d09"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Qa5 11. Bb3 Rfc8 12. Kb1 Ne5 13. g4 Nc4 14.
+Bxc4 Rxc4 15. h4 Rac8 16. Nb3 Qc7 17. h5 Bxg4 18. fxg4 Nxe4 19. Qd5 Rxc3
+20. Qxe4 Rxe3 0-1
+

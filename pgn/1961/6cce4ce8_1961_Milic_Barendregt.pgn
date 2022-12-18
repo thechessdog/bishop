@@ -1,0 +1,18 @@
+[Event "Marianske Lazne zt"]
+[Site "Marianske Lazne"]
+[Date "1961.07.29"]
+[Round "2"]
+[White "Milic, Borislav"]
+[Black "Barendregt, Johan Teunis"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "6cce4ce8"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "NLD"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O c6 7. a4 Qc7 8. Re1
+O-O 9. h3 b6 10. Bg5 h6 11. Bh4 Bb7 12. Bg3 a6 13. dxe5 dxe5 14. Nh4 b5 15. Ng6
+Rfe8 16. Nxe7+ Rxe7 17. axb5 axb5 18. Rxa8+ Bxa8 19. Bd3 1/2-1/2

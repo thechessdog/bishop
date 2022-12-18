@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Halir"]
+[Black "Bantleon, J."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "b80befe0"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. h3 Bh4 10. c3 b5 11. cxd4 bxc4 12. dxe5 Qxe5 13. Nc3 Bf5
+14. d4 cxd3 15. Qa4+ Kf8 16. Qxh4 1-0
+

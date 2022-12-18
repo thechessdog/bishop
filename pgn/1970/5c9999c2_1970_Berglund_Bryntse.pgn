@@ -1,0 +1,21 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Berglund, Martin"]
+[Black "Bryntse, Arne"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "5c9999c2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 d6 7. f4 O-O 8.
+Nf3 e5 9. O-O Nc6 10. Qe1 Re8 11. fxe5 Nxe5 12. Bg5 Qb6+ 13. Kh1 Nfg4 14.
+h3 Nxf3 15. gxf3 Qc5 16. Qh4 Bxc3 17. bxc3 Ne5 18. Qg3 Bxh3 19. Bf6 Ng6 20.
+Bd4 Qh5 21. Rf2 Bg4+ 22. Kg1 Bd7 23. Rh2 Qa5 24. f4 Rac8 25. f5 Ne5 26. Kf2
+Rxc3 27. Rg1 g6 28. Kf1 Rxd3 29. cxd3 Rc8 30. Qe3 Bb5 31. Bxe5 dxe5 32.
+Rgh1 h5 33. Rd2 Qc3 34. Kg2 Bc6 35. Qh6 Qb4 36. Rxh5 gxh5 37. Kh2 Qxd2+ 38.
+Qxd2 f6 39. Qh6 1-0
+

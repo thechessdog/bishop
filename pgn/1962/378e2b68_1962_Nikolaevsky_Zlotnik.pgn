@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Nikolaevsky, Yuri V"]
+[Black "Zlotnik, Boris A"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "378e2b68"]
+[Epoch "Bishop"]
+[BlackID "4101413"]
+[BlackCountry "RUS"]
+[WhiteID "4102231"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O O-O 7. Nc3 d5 8. Qe2
+Nbd7 9. b3 c5 10. Bb2 Rc8 11. Rfd1 Ne4 12. cxd5 exd5 13. dxc5 Nxc3 14. Bxc3
+bxc5 15. Rac1 Bf6 16. Bxf6 Qxf6 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Bloodgood"]
+[Black "Cacalano"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "1ec5f239"]
+[Epoch "Bishop"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 e6 4. Qb3 Qc8 5. cxd5 c6 6. dxc6 Nxc6 7. Qa4 Nf6
+8. Bxc6+ bxc6 9. d3 Bh5 10. Bd2 Bc5 11. Nc3 O-O 12. Ne4 Bb6 13. Rc1 Nxe4
+14. dxe4 c5 15. Be3 a5 16. Qb5 Qc7 17. Bxc5 Bxc5 18. Rxc5 Qe7 19. Rxh5 1-0
+

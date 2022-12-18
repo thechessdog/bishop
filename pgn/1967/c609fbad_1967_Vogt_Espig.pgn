@@ -1,0 +1,26 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Vogt, Lothar"]
+[Black "Espig, Lutz"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "c609fbad"]
+[Epoch "Bishop"]
+[WhiteID "4611292"]
+[BlackID "4611276"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bg5
+h6 9. Bh4 g5 10. Bg3 Nh5 11. Bb5+ Kf8 12. Be2 Nxg3 13. hxg3 Nd7 14. Nd2 Ne5 15.
+f4 Ng6 16. Bh5 Qf6 17. Qc2 gxf4 18. O-O-O fxg3 19. Rdf1 Qg5 20. Kb1 Nf4 21. Nf3
+Qd8 22. Bxf7 Kxf7 23. Ne1 Rf8 24. Nd3 Kg8 25. Nxf4 Qg5 26. Nce2 Bg4 27. Ne6
+Bxe6 28. dxe6 Rxf1+ 29. Rxf1 Rf8 30. Rf5 Qe7 31. Nf4 Re8 32. Qb3 Qh4 33. Qxb7
+Re7 34. Qb8+ Kh7 35. Qxd6 Rb7 36. e5 Qh1+ 37. Kc2 Qa1 38. Nd3 c4 39. Nb4 Qe1
+40. e7 Rxe7 41. Qxe7 Qe4+ 42. Kc3 Qxf5 43. Kxc4 Qe4+ 44. Kc5 Qxg2 45. Nd5 Qf2+
+46. Kc6 Qf3 47. Qxa7 Qe4 48. Qe3 Qg6+ 49. Nf6+ Bxf6 50. exf6 Qxf6+ 51. Kd5 g2
+52. Qg1 Qf1 53. Qa7+ Kg6 54. Qb6+ Kh5 0-1

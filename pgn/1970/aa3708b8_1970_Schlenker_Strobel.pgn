@@ -1,0 +1,17 @@
+[Event "Schvenningen"]
+[Site "Schvenningen"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schlenker, R."]
+[Black "Strobel, W."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "two pawns' (Lasker's) attack"]
+[HashCode "aa3708b8"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. d4 d6 6. Bc4 dxc5 7. Nc3 Nxc3 8.
+bxc3 e6 9. Qg4 cxd4 10. cxd4 Bb4+ 11. Kf1 Bc3 12. Qxg7 Qxd4 13. Bb5+ c6 14.
+Qxh8+ Kd7 15. Bg5 Kc7 16. Ne2 1-0
+

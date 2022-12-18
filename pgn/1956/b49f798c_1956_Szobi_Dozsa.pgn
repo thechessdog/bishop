@@ -1,0 +1,18 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Szobi, Tibor"]
+[Black "Dozsa, Pal"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "b49f798c"]
+[Epoch "Bishop"]
+[WhiteID "706728"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 a6 3. b4 cxb4 4. a3 e6 5. axb4 Bxb4 6. c3 Be7 7. d4 d5 8. e5
+Bd7 9. Bd3 f6 10. Nh4 f5 11. Qh5+ Kf8 12. Ng6+ hxg6 13. Qxh8 Bg5 14. f4 Bh6 15.
+h4 Nc6 16. g4 fxg4 17. Bxg6 0-1

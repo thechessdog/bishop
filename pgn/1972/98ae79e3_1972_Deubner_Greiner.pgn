@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Deubner"]
+[Black "Greiner, H."]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "98ae79e3"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. d3 Qh4+ 5. Kd2 Bc5 6. Nf3 Be3+ 7. Ke2
+Qf2# 0-1
+

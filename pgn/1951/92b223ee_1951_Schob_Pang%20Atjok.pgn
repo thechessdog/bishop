@@ -1,0 +1,23 @@
+[Event "Curacao"]
+[Site "Curacao"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Schob, E."]
+[Black "Pang Atjok, C."]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "92b223ee"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. f4 e6 8.
+Nf3 Be7 9. h5 Bh7 10. Bd3 Bxd3 11. Qxd3 Nf6 12. Bd2 Nbd7 13. O-O-O Nd5 14.
+c3 c5 15. f5 Nf8 16. fxe6 Nxe6 17. c4 Ndf4 18. Qe4 Qc7 19. d5 O-O-O 20.
+dxe6 Nd3+ 21. Kb1 Nf2 22. Qe2 Nxd1 23. Nf5 Nxb2 24. Nxe7+ Qxe7 25. Kxb2 Rd6
+26. Bc3 Rxe6 27. Qf1 f6 28. Nd2 Re8 29. Qf5 Kb8 30. Rd1 Re2 31. g3 Qc7 32.
+g4 Qb6+ 33. Ka1 Re1 34. Qc2 Qe6 35. Nb3 Rxd1+ 36. Qxd1 Qxc4 37. Qf3 Rd8 38.
+Bd2 Qd5 39. Qg3+ Ka8 40. Qc7 c4 41. Nc5 Qh1+ 42. Kb2 Rxd2+ 43. Ka3 Qf3+ 44.
+Nb3 Rxa2+ 45. Kxa2 Qxb3+ 46. Ka1 Qa4+ 47. Kb1 Qb3+ 48. Kc1 Qe3+ 49. Kb1
+Qb6+ 0-1
+

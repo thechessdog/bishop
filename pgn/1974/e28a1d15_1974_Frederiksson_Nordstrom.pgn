@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Fredriksson, Leif"]
+[Black "Nordstrom, Felix"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "e28a1d15"]
+[Epoch "Bishop"]
+[BlackID "1701509"]
+[BlackCountry "SWE"]
+
+1. e4 c6 2. d3 d5 3. Nd2 dxe4 4. dxe4 e5 5. Ngf3 Bc5 6. c3 Qe7 7. Nc4 Nf6 8.
+Bd3 Nbd7 9. O-O a5 10. a4 O-O 11. Qe2 Re8 12. Rb1 Nh5 13. Rd1 g6 14. Bd2 f6 15.
+Be3 Nf4 16. Bxf4 exf4 17. Qd2 Ne5 18. b4 Nxd3 19. Qxd3 axb4 20. cxb4 Ba7 21. b5
+Bc5 22. bxc6 bxc6 23. e5 Bf5 24. Qb3 Be6 25. Qc3 Rxa4 26. Nd6 Bxd6 27. exd6 Qd7
+28. Qxf6 Bd5 29. Ne5 Qd8 30. d7 Rf8 31. Qd6 Rf6 32. Qxf6 1-0

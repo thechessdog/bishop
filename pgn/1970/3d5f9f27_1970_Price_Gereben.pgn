@@ -1,0 +1,21 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Price, C."]
+[Black "Gereben, Erno"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "3d5f9f27"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. g3 Bg7 5. Bg2 Nf6 6. Ngf3 O-O 7. O-O a5 8. Re1
+e6 9. Qe2 a4 10. Rb1 Na6 11. Nf1 b6 12. Ne5 Bb7 13. Bg5 h6 14. Bxf6 Bxf6 15.
+exd5 cxd5 16. d4 Nc7 17. Bh3 Ba6 18. Qe3 Bg7 19. Nd2 Nb5 20. c3 Nd6 21. Nxg6
+fxg6 22. Bxe6+ Kh7 23. Bxd5 Nf5 24. Qe4 Ra7 25. Bc6 Qf6 26. f4 Bc8 27. Nf3 Ne7
+28. Ne5 Bf5 29. Qg2 Bxb1 30. Rxb1 Nxc6 31. Nxc6 Rc7 32. Ne5 Qe6 33. a3 Bxe5 34.
+fxe5 Rcf7 35. Re1 Rf3 36. Qe2 h5 37. c4 Qg4 38. d5 Rxg3+ 39. hxg3 Qxg3+ 40. Kh1
+Rf4 0-1

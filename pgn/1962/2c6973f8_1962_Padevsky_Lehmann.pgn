@@ -1,0 +1,24 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Padevsky, Nikola"]
+[Black "Lehmann, Heinz Dr"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "2c6973f8"]
+[Epoch "Bishop"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. a4 Be6 10. a5 Qc7 11. f4 Nbd7 12. f5 Bc4 13. Be3 b5 14. axb6 Nxb6 15.
+Kh1 Rfc8 16. Bxb6 Qxb6 17. Bxc4 Rxc4 18. Nd5 Nxd5 19. exd5 Bg5 20. Ra3 Rac8 21.
+c3 h6 22. g3 Re4 23. f6 Qb5 24. fxg7 Re2 25. Nc1 Bxc1 26. Rb3 Qc4 27. Rb4 Qxb4
+28. cxb4 Rcc2 29. Qxe2 Rxe2 30. Rxc1 Rd2 31. Rc6 Rxd5 32. Rxa6 Kxg7 33. Kg2 Kf6
+34. Kf3 Ke6 35. Ke3 Rd4 36. Ra4 Rc4 37. Kd3 d5 38. b3 e4+ 39. Kd2 Rd4+ 40. Kc2
+e3 41. b5 Rd2+ 42. Kc1 Rxh2 43. Kd1 Rd2+ 44. Ke1 Kd6 45. Ra6+ Kc5 46. b6 Rb2
+47. Ra5+ Kd4 48. Rb5 Ke4 49. b7 Kf3 50. Rxd5 Rb1+ 51. Rd1 Rxb3 0-1

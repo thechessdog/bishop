@@ -1,0 +1,25 @@
+[Event "Zwolle"]
+[Site "Zwolle"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Ivkov"]
+[Black "Flesch"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "e4ed6be3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d5 6. g3 Nc6 7. Bg2 Nxd4
+8. Qxd4 Bd7 9. O-O Bc6 10. b3 Be7 11. Bb2 O-O 12. a4 Qb8 13. Nd1 Rd8 14. c4
+b6 15. Re1 Qb7 16. b4 e5 17. Qd3 a5 18. b5 Bd7 19. Ne3 Rac8 20. Rac1 Qb8
+21. Ba3 Bf8 22. Nxd5 Nxd5 23. cxd5 Be7 24. h4 Rxc1 25. Bxc1 Rc8 26. Be3 Bd8
+27. Kh2 Qc7 28. Qa3 f6 29. Rc1 Qb8 30. Bh3 Rxc1 31. Qxc1 Be8 32. Be6+ Kh8
+33. Qd1 Qc7 34. h5 g6 35. Qg4 Kg7 36. hxg6 hxg6 37. Qh3 g5 38. Bf5 Kg8 39.
+Kg2 Qg7 40. Kf3 Qh8 41. Qf1 Qg7 42. Qh1 Qh8 43. Be6+ Kg7 44. Qc1 Bg6 45.
+Bf5 Bxf5 46. exf5 Qh5+ 47. Kg2 e4 48. Kf1 Kh6 49. Qc2 Qf3 50. Ke1 Qxf5 51.
+Qc6 Qe5 52. Qd7 Qc3+ 53. Kf1 Qc7 54. Qe8 Kg7 55. Qxe4 Qf7 56. Kg2 f5 57.
+Qc4 Qe7 58. Kg1 Kg6 59. Qc8 Qf6 60. Qe6 Kg7 61. Kg2 g4 62. Qd7+ Kg6 63. Bf4
+Be7 64. Qc6 1-0
+

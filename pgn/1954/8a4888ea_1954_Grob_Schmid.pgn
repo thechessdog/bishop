@@ -1,0 +1,16 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Grob, Henri"]
+[Black "Schmid, Lothar Maximilian Lorenz"]
+[Result "0-1"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation"]
+[HashCode "8a4888ea"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+[WhiteCountry "SWI"]
+
+1. c4 Nf6 2. Nc3 d6 3. d4 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bg5 c6 7. Nf3 0-1

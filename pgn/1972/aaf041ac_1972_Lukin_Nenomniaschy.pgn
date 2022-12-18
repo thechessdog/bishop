@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Lukin, Andrei M"]
+[Black "Nenomniaschy, Mikha"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "aaf041ac"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nf6 4. Nf3 e6 5. d4 cxd4 6. Nxd4 Be7 7. Be3 O-O 8. Be2
+Nc6 9. Qd2 e5 10. Nf5 Nxe4 11. Nxe7+ Qxe7 12. Nxe4 exf4 13. Bxf4 Qxe4 14. O-O-O
+Be6 15. Kb1 Rac8 16. Bd3 Qa4 17. b3 Qb4 18. Bxd6 Qxd2 19. Rxd2 Rfd8 20. Bf4 Rd4
+21. Be3 Rd5 22. Rhd1 Rh5 23. h3 h6 24. Kb2 a6 25. a3 Re8 26. Bf4 a5 27. Bc7 Rc8
+28. Bb6 Re5 29. Bg1 g5 30. Bh2 Rc5 31. Be2 Kg7 32. Bf3 Ne5 33. Bxb7 Nc4+ 34.
+bxc4 1-0

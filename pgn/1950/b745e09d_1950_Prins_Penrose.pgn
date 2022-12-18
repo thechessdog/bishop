@@ -1,0 +1,21 @@
+[Event "Southsea"]
+[Site "Southsea"]
+[Date "1950.01.01"]
+[Round "6"]
+[White "Prins, Lodewijk"]
+[Black "Penrose, Jonathan"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "b745e09d"]
+[Epoch "Bishop"]
+[BlackID "400360"]
+[BlackCountry "ENG"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nxd5 7. Bxb5 Bb7 8.
+Qf3 Qd7 9. Nc3 Nxc3 10. dxc3 f6 11. Ne4 O-O-O 12. Be3 f5 13. O-O fxe4 14. Qxe4
+Qe6 15. Qa4 Qg6 16. f3 e4 17. f4 Nb8 18. Qxa7 Rd2 19. Rf2 Rxf2 20. Kxf2 Bd6 21.
+Kg1 Qh5 22. Bc4 Re8 23. Qd4 g5 24. Qf6 gxf4 25. Bxf4 Qc5+ 26. Kh1 Qxc4 27. Bxd6
+cxd6 28. Qxd6 e3 0-1

@@ -1,0 +1,25 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Silva Sanchez, Carlos"]
+[Black "Juarez, Carlos Eleodoro"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "6e564b97"]
+[Epoch "Bishop"]
+[BlackID "100293"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5 8.
+Nd2 Qc7 9. f4 Be7 10. Kh1 Bb7 11. Qe2 O-O 12. b3 Rfd8 13. e5 Nd7 14. Bb2 g6 15.
+f5 exf5 16. Bxf5 Nf8 17. e6 f6 18. Bh3 d4 19. Ne4 Qe5 20. Nxf6+ Bxf6 21. Qxe5
+Bxe5 22. Rae1 Bg7 23. e7 Re8 24. Ba3 Ba6 25. exf8=Q+ Bxf8 26. Rxf8+ Rxf8 27.
+Bxf8 Kxf8 28. Bd7 Bb7 29. Kg1 Rd8 30. Bg4 c5 31. Bf3 Bxf3 32. Rf1 Ke7 33. Rxf3
+Rd6 34. Rh3 h5 35. Kf2 Re6 36. Rg3 Kd6 37. c3 a5 38. cxd4 cxd4 39. a3 a4 40.
+bxa4 Kd5 41. a5 Kc4 42. a6 h4 43. Rg5 Rxa6 44. Ke2 Rc6 45. Kd2 Rf6 46. Ke2 Rc6
+47. Kd2 Rb6 48. Ke2 Rb2+ 49. Kf3 Rb3+ 50. Ke2 Rb2+ 51. Kf3 h3 52. gxh3 Rxh2 53.
+Kg3 Rh1 54. Kg2 Re1 55. Rxg6 d3 56. Rd6 Kc3 57. Kf3 d2 58. Rc6+ Kb3 59. Rd6
+d1=Q+ 60. Rxd1 Rxd1 61. h4 Kc4 62. Ke4 Rh1 0-1

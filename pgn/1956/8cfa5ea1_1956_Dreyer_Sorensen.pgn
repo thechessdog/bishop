@@ -1,0 +1,16 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Dreyer, Jorgen"]
+[Black "Sorensen, Niels Henrik"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "8cfa5ea1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Be7 5. Ng5 O-O 6. O-O d6 7. d3 h6 8. Nf3
+Bg4 9. h3 Bh5 10. Qe2 Nd4 11. Qd1 Qd7 12. Be3 Nxf3+ 13. Kh1 Ng5 14. Qd2 Bf3 15.
+Bxg5 Qxh3+ 0-1

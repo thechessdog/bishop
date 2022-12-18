@@ -1,0 +1,16 @@
+[Event "Leipzig olm fin-B"]
+[Site "Leipzig"]
+[Date "1960.??.??"]
+[Round "11"]
+[White "Blom, Kaj"]
+[Black "De Cardenas"]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "76ad48e9"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Nf3 Nbd7 7. O-O e5 8. Re1
+Re8 9. Bf1 exd4 10. Nxd4 Nc5 11. f3 a5 12. Be3 c6 13. Qd2 a4 1/2-1/2

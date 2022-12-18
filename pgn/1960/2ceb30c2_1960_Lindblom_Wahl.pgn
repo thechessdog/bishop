@@ -1,0 +1,19 @@
+[Event "Leipzig olm"]
+[Site "Leipzig olm"]
+[Date "1960.10.01"]
+[Round "1"]
+[White "Lindblom, Per"]
+[Black "Wahl, C."]
+[Result "1-0"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "2ceb30c2"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O c6 8. e4
+Nb6 9. Nc3 Bg4 10. Ne2 N8d7 11. b3 e5 12. Bb2 exd4 13. Bxd4 Bxf3 14. Bxf3 Ne5
+15. Bg2 Qe7 16. Qc2 Rfd8 17. Rad1 Rac8 18. Bc5 Qe8 19. f4 Ned7 20. Bd4 Bxd4+
+21. Nxd4 Nf8 22. Bh3 Rb8 23. Rfe1 Rd6 24. e5 Rd5 25. e6 f5 26. e7 Nfd7 27. Qe2
+Nf6 28. Bg2 Rd6 29. Qe5 Qd7 30. Nf3 Rxd1 31. Qxb8+ Ne8 32. Rxd1 Qxd1+ 33. Bf1
+Qd7 34. Qd8 Kg7 35. Ne5 Qc8 36. a4 Nc7 37. a5 Ne6 38. Qxc8 Nxc8 39. e8=Q Nd6
+40. Qxe6 1-0

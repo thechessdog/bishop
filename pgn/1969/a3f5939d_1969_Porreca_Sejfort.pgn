@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Porreca"]
+[Black "Sejfort"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "a3f5939d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 g6
+8. Qe2 Qc7 9. Bb3 Bg7 10. O-O-O O-O 11. Nd5 Nxd5 12. exd5 Nf6 13. h4 Qc5
+14. h5 Nxh5 15. Be3 Qc7 16. Rxh5 gxh5 17. Qxh5 Qd7 18. Rh1 h6 19. Rh4 Qe8
+20. Bxh6 f6 21. Qf3 Qg6 22. Be3 f5 23. Ne2 Be5 24. Nf4 Bxf4 25. Bxf4 Rf7
+26. Rh5 Rg7 27. g3 Bd7 28. Bh6 Rh7 29. Rg5 Rxh6 30. Rxg6+ Rxg6 31. Qe3 Kf7
+32. Qb6 Rh8 33. Qxb7 Rh1+ 34. Kd2 Be8 35. c4 Rh2 36. Ke1 Kf6 37. Bc2 Rh1+
+38. Kd2 Rh2 39. Ke3 Rg5 40. Qc8 Bf7 41. c5 f4+ 42. gxf4 Rxd5 43. c6 1-0
+

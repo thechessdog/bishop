@@ -1,0 +1,20 @@
+[Event "Trinec"]
+[Site "Trinec"]
+[Date "1972.01.01"]
+[Round "7"]
+[White "Smejkal, Jan"]
+[Black "Trapl, Jindrich"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "741dbee5"]
+[Epoch "Bishop"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 b6 7. O-O Bb7 8. Bd2
+a6 9. Nxd5 Nxd5 10. cxd5 Bxd2 11. Qxd2 exd5 12. Rac1 Nc6 13. Rc3 Nb4 14. Bb1 a5
+15. Rfc1 Qd6 16. Rxc7 Bc6 17. R1xc6 Nxc6 18. Qc2 g6 19. Rxc6 Qxc6 20. Qxc6 Rac8
+21. Qc2 Rxc2 22. Bxc2 Rc8 23. Ne1 1-0

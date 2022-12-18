@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Pina"]
+[Black "Sukudian"]
+[Result "1-0"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "Averbakh system"]
+[HashCode "fac74ac8"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 Nbd7 7. f4 c5 8.
+d5 Qa5 9. Qd2 Re8 10. Nf3 e5 11. O-O exf4 12. Qxf4 Rf8 13. Qxd6 Ng4 14. Qf4
+Nde5 15. Nd2 h6 16. Be7 g5 17. Qg3 Re8 18. Nb3 Qc7 19. d6 Qd7 20. h3 Rxe7
+21. dxe7 1-0
+

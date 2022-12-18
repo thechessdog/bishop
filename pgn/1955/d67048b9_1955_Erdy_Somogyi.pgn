@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Erdy, Bela"]
+[Black "Somogyi, Istvan"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "d67048b9"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 b6 6. Nf3 Bb7 7. O-O O-O 8. Nb5
+d6 9. a3 Ba5 10. dxc5 bxc5 11. Nxd6 Bxf3 12. gxf3 Nc6 13. Nb7 Qc7 14. Nxa5 Nxa5
+15. Bd2 Rfd8 16. Qc2 Rd7 17. Bc3 Rad8 18. Rad1 e5 19. Be2 Nc6 20. Qf5 Ne8 21.
+Rxd7 Rxd7 22. Rd1 Nd6 23. Qh5 Qd8 24. Rd5 f6 25. Qg4 Ne7 26. Qe6+ Kf8 27. Rxc5
+Ndf5 28. Rd5 Nxd5 29. cxd5 g6 30. Bb5 Rxd5 31. Bc4 Rd1+ 32. Kg2 Kg7 33. Qf7+
+Kh6 34. Qxa7 Nh4+ 35. Kh3 Qc8+ 36. Kxh4 g5+ 37. Kg3 Rg1# 0-1

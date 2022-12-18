@@ -1,0 +1,19 @@
+[Event "Wroclaw"]
+[Site "Wroclaw"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Makarczyk, Kazimierz"]
+[Black "Kwilecki, A."]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "ad345d7e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d6 6. a3 Ba5 7. Qc2 Nc6 8. Bd2
+O-O 9. O-O-O Qe7 10. Kb1 a6 11. f3 Bd7 12. Be1 Ne8 13. Bg3 Na7 14. Ne4 f5 15.
+N4c3 b5 16. dxc5 dxc5 17. Nc1 Bc6 18. Nb3 Bc7 19. Bxc7 Nxc7 20. Na5 Rab8 21.
+Nxc6 Nxc6 22. Kc1 b4 23. axb4 cxb4 24. Na4 b3 25. Qd2 Rfd8 26. Qe1 Rxd1+ 27.
+Qxd1 Qb4 28. Nc3 Rd8 29. Qe1 Qa5 30. Kb1 Nb4 31. Qh4 Rd2 32. Be2 Na2 33. Rc1
+Nxc3+ 34. Rxc3 Qa2+ 35. Kc1 Qxb2# 0-1

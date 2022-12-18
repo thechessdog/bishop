@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1964.01.01"]
+[Round "8"]
+[White "Krabbe, Tim"]
+[Black "Bertok, Mario"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "4cc19589"]
+[Epoch "Bishop"]
+[WhiteID "1000969"]
+[WhiteCountry "NED"]
+[BlackCountry "HRV"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. f5 Nxd4 12. Qxd4 Bh6+ 13. Kb1 Bf4 14. g3
+Be5 15. Qd3 Qb6 16. Ne2 Rc8 17. Bh3 Ke7 18. Nf4 Rc4 19. Qf3 Qc6 20. fxe6 fxe6
+21. Qg4 Rf8 22. Nxe6 Rf7 23. b3 Rxe4 24. Qf3 Bxe6 25. Bxe6 Kxe6 0-1

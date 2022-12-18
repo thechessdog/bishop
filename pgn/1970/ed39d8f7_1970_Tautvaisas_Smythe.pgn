@@ -1,0 +1,21 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Tautvaisas, Povilas"]
+[Black "Smythe, B."]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "ed39d8f7"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. Ne2
+cxd4 9. cxd4 Bb4+ 10. Kf2 f6 11. Be3 O-O 12. g3 Rf7 13. Bh3 Nf8 14. Kg2 Bd7 15.
+Rf1 Ng6 16. Bg1 Raf8 17. exf6 Rxf6 18. Kh1 Qc7 19. Rc1 Qd8 20. a3 Ba5 21. b4
+Bc7 22. Nc3 Nge7 23. Qd3 Be8 24. Rfe1 Bg6 25. Qe3 Nf5 26. Qd2 Re8 27. Bg2 Nd6
+28. Ne5 Nc4 29. Nxc4 dxc4 30. Ne4 Bxe4 31. Bxe4 e5 32. fxe5 Bxe5 33. Qc2 Nxd4
+34. Qxc4+ Kh8 35. Bxb7 Nf5 36. Bc6 Ree6 37. Rcd1 Qb8 38. Bd7 Re7 39. Qc8+ Qxc8
+40. Bxc8 h6 41. Rd5 Bd6 42. Red1 Be5 43. Bc5 Rc7 44. Bd7 Nxg3+ 45. hxg3 Bxg3
+46. Bf5 Kg8 47. Rd8+ Kf7 48. Rf8# 1-0

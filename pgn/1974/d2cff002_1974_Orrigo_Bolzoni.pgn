@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Orrigo"]
+[Black "Bolzoni"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "d2cff002"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qd1 Nc6 10. Bxf5 exf5 11. Nf3 Be6 12. O-O Qa5 13. Bd2 c4 14. a4
+O-O-O 15. Qb1 Ne7 16. Bg5 Rde8 17. Qb2 Ng6 18. Rfb1 Qc7 19. Qb5 a6 20. Qb6
+Bd7 21. Bc1 Bc6 22. Qxc7+ Kxc7 23. Ba3 f6 24. Bd6+ Kd7 25. Rb6 Re6 26. Rab1
+Rh6 27. Kf1 h4 28. Rxb7+ Bxb7 29. Rxb7+ Kc6 30. Rxg7 fxe5 31. dxe5 Kb6 32.
+Nd4 1-0
+

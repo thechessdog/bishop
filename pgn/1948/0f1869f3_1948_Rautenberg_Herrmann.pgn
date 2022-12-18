@@ -1,0 +1,18 @@
+[Event "Essen"]
+[Site "Essen"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Rautenberg"]
+[Black "Herrmann"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich variation"]
+[HashCode "0f1869f3"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 Nc6 5. Nf3 Nge7 6. Bd3 Nxd4 7. Nxd4 cxd4
+8. O-O Nc6 9. Qg3 f6 10. f4 g6 11. Nd2 Bg7 12. Nf3 O-O 13. Bd2 Bd7 14. Rae1
+fxe5 15. fxe5 Qc7 16. h4 Kh8 17. b4 a6 18. a4 b5 19. axb5 axb5 20. h5 gxh5
+21. Qh2 Be8 22. g4 Ra3 23. gxh5 Rg8 24. Kh1 1-0
+

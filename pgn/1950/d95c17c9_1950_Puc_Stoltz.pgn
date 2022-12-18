@@ -1,0 +1,25 @@
+[Event "Bled"]
+[Site "Bled"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Puc, Stojan"]
+[Black "Stoltz, Gösta"]
+[Result "0-1"]
+[ECO "D04"]
+[Opening "Queen's pawn game"]
+[HashCode "d95c17c9"]
+[Epoch "Bishop"]
+[WhiteCountry "SVN"]
+[BlackCountry "SWE"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 g6 4. b3 Bg7 5. Bb2 O-O 6. Bd3 c5 7. O-O Nfd7 8. c4
+dxc4 9. bxc4 Nc6 10. Qe2 cxd4 11. exd4 Qb6 12. Nc3 Nxd4 13. Nxd4 Qxd4 14. Rad1
+Qe5 15. Qc2 e6 16. Rfe1 Qa5 17. Nb5 Qxa2 18. Ba3 Qxc2 19. Bxc2 Rd8 20. Nc7 Rb8
+21. Be7 Rf8 22. Ba4 Nb6 23. Bb3 Nd7 24. Re3 b6 25. Bxf8 Bxf8 26. Ne8 Be7 27.
+Nd6 Nc5 28. Bc2 Bd7 29. Ne4 Bc6 30. Nxc5 Bxc5 31. Red3 Be7 32. Ra1 a5 33. Rb3
+a4 34. Rbb1 a3 35. Bb3 b5 36. cxb5 Rxb5 37. Bc4 Rc5 38. Bb3 Rc3 39. f3 Bc5+ 40.
+Kh1 Rxf3 41. Rc1 Rxb3 42. Rxc5 Bd5 43. Ra5 Rb2 44. R5xa3 Rxg2 45. h3 Kg7 46.
+Ra5 Rd2+ 47. Kg1 g5 48. Ra7 Kg6 49. Rd7 h5 50. Raa7 f6 51. Rh7 h4 52. Rag7+ Kf5
+53. Rh6 Rg2+ 54. Kf1 Rg3 55. Rf7 Rxh3 56. Rhxf6+ Kg4 57. Rg7 Rg3 58. Kf2 h3 59.
+Rh6 Rf3+ 60. Ke2 Rf5 61. Rgh7 Re5+ 62. Kf2 Bg2 63. Rh8 Rf5+ 64. Ke2 e5 65. R6h7
+Kg3 66. Ke3 g4 67. Rh6 Rf1 68. Rh5 e4 69. Rh4 Rh1 0-1

@@ -1,0 +1,21 @@
+[Event "Lone Pine"]
+[Site "Lone Pine"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Ervin"]
+[Black "Cleghorn"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "d3c9bc3b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bxb5 Qxd5 7. Nc3
+Qxg2 8. Qf3 Qxf3 9. Nxf3 Bd7 10. d3 O-O-O 11. Be3 Bb4 12. O-O-O Bxc3 13.
+bxc3 Nd5 14. Ba6+ Kb8 15. Kd2 Ka8 16. Ng5 Nxe3 17. Kxe3 Rdf8 18. Rb1 Na5
+19. Rb4 c5 20. Rb2 f5 21. Rhb1 h6 22. Nf3 Re8 23. Bb7+ Nxb7 24. Rxb7 f4+
+25. Ke2 Bg4 26. Rxg7 Rhg8 27. Rxg8 Rxg8 28. Rb5 Rc8 29. h3 Bh5 30. Ra5 Rc6
+31. Ra4 c4 32. Ra5 cxd3+ 33. cxd3 Rb6 34. Rxe5 Rb2+ 35. Ke1 Bxf3 36. Rf5
+Re2+ 37. Kf1 Rd2 0-1
+

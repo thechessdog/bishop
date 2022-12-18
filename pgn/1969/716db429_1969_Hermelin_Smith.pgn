@@ -1,0 +1,17 @@
+[Event "corr Hoffman"]
+[Site "corr Hoffman"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Hermelin"]
+[Black "Smith, Andrew Philip"]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "716db429"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+Nfd7 9. Nb5 dxe5 10. Nd6+ Ke7 11. Nxc8+ Qxc8 12. d6+ Kd8 13. Nf3 exf4 14. Ng5
+Re8+ 15. Be2 Ne5 16. Bxf4 Nbd7 17. O-O h6 18. Bxe5 Nxe5 19. Bb5 hxg5 20. Rxf7
+Qe6 21. Rxg7 Rf8 22. Re7 Qf6 23. Qd5 Qf2+ 24. Kh1 Nc6 25. Rxb7 Re8 26. Rd7+ 1-0

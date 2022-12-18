@@ -1,0 +1,17 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Inzkirweli"]
+[Black "Giorgadze, Giorgi"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "ec50eca4"]
+[Epoch "Bishop"]
+[BlackID "13600044"]
+[BlackCountry "GEO"]
+
+1. d4 d5 2. Nf3 Bg4 3. Ne5 Bh5 4. c4 e6 5. Qb3 b6 6. Qh3 Nf6 7. g4 Bg6 8. Nxg6
+fxg6 9. g5 Bb4+ 10. Bd2 Bxd2+ 11. Nxd2 Ng8 12. Qxe6+ Ne7 13. Bg2 c6 14. cxd5
+cxd5 15. Nc4 1-0

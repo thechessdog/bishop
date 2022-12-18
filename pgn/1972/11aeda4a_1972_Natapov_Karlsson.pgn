@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Natapov, G."]
+[Black "Karlsson, Lars"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "11aeda4a"]
+[Epoch "Bishop"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O
+Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 12. Ne2 Qxe5 13. Bf4 Qf6 14. Qb3 e5
+15. Qxb7 Bc6 16. Qc7 exf4 17. Nxf4 Rd8 18. Rac1 Bb5 19. Bxb5+ axb5 20. Nxd5 Qd6
+21. Rcd1 Qxd5 22. Rxd5 Rxd5 23. Qc6+ Kd8 24. Qa8+ Kc7 25. Rxe7+ 1-0

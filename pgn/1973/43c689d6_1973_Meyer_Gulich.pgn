@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Mevel, Alberic"]
+[Black "Gulich"]
+[Result "0-1"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "43c689d6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. Nf4 c6 8. b4
+Nbd7 9. c5 e5 10. dxe5 Nxe5 11. Bb2 Ng6 12. Qd4 b6 13. Na4 Nxf4 14. Qxf4 bxc5
+15. Nxc5 Bxc5 16. bxc5 Ne4 17. Be2 Qa5+ 18. Kf1 g5 19. Qe5 f6 20. Qd4 Nd2+ 0-1

@@ -1,0 +1,17 @@
+[Event "Cicero"]
+[Site "Cicero"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Fischer, Robert"]
+[Black "Kral"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "21d8e2ae"]
+[Epoch "Bishop"]
+[WhiteID "2008653"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Be7 5. Nf3 Nd7 6. Bd3 Ngf6 7. Qe2 Nxe4 8.
+Bxe4 Nf6 9. Bd3 O-O 10. Bg5 c5 11. dxc5 Qa5+ 12. c3 Qxc5 13. O-O-O b5 14. Bxf6
+Bxf6 15. Qe4 g6 16. Qxa8 b4 17. c4 1-0

@@ -1,0 +1,20 @@
+[Event "Rio Hondo Tch-ARG"]
+[Site "Rio Hondo Tch-ARG"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Chavich"]
+[Black "Caglieri"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Anderssen-Richter variation"]
+[HashCode "12beb8b6"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. e5 Be7 7. Qg4 O-O
+8. Bd3 c5 9. Qh3 h6 10. dxc5 Nd7 11. f4 Nxc5 12. O-O-O b5 13. Nf3 b4 14.
+Ne2 Nxd3+ 15. Rxd3 Ba6 16. Rd2 Qa5 17. Kb1 Bc4 18. b3 Bxe2 19. Rxe2 Rfc8
+20. Nd4 Rc3 21. Qg4 Qb6 22. f5 Bc5 23. fxe6 Bxd4 24. exf7+ Kxf7 25. Qd7+
+Kg6 26. e6 Bf6 27. e7 Qd4 28. e8=Q+ Rxe8 29. Qxe8+ Kh7 30. Qh5 Rf3 31. c3
+Rxc3 32. Qf5+ g6 0-1
+

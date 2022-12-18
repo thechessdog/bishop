@@ -1,0 +1,24 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Spassky, Boris V."]
+[Black "Staruchin"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "2d371f7e"]
+[Epoch "Bishop"]
+[WhiteID "600024"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. g3 Bg7 5. Bg2 Nbd7 6. Nf3 O-O 7. O-O e5 8. e4
+Re8 9. h3 exd4 10. Nxd4 Nc5 11. Re1 a5 12. Nb3 Ne6 13. Be3 a4 14. Nd4 Nc5 15.
+Qc2 h5 16. Bg5 Qd7 17. Rad1 Nh7 18. Bc1 h4 19. gxh4 Re5 20. Nf3 Rh5 21. Bf4 g5
+22. hxg5 Rxh3 23. Bxh3 Qxh3 24. Nh2 Qh4 25. Bg3 Qxg5 26. Nd5 Ne6 27. Qd2 Qh5
+28. Qe2 Qh6 29. Ne7+ Kh8 30. Nf5 Qf6 31. Nxg7 Qxg7 32. Kh1 Bd7 33. Rg1 Qh6 34.
+Qd2 Neg5 35. Bf4 Rg8 36. Rg3 f6 37. Rdg1 Qh4 38. f3 Rg6 39. c5 Bc6 40. cxd6
+cxd6 41. Qxd6 Kg7 42. Qe7+ Kh6 43. Kg2 Qxf4 44. Ng4+ Qxg4 45. Rxg4 Rg7 46. Qd8
+Rd7 47. Qg8 Rg7 48. Qc4 Re7 49. Rh1+ Kg7 50. Rgh4 f5 51. Qc5 Re6 52. Qxf5 Rg6
+53. Rg4 1-0

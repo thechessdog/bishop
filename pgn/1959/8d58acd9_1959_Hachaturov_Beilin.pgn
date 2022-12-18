@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Hachaturov"]
+[Black "Beilin"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "8d58acd9"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 c6 6. Bd3 Bxd3 7. Qxd3
+Bb4 8. Ne2 O-O 9. O-O Re8 10. Ng3 Nd7 11. e4 Bxc3 12. bxc3 Nb6 13. Rae1 Nc4
+14. f4 Nb2 15. Qe2 Qa5 16. e5 Qxc3 17. Qg4 Qxd4+ 18. Kh1 g6 19. Nf5 Qc3 20.
+Nh6+ Kg7 21. Qh4 Re6 22. Ng4 f5 23. Nf6 h6 24. Rf3 Qd4 25. Rh3 Rh8 26. Qg3
+Nd1 27. Rf1 Nb2 28. c3 Qc4 29. Rg1 Na4 30. Qf3 Nc5 31. g4 Ne4 1-0
+

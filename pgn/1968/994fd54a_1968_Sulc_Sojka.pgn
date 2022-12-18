@@ -1,0 +1,20 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Sulc"]
+[Black "Sojka"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "994fd54a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Be3 f5 10. e5 dxe5 11. fxe5 Nd4 12. Re1 Nec6 13. Bf2 Qc7 14.
+Nxd4 Nxd4 15. Na4 f4 16. c3 fxg3 17. hxg3 Nf5 18. g4 Bxe5 19. Rxe5 Qxe5 20.
+gxf5 Rxf5 21. Qd2 Rh5 22. Nxc5 Qh2+ 23. Kf1 e5 24. Bd5+ Kh8 25. Bf3 Qh3+
+26. Bg2 Qh2 27. Qe3 Bh3 28. Bxh3 Rxh3 29. Qg5 Rf8 30. Ne4 Qh1+ 31. Ke2 Qf3+
+32. Ke1 Rh1+ 33. Bg1 Rh5 34. Nd2 Rxg5 35. Nxf3 Rxf3 36. Ke2 Rh3 0-1
+

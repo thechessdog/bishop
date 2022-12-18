@@ -1,0 +1,18 @@
+[Event "Halle zt"]
+[Site "Halle zt"]
+[Date "1967.01.01"]
+[Round "10"]
+[White "Minic, Dragoljub"]
+[Black "Ciocaltea, Victor"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "bb7e7cc9"]
+[Epoch "Bishop"]
+[BlackCountry "ROU"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Be3 O-O-O 9. Nd2 Ne7 10. O-O-O Ng6 11. g3 Bh3 12. Rhg1 h5 13. f3 f6 14. Ne2
+Ne5 15. Nf4 Bd7 16. Nd3 Ng6 17. Nf4 Ne5 18. Nd3 Ng6 19. Nf4 Ne5 1/2-1/2

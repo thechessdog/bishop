@@ -1,0 +1,17 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Lindh, Bengt"]
+[Black "Andersson, G."]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "217d3d33"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. e4 d6 6. Nc3 e5 7. d5 c5 8. Nge2
+Nh5 9. Bf3 f5 10. exf5 Bxf5 11. g4 e4 12. gxh5 exf3 13. Ng3 Qe7+ 14. Be3
+Nd7 15. Qxf3 Ne5 16. Qg2 Bg4 0-1
+

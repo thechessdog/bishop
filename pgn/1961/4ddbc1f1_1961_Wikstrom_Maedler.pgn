@@ -1,0 +1,25 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Wikstrom, B."]
+[Black "Maedler, M."]
+[Result "1-0"]
+[ECO "C97"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin defence"]
+[HashCode "4ddbc1f1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Re8 13. Nf1 g6 14. Ne3 Bf8
+15. dxe5 dxe5 16. Nh2 Bg7 17. Nhg4 Nxg4 18. Nd5 Qd8 19. hxg4 Bb7 20. Qf3
+Bxd5 21. exd5 Nc4 22. b3 Nd6 23. Qh3 Qd7 24. Be3 Rec8 25. a4 c4 26. b4 a5
+27. Bc5 axb4 28. Bxb4 bxa4 29. g5 Nf5 30. g4 Ne7 31. Red1 Rd8 32. Be4 Ra6
+33. Kg2 Nc8 34. Rh1 Nd6 35. Qxh7+ Kf8 36. f3 Rb8 37. Rhb1 Raa8 38. Kg3 Qe7
+39. Qh1 Kg8 40. Qc1 Nxe4+ 41. fxe4 Qd8 42. Ra2 Bf8 43. Rh2 Bg7 44. Qd2 Ra7
+45. Rbh1 Qb6 46. Kf3 f6 47. d6 Rf7 48. Qd5 Qb7 49. Rd2 fxg5+ 50. Ke3 Qxd5
+51. Rxd5 Rd7 52. Ra5 Bf8 53. Rd1 Rbd8 54. Ra6 Rh7 55. Rxa4 Rhd7 56. Ra6 Rc8
+57. Rd5 Bg7 58. Bc5 Kf7 59. Ra4 Ke6 60. Rxc4 Bf8 61. Kd3 Rc6 62. Bb4 Ra6
+63. Rc7 Rd8 64. d7 Bxb4 65. cxb4 Rd6 66. Rxd6+ Kxd6 67. Rc5 1-0
+

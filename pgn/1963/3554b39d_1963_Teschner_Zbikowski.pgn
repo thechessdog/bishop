@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Teschner, Rudolf"]
+[Black "Zbikowski, Wolfgang"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "3554b39d"]
+[Epoch "Bishop"]
+[BlackID "4605896"]
+[BlackCountry "GER"]
+[WhiteCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 f6 5. Nf3 c5 6. a3 Ba5 7. b4 cxd4 8. Bb5+
+Bd7 9. Nxd4 Qc7 10. Qd3 Qxe5+ 11. Kd1 Bb6 12. Nxe6 Kf7 13. Bxd7 Nxd7 14. Re1
+Qh5+ 15. f3 Ne7 16. Nxg7 Qxh2 17. Bf4 Qxf4 18. Rxe7+ Kxe7 19. Nxd5+ 1-0

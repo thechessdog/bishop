@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Zuckerman, Bernard"]
+[Black "Levy, Louis"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Tartakower variation"]
+[HashCode "b851fbaa"]
+[Epoch "Bishop"]
+[BlackID "2002310"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Bxe7 Nxc3 7. Qg4 Qxe7 8.
+Qxg7 Qb4 9. Qxh8+ Kd7 10. Bd3 Qxb2 11. Rd1 Nxd1 12. Kxd1 Qxa2 13. Qxh7 a5 14.
+Qxf7+ Kc6 15. h4 a4 16. Qe8+ Bd7 17. Qf8 b6 18. h5 Qb1+ 19. Ke2 a3 20. h6 a2
+21. h7 a1=Q 22. h8=Q Qd1+ 23. Ke3 Qac1# 0-1

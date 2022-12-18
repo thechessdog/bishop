@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Sternina, Vera E"]
+[Black "Lizunova, Raisa"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "b7e552c3"]
+[Epoch "Bishop"]
+[WhiteID "4110064"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 cxd4 5. Nxd4 Nc6 6. Be3 d6 7. Qd2 Nf6 8. f3
+O-O 9. Bc4 Nd7 10. O-O-O Na5 11. Bb3 Ne5 12. Qe2 Nxb3+ 13. cxb3 Nc6 14. h4 Nxd4
+15. Bxd4 Bxd4 16. Rxd4 h6 17. g4 Qb6 18. Rdd1 Be6 19. f4 a5 20. f5 Bd7 21. Nd5
+Qd8 22. a3 Bc6 23. Nf4 Qc8 24. Kb1 Kh7 25. g5 gxf5 26. Rhg1 Bxe4+ 27. Ka1 Rh8
+28. gxh6 Rg8 29. Qh5 Qf8 30. Nh3 f6 31. Rg7+ Kh8 32. Nf4 1-0

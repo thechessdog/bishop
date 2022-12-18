@@ -1,0 +1,20 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1957.03.01"]
+[Round "10"]
+[White "Casas, Fernando"]
+[Black "Eliskases, Erich Gottlieb"]
+[Result "0-1"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "5e60505a"]
+[Epoch "Bishop"]
+[BlackCountry "AUT"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. a3 cxd4 10. Nb5 Be7 11. Nbxd4 e5 12. Nf5 Nb6 13. Nxe7+ Qxe7 14. Ba2 Bg4
+15. Qe1 Be6 16. b3 Bd5 17. Bb2 Nbd7 18. Nd2 Nc5 19. Qe2 Nfe4 20. Rfc1 Nxd2 21.
+Qxd2 Rad8 22. Qc3 Qg5 23. e4 Bxe4 24. g3 Nd3 25. Re1 Qf5 26. f4 Rc8 27. Qd2
+Nxe1 0-1

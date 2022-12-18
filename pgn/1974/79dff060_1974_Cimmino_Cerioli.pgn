@@ -1,0 +1,21 @@
+[Event "Coppa Elo"]
+[Site "Coppa Elo"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Cimmino, Pietro"]
+[Black "Cerioli"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "79dff060"]
+[Epoch "Bishop"]
+[WhiteID "887420"]
+[WhiteCountry "ITA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bf4 Bd6 7. Qd2 O-O
+8. Bd3 Qc7 9. Bg3 Bg4 10. Ne2 Re8 11. O-O-O Nd7 12. f3 Be6 13. Nc3 f5 14. d5
+Bxg3 15. hxg3 cxd5 16. g4 Ne5 17. Bxf5 Bxf5 18. gxf5 Nc4 19. Nxd5 Qe5 20. Qd4
+Rac8 21. Qxe5 Rxe5 22. f6 gxf6 23. Nxf6+ Kg7 24. Ne4 Rc7 25. Rd3 f5 26. Nc3 Re6
+27. Rhd1 Rf7 28. Rd7 Nb6 29. Rxf7+ Kxf7 30. Nd5 Nc4 31. Nf4 Re7 32. b3 Nb6 33.
+c4 Nc8 34. Rd5 Kf6 35. Rd8 Nb6 36. Kd2 Rd7+ 37. Rxd7 Nxd7 38. Ke3 1-0

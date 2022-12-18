@@ -1,0 +1,21 @@
+[Event "Staffs"]
+[Site "Staffs"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Miles, Anthony J"]
+[Black "De Coverly, Roger D"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "cf65fc3d"]
+[Epoch "Bishop"]
+[BlackID "405213"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 d6 4. Bg2 Be7 5. Nge2 O-O 6. O-O Nbd7 7. d3 c6 8. h3
+b5 9. a3 Bb7 10. d4 a6 11. b3 Re8 12. Bb2 Bf8 13. Re1 Qc7 14. Qd2 Rad8 15. Rad1
+d5 16. exd5 cxd5 17. dxe5 Nxe5 18. Nd4 Ne4 19. Nxe4 dxe4 20. Qe3 Nf3+ 21. Bxf3
+exf3 22. Qxe8 Rxe8 23. Rxe8 Qd7 24. Re3 h5 25. Rdd3 Qxh3 26. Nxf3 Bc5 27. Bd4
+Bxd4 28. Re8+ 1-0

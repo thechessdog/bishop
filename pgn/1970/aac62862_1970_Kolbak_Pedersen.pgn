@@ -1,0 +1,26 @@
+[Event "Rasmus mem"]
+[Site "Randers"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "Kolbak, Jens"]
+[Black "Pedersen, Karl"]
+[Result "0-1"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence, Nimzovich attack"]
+[HashCode "aac62862"]
+[Epoch "Bishop"]
+[WhiteID "1400339"]
+[BlackID "1400525"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 d6 5. d4 Bd7 6. Bxc6 Bxc6 7. Qd3 Qe7 8.
+O-O g6 9. Re1 Bg7 10. Bg5 h6 11. Bxf6 Qxf6 12. Nb5 Qd8 13. dxe5 dxe5 14. Qc4
+O-O 15. Rad1 Qe7 16. Nc3 Rad8 17. b4 Rxd1 18. Rxd1 Rd8 19. Rxd8+ Qxd8 20. h3
+Qd6 21. a4 Bd7 22. Nb5 Qd1+ 23. Kh2 c6 24. Nxa7 Be6 25. Qd3 Qxd3 26. cxd3 Bb3
+27. a5 Bc2 28. Nxc6 Bxd3 29. Ncxe5 Bb5 30. Kg3 g5 31. Kg4 h5+ 32. Kf5 f6 33.
+Nd4 Be8 34. Nef3 Bd7+ 35. Ne6 Kf7 36. Nd4 Bf8 37. e5 Bxb4 38. exf6 Bc3 39. Kxg5
+Bxe6 40. Nb5 Bxf6+ 41. Kxh5 Be5 42. Kg5 Bc4 43. Kf5 Bb8 44. Nd4 Bc7 45. Ke4
+Bxa5 46. g4 Bc3 47. f4 b5 48. Nf5 Bf1 49. Kd5 b4 50. Nd6+ Kg8 51. Ke6 b3 52.
+Ne4 Bc4+ 53. Kd6 Bb4+ 54. Ke5 b2 55. Nf6+ Kf7 0-1

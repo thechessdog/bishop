@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Vicoli"]
+[Black "Leone, F."]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Herman Steiner variation"]
+[HashCode "991f3401"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 e4 10. dxc6 exf3 11. Qxf3 Bg4 12. Qg3 Re8 13. f3 Qd3 14. Kh1
+Bd6 15. Qf2 Rxe1+ 16. Qxe1 Re8 17. Qd1 Bxf3 18. gxf3 Re2 19. Qf1 Rxh2+ 20.
+Kg1 Qg6+ 21. Qg2 Qxg2# 0-1
+

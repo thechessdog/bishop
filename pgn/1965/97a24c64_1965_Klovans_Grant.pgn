@@ -1,0 +1,17 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Klovans, Janis"]
+[Black "Grant"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "97a24c64"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3
+O-O 9. Bg5 Qa5 10. Ne2 Kh8 11. O-O Nc6 12. Qh3 c4 13. Bxf5 exf5 14. Nf4 Be6 15.
+Rfe1 Qc7 16. Qh4 Rfe8 17. Re3 Kg8 18. Rh3 Kf8 19. Qxh7 Ne7 20. Nh5 1-0

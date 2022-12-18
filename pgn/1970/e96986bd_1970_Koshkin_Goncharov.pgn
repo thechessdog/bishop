@@ -1,0 +1,18 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Koshkin"]
+[Black "Goncharov"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "e96986bd"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 c5
+8. O-O cxd4 9. Nxd4 Bc5 10. Nf3 O-O 11. Qe2 Qc7 12. Bg5 b6 13. Bxf6 Nxf6
+14. Ne4 Be7 15. Nfg5 h6 16. Nxf6+ Bxf6 17. Qe4 g6 18. Nxf7 Qxf7 19. Qxa8
+Bb7 20. Qxa7 Bd4 21. Qa4 Bxf2+ 22. Kh1 Bxg2+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Sunne, Borge"]
+[Black "Martins, Poul"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "cceb03af"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O g6 5. d3 Bg7 6. Bg5 f6 7. Be3 O-O 8.
+Nc3 d6 9. Bc4+ Kh8 10. Qd2 g5 11. Ne2 h6 12. Ng3 f5 13. Bxg5 f4 14. Bxe7
+Qxe7 15. Nh5 Bg4 16. Nxg7 Bxf3 17. Nf5 Rxf5 18. exf5 Qg5 19. g3 Qg4 20. Bd5
+Nd4 0-1
+

@@ -1,0 +1,23 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "11"]
+[White "Santos, Luis"]
+[Black "Gonzales, Eliseo"]
+[Result "1-0"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "3ab1fc9d"]
+[Epoch "Bishop"]
+[WhiteID "1900056"]
+[WhiteCountry "POR"]
+[BlackID "6400078"]
+[BlackCountry "DOM"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+Bd7 9. Bc4 Ne5 10. Bb3 Qa5 11. O-O-O Rc8 12. Kb1 Nc4 13. Bxc4 Rxc4 14. Nb3 Qc7
+15. Bh6 Bxh6 16. Qxh6 b5 17. Rd2 b4 18. Nd5 Nxd5 19. exd5 a5 20. Nd4 a4 21. Re1
+Rxd4 22. Rxd4 b3 23. cxb3 Bf5+ 24. Ka1 axb3 25. a3 Kd7 26. Qe3 e5 27. Rb4 Bc2
+28. f4 e4 29. Qh3+ f5 30. Qh6 Kc8 31. Rc1 e3 32. Rxb3 Re8 33. Rc3 Qxc3 34. bxc3
+e2 35. Re1 1-0

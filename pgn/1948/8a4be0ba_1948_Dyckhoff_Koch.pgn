@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Dyckhoff"]
+[Black "Koch"]
+[Result "1-0"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "8a4be0ba"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 Nc6 7. O-O d5 8.
+a3 Bxc3 9. bxc3 b6 10. Ne5 Nxe5 11. dxe5 Nd7 12. f4 dxc4 13. Bxc4 Bb7 14.
+Qe2 Qc7 15. Bd2 Rad8 16. Be1 Nb8 17. Bh4 Rd7 18. e4 Nc6 19. f5 Nd8 20. Bg3
+Qc8 21. Rf4 exf5 22. exf5 Bd5 23. e6 1-0
+

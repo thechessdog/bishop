@@ -1,0 +1,17 @@
+[Event "Bognor Regis-A"]
+[Site "Bognor Regis"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Chaikin, AD."]
+[Black "Monkhouse, PE."]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "51462e6a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Nf3 cxd4 9. cxd4 O-O 10. O-O Nc6 11. Be3 e6 12. a4 b6 13. d5 Ne5 14. Ba2 Ng4
+15. Bd4 Bxd4 16. Nxd4 Qd6 17. Qxg4 e5 18. Nb5 Qe7 19. Qf3 a6 20. d6 Qd7 21. Nc7
+Ra7 22. Qf6 Qd8 23. Qxe5 1-0

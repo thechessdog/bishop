@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Fauth, H."]
+[Black "Hamm"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "4314fb32"]
+[Epoch "Bishop"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 Nd7 7. h3 Bxf3 8.
+Qxf3 Qa5 9. O-O-O b5 10. e5 d5 11. Kb1 e6 12. Bd3 O-O-O 13. g4 f5 14. gxf5
+gxf5 15. Rhg1 Bf8 16. Qf2 Nb6 17. Be2 b4 18. Rd3 bxc3 19. Rxc3 Bb4 20. Rb3
+Nc4 21. Bc1 Bf8 22. Qf3 Qc7 23. Qf1 Ne7 24. Bxc4 dxc4 25. Qxc4 Kd7 26. Bd2
+Rb8 27. Bb4 Rg8 28. Rg5 Rxg5 29. fxg5 Nd5 30. Bxf8 Rxf8 31. h4 Qa5 32. Rb7+
+Nc7 33. b4 Qd5 34. Qd3 c5 35. Rxa7 Rb8 36. c3 cxd4 37. a3 Qb3+ 38. Kc1
+Qxc3+ 39. Qxc3 dxc3 40. Kc2 f4 41. Kxc3 f3 42. Kd3 f2 43. Ke2 Rf8 44. Kf1
+Kc6 45. b5+ Kb6 46. Ra4 Nd5 47. Re4 Rf3 0-1
+

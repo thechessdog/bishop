@@ -1,0 +1,19 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Heilimo"]
+[Black "Geider"]
+[Result "1-0"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "9ec4e421"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 e6 7. Bd3 Be7
+8. O-O O-O 9. Qe2 Ne5 10. Rad1 Nxd3 11. Rxd3 Nd7 12. Ndb5 Ne5 13. Rd2 a6
+14. Nxd6 Bxd6 15. Rfd1 Qc7 16. Rxd6 Nc4 17. R1d4 Nxd6 18. Bf4 Qb6 19. Rxd6
+Qxb2 20. Rd3 b5 21. h3 Bb7 22. Rg3 Rfc8 23. Be5 Qc1+ 24. Kh2 g6 25. Qf3 Rc5
+26. Nd5 f5 27. Qh5 Rxd5 28. Rxg6+ hxg6 29. Qxg6+ Kf8 30. exd5 Ke7 31. Qg7+
+Kd8 32. d6 1-0
+

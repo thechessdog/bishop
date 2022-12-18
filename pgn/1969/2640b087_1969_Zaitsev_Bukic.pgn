@@ -1,0 +1,30 @@
+[Event "USSR-YUG"]
+[Site "USSR-YUG"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Zaitsev, Alexander"]
+[Black "Bukic, Enver"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Smyslov variation"]
+[HashCode "2640b087"]
+[Epoch "Bishop"]
+[WhiteID "4164490"]
+[WhiteCountry "RUS"]
+[BlackID "14600030"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 c5 5. e3 O-O 6. Bd3 d5 7. O-O dxc4 8.
+Bxc4 Qe7 9. Qe2 Rd8 10. a3 Ba5 11. Bd2 cxd4 12. exd4 Nc6 13. Be3 h6 14. Rfd1
+Bc7 15. Re1 a6 16. Ba2 b5 17. Rac1 Bb7 18. Bb1 Na5 19. Ne5 Qd6 20. Rcd1 Nc6 21.
+f4 Bb6 22. Nxc6 Bxc6 23. Rf1 Re8 24. h3 Rad8 25. Qd3 a5 26. Ba2 b4 27. axb4
+axb4 28. Ne2 Be4 29. Qb5 Bd5 30. Bb1 Rb8 31. Qd3 Rbc8 32. Qd2 Be4 33. Ng3 Bxb1
+34. Rxb1 Red8 35. Rbd1 Rc4 36. Qd3 Rdc8 37. Ne2 Nd5 38. Bd2 f5 39. Rc1 Rxc1 40.
+Rxc1 Rxc1+ 41. Bxc1 Qc6 42. Kf2 Bc7 43. Bd2 Qa4 44. Qc4 Bd6 45. g3 Qd1 46. Qc1
+Qa4 47. g4 Qe8 48. g5 Kh7 49. Ng3 hxg5 50. fxg5 Bxg3+ 51. Kxg3 Qb8+ 52. Bf4 Qb5
+53. Qd1 Nxf4 54. Kxf4 Qb8+ 55. Kf3 Qh2 56. Qe1 Qxh3+ 57. Kf4 Qh2+ 58. Kf3 Qd6
+59. Qe3 Kg6 60. b3 Qd5+ 61. Kf4 Kf7 62. Kg3 Qd6+ 63. Kf3 Qc6+ 64. Kf4 Qc7+ 65.
+Qe5 Qxe5+ 66. Kxe5 g6 67. d5 exd5 68. Kxd5 Ke7 69. Ke5 Kd7 70. Kd5 Kc7 71. Kc5
+f4 72. Kd4 Kd6 73. Ke4 f3 74. Kxf3 Ke5 75. Ke3 Kf5 76. Kd4 Kxg5 77. Kc5 Kf4 78.
+Kxb4 g5 79. Kc3 Ke3 0-1

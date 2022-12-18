@@ -1,0 +1,16 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Parraga, N."]
+[Black "Zemitis, Val"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "0fa18c99"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qf7 6. Ne3 c6 7. Nxe4 d5
+8. Ng3 h5 9. Be2 h4 10. Ngf1 Be6 11. d4 Nd7 12. Ng4 O-O-O 13. Nfe3 Bd6 14.
+Qd3 Ne7 15. Bd2 Ng6 16. Bf3 h3 17. O-O-O Nh4 18. Qe2 Bxg4 0-1
+

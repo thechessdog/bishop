@@ -1,0 +1,23 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Ree, Hans"]
+[Result "1/2-1/2"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "f368b9f7"]
+[Epoch "Bishop"]
+[BlackID "1000098"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. c4 Nf6 2. d4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 Nd7 13. Nc4 Ne5 14. Ne3 f5 15.
+f4 Nf7 16. exf5 gxf5 17. Nc4 b6 18. Be3 Bb7 19. Qd2 Bxc3 20. bxc3 Nxd5 21. Bf3
+Nxe3 22. Nxe3 Bxf3 23. Rxf3 Nh6 24. Nxf5 Nxf5 25. Qd5+ Kh8 26. Qxf5 Qe7 27. Rd1
+Rad8 28. c4 Qe6 29. Qd3 Qg6 30. f5 Qf6 31. Re3 Re5 32. Rxe5 Qxe5 33. Qf3 Re8
+34. f6 Rf8 35. f7 Kg7 36. Rf1 Qe6 37. Qg3+ Kh8 38. Qc3+ Qe5 39. Qf3 Kg7 40. h3
+h6 41. Kh1 1/2-1/2

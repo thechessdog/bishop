@@ -1,0 +1,24 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Nielsen, Julius"]
+[Black "Moller, Ejvind"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "bb80458b"]
+[Epoch "Bishop"]
+[BlackID "1426001"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 h6 8. Be3
+Be6 9. Qd2 Nbd7 10. O-O Rc8 11. f3 Qc7 12. Rac1 Nb6 13. Kh1 Nc4 14. Bxc4 Bxc4
+15. Rfd1 b5 16. Qf2 Rb8 17. Rd2 Be7 18. Rcd1 O-O 19. Nd5 Nxd5 20. exd5 g5 21.
+Nc5 b4 22. b3 Bb5 23. a4 bxa3 24. c4 Bxc4 25. bxc4 dxc5 26. h4 Rb6 27. Ra2 Rb3
+28. hxg5 hxg5 29. Bc1 Qd6 30. Rxa3 Rb1 31. Qa2 Qh6+ 32. Kg1 Rfb8 33. Rxa6 Bd6
+34. Qc2 e4 35. f4 gxf4 36. Qxe4 Rxc1 37. Rxc1 f3 38. Qg4+ Kf8 39. Rca1 Qh2+ 40.
+Kf1 Qh1+ 41. Kf2 fxg2 42. R6a2 Be5 43. Qxg2 Qxa1 44. Rxa1 Rb2+ 45. Kf1 Rxg2 46.
+Ra8+ Ke7 47. Kxg2 Bd4 48. Kf3 Kd7 49. Ke4 Ke7 50. Kf5 Kd7 51. Ra7+ Ke8 52. d6
+Bf2 53. Re7+ Kf8 54. Re2 Bd4 55. d7 1-0

@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Kampars, N."]
+[Black "Likover, E."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "e86893dc"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bg4 6. h3 Bh5 7. g4 Bg6
+8. Ne5 Be4 9. Bc4 e6 10. O-O Nc6 11. Nxe4 Nxe4 12. Nxf7 Qxd4+ 13. Qxd4 Nxd4
+14. Nxh8 Nxc2 15. Rb1 Bc5+ 16. Kg2 Ke7 17. Bd3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Skopje ol (Men) fin-C"]
+[Site "Skopje"]
+[Date "1972.??.??"]
+[Round "10"]
+[White "Kerr, Brian"]
+[Black "Toth, Peter"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "d65d6aff"]
+[Epoch "Bishop"]
+[BlackID "2100517"]
+[BlackCountry "BRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bg4 7. Be2 O-O-O
+8. Be3 Bb4+ 9. Nc3 Nf6 10. a3 Bxc3+ 11. bxc3 Ne4 12. Qc2 Qa5 13. Rc1 Rhe8 14.
+O-O f5 0-1

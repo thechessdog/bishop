@@ -1,0 +1,19 @@
+[Event "CSR-ch"]
+[Site "Bratislava"]
+[Date "1967.??.??"]
+[Round "2"]
+[White "Kupka, Slavoj"]
+[Black "Augustin, Josef"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "3ee02aae"]
+[Epoch "Bishop"]
+[BlackID "300373"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 Qc7 10. Bd2 Ngf6 11. c4 e6 12. O-O-O O-O-O 13. Bc3 c5 14. Qe2 cxd4
+15. Nxd4 a6 1/2-1/2

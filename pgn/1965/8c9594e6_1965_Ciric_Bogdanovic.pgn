@@ -1,0 +1,18 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1965.01.01"]
+[Round "12"]
+[White "Ciric, Dragoljub M"]
+[Black "Bogdanovic, Rajko"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "8c9594e6"]
+[Epoch "Bishop"]
+[BlackID "14400316"]
+[BlackCountry "BIH"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4
+Nc5 9. Qf3 Qd7 10. O-O b5 11. e5 Bb7 12. Qd1 dxe5 13. fxe5 Nxb3 14. Nxb3 Qxd1
+15. Rxd1 Ne4 16. Nxe4 Bxe4 17. c3 1/2-1/2

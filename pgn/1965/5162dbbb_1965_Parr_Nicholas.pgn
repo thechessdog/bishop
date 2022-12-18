@@ -1,0 +1,16 @@
+[Event "Bognor Regis-A"]
+[Site "Bognor Regis"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Parr, David"]
+[Black "Nicholas, GJ."]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "5162dbbb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Bc4
+Nc6 9. Bb3 a5 10. Qd2 Nxd4 11. Bxd4 b5 12. h4 Be6 13. h5 Bxb3 14. axb3 e5 15.
+Be3 Nxh5 16. Bh6 Kh8 17. g4 Nf6 18. Bxg7+ Kxg7 19. Qh6+ Kh8 20. Nd5 1-0

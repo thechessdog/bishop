@@ -1,0 +1,20 @@
+[Event "Baku ch-URS"]
+[Site "Baku ch-URS"]
+[Date "1972.11.01"]
+[Round "1"]
+[White "Balashov, Yuri S"]
+[Black "Zhidkov, Valery S"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "d985e223"]
+[Epoch "Bishop"]
+[WhiteID "4100263"]
+[WhiteCountry "RUS"]
+[BlackID "14100282"]
+[BlackCountry "UKR"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d6 5. Nf3 dxe5 6. Qxd8+ Kxd8 7. Nxe5
+Ke8 8. Be3 Nd7 9. Nc4 Nb6 10. O-O-O e6 11. Nxb6 axb6 12. Bb5+ c6 13. Bxb6 cxb5
+14. Rd8+ Ke7 15. Rhd1 f6 0-1

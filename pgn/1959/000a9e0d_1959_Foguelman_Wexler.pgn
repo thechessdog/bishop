@@ -1,0 +1,23 @@
+[Event "Buenos Aires LR"]
+[Site "Buenos Aires"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Foguelman, Alberto"]
+[Black "Wexler, Bernardo"]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "000a9e0d"]
+[Epoch "Bishop"]
+[WhiteID "101435"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. d5 Bg7 5. Nc3 O-O 6. g3 d6 7. Bg2 e5 8. dxe6
+fxe6 9. O-O Nc6 10. Bg5 Qb6 11. Qd2 Nd4 12. b3 Bd7 13. Rad1 Bc6 14. Nxd4 cxd4
+15. Qxd4 Qxd4 16. Rxd4 Bxg2 17. Kxg2 Nd5 18. Rxd5 exd5 19. Nxd5 Rae8 20. e3 Rf7
+21. Rd1 Re6 22. g4 b6 23. f4 Rb7 24. Kf3 Kf7 25. Bh4 a6 26. e4 Re8 27. Bf2 Reb8
+28. a4 b5 29. cxb5 axb5 30. a5 b4 31. a6 Rd7 32. Rd2 Ra8 33. Ra2 Rdd8 34. a7
+Rd7 35. Ra4 Bc3 36. Bb6 Ke6 37. Ke3 Rb7 38. Nc7+ Rxc7 39. Bxc7 d5 40. e5 Kd7
+41. Bb8 1-0

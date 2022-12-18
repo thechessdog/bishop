@@ -1,0 +1,16 @@
+[Event "corr ch-NOR"]
+[Site "corr ch-NOR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Berthelsen, R."]
+[Black "Bjoerneraas, I."]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "8ea185ec"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. Qc1 c5 5. Bh6 O-O 6. h4 d5 7. h5 Bxh6 8.
+Qxh6 gxh5 9. Nc3 cxd4 10. Nxd4 Nc6 11. O-O-O Qb6 12. Nxd5 1-0
+

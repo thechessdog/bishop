@@ -1,0 +1,16 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Engers, Guenther"]
+[Black "Hoerner, D."]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "0006253a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. Nc3 Bb4 7. O-O O-O 8. cxd5
+exd5 9. a3 Bd6 10. b4 Re8 11. Qb3 a6 12. Bb2 Ne4 13. a4 Re6 14. b5 Rh6 15. g3
+Qd7 16. Nxd5 Qg4 17. Be2 Qh5 0-1

@@ -1,0 +1,23 @@
+[Event "Panamerican"]
+[Site "Havana"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Ortega, Rogelio"]
+[Black "Bielicki, Carlos"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "34cf7f1a"]
+[Epoch "Bishop"]
+[BlackID "100684"]
+[BlackCountry "ARG"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. O-O
+Nbd7 9. f4 Qc7 10. Nd5 Bxd5 11. exd5 Be7 12. fxe5 Nxe5 13. Nd4 g6 14. Kh1 O-O
+15. Bh6 Rfe8 16. c4 Nfd7 17. b3 Bf6 18. Qd2 Qd8 19. Rf4 Bg5 20. Bxg5 Qxg5 21.
+Ne6 fxe6 22. Rf8+ Rxf8 23. Qxg5 exd5 24. cxd5 Rf7 25. Rf1 Rxf1+ 26. Bxf1 Rf8
+27. Kg1 Nf6 28. h3 Kg7 29. Qd2 Rf7 30. Be2 Re7 31. a4 Nf7 32. a5 Ne5 33. Qd4
+Rd7 34. b4 Re7 35. Bd1 Nf7 36. Bg4 Rc7 37. Be6 Ng5 38. h4 Nxe6 39. dxe6 d5 40.
+Qe5 Rc1+ 41. Kf2 h5 42. Qb8 1-0

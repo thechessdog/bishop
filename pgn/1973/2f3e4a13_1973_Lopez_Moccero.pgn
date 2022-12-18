@@ -1,0 +1,20 @@
+[Event "Mar del Plata open"]
+[Site "Mar del Plata open"]
+[Date "1973.01.01"]
+[Round "3"]
+[White "Lopez, Noberto"]
+[Black "Moccero, Eduardo"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "2f3e4a13"]
+[Epoch "Bishop"]
+[WhiteID "101788"]
+[WhiteCountry "ARG"]
+[BlackID "103373"]
+[BlackCountry "ARG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 h5 6. Nh3 Na6 7. Ng5 c5 8. Be3
+cxd4 9. Bxd4 Bd7 10. Qd2 O-O 11. O-O-O Nb4 12. f3 Qc7 13. g4 Rfc8 14. gxh5 Nxh5
+15. Bxg7 Nxg7 16. h5 gxh5 17. a3 a5 18. Rdg1 b5 19. Rxh5 Nxc2 20. Ne6 1-0

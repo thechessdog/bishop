@@ -1,0 +1,17 @@
+[Event "corr Landerkampf"]
+[Site "corr Landerkampf"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Hosnedl"]
+[Black "Cartner"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "766ef269"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. O-O-O Nxd4 10. Bxd4 Be6 11. Kb1 Rc8 12. h4 a6 13. h5 Nxh5 14.
+Bxg7 Nxg7 15. Qh6 Nh5 16. g4 Nf6 17. e5 Re8 18. exf6 exf6 19. Ne4 Bxg4 1-0
+

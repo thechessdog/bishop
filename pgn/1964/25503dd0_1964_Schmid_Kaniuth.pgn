@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Schmid, H."]
+[Black "Kaniuth, E."]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "25503dd0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5
+8. Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 Nc5 12. Bxf6 gxf6 13. Kb1 b4 14.
+Nd5 exd5 15. exd5+ Kd7 16. Nc6 Nxb3 17. cxb3 Bxc6 18. dxc6+ Kc7 19. Qf4 Qg5
+20. Qxb4 Qb5 21. Qf4 Qg5 22. Qc4 Qg6+ 23. Ka1 Rg8 24. Rd4 Qh5 25. g4 d5 26.
+Rxd5 Qxg4 27. Rd7+ Kb6 28. Rb7+ Ka5 29. Qd5+ 1-0
+

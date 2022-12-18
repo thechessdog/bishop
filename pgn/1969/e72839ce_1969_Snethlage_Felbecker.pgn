@@ -1,0 +1,18 @@
+[Event "corr ICCF/M"]
+[Site "corr ICCF/M"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Snethlage, J."]
+[Black "Felbecker, H."]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "e72839ce"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Bg4 5. e4 Qe7 6. Qe2 Nc6 7. c3
+O-O-O 8. d4 Nxd4 9. cxd4 Bb4+ 10. Bd2 Rxd4 11. Bxb4 Qxb4+ 12. Nc3 Nf6 13.
+a3 Qe7 14. Qe3 Rd6 15. Qxa7 Nxe4 16. Qa8+ Kd7 17. Qa4+ c6 18. Qxe4 Qxe4+
+19. Nxe4 Re8 20. Rd1 Rxe4+ 21. Be2 b5 22. Kf2 f6 23. Bd3 Rf4 24. Bxh7 1-0
+

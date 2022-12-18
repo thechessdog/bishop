@@ -1,0 +1,18 @@
+[Event "ACM San Diego"]
+[Site "ACM San Diego"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Tech II"]
+[Black "Ribbit"]
+[Result "0-1"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, not Scheveningen"]
+[HashCode "1c56ba0e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nc6 4. d4 Nf6 5. Bc4 cxd4 6. Nxd4 Nxd4 7. Qxd4 e5
+8. Qd3 Bd7 9. O-O Be7 10. Bg5 Qb6 11. Bxf6 Bxf6 12. Nd5 Qc5 13. Nxf6+ gxf6
+14. Bd5 Bc8 15. Rfe1 O-O 16. Re3 a5 17. Rae1 h5 18. Rg3+ Kh7 19. Qf3 Bg4
+20. Qxf6 Qb4 21. Rc3 Qxb2 22. Bxf7 d5 0-1
+

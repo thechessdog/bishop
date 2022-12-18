@@ -1,0 +1,17 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Broun"]
+[Black "Ballbe, F."]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "c95a2ad8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. d4 Bb4+ 7. Nc3 cxd5
+8. Bxf4 O-O 9. c5 Ne4 10. Rc1 b6 11. cxb6 axb6 12. Bd3 Rxa2 13. O-O Nxc3
+14. bxc3 Bd6 15. Ne5 Ba6 16. Bb1 Bxf1 17. Bxa2 Bc4 18. Bb1 Qh4 1/2-1/2
+

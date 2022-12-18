@@ -1,0 +1,19 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gheorghiu, Florin"]
+[Black "Varabiescu, G."]
+[Result "1-0"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[HashCode "0ed672df"]
+[Epoch "Bishop"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 Be7 5. O-O O-O 6. d4 dxc4 7. Ne5 c5 8. dxc5
+Bxc5 9. Nc3 Qc7 10. Nxc4 Bxf2+ 11. Rxf2 Qxc4 12. Rxf6 gxf6 13. Bh6 Qc5+ 14. e3
+f5 15. Rc1 Qe7 16. Qd4 f6 17. Bxf8 Qxf8 18. Nb5 Nd7 19. Nc7 Rb8 20. Nxe6 Qe7
+21. Rc7 Kh8 22. Nc5 1-0

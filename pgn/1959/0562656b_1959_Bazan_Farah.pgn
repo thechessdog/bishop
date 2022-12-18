@@ -1,0 +1,22 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Bazan, Osvaldo"]
+[Black "Farah, Rodolfo"]
+[Result "1-0"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "0562656b"]
+[Epoch "Bishop"]
+[BlackID "103616"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 a6 7. O-O Nbd7 8. Bg5
+h6 9. Bh4 e5 10. d5 g5 11. Bg3 Nh5 12. Nd2 Nf4 13. f3 Qf6 14. b4 Qg6 15. Bf2
+Nf6 16. Kh1 g4 17. c5 Nxg2 18. Kxg2 gxf3+ 19. Kxf3 Ng4 20. h3 Nh2+ 21. Ke3
+Nxf1+ 22. Qxf1 dxc5 23. bxc5 Kh8 24. Qh1 f5 25. Rg1 Qf6 26. Qg2 Qe7 27. Kd3
+fxe4+ 28. Ndxe4 Bf5 29. Bg4 Bxe4+ 30. Nxe4 Rad8 31. Be6 Rf4 32. Qg6 b6 33. Be3
+Rf3 34. Ke2 Rxe3+ 35. Kxe3 bxc5 36. Bf5 Kg8 37. Qh7+ Kf8 38. Be6 1-0

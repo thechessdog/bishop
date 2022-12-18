@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Pribyl, J."]
+[Black "Zheliandinov, Viktor"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "6576ab9f"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 h6 7. h3 Nc6 8. Bg2
+Bd7 9. O-O a6 10. Be3 Qc7 11. Qe2 Be7 12. Rad1 O-O-O 13. f4 Kb8 14. Qf2 Rc8 15.
+Nb3 Bd8 16. Na4 Nb4 17. Ba7+ Ka8 18. Nb6+ Kxa7 19. Nxc8+ Kb8 20. Nxd6 Qxc2 21.
+Nxf7 1-0

@@ -1,0 +1,25 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kliavinsh, Janis"]
+[Black "Sakovich, Igor"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "b32f1542"]
+[Epoch "Bishop"]
+[BlackID "11600586"]
+[BlackCountry "LAT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d4 Nxd4 8.
+Bxf7+ Kxf7 9. Nxe5+ Kg8 10. Qxd4 c5 11. Qd1 Qe8 12. Nf3 Qxe4 13. Nc3 Qg6 14.
+Bg5 Rd8 15. Bxf6 Qxf6 16. Re1 d5 17. Re5 b4 18. Nxd5 Qc6 19. Ne7+ Bxe7 20. Rxe7
+Rxd1+ 21. Rxd1 Kf8 22. Rdd7 Qf6 23. Rxb7 Qxe7 24. Rxe7 Kxe7 25. Kf1 Kd6 26. Ke2
+Kd5 27. b3 c4 28. Nd2 Re8+ 29. Kd1 cxb3 30. axb3 Kd4 31. Nc4 Kc3 32. Ne3 Rd8+
+33. Kc1 a5 34. Nd1+ Kd4 35. Kd2 Ra8 36. Nb2 Ra6 37. Nd1 Ke4 38. Ne3 Rd6+ 39.
+Ke2 Kd4 40. Nd1 Rh6 41. h3 Rg6 42. g3 Rh6 43. h4 Rc6 44. Ne3 Kc3 45. h5 Kd4 46.
+Kd2 Rc5 47. g4 Ke4 48. Ke2 Rc6 49. f3+ Kf4 50. Kf2 Rc5 51. Ng2+ Ke5 52. Ne1 Kd4
+53. Ke2 Re5+ 54. Kd2 Re3 55. g5 Re5 56. f4 Re3 57. Nd3 Rh3 58. Ne5 Rh2+ 59. Kd1
+Rxh5 60. Nc6+ Ke3 61. Nxa5 Rh1# 0-1

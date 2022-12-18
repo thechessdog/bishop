@@ -1,0 +1,17 @@
+[Event "URS Spartakiad"]
+[Site "Moscow"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Egorov, Evgeni"]
+[Black "Popkov"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "05b1e056"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. Qd2 Nf6 8. f3
+Bd7 9. O-O-O Nxd4 10. Bxd4 O-O 11. g4 a6 12. h4 b5 13. h5 Qa5 14. hxg6 fxg6 15.
+Kb1 Be6 16. Qh2 b4 17. Bxf6 exf6 18. Nd5 Qc5 19. Qxh7+ Kf7 20. Nf4 Rac8 21.
+Qxg7+ Kxg7 22. Nxe6+ 1-0

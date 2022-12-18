@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Bella"]
+[Black "Norrito"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "df6c1200"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Be7 10. Bg5 Be6 11. g4 Nh6 12. h3 Ng8 13. Rad1+
+Kc8 14. Bxe7 Nxe7 15. Ng5 Nd5 16. Ne2 h6 17. Nxe6 fxe6 18. c4 Ne7 19. f4 b6
+20. Nd4 Rg8 21. Nxe6 c5 22. f5 c6 23. f6 1-0
+

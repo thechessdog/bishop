@@ -1,0 +1,19 @@
+[Event "CsB"]
+[Site "CsB"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Ott"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "83afdb69"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 gxf6 12. a3 Bb7 13. f5 e5 14. Nb3 Nc5 15.
+Nd5 Bxd5 16. Rxd5 Nxb3+ 17. Qxb3 O-O 18. Be2 Qc6 19. Rhd1 Rfc8 20. Kb1 Rd8 21.
+Qe3 Kg7 22. h4 h6 23. Qf2 Qc7 24. Rf1 Kh7 25. g5 Rg8 26. Bh5 Kg7 27. gxh6+ Kxh6
+28. Bxf7 Rg7 29. Bg6 Rxg6 30. fxg6 Kxg6 31. Qf5+ Kf7 32. Qh7+ Ke6 33. Rxf6+
+Kxf6 34. Rd3 Bd8 35. Rf3+ Ke6 36. Qf5+ Ke7 37. Qf7# 1-0

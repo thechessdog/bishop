@@ -1,0 +1,21 @@
+[Event "Saltsjobaden tt"]
+[Site "Saltsjobaden"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Sigurdsen, S."]
+[Black "Salo, Toivo"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "10f64ba1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 O-O 6. a3 Bxc3+ 7. Qxc3 d6 8.
+g3 Ne4 9. Qc2 f5 10. Bg2 Qf6 11. e3 a5 12. b3 e5 13. Bb2 Bd7 14. O-O exd4 15.
+Nxd4 Qe7 16. Nb5 Be8 17. Nc3 Bg6 18. Nd5 Qf7 19. Nf4 Rae8 20. Rae1 Ne5 21. f3
+Nc5 22. Rf2 h6 23. Nxg6 Qxg6 24. Bf1 Re7 25. b4 axb4 26. axb4 Ncd7 27. Bg2 Rc8
+28. c5 dxc5 29. bxc5 Kh8 30. Bd4 Nc6 31. Rfe2 Nde5 32. Kf2 Nb4 33. Qb1 Nbd3+
+34. Kf1 Nxe1 35. Kxe1 Nc6 36. Qb2 Nxd4 37. Qxd4 Qa6 38. Bh3 Rce8 39. Kf2 Qa5
+40. Rc2 Rxe3 41. Bxf5 Qe1+ 42. Kg2 Re2+ 43. Rxe2 Qxe2+ 44. Kh3 Qxf3 45. Bg4
+Qf1+ 46. Kh4 Qf6+ 0-1

@@ -1,0 +1,24 @@
+[Event "Groningen jr"]
+[Site "Groningen jr"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Cappello"]
+[Black "Teite"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "fabfcdd0"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nh3 Nf6 8.
+Nf4 Bh7 9. Bc4 e6 10. c3 Nd5 11. Qf3 Nd7 12. Bb3 N7f6 13. Nfh5 Nxh5 14.
+Nxh5 Bg6 15. Bd2 Qc7 16. c4 Bxh5 17. Qxh5 Nf6 18. Qf3 O-O-O 19. Bc3 Be7 20.
+O-O-O Rhg8 21. Kb1 Kb8 22. Rhe1 Rd7 23. g4 Rf8 24. d5 exd5 25. cxd5 Nxd5
+26. Bxd5 cxd5 27. Be5 Bd6 28. Qxd5 Rfd8 29. Bxg7 Bf4 30. Qxd7 Qxd7 31. Rxd7
+Rxd7 32. Be5+ Bxe5 33. Rxe5 Kc7 34. Kc2 Kd8 35. Re3 Rc7+ 36. Kd2 Rc4 37. f3
+Kd7 38. Rc3 Rf4 39. Ke3 Rf6 40. f4 Re6+ 41. Kf3 Re1 42. Rd3+ Kc7 43. Rd2
+Rh1 44. Kg3 Re1 45. h5 Re3+ 46. Kf2 Rh3 47. Rd5 Rh2+ 48. Kg3 Rxb2 49. Rf5
+Rxa2 50. Rxf7+ Kd8 51. Rxb7 Ke8 52. g5 Ra6 53. Kg4 Kf8 54. g6 Ra1 55. Rh7
+a5 56. Rxh6 a4 57. Rh8+ Kg7 58. Rh7+ Kf8 59. h6 1-0
+

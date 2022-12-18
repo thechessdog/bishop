@@ -1,0 +1,25 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1970.01.01"]
+[Round "4"]
+[White "Westerinen, Heikki M.J."]
+[Black "Janosevic, Dragoljub"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "070a8005"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Qe2 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Be3 f6 11. exf6 exf6 12. Nc3 a6 13. Bd3 Nxc3 14. bxc3 Re8
+15. Nd2 Ne7 16. Nb3 Nf5 17. Qf3 Nxe3 18. fxe3 f5 19. Rfe1 Qd6 20. Rac1 Bd7 21.
+Nc5 Bc6 22. Qf4 Bf8 23. Rb1 Rab8 24. Bc2 Qd8 25. Nd3 Bd6 26. Qf3 Qa5 27. Nb4
+Rbd8 28. Bb3 Kg7 29. Bxd5 Bxd5 30. Nxd5 b5 31. e4 Qxa2 32. Ra1 Qd2 33. Re2 Qg5
+34. e5 Bf8 35. Rxa6 Qc1+ 36. Kf2 Ra8 37. Rxa8 Rxa8 38. Nf6 Ra7 39. Qe3 Qa3 40.
+Nd5 Qb3 41. Nf4 Rc7 42. e6 Bd6 43. Nh5+ Kh8 44. Nf6 f4 45. Qe4 Qa3 46. Nd5 Rc8
+47. e7 Re8 48. Qe6 Kg7 49. Qd7 Kf7 50. Qxe8+ Kxe8 51. Nf6+ Kf7 52. e8=Q+ Kxf6
+53. Re6+ Kf5 54. Qd7 1-0

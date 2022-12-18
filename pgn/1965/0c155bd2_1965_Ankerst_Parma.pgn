@@ -1,0 +1,24 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1965.01.01"]
+[Round "6"]
+[White "Ankerst, Marjan"]
+[Black "Parma, Bruno"]
+[Result "0-1"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "0c155bd2"]
+[Epoch "Bishop"]
+[WhiteID "14601265"]
+[WhiteCountry "SLO"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 c5 10. Be3 d6 11. Rfd1 Qc7 12. Rac1 Nd7 13. b3 Nf6 14. Qb2 Rfd8
+15. Ne1 Bxg2 16. Nxg2 Qb7 17. f3 Rac8 18. Bf2 cxd4 19. Bxd4 d5 20. cxd5 Rxc1
+21. Rxc1 Qxd5 22. Be3 e5 23. Kf2 Qe6 24. Kg1 Nd5 25. Bf2 e4 26. Bd4 Bf8 27. Rf1
+Nb4 28. Be3 Rc8 29. a3 Nc2 30. b4 Qc4 31. fxe4 Qxe2 32. Qb3 Qc4 33. Qxc4 Rxc4
+34. Bc1 Rxe4 35. Rf2 Rc4 36. Rf1 a5 37. bxa5 Bc5+ 38. Kh1 bxa5 39. Rd1 h6 40.
+Rd8+ Kh7 41. Rc8 Rd4 0-1

@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Veresov, Gavril"]
+[Black "Usakov"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "2ec14e80"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nf6 6. Bg5 Be6 7. Nf3 Nbd7
+8. O-O O-O 9. Ne5 c6 10. f4 Nb6 11. f5 Bc8 12. Qe1 h6 13. Bxh6 gxh6 14. Rf3
+Ne4 15. f6 Nxf6 16. Qg3+ Kh8 17. Qh4 Kg7 18. Raf1 Be7 19. Rg3+ Ng4 20.
+Rxg4+ Bxg4 21. Qxg4+ Bg5 22. Qf5 1-0
+

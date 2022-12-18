@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Kvist"]
+[Black "Johannson"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "97a0b1f7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nf3 Nf6 6. Bc4 Nc6 7. e5 Nxe5
+8. Nxe5 dxe5 9. Bxf7+ 1-0
+

@@ -1,0 +1,22 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Nei, Iivo"]
+[Black "Tolush, Alexander"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "d7a91858"]
+[Epoch "Bishop"]
+[WhiteID "4500059"]
+[WhiteCountry "EST"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+Bb7 9. Re1 Nbd7 10. Bg5 Qc7 11. Bxe6 fxe6 12. Nxe6 Qc4 13. Nxf8 Rxf8 14. Qxd6
+O-O-O 15. Nd5 Rde8 16. Bxf6 Rxf6 17. Nxf6 Nxf6 18. Rad1 Qc7 19. f3 Qxd6 20.
+Rxd6 Kc7 21. Red1 Bc6 22. R6d4 Nd7 23. Kf2 Ne5 24. b3 a5 25. h3 Nd7 26. a3 Nc5
+27. Rc1 Ne6 28. Rd2 b4 29. axb4 axb4 30. c3 Nc5 31. cxb4 Nxb3 32. Rxc6+ Kxc6
+33. Rd3 Na1 34. Ra3 Nc2 35. Rc3+ 1-0

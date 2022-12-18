@@ -1,0 +1,21 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1975.07.01"]
+[Round "4"]
+[White "Boey, Josef"]
+[Black "Ligterink, Gert"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "35c7b8f8"]
+[Epoch "Bishop"]
+[WhiteID "200093"]
+[WhiteCountry "BEL"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. a4 Be7 8. Be2
+O-O 9. O-O Qc7 10. a5 Nbd7 11. Nb3 b5 12. axb6 Nxb6 13. Qd4 Nfd7 14. Rfd1 Rd8
+15. Qb4 Rb8 16. Qa5 Bb7 17. Bxa6 Bxa6 18. Qxa6 Nc4 19. Ba7 Rb4 20. Nd4 Nxb2 21.
+Nc6 Nxd1 22. Rxd1 Ne5 23. Nd5 exd5 24. Nxb4 1/2-1/2

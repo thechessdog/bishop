@@ -1,0 +1,19 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Sorendon"]
+[Black "Godbold"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "ff860276"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Nxe4 6. Nxc6 Nxc3 7. Nxd8
+Nxd1 8. Nxf7 Nxf2 9. Nxh8 Nxh1 10. Be3 Bd6 11. O-O-O Bxh2 12. Bc4 Ng3 13.
+Re1 d5 14. Bc5+ Be6 15. Bb5+ c6 16. Rxe6+ Kd8 17. Nf7+ Kc8 18. Re8+ Kd7 19.
+Re7+ Kc8 20. Nd6+ Kd8 21. Nxb7+ Kc8 22. Nd6+ Kd8 23. Nf7+ Kc8 24. Ba6+ Kb8
+25. Bd6# 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr URS/K"]
+[Site "corr URS/K"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Suravlev"]
+[Black "Sadsnev"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "9e44b85d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Nf3 Bg7 6. Bd2 c5 7. Rc1 Nxc3
+8. Bxc3 cxd4 9. Nxd4 O-O 10. e4 Qb6 11. Nb3 Bh6 12. Rc2 Nc6 13. Bc4 Nb4 14.
+Re2 Rd8 15. Nd2 Be6 16. Bxe6 Nd3+ 17. Kf1 Qxe6 18. Qb3 Qa6 0-1
+

@@ -1,0 +1,22 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Tatai, Stefano"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "6c5b2533"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. Re1 Nbd7 10. Bg5 Nc5 11. Bd5 h6 12. Bxb7 Nxb7 13. Bh4 Rc8 14. a4 b4 15.
+Nd5 exd5 16. exd5+ Kd7 17. Nc6 Rxc6 18. dxc6+ Kxc6 19. c3 d5 20. cxb4 Bxb4 21.
+Rc1+ Nc5 22. Qd4 a5 23. Qd3 Qb6 24. Re7 Kd6 25. Qe3 Kc6 26. Bxf6 gxf6 27. Rxf7
+Qd8 28. Qe6+ Qd6 29. Qf5 Rf8 30. Rh7 Kb6 31. Rd1 d4 32. b3 d3 33. Rxh6 d2 34.
+g4 Qe6 35. Qxe6+ Nxe6 36. Rh3 Rc8 37. Rxd2 Bxd2 38. Rf3 Nf4 39. h4 Rc3 40. Rxc3
+Bxc3 41. h5 f5 0-1

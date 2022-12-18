@@ -1,0 +1,20 @@
+[Event "Cleveland,OH"]
+[Site "Cleveland,OH"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Torre, Eugenio"]
+[Black "Kaplan, Julio"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "87b4aa64"]
+[Epoch "Bishop"]
+[WhiteID "5200016"]
+[WhiteCountry "PHI"]
+[BlackID "2000326"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 d6 7. O-O Nf6 8. Be3
+Be7 9. f4 O-O 10. a4 Qc7 11. Kh1 Re8 12. Bf3 Nxd4 13. Bxd4 e5 14. Be3 exf4 15.
+Bxf4 Be6 16. Bh5 1/2-1/2

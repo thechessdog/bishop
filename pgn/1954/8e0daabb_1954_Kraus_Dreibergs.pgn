@@ -1,0 +1,19 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Kraus, A."]
+[Black "Dreibergs, Leonid"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "8e0daabb"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+
+Kd8 8. Qg5+ Qxg5 9. Bxg5+ Be7 10. Bb3 Bxg5 11. Nf7+ Ke7 12. Nxh8 Nh6 13.
+Nc3 c6 14. Nxe4 Bf6 15. Nxg6+ hxg6 16. d5 d6 17. O-O-O Be5 18. Rhe1 Bg4 19.
+Rd3 Kd7 20. Nc5+ Kc7 21. Rxe5 dxe5 22. d6+ Kc8 23. Be6+ Nd7 24. Bxg4 Nxg4
+25. Rh3 Nxc5 26. Rh8+ Kd7 27. Rxa8 a6 28. Rg8 Nxh2 29. Rxg6 Nf3 30. Rf6 Nd4
+31. b4 Ne2+ 32. Kd1 Nc3+ 33. Ke1 Nd5 34. Rf5 Nxb4 35. Rxe5 Nbd3+ 0-1
+

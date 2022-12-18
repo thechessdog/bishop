@@ -1,0 +1,16 @@
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Hartmann, Wolfram"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "e7f2d9bb"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4 Ne7
+9. Bd3 Nbc6 10. Nf3 O-O 11. Bxh7+ Kh8 12. Ng5 g6 13. h4 Kg7 14. h5 Rh8 15. Qg4
+Kf8 16. Qh3 Ng8 17. hxg6 f5 18. Nf7 1-0

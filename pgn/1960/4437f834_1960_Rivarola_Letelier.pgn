@@ -1,0 +1,20 @@
+[Event "Asuncion"]
+[Site "Asuncion"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Rivarola, B."]
+[Black "Letelier, Rene"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "4437f834"]
+[Epoch "Bishop"]
+[BlackCountry "CHL"]
+
+1. e4 c5 2. Nf3 a6 3. g3 Nc6 4. Bg2 g6 5. O-O Bg7 6. c3 e6 7. d3 d5 8. Nbd2
+Nge7 9. a4 O-O 10. Qc2 b6 11. Rd1 h6 12. Nf1 Kh7 13. Ne1 d4 14. f4 e5 15. h3
+Qc7 16. Nf3 Be6 17. Bd2 Rac8 18. Rdc1 Qd7 19. g4 exf4 20. Bxf4 g5 21. Bd2 Qd6
+22. Be1 Ng6 23. Ng3 Nf4 24. Bf1 Ne5 25. Nxe5 Bxe5 26. Nf5 Bxf5 27. exf5 Rfe8
+28. c4 Kg7 29. Bd2 h5 30. Re1 hxg4 31. hxg4 Rh8 32. Qd1 Qh6 33. Bxf4 Qh1+ 34.
+Kf2 Qh4+ 35. Kg1 Qh1+ 36. Kf2 Qh4+ 37. Kg1 Bxf4 38. Bg2 Be3+ 39. Kf1 Qf2# 0-1

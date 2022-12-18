@@ -1,0 +1,16 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Nowak"]
+[Black "Calek"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "d34fb7ce"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 Nd5 7. N1f3 h6
+8. Ne4 N7f6 9. Qe2 Bf5 10. Nxf6+ Nxf6 11. Ne5 e6 12. g4 Bh7 13. Nxf7 1-0
+

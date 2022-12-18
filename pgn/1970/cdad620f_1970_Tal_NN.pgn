@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Tal, Mikhail"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "cdad620f"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 cxd4 8.
+cxd4 f6 9. Ng5 fxg5 10. Qh5+ g6 11. Bxg6+ hxg6 12. Qxg6+ Ke7 13. Nc4 Bh6 14.
+Bxg5+ Bxg5 15. Qg7+ Ke8 16. Nd6# 1-0

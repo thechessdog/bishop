@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Brook, G."]
+[Black "Bassin, C."]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "07192db1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Bg7 7. Be3 Nc6
+8. f4 Bd7 9. h3 Rc8 10. Qd2 Na5 11. O-O O-O 12. Rad1 Nc4 13. Bxc4 Rxc4 14.
+Qe2 Qc8 15. e5 Nh5 16. Qf2 dxe5 17. fxe5 Bxe5 18. g4 Nf6 19. Nf3 Bxc3 20.
+bxc3 Rxc3 21. Nd4 Bxg4 22. Bg5 Bxd1 23. Bxf6 exf6 24. Qxf6 Qxh3 25. Nf5
+Qg4+ 0-1
+

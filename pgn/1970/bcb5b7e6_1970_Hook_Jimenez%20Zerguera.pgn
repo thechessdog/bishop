@@ -1,0 +1,21 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hook, William"]
+[Black "Jimenez Zerquera, Eleazar"]
+[Result "0-1"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical, main line with d3"]
+[HashCode "bcb5b7e6"]
+[Epoch "Bishop"]
+[BlackCountry "CUB"]
+[WhiteCountry "USA"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c5 6. Nc3 Nc6 7. d3 d5 8. Bd2
+e6 9. Qc1 b6 10. Bg5 Bb7 11. cxd5 exd5 12. e4 Ne7 13. Qf4 Ne8 14. Qh4 f6 15.
+Bh6 d4 16. Ne2 Nc6 17. Bxg7 Nxg7 18. Qh6 Qe7 19. Nf4 Ne5 20. Nxe5 fxe5 21. Nh3
+Ba6 22. Rad1 c4 23. f4 exf4 24. gxf4 Rae8 25. Ng5 Ne6 26. Nxe6 Qxe6 27. dxc4
+Bxc4 28. Rf2 d3 29. b3 Ba6 30. Qg5 Kh8 31. e5 Qd7 32. Kh1 Qd4 33. Rf3 d2 34.
+Rh3 Bd3 35. Bc6 Bc2 36. f5 Rxf5 37. Qxd2 Rf1+ 38. Kg2 Qg1# 0-1

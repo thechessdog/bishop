@@ -1,0 +1,17 @@
+[Event "Alma Ata ch-URS"]
+[Site "Alma Ata ch-URS"]
+[Date "1968.12.01"]
+[Round "1"]
+[White "Lutikov, Anatoly S"]
+[Black "Zaitsev, Igor"]
+[Result "1/2-1/2"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Lutikov variation"]
+[HashCode "dceb7e86"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. Bc2 d5 10. exd5 Qxd5 11. d4 exd4 12. cxd4 Bg4 13. Bb3 Qh5 14. h3 Bxf3 15.
+Qxf3 1/2-1/2

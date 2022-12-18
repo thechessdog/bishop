@@ -1,0 +1,20 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Nyman, S."]
+[Black "Antos, V."]
+[Result "1-0"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "b5156f83"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 d6 4. e4 Bg7 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+f5 9. O-O-O Nd7 10. exf5 gxf5 11. g4 fxg4 12. fxg4 Nf4 13. h3 a6 14. Kb1
+Rb8 15. Nge2 Bh6 16. Ng3 Nf6 17. Bd3 Kh8 18. Nce2 Ng8 19. Nh5 Nxh5 20. Bxh6
+Ng7 21. Bg5 Qe8 22. Qe3 b5 23. Qe4 Qg6 24. Qxg6 hxg6 25. cxb5 axb5 26. Rhf1
+Bd7 27. Bxg6 b4 28. Ng3 Bb5 29. Rxf8 Rxf8 30. Nf5 Be8 31. Bxe8 Rxe8 32. Ne3
+Rb8 33. Rf1 Kh7 34. h4 Kg6 35. Rc1 Ne8 36. b3 Rb5 37. Bd8 Ngf6 38. h5+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Teufel, Juergen"]
+[Black "Lehmkuhl, G."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "4bd85483"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f4 Qc7 8. Qf3
+b5 9. Bd3 Be7 10. O-O-O Bb7 11. g4 Nc6 12. Rhe1 Nb4 13. Kb1 Nxd3 14. cxd3 Nd7
+15. f5 e5 16. Nc2 Nc5 17. Nb4 Qa5 18. Ncd5 Bxd5 19. Nxd5 Nxd3 20. Rxd3 Qxe1+
+21. Rd1 Qh4 22. Bf2 1-0

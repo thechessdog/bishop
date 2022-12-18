@@ -1,0 +1,21 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Farkas, Gyula"]
+[Black "Szekely, Mihaly"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "5e6134b4"]
+[Epoch "Bishop"]
+[WhiteID "701840"]
+[BlackID "785539"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. Re1 Nbd7 10. Bg5 h6 11. Bh4 Qb6 12. Nd5 Qc5 13. Nxf6+ Nxf6 14. Bxf6 gxf6
+15. Bxe6 fxe6 16. Nxe6 Qc4 17. Qh5+ Kd7 18. Nf4 Kc7 19. b3 Qg8 20. c4 Kb6 21.
+cxb5 axb5 22. Qe2 Qg5 23. Ne6 Qe5 24. Qe3+ Ka5 25. b4+ Kxb4 26. a4 1-0

@@ -1,0 +1,17 @@
+[Event "Hoogovens-B"]
+[Site "Beverwijk II"]
+[Date "1964.01.01"]
+[Round "2"]
+[White "Bergsma, KM."]
+[Black "Gibbs, PC."]
+[Result "1-0"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "f6f56cba"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 Qa5 9. f3 d6 10. Qd2 Nxd4 11. Bxd4 Be6 12. O-O-O Rfc8 13. Kb1 Rc6 14. g4
+Rac8 15. h4 b5 16. a3 Ra6 17. Na2 Bxb3 18. cxb3 Qxd2 19. Rxd2 Rac6 20. Bxa7 Nd7
+21. Nb4 R6c7 22. Nd5 1-0

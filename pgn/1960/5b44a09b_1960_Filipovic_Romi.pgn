@@ -1,0 +1,24 @@
+[Event "Lerici tt"]
+[Site "Lerici tt"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Filipovic, Branko"]
+[Black "Romi"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "5b44a09b"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 dxe4 6. Nxe4 e6 7. Bc4 Nd7 8.
+Qe2 Ngf6 9. Ng3 Be7 10. O-O O-O 11. c3 Bd6 12. d4 Bxg3 13. fxg3 c5 14. dxc5
+Nxc5 15. Bf4 Qb6 16. Be3 Qc7 17. Rxf6 gxf6 18. Qg4+ Kh8 19. Qh4 Rg8 20. Qxf6+
+Rg7 21. Bh6 Qxg3 22. Bf1 Ne4 23. Qd4 f5 24. Bxg7+ Qxg7 25. Qxg7+ Kxg7 26. Rd1
+Rf8 27. Rd7+ Rf7 28. Rd8 Kf6 29. Bc4 Re7 30. Kf1 Ke5 31. Ke2 Rg7 32. Kf1 Re7
+33. Ke2 Kf4 34. Rc8 h5 35. Bd3 Nf6 36. Rf8 Ke5 37. Bc2 h4 38. Rh8 Rh7 39. Ra8
+b6 40. Bb3 Rg7 41. Kf1 Nh5 42. Re8 Nf4 43. Rh8 Nxg2 44. Rh6 Nf4 45. Rxh4 Rg3
+46. Rh7 Rxh3 47. Rxa7 Rh1+ 48. Kf2 Rh2+ 49. Kf3 Rxb2 50. Rb7 Rh2 51. c4 Rh3+
+52. Kf2 Ke4 53. Rxb6 Rf3+ 54. Kg1 Rg3+ 55. Kf1 Rc3 56. Kf2 e5 57. c5 Nd3+ 58.
+Ke2 Rxc5 59. Kd2 f4 60. Bc2 Rxc2+ 61. Kxc2 Ke3 62. Rf6 f3 63. Rh6 f2 64. Rh1
+Ke2 65. a4 e4 66. Kc3 e3 67. a5 f1=Q 0-1

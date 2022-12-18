@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Reimer, K."]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "3ce1fd12"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bb2 e5 12. Be2 Rd8 13. Qc2 Bg4 14. dxe5 Nxe5
+15. c4 Nxf3+ 16. gxf3 Bh3 17. Rfd1 Rxd1+ 18. Rxd1 Rd8 19. Rb1 Qd7 20. Rd1 Qe7
+21. Bd3 b6 22. Kh1 Kf8 23. Rg1 g6 24. Rg3 Bc8 25. Qc3 Rd6 26. e4 Qd8 27. Bc2
+Nh5 28. Rg1 Rd2 29. Bc1 Rxf2 30. Qh8+ Ke7 31. Qe5+ Be6 32. Rd1 f6 33. Rxd8 fxe5
+34. Bg5+ Nf6 0-1

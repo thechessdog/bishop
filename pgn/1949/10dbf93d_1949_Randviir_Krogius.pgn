@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1949.01.01"]
+[Round "9"]
+[White "Randviir, Y."]
+[Black "Krogius, Nikolai V"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "10dbf93d"]
+[Epoch "Bishop"]
+[BlackID "4100565"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. a4 b4 8. a5
+O-O 9. O-O d6 10. h3 Be6 11. Bxe6 fxe6 12. d3 Qe8 13. Nbd2 Nh5 14. Nc4 Nf4 15.
+Bxf4 Rxf4 16. g3 Qg6 17. Kh2 Rf7 18. c3 Raf8 19. Ne1 d5 20. Nd2 Bc5 21. f3 bxc3
+22. bxc3 h5 23. Ng2 Be7 24. h4 d4 25. c4 Qh6 26. f4 exf4 27. gxf4 Rxf4 28. Nxf4
+Rxf4 29. Rxf4 Qxf4+ 30. Kg2 Bxh4 31. Nf3 Qg4+ 32. Kf1 Qf4 33. Kg2 Bf6 34. e5
+Nxe5 35. Nxe5 Bxe5 36. Qxh5 Qg3+ 37. Kh1 g6 38. Qe2 Qh3+ 39. Kg1 Bf4 40. Qg2
+Qxd3 41. Rf1 Qe3+ 42. Kh1 g5 43. Rxf4 Qxf4 44. Qa8+ Kg7 45. Qxa6 d3 46. Qxe6 d2
+0-1

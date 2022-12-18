@@ -1,0 +1,23 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gatto"]
+[Black "Simoni"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "306bf000"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Be7 7. a3 d6 8.
+h3 Bb7 9. d3 Nd4 10. Nxd4 exd4 11. Ne2 c5 12. Bg5 h6 13. Bxf6 Bxf6 14. Nf4
+Qa5+ 15. Qd2 Qxd2+ 16. Kxd2 Bg5 17. g3 O-O 18. h4 Bxf4+ 19. gxf4 Kh8 20.
+Rag1 f5 21. Bd5 Bxd5 22. exd5 Rf6 23. Re1 Ra7 24. b3 Kg8 25. Re8+ Kf7 26.
+Rb8 Rg6 27. Ke2 Ke7 28. Kf3 Rf6 29. Re1+ Kd7 30. Ree8 Rf7 31. Ra8 Rb7 32.
+Re6 Re7 33. Rxe7+ Kxe7 34. Rxa6 Kd7 35. Ke2 Kc7 36. Rc6+ Kd7 37. Kd2 g6 38.
+Kc1 b4 39. axb4 Rxb4 40. Ra6 Kc7 41. Rc6+ Kd7 42. Kb2 Rb7 43. Ra6 Ke7 44.
+Ka3 Rd7 45. Ka4 Kf6 46. Kb5 g5 47. Kc6 Re7 48. hxg5+ hxg5 49. Kxd6 gxf4 50.
+Kxc5+ Ke5 51. Kc6 Rh7 52. d6 Ke6 53. Ra8 1-0
+

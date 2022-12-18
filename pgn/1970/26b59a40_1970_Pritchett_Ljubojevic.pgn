@@ -1,0 +1,22 @@
+[Event "Groningen ch-EU jr"]
+[Site "Groningen ch-EU jr"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Pritchett, Craig W"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "26b59a40"]
+[Epoch "Bishop"]
+[BlackID "900010"]
+[BlackCountry "SRB"]
+[WhiteID "2400065"]
+[WhiteCountry "SCO"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 c6 5. Qd2 b5 6. a4 b4 7. Nd1 a5 8. Bd3 Nd7
+9. Ne2 Ngf6 10. O-O O-O 11. Bh6 c5 12. Bxg7 Kxg7 13. c3 e5 14. dxe5 Nxe5 15. f4
+Nxd3 16. Qxd3 Re8 17. Nf2 Ba6 18. c4 d5 19. exd5 Nxd5 20. Qxd5 Qxd5 21. cxd5
+Rxe2 22. Rfe1 Rxb2 23. d6 Rd8 24. Rad1 c4 25. d7 c3 26. Re8 Rxd7 27. Rxd7 c2
+28. Rd1 Rb1 29. Ree1 Rxd1 30. Rxd1 b3 31. Ra1 b2 32. Kh1 bxa1=R+ 33. Nd1
+cxd1=R# 0-1

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Schwarz"]
+[Black "Wieland, L."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "e41e92ec"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nd4 7. c3 Nxd5
+8. Ne4 Qh4 9. Ng3 Bg4 10. f3 e4 11. cxd4 Bd6 12. Bxb5+ Kd8 13. fxg4 Bxg3+
+14. hxg3 Qxh1+ 15. Bf1 Nb4 16. Nc3 Re8 17. a3 Nd3+ 18. Ke2 Qg1 19. Nxe4
+Qxd4 20. Qb3 Qxe4+ 0-1
+

@@ -1,0 +1,15 @@
+[Event "Illinois Open"]
+[Site "Illinois Open"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Bender, F."]
+[Black "Warren, J."]
+[Result "0-1"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "classical"]
+[HashCode "bed72434"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Nb3 Bg7 8. f4
+Qb6 9. g4 a5 10. g5 a4 11. gxf6 Bxf6 12. Nd2 Bh4+ 13. Kf1 Qf2# 0-1

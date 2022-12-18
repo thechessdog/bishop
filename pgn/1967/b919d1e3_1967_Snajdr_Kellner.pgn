@@ -1,0 +1,23 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Snajdr, J."]
+[Black "Kellner, J."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "b919d1e3"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Be7 4. e5 c5 5. Qg4 g6 6. dxc5 Nc6 7. Nf3 Bxc5 8.
+Bd3 Nb4 9. O-O Nxd3 10. cxd3 h5 11. Qg3 Bd7 12. Bg5 Qb6 13. Rac1 Rc8 14.
+Rc2 Qa6 15. d4 Bb4 16. Nh4 Rc4 17. Qe3 Qb6 18. Rfc1 Qxd4 19. Qxd4 Rxd4 20.
+Nb5 Rc4 21. Rxc4 dxc4 22. Nxa7 Bc5 23. Be3 Bxe3 24. fxe3 Nh6 25. Rxc4 Ke7
+26. Rb4 Rb8 27. Nf3 b6 28. h3 Ra8 29. Nb5 Rxa2 30. Na3 f6 31. Rxb6 g5 32.
+exf6+ Kxf6 33. Kf2 g4 34. Nd2 gxh3 35. gxh3 Nf7 36. Nac4 Ra7 37. Kg3 Rc7
+38. Kf4 Bc6 39. e4 Ng5 40. h4 Nxe4 41. Rxc6 Rxc6 42. Nxe4+ Ke7 43. Ne5 Rb6
+44. b4 Rb5 45. Nd3 Rf5+ 46. Ke3 Rf1 47. b5 Rf5 48. Ndc5 Rf1 49. b6 Rb1 50.
+b7 1-0
+

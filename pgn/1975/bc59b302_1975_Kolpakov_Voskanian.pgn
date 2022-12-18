@@ -1,0 +1,15 @@
+[Event "URS-chT"]
+[Site "Riga"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kolpakov, Mikhail"]
+[Black "Voskanian, Vahagn"]
+[Result "0-1"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "bc59b302"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bd2 c6 6. e3 O-O 7. cxd5 cxd5 8. Bd3
+Nc6 9. O-O Bf5 10. Bxf5 gxf5 11. Qc2 e6 12. Rfd1 Ne4 13. Be1 Qf6 0-1

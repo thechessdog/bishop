@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Rossetto, Hector"]
+[Black "Schweber, Samuel"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "be81513a"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. Nxd5 Nxd5 6. e4 h6 7. Bd2 e5 8.
+exf5 exd4 9. Qe2+ Qe7 10. O-O-O O-O-O 11. f4 Qf6 12. Nf3 Nc3 13. bxc3 dxc3 14.
+Be3 Qe7 15. Rd5 Qa3+ 16. Kd1 Qxa2 17. Qd3 Bc5 18. Bc1 Nf6 19. Rxc5 Ne4 20. Re5
+Rxd3+ 21. Bxd3 Nf2+ 22. Ke2 Nxh1 23. Be3 Rd8 24. Bd4 Qa3 25. Bc5 Qa4 26. g3 Qc6
+27. Be3 Rxd3 28. cxd3 b6 29. Re4 b5 30. Nd4 Qd5 31. Re5 Qg2+ 32. Ke1 a6 33. Rc5
+Qxh2 34. Rxc3 Qxg3+ 35. Kd2 Qg2+ 36. Kc1 Ng3 37. Rc2 Qf1+ 38. Kd2 Kb7 0-1

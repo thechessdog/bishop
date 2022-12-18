@@ -1,0 +1,22 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1969.01.01"]
+[Round "13"]
+[White "Damjanovic, Mato"]
+[Black "Gheorghiu, Florin"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "68cc19ea"]
+[Epoch "Bishop"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+[WhiteCountry "HRV"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Nf6 4. f3 c6 5. Be3 b5 6. Qd2 Nbd7 7. Nh3 a6 8. Nf2
+Bg7 9. Be2 O-O 10. O-O Bb7 11. Nd3 Nb6 12. b3 Nfd7 13. a4 bxa4 14. Nxa4 Nxa4
+15. Rxa4 Qc7 16. Qa5 Rfc8 17. Rd1 Bf6 18. Qxc7 Rxc7 19. Ra5 e5 20. dxe5 Nxe5
+21. Nxe5 Bxe5 22. Bd4 Bxd4+ 23. Rxd4 d5 24. exd5 cxd5 25. Bd3 Kf8 26. Kf2 Ke7
+27. Ke3 Re8 28. Kd2 Rec8 29. Rda4 Rc6 30. Ra2 Ra8 31. Rxd5 Rxc2+ 32. Kxc2 Bxd5
+33. Rxa6 Rc8+ 34. Kb2 Rb8 35. Ra3 h5 36. Kc3 h4 37. h3 Kd6 38. b4 Ke5 39. Ra5
+Rc8+ 40. Kd2 1-0

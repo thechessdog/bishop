@@ -1,0 +1,20 @@
+[Event "FRG-ch"]
+[Site "Bad Prymont"]
+[Date "1961.10.26"]
+[Round "11"]
+[White "Kestler, Hans-Guenther"]
+[Black "Pfeiffer, Gerhard"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "7dd25143"]
+[Epoch "Bishop"]
+[BlackID "1649027"]
+[BlackCountry "AUT"]
+[WhiteID "4601076"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nh3 Nf6 8. Nf4
+Bh7 9. Be3 e6 10. Bd3 Bxd3 11. Qxd3 Nbd7 12. O-O-O Qa5 13. Kb1 O-O-O 14. Qb3
+Qb4 15. Qxb4 Bxb4 1/2-1/2

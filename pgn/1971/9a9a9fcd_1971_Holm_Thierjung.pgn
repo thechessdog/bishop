@@ -1,0 +1,18 @@
+[Event "Gloggnitz"]
+[Site "Gloggnitz"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Holm, Sejer"]
+[Black "Thierjung"]
+[Result "1-0"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Chigorin defence"]
+[HashCode "9a9a9fcd"]
+[Epoch "Bishop"]
+[WhiteID "1400304"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. e3 e6 5. Nf3 Nbd7 6. Bd3 Bd6 7. O-O Nf8 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 Ng6 11. Re1 Qc7 12. c5 Bf4 13. g3 Bxc1 14. Rxc1 Bd7
+15. Ng5 h6 16. Nxf7 Kxf7 17. Qh5 Rag8 18. Bxg6+ 1-0

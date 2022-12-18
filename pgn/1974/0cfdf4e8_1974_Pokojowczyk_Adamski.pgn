@@ -1,0 +1,20 @@
+[Event "POL-ch31"]
+[Site "Zielona Gora"]
+[Date "1974.??.??"]
+[Round "10"]
+[White "Pokojowczyk, Jerzy"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "0cfdf4e8"]
+[Epoch "Bishop"]
+[WhiteID "1100718"]
+[BlackID "1100190"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Be7 8. Nc3
+O-O 9. Qe2 b6 10. Be3 Bb7 11. Rac1 Nbd7 12. f3 Re8 13. Qf2 Rc8 14. b3 Qc7 15.
+Rfd1 Qb8 16. Bb1 Bf8 1/2-1/2

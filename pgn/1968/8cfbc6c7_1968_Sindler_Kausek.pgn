@@ -1,0 +1,25 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Sindler"]
+[Black "Kausek"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "8cfbc6c7"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. d4 Bg4 7. Be2
+Qc7 8. Nh4 Bxe2 9. Qxe2 Nd7 10. O-O e6 11. c4 Bd6 12. f4 O-O-O 13. c5 Bf8
+14. b4 f5 15. d5 cxd5 16. Bb2 Rg8 17. Rac1 Qc6 18. Nf3 Qa4 19. a3 Bg7 20.
+Ng5 Bxb2 21. Qxb2 Rg6 22. Nxf7 Rdg8 23. Rf2 Kb8 24. Nd6 Nf6 25. b5 Ne4 26.
+Re2 Nxc5 27. Qc3 b6 28. Nxf5 Qxb5 29. Qe5+ Ka8 30. Nd4 Qd7 31. f5 exf5 32.
+Qxf5 Qxf5 33. Nxf5 Rf6 34. Nd4 Rg7 35. Re8+ Kb7 36. Rd1 Rd7 37. Re5 Ne4 38.
+Nf5 Nc3 39. Rd3 Rc6 40. g4 Rc4 41. Rd4 Kc6 42. Kf2 Kc5 43. Rd3 Ne4+ 44. Ke3
+Rc3 45. Rxc3+ Nxc3 46. g5 Kc4 47. h4 d4+ 48. Kd2 d3 49. h5 Nb1+ 50. Kd1 d2
+51. Re4+ Kc3 52. g6 hxg6 53. hxg6 Rd5 54. Re3+ Kb2 55. g7 Rxf5 56. Rb3+ Ka2
+57. Rxb1 Rg5 58. Rb5 Rxg7 59. a4 Ka3 60. a5 Ka4 61. Rd5 b5 62. a6 b4 63.
+Rd6 b3 0-1
+

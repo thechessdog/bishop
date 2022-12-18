@@ -1,0 +1,25 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Blumenfeld, Rudy"]
+[Black "Sloan, Sam"]
+[Result "0-1"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical, main line with d3"]
+[HashCode "06b8be1a"]
+[Epoch "Bishop"]
+[WhiteID "2000938"]
+[BlackID "2030390"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. Nf3 c5 6. O-O Nc6 7. d3 d6 8. a3
+Bd7 9. Rb1 Qc8 10. Re1 Bh3 11. Bh1 h5 12. b4 Nd4 13. bxc5 dxc5 14. Nxd4 cxd4
+15. Bxb7 Qe6 16. Ne4 Rab8 17. Ng5 Qd7 18. Nxh3 Rxb7 19. Rxb7 Qxh3 20. f3 h4 21.
+e4 hxg3 22. Re2 Nh5 23. hxg3 Qxg3+ 24. Rg2 Qh3 25. Rb5 Bf6 26. f4 Kh7 27. Rh2
+Qg3+ 28. Kh1 Rh8 29. e5 Bh4 30. f5 Kg7 31. fxg6 fxg6 32. Rbb2 Qxe5 33. Rbg2
+Ng3+ 34. Kg1 Nf5 35. Qf3 Ne3 36. Re2 Rf8 37. Bxe3 dxe3 38. Qxe3 Qa1+ 39. Re1
+Qxe1+ 40. Qxe1 Bxe1 41. Re2 Bh4 42. c5 Bf6 43. Kg2 Rc8 44. Rc2 Kf7 45. Kf3 Ke6
+46. Ke4 Rh8 47. c6 Kd6 48. a4 Rc8 0-1

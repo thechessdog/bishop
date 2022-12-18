@@ -1,0 +1,20 @@
+[Event "Havirov"]
+[Site "Havirov"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hlousek, Zdenek"]
+[Black "Nowak, Erwin"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "804b3402"]
+[Epoch "Bishop"]
+[WhiteID "343951"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. a4
+Bg4 9. c3 Na5 10. Bc2 c5 11. h3 Bh5 12. d3 O-O 13. Nbd2 Ne8 14. g4 Bg6 15. Nf1
+Nc7 16. Ng3 f6 17. Nh4 Bf7 18. Nhf5 Re8 19. Nxe7+ Rxe7 20. axb5 axb5 21. d4 Rd7
+22. d5 c4 23. Nf5 Nb7 24. Be3 Na6 25. Ra2 Nac5 26. Qa1 Rxa2 27. Qxa2 Be8 28.
+Ra1 Rc7 29. Qa8 Qxa8 30. Rxa8 Kf8 31. Nxg7 Rxg7 32. Bh6 1-0

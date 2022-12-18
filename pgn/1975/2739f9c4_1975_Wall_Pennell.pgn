@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Pennell, Gary"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Krejcik variation"]
+[HashCode "2739f9c4"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 Nf6 2. Bc4 Nc6 3. d4 d5 4. exd5 Nxd5 5. Qf3 Nxd4 6. Qxd5 Nxc2+ 7. Kd1
+Qxd5+ 8. Bxd5 Nxa1 9. Bf4 c6 10. Be4 f6 11. Nd2 e5 12. Be3 f5 0-1

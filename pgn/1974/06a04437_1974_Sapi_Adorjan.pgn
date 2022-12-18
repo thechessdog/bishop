@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Sapi, Laszlo"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "06a04437"]
+[Epoch "Bishop"]
+[WhiteID "701513"]
+[BlackID "700096"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. Nf3 g6 2. d4 Nf6 3. c4 Bg7 4. g3 c5 5. d5 d6 6. Nc3 O-O 7. Bg2 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Re8 11. Nd2 Nbd7 12. a5 b5 13. axb6 Nxb6 14. Nb3 Nc4 15.
+Ra4 Nb6 16. Ra2 Nc4 17. Ra4 Nb6 18. Ra2 Nc4 1/2-1/2

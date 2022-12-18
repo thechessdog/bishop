@@ -1,0 +1,20 @@
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1959.01.01"]
+[Round "13"]
+[White "Witkowski, Stefan"]
+[Black "Florian, Tibor"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "b6c57c3c"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2 e6 5. Nf4 c5 6. dxc5 Bxc5 7. Bd3 Qc7 8. O-O
+Ne7 9. Nc3 O-O 10. Na4 Bd4 11. Bxf5 Nxf5 12. g4 Nh4 13. Ne2 Bxe5 14. f4 Bd6 15.
+f5 Qc4 16. Bf4 Qe4 17. Rf2 Bxf4 18. Nac3 Bxh2+ 19. Kxh2 Qxg4 20. Ng3 Qxd1 21.
+Rxd1 Nc6 22. Kh3 Nxf5 23. Nxf5 exf5 24. Nxd5 g6 25. Rg1 Rad8 26. c4 Ne5 27. b3
+Ng4 28. Re2 Rfe8 29. Rb2 Kg7 30. a4 Ne3 0-1

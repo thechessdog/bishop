@@ -1,0 +1,27 @@
+[Event "NLD-ch playoff"]
+[Site "Netherlands"]
+[Date "1970.01.01"]
+[Round "6"]
+[White "Zuidema, Coen"]
+[Black "Scholl, Eddie C"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "08576e8a"]
+[Epoch "Bishop"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+[BlackID "1000390"]
+[BlackCountry "NLD"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d6 5. Be2 Nf6 6. O-O O-O 7. Re1 Qc7 8. e5
+Ne8 9. Bf4 Nd7 10. exd6 exd6 11. Bf1 Ndf6 12. h3 Qd8 13. Qd2 Nc7 14. Bd3 Be6
+15. Bh6 Qd7 16. Bxg7 Kxg7 17. Ne4 Nh5 18. c4 Bf5 19. Nc3 Bxd3 20. Qxd3 Nf6 21.
+d5 cxd5 22. cxd5 Rfe8 23. Nd2 Rxe1+ 24. Rxe1 Re8 25. Rd1 Re5 26. Nc4 Rh5 27.
+Ne3 Rh4 28. Rf1 Rf4 29. g3 Rb4 30. Rb1 Qxh3 31. a3 Ng4 32. Nxg4 Rxg4 33. Ne4
+Nb5 34. Rd1 a6 35. a4 f5 36. axb5 Rxe4 37. bxa6 bxa6 38. Qxa6 f4 39. Qf1 Qg4
+40. Rd3 Re5 41. b4 fxg3 42. fxg3 Qxb4 43. Qa1 Qe1+ 44. Qxe1 Rxe1+ 45. Kf2 Re5
+46. Ra3 Kf6 47. Ra5 h5 48. Kf3 Kf5 49. Rb5 g5 50. Rb8 g4+ 51. Kf2 Ke4 52. Ke2
+Rxd5 53. Rd8 Kd4 54. Kd2 Kc4+ 55. Ke3 Rd3+ 56. Kf4 d5 57. Rh8 Rf3+ 58. Ke5 Rxg3
+59. Rc8+ Kd3 60. Kxd5 h4 61. Ke5 h3 62. Rh8 Ke3 63. Kf5 Rg2 0-1

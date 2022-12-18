@@ -1,0 +1,17 @@
+[Event "Schilde"]
+[Site "Schilde"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schumacher"]
+[Black "De Jonghe, Bruno"]
+[Result "0-1"]
+[ECO "E93"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, main line"]
+[HashCode "4cd596e5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 Nbd7 8. O-O
+Nc5 9. Qc2 a5 10. Ne1 Ne8 11. f4 f5 12. exf5 Bxf5 13. Bd3 Nxd3 14. Nxd3 e4 15.
+Ne1 Bd4+ 16. Kh1 Nf6 17. Qd2 Bb6 18. Nc2 Ng4 19. Qe1 e3 20. Nxe3 Re8 21. Rf3
+Qe7 22. Ncd1 Bc2 23. f5 Qe5 0-1

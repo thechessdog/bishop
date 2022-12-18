@@ -1,0 +1,19 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1972.04.01"]
+[Round "11"]
+[White "Van Dop, Arend"]
+[Black "Langeweg, Kick"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "5fd2c8f4"]
+[Epoch "Bishop"]
+[WhiteID "1000810"]
+[WhiteCountry "NED"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 c5 4. Nf3 e6 5. Bb5+ Bd7 6. Bxd7+ Nbxd7 7. O-O Be7 8.
+d3 O-O 9. c4 Rc8 10. Nc3 Qc7 11. Qe2 1/2-1/2

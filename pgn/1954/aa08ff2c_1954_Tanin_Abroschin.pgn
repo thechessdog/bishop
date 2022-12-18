@@ -1,0 +1,18 @@
+[Event "corr ch2-SU"]
+[Site "corr ch2-SU"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Tanin"]
+[Black "Abroschin"]
+[Result "0-1"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Rubinstein variation"]
+[HashCode "aa08ff2c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Ne7 6. d4 Bd7 7. Bb3 h6 8.
+Be3 g5 9. Bxg5 hxg5 10. Nxg5 Nd5 11. Nxf7 Kxf7 12. Bxd5+ Ke8 13. dxe5 Nxe5
+14. f4 Qh4+ 15. g3 Qxg3+ 16. hxg3 Rxh1+ 17. Kd2 Rxd1+ 18. Kxd1 Ng4 19. Ke2
+Nf6 20. Bxb7 Rb8 21. Bxa6 Nxe4 0-1
+

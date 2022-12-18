@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Reviakin"]
+[Black "Zheliandinov"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "e3c94d43"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 e6
+8. O-O Be7 9. Bxe6 fxe6 10. Nxe6 Qa5 11. Nxg7+ Kf7 12. Nf5 Bf8 13. Bxf6
+Nxf6 14. Nxd6+ Bxd6 15. Qxd6 Re8 16. Rfe1 Be6 17. Qf4 Kg7 18. e5 Nd7 19.
+Rad1 Rf8 20. Qh4 Kh8 21. Rxd7 Bxd7 22. e6 Be8 23. Qd4+ Kg8 24. Re5 Qc7 25.
+e7 Rf6 26. Nd5 Qc6 27. Rg5+ Rg6 28. Rf5 Bf7 29. Nf6+ Rxf6 30. Rxf6 Qxc2 31.
+Qd8+ Kg7 32. Rxf7+ 1-0
+

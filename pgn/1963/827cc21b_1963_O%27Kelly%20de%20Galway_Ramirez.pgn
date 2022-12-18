@@ -1,0 +1,16 @@
+[Event "Malaga"]
+[Site "Malaga"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "O'Kelly, Albéric de Galway"]
+[Black "Ramirez, Gilbert"]
+[Result "1-0"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "827cc21b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 a6 8. O-O-O
+Bd7 9. Bh6 Qb8 10. h4 b5 11. h5 Rd8 12. hxg6 fxg6 13. Bxg7 Kxg7 14. Qh6+ Kf7
+15. e5 dxe5 16. Ne4 Nxd4 17. Ng5+ Ke8 18. Qxg6+ 1-0

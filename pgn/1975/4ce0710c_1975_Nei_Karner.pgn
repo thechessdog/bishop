@@ -1,0 +1,22 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1975.01.01"]
+[Round "13"]
+[White "Nei, Iivo"]
+[Black "Karner, Hillar"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, fianchetto variation"]
+[HashCode "4ce0710c"]
+[Epoch "Bishop"]
+[WhiteID "4500059"]
+[WhiteCountry "EST"]
+[BlackID "4500202"]
+[BlackCountry "EST"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 Nc6 7. Bg2 Bd7 8. O-O
+Be7 9. Nde2 O-O 10. h3 Ne8 11. g4 Ne5 12. f4 Qb6+ 13. Kh2 Ng6 14. Qd3 Nc7 15.
+Be3 Qa6 16. Qd2 Rfd8 17. Rfd1 Rac8 18. a4 b6 19. Qd3 Qb7 20. Nb5 a6 21. Nxd6
+Bxd6 22. Qxd6 Nh4 23. Qxb6 Qa8 24. Bh1 Ne8 25. e5 Nf3+ 26. Kg3 Bc6 27. Qa7 Nd4
+28. Qxa8 1-0

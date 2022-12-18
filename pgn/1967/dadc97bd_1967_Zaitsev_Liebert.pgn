@@ -1,0 +1,22 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1967.01.01"]
+[Round "11"]
+[White "Zaitsev, Alexander"]
+[Black "Liebert, Heinz"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "dadc97bd"]
+[Epoch "Bishop"]
+[WhiteID "4164490"]
+[WhiteCountry "RUS"]
+[BlackID "4611438"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 O-O 6. Bd3 d5 7. O-O dxc4 8. Bxc4
+b6 9. a3 cxd4 10. exd4 Bxc3 11. bxc3 Bb7 12. Qe2 Nbd7 13. Bd3 Qc7 14. Bd2 Nd5
+15. Qe4 N5f6 16. Qe2 Nd5 17. Ng5 h6 18. Ne4 Nf4 19. Bxf4 Qxf4 20. f3 Rac8 21.
+a4 Qc7 22. Ra3 e5 23. a5 bxa5 24. Rfa1 Rfd8 25. Ng3 exd4 26. cxd4 Nf6 27. Nf5
+Nd5 28. Rxa5 Nf4 29. Qe3 Re8 30. Be4 a6 31. Rc5 Qb8 32. Rb1 Bxe4 33. Rxb8 1-0

@@ -1,0 +1,18 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Weiss, Max"]
+[Black "Wirz"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "584d9812"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+
+1. f4 e5 2. fxe5 d6 3. Nf3 g5 4. e4 g4 5. Bc4 gxf3 6. Qxf3 Be6 7. Bxe6 fxe6 8.
+O-O Qe7 9. exd6 cxd6 10. Qc3 Nd7 11. Rxf8+ Nxf8 12. Qxh8 Nf6 13. d3 O-O-O 14.
+Bh6 d5 15. Nc3 Qc5+ 16. Kh1 N8d7 17. Qg7 Rg8 18. Qf7 Qf2 19. Bg7 h5 20. exd5 h4
+21. dxe6 h3 22. exd7+ 1-0

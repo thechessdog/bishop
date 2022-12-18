@@ -1,0 +1,18 @@
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Geller, Efim P"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "32c66f51"]
+[Epoch "Bishop"]
+[BlackID "900141"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. O-O cxd4 8.
+Nxd4 Bxh2+ 9. Kxh2 Qh4+ 10. Kg1 Qxd4 11. Re1+ Ne7 12. Bxc6+ bxc6 13. c3 Qf6 14.
+b3 O-O 15. Ba3 Be6 16. Nf3 Rfe8 17. Qd4 1/2-1/2

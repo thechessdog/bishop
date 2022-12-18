@@ -1,0 +1,19 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Hoelscher, H."]
+[Black "Kausek, K."]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "a7b5f3ff"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Ne2 Bg4 7. Qd3
+Nd7 8. f4 f5 9. Ng3 Nf6 10. h3 Bh5 11. Nxh5 Nxh5 12. Be2 e6 13. g3 Nf6 14.
+Bf3 Rg8 15. Bd2 Qb6 16. O-O-O O-O-O 17. Be1 Be7 18. c4 h5 19. Kb1 Qc7 20.
+d5 h4 21. Bc3 hxg3 22. Be5 Qb6 23. d6 g2 24. Rhg1 Rd7 25. Qa3 Ne4 26. Bxe4
+Bxd6 27. Bxd6 c5 28. Bxc5 Rxd1+ 29. Rxd1 g1=Q 30. Bxg1 1-0
+

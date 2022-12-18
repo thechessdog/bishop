@@ -1,0 +1,17 @@
+[Event "Santiago"]
+[Site "Santiago"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Jimenez Zerquera, Eleazar"]
+[Black "Godoy, D."]
+[Result "1-0"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "faa4d550"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 Nxe4 7. Qe2 d5 8.
+Nxe5 Bd7 9. Bxc6 bxc6 10. Re1 Nf6 11. Bg5 Kf8 12. Nc3 h6 13. Bh4 g5 14. Bg3 Bd6
+15. Qf3 Kg7 16. Re2 Rb8 17. Rae1 Re8 18. Nd1 Qc8 19. c4 c5 20. dxc5 Bxc5 21.
+Nxd7 Qxd7 22. Be5 1-0

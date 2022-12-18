@@ -1,0 +1,21 @@
+[Event "Munich olm prel"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "2"]
+[White "Russell, M."]
+[Black "Noradounguian, Georges"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "f1e8cb51"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 cxd4 7. exd4 Be7 8.
+c5 O-O 9. Bf4 b6 10. cxb6 Qxb6 11. Na4 Qd8 12. Rc1 Bd7 13. Nc5 Qb6 14. b4
+a5 15. Nxd7 Nbxd7 16. Bc7 Qb7 17. Bxa5 Rxa5 18. bxa5 Bxa3 19. Rb1 Bb4+ 20.
+Rxb4 Qxb4+ 21. Qd2 Qxd2+ 22. Kxd2 Ne4+ 23. Ke3 Ra8 24. Ng3 Nxg3 25. hxg3
+Rxa5 26. Bd3 g6 27. Rb1 Ra3 28. Rb7 Nf6 29. f3 Nh5 30. g4 Nf4 31. Kxf4 Rxd3
+32. Ke5 Kg7 33. g5 Rd2 34. g4 Rd3 35. f4 Re3+ 36. Kd6 Rf3 37. Ke5 Rg3 38.
+f5 gxf5 39. gxf5 Rxg5 0-1
+

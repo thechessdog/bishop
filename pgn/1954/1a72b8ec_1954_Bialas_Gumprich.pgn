@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Bialas, Wolfram"]
+[Black "Gumprich"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Pirc-Lisitsin gambit"]
+[HashCode "1a72b8ec"]
+[Epoch "Bishop"]
+[WhiteID "4601041"]
+[WhiteCountry "GER"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 g6 6. h4 d5 7. h5 gxh5 8.
+Bxh7 Qd6 9. Bg6+ Kd7 10. Bf5+ e6 11. Bxe6+ Kc6 12. Bxc8 Bh6 13. Bh3 Qe5+ 14.
+Qe2 Re8 15. Qxe5 Rxe5+ 16. Kd1 Bxg5 17. f4 1-0

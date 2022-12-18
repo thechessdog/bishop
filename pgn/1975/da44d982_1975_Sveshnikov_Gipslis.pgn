@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Gipslis, Aivars"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "da44d982"]
+[Epoch "Bishop"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackCountry "LVA"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. cxd5 Bg7 7. Bb5+ Nbd7 8.
+d6 O-O 9. dxe7 Qxe7+ 10. Nge2 a6 11. Bxd7 Bxd7 12. Bg5 Qd6 13. Bf4 Qb6 14. Be5
+Rfd8 15. O-O Bc6 16. Qd2 Ne4 17. Qf4 Nxc3 18. bxc3 Qb5 19. Bxg7 Kxg7 20. Rfe1
+h6 21. h4 Re8 22. Ng3 Qd5 23. f3 Rxe1+ 24. Rxe1 Qxa2 25. h5 Re8 26. Rxe8 Bxe8
+27. Qe5+ Kf8 28. d5 Qd2 29. d6 1-0

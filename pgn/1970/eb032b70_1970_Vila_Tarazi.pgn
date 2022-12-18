@@ -1,0 +1,18 @@
+[Event "Siegen ol"]
+[Site "Siegen ol"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Vila"]
+[Black "Tarazi"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[HashCode "eb032b70"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. d4 exd4 8.
+e5 Ne4 9. c3 d3 10. Bd5 Nc5 11. b4 Na4 12. Qxd3 Bb7 13. Qf5 O-O 14. Ng5
+Bxg5 15. Bxg5 Qe8 16. Be4 g6 17. Qf4 Nd8 18. Bxb7 Nxb7 19. Bf6 Nd8 20. Qh6
+Ne6 21. Re1 1-0
+

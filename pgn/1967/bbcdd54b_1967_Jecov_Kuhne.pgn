@@ -1,0 +1,16 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Jecov, J."]
+[Black "Kuhne, P."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "bbcdd54b"]
+[Epoch "Bishop"]
+
+1. g3 d5 2. Bg2 e5 3. d3 Bd6 4. Nf3 Ne7 5. O-O Nbc6 6. Nbd2 O-O 7. e3 Bg4
+8. c4 Qd7 9. Re1 Rad8 10. a3 f5 11. cxd5 Nxd5 12. Qb3 Bc5 13. e4 fxe4 14.
+dxe4 Qf7 15. exd5 Nd4 16. Qc4 Nxf3+ 17. Nxf3 Bxf2+ 18. Kxf2 Bxf3 0-1
+

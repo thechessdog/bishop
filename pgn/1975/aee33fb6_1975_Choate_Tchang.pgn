@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Choate, P."]
+[Black "Tchang, T."]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "aee33fb6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. Qh5 Qe7 7. d4
+Nf6 8. Bg5 Neg4+ 9. Kg1 Qxe4 10. Nc3 Qxd4+ 11. Kf1 Qf2# 0-1
+

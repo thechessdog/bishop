@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Hannemann, H."]
+[Black "Sauermann, W."]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "4d0b1e31"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6
+8. Bg5 h6 9. Bh4 c5 10. d5 b5 11. Nxb5 Qa5+ 12. Nd2 Nxe4 13. Qxe4 Bxb2 14.
+Qb1 Bxa1 15. Qxa1 Nb4 16. Qc3 Bd7 17. Na3 Qxa3 18. Qxa3 Nc2+ 19. Kd1 Nxa3
+20. Bxe7 Rfe8 21. Bxc5 Nb5 22. Bc4 Nc3+ 23. Kc2 Ne4 24. Nxe4 Rxe4 25. Bd3
+Re5 26. Be3 Rxd5 27. Be4 Bf5 28. Bxf5 gxf5 29. Rc1 Rc8+ 30. Kb2 Rb5+ 31.
+Ka3 Rxc1 32. Bxc1 Kg7 33. Be3 a6 34. Ka4 h5 35. Bd4+ Kf8 36. Bf6 Ke8 37.
+Bd4 Kd7 38. g3 Ke6 39. a3 Kd5 40. Be3 Ke4 41. Bd2 Kf3 42. Be3 Kg2 43. h4
+Kf3 0-1
+

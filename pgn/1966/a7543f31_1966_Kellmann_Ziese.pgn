@@ -1,0 +1,18 @@
+[Event "Munster-Wuppertal"]
+[Site "Munster-Wuppertal"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Kellmann"]
+[Black "Ziese, G."]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 6...Nc6"]
+[HashCode "a7543f31"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Nf3 Bg4 8.
+Be3 e6 9. Be2 Bb4+ 10. Kf2 O-O 11. c5 Nd5 12. a3 Bxf3 13. Bxf3 Nxe3 14.
+Kxe3 Qg5+ 15. Kf2 Rad8 16. Bxc6 Bxc5 17. dxc5 Rxd1 18. Rxd1 bxc6 19. Nd2
+Qxe5 0-1
+

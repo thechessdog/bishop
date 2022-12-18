@@ -1,0 +1,22 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1955.01.01"]
+[Round "2"]
+[White "Janosevic, Dragoljub"]
+[Black "Karaklajic, Nikola"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "ed018bf1"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Nc6 9. h3 a6 10. a3 Ba5 11. Bd3 h6 12. Ne4 cxd4 13. exd4 Bc7 14. Qc2 Nxe4 15.
+Bxe4 Qd6 16. Rd1 Bd7 17. d5 Ne5 18. g3 Nxf3+ 19. Bxf3 e5 20. Bg2 Rac8 21. Qb3
+Bb6 22. Bd2 Bc5 23. Rac1 b5 24. Bb4 Bxb4 25. axb4 Rfd8 26. Qe3 Rxc1 27. Rxc1
+Qxb4 28. Qb6 Qe7 29. Qxa6 e4 30. Rc7 f5 31. Qb6 Qf6 32. Qxf6 gxf6 33. b4 Be8
+34. Rc5 Bf7 35. Bf1 Bxd5 36. Bxb5 Kg7 37. Rc7+ Kf8 38. Bd7 Ra8 39. Rc8+ Rxc8
+40. Bxc8 f4 41. gxf4 Bc4 42. Bf5 1-0

@@ -1,0 +1,31 @@
+[Event "Trinec"]
+[Site "Trinec"]
+[Date "1972.01.01"]
+[Round "9"]
+[White "Lechtynsky, Jiri"]
+[Black "Fichtl, Jiri"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "064cf0b7"]
+[Epoch "Bishop"]
+[WhiteID "300217"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 cxd4 7. cxd4 Nc6 8. Ndf3
+Bb4+ 9. Kf2 f5 10. Bd3 Nb6 11. Ne2 Be7 12. h3 Bd7 13. a3 a6 14. Be3 Na5 15. b3
+Nc6 16. Qd2 a5 17. Rhc1 a4 18. b4 Na7 19. g4 g6 20. gxf5 gxf5 21. Ng5 h6 22.
+Nf3 Bb5 23. Bxb5+ Nxb5 24. Qd3 Qd7 25. Nd2 Kf7 26. Ng3 h5 27. Nf3 h4 28. Ne2
+Nc4 29. Ng5+ Ke8 30. Rg1 Rc8 31. Bc1 Qc6 32. Qd1 Kd7 33. Qxa4 Nxd4 34. Qxc6+
+Nxc6 35. Be3 b5 36. Bc5 Bxg5 37. Rxg5 Rcg8 38. Rxg8 Rxg8 39. a4 bxa4 40. Rxa4
+Nb2 41. Ra6 Nd3+ 42. Ke3 Nxc5 43. bxc5 Rg2 44. Ra1 Rh2 45. Ng1 Rc2 46. Rb1 d4+
+47. Kd3 Rc3+ 48. Ke2 Re3+ 49. Kd2 Na5 50. Rb4 Nb3+ 51. Kc2 Nxc5 52. Rxd4+ Ke7
+53. Rd1 Rg3 54. Rf1 Nd3 55. Kd2 Nb4 56. Ke2 Nd5 57. Kd2 Kf7 58. Nf3 Ke7 59. Ng5
+Kd7 60. Ke2 Ke7 61. Rf3 Rg2+ 62. Kd1 Ra2 63. Rc3 Nxf4 64. Rc7+ Ke8 65. Rh7 Rg2
+66. Nf3 Rg3 67. Nxh4 Rxh3 68. Rh6 Rd3+ 69. Kc2 Re3 70. Rh8+ Kd7 71. Rh7+ Kc6
+72. Rh8 Rxe5 73. Nf3 Re3 74. Nd4+ Kd5 75. Nb5 Ke5 76. Rc8 Nd5 77. Rh8 Rg3 78.
+Rh1 Ne3+ 79. Kd2 f4 80. Ke2 Nf5 81. Kd2 Rb3 82. Re1+ Ne3 83. Nc3 Kd4 84. Ne2+
+Ke4 85. Nc1 Rb2+ 86. Kc3 Rc2+ 87. Kb3 Rxc1 88. Rxc1 f3 89. Rc6 f2 90. Rxe6+ Kf4
+91. Rf6+ Nf5 0-1

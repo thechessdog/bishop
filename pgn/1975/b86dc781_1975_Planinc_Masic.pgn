@@ -1,0 +1,23 @@
+[Event "Subotica"]
+[Site "Subotica"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Planinc, Albin"]
+[Black "Masic, Ljubomir"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "b86dc781"]
+[Epoch "Bishop"]
+[WhiteCountry "SVN"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+h6 9. b3 Bc5 10. Nde2 b5 11. Bb2 Bb7 12. Nf4 d6 13. Nd3 Ba7 14. a4 b4 15. Nb1
+a5 16. Nd2 Bd4 17. Bxd4 Nxd4 18. Nc4 e5 19. f4 Rd8 20. fxe5 dxe5 21. Ncxe5 O-O
+22. Rxf6 gxf6 23. Nc4 f5 24. exf5 Bxg2 25. Kxg2 Kh7 26. Qh5 Rd5 27. Rf1 Nxc2
+28. Nf4 Rc5 29. Qf3 Qc6 30. Qxc6 Rxc6 31. Nxa5 Rc5 32. Rf2 Ne3+ 33. Kf3 Nxf5
+34. Nb7 Rc7 35. Ke4 Nxg3+ 36. hxg3 Rxb7 37. Rc2 Re8+ 38. Kf3 Re1 39. Nd5 Rb1
+40. Rc8 Rxb3+ 41. Kf4 Rd3 42. Ke5 Kg7 43. Nf4 Rc3 44. Nh5+ Kg6 45. Nf4+ Kh7 46.
+Ra8 Rxg3 47. a5 b3 0-1

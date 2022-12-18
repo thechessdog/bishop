@@ -1,0 +1,19 @@
+[Event "Dubrovnik olm"]
+[Site "Dubrovnik olm"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Myhre, Erling"]
+[Black "Castillo, Manuel"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Marshall gambit"]
+[HashCode "0ff87556"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+
+8. Be2 Na6 9. Bc3 f6 10. Qd6 Nh6 11. Rd1 Nf7 12. Qa3 e5 13. Kf1 Be6 14. b3 Rd8
+15. Re1 Qc2 16. Rc1 Qg6 17. Nf3 c5 18. Bd2 O-O 19. Be3 Bc8 20. Bxc5 Nxc5 21.
+Qxc5 e4 22. Ne1 f5 23. f4 Qh6 24. Qe3 Ne5 25. Kf2 Ng4+ 26. Bxg4 fxg4 27. g3 g5
+28. Ng2 Rd3 29. Qxe4 Bf5 30. Qxb7 Rd2+ 31. Ke1 Qd6 32. Ne3 Re8 33. Rc3 Rd1+ 34.
+Kf2 Qd2# 0-1

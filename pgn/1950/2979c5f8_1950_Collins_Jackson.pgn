@@ -1,0 +1,21 @@
+[Event "New Jersey"]
+[Site "New Jersey"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Collins, J."]
+[Black "Jackson, Oliver A"]
+[Result "1-0"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "2979c5f8"]
+[Epoch "Bishop"]
+[BlackID "403156"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Be7 7. d5 O-O 8. Ng3 d6
+9. Be2 Nbd7 10. O-O c6 11. e4 Re8 12. dxe6 fxe6 13. Be3 Nf8 14. f4 Qc7 15. Qb3
+Kh8 16. Rad1 Rad8 17. Bf3 N6d7 18. Bh5 g6 19. Be2 Bf6 20. Qc2 Bg7 21. Qd2 Nf6
+22. f5 exf5 23. exf5 d5 24. cxd5 Nxd5 25. Nxd5 Rxd5 26. Qc1 Qe5 27. Rxd5 cxd5
+28. Bg5 gxf5 29. Rxf5 Qd4+ 30. Kh1 Bc8 31. Rf7 Qxb2 32. Qf1 Qc3 33. Rxg7 Kxg7
+34. Bf6+ 1-0

@@ -1,0 +1,27 @@
+[Event "Bamberg"]
+[Site "Bamberg"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Parma, Bruno"]
+[Black "Hecht, Hans-Joachim"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "33b27a75"]
+[Epoch "Bishop"]
+[BlackID "4600320"]
+[BlackCountry "DEU"]
+[WhiteID "14600706"]
+[WhiteCountry "SLO"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+Nb6 9. O-O Bd7 10. Nf3 Be7 11. Bd2 Nb4 12. Bxb4 Bxb4 13. a3 Be7 14. Rc1 O-O 15.
+Qc2 g6 16. Qd2 Kg7 17. Ng3 a6 18. Rc2 Ba4 19. Rc3 Rc8 20. b3 Bb5 21. Rxc8 Qxc8
+22. Rc1 Qd7 23. a4 Bxd3 24. Qxd3 Rc8 25. Rxc8 Nxc8 26. Qc3 Na7 27. Ne2 Qc6 28.
+Qd3 Qb6 29. Nd2 Nc6 30. g3 Qb4 31. h4 Qa3 32. h5 Qa1+ 33. Kg2 Nb4 34. Qf3 Nc2
+35. Qg4 Qd1 36. Nf1 Ne1+ 37. Kg1 Qxb3 38. hxg6 hxg6 39. Ne3 Nc2 40. Ng2 Qb1+
+41. Kh2 Qd1 42. Ne3 Nxe3 43. fxe3 Qxa4 44. e4 Qc6 45. exd5 Qxd5 46. Nf4 Qa2+
+47. Kh3 Qb1 48. Qf3 a5 49. d5 exd5 50. Qxd5 a4 51. Qd4 Qb4 52. Qd7 Qc5 53. Nd3
+Qc6 54. Qxe7 Qh1+ 55. Kg4 Qd1+ 56. Kh3 Qxd3 57. Qxb7 Qf5+ 58. Kg2 Qxe5 59. Qa7
+Qb2+ 0-1

@@ -1,0 +1,19 @@
+[Event "Belgium"]
+[Site "Belgium"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Lieutenant"]
+[Black "Campeert"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "c18ebe0a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nc6 10. Be2 Rb8 11. Rhe1 O-O 12. Qg3 Kh8 13. Bf3 Nxd4 14.
+Rxd4 Ne8 15. Bxe7 Qxe7 16. e5 d5 17. f5 Bd7 18. Rh4 exf5 19. Nxd5 Qe6 20.
+Qh3 h6 21. Nf4 Qxa2 22. Nd5 Qa1+ 23. Kd2 Qa5+ 24. c3 Qd8 25. Rxh6+ gxh6 26.
+Qxh6+ Kg8 27. Nf6+ Nxf6 28. exf6 1-0
+

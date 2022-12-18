@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Sergievsky, Vladimi"]
+[Black "Chlebnikov"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "df6902e7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8.
+Bh4 Qb6 9. Qd3 Qxb2 10. Rb1 Qa3 11. Be2 Nbd7 12. O-O Be7 13. Kh1 Qa5 14.
+Bf3 Rg8 15. Bg3 g5 16. e5 Nc5 17. Nb3 Nxd3 18. Nxa5 Bd8 19. Nxb7 1-0
+

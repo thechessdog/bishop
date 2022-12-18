@@ -1,0 +1,17 @@
+[Event "Bad Pyrmont"]
+[Site "Bad Pyrmont"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Marcus, Heinz"]
+[Black "Machate, Gottlieb"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "eb9860ba"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Bg5 Be6 7. Bxf6 exf6 8.
+Qb3 dxc4 9. Qxb7 Nd7 10. Qe4 Be7 11. d5 Bf5 12. Qxc4 O-O 13. Rd1 Qb6 14. Rd2
+Bc5 15. Nf3 Rfe8+ 16. Kd1 Bxf2 17. Na4 Qa5 18. Rxf2 Rac8 19. Qb5 Rc1+ 20. Kxc1
+Re1+ 0-1

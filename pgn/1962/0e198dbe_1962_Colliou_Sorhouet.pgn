@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Colliou"]
+[Black "Sorhouet"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "0e198dbe"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. a3 Bb7 12. Qg3 O-O-O 13. Rhe1 Nc5 14.
+Kb1 Qa5 15. Ka2 b4 16. Bc4 bxc3 17. b4 Qc7 18. bxc5 dxc5 19. Nxe6 fxe6 20.
+Bxe6+ Kb8 21. Rb1 Ka8 22. Qxc3 Rd4 23. Bxf6 gxf6 24. Bf5 Ra4 25. Qb3 Bc6
+26. c4 Bd6 27. g3 Qa5 28. Bd7 Qc7 29. Bxc6+ Qxc6 30. e5 fxe5 31. fxe5 Bc7
+32. Qd3 Rd8 33. Qe2 Ba5 34. Red1 Rd4 35. e6 Rdxc4 36. e7 Rxa3+ 0-1
+

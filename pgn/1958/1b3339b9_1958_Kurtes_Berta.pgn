@@ -1,0 +1,17 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Kurtes"]
+[Black "Berta, Krisztian"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "1b3339b9"]
+[Epoch "Bishop"]
+[BlackID "706795"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6 6. Bc4 Na5 7. Bxf7+ Kxf7
+8. Qd4 Bg7 9. Ng5+ Kf8 10. Ne6+ 1-0

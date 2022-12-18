@@ -1,0 +1,18 @@
+[Event "corr ch-POL"]
+[Site "corr ch-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Fleischer"]
+[Black "Polak"]
+[Result "1/2-1/2"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "2355b227"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 O-O
+8. e3 b6 9. Bd3 Ba6 10. b3 f5 11. Ne2 c6 12. f3 Nd6 13. O-O Nd7 14. Nf4 Qe7
+15. Bd2 dxc4 16. bxc4 e5 17. Nh3 Rf7 18. Qa4 Bb7 19. Rac1 e4 20. fxe4 Nxe4
+21. Bxe4 fxe4 22. Rxf7 Qxf7 1/2-1/2
+

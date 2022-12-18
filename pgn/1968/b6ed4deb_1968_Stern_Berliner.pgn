@@ -1,0 +1,18 @@
+[Event "corr WER/K"]
+[Site "corr WER/K"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Stern"]
+[Black "Berliner, Hans"]
+[Result "0-1"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[HashCode "b6ed4deb"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Ng5 dxe5 6. dxe5 Bg7 7. Bc4 c6 8.
+Nc3 h6 9. Nxf7 Kxf7 10. Nxd5 cxd5 11. Bxd5+ Ke8 12. e6 Rf8 13. Qg4 Rf6 14.
+Qc4 Na6 15. Be3 Qa5+ 16. Bd2 Qb6 17. Bc3 Qxf2+ 18. Kd1 Bxe6 19. Bxf6 Rd8
+20. Bh4 Qb6 0-1
+

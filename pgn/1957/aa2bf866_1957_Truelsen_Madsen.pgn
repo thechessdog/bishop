@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Truelsen, Ole Illum"]
+[Black "Madsen, Carlo"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "aa2bf866"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 Be7 8.
+Nf3 h6 9. Bd3 Nd7 10. Qe2 O-O 11. h4 Bd6 12. g4 c5 13. g5 Qe7 14. gxh6 g6 15.
+h5 gxh5 16. Rg1+ Kh8 17. Rg7 e5 18. Bg5 Qe8 19. dxe5 Nxe5 20. Rh7+ Kg8 21. Rh8+
+Kxh8 22. Bf6+ Kg8 23. h7# 1-0

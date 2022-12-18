@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Mikenas, Vladas"]
+[Black "Kliukin, B."]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "a0fc26d8"]
+[Epoch "Bishop"]
+[WhiteCountry "LTU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+dxe5 9. fxe5 Nfd7 10. e6 fxe6 11. dxe6 Qe7 12. Nd5 Qh4+ 13. g3 Qe4+ 14. Qe2
+Qxd5 15. exd7+ Kxd7 16. Bg2 Qf7 17. Qb5+ Nc6 18. Bf4 Re8+ 19. Ne2 Bd4 20. O-O-O
+Rxe2 21. Bxc6+ bxc6 22. Qxc5 Ke8 23. Qxd4 Bf5 24. Rhe1 Qe6 25. Qh8+ Kf7 26.
+Qxh7+ Ke8 27. Rxe2 1-0

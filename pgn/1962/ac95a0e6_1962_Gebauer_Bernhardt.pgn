@@ -1,0 +1,19 @@
+[Event "Zuerich"]
+[Site "Zuerich"]
+[Date "1962.01.01"]
+[Round "10"]
+[White "Gebauer, Peter"]
+[Black "Bernhardt, Rolf"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "ac95a0e6"]
+[Epoch "Bishop"]
+[BlackID "4600800"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 6. O-O Nc6 7. d4 d5 8. exd6
+Bxd6 9. Qe1+ Ne7 10. Ng5 O-O 11. Qh4 Nf6 12. Qf2 h6 13. Nf3 Nf5 14. Ne5 Bxe5
+15. dxe5 Ne4 16. Qe2 Qd4+ 17. Kh1 Neg3+ 18. hxg3 Nxg3+ 19. Kh2 Nxe2 20. Bxe2
+Qxe5 21. Bf3 g5 22. Rd1 g4 0-1

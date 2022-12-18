@@ -1,0 +1,20 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Blom, Kaj"]
+[Black "Kolvig, Bent"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "c0b0aa2a"]
+[Epoch "Bishop"]
+[BlackID "1400746"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c6 7. Nc3 Bg4 8. h3
+Bxf3 9. Bxf3 e5 10. dxe5 dxe5 11. Qxd8 Rxd8 12. Be3 Nbd7 13. Rad1 Ne8 14. Rd2
+Nb6 15. Rxd8 Rxd8 16. Bxb6 axb6 17. Rd1 Rxd1+ 18. Nxd1 Nd6 19. b3 e4 20. Bg2
+Bd4 21. e3 Be5 22. g4 f5 1/2-1/2

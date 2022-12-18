@@ -1,0 +1,20 @@
+[Event "FRG-ch"]
+[Site "Bad Prymont"]
+[Date "1961.10.18"]
+[Round "4"]
+[White "Hottes, Dieter"]
+[Black "Darga, Klaus"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "4edcbef6"]
+[Epoch "Bishop"]
+[WhiteID "4606922"]
+[BlackID "4600150"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Qe2 Bb7 11. Bg5 Nbd7 12. Rac1 Be7 13. Rfd1 Re8 14. Re1 a6
+15. Ne5 Nf8 16. Red1 b5 17. Bb3 Rc8 18. a3 1/2-1/2

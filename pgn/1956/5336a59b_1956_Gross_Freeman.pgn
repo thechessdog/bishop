@@ -1,0 +1,16 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Gross, Henry"]
+[Black "Freeman, Russell"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "5336a59b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Be7 5. O-O h6 6. dxe5 Nxe5 7. Nxe5 dxe5
+8. Qh5 g6 9. Qxe5 Kf8 10. Qxh8 1-0
+

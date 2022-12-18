@@ -1,0 +1,21 @@
+[Event "Havana olm"]
+[Site "Havana olm"]
+[Date "1966.10.01"]
+[Round "1"]
+[White "Larsen, Bent Ravn"]
+[Black "Portisch, Lajos"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "99bb9933"]
+[Epoch "Bishop"]
+[BlackID "700037"]
+[WhiteID "1430670"]
+[WhiteCountry "DNK"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Be7 4. g3 Nf6 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qb3 Bb7 10. Rd1 Nbd7 11. Bg5 c5 12. dxc5 Qc7 13. Nbd2 Bxc5 14. Ne1 Bxf2+
+15. Kxf2 Qc5+ 16. e3 Ng4+ 17. Kg1 Bxg2 18. Nxg2 Qxg5 19. Nf3 Qe7 20. a4 Nde5
+21. Nd4 bxa4 22. Rxa4 Rab8 23. Qa2 Qf6 24. Rf1 Qh6 25. h4 Nxe3 0-1

@@ -1,0 +1,17 @@
+[Event "Lemvig"]
+[Site "Lemvig"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Mygh, Christian"]
+[Black "Pedersen, Eigil"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "5e7099cc"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e5 7. Nb3 Be6 8. Be3
+Nc6 9. Be2 Be7 10. O-O O-O 11. f3 Nb4 12. a5 Rc8 13. Qd2 d5 14. Bb6 Qd7 15.
+Rfc1 d4 16. Na4 d3 17. Nac5 Bxc5+ 18. Bxc5 Rxc5 19. Qxb4 Rc4 0-1

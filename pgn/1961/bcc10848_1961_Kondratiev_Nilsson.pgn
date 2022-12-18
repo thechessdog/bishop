@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Kondratiev, Pavel E"]
+[Black "Nilsson, T."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "bcc10848"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3
+h5 9. Qf4 Qh4 10. Qd2 cxd4 11. Nf3 dxc3 12. Qxc3 Qd8 13. Bg5 Ne7 14. O-O Nbc6
+15. Qd2 Qc7 16. Rfe1 Bd7 17. a4 O-O-O 18. Nd4 Rdf8 19. Nb5 Qd8 20. Reb1 Kb8 21.
+Nd6 Bc8 22. Ba6 1-0

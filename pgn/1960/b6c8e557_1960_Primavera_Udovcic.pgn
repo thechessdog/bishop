@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Primavera, Giuseppe"]
+[Black "Udovcic, Mijo"]
+[Result "1/2-1/2"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "b6c8e557"]
+[Epoch "Bishop"]
+[WhiteCountry "ITA"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 e5 6. d5 a6 7. Be3 c6 8. Bd3 cxd5
+9. cxd5 Nbd7 10. Nge2 O-O 11. Qd2 b5 12. a3 Nc5 13. Bc2 Ne8 14. O-O f5 15. b4
+Nd7 16. a4 bxa4 17. Nxa4 f4 18. Bf2 g5 19. Nec3 h5 20. b5 axb5 21. Nxb5 g4 22.
+Nac3 Rxa1 23. Rxa1 Qg5 24. fxg4 Qxg4 25. Na7 Bh6 26. h3 Qg7 27. Qd3 f3 28. Qf1
+Ndf6 29. Nxc8 Qc7 30. Ne7+ Qxe7 31. gxf3 Qc7 32. Qd3 Kh8 33. Be3 Rg8+ 34. Kh2
+Bf4+ 35. Bxf4 Qg7 36. Qf1 exf4 37. Ne2 Nh7 38. h4 Qb2 39. Bd3 Nef6 40. Rb1 Qd2
+41. Rd1 Qe3 42. e5 Qxe5 43. Bxh7 Kxh7 44. Ng1 1/2-1/2

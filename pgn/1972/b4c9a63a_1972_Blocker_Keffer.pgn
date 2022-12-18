@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1972.01.01"]
+[Round "9"]
+[White "Blocker, Calvin"]
+[Black "Keffer, T."]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "b4c9a63a"]
+[Epoch "Bishop"]
+[WhiteID "2000920"]
+[WhiteCountry "USA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 h6 5. Bxf6 exf6 6. f4 Nc6 7. Nf3 Bg7 8. Bc4
+Ne7 9. O-O O-O 10. Qe1 a6 11. Ne2 b5 12. Bd3 Bb7 13. Ng3 c5 14. c3 Re8 15. Qf2
+Kh7 16. f5 c4 17. Bc2 d5 18. e5 fxe5 19. Nh4 Bh8 20. fxg6+ fxg6 21. Qf7+ Bg7
+22. Nxg6 e4 23. Nh5 Rg8 24. Nf6# 1-0

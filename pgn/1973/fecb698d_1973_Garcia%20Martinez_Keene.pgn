@@ -1,0 +1,17 @@
+[Event "73/74"]
+[Site "Hastings"]
+[Date "1973.12.01"]
+[Round "1"]
+[White "Garcia Martinez, Silvino"]
+[Black "Keene, Raymond D"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "fecb698d"]
+[Epoch "Bishop"]
+[BlackID "400211"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 d6 3. Nf3 Bg7 4. Be2 Nf6 5. Nc3 O-O 6. O-O Nc6 7. Be3 e5 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. Rad1 Bg4 11. Rxd8+ Rxd8 12. Rd1 1/2-1/2

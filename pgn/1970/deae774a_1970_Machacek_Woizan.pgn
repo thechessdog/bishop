@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Machacek, H."]
+[Black "Woizan, G."]
+[Result "1/2-1/2"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "deae774a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. cxd5 Nxc3 7. bxc3 Qxd5
+8. e3 cxd4 9. Qxd4 Qxd4 10. cxd4 e6 11. Bb5+ Bd7 12. Bxd7+ Nxd7 13. Nf3 Be7
+14. Bg3 O-O 15. Rb1 b6 16. Kd2 Rac8 17. Rhc1 Nf6 18. Kd3 Nd5 19. Rxc8 Rxc8
+20. Rb2 Rc3+ 21. Kd2 Ra3 22. Kc1 Nc3 23. Rc2 Bb4 24. Ne5 Nxa2+ 25. Kb2 Nc3
+26. Nc6 Na4+ 27. Kb1 Bc3 28. Ra2 Rxa2 29. Kxa2 Be1 30. Nxa7 Nc3+ 31. Kb3
+Ne4 32. Kc4 Bxf2 33. Bc7 Bxe3 34. Be5 Nf2 35. h3 f5 36. Nc8 f4 37. Nxb6 g5
+38. Nd7 Kf7 39. Nf6 Kg6 40. d5 Kf5 41. dxe6 Kxe6 42. Bc3 h6 43. Ng4 h5 44.
+Nxf2 Bxf2 45. Kd3 Kd5 1/2-1/2
+

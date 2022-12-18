@@ -1,0 +1,20 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Uhlmann, Wolfgang"]
+[Black "Zinn, Lothar"]
+[Result "1-0"]
+[ECO "D54"]
+[Opening "QGD"]
+[Variation "Anti-neo-orthodox variation"]
+[HashCode "cc4e3f10"]
+[Epoch "Bishop"]
+[WhiteID "4611284"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 d5 4. Bg5 Be7 5. e3 O-O 6. Rc1 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Nxd5 exd5 10. Bxe7 Qxe7 11. Be2 Be6 12. Bf3 Qb4+ 13. Qd2 Qxd2+ 14. Kxd2
+c6 15. Ne2 g5 16. g4 a5 17. h4 Ra7 18. Ng3 f6 19. Be2 Rg7 20. f3 f5 21. gxf5
+Bxf5 22. hxg5 hxg5 23. Rcg1 c5 24. e4 Be6 25. Rh6 Kf7 26. exd5 Bxd5 27. Nf5 1-0

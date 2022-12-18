@@ -1,0 +1,22 @@
+[Event "Mar del Plata zt"]
+[Site "Mar del Plata zt"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Van Riemsdijk, Herman Claudius"]
+[Black "Garcia, Raimundo"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "3155ed71"]
+[Epoch "Bishop"]
+[WhiteID "2100053"]
+[WhiteCountry "BRA"]
+[BlackID "100420"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Nf3 b6 8. Bb5+
+Bd7 9. Bxd7+ Nxd7 10. O-O Rc8 11. a4 Qc7 12. Ba3 O-O 13. Re1 Nf5 14. Qd3 Rfe8
+15. g4 Ne7 16. Ng5 Ng6 17. Qf3 Rf8 18. Qd3 Qc6 19. h4 h6 20. h5 hxg5 21. hxg6
+fxg6 22. Qxg6 Rf4 23. Qxg5 Rcf8 24. Re2 Re4 25. Rxe4 dxe4 26. Bc1 cxd4 27. Bb2
+e3 28. fxe3 Qf3 29. cxd4 Qg3+ 0-1

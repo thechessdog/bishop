@@ -1,0 +1,18 @@
+[Event "Staunton"]
+[Site "Birmingham"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Rossolimo, Nicolas"]
+[Black "Alexander, Conel Hugh O'Donel"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Paulsen attack"]
+[HashCode "801c4992"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. Nc3 Nxc3 6. bxc3 d5 7. Ne5 Be6 8.
+Rb1 b6 9. d4 Bd6 10. Qf3 c6 11. c4 dxc4 12. Bxc4 Bxc4 13. Nxc4 O-O 14. O-O Re8
+15. Bb2 Qd7 16. d5 c5 17. Rfe1 Na6 18. Nxd6 Qxd6 19. Qg4 Qg6 20. Qa4 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Bari"]
+[Site "Bari"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Martinovic"]
+[Black "Schurr"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Winawer attack"]
+[HashCode "1ab752fe"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6
+bxc6 8. dxe5 Nb7 9. Nd4 O-O 10. Rd1 Bc5 11. Be3 Qe8 12. Qh5 d6 13. exd6
+cxd6 14. Nd2 Bd7 15. Qf3 f5 16. N2b3 Qe4 17. Qxe4 fxe4 18. Nxc5 dxc5 19.
+Nb3 Bg4 20. Re1 Rfd8 21. Bxc5 Rd5 22. Rxe4 Bd1 23. Rc4 Rad8 24. h3 Nxc5 25.
+Nxc5 Rd2 26. Rc1 Re8 27. Ne4 Rdd8 28. f3 Re6 29. Kf2 c5 30. Ke1 Bxf3 31.
+gxf3 1-0
+

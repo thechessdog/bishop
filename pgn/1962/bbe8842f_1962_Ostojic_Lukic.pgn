@@ -1,0 +1,26 @@
+[Event "Skopje ch17-YUG"]
+[Site "Skopje ch17-YUG"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Ostojic, Predrag"]
+[Black "Lukic, Arsenije"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "bbe8842f"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Be7 8. d4
+O-O 9. h3 Bb7 10. Re1 Nb8 11. dxe5 dxe5 12. Qxd8 Bxd8 13. Nxe5 Nxe4 14. Be3 Bf6
+15. Ng4 Nd7 16. Nd2 Nxd2 17. Bxd2 c5 18. Bf4 c4 19. Bc2 h5 20. Nxf6+ Nxf6 21.
+Be5 Rad8 22. Bxf6 gxf6 23. Rad1 Kg7 24. h4 Bc6 25. f3 a5 26. Rxd8 Rxd8 27. Rd1
+Rb8 28. Rd6 Be8 29. Rd4 Kf8 30. Kf2 Ke7 31. Ke3 Bd7 32. Bd1 Be6 33. Be2 f5 34.
+g3 Kf6 35. f4 Ke7 36. Bxh5 b4 37. Rd2 bxc3 38. bxc3 Rb1 39. Bf3 a4 40. h5 Kf6
+41. Rd8 Kg7 42. Ra8 Rc1 43. Kd2 Rg1 44. Rxa4 Rxg3 45. Be2 Rg2 46. Ra7 Rg1 47.
+a4 Ra1 48. a5 Ra2+ 49. Ke3 Rc2 50. a6 Rxc3+ 51. Kd4 Ra3 52. Ra8 Kh7 53. a7 Kg7
+54. h6+ Kh7 55. Bf3 Ra5 56. Kc3 Ra3+ 57. Kb4 Ra1 58. Be2 Bd5 59. Rd8 Be4 60.
+Rd7 Kxh6 61. Kxc4 Rc1+ 62. Kb5 Rb1+ 63. Kc5 Rc1+ 64. Kb6 Rb1+ 65. Kc7 Rc1+ 66.
+Kb8 Kg6 67. Rc7 Rb1+ 68. Kc8 Ra1 69. Rb7 f6 70. Kb8 Ra2 71. a8=Q Rxa8+ 72. Kxa8
+Bg2 73. Ka7 Bxb7 74. Kxb7 Kf7 75. Kc7 1-0

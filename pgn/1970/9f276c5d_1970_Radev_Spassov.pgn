@@ -1,0 +1,21 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Radev, Nikolai"]
+[Black "Spassov, Liuben"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "9f276c5d"]
+[Epoch "Bishop"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+[WhiteCountry "BGR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. f4
+Nc6 9. Be3 O-O 10. Qe2 Qc7 11. O-O-O b5 12. g4 b4 13. Nxc6 bxc3 14. Nxe7+ Qxe7
+15. Qd3 cxb2+ 16. Kxb2 Bb7 17. Qxd6 Qxd6 18. Rxd6 Nxg4 19. Bd4 Rfd8 20. Rxd8+
+Rxd8 21. c3 Bxe4 22. Rg1 Nxh2 23. Rxg7+ Kf8 24. Rg3 Ke7 25. Bc2 Bg6 26. f5 exf5
+27. Be3 Ke6 1/2-1/2

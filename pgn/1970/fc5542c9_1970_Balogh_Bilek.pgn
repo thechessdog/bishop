@@ -1,0 +1,22 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Balogh, Bela"]
+[Black "Bilek, Istvan"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "fc5542c9"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nf6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 Re8
+9. e5 dxe5 10. fxe5 Ng4 11. Bf4 Nd7 12. dxe6 fxe6 13. Ng5 Ndxe5 14. O-O Qd4+
+15. Qxd4 cxd4 16. Nb5 h6 17. Ne4 Re7 18. Bxg4 Nxg4 19. Bd6 Rd7 20. c5 Ne3 21.
+Nf6+ Kh8 22. Rf3 Nf5 23. Ne8 Nxd6 24. Nbxd6 Re7 25. Nxg7 Kxg7 26. Raf1 e5 27.
+Rf8 d3 28. Ne8+ Kh7 29. Nf6+ Kg7 30. Ne4 Bf5 31. Rxa8 Bxe4 32. Rd1 Rd7 33. Rd2
+Bc6 34. Kf2 a6 35. Rc8 e4 36. Ke3 Rf7 37. Rxc6 bxc6 38. Kxe4 Rf5 39. b4 Rh5 40.
+g3 Rf5 41. a3 Rf1 42. Rxd3 Re1+ 43. Re3 Rd1 44. Rd3 Re1+ 45. Kf4 g5+ 46. Kf5
+Rf1+ 47. Ke6 g4 48. Kd7 Rf3 49. Rd4 h5 50. Kxc6 Kf6 51. Kd6 Rxa3 52. c6 1-0

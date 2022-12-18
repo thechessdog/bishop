@@ -1,0 +1,16 @@
+[Event "Pittsburgh"]
+[Site "Pittsburgh"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Fornoff"]
+[Black "Baldock"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "d9df2463"]
+[Epoch "Bishop"]
+
+1. g4 d5 2. g5 e5 3. h4 h6 4. d4 e4 5. c4 c6 6. Nc3 Be7 7. Nh3 hxg5 8. hxg5
+Be6 9. Qb3 Qd7 10. cxd5 cxd5 11. Bf4 Nc6 12. Nb5 Bb4+ 13. Kd1 Rc8 14. Qg3
+Nge7 15. e3 Bg4+ 16. Be2 Rxh3 17. Bxg4 Rxh1+ 18. Ke2 Nxd4+ 0-1
+

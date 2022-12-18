@@ -1,0 +1,20 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Ostojic, Predrag"]
+[Black "Doda, Zbigniew"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "c7d0bb88"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nc6 7. Bg2 d6 8. O-O
+Bd7 9. Nde2 Nf6 10. h3 Be7 11. Be3 b5 12. b3 Rc8 13. f4 O-O 14. Rc1 Nb8 15. g4
+b4 16. Nb1 d5 17. e5 Ne4 18. c4 bxc3 19. Nbxc3 Nxc3 20. Rxc3 Qa5 21. Rxc8 Rxc8
+22. Nc1 Bc5 23. Bf2 Ba3 24. Nd3 Bb5 25. Re1 Qc3 26. Bf1 Nd7 27. Qe2 Nc5 28.
+Bxc5 Bxc5+ 29. Kg2 Bxd3 0-1

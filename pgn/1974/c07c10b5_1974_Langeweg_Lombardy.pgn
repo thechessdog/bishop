@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1974.07.01"]
+[Round "10"]
+[White "Langeweg, Kick"]
+[Black "Lombardy, William James"]
+[Result "1/2-1/2"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "c07c10b5"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "USA"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 g6 4. d4 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 8. d5 Qa5
+9. Rb1 Qa6 10. b3 Bd7 11. Bb2 Qb6 12. Ne1 Na6 13. Nd3 e5 14. dxe6 Bxe6 15. e4
+Rad8 16. Qd2 fxe4 17. Nxe4 Nxe4 18. Bxe4 Bxb2 19. Rxb2 Nc5 1/2-1/2

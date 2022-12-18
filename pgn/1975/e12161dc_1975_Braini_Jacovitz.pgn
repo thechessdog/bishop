@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Braini"]
+[Black "Jacovitz"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "e12161dc"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5 Bg7 7. Qd2 Nc6
+8. O-O-O O-O 9. Nxc6 bxc6 10. h3 Qa5 11. Bc4 Rb8 12. Rhe1 Be6 13. Bxe6 fxe6
+14. Bh4 Rxb2 15. Kxb2 Nxe4 16. Qe3 Rb8+ 0-1
+

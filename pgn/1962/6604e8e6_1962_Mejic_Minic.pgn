@@ -1,0 +1,25 @@
+[Event "Skopje ch17-YUG"]
+[Site "Skopje ch17-YUG"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Mejic, Petar"]
+[Black "Minic, Dragoljub"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "6604e8e6"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+Qc7 9. Be3 Nbd7 10. Qd2 b5 11. a4 b4 12. Nd5 Nxd5 13. exd5 O-O 14. Rfc1 Nf6 15.
+c4 bxc3 16. Rxc3 Qb7 17. Na5 Qxd5 18. Nc6 Bd8 19. Qc2 Bb7 20. Bf3 e4 21. Be2
+Qe6 22. Bd4 Rc8 23. Raa3 Nd5 24. Nxd8 Rfxd8 25. Rxc8 Rxc8 26. Qd2 Rc7 27. Rg3
+f6 28. h4 Qf5 29. Bg4 Qf4 30. Qxf4 Nxf4 31. Be3 Nd3 32. Bd4 Kf8 33. Be2 Nf4 34.
+Re3 Rc1+ 35. Bf1 a5 36. Bc3 Nd3 37. g3 d5 38. Kg2 d4 39. Bxd4 Ne1+ 40. Kh3 Nf3
+41. Rxf3 exf3 42. Bd3 Rd1 43. Bc5+ Kf7 44. Bb5 h5 45. Kh2 Rd2 46. Bc4+ Bd5 47.
+Be3 Rd1 48. Bb5 Rb1 49. Bd4 g5 50. g4 hxg4 51. h5 Be4 52. Bc4+ Kg7 53. Be6 Kh6
+54. Bxf6 Kxh5 55. Bf7+ Bg6 56. Bc4 Bc2 57. Bf7+ Kh4 58. Be5 g3+ 59. Bxg3+ Kg4
+60. Be5 Kf5 61. Bc3 Bxa4 62. Bd5 g4 63. Bg8 Rf1 64. Bh7+ Kg5 65. Bd4 Bb5 66.
+Be3+ Kh4 67. Bd4 g3+ 68. fxg3+ Kg4 69. Bg8 Bd7 0-1

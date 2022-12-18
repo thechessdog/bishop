@@ -1,0 +1,19 @@
+[Event "Titograd"]
+[Site "Titograd"]
+[Date "1965.01.01"]
+[Round "10"]
+[White "Susic, Idriz"]
+[Black "Bradvarevic, Aleksandar"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "b81636a6"]
+[Epoch "Bishop"]
+[WhiteID "14503611"]
+[WhiteCountry "CRO"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be3 a6 7. Bd3 Nf6 8.
+O-O Nxd4 9. Bxd4 Bc5 10. Bxc5 Qxc5 11. Na4 Qc7 12. c4 d6 13. Rc1 Bd7 14. c5 O-O
+15. cxd6 Qxd6 16. Nc5 Bc6 17. Qe2 e5 1/2-1/2

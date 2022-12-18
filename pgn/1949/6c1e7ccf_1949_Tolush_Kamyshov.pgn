@@ -1,0 +1,23 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Tolush, Alexander"]
+[Black "Kamishov, Mikhail Pavlovich"]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "6c1e7ccf"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Ne5 Nxe5 8.
+dxe5 Qxd1 9. Rxd1 Nd5 10. Na3 c3 11. Bxd5 cxb2 12. Bxb2 exd5 13. Nb5 Kd7 14.
+Nc3 Kc6 15. Nxd5 Be6 16. e4 c4 17. a4 Rd8 18. Rac1 Bxd5 19. exd5+ Rxd5 20. Rxd5
+Kxd5 21. Rd1+ Kc6 22. Rd8 Kc7 23. Ra8 Ba3 24. Rxh8 Bxb2 25. Rxh7 c3 26. Rh4 b5
+27. axb5 Kb6 28. Rc4 Kxb5 29. Rc8 a5 30. f4 a4 31. f5 a3 32. e6 a2 33. Rb8+ Kc4
+34. e7 a1=Q+ 35. Kg2 Qe1 36. Rc8+ Kb5 37. Rb8+ Ka6 38. e8=Q Qxe8 39. Rxe8 c2
+40. Rc8 c1=Q 41. Rxc1 Bxc1 42. Kf3 Kb6 43. h4 Kc6 44. f6 g6 45. g4 Kd5 46. g5
+Bxg5 0-1

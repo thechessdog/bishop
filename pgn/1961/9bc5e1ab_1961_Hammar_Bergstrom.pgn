@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Hammar, Bengt"]
+[Black "Bergstrom"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "9bc5e1ab"]
+[Epoch "Bishop"]
+[WhiteID "1700391"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Na5 10. Nbd2 c5 11. Nxe4 dxe4 12. Bxe6 exf3 13. Bxf7+ Kxf7 14. Qxf3+
+Ke8 15. Rd1 Qc8 16. e6 Qb7 17. Rd5 Rd8 18. Rxd8+ Kxd8 19. Bg5+ Ke8 20. Rd1 Nc6
+21. Qxc6+ Qxc6 22. Rd8# 1-0

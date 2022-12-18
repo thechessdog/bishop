@@ -1,0 +1,18 @@
+[Event "corr USSR-GER"]
+[Site "corr USSR-GER"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Hrudka, E."]
+[Black "Chjutt, WP."]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "58706f27"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. f5 h5 12. Qe1 Qb6 13. fxe6 fxe6 14.
+Nd5 Qd8 15. Nxc6 Bxc6 16. Qc3 Rc8 17. Nxf6+ Kf7 18. Bc4 Bh6+ 19. Kb1 bxc4
+20. Rhf1 Ke7 21. e5 Bd5 22. exd6+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Baturinsky, V."]
+[Black "Szekely, S."]
+[Result "1-0"]
+[ECO "A44"]
+[Opening "Semi-Benoni (`blockade variation')"]
+[HashCode "84d6c175"]
+[Epoch "Bishop"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Nc3 g6 5. Nf3 Bg7 6. Nd2 a6 7. a4 Nd7 8. a5
+b5 9. axb6 Nxb6 10. Na4 Ne7 11. Nxb6 Qxb6 12. Nc4 Qc7 13. Bd2 O-O 14. Ba5
+Qb8 15. b4 cxb4 16. Rb1 Ra7 17. Rxb4 Rb7 18. Qb1 Rxb4 19. Qxb4 Bd7 20. Nxd6
+Qa7 21. Bb6 Rb8 22. Bxa7 Rxb4 23. Kd2 Rb1 24. f3 Bf8 25. Nc4 Bb5 26. Rg1
+Nc8 27. Be3 Rxf1 28. Rxf1 Bxc4 29. Rb1 Bd6 30. Kc3 Bb5 31. Kb3 Bc7 32. c4
+Bd7 33. Kc3 Kf8 34. Rb7 Ba5+ 35. Kb3 Ke8 36. Bc5 h5 37. Bb4 Bd8 38. c5 Bb5
+39. Rb8 Kd7 40. c6+ Kc7 41. Rb7# 1-0
+

@@ -1,0 +1,23 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Martyniak, J."]
+[Black "Pruess, J."]
+[Result "0-1"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "85e0794e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3
+d5 8. exd5 cxd5 9. O-O O-O 10. Bg5 Be6 11. Ne2 h6 12. Bh4 Bd7 13. c3 Be7
+14. Nd4 Re8 15. f3 Rb8 16. b4 c5 17. bxc5 Bxc5 18. Rb1 Qa5 19. Qc1 Rxb1 20.
+Bxb1 Qb6 21. Qd2 Bb5 22. Re1 Rxe1+ 23. Bxe1 Bc4 24. Qc1 a5 25. Bf2 a4 26.
+Be3 Nd7 27. Kf2 Ne5 28. Nf5 Bd3 29. Bxc5 Qxb1 30. Qxb1 Bxb1 31. Ne7+ Kh7
+32. Bd4 Nc4 33. Nxd5 Bxa2 34. Ne3 a3 35. Nc2 Bb1 36. Na1 g5 37. Ke2 Kg6 38.
+Bc5 a2 39. g3 Kf5 40. Bf8 h5 41. Bg7 g4 42. Kf2 gxf3 43. Kxf3 Ne5+ 44. Ke2
+Ke4 45. h3 Bd3+ 46. Kf2 Bc4 47. Nc2 Nd3+ 48. Kg1 Ne1 49. Na1 Kd3 50. h4 f5
+51. Kf2 Nc2 0-1
+

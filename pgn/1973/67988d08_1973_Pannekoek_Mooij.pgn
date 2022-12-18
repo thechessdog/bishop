@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Pannekoek, J."]
+[Black "Mooij, W."]
+[Result "0-1"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "67988d08"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c6 6. Nf3 O-O 7. Qb3 Qa5 8.
+Nd2 Nbd7 9. Bd3 Nh5 10. Bg3 Nxg3 11. hxg3 e5 12. dxe5 Nxe5 13. Be2 dxc4 14.
+Nxc4 Nxc4 15. Bxc4 b5 16. Bd3 Be6 17. Qc2 b4 18. Ne2 b3+ 19. Qd2 Qxd2+ 20.
+Kxd2 bxa2 21. Nc3 Rab8 22. Kc2 Rb6 0-1
+

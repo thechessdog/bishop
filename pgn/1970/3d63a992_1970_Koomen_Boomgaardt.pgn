@@ -1,0 +1,16 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Koomen"]
+[Black "Boomgaardt, J."]
+[Result "0-1"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Spike gambit"]
+[HashCode "3d63a992"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. g4 Bg7 5. g5 Ne4 6. Nxd5 c6 7. Nc3 Qa5 8.
+Bd2 Qf5 9. f4 Bxd4 10. Bh3 Qxh3 11. Nxh3 0-1
+

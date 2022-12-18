@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Aronin, Lev Solomonovich"]
+[Black "Kotkov, Yuri"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "fe5a30be"]
+[Epoch "Bishop"]
+[BlackID "54142938"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Nc3 Nc6 8.
+O-O d6 9. Qg4 Nf6 10. Qxg7 Rg8 11. Qh6 Ne5 12. Bg5 Rg6 13. Qh4 Nf3+ 14. gxf3 h6
+15. f4 hxg5 16. fxg5 Nh5 17. Qxh5 Rxg5+ 18. Qxg5 Qxg5+ 19. Kh1 Qf4 20. f3 Bd7
+21. Ne2 Qh4 22. Ned4 Ke7 23. Rae1 Rg8 24. Re2 e5 25. Nf5+ Bxf5 26. exf5 Qh3 0-1

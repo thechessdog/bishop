@@ -1,0 +1,19 @@
+[Event "Lugano olm"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Rossetto, Hector"]
+[Black "Darga, Klaus"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "04972c8a"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackID "4600150"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Qd3 h6 5. Bh4 c6 6. O-O-O b5 7. f3 b4 8. Nb1
+Qb6 9. e4 e6 10. e5 Nh5 11. Nh3 g5 12. Bf2 c5 13. g4 c4 14. Qe3 Nf4 15. Nxf4
+gxf4 16. Qxf4 Be7 17. h4 Qa5 18. Be1 Qxa2 19. c3 b3 20. Rh2 a5 21. Rdd2 a4 22.
+g5 hxg5 23. hxg5 Rxh2 24. Qxh2 Nf8 25. f4 Qa1 26. f5 a3 0-1

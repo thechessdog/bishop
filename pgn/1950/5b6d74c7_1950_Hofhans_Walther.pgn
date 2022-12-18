@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Hofhans"]
+[Black "Walther, Edgar"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[HashCode "5b6d74c7"]
+[Epoch "Bishop"]
+[BlackCountry "CHE"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. Nc3 Nbd7 5. cxd5 cxd5 6. Bf4 a6 7. e3 e6 8. Bd3
+Be7 9. Rc1 O-O 10. Qc2 h6 11. h3 b5 12. O-O Bb7 13. Qb1 Rc8 14. b4 Nb6 15. Rfd1
+Nc4 16. Qb3 Ne4 17. Ne5 f6 18. Ng6 Re8 19. f3 Ned2 20. Qc2 Bxb4 21. e4 Qa5 22.
+Rxd2 Na3 1-0

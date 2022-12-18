@@ -1,0 +1,16 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Roisman"]
+[Black "Dydyshko, Viacheslav"]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed system"]
+[HashCode "9651926e"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. h4 Nf6 6. d3 d6 7. Bd2 O-O 8. Qc1
+Nd4 9. Nf3 Bg4 10. Ng5 h6 11. Nge4 c6 12. Bxh6 Bxh6 13. Qxh6 Nc2+ 14. Kd1 Nxa1
+15. h5 Bf5 16. hxg6 1-0

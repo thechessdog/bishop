@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Tesor, K."]
+[Black "Baier, G."]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "afd97d87"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. cxd5 Qxd5 5. Nc3 Qa5 6. d5 O-O-O 7. Bd2
+Bxf3 8. exf3 Nd4 9. Rc1 Qb6 10. Be3 e5 11. f4 f6 12. Bd3 Ne7 13. fxe5 fxe5
+14. Be4 c6 15. O-O Kb8 16. Qh5 Qc7 17. Bxd4 exd4 18. Nb5 1-0
+

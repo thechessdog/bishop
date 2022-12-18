@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Ritov"]
+[Black "Klaman, Konstantin"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "83822160"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. a4 a6 8. Na3
+Be6 9. Bc4 Be7 10. Be3 Rc8 11. O-O O-O 12. Qe2 Nb4 13. Rfd1 Bxc4 14. Nxc4 Nxc2
+15. Qxc2 Rxc4 16. Qb3 Qc7 17. Bg5 Qc6 18. Rd3 Re8 19. Bxf6 Bxf6 20. Rad1 Be7
+21. Kf1 Bf8 22. f3 b5 23. axb5 axb5 24. Ra1 Rc8 25. Ne2 Be7 26. Ra5 b4 27. Ra4
+Qb5 28. Rc3 Rxc3 29. bxc3 d5 30. exd5 Rxc3 31. Ra8+ Bf8 32. Qa4 Rc1+ 33. Kf2
+Qxa4 34. Rxa4 b3 35. d6 b2 36. d7 Rd1 37. Nc3 Rxd7 38. Ra2 Rd2+ 39. Ke1 b1=Q+
+40. Kxd2 Qg1 0-1

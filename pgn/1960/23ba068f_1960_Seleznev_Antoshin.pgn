@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Seleznev"]
+[Black "Antoshin, Vladimir S"]
+[Result "0-1"]
+[ECO "A86"]
+[Opening "Dutch"]
+[Variation "Hort-Antoshin system"]
+[HashCode "23ba068f"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 d6 4. g3 c6 5. Bg2 Qc7 6. Nf3 e5 7. dxe5 dxe5 8. O-O
+Bb4 9. Qb3 Na6 10. e4 fxe4 11. Ng5 Bxc3 12. Qxc3 Bf5 13. Re1 Nc5 14. b4 Nd3 15.
+Re2 O-O 16. Nxe4 Nxe4 17. Bxe4 Bxe4 18. Rxe4 Nxf2 19. Rxe5 Rad8 20. c5 Qf7 21.
+Bg5 Rd3 0-1

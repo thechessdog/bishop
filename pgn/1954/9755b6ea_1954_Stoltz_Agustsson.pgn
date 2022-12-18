@@ -1,0 +1,17 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Stoltz, Gösta"]
+[Black "Agustsson, Gudmundur"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "9755b6ea"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Bb4 6. Qb3 c5 7. a3 Bxc3+ 8. bxc3
+Ne7 9. Nf3 Nbc6 10. Be2 dxc4 11. Qxc4 cxd4 12. cxd4 O-O 13. O-O Rc8 14. Qa4 Nd5
+15. Bd2 Nb6 16. Qb5 Nxd4 17. Nxd4 Qxd4 18. Be3 1/2-1/2

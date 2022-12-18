@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Timofeev, V."]
+[Black "Nezhmetdinov, Rashid"]
+[Result "0-1"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "4190798d"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 d6 3. c4 Nbd7 4. g3 g6 5. Bg2 Bg7 6. Nc3 O-O 7. O-O e5 8. Qc2
+c6 9. Rd1 Re8 10. h3 e4 11. Nh2 d5 12. cxd5 cxd5 13. Bf4 a6 14. Ng4 Nxg4 15.
+Nxd5 Ndf6 16. Nc7 e3 17. hxg4 exf2+ 18. Kf1 Nxg4 19. Nxe8 Qxe8 20. Qb3 h6 21.
+Bxb7 g5 22. Bxa8 gxf4 23. gxf4 Be6 24. Qb7 Bc4 25. Qe4 Qd8 26. Kg2 f5 27. Qc6
+Kh7 28. Kf3 f1=Q+ 29. Rxf1 Qh4 0-1

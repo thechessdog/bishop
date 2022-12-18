@@ -1,0 +1,27 @@
+[Event "Maribor"]
+[Site "Maribor"]
+[Date "1967.??.??"]
+[Round "10"]
+[White "Matulovic, Milan"]
+[Black "Lengyel, Laszlo"]
+[Result "0-1"]
+[ECO "C96"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Keres (...Nd7) defence"]
+[HashCode "f35dd32d"]
+[Epoch "Bishop"]
+[BlackID "701998"]
+[WhiteCountry "SRB"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5 15.
+Bd3 Ba6 16. d5 Nb4 17. Bf1 a4 18. a3 Nxd5 19. Qxd5 axb3 20. Bxb5 Nf6 21. Qd3
+Bxb5 22. Qxb5 Qb8 23. Qxb8 Raxb8 24. Bg5 Rfc8 25. Rac1 h6 26. Rxc8+ Rxc8 27.
+Bxf6 Bxf6 28. Re3 Rc1+ 29. Kh2 Rc2 30. Rxb3 d5 31. a4 dxe4 32. Ne1 Re2 33. a5
+Be7 34. a6 Bc5 35. Rc3 Bxf2 36. Rc8+ Kh7 37. Rc2 Rxe1 38. Rxf2 Ra1 39. b4 e3
+40. Re2 Rxa6 41. Rxe3 f6 42. Kg3 Rb6 43. Rb3 Kg6 44. Kf3 Kf5 45. Ke3 Ke6 46. h4
+g6 47. Rb1 f5 48. g3 Kd5 49. Kd3 g5 50. hxg5 hxg5 51. b5 f4 52. gxf4 gxf4 53.
+Rb2 e4+ 54. Kc3 Ke5 55. Kd2 Kf5 56. Rb4 Kg4 57. Ke2 Kg3 58. Rb2 e3 59. Rb3 Re6
+60. b6 f3+ 61. Kd3 f2 62. Ke2 Kg2 63. Rb1 Rxb6 64. Rxb6 f1=Q+ 65. Kxe3 Qf2+ 66.
+Ke4 Qxb6 0-1

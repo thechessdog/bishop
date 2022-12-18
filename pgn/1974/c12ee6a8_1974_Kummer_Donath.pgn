@@ -1,0 +1,23 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kummer, G."]
+[Black "Donath, R."]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "c12ee6a8"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Ne2 e5 7. O-O Re8 8.
+Ng3 Bxc3 9. bxc3 c5 10. Qc2 h6 11. d5 Nbd7 12. a4 a5 13. e4 Nf8 14. f4 N8h7
+15. Qf2 Qe7 16. Rb1 Ra6 17. h3 Nd7 18. Nf5 Qf6 19. Qg3 Qg6 20. Rf3 Nhf8 21.
+Qf2 Qh7 22. Bd2 Ng6 23. Rf1 Ne7 24. Nxg7 Qxg7 25. Rg3 Ng6 26. f5 Rf8 27.
+Qe1 Nf6 28. Qc1 Kh7 29. Qd1 Bd7 30. Bc2 Rb6 31. Bc1 Be8 32. h4 Qh8 33. Qd2
+Nh5 34. fxg6+ Kg7 35. Rgf3 f6 36. g4 Nf4 37. h5 Bd7 38. Rg3 Kg8 39. Qf2 Qg7
+40. Bxf4 exf4 41. Qxf4 Rb2 42. Rg2 Rb6 43. Rgf2 Be8 44. Kh1 Bd7 45. Qg3 Be8
+46. Qh2 Qe7 47. g5 hxg5 48. e5 dxe5 49. h6 Bxg6 50. Bxg6 Kh8 51. Bf5 Rf7
+52. Rb2 Rxb2 53. Qxb2 e4 54. Qe2 Qf8 55. Qxe4 Qxh6+ 56. Kg2 1-0
+

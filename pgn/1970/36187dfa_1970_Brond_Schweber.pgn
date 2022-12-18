@@ -1,0 +1,18 @@
+[Event "Miramar"]
+[Site "Miramar"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Brond, Victor"]
+[Black "Schweber, Samuel"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "36187dfa"]
+[Epoch "Bishop"]
+[WhiteID "100331"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 c5 5. d5 b5 6. cxb5 Qa5+ 7. Bd2 Qxb5 8. Bc3
+O-O 9. e4 Qb7 10. Nbd2 d6 11. Bg2 Qb5 12. a4 Qa6 13. Bf1 Qb7 14. Bg2 Qa6 15.
+Bf1 Qb7 16. Bg2 Qa6 1/2-1/2

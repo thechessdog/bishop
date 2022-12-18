@@ -1,0 +1,22 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Hoen, Ragnar"]
+[Black "Filip, Miroslav"]
+[Result "0-1"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "f3d946e5"]
+[Epoch "Bishop"]
+[WhiteID "1500147"]
+[WhiteCountry "NOR"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6 15.
+Nf1 Qb8 16. g4 d5 17. Ng3 exd4 18. cxd4 dxe4 19. Nxe4 c5 20. Nxf6+ Nxf6 21. Bg5
+Rxe1+ 22. Nxe1 Ne4 23. Be3 c4 24. Bf1 c3 25. bxc3 Nxc3 26. Qb3 Nxa4 27. Nd3 Qe8
+28. Ne5 Nb6 29. Bg2 Bxg2 30. Kxg2 a5 31. Bd2 a4 32. Qb1 Nc4 33. Nxc4 Qc6+ 34.
+f3 Qxc4 35. Qe4 Rd8 36. Rc1 Qxd4 0-1

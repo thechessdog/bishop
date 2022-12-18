@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Neubert, G."]
+[Black "Bade, U."]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "882a6a5c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Nf3 O-O 9. Be2 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qb6 13. O-O Nxe5 14.
+Qd2 Bg4 15. Nxe5 Bxe2 16. Nxf7 Bxf1 17. Rxf1 Qb4 18. Nh6+ Bxh6 19. Bxh6
+Qd4+ 20. Qxd4 cxd4 21. Nb5 Na6 22. Nd6 Re7 23. Bg5 Rd7 24. Ne4 Rf8 25. d6
+Rxf1+ 26. Kxf1 Kf7 27. Be7 h6 28. a3 b6 29. b4 Nb8 30. Nf6 Rb7 31. Ng4 Nc6
+32. Bh4 Ke6 33. Bg3 h5 34. Nf2 Ne5 35. Ne4 Kd5 36. Nd2 Rd7 37. Ke2 Rxd6 0-1
+

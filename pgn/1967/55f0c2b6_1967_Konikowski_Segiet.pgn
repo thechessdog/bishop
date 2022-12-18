@@ -1,0 +1,19 @@
+[Event "Olsztyn"]
+[Site "Olsztyn"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Konikowski, Jerzy"]
+[Black "Segiet"]
+[Result "1-0"]
+[ECO "A68"]
+[Opening "Benoni"]
+[Variation "four pawns attack"]
+[HashCode "55f0c2b6"]
+[Epoch "Bishop"]
+[WhiteID "4601467"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Be2 b5 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qa5 13. O-O Nxe5 14. Nxe5 Bxe5
+15. Be7 Bd4+ 16. Kh1 Re8 17. d6 Bd7 18. Nxb5 Bxb5 19. Qb3 a6 20. Qxf7+ Kh8 21.
+a4 Nd7 22. axb5 Qd2 23. Bg4 1-0

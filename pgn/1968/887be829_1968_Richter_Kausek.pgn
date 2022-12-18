@@ -1,0 +1,18 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Kausek"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "887be829"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2 Qc7
+8. h3 Bh5 9. Nh4 Bxe2 10. Qxe2 Nd7 11. O-O e6 12. g3 O-O-O 13. Qh5 Nb6 14. Bf4
+Bd6 15. Bxd6 Rxd6 16. c3 Rdd8 17. a4 Rdg8 18. Kh2 f5 19. Ng2 Nd5 20. Qh4 Rd8
+21. Rfe1 c5 22. dxc5 Qxc5 23. Re2 Rd7 24. Rd1 Rhd8 25. Rd4 Nb6 26. Qxh7 Nxa4
+27. Red2 1/2-1/2

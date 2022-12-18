@@ -1,0 +1,22 @@
+[Event "Minden"]
+[Site "Minden"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Steger"]
+[Black "Mross, Winfried"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "7c19807a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Bxc3+ 6. bxc3 b6 7. Ne2 d6 8.
+O-O e5 9. Ng3 Bb7 10. e4 Re8 11. f3 Nbd7 12. Be3 Nf8 13. a4 a5 14. c5 bxc5 15.
+dxc5 d5 16. Bb5 Re6 17. Qc2 Qc8 18. Rad1 g6 19. c6 Bxc6 20. Bxc6 Rxc6 21. exd5
+Rc4 22. Qb3 Qa6 23. Rf2 N6d7 24. Rfd2 Rb8 25. Qa3 Qd6 26. Qa1 Nc5 27. Rb2 Rxb2
+28. Qxb2 Rxa4 29. Qb5 Nfd7 30. Qc6 Kg7 31. Re1 Ra3 32. c4 Nd3 33. Rb1 Qxc6 34.
+dxc6 Nf8 35. h4 Ne6 36. h5 f5 37. h6+ Kf7 38. Bd2 Ra2 39. Nf1 a4 40. Rb7 Rb2
+41. Ra7 Rb6 42. Rxa4 Nb2 43. Ra8 Nxc4 44. Bc3 Rxc6 45. Rh8 Ng5 46. Bxe5 Nxe5
+47. f4 Ne6 48. fxe5 Nf8 49. Ne3 Re6 50. Nc4 g5 51. Ne3 Rxe5 52. Kf2 g4 53. g3
+Re6 0-1

@@ -1,0 +1,21 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Russell"]
+[Black "Spencer"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "fa5046e8"]
+[Epoch "Bishop"]
+
+1. e4 Nc6 2. Nc3 e6 3. d4 Bb4 4. Nf3 d6 5. Bb5 a6 6. Be2 Nf6 7. Qd3 Qe7 8.
+O-O Bxc3 9. bxc3 e5 10. d5 Nd8 11. Nd2 O-O 12. Nc4 Nd7 13. Ba3 b6 14. Ne3
+g6 15. Rab1 Nb7 16. Ng4 Ndc5 17. Qf3 Qh4 18. Nf6+ Kg7 19. Bc1 h5 20. g3 Bg4
+21. gxh4 Bxf3 22. Bxf3 Kxf6 23. Bg5+ Kg7 24. Bg2 Na5 25. Bd2 Nc4 26. Be1 f5
+27. exf5 Rxf5 28. f3 Ne3 29. Rf2 Raf8 30. Bh1 Nxd5 31. Bd2 e4 32. Re1 b5
+33. Be3 exf3 34. Bd4+ Kh6 35. Ref1 Ne6 36. Rxf3 Nxd4 37. cxd4 Rxf3 38. Rxf3
+Rxf3 39. Bxf3 Nb4 40. Bb7 a5 41. c4 bxc4 42. Kf1 Nxa2 43. Bd5 c3 0-1
+

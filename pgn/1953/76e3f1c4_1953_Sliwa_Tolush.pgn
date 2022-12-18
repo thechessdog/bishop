@@ -1,0 +1,18 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Sliwa, Bogdan"]
+[Black "Tolush, Alexander"]
+[Result "0-1"]
+[ECO "E85"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox variation"]
+[HashCode "76e3f1c4"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. f3 e5 7. Bd3 Ng4 8. Bd2
+exd4 9. Nb5 Ne5 10. Qc2 c5 11. O-O-O a6 12. Na3 Nbc6 13. Ne2 Be6 14. Nf4 Nb4
+15. Qb3 Nbxd3+ 16. Nxd3 Nxc4 0-1

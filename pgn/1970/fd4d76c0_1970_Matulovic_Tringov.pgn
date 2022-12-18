@@ -1,0 +1,21 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "10"]
+[White "Matulovic, Milan"]
+[Black "Tringov, Georgi P"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "fd4d76c0"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "BGR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nbd7 7. O-O e5 8. fxe5
+dxe5 9. d5 c6 10. dxc6 bxc6 11. Kh1 Qc7 12. Be3 Nb6 13. a4 a5 14. Qe1 Nfd7 15.
+Rd1 Qd8 16. Qf2 Rb8 17. Nd2 Qe7 18. b3 Kh8 19. Ne2 f6 20. Ng3 h5 21. Nc4 Nxc4
+22. Bxc4 Rb4 23. Rd3 Re8 24. Rfd1 Rb8 25. Nf5 gxf5 26. Qh4 Nf8 27. Qxh5+ Nh7
+28. Bc5 Qxc5 29. Rh3 Bh6 30. Qxe8+ Qf8 31. Rd8 fxe4 32. Qxf8+ Bxf8 33. Rxf8+
+Kg7 34. Rg8# 1-0

@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Stein, Leonid"]
+[Black "Osnos, Vyacheslav"]
+[Result "1-0"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "8711ef0e"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Nxd4 9. Qxd4 O-O 10. f4 Qa5 11. Bc4 Rd8 12. Rhf1 Bd7 13. f5 b5 14. fxe6
+bxc4 15. Rf5 Qb4 16. Bxf6 Bxf6 17. exf7+ Kf8 18. Rxf6 Bg4 19. Rxd6 Rdb8 20. Rf1
+Qxb2+ 21. Kd2 Qb7 22. Qc5 Qe7 23. Nd5 Qg5+ 24. Rf4 1-0

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Bascau"]
+[Black "Meewes"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "3250548b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nd2 d5 6. exd6 Bf5 7. dxc7
+Qxc7 8. Qb3 Nc6 9. Nf3 O-O-O 10. e3 g5 11. Nd4 Rxd4 12. exd4 Nxd4 13. Qd1
+Qf4 0-1
+

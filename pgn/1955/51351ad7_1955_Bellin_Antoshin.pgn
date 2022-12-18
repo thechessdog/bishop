@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Bellin"]
+[Black "Antoshin, Vladimir S"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "51351ad7"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Nf3 O-O 6. Bd3 b6 7. O-O Bb7 8. Bd2
+dxc4 9. Bxc4 c5 10. a3 Bxc3 11. Bxc3 Ne4 12. Rc1 Nxc3 13. Rxc3 Nd7 14. dxc5
+Nxc5 15. Qe2 Qe7 16. Rfc1 Rac8 17. Nd4 Ne4 18. R3c2 Nd6 19. Ba6 Rxc2 20. Rxc2
+Rc8 1/2-1/2

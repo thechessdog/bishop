@@ -1,0 +1,16 @@
+[Event "Schwerin"]
+[Site "Schwerin"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Nuenchert, Eveline"]
+[Black "Hoelzlein, C."]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "2f59c7cc"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Bd7 10. Bf3 Bc6 11. Qe2 Qc7 12. Rfd1 b5 13. a3 Nbd7 14. Rd2 Nb6 15.
+Na5 Bd7 16. Bxb6 Qxb6 17. Nb3 Be6 18. Rad1 Rfd8 19. Re1 1/2-1/2

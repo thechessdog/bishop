@@ -1,0 +1,19 @@
+[Event "CSR-ch Havirov"]
+[Site "Havirov"]
+[Date "1970.01.01"]
+[Round "7"]
+[White "Nowak, Erwin"]
+[Black "Plachetka, Jan"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "f6aac8be"]
+[Epoch "Bishop"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+[WhiteCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 Bg7 5. Be3 O-O 6. Qd2 c6 7. h4 e5 8. O-O-O
+exd4 9. Bxd4 d5 10. h5 dxe4 11. hxg6 hxg6 12. fxe4 Bg4 13. Nf3 Nh5 14. Qe3 Nd7
+15. Bxg7 Kxg7 16. Rd6 Qe7 17. Qd4+ f6 18. Rh4 Ne5 19. Rxg4 Rad8 20. Nxe5 Qxd6
+21. Rxg6+ Kh7 22. Qe3 Qd2+ 23. Qxd2 Rxd2 24. Kxd2 fxe5 25. Rg5 1-0

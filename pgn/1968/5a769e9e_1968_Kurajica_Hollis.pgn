@@ -1,0 +1,17 @@
+[Event "Islington"]
+[Site "Islington"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Hollis, G."]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "5a769e9e"]
+[Epoch "Bishop"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 c6 5. Be3 Nbd7 6. a4 Qa5 7. Qd2 a6 8. Nge2
+b5 9. b4 Qxb4 10. axb5 cxb5 11. Nf4 Bb7 12. Nd3 Qc4 13. Nc5 Qxf1+ 14. Rxf1 dxc5
+15. e5 Nd5 16. dxc5 Nxe3 17. Qxe3 1-0

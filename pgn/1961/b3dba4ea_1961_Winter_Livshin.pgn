@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Winter"]
+[Black "Livshin"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "b3dba4ea"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. e4 dxe4 7. Qf4 Qa5
+8. Bxf6 Nxf6 9. g4 Bd7 10. O-O-O exf3 11. Nxf3 g5 12. Nxg5 Bh6 13. h4 Bxg4
+14. Re1 Qf5 15. Qe3 e6 16. Bc4 O-O-O 17. Rhf1 Qg6 18. Kb1 Bf5 19. Re2 Rhg8
+20. Bd3 Bxg5 21. hxg5 Nd5 22. Nxd5 Rxd5 23. Bc4 Rd7 24. Rg1 h5 25. Qf4 Rgd8
+26. Rd2 Qg7 27. d5 cxd5 28. Bd3 Bxd3 29. Rxd3 d4 30. Rh1 Qg6 31. Qf3 Rd5
+32. Rg1 e5 33. Rg3 0-1
+

@@ -1,0 +1,17 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Donny, A."]
+[Black "Grobe, E."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "43fd554c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nf6 4. Nxe5 Qe7 5. d4 Nc6 6. exf5 d6 7. O-O dxe5
+8. Re1 e4 9. d5 Ne5 10. Bb5+ Bd7 11. a4 a6 12. Bxd7+ Qxd7 13. Bf4 Bd6 14.
+Nc3 Qxf5 15. Bg3 O-O 16. Qd2 Rae8 17. Re2 Nf3+ 18. gxf3 exf3 19. Rxe8 Qh3
+0-1
+

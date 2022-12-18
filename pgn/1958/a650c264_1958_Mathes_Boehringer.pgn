@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Mathes, W."]
+[Black "Boehringer, W."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "a650c264"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 f5 8.
+Qh5+ g6 9. Qh6 Bxg5 10. hxg5 Kf7 11. Nge2 Nf8 12. Nf4 Rg8 13. g4 Rg7 14.
+gxf5 exf5 15. Ncxd5 c6 16. Bc4 Ne6 17. Nf6 Qf8 18. Bxe6+ Bxe6 19. Nxe6 Kxe6
+20. Ne8 1-0
+

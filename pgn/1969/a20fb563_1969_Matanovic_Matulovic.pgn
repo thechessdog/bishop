@@ -1,0 +1,19 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1969.01.01"]
+[Round "11"]
+[White "Matanovic, Aleksandar"]
+[Black "Matulovic, Milan"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Trifunovic variation"]
+[HashCode "a20fb563"]
+[Epoch "Bishop"]
+[WhiteID "900230"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Bxe5 8.
+dxe5 Nc6 9. Bf4 Be6 10. Na3 Nc5 11. cxd5 Qxd5 12. Bb5 Nd4 13. Re1 Nxb5 14. Nxb5
+Qc4 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1970.07.01"]
+[Round "8"]
+[White "Damjanovic, Mato"]
+[Black "Agdamus, Jose Luis"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "283edaa5"]
+[Epoch "Bishop"]
+[BlackID "2101785"]
+[WhiteCountry "HRV"]
+[BlackCountry "BRA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. a4 Ne7 8. d3
+O-O 9. Nbd2 Be6 10. b3 Qc7 11. Nc4 Rae8 12. h3 f5 13. Bb2 Bxc4 14. dxc4 fxe4
+15. Rxe4 Nf5 16. Qe1 Nd6 17. Bxe5 Qe7 18. Bxg7 Qxg7 19. Re5 Rxe5 20. Qxe5 Qxe5
+21. Nxe5 Re8 22. Nd7 Re2 23. Nxc5 b6 24. Rd1 Nxc4 25. Rd8+ Kg7 26. Rd7+ Kh6 27.
+Nd3 Na5 28. f4 Rxc2 29. Ne5 g5 30. f5 Rc1+ 31. Kh2 g4 32. Nxg4+ Kg5 33. f6 Nxb3
+34. Rg7+ Kh5 35. Ne3 Nd4 36. f7 1-0

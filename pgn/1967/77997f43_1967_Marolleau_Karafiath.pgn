@@ -1,0 +1,19 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Marolleau, J."]
+[Black "Karafiath, J."]
+[Result "0-1"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "77997f43"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Nb8 10. d4 Nbd7 11. c4 c5 12. dxe5 Nxe5 13. Nxe5 dxe5 14. Nc3
+Qb6 15. Nd5 Nxd5 16. exd5 Bd6 17. Be3 f5 18. Rc1 f4 19. Bd2 f3 20. g4 h5
+21. Re4 Bb8 22. cxb5 Qg6 23. d6+ Kh8 24. Bd5 hxg4 25. h4 Ra7 26. b6 Rd7 27.
+Rxe5 Rxd6 28. Rg5 Qh7 29. Rxc5 Qxh4 30. Bc6 Rd5 0-1
+

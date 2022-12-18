@@ -1,0 +1,22 @@
+[Event "EU-chT Kapfenberg"]
+[Site "Kapfenberg etc"]
+[Date "1970.05.01"]
+[Round "3"]
+[White "Minic, Dragoljub"]
+[Black "Pedersen, Karl"]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "8b3ec0a7"]
+[Epoch "Bishop"]
+[BlackID "1400525"]
+[BlackCountry "DEN"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. c3 g6 7. Re1 Bg7 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Qb3 O-O 11. Bxd7 Qxd7 12. Qxb7 Qd3 13. Na3 Rab8 14. Qc6
+Rfd8 15. f3 Ne8 16. Qc4 Bf8 17. Qxd3 Rxd3 18. Nc4 Bc5+ 19. Kf1 f6 20. Ke2 Rbd8
+21. Bd2 Ng7 22. Rad1 Ne6 23. Bc1 Nf4+ 24. Bxf4 Rxd1 25. Rxd1 Rxd1 26. Kxd1 exf4
+27. Ke2 Kf7 28. b4 Bg1 29. h3 a6 30. a4 Ke6 31. Kd3 h5 32. Nd2 f5 33. Nb3 Ke5
+34. exf5 1-0

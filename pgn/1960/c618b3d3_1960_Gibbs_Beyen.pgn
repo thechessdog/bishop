@@ -1,0 +1,27 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "1"]
+[White "Gibbs, Peter C"]
+[Black "Beyen, Roland"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "c618b3d3"]
+[Epoch "Bishop"]
+[WhiteID "421413"]
+[BlackID "200271"]
+[WhiteCountry "ENG"]
+[BlackCountry "BEL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 c5 5. a3 Ba5 6. exd5 exd5 7. Nf3 c4 8. Be2
+Nf6 9. O-O Bxc3 10. bxc3 Ne4 11. Re1 b5 12. Nd2 O-O 13. Nxe4 dxe4 14. f3 Bb7
+15. fxe4 Bxe4 16. Bxc4 Bxc2 17. Bxf7+ Rxf7 18. Qxc2 Nd7 19. Qe2 Qc7 20. Bd2 Qc6
+21. Rf1 Nf6 22. Rae1 Raf8 23. h3 Re8 24. Rxf6 Rxe2 25. Rxc6 Rxd2 26. Re8+ Rf8
+27. Rxf8+ Kxf8 28. Rc8+ Ke7 29. Rc7+ Kf6 30. Rxa7 Rc2 31. Ra6+ Ke7 32. Ra7+ Kf6
+33. Rc7 Ra2 34. Rc6+ Ke7 35. Rc7+ Kf6 36. Rc5 Rxa3 37. Kf2 Rb3 38. Ke2 b4 39.
+Kd3 bxc3 40. Rxc3 Rb1 41. Ke4 Ke6 42. Rc6+ Kf7 43. Ra6 Rb7 44. Ke5 Ke7 45. d5
+Kd7 46. g4 Ke7 47. h4 Rb4 48. d6+ Ke8 49. Ra8+ Kd7 50. Ra7+ Ke8 51. Rxg7 h5 52.
+gxh5 Rxh4 53. Rh7 Rh1 54. h6 Re1+ 55. Kf4 Rf1+ 56. Ke3 Re1+ 57. Kd2 Rh1 58.
+Re7+ Kf8 59. Re6 Rh2+ 60. Kc3 Kf7 61. d7 1-0

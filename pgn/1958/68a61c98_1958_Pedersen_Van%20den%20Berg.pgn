@@ -1,0 +1,20 @@
+[Event "Munchen olm"]
+[Site "Munchen olm"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Pedersen, Eigil"]
+[Black "Van den Berg, Carel Benjamin"]
+[Result "*"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "68a61c98"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "DNK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Qe3+ 9. Qe2 Qxe2+ 10. Bxe2 Nc6 11. Bf3 Bd7 12. O-O-O Be7 13. Rhe1 h6 14. Bxf6
+gxf6 15. Bh5 Rc8 16. Re2 b5 17. Kb1 Rc7 18. a3 O-O 19. Rd3 Rb8 20. Nd5 exd5 21.
+exd5 Ne5 22. fxe5 fxe5 23. Rg3+ Kh8 24. Bxf7 Rf8 25. Bg6 Rf1+ 26. Ka2 Bg5 27.
+Rf3 Rxf3 28. gxf3 Bh3 *

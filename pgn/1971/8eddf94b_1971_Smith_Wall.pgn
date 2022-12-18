@@ -1,0 +1,16 @@
+[Event "Yuba City,CA"]
+[Site "Yuba City,CA"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Smith, Don"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "8eddf94b"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Nxh4 Qxh4+ 6. Kf1 Nf6 7. d3 Ng4
+8. Qf3 Nc6 9. Qxf4 Nce5 10. Bb3 g5 11. Qf5 d5 0-1

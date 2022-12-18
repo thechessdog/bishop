@@ -1,0 +1,16 @@
+[Event "St Radegund"]
+[Site "St Radegund"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Wagner"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "2e89221f"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. g4 Nxg4 3. e4 Nf6 4. e5 Nd5 5. c4 Nb6 6. Nc3 d6 7. a4 dxe5 8. a5
+exd4 9. axb6 dxc3 10. Qxd8+ Kxd8 11. Rxa7 1-0

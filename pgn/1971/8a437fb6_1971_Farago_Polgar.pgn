@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Budapest"]
+[Date "1971.01.01"]
+[Round "11"]
+[White "Farago, Ivan"]
+[Black "Polgar, Istvan"]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "8a437fb6"]
+[Epoch "Bishop"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "700215"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8. a3
+dxc4 9. Bxc4 Ba5 10. Na4 cxd4 11. exd4 Qd6 12. Qd3 Ne7 13. Bg5 Nfd5 14. Bxe7
+Nxe7 15. Ng5 Nf5 16. Rad1 Qf4 17. Ne4 Rd8 18. g3 Qg4 19. d5 exd5 20. Bxd5 Be6
+21. Nac3 Ne7 22. Bxe6 Qxe6 23. Qb5 Bb6 24. Rfe1 Qf5 25. Qxf5 Nxf5 1/2-1/2

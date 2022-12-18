@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Pinter, Jozsef"]
+[Black "Szilagyi, Peter"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "8d541344"]
+[Epoch "Bishop"]
+[BlackID "700355"]
+[BlackCountry "HUN"]
+[WhiteID "700045"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 Bd6 8. Be3
+Ne7 9. Nbd2 O-O 10. Qc2 Kh8 11. c4 exd4 12. Nxd4 c5 13. N4b3 Be2 14. Rfe1 Bd3
+15. Qd1 b6 16. Nc1 f5 17. Nxd3 f4 18. e5 fxe3 19. exd6 Nf5 20. fxe3 1-0

@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Zaitsev, Igor"]
+[Black "Storozhenko"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "139345dd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 Bb4+ 7. Nc3 Nge7
+8. Ng5 Ne5 9. Qh5 g6 10. Qh6 Nxc4 11. Qg7 Rf8 12. Nxh7 Nc6 13. Nf6+ Ke7 14.
+O-O-O Ba3 15. Ncd5+ Ke6 16. Nf4+ Ke7 17. Nxg6+ Ke6 18. Nf4+ Ke7 19. N4d5+ Ke6
+20. Qg4+ Kd6 21. e5+ Kc5 22. Bxa3+ Nxa3 23. Ne4+ Kb5 24. Nec3+ Ka6 25. Qa4+ Na5
+26. Qb5+ Nxb5 27. Nb4+ Kb6 28. Na4# 1-0

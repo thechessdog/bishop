@@ -1,0 +1,16 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Malesic"]
+[Black "Masic, Ljubomir"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "947f7cec"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5 8.
+c4 Nf6 9. exd5 cxd5 10. cxd5 exd5 11. Be3 Be7 12. Nc3 O-O 13. Bd4 Bb7 14. Qf3
+Re8 15. Rfe1 Bd6 16. Rxe8+ Nxe8 17. Qh3 g6 18. Re1 Bf8 19. Bxg6 1-0

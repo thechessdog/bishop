@@ -1,0 +1,21 @@
+[Event "Skopje ol (Men) fin-B"]
+[Site "Skopje"]
+[Date "1972.??.??"]
+[Round "4"]
+[White "Pesantes Carbajal, Carlos"]
+[Black "Thorsteinsson, Thorsteinn"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "fd821ad4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. O-O cxd4 8.
+exd4 dxc4 9. Bxc4 a6 10. Ng3 b5 11. Bd3 Bb7 12. Bg5 Be7 13. Rc1 b4 14. Bxf6
+Bxf6 15. Nce4 Bxd4 16. Rc4 a5 17. Nd6 Qxd6 18. Rxd4 Qc5 19. Rh4 g6 20. Qd2
+Rd8 21. Rd1 Nd7 22. Be4 Nf8 23. Qe1 Rxd1 24. Qxd1 Bxe4 25. Nxe4 Rd8 26. Qb1
+Qd4 27. g3 Qd1+ 28. Qxd1 Rxd1+ 29. Kg2 Nd7 30. Ng5 Rd2 31. a3 Rxb2 32. axb4
+axb4 33. Nxh7 b3 34. Rd4 Ne5 35. Nf6+ Kg7 36. Ne4 Rc2 37. Rb4 b2 38. Rb7
+Nc4 0-1
+

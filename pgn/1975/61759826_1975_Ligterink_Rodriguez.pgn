@@ -1,0 +1,25 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1975.07.01"]
+[Round "11"]
+[White "Ligterink, Gert"]
+[Black "Rodriguez, Ruben Jorge"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "61759826"]
+[Epoch "Bishop"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "124761"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. Na3 Be6 7. Ng5 Bd7 8.
+Nc4 Qe7 9. d4 f6 10. Nf3 Be6 11. Qe2 Qf7 12. Ne3 exd4 13. Nxd4 Bd7 14. b3 O-O-O
+15. Bb2 Ne7 16. Rad1 Ng6 17. Ndf5 Qe8 18. Qf3 Ne5 19. Qg3 g6 20. Nh4 Qe6 21.
+Rfe1 Bb4 22. Re2 Rhe8 23. Kh1 Nf7 24. Nc4 f5 25. Qe3 b6 26. exf5 Qxe3 27. Rxe3
+g5 28. Nf3 Bxf5 29. Rxe8 Rxe8 30. Ne3 Be4 31. Nd2 Bg6 32. Nf3 Bc5 33. Bd4 Bd6
+34. Bf6 Bf4 35. c4 Re6 36. Bg7 Bh5 37. g4 Bxe3 38. gxh5 Bxf2 39. Kg2 Bc5 40.
+Rd2 g4 41. Nh4 Ng5 42. Rc2 Re4 43. Nf5 Rf4 44. Ng3 Nf3 45. Re2 Nh4+ 46. Kh1 Rf3
+47. Rd2 Nf5 48. h6 Nxg3+ 49. hxg3 Rxg3 50. Bf6 Rh3+ 51. Kg2 Rxh6 52. Rd8+ Kb7
+53. Be5 Bd6 0-1

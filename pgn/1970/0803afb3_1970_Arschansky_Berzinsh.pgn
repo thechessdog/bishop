@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Arschansky"]
+[Black "Berzinsh"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "0803afb3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 d5 8.
+Ne5 Nbd7 9. cxd5 Nxe5 10. d6 Nc6 11. dxe7 Qxe7 12. Qa4 Na5 13. Bf4 Bxg2 14.
+Kxg2 Nd5 15. Nxd5 exd5 16. Rfe1 Rac8 17. Kg1 c6 18. b3 c5 19. dxc5 Rxc5 20.
+Bc1 1-0
+

@@ -1,0 +1,18 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Radovici, Corvin"]
+[Black "Kozomara, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "046784ab"]
+[Epoch "Bishop"]
+[WhiteCountry "ROU"]
+[BlackCountry "BIH"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 e5 5. dxe5 Qxd1+ 6. Kxd1 Nc6 7. Bb5 Bd7
+8. Bf4 O-O-O 9. Bd3 Nge7 10. Bg3 Nf5 11. Nf3 Nxg3 12. hxg3 Bg4 13. Ke1 Bxf3 14.
+gxf3 Nxe5 1/2-1/2

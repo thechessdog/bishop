@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Klovans, Janis"]
+[Black "Tseitlin, Mikhail S"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "92fe9401"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+[BlackCountry "BLR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. a5 d6 10. c3 Rb8 11. Bc4 Bb7 12. d3 d5 13. exd5 Nxd5 14. Qc2 Bf6 15. Nbd2
+bxc3 16. bxc3 Nxc3 17. Ba3 Re8 18. Qxc3 e4 19. Bxf7+ Kxf7 20. Qc4+ Kg6 21. Rxe4
+h6 22. Rae1 Qd7 23. Nb3 Qf7 24. Rg4+ Bg5 25. Rxe8 Rxe8 26. h4 Qxc4 27. Rxc4 Bf6
+28. Nc5 Bc8 29. Ne4 Ne5 30. Nxf6 Nxf3+ 31. gxf3 Kxf6 32. Bb2+ Ke6 33. Rxc7 g5
+34. h5 Bd7 35. Bg7 Rg8 36. Bxh6 g4 37. f4 Kd6 38. Ra7 Rh8 39. Bg7 Rxh5 40. Be5+
+Ke7 41. Rxa6 Bb5 42. Rd6 1-0

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Hunger, F."]
+[Black "Schmitt, O."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "519c4ae0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. Nbd2 Nc5 6. b3 d6 7. Bb2 dxe5
+8. e4 Bd6 9. a3 a5 10. Be2 O-O 11. O-O f5 12. Qc2 fxe4 13. Nxe4 Bf5 14.
+Nfd2 Nd4 15. Bxd4 exd4 16. Bf3 Bf4 17. Qa2 Bxe4 18. Nxe4 Nxe4 19. Bxe4
+Bxh2+ 20. Kxh2 Qh4+ 21. Kg1 Qxe4 22. c5 Qd5 23. Qc2 Ra6 24. Rac1 Rg6 25. f4
+d3 26. Qd2 Qxb3 27. Rc3 Qd5 28. Rxd3 Rxg2+ 29. Qxg2 Qxd3 30. Qxb7 Qd4+ 31.
+Kg2 Qxc5 0-1
+

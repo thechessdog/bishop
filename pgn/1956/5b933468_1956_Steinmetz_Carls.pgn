@@ -1,0 +1,20 @@
+[Event "Bremen"]
+[Site "Bremen"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Steinmetz"]
+[Black "Carls, Carl Johan Margot"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "5b933468"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. e4 e5 7. d5 Nbd7 8. b3 a5
+9. Nge2 Nc5 10. Bg5 h6 11. Bxf6 Qxf6 12. O-O Qe7 13. a3 f5 14. b4 axb4 15. axb4
+Rxa1 16. Qxa1 Na6 17. Qa3 f4 18. f3 Qg5 19. Kf2 h5 20. c5 fxg3+ 21. hxg3 h4 22.
+gxh4 Qxh4+ 23. Ng3 Bh6 24. Rh1 Be3+ 25. Kxe3 Qxg3 26. Rg1 Rxf3+ 27. Bxf3 Qxg1+
+28. Ke2 Bh3 29. cxd6 cxd6 30. Kd2 Qd4+ 31. Ke1 Bd7 32. Be2 Nxb4 33. Qa8+ Kf7
+34. Nb5 Nc2+ 35. Kf1 Bh3# 0-1

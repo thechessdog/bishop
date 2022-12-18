@@ -1,0 +1,21 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Cappello"]
+[Black "Monticelli"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "37cac417"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3
+d5 8. exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 h6 12. Bxf6 Qxf6 13. Qxf6
+gxf6 14. Ne2 Bd7 15. Ng3 Rfe8 16. c3 Be7 17. Rfe1 Be6 18. h3 Rab8 19. Re2
+Kf8 20. Rae1 Bd6 21. Nh5 f5 22. Bxf5 Bxf5 23. Rxe8+ Rxe8 24. Rxe8+ Kxe8 25.
+Ng7+ Kd7 26. Nxf5 Bf4 27. Ne3 Ke6 28. Kf1 Bd6 29. Ke2 Be5 30. Kd3 Bd6 31.
+Nc2 c5 32. c4 d4 33. b4 cxb4 34. Kxd4 a5 35. c5 Be5+ 36. Kc4 h5 37. Ne3 Bh2
+38. Nd5 Be5 39. c6 Bd6 40. c7 Kd7 41. Kb5 1-0
+

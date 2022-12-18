@@ -1,0 +1,20 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Kapengut, Albert Z"]
+[Black "Ageichenko, Genadi A"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "b3b1dfa2"]
+[Epoch "Bishop"]
+[BlackID "4105222"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 gxf6 5. e3 Nc6 6. Nge2 Qd7 7. Ng3 Bg6 8.
+h4 h6 9. Bd3 O-O-O 10. a3 Rg8 11. Nce2 e5 12. h5 Bxd3 13. Qxd3 Na5 14. b3 Nc6
+15. b4 Rg5 16. c3 Bd6 17. dxe5 fxe5 18. Qxd5 e4 19. Qa2 Bxg3 20. Nxg3 Qd3 21.
+Ne2 Rxg2 22. Qb3 Ne5 23. Rd1 Nf3+ 24. Kf1 Rg1+ 25. Rxg1 Qxd1+ 26. Qxd1 Rxd1+
+27. Kg2 Nxg1 28. Nxg1 Ra1 29. Ne2 Rxa3 30. Kg3 Kd7 31. Kf4 Ra2 32. Ng3 Rxf2+
+33. Kxe4 Ke6 0-1

@@ -1,0 +1,22 @@
+[Event "match"]
+[Site "match"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Morozov, I."]
+[Black "Lepsenyi"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "78f086ef"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O b6 8.
+cxd5 exd5 9. dxc5 bxc5 10. Na4 Nbd7 11. b3 Nb6 12. Nxb6 axb6 13. Qc2 Be6
+14. Ng5 h6 15. Nxe6 fxe6 16. a3 Qd6 17. Qb2 Ba5 18. Rb1 b5 19. Bxb5 Ng4 20.
+g3 d4 21. exd4 cxd4 22. Qe2 h5 23. Qe4 Nf6 24. Qg6 h4 25. Bd3 Bb6 26. a4
+Ra5 27. Bg5 h3 28. Bxf6 Rxf6 29. Qh7+ Kf8 30. Qh8+ Kf7 31. Qxh3 Rg5 32. Qg2
+Qb4 33. Qb7+ Kg8 34. Rbc1 Rc5 35. Bb5 Bd8 36. Rxc5 Qxc5 37. Qb8 Rf8 38. Bc4
+Bb6 39. Bxe6+ Kh8 40. Qb7 d3 41. Qe4 Rf6 42. Qh4+ Rh6 43. Qc4 Qd6 44. Bd5
+d2 45. Rd1 Bxf2+ 46. Kxf2 Rxh2+ 47. Bg2 Qd7 48. Qf4 Qd5 49. Qh4+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Tsatsuren"]
+[Black "Aksenov"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "4fd4cd22"]
+[Epoch "Bishop"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. hxg6 dxc3 10. gxf7+ Kh8 11. Rxh7+ Kxh7 12. Ng5+ Kh6 13. Ne6 cxb2
+14. Bd3 bxa1=Q 15. Qg4 Qxc1+ 16. Ke2 1-0
+

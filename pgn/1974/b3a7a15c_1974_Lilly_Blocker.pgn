@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Lilly"]
+[Black "Blocker, Calvin"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "b3a7a15c"]
+[Epoch "Bishop"]
+[BlackID "2000920"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 Nc6 5. c4 d6 6. Nc3 g6 7. Be3 Nh6 8. f3 f5
+9. c5 dxc5 10. Bxc5 Bg7 11. Nd5 e6 12. Nc3 Qa5 13. Be3 O-O 14. Ne2 Rd8 15. Qb1
+Ne5 16. Bc2 Nc4 17. Bg5 Re8 18. O-O Nf7 19. Bb3 Nxg5 20. Bxc4 Qc5+ 0-1

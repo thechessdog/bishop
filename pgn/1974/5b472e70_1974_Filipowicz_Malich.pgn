@@ -1,0 +1,20 @@
+[Event "DSV-Turnier"]
+[Site "Halle"]
+[Date "1974.06.01"]
+[Round "1"]
+[White "Filipowicz, Andrzej"]
+[Black "Malich, Burkhard, Dr."]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "5b472e70"]
+[Epoch "Bishop"]
+[WhiteID "1100491"]
+[WhiteCountry "POL"]
+[BlackID "4611330"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. a4 Nc6 8. Bd3
+Be7 9. O-O O-O 10. Kh1 Qc7 11. f4 Nxd4 12. Bxd4 e5 13. Be3 exf4 14. Bxf4 Be6
+15. Qf3 Nd7 16. Qg3 1/2-1/2

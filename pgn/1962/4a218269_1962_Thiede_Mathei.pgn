@@ -1,0 +1,23 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Thiede, F."]
+[Black "Mathei, T."]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "4a218269"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. d4 Bg4 7. Be2
+Qc7 8. c3 Nd7 9. Be3 e6 10. h3 Bh5 11. Qb3 Rg8 12. g4 Bg6 13. Nh4 Bd6 14.
+O-O-O Bf4 15. Nxg6 hxg6 16. h4 O-O-O 17. h5 gxh5 18. Rxh5 Rh8 19. Rdh1 Rxh5
+20. Rxh5 Bxe3+ 21. fxe3 Qg3 22. c4 e5 23. Qc3 Qf2 24. Bd1 exd4 25. exd4 Nb6
+26. Rf5 Qxd4 27. Qxd4 Rxd4 28. b3 Nd7 29. Bf3 Kd8 30. Kc2 Ke7 31. Kc3 Rd6
+32. b4 Re6 33. b5 Ne5 34. bxc6 Nxc6 35. Bxc6 Rxc6 36. Rb5 b6 37. Kd4 Rc8
+38. Kd5 Rg8 39. Kc6 Rxg4 40. Kb7 Rxc4 41. Kxa7 Ra4+ 42. Kxb6 Rxa2 43. Kc5
+Rd2 44. Rb1 f5 45. Kc4 Kf6 46. Kc3 Rd5 47. Kc4 Re5 48. Kd4 Re4+ 49. Kd3 Kg5
+50. Ra1 Re5 0-1
+

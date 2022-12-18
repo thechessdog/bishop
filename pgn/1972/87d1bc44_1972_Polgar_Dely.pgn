@@ -1,0 +1,20 @@
+[Event "Toth mem"]
+[Site "Kecskemet"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Polgar, Istvan"]
+[Black "Dely, Peter"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "87d1bc44"]
+[Epoch "Bishop"]
+[WhiteID "700215"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 e5 13. Bc5 Be6 14. Nxd5
+cxd5 15. Bb5 d4 16. Bxf8 Qxf8 17. Kb1 Rb8 18. Ba4 d3 19. cxd3 e4 20. d4 exf3
+21. gxf3 Qa3 22. Bb3 Rxb3 0-1

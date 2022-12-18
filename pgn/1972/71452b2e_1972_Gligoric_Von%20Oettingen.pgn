@@ -1,0 +1,17 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Gligorić, Svetozar"]
+[Black "Von Oettingen, S."]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "71452b2e"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 5. Be2 Nc6 6. c4 Nb6 7. d5 Bxf3 8.
+gxf3 Ne5 9. f4 Ng6 10. h4 e5 11. fxe5 Nxe5 12. Nc3 Bb4 13. Qb3 Qe7 14. Be3 Bc5
+15. Qb5+ Nbd7 16. Bxc5 Nd3+ 17. Kf1 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "telechess"]
+[Site "telechess"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Kjellberg, G."]
+[Black "Fagerberg, S."]
+[Result "0-1"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Tartakower attack"]
+[HashCode "03491a8b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8.
+dxe5 Bb6 9. O-O Na5 10. Qb4 Nxc4 11. Qxc4 dxe5 12. Nxe5 Qe6 13. Bf4 Qf6 14.
+Bg3 Ne7 15. Kh1 Be6 16. Qe2 O-O-O 17. a4 a6 18. Na3 Ng6 19. Nac4 Bxc4 20.
+Nxc4 Bc5 21. a5 h5 22. e5 Qf5 23. h3 Qd3 24. Rfe1 Qxe2 25. Rxe2 Rd3 26. e6
+f6 27. Rc1 Rhd8 28. f3 h4 29. Be1 Rd1 30. Rxd1 Rxd1 31. Kh2 Kd8 32. g3 Ke7
+33. f4 Rd5 34. Rb2 b5 35. axb6 cxb6 36. Nxb6 Rd1 37. Bf2 hxg3+ 38. Kxg3 Bd6
+39. Kg4 Nxf4 40. Nc8+ Kxe6 41. Rb6 f5+ 42. Kf3 Rd3+ 43. Be3 Rxe3+ 44. Kxe3
+Nd5+ 45. Kd3 Nxb6 46. Nxb6 g5 0-1
+

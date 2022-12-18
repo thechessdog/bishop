@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Kudinov"]
+[Black "Kuznezhov"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "4ce3f39b"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 g6 6. Nf3 Bg7 7. Be2 O-O
+8. h3 Nc6 9. Be3 e5 10. d5 Ne7 11. O-O Nf5 12. Bg5 f6 13. Bd2 c6 14. Qb3 c5
+15. Ne4 Nd7 16. Qa3 b6 17. b4 Nd4 18. Nxd4 exd4 19. Bf3 Ne5 20. bxc5 Nxc4
+21. Qb3 Ne5 22. c6 Kh8 23. Bb4 f5 24. Bxf8 Qxf8 25. Nd2 Ba6 26. Rfe1 Qd6
+27. Rad1 b5 28. Be2 Rb8 29. Nf3 Nxf3+ 30. Bxf3 Be5 31. Qb2 Re8 32. Rxe5
+Rxe5 33. Qxd4 Kg8 34. Qxa7 Bc8 35. Qb6 b4 36. Rb1 f4 37. Qxb4 Qd8 38. d6
+Qg5 39. d7 1-0
+

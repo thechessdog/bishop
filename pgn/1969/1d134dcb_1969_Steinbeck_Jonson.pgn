@@ -1,0 +1,19 @@
+[Event "corr Sweden"]
+[Site "corr Sweden"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Steinbeck, K."]
+[Black "Jonson, V."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "1d134dcb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 Bb4 7. Nd6+
+Ke7 8. Nf5+ Kf8 9. Bd2 d6 10. Bd3 h5 11. O-O Bxf5 12. exf5 d5 13. f3 h4 14.
+Be1 Nh5 15. a3 Ba5 16. b4 Bb6+ 17. Bf2 Ng3 18. Bxb6 Qxb6+ 19. Rf2 Nh1 20.
+Kxh1 Qxf2 21. Nxd5 h3 22. Bf1 Nd4 23. Nc3 hxg2+ 24. Bxg2 Rxh2+ 25. Kxh2 Ke7
+0-1
+

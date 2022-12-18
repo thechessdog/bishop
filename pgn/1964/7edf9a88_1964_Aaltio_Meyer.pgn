@@ -1,0 +1,16 @@
+[Event "corr Eberhardt-Wilhelm"]
+[Site "corr Eberhardt-Wilhelm"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Aaltio, E."]
+[Black "Meyer, Holger"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "7edf9a88"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. e4 exd5 8. exd5
+O-O 9. Nf3 Re8+ 10. Be2 g5 11. Bg3 Ne4 12. Rc1 Qa5 13. Nd2 Bxc3 14. bxc3 Nxc3
+15. Rxc3 Qxc3 16. O-O Bb7 0-1

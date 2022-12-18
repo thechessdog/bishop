@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Lepeshkin, Vladimir"]
+[Black "Korzin, Vitaly"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "4ad2b19b"]
+[Epoch "Bishop"]
+[WhiteID "4104986"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 b5 7. Bg2 Bb7 8. O-O
+Nf6 9. Re1 d6 10. Bg5 Nbd7 11. Bh3 b4 12. Nd5 exd5 13. exd5+ Kd8 14. Nc6+ Bxc6
+15. dxc6 Nc5 16. Qe2 Be7 17. Bd7 Re8 18. Bxe8 Kxe8 19. Bxf6 gxf6 20. Qh5 Qxc6
+21. Qxh7 Ne6 22. Qg8+ Bf8 23. Re2 Qd5 24. Rae1 Ke7 25. Qh7 Ke8 26. Qg8 Ke7 27.
+Qh7 Ke8 28. h4 Rc8 29. h5 Qg5 30. Rxe6+ fxe6 31. Rxe6+ Kd8 32. Qf7 1-0

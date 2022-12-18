@@ -1,0 +1,16 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Halic"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "450120a9"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 b6
+8. Qe2 Bb7 9. Bg5 Be7 10. O-O-O Qd5 11. Kb1 O-O-O 12. Bc4 Qe4 13. Qxe4 Bxe4 14.
+Ne5 Bg6 15. Ba6+ 1-0

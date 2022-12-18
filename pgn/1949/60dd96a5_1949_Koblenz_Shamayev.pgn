@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Koblenz, A."]
+[Black "Shamayev, L."]
+[Result "1-0"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "60dd96a5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 d6 6. e3 O-O 7. Bd3 c5 8.
+Ne2 Nc6 9. O-O e5 10. f3 Re8 11. e4 h6 12. d5 Na5 13. Ng3 a6 14. Rb1 Rb8
+15. h3 Bd7 16. f4 b5 17. fxe5 dxe5 18. cxb5 axb5 19. Qf3 Rb6 20. Be3 c4 21.
+Bc2 Ra6 22. Bc5 Nb7 23. Bb4 Nd6 24. Rf2 Qb6 1-0
+

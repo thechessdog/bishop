@@ -1,0 +1,17 @@
+[Event "Varna olm"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "2"]
+[White "Gebauer, Peter"]
+[Black "De Raike"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Reti variation"]
+[HashCode "5bde0250"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Qe2 Bf5 6. dxe4 Nxe4 7. Nc3 Bb4 8.
+Qb5+ Nc6 9. dxc6 Bxc3+ 10. bxc3 O-O 11. Ne2 Re8 12. Qxf5 Qh4+ 13. g3 Nxg3 14.
+hxg3 Qxh1 15. Bd2 Qxc6 16. O-O-O Rad8 17. Nd4 Qa4 18. Kb1 Rd6 19. Ka1 g6 20.
+Qb5 1-0

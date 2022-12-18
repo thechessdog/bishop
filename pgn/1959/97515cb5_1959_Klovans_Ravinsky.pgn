@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Klovans, Janis"]
+[Black "Ravinsky, Grigory Ionovich"]
+[Result "0-1"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Cordel variation"]
+[HashCode "97515cb5"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 Na5 7. Bd3 d6 8. dxe5
+Bg4 9. exd6 cxd6 10. O-O Nf6 11. h3 Bxf3 12. Qxf3 O-O 13. Nd2 Nd7 14. Ba3 Rc8
+15. Rac1 Bg5 16. Rfd1 Ne5 17. Qe2 Nxd3 18. Qxd3 Bxd2 19. Qxd2 Nc4 0-1

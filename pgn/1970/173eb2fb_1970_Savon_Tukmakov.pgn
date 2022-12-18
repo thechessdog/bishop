@@ -1,0 +1,22 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Savon, Vladimir"]
+[Black "Tukmakov, Vladimir B"]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Opovcensky variation"]
+[HashCode "173eb2fb"]
+[Epoch "Bishop"]
+[WhiteID "14138786"]
+[BlackID "14100096"]
+[WhiteCountry "UKR"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2 e6 7. Rc1 b6 8. cxd5
+exd5 9. b4 Bb7 10. Qb3 Ne4 11. Nxe4 dxe4 12. Ne5 Bd5 13. Bc4 c6 14. Bxd5 cxd5
+15. O-O Re8 16. Nc6 Qg5 17. b5 Nxc6 18. bxc6 Bxd4 19. exd4 Qxd2 20. Qxd5 Rad8
+21. Qb3 Qxd4 22. c7 Rc8 23. Rfd1 Qf6 24. Rd7 Kg7 25. h3 Re5 26. Rc6 Qf5 27. Rd8
+Re7 28. Qc3+ Kh6 29. Qe3+ Kg7 30. Qd4+ Kh6 31. Rxc8 Qxc8 32. Qd8 1-0

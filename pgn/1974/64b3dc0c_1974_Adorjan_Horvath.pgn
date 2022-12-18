@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Adorjan, Andras"]
+[Black "Horvath, Tamas"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "64b3dc0c"]
+[Epoch "Bishop"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackID "700185"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. Nc3 Nxc3 6. dxc3 d5 7. c4 a6 8. Ba4
+b5 9. cxd5 Nb8 10. c4 bxa4 1/2-1/2

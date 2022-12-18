@@ -1,0 +1,27 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Sokolov, Vladimir"]
+[Black "Milic, Borislav"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "ff53f841"]
+[Epoch "Bishop"]
+[WhiteID "904031"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Qb6 6. Na3 a6 7. Be2 d6 8. Nc4
+Qd8 9. d4 cxd4 10. cxd4 Nf6 11. d5 Nb8 12. Bd2 Nbd7 13. Qc2 O-O 14. Rac1 b5 15.
+Ba5 Qe8 16. Ncd2 Nc5 17. Bb4 Nfd7 18. Bc3 Bh6 19. b3 e5 20. dxe6 fxe6 21. e5
+Bb7 22. exd6 Rc8 23. Ba1 Nf6 24. Qb2 Bg7 25. Qa3 b4 26. Qa5 Qc6 27. Bd4 Nfd7
+28. Bxg7 Kxg7 29. Qxb4 Qxd6 30. Nc4 Qf4 31. Qd2 Qxd2 32. Nfxd2 Bd5 33. Rfd1 Kf6
+34. Nd6 Rb8 35. N6e4+ Nxe4 36. Nxe4+ Ke5 37. Nc3 a5 38. Nxd5 exd5 39. Bf3 Rxf3
+40. gxf3 Kd6 41. Rd4 Ne5 42. Kg2 Nc6 43. Rf4 Nb4 44. Ra1 Rb7 45. Rf6+ Ke5 46.
+Rf8 Kd4 47. Rd1+ Kc3 48. Rc8+ Kb2 49. Rd2+ Ka3 50. Rc5 Ra7 51. f4 d4 52. Rxd4
+Kxa2 53. Rxa5+ Rxa5 54. Rxb4 Rh5 55. Kg3 Kb2 56. Rb7 Kc3 57. h4 Kb2 58. Kg4 Kc3
+59. f3 Kb2 60. f5 Rxf5 61. Rxh7 Rb5 62. Rg7 Rb6 63. f4 Kxb3 64. Kg5 Kc4 65.
+Rxg6 Rb5+ 66. f5 Kd5 67. h5 Rb1 68. h6 Rh1 69. Kf6 Ke4 70. Kg7 Kxf5 71. h7 1-0

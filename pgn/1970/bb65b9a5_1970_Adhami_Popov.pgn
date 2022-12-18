@@ -1,0 +1,22 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "3"]
+[White "Adhami, Vangiel"]
+[Black "Popov, Luben"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "bb65b9a5"]
+[Epoch "Bishop"]
+[BlackID "2900173"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O d6 8. Qe2
+Nf6 9. a3 Be7 10. Kh1 Nbd7 11. f4 Qc7 12. Be3 O-O 13. Rae1 g6 14. Nf3 Rfe8 15.
+Ng5 Bf8 16. Qf2 Bg7 17. Qh4 h6 18. Nh3 Rac8 19. Re2 Qd8 20. Bd2 Nc5 21. Qf2 Qc7
+22. Rfe1 e5 23. fxe5 dxe5 24. Qh4 g5 25. Qg3 Rcd8 26. Nf2 Nh5 27. Qh3 Nf4 28.
+Bxf4 exf4 29. Ng4 Qc6 30. Nd5 Qg6 31. c4 h5 32. Nf2 Bc8 33. e5 Nxd3 34. Qxd3
+Qxd3 35. Nxd3 bxc4 36. N3b4 a5 37. Nc7 axb4 38. Nxe8 Rxe8 39. axb4 Be6 40. Ra1
+Rb8 41. Ra4 Bf8 42. Re4 h4 43. h3 Bxb4 0-1

@@ -1,0 +1,18 @@
+[Event "corr ICCF/M"]
+[Site "corr ICCF/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Wason, P."]
+[Black "Motyvay, T."]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "970e0fae"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Be6 10. f4 Qc7 11. f5 Bd7 12. g4 Bc6 13. Bd3 d5 14. g5 Nxe4
+15. f6 Nxc3 16. Bxh7+ Kxh7 17. Qh5+ Kg8 18. Rf3 Bd7 19. fxg7 Kxg7 20. Qh6+
+Kg8 21. g6 1-0
+

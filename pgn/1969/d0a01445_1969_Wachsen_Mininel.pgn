@@ -1,0 +1,23 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Wachsen"]
+[Black "Mininel"]
+[Result "0-1"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "d0a01445"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7
+8. Be3 O-O 9. O-O a5 10. a4 Be6 11. Nd2 d5 12. exd5 Nxd5 13. Nxd5 Bxd5 14.
+Bf3 f5 15. Bxd5+ Qxd5 16. Nb3 Qf7 17. Qe2 f4 18. Bc5 Bxc5 19. Nxc5 f3 20.
+Qxf3 Qxf3 21. gxf3 Nd4 22. Nxb7 Nxf3+ 23. Kg2 Ra6 24. Rfd1 Rg6+ 25. Kf1
+Nxh2+ 26. Ke1 Rg2 27. Ke2 Rgxf2+ 28. Kd3 Ng4 29. Nd6 R8f3+ 30. Ke4 Rf4+ 31.
+Kd5 Rxc2 32. Rdc1 Rxb2 33. Rc8+ Rf8 34. Rac1 Rb8 35. R1c7 Rbxc8 36. Rxc8
+Rxc8 37. Nxc8 h5 38. Ke4 Kf7 39. Nd6+ Ke6 40. Nc4 h4 41. Nxa5 h3 42. Kf3
+Kd5 43. Nb3 e4+ 44. Kg3 h2 45. Kg2 e3 46. Nc1 Kc4 47. Ne2 Kb4 48. a5 Kxa5
+0-1
+

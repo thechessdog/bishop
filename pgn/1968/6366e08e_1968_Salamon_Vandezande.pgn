@@ -1,0 +1,18 @@
+[Event "corr Eberhardt-Wilhelm"]
+[Site "corr Eberhardt-Wilhelm"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Salamon, B."]
+[Black "Vandezande, A."]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "6366e08e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. Nc4 Bf6 10. Bd2 Re8 11. Bc3 c5 12. a4 g6 13. h3 Bg7 14. Nh2
+Nb8 15. f4 f6 16. fxe5 fxe5 17. Qf3 Nc6 18. Qf7+ Kh8 19. Qd5 Qg5 20. Nf3
+Qe7 21. Ncxe5 Nxe5 22. Nxe5 Bxe5 23. Bxe5+ Qxe5 24. Rf8+ Kg7 25. Qg8+ 1-0
+

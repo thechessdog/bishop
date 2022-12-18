@@ -1,0 +1,20 @@
+[Event "Rodovre"]
+[Site "Rodovre"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Tornerup, John"]
+[Black "Madsen, Erik"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[Variation "wing gambit deferred"]
+[HashCode "a695f3ba"]
+[Epoch "Bishop"]
+[BlackID "1412051"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. b4 cxb4 4. d4 g6 5. Bd3 Bg7 6. Be3 Nc6 7. Nbd2 e5 8. d5
+Nce7 9. a3 Nh6 10. axb4 O-O 11. Rxa7 Rxa7 12. Bxa7 f5 13. c4 Kh8 14. Qb3 Bd7
+15. c5 Nc8 16. Qa3 fxe4 17. Bxe4 Bb5 18. Bb8 Nf5 19. h4 h6 20. Qb3 Qf6 21. Qb1
+Nce7 22. Bc7 Rc8 23. Bb6 Nd4 24. g4 Nxf3+ 25. Nxf3 Qf4 26. Rg1 Ra8 27. cxd6 Ra1
+28. Qxa1 Qxe4+ 29. Kd2 Nxd5 30. Be3 Qxf3 0-1

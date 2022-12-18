@@ -1,0 +1,20 @@
+[Event "Estonia"]
+[Site "Estonia"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ritov"]
+[Black "Vjark"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "db5061a9"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nf6 5. a3 Bxc3+ 6. Nxc3 Nxe4 7. Qg4 O-O
+8. Nxe4 f5 9. Qg3 fxe4 10. Bf4 Rf7 11. Be2 Nc6 12. c3 Qd7 13. Bh5 Rf5 14.
+Bg4 Rf7 15. h4 b6 16. Bh5 Rf5 17. Be2 Rf7 18. O-O Ne7 19. f3 Nf5 20. Qh2
+exf3 21. Rxf3 Bb7 22. Raf1 Raf8 23. Bd3 Nd6 24. h5 Ne4 25. Bxc7 Rxf3 26.
+Rxf3 Rxf3 27. gxf3 Nd2 28. Kf2 Nc4 29. b3 Nd2 30. Qf4 Nxb3 31. Bd6 Qd8 32.
+Be5 Na5 33. h6 Nc4 34. Qg4 Qd7 35. hxg7 Nxe5 36. Bxh7+ 1-0
+

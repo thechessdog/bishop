@@ -1,0 +1,23 @@
+[Event "Eksjo"]
+[Site "Eksjo"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Hecht, Hans-Joachim"]
+[Black "Akvist, Hakan"]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack, Ekstroem variation"]
+[HashCode "67dbb6e4"]
+[Epoch "Bishop"]
+[BlackID "1700901"]
+[WhiteID "4600320"]
+[WhiteCountry "DEU"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 Qd7 11. c4 bxc4 12. Bxc4 O-O 13. Nc3 Nxc3 14. bxc3 Na5
+15. Bd3 f6 16. Nd4 Bg4 17. f3 fxe5 18. Qxe5 Bf6 19. Qe2 c5 20. fxg4 cxd4 21. g5
+Rfe8 22. Qc2 Be5 23. Bxh7+ Kh8 24. Bg6 dxc3 25. Ba3 Nc4 26. Qf2 Qg4 27. Rd3 Bf4
+28. Re1 Rxe1+ 29. Qxe1 Ne5 30. Qxc3 Nxg6 31. Qc6 Rb8 32. Bb4 Ne5 33. Qxd5 Nxd3
+34. Qxd3 Bxg5 0-1

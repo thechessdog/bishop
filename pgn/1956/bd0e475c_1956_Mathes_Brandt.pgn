@@ -1,0 +1,20 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Mathes"]
+[Black "Brandt"]
+[Result "1-0"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, solid line"]
+[HashCode "bd0e475c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Be7 6. O-O Nf6 7. Qe2 d6 8.
+c3 Na5 9. Bc2 Bg4 10. d4 exd4 11. cxd4 O-O 12. Rd1 Bh5 13. Nbd2 Nd7 14. Nf1
+c5 15. Ng3 Bxf3 16. Qxf3 cxd4 17. Rxd4 Nc6 18. Rd1 Nde5 19. Qe2 Nb4 20. Bb3
+Rc8 21. a3 Nbc6 22. Nf5 Qc7 23. Bd2 Rfd8 24. Rac1 Bf8 25. Bd5 Qd7 26. f4
+Ng6 27. Qg4 Nce7 28. Rxc8 Qxc8 29. Ba5 Qc5+ 30. Kh1 Rb8 31. Bxf7+ Kxf7 32.
+Nxd6+ Kg8 33. Qe6+ Kh8 34. Nf7+ Kg8 35. Nh6+ Kh8 36. Qg8+ Nxg8 37. Nf7# 1-0
+

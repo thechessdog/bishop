@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Prokopp, H."]
+[Black "Meyer, Holger"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "258d00cb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 O-O 8. Qd2
+d5 9. e5 Ne8 10. f4 f6 11. Nf3 Nc7 12. O-O-O e6 13. h4 Nc6 14. h5 b5 15. hxg6
+hxg6 16. Qf2 fxe5 17. Qg3 exf4 18. Bxf4 Rxf4 19. Qxf4 b4 20. Ne4 Qe7 21. Neg5
+Qf6 22. Qxf6 Bxf6 23. Bd3 Ne7 24. Rh7 e5 25. Rf7 Ne8 26. Bb5 Bg4 27. Bxe8 Bxg5+
+28. Nxg5 Rxe8 29. Rh1 Be6 30. Rfh7 Bd7 31. Nf3 e4 32. Ne5 Bb5 33. Ng4 1-0

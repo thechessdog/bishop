@@ -1,0 +1,18 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Omelchenko"]
+[Black "Korelov"]
+[Result "1/2-1/2"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "d3648a84"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d4 Bg4 10. Be3 d5 11. exd5 exd4 12. Bg5 dxc3 13. Nxc3 Na5 14. Bc2
+c5 15. Qd3 c4 16. Qd4 Bxf3 17. gxf3 h6 18. Bxh6 gxh6 19. Qe3 Kg7 20. Kh1
+Rh8 21. Qxe7 1/2-1/2
+

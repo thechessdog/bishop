@@ -1,0 +1,18 @@
+[Event "Bariloche"]
+[Site "Bariloche"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Wexler, Bernardo"]
+[Black "Sanguinetti"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "85bf24cc"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. Nf3 d5 2. g3 Nc6 3. Bg2 Bg4 4. c4 e6 5. O-O dxc4 6. Qa4 Qd7 7. Qxc4 Bxf3 8.
+Bxf3 Ne5 9. Qb3 Nxf3+ 10. Qxf3 c5 11. Nc3 Ne7 12. d3 Nf5 13. Be3 Be7 14. Rac1
+O-O 15. Ne4 b6 16. Rc2 Qd5 17. b3 Rfd8 18. Rfc1 1/2-1/2

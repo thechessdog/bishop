@@ -1,0 +1,16 @@
+[Event "corr DFFM"]
+[Site "corr DFFM"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Walter, H."]
+[Black "Gerusel, Uta"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "a9c2038e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 g5 4. Bg3 Nxg3 5. hxg3 Bg7 6. e3 d6 7. Bd3 h6
+8. Nd2 c5 9. c3 Nc6 10. Qh5 cxd4 11. exd4 e5 12. dxe5 dxe5 13. Bc4 O-O 14.
+Ngf3 Bf5 15. g4 Bh7 16. O-O-O Qf6 17. Bb3 e4 18. Nb1 exf3 0-1
+

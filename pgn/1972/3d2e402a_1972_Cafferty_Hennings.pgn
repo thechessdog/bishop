@@ -1,0 +1,25 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1972.06.01"]
+[Round "1"]
+[White "Cafferty, Bernard"]
+[Black "Hennings, Artur"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "3d2e402a"]
+[Epoch "Bishop"]
+[WhiteID "401005"]
+[WhiteCountry "ENG"]
+[BlackID "4611594"]
+[BlackCountry "GER"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 c6 4. f4 Bg4 5. Nf3 Nbd7 6. Be2 Bxf3 7. Bxf3 e6 8.
+O-O Bd6 9. c4 O-O 10. Nc3 Qa5 11. cxd5 exd5 12. a3 Rfe8 13. b4 Qd8 14. b5 Nb6
+15. bxc6 bxc6 16. Be2 Rb8 17. Ra2 Bf8 18. Na4 Ne4 19. Be5 Bd6 20. Ba1 Qe7 21.
+Nxb6 axb6 22. Qc2 Bc5 23. Rf3 Rbc8 24. Bd3 f6 25. Bxe4 dxe4 26. Rf1 Red8 27.
+Rb1 Rd5 28. a4 Rcd8 29. Bc3 Qe6 30. Qb3 h6 31. Qc2 Rd3 32. h3 Kh7 33. Kh2 Bxe3
+34. dxe3 Rxc3 35. Qxc3 Qxa2 36. Rb2 Qa1 37. Qc2 Rd3 38. Rxb6 Qe1 39. Qc5 Kg6
+40. f5+ Kh7 41. Rxc6 Rxe3 42. Qd6 Qf2 43. a5 Re1 44. Rc7 Qg1+ 45. Kg3 Re3+ 46.
+Kh4 Qxg2 47. Rxg7+ Qxg7 0-1

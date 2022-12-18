@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Karasev, Vladimir I"]
+[Black "Ljubin"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "d41d4a08"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 O-O 8. a3
+Bxc3+ 9. Nxc3 b6 10. b4 bxc5 11. dxc5 d4 12. Qf3 Bd7 13. Qxa8 Bc6 14. Qxa7 dxc3
+15. b5 Ng4 16. Qa4 c2 17. Qxc2 Bxb5 18. Bxb5 Qa5+ 19. Bd2 Qxb5 20. Rb1 Qa6 21.
+Rb6 Qxa3 22. O-O Nd7 23. Rb4 Ngf6 24. c6 Ne5 25. c7 Qa8 26. Rfb1 Rc8 27. Rb8
+Qa6 28. Qa2 1-0

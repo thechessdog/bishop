@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Kjaerbye, Michael"]
+[Black "Rosell, Kaj"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "d166d42b"]
+[Epoch "Bishop"]
+[BlackID "1400380"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O b6 8. Qc2
+cxd4 9. exd4 Bb7 10. cxd5 Bxc3 11. bxc3 Bxd5 12. Ne5 Nbd7 13. Ba3 Re8 14. f4
+Qc7 15. Rae1 Nf8 16. f5 exf5 17. Bxf8 Rxf8 18. Rxf5 Rac8 19. c4 Be6 20. Rxf6
+gxf6 21. Qd2 Kg7 22. d5 Bd7 23. Re3 Rfe8 24. Rg3+ Kf8 25. Qh6+ Ke7 26. Nxf7
+Qc5+ 27. Re3+ Kxf7 28. Qxh7+ Kf8 29. Qh6+ Kf7 30. Bg6+ Kg8 31. Qh7+ Kf8 32.
+Qh8# 1-0

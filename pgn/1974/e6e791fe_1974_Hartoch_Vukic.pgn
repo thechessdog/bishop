@@ -1,0 +1,20 @@
+[Event "Banja Luka"]
+[Site "Banja Luka"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hartoch, Robert G"]
+[Black "Vukic, Milan"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "e6e791fe"]
+[Epoch "Bishop"]
+[BlackID "900273"]
+[WhiteCountry "NLD"]
+[BlackCountry "BIH"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. g3 Bg7 5. Bg2 e5 6. Ngf3 Ne7 7. O-O O-O 8. b4 a5
+9. bxa5 Qxa5 10. Bb2 d4 11. Nc4 Qc7 12. a4 c5 13. Nfd2 Bh6 14. c3 Nec6 15. cxd4
+Nxd4 16. Nb3 Be6 17. Nxd4 cxd4 18. Bc1 Bg7 19. Bd2 Nd7 20. Rc1 Nc5 21. Bb4 Rfc8
+22. Bxc5 Qxc5 23. f4 Qa7 24. Nd6 Rc3 25. f5 Bb3 26. Qf3 Qc5 27. Nc4 Bxc4 0-1

@@ -1,0 +1,20 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wegner"]
+[Black "Engel"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "74970473"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Nf6 5. Qe2 Bg7 6. O-O O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nbd2 Nxd2 11. Bxd2 Bg4 12. Be3 Rc8 13. h3 Bxf3 14.
+gxf3 Qb6 15. Rfd1 Rc7 16. Rac1 Rfc8 17. Rc3 Na5 18. Rdc1 Rxc3 19. Rxc3 Rxc3
+20. bxc3 a6 21. Bd3 Qe6 22. Kg2 b5 23. Bxb5 axb5 24. Qxb5 Nc6 25. c4 Qc8
+26. cxd5 Nb8 27. e6 fxe6 28. dxe6 Nc6 29. d5 Nd4 30. Qd7 Qf8 31. Bxd4 Bxd4
+32. a4 Qf6 33. d6 g5 34. Kf1 Bc5 35. Qc8+ Kg7 1/2-1/2
+

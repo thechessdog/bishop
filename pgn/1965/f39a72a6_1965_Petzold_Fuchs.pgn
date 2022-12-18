@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Petzold, Vinzenz"]
+[Black "Fuchs, Reinhart"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "f39a72a6"]
+[Epoch "Bishop"]
+[WhiteID "4651103"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 Nc6 5. Qg4 Nf6 6. Qxg7 Rg8 7. Qh6 Rg6 8.
+Qh4 Rg4 9. Qh6 Nxe4 10. Qxh7 Nxd2 11. Kxd2 Qg5+ 12. Ke1 Re4+ 13. Ne2 Nxd4 14.
+h4 Qe5 15. Qg8+ Ke7 16. Qg5+ Qxg5 17. hxg5 Bxc3+ 18. bxc3 Nxc2+ 0-1

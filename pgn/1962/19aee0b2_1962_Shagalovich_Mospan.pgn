@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Shagalovich, Abo I"]
+[Black "Mospan"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "19aee0b2"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. g4 Bg6 7. Bb5+ Nc6 8.
+Ne5 Rc8 9. d4 e6 10. Qe2 Bd6 11. Nxg6 hxg6 12. Nxd5 Bb8 13. Nc3 Qxd4 14. Be3
+Qd8 15. h4 a6 16. Ba4 Ne7 17. Bb3 Nd4 18. Bxd4 Qxd4 19. Rd1 Qe5 20. Rd3 Qxe2+
+21. Nxe2 Nc6 22. f4 Ke7 1/2-1/2

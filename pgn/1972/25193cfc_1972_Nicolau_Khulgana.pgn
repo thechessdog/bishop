@@ -1,0 +1,19 @@
+[Event "Skopje olw"]
+[Site "Skopje olw"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Nicolau"]
+[Black "Khulgana"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "25193cfc"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Ne7
+8. c4 d6 9. Nc3 Nbc6 10. Kh1 e5 11. Qe2 O-O 12. Be3 Bxe3 13. fxe3 Be6 14.
+Nd5 Ng6 15. Rac1 b6 16. Qh5 Rc8 17. Nd2 Nb8 18. Nf3 h6 19. g4 Nd7 20. g5
+Kh7 21. Rg1 Qe8 22. gxh6 gxh6 23. Rg3 Bxd5 24. Rh3 Rh8 25. exd5 Kg7 26. Nh4
+Nxh4 27. Qxh4 Nf8 28. Rf1 Qd8 29. Qg3+ Ng6 30. Rxf7+ Kxf7 31. Qxg6+ 1-0
+

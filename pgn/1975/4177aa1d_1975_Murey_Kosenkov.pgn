@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Murey, Jacob"]
+[Black "Kosenkov, Vsevolod"]
+[Result "1-0"]
+[ECO "A19"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Sicilian variation"]
+[HashCode "4177aa1d"]
+[Epoch "Bishop"]
+[WhiteID "2803585"]
+[WhiteCountry "ISR"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. e5 Ng8 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Nxe5 8.
+Qa4 Ne7 9. Bg5 Qb6 10. O-O-O N7g6 11. Ndb5 f5 12. Bd3 Be7 13. Bxe7 Nxe7 14. Qa3
+Nf7 15. Rhe1 a6 16. Qxe7+ Kxe7 17. Nd5+ Kd8 18. Nxb6 axb5 19. Nxa8 1-0

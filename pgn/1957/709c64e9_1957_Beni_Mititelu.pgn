@@ -1,0 +1,20 @@
+[Event "Sofia zt"]
+[Site "Sofia zt"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Beni, Alfred"]
+[Black "Mititelu, Gheorghe"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "709c64e9"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 O-O 6. a3 Bxc3+ 7. Nxc3 cxd4 8.
+exd4 d5 9. c5 Re8 10. Bb5 Bd7 11. O-O Ne4 12. Bd3 Nxc3 13. bxc3 Bc6 14. Qh5 g6
+15. Qh6 Qf6 16. Bg5 Qg7 17. Qh4 Nd7 18. Rfe1 e5 19. Bh6 Qh8 20. f3 Re6 21. Ra2
+Rae8 22. Rae2 f5 23. g4 fxg4 24. fxg4 e4 25. Rf2 Rf6 26. g5 Rf5 27. Be2 Nxc5
+28. Rxf5 gxf5 29. Bh5 Ne6 30. Rf1 f4 31. Rxf4 Ng7 32. Bf7+ Kf8 1-0

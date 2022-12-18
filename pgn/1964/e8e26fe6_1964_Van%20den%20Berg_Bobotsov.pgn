@@ -1,0 +1,22 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Van den Berg, Carel Benjamin"]
+[Black "Bobotsov, Milko G"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "e8e26fe6"]
+[Epoch "Bishop"]
+[BlackCountry "BGR"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Bg3 b5 12. e5 Bb7 13. Qe2 dxe5 14. fxe5 Nd5
+15. Nxe6 fxe6 16. Nxd5 Bxd5 17. Rxd5 exd5 18. e6 Qc6 19. exd7+ Kxd7 20. Qd1
+Rae8 21. Bd3 Bg5+ 22. Kb1 Rhf8 23. a4 Kc8 24. axb5 axb5 25. Qg4+ Kb7 26. Qb4
+Be7 27. Qb3 Kb6 28. Rd1 Bc5 29. Qc3 Re7 30. b4 Be3 31. Qxc6+ Kxc6 32. Be2 Bf2
+33. Bf3 Bxg3 34. Bxd5+ Kb6 35. hxg3 Rd8 36. Rd3 Red7 37. Be4 Rxd3 38. cxd3 Rd4
+39. Kc2 0-1

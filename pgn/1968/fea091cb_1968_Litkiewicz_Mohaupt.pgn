@@ -1,0 +1,20 @@
+[Event "corr FSM/DDR"]
+[Site "corr FSM/DDR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Litkiewicz"]
+[Black "Mohaupt, H."]
+[Result "0-1"]
+[ECO "E86"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.Nge2 c6"]
+[HashCode "fea091cb"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8.
+Qd2 a6 9. d5 cxd5 10. Nxd5 Nxd5 11. cxd5 f5 12. Nc3 Nd7 13. a4 Qa5 14. Nb1
+Qd8 15. Na3 fxe4 16. Bg5 Bf6 17. Bh6 Rf7 18. fxe4 Nc5 19. Qc2 Bg4 20. b4
+Bh4+ 21. g3 Bf3 22. bxc5 Bxh1 23. Bh3 Bg5 24. Be6 Qa5+ 25. Ke2 Bf3+ 26. Kd3
+Qb4 27. Bxf7+ Kh8 28. Nc4 Qxc5 29. Kc3 Bxh6 30. Qd3 Rf8 31. Qxf3 Qd4+ 32.
+Kb3 Qxa1 33. Nxd6 Qb1+ 34. Kc3 Qc1+ 35. Kb3 Qg5 0-1
+

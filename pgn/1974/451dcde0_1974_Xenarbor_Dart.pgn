@@ -1,0 +1,21 @@
+[Event "ACM San Diego"]
+[Site "ACM San Diego"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Xenarbor"]
+[Black "Dart 4 1"]
+[Result "0-1"]
+[ECO "D52"]
+[Opening "QGD"]
+[Variation "Cambridge Springs defence, Bogoljubow variation"]
+[HashCode "451dcde0"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Nd2 Bb4 8.
+Qc2 O-O 9. Nb3 Bxc3+ 10. bxc3 Qb6 11. c5 Qc7 12. Bxf6 Nxf6 13. O-O-O Bd7
+14. Bd3 b6 15. Kb2 a5 16. Be2 b5 17. Nc1 e5 18. f3 Rfe8 19. Nd3 exd4 20.
+cxd4 Rxe3 21. Bf1 Rae8 22. Nc1 Kf8 23. h4 h6 24. Kb1 Bc8 25. Kb2 Qd8 26.
+Kb1 Qe7 27. Qd2 Bf5+ 28. Kb2 a4 29. h5 Bh7 30. Ka1 a3 31. f4 Qe4 32. Nb3
+Qxf4 33. Qc1 Qg4 34. Rh2 Qxd1 35. Qxd1 Re1 36. Qc1 Rxc1+ 37. Nxc1 Re1 38.
+g4 Rxc1# 0-1
+

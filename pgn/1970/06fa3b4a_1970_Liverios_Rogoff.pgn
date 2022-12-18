@@ -1,0 +1,19 @@
+[Event "Haifa"]
+[Site "Haifa"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Liverios, Thisefs"]
+[Black "Rogoff, Kenneth"]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English opening"]
+[HashCode "06fa3b4a"]
+[Epoch "Bishop"]
+[WhiteID "4200284"]
+[BlackID "2000237"]
+[WhiteCountry "GRE"]
+[BlackCountry "USA"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. d4 c5 6. g3 cxd4 7. Nxd4 Nc6 8. Nc2
+d6 9. Bg2 Ne5 10. b3 Qa5 11. Bb2 Bg4 12. f3 Nxe4 13. fxg4 Nxc3 14. Qd2 Nxg4 15.
+h3 Qe5+ 16. Kf1 Ne4 17. Bxe5 Nxd2+ 18. Ke2 Nxe5 19. Kxd2 Rab8 0-1

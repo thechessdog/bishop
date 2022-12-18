@@ -1,0 +1,19 @@
+[Event "Primorsko"]
+[Site "Primorsko"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kolarov, Atanas S."]
+[Black "Jankov"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "f9688284"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 Bf5 4. c4 e6 5. g3 c6 6. Bg2 Qb6 7. Qc1 Nbd7 8. O-O
+Be7 9. d3 h6 10. Nbd2 O-O 11. Rb1 a5 12. a3 Qc7 13. Re1 Bh7 14. Qc3 Rac8 15.
+Rbc1 Rfd8 16. cxd5 exd5 17. e4 dxe4 18. Nxe4 Bf8 19. Bh3 Ra8 20. Qc4 Nxe4 21.
+dxe4 Nc5 22. Re3 Re8 23. e5 Rad8 24. Bf1 Ne6 25. h4 Bc5 26. Rd3 Qb6 27. Rxd8
+Rxd8 28. Bh3 Bd3 29. Qc3 Bxf2+ 30. Kh2 Be4 31. Bf1 Bxf3 32. Qxf3 Rd2 33. Bc3
+Bg1+ 34. Kh3 Rh2+ 35. Kg4 g6 36. h5 0-1

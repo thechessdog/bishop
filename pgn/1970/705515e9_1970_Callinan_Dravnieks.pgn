@@ -1,0 +1,17 @@
+[Event "corr Behting mem"]
+[Site "corr Behting mem"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Callinan, M."]
+[Black "Dravnieks, Olgerts"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "705515e9"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nf6 4. d4 Nc6 5. Nc3 fxe4 6. Nxe5 Qe7 7. Nf7 Na5
+8. Nxh8 Nxc4 9. Qe2 d5 10. Nxd5 Nxd5 11. Qxc4 Be6 12. Qb5+ c6 13. Qe2 Qb4+
+14. Qd2 Qxd2+ 15. Bxd2 Be7 16. O-O-O O-O-O 17. Ng6 hxg6 18. a3 Rf8 19. Rhf1
+Nf4 0-1
+

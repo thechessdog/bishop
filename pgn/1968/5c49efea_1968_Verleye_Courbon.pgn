@@ -1,0 +1,15 @@
+[Event "Ybbs stud ol"]
+[Site "Ybbs stud ol"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Verleye"]
+[Black "Courbon"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "5c49efea"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. Be3 e5 8. dxe5
+dxe5 9. f5 gxf5 10. exf5 e4 11. Nxe4 Re8 12. Nxf6+ Qxf6 13. Qd2 Bh6 0-1

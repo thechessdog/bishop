@@ -1,0 +1,23 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Forintos, Gyozo V"]
+[Black "Smederevac, Petar"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "cc65c8f5"]
+[Epoch "Bishop"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Nc6 8. Qc2
+Qa5 9. a3 Bxc5 10. Rd1 Be7 11. Nd2 e5 12. Bg5 d4 13. Nb3 Qb6 14. Bxf6 Bxf6 15.
+Nd5 Qd8 16. Bd3 g6 17. Nxf6+ Qxf6 18. exd4 Nxd4 19. Nxd4 exd4 20. O-O Bd7 21.
+Be4 Bc6 22. Bd5 Rad8 23. Qe4 Rfe8 24. Qxd4 Qxd4 25. Rxd4 Bxd5 26. cxd5 Re2 27.
+b3 Kf8 28. d6 Ke8 29. Rfd1 Kd7 30. Rc4 Ke6 31. Kf1 Re5 32. f4 Rd5 33. Rxd5 Kxd5
+34. Rc7 Rxd6 35. Rxb7 f5 36. Rxa7 Ke4 37. Ke2 Kxf4 38. Rxh7 g5 39. Rc7 g4 40.
+g3+ Kg5 41. Rc2 1-0

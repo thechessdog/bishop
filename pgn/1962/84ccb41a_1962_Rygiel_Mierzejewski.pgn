@@ -1,0 +1,19 @@
+[Event "corr ch4-POL"]
+[Site "corr ch4-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Rygiel, J."]
+[Black "Mierzejewski, S."]
+[Result "0-1"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "84ccb41a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 d6 7. Bg5 Qa5+
+8. c3 cxd4 9. Bd3 dxc3 10. O-O Nc6 11. Re1 Be6 12. bxc3 dxe5 13. Nxe5 Nxe5
+14. Rxe5 Bd6 15. Re3 d4 16. Rxe6+ fxe6 17. Qh5+ g6 18. Bxg6+ Kd7 19. Bxh7
+Qf5 20. Qe2 Rxh7 21. h4 d3 22. Qe3 Bc5 23. Qd2 Rf8 24. Be3 Rxh4 25. Rd1
+Rfh8 26. Qxd3+ Kc8 27. Qd7+ Kb8 28. Kf1 Rh1+ 29. Ke2 Qg4+ 0-1
+

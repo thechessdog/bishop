@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Sosonko, Gennadi"]
+[Black "Donner, Jan Hein"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "ec26a9bb"]
+[Epoch "Bishop"]
+[WhiteID "1000039"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. g3 dxc4 5. Bg2 a6 6. a4 Nc6 7. O-O Be7 8. Na3
+Na5 9. Qc2 Nb3 10. Rb1 Nxd4 11. Nxd4 Qxd4 12. Rd1 Qa7 13. Nxc4 Nd5 14. Bxd5
+exd5 15. Rxd5 Be6 16. Be3 b6 17. Rd2 Qb7 18. Ne5 Bb4 1/2-1/2

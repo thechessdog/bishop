@@ -1,0 +1,21 @@
+[Event "Kharkov"]
+[Site "Kharkov"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Spassky, Boris V."]
+[Black "Berezhnoi, V."]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "42eff042"]
+[Epoch "Bishop"]
+[WhiteID "600024"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Ne4 4. Bh4 Bg7 5. Nbd2 d5 6. e3 c5 7. c3 cxd4 8.
+exd4 O-O 9. Nxe4 dxe4 10. Nd2 f5 11. Bc4+ Kh8 12. Bg5 Qe8 13. h4 e5 14. dxe5
+Nc6 15. h5 Nxe5 16. hxg6 Qxg6 17. Qh5 Qxh5 18. Rxh5 Nxc4 19. Nxc4 Be6 20. Nd6
+Be5 21. O-O-O Rg8 22. g3 Rg7 23. Be3 Bxd6 24. Rxd6 Rg6 25. b3 Kg8 26. Bd4 Re8
+27. Rh1 a6 28. Kd2 Rf8 29. Ke3 h6 30. Be5 Rc8 31. Rhd1 Rc5 32. Kd4 Rc8 33. c4
+Bf7 34. Ke3 Be6 35. Rb6 Bf7 36. Rxb7 Be8 37. Ra7 h5 38. Rd5 1-0

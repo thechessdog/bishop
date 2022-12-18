@@ -1,0 +1,18 @@
+[Event "Islington"]
+[Site "Islington"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Keely, R."]
+[Black "Cooke, W."]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "bfdd2075"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8.
+Nf3 c5 9. dxc5 Nxc5 10. Bd3 b5 11. O-O Nc6 12. Ne2 Bd7 13. Ned4 Nxd4 14.
+Nxd4 f5 15. exf6 gxf6 16. Qf3 Nxd3 17. Qxd3 e5 18. fxe5 fxe5 19. Nf5 Bxf5
+20. Rxf5 Rd8 21. Raf1 Qc5+ 22. Kh1 Qd6 23. Qg3 1-0
+

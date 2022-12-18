@@ -1,0 +1,16 @@
+[Event "Flintbek"]
+[Site "Flintbek"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Kuhn, A."]
+[Black "Schlenker, R."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "8a65a7f9"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 h6 5. dxe5 dxe5 6. Bxf7+ Kxf7 7. Nxe5+
+Kf6 8. Qd5 Bd6 9. Qf7+ Kxe5 10. Bf4+ 1-0
+

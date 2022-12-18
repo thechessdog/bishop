@@ -1,0 +1,23 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Aanestad, Tor"]
+[Black "Haugen, Arild"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "a51710ee"]
+[Epoch "Bishop"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. dxc5 Bxc5 5. exd5 exd5 6. Qxd5 Nd7 7. Bc4 Qe7+
+8. Qe4 Nb6 9. Qxe7+ Nxe7 10. Bb5+ Nd7 11. Bf4 O-O 12. O-O-O Nb6 13. Bd6 Bxd6
+14. Rxd6 Nf5 15. Rd2 a6 16. Bd3 g6 17. Nf3 Rd8 18. Rhd1 Rd7 19. Ne4 Re7 20. Re2
+Be6 21. Nc5 Bxa2 22. Rxe7 Nxe7 23. b3 Rb8 24. Kb2 Ned5 25. Rd2 Rc8 26. Ne4 f5
+27. Nd6 Rc7 28. Kxa2 Nb4+ 29. Kb2 Rd7 30. Bc4+ Nxc4+ 31. Nxc4 Rxd2 32. Nfxd2 b5
+33. Nd6 Kg7 34. Nb7 Kf6 35. Nf3 f4 36. Ne1 Kf5 37. Nd3 Nc6 38. Nd6+ Kg4 39. f3+
+Kg5 40. Nc5 Nb4 41. c3 Nd5 42. Nde4+ Kh4 43. Nxa6 Ne3 44. g3+ fxg3 45. hxg3+
+Kh5 46. Nf6+ Kh6 47. Nc7 Kg7 48. Nfd5 Nf5 49. Ne6+ Kf7 50. Ng5+ Kg7 51. Ne4 1-0

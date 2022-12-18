@@ -1,0 +1,18 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "10"]
+[White "Maeder, Karl Heinz"]
+[Black "Csom, Istvan"]
+[Result "1/2-1/2"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation"]
+[HashCode "4b6dda2f"]
+[Epoch "Bishop"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Bxf6 gxf6 8.
+Nf5 Qa5 9. Bd3 e6 10. Ne3 Ne5 11. O-O h5 12. Kh1 Qc5 13. Qe2 Bh6 14. Rae1 Bf4
+1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Mar del Plata Latin"]
+[Site "Mar del Plata"]
+[Date "1962.01.01"]
+[Round "17"]
+[White "Cantero, Ronaldo"]
+[Black "Garcia, Raimundo"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "ec36660c"]
+[Epoch "Bishop"]
+[BlackID "100420"]
+[BlackCountry "ARG"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qa5+ 8. c3
+Qa6 9. Qc2 Nd7 10. Be3 c5 11. Nbd2 Rc8 12. Rh3 cxd4 13. Bxd4 Ne7 14. Nb3 Nf5
+15. Rd1 Be7 16. Qb1 O-O 17. Rd2 b5 18. a3 Qa4 19. Nc1 Qc4 20. Nd3 a5 21. Nf4 g6
+22. Ne2 b4 23. axb4 axb4 24. Ng3 bxc3 25. bxc3 Nxd4 26. Nxd4 Qxc3 27. Nge2 Qa5
+28. Nc2 Nxe5 29. Kd1 Nc4 30. Rd4 Bf6 0-1

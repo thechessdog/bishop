@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Katalymov, Boris N"]
+[Black "Borisenko, Georgy K"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "4443ed3c"]
+[Epoch "Bishop"]
+[BlackCountry "UZB"]
+[WhiteCountry "KAZ"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bg4 5. h3 Bh5 6. Re1 e6 7. c4 Ne7 8. g4
+Bg6 9. d4 a6 10. Ba4 cxd4 11. Nxd4 h5 12. Nc3 hxg4 13. Bg5 Rc8 14. hxg4 Qb6 15.
+Nd5 Qa7 16. Nf5 Bxf5 17. gxf5 Qb8 18. fxe6 fxe6 19. Nf4 e5 20. Nd5 b5 21. cxb5
+axb5 22. Bb3 Nd4 23. Qg4 Nxd5 24. Bxd5 Rc7 25. Rac1 Rd7 26. Red1 g6 27. Rxd4
+exd4 28. Qe6+ Be7 29. Bxe7 1-0

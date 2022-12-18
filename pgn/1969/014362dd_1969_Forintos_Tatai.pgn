@@ -1,0 +1,19 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "4"]
+[White "Forintos, Gyozo V"]
+[Black "Tatai, Stefano"]
+[Result "1-0"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[HashCode "014362dd"]
+[Epoch "Bishop"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+[BlackCountry "ITA"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nf3 O-O 5. d4 c6 6. O-O d5 7. Qb3 Qb6 8. Nc3
+Be6 9. Ng5 dxc4 10. Qa4 Qa6 11. Nxe6 fxe6 12. Bh3 Kf7 13. Qc2 Rd8 14. Ne4 Nxe4
+15. Qxe4 c5 16. dxc5 Nd7 17. Be3 Bxb2 18. Rab1 c3 19. a4 Rac8 20. Qb4 Qxe2 21.
+Rfe1 Qh5 22. Bxe6+ Kxe6 23. Bg5+ Ne5 24. Qc4+ Rd5 25. Rxe5+ 1-0

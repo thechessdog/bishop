@@ -1,0 +1,19 @@
+[Event "corr FIN jub10"]
+[Site "corr FIN jub10"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Venalainen, Unto E"]
+[Black "Grzeskowiak, F."]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "c8083a99"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 Nc6 8. a3
+Bd6 9. e4 e5 10. d5 Ne7 11. O-O h6 12. Ne1 Ng6 13. Nd3 a6 14. b4 b5 15. Ba2 Bb7
+16. Nc5 Bc8 17. g3 Qe7 18. Nb3 Bd7 19. Bb2 Ng4 20. Qd2 h5 21. f4 f5 22. Rae1
+Rae8 23. exf5 Bxf5 24. Ne4 Qd8 25. Nbc5 exf4 26. Ne6 fxg3 27. hxg3 Bxe6 28.
+dxe6 Be7 29. Rf7 N6e5 30. Qf4 Nxf7 31. exf7+ Kh8 32. Qf5 Bg5 33. fxe8=Q Rxe8
+34. Qg6 Bh6 35. Be6 Be3+ 36. Kg2 Re7 37. Bxg4 1-0

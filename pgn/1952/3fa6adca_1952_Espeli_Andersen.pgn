@@ -1,0 +1,17 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Espeli"]
+[Black "Andersen, Jens Knud"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "3fa6adca"]
+[Epoch "Bishop"]
+[BlackID "4616910"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. Bb5+ Bd7 5. Qa4 dxe4 6. Bxd7+ Nxd7 7. Qxe4
+Nc5 8. Qc4 Nd3+ 9. Ke2 Rc8 10. Qxd3 Qxd3+ 11. Kxd3 Rxc1 12. Ke2 g6 0-1

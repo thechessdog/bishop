@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Bentley, E."]
+[Black "Fisch, M."]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "62c1c86e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nc4 8. Qe2 Be6 9. Rd1 Qe7 10. b3 Nb6 11. Ba3 c5 12. c4 Rd8 13. Nc3 g6 14.
+Ne4 Rxd1+ 15. Rxd1 Bd7 16. Bxc5 Qe6 17. Nf6+ Kd8 18. Nd4 1-0
+

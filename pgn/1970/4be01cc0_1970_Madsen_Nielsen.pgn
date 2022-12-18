@@ -1,0 +1,26 @@
+[Event "Rasmus mem"]
+[Site "Randers"]
+[Date "1970.??.??"]
+[Round "6"]
+[White "Madsen, Svend Aage"]
+[Black "Nielsen, Jesper Arwid"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "4be01cc0"]
+[Epoch "Bishop"]
+[WhiteID "1406205"]
+[BlackID "1403389"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. e3 g6 5. Nf3 d6 6. Nc3 Bg7 7. d4 Qe7 8. Nd5
+Nxd5 9. cxd5 Nd8 10. dxe5 dxe5 11. Bb5+ c6 12. d6 Qe6 13. Bc4 Qf5 14. O-O O-O
+15. e4 Qd7 16. Nxe5 Qe8 17. d7 Bxd7 18. Nxd7 Bxb2 19. Rb1 Bg7 20. Nxf8 Bxf8 21.
+Qc2 c5 22. Bd5 Rc8 23. f4 Nc6 24. f5 Nd4 25. fxg6 hxg6 26. Qc4 Ne6 27. a4 Rc7
+28. Rf6 Bg7 29. Rf3 Bd4+ 30. Kh1 Ng5 31. Rf4 Qe5 32. Rbf1 Kg7 33. h4 Ne6 34.
+R4f3 b6 35. Qc1 Re7 36. Bxe6 fxe6 37. Qg5 Qxg5 38. hxg5 Kg8 39. Rf8+ Kg7 40.
+Ra8 Kh7 41. Rff8 Kg7 42. Rh8 a5 43. Rag8+ Kf7 44. Rh7+ Kxg8 45. Rxe7 e5 46. Re6
+Kf7 47. Rxb6 Bc3 48. Rb7+ Kf8 49. Kg1 Bd2 50. Kf1 Bxg5 51. Rb5 Be3 52. Rxa5 Ke7
+53. Rb5 Kd7 54. Ke2 Bd4 55. Kd3 c4+ 56. Kxc4 1-0

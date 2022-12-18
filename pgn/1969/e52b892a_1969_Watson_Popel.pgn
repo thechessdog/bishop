@@ -1,0 +1,22 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "6"]
+[White "Watson, John"]
+[Black "Popel, Stephan A"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "e52b892a"]
+[Epoch "Bishop"]
+[WhiteID "2000768"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4
+Nxd4 9. Nxd4 Qxd4 10. Nc3 Qb6 11. Qg4 h5 12. Qg5 Qd8 13. Nb5 Qxg5 14. Bxg5 f6
+15. Nc7+ Kd8 16. Nxa8 fxg5 17. Rfc1 Bc6 18. b4 Bxb4 19. Rab1 a5 20. Nb6 Ne7 21.
+Rb3 Rf8 22. Rc2 Nf5 23. Bxf5 Rxf5 24. g4 Rxe5 25. a3 Bd6 26. gxh5 g4 27. f3
+Rxh5 28. Rd3 Bc7 29. Na8 Bb8 30. fxg4 Rh8 31. Rf3 Ke7 32. Kf1 d4 33. Rb3 Bxh2
+34. Nb6 Bf4 35. Rxc6 bxc6 36. Nc4 e5 37. Nxa5 Kd6 38. a4 e4 39. Nb7+ Kd5 40. a5
+d3 41. Kg1 d2 42. Rb1 e3 0-1

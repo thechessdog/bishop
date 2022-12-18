@@ -1,0 +1,20 @@
+[Event "Dieren"]
+[Site "Dieren"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Knipscheer"]
+[Black "Van Haastert, P."]
+[Result "1-0"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "6d46cc5c"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Be6 7. O-O Be7
+8. d4 Nxc3 9. bxc3 e4 10. Nd2 f5 11. f3 O-O 12. Nb3 exf3 13. exf3 Bc4 14.
+Re1 Bf6 15. Kh1 Kh8 16. Nc5 Rb8 17. Ne6 Bxe6 18. Rxe6 Re8 19. Rxe8+ Qxe8
+20. Bf4 Qf7 21. Qd3 Qd7 22. Re1 b5 23. Qe3 Ne7 24. Be5 Nd5 25. Qd3 Qc6 26.
+f4 Qxc3 27. Qxc3 Nxc3 28. Bxc7 Rf8 29. d5 Bd8 30. d6 Kg8 31. Bc6 Kf7 32.
+Re5 Bxc7 33. dxc7 Rc8 34. Rc5 Na4 35. Rxb5 Nb6 36. Rc5 Ke7 37. Bb7 1-0
+

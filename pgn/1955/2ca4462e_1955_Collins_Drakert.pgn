@@ -1,0 +1,18 @@
+[Event "Marshall CC-ch 5556"]
+[Site "New York"]
+[Date "1955.12.10"]
+[Round "15"]
+[White "Collins, John William"]
+[Black "Drakert, William"]
+[Result "1-0"]
+[ECO "D64"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein attack (with Rc1)"]
+[HashCode "2ca4462e"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 c6 6. Nf3 Nbd7 7. Rc1 O-O 8.
+Qc2 h6 9. Bh4 a6 10. a3 dxc4 11. Bxc4 b5 12. Ba2 Bb7 13. O-O c5 14. dxc5
+Nxc5 15. Bb1 g6 16. Rfd1 Qb6 17. Ne5 Nce4 18. Bxf6 Nxf6 19. Nxg6 Rfe8 20.
+Nxe7+ Rxe7 21. e4 1-0
+

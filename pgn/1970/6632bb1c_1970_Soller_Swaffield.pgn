@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Soller, Carl"]
+[Black "Swaffield"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "6632bb1c"]
+[Epoch "Bishop"]
+
+1. d4 e5 2. dxe5 f6 3. e4 Nc6 4. Bc4 fxe5 5. Bxg8 Rxg8 6. Qh5+ g6 7. Qxh7
+Rg7 8. Qh8 d5 9. Bh6 Rf7 10. Nf3 dxe4 11. Nxe5 Nxe5 12. Qxe5+ Qe7 13. Qxe7+
+Bxe7 14. Be3 Bd7 15. Nd2 Bc6 16. O-O-O O-O-O 17. h4 Rd5 18. Nc4 Rh5 19. g4
+Rxh4 20. Rxh4 Bxh4 21. Ne5 Rf6 22. g5 Rf5 23. Nxg6 1-0
+

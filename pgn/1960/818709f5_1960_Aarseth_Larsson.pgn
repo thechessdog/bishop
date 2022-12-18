@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Aarseth, Sverre"]
+[Black "Larsson"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "818709f5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. O-O Nc6 8.
+a3 cxd4 9. exd4 dxc4 10. Bxc4 Be7 11. Re1 a6 12. Ba2 b5 13. d5 exd5 14.
+Nxd5 Nxd5 15. Qxd5 Bb7 16. Nc3 Qc7 17. Bg5 Bd6 18. Qd1 Bxh2+ 19. Kh1 Be5
+20. Nd5 Qd6 21. f4 Bd4 22. Re4 Rad8 23. Qe2 Kh8 24. Rd1 Ba7 25. Qh5 f6 26.
+Bh4 Nd4 27. Rexd4 Bxd4 28. Rxd4 Qc5 29. Rd1 Bxd5 30. Bxd5 g5 31. b4 Qc2 32.
+fxg5 fxg5 33. Bxg5 Rf5 34. Re1 Rdf8 35. Re7 Rf1+ 36. Kh2 Qb1 37. Qe2 1-0
+

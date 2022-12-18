@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Postpischl"]
+[Black "Grassia"]
+[Result "1-0"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "ecb89ce8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8.
+c3 d5 9. d3 d4 10. cxd4 Nxd4 11. Nxd4 Qxd4 12. Be3 Qd6 13. Rc1 Bb7 14. Bc5
+Qd7 15. Nd2 Rfd8 16. Nf3 Bd6 17. Ng5 Rf8 18. Rc2 h6 19. Nf3 Rfd8 20. Rac1
+Rac8 21. Nh4 a5 22. a3 a4 23. Ba2 Kh8 24. Nf5 Kh7 25. Qe3 Ne8 26. g4 f6 27.
+f3 Bxc5 28. Qxc5 Nd6 29. Ne3 c6 30. h4 g5 31. hxg5 hxg5 32. Rh2+ Kg7 33.
+Qxd6 1-0
+

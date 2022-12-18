@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Lehmann, W."]
+[Black "Schaffer, H."]
+[Result "0-1"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "5b2ccebb"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Nf6 6. d4 Bd7 7. Nbd2 Be7 8.
+O-O O-O 9. Re1 b5 10. Bc2 Ne8 11. Nf1 exd4 12. cxd4 Nb4 13. Bb1 c5 14. d5
+a5 15. a3 Na6 16. e5 dxe5 17. Nxe5 Nd6 18. Qh5 g6 19. Nxg6 fxg6 20. Bxg6
+Rf7 21. Bxf7+ Nxf7 22. Re3 Qf8 23. Rg3+ Kh8 24. Rf3 Be8 25. b3 Qg7 26. Ra2
+Ng5 27. Qg4 Nxf3+ 28. Qxf3 Bf6 29. Ne3 Bd7 30. d6 Re8 31. Re2 Nb8 32. Nd5
+Bd4 33. Re7 Qg6 34. Rxe8+ Bxe8 35. Ne7 Qf7 36. Bf4 c4 37. bxc4 bxc4 38. Qe4
+Bg7 39. g4 c3 40. g5 Nd7 41. Be3 Nf8 42. f4 Qe6 43. Qxe6 Nxe6 44. Kf1 c2
+45. f5 Nc5 46. f6 Bf8 47. Ke2 Bxe7 48. fxe7 Nb3 0-1
+

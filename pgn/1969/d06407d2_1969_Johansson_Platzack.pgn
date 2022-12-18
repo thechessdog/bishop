@@ -1,0 +1,17 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Johansson, Martin"]
+[Black "Platzack"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "d06407d2"]
+[Epoch "Bishop"]
+
+1. e4 g6 2. Nc3 Bg7 3. Nf3 d6 4. d4 Nf6 5. Be2 O-O 6. O-O Nbd7 7. e5 Ne8 8. Bg5
+f6 9. Be3 e6 10. exf6 Nexf6 11. Ng5 Qe7 12. Re1 Nd5 13. Nxd5 exd5 14. Bd3 Qf6
+15. Nxh7 Kxh7 16. Qh5+ Kg8 17. Bxg6 Rf7 18. Qh7+ Kf8 19. Bh6 Bxh6 20. Qxh6+ Qg7
+21. Re8+ Kxe8 22. Qxg7 1-0

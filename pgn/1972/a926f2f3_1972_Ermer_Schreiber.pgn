@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Ermer"]
+[Black "Schreiber"]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "a926f2f3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 b6 6. cxd5 Nxd5 7. Bxe7 Qxe7
+8. Nxd5 exd5 9. Bb5+ Bd7 10. Bxd7+ Nxd7 11. Nf3 O-O 12. O-O Rfc8 13. Qb3
+Qd6 14. Rac1 c5 15. dxc5 bxc5 16. Rfd1 c4 17. Qb7 Nb6 18. Qa6 Qb4 19. Rc2
+h6 20. h3 Rc5 21. Nd4 Nc8 22. Nc6 Qb6 23. Qxb6 axb6 24. Nb4 Ne7 25. Rcd2 c3
+26. bxc3 Rxc3 27. Rb2 Rd8 28. Rbd2 Rc4 29. a3 Ra8 30. Rd3 f6 31. Rb1 Rc5
+32. g4 Kf7 33. Kg2 Ke6 34. Rdb3 Nc8 35. Nd3 Rc4 36. Rc1 Ra7 37. Rbc3 Rac7
+38. Rxc4 dxc4 39. Nb4 b5 40. Kf3 Nd6 41. Ke2 Ra7 42. Nc2 Kd5 0-1
+

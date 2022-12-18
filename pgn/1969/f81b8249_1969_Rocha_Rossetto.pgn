@@ -1,0 +1,19 @@
+[Event "Mar del Plata zt"]
+[Site "Mar del Plata zt"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Rocha, Antonio"]
+[Black "Rossetto, Hector"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "f81b8249"]
+[Epoch "Bishop"]
+[WhiteID "1901869"]
+[WhiteCountry "POR"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 Qb6 8. O-O
+Be7 9. dxc5 Nxc5 10. Bc2 Qc7 11. Re1 b5 12. Nb3 a5 13. Nxc5 Bxc5 14. Be3 Be7
+15. Nd4 1/2-1/2

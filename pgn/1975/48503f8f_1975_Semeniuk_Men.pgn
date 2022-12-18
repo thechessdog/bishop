@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Semeniuk"]
+[Black "Men"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Rellstab variation"]
+[HashCode "48503f8f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 Nc5 6. Bg5 Qd7 7. Nc3 c6
+8. Qd2 dxe5 9. Nxe5 Qxd2+ 10. Bxd2 Nbd7 11. Nc4 Nb6 12. O-O-O Nxc4 13. Bxc4
+Be7 14. Rhe1 b5 15. Nxb5 cxb5 16. Bxb5+ Kf8 17. Rxe7 Kxe7 18. Bb4 Be6 19.
+Bxc5+ Kf6 20. Rd3 Rhd8 21. Bd4+ Ke7 22. Bc5+ Kf6 23. Rf3+ Ke5 24. Be7 Rd4
+25. Re3+ Kf5 26. h3 Bc4 27. Bc5 Rd5 28. Bc6 Rc8 29. Bxd5 Bxd5 30. Bd6 1-0
+

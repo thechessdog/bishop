@@ -1,0 +1,14 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Brinkmann, W."]
+[Black "Gerlach, M."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "32d028d9"]
+[Epoch "Bishop"]
+
+1. b4 d5 2. Bb2 e6 3. e3 Bxb4 4. Bxg7 1-0
+

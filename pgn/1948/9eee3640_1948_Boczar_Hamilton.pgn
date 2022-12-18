@@ -1,0 +1,18 @@
+[Event "Pittsburgh"]
+[Site "Pittsburgh"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Boczar, A."]
+[Black "Hamilton"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "9eee3640"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bg5 Be7 6. Ng3 Nc6 7. Nf3 O-O
+8. c3 Nd5 9. Bd2 b6 10. Bd3 g6 11. h4 h5 12. Qc2 Kg7 13. O-O-O Bb7 14. Ne4
+Nf6 15. Neg5 Ng4 16. Bxg6 Qd5 17. Bxf7 Bxg5 18. Nxg5 Rh8 19. Qg6+ Kf8 20.
+Bxe6 1-0
+

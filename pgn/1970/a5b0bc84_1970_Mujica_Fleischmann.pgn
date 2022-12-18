@@ -1,0 +1,19 @@
+[Event "corr South America"]
+[Site "corr South America"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Mujica, J."]
+[Black "Fleischmann, D."]
+[Result "1-0"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "a5b0bc84"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 b6 10. cxd5 exd5 11. Ne5 Nxe5 12. dxe5 Ng4 13. f4 Qh4 14.
+h3 Nh6 15. f5 Re8 16. Bb5 Rxe5 17. Bc6 Rb8 18. e4 Qxe4 19. Bf4 Bxf5 20. Qd2
+f6 21. Rae1 Qd3 22. Qxd3 Bxd3 23. Bxe5 fxe5 24. Bxd5+ Kh8 25. Rf3 Bc2 26.
+Rxe5 1-0
+

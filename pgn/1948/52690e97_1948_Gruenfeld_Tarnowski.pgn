@@ -1,0 +1,18 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Gruenfeld, Ernst"]
+[Black "Tarnowski, Alfred"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "52690e97"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. d4 exd4 5. Bc4 Nf6 6. e5 dxe5 7. fxe5 Nd5 8.
+Bg5 Ne7 9. Nbd2 Nbc6 10. O-O O-O 11. Ne4 Bb6 12. Bd3 Bg4 13. Nf6+ gxf6 14. Bxf6
+Qd7 15. Qd2 Nd8 16. Qh6 Ne6 17. Qxh7# 1-0

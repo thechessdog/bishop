@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Welz"]
+[Black "Von Rein"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "e99d3f22"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Bd7 8. Be2
+Na5 9. O-O Ne7 10. Rb1 Ng6 11. g3 f6 12. h4 Qc7 13. Qe1 Ba4 14. exf6 gxf6
+15. Bd1 Bd7 16. h5 Ne7 17. b3 Nf5 18. bxc4 Nxc4 19. Nxc4 dxc4 20. Bf4 Bd6
+21. Bxd6 Nxd6 22. d5 O-O-O 23. dxe6 Bc6 24. Nd4 Be4 25. Bc2 f5 26. Bxe4
+Nxe4 27. Qe3 Rd5 28. Rb5 Nc5 29. e7 Re5 30. Ne6 Rxe6 31. Qd4 Re8 32. Rxc5
+Rc6 33. Rxc6 Qxc6 34. Rd1 Qc7 35. Qxa7 Qxe7 36. Rd5 Qe4 37. Qc5+ 1-0
+

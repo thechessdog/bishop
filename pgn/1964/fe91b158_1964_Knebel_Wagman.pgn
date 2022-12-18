@@ -1,0 +1,17 @@
+[Event "corr EU/I"]
+[Site "corr EU/I"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Knebel, W."]
+[Black "Wagman, B."]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "fe91b158"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Bb5 Bd7 8.
+Bxc6 bxc6 9. e5 Nd5 10. exd6 Nxc3 11. bxc3 c5 12. dxe7 Qxe7+ 13. Ne2 Rd8
+14. Qd3 Bc6 15. Qg3 Bg7 16. Kf2 O-O 17. Re1 Rfe8 18. Be3 Bf6 0-1
+

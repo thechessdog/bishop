@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sokolov, Vladimir"]
+[Black "Muratov"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "1c0cc6fe"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 Qb6 5. Nbd2 Qxb2 6. Nc4 Qb5 7. e4 Qc6 8. d5
+exd5 9. exd5 Qxd5 10. Bd3 Qe6+ 11. Kd2 d5 12. Bxf6 Qxf6 13. Ne3 Be6 14. Qb3 d4
+15. Qxb7 dxe3+ 16. Kc2 c4 17. Be4 Bd6 18. Rhd1 O-O 19. Qxa8 Bd7 20. Qxa7 Qe7
+21. Qxe3 Ba4+ 22. Kd2 Re8 23. Re1 Qf6 24. g3 Bc6 25. Qd4 Qh6+ 26. Kd1 Bd7 27.
+Re3 Na6 28. Qxc4 Nc5 29. Rb1 Qh5 30. Ke2 Bg4 31. Qd5 Nxe4 32. Qxh5 Bxh5 0-1

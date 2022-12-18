@@ -1,0 +1,19 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Aloni, Izak"]
+[Black "Momo, Suren"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "0d8bd5b8"]
+[Epoch "Bishop"]
+[WhiteCountry "ISR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. e3 O-O 6. Bd3 b6 7. b3 Bb7 8. Bb2
+Nbd7 9. O-O Ne4 10. Rc1 c5 11. cxd5 exd5 12. Ne2 Rc8 13. Ne5 cxd4 14. Rxc8 Qxc8
+15. exd4 Bd6 16. f3 Nef6 17. Ng3 Re8 18. f4 g6 19. f5 Re7 20. fxg6 hxg6 21. Qd2
+Ne4 22. Bxe4 dxe4 23. Qg5 Nxe5 24. dxe5 Rxe5 25. Bxe5 Qc5+ 26. Kh1 Qxe5 27. Nf5
+Qxh2# 0-1

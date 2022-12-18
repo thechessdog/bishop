@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Salceanu, V."]
+[Black "Schwanfelder, M."]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "b1ab3530"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Nd7
+8. d4 f6 9. Ne2 Bd6 10. c3 O-O 11. Nh4 g6 12. Bh6 Rf7 13. f4 exf4 14. Bxf4
+Bxf4 15. Nxf4 Nf8 16. Nf3 Bg4 17. Qb3 b6 18. h3 Bxf3 19. Rxf3 Qe7 20. Raf1
+Re8 21. Nh5 f5 22. Ng3 Qe6 23. Qa3 a5 24. exf5 gxf5 25. Nxf5 Kh8 26. b3 Ng6
+27. Qc1 Ref8 28. Qg5 Rf6 29. h4 1-0
+

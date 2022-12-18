@@ -1,0 +1,19 @@
+[Event "Balkan"]
+[Site "Balkan"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Trojanescu"]
+[Black "Szabo, Laszlo"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "5321c507"]
+[Epoch "Bishop"]
+[BlackID "710741"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 c5 5. d4 cxd4 6. Qxd4 Qc7 7. Bb5+ Bd7 8.
+Bxd7+ Nxd7 9. Bd2 Ngf6 10. Nxf6+ gxf6 11. Bc3 Rg8 12. g3 Bc5 13. Qa4 O-O-O 14.
+Nd2 f5 15. f3 Nb6 16. Qxa7 Rxd2 17. Bxd2 Qe5+ 18. Kf1 Qd4 19. Be1 Qc4+ 20. Kg2
+Qe2+ 21. Kh3 Rg6 22. g4 Qxf3+ 23. Bg3 Rh6# 0-1

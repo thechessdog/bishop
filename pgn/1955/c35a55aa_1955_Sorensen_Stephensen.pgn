@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Sorensen, Bent"]
+[Black "Stephensen, Holger"]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Spanish, classical defence"]
+[HashCode "c35a55aa"]
+[Epoch "Bishop"]
+[WhiteID "1400410"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bc5 5. Bxc6 dxc6 6. Nxe5 O-O 7. Nd3 Bb6
+8. h3 Re8 9. f3 Be6 10. a3 Bc4 11. Nf4 Nxe4 12. fxe4 Qh4+ 0-1

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Scalisi"]
+[Black "Pasqua"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "f880918f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. dxe5 Nxe5 6. Nxe5 Qa5+ 7. Bd2
+Qxe5 8. O-O h5 9. Qf3 Be6 10. Bf4 Qf6 11. Bxe6 fxe6 12. Qe3 Qxb2 13. Nc3
+Qb6 14. Qh3 Kf7 15. Qf3 Ke8 16. e5 d5 17. Qh3 Kf7 18. Be3 Qc7 19. f4 Nh6
+20. Qxh5+ g6 21. Qf3 Nf5 22. Ne2 b6 23. Nd4 Nxe3 24. Qxe3 Bc5 25. Rf3 Rag8
+26. c3 a6 27. Rh3 Rxh3 28. Qxh3 Bxd4+ 29. cxd4 c5 30. Qh4 Qc6 31. dxc5
+Qxc5+ 32. Kh1 Qe7 1/2-1/2
+

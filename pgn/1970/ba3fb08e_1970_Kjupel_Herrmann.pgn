@@ -1,0 +1,16 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kjupel"]
+[Black "Herrmann"]
+[Result "0-1"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "ba3fb08e"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. Qb3 Nc6 5. cxd5 exd5 6. Nxd5 Be4 7. Nc3
+Nxd4 8. Qa4+ b5 9. Nxb5 Nc2+ 0-1
+

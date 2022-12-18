@@ -1,0 +1,23 @@
+[Event "Bad Meinberg"]
+[Site "Bad Meinberg"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Niklasson, Christer"]
+[Black "Ackermann, Hans Werner"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "3fa18053"]
+[Epoch "Bishop"]
+[WhiteID "1700316"]
+[WhiteCountry "SWE"]
+[BlackID "4605918"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. Nd2 Re8 10. O-O Nbd7 11. a4 Ne5 12. Qc2 g5 13. Nc4 Nxc4 14. Bxc4 h6 15.
+f4 Ng4 16. Ne2 gxf4 17. Bxf4 Be5 18. Ra3 Kh8 19. Qd2 Kh7 20. Rh3 Bg7 21. Rhf3
+f6 22. Ng3 Ne5 23. Rc3 Qa5 24. Bb5 Re7 25. Nh5 a6 26. Bxh6 axb5 27. Bxg7 Rxg7
+28. Nxf6+ Kg6 29. Rg3+ Ng4 30. Qf4 Qc7 31. Rxg4+ Bxg4 32. Qxg4+ Kf7 33. Qe6+
+1-0

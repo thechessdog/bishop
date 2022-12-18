@@ -1,0 +1,24 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Farago, Ivan"]
+[Result "0-1"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "c8deebd7"]
+[Epoch "Bishop"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Bd3 b6 10. a3 cxd4 11. exd4 Bxc3 12. bxc3 Qc7 13. Bd2 Bb7 14. Re1 Rad8
+15. Ne5 Nxe5 16. Rxe5 Rd5 17. Rxd5 Bxd5 18. Qe2 Rc8 19. a4 Bc4 20. f3 Nd5 21.
+Bxc4 Qxc4 22. Qxc4 Rxc4 23. Ra3 f6 24. Kf1 Ne7 25. Ke2 Nc6 26. Kd3 Na5 27. Ra1
+Kf7 28. Bf4 e5 29. Bg3 exd4 30. cxd4 Ke6 31. Bb8 Kd5 32. Bxa7 Rxd4+ 33. Kc3
+Rc4+ 34. Kd3 Rb4 35. Bb8 Nb7 36. Kc3 Rc4+ 37. Kd2 Nc5 38. Re1 Rxa4 39. Re7 Ra2+
+40. Ke3 Rxg2 41. Bg3 h5 42. f4 b5 43. Rxg7 b4 44. Rg8 b3 45. Rb8 b2 46. Be1
+Rxh2 0-1

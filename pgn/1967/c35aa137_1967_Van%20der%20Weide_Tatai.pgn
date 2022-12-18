@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1967.07.01"]
+[Round "7"]
+[White "Van der Weide, Piet"]
+[Black "Tatai, Stefano"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "c35aa137"]
+[Epoch "Bishop"]
+[WhiteID "1001370"]
+[WhiteCountry "NED"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 Be7 8. O-O
+O-O 9. Ba2 b5 10. f4 Bb7 11. Qe2 Qc7 12. Bd2 Nbd7 13. Rae1 Nc5 14. e5 Nfe4 15.
+Nf3 dxe5 16. fxe5 Rac8 17. Bb1 Nxd2 18. Qxd2 Nd7 19. Ne4 Rcd8 20. Qf4 f5 21.
+Neg5 Bd5 22. Kh1 Qc4 23. Qc1 Qg4 24. Nh3 Bc5 25. b3 f4 26. c4 bxc4 27. bxc4 Ba8
+28. Qc2 g6 29. Nhg5 Be3 30. h3 Qg3 31. Ne4 Bxe4 32. Qxe4 Nc5 33. Qc6 Rb8 34.
+Rxe3 fxe3 35. Qxc5 Rxf3 36. Rc1 Rf2 37. Be4 e2 38. Qd6 Rf1+ 0-1

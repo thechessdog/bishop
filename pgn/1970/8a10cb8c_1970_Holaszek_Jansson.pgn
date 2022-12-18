@@ -1,0 +1,20 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "15"]
+[White "Holaszek, Hans"]
+[Black "Jansson, Borje"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "8a10cb8c"]
+[Epoch "Bishop"]
+[BlackID "1700189"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 Nc6 6. Be3 e5 7. dxe5 Nxe5 8. f3
+Be6 9. Qd2 Nh5 10. Bf2 O-O 11. O-O-O b5 12. g4 b4 13. Nd5 Nf6 14. g5 Nxd5 15.
+exd5 Bf5 16. f4 Ng4 17. Bd4 Bxd4 18. Qxd4 Re8 19. Bxg4 Bxg4 20. Rf1 c5 21. dxc6
+Qa5 22. Kb1 Rac8 23. Nf3 Rxc6 24. Qd2 Rxc2 25. Kxc2 Bf5+ 26. Kd1 Qxa2 27. Nd4
+Qa4+ 28. Nc2 Rc8 29. Rh2 Bxc2+ 30. Ke1 Bf5 31. Qe3 Re8 0-1

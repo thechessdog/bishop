@@ -1,0 +1,17 @@
+[Event "corr Baltic"]
+[Site "corr Baltic"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Schuravlev"]
+[Black "Rosdestvenski, V."]
+[Result "1/2-1/2"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Keres variation"]
+[HashCode "78566d5c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. dxc5 Qa5 9. e4 Nf6 10. Be3 Qxc3+ 11. Kf2 Nc6 12. Ne2 Qa5 13. Qb3 O-O 14.
+Rd1 e5 15. Nc3 Be6 16. Bc4 Nd4 17. Bxd4 exd4 18. Nb5 Nd7 19. Bxe6 1/2-1/2
+

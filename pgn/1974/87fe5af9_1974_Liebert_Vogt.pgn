@@ -1,0 +1,20 @@
+[Event "DSV-Turnier"]
+[Site "Halle"]
+[Date "1974.06.01"]
+[Round "1"]
+[White "Liebert, Heinz"]
+[Black "Vogt, Lothar"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "87fe5af9"]
+[Epoch "Bishop"]
+[WhiteID "4611438"]
+[WhiteCountry "GER"]
+[BlackID "4611292"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 b6 6. h3 Bb7 7. O-O c5 8. c3 d6
+9. Bh2 Nbd7 10. Na3 Rc8 11. Rc1 cxd4 12. cxd4 Rxc1 13. Qxc1 Qa8 14. Qa1 Rc8 15.
+Rc1 Rxc1+ 16. Qxc1 Qc8 1/2-1/2

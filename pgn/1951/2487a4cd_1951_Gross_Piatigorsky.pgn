@@ -1,0 +1,20 @@
+[Event "Santa Cruz"]
+[Site "Santa Cruz"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Gross, Henry"]
+[Black "Piatigorsky, G."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "2487a4cd"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bg4 5. Bc4 e6 6. h3 Bxf3 7. Qxf3 Nd7
+8. d3 Ne5 9. Qg3 Nxc4 10. dxc4 Nf6 11. Nxf6+ gxf6 12. Be3 Bd6 13. Qg7 Qa5+
+14. c3 O-O-O 15. Qxf6 Be5 16. Qxf7 Bxc3+ 17. Ke2 Bd4 18. Bxd4 Rxd4 19.
+Qxe6+ Kb8 20. Rhd1 Qh5+ 21. g4 Re8 22. gxh5 Rxe6+ 23. Kf3 Rxc4 24. Rac1 Rh4
+25. Re1 Rf6+ 26. Kg3 Rxh5 27. Re7 Rg5+ 28. Kh4 h6 29. Rc4 Rff5 30. f4 Rg2
+31. Rb4 Rb5 32. Rxb5 cxb5 33. f5 Kc8 34. f6 Kd8 35. Rxb7 Rxb2 36. Rb8+ 1-0
+

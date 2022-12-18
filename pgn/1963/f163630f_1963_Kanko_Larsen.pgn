@@ -1,0 +1,22 @@
+[Event "Halle zt"]
+[Site "Halle zt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Kanko, Ilkka"]
+[Black "Larsen, Bent Ravn"]
+[Result "0-1"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "f163630f"]
+[Epoch "Bishop"]
+[WhiteID "500194"]
+[WhiteCountry "FIN"]
+[BlackID "1430670"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 b6 6. Bd3 Bb7 7. O-O Bxc3 8.
+bxc3 d6 9. Nd2 e5 10. f4 Re8 11. fxe5 dxe5 12. Nb3 Nbd7 13. a4 a5 14. Ra2 c5
+15. Raf2 Be4 16. Ba3 Rc8 17. dxc5 Bxd3 18. Qxd3 bxc5 19. e4 Qb6 20. Rb2 Qc6 21.
+Ra1 Qxe4 22. Qxe4 Nxe4 23. Nxa5 Ra8 24. Rb5 Nxc3 25. Rb7 Rxa5 26. Rxd7 h5 27.
+Bb2 Nxa4 28. Rd5 f6 29. Ba3 Ra6 0-1

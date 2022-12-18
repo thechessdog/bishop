@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Viola"]
+[Black "Monopoli"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "342eaba3"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. a4 Nbc6 8.
+a5 cxd4 9. cxd4 Nxa5 10. Nf3 O-O 11. Bd3 Nac6 12. Bxh7+ Kxh7 13. Ng5+ Kg6
+14. h4 Qe8 15. Qg4 Nf5 16. Ne4+ Kh7 17. Qh5+ Kg8 18. Nf6+ gxf6 19. exf6
+Nce7 20. g4 Nxd4 21. Qg5+ 1-0
+

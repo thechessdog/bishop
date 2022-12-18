@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Rautio"]
+[Black "Punzulis"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "e537407e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. f4 exf4 5. Bxf4 d5 6. exd5 Nxd5 7. Qf3 Be6
+8. Ne2 Nxf4 9. Qxf4 Bxc4 10. Qxc4 Bd6 11. Nbc3 O-O 12. Ne4 Be5 13. O-O-O b5
+14. Qb3 Qe7 15. N2g3 g6 16. d4 Bg7 17. h4 h5 18. Kb1 a5 19. Ng5 Nd7 20.
+Rhe1 Qd8 21. Qf3 Qf6 22. N3e4 Qxf3 23. gxf3 Nb6 24. Nc5 Nd5 25. c3 Rfe8 26.
+Re4 Nf6 27. Ree1 Bf8 28. Nd3 Nd5 29. Re4 Bd6 30. Rde1 Re7 31. Rxe7 Bxe7 32.
+Ne5 Bxg5 33. hxg5 Rc8 34. Nd3 Kg7 35. Kc1 Rc7 36. Kd2 f6 37. f4 Kf7 38. Ke2
+a4 39. a3 Re7+ 40. Kf3 Rxe1 41. Nxe1 Ke6 42. gxf6 Kxf6 43. Nd3 Kf5 44. Ne5
+Nxf4 45. Nxc6 g5 46. Ne5 g4+ 47. Kg3 Ng6 48. Nf7 h4+ 49. Kf2 Kf4 50. d5 Ne5
+51. Nh6 h3 0-1
+

@@ -1,0 +1,19 @@
+[Event "Hjoerring"]
+[Site "Hjoerring"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Hvenekilde, Jorgen"]
+[Black "Pedersen, Carl"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "888d3de5"]
+[Epoch "Bishop"]
+[WhiteID "1400649"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 e6 5. e4 Be7 6. e5 Ng8 7. Bxe7 Nxe7 8.
+Qd2 a6 9. Nd1 c5 10. c3 b5 11. Bd3 Nc6 12. Ne2 Qb6 13. Bb1 a5 14. f4 Ba6 15. a3
+b4 16. axb4 axb4 17. O-O bxc3 18. bxc3 O-O 19. Rxa6 Rxa6 20. Nf2 Rb8 21. Qd3 g6
+22. f5 Ra1 23. Ng4 Rxb1 24. Nc1 Ncxe5 25. Nh6+ Kf8 26. Qh3 exf5 27. dxe5 Nxe5
+28. Nxf5 gxf5 29. Qxf5 c4+ 30. Kh1 Qe3 31. Qf6 Rxc1 32. Qd6+ Kg7 0-1

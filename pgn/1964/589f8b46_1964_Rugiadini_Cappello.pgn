@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Rugiadini"]
+[Black "Cappello"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "589f8b46"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Bd7 11. f3 Nh5 12. a4 Na6 13. Nc4 f5 14. Nxd6
+Bd4+ 15. Kh1 f4 16. Bxf4 Nxf4 17. Bxa6 bxa6 18. Nxe8 Qxe8 19. Ra2 Rb8 20.
+Qd2 g5 21. a5 Qe5 0-1
+

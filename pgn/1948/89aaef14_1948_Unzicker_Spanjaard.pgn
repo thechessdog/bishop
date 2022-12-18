@@ -1,0 +1,17 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Unzicker, Wolfgang"]
+[Black "Spanjaard, Eduard"]
+[Result "1-0"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Richter variation"]
+[HashCode "89aaef14"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Be3 Nc6 9. Qd2 a6 10. f4 Nxd4 11. Bxd4 b5 12. Bf3 Bb7 13. Rad1 Qc7 14. e5 dxe5
+15. fxe5 Bxf3 16. exf6 Bxf6 17. Rxf3 Rfd8 18. Rd3 1-0

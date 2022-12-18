@@ -1,0 +1,24 @@
+[Event "Oxford ch-BCF"]
+[Site "Oxford ch-BCF"]
+[Date "1967.08.01"]
+[Round "6"]
+[White "Penrose, Jonathan"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "352d5f4b"]
+[Epoch "Bishop"]
+[WhiteID "400360"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Nge2 Nbd7 9. g3 Qb6 10. Bg2 Ne8 11. Qxb6 Nxb6 12. Bf4 Nd6 13. O-O Bf5 14. b3
+Rac8 15. Rac1 Rfd8 16. Rfd1 h6 17. h3 g5 18. Be3 Rc7 19. g4 Bd7 20. Ne4 Rdc8
+21. Rc5 f5 22. gxf5 Nxf5 23. N2g3 Nd6 24. Rdc1 Na8 25. Rxc7 Rxc7 26. Nc5 Bc8
+27. Ne2 Kf7 28. Ne6 Rxc1+ 29. Nxc1 Nb6 30. Nd3 Nd7 31. Bf3 Bf6 32. Bh5+ Kg8 33.
+Bg4 Nb6 34. Bf3 Nf5 35. Ndc5 Nd6 36. Kh2 Nd7 37. Bg4 b6 38. Nd3 Bh8 39. Nb4 Nf6
+40. Bf3 Bb7 41. Nc6 Nc8 42. Nc7 Kh7 43. Bc1 Bg7 44. Ba3 Bxc6 45. dxc6 Kg6 46.
+Ne6 1-0

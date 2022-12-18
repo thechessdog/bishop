@@ -1,0 +1,20 @@
+[Event "Firenze"]
+[Site "Firenze"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Mondaini"]
+[Black "Bini"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "East Indian defence"]
+[HashCode "111ff0b7"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 Bg7 4. e4 d6 5. Bc4 O-O 6. O-O Nbd7 7. e5 Nh5
+8. e6 Nb6 9. exf7+ Kh8 10. Bb3 d5 11. Ne5 c5 12. dxc5 Bxe5 13. cxb6 e6 14.
+Nf3 Bf6 15. bxa7 Rxf7 16. c3 Ng7 17. Be3 Nf5 18. Qd2 Nxe3 19. Qxe3 b6 20.
+Ne5 Rc7 21. f4 Qd6 22. Rae1 Ba6 23. Rf3 Raxa7 24. Rh3 Kg7 25. Qg3 d4 26.
+Rxh7+ Kxh7 27. Qxg6+ Kh8 28. Qxf6+ Rg7 29. Ng6+ Kh7 30. Rxe6 Qc5 31. Qh4+
+Kg8 32. Re8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Floe, Anton"]
+[Result "0-1"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "c669b7d5"]
+[Epoch "Bishop"]
+[WhiteID "1400134"]
+[WhiteCountry "DEN"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. d4 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O Na6 8.
+Nc3 Nxc3 9. bxc3 c5 10. Qb3 cxd4 11. cxd4 Nc5 12. dxc5 Bxa1 13. Rd1 Qe8 14. Bf4
+Bg7 15. Ng5 h6 16. Ne4 Be6 17. Qxb7 Qa4 18. Rf1 Rad8 19. Qxe7 Rd1 20. Qh4 Rxf1+
+21. Bxf1 Qxe4 0-1

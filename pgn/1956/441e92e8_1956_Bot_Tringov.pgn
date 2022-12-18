@@ -1,0 +1,19 @@
+[Event "Moskou olm"]
+[Site "Moskou olm"]
+[Date "1956.09.01"]
+[Round "1"]
+[White "Bot, G."]
+[Black "Tringov, Georgi P"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "441e92e8"]
+[Epoch "Bishop"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. e4 d6 6. Ne2 Nbd7 7. O-O e5 8. d5
+Nc5 9. b4 Ncd7 10. Bb2 Ne8 11. f4 c6 12. Qb3 Qb6+ 13. Kh1 a5 14. bxa5 Rxa5 15.
+Qxb6 Nxb6 16. Nd2 Na4 17. dxc6 Nxb2 18. cxb7 Bxb7 19. Rab1 exf4 20. Rf3 Ba6 21.
+Nxf4 Nxc4 22. Nxc4 Bxc4 23. a3 Nf6 24. Rb4 d5 25. exd5 Bxd5 26. Nxd5 Nxd5 27.
+Rb7 Nc3 28. Rb3 Rd8 29. Bf1 Ne4 30. Bc4 Nd2 31. Bxf7+ Kf8 0-1

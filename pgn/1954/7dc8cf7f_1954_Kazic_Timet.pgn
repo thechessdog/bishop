@@ -1,0 +1,20 @@
+[Event "corr ch-YUG"]
+[Site "corr ch-YUG"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Kazic"]
+[Black "Timet"]
+[Result "1-0"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, main line"]
+[HashCode "7dc8cf7f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. a3 Bxc3+ 7. bxc3 Nc6
+8. Ne2 b6 9. O-O d6 10. e4 Ne8 11. f4 f5 12. d5 Na5 13. Ng3 g6 14. dxe6
+Bxe6 15. exf5 gxf5 16. Bxf5 Bxc4 17. Qg4+ Kh8 18. Re1 Nb3 19. Nh5 Qc7 20.
+Rb1 Nxc1 21. Rbxc1 Qf7 22. Be6 Bxe6 23. Rxe6 Rg8 24. Qh3 Ng7 25. Nxg7 Rxg7
+26. f5 Rag8 27. Rc2 Rg5 28. Rf2 Rh5 29. Qd3 Rgg5 30. Qe2 Rg8 31. c4 Rf8 32.
+g4 Rg5 33. h3 1-0
+

@@ -1,0 +1,19 @@
+[Event "Paignton"]
+[Site "Paignton"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "a7f3beb5"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Bd3 Bb7 8. Nf3
+Ne4 9. O-O f5 10. Bb2 O-O 11. a4 Nc6 12. Ne1 Na5 13. Nc2 Qg5 14. g3 Rf6 15. Qe2
+Rh6 16. f4 Qg6 17. Bxe4 Bxe4 18. Rad1 Rh3 19. Rf2 Qxg3+ 20. Kf1 Rh4 21. dxc5
+Qh3+ 22. Ke1 Rg4 0-1

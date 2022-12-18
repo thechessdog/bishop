@@ -1,0 +1,17 @@
+[Event "corr PER-MEX"]
+[Site "corr PER-MEX"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Miranda"]
+[Black "Cano"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "e6780a7c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Bb7 9. Re1 b4 10. Nd5 exd5 11. exd5+ Kd7 12. Bg5 Kc8 13. c3 bxc3 14.
+Rc1 Nbd7 15. Rxc3+ Nc5 16. Ba4 Qb6 17. Bxf6 gxf6 18. b4 1-0
+

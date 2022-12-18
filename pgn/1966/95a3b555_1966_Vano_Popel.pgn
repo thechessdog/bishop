@@ -1,0 +1,18 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Vano, E."]
+[Black "Popel, S."]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "95a3b555"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Ne2 e5 7. Bd2 c5 8.
+O-O Nc6 9. a3 Bxc3 10. Bxc3 Qe7 11. d5 Nb8 12. Ng3 g6 13. Qc2 Nbd7 14. Rae1
+b5 15. b3 bxc4 16. bxc4 Ne8 17. f4 f5 18. e4 fxe4 19. Nxe4 Qh4 20. fxe5
+Rxf1+ 21. Rxf1 Nxe5 22. Nxd6 Nxd3 23. Nxe8 Qxc4 24. Bg7 1-0
+

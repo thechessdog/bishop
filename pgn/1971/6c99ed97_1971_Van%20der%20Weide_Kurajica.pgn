@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1971.07.01"]
+[Round "7"]
+[White "Van der Weide, Piet"]
+[Black "Kurajica, Bojan"]
+[Result "1-0"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "6c99ed97"]
+[Epoch "Bishop"]
+[WhiteID "1001370"]
+[WhiteCountry "NED"]
+[BlackID "14400057"]
+[BlackCountry "BIH"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 e6 6. Be3 a6 7. Bd3 b5 8. Nb3
+Nf6 9. f4 Bb4 10. O-O d6 11. Qf3 Bb7 12. Qg3 g6 13. f5 Nd7 14. fxe6 fxe6 15.
+Qh3 Nf8 16. Rf6 Ne5 17. Bg5 Bc8 18. Raf1 Bxc3 19. Bh6 Bxb2 20. Rxf8+ Rxf8 21.
+Rxf8+ Kd7 22. Bd2 h5 23. Qh4 Qa7+ 24. Kh1 Bb7 25. Qf6 Rxf8 26. Qxf8 Qa8 27.
+Qg7+ Kc6 28. Qe7 Bc8 29. Na5+ Kc5 30. Qc7+ Nc6 31. Nb3# 1-0

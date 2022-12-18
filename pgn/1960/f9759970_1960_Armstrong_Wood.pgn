@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Armstrong"]
+[Black "Wood"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Icelandic gambit"]
+[HashCode "f9759970"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. d4 exd5 5. Nf3 Nc6 6. Nc3 Bb4 7. cxd5 Nxd5
+8. Bc4 Bg4 9. O-O Nxc3 10. bxc3 Bxc3 11. Qb3 Bxa1 12. Bxf7+ Kd7 13. Bg5 Qf8
+14. Rxa1 Qd6 15. d5 Ne5 16. Nxe5+ Qxe5 17. Qa4+ 1-0
+

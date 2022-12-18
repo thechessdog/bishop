@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Levitina, Irina"]
+[Black "Savchenko, Stanislav"]
+[Result "1-0"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit, exchange variation"]
+[HashCode "3adffe95"]
+[Epoch "Bishop"]
+[WhiteID "2005956"]
+[WhiteCountry "USA"]
+[BlackID "14101262"]
+[BlackCountry "UKR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxd4 exd4 6. e5 dxc3 7. exf6 cxd2+
+8. Bxd2 Qxf6 9. O-O Be7 10. Bc3 Qg5 11. Qd3 c6 12. Rae1 O-O 13. Re5 Qf6 14. Qe3
+Bd8 15. Bd3 Qh4 16. g3 Qh3 17. Bb4 Bb6 18. Re8 c5 19. Qe7 1-0

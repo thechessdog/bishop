@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Russ"]
+[Black "Yudovich, Mikhail Sr"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "5844c221"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. hxg6 dxc3 10. gxf7+ Rxf7 11. e6 Rf6 12. exd7 Bxd7 13. Ng5 cxb2 14. Bc4+
+d5 15. Bxd5+ e6 16. Bxb2 Qa5+ 17. Qd2 Qxd2+ 18. Kxd2 exd5 19. Raf1 Rg6 0-1

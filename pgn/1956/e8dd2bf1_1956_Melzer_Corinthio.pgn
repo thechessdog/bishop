@@ -1,0 +1,24 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Melzer"]
+[Black "Corinthio"]
+[Result "1-0"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "e8dd2bf1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 O-O
+8. e3 b6 9. Bd3 Ba6 10. b3 f5 11. Ne2 Qd7 12. O-O Qf7 13. f3 Nd6 14. Bb2
+Nd7 15. Nf4 Nf6 16. Rac1 Kh8 17. Qd2 Bc8 18. c5 Nde8 19. Nh3 Qe7 20. b4 Rg8
+21. Qf2 g5 22. Kh1 Qg7 23. Bc3 Bd7 24. Qe2 h6 25. Be1 Rd8 26. Bg3 Rf8 27.
+Be5 Kg8 28. Bb1 Qe7 29. Qa6 Ra8 30. Nf2 Bc8 31. Qa4 bxc5 32. dxc5 Nd7 33.
+Bb2 a6 34. Nd3 Nef6 35. Qc2 c6 36. Qc3 Ra7 37. Rce1 Qh7 38. Nf2 Rf7 39. e4
+Nf8 40. Qe5 Rac7 41. exf5 exf5 42. Qd6 Qg7 43. Re2 N8h7 44. Rfe1 Qf8 45.
+Nd3 Rfd7 46. Qxf8+ Kxf8 47. Be5 Ra7 48. Bd6+ Kg7 49. Ne5 Rdc7 50. Bc2 Nf8
+51. Ba4 Bd7 52. Nxd7 N6xd7 53. Re7+ Kf6 54. Re8 a5 55. b5 cxb5 56. Bxb5 Ng6
+57. R8e6+ Kf7 58. Bxc7 Rxc7 59. Bxd7 Rxd7 60. R6e5 Rc7 61. c6 1-0
+

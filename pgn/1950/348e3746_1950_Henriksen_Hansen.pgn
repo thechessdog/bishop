@@ -1,0 +1,19 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Henriksen, P."]
+[Black "Hansen, Asgar"]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "348e3746"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. e3 O-O 6. Bd3 b6 7. Ne2 Bb7 8.
+O-O Nbd7 9. f3 c5 10. a3 dxc4 11. Bxc4 cxd4 12. axb4 dxc3 13. bxc3 Ne5 14.
+Rd1 Qc7 15. Bd3 Bxf3 16. gxf3 Nxf3+ 17. Kg2 Qxh2+ 18. Kxf3 Ng4 19. Bxh7+
+Kh8 20. Kxg4 Qg2+ 21. Kh4 g5+ 22. Kh5 Qh3+ 23. Kxg5 f6+ 24. Kf4 e5+ 25. Ke4
+Qxh7+ 0-1
+

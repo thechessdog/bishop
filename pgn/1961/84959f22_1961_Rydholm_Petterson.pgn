@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Rydholm"]
+[Black "Petterson"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "84959f22"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7
+8. Qe2 a6 9. Rd1 Bd7 10. a3 h6 11. b4 Qc7 12. Bb2 Nf6 13. Rac1 Rd8 14. Ba2
+b5 15. Nd5 Qb7 16. Nxe7 Kxe7 17. e5 dxe5 18. Nxe5 Nxe5 19. Qxe5 Ng4 20.
+Qd6+ Ke8 21. Rc7 1-0
+

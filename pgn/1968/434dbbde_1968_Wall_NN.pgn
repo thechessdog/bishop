@@ -1,0 +1,15 @@
+[Event "Federal Way,WA"]
+[Site "Federal Way,WA"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "Two knights defence"]
+[HashCode "434dbbde"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Nxe4 5. Bxf7+ Ke7 6. Nxe4 Kxf7 7. Qf3+
+Kg8 8. Ng5 Qxg5 9. Qd5# 1-0

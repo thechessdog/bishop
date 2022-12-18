@@ -1,0 +1,16 @@
+[Event "Mar del Plata op"]
+[Site "Mar del Plata op"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Vidal, Ramon"]
+[Black "Letelier, Rene"]
+[Result "0-1"]
+[ECO "D77"]
+[Opening "Neo-Gruenfeld, 6.O-O"]
+[HashCode "e8a60455"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 d5 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Ne8 8. Nf3
+Nc6 9. d5 Nb4 10. Nc3 Nd6 11. Bf4 c6 12. Be5 Bxe5 13. Nxe5 Nxd5 14. Nxd5 cxd5
+15. Qxd5 Qc7 16. Qd4 Be6 17. Rfc1 Rfd8 18. Qf4 Rac8 19. e4 Nb5 20. Bh3 Nd4 21.
+Re1 Qxe5 0-1

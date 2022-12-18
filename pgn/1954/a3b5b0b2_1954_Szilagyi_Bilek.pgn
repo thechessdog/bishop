@@ -1,0 +1,27 @@
+[Event "Pecs"]
+[Site "Pecs"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Szilagyi, Gyorgy"]
+[Black "Bilek, Istvan"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "a3b5b0b2"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 Be7 11. Nb3 Qc7 12. Be2 O-O-O 13. Bxf6 gxf6 14. Bh5
+Be8 15. Qe3 Kb8 16. Rhf1 Rc8 17. Kb1 Rg8 18. Bf3 Bd7 19. Rd2 Na5 20. Nxa5 Qxa5
+21. Rfd1 Rc7 22. Ne2 f5 23. e5 d5 24. Nd4 Rgc8 25. Nb3 Qa4 26. Rd4 Qb5 27. c3
+a5 28. Bxd5 a4 29. Bc4 Qb6 30. Qe2 Be8 31. Nc1 a3 32. b3 Qc6 33. Rd6 Bxd6 34.
+exd6 Rd7 35. Bb5 Qxc3 36. Bxd7 Bxd7 37. Qd2 Qc6 38. g3 Qe4+ 39. Qd3 Qg2 40. Rd2
+Qg1 41. Rc2 Rxc2 42. Qxc2 Bc6 43. Qc3 Qxh2 44. Qh8+ Ka7 45. Qd4+ Kb8 46. Qh8+
+Ka7 47. Qc3 b6 48. b4 Kb7 49. Ka1 Qg2 50. Qxa3 Qd2 51. Qb2 Qxd6 52. a3 Qd1 53.
+Qc3 Be4 54. Qc4 Qd2 55. Nb3 Qe1+ 56. Kb2 Qb1+ 57. Kc3 Qc2+ 58. Kd4 Qxc4+ 59.
+Kxc4 Bd5+ 60. Kc3 Bxb3 61. Kxb3 b5 62. a4 bxa4+ 63. Kxa4 f6 64. Kb5 e5 65. Kc5
+h5 66. fxe5 fxe5 67. Kd5 e4 68. Kd4 Kc6 69. Kc4 f4 70. gxf4 h4 71. f5 h3 72.
+b5+ Kd6 73. f6 h2 74. f7 Ke7 75. b6 h1=Q 0-1

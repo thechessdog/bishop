@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Bagirov, Vladimir"]
+[Black "Muratov, Vladimir"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "bebbdc30"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Qc2 Qa5 10. Rd1 Ne4 11. cxd5 exd5 12. Rxd5 Nxc3 13. bxc3 Qxa3 14. Ng5 g6
+15. Bc4 Bf5 16. Rxf5 gxf5 17. O-O Ne7 18. Be5 Qa5 19. Qb3 1-0

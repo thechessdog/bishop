@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Vinogradov"]
+[Black "Golitzman"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "38e4a7d6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4 4. Nxe4 dxe4 5. Qd2 h6 6. Be3 Bf5 7. g3 e6
+8. Bg2 c5 9. O-O-O cxd4 10. Qxd4 Nc6 11. Qxd8+ Rxd8 12. f3 Rxd1+ 13. Kxd1
+exf3 14. Bxf3 a6 15. g4 Bh7 16. Nh3 Bd6 17. Nf2 O-O 18. c3 Ne5 19. Bg2 Nc4
+20. Bc1 Rd8 21. Bxb7 Nxb2+ 22. Ke1 Na4 23. Nd1 Be5 24. Bxa6 Be4 25. Rf1 Nc5
+26. Bc4 Bc2 27. Ne3 Ne4 28. Rf3 Bxc3+ 29. Kf1 Bd2 30. Nxc2 Bxc1 31. Kg2 Nd2
+32. Rc3 Ne4 33. Rd3 Rc8 34. Bb3 Nc3 35. e3 Nxa2 36. Rd1 Bb2 37. Ne1 Nb4 38.
+Rd7 Rc3 39. Rd8+ Kh7 40. Ba4 Rxe3 41. Nc2 Re2+ 42. Kf3 Rxc2 43. Bxc2+ Nxc2
+44. Rd2 Nd4+ 45. Ke4 Bc3 46. Rf2 Nb5 0-1
+

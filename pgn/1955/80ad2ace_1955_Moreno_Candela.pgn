@@ -1,0 +1,17 @@
+[Event "corr Spain"]
+[Site "corr Spain"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Moreno"]
+[Black "Candela"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "80ad2ace"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3
+Nf6 8. Bg5 Be7 9. O-O h6 10. Bh4 Qd7 11. Rad1 b6 12. e5 O-O-O 13. exf6 Bxf6
+14. Bxf6 gxf6 15. Nd5 1-0
+

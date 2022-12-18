@@ -1,0 +1,17 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1968.09.01"]
+[Round "9"]
+[White "Robatsch, Karl"]
+[Black "Bertok, Mario"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "03e12d27"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+[BlackCountry "HRV"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nb3 Be7 8. Bg2
+O-O 9. a4 Nc6 10. h3 Nb4 11. O-O Be6 12. Re1 Rc8 13. Kh2 Qc7 14. f4 1/2-1/2

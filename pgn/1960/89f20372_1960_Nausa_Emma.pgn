@@ -1,0 +1,17 @@
+[Event "Bariloche"]
+[Site "Bariloche"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Nausa"]
+[Black "Emma, Jaime"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Lundin (Kevitz-Mikenas) defence"]
+[HashCode "89f20372"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. d4 Nc6 2. c4 e5 3. d5 Nce7 4. e4 Nf6 5. Bd3 Ng6 6. Ne2 Bc5 7. Ng3 d6 8. Nc3
+Ng4 9. Nf5 Bxf5 10. exf5 Nxf2 11. Qf3 Nxh1 12. Ne4 Qh4+ 13. g3 Qxh2 14. Bd2
+Nxg3 15. Nxg3 Nh4 16. Qg4 Bf2+ 0-1

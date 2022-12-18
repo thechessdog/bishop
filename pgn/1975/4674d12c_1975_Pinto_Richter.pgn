@@ -1,0 +1,16 @@
+[Event "Cardinal Open,OH"]
+[Site "Cardinal Open,OH"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pinto"]
+[Black "Richter, Kurt"]
+[Result "0-1"]
+[ECO "C22"]
+[Opening "Centre game"]
+[Variation "Berger variation"]
+[HashCode "4674d12c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2 O-O 7. O-O-O Re8
+8. Bc4 Bxc3 9. Bxc3 Nxe4 10. Qf3 Qg5+ 11. Bd2 Qg6 12. Re1 Nd6 13. Nh3 Nd4 14.
+Rxe8+ Nxe8 15. Qe3 Qxc2# 0-1

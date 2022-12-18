@@ -1,0 +1,24 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1950.11.01"]
+[Round "15"]
+[White "Van den Berg, Carel Benjamin"]
+[Black "Kramer, Haije"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "08b469ca"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. Nf3 O-O 6. Qc2 Nbd7 7. cxd5 exd5 8.
+e3 c6 9. Bd3 Re8 10. O-O Nf8 11. Rab1 g6 12. b4 a6 13. a4 Ne6 14. Bh4 Ng7 15.
+b5 axb5 16. axb5 Bf5 17. bxc6 bxc6 18. Ne5 Rc8 19. Rb7 Bxd3 20. Qxd3 Rc7 21.
+Rxc7 Qxc7 22. Rc1 Qb7 23. Qb1 Qa6 24. Na2 Ra8 25. Nb4 Bxb4 26. Qxb4 Ne4 27. f3
+Nf5 28. fxe4 Nxh4 29. Qe7 Qe2 30. Qxf7+ Kh8 31. Qf2 Qxf2+ 32. Kxf2 Ra2+ 33. Kg3
+Nxg2 34. Ng4 h5 35. Rg1 hxg4 36. Rxg2 Ra3 37. Kf4 dxe4 38. Rxg4 Kg7 39. Rg2 Rc3
+40. Kxe4 Kf6 41. Kf4 Rc1 42. Ke4 Rc3 43. Ra2 Ke6 44. Ra5 Rc2 45. Rc5 Rxh2 46.
+Rxc6+ Kf7 47. Rc1 Rg2 48. Kd5 g5 49. e4 g4 50. Kd6 g3 51. e5 Rd2 52. e6+ Ke8
+53. Rc8# 1-0

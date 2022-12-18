@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "1"]
+[White "Van Geet, Dirk Daniel"]
+[Black "Van der Weide, Piet"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "2b2ce809"]
+[Epoch "Bishop"]
+[BlackID "1001370"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. b3 e5 2. Bb2 Nc6 3. Nf3 e4 4. Nd4 Nf6 5. e3 d5 6. c4 Nxd4 7. Bxd4 Be7 8.
+cxd5 Qxd5 9. Nc3 Qa5 10. a3 O-O 11. b4 Qg5 12. Bxf6 Qxf6 13. Nxe4 Qh4 14. Qf3
+a5 15. b5 Be6 16. d4 Rad8 17. Ng3 f5 18. Bd3 f4 19. Ne2 Bg4 20. Qe4 fxe3 21.
+Qxe3 Bg5 22. Qg3 Bxe2 1/2-1/2

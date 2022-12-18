@@ -1,0 +1,18 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Grabczewski, Romuald"]
+[Black "Vogt, Lothar"]
+[Result "1/2-1/2"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "6bbb172e"]
+[Epoch "Bishop"]
+[BlackID "4611292"]
+[BlackCountry "GER"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. d5 Na5 11. Bc2 c6 12. dxc6 Qc7 13. h3 Be6 1/2-1/2

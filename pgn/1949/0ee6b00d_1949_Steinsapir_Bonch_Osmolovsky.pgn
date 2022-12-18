@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Steinsapir, Yu"]
+[Black "Bonch_Osmolovsky, M"]
+[Result "0-1"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "Janowski variation"]
+[HashCode "0ee6b00d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 Bxc3 7. bxc3 d6
+8. Re1 Bd7 9. d4 Ne7 10. Bf1 Ng6 11. g3 Re8 12. Bg2 h6 13. Rb1 Qc8 14. Nd2
+Be6 15. d5 Bd7 16. Nc4 Rb8 17. Qd3 Bh3 18. Qf1 Bxg2 19. Qxg2 Qd7 20. Ne3 c6
+21. c4 cxd5 22. cxd5 Qa4 23. Nf5 Qxc2 24. Rb3 Qc7 25. Qh3 Rec8 26. Bxh6
+gxh6 27. Qxh6 Ne8 28. Rf3 Qd8 29. Qh5 Rc7 30. Nh6+ Kg7 31. Nf5+ Kf8 32. Nh6
+Nh8 33. Ng4 Kg8 34. Nh6+ Kf8 35. Qg4 Ng7 36. Kg2 Qd7 37. Qg5 Qe7 38. Nxf7
+Nxf7 39. Qg6 Kg8 40. h4 Nh8 41. Qh6 0-1
+

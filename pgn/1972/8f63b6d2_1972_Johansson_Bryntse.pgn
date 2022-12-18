@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Johansson, Martin"]
+[Black "Bryntse, Arne"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "8f63b6d2"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 Kf8 8.
+Bd2 d6 9. f4 h5 10. Qg3 h4 11. Qd3 dxe5 12. fxe5 Nc6 13. Nxd5 Qxd5 14. O-O-O
+Be7 15. Nxc6 bxc6 16. Kb1 Qxe5 17. Qf3 Rb8 18. Bc3 Qh5 19. Be2 Qxf3 20. Bxf3
+Rb6 21. Ba5 Ra6 22. b4 c5 23. Be2 Rc6 24. Bb5 Rd6 25. bxc5 Rxd1+ 26. Rxd1 Rh5
+27. a4 Rxc5 28. c4 Rg5 0-1

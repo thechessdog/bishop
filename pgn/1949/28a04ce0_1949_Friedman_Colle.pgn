@@ -1,0 +1,16 @@
+[Event "Southsea"]
+[Site "Southsea"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Friedman"]
+[Black "Colle, H."]
+[Result "1-0"]
+[ECO "A84"]
+[Opening "Dutch defence, Rubinstein variation"]
+[HashCode "28a04ce0"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. Nf3 Bb4 5. Qb3 Nc6 6. d5 Bxc3+ 7. bxc3 Na5
+8. Qa4 c6 9. dxe6 dxe6 10. Ba3 Ne4 11. Rc1 Qb6 12. e3 Kf7 13. c5 Nxc5 14.
+Qb4 Ne4 15. Qe7+ Kg6 16. Ne5+ Kh5 17. Be2+ Kh6 18. Qh4# 1-0
+

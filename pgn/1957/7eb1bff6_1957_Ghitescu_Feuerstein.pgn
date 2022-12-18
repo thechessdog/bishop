@@ -1,0 +1,23 @@
+[Event "Reykjavik ol stud tt"]
+[Site "Reykjavik ol stud tt"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Ghitescu, Theodor"]
+[Black "Feuerstein, Arthur William"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "7eb1bff6"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O a6 11. a4 Re8 12. h3 b6 13. Qc2 Ra7 14. Nc4 Ne5 15. Nxe5
+Rxe5 16. Bf4 Re8 17. Rae1 Rae7 18. Bd3 Qc7 19. b3 Nd7 20. Bd2 Ne5 21. Be2 c4
+22. Rc1 f5 23. Bg5 Rf7 24. f4 cxb3 25. Qxb3 Nd7 26. Nb5 Qb8 27. Nc7 Rxe4 28.
+Bf3 Nc5 29. Rxc5 Bd4+ 30. Kh1 Re3 31. Qc4 bxc5 32. Ne6 Qb3 33. Qxb3 Rxb3 34.
+Nxd4 cxd4 35. Re1 Re3 36. Rd1 d3 37. Bh4 Bd7 38. Bf2 Re8 39. Rxd3 Bxa4 40. Rc3
+Rb7 41. Bd4 Bd1 42. Bxd1 Rb1 43. Kh2 Rxd1 44. Bf6 Kf7 45. Bg5 Rxd5 46. Rc7+ Kg8
+0-1

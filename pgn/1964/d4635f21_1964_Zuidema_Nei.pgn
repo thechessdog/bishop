@@ -1,0 +1,22 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Zuidema, Coen"]
+[Black "Nei, Iivo"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, main line, 14...Qh3"]
+[HashCode "d4635f21"]
+[Epoch "Bishop"]
+[BlackID "4500059"]
+[BlackCountry "EST"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
+Be3 Bg4 16. Qd3 Rae8 17. Nd2 Re6 18. Bxd5 cxd5 19. Qf1 Qh5 20. f4 Rfe8 21. Qf2
+Qf5 22. Nf1 h5 23. Rac1 h4 24. Qc2 Re4 25. a4 Bh3 26. axb5 axb5 27. Qd3 Bxf1
+28. Rxf1 hxg3 29. hxg3 Qg4 0-1

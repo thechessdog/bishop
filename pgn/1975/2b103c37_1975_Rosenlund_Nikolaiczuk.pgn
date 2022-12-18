@@ -1,0 +1,22 @@
+[Event "Bad Meinberg"]
+[Site "Bad Meinberg"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Rosenlund, Thorbjorn"]
+[Black "Nikolaiczuk, Lothar"]
+[Result "1-0"]
+[ECO "A68"]
+[Opening "Benoni"]
+[Variation "four pawns attack"]
+[HashCode "2b103c37"]
+[Epoch "Bishop"]
+[WhiteID "1400614"]
+[WhiteCountry "DEN"]
+[BlackID "4604490"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Be2 Bg4 10. e5 Bxf3 11. Bxf3 dxe5 12. fxe5 Nfd7 13. e6 Ne5 14. exf7+
+Rxf7 15. O-O Nxf3+ 16. Rxf3 Rxf3 17. Qxf3 Nd7 18. Qg4 Bd4+ 19. Kh1 Ne5 20. Qe6+
+Kg7 21. Ne4 Qe8 22. Bg5 Qxe6 23. dxe6 Nc6 24. Rf1 Re8 25. e7 Nxe7 26. Nd6 Rf8
+27. Bh6+ Kxh6 28. Rxf8 Bxb2 29. Rf7 Nd5 30. Rxb7 Nb6 31. Rxa7 1-0

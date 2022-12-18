@@ -1,0 +1,18 @@
+[Event "Froms Theory"]
+[Site "Froms Theory"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Heemsoth"]
+[Black "Rellstab"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "f38f39de"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. d4 g4 6. Ne5 Bxe5 7. dxe5
+Qxd1+ 8. Kxd1 Nc6 9. Bf4 Be6 10. e3 O-O-O+ 11. Nd2 Nge7 12. Bb5 Bd7 13. Bg5
+Rde8 14. Bf6 Rhf8 15. Rf1 Ng6 16. Bxc6 Bxc6 17. Rf5 Bxg2 18. Ke2 Be4 19.
+Nxe4 1-0
+

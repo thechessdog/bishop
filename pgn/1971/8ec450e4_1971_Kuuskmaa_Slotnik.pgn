@@ -1,0 +1,21 @@
+[Event "corr URS/K"]
+[Site "corr URS/K"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Kuuskmaa, E."]
+[Black "Slotnik"]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "8ec450e4"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 Bg4 6. b4 Qd7 7. Nbd2 O-O-O
+8. Bb2 Qe6 9. g3 Nxe5 10. Nxe5 Qxe5 11. Bg2 Nf6 12. Nf3 Bxf3 13. Bxf3 Qe6
+14. O-O h5 15. Qa4 Kb8 16. c5 Ng4 17. Rad1 h4 18. Bxg4 Qxg4 19. Rxd4 Rxd4
+20. Qe8+ Qc8 21. Qxc8+ Kxc8 22. Bxd4 hxg3 23. fxg3 f6 24. e4 Kd7 25. e5
+fxe5 26. Bxe5 Rg8 27. h4 a5 28. Kg2 axb4 29. axb4 b6 30. Rd1+ Kc8 31. c6
+Bxb4 32. Rd7 Re8 33. Rxc7+ Kd8 34. Rd7+ Kc8 35. Bxg7 Re6 36. h5 Rxc6 37.
+Rd5 1-0
+

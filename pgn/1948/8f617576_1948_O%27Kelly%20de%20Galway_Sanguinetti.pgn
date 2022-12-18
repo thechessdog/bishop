@@ -1,0 +1,20 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1948.03.01"]
+[Round "7"]
+[White "O'Kelly, Albéric de Galway"]
+[Black "Sanguinetti, Renato"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "8f617576"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 Be7
+8. Bg5 O-O 9. Qe2 c5 10. dxc5 Qa5+ 11. c3 Qxc5 12. O-O Rd8 13. Ne5 Rxd3 14. b4
+Qd5 15. c4 Qe4 16. Qxe4 Nxe4 17. Bxe7 Rd2 18. Rfd1 f6 19. Rxd2 Nxd2 20. Rd1
+fxe5 21. Rxd2 Kf7 22. Bh4 b6 23. Bg3 Kf6 24. Re2 e4 25. Rxe4 Bb7 26. Rd4 Rc8
+27. f3 b5 28. Rd7 Bc6 29. Rxa7 bxc4 30. Be1 e5 31. a4 Ke6 32. b5 Be8 33. Bc3 g6
+34. b6 Rb8 35. a5 Bd7 36. Rxd7 Kxd7 37. Bxe5 Re8 38. b7 c3 39. b8=Q 1-0

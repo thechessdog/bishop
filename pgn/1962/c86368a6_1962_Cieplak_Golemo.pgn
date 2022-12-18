@@ -1,0 +1,20 @@
+[Event "corr ch4-POL"]
+[Site "corr ch4-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Cieplak, T."]
+[Black "Golemo, E."]
+[Result "0-1"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "c86368a6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3
+d5 8. exd5 cxd5 9. O-O O-O 10. Bg5 Be6 11. Ne2 h6 12. Bh4 Bd6 13. f4 Bg4
+14. h3 Bc5+ 15. Kh1 Bd7 16. Ng3 Re8 17. Nh5 Be7 18. Bf2 c5 19. Nxf6+ Bxf6
+20. Bxc5 Bxb2 21. Rb1 Qf6 22. Qf3 Bc6 23. Qf2 Bc3 24. a3 d4 25. Bb4 Bxb4
+26. Rxb4 Re3 27. Kh2 Rae8 28. Rfb1 Qd6 29. Kg1 Be4 30. Rd1 Bxd3 31. cxd3
+Re2 32. Qf3 Ra2 0-1
+

@@ -1,0 +1,15 @@
+[Event "Groningen jr"]
+[Site "Groningen jr"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Stefansson, Hannes"]
+[Black "Keller, Dieter"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "2dad723e"]
+[Epoch "Bishop"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Nxe4 c6 6. c4 cxd5 7. cxd5 e6 8.
+Bb5+ Bd7 9. dxe6 Bxb5 10. exf7+ Nxf7 11. Qb3 Qd3 12. Qe6+ Be7 0-1

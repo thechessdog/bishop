@@ -1,0 +1,19 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Averkin, Orest N"]
+[Black "Tseshkovsky, Vitaly"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "f5eed353"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "MDA"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. e3 O-O 6. b4 b6 7. Bb2 c5 8. bxc5
+bxc5 9. Rc1 cxd4 10. Nxd4 e5 11. Nb3 Bb7 12. Ba3 Re8 13. cxd5 Nxd5 14. Nb5 Bf8
+15. Bxf8 Rxf8 16. Nc7 Nxc7 17. Qxd8 Rxd8 18. Rxc7 Rd7 19. Rc5 Rd5 20. Rc7 Rd7
+21. Rc5 Rd5 22. Rc7 Rd7 0-1

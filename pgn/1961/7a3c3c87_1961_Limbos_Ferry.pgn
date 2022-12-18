@@ -1,0 +1,19 @@
+[Event "Bruges"]
+[Site "Bruges"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Limbos"]
+[Black "Ferry"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "7a3c3c87"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bg5
+Be7 8. Bd3 b6 9. Qe2 Bb7 10. O-O-O Qd5 11. Kb1 O-O-O 12. Ne5 Rdf8 13. f3
+Kb8 14. Bb5 Ka8 15. c4 Qd6 16. c5 bxc5 17. dxc5 Qxc5 18. Rc1 Qd6 19. Rhd1
+Nd5 20. Bxe7 Qxe7 21. Nc6 Qg5 22. Rd4 Nb6 23. a4 e5 24. Rb4 Nd5 25. Rb3
+Qf5+ 26. Ka2 Qe6 27. Qf2 Nb6 28. a5 Rc8 1-0
+

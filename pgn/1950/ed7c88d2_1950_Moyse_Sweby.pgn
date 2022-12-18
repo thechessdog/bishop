@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Moyse, J."]
+[Black "Sweby, T."]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "ed7c88d2"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Bxf6 gxf6 6. Nxe4 f5 7. Ng3 Bg7
+8. Nf3 c5 9. Nh5 Bxd4 10. c3 Bf6 11. Bb5+ Ke7 12. Qa4 Rg8 13. Rd1 Qc7 14.
+Nxf6 1-0
+

@@ -1,0 +1,21 @@
+[Event "corr tt"]
+[Site "corr tt"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Deutsch, H."]
+[Black "Gurtovoi, N."]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "2d0074ff"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qd1 Qg6 9. Nc3 Nge7 10. h4 h5 11. Bg5 d6 12. Bd3 f6 13. Be3 Qxg2 14.
+Kd2 Bg4 15. Qe1 Nd4 16. Bxd4 exd4 17. Nd5 Rc8 18. Qg1 Qf3 19. Re1 Kf7 20.
+Be2 Rxc2+ 21. Kxc2 Qxe4+ 22. Kd2 Nxd5 23. Qg3 Bxe2 24. Rxe2 Qxh1 25. Re1
+Nc3 26. f3 Ne2 27. Qf2 Qh3 28. Rxe2 Re8 29. Rxe8 Kxe8 30. Qxd4 Qe6 31. a4
+Qe5 32. Qc4 Qxb2+ 33. Kd3 Kd7 34. Qf7+ Kc6 35. Qxg7 Qb3+ 36. Ke2 Qc4+ 37.
+Ke3 Qxh4 0-1
+

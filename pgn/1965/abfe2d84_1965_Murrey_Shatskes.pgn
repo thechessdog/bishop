@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Murey, Jacob"]
+[Black "Shatskes, B."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "abfe2d84"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 Na6 10. O-O-O Nh5 11. g4 Nf4 12. Nge2 Nxe2+ 13. Bxe2 Nc7 14. h4 Bd7 15.
+h5 b5 16. Bd3 b4 17. hxg6 bxc3 18. Qh2 h6 19. Bxh6 Qf6 20. g5 cxb2+ 21. Kd2
+Qxg6 22. f4 Bxh6 23. Rdg1 1-0

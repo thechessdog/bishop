@@ -1,0 +1,20 @@
+[Event "Zarate"]
+[Site "Zarate"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Buchaillot, Luis"]
+[Black "Gabitto"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "f26d6cc4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 g6 6. Nc3 Qd8 7. Nf3 Bg4
+8. Be2 Bg7 9. O-O Nf6 10. h3 Bd7 11. Qb3 Qb6 12. Qxb6 axb6 13. Bf4 Na6 14.
+Be5 Bc6 15. d5 Bd7 16. d6 exd6 17. Bxd6 Bc6 18. Bxa6 bxa6 19. Rfe1+ Kd7 20.
+Rad1 Bxf3 21. gxf3 Kc6 22. Re7 Ne8 23. Ne4 f5 24. Rc1+ Kd5 25. Rd1+ Kc6 26.
+Rc1+ Kd5 27. Bf4 fxe4 28. fxe4+ Kd4 29. f3 Kd3 30. Rd7+ Bd4+ 31. Kf1 Rf8
+32. Rc3# 1-0
+

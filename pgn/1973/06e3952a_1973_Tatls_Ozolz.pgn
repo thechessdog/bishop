@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Tatls, C."]
+[Black "Ozolz, M."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "06e3952a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 b5 4. Bxb5 fxe4 5. Ng1 Nf6 6. c4 Bc5 7. Nc3 O-O
+8. Nh3 c6 9. Ba4 d5 10. cxd5 Bxh3 11. gxh3 Bxf2+ 12. Kxf2 Nxd5+ 13. Kg1
+Qb6+ 14. Kg2 Qf2# 0-1
+

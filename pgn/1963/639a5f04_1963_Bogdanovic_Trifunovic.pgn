@@ -1,0 +1,17 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1963.03.01"]
+[Round "1"]
+[White "Bogdanovic, Rajko"]
+[Black "Trifunovic, Petar"]
+[Result "1/2-1/2"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "639a5f04"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. h3
+Bh5 9. d4 b5 10. Bb3 Bxf3 11. Qxf3 exd4 12. Qg3 O-O 13. Bd5 Nxd5 14. exd5 Na5
+15. cxd4 Bf6 16. Qc3 c5 17. dxc6 Rc8 18. Qd3 Nxc6 1/2-1/2

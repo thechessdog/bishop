@@ -1,0 +1,25 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Noordijk, R."]
+[Black "Lipschitz, Ir"]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "ed7729c5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Bg4 7. d4 b5 8. d5
+Na7 9. Bc2 c6 10. c4 bxc4 11. dxc6 Qc7 12. Be3 Be7 13. Nbd2 O-O 14. Bxa7
+Rxa7 15. Ba4 d5 16. Qe2 Bb4 17. exd5 Qa5 18. Qxc4 Bxd2 19. Nxd2 Qxd2 20.
+Rad1 Bxd1 21. Rxd1 Qa5 22. d6 Raa8 23. c7 Rac8 24. Bc6 Qb6 25. b4 a5 26. a3
+axb4 27. axb4 Rxc7 28. dxc7 Qxc7 29. b5 Rd8 30. Rxd8+ Qxd8 31. g3 Kf8 32.
+Qb4+ Qe7 33. Qa4 Qd6 34. Qa8+ Ke7 35. Qa7+ Ke6 36. Bb7 Nd7 37. h3 f5 38.
+Bc8 Qd1+ 39. Kh2 Qd4 40. Qxd4 exd4 41. b6 d3 42. b7 d2 43. Bxd7+ Kxd7 44.
+b8=Q d1=Q 45. Qb7+ Ke6 46. Qxg7 Qf1 47. Qh6+ Kd5 48. Qf4 Ke6 49. g4 fxg4
+50. hxg4 Kd5 51. Kg3 Qb1 52. Kh4 Ke6 53. Qf8 Qh1+ 54. Kg5 Qd5+ 55. Kh6 Qd3
+56. Qe8+ Kf6 57. g5+ Kf5 58. g6 Qh3+ 59. Kg7 Qc3+ 60. Kxh7 Qh3+ 61. Kg8 Kg5
+62. Qe7+ Kxg6 63. Qf7+ Kg5 64. f4+ Kh4 65. Qh7+ 1-0
+

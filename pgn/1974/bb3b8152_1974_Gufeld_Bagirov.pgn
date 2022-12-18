@@ -1,0 +1,20 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Gufeld, Eduard"]
+[Black "Bagirov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "bb3b8152"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. g3 Bg7 5. Bg2 e5 6. Ngf3 Ne7 7. O-O O-O 8. b4 a5
+9. bxa5 Qxa5 10. a4 Qc7 11. Bb2 d4 12. c3 c5 13. Nc4 Be6 14. Qb3 h6 15. Qb5
+dxc3 16. Bxc3 Nd7 17. Rfb1 Ra7 18. a5 Rd8 19. Nb6 Nb8 20. Rc1 Na6 21. Nd2 Nc6
+22. Nd5 Qd7 23. Qb6 Raa8 24. Nc4 Nab4 25. Bxb4 Nxb4 26. Nxb4 cxb4 27. Qxb4 Qxd3
+28. Nb6 Rab8 1/2-1/2

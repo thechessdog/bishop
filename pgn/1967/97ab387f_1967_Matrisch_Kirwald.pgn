@@ -1,0 +1,16 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Matrisch, G."]
+[Black "Kirwald, F."]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "97ab387f"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 g6 5. Bc4 Bg7 6. O-O Nf6 7. Ne5 O-O
+8. d4 Nbd7 9. f4 c5 10. dxc5 Qa5 11. Nd3 Qc7 12. Be3 b6 13. Bd5 Rb8 14. c6
+Nc5 15. Nb5 Nxd5 16. Nxc7 Nxe3 17. Qe2 Bd4 18. c3 Bg4 19. Rf3 1-0
+

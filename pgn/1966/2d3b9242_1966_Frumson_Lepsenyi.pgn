@@ -1,0 +1,19 @@
+[Event "match"]
+[Site "match"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Frumson, Yury"]
+[Black "Lepsenyi"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Opovcensky variation"]
+[HashCode "2d3b9242"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2 dxc4 7. Bxc4 Nfd7 8.
+Ne4 Nb6 9. Bb3 Nc6 10. Rc1 a5 11. a3 Nd5 12. Rc5 e6 13. O-O Re8 14. Qe2 a4 15.
+Ba2 Nce7 16. Rfc1 b6 17. R5c2 Bb7 18. Nc3 Nxc3 19. Rxc3 c5 20. Ne5 Nf5 21. Nf3
+cxd4 22. exd4 Bxf3 23. Qxf3 Nxd4 24. Qe4 Qd7 25. Kh1 Rad8 26. Bg5 Nb3 27. Bxb3
+axb3 28. Re3 Qd2 29. Rce1 Rd4 30. Qc6 Rf8 31. Qxb6 Qxf2 32. Qxb3 Rd2 33. Qb7 h6
+34. b4 hxg5 0-1

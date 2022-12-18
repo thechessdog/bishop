@@ -1,0 +1,19 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Shaposhnikov, Yuri"]
+[Black "Boleslavsky, Isaac"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "6e0c955f"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Nf3
+Nbc6 9. Bd3 f5 10. exf6 Rxf6 11. Qh5 h6 12. Ne5 Nxe5 13. dxe5 Rf8 14. g4 c4 15.
+Bg6 Nxg6 16. Qxg6 Qh4 17. Be3 Bd7 18. O-O-O Qe7 19. Qh5 Be8 20. Qh3 Bg6 21. f3
+Qxa3+ 22. Kd2 d4 23. Bxd4 Rad8 24. Rhf1 Qb2 25. Ke3 Bxc2 26. Rde1 Rxd4 27. cxd4
+Rd8 28. Kf4 Bd3 29. Rg1 Qf2 0-1

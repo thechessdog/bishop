@@ -1,0 +1,17 @@
+[Event "ACM New York"]
+[Site "ACM New York"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Marsland, CP."]
+[Black "Daly, CP."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Van't Kruijs opening"]
+[HashCode "95e62d60"]
+[Epoch "Bishop"]
+
+1. e3 e5 2. d4 Qg5 3. h4 Qf6 4. Qf3 Bb4+ 5. Nc3 Qxf3 6. Nxf3 Bxc3+ 7. Bd2
+Bxb2 8. Rb1 e4 9. Ne5 Ba3 10. Bb4 Bxb4+ 11. c3 Bxc3+ 12. Kd1 d6 13. Bb5+
+Ke7 14. Kc2 dxe5 15. Kxc3 Be6 16. d5 Bxd5 17. Bc4 Bxc4 18. Kxc4 b6 19. Rbd1
+Nd7 20. f3 exf3 21. Rd2 Kf6 0-1
+

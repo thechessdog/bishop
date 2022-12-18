@@ -1,0 +1,21 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Holm, Sejer"]
+[Black "Haahr, Thorkild"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "bfc9751f"]
+[Epoch "Bishop"]
+[WhiteID "1400304"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d6 5. Bg5 Bd7 6. e3 Nc6 7. Qc2 Qe7 8. Be2
+O-O-O 9. a3 Bxc3+ 10. Qxc3 h6 11. Bxf6 Qxf6 12. b4 e5 13. d5 Ne7 14. O-O Kb8
+15. Nd2 Qg6 16. Rfd1 Rhe8 17. Nb3 Bh3 18. Bf1 Bg4 19. Rd2 Nf5 20. h3 Bf3 21.
+Kh2 Nh4 22. g3 Nf5 23. Be2 Bxe2 24. Rxe2 h5 25. e4 Nh6 26. c5 dxc5 27. bxc5 f5
+28. c6 bxc6 29. Na5 Ka8 30. Nxc6 Rd6 31. Rb1 fxe4 32. Qb4 1-0

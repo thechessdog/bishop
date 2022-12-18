@@ -1,0 +1,23 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Svensson, Gert"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "82b1c732"]
+[Epoch "Bishop"]
+[WhiteID "1701533"]
+[WhiteCountry "SWE"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. Nc3 Nbd7 7. O-O e5 8. b3
+Re8 9. Qc2 exd4 10. Nxd4 Nc5 11. Bb2 a5 12. Rad1 c6 13. Rfe1 Qb6 14. h3 a4 15.
+e3 Nfd7 16. Nce2 Na6 17. Qb1 Ndc5 18. Nc1 axb3 19. Ndxb3 Bf5 20. e4 Bxe4 21.
+Bxe4 Bxb2 22. Bxg6 hxg6 23. Qxb2 Qb4 24. Rxe8+ Rxe8 25. Qd4 Re1+ 26. Rxe1 Qxe1+
+27. Kg2 Nxb3 28. Nxb3 Qe7 29. Nd2 Nc5 30. Nf3 Qe4 31. Qxd6 Nd3 32. c5 Ne1+ 33.
+Kf1 Nxf3 34. Qb8+ Kg7 0-1

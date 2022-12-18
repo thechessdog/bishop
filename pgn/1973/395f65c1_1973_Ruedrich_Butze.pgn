@@ -1,0 +1,16 @@
+[Event "Karl-Marx-Stadt"]
+[Site "Karl-Marx-Stadt"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Ruedrich, M."]
+[Black "Butze, Roland"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "395f65c1"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. a3 Be7 10. Nf3 Bg4 11. Be2 Bxf3 12. gxf3 Bh4+ 0-1

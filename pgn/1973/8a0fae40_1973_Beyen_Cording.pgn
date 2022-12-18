@@ -1,0 +1,20 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Beyen"]
+[Black "Cording"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "8a0fae40"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 Nb6 7. Nf3 Nc6
+8. d5 Bxc3+ 9. bxc3 Qxd5 10. O-O Qxd1 11. Rxd1 Bd7 12. Bf4 O-O-O 13. Nd4
+Na4 14. Rdc1 f6 15. Rab1 Nb6 16. a4 e5 17. Nxc6 Bxc6 18. Bxc6 exf4 19. Bf3
+c6 20. gxf4 Kc7 21. c4 Rd4 22. e3 Rxc4 23. a5 Rxc1+ 24. Rxc1 Nc8 25. a6 Ne7
+26. axb7 Kxb7 27. Kf1 a5 28. Ke1 Rd8 29. Ra1 Kb6 30. Rb1+ Kc5 31. Rb7 Nd5
+32. Kd2 Nxf4+ 33. Kc2 Nd3 34. Kb1 Ne5 0-1
+

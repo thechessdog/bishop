@@ -1,0 +1,16 @@
+[Event "corr WER/M"]
+[Site "corr WER/M"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Felbecker"]
+[Black "McLellan"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit"]
+[HashCode "94e1581b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. b4 cxb4 3. d4 d5 4. exd5 Nf6 5. c4 bxc3 6. Bb5+ Bd7 7. Bc4 Qa5
+8. Qf3 Na6 9. Ne2 Nb4 10. Bb3 Nbxd5 11. Nbxc3 Bg4 12. Qg3 Bxe2 0-1
+

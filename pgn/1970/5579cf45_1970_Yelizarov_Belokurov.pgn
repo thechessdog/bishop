@@ -1,0 +1,18 @@
+[Event "Perm"]
+[Site "Perm"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Yelizarov"]
+[Black "Belokurov"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "5579cf45"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Nbd2 Nc6 7. O-O
+Qe7 8. a3 Bxd2 9. Bxd2 Be6 10. Bb5 Bd7 11. Bxc6 Bxc6 12. Nxd4 Bd7 13. Rc1
+Qd6 14. Bb4 Qb6 15. Nf5 g6 16. Ng7+ Kd8 17. Qd5 a5 18. Qxf7 Qf6 19. Ne6+
+Qxe6 20. Qxe6 Bxe6 21. Bc3 1-0
+

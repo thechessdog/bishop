@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Altshuler, Roman"]
+[Black "Kunerth, W."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "7c16d98b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. Nbd2 Bg7 8.
+Nf1 O-O 9. Ng3 b5 10. Bc2 d5 11. O-O dxe4 12. dxe4 Qxd1 13. Rxd1 Bg4 14. h3
+Bxf3 15. gxf3 Rfd8 16. Be3 Rxd1+ 17. Bxd1 Bf8 18. Be2 Nd7 19. Rd1 Bd6 20.
+Bf1 Nf8 21. b4 Ne6 22. a4 bxa4 23. Ra1 a3 24. Rxa3 a5 25. Bb5 1-0
+

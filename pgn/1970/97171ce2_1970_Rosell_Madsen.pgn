@@ -1,0 +1,20 @@
+[Event "Rasmus mem"]
+[Site "Randers"]
+[Date "1970.??.??"]
+[Round "3"]
+[White "Rosell, Kaj"]
+[Black "Madsen, Svend Aage"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "97171ce2"]
+[Epoch "Bishop"]
+[WhiteID "1400380"]
+[BlackID "1406205"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 d5 8. Ne5
+Nbd7 9. cxd5 exd5 10. Qa4 Nxe5 11. dxe5 Ne8 12. Rd1 c6 13. e4 d4 14. Qxd4 Qc7
+15. Bf4 g5 16. Be3 c5 17. Qd7 Rd8 18. Qxc7 Nxc7 19. Nd5 1-0

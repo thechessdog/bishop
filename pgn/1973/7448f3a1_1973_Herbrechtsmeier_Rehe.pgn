@@ -1,0 +1,17 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Herbrechtsmeier, Christof"]
+[Black "Rehe, Walter"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "7448f3a1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bb5 d6 6. Bxc6+ bxc6 7. O-O e6 8. d3
+Ne7 9. Qe1 O-O 10. Bd2 Qc7 11. Qf2 f5 12. e5 Nd5 13. Rae1 Bd7 14. Na4 Rae8 15.
+b3 Nb4 16. exd6 Qxd6 17. Qxc5 Qxc5+ 18. Nxc5 Nxc2 19. Nxd7 Nxe1 20. Rxe1 Rf7
+21. Nfe5 1-0

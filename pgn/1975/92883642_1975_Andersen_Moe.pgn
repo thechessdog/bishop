@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1975.01.01"]
+[Round "7"]
+[White "Andersen, Borge"]
+[Black "Moe, Mogens"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "92883642"]
+[Epoch "Bishop"]
+[BlackID "1400550"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. b3 d5 2. Nf3 Nf6 3. Bb2 c5 4. e3 Nc6 5. Bb5 Qb6 6. c4 Bf5 7. Nc3 e6 8. O-O
+Bd3 9. Re1 Bd6 10. cxd5 Bxb5 11. Nxb5 Qxb5 12. dxc6 Qxc6 13. Bxf6 gxf6 14. d4
+O-O-O 15. Rc1 Kb8 16. Qe2 Qb6 17. dxc5 Bxc5 18. Rc4 Rhg8 19. g3 h5 20. Rd1 Bd6
+21. Rh4 Qa5 22. Rhd4 Be7 23. Rxd8+ Rxd8 24. Rxd8+ Bxd8 25. Qd3 a6 26. Qd7 Qc7
+27. Qe8 Ka7 28. Qh8 Qa5 29. Kg2 Bb6 30. Qxf6 Qxa2 31. Nd4 a5 32. h4 Ka6 33. g4
+Bxd4 34. Qxd4 Qxb3 35. gxh5 Qc2 36. Qg7 Qc6+ 37. f3 Qc2+ 38. Kg3 Qc1 39. Kf4
+Qc7+ 40. Qe5 Qe7 41. Kg3 Qb4 42. h6 1/2-1/2

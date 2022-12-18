@@ -1,0 +1,15 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Gerlach"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "15f673f9"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qe5 7. O-O-O Bg4
+8. Qxb7 Qxe3+ 9. Rd2 Qe1+ 10. Nd1 Qxf1 11. Nf3 Qxh1 12. Ne5 Bd7 13. Rxd7 1-0

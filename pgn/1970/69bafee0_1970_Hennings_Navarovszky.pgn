@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hennings, Artur"]
+[Black "Navarovszky, Laszlo"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "69bafee0"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 O-O 9. Bb3 Bd7 10. O-O-O Nxd4 11. Bxd4 Qa5 12. Rhg1 b5 13. g4 b4 14. g5 Ne8
+15. Nd5 exd5 16. Bxd5 Rc8 17. g6 Kh8 18. gxf7 Nf6 19. Rxg7 Kxg7 20. Rg1+ Kh8
+21. Qf3 Bf5 22. exf5 Rxf7 23. Bxf7 Qc7 24. Bb3 d5 25. Qxd5 Qd8 26. Qf7 1-0

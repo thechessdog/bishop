@@ -1,0 +1,16 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Navarovszky, Laszlo"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical, main line with d3"]
+[HashCode "04611bef"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 Nf6 4. O-O g6 5. c4 Bg7 6. Nc3 O-O 7. d3 d6 8. Rb1
+Rb8 9. a3 Ne8 10. Bd2 Nc7 11. b4 b6 12. b5 Na5 13. Ne1 1/2-1/2

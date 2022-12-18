@@ -1,0 +1,17 @@
+[Event "Detroit"]
+[Site "Detroit"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Esselink"]
+[Black "Trout, M."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "577d928a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 Nf6 7. e5 dxe5
+8. Qxd8+ Kxd8 9. Ng5 Ke8 10. Nb5 Rb8 11. Bxf7+ Kd8 12. Bb3 Ke8 13. Bf7+ Kd8
+14. Be3 a6 15. Bb6+ Kd7 16. Be6+ Ke8 17. Nc7+ Kd8 18. Nf7# 1-0
+

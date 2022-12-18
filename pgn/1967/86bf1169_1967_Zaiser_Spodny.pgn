@@ -1,0 +1,19 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Zaiser"]
+[Black "Spodny"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "86bf1169"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Ne7 5. Bd3 cxd4 6. O-O Nd7 7. Re1 Nc6 8.
+Bf4 Be7 9. h3 Nc5 10. Bb5 Bd7 11. Bxc6 bxc6 12. Nxd4 Qb6 13. b3 Na6 14. c3
+c5 15. Nc2 Bc6 16. Qg4 g5 17. Be3 Qb7 18. Nd2 h5 19. Qg3 g4 20. hxg4 hxg4
+21. Qxg4 O-O-O 22. Nf3 d4 23. cxd4 Rdg8 24. Ng5 Bxg5 25. Bxg5 Bxg2 26. f4
+Rh1+ 27. Kf2 Rh2 28. Qg3 Rgh8 29. Ne3 Bf1+ 0-1
+

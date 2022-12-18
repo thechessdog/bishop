@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "9"]
+[White "Prins, Lodewijk"]
+[Black "Marovic, Drazen"]
+[Result "1-0"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Lasker variation"]
+[HashCode "20c33ea2"]
+[Epoch "Bishop"]
+[BlackID "14500183"]
+[BlackCountry "CRO"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. e4 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Nf3
+b6 9. Bb5+ c6 10. Bd3 Ba6 11. Qe2 Qc8 12. c4 O-O 13. O-O dxc4 14. Bxe4 c3 15.
+Bd3 Bxd3 16. Qxd3 cxd2 17. Nxd2 c5 18. Ne4 cxd4 19. f4 Nd7 20. Qxd4 Nc5 21. Nd6
+Qd7 22. a4 f6 23. a5 fxe5 24. Qxe5 Rad8 25. Rad1 Qc6 26. f5 Qd7 27. axb6 axb6
+28. Rd4 Qe7 29. Rb1 Qf6 30. Qxf6 Rxf6 31. Rxb6 exf5 32. Nxf5 Rxd4 33. Rb8+ Kh7
+34. Nxd4 Rd6 35. Rb4 Ne4 36. h4 Rd7 37. Rc4 Nd2 38. Rb4 Ne4 39. Kh2 g5 40. Ne6
+Nf6 41. Nf8+ 1-0

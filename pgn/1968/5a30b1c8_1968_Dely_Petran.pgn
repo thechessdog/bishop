@@ -1,0 +1,21 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Dely, Peter"]
+[Black "Petran, Pal"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "5a30b1c8"]
+[Epoch "Bishop"]
+[BlackID "700304"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Nge2 Nbd7 9. g3 Nb6 10. Bg2 Bf5 11. Nf4 Ne8 12. Be3 Nd6 13. O-O Qd7 14. Rad1
+Rac8 15. Nd3 Rc7 16. Nc5 Qc8 17. Nb5 Bc2 18. Nxd6 Bxb3 19. Nxc8 Bxd1 20. Nxa7
+Be2 21. Re1 Bc4 22. Bf4 Rxc5 23. dxc5 Nxd5 24. b3 Nxf4 25. gxf4 Ba6 26. a4 Bd4
+27. b4 Bc3 28. Rb1 Ra8 29. Nb5 Bxb5 30. axb5 Rb8 31. b6 1-0

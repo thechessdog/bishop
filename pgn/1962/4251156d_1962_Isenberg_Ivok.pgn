@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Isenberg, J."]
+[Black "Ivok, L."]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, solid line"]
+[HashCode "4251156d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 d6 8.
+c3 Bg4 9. h3 Bh5 10. d3 h6 11. Be3 Qd7 12. Nbd2 g5 13. Qe1 g4 14. hxg4 Nxg4
+15. Nh2 Nxh2 16. Kxh2 O-O-O 17. f3 Rdg8 18. a4 Bg5 19. axb5 Qe7 20. bxc6
+Bxe3 0-1
+

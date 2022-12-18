@@ -1,0 +1,18 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1975.01.01"]
+[Round "13"]
+[White "Sydor, Andrzej"]
+[Black "Ermenkov, Evgenij"]
+[Result "1/2-1/2"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "bcaefd38"]
+[Epoch "Bishop"]
+[WhiteID "1100475"]
+[WhiteCountry "POL"]
+[BlackID "2900106"]
+[BlackCountry "FID"]
+
+1. f4 c5 2. Nf3 Nc6 3. g3 Nf6 4. Bg2 g6 5. O-O Bg7 6. d3 d5 7. Nc3 d4 8. Na4
+Nd7 9. c4 O-O 10. a3 Qc7 11. Rb1 b6 12. b4 Bb7 13. e4 1/2-1/2

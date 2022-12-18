@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Rossolimo, Nicolas"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "3fdd645f"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteCountry "HUN"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Nf6 4. Nc3 Bg4 5. d5 Nb8 6. Be2 g6 7. Bf4 Bg7 8. Qd2
+h6 9. h3 Bxf3 10. Bxf3 Nfd7 11. O-O-O c6 12. Be3 Qa5 1/2-1/2

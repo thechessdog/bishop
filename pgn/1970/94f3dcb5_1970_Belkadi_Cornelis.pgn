@@ -1,0 +1,18 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "17"]
+[White "Belkadi, Ridha"]
+[Black "Cornelis, Frans B"]
+[Result "1/2-1/2"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "94f3dcb5"]
+[Epoch "Bishop"]
+[WhiteID "5500028"]
+[WhiteCountry "TUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 b6 13. Kh1 Rb8 14. Nc4 Ba6 15. Bg5
+h6 16. Bh4 g5 17. Bf2 1/2-1/2

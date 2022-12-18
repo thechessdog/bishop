@@ -1,0 +1,18 @@
+[Event "Dresden WTch student"]
+[Site "Dresden WTch student"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Webb, Simon"]
+[Black "Velikov"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "5f198d83"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Be7 4. g3 Nf6 5. Bg2 c6 6. Nbd2 O-O 7. O-O Nbd7 8. b3
+b5 9. Qc2 bxc4 10. bxc4 Ba6 11. Re1 Rb8 12. e4 dxe4 13. Nxe4 Nxe4 14. Rxe4 Nf6
+15. Re1 c5 16. Qa4 Qc8 17. Ba3 Nd7 18. Ne5 Nb6 19. Qc2 Bb7 20. Bh3 Qc7 21. Nxf7
+Rxf7 22. Bxe6 1-0

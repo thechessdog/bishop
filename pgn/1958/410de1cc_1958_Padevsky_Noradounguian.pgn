@@ -1,0 +1,18 @@
+[Event "Munich olm prel"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "8"]
+[White "Padevsky, Nikola"]
+[Black "Noradounguian, Georges"]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "410de1cc"]
+[Epoch "Bishop"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8. Nf4
+c6 9. Bd3 Nbd7 10. g4 Re8 11. Qf3 Nf8 12. Rg1 c5 13. g5 Ne4 14. Ncxd5 Nxg5 15.
+Qg2 Nge6 16. Nxe7+ Qxe7 17. d5 Qf6 18. dxe6 Nxe6 19. Nxe6 Bxe6 20. Qg5 1-0

@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "De Coverly, Roger D"]
+[Black "Grisogono, N."]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "9e7dfdbd"]
+[Epoch "Bishop"]
+[WhiteID "405213"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 d6 5. Nge2 c6 6. O-O Bg4 7. h3 Be6 8. d4
+Bb6 9. Bg5 h6 10. Be3 O-O 11. Qd2 Nh7 12. f4 exf4 13. Rxf4 g5 14. Rf2 f6 15. d5
+Bf7 16. Bxb6 axb6 17. Nd4 Kg7 18. Nf5+ Kg6 19. Bf3 h5 20. h4 Rh8 21. Bxh5+ Kxh5
+22. g4+ Kg6 23. h5# 1-0

@@ -1,0 +1,17 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Bokuchava, Alexander"]
+[Black "Pietzsch, Wolfgang"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "dbe302ba"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. f4 c5 6. Bd2 Nf5 7. Nf3 cxd4 8. Nb5
+Bc5 9. Bd3 Nc6 10. a3 O-O 11. b4 Bb6 12. g4 Ne3 13. Qe2 f6 14. Bxe3 dxe3 15.
+O-O-O fxe5 16. fxe5 a6 17. Nd6 Rxf3 18. Qxf3 Nxe5 0-1

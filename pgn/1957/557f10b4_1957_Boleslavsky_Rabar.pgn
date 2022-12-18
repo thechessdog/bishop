@@ -1,0 +1,18 @@
+[Event "Wenen etc"]
+[Site "Wenen etc"]
+[Date "1957.08.01"]
+[Round "6"]
+[White "Boleslavsky, Isaac"]
+[Black "Rabar, Braslav"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "557f10b4"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "HRV"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. a3 Bxc3+ 7. bxc3 c5 8.
+cxd5 exd5 9. Be2 Ne4 10. Bb2 cxd4 11. Nxd4 Nd7 12. O-O Nb6 13. a4 Re8 14. a5
+Nc4 15. Bxc4 dxc4 16. Qe2 Qg5 1/2-1/2

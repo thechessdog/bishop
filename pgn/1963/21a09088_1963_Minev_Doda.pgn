@@ -1,0 +1,19 @@
+[Event "Halle zt"]
+[Site "Halle zt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Minev, Nikolay Nikolaev"]
+[Black "Doda, Zbigniew"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "21a09088"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+[WhiteCountry "BGR"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Be2 d6 6. O-O Nf6 7. d3 O-O 8. Qe1
+Bd7 9. Qh4 Nd4 10. Nxd4 cxd4 11. Nd1 Ba4 12. c4 dxc3 13. Nxc3 Bc6 14. f5 Rc8
+15. Kh1 b5 16. Bg5 Re8 17. Bd1 b4 18. Ne2 Nd7 19. Bb3 Nf6 20. Nf4 gxf5 21. Nh5
+Nxh5 22. Qxh5 Kh8 23. Bxf7 Rg8 24. Bg6 Bh6 25. Bxh7 Rxg5 26. Qxh6 1-0

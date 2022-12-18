@@ -1,0 +1,22 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gerusel, Mathias"]
+[Black "Conan, Claude"]
+[Result "1-0"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "46b66678"]
+[Epoch "Bishop"]
+[BlackID "26077272"]
+[BlackCountry "FRA"]
+[WhiteID "4601122"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 b6 6. f3 d5 7. cxd5 exd5 8.
+e3 O-O 9. Bd3 c5 10. Ne2 Re8 11. O-O Nc6 12. Ng3 Bb7 13. Ra2 Rc8 14. Re2 Na5
+15. e4 dxe4 16. fxe4 cxd4 17. Bg5 dxc3 18. Bxf6 gxf6 19. Nh5 f5 20. Rxf5 Re6
+21. Ref2 Qd4 22. Rxf7 Rg6 23. Qf3 Qd6 24. Qf5 c2 25. Bxc2 Qxa3 26. Qd7 Qa1+ 27.
+Bd1 Ba6 28. Qxc8+ 1-0

@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Stean, Michael F"]
+[Black "Lengyel, Levente"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "c3ad5e48"]
+[Epoch "Bishop"]
+[WhiteID "400130"]
+[WhiteCountry "ENG"]
+[BlackCountry "HUN"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. a3 a6 6. Rb1 Rb8 7. b4 cxb4 8. axb4
+b5 9. cxb5 axb5 10. e4 e5 11. Nge2 Nge7 12. O-O O-O 13. d3 d6 1/2-1/2

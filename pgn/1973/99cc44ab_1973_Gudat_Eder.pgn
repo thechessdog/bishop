@@ -1,0 +1,17 @@
+[Event "corr ch12-FRG"]
+[Site "corr ch12-FRG"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Gudat, A."]
+[Black "Eder, G."]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "99cc44ab"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. Nf3 Bg4 5. exd5 cxd5 6. h3 Bxf3 7. Qxf3 Nc6
+8. Bf4 e6 9. O-O-O Qf6 10. Nb5 Rd8 11. c4 Bh6 12. Be3 Qxf3 13. gxf3 dxc4
+14. d5 Bxe3+ 15. fxe3 exd5 16. Nc7+ Kf8 1/2-1/2
+

@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Gipslis, Aivars"]
+[Black "Borisenko, Georgy K"]
+[Result "1-0"]
+[ECO "C96"]
+[Opening "Ruy Lopez"]
+[Variation "closed (10...c5)"]
+[HashCode "d38f7f28"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+[BlackCountry "UZB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Bb7 12. Nbd2 cxd4 13. cxd4 Qc7 14. Nf1 Rac8 15.
+Re2 d5 16. dxe5 Nxe4 17. Ng3 f5 18. exf6 Bxf6 19. Bxe4 dxe4 20. Nxe4 Bxe4 21.
+Rxe4 Nc4 22. Rb1 Qf7 23. Re2 Rfd8 24. Qf1 Qg6 25. Bf4 Rd3 26. Bg3 Rcd8 27. b3
+Nd6 28. Rd1 Rxd1 29. Qxd1 Ne4 30. Qe1 Nc3 31. Rd2 Rxd2 32. Qxd2 Qb1+ 33. Kh2
+Qxa2 34. Qd7 h6 35. Qe6+ Kh7 36. Ne5 Qd2 37. Nd7 Qd4 38. Qe8 Qe4 39. Nxf6+ gxf6
+40. Qf7+ 1-0

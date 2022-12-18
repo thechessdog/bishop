@@ -1,0 +1,21 @@
+[Event "Hoechst ch-GER"]
+[Site "Hoechst ch-GER"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Schwarz"]
+[Black "Darga, Klaus"]
+[Result "0-1"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "0265873c"]
+[Epoch "Bishop"]
+[BlackID "4600150"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O b6 10. Re1 Ne8 11. e4 Bg4 12. h3 Bxf3 13. Qxf3 Nd7 14. Qe2 a6 15. a4
+Nc7 16. Bd2 Re8 17. f4 Rb8 18. Rab1 b5 19. axb5 axb5 20. Qg4 b4 21. Nd1 Nb5 22.
+Nf2 Nd4 23. b3 Ra8 24. Bc1 Nc2 25. Rf1 Ra2 26. Nd3 Bd4+ 27. Kh1 Nf6 28. Qf3
+Nxe4 29. f5 Qd7 30. fxg6 hxg6 31. g4 Na3 32. Rb2 Bxb2 33. Nxb2 Nb5 34. Kh2 Nd4
+35. Qd3 Nc3 36. Rf6 Re2 37. Qg3 Ne4 0-1

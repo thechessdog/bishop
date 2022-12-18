@@ -1,0 +1,23 @@
+[Event "Nyborg"]
+[Site "Nyborg"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Lemvig, Mogens"]
+[Black "Andersen, Soren"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "1ae2df12"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7
+8. Qe2 Nf6 9. Rd1 O-O 10. Bf4 Nh5 11. Bxd6 Bxd6 12. Nb5 Bxh2+ 13. Kxh2 Qf6
+14. e5 Qh6 15. Kg1 Nf4 16. Qd2 a6 17. Nd6 b5 18. Bd3 Ne7 19. Be4 Ned5 20.
+g3 f5 21. Bxd5 Nxd5 22. Qxh6 gxh6 23. Nd4 Bd7 24. N4xf5 exf5 25. Rxd5 Be6
+26. Rd4 Ra7 27. f4 Rc7 28. Rd2 Kh8 29. Kf2 Kg7 30. Ke3 Rb8 31. Rh2 Rc6 32.
+Rah1 Rh8 33. Rxh6 Bd7 34. R6h5 Rc2 35. R1h2 Rxh2 36. Rxh2 Kg6 37. Kd4 Be6
+38. a3 h5 39. Kc5 Rg8 40. Kb6 Kh6 41. Rh3 Ra8 42. b4 Kg6 43. Rh2 Bd5 44.
+Rc2 Be6 45. Rc7 h4 46. gxh4 Rh8 47. h5+ Rxh5 48. Kxa6 Rh3 49. Nxb5 Rf3 50.
+Rc6 1-0
+

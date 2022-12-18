@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Furman, Semyon"]
+[Black "Shamkovich, Leonid"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "3e3a76e4"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O Nc6 7. d5 Nb8 8. h3
+c6 9. a4 Nbd7 10. Re1 Nc5 11. Bf1 e5 12. b4 Ncxe4 13. Nxe4 Nxe4 14. Rxe4 f5 15.
+Bg5 Qe8 16. Re1 h6 17. dxc6 hxg5 18. Qxd6 e4 19. Bc4+ Kh8 20. Nxg5 Qxc6 21. Qf4
+Bxa1 22. Ne6 Kg8 23. Qh6 Rf7 24. Rxa1 Qxc4 25. Qxg6+ Kh8 26. Qh6+ Kg8 27. Ra3
+f4 28. Nxf4 e3 29. Rxe3 Qxf4 30. Re8+ Rf8 31. Qxf4 Rxe8 32. Qc7 b6 33. h4 Be6
+34. h5 Kf8 35. h6 Bf7 36. Qd6+ 1-0

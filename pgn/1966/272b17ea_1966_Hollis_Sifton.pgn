@@ -1,0 +1,19 @@
+[Event "England"]
+[Site "England"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Hollis, A."]
+[Black "Sifton, It"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Alapin's defence deferred"]
+[HashCode "272b17ea"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bb4 5. c3 Ba5 6. O-O Nge7 7. d4 exd4
+8. cxd4 d5 9. exd5 Qxd5 10. Nc3 Bxc3 11. bxc3 Bg4 12. c4 Qh5 13. Bxc6+ bxc6
+14. Re1 Bxf3 15. gxf3 Rd8 16. Ba3 Rd7 17. Rb1 O-O 18. Kh1 Rxd4 19. Qxd4
+Qxf3+ 20. Kg1 Qxa3 21. Qe3 Qxe3 22. Rxe3 Ng6 23. Ra3 Ne5 24. Rxa6 g5 25.
+Ra7 h5 26. Rab7 Nxc4 27. a4 Kg7 28. Rb8 Rxb8 29. Rxb8 Kf6 30. Ra8 1-0
+

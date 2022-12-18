@@ -1,0 +1,18 @@
+[Event "USA op"]
+[Site "Chicago"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Tisdall, Jonathan D"]
+[Black "Winslow, Elliott C"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "4d421ec0"]
+[Epoch "Bishop"]
+[WhiteID "1500066"]
+[WhiteCountry "NOR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. e5 dxe5 11. fxe5 Bc5 12. Be3 Nc6 13. exf6 Bxd4 14. fxg7 Bxe3+
+15. Kh1 Rg8 16. Qh5 Rxg7 17. Qf3 Na5 18. Ne4 Qd4 0-1

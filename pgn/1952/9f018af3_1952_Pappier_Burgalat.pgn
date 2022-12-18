@@ -1,0 +1,17 @@
+[Event "Rosario"]
+[Site "Rosario"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Pappier, Carlos German"]
+[Black "Burgalat, Francisco"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "9f018af3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Bxc3+
+8. Nxc3 b6 9. Bg5 O-O 10. Be2 Ba6 11. cxd5 Bxe2 12. Qxe2 exd5 13. O-O Nc6
+14. Bxf6 Qxf6 15. Nxd5 Qg5 16. Ne3 Nxd4 17. Qg4 1/2-1/2
+

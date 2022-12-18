@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Nikitin, Aleksander S"]
+[Black "Baranov"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "82ed7b1f"]
+[Epoch "Bishop"]
+[WhiteID "4103173"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. d4 Qh4+ 6. Ke2 Bg4+ 7. Nf3 cxd5 8.
+Nxd5 Bxf3+ 9. gxf3 Bd6 10. Qe1 Qh6 11. Kd1+ Kf8 12. Bxf4 Bxf4 13. Qb4+ Qd6 14.
+Qxb7 Ne7 15. Nxf4 Qxf4 16. Qxa8 1-0

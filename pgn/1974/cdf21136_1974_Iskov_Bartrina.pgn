@@ -1,0 +1,19 @@
+[Event "Olot"]
+[Site "Olot"]
+[Date "1974.01.01"]
+[Round "8"]
+[White "Iskov, Gert"]
+[Black "Bartrina, Modesto"]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "cdf21136"]
+[Epoch "Bishop"]
+[WhiteID "1400398"]
+[BlackID "2201003"]
+[WhiteCountry "DEN"]
+[BlackCountry "ESP"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 g6 5. d4 exd4 6. Nxd4 Ne5 7. Bf4 Qe7 8.
+Ndb5 Nf3# 0-1

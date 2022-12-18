@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Frithiof, M."]
+[Black "Sokolovski, M."]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "f5a2ed8b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 exd4 6. e5 d5 7. exf6 dxc4
+8. fxg7 Rg8 9. Bg5 Qd5 10. Nc3 Qf5 11. Ne4 Rxg7 12. Nh4 Qxe4 13. Re1 Qxe1+
+14. Qxe1+ Be6 15. Bf6 Rg8 16. Rd1 Kd7 17. Bxd4 Bxd4 18. c3 Bd5 19. cxd4
+Rae8 20. Qc3 Rg4 21. Qh3 f5 22. f3 Rxd4 23. Qxf5+ Be6 24. Rxd4+ Nxd4 25.
+Qxh7+ Re7 26. Qe4 Nc6 27. Ng6 Re8 28. Ne5+ Nxe5 29. Qxe5 Bf7 30. Qd4+ Kc8
+31. Qxa7 Bd5 32. Qd4 c6 33. h4 Rg8 34. Kf2 Rg6 35. Qh8+ Rg8 36. Qf6 Kc7 37.
+h5 1-0
+

@@ -1,0 +1,25 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Radulov, Ivan"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "51422e44"]
+[Epoch "Bishop"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d4 cxd4 7. cxd4 exd4 8.
+Bf4 a6 9. Ba4 b5 10. Bb3 d6 11. Ng5 Ra7 12. a4 h6 13. Nf3 b4 14. Nbd2 g5 15.
+Bg3 Bg4 16. h3 Bh5 17. Nc4 Bxf3 18. Qxf3 Ne5 19. Bxe5 Bxe5 20. a5 Qf6 21. Ba4+
+Kf8 22. Qb3 Ne7 23. Qxb4 Kg7 24. Ra3 Qf4 25. Nxe5 Qxe5 26. Rd3 d5 27. Qxd4 Qxd4
+28. Rxd4 dxe4 29. Rxe4 Rb8 30. b3 Rc7 31. Rd1 Nf5 32. b4 Rc3 33. Rd5 Kg6 34. b5
+axb5 35. Bxb5 Ra3 36. Bd3 Kf6 37. Re1 Ng7 38. Rd6+ Ne6 39. Bc4 Re8 40. a6 Re7
+41. Rb6 Ra4 42. Bb3 Ra5 43. g4 Rc5 44. Kg2 Ra5 45. Kg3 Rc5 46. Re3 Ra5 47. f3
+Rc5 48. Re2 Rcc7 49. Bd5 Ra7 50. Re4 Re8 51. f4 gxf4+ 52. Rxf4+ Kg6 53. Re4 Kf6
+54. Re3 Ree7 55. Rb7 Rc7 56. Bxe6 1-0

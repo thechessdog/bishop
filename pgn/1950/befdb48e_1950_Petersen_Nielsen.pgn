@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Petersen, Svend"]
+[Black "Nielsen, Julius"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto with ...Nc6"]
+[HashCode "befdb48e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nc6 7. d5 Nb8 8.
+O-O e5 9. e4 Nh5 10. Ne1 Qe8 11. Nd3 f5 12. c5 Nf6 13. cxd6 cxd6 14. Qb3
+fxe4 15. Bxe4 b6 16. Nb4 Na6 17. Bg2 Nc5 18. Qc4 a5 19. Nc6 Ba6 20. Nb5 Qf7
+21. b4 axb4 22. Nxb4 Bxb5 23. Qxb5 Nb3 24. Rb1 Nd4 25. Qd3 Nd7 26. Bb2 Nc5
+27. Qd1 Nf3+ 28. Kh1 e4 29. Bxf3 exf3 30. Bxg7 Qxg7 31. Re1 Ra3 32. Qc1 Rc3
+33. Qg5 Qd4 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Stockigt, R."]
+[Black "Walther, J."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "188904b2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 a6 9. Bb3 Qc7 10. O-O-O O-O 11. Rhg1 b5 12. g4 b4 13. Nxc6 Qxc6 14.
+Nd5 Nxd5 15. exd5 Qc7 16. dxe6 Bxe6 17. Kb1 a5 18. Bxe6 fxe6 19. g5 e5 20.
+Qg4 Qc8 21. Qe4 Qf5 22. Qd5+ Qf7 23. Qd2 g6 24. h4 Qf3 25. h5 Qxh5 26. Qd5+
+Kg7 27. f4 Qh3 28. Rde1 Rac8 29. fxe5 Qf5 30. Bd4 1-0
+

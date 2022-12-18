@@ -1,0 +1,23 @@
+[Event "ACM New York"]
+[Site "ACM New York"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Biit, J."]
+[Black "Chess 3 0"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "edf43d65"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Bxc3+ 5. bxc3 Nc6 6. d5 Ne7 7. dxe6
+fxe6 8. Rb1 Nc6 9. Bd3 Qe7 10. Nf3 e5 11. Bf5 e4 12. Nd4 Qc5 13. Rb5 Qxc4
+14. Qb3 Qxb3 15. axb3 Nxd4 16. exd4 O-O 17. O-O a6 18. Rc5 d6 19. Bxc8 dxc5
+20. Be6+ Kh8 21. dxc5 Rae8 22. Bc4 Ng4 23. Be2 Ne5 24. Be3 g6 25. Rd1 Rf7
+26. Rd4 Nc6 27. Rd2 Kg7 28. Bc4 Rff8 29. Rd7+ Re7 30. Rxe7+ Nxe7 31. Bd4+
+Kh6 32. Be5 Rc8 33. h4 c6 34. Be6 Re8 35. Bf7 Rd8 36. Bc4 Rd1+ 37. Kh2 Nd5
+38. g4 g5 39. hxg5+ Kxg5 40. Kh3 Nf4+ 41. Bxf4+ Kxf4 42. Be2 Rd2 43. Bf1
+Rxf2 44. Bc4 Rf3+ 45. Kh4 Rxc3 46. Bg8 e3 47. Bc4 Rxc4 48. bxc4 e2 49. g5
+e1=Q+ 50. Kh5 Qh1# 0-1
+

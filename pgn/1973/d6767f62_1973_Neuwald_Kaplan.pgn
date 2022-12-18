@@ -1,0 +1,18 @@
+[Event "Sao Paulo"]
+[Site "Sao Paulo"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Neuwald, L."]
+[Black "Kaplan, Julio"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "d6767f62"]
+[Epoch "Bishop"]
+[BlackID "2000326"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. a3 O-O 10. f4 Bb7 11. e5 dxe5 12. fxe5 Bc5 13. Be3 Nd5 14. Nxd5 Bxd5 15.
+Qe1 Bxd4 16. Bxd4 Bxb3 17. Bc5 Bd5 18. Qg3 Nd7 0-1

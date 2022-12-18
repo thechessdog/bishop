@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Van den Berg, Carel Benjamin"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "be7c7490"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "NLD"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Qh4 8.
+Bf4 Nf6 9. Qd2 h6 10. O-O Nbd7 11. Bb3 Be7 12. a4 a5 13. Bc7 b6 14. Nf4 Bh7 15.
+Ngh5 Nxh5 0-1

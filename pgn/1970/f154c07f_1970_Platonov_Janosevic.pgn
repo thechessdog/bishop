@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1970.01.01"]
+[Round "15"]
+[White "Platonov, Igor"]
+[Black "Janosevic, Dragoljub"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "f154c07f"]
+[Epoch "Bishop"]
+[WhiteID "24197190"]
+[WhiteCountry "UKR"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. f4 exf4 12. Rxf4 g5 13. Nf5 1/2-1/2

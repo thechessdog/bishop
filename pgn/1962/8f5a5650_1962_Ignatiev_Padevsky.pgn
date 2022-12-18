@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Ignatiev, Felix N"]
+[Black "Padevsky, Nikola"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "8f5a5650"]
+[Epoch "Bishop"]
+[BlackID "2900190"]
+[BlackCountry "FID"]
+[WhiteID "4103106"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Ne7 6. O-O Bg4 7. Nc3 c6 8.
+Re1 Nd7 9. Bg5 Nf6 10. Rb1 O-O 11. h3 Bh5 12. Be2 Re8 13. Bxf6 gxf6 14. Nh4
+Bxe2 15. Qxe2 Ng6 16. Qxe8+ Qxe8 17. Rxe8+ Rxe8 18. Nxg6 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Sagorovski, M."]
+[Black "Thiele, E."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "ca4a63fc"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. Qd3 Nbd7 5. e4 dxe4 6. Nxe4 Nxe4 7. Qxe4
+Qa5+ 8. Bd2 Qb6 9. O-O-O Nf6 10. Qd3 g6 11. f3 Bg7 12. Ne2 a5 13. c4 O-O
+14. g4 a4 15. Qa3 Re8 16. Be3 Qa5 17. Qc3 Qa6 18. Nf4 Nd7 19. Nd3 c5 20.
+Ne1 b6 21. Qd2 cxd4 22. Bxd4 e5 23. Bc3 Nc5 24. Nc2 Be6 25. Na3 Rac8 26. h4
+Qb7 27. Be2 e4 28. Bxg7 exf3 29. Bf6 Bxg4 30. Qh6 Ne6 31. Bd3 f2 32. h5
+Bxd1 33. Qxh7+ 1-0
+

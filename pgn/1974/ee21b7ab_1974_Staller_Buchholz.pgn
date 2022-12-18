@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Staller, Peter"]
+[Black "Buchholz, K."]
+[Result "1-0"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "ee21b7ab"]
+[Epoch "Bishop"]
+[WhiteID "4601378"]
+[WhiteCountry "GER"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Nf3 e4 5. Nd4 d5 6. cxd5 cxd5 7. d3 Bc5 8. Nb3
+Bb4 9. Bg2 O-O 10. O-O Bf5 11. Bg5 Bxc3 12. bxc3 Nbd7 13. Rc1 h6 14. Bf4 Re8
+15. Nd4 Bg6 16. Nb5 Nh5 17. Bc7 Qf6 18. dxe4 1-0

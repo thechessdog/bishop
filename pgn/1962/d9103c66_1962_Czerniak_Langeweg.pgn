@@ -1,0 +1,18 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Czerniak, Moshe"]
+[Black "Langeweg, Kick"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[HashCode "d9103c66"]
+[Epoch "Bishop"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+[WhiteCountry "ISR"]
+
+1. e4 c5 2. Nf3 Nc6 3. g3 g6 4. Bg2 Bg7 5. O-O e5 6. d3 Nge7 7. Bg5 d6 8. Qd2
+h6 9. Be3 f5 10. c3 g5 11. exf5 Nxf5 12. Na3 O-O 13. Nc2 Qe8 14. Qe2 b6 15. Nd2
+Be6 16. Rae1 Qd7 17. f4 Nxe3 18. Qxe3 gxf4 19. gxf4 Rae8 20. fxe5 Rxf1+ 1/2-1/2

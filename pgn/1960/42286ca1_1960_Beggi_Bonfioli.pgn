@@ -1,0 +1,20 @@
+[Event "Perugia ch"]
+[Site "Perugia ch"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Beggi"]
+[Black "Bonfioli"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "42286ca1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Bd3 O-O 6. Nf3 c5 7. O-O Nbd7 8.
+a3 cxd4 9. Nxd5 exd5 10. axb4 dxc4 11. Bxc4 dxe3 12. Bxe3 Qc7 13. Qc1 Nb6
+14. Bb3 Qxc1 15. Rfxc1 Nfd5 16. Bxb6 Nxb6 17. Rc7 Be6 18. Bxe6 fxe6 19.
+Rxb7 Nd5 20. Ng5 Rab8 21. Raxa7 Rxb7 22. Rxb7 h6 23. Ne4 Ra8 24. g3 Ra1+
+25. Kg2 Rb1 26. Nc3 Rxb2 27. Nxd5 exd5 28. Kf3 d4 29. b5 d3 30. b6 d2 31.
+Ke2 Kh7 32. Kd1 Kg6 33. h3 Kf6 34. Rb8 g6 35. b7 Kg7 36. f4 1-0
+

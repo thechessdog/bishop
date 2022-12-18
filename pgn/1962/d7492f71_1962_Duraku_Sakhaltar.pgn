@@ -1,0 +1,19 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Duraku"]
+[Black "Sakhaltar"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "d7492f71"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Nbd7 9. O-O-O Qc7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. a3 Bb7 14. h4
+Rc8 15. h5 d5 16. g6 hxg6 17. hxg6 Rxh1 18. gxf7+ Kxf7 19. Qxh1 Bxa3 20.
+Nxd5 Bxb2+ 21. Kxb2 exd5 22. Qh5+ Kg8 23. Bh3 Qc3+ 24. Kb1 Qb4+ 25. Nb3 Qe7
+26. exd5 Nf6 27. Qe5 Re8 28. Be6+ Kf8 29. Rh1 g6 30. Rh8+ Kg7 31. Rxe8 1-0
+

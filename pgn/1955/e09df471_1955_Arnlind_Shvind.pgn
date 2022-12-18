@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Arnlind"]
+[Black "Shvind"]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Reti-Tartakower variation"]
+[HashCode "e09df471"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. O-O Bg7
+8. Be3 O-O 9. Nb3 Be6 10. f4 Qc8 11. h3 a5 12. Bf3 a4 13. Nd4 Na5 14. Qe1
+Nc4 15. b3 axb3 16. cxb3 Nxe3 17. Qxe3 Bxh3 18. gxh3 Qxh3 19. Qd2 Ng4 20.
+Ndb5 Ra5 21. Qg2 Qxg2+ 22. Bxg2 Rc8 23. Rac1 Rxc3 24. Rxc3 Rxb5 25. Rc8+
+Bf8 26. Rfc1 f5 27. exf5 Rxf5 28. Bxb7 Kf7 29. Be4 Ra5 30. b4 Ra4 31. Rb1
+Bh6 32. Bc2 Ra7 33. Kg2 d5 34. Kf3 Nf6 35. b5 Nd7 36. a4 1-0
+

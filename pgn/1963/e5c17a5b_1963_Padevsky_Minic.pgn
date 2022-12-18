@@ -1,0 +1,22 @@
+[Event "Polanica Zdroj"]
+[Site "Polanica Zdroj"]
+[Date "1963.01.01"]
+[Round "3"]
+[White "Padevsky, Nikola"]
+[Black "Minic, Dragoljub"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "e5c17a5b"]
+[Epoch "Bishop"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. f4
+Bb7 9. f5 e5 10. Nde2 Nbd7 11. Ng3 Be7 12. Bg5 O-O 13. Bxf6 Nxf6 14. Nh5 Nxh5
+15. Qxh5 Rc8 16. Bd5 Bxd5 17. Nxd5 Rxc2 18. O-O Bf6 19. b3 h6 20. Rfc1 Rxc1+
+21. Rxc1 Bg5 22. Rc7 Be3+ 23. Kf1 b4 24. Rc8 Qxc8 25. Ne7+ Kh8 26. Nxc8 Rxc8
+27. Qxf7 Rc1+ 28. Ke2 Bf4 29. g3 Bg5 30. Qf8+ Kh7 31. Qxd6 Rc2+ 32. Kf3 Rxa2
+33. Qxe5 1-0

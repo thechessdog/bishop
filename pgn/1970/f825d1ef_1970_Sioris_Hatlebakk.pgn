@@ -1,0 +1,21 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Sioris"]
+[Black "Hatlebakk, Einar"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "f825d1ef"]
+[Epoch "Bishop"]
+[BlackID "1500309"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. h4 g4 6. Ng1 Qf6 7. Nc3 c6 8. Nge2
+Bh6 9. g3 fxg3 10. Nxg3 Bxc1 11. Qxc1 Qxd4 12. Qf4 Qe5 13. Qxe5+ dxe5 14. O-O-O
+Be6 15. h5 h6 16. Be2 Nd7 17. Nf5 Bxf5 18. exf5 Ngf6 19. Rdg1 Rg8 20. Rh4 Rg5
+21. Bxg4 Ke7 22. Nd1 Rag8 23. Ne3 e4 24. Rg2 Nd5 25. Bh3 N7f6 26. Re2 Rxh5 27.
+Rxh5 Nxh5 28. f6+ Nhxf6 29. Nf5+ Kf8 30. c4 Nf4 31. Re3 Rg1+ 32. Kc2 Rh1 33.
+Bg4 Nxg4 34. Rxe4 Rf1 0-1

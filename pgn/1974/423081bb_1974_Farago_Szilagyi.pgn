@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Szilagyi, Peter"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "423081bb"]
+[Epoch "Bishop"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "700355"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Qc2 g5 13. Nd1 g4 14. Ne3 Nh5 15. g3
+Qf6 16. f4 gxf3 17. Nxf3 Bh3 18. Rf2 Nxf3+ 19. Bxf3 Qg6 20. Ng2 Bd4 21. Nh4 Qf6
+22. Bxh5 Rxe4 23. Ng2 Rae8 24. Bf4 Qf5 25. g4 Qxf4 0-1

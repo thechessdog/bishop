@@ -1,0 +1,22 @@
+[Event "HUN-ch20"]
+[Site "Hungary"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Pogats, Jozsef Jr."]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "6ed3fde9"]
+[Epoch "Bishop"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "744450"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bb5 Bd7 12. a4 a6 13. Bd3 e5 14. Qc2 Rfe8
+15. e4 Bg4 16. Nxe5 Nxe5 17. dxe5 Qxe5 18. f4 Qc7 19. c4 Nd7 20. h3 Bh5 21. e5
+f6 22. Bxh7+ Kh8 23. Bb2 fxe5 24. fxe5 Nxe5 25. Rf5 Bf7 26. Raf1 Bg8 27. Rh5 g6
+28. Bxg6+ Kg7 1-0

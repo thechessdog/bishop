@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Chepukaitis, Genrik"]
+[Black "Tseitlin, Mikhail S"]
+[Result "0-1"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "88eea8ab"]
+[Epoch "Bishop"]
+[BlackCountry "BLR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 e5 7. d5 Nbd7 8. g4 Nc5
+9. f3 a5 10. Qd2 c6 11. O-O-O cxd5 12. cxd5 Bd7 13. Kb1 a4 14. Nge2 b5 15. Rc1
+b4 16. Nd1 Qa5 17. Rc4 Bb5 18. Rxb4 Bd3+ 19. Ka1 Nb3+ 20. Rxb3 axb3 21. Qxa5
+Rxa5 22. a3 Rb8 23. Nec3 Bc2 24. Nf2 Nxd5 25. exd5 Rxa3+ 26. bxa3 b2+ 27. Ka2
+b1=Q+ 0-1

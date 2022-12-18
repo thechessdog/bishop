@@ -1,0 +1,18 @@
+[Event "Kiev ch-URS"]
+[Site "Kiev ch-URS"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Flohr, Salo"]
+[Black "Kholmov, Ratmir D"]
+[Result "1/2-1/2"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "021fbc9a"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. Nf3 O-O 7. e3 Nxc5 8.
+Bd2 b6 9. Be2 Bb7 10. O-O Nce4 11. Nxe4 Bxe4 12. Bd3 Bxd3 13. Qxd3 Bxd2 14.
+Qxd2 d5 15. cxd5 Qxd5 16. Qxd5 Nxd5 1/2-1/2

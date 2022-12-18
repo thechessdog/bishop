@@ -1,0 +1,19 @@
+[Event "RSFSR ch"]
+[Site "RSFSR ch"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Grechkin, D."]
+[Black "Zagorovsky, Vladimir Pavlovich"]
+[Result "1-0"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, siesta variation"]
+[HashCode "e8687cee"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. d4 e4 8. O-O
+exf3 9. Qxf3 Qc8 10. Re1+ Ne7 11. h3 Kd8 12. Bb3 d5 13. Bg5 Be4 14. Rxe4 dxe4
+15. Qxe4 Nb8 16. Be6 Nd7 17. Nd2 h6 18. Bh4 g5 19. Bg3 a5 20. Be5 Rg8 21. Qh7
+Ra6 22. Bg4 Rgg6 23. Qf7 Rgf6 24. Bxf6 Rxf6 25. Qh7 Rf4 26. g3 Nf6 27. Qf7 Nxg4
+28. gxf4 Ng6 29. Qxg6 Nxf2 30. Qf6+ 1-0

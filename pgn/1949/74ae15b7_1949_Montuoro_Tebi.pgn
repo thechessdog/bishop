@@ -1,0 +1,20 @@
+[Event "Genova"]
+[Site "Genova"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Montuoro"]
+[Black "Tebi"]
+[Result "0-1"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer"]
+[HashCode "74ae15b7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Nd7 7. Bb5 Nxd4
+8. Qxd4 a6 9. Bc4 Qb6 10. Qd2 e6 11. Rd1 Qc5 12. Be2 Be7 13. Bxe7 Kxe7 14.
+b4 Qc7 15. Qg5+ Nf6 16. Rd3 Bd7 17. O-O h6 18. Qg3 Bc6 19. Rfd1 Rad8 20.
+Qe3 b6 21. a4 Bb7 22. Rd4 Rd7 23. Rc4 Qd8 24. a5 b5 25. Rcd4 Qc7 26. Bxb5
+axb5 27. Nxb5 Qxc2 28. Rc1 Qb2 29. Rxd6 Qxb4 30. e5 Nd5 31. Qd3 Rhd8 32. a6
+Bxa6 33. Rxa6 Nf4 34. Qf1 Qxb5 35. Qxb5 Rd1+ 36. Qf1 Rxc1 0-1
+

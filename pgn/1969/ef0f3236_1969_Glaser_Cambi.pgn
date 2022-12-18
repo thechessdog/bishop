@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Glaser"]
+[Black "Cambi"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "ef0f3236"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8.
+Nf3 cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nc3 O-O 13. a3 a6 14. Re1
+e5 15. dxe5 Ng4 16. Be3 d4 17. Bc4+ Kh8 18. Bxd4 Nxd4 19. Qxd4 Bc5 20. Qd5
+Bxf2+ 21. Kh1 Bxe1 22. Rxe1 Nf2+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Urbanec"]
+[Black "Smrcka"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "b34cbac1"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 cxd4 6. O-O Bc5 7. Nbd2 Nge7
+8. Nb3 Bb6 9. Bf4 Ng6 10. Bg3 Bd7 11. Re1 f6 12. exf6 gxf6 13. Nh4 Kf7 14.
+Qh5 Qg8 15. Bd6 Rd8 16. f4 Bc8 17. Ba3 f5 18. g4 Kg7 19. Kh1 Qf7 20. gxf5
+exf5 21. Rg1 Rhg8 22. Rg5 1-0
+

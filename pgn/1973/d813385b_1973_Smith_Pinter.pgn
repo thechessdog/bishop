@@ -1,0 +1,21 @@
+[Event "EU-ch U20 qual"]
+[Site "Groningen"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Smith, Richard"]
+[Black "Pinter, Jozsef"]
+[Result "0-1"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Botvinnik variation"]
+[HashCode "d813385b"]
+[Epoch "Bishop"]
+[WhiteID "150271793"]
+[BlackID "700045"]
+[WhiteCountry "USA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c5 7. dxc5 Be6 8. Nf3
+Qa5 9. Nd4 Nc6 10. Nb3 Qd8 11. cxd5 Nxd5 12. Nxd5 Bxd5 13. Qc2 Nb4 14. Qb1 Bxb3
+15. axb3 Qa5 16. Bc4 Nd3+ 17. Ke2 Nxc1+ 18. Rxc1 Rad8 19. e4 Kh8 20. Be3 f5 21.
+f4 e5 22. g3 exf4 0-1

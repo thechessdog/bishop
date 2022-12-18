@@ -1,0 +1,19 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1957.01.01"]
+[Round "14"]
+[White "Bogdanovic, Rajko"]
+[Black "Trifunovic, Petar"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "6b1a746e"]
+[Epoch "Bishop"]
+[WhiteID "14400316"]
+[WhiteCountry "BIH"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 d6 5. d4 Bd7 6. O-O Bg7 7. dxe5 dxe5 8. Bg5
+Nf6 9. Bxc6 Bxc6 10. Nxe5 Qxd1 11. Rxd1 Nxe4 12. Bf4 Nd6 13. Nxc6 bxc6 14. Nd2
+O-O-O 1/2-1/2

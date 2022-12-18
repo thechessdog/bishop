@@ -1,0 +1,17 @@
+[Event "Whitby"]
+[Site "Whitby"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Banks"]
+[Black "Kindler"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "626d3600"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. Qf3 Bh4 9. Bxd5 Bg4 10. Bxc6+ bxc6 11. Qa3 Nxe4 12. Qxe7+ Kxe7 13. g3
+Rf8+ 14. Kg1 Bh3 0-1
+

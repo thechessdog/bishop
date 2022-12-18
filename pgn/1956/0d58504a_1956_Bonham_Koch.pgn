@@ -1,0 +1,19 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Bonham, R."]
+[Black "Koch"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "0d58504a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Be3 O-O 9. Qb3 Qa5 10. Bc4 cxd4 11. Nxd4 Nd7 12. O-O Nc5 13. Qc2 Na4 14.
+Rab1 Bd7 15. Rxb7 Nb6 16. Bd3 Rfc8 17. Qe2 Rxc3 18. Nb3 Qa4 19. Nc5 Qc6 20.
+Rxd7 Nxd7 21. Bb5 Rxe3 22. fxe3 Qxc5 23. Bxd7 Bh6 24. Rd1 Bxe3+ 25. Kh1 Rb8
+26. Ba4 Rb4 27. Bb3 Rxe4 0-1
+

@@ -1,0 +1,20 @@
+[Event "POL-ch31"]
+[Site "Zielona Gora"]
+[Date "1974.??.??"]
+[Round "1"]
+[White "Maciejewski, Andrzej"]
+[Black "Pytel, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "83861ef1"]
+[Epoch "Bishop"]
+[WhiteID "1100181"]
+[BlackID "600199"]
+[WhiteCountry "POL"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Ne4 5. Bd3 Nxd2 6. Bxd2 c5 7. Nf3 cxd4 8.
+Nxd4 Qb6 9. Nb5 Nc6 10. Qe2 a6 11. Nd6+ Bxd6 12. exd6 O-O 13. O-O-O e5 14. f3
+Be6 15. g4 Rfd8 16. h4 1/2-1/2

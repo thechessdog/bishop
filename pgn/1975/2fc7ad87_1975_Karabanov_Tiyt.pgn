@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Karabanov"]
+[Black "Tiyt"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "2fc7ad87"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Nc3 Nxe4 6. Bxf7+ Kxf7 7. Ne5+
+Ke6 8. Qg4+ Kxe5 9. d4+ Kf6 10. Qxf4+ Kg6 11. Qxe4+ Kf7 12. O-O+ Bf6 13.
+Qd5+ Kf8 14. Bg5 h6 15. Bxf6 gxf6 16. Ne4 c6 17. Qh5 Ke7 18. Rxf6 Qg8 19.
+Qh4 Kd8 20. Rf8+ Kc7 21. Qd8# 1-0
+

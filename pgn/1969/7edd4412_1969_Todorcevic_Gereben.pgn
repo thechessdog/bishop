@@ -1,0 +1,22 @@
+[Event "Monaco"]
+[Site "Monaco"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Todorcevic, Miodrag"]
+[Black "Gereben, Erno"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "7edd4412"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteID "900060"]
+[WhiteCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. e5 c5 5. f4 cxd4 6. Nf3 Nc6 7. a3 Nh6 8. Bd3 Bc5
+9. b4 Bb6 10. O-O a5 11. b5 Ne7 12. a4 Nef5 13. Qe2 Ng4 14. Kh1 Nge3 15. Bxe3
+Nxe3 16. Re1 h6 17. Nbd2 g5 18. Nb3 gxf4 19. Rg1 Qc7 20. g3 fxg3 21. Rxg3 Bd7
+22. Nbxd4 Nc4 23. Bxc4 dxc4 24. c3 O-O-O 25. Nd2 Be8 26. Nxc4 Bc5 27. Nb3 b6
+28. Nxc5 Qxc5 29. Nd6+ Rxd6 30. exd6 Bd7 31. Qe4 Kb8 32. Qd4 Rc8 33. Qxc5 Rxc5
+34. Rg8+ Ka7 35. Rf1 1-0

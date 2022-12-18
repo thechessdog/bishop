@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Peljo, Kalevi"]
+[Black "Oksalahti, P."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "5b5de7bf"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 f5 8. Qh5+
+g6 9. Qh6 Bxg5 10. hxg5 Qe7 11. Nge2 c5 12. Nf4 Qf7 13. Nxg6 Rg8 14. Nf4 Nf8
+15. dxc5 Qc7 16. O-O-O Nbd7 17. Nxe6 Qc6 18. Nxf8 1-0

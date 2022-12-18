@@ -1,0 +1,19 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Hofmann, H."]
+[Black "Fluder, S."]
+[Result "1-0"]
+[ECO "D49"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Rabinovich variation"]
+[HashCode "0787e977"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. e3 Nbd7 5. Nf3 c6 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Ng4 12. Qa4 Bb7 13. Nbxd4 Qb6 14. O-O
+Bc5 15. h3 Nxf2 16. Rxf2 Bxf3 17. Rxf3 Bxd4+ 18. Kh1 Ra7 19. Be4 Ke7 20.
+Rb3 Qc5 21. Rd3 Bf2 22. Bg5+ f6 23. exf6+ gxf6 24. Bf4 Nb6 25. Qd1 e5 26.
+Qg4 Rf8 27. Bh6 Rf7 28. Rc3 1-0
+

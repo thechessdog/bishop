@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Strinitz, H."]
+[Black "Pfeiffer, Gerhard"]
+[Result "1-0"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "a5a6f570"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Ne2 Ba6 8. Ng3
+Nc6 9. e4 O-O 10. Bg5 h6 11. h4 cxd4 12. cxd4 hxg5 13. hxg5 g6 14. e5 Nh7 15.
+Qg4 Kg7 16. Rxh7+ Kxh7 17. Qh4+ Kg8 18. Bd3 Qe7 19. Kd2 f5 20. gxf6 Qh7 21. Qg5
+Ne7 22. Rh1 1-0

@@ -1,0 +1,29 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "12"]
+[White "Resende, Antonio Carlos"]
+[Black "Lagha, Khelil"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "baee28f7"]
+[Epoch "Bishop"]
+[WhiteID "2100266"]
+[WhiteCountry "BRA"]
+[BlackID "5500125"]
+[BlackCountry "TUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Be2
+cxd4 9. Nxd4 Nxd4 10. Bxd4 Bc5 11. Bxc5 Nxc5 12. Qd4 Qc7 13. O-O Nd7 14. Kh1 h5
+15. Rae1 Qc5 16. Qd2 Nb6 17. a3 Bd7 18. Bd3 g6 19. Qf2 Qxf2 20. Rxf2 Rc8 21.
+Rd1 Ke7 22. Kg1 Rc7 23. g3 Nc8 24. Ne2 b5 25. Nd4 Na7 26. h3 Nc6 27. Nxc6+ Bxc6
+28. c3 Rcc8 29. Kf1 Bd7 30. Ke2 Rhd8 31. Ke3 Rc6 32. g4 hxg4 33. hxg4 Rh8 34.
+Rdd2 Rh4 35. Kf3 Rc8 36. Rh2 Rch8 37. Kg3 Rxh2 38. Rxh2 Rxh2 39. Kxh2 a5 40. b3
+a4 41. bxa4 bxa4 42. Kg3 Kd8 43. Kf3 Kc7 44. Ke3 Kb6 45. Kd4 Bc6 46. f5 g5 47.
+c4 dxc4 48. Bxc4 Bd7 49. f6 Be8 50. Bd3 Bc6 51. Bc2 Kb5 52. Bd3+ Kb6 53. Bc4
+Bd7 54. Ba2 Kb5 55. Bb1 Bc6 56. Bc2 Be8 57. Bd3+ Kb6 58. Bh7 Bb5 59. Bg8 Be8
+60. Kc4 Bb5+ 61. Kb4 Be8 62. Bh7 Bc6 63. Bg6 Be8 64. Bc2 Bc6 65. Bxa4 Bxa4 66.
+Kxa4 Kc5 67. Ka5 Kd5 68. Kb6 Kxe5 69. a4 Kxf6 70. a5 Ke5 71. a6 Kf4 72. a7 Kxg4
+73. a8=Q Kg3 74. Qg8 g4 75. Qxf7 Kh2 76. Qh5+ Kg3 77. Kc5 1-0

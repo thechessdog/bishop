@@ -1,0 +1,17 @@
+[Event "Kiel"]
+[Site "Kiel"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Henningsen, John"]
+[Black "Henningsen"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "c6501256"]
+[Epoch "Bishop"]
+[WhiteID "1434071"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qg4 7. Qf2 e5 8.
+Nf3 Ne4 9. Nxe4 Qxe4 10. O-O-O Be7 11. Bd3 Qc6 12. Nxe5 Qf6 13. Nf3 Bg4 14. Bg5
+Qb6 15. Qe2 Qe6 16. Qd2 Qxa2 17. Bb5+ c6 18. Qd8+ Bxd8 19. Rxd8# 1-0

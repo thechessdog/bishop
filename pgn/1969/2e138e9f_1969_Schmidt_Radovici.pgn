@@ -1,0 +1,19 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1969.08.01"]
+[Round "12"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Radovici, Corvin"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "2e138e9f"]
+[Epoch "Bishop"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+[BlackCountry "ROU"]
+
+1. Nf3 d5 2. c4 c6 3. cxd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bb5
+Nd7 9. O-O Be7 10. Na4 Rc8 11. Rc1 O-O 12. Bxc6 Rxc6 13. Rxc6 bxc6 14. Ne5 Nxe5
+15. Bxe5 Qa5 1/2-1/2

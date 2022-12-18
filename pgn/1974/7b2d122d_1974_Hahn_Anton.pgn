@@ -1,0 +1,21 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hahn, K."]
+[Black "Anton, V."]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "7b2d122d"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. Ne2 Bd6 6. Nbc3 Nge7 7. a3 a6
+8. Be3 Be6 9. Qd2 Qd7 10. Ng3 O-O 11. Nce2 Nf5 12. O-O Nce7 13. Nf4 Bxf4
+14. Bxf4 Nh4 15. Bg5 Nhg6 16. Bf6 Qc6 17. f4 Bd7 18. Nh5 Bg4 19. Bxg7 Bxh5
+20. Bxf8 Nxf8 21. f5 Qf6 22. Qf4 Nc6 23. g4 Qxd4+ 24. Qxd4 Nxd4 25. gxh5
+Nd7 26. c3 Nc6 27. f6 Nce5 28. Bc2 Kh8 29. Rf5 Ng4 30. Re1 Rf8 31. h3 Ngxf6
+32. Ref1 Rg8+ 33. Kh1 Ne4 34. Bxe4 dxe4 35. Rxf7 Ne5 36. Re7 Nc6 37. Rxe4
+Rg3 38. Rf7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Fanano"]
+[Site "Fanano"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Toth, Bela"]
+[Black "Elson, J."]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "6f741eae"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 O-O 7. a3 Bxc3 8.
+Bxc3 Qe7 9. e3 e5 10. d5 Nd8 11. Bd3 Kh8 12. h3 b5 13. g4 bxc4 14. Bxc4 Bb7 15.
+O-O-O c6 16. e4 cxd5 17. Bxd5 Nxd5 18. exd5 Ne6 19. Qe4 Nc5 20. Qe3 Na4 21. Kb1
+Rfc8 22. Be1 Rab8 23. Bb4 Ba8 24. Rd2 Nb6 25. Qe4 Rc4 26. Qe2 Qf6 27. Rhd1 Rbc8
+28. Ne1 Nxd5 29. Rxd5 Bxd5 30. Rxd5 Rc1+ 31. Ka2 Qe6 32. Qd3 R8c5 0-1

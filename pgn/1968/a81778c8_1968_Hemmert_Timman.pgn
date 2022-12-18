@@ -1,0 +1,20 @@
+[Event "Plymouth"]
+[Site "Plymouth"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Hemmert, B."]
+[Black "Timman, Jan H"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "exchange variation"]
+[HashCode "a81778c8"]
+[Epoch "Bishop"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 7. Be3 Bg7 8. Be2
+O-O 9. Nf3 Nc6 10. h3 Bf5 11. Rc1 d5 12. c5 Nc4 13. Nxd5 Nxb2 14. Qb3 Be4 15.
+Qxb2 Bxd5 16. O-O Qc7 17. Rfd1 Rad8 18. Rd2 f5 19. g3 h6 20. h4 f4 21. gxf4 Qd7
+22. Kh2 Qf5 23. Ne5 Nxe5 24. dxe5 Be6 25. Rcd1 Rxd2 26. Rxd2 g5 27. Rd4 gxf4
+28. Rxf4 Bxe5 29. Bg4 Bxf4+ 0-1

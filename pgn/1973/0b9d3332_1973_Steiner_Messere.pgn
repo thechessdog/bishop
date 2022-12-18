@@ -1,0 +1,22 @@
+[Event "corr Potter mem"]
+[Site "corr Potter mem"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Steiner, Joseph"]
+[Black "Messere, Kenneth"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "Nd2 variation"]
+[HashCode "0b9d3332"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. Nf3 d6 8.
+Nd2 Qa5 9. Qb3 Nbd7 10. Nc4 Qc7 11. e4 Bg7 12. Be2 O-O 13. Rb1 Rfb8 14. Qc2
+Nb6 15. b3 Nxc4 16. bxc4 Rxb1 17. Nxb1 Nd7 18. O-O Qa7 19. h3 Bc8 20. Na3
+Qa4 21. Qxa4 Rxa4 22. Bd1 Ra8 23. Bb3 Nb6 24. Re1 Ba6 25. Re2 Bc8 26. Kf1
+Bd7 27. f3 h5 28. Rc2 Bf6 29. f4 Bg7 30. Nb5 Bf8 31. Be3 Na4 32. Kf2 Bg7
+33. Kf3 f5 34. e5 dxe5 35. fxe5 Bxe5 36. Bxa4 Rxa4 37. Bxc5 Kf7 38. a3 g5
+39. Bb4 g4+ 40. hxg4 hxg4+ 41. Ke3 Ra8 42. Nd4 Bxd4+ 43. Kxd4 e6 44. c5
+exd5 45. c6 Be6 46. Ke5 Rc8 47. Bd6 Re8 48. Rb2 Kg6 49. Rb8 1-0
+

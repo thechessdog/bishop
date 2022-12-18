@@ -1,0 +1,28 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gulko, Boris"]
+[Black "Lein, Anatoly"]
+[Result "1-0"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "a05e152e"]
+[Epoch "Bishop"]
+[BlackID "2000270"]
+[BlackCountry "USA"]
+[WhiteID "2000040"]
+[WhiteCountry "USA"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nf3 Nc6 5. Nc3 d6 6. O-O Nh6 7. e3 Nf5 8. g4
+Nh6 9. h3 f5 10. Nh2 e5 11. Nd5 O-O 12. d3 fxg4 13. hxg4 Qh4 14. f3 Bxg4 15.
+fxg4 e4 16. dxe4 Rxf1+ 17. Qxf1 Rf8 18. Nf4 g5 19. Qf2 Qxh2+ 20. Kxh2 Nxg4+ 21.
+Kg1 Nxf2 22. Kxf2 Nb4 23. Ke2 gxf4 24. exf4 Nc2 25. Rb1 Nd4+ 26. Kd3 Bh6 27. e5
+dxe5 28. fxe5 Bxc1 29. Bd5+ Kg7 30. Rxc1 h5 31. Rg1+ Kh6 32. Bxb7 Rb8 33. Bd5
+Rxb2 34. e6 Nf5 35. Rf1 Ne7 36. Rf7 Ng6 37. Rxa7 Rb8 38. Ke3 h4 39. Kf2 Rb2+
+40. Kf1 Rb1+ 41. Kf2 Rb2+ 42. Kf3 h3 43. Kg3 h2 44. a4 Rd2 45. Bh1 Kg5 46. a5
+Rd6 47. Rc7 Rxe6 48. Rxc5+ Kf6 49. Kxh2 Re2+ 50. Kg3 Ne5 51. Bd5 Ke7 52. Rb5
+Kd6 53. Kf4 Nd7 54. a6 Ra2 55. Bb7 Nb8 56. Rh5 Kc7 57. Rh6 Ra4 58. Ke5 Rxc4 59.
+Rh7+ Nd7+ 60. Ke6 Kb8 61. Rxd7 Ra4 62. Kd6 Ra1 63. Bc6 Rxa6 64. Rd8+ Ka7 65.
+Kc7 1-0

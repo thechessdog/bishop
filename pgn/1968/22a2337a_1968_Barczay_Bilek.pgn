@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Bilek, Istvan"]
+[Result "1/2-1/2"]
+[ECO "D13"]
+[Opening "QGD Slav"]
+[Variation "exchange variation"]
+[HashCode "22a2337a"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. Nf3 c6 3. c4 Nf6 4. cxd5 cxd5 5. Nc3 g6 6. Bf4 Bg7 7. e3 O-O 8. Bd3
+Nc6 9. O-O Nb4 10. Be5 Bg4 11. Be2 Nc6 12. h3 Bxf3 13. Bxf3 Nxe5 14. dxe5 Nd7
+15. Bxd5 Nxe5 16. Qb3 e6 1/2-1/2

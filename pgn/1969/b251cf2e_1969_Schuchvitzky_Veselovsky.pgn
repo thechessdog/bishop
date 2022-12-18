@@ -1,0 +1,19 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Schuchvitzky"]
+[Black "Veselovsky, Sergey"]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "b251cf2e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. Nf4 dxc4 8. Bxc4
+c5 9. d5 exd5 10. Nfxd5 Nxd5 11. Bxd5 Nd7 12. O-O Nf6 13. Bf3 Qc7 14. e4 Bd7
+15. g3 Bd6 16. Bg5 Be5 17. Bxf6 gxf6 18. Bg4 Rad8 19. Nd5 Qd6 20. Bxd7 Qxd7 21.
+Qe2 Kh8 22. Rad1 Qe6 23. Ne3 Bd4 24. Nf5 Rfe8 25. Qg4 Rg8 26. Qf3 Qe5 27. b3
+Qe6 28. a4 Qe5 29. Kg2 Rge8 30. Rfe1 Qe6 31. Re2 Rd7 32. Rd3 b6 33. Qh5 Red8
+34. g4 1-0

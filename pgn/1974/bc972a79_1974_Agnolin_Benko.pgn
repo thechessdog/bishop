@@ -1,0 +1,22 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Agnolin, Antonio"]
+[Black "Benko, Francisco"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "bc972a79"]
+[Epoch "Bishop"]
+[BlackID "101753"]
+[BlackCountry "HUN"]
+
+1. b3 d5 2. Bb2 Bf5 3. f4 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Be2 Bd6 7. O-O Bg4 8. Ne5
+Bxe2 9. Qxe2 O-O 10. d3 Qe7 11. a4 Ne8 12. Nd2 f6 13. Nxd7 Qxd7 14. Qg4 Bc5 15.
+Rae1 c6 16. Kh1 Rf7 17. Nf3 Nc7 18. Qh5 Qd6 19. Ne5 fxe5 20. Qxf7+ Kxf7 21.
+fxe5+ Kg8 22. exd6 Bxd6 23. Rf3 Re8 24. Ref1 e5 25. Rf7 h6 26. Rd7 Re6 27. Rff7
+Ne8 28. Rxb7 Bc5 29. e4 a5 30. h4 Bb4 31. c3 Bf8 32. Rfd7 dxe4 33. dxe4 Bc5 34.
+b4 Bf2 35. bxa5 Nd6 36. Rxg7+ Kf8 37. Ba3 c5 38. a6 Nxb7 39. axb7 Kxg7 40. b8=Q
+Bxh4 41. Bxc5 Kg6 42. Qg8+ 1-0

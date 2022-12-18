@@ -1,0 +1,16 @@
+[Event "corr FRG jub"]
+[Site "corr FRG jub"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Balogh, János"]
+[Black "Shamkovich, Leonid"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "53ce7f39"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. Nf4 dxc4 8. Bxc4
+c5 9. O-O a6 10. dxc5 Bxc5 11. Qxd8 Rxd8 12. b4 Bd6 1/2-1/2

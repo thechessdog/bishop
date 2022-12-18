@@ -1,0 +1,19 @@
+[Event "Netherlands tt"]
+[Site "Netherlands tt"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Roessel"]
+[Black "Grapperhaus"]
+[Result "1-0"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "059461f3"]
+[Epoch "Bishop"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 d5 6. cxd5 Nxd5 7. d4 Nc6
+8. e4 Nb6 9. d5 Nb8 10. Nc3 c6 11. Re1 e5 12. Qb3 Na6 13. Bg5 Qe8 14. Be3
+c5 15. Bf1 Bg4 16. Nd2 Qe7 17. Nb5 Bd7 18. Nxa7 Nxd5 19. exd5 Rxa7 20. Qb6
+Rfa8 21. Ne4 f5 22. Bg5 Qf8 23. Nf6+ Bxf6 24. Bxf6 e4 25. Bc3 Qf7 26. Bc4
+h6 27. b3 Kh7 28. d6 Be6 29. d7 Bxc4 30. d8=Q Rxd8 31. Qxd8 Qg8 32. Qb6 Qe6
+33. Qxa7 1-0
+

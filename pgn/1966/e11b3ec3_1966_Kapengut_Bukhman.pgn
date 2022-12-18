@@ -1,0 +1,20 @@
+[Event "Krasnodar"]
+[Site "Krasnodar"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Kapengut, Albert Z"]
+[Black "Bukhman, Eduard"]
+[Result "1/2-1/2"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, solid line"]
+[HashCode "e11b3ec3"]
+[Epoch "Bishop"]
+[WhiteID "13500058"]
+[WhiteCountry "USA"]
+[BlackID "4102088"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Rd1 exd4 11. cxd4 d5 12. exd5 Nxd5 13. Nc3 Be6 14. Qe4 Nf6
+15. Qxc6 Bd7 16. Qb7 Rb8 1/2-1/2

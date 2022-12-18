@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Neu, K."]
+[Black "Moeller, H."]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "87170d6f"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nh3 e6 8.
+Nf4 Bh7 9. Be2 Bd6 10. Ngh5 Kf8 11. Bc4 Nf6 12. O-O Nxh5 13. Qxh5 Qf6 14.
+Qg4 Bf5 15. Qg3 Be7 16. Nh5 Qg6 17. Qc7 e5 18. Ng3 Nd7 19. Be3 Bxh4 20.
+dxe5 Re8 21. Nxf5 Qxf5 22. e6 Ne5 23. Bc5+ Be7 24. Bxe7+ Rxe7 25. Qc8+ Re8
+26. e7+ 1-0
+

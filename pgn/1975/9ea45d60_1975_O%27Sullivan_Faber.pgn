@@ -1,0 +1,17 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "O'Sullivan"]
+[Black "Faber"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "9ea45d60"]
+[Epoch "Bishop"]
+
+1. Nf3 c5 2. d4 Nf6 3. c4 cxd4 4. Nxd4 e5 5. Nc2 d5 6. cxd5 Bc5 7. Nc3 O-O
+8. e3 Bf5 9. Bc4 Nbd7 10. Bb3 e4 11. Nd4 Bg4 12. Nde2 Ne5 13. h3 Nd3+ 14.
+Kf1 Bf5 15. Ng3 Bg6 16. Bc2 Bb4 17. Ngxe4 Nxe4 18. Nxe4 Bxe4 19. f3 Qh4 0-1
+

@@ -1,0 +1,21 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Klompus, G."]
+[Black "Baluev, I."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "95697f88"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1
+8. Rxd1 fxe5 9. Rd3 Bd6 10. Bg5 Nf6 11. Nbd2 O-O 12. c4 c5 13. Bxf6 Rxf6
+14. Ne1 Raf8 15. f3 Be6 16. Nc2 h5 17. Ne3 Rg6 18. Kf2 Kh7 19. Rb3 b6 20.
+Ra3 a5 21. Rd3 Rf7 22. Rd1 Bc8 23. Nb1 Bb7 24. Nc3 Bc6 25. Ncd5 Bf8 26. Nf5
+Re6 27. Nc3 g6 28. Ne3 Rd6 29. Rxd6 Bxd6 30. Nb5 Bxb5 31. cxb5 Kg7 32. Nc4
+Rf6 33. Rd5 Re6 34. f4 Kf6 35. fxe5+ Bxe5 36. Rxe5 Rxe5 37. Nxe5 Kxe5 38.
+Ke3 g5 39. a4 c4 40. h4 1-0
+

@@ -1,0 +1,22 @@
+[Event "FRG-ch"]
+[Site "Bad Prymont"]
+[Date "1961.10.16"]
+[Round "2"]
+[White "Pfeiffer, Gerhard"]
+[Black "Pfleger, Helmut, Dr."]
+[Result "1-0"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Haberditz variation"]
+[HashCode "a9f30705"]
+[Epoch "Bishop"]
+[WhiteID "1649027"]
+[BlackID "4600100"]
+[WhiteCountry "AUT"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 e6 7. bxc4 bxc4 8. Bxc4
+Nf6 9. O-O Bd6 10. Nc3 Nbd7 11. Rb1 Rb8 12. Qe2 a5 13. Bd3 O-O 14. e4 e5 15. d5
+Nc5 16. Bb5 Bc8 17. Nd2 Bd7 18. Rb2 Bxb5 19. axb5 Qd7 20. Nc4 a4 21. Bg5 Qg4
+22. Qxg4 Nxg4 23. Nxd6 cxd6 24. Be7 Rfc8 25. Bxd6 Ra8 26. b6 Nd3 27. Re2 Re8
+28. b7 Rad8 29. Rb1 1-0

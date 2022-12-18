@@ -1,0 +1,19 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Cortlever, Nicolaas"]
+[Black "Smout, Henk"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "4dd87ebb"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 g6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Bd3 Qxc5 8. Qe2
+Nc6 9. Be3 Qa5 10. O-O O-O 11. Kh1 Bg4 12. h3 Nh5 13. Qe1 Bxc3 14. bxc3 Bxf3
+15. Rxf3 e5 16. f5 d5 17. Bh6 Rfe8 18. Qh4 Qxc3 19. Raf1 Nd4 20. fxg6 hxg6 21.
+Rxf7 dxe4 22. Qg5 Re6 23. Rf8+ Rxf8 24. Rxf8+ Kh7 25. Rf7+ Kg8 26. Qd8+ Kxf7
+27. Qf8# 1-0

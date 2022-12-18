@@ -1,0 +1,18 @@
+[Event "Harrachov"]
+[Site "Harrachov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Van den Berg, AMJ."]
+[Black "Polgar, Istvan"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "chameleon variation"]
+[HashCode "ec6c47f4"]
+[Epoch "Bishop"]
+[BlackID "700215"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 e6 4. g3 d5 5. exd5 exd5 6. d3 Bg4 7. Bg2 Nf6 8. h3
+Bxe2 9. Qxe2+ Be7 10. Bg5 O-O 11. O-O d4 12. Bxf6 Bxf6 13. Nd5 Be5 14. Rfe1 g6
+15. Ne7+ Qxe7 16. Bxc6 Qc7 1/2-1/2

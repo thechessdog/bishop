@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Hartmann, B."]
+[Black "Laux, R."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "dccfc800"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Qg4 Kf8 8.
+Nf3 cxd4 9. Qxd4 Nc6 10. Qf4 a6 11. O-O-O b5 12. Bd3 Nc5 13. Be4 Qe8 14.
+Bh6 Kg8 15. Rh3 g6 16. Nh2 1-0
+

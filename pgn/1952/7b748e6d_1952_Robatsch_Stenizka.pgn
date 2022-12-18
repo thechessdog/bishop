@@ -1,0 +1,17 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Robatsch, Karl"]
+[Black "Stenizka"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "7b748e6d"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 d6 6. Bc4 e6 7. O-O Be7 8. Qe2
+Nf6 9. Rd1 Qc7 10. Bf4 e5 11. Bg5 Nc6 12. Nd5 Nxd5 13. exd5 Nd8 14. Nxe5 Bxg5
+15. Ng6+ Be7 16. Re1 hxg6 17. Bb5+ Nc6 18. Bxc6+ bxc6 0-1

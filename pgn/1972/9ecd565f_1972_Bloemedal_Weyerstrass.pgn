@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Bloemedal"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "9ecd565f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Nc3 d6 6. Nf3 a6 7. Bc4 b5 8. Bb3
+e6 9. a3 Be7 10. O-O Qc7 11. h3 h6 12. Nd4 Bb7 13. f3 Nxd4 14. Qxd4 d5 15. exd5
+Bc5 16. Qxc5 Qxc5+ 17. Kh1 Nxd5 18. Bxd5 Bxd5 19. Re1 O-O 20. Be3 Qc6 21. b4
+Bxf3 22. gxf3 Qxf3+ 23. Kh2 Rac8 24. Bc5 Rfd8 25. Ne4 f5 26. Re3 Qf4+ 27. Ng3
+Rd2+ 28. Kh1 Qf2 29. Re2 Qf3+ 30. Kh2 Rxe2+ 31. Nxe2 Qxe2+ 32. Kh1 Rd8 33. Rg1
+Rd2 0-1

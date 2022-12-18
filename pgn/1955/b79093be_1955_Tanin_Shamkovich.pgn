@@ -1,0 +1,19 @@
+[Event "corr ch-SU"]
+[Site "corr ch-SU"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Tanin"]
+[Black "Shamkovich, Leonid"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "b79093be"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 Qc7 7. Qe2 e6 8. f3
+b5 9. Bd3 e5 10. Nb3 Be6 11. a4 b4 12. Nd1 d5 13. Nf2 Be7 14. a5 O-O 15. Be3
+Nbd7 16. O-O Rfc8 17. g3 Qc6 18. Bg5 h6 19. Bxf6 Nxf6 20. f4 Qc7 21. fxe5 Qxe5
+22. exd5 Qxe2 23. Bxe2 Nxd5 24. Bd3 Ne3 25. Rfc1 Bf6 26. Rab1 Nc4 27. Be4 Rab8
+28. Nd3 Na3 29. bxa3 bxa3 30. Ra1 Bxb3 0-1

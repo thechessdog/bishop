@@ -1,0 +1,17 @@
+[Event "Belgium"]
+[Site "Belgium"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Lemaire"]
+[Black "Vantuyne"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "8acfa6e8"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Nbd7 5. cxd5 exd5 6. Qb3 c6 7. e4 Qa5
+8. e5 Ne4 9. Bd3 c5 10. Bxe4 dxe4 11. Ng5 c4 12. Qxc4 Nb6 13. Qxf7+ Kd8 14.
+Nxe4 1-0
+

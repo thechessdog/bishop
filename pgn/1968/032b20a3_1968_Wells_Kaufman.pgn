@@ -1,0 +1,21 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Wells, M."]
+[Black "Kaufman, Larry C"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "032b20a3"]
+[Epoch "Bishop"]
+[BlackID "2000555"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Ne2 e5 10. c3 f5 11. Be3 Kh8 12. h3 Be6 13. Qd2 Qd7 14. Rad1 Rad8 15.
+fxe5 Nxe5 16. Nxe5 Bxe5 17. d4 cxd4 18. cxd4 Bg7 19. d5 Bg8 20. Nf4 fxe4 21.
+Bxe4 Nf5 22. Bxf5 Rxf5 23. g4 Rff8 24. b3 b6 25. Rc1 Rde8 26. Kg2 Re4 27. Rc4
+Qe7 28. Ne6 Rxe6 29. dxe6 Qb7+ 30. Kg1 Rxf1+ 31. Kxf1 Qf3+ 32. Ke1 Bxe6 33. Rc7
+Qxh3 34. Qf2 Bxg4 35. Rxa7 Bc3+ 0-1

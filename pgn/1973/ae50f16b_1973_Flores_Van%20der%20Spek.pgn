@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Flores"]
+[Black "Van der Spek, H."]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Swiss cheese variation"]
+[HashCode "ae50f16b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6 6. Nc3 Bg7 7. Be3 Ne7 8.
+Qd2 O-O 9. Nb3 d5 10. Bh6 a5 11. a4 Nbc6 12. h4 dxe4 13. Bxg7 Kxg7 14. Nxe4
+h5 15. O-O-O e5 16. Qe3 Nd4 17. Bc4 Nef5 18. Qc3 Be6 19. Nxd4 Nxd4 20. Qg3
+Qb8 21. Bd3 b5 22. Nc5 bxa4 23. Rhe1 Bg4 24. f3 Bf5 25. Bxf5 Nxf5 26. Qg5
+Rc8 27. Rd5 Rxc5 28. Rxc5 Qb4 29. Rexe5 a3 30. bxa3 Qxa3+ 31. Kd1 Ra7 32.
+Rxf5 Qa1+ 33. Ke2 f6 34. Rxa5 1-0
+

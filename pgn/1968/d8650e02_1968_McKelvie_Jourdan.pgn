@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "McKelvie, N."]
+[Black "Jourdan, R."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "d8650e02"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nc6 8.
+Bc4 Be7 9. a4 O-O 10. O-O Qc7 11. Ba2 Bg4 12. h3 Bxf3 13. Qxf3 Nd4 14. Qd3
+Rac8 15. Rf2 Nc6 16. Qe2 Nb4 17. Bb3 Nd7 18. f5 Nc5 19. Nd5 Nxd5 20. Bxd5
+Nd7 21. c3 Nb6 22. Bb3 Nc4 23. Kh2 Qc5 24. f6 Bd8 25. Qg4 g6 26. Qh4 Kh8
+27. Bh6 Re8 28. Bg7+ Kg8 29. Bxc4 Qxc4 30. Qh6 Be7 31. fxe7 f5 32. Bf8 Qf7
+33. exf5 1-0
+

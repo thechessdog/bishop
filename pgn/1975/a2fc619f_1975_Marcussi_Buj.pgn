@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Marcussi, Bartolome"]
+[Black "Buj, Pablo"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "a2fc619f"]
+[Epoch "Bishop"]
+
+1. b3 Nf6 2. Bb2 b6 3. Nf3 Bb7 4. g3 g6 5. Bg2 Bg7 6. d3 d6 7. e4 e5 8. O-O
+O-O 9. Nbd2 c5 10. Ne1 Bc8 11. f4 Ng4 12. Qe2 Nc6 13. c3 Bd7 14. f5 h5 15.
+Nc4 Qe7 16. h3 Nf6 17. Ne3 Nh7 18. Nd5 Qd8 19. Bc1 Re8 20. g4 hxg4 21. Qxg4
+Ne7 22. Ne3 Kh8 23. Qg3 gxf5 24. exf5 Bc6 25. Qh4 Bxg2 26. N1xg2 Ng8 27.
+Qh5 Qe7 28. Nd5 0-1
+

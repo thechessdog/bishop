@@ -1,0 +1,20 @@
+[Event "JUG-22ch"]
+[Site "Kraljevo"]
+[Date "1967.??.??"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Sokolov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "0e17069d"]
+[Epoch "Bishop"]
+[WhiteID "950238"]
+[BlackID "904031"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. g3 g6 3. Bg2 Bg7 4. Nf3 Nc6 5. O-O d6 6. c3 e5 7. d3 Nge7 8. Be3
+O-O 9. d4 cxd4 10. cxd4 d5 11. Nc3 exd4 12. Nxd4 dxe4 13. Nxc6 Nxc6 14. Nxe4
+Bxb2 15. Rb1 Bg7 16. Qxd8 Rxd8 17. Nc5 1/2-1/2

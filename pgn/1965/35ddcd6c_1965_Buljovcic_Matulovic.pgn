@@ -1,0 +1,25 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1965.01.01"]
+[Round "5"]
+[White "Buljovcic, Ivan"]
+[Black "Matulovic, Milan"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "35ddcd6c"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. b3 O-O 10. Bb2 d6 11. Nce2 e5 12. Nxc6 bxc6 13. c4 a5 14. Nc3 Nd7 15.
+Ba3 Nb6 16. Qc2 Be6 17. Nd1 a4 18. Ne3 axb3 19. axb3 Rfb8 20. f4 exf4 21. gxf4
+Bf6 22. Bb2 Bxb2 23. Qxb2 Rxa1 24. Qxa1 f6 25. Nc2 c5 26. Qc3 Nc8 27. Re1 Ne7
+28. Na3 Bd7 29. Rd1 Ng6 30. Qg3 Qa5 31. Nb5 Bxb5 32. cxb5 Qxb5 33. Bf1 Qe8 34.
+Bc4+ Kh8 35. Bd5 Ne7 36. Qf3 h6 37. Bc4 Nc6 38. Rxd6 Nd4 39. Qe3 Nf5 40. Qxc5
+Nxd6 41. Qxd6 Ra8 42. Qd5 Qg6+ 43. Kf2 Ra2+ 44. Ke3 Qg1+ 45. Kd3 Qf1+ 46. Kc3
+Qe1+ 47. Kd4 Qf2+ 48. Kc3 Rc2+ 49. Kb4 Qb6+ 50. Ka3 Qa7+ 51. Kb4 Qb8+ 52. Kc5
+Rxh2 53. b4 Rc2 54. b5 Qf8+ 55. Kb6 Qc8 56. Bb3 Rc1 57. e5 Qc7+ 58. Ka6 Ra1+
+59. Ba2 Qb8 60. b6 Rxa2+ 0-1

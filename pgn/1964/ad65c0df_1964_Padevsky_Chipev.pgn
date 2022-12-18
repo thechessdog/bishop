@@ -1,0 +1,18 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Padevsky, Nikola"]
+[Black "Chipev"]
+[Result "1-0"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "ad65c0df"]
+[Epoch "Bishop"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. d4 exd4 10. e5 Ne4 11. Nxd4 Nxe5 12. Bf4 Bd6 13. Bxd5 Bg4 14. Qc2 Nxf2
+15. Bxe5 Bxe5 16. Rxe5 Qf6 17. Qxf2 Qxe5 18. Bxa8 1-0

@@ -1,0 +1,16 @@
+[Event "corr FRG jub"]
+[Site "corr FRG jub"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Richter, L."]
+[Black "Oechslein, Rainer"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "7b735600"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 Bb4+ 7. Nc3 Nge7
+8. Ng5 Ne5 9. Qb3 d5 10. Bb5+ c6 11. Qxb4 cxb5 12. O-O O-O 13. Rad1 N7c6 14.
+Qxb5 Qxg5 15. f4 Qh5 16. fxe5 d4 17. e6 1/2-1/2

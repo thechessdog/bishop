@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Gibbs, P."]
+[Black "Borwell, A."]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "f704c9cf"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. f4 a6 7. Be3 Bb4 8.
+Qg4 Kf8 9. Bd3 d5 10. e5 Qa5 11. O-O Nh6 12. Qh3 Bxc3 13. Nb3 Qd8 14. bxc3
+b6 15. g4 Ng8 16. Nd4 Nge7 17. Rab1 Nxd4 18. Bxd4 Rb8 19. f5 Nc6 20. f6 h6
+21. fxg7+ Kxg7 22. Qh5 Qc7 23. Rf6 Nd8 24. Rbf1 Kf8 25. g5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Mosionzhik, Ilya"]
+[Black "Kots, Yury Isakovich"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "44de35b2"]
+[Epoch "Bishop"]
+[WhiteID "4132840"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 d6 5. d4 Bd7 6. dxe5 Nxe5 7. Nxe5 dxe5 8.
+O-O Bc5 9. Bxd7+ Qxd7 10. Rd1 Qc6 11. Nc3 O-O 12. Bg5 h6 13. Bxf6 Qxf6 14. Nd5
+Qc6 15. b4 Bd6 16. Rd3 Rfd8 17. Rad1 1/2-1/2

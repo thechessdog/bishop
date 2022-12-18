@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Elkes"]
+[Black "Goldsberry"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "b23898c3"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 O-O 7. Bd2 Nc6
+8. Nxc6 dxc6 9. O-O e5 10. a3 Bc5 11. Kh1 Ng4 12. Qe2 Qh4 0-1
+

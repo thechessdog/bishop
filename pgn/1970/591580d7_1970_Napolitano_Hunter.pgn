@@ -1,0 +1,16 @@
+[Event "corr FRG jub"]
+[Site "corr FRG jub"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Napolitano, Mariano"]
+[Black "Hunter, C."]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "591580d7"]
+[Epoch "Bishop"]
+[WhiteCountry "ITA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qa4+ Bd7 6. Qxd4 exd5 7. e3 Nc6 8.
+Nf3 Nxd4 0-1

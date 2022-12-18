@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Dommes, Vladimir"]
+[Black "Rovner, Dmitry"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "77a1a2d8"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 Ne7 8.
+Bd3 c4 9. Be2 Bd7 10. a4 Qa5 11. O-O Bxa4 12. Ba3 Nbc6 13. Qd2 b5 14. Nh4
+Ng6 15. Nf3 f6 16. Rfe1 fxe5 17. Ng5 exd4 18. Nxe6 Qxc3 19. Qg5 b4 20. Bh5
+Kd7 21. Qxd5+ Kc8 22. Qd6 1-0
+

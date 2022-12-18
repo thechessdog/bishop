@@ -1,0 +1,18 @@
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Pountzaz"]
+[Black "Averkin, Orest N"]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "bde96f9f"]
+[Epoch "Bishop"]
+[BlackCountry "MDA"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6 8.
+Bd3 c5 9. d5 Nb4 10. a3 b5 11. Nxb5 Nxd3+ 12. Qxd3 Nxe4 13. Qxe4 Qa5+ 14. Nc3
+Bxc3+ 15. Bd2 Bxd2+ 16. Nxd2 Rb8 17. O-O-O Bf5 18. Qc4 Rb5 19. g4 Rfb8 20. gxf5
+Rxb2 21. Qd3 Ra2 22. Nb1 Qb6 0-1

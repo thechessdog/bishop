@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Barendregt, Johan Teunis"]
+[Black "Darga, Klaus"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "baafef23"]
+[Epoch "Bishop"]
+[BlackID "4600150"]
+[BlackCountry "GER"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 e6 3. b4 cxb4 4. d4 Nf6 5. Bd3 d5 6. e5 Ne4 7. Qe2 Bd7 8. O-O
+Bc6 9. a3 Na6 10. Rd1 Be7 11. Bxa6 bxa6 12. axb4 Bb5 13. Qe1 Rc8 14. c3 O-O 15.
+Bb2 f6 16. Nfd2 Nxd2 17. Nxd2 fxe5 18. Qxe5 Rf6 19. Qe3 Bd6 20. g3 Qe8 21. f4
+Qg6 22. Kh1 Bd3 23. Nf3 Be4 24. Rd2 Qg4 25. Rf2 Bxf4 26. gxf4 Rxf4 0-1

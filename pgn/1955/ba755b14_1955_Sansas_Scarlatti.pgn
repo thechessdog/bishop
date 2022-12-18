@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Sansas"]
+[Black "Scarlatti"]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "ba755b14"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 Nbd7 8.
+Qd2 Re8 9. g4 Qa5 10. h4 h5 11. O-O-O Ne5 12. Bxf6 Bxf6 13. gxh5 gxh5 14.
+f4 Ng4 15. Nf3 Bxc3 16. bxc3 Bd7 17. f5 Rab8 18. Rg1 b5 19. Rxg4+ hxg4 20.
+Qg5+ Kf8 21. Qh6+ Kg8 22. Qg5+ 1/2-1/2
+

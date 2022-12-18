@@ -1,0 +1,16 @@
+[Event "corr Argentina"]
+[Site "corr Argentina"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Anaya"]
+[Black "De Aguilar, J."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "3f0d3a47"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 Nf6 6. Nc3 Ng4 7. Nh3 Ne5
+8. Nf2 c6 9. Bb3 Bg4 10. Qe1 Bc5 11. Ncd1 f3 12. g3 Qh3+ 13. Nxh3 Bxh3# 0-1
+

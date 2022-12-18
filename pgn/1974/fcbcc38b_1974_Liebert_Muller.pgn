@@ -1,0 +1,18 @@
+[Event "Halle"]
+[Site "Halle"]
+[Date "1974.06.01"]
+[Round "1"]
+[White "Liebert, H."]
+[Black "Mueller, Karsten, Dr."]
+[Result "0-1"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, 9.Bg5"]
+[HashCode "fcbcc38b"]
+[Epoch "Bishop"]
+
+1. c4 e6 2. Nf3 d5 3. g3 c5 4. Bg2 Nc6 5. cxd5 exd5 6. d4 Nf6 7. O-O Be7 8. Nc3
+O-O 9. Bg5 Be6 10. dxc5 Bxc5 11. Na4 Bb6 12. Nxb6 axb6 13. Be3 Re8 14. Bd4 Ne4
+15. Re1 Bg4 16. b3 b5 17. a3 Qd7 18. Qd3 b4 19. axb4 Nxb4 20. Qb1 Rxa1 21. Bxa1
+Bxf3 22. exf3 Nc5 23. Rd1 Re2 24. Bc3 Nca6 25. f4 Qc6 26. Rc1 Na2 27. Bxd5 Qe8
+28. Qf5 Nxc1 0-1

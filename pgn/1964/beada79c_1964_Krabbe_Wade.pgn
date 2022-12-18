@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1964.01.01"]
+[Round "3"]
+[White "Krabbe, Tim"]
+[Black "Wade, Robert Graham"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "beada79c"]
+[Epoch "Bishop"]
+[WhiteID "1000969"]
+[WhiteCountry "NED"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 h5 7. Bf4 Qb6 8.
+Qd3 Na6 9. c3 Nc7 10. O-O-O Nd5 11. Bd2 Bg4 12. f3 Be6 13. Ne2 O-O-O 14. Nf4
+Nxf4 15. Bxf4 Bxc4 16. Qxc4 e6 17. Rhe1 Bd6 18. Bxd6 Rxd6 19. f4 Rd5 20. f5 Re8
+21. fxe6 fxe6 22. Qd3 Rg5 23. Qh3 f5 24. Re5 Qd8 25. Rde1 Qf6 26. Qf3 h4 27.
+Qf2 Rgg8 28. d5 Qg5+ 29. Kb1 cxd5 30. Qxa7 Qxg2 31. c4 dxc4 32. Rd1 Re7 33.
+Rc5+ Rc7 34. Qa8# 1-0

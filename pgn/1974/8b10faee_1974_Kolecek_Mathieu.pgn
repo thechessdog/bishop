@@ -1,0 +1,17 @@
+[Event "corr Bething mem"]
+[Site "corr Bething mem"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kolecek"]
+[Black "Mathieu"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "8b10faee"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 b5 4. Bxg8 Rxg8 5. Nxe5 Qf6 6. d4 d6 7. Nf3 fxe4
+8. Qe2 d5 9. Qxb5+ c6 10. Qe2 Bd6 11. Bg5 Qf5 12. Qe3 h6 13. Bh4 Bf4 14.
+Qa3 g5 15. Nxg5 Bxg5 16. Bg3 h5 17. Qb3 Bf4 18. O-O Qg6 19. Nc3 h4 20. Ne2
+Bh3 0-1
+

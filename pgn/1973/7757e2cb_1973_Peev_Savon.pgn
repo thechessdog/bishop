@@ -1,0 +1,22 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Peev, Peicho Chonev"]
+[Black "Savon, Vladimir"]
+[Result "0-1"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "7757e2cb"]
+[Epoch "Bishop"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+[WhiteCountry "BGR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. g3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O Nbd7 10. Nd2 a6 11. a4 Rb8 12. Nc4 Ne8 13. h3 Nb6 14. Na3 Bd7 15. a5
+Nc8 16. Nc4 Bb5 17. Qb3 Bxc4 18. Qxc4 Nc7 19. Bd2 b5 20. axb6 Nxb6 21. Qd3 Re8
+22. e3 Nd7 23. Rfb1 Ne5 24. Qe2 Rb3 25. f4 Nd7 26. Qd1 Qb8 27. e4 c4 28. Ra4
+Bxc3 29. Bxc3 Nb5 30. Rc1 Nxc3 31. Rxc3 Rxc3 32. bxc3 Qb3 33. Qa1 Nc5 34. Rb4
+Qc2 35. Rxc4 Nd3 36. Qf1 Rb8 37. Qf3 Rb2 38. Rc8+ Kg7 39. f5 Ne5 0-1

@@ -1,0 +1,23 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Klompus"]
+[Black "Aratovsky, N."]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "e4d4b16d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nc6
+8. h4 O-O 9. h5 Nxd4 10. Bxd4 Qa5 11. hxg6 hxg6 12. Kf1 Be6 13. Qc1 Qb4 14.
+Be3 Rfc8 15. a3 Qa5 16. Bh6 Bh8 17. Rh4 Rxc3 18. Bd2 Nxe4 19. Rxe4 Qd5 20.
+Bxc3 Qxe4 21. Bxh8 Kxh8 22. Bf3 Qe5 23. Kg1 Kg7 24. c3 Rh8 25. g3 Bd5 26.
+Qd1 Qe1+ 27. Kg2 Bxf3+ 28. Kxf3 Qe5 29. Qd3 d5 30. Rd1 e6 31. Qd4 Qxd4 32.
+Rxd4 Rc8 33. Ke3 Kf6 34. Ra4 a6 35. Rb4 b5 36. Rf4+ Ke7 37. Rh4 g5 38. Rh6
+a5 39. Kd3 b4 40. axb4 axb4 41. Rh1 bxc3 42. bxc3 Kf6 43. Ra1 Rc7 44. Ra4
+Kf5 45. f3 f6 46. Ra6 Rc4 47. Rb6 g4 48. f4 Ra4 49. Rb1 Ra2 50. Rg1 Rf2 51.
+Kd4 Rf3 0-1
+

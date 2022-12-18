@@ -1,0 +1,17 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Grassi"]
+[Black "Porreca"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[HashCode "92d338f8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 d6 6. Be3 Bb6 7. Qd2 Qe7 8.
+h3 O-O 9. g4 Nd4 10. Nh2 Be6 11. O-O-O Ba5 12. g5 Nh5 13. Kb1 b5 14. Bxe6
+Qxe6 15. Rdg1 g6 16. Ng4 Nf3 17. Qd1 Nxg1 18. Nd5 f5 19. gxf6 c6 0-1
+

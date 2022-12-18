@@ -1,0 +1,16 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Kuzaj"]
+[Black "Rhodin"]
+[Result "0-1"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "32426893"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 Nxc3 9. Ng5 Nxe2+ 0-1
+

@@ -1,0 +1,21 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Paroulek"]
+[Black "Weiner"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "09dde053"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8.
+Bxc4 b6 9. a3 Bxc3 10. bxc3 Ba6 11. Bxa6 Nxa6 12. Qe2 Qc8 13. Ne5 Nb8 14.
+Bb2 Nc6 15. f4 Ne4 16. Rac1 f5 17. Rfd1 Nxe5 18. dxe5 c4 19. Rd4 Rd8 20. g4
+b5 21. gxf5 exf5 22. Rcd1 Qc7 23. Qh5 g6 24. Qh4 Rxd4 25. exd4 Kh8 26. Qh3
+Rd8 27. Qe3 Rd5 28. h4 a5 29. Rc1 Qd8 30. Qh3 h5 31. Rc2 Kh7 32. Rc1 b4 33.
+axb4 axb4 34. Ra1 bxc3 35. Bxc3 Rxd4 36. Ra7+ Kh6 37. e6 Qb6 38. Qe3 Nxc3
+39. e7 Rd1+ 40. Kf2 Ne4+ 0-1
+

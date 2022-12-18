@@ -1,0 +1,17 @@
+[Event "Washington"]
+[Site "Washington"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Utz"]
+[Black "Conner, P."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Labourdonnais variation"]
+[HashCode "0625d89e"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. f4 c5 3. Nf3 Nc6 4. Nc3 d5 5. d4 dxe4 6. Nxe4 Nxd4 7. Be3 Nxf3+
+8. Qxf3 Qa5+ 9. Nc3 Nf6 10. Bb5+ Bd7 11. Bxd7+ Nxd7 12. Qxb7 Rb8 13. Qc6
+Rxb2 14. O-O-O 1-0
+

@@ -1,0 +1,20 @@
+[Event "Mar del Plata zt"]
+[Site "Mar del Plata zt"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Wexler, Bernardo"]
+[Black "Pinzon Solis, Felipe"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "1277c9d0"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "PER"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. Re1 c6 11. Nc2 Nb6 12. Ne3 Be6 13. Qd3 Qe7 14. b3 Nfd7 15.
+Ba3 Nc5 16. Qc2 Rad8 17. Rad1 Bc8 18. Nf1 Bg4 19. Rd2 h5 20. f3 Bc8 21. Red1
+Qe5 22. Ne2 Qf6 23. f4 Bg4 24. e5 Qf5 25. Qxf5 gxf5 26. Bxc5 Nc8 27. Ba3 Bxe2
+28. Rxe2 dxe5 29. Rxd8 Rxd8 30. fxe5 Rd1 31. Bh3 Nb6 32. Bxf5 1-0

@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Lohr, S."]
+[Black "Reithel, D."]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "ccdf2e83"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. d3 d5 6. exd5 O-O 7. Bxf4 b5
+8. Bb3 Re8 9. O-O Nxd5 10. Bg3 Ne3 11. Bxf7+ Kxf7 12. Ng5+ Kg8 13. Qf3 Nxf1
+14. Qf7+ Kh8 15. Bxc7 Qd4+ 16. Kh1 Rf8 17. Qxe7 Ng3+ 18. hxg3 Rf1+ 19. Kh2
+Qg1# 0-1
+

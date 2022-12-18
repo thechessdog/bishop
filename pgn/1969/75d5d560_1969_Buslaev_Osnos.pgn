@@ -1,0 +1,20 @@
+[Event "URS-chT"]
+[Site "Grozny"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Buslaev, Alexander"]
+[Black "Osnos, Vyacheslav"]
+[Result "0-1"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "75d5d560"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 c5 6. Be2 Ne4 7. Qc2 f5 8. O-O
+Bxc3 9. bxc3 b6 10. Nd2 Nxd2 11. Qxd2 Nc6 12. Bf3 Bb7 13. dxc5 bxc5 14. Rd1 Rf7
+15. Rb1 Qc8 16. Qb2 Ba6 17. Qa3 Rb8 18. Rxb8 Nxb8 19. Rd6 Kf8 20. e4 f4 21. h4
+Ke7 22. e5 Rf5 23. Rd4 h6 24. Be4 Kf7 25. Bxf5 cxd4 26. Bd3 Bxc4 27. Bxc4 Qxc4
+28. Qxa7 Qxc3 29. Ba3 Qe1+ 30. Kh2 Qxf2 31. Qb7 Qxh4+ 32. Kg1 Qe1+ 33. Kh2 Qg3+
+34. Kh1 Qxa3 35. Qxb8 Qxa2 36. Qd6 Qd5 0-1

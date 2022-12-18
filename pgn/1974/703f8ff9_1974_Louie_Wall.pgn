@@ -1,0 +1,16 @@
+[Event "Guam"]
+[Site "Guam"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Louie, Tom"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "703f8ff9"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Bf4 e5 5. Nxe5 Nxe5 6. Bxe5 Qa5+ 7. Nd2 Qxe5
+0-1

@@ -1,0 +1,21 @@
+[Event "corr USCCC1"]
+[Site "corr USCCC1"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Wendling, R."]
+[Black "Hickman, H."]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "c1262487"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 Bg4 6. c5 N6d7 7. Be2 e6
+8. h3 Bxf3 9. Bxf3 c6 10. O-O Be7 11. Bf4 O-O 12. Re1 Nf6 13. Nc3 Nbd7 14.
+b4 Nd5 15. Nxd5 exd5 16. b5 Re8 17. bxc6 bxc6 18. Qa4 Qc8 19. Be2 Nf8 20.
+Ba6 Qd7 21. Rab1 Bf6 22. Red1 Ne6 23. Rb7 Qc8 24. Bd6 Ng5 25. Rc7 Nxh3+ 26.
+gxh3 Qxh3 27. Bf1 Qg4+ 28. Bg2 Re2 29. Qxc6 Rae8 30. Qd7 R2e6 31. Rf1 h5
+32. Be5 R8e7 33. Qd8+ Kh7 34. Rxe7 Bxe7 35. Qxd5 Rg6 36. Kh1 Qh4+ 37. Bh2
+Rg4 38. f4 1-0
+

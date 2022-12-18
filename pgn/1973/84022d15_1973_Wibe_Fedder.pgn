@@ -1,0 +1,21 @@
+[Event "Ribe"]
+[Site "Ribe"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Wibe, Terje"]
+[Black "Fedder, Steen"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "84022d15"]
+[Epoch "Bishop"]
+[BlackID "1400126"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Bg5
+Be7 9. Qf3 Qb6 10. O-O-O Nbd7 11. Rhe1 O-O 12. Qg3 Nc5 13. Re3 Bb7 14. Qh4 Rfc8
+15. Rg3 Nxb3+ 16. axb3 Kf8 17. f4 Rxc3 18. Rxc3 Bxe4 19. f5 exf5 20. Qf2 Qa5
+21. Kb1 b4 22. Rc4 h6 23. Bd2 d5 24. Rc6 Ng4 25. Qg3 Qd8 26. h3 Bh4 27. Bxb4+
+Kg8 28. Qc3 Ne5 29. Nxf5 Qe8 30. Nxh4 Nxc6 31. Bc5 a5 32. Nf3 Nb4 33. Bxb4 axb4
+34. Qxb4 Qc8 35. Nd4 Bxg2 36. h4 0-1

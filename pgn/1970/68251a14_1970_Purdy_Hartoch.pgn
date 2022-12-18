@@ -1,0 +1,19 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "14"]
+[White "Purdy, Cecil John Seddon"]
+[Black "Hartoch, Robert G"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "68251a14"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 a6 11. a4 Nbd7 12. Qc2 Rb8 13. h3 Qc7 14. f4 c4 15.
+Nxc4 b5 16. axb5 axb5 17. Ne3 b4 18. Nb5 Qxc2 19. Nxc2 Nxe4 20. Rf3 Nd2 21. Re3
+Rxe3 22. Nxe3 Nb3 23. Rb1 Ba6 24. Nc3 bxc3 25. Bxa6 Nxc1 26. Rxc1 cxb2 27. Rb1
+Bd4 28. Kf2 Rb3 29. Ke2 Rxe3+ 30. Kd2 Nc5 31. Bc4 Ne4+ 32. Kc2 Rc3+ 0-1

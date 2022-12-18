@@ -1,0 +1,17 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Veresov, Gavril"]
+[Black "Smolianow"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "cb26ea6c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. dxc5 Qa5 7. Qh5 e6
+8. O-O-O f5 9. Bb5+ Nc6 10. g4 a6 11. Bxc6+ bxc6 12. gxf5 exf5 13. Nge2
+Qxc5 14. Nd4 Rb8 15. Rhe1 Bd7 16. Nxe4 fxe4 17. Rxe4+ Kd8 18. Qxf7 Kc8 19.
+Nb5 Bh6+ 20. Kb1 Rxb5 21. Rxd7 Qh5 22. Rc7+ Kb8 23. Rb7+ 1-0
+

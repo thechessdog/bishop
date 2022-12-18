@@ -1,0 +1,24 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Doerner, Charles"]
+[Black "German, Eugenio Maciel"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "a492c8ec"]
+[Epoch "Bishop"]
+[BlackCountry "BRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. f3 O-O 8. e4
+Ne8 9. Be3 d6 10. Ne2 Nc6 11. f4 Ba6 12. Ng1 Na5 13. Qa4 Nf6 14. Bd3 Qd7 15.
+Qxd7 Nxd7 16. Nf3 Bxc4 17. Bxc4 Nxc4 18. Ke2 Nf6 19. Kd3 Nxe3 20. Kxe3 Rac8 21.
+Rhc1 Rc6 22. c4 Rc7 23. h3 Rfc8 24. e5 cxd4+ 25. Kxd4 Nd7 26. exd6 Rc6 27. Ne5
+Rxd6+ 28. Ke3 Nc5 29. Rd1 Rcd8 30. Ke2 Na4 31. Rxd6 Rxd6 32. Ke3 Nc5 33. a4 f6
+34. Nf3 Rd3+ 35. Ke2 Rc3 36. Nd2 Rc2 37. Ra3 a5 38. Ke3 Kf7 39. g3 h6 40. g4
+Ke7 41. h4 Kf7 42. g5 h5 43. Ke2 Rb2 44. Ke3 Rb4 45. Kd4 Rxa4 46. Rxa4 Nxa4 47.
+Ne4 Kg6 48. Nd6 Nc5 49. Nc8 Nd7 50. Ne7+ Kf7 51. Nc6 e5+ 52. Ke4 exf4 53. gxf6
+gxf6 54. Nd4 Ne5 55. Kxf4 Nxc4 56. Ke4 Nd6+ 57. Kd5 Ke7 58. Ne2 a4 59. Kd4 b5
+60. Kc3 f5 61. Kb4 Ke6 62. Nf4+ Ke5 63. Nxh5 f4 64. Ka3 Ne8 0-1

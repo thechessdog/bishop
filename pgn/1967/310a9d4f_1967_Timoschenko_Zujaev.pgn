@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Timoschenko"]
+[Black "Zujaev"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit, Bardeleben variation"]
+[HashCode "310a9d4f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 Bb4 6. Bc4 Nf6 7. O-O
+Bxc3 8. bxc3 d5 9. exd5 Ne7 10. Re1 O-O 11. Ba3 Re8 12. Qb3 Nf5 13. d6
+Rxe1+ 14. Rxe1 Nxd6 15. Bxd6 Qxd6 16. Ng5 Bg4 17. Bxf7+ Kh8 18. Bg6 Qd5 19.
+Qxd5 Nxd5 20. Bxh7 Nxc3 21. Bg6 Kg8 22. f3 Bd7 23. Re7 Rd8 24. Nf7 Kf8 25.
+Re3 Nd5 26. Re5 1-0
+

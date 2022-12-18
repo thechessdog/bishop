@@ -1,0 +1,19 @@
+[Event "BUL-ch"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "6"]
+[White "Ermenkov, Evgenij"]
+[Black "Kirov, Nino"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "1ce40aa0"]
+[Epoch "Bishop"]
+[WhiteID "2900106"]
+[WhiteCountry "FID"]
+[BlackCountry "BGR"]
+
+1. Nf3 d5 2. b3 f6 3. d4 Bg4 4. e3 e6 5. Bb5+ c6 6. Be2 Bb4+ 7. c3 Bd6 8. Ba3
+Bxa3 9. Nxa3 Bxf3 10. gxf3 Ne7 11. Nc2 f5 12. f4 g6 13. Nb4 h5 14. Nd3 Nd7 15.
+b4 b5 16. a4 a6 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Schaffer, J."]
+[Black "Bader, H."]
+[Result "0-1"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "afd72db4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 Nxc3 9. Qxc3 f5 10. h4 d6 11. Ng5 Bxg2 12. Kxg2 Qd7 13. Qf3 c6 14. d5
+Bxg5 15. hxg5 cxd5 16. cxd5 e5 17. Qd3 f4 18. Rh1 Qf5 19. Qxf5 Rxf5 20.
+gxf4 exf4 21. Kf3 Nd7 22. Bxf4 Raf8 23. e3 Rxg5 24. Rad1 Rgf5 25. Ke4 g6
+26. Bxd6 Nf6+ 27. Kd3 Rxd5+ 28. Ke2 Rxd1 29. Rxd1 Rd8 30. Rd4 Ne8 31. Be5
+Rxd4 32. Bxd4 Kf7 33. a4 Nd6 34. Kd3 Nf5 35. Be5 Ke6 36. Bc7 Nd6 37. e4 g5
+38. Bd8 h6 39. b4 Ne8 40. f4 gxf4 41. Bh4 Nf6 42. a5 bxa5 43. bxa5 a6 44.
+Be1 h5 45. Bf2 Ng4 46. Be1 Ne5+ 47. Ke2 Ng6 48. Bf2 Kf6 49. Bd4+ Kg5 50.
+Kf3 Nh4+ 51. Kf2 Kg4 52. Bb6 Ng6 53. Bc7 Nf8 54. Bd6 Ne6 55. Kg2 Ng5 56. e5
+Kf5 57. Bc7 Ne6 58. Bb8 Ke4 59. Kf2 f3 60. Kg3 h4+ 61. Kh2 Nf4 0-1
+

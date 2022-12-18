@@ -1,0 +1,17 @@
+[Event "Mar del Plata open"]
+[Site "Mar del Plata open"]
+[Date "1973.01.01"]
+[Round "4"]
+[White "Salas, Horacio"]
+[Black "Cilurzo, Miguel"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "1a7270dc"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. f4 e6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 Nc6 6. Bb5 Bd7 7. O-O Qb6 8. Be3
+Nxd4 9. Bxd7+ Kxd7 10. Bxd4 Qc6 11. Nc3 Be7 12. Bxg7 Nf6 13. Bxh8 Rxh8 14. e5
+Rg8 15. Qf3 Qc5+ 16. Kh1 Ne8 17. Qxb7+ Nc7 18. Ne4 Qxc2 19. Rf2 Qa4 20. exd6
+Bxd6 21. Nf6+ 1-0

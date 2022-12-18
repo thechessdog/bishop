@@ -1,0 +1,17 @@
+[Event "Swiss "]
+[Site "Kharkov ch-URS"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Nikitin, Yury M"]
+[Black "Dvorietzky, Mark I"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "00e226ac"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nc6 7. O-O e5 8. d5
+Ne7 9. b4 a5 10. bxa5 Rxa5 11. Nd2 Nd7 12. Nb3 Ra8 13. e4 f5 14. a4 b6 15. exf5
+Nxf5 16. Bd2 Nd4 17. Be3 Nc5 18. Nxc5 bxc5 19. Bxd4 exd4 20. Nb5 Bf5 21. Re1
+Qd7 22. Ra2 d3 1/2-1/2

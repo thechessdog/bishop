@@ -1,0 +1,26 @@
+[Event "Prague tm"]
+[Site "Prague"]
+[Date "1955.01.26"]
+[Round "2"]
+[White "Makarczyk, Kazimierz"]
+[Black "Cucka, Josef"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "0fd0de59"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8.
+c5 b6 9. b4 O-O 10. Ng3 bxc5 11. bxc5 Nc6 12. Bb5 Bd7 13. O-O Ne4 14. Ncxe4
+dxe4 15. Qa4 Qc7 16. Nxe4 a6 17. Bxc6 Bxc6 18. Qc2 Rad8 19. Bb2 f5 20. Nd6
+Bxg2 21. Kxg2 Bxd6 22. Qb3 Qc6+ 23. d5 Qxc5 24. dxe6 Rb8 25. Qc3 Rf6 26.
+Qxc5 Rg6+ 27. Kh1 Bxc5 28. Be5 Re8 29. f4 Rexe6 30. Rfd1 Bd6 31. Bxd6 Rxd6
+32. Rac1 Rxd1+ 33. Rxd1 Rg4 34. Rf1 Kf7 35. Rf3 Rg6 36. h3 Rd6 37. Kg2 Rd4
+38. Kg3 Ra4 39. Rd3 Ke6 40. Kf3 Ke7 41. Kg3 Ke6 42. h4 h5 43. Kf3 a5 44.
+Ke3 Re4+ 45. Kf3 Rc4 46. Ke3 a4 47. Kf3 Rc1 48. Re3+ Kd6 49. Rd3+ Kc6 50.
+Ke3 Kc5 51. Kf3 Ra1 52. Rd7 Rxa3+ 53. Kg2 Ra2+ 54. Kg3 Ra1 55. Kg2 a3 56.
+Rxg7 a2 57. Ra7 Kd4 58. Ra8 Ke4 59. Ra4+ Ke3 60. Kh2 Kf3 61. Ra3+ Kg4 62.
+Rg3+ Kxh4 63. Ra3 Kg4 64. Kg2 Kxf4 65. Ra4+ Kg5 66. Ra5 h4 67. Kh2 Kg4 68.
+Ra3 f4 69. Ra4 Kf5 70. Ra3 Ke5 71. Ra8 f3 0-1
+

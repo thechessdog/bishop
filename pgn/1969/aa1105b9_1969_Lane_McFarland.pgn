@@ -1,0 +1,15 @@
+[Event "corr BDGW1"]
+[Site "corr BDGW1"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Lane, AV."]
+[Black "McFarland, KV."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "aa1105b9"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. g4 Bg6 6. g5 Nh5 7. fxe4 e6 8.
+Be2 1-0
+

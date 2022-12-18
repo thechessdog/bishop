@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Altmeyer, H."]
+[Black "Dahlhaus, F."]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "ba5f57ea"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 Nc6 9. Be3 cxd4 10. cxd4 O-O 11. O-O Bg4 12. f3 Na5 13. Bxf7+ Rxf7
+14. fxg4 Rxf1+ 15. Kxf1 e5 16. dxe5 Bxe5 17. Qxd8+ Rxd8 18. Rc1 Nc6 19. g3
+Rd3 20. Bc5 Kf7 21. Ke1 Ke6 22. Rc2 g5 23. Nc1 Rc3 24. Rxc3 Bxc3+ 25. Ke2
+b6 26. Bf8 Bf6 27. Nd3 a6 1/2-1/2
+

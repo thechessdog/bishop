@@ -1,0 +1,19 @@
+[Event "corr ch3-POL"]
+[Site "corr ch3-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Czucharski, E."]
+[Black "Rygiel, J."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "8f831dbf"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qd4 f5 5. exf6 Nxf6 6. Nf3 Nc6 7. Qh4
+Bb4+ 8. Nbd2 O-O 9. e3 d6 10. Bd3 Ne5 11. Bc2 Bg4 12. Nxe5 dxe5 13. Bxh7+
+Nxh7 14. Qxg4 Bxd2+ 15. Bxd2 Rxf2 16. O-O-O Qd3 17. Qe6+ Kh8 18. Qxe5 Rd8
+19. Qc3 Qe4 20. Rhg1 Ng5 21. h4 Nf7 22. Qc2 Rd3 23. Rgf1 Rxf1 24. Rxf1 Ne5
+25. Rf8+ Kh7 26. Re8 1-0
+

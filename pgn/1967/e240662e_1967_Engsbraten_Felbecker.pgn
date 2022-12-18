@@ -1,0 +1,16 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Engsbraten, B."]
+[Black "Felbecker, H."]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian defence"]
+[HashCode "e240662e"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ c6 4. dxc6 Nxc6 5. Nf3 Qa5 6. Nc3 Bg4 7. d4 e5
+8. dxe5 Ne4 9. Qd5 Bb4 10. Bxc6+ bxc6 11. Qxe4 Bxc3+ 12. bxc3 Qxc3+ 13. Bd2
+Bxf3 14. gxf3 Qxa1+ 15. Ke2 Qxa2 16. Qxc6+ Kd8 17. Bg5+ 1-0
+

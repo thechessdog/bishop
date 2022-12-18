@@ -1,0 +1,16 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Wacker, R."]
+[Black "Hjarth, B."]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Benoni defence, Hromodka system"]
+[HashCode "49ab5290"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. f3 O-O 7. Be3 e6 8. Qd2
+exd5 9. cxd5 Re8 10. Nge2 Nbd7 11. Nc1 a6 12. a4 Qa5 13. Ra3 Ne5 14. Be2
+Rb8 15. O-O Bd7 16. h3 Qb4 17. N1a2 Qb6 18. b4 Qc7 19. bxc5 dxc5 20. f4 1-0
+

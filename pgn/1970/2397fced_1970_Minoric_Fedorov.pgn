@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Minoric"]
+[Black "Fedorov"]
+[Result "1-0"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "2397fced"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Nb3 a5 7. a4 b6 8. c3
+Be7 9. Bd3 O-O 10. h4 f6 11. Bxh7+ Kxh7 12. Ng5+ 1-0
+

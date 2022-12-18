@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1971.07.01"]
+[Round "2"]
+[White "Van der Weide, Piet"]
+[Black "Smejkal, Jan"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "14a3c64f"]
+[Epoch "Bishop"]
+[WhiteID "1001370"]
+[WhiteCountry "NED"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Qg4 Nf6 8.
+Qg3 d6 9. Nc3 Nc6 10. O-O b5 11. Kh1 Bb7 12. f4 O-O 13. Bd2 Kh8 14. Rae1 Nb4
+15. f5 Nxd3 16. cxd3 e5 17. Qh4 Ne8 18. f6 gxf6 19. Rf5 Rg8 20. Rh5 Rg7 21. Bh6
+Rg6 22. Rf1 Kg8 23. Bd2 Rg7 24. Rf3 f5 25. Rfxf5 Qxh4 26. Rxh4 Bc8 27. Rf1 Be6
+28. Ne2 Rc8 29. Bc3 Bg4 30. Ng3 Bb6 31. h3 Be6 32. Nf5 Bxf5 33. Rxf5 a5 34.
+Bxa5 Bxa5 35. Nxa5 Rc2 36. b4 Rxa2 37. Nc6 Raxg2 1-0

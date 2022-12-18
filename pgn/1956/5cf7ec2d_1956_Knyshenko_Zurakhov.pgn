@@ -1,0 +1,19 @@
+[Event "USSR ch"]
+[Site "USSR ch"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Knyshenko"]
+[Black "Zurakhov, Vladlen Y"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "5cf7ec2d"]
+[Epoch "Bishop"]
+[BlackID "4102649"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 h6 8. Bxf6
+Qxf6 9. f4 g5 10. f5 Nc6 11. Nxc6 bxc6 12. O-O-O Rb8 13. Bc4 d5 14. fxe6 fxe6
+15. Rhf1 Qg7 16. exd5 cxd5 17. Bxd5 exd5 18. Qxd5 Bd7 19. Rfe1+ Kd8 20. Rd4 Rb6
+21. Qa8+ 1-0

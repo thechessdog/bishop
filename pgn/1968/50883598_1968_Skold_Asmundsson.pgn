@@ -1,0 +1,18 @@
+[Event "Lugano ol (Men)"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Skold, Kristian"]
+[Black "Asmundsson, Ingvar"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "50883598"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+[BlackCountry "ISL"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 d4 4. exf6 dxc3 5. fxe7 cxd2+ 6. Qxd2 Qxd2+ 7. Bxd2
+Bxe7 8. O-O-O Be6 9. Kb1 Nd7 10. Be3 Bc5 11. Bxc5 Nxc5 12. f3 Ke7 13. Ne2 Rhd8
+14. Nd4 Rd7 15. Be2 Rad8 16. Nxe6 Nxe6 17. Rxd7+ Rxd7 18. Kc1 1/2-1/2

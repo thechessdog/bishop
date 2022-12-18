@@ -1,0 +1,18 @@
+[Event "BRD"]
+[Site "BRD"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Titel"]
+[Black "Waldow"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "a18af7be"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O h6 7. Bh4 a5
+8. a4 g5 9. Bg3 e6 10. Re1 Nb6 11. e4 Bg6 12. h4 Nh5 13. Be5 f6 14. Bh2 Kf7
+15. g4 Ng7 16. hxg5 fxg5 17. f4 Bb4 18. f5 exf5 19. exf5 Bh7 20. Be5 Bxc3
+21. bxc3 Nxa4 22. Rxh6 Qb6 23. Kd1 Nb2+ 24. Ke2 Bxf5 25. Qxg5 Rxh6 26.
+Qxg7+ Ke8 27. gxf5 c5 28. Bc7 1-0
+

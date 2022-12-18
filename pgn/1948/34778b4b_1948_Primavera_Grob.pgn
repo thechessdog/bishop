@@ -1,0 +1,19 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1948.10.01"]
+[Round "1"]
+[White "Primavera, Giuseppe"]
+[Black "Grob, Henri"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "5.e3"]
+[HashCode "34778b4b"]
+[Epoch "Bishop"]
+[BlackCountry "SWI"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 e6 5. e3 Bb4 6. Bd2 O-O 7. Bd3 Nbd7 8. O-O
+Qe7 9. Re1 dxc4 10. Bxc4 e5 11. e4 exd4 12. Nxd4 Ne5 13. Bb3 Nd3 14. Re3 Nxf2
+15. Kxf2 Ng4+ 16. Kf1 Rd8 17. Rf3 Nxh2+ 18. Kg1 Bc5 19. Rxf7 Bxd4+ 20. Kh1 Qe5
+21. Rf5+ Kh8 22. Rxe5 Bxe5 23. Qh5 Ng4 24. Bg5 Nf2+ 25. Kg1 Bg4 26. Qh4 1-0

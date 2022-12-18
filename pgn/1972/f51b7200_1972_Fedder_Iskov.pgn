@@ -1,0 +1,20 @@
+[Event "DEN-ch"]
+[Site "Frederiksberg"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Fedder, Steen"]
+[Black "Iskov, Gert"]
+[Result "1/2-1/2"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "f51b7200"]
+[Epoch "Bishop"]
+[WhiteID "1400126"]
+[BlackID "1400398"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 exd5 6. cxd5 O-O 7. Rc1 Re8 8. e3
+d6 9. Nf3 Nbd7 10. Be2 Ne5 11. Bb5 Ned7 12. O-O a6 13. Be2 b5 14. a4 Bxc3 15.
+bxc3 Qa5 16. axb5 axb5 17. Bf4 Ne4 1/2-1/2

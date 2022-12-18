@@ -1,0 +1,18 @@
+[Event "Titograd"]
+[Site "Titograd"]
+[Date "1965.01.01"]
+[Round "9"]
+[White "Sofrevski, Jovan"]
+[Black "Knezevic, Milorad"]
+[Result "1/2-1/2"]
+[ECO "A86"]
+[Opening "Dutch with c4 & g3"]
+[HashCode "cb89e0f4"]
+[Epoch "Bishop"]
+[BlackID "950238"]
+[BlackCountry "SRB"]
+[WhiteCountry "MKD"]
+
+1. c4 f5 2. d4 Nf6 3. g3 d6 4. Nf3 c6 5. Nc3 Qc7 6. Bg2 e5 7. dxe5 dxe5 8. e4
+Bb4 9. exf5 Bxf5 10. Qe2 Ne4 11. O-O Nxc3 12. bxc3 Bxc3 13. Bb2 Bxb2 14. Qxb2
+Nd7 15. Nxe5 1/2-1/2

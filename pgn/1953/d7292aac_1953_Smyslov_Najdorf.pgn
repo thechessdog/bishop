@@ -1,0 +1,17 @@
+[Event "Candidats Tournament"]
+[Site "Zurich ct"]
+[Date "1953.01.01"]
+[Round "29"]
+[White "Smyslov, Vasily"]
+[Black "Najdorf, Miguel"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "d7292aac"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 e5 7. dxe5 Ng4 8. Bb2
+Nc6 9. c4 Re8 10. Nc3 Ngxe5 11. Nxe5 1/2-1/2

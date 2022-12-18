@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Barcza, Gedeon"]
+[Black "Monostori, L."]
+[Result "1-0"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "d6a0ebb4"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 e5 7. dxe5 Nfd7 8. O-O
+Nc6 9. c4 Ndxe5 10. Nxe5 dxe5 11. Nc3 Bf5 12. Qxd8 Raxd8 13. Rfd1 e4 14. Kf1
+Rfe8 15. Na4 Bxb2 16. Nxb2 Nd4 17. e3 Nf3 18. Bxf3 exf3 19. Rxd8 Rxd8 20. Rd1
+Rxd1+ 21. Nxd1 c5 22. Nc3 Bd3+ 23. Ke1 f5 24. Kd2 Be4 25. Nxe4 fxe4 26. b4 cxb4
+27. Kc2 Kf7 28. Kb3 Ke6 29. Kxb4 Kd6 30. Kb5 g5 31. g4 h6 32. h3 b6 33. a4 Kc7
+34. c5 1-0

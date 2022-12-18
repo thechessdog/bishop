@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Ullrich"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "e7272e54"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. c3 d5 3. e5 Bf5 4. d4 cxd4 5. cxd4 Bxb1 6. Rxb1 Qa5+ 7. Bd2
+Qxa2 8. Bc3 1-0
+

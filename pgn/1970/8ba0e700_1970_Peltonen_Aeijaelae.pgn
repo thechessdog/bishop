@@ -1,0 +1,19 @@
+[Event "corr ch-FIN"]
+[Site "corr ch-FIN"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Peltonen, U."]
+[Black "Aeijaelae, J."]
+[Result "0-1"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "8ba0e700"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O
+8. f3 Qb6 9. Bb3 Nxe4 10. Nd5 Qa5+ 11. c3 Bxd4 12. Bxd4 Nc5 13. Bc4 Ne6 14.
+Be3 Ng7 15. b4 Qd8 16. Bg5 Re8 17. Qe2 d6 18. f4 Be6 19. O-O-O Bxd5 20.
+Bxd5 Qc7 21. Kb2 e6 22. Bb3 a5 23. a3 d5 24. g4 d4 25. cxd4 axb4 26. a4
+Nxd4 27. Qd3 Nxb3 28. Qxb3 Qc6 29. h3 Rxa4 30. Rh2 Ra3 31. Qxb4 Ra4 0-1
+

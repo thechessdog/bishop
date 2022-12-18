@@ -1,0 +1,21 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1955.01.01"]
+[Round "4"]
+[White "Matanovic, Aleksandar"]
+[Black "Heinicke, Herbert"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "3e7c24be"]
+[Epoch "Bishop"]
+[WhiteID "900230"]
+[WhiteCountry "SRB"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. f5 h5 12. Kb1 Qb6 13. fxe6 fxe6 14. Nxc6
+Bxc6 15. Qf4 Be7 16. g3 b4 17. Ne2 f5 18. Bg2 O-O-O 19. Nd4 Bd7 20. exf5 Rdf8
+21. Qe4 d5 22. Qe2 Bc5 23. fxe6 Be8 24. Qe5 Rh6 25. Qxd5 Rhf6 26. Rhe1 Ba4 27.
+e7 Re8 28. Ne6 1-0

@@ -1,0 +1,25 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1965.01.01"]
+[Round "3"]
+[White "Sloth, Jorn"]
+[Black "Enevoldsen, Jens"]
+[Result "0-1"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "classical variation"]
+[HashCode "4a709797"]
+[Epoch "Bishop"]
+[WhiteID "1400240"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. Qe2 a6 7. dxc5 Bxc5 8.
+O-O b5 9. Bd3 Nc6 10. Nbd2 O-O 11. Nb3 Bb6 12. e4 e5 13. Be3 Bg4 14. Rfd1 Bxe3
+15. Qxe3 Bxf3 16. Be2 Qe7 17. Bxf3 Rfc8 18. Rac1 Qb7 19. Rd6 h6 20. h3 Ne8 21.
+Rd5 Nb4 22. Rxc8 Rxc8 23. Rxe5 Nxa2 24. Rc5 Rxc5 25. Nxc5 Qb6 26. e5 Nb4 27.
+Qd4 Nd3 28. Qxd3 Qxc5 29. Qe2 Nc7 30. g3 Kf8 31. Bh5 g6 32. Bg4 Ke7 33. Bc8 Qd4
+34. h4 a5 35. Bh3 a4 36. e6 fxe6 37. Qc2 Kd6 38. Bg2 Nd5 39. Qxg6 Qxb2 40. Qxh6
+a3 41. Qf8+ Kd7 42. Qf7+ Ne7 43. Bh3 Qe2 44. Qf6 a2 45. Qd4+ Kc6 46. Qc3+ Qc4
+47. Qa3 Qa4 48. Qxe7 Qd1+ 49. Kh2 a1=Q 50. Bg2+ Kb6 51. Qxe6+ Ka5 52. Qf5 Qg1+
+53. Kh3 Qd4 54. Qf3 Qgxf2 55. Qa3+ Kb6 0-1

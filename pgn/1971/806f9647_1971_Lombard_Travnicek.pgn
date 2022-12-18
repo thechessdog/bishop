@@ -1,0 +1,20 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1971.01.01"]
+[Round "9"]
+[White "Lombard, Andre"]
+[Black "Travnicek, Peter"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "806f9647"]
+[Epoch "Bishop"]
+[WhiteID "1300091"]
+[WhiteCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Bxc3+ 5. bxc3 b6 6. Bd3 Bb7 7. f3 d6 8. Ne2
+Nc6 9. e4 e5 10. Bg5 h6 11. Be3 Nd7 12. Ng3 Qf6 13. O-O g5 14. Nf5 O-O-O 15. a4
+a5 16. Qe2 Ne7 17. Nxe7+ Qxe7 18. c5 dxc5 19. Rfd1 Rhg8 20. Bb5 exd4 21. cxd4
+cxd4 22. Rxd4 Ne5 23. Rxd8+ Qxd8 24. Kh1 g4 25. f4 Qh4 26. fxe5 g3 27. h3 Bxe4
+28. Kg1 1-0

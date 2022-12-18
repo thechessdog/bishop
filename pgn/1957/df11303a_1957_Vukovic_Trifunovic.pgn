@@ -1,0 +1,19 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1957.01.01"]
+[Round "22"]
+[White "Vukovic, Sava"]
+[Black "Trifunovic, Petar"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "df11303a"]
+[Epoch "Bishop"]
+[WhiteID "941387"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. Nc4
+Nb6 9. e4 Nxc4 10. Bxc4 Bg7 11. O-O O-O 12. h3 a6 13. a4 Re8 14. Re1 Nh5 15.
+Qd2 Qh4 16. Qg5 Qxg5 17. Bxg5 h6 18. Bd2 g5 19. a5 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Reykjavik ch-ICE"]
+[Site "Reykjavik ch-ICE"]
+[Date "1972.01.01"]
+[Round "9"]
+[White "Sigurjonsson, Gudmundur"]
+[Black "Olafsson, Olafur"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "b4ca38ad"]
+[Epoch "Bishop"]
+[BlackID "2305984"]
+[BlackCountry "ISL"]
+[WhiteID "2300079"]
+[WhiteCountry "ISL"]
+
+1. e4 c5 2. f4 e6 3. Nf3 d5 4. Nc3 dxe4 5. Nxe4 Nf6 6. Nf2 Bd6 7. g3 b6 8. Bg2
+Bb7 9. O-O O-O 10. b3 Nbd7 11. Bb2 b5 12. d3 Qb6 13. Re1 Rac8 14. c4 Nb8 15.
+Ng5 Bxg2 16. Bxf6 Qb7 17. Qh5 h6 18. Ng4 Nd7 19. Qxh6 Nxf6 20. Nxf6+ gxf6 21.
+Qh7# 1-0

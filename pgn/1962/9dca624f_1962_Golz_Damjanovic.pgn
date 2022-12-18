@@ -1,0 +1,20 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1962.01.01"]
+[Round "8"]
+[White "Golz, Werner"]
+[Black "Damjanovic, Mato"]
+[Result "0-1"]
+[ECO "E79"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, main line"]
+[HashCode "9dca624f"]
+[Epoch "Bishop"]
+[BlackCountry "HRV"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. Be2 O-O 6. f4 c5 7. Nf3 cxd4 8. Nxd4
+Nc6 9. Be3 e5 10. Nc2 exf4 11. Bxf4 Re8 12. Bf3 Bf5 13. Qd3 Nxe4 14. Nxe4 Bxe4
+15. Bxe4 Qe7 16. O-O-O Qxe4 17. Bxd6 Qxg2 18. Rhe1 Qg5+ 19. Kb1 Qf6 20. Ba3
+Rxe1 21. Rxe1 Rd8 22. Qe4 h5 23. Qe2 Nd4 24. Nxd4 Rxd4 25. c5 Qf5+ 26. Ka1 Qd5
+27. h3 Kh7 28. Qf1 a5 29. Kb1 Rd2 30. Rc1 Qe4+ 31. Ka1 Rd3 32. Re1 Qd4 0-1

@@ -1,0 +1,15 @@
+[Event "Schlechter mem"]
+[Site "Vienna"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Kovacs, MG."]
+[Black "Fletzer, Gino"]
+[Result "1/2-1/2"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "f4e25f2a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7 8.
+Be3 Be6 9. Bf3 Bc4 10. Be2 Be6 11. Bf3 Bc4 1/2-1/2

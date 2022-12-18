@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kristjansson, Bragi"]
+[Black "Johansson, Gunnar2"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "5bba8523"]
+[Epoch "Bishop"]
+[WhiteID "2300346"]
+[WhiteCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Nf5 Bxf5 12. exf5 Re8 13. Qg4 Bf8 14. f3 Qd5
+15. Nd2 Rad8 16. Kh1 Qf7 17. Nb3 Nd7 18. Be3 c5 19. a4 e4 20. dxe4 Qc4 21. Rac1
+Qxa4 22. Qg3 Bd6 23. Qf2 b6 24. Rfd1 Ne5 25. Nd2 Qb5 26. b3 a5 27. Nb1 Qb4 28.
+Bd2 Qd4 29. Qe2 c4 30. Be3 Qb2 31. Bd4 c3 32. Nxc3 c5 33. Na4 Qa3 1-0

@@ -1,0 +1,21 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1966.01.01"]
+[Round "2"]
+[White "Ghitescu, Theodor"]
+[Black "Bakker, Piet"]
+[Result "1-0"]
+[ECO "E82"]
+[Opening "King's Indian"]
+[Variation "Saemisch, double fianchetto variation"]
+[HashCode "a0b892a1"]
+[Epoch "Bishop"]
+[BlackID "1024469"]
+[BlackCountry "NED"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 b6 7. Bd3 a6 8. Nge2 c5
+9. e5 Ne8 10. exd6 exd6 11. O-O Ra7 12. Qd2 Nc6 13. Be4 Na5 14. b3 f5 15. Bd5+
+Kh8 16. Rad1 Nf6 17. Bg5 Qe8 18. Rfe1 Re7 19. dxc5 dxc5 20. Nf4 Rxe1+ 21. Rxe1
+Qd8 22. Ne6 Bxe6 23. Rxe6 b5 24. Rxa6 b4 25. Nb5 h5 26. Ra8 Qxa8 27. Bxa8 Rxa8
+28. Nc7 1-0

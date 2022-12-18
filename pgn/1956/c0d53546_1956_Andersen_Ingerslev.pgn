@@ -1,0 +1,20 @@
+[Event "Denmark"]
+[Site "Copenhagen"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Andersen, Borge"]
+[Black "Ingerslev, Age"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "c0d53546"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Nf3 d6 6. Qc2 O-O 7. a3 Bxc3+ 8.
+Qxc3 Qe7 9. Be2 e5 10. O-O Bg4 11. Re1 a5 12. b3 e4 13. Nd2 Bxe2 14. Rxe2 d5
+15. Bb2 Rfe8 16. Rc1 Qd7 17. Qc2 Qe6 18. Nb1 Ne7 19. Nc3 Rad8 20. Na4 b6 21.
+Nc3 Kh8 22. c5 Nf5 23. Nb5 Rc8 24. a4 Nh4 25. h3 g5 26. Qd1 g4 27. cxb6 gxh3
+28. g3 Nf3+ 29. Kh1 Qg4 30. b7 Rcd8 31. Rec2 Nh5 32. Nxc7 Rg8 33. b8=Q Qxg3 34.
+fxg3 Nxg3# 0-1

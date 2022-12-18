@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Petkevich, Jusefs"]
+[Black "Gurgenidze, Bukhuti"]
+[Result "0-1"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "863f81da"]
+[Epoch "Bishop"]
+[WhiteID "11600110"]
+[WhiteCountry "LAT"]
+[BlackCountry "GEO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Bb3 a6 8. Be3
+Na5 9. f4 Qc7 10. Qe2 b5 11. Bf2 Nxb3 12. axb3 Bb7 13. e5 dxe5 14. fxe5 Nd7 15.
+Bg3 Bc5 16. Nf5 exf5 17. e6 f4 18. exd7+ Kf8 19. O-O-O fxg3 20. hxg3 Rd8 21.
+Rh5 g6 22. Re5 Kg7 23. Re8 Rf8 0-1

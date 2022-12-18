@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Sternberg"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "638b5f89"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. d3 Bc5 3. Nf3 d6 4. fxe5 dxe5 5. Nxe5 Qd4 6. Nf3 Qf2+ 7. Kd2
+Be3+ 8. Kc3 c5 9. Bxe3 Qxe3 10. Kb3 c4+ 11. Kc3 b5 12. a4 b4+ 13. Kxb4 Qb6+
+14. Kc3 Qa5+ 15. Kd4 Nf6 16. e4 Ng4 17. Qd2 Nc6+ 18. Kxc4 Be6# 0-1
+

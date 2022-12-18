@@ -1,0 +1,23 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Cobo, Eldis"]
+[Black "Cuellar Gacharna, Miguel"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "541cda4a"]
+[Epoch "Bishop"]
+[BlackCountry "COL"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Bd3 c5 12. Rc1 c4 13. Bb1 Nc6 14. h3 Qf6
+15. O-O Bf5 16. Bxf5 Qxf5 17. Qa4 Rfc8 18. b3 Na5 19. Rc3 cxb3 20. Rxc8+ Qxc8
+21. axb3 Qb7 22. Rc1 Rc8 23. Rxc8+ Qxc8 24. Ne5 f6 25. Ng6 Kh7 26. Nf4 Qc1+ 27.
+Kh2 Nc6 28. Nxd5 Qc2 29. Qb5 Ne7 30. Nxe7 Qc7+ 31. g3 Qxe7 32. Qd3+ Kg8 33.
+Qc4+ Kf8 34. d5 Qd7 35. b4 Ke7 36. e4 Kd6 37. b5 Qc7 38. Qa4 h5 39. h4 Qc5 40.
+Kg2 f5 41. Qxa7 fxe4 42. Qxg7 Qxb5 43. Qg6+ Ke5 44. Qxh5+ Kd4 45. Qg5 Qb4 46.
+d6 1-0

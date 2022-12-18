@@ -1,0 +1,16 @@
+[Event "Great Britain"]
+[Site "Great Britain"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Trattner, R."]
+[Black "Gibbs"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "99f43868"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 Nc6 4. c3 d5 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 dxe4
+8. d5 exf3 9. dxc6 Bxc3+ 10. bxc3 f2+ 11. Kxf2 Qxd1 0-1
+

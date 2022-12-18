@@ -1,0 +1,19 @@
+[Event "Beverwijk"]
+[Site "Beverwijk"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Poulsen"]
+[Black "Stumpers"]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "023128ae"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Nf6 6. Be2 e5 7. Nb3 Be7
+8. O-O O-O 9. f4 a5 10. a4 Nb4 11. Kh1 Be6 12. f5 Bd7 13. Bb5 Bc6 14. Qe2
+Qc7 15. Bg5 d5 16. exd5 Bxd5 17. Nxd5 Nbxd5 18. Rae1 h6 19. Bh4 Bd6 20. c4
+Nf4 21. Qd1 Bb4 22. Bxf6 Bxe1 23. Qg4 g5 24. Rxe1 Nd3 25. Rf1 Qb6 26. Bxg5
+hxg5 27. Qxg5+ Kh7 28. f6 1-0
+

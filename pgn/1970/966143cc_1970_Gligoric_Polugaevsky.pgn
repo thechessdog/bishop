@@ -1,0 +1,17 @@
+[Event "Palma de Mallorca Interzonal"]
+[Site "Palma de Mallorca izt"]
+[Date "1970.11.01"]
+[Round "17"]
+[White "Gligorić, Svetozar"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "966143cc"]
+[Epoch "Bishop"]
+[BlackCountry "BLR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Ba5 10. Bd3 cxd4 11. exd4 Bb6 12. Be3 Nd5 13. Nxd5 exd5 14. h3 Qd6
+15. Re1 Bc7 16. Rc1 Be6 17. Bb1 Rac8 18. Rc3 Qd7 19. Bd3 1/2-1/2

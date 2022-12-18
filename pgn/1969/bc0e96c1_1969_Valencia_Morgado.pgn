@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Valencia, J."]
+[Black "Morgado, Juan Sebastian"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "bc0e96c1"]
+[Epoch "Bishop"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5 h6 5. a3 g5 6. b4 Bg7 7. Bb2 g4 8. Nfd2
+Nxe5 9. c3 c6 10. Qb3 Nd3+ 11. Kd1 Nxf2+ 0-1

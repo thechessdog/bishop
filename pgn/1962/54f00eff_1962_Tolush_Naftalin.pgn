@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Tolush, Alexander"]
+[Black "Naftalin, S."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "54f00eff"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qd3 Bb4+ 5. Nd2 Nxd2 6. Bxd2 Bxd2+ 7. Qxd2
+Nc6 8. f4 O-O 9. Nf3 f6 10. exf6 Qxf6 11. g3 d6 12. Bg2 Be6 13. Ng5 Bg4 14. h3
+Bf5 15. g4 h6 16. Qd5+ Kh8 17. Qxf5 Qxf5 18. gxf5 hxg5 19. fxg5 Rxf5 20. h4 Re8
+21. Rd1 Ne5 22. Rd4 b6 23. Rf1 Ref8 24. Rxf5 Rxf5 25. Bh3 Rf3 26. Be6 g6 27.
+Rxd6 cxd6 28. exf3 Nxf3+ 29. Kf2 Ne5 30. Ke3 Nc6 31. Ke4 Ne7 32. Kd3 Kg7 33.
+Ke4 Kf8 34. Kf4 Kg7 35. Bd5 Kf8 36. Kg4 Kg7 37. b3 Nc8 38. Bb7 Ne7 39. Bd5 Nc8
+40. Bb7 Ne7 41. Be4 Kf7 42. h5 gxh5+ 43. Kxh5 Ke6 44. g6 Ke5 45. Bb1 a5 46. g7
+Kf6 47. Kg4 Ke5 48. Bh7 d5 49. cxd5 Kxd5 50. Kg5 Ke6 51. g8=Q+ Nxg8 52. Bxg8+
+Ke5 53. Bc4 1-0

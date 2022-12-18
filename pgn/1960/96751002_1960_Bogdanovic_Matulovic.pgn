@@ -1,0 +1,26 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1960.03.01"]
+[Round "10"]
+[White "Bogdanovic, Rajko"]
+[Black "Matulovic, Milan"]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "96751002"]
+[Epoch "Bishop"]
+[WhiteID "14400316"]
+[WhiteCountry "BIH"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Bb3 O-O 8. f4
+Nbd7 9. Qf3 Nc5 10. Be3 a6 11. f5 e5 12. Nde2 b5 13. Nd5 Nxb3 14. Nxf6+ Bxf6
+15. cxb3 d5 16. O-O-O dxe4 17. Qf2 Qc7+ 18. Kb1 Be7 19. g4 f6 20. Nc3 Bb7 21.
+Bb6 Qc8 22. Nd5 Bxd5 23. Rxd5 Qc6 24. Rhd1 Rab8 25. Bc5 Rfd8 26. Rxd8+ Rxd8 27.
+Rxd8+ Bxd8 28. Qd2 Bc7 29. b4 h5 30. gxh5 e3 31. Bxe3 Qe4+ 32. Qc2 Qxe3 33.
+Qxc7 Qg1+ 34. Kc2 Qxh2+ 35. Kc3 Qh3+ 36. Kd2 Qxf5 37. Qc6 e4 38. Qxa6 Qf2+ 39.
+Kd1 Qf3+ 40. Kc1 Qe3+ 41. Kd1 Qd3+ 42. Kc1 Qc4+ 43. Kb1 Kh7 44. Qa8 Qf1+ 45.
+Kc2 Qf2+ 46. Kb1 Qd4 47. Kc2 Qc4+ 48. Kd1 Qd4+ 49. Kc2 Qd3+ 50. Kc1 e3 51. Qg2
+Kg8 52. Qa8+ Kh7 53. Qg2 Kg8 54. Qa8+ Kf7 55. Qb7+ Ke6 56. Qc8+ Ke5 57. Qc7+
+Ke4 58. Qe7+ Kf4 59. Qc7+ Kf3 0-1

@@ -1,0 +1,19 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Lippstreu, G."]
+[Black "Bader, H."]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "ac7eff8a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 dxc4 7. Bxh7+ Kxh7
+8. axb4 e5 9. Qc2+ g6 10. dxe5 Ng4 11. f4 Nc6 12. h3 Nh6 13. Ne4 b5 14. Bd2
+Qe7 15. Nf3 Nxb4 16. Bxb4 Qxb4+ 17. Kf2 Kg7 18. g4 a5 19. Nd4 Ra6 20. Nc3
+Bb7 21. Rhg1 Rb6 22. Rg3 a4 23. g5 Nf5 24. Nxf5+ gxf5 25. Rag1 Rd8 26. g6
+f6 27. Rd1 1-0
+

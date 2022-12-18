@@ -1,0 +1,22 @@
+[Event "CSR-ch"]
+[Site "Prague"]
+[Date "1963.??.??"]
+[Round "2"]
+[White "Kozma, Julius"]
+[Black "Trapl, Jindrich"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "7e0b5915"]
+[Epoch "Bishop"]
+[WhiteID "14934019"]
+[WhiteCountry "SVK"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O a6 8. h3
+dxc4 9. Bxc4 Bd6 10. e4 b5 11. Bd3 e5 12. Be3 exd4 13. Nxd4 Nxd4 14. Bxd4 c5
+15. Be3 Bb7 16. f4 c4 17. Bc2 b4 18. Nd5 Bxd5 19. exd5 Qa5 20. Bd4 Bc5 21. Rf2
+Qb6 22. Bxc5 Qxc5 23. Rc1 Rad8 24. Qf3 Rxd5 25. Kh1 Rfd8 26. Bb3 Rd3 27. Qe2 c3
+28. bxc3 bxc3 29. Rf3 Rd2 30. Qe5 c2 31. Qxc5 Rd1+ 32. Rf1 Ne4 33. Qxc2 Ng3+
+34. Kg1 1-0

@@ -1,0 +1,22 @@
+[Event "Schiavno Zdroj"]
+[Site "Schiavno Zdroj"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Bondarevsky, Igor"]
+[Black "Pogats, Jozsef Jr."]
+[Result "1-0"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "0c29d763"]
+[Epoch "Bishop"]
+[BlackID "744450"]
+[BlackCountry "HUN"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8.
+Bxc4 c5 9. Nf3 Qc7 10. Ba2 b6 11. O-O Bb7 12. c4 Rd8 13. Bb2 Nbd7 14. Qe2 Nf8
+15. Ne5 Ng6 16. f4 Ne4 17. d5 f5 18. Rad1 Nf8 19. Qh5 Qe7 20. Bb1 Nf6 21. Qh3
+exd5 22. cxd5 Bxd5 23. Bxf5 Bb7 24. Bd3 Rd6 25. Bc4+ Bd5 26. Rxd5 Nxd5 27. e4
+b5 28. Bxd5+ Rxd5 29. exd5 c4 30. f5 Nd7 31. Nxd7 Qxd7 32. f6 Qxh3 33. f7+ Kf8
+34. gxh3 a5 35. Bd4 Rc8 36. d6 1-0

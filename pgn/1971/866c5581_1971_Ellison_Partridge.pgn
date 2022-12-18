@@ -1,0 +1,19 @@
+[Event "corr ch-SCO"]
+[Site "corr ch-SCO"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Ellison, E."]
+[Black "Partridge, B."]
+[Result "0-1"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "866c5581"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 h6 7. Bh4 b6 8.
+cxd5 Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Qd2 Be6 12. Rc1 c5 13. dxc5 bxc5
+14. Bb5 a6 15. Ba4 Rc8 16. O-O Nd7 17. Rfd1 Nf6 18. Qa5 Rab8 19. Rd2 Ne4
+20. Rdc2 Qf6 21. b3 Bf5 22. Ne1 d4 23. exd4 cxd4 24. Rxc8+ Rxc8 25. Rxc8+
+Bxc8 26. f3 Nc3 27. Qc7 Bf5 28. Qc4 Qg5 29. Qf1 Ne2+ 30. Kh1 d3 0-1
+

@@ -1,0 +1,21 @@
+[Event "ACM San Diego"]
+[Site "ACM San Diego"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Ostrich"]
+[Black "Ribbit"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "b0aa738e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nc3 Bd6 4. e4 h6 5. Bxf6 gxf6 6. Nf3 b6 7. e5 fxe5
+8. dxe5 Bb4 9. a3 Bxc3+ 10. bxc3 Rg8 11. Qd2 Rh8 12. Bb5 Ba6 13. Bxa6 Nxa6
+14. O-O Qe7 15. Qd3 Nc5 16. Qd4 Rg8 17. c4 O-O-O 18. Rfd1 d6 19. h4 Rg6 20.
+h5 Rgg8 21. g3 a5 22. Kg2 Kb7 23. Rab1 dxe5 24. Qxe5 Rxd1 25. Rxd1 Rg4 26.
+Rd4 Nd7 27. Qe3 Rxd4 28. Nxd4 Qc5 29. Qf3+ c6 30. c3 Ne5 31. Qf6 Qd6 32. f4
+Nxc4 33. Qxf7+ Ka6 34. Qxe6 Qxe6 35. Nxe6 Nxa3 36. Nd8 Kb5 37. Nf7 a4 38.
+Kf2 Kc4 39. f5 Nb5 40. Ke3 a3 41. Kd2 a2 42. Ne5+ Kb3 43. Nxc6 a1=Q 44. c4
+Kxc4 45. g4 Qc3+ 46. Ke2 Qd3+ 47. Kf2 Qd6 48. Nb8 Qxb8 49. Kg2 Qf4 0-1
+

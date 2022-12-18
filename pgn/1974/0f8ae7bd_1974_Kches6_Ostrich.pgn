@@ -1,0 +1,20 @@
+[Event "ACM San Diego"]
+[Site "ACM San Diego"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kches6"]
+[Black "Ostrich"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "0f8ae7bd"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Qxd5 3. c4 Qe4+ 4. Ne2 Qxc4 5. b3 Qd3 6. Nec3 Qd8 7. Bb5+
+Bd7 8. Qf3 Bc6 9. Qg3 e6 10. f3 Nh6 11. Bc4 Nf5 12. Qg4 h5 13. Qh3 Nd4 14.
+Bd3 Nxf3+ 15. Kf2 Bc5+ 16. Ke2 Ng1+ 17. Rxg1 Bxg1 18. Be4 Bxe4 19. Nxe4 O-O
+20. Ba3 Bd4 21. Bxf8 Bxa1 22. Bb4 Qd4 23. Nc5 Qxb4 24. Qxh5 b6 25. Na4 Qe4+
+26. Kf2 Bd4+ 27. Kg3 Qxb1 28. Qf3 f6 29. Qg4 Be5+ 30. Kf2 Qxa2 31. Qh5 Bd4+
+32. Ke1 Qxb3 33. Qh4 Qxa4 34. Qf4 a5 35. g3 b5 36. h4 f5 37. Ke2 Qc4+ 38.
+Ke1 b4 39. Kd1 b3 40. Ke1 b2 41. Kd1 b1=Q# 0-1
+

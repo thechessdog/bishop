@@ -1,0 +1,21 @@
+[Event "Nyborg"]
+[Site "Nyborg"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Andersen, Soren"]
+[Black "Kolvig, Bent"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "bf8246a0"]
+[Epoch "Bishop"]
+[BlackID "1400746"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. e3 Bb7 6. Bd3 c5 7. O-O Bxc3 8. bxc3
+O-O 9. Qc2 Nc6 10. Ba3 d6 11. Rab1 Qc7 12. e4 e5 13. d5 Na5 14. Bc1 Qd7 15. Nh4
+Ba6 16. Qe2 Kh8 17. Nf5 Ng8 18. f4 g6 19. Ne3 f6 20. f5 g5 21. h4 h6 22. Rf3
+Kg7 23. Rh3 Ne7 24. Bd2 Rh8 25. Kf2 Qa4 26. Rbh1 Qxa2 27. Bb1 Qa4 28. hxg5 hxg5
+29. Rxh8 Rxh8 30. Rxh8 Kxh8 31. Qh5+ Kg7 32. Ng4 Qd1 33. Qh6+ Kf7 34. Qxf6+ Ke8
+35. Bxg5 Ng8 36. Qe6+ Kf8 37. Nh6 1-0

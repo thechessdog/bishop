@@ -1,0 +1,19 @@
+[Event "corr DDR-PV"]
+[Site "corr DDR-PV"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Wiesner, K."]
+[Black "Muller, R."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "a8b42839"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bb4+ 8.
+Nc3 Bd7 9. O-O h5 10. Na4 Qd8 11. Bg5 Be7 12. Bxe7 Ngxe7 13. Rc1 O-O 14.
+Nc3 g6 15. Qd2 Kg7 16. Qf4 Ng8 17. Qg3 Nce7 18. Ne2 Nf5 19. Bxf5 exf5 20.
+Nf4 Kh6 21. Rc5 Be6 22. h4 b6 23. Rc6 Qe8 24. Rc7 Rc8 25. Rxa7 Rc6 26. Qg5+
+1-0
+

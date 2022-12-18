@@ -1,0 +1,18 @@
+[Event "Balcarce"]
+[Site "Balcarce"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Aguirre, Alb"]
+[Black "Behrensen, Jorge"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "134831ab"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 Bg7 8. Nd2
+h6 9. Bh4 O-O 10. f3 Re8 11. Qc2 Na6 12. a3 Nc7 13. g4 g5 14. Bg3 Ncxd5 15.
+Nce4 Nxe4 16. Nxe4 Qa5+ 17. b4 Nxb4 18. axb4 Qxa1+ 19. Kf2 cxb4 20. h4 Rxe4 21.
+fxe4 Qd4+ 22. e3 Qf6+ 0-1

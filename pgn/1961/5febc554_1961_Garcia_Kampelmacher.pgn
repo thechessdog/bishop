@@ -1,0 +1,20 @@
+[Event "Buenos Aires Villa"]
+[Site "Buenos Aires"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Garcia, Raimundo"]
+[Black "Kampelmacher"]
+[Result "1-0"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "Zinnowitz variation"]
+[HashCode "5febc554"]
+[Epoch "Bishop"]
+[WhiteID "100420"]
+[WhiteCountry "ARG"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. Nc3 O-O 5. e4 d6 6. Bg5 c5 7. d5 e6 8. Nd2 h6
+9. Bh4 exd5 10. cxd5 a6 11. a4 Nbd7 12. f4 Re8 13. Be2 Qc7 14. O-O Rb8 15. Qc2
+Nh7 16. Nc4 b5 17. axb5 axb5 18. Na5 b4 19. Nb5 Qb6 20. Nc6 c4+ 21. Bf2 Qxb5
+22. Bxc4 b3 23. Qe2 Qb7 24. Ra7 Qxa7 25. Bxa7 Ra8 26. Qd3 Bxb2 27. Qxb3 Rxa7
+28. Qxb2 Ra4 29. Bd3 Nhf6 30. Ra1 Rxa1+ 31. Qxa1 Nc5 32. Qxf6 1-0

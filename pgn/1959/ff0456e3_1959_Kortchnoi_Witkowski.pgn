@@ -1,0 +1,17 @@
+[Event "Cracow"]
+[Site "Cracow"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Korchnoi, Viktor"]
+[Black "Witkowski, Stefan"]
+[Result "1-0"]
+[ECO "D71"]
+[Opening "Neo-Gruenfeld, 5.cd"]
+[HashCode "ff0456e3"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. e4 Nb4 7. d5 c6 8. Ne2
+cxd5 9. a3 Qa5 10. O-O dxe4 11. Bd2 N8c6 12. Bxe4 Qe5 13. Bxc6+ Nxc6 14. Bc3
+Qe4 15. Nd2 1-0

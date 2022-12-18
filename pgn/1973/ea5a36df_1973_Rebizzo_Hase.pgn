@@ -1,0 +1,17 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1973.01.01"]
+[Round "15"]
+[White "Rebizzo, Cayetano"]
+[Black "Hase, Ricardo"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "ea5a36df"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. a3 b6 7. Be2 Bb7 8. O-O
+dxc4 9. Bxc4 Nbd7 10. Qe2 c5 11. Rd1 Qc7 12. d5 a6 13. a4 Ng4 14. e4 Bd4 15. h3
+Nxf2 16. Rxd4 cxd4 17. Nxd4 Ne5 18. Nc6 Bxc6 19. dxc6 Nxc4 20. Qxc4 Qg3 21. Bh6
+Nxh3+ 22. Kh1 Nf2+ 23. Kg1 Ng4 24. Bxf8 Qh2+ 0-1

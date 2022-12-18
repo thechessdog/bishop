@@ -1,0 +1,19 @@
+[Event "Leipzig olm prel"]
+[Site "Leipzig"]
+[Date "1960.??.??"]
+[Round "3"]
+[White "Larusson, Gudmundur"]
+[Black "Nilsson, Zandor"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "a65819fe"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Nxd4 10. Bxd4 Be6 11. Bb3 Qa5 12. O-O-O b5 13. Kb1 Rfc8 14. g4 b4
+15. Ne2 Rc6 16. h4 Rac8 17. Qg5 Qa6 18. Rd2 Bxb3 19. cxb3 h6 20. Qe3 e5 21. g5
+hxg5 22. hxg5 Nh5 23. f4 exd4 24. Qh3 d3 25. Rxd3 Bxb2 26. f5 Rc2 27. fxg6 Be5
+28. Nc3 R8xc3 29. a4 Rb2+ 30. Ka1 Rbxb3 31. gxf7+ Kf8 32. Qd7 Rc2+ 0-1

@@ -1,0 +1,18 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Zuckmann, V."]
+[Black "Greiner, H."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Cozio (Morphy) defence"]
+[HashCode "f21b175d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Qf3 Nc6 5. Qxf4 Bd6 6. Qe3 Ng4 7. Qh3
+Nge5 8. Bd5 Nd4 9. Bb3 Be7 10. Qe3 Bf6 11. d3 d6 12. Nc3 Ng4 13. Qd2 O-O
+14. g3 Nxb3 15. axb3 Bd4 16. Nf3 Bf2+ 17. Kf1 f5 18. Kg2 fxe4 19. Nxe4 Be3
+20. Qe1 Bxc1 21. Qxc1 d5 22. Nc3 d4 23. Nd1 Qd5 24. Rf1 Ne5 0-1
+

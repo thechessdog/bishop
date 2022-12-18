@@ -1,0 +1,18 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Weigel, R."]
+[Black "Forster, S."]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "15b9e047"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Qe2 Bc5 10. Be3 Ne7 11. Rd1 c6 12. Nbd2 Nxd2 13. Bxc5 Ne4 14.
+Be3 Qc7 15. c3 Ng6 16. Nd4 Nc5 17. Bc2 O-O 18. f4 Ne7 19. f5 Bd7 20. Bg5
+1-0
+

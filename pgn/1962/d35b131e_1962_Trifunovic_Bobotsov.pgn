@@ -1,0 +1,17 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1962.03.01"]
+[Round "1"]
+[White "Trifunovic, Petar"]
+[Black "Bobotsov, Milko G"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "d35b131e"]
+[Epoch "Bishop"]
+[BlackCountry "BGR"]
+[WhiteCountry "SRB"]
+
+1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 Nc6 5. d5 Nd4 6. Nxd4 Bxd4 7. Bd3 d6 8. Nc3
+Bg7 9. O-O Nf6 10. f4 O-O 11. Qf3 a6 12. Bd2 e6 13. h3 exd5 14. exd5 Bf5 15. g4
+Bxd3 16. Qxd3 Re8 17. Rae1 Qd7 18. Kg2 Rxe1 19. Rxe1 Re8 20. Rxe8+ Qxe8 1/2-1/2

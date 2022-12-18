@@ -1,0 +1,21 @@
+[Event "Malaga"]
+[Site "Malaga"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Tatai, Stefano"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "05702ea8"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 Be7 8. O-O
+O-O 9. f4 Nxe4 10. Nxe4 d5 11. f5 exf5 12. Bxd5 Qxd5 13. Nc3 Qa5 14. b4 Qd8 15.
+Bb2 g6 16. Nd5 Qxd5 17. Nxf5 Qxf5 18. Rxf5 Bxf5 19. g4 Bc8 20. Qd4 f6 21. g5
+Nc6 22. Qd5+ Rf7 23. Re1 Kg7 24. Rxe7 Nxe7 25. gxf6+ Rxf6 26. Qd6 Ng8 27. Bxf6+
+Nxf6 28. Qe7+ 1-0

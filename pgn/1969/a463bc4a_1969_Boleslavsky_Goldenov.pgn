@@ -1,0 +1,20 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Boleslavsky, Isaac"]
+[Black "Goldenov, Boris"]
+[Result "1-0"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...Nc6"]
+[HashCode "a463bc4a"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. Nbd2 O-O 12. h3 Nc6 13. a4 Rb8 14. axb5 axb5 15.
+dxc5 dxc5 16. Nf1 Rd8 17. Qe2 h6 18. Ne3 Be6 19. g4 g6 20. Kh1 Kh7 21. Rg1 Bf8
+22. g5 Nh5 23. Nd5 Rxd5 24. exd5 Bxd5 25. Be4 Qd7 26. Bxd5 Qxd5 27. gxh6 Bxh6
+28. Bxh6 Kxh6 29. Rad1 Qe6 30. Ng5 Qf5 31. Rd6 Ne7 32. Qxe5 Qxe5 33. Nxf7+ Kg7
+34. Nxe5 Nf4 35. Rg4 1-0

@@ -1,0 +1,17 @@
+[Event "Siegen olm"]
+[Site "Siegen"]
+[Date "1970.??.??"]
+[Round "4"]
+[White "Zinn, Lothar"]
+[Black "Schermann"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "e044f944"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. O-O O-O 6. d4 exd4 7. cxd4 Bb6 8.
+e5 Nd5 9. Nc3 Nce7 10. Bd3 d6 11. Bg5 Nxc3 12. bxc3 dxe5 13. Bxe7 Qxe7 14. Nxe5
+Be6 15. Qc2 h6 16. f4 Qd6 17. Kh1 c5 18. f5 Bd5 19. f6 Bc7 20. Qe2 1-0

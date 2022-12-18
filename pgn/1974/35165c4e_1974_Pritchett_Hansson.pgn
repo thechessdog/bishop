@@ -1,0 +1,21 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pritchett, Craig W"]
+[Black "Hansson, Dan"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "35165c4e"]
+[Epoch "Bishop"]
+[WhiteID "2400065"]
+[WhiteCountry "SCO"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. f4
+Qc7 9. g4 exf4 10. g5 Nfd7 11. Bxf4 Nc6 12. Qd2 Be7 13. O-O-O Nce5 14. h4 O-O-O
+15. Nd5 Bxd5 16. Qxd5 Kb8 17. Rh3 Nb6 18. Qa5 Nc8 19. Qe1 Na7 20. Rc3 Nac6 21.
+Rd5 Qd7 22. Nc5 Qc8 23. Nxb7 Kxb7 24. Bxa6+ Kxa6 25. Qe2+ Kb7 26. Qb5+ Kc7 27.
+Rxe5 Kd7 28. Rxc6 1-0

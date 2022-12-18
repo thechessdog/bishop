@@ -1,0 +1,18 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1974.??.??"]
+[Round "12"]
+[White "Planinec, Albin"]
+[Black "Velimirovic, Dragoljub"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "038803db"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "SVN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O a6 5. Bxc6 bxc6 6. e5 Ne7 7. d3 Ng6 8.
+Nbd2 Qc7 9. Re1 Be7 10. Nc4 f6 11. Bd2 O-O 12. Ba5 Qb8 13. Bc3 fxe5 14. Nfxe5
+Nxe5 15. Nxe5 Bf6 16. Qd2 Ra7 17. f4 Rb7 18. a3 1/2-1/2

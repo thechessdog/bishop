@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Diemer"]
+[Black "Kloss"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "e22f928f"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. Ne5 O-O
+8. Bg5 Nbd7 9. O-O c5 10. Nxf7 Rxf7 11. dxc5 Qc7 12. Bxf7+ Kxf7 13. Qd5+
+Kf8 14. Ne4 a5 15. Rf2 Ra6 16. Raf1 Rc6 17. Bxf6 exf6 18. Ng5 Ne5 19. Nxh7+
+Ke7 20. Qg8 Be6 21. Qxg7+ Bf7 22. Qf8+ Kd7 23. Rd1+ Ke6 24. Rxf6# 1-0
+

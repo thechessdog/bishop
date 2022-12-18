@@ -1,0 +1,22 @@
+[Event "California"]
+[Site "California"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Spiller, A."]
+[Black "Weiss"]
+[Result "1-0"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "04d7854e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 Re8
+8. cxd5 exd5 9. Ne2 Nbd7 10. O-O c5 11. f3 b6 12. Ng3 Nf8 13. Ra2 h5 14.
+Qe1 g6 15. Re2 Ne6 16. f4 h4 17. Nh1 Ne4 18. Bxe4 dxe4 19. f5 gxf5 20. Rxf5
+Nxd4 21. Rd2 Nxf5 22. Rxd8 Rxd8 23. Nf2 Bb7 24. c4 Rd6 25. Qc3 f6 26. Kf1
+Rad8 27. Qc2 Ng7 28. Ke2 Re8 29. Qa4 a6 30. Bb2 Bc8 31. Bc3 Kf7 32. Qc2 Bf5
+33. Qb1 Ne6 34. a4 a5 35. h3 Ng5 36. Be1 Nf3 37. Ng4 Nxe1 38. Qxe1 Red8 39.
+Nh6+ Kg6 40. Nxf5 Kxf5 41. Qxh4 Rd2+ 42. Kf1 Rd1+ 43. Kf2 R1d2+ 44. Kg1
+R8d6 45. Qh5+ Ke6 46. Qe8+ Kf5 47. g4+ Kg5 48. Qh5# 1-0
+

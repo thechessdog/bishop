@@ -1,0 +1,19 @@
+[Event "RSFSR zt"]
+[Site "RSFSR zt"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Grechkin"]
+[Black "Razinsky"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "acc4d62a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Bg6 6. a3 Nbd7 7. e3 e5 8.
+Bd3 Bd6 9. Nge2 Qc7 10. dxe5 Bxe5 11. O-O-O O-O 12. g4 b5 13. f4 Bxc3 14.
+Qxc3 Ne4 15. Bxe4 Bxe4 16. Rhf1 c5 17. Ng3 f6 18. Bh4 Rab8 19. Nxe4 dxe4
+20. Rd5 Rfc8 21. Rfd1 Nb6 22. Rd6 Qf7 23. Kb1 b4 24. axb4 cxb4 25. Qb3 a5
+26. Be1 Nc4 27. Rd7 Qe6 28. f5 Qa6 29. Bg3 a4 30. Qa2 b3 31. cxb3 Rxb3 32.
+Rd8+ Rxd8 33. Rxd8+ Kf7 34. Kc1 Rxb2 35. Qa1 Qa5 0-1
+

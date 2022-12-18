@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kexel"]
+[Black "Brilla Banfalvi, Sa"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "0f9751f8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nxe5 Bd6
+8. O-O Qh4 9. Qb3 Bxe5 10. dxe5 Ne7 11. Be3 Rf8 12. Nd2 Rf5 13. f4 Rh5 14.
+Nxe4 Qxh2+ 15. Kf2 Bh3 16. Rg1 O-O-O 17. Qa3 Rh4 18. Kf3 Nd5 19. gxh3 Rxf4+
+20. Bxf4 Qxf4+ 21. Ke2 Qxe4+ 22. Kf2 Qf4+ 23. Ke2 Qxe5+ 0-1
+

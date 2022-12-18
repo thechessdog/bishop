@@ -1,0 +1,18 @@
+[Event "URS-chT"]
+[Site "Moscow"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Zakharian, Vanik"]
+[Black "Etruk, Rein T"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "cc03b2f2"]
+[Epoch "Bishop"]
+[BlackID "4500369"]
+[BlackCountry "EST"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Nd5 9. Nxd5 Qxd5 10. c3 Bg4 11. Qe2 Rad8 12. Be4 Qd7 13. O-O f6 14. exf6 exf6
+15. Qf2 Rfe8 16. Bc2 Na5 17. Bf4 Nc4 18. Rfe1 1/2-1/2

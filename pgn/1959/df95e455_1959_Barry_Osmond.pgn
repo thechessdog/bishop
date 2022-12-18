@@ -1,0 +1,19 @@
+[Event "Providence"]
+[Site "Providence"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Barry"]
+[Black "Osmond"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Stahlberg variation"]
+[HashCode "df95e455"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qd2 O-O
+8. f4 c5 9. Nf3 Nc6 10. O-O-O c4 11. g3 Rb8 12. Nb5 a6 13. Nd6 b5 14. f5 b4
+15. Bh3 h6 16. f6 gxf6 17. Qxh6 fxe5 18. Ng5 f5 19. Qg6+ Qg7 20. Qxg7+ Kxg7
+21. Nxe6+ Kf6 22. Nxf8 Nxf8 23. dxe5+ Kxe5 24. Nxc8 Rxc8 25. Rhe1+ Kf6 26.
+Rxd5 Ne7 27. Rd6+ 1-0
+

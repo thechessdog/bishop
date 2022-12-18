@@ -1,0 +1,18 @@
+[Event "USA-72ch"]
+[Site "Ventura"]
+[Date "1971.??.??"]
+[Round "3"]
+[White "Tobin, Hugh"]
+[Black "De Fotis, Gregory"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "2b415756"]
+[Epoch "Bishop"]
+[BlackID "2000865"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. a4 b4 10. Na2 a5 11. c3 O-O 12. cxb4 axb4 13. Nxb4 Bb7 14. Be3 d5 15. e5
+Bxb4 16. exf6 Qxf6 17. f4 Na6 18. Nf3 Nc5 19. Bc2 Ne4 20. Ne5 Qe7 0-1

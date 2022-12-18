@@ -1,0 +1,22 @@
+[Event "Herning"]
+[Site "Herning"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Nielsen, Axel"]
+[Black "Hansen, Victor"]
+[Result "1-0"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "46db0f26"]
+[Epoch "Bishop"]
+[WhiteID "1421905"]
+[WhiteCountry "DEN"]
+[BlackID "1502638"]
+[BlackCountry "NOR"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 Nf6 6. Nge2 d6 7. d4 O-O 8. O-O
+cxd4 9. exd4 Bf5 10. h3 h5 11. Be3 Re8 12. Qd2 Qc8 13. Kh2 Nd8 14. Rac1 Qd7 15.
+d5 b6 16. Nd4 Qc8 17. Nxf5 Qxf5 18. Nb5 Qd7 19. f4 Nb7 20. Nd4 Rac8 21. f5 Nd8
+22. Qd3 e5 23. fxe6 fxe6 24. Qxg6 exd5 25. Rxf6 Rxe3 26. Nf5 Re5 27. Nh6+ Kh8
+28. Rf8+ 1-0

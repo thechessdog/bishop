@@ -1,0 +1,17 @@
+[Event "Cordoba"]
+[Site "Cordoba"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Aguirre, A."]
+[Black "Rossetto, Hector"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "f04e673d"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. g3 e5 2. Bg2 Nc6 3. d3 d6 4. e4 Be7 5. Nc3 Nf6 6. h3 O-O 7. Bg5 Be6 8. Nge2
+h6 9. Be3 d5 10. Nxd5 Nxd5 11. exd5 Bxd5 12. O-O Bxg2 13. Kxg2 Qd5+ 14. f3 Rad8
+15. Nc3 Qe6 16. Qe2 Rfe8 17. Qf2 a6 18. f4 f6 19. f5 Qd7 20. a3 Nd4 21. Kh2 Qc6
+22. Bxd4 Rxd4 1/2-1/2

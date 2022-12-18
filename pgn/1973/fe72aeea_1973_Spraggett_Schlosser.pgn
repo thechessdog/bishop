@@ -1,0 +1,28 @@
+[Event "Quebec"]
+[Site "Quebec"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Schlosser, Emil"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "fe72aeea"]
+[Epoch "Bishop"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Nf6 6. Re1 Be7 7. c3 O-O 8. h3
+b5 9. Bb3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. d5 Nb4 15.
+Bb1 a5 16. a3 Na6 17. Ra2 b4 18. axb4 Nxb4 19. Ra3 Nd7 20. Rc3 Qb7 21. Nc4 Nb6
+22. Nfd2 Nxc4 23. Nxc4 Qa6 24. Ne3 Bg5 25. Qf3 Bd7 26. Nf5 Bxc1 27. Ne7+ Kh8
+28. Rexc1 Rae8 29. Nc6 Bxc6 30. dxc6 Rc8 31. c7 f6 32. Rc4 h6 33. Bd3 Qb7 34.
+Bf1 Rf7 35. Qa3 Rfxc7 36. Qxa5 Rxc4 37. Rxc4 Nc2 38. Rxc8+ Qxc8 39. Qd5 Qb8 40.
+Bc4 Kh7 41. Kh2 Qc8 42. Qf7 Qb8 43. b3 Kh8 44. Kg3 Nb4 45. Kh4 Qd8 46. Kh5 f5
+47. Qxf5 d5 48. exd5 Nxd5 49. Qxe5 Ne7 50. Bf7 Qc8 51. Kh4 Qd7 52. g4 Kh7 53.
+Qe4+ g6 54. Kg3 Qd6+ 55. Kg2 Kg7 56. Bc4 Kf6 57. Bd3 Kg5 58. f4+ Kf6 59. Qe5+
+Qxe5 60. fxe5+ Kxe5 61. Kf3 g5 62. Be4 Kd4 63. b4 Nc8 64. b5 Nb6 65. Bc6 Kd3
+66. h4 Nc4 67. Kf2 Nb6 68. Bf3 Na4 69. Be2+ Kd4 70. hxg5 hxg5 71. Ke1 Ke3 72.
+Bd1 Nb6 73. Bb3 Kd3 74. Bf7 Na4 75. Bg6+ Kc3 76. Ke2 Kd4 77. Kd2 Nb6 78. Kc2
+Kc4 79. Bd3+ Kd4 80. Be2 Nd5 81. Kb3 Kc5 82. Bd3 Nf6 1/2-1/2

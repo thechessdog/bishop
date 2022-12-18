@@ -1,0 +1,18 @@
+[Event "Providence,RI ch-NE"]
+[Site "Providence,RI ch-NE"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Lees, David"]
+[Black "Lyman, Shelby"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "f11df2eb"]
+[Epoch "Bishop"]
+[BlackID "2002922"]
+[BlackCountry "USA"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 Ne4 5. Qb3 c5 6. Nd2 d5 7. cxd5 exd5 8.
+Qxd5 Nxc3 9. Qe5+ Qe7 10. Qxg7 Rf8 11. bxc3 Bxc3 12. Ba3 Bxa1 0-1

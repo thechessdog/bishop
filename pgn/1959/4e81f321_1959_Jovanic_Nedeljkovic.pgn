@@ -1,0 +1,19 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Jovanic, R."]
+[Black "Nedeljkovic, Strecko"]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "4e81f321"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 b6 7. O-O Bb7 8. cxd5
+exd5 9. Bd2 Bd6 10. Nb5 Be7 11. a4 a6 12. Na3 c5 13. b3 Bd6 14. Nc2 Nc6 15. h3
+Re8 16. Qe2 Ne4 17. Rfd1 Qf6 18. Be1 Bc7 19. Bxe4 dxe4 20. Nh2 Rad8 21. Bc3 Bc8
+22. Rab1 Qg5 23. Kh1 Rd6 24. dxc5 Rg6 25. f4 exf3 26. Nxf3 Qxc5 27. Bd4 Qh5 28.
+Nce1 Bxh3 29. gxh3 Qxh3+ 30. Nh2 Bxh2 0-1

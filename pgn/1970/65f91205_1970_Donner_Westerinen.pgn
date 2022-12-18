@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Westerinen, Heikki M.J."]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Simagin variation"]
+[HashCode "65f91205"]
+[Epoch "Bishop"]
+[BlackID "500020"]
+[WhiteCountry "NLD"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O Bg4 8. d5
+Na5 9. Nd2 c5 10. Qc2 a6 11. h3 Bd7 12. b3 e5 13. Bb2 Nh5 14. e4 b5 15. Ne2 Rb8
+16. Bc3 f5 17. f4 exf4 18. Bxg7 Nxg7 19. Nxf4 Qf6 20. cxb5 Bxb5 21. Rfe1 g5 22.
+Nd3 Nh5 23. a4 Qd4+ 24. Nf2 Be2 25. exf5 Nxg3 26. Rab1 Rxf5 0-1

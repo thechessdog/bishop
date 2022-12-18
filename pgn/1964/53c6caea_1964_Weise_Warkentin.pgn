@@ -1,0 +1,17 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Weise, G."]
+[Black "Warkentin, L."]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "53c6caea"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nc3 Qe7 7. Qd5
+Bxc3+ 8. bxc3 Qa3 9. Rc1 f6 10. exf6 Nxf6 11. Qd2 O-O 12. Nd4 Nxd4 13. cxd4
+Ne4 14. Qe3 Qb4+ 15. Kd1 d5 16. f3 Bd7 0-1
+

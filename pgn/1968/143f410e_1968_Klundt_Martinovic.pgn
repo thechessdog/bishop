@@ -1,0 +1,27 @@
+[Event "WchT U26"]
+[Site "Ybbs"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Klundt, Klaus"]
+[Black "Martinovic, Slobodan"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "143f410e"]
+[Epoch "Bishop"]
+[WhiteID "4600436"]
+[WhiteCountry "GER"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+b5 9. O-O Bb7 10. Qe2 Nbd7 11. a3 Be7 12. fxe5 dxe5 13. Bg5 O-O 14. Rad1 Rfe8
+15. Nh4 g6 16. Kh1 Kg7 17. Qf3 h6 18. Bc1 Rf8 19. Qg3 Kh7 20. Qh3 h5 21. Bg5
+Rae8 22. Rf3 Ng4 23. Bxe7 Rxe7 24. Nf5 Re6 25. Nd5 Bxd5 26. exd5 e4 27. Rff1
+exd3 28. dxe6 dxc2 29. Rc1 fxe6 30. Qg3 Qc5 31. h3 Rxf5 32. Rxf5 gxf5 33. hxg4
+hxg4 34. Qd3 Ne5 35. Qxc2 Qxc2 36. Rxc2 Kg6 37. Rc5 Kf6 38. Kg1 g3 39. Rc8 f4
+40. Ra8 Nc4 41. Rxa6 Nxb2 42. Rb6 Nc4 43. Rxb5 Nxa3 44. Rc5 e5 45. Kf1 Kf5 46.
+Rc3 Nb5 47. Rc5 Nd4 48. Rc8 Ke4 49. Rc3 Nf5 50. Ke2 Nh4 51. Kf1 Nf5 52. Ke2
+Nd4+ 53. Kf1 Kd5 54. Rc8 Ke6 55. Re8+ Kf5 56. Rc8 Kg4 57. Rg8+ Kf5 58. Rc8 Kf6
+59. Rf8+ Ke7 60. Rc8 Kd7 61. Rc5 Kd6 62. Rc3 e4 63. Rc8 e3 64. Re8 Kd5 65. Rc8
+Ke4 66. Ke1 Kd3 67. Kf1 e2+ 68. Ke1 f3 0-1

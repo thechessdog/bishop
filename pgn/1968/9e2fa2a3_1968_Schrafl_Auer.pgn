@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Schrafl"]
+[Black "Auer"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Noteboom variation"]
+[HashCode "9e2fa2a3"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 dxc4 5. e3 b5 6. a4 b4 7. Ne4 Ba6 8. Ne5
+Qd5 9. Ng5 Nh6 10. e4 Qd8 11. Nxe6 fxe6 12. Bxh6 Qh4 13. Be3 Qxe4 14. Be2
+Qxg2 15. Bf3 Qh3 16. Bg4 Qh4 17. Bxe6 Be7 18. Qd2 Qf6 19. Bf7+ Kf8 20. Rg1
+Bd6 21. Rg4 c3 22. bxc3 Bxe5 23. dxe5 Qxe5 24. Rf4 Qxc3 25. Qxc3 bxc3 26.
+Bc5# 1-0
+

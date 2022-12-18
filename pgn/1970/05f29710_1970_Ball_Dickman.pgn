@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ball, L."]
+[Black "Dickman"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "05f29710"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. b3 b5 4. c4 b4 5. Bb2 Nc6 6. d4 cxd4 7. Nxd4 Bb7 8.
+Nf5 e5 9. c5 Bxc5 10. Bc4 Qf6 11. f4 g6 12. fxe5 Nxe5 13. Bd5 Bxd5 14. Qxd5
+Nd3+ 15. Kd1 Nxb2+ 16. Kc2 Rc8 0-1
+

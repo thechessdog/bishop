@@ -1,0 +1,17 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Zemitis, Val"]
+[Black "Gross, Henry"]
+[Result "1-0"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "92323f72"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 c5 5. cxd5 Nxd5 6. Bd2 cxd4 7. Nxd4 Be7
+8. e4 Nf6 9. Bb5+ Bd7 10. e5 Nd5 11. Nxd5 exd5 12. Qg4 Kf8 13. Bxd7 h5 14.
+Ne6+ fxe6 15. Qf3+ Bf6 16. Ba4 1-0
+

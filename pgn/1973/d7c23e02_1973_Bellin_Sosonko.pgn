@@ -1,0 +1,25 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1973.07.01"]
+[Round "2"]
+[White "Bellin, Robert"]
+[Black "Sosonko, Gennadi"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "d7c23e02"]
+[Epoch "Bishop"]
+[WhiteID "400343"]
+[WhiteCountry "ENG"]
+[BlackID "1000039"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Bc4
+O-O 9. Qd2 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 Nc4 13. Bxc4 Rxc4 14. g4 h5 15.
+gxh5 Nxh5 16. Rdg1 e6 17. Nde2 d5 18. exd5 Qf6 19. Bh6 Rfc8 20. Bxg7 Kxg7 21.
+Kb1 exd5 22. Nxd5 Qxf3 23. Rf1 Qe4 24. Ne3 R4c7 25. Nc3 Qe5 26. Ned5 Rc4 27.
+Nb6 axb6 28. Qxd7 R8c7 29. Qd2 Rxc3 30. bxc3 Ng3 31. Re1 Qb5+ 32. Kc1 Nxh1 33.
+Rxh1 Rd7 34. Qe3 Qd5 35. Re1 Qxa2 36. Qxb6 Qa1+ 37. Qb1 Qxc3 38. Qb2 Qxb2+ 39.
+Kxb2 Rd4 40. Rh1 Kh6 41. Kc3 Rd7 42. Re1 Kh5 43. Re4 f6 44. Kb4 g5 45. hxg5
+fxg5 46. Re8 g4 0-1

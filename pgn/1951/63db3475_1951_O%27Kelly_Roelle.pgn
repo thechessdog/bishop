@@ -1,0 +1,23 @@
+[Event "Southsea"]
+[Site "Southsea"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "O'Kelly"]
+[Black "Roelle"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "63db3475"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Qb3 c5 6. Bg5 h6 7. Bh4 g5 8.
+Bg3 g4 9. dxc5 Nc6 10. a3 Ba5 11. O-O-O gxf3 12. Nb5 bxc5 13. Qxf3 Rg8 14.
+Bh4 Rg6 15. e3 d5 16. cxd5 exd5 17. Qf4 Be6 18. e4 Rg4 19. Nd6+ Kd7 20. Qf3
+Rxh4 21. exd5 Nxd5 22. Nxf7 Qe7 23. Rxd5+ Bxd5 24. Qxd5+ Kc7 25. Bb5 Nd4
+26. Qxa8 Nxb5 27. Rd1 Rc4+ 28. Kb1 Qe4+ 29. Qxe4 Rxe4 30. Nxh6 Re2 31. Ng4
+c4 32. Rc1 c3 33. Rc2 Re1+ 34. Rc1 Re2 35. Rc2 Re4 36. f3 Re1+ 37. Rc1 Re2
+38. Rc2 Re1+ 39. Rc1 Re2 40. Rc2 Re6 41. Rc1 Nd4 42. bxc3 Rb6+ 43. Ka2 Ne2
+44. Rf1 Nxc3+ 45. Ka1 Ne2 46. Rb1 Rd6 47. Nf2 Rd2 48. Ne4 Bc3+ 49. Nxc3
+Nxc3 0-1
+

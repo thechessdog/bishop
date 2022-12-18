@@ -1,0 +1,19 @@
+[Event "Ribe"]
+[Site "Ribe"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Jansson, Borje"]
+[Black "Rantanen, Yrjo A."]
+[Result "1-0"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[HashCode "3e4f3444"]
+[Epoch "Bishop"]
+[WhiteID "1700189"]
+[BlackID "500038"]
+[WhiteCountry "SWE"]
+[BlackCountry "FIN"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. d4 b6 7. Nc3 Bb7 8. Ne5
+c5 9. cxd5 cxd4 10. Qxd4 Nxd5 11. Nxd5 Bxd5 12. Bxd5 Bc5 13. Qxc5 1-0

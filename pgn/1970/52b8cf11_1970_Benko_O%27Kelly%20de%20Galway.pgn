@@ -1,0 +1,18 @@
+[Event "Caracas"]
+[Site "Caracas"]
+[Date "1970.06.01"]
+[Round "2"]
+[White "Benko, Pal"]
+[Black "O'Kelly, Albéric de Galway"]
+[Result "1/2-1/2"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "52b8cf11"]
+[Epoch "Bishop"]
+[WhiteID "2000687"]
+[WhiteCountry "HUN"]
+
+1. c4 Nf6 2. Nf3 e6 3. d4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Ne8 12. Nc4 Ne5 13. Na3 f5 14. h3 g5 15. f4
+gxf4 16. gxf4 1/2-1/2

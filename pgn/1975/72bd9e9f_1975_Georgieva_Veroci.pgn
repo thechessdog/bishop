@@ -1,0 +1,17 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Georgieva"]
+[Black "Veroci, Zsuzsa"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "72bd9e9f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c6 5. Qd2 h6 6. Bh4 e6 7. e3 Be7 8. O-O-O
+b5 9. Bxf6 Nxf6 10. Bd3 a5 11. h4 a4 12. Nb1 Qb6 13. Ne2 c5 14. Nf4 c4 15. Be2
+b4 16. e4 c3 17. Qe3 cxb2+ 18. Kxb2 dxe4 19. fxe4 Bb7 20. Bf3 O-O 21. e5 Nd5
+22. Bxd5 Bxd5 23. Nxd5 exd5 24. g4 Rfc8 25. g5 Qg6 26. Rh2 hxg5 27. hxg5 Bxg5
+28. Rdh1 Rxc2+ 0-1

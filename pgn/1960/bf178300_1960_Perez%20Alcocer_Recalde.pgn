@@ -1,0 +1,16 @@
+[Event "Sao Paulo zt"]
+[Site "Sao Paulo zt"]
+[Date "1960.01.01"]
+[Round "6"]
+[White "Perez Alcocer, Jose"]
+[Black "Recalde, Eleuterio"]
+[Result "1/2-1/2"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "bf178300"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Nbxd2 d5 9. O-O O-O 10. Bxc6 Nxc6 11. e5 f6 12. exf6 Qxf6 13. Qb3 Qd6 14.
+Ne4 Qd8 15. Nc3 Kh8 16. Qxd5 Qxd5 17. Nxd5 1/2-1/2

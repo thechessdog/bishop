@@ -1,0 +1,18 @@
+[Event "Rhyl chU16-GB"]
+[Site "Rhyl chU16-GB"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Scott, OJ."]
+[Black "Tayler, SJ."]
+[Result "0-1"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "7102b58a"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 d5 3. e3 e5 4. Nf3 e4 5. Nd4 c5 6. Nb3 d4 7. exd4 cxd4 8.
+Ne2 Nc6 9. d3 Bb4+ 10. Bd2 exd3 11. Bxb4 Nxb4 12. Nexd4 Qe7+ 13. Kd2 Ne4+
+14. Kc1 Nxf2 15. Qd2 Nxh1 16. a3 Nc2 17. Nxc2 dxc2 18. Kxc2 Bf5+ 19. Kc3
+Qf6+ 0-1
+

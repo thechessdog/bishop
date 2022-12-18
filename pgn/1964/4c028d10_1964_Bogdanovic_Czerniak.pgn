@@ -1,0 +1,19 @@
+[Event "Pecs"]
+[Site "Pecs"]
+[Date "1964.??.??"]
+[Round "3"]
+[White "Bogdanovic, Rajko"]
+[Black "Czerniak, Moshe"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "4c028d10"]
+[Epoch "Bishop"]
+[WhiteID "14400316"]
+[WhiteCountry "BIH"]
+[BlackCountry "ISR"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nbd7 7. f5 c5 8. e5
+Ne8 9. fxg6 fxg6 10. e6 Ndf6 11. d5 Nc7 12. Ng5 b5 13. Nf7 Qe8 14. Nh6+ Kh8 15.
+Nf7+ Kg8 16. Nh6+ 1/2-1/2

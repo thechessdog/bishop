@@ -1,0 +1,19 @@
+[Event "Rovigo"]
+[Site "Rovigo"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Magrini, R."]
+[Black "Gargiulo"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "c0a6fbcf"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Ne7 5. Nf3 Nd7 6. Bd3 Nc6 7. O-O Qb6 8. a3
+Be7 9. Bc2 f5 10. exf6 Nxf6 11. Re1 O-O 12. b4 cxd4 13. cxd4 Bd7 14. Nc3
+Rac8 15. Qd3 Bxb4 16. Bg5 Bxc3 17. Bxf6 g6 18. Qxc3 Rxf6 19. Qd2 Rcf8 20.
+Rab1 Qa5 21. Qh6 R8f7 22. Ng5 Re7 23. Qh4 Qd2 24. Nf3 Rxf3 25. gxf3 Qxc2
+26. Rbc1 Qd2 27. Red1 g5 28. Qg3 Qf4 0-1
+

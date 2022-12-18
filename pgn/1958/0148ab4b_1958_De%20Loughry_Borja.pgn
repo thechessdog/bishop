@@ -1,0 +1,24 @@
+[Event "Munich olm fin-C"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "11"]
+[White "De Loughry, Desmond"]
+[Black "Borja, M."]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "0148ab4b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. Qe2 e6 7. Rd1
+Nge7 8. d4 cxd4 9. Nxd4 Ng6 10. Be3 Be7 11. Nc3 O-O 12. Rd2 Nxd4 13. Bxd4
+a6 14. Rad1 Qc6 15. g3 Rac8 16. f4 e5 17. fxe5 dxe5 18. Be3 f5 19. exf5
+Rxf5 20. Rd7 Rcf8 21. Nd5 Bc5 22. Qc4 Kh8 23. Bxc5 Qxd7 24. Bxf8 Rxf8 25.
+Ne3 Qe7 26. Rf1 Rxf1+ 27. Kxf1 Qd7 28. Qd5 Qxd5 29. Nxd5 Kg8 30. Ke2 Kf7
+31. Ke3 Ne7 32. Nxe7 Kxe7 33. Ke4 Kd6 34. c3 b5 35. b3 a5 36. h3 a4 37. c4
+bxc4 38. bxc4 a3 39. g4 g5 40. c5+ Kxc5 41. Kxe5 Kc4 42. Kf6 Kc3 43. Kxg5
+Kb2 44. Kh6 Kxa2 45. Kxh7 Kb3 46. g5 a2 47. g6 a1=Q 48. g7 Qa7 49. Kh8 Qd4
+50. Kh7 Qd3+ 51. Kg8 Qxh3 52. Kf7 Qf5+ 53. Ke7 Qg6 54. Kf8 Qf6+ 55. Kg8 Kc4
+56. Kh7 Qf7 0-1
+

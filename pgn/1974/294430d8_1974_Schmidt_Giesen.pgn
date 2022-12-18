@@ -1,0 +1,22 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Schmidt, Bodo"]
+[Black "Giesen, Dieter"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Tolush-Geller gambit"]
+[HashCode "294430d8"]
+[Epoch "Bishop"]
+[BlackID "4652010"]
+[BlackCountry "GER"]
+[WhiteID "4601505"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. e4 b5 6. e5 Nd5 7. Ng5 e6 8. Qh5 g6
+9. Qf3 f5 10. Bd2 Qb6 11. Rd1 Nb4 12. Be2 Nc2+ 13. Kf1 Nxd4 14. Qh3 b4 15. Be3
+c5 16. Nxh7 Bg7 17. Qg3 Kf7 18. Ng5+ Ke7 19. Nf3 Kf7 20. Ng5+ Ke7 21. Nge4 bxc3
+22. bxc3 fxe4 23. cxd4 cxd4 24. Bxd4 Qb5 25. Qxg6 Rg8 26. a4 Qc6 27. Bc5+ Qxc5
+28. Qg5+ 1-0

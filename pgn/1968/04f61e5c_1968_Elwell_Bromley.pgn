@@ -1,0 +1,18 @@
+[Event "Islington"]
+[Site "Islington"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Elwell, R."]
+[Black "Bromley"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "04f61e5c"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Bc5 4. c3 dxe4 5. dxe4 e5 6. Ngf3 Nc6 7. b4 Bd6 8.
+Bc4 Nf6 9. Qb3 O-O 10. Ng5 Qe7 11. Ndf3 h6 12. h4 hxg5 13. hxg5 Nxe4 14.
+Nh4 Be6 15. Ng6 fxg6 16. Bxe6+ Rf7 17. Bxf7+ Qxf7 18. Rh8+ Kxh8 19. Qxf7
+Rf8 20. Qxg6 1-0
+

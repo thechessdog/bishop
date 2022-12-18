@@ -1,0 +1,17 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Jewell, G."]
+[Black "Stopher, H."]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "b6113260"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 Nxe4 6. Nxe5 Bxf2+ 7. Rxf2
+Nxf2 8. Qe2 Qe7 9. Bxc6 Nh3+ 10. gxh3 dxc6 11. Qe3 O-O 12. d4 Qh4 13. Kg2
+Re8 14. Ng6 Bxh3+ 15. Qxh3 Re2+ 0-1
+

@@ -1,0 +1,17 @@
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Huberg"]
+[Black "Heer"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "f5cb89dc"]
+[Epoch "Bishop"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. Nf3 Nc6 6. Bb2 d5 7. cxd5
+Qxd5 8. Nc3 Bxc3 9. Bxc3 Ne4 10. Qc2 Re8 11. e3 b5 12. Rc1 Bg4 13. Bd4 Nxd4
+14. Nxd4 Qxd4 15. exd4 Ng3+ 16. Be2 Rxe2+ 17. Kd1 Rxf2+ 18. Ke1 Re2+ 19.
+Kd1 Re3# 0-1
+

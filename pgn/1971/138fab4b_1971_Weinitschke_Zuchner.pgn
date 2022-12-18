@@ -1,0 +1,19 @@
+[Event "corr DDR-PV"]
+[Site "corr DDR-PV"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Weinitschke, G."]
+[Black "Zuchner, G."]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "138fab4b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Nc6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 Be7 11. Nf3 b5 12. Bxf6 gxf6 13. Bd3 Qb6 14. Kb1
+Na5 15. e5 dxe5 16. fxe5 O-O-O 17. exf6 Bxf6 18. Ne4 Be7 19. Ne5 f5 20. Ng6
+Rh7 21. Nxe7+ Rxe7 22. Nf6 Bc6 23. Qxh6 Bxg2 24. Rhg1 Bc6 25. h4 Nb7 26.
+Qg5 Qc7 27. h5 Nd6 28. h6 Nf7 29. Qh4 Nxh6 30. Qxh6 f4 31. Be4 1-0
+

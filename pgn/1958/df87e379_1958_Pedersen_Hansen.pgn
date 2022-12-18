@@ -1,0 +1,19 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Pedersen, Eigil"]
+[Black "Hansen, Victor"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "df87e379"]
+[Epoch "Bishop"]
+[BlackID "1502638"]
+[BlackCountry "NOR"]
+[WhiteCountry "DNK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O O-O 10. g4 b5 11. Bd3 Bb7 12. Qh3 Rc8 13. Rhe1 Nbd7 14. e5 dxe5
+15. Bxf6 Bxf6 16. Bxh7+ Kf8 17. Nxe6+ fxe6 18. g5 exf4 19. Qxe6 1-0

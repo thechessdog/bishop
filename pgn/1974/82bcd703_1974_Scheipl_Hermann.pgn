@@ -1,0 +1,21 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Scheipl, Ralf"]
+[Black "Hermann, Manfred"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "82bcd703"]
+[Epoch "Bishop"]
+[WhiteID "4603087"]
+[BlackID "4600584"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6 Qg5
+8. Qe2 Nf6 9. f4 Qh4+ 10. g3 Qh3 11. Ne5+ c6 12. Bc4 Bc5 13. Bf7+ Ke7 14. b3
+Ng4 15. Qc4 Bf2+ 16. Kd1 Nxe5 17. Ba3+ c5 18. fxe5 b5 19. Qxe4 Kxf7 20. Qf3+
+Kg6 21. Qxf2 Rf8 22. Qe1 Bb7 23. Rg1 b4 24. Bb2 Qxh2 25. a3 Rad8 26. d4 Rf2 0-1

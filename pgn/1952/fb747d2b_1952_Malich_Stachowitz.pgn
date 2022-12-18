@@ -1,0 +1,20 @@
+[Event "Sigmaringen"]
+[Site "Sigmaringen"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Malich, Burkhard, Dr."]
+[Black "Stachowitz"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "fb747d2b"]
+[Epoch "Bishop"]
+[WhiteID "4611330"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 c5 5. dxc5 dxe4 6. Bxe4 Qxd1+ 7. Kxd1 Nf6
+8. Bf3 Bxc5 9. Bf4 O-O 10. Nb5 Nc6 11. Nc7 Rb8 12. c3 e5 13. Bg3 a6 14. b4 Rd8+
+15. Kc1 Bd6 16. Nxa6 bxa6 17. Bxc6 Bf5 18. Ba4 Rbc8 19. Kb2 Ne4 20. Ne2 Bxb4
+21. Rhd1 Rxd1 22. Bxd1 Nxc3 23. Kb3 a5 24. a3 Nxd1 25. axb4 Bc2+ 26. Ka3 Rb8
+27. b5 Rxb5 28. Rc1 Rc5 29. Bxe5 1/2-1/2

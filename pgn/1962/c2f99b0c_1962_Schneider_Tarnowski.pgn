@@ -1,0 +1,25 @@
+[Event "Varna olm"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "3"]
+[White "Schneider, Lars-Ake"]
+[Black "Tarnowski, Alfred"]
+[Result "0-1"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...Nc6"]
+[HashCode "c2f99b0c"]
+[Epoch "Bishop"]
+[WhiteID "1700235"]
+[WhiteCountry "SWE"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Na5 14. b3 Ne8 15. g4
+h5 16. Nh2 hxg4 17. hxg4 Bg5 18. Ndf1 Qe7 19. Ng3 g6 20. Kg2 Kg7 21. Rh1 Rh8
+22. Bxg5 Qxg5 23. Qc1 Qxc1 24. Raxc1 Nf6 25. f3 Bd7 26. Rcg1 Nb7 27. Nhf1 Rxh1
+28. Rxh1 b4 29. Ne2 a5 30. Nd2 a4 31. c4 axb3 32. Bxb3 Na5 33. Nc1 Bc8 34. Kf2
+Nd7 35. Ke3 Nb6 36. Kd3 Ba6 37. Rh2 Rh8 38. Rxh8 Kxh8 39. Ne2 Kg7 40. g5 f6 41.
+f4 exf4 42. gxf6+ Kxf6 43. Nxf4 g5 44. Ne6 Nd7 45. Nf3 g4 46. Nh4 Ne5+ 47. Ke3
+Bc8 48. Nf5 Nexc4+ 49. Bxc4 Nxc4+ 50. Kf4 Bxe6 51. dxe6 Kxe6 52. Ng7+ Kf7 53.
+Nf5 Kf6 54. Nxd6 Nxd6 55. e5+ Ke6 56. exd6 c4 0-1

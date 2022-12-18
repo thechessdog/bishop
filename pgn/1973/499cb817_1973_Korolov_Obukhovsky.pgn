@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Korolov"]
+[Black "Obukhovsky"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "499cb817"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. Bb5 Ne7 6. exd5 Nxd5 7. O-O Nxf4
+8. d3 Ng6 9. Ng5 f6 10. Bxc6+ bxc6 11. Qf3 Ne5 12. Qg3 Qd4+ 13. Be3 Qg4 14.
+Qf2 fxg5 15. d4 cxd4 16. Bxd4 Nf3+ 17. Qxf3 Qxd4+ 18. Kh1 Qd7 19. Rad1 Qc7
+20. Ne4 Ba6 21. Qh5+ g6 22. Nf6+ Kf7 23. Nd5+ Kg7 24. Nxc7 gxh5 25. Rd7+
+Kg6 26. Nxa6 Bg7 27. Rd6 Rhe8 28. Nc7 Rad8 29. Nxe8 Rxe8 30. Re1 Kf5 31. c3
+c5 32. Rd7 Bf6 33. Rxa7 Rb8 34. Rf1+ Kg6 35. Ra6 Kf7 36. b3 h4 37. Ra7+ Kg6
+38. Ra6 Re8 39. Rc6 Bxc3 40. Rxc5 Bd4 41. Rc6 Kh5 42. h3 e5 43. Rff6 g4 44.
+Rf5# 1-0
+

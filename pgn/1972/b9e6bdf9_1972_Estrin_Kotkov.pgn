@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Kotkov, Yuri"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "b9e6bdf9"]
+[Epoch "Bishop"]
+[BlackID "54142938"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+ 8.
+Kxd1 Ng4 9. Ke1 Nc6 10. Bb5 f6 11. h3 Nh6 12. Nd5 fxe5 13. fxe5 Nf7 14. Nxc7
+Rb8 15. Bc4 0-1

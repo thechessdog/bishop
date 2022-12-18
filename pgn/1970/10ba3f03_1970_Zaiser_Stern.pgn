@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Zaiser, P."]
+[Black "Stern, W."]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Meitner variation"]
+[HashCode "10ba3f03"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Nc2
+Bxe3 8. Nxe3 Qe5 9. Qf3 O-O 10. Bc4 b5 11. Bd3 Ng6 12. g3 Qc5 13. Qe2 Nce5
+14. Bc2 b4 15. a3 bxc3 16. Nxc3 Rb8 17. O-O Rxb2 18. Na4 Rxc2 19. Qxc2 Nf3+
+20. Kg2 Qh5 21. Rh1 d5 22. h3 Ngh4+ 23. gxh4 Nxh4+ 24. Kg3 Qf3+ 25. Kxh4 f6
+26. Ng4 Bd7 27. Nc5 Be8 28. Ne6 g5+ 0-1
+

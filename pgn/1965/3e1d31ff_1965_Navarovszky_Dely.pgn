@@ -1,0 +1,17 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Navarovszky, Laszlo"]
+[Black "Dely, Peter"]
+[Result "0-1"]
+[ECO "A84"]
+[Opening "Dutch defence, Rubinstein variation"]
+[HashCode "3e1d31ff"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Bb4 4. Bd2 Nf6 5. Nf3 O-O 6. e3 d6 7. Qc2 Nc6 8. O-O-O
+a5 9. a3 Bxc3 10. Bxc3 Ne4 11. Bd3 Nb4 12. Bxb4 axb4 13. Bxe4 fxe4 14. Qxe4
+bxa3 15. bxa3 Rxa3 16. Kb2 Ra4 17. Kb3 d5 18. Qh4 Qe8 19. Ra1 Rxc4 0-1

@@ -1,0 +1,18 @@
+[Event "Rotterdam"]
+[Site "Rotterdam"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Martius"]
+[Black "Sammelius, C."]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "fd8a3384"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 Nfd7 6. h5 c5 7. Be3 Nc6 8.
+Nf3 cxd4 9. Nxd4 Nf8 10. Qd2 Ne6 11. Nb3 Bd7 12. f4 Qc8 13. g4 Ned8 14. h6
+Bf8 15. g5 Bg4 16. O-O-O Bxe2 17. Qxe2 b6 18. Nd5 Nb7 19. Qb5 Qd7 20. Bxb6
+Rc8 21. Be3 Nca5 22. Qxd7+ Kxd7 23. Nxa5 Nxa5 24. Bxa7 Kc6 25. Bd4 1-0
+

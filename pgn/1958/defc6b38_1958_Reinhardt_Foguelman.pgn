@@ -1,0 +1,23 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1958.01.01"]
+[Round "3"]
+[White "Reinhardt, Enrique Heinrich"]
+[Black "Foguelman, Alberto"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "defc6b38"]
+[Epoch "Bishop"]
+[BlackID "101435"]
+[BlackCountry "ARG"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Nc6 6. Nf3 d6 7. Bd2 e5 8. d5
+Nb8 9. Qc2 Qe7 10. a3 Bxc3 11. Bxc3 Nbd7 12. Be2 Ne8 13. e4 g6 14. O-O f5 15.
+b4 f4 16. Ne1 Qh4 17. f3 g5 18. Nd3 Ndf6 19. Be1 Qh6 20. Nf2 Rf7 21. c5 Rg7 22.
+Rc1 Qg6 23. g4 fxg3 24. hxg3 Nh5 25. Kg2 Nf4+ 26. Kg1 h5 27. Bb5 Nf6 28. cxd6
+cxd6 29. Kh1 g4 30. fxg4 hxg4 31. Kg1 a6 32. gxf4 g3 33. Nd1 g2 34. Rf2 axb5
+35. fxe5 Qg3 36. Rxg2 Qxe1+ 37. Kh2 Ng4+ 38. Rxg4 Bxg4 39. Nf2 Qe3 40. Rg1 Qh6+
+0-1

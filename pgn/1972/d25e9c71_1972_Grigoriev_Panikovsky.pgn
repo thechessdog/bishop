@@ -1,0 +1,17 @@
+[Event "Kurgan"]
+[Site "Kurgan"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Grigoriev, Nikolai"]
+[Black "Panikovsky"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "d25e9c71"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 Nh6 7. Nf3 f5 8. O-O
+O-O 9. h3 Nf7 10. Be3 Nd4 11. Qd2 Rb8 12. Bf2 fxe4 13. Nxd4 e3 14. Ne6
+exf2+ 0-1
+

@@ -1,0 +1,20 @@
+[Event "Staunton mem"]
+[Site "Birmingham"]
+[Date "1951.01.01"]
+[Round "12"]
+[White "Alexander, Conel Hugh O'Donel"]
+[Black "Pirc, Vasja"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "8e1ddaf6"]
+[Epoch "Bishop"]
+[BlackCountry "SVN"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e6 7. Bg2 Qc7 8. O-O
+Be7 9. h3 O-O 10. Be3 Nc6 11. g4 Rb8 12. f4 Nxd4 13. Qxd4 b5 14. Qd2 b4 15. Ne2
+Bb7 16. Ng3 d5 17. e5 Ne4 18. Nxe4 dxe4 19. Qf2 Rbc8 20. Rac1 Qa5 21. Rfd1 Bc6
+22. c3 bxc3 23. Rxc3 Qxa2 24. Rdc1 Qd5 25. Rc4 Bb7 26. Bxe4 Qb5 27. Rxc8 Rxc8
+28. Rxc8+ Bxc8 29. Qc2 Bb7 1/2-1/2

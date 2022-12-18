@@ -1,0 +1,17 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Thorfasson"]
+[Black "Sigurjonsson, Bjorn"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "2a935ca9"]
+[Epoch "Bishop"]
+[BlackID "2302187"]
+[BlackCountry "ISL"]
+
+1. e4 g6 2. d4 Bg7 3. Be3 c5 4. Nc3 cxd4 5. Bxd4 Nf6 6. Nd5 O-O 7. Nxf6+ exf6
+8. Bd3 d5 9. exd5 Qxd5 10. Nf3 Re8+ 11. Be2 Qe4 12. Qd3 Qe7 13. O-O Bf5 14. Qd2
+Qxe2 15. Qb4 Qa6 0-1

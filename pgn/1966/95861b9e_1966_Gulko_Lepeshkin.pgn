@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Gulko, Boris"]
+[Black "Lepeshkin, Vladimir"]
+[Result "1-0"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "95861b9e"]
+[Epoch "Bishop"]
+[BlackID "4104986"]
+[BlackCountry "RUS"]
+[WhiteID "2000040"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O Nc6 8. e4
+Nb6 9. d5 Nb8 10. a4 c6 11. a5 Nc4 12. Nc3 cxd5 13. exd5 Na6 14. Re1 Re8 15.
+Qe2 Nxa5 16. Qb5 b6 17. d6 Bb7 18. Rxa5 bxa5 19. d7 Rf8 20. Qxb7 Nc5 21. Qb5
+Ne6 22. Ne5 a6 23. Qd5 Nc7 24. Qxa5 Ne6 25. Qd5 Nc7 26. Qd1 1-0

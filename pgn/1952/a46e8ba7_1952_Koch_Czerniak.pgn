@@ -1,0 +1,26 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Koch, Berthold"]
+[Black "Czerniak, Moshe"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "a46e8ba7"]
+[Epoch "Bishop"]
+[BlackCountry "ISR"]
+[WhiteCountry "DEU"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 Nbd7 6. h5 c5 7. h6 Bf8 8. Nf3
+cxd4 9. Nxd4 Nc5 10. Bb5+ Bd7 11. Qf3 Bxb5 12. Ndxb5 Qd7 13. Rh4 Ne6 14. Be3 a6
+15. Nd4 g5 16. Rh1 g4 17. Qe2 Nxd4 18. Bxd4 e5 19. Be3 Rg8 20. O-O-O Rc8 21.
+Rd3 Rg6 22. f3 Qe6 23. Qd2 gxf3 24. gxf3 Rg3 25. Bg5 Ng8 26. Kb1 f5 27. exf5
+Qxf5 28. Ne4 Rxf3 29. Rxf3 Qxf3 30. Re1 Rc6 31. Qd5 Qf7 32. Qd1 Qg6 33. Qf3 Be7
+34. Bxe7 Nxe7 35. Rf1 d5 36. Qf8+ Kd7 37. Rf7 Qg1+ 38. Rf1 Qg6 39. Rf7 Qg1+ 40.
+Rf1 Qg2 41. Nf6+ Ke6 42. Rc1 Qg6 43. Ne8 Kd7 44. Ng7 d4 45. a4 Nd5 46. Ka2 a5
+47. c3 dxc3 48. Rf1 Rf6 49. Rxf6 Nxf6 50. bxc3 Qc2+ 51. Ka1 Qxc3+ 52. Ka2 Qd2+
+53. Kb3 Qd1+ 54. Kb2 Qd2+ 55. Kb3 Qd3+ 56. Kb2 Qd2+ 57. Kb3 Qd6 58. Qf7+ Qe7
+59. Qc4 b6 60. Ka2 e4 61. Qb3 Kc7 62. Nf5 Qe5 63. Qc4+ Kb8 64. Ne3 Qh2+ 65. Nc2
+Nd5 0-1

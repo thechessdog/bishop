@@ -1,0 +1,21 @@
+[Event "Bariloche"]
+[Site "Bariloche"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Gonzalez, Gerardo"]
+[Black "Eliskases, Erich Gottlieb"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "081bbb62"]
+[Epoch "Bishop"]
+[WhiteID "2017784"]
+[WhiteCountry "USA"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+c6 9. dxe5 dxe5 10. Be3 Qe7 11. Ne1 Nc5 12. Nd3 Nfd7 13. Nxc5 Nxc5 14. Bxc5
+Qxc5 15. b3 b5 16. Qc2 bxc4 17. Na4 Qa5 18. bxc4 Rd8 19. Rfd1 Bg4 20. f3 Be6
+21. Bf1 Rxd1 22. Rxd1 Rb8 23. Kh1 Bf8 24. Nc3 Ba3 25. Rb1 Rxb1 26. Nxb1 Qe1 27.
+Qd3 Bc5 0-1

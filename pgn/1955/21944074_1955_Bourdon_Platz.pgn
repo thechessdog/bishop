@@ -1,0 +1,19 @@
+[Event "East Hartford"]
+[Site "East Hartford"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Bourdon, Eli"]
+[Black "Platz, Joseph"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "21944074"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. a3 c5 6. Bb5 Qb6 7. Be3 Nc6 8. dxc5
+Bxc5 9. Bxc6 bxc6 10. Na4 Qa5+ 11. b4 Qxa4 12. bxc5 Qa5+ 13. Qd2 Qxd2+ 14. Kxd2
+Nxe5 15. Bd4 Nc4+ 16. Kd3 e5 17. Re1 f6 18. f4 O-O 19. fxe5 fxe5 20. Bxe5 Rf2
+21. Bd4 Bf5+ 22. Kc3 Rxc2+ 23. Kb3 Nd2+ 24. Ka4 Rc4+ 25. Ka5 Nb3+ 26. Ka6 Bc8#
+0-1

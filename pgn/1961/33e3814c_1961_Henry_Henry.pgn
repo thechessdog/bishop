@@ -1,0 +1,17 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Henry, Robert"]
+[Black "Henry, R."]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "33e3814c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. e5 dxe5 8.
+fxe5 Ng4 9. Bb5+ Kf8 10. Ne6+ fxe6 11. Qxd8+ Kf7 12. O-O+ Nf6 13. Qc7 Na6
+14. Bxa6 bxa6 15. Bg5 1-0
+

@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Kurkletis"]
+[Black "Vasiukov, Evgeni"]
+[Result "0-1"]
+[ECO "A32"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "40ae6013"]
+[Epoch "Bishop"]
+[BlackID "4100522"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. Nc3 Bb4 6. a3 Bxc3+ 7. bxc3 Qa5 8.
+Qb3 Nc6 9. Nxc6 bxc6 10. Rb1 Ne4 11. f3 Rb8 0-1

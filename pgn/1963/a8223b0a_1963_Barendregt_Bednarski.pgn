@@ -1,0 +1,18 @@
+[Event "Polanica Zdroj"]
+[Site "Polanica Zdroj"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Barendregt, Johan Teunis"]
+[Black "Bednarski, Jacek B"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "a8223b0a"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 a6 5. Bxd7+ Bxd7 6. O-O cxd4 7. Qxd4 Nf6
+8. Bg5 e6 9. Nc3 Bc6 10. Nd5 Be7 11. Nxe7 Qxe7 12. e5 Bxf3 13. exd6 Rd8 14. Qc3
+Rxd6 15. Qxf3 O-O 16. Rad1 Rfd8 17. Rxd6 Rxd6 18. Rd1 Rxd1+ 19. Qxd1 h6 1/2-1/2

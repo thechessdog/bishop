@@ -1,0 +1,17 @@
+[Event "URS-chT"]
+[Site "Riga"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Litvinov, Vladimir"]
+[Black "Valiev, Neron"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "9922d8f0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 a6 7. f4 Qb6 8. Nb3
+Nbd7 9. Qe2 Qc7 10. O-O-O Be7 11. g4 O-O 12. Bg2 Rb8 13. Kb1 b5 14. e5 dxe5 15.
+fxe5 Qxe5 16. Qxe5 Nxe5 17. Bf4 Nfd7 18. Rxd7 Nxd7 19. Rd1 e5 20. Be3 Nb6 21.
+Na5 Nc4 0-1

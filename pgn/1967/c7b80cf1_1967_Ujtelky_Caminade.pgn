@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Ujtelky, Maximilián Samuel Rudolf"]
+[Black "Caminade"]
+[Result "1-0"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "c7b80cf1"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 d6 5. e4 Nc6 6. Nge2 e5 7. d3 h6 8. h3 Nd4
+9. Nxd4 exd4 10. Ne2 Nd7 11. b4 a5 12. b5 c5 13. bxc6 bxc6 14. Rb1 Qc7 15. O-O
+Nf8 16. f4 Rb8 17. Rxb8 Qxb8 18. Qa4 Qc7 19. Bd2 Bd7 20. Bxa5 Qc8 21. Qb4 c5
+22. Qb6 Bc6 23. Rb1 Nh7 24. e5 1-0

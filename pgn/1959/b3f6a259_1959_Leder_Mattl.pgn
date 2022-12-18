@@ -1,0 +1,17 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Leder"]
+[Black "Mattl"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "b3f6a259"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. O-O-O Be6 10. Nxe6 fxe6 11. g4 Rc8 12. Bc4 Qd7 13. h4 Ne5 14.
+Be2 Qc6 15. h5 gxh5 16. gxh5 Nfd7 17. Bh6 1-0
+

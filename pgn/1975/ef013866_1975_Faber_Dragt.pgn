@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Faber"]
+[Black "Dragt"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "ef013866"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 Ng4 6. O-O Ngxe5 7. Nxe5
+Nxe5 8. Re1 f6 9. f4 d6 10. Qxd4 Be7 11. fxe5 fxe5 12. Qd5 c6 13. Qf7+ Kd7
+14. Qxg7 Kc7 15. Bg5 Kb6 16. Bxe7 1-0
+

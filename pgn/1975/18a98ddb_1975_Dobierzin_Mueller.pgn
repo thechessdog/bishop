@@ -1,0 +1,21 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Dobierzin"]
+[Black "Mueller"]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line with Nb3"]
+[HashCode "18a98ddb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Nc6 7. Be3 Be7
+8. O-O O-O 9. f4 Bd7 10. Nb3 a6 11. a4 Nb4 12. Bf3 e5 13. a5 Rc8 14. Rf2
+Bc6 15. Rd2 Qc7 16. Qe2 Qb8 17. f5 Rfe8 18. g4 h6 19. g5 hxg5 20. Bxg5 b5
+21. axb6 Nxc2 22. Rxa6 Nb4 23. Ra7 Qxb6+ 24. Be3 Qb8 25. Na5 Ba8 26. Nc4 d5
+27. Rxa8 Qxa8 28. Nb6 Qa5 29. Nxc8 Rxc8 30. Nxd5 Nbxd5 31. exd5 e4 32. Bg2
+Nxd5 33. Bd4 Rc1+ 34. Rd1 Nf4 35. Qg4 Rxd1+ 36. Qxd1 Qxf5 37. Bf1 Bc5 38.
+Qd2 Qg4+ 39. Kh1 Qf3+ 0-1
+

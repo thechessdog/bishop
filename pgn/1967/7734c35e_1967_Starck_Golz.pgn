@@ -1,0 +1,19 @@
+[Event "DDR-ch 16th"]
+[Site "Colditz"]
+[Date "1967.??.??"]
+[Round "11"]
+[White "Starck, Bodo"]
+[Black "Golz, Werner"]
+[Result "1/2-1/2"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "7734c35e"]
+[Epoch "Bishop"]
+[WhiteID "4611829"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 c6 8. Be2 cxd5
+9. cxd5 Nbd7 10. Be3 a6 11. O-O b5 12. b4 Nb6 13. Nd2 Bd7 14. Rc1 Qb8 15. Rc2
+Ne8 16. g4 1/2-1/2

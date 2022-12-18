@@ -1,0 +1,18 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Dominguez, Christobal"]
+[Black "Benko, Francisco"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[HashCode "0108734b"]
+[Epoch "Bishop"]
+[BlackID "101753"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. Nbd2 Na5 10. Nf1 c6 11. Bd2 Ne8 12. Bxa5 Qxa5 13. a4 Nc7 14. Ne3 g6 15.
+d4 exd4 16. Nxd4 Qb6 17. axb5 axb5 18. Rxa8 Nxa8 19. c3 Nc7 20. Qf3 1/2-1/2

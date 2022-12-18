@@ -1,0 +1,18 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Marić, Rudolf"]
+[Black "Wesenberg, J."]
+[Result "0-1"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Tartakower variation"]
+[HashCode "054e71fa"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. g4 h6 5. g5 hxg5 6. Bxg5 d5 7. f3 Bf5 8. Bg2
+exf3 9. Nxf3 Ne4 10. Nxe4 Bxe4 11. O-O Qd6 12. Qd2 Nd7 13. Bf4 Qg6 14. Rae1
+O-O-O 15. Qa5 e5 16. Bxe5 Nxe5 17. dxe5 b6 18. Qd2 Bc5+ 19. Kh1 Qg3 20. Re2
+Rdf8 0-1

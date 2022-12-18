@@ -1,0 +1,19 @@
+[Event "EU-ch casual"]
+[Site "Groningen"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Ciric, Dragoljub M"]
+[Black "Ligterink, Gert"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "af4fb773"]
+[Epoch "Bishop"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. f4
+O-O 9. Qf3 Nbd7 10. g4 Nc5 11. g5 Nfd7 12. h4 d5 13. exd5 Nxb3 14. axb3 exd5
+15. Be3 Bb4 16. O-O-O Bxc3 17. bxc3 Nc5 18. f5 Qe8 19. Bf4 Ne4 20. f6 g6 21. h5
+Be6 22. Qg2 Rc8 23. Qh2 Bf5 24. hxg6 1-0

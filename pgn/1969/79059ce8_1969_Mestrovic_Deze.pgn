@@ -1,0 +1,17 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Mestrovic, Zvonimir"]
+[Black "Deze, Anton"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "79059ce8"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 h6 5. Bh4 c5 6. dxc5 e6 7. b4 b6 8. c6
+Bxb4 9. cxd7+ Bxd7 10. Qd4 Qe7 11. Bxf6 gxf6 12. Rb1 Ba5 13. Rb3 e5 14. Qxd5
+O-O 15. e3 Be6 16. Qe4 Bxb3 17. axb3 Bxc3+ 18. Ke2 f5 19. Qxf5 Rfd8 20. Qe4 Qd6
+21. Qd3 Qc5 22. Qc4 Qxc4+ 23. bxc4 e4 24. Nd4 a5 25. f3 a4 0-1

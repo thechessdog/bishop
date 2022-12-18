@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Gojhman, Alexander"]
+[Black "Dubinsky, A."]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "be4ec6c7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Nc6 8. O-O
+Be6 9. Bg5 Be7 10. Qd2 Qc7 11. Rfd1 Rd8 12. Bxf6 Bxf6 13. Nd5 Bxd5 14. exd5 Nb8
+15. Rac1 O-O 16. c4 b6 17. Qe3 h6 18. Qg3 Qe7 19. Nd2 Bg5 20. Rc3 f5 21. b4
+Bxd2 22. Rxd2 Nd7 23. f3 Qf6 24. Rc1 a5 25. a3 axb4 26. axb4 Ra8 27. Qe1 Qg5
+28. Bd3 e4 29. fxe4 Ne5 30. Kh1 Ra2 31. Rxa2 Nxd3 32. Qd2 Nxc1 33. Qxg5 hxg5
+34. Rc2 Nd3 35. exf5 Rxf5 36. Kg1 Rf4 0-1

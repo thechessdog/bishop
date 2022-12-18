@@ -1,0 +1,25 @@
+[Event "Athene zt"]
+[Site "Athene zt"]
+[Date "1969.01.01"]
+[Round "8"]
+[White "Kokkoris, Hristos"]
+[Black "Spiridonov, Nikola"]
+[Result "0-1"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "54a9e88a"]
+[Epoch "Bishop"]
+[WhiteID "4200179"]
+[WhiteCountry "GRE"]
+[BlackID "2900238"]
+[BlackCountry "FID"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 c5 4. Nc3 cxd4 5. Nxd4 Nc6 6. Be3 Nf6 7. Bc4 d6 8. f3
+Qb6 9. Nf5 Qxb2 10. Nxg7+ Kf8 11. Nd5 Nxd5 12. Bxd5 Kxg7 13. O-O Qc3 14. Qc1 h5
+15. Rb1 Qa5 16. Rb3 Qc7 17. g4 hxg4 18. fxg4 Ne5 19. Qb2 e6 20. Bxb7 Rb8 21.
+Bxc8 Rhxc8 22. Bd4 Kg8 23. Bxe5 dxe5 24. c4 Rd8 25. Qf2 Rxb3 26. axb3 Rd3 27.
+c5 Rxb3 28. Rd1 Rc3 29. g5 Rxc5 30. Qd2 Rc4 31. Qd8+ Qxd8 32. Rxd8+ Kg7 33. Kf2
+Rxe4 34. Kg3 Rd4 35. Rc8 a5 36. Ra8 a4 37. Ra5 e4 38. Ra7 e3 39. Kf3 Re4 40.
+Ke2 Rh4 41. Kxe3 Rh3+ 42. Kf4 Rxh2 43. Ra5 Rf2+ 44. Kg4 Ra2 45. Kf4 a3 46. Ke5
+Rg2 0-1

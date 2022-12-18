@@ -1,0 +1,17 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Ghitescu, Theodor"]
+[Black "Kovacs, Zoltan"]
+[Result "1-0"]
+[ECO "D25"]
+[Opening "QGA, Janowsky-Larsen variation"]
+[HashCode "c8930c18"]
+[Epoch "Bishop"]
+[WhiteCountry "ROU"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bh5 6. Bxc4 e6 7. Nc3 Bd6 8. O-O
+Nbd7 9. e4 e5 10. dxe5 Nxe5 11. Be2 Bg6 12. Be3 Nxf3+ 13. Bxf3 O-O 14. Qb3 Qe7
+15. Rfe1 Kh8 16. Qxb7 Rab8 17. Qc6 Rxb2 18. Bd4 Be5 19. Nd5 Nxd5 20. exd5 Bxd4
+21. Rxe7 Rxf2 22. Rd1 1-0

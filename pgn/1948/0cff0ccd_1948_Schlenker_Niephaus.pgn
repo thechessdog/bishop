@@ -1,0 +1,19 @@
+[Event "Bad Nauheim"]
+[Site "Bad Nauheim"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Schlenker, Rainer"]
+[Black "Niephaus, Walter"]
+[Result "0-1"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[HashCode "0cff0ccd"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+[WhiteID "4605837"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 a6 6. c4 Nc6 7. Nc3 e6 8. Nc2
+Be7 9. Be3 O-O 10. Be2 Qc7 11. O-O Ne5 12. Qd4 Bd7 13. Rac1 Rac8 14. Na3 Bc6
+15. b4 Rfd8 16. Nd5 exd5 17. cxd5 Qb8 18. dxc6 Nxc6 19. Qb6 Nd7 0-1

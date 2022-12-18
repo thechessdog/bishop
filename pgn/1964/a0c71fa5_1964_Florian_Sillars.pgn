@@ -1,0 +1,18 @@
+[Event "Illinois Open"]
+[Site "Illinois Open"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Florian, R."]
+[Black "Sillars, K."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "a0c71fa5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
+Be3 b5 9. O-O O-O 10. f4 b4 11. Na4 Nxe4 12. f5 d5 13. Qh5 e5 14. Ne2 Nd7
+15. Rad1 Bb7 16. Ng3 d4 17. Bc1 Qa5 18. Rd3 Nec5 19. Nxc5 Nxc5 20. f6 Bxf6
+21. Rxf6 gxf6 22. Nf5 Kh8 23. Rh3 1-0
+

@@ -1,0 +1,19 @@
+[Event "Kielce"]
+[Site "Kielce"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Pojedziniec, W."]
+[Black "Weglowski, Z."]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "c1b85dcf"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. a3 cxd4 8.
+exd4 dxc4 9. Bxc4 Be7 10. O-O Nc6 11. Re1 b6 12. Bf4 Bb7 13. Qd3 Rc8 14.
+Rad1 Na5 15. Ba2 Nd5 16. Bb1 g6 17. Bh6 Nxc3 18. bxc3 Re8 19. Ne5 Bg5 20.
+Qh3 Rc7 21. Rd3 Bxh6 22. Qxh6 Qd5 23. Rg3 f5 24. Nxg6 Rg7 25. Nf4 Qd7 26.
+Nh5 Rxg3 27. Nf6+ Kh8 28. hxg3 Qe7 29. Nxe8 Qxe8 30. Rxe6 1-0
+

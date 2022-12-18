@@ -1,0 +1,19 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Acers, Jude"]
+[Black "Hoppe"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "ce504905"]
+[Epoch "Bishop"]
+[WhiteID "2034301"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Nf6 6. Bg5 Be7 7. Nf3 O-O 8. Rc1
+b6 9. Bd3 Nc6 10. O-O Nb4 11. cxd5 Nxd3 12. Qxd3 Nxd5 13. Bxe7 Nxe7 14. Rfe1
+Bb7 15. Ne4 Nf5 16. Rc3 Rc8 17. Rxc8 Qxc8 18. g4 Ne7 19. Nfg5 Ng6 20. h4 e5 21.
+f3 Rd8 22. h5 Rxd4 23. Qxd4 exd4 24. Nd6 Qc5 25. hxg6 d3+ 26. Kf1 1-0

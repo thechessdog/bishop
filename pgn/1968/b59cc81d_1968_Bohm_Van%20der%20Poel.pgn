@@ -1,0 +1,20 @@
+[Event "Amersfoort"]
+[Site "Amersfoort"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Bohm, Hans"]
+[Black "Van der Poel, A."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "b59cc81d"]
+[Epoch "Bishop"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Ng4 9. h3 Nh6 10. Be3 Nb4 11. g4 Nxd3+ 12. Qxd3 c6 13. O-O-O f5 14. g5 Nf7 15.
+h4 b5 16. h5 b4 17. Na4 Qa5 18. Nc5 Qxa2 19. b3 Qa1+ 20. Kd2 Qc3+ 21. Qxc3
+bxc3+ 22. Kxc3 f4 23. Bxf4 Nxg5 24. Nxg5 Rxf4 25. hxg6 hxg6 26. e6 Bf6 27. Nf7
+a5 28. Ne5 Kg7 29. Ra1 Ba6 30. Rxa5 Rd8 31. Rxa6 Rdxd4 32. Ncd7 1-0

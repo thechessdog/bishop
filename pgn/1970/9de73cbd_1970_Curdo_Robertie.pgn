@@ -1,0 +1,18 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Curdo, John"]
+[Black "Robertie, W."]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "9de73cbd"]
+[Epoch "Bishop"]
+[WhiteID "2001705"]
+[WhiteCountry "USA"]
+
+1. f4 Nf6 2. Nf3 g6 3. d3 d5 4. g3 b6 5. Bg2 Bb7 6. O-O Bg7 7. c3 O-O 8. Qc2 c5
+9. Nbd2 Qc7 10. a4 Nc6 11. e4 dxe4 12. dxe4 Na5 13. e5 Nd7 14. Ne4 Nb3 15. Rb1
+Nxc1 16. Rbxc1 Rfd8 17. Nfg5 h6 18. e6 hxg5 19. exf7+ Kxf7 20. Nxg5+ Kg8 21.
+Ne6 1-0

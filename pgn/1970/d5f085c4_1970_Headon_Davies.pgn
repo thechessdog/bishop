@@ -1,0 +1,17 @@
+[Event "WLS-ch U18"]
+[Site "Swansea"]
+[Date "1970.03.28"]
+[Round "4"]
+[White "Headon, P."]
+[Black "Davies, Christofer"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "d5f085c4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 O-O 6. d4 exd4 7. cxd4 Bb6
+8. Nc3 d5 9. Bg5 Qd6 10. e5 Nxe5 11. dxe5 Qc5 12. exf6 gxf6 13. Bxf6 c6 14.
+Qd2 cxb5 15. Qg5# 1-0
+

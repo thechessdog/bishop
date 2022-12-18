@@ -1,0 +1,17 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Klinoff, A."]
+[Black "Curdo"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "Two knights defence"]
+[HashCode "10791016"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Ba4 h6 9. Nf3 e4 10. Ng1 Bc5 11. c3 Qb6 12. Nh3 Bg4 13. Qc2 Bxh3
+14. gxh3 Bxf2+ 15. Ke2 Bg1 16. Rxg1 Qxg1 17. b4 Qxh2+ 18. Ke1 Qg1+ 19. Ke2
+Qg2+ 20. Ke1 Nh5 21. bxa5 Qg1+ 22. Ke2 Ng3# 0-1
+

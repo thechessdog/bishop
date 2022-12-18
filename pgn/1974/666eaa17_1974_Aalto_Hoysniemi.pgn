@@ -1,0 +1,16 @@
+[Event "corr Finland"]
+[Site "corr Finland"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Aalto"]
+[Black "Hoysniemi"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "666eaa17"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Bxc6 dxc6 5. Nxe5 Qd4 6. Qh5+ g6 7. Nxg6
+hxg6 8. Qxg6+ Kd8 9. Nc3 Ne7 10. Qg3 fxe4 11. Qe3 Nf5 12. Qe2 Nh4 0-1
+

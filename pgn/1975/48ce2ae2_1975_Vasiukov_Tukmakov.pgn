@@ -1,0 +1,24 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Vasiukov, Evgeni"]
+[Black "Tukmakov, Vladimir B"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "48ce2ae2"]
+[Epoch "Bishop"]
+[WhiteID "4100522"]
+[BlackID "14100096"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. a4 b4 10. c3 bxc3 11. Nxc3 Nxc3 12. bxc3 Be7 13. a5 O-O 14. Qd3 f5 15.
+exf6 Bxf6 16. Re1 Bf7 17. Ba3 Nxa5 18. Ba4 Bg6 19. Qd1 Bxc3 20. Be7 Qc8 21.
+Qxd5+ Bf7 22. Qd3 Bxa1 23. Ng5 Bg6 24. Qd5+ Bf7 25. Qxa5 Bd4 26. Bxf8 Qxf8 27.
+Qf5 g6 28. Qh3 Bxf2+ 29. Kxf2 Be6+ 30. Qf3 Qc5+ 31. Qe3 Rf8+ 32. Nf3 Qxe3+ 33.
+Rxe3 Bd5 34. Rc3 Rf4 35. Bc6 Be6 36. Ke3 Rb4 37. Ng5 Rc4 38. Rxc4 Bxc4 39. Kd4
+Bf1 40. Ke5 a5 1-0

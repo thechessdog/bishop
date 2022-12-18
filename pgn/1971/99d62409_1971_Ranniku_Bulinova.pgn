@@ -1,0 +1,16 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Ranniku"]
+[Black "Bulinova"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "99d62409"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c5 5. e4 cxd4 6. Bxf6 gxf6 7. Qxd4
+dxe4 8. O-O-O Qb6 9. Qxe4 Nc5 10. Qh4 Bd7 11. Bc4 Na4 12. Nxa4 Bxa4 13. Nh3
+Bb5 14. Bb3 Bg7 15. Rhe1 Rd8 16. Rxd8+ Qxd8 17. Qh5 1-0
+

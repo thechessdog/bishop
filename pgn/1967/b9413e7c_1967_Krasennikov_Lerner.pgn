@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Krasennikov"]
+[Black "Lerner, Konstantin Z"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "b9413e7c"]
+[Epoch "Bishop"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nd2 d5 6. exd6 Bf5 7. Qa4+ Nc6 8.
+Nf3 Qxd6 9. a3 Nc5 10. Qd1 O-O-O 11. g3 Rhe8 12. Bg2 Nd3+ 13. Kf1 Nxc1 14. axb4
+Nxe2 15. Qb3 Kb8 16. b5 Bd3 17. Qa3 Nxg3+ 18. Kg1 Ne2+ 19. Kf1 Nf4+ 20. Kg1 Qg6
+21. Nh4 Nh3# 0-1

@@ -1,0 +1,19 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Elzerman, J."]
+[Black "Mooy, W."]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "2b35dc84"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 d5 7. e3 O-O 8.
+a3 dxc4 9. Bxc4 Nbd7 10. O-O a6 11. e4 Qc7 12. Ba2 b5 13. Bg5 Bb7 14. Rac1
+Ng4 15. Bh4 Nde5 16. Nxe5 Qxe5 17. Bg3 Qg5 18. h3 Ne3 19. fxe3 Qxg3 20. Rf3
+Bxe3+ 21. Kh1 Qg5 22. Re1 Bb6 23. Qb3 Qe5 24. a4 Bc7 25. g3 Rad8 26. Re2
+Rd4 27. axb5 axb5 28. Bb1 b4 29. Rfe3 bxc3 30. bxc3 Rdd8 0-1
+

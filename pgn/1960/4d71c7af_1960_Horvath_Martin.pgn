@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Horvath, Jozsef"]
+[Black "Martin, Hal"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "4d71c7af"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3 Nc6 7. Bg5 Qg6
+8. Bd3 f5 9. O-O Nxd4 10. Bb5+ Bd7 11. Bxd7+ Kxd7 12. Ne5+ 1-0

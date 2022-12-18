@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Holm, Sejer"]
+[Black "Fedder, Steen"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "172c3906"]
+[Epoch "Bishop"]
+[WhiteID "1400304"]
+[BlackID "1400126"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bb5+ Nd7 8.
+Ne2 Bg7 9. O-O O-O 10. Bg5 a6 11. Bd3 b5 12. Rc1 Bb7 13. Qd2 Nb6 14. Qe3 Rc8
+15. d5 Qd7 16. Rfd1 Rfe8 17. c4 e6 18. cxb5 exd5 19. bxa6 Ba8 20. Rxc5 dxe4 21.
+Bc2 Rxc5 22. Qxc5 Qg4 23. Qb5 Rc8 24. h3 Bc6 25. Qxc6 Qxg5 26. Qxb6 e3 1-0

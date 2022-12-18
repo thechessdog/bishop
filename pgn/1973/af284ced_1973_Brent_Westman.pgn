@@ -1,0 +1,18 @@
+[Event "corr USCF"]
+[Site "corr USCF"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Brent, M."]
+[Black "Westman, J."]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "af284ced"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Be7 10. d5 exd5 11. cxd5 Nb4 12. Nd4 Bg6 13. Bb5+ Nd7 14. e6
+c6 15. exd7+ Qxd7 16. Bc4 Rc8 17. O-O O-O 18. dxc6 bxc6 19. Ne6 Qxd1 20.
+Raxd1 Nc2 21. Nxf8 Nxe3 22. Nxg6 1-0
+

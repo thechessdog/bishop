@@ -1,0 +1,24 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Westphal, N."]
+[Black "Fechner, J."]
+[Result "1-0"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "fb6efa03"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. f3 c6 6. Be3 a6 7. Qd2 b5 8.
+O-O-O Qa5 9. Kb1 Nbd7 10. g4 Rb8 11. h4 Nb6 12. c5 b4 13. cxb6 bxc3 14.
+Qxc3 Qxb6 15. h5 h6 16. hxg6 fxg6 17. g5 hxg5 18. Rxh8+ Bxh8 19. Bxg5 Nd7
+20. Bc4 c5 21. Be3 Qb4 22. Ne2 Nb6 23. Qxb4 cxb4 24. Bd3 Kf7 25. Rg1 e5 26.
+dxe5 dxe5 27. Rc1 Be6 28. Bxa6 Bf6 29. Rc7+ Nd7 30. Rc8 Be7 31. Nc1 g5 32.
+Nd3 Kf6 33. Rc6 Kf7 34. Bc8 Bf6 35. Ba7 Ra8 36. Bxd7 Bxa2+ 37. Kxa2 Rxa7+
+38. Kb3 Rxd7 39. Nxb4 Rd2 40. Rc2 Rd4 41. Rg2 Kg6 42. Kc3 Rd1 43. Nd5 Bd8
+44. Ne3 Rh1 45. Ng4 Bc7 46. Rh2 Rxh2 47. Nxh2 Kh5 48. Kd3 Kh4 49. Ng4 Bd6
+50. Ne3 Bc5 51. Nd5 Kg3 52. Ke2 g4 53. fxg4 Kxg4 54. b4 Bd6 55. b5 Kg5 56.
+b6 1-0
+

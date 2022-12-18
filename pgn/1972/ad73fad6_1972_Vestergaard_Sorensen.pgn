@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Vestergaard, Bent"]
+[Black "Sorensen, Arne"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "ad73fad6"]
+[Epoch "Bishop"]
+[WhiteID "1409034"]
+[BlackID "1419382"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. f4 O-O 6. e5 Ng4 7. f5 f6 8. Bc4+
+Kh8 9. Bd2 Bxf5 10. h3 Nf2 11. Kxf2 fxe5 12. Ke1 exd4 13. Nce2 e5 14. Nf3 d5
+15. Bg5 Qd6 16. Bb3 c5 0-1

@@ -1,0 +1,18 @@
+[Event "Michigan Open"]
+[Site "Michigan Open"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Mack, A."]
+[Black "Courtois, G."]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen"]
+[HashCode "e63be5d6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e6 7. Be3 Be7
+8. Qd2 O-O 9. f4 a6 10. O-O-O Qc7 11. Nxc6 bxc6 12. g4 Rd8 13. g5 Ne8 14.
+Na4 Rb8 15. Bd3 d5 16. Qf2 Qa5 17. b3 Ba3+ 18. Nb2 Qc3 19. Bd4 Bxb2+ 20.
+Kb1 Qxd4 21. Qh4 Ba3 0-1
+

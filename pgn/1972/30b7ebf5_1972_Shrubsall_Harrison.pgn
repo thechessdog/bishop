@@ -1,0 +1,17 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Shrubsall, R."]
+[Black "Harrison, D."]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "30b7ebf5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bd3 Be7 8.
+O-O O-O 9. Kh1 Qc7 10. Qe1 Nc6 11. Nxc6 bxc6 12. e5 dxe5 13. f4 exf4 14.
+Qh4 h6 15. Bxf4 Qb7 16. Bxh6 Qb4 17. Rf4 Qc5 18. Bxg7 Nh5 19. Rg4 1-0
+

@@ -1,0 +1,22 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Gasztonyi, Endre"]
+[Black "Csom, Istvan"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "4bf4c80f"]
+[Epoch "Bishop"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd2 cxd4 6. exd4 O-O 7. Bd3 b6 8. a3
+Be7 9. Qf3 Nc6 10. Nge2 Re8 11. Bf4 Bb7 12. Qh3 Nxd4 13. Nxd4 e5 14. Ne6 dxe6
+15. Bxe5 Bxg2 16. Bxh7+ Nxh7 17. Qxg2 Bf6 18. Rd1 Qe7 19. Bd6 Bxc3+ 20. bxc3
+Qf6 21. Rd3 e5 22. Rg1 g6 23. h4 Rad8 24. h5 Rxd6 25. hxg6 fxg6 26. Qe4 Nf8 27.
+Rd5 Qf4 28. Qd3 Rf6 29. Rf1 Rc8 30. c5 Rxc5 31. Rd8 Qc1+ 32. Ke2 Qb2+ 33. Kd1
+Qxc3 0-1

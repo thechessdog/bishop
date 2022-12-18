@@ -1,0 +1,21 @@
+[Event "Athene zt"]
+[Site "Athene zt"]
+[Date "1969.01.01"]
+[Round "17"]
+[White "Levy, David N L"]
+[Black "Stoppel, Franz"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "99f6aab3"]
+[Epoch "Bishop"]
+[BlackID "1601288"]
+[BlackCountry "AUT"]
+
+1. b3 Nf6 2. Bb2 g6 3. g3 Bg7 4. Bg2 O-O 5. f4 d6 6. Nf3 e5 7. O-O e4 8. Ng5 d5
+9. e3 Bg4 10. Bxf6 Bxd1 11. Bxd8 Bxa1 12. Bxc7 Na6 13. Bd6 Rfd8 14. Be5 Bxe5
+15. fxe5 Bxc2 16. Nc3 Bd3 17. Rf6 Nc5 18. Bh3 b5 19. b4 Nd7 20. Rxf7 Nxe5 21.
+Rc7 Nf3+ 22. Nxf3 exf3 23. Be6+ Kh8 24. Nxd5 g5 25. g4 Rd6 26. Rc3 Be4 27. Nc7
+Rf8 28. Bf5 Rxf5 29. gxf5 Rxd2 30. Ne6 f2+ 31. Kf1 Bd3+ 32. Rxd3 Rxd3 33. Kxf2
+Ra3 34. Nxg5 Rxa2+ 35. Kf3 a5 36. e4 axb4 37. e5 b3 0-1

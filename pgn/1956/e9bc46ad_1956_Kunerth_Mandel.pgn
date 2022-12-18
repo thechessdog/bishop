@@ -1,0 +1,19 @@
+[Event "Hitzacker"]
+[Site "Hitzacker"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Kunerth"]
+[Black "Mandel"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "e9bc46ad"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Qc7 10. Kh1 b5 11. f4 b4 12. Nd5 Nxd5 13. exd5 Nd7 14. Rc1
+exf4 15. Bxf4 Bf6 16. c3 bxc3 17. bxc3 Nc5 18. Be3 Ne4 19. Bd3 Re8 20. Bd4
+Bxd4 21. Nxd4 Bd7 22. Qh5 f6 23. Ne6 Bxe6 24. Bxe4 Bf7 25. Qxh7+ Kf8 26.
+Bg6 Bxg6 27. Rxf6+ Bf7 28. Qh8+ Ke7 29. Qxg7 Kd8 30. Rxf7 Qb8 31. Rb7 1-0
+

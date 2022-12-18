@@ -1,0 +1,14 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Sehlstedt"]
+[Black "Kajaste"]
+[Result "1-0"]
+[ECO "A60"]
+[Opening "Benoni defence"]
+[HashCode "5e3aa6e9"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 a6 7. a4 g6 8. Nd2
+Bg7 9. Nc4 O-O 10. Bf4 Ne8 11. g3 f5 12. Qd2 Qe7 13. Nb6 1-0

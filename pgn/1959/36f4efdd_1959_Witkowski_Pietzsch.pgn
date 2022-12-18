@@ -1,0 +1,19 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Witkowski, Stefan"]
+[Black "Pietzsch, Wolfgang"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "36f4efdd"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+[WhiteCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. a3 Bxc3 7. Bxc3 b6 8. b4
+Qc7 9. bxc5 bxc5 10. dxc5 Nd7 11. Nf3 Nxc5 12. Bb4 O-O 13. Bxc5 Qxc5 14. Bd3
+Qc3+ 15. Ke2 f6 16. exf6 Qxf6 17. c4 e5 18. cxd5 e4 19. Bxe4 Ba6+ 20. Ke1 Qc3+
+21. Nd2 Qd4 22. Rf1 Bxf1 23. Nf3 Qxe4+ 0-1

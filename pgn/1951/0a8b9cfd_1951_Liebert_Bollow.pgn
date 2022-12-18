@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Liebert, W."]
+[Black "Bollow"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "0a8b9cfd"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. O-O-O Be6 10. Kb1 Rc8 11. g4 Qa5 12. a3 Nd7 13. h4 Nde5 14. Be2
+Nc4 15. Bxc4 Nxd4 16. Bxe6 Nxf3 17. Qd5 Bxc3 18. Bxc8 Rxc8 19. bxc3 Qxa3
+20. Qxb7 Rxc3 21. Bh6 f5 22. Qd5+ 1-0
+

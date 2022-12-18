@@ -1,0 +1,17 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Fuller, RA."]
+[Black "Ward, JB."]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "346223c2"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bc4
+Bf5 8. Ne5 e6 9. g4 Be4 10. f3 Bd5 11. Bd3 Bd6 12. g5 Bxe5 13. dxe5 Ng4 14.
+c4 Bxf3 15. Qxf3 Nxe5 16. Qe3 Nxd3+ 17. Ke2 Nxc1+ 18. Rhxc1 Qc7 0-1
+

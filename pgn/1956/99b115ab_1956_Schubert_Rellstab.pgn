@@ -1,0 +1,18 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Schubert, Hans"]
+[Black "Rellstab, Ludwig"]
+[Result "0-1"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Richter attack"]
+[HashCode "99b115ab"]
+[Epoch "Bishop"]
+[BlackID "4671155"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Nxc6 bxc6 8.
+e5 Qa5 9. Bxf6 gxf6 10. exd6 Rb8 11. Qf3 Bxd6 12. Qxc6+ Ke7 13. O-O-O Rd8 14.
+Be2 Bf4+ 15. Kb1 Rxb2+ 16. Ka1 Rb6 17. Qc4 Be5 0-1

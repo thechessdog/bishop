@@ -1,0 +1,19 @@
+[Event "Beverwijk"]
+[Site "Beverwijk"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Rellstab, Ludwig"]
+[Black "Sandor, Bela"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "d0d78e0f"]
+[Epoch "Bishop"]
+[WhiteID "4671155"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. e5 Ng8 7. Bd3 d6 8. exd6
+Bxd6 9. O-O Nf6 10. Bg5 Be7 11. Re1 Nbd7 12. Qe2 h6 13. Nxe6 fxe6 14. Bg6+ Kf8
+15. Qxe6 Ne5 16. Qxe5 hxg5 17. Rad1 Bd7 18. Nd5 Rh6 19. Nxe7 Qb8 20. Rd6 1-0

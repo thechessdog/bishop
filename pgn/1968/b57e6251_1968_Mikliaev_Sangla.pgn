@@ -1,0 +1,19 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Mikliaev, I."]
+[Black "Sangla, P."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "b57e6251"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. g3 Bg7 5. Bg2 e5 6. Ngf3 Ne7 7. O-O O-O 8.
+Qe2 Nd7 9. b3 b6 10. Bb2 Qc7 11. d4 f6 12. Rfe1 exd4 13. Nxd4 Nc5 14. Qf3
+Bd7 15. c4 dxc4 16. Nxc4 b5 17. Ba3 Nb7 18. Bxe7 Rf7 19. e5 fxe5 20. Nxb5
+cxb5 21. Qxb7 Qxb7 22. Bxb7 Re8 23. Nd6 Rfxe7 24. Bd5+ Kf8 25. Nxe8 Rxe8
+26. Rac1 Rc8 27. Rxc8+ Bxc8 28. Rc1 1-0
+

@@ -1,0 +1,17 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Wolfley"]
+[Black "Gean"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Amsterdam variation"]
+[HashCode "e3e37979"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 d6 7. Be2 Bg7
+8. Qd2 O-O 9. f4 Bd7 10. h3 Qa5 11. Nb3 Qc7 12. O-O-O Rfc8 13. g4 Nb4 14.
+a3 Nxe4 15. Nxe4 Qxc2+ 16. Qxc2 Rxc2+ 17. Kb1 Rxb2+ 18. Kc1 Na2# 0-1
+

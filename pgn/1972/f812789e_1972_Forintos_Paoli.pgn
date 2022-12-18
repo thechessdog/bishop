@@ -1,0 +1,21 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Forintos, Gyozo V"]
+[Black "Paoli, Enrico"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "f812789e"]
+[Epoch "Bishop"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+[BlackCountry "ITA"]
+
+1. Nf3 d5 2. b3 c5 3. e3 Nc6 4. Bb2 Nf6 5. Bb5 Bd7 6. O-O e6 7. c4 Bd6 8. cxd5
+exd5 9. d4 cxd4 10. Nxd4 O-O 11. Be2 Re8 12. Nc3 a6 13. Rc1 Rc8 14. h3 Nxd4 15.
+Qxd4 Be5 16. Qb4 b5 17. Ba1 d4 18. Nxb5 axb5 19. Rxc8 Qxc8 20. exd4 Nd5 21. Qd2
+Bb8 22. Bd3 Nf4 23. Rd1 Qc6 24. Bf1 Qg6 25. h4 Re2 26. Qa5 Nh3+ 27. Kh1 Nxf2+
+28. Kg1 Nh3+ 29. Kh1 Qg3 30. Qd8+ Re8 31. Qxb8 Nf2+ 32. Kg1 Rxb8 0-1

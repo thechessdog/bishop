@@ -1,0 +1,18 @@
+[Event "Netanya"]
+[Site "Netanya"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Porath, Yosef"]
+[Black "Gligorić, Svetozar"]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox variation"]
+[HashCode "c955b478"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O exd4 8. Nxd4
+Re8 9. f3 c6 10. Bf4 Nh5 11. Be3 f5 12. Qd2 f4 13. Bf2 Be5 14. Rad1 Qf6 15. Nb3
+Ng3 16. hxg3 fxg3 17. Be3 Qh4 18. Rfe1 Bf4 0-1

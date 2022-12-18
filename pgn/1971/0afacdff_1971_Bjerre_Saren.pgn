@@ -1,0 +1,23 @@
+[Event "Grossenbrode"]
+[Site "Grossenbrode"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Bjerre, Troels"]
+[Black "Saren, Ilkka J."]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "0afacdff"]
+[Epoch "Bishop"]
+[WhiteID "1400177"]
+[BlackID "500089"]
+[WhiteCountry "DEN"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Ba5 10. Qd3 a6 11. Ne4 b5 12. Nxf6+ Qxf6 13. Qe4 Bb7 14. Bd3 g6 15.
+dxc5 Rfd8 16. Be2 Nd4 17. Qxb7 Nxe2+ 18. Kh1 Nxc1 19. Raxc1 Qxb2 20. Nd4 Rdb8
+21. Qf3 Rc8 22. Nc6 Bd8 23. Nxd8 Rxd8 24. c6 Qxa3 25. c7 Rdc8 26. Rfd1 Qe7 27.
+Qc6 b4 28. Rd7 Qf6 29. Rcd1 Kg7 30. Qd6 Qc3 31. Rd8 Qc2 32. f4 b3 33. Qf8+ Kf6
+34. Qh8+ 1-0

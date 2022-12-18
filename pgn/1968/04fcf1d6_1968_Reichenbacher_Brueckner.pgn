@@ -1,0 +1,19 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Reichenbacher, G."]
+[Black "Brueckner, G."]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "04fcf1d6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. g3 b4 7. Na4 Bb7 8.
+Bg2 Nf6 9. Qe2 Nc6 10. Be3 Nxd4 11. Bxd4 Be7 12. O-O Bc6 13. e5 Nd5 14.
+Bxd5 exd5 15. Nb6 Rb8 16. Qxa6 O-O 17. a4 bxa3 18. bxa3 Qc7 19. a4 Rb7 20.
+a5 Rfb8 21. Qd3 g6 22. Rfb1 Bf8 23. Qe3 Bg7 24. a6 Ra7 25. Nxd5 Rxb1+ 26.
+Rxb1 Bxd5 27. Bxa7 1-0
+

@@ -1,0 +1,17 @@
+[Event "Hannover"]
+[Site "Hannover"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Spanier"]
+[Black "Lorenz"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "495031d6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nd2 d5 6. exd6 Bf5 7. dxc7
+Qxc7 8. Qa4+ Nc6 9. Nf3 O-O-O 10. e3 Rhe8 11. a3 Bxd2+ 12. Bxd2 Nxd2 13.
+Nxd2 Rxd2 14. Kxd2 Qe5 15. Kc1 Rd8 16. Be2 Nd4 17. Bf3 Qa5 0-1
+

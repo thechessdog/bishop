@@ -1,0 +1,17 @@
+[Event "BUL-ch14"]
+[Site "Sofia"]
+[Date "1960.??.??"]
+[Round "8"]
+[White "Kolarov, Atanas S."]
+[Black "Milev, Zdravko"]
+[Result "1/2-1/2"]
+[ECO "D75"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O c5, 8.Nc3"]
+[HashCode "f890d707"]
+[Epoch "Bishop"]
+[WhiteID "2900246"]
+[WhiteCountry "BGR"]
+[BlackCountry "BGR"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nf3 O-O 5. O-O d5 6. cxd5 Nxd5 7. Nc3 c5 8. d4
+Nxc3 9. bxc3 Nc6 10. e3 Be6 11. Qa4 cxd4 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Bobolovich, Vladimi"]
+[Black "Ignatiev, Felix N"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "6630d17f"]
+[Epoch "Bishop"]
+[BlackID "4103106"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Bd7 8. e5
+dxe5 9. fxe5 Qa5 10. Qe2 Nc6 11. Nf3 Ng4 12. O-O-O Bb4 13. Ne4 Ngxe5 14. a3
+Bxa3 15. bxa3 Qxa3+ 16. Kb1 Qb4+ 17. Kc1 Qa3+ 18. Kd2 Qa5+ 19. Kc1 O-O 20. Qe3
+f6 21. Bf4 Rfd8 22. Qc3 Nb4 23. Qb2 Rac8 24. Nd4 Ba4 25. Rd2 Nxc2 26. Nxc2 Bxc2
+27. Rxd8+ Qxd8 28. Nc3 Be4 29. Be2 Nd3+ 30. Bxd3 Qxd3 31. Bd2 b5 32. Kd1 Bxg2
+33. Re1 Bf3+ 34. Kc1 Bd5 35. Re3 Qc4 36. Kb1 Qf1+ 37. Re1 Qf5+ 0-1

@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Henkin"]
+[Black "Kiezlach"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "101b6c4f"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+b6 8. Qe2 Be7 9. Bb5+ Bd7 10. Ne5 Bxb5 11. Qxb5+ Kf8 12. Qc6 Qd5 13. O-O
+Qxc6 14. Nxc6 Bd6 15. c4 Nd7 16. b4 Nb8 17. Nxb8 Rxb8 18. c5 Be7 19. Bf4
+Rc8 20. Rac1 g5 21. Be5 f6 22. Bg3 Kf7 23. f4 f5 24. d5 exd5 25. fxg5 Bxg5
+26. Rxf5+ Kg6 27. Rcf1 bxc5 28. h4 Be3+ 29. Kh1 Rhe8 30. Be5 cxb4 31. g4
+Rxe5 32. Rxe5 d4 33. Re6+ Kg7 34. Re7+ Kg6 35. Ref7 Bg5 36. hxg5 c5 37. Kg2
+d3 38. Kg3 Kxg5 39. R1f5+ Kg6 40. R5f6+ Kg5 41. Rd6 1-0
+

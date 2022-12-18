@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Walther"]
+[Black "Schischke"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "b512876d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nc3 Qxd4 7. Be3
+Qb4 8. a3 Qd6 9. Qxd6 exd6 10. Nb5 Kd7 11. O-O-O a6 12. Nxd6 Bxd6 13. Bc5
+Nf6 14. Bxd6 Rd8 15. Be5+ Ke7 16. Rxd8 Nxd8 17. Bd3 Be6 18. Nf3 Rc8+ 19.
+Kb1 Ng4 20. Bg3 Nc6 21. h3 Nf6 22. Re1 Kf8 23. Bh4 Nd5 24. Ng5 Nf4 25.
+Nxe6+ fxe6 26. Be4 h6 27. Bg3 Nd5 28. f4 Nce7 29. Bf3 Kf7 30. Bf2 Rc4 31.
+g3 g6 32. Rc1 Rxc1+ 33. Kxc1 Nc6 34. Kc2 Kf6 35. Kd3 b5 36. Bd4+ Kf7 37. b4
+Ke7 38. h4 Kf7 39. Be4 Nce7 40. Be5 Nc6 41. g4 a5 42. Bxd5 exd5 43. h5 Ke6
+44. Bc7 Kf6 45. f5 Ne5+ 46. Bxe5+ Kxe5 47. Ke3 d4+ 48. Kd3 1-0
+

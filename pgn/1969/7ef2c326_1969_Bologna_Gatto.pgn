@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bologna"]
+[Black "Gatto"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "7ef2c326"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 e6 3. e4 dxe4 4. Nxe4 Be7 5. Nf3 Nf6 6. Bd3 Nbd7 7. Qe2 b6
+8. Nxf6+ Nxf6 9. Bb5+ Nd7 10. Ne5 O-O 11. Qe4 Rb8 12. Nxd7 Bxd7 13. Bd3 f5
+14. Qe2 Bg5 15. Bxg5 Qxg5 16. O-O Rf6 17. f4 Qh4 18. Rf2 Rh6 19. g3 Qf6 20.
+Qe5 Qxe5 21. fxe5 c5 22. dxc5 bxc5 23. Bc4 Kf8 24. Rd1 Ke7 25. b3 g5 26.
+Rd6 Rb7 27. Rxf5 Rg6 28. Rf2 g4 29. Ba6 Rc7 30. Bd3 Rg5 31. Bxh7 Rxe5 32.
+Rdd2 c4 33. Rd4 cxb3 34. axb3 Re1+ 35. Rf1 Rxf1+ 36. Kxf1 e5 37. Rd2 Bc6
+38. Kf2 Ke6 39. Bg8+ Ke7 40. Ke3 Rb7 41. Bc4 Rb8 42. c3 Bf3 43. h4 a5 44.
+Ra2 Ra8 45. h5 Kf6 46. h6 Kg6 47. Rh2 Re8 48. Bb5 Rb8 49. Bc4 Re8 50. h7
+Kg7 51. h8=Q+ Rxh8 52. Rxh8 Kxh8 53. b4 axb4 54. cxb4 Kg7 55. Be2 Bd5 56.
+Bxg4 1/2-1/2
+

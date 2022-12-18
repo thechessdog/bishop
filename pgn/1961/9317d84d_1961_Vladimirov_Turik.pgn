@@ -1,0 +1,17 @@
+[Event "Kirov"]
+[Site "Kirov"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Vladimirov, Boris T"]
+[Black "Turik"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "9317d84d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bf4 Bg7 8. Bb5+
+Bd7 9. Be2 Qc7 10. Nf3 O-O 11. Nd2 Re8 12. O-O Na6 13. h3 Rab8 14. Rc1 Bf8 15.
+Kh1 Qc8 16. Bg5 Bg7 17. f4 Bxh3 18. f5 gxf5 19. Bxf6 Bxf6 20. gxh3 fxe4 21. Bg4
+Qd8 22. Ndxe4 Be5 23. Bh5 Rf8 24. Qg4+ Kh8 25. Bxf7 1-0

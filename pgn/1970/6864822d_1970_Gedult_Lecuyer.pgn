@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Lecuyer, Christian"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "6864822d"]
+[Epoch "Bishop"]
+[BlackID "600520"]
+[BlackCountry "FRA"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Nxe4 Qxd4 5. Bd3 f5 6. Nf3 Qd8 7. Nxe5 fxe4 8.
+Qh5+ g6 9. Nxg6 hxg6 10. Qxg6+ Kd7 11. Bg5 Ne7 12. Bb5+ c6 13. O-O-O+ Kc7 14.
+Qf6 Qe8 15. Qd6+ Kb6 16. Be3+ Ka5 17. b4+ Kxb5 18. Qc5+ Ka4 19. Qa5# 1-0

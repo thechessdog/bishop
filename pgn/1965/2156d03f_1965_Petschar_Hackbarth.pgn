@@ -1,0 +1,17 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Petschar"]
+[Black "Hackbarth"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "2156d03f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4 Qf6
+8. Nd2 exd4 9. e5 Qg6 10. cxd4 Bxd4 11. Nf3 Bb6 12. b3 h5 13. e6 fxe6 14.
+Bxd7+ Kf8 15. Ba3+ Ne7 16. Re1 Rh6 17. Bc6 1-0
+

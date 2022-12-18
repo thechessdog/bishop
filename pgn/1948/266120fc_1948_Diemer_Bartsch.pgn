@@ -1,0 +1,17 @@
+[Event "Ried"]
+[Site "Ried"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Bartsch, Berthold"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "266120fc"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+[BlackID "4604660"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qb4 7. O-O-O Nc6
+8. Nb5 Qa5 9. Qf2 Ng4 10. Bb6 Qxb5 11. Rd8+ Kxd8 12. Qd2+ 1-0

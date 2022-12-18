@@ -1,0 +1,18 @@
+[Event "Rostov tt"]
+[Site "Rostov tt"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Hodos"]
+[Black "Saveliev"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "1a1ab66a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 c6 6. Bd3 Qd7 7. Nge2 Bd6
+8. Ng3 Bxd3 9. Qxd3 O-O 10. e4 Re8 11. O-O Bxg3 12. fxg3 Na6 13. a3 dxe4
+14. Nxe4 Re7 15. Rf4 Rae8 16. Raf1 Nc7 17. c3 b6 18. h3 Nd5 19. Rh4 f5 20.
+Rxf5 h6 21. Qf3 Ne3 22. Rfh5 f5 23. Nf6+ gxf6 24. Rxh6 Nd5 25. Qh5 Re1+ 26.
+Kh2 Kf8 27. Rh8+ Ke7 28. Rh7+ Kd8 29. Rxd7+ 1-0
+

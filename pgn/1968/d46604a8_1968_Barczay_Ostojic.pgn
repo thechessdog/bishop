@@ -1,0 +1,19 @@
+[Event "HUN-JUG"]
+[Site "Pecs"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Barczay, Laszlo"]
+[Black "Ostojic, Predrag"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "d46604a8"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Bb4 5. e3 c5 6. Bd3 O-O 7. O-O Nbd7 8. a3
+Ba5 9. Qe2 cxd4 10. exd4 dxc4 11. Bxc4 Bxc3 12. bxc3 b6 13. Bf4 Bb7 14. Bd3 Re8
+15. a4 Rc8 16. c4 Bxf3 17. gxf3 Nh5 18. Be3 e5 19. d5 Nf4 20. Bxf4 exf4 21. Qd1
+Re5 22. Re1 0-1

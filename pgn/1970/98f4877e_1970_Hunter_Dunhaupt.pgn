@@ -1,0 +1,17 @@
+[Event "corr FRG jub"]
+[Site "corr FRG jub"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hunter, C."]
+[Black "Dunhaupt, H."]
+[Result "1/2-1/2"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "98f4877e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Bb3 Nc6
+8. Be3 O-O 9. Qe2 Qa5 10. O-O-O Bd7 11. Ndb5 d5 12. exd5 exd5 13. Nxa7 Rxa7
+14. Nxd5 Raa8 15. Bb6 Qa6 16. Bc4 Qa4 17. Bb3 Qa6 18. Bc4 1/2-1/2
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Riggs"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "ccf55c32"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 cxd4 6. cxd4 Qb6 7. Bd3 Bd7 8. Bc2
+Nb4 9. Ba4 Qa6 10. Bxd7+ Kxd7 11. Ng5 Nd3+ 12. Kd2 Nxf2 13. Qe2 Nxh1 14. Nxf7
+Qb6 15. Ke3 Ne7 16. Nxh8 Nf5+ 17. Kd3 Qxd4+ 18. Kc2 Qc5+ 19. Kd1 Nf2+ 20. Ke1
+Qxc1+ 21. Kxf2 Bc5+ 0-1

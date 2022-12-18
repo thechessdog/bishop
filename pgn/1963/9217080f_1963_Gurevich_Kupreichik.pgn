@@ -1,0 +1,18 @@
+[Event "Burevestnik"]
+[Site "Burevestnik"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Gurevich"]
+[Black "Kupreichik"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "9217080f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 g6 4. Qd2 Bg7 5. Bh6 Bxh6 6. Qxh6 c6 7. f3 Qa5
+8. Qd2 c5 9. e3 Nc6 10. Nge2 O-O 11. Nf4 Rd8 12. h4 cxd4 13. exd4 Nxd4 14.
+Qxd4 e5 15. Qxe5 Re8 16. Qxe8+ Nxe8 17. Nxd5 Be6 18. O-O-O a6 19. h5 b5 20.
+hxg6 b4 21. Ne7+ Kg7 22. Rxh7+ Kf8 23. Ncd5 fxg6 24. Bc4 Bf7 25. Nf4 Ng7
+26. Nc6 1-0
+

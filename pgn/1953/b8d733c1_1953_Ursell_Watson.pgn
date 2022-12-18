@@ -1,0 +1,16 @@
+[Event "Bognor Regis"]
+[Site "Bognor Regis"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Ursell, P."]
+[Black "Watson"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "b8d733c1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. Bc4 g6 5. e5 dxe5 6. Nxe5 e6 7. Qf3 Bg7 8.
+Ne4 Nxe4 9. Qxf7# 1-0
+

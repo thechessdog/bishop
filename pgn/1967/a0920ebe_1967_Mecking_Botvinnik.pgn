@@ -1,0 +1,18 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Mecking, Henrique"]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "a0920ebe"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 d6 5. Nf3 Bg7 6. O-O O-O 7. Nc3 c6 8. Qc2
+Kh8 9. Bg5 Be6 10. d5 cxd5 11. Nd4 Bg8 12. cxd5 Na6 13. Rfd1 Rc8 14. Qd2 Nc5
+15. Nb3 Nce4 16. Nxe4 Nxe4 17. Bxe4 fxe4 18. Be3 Rf5 19. Qb4 Rxd5 20. Qxb7 Rc7
+21. Qb4 Rc4 0-1

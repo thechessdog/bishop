@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Aitken, James Macrae"]
+[Black "Penrose"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack, Adam variation"]
+[HashCode "b3c2adb1"]
+[Epoch "Bishop"]
+[WhiteCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. c4 bxc4 11. Bxc4 dxc4 12. Qxe4 Qd5 13. Qf4 O-O 14. Nc3 Qd3
+15. Rd1 Qc2 16. Ne1 Qf5 17. Nd5 Bc5 18. Qxf5 Bxf5 19. Bf4 Rab8 20. b3 Ba3 21.
+Bc1 Bxc1 22. Raxc1 Be6 23. Rxc4 Nxe5 24. Rxc7 Rfd8 25. Ne3 Rxd1 26. Nxd1 Ra8
+27. Ne3 a5 28. f4 Ng4 29. Nxg4 Bxg4 30. h3 Be6 31. Nd3 a4 32. Nc5 axb3 33. axb3
+Bd5 34. b4 Kf8 35. b5 Ra1+ 36. Kf2 Rb1 37. b6 Rb2+ 38. Ke3 Bxg2 39. b7 1-0

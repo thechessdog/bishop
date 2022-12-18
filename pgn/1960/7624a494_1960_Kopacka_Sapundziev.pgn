@@ -1,0 +1,18 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Kopacka"]
+[Black "Sapundziev"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "7624a494"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e4 Nc6 5. f4 g5 6. Nf3 gxf4 7. Bxf4 Bg4 8.
+Bd3 Nge7 9. O-O Ng6 10. Bg3 Bh6 11. Qb3 Qd7 12. e6 Bxe6 13. Na3 O-O-O 14.
+Qa4 Be3+ 15. Kh1 h5 16. Nb5 a6 17. Nxc7 h4 18. Nd5 hxg3 19. Nb6+ Kc7 20.
+Nxd7 Rxh2+ 21. Nxh2 Rh8 0-1
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schellingerhout, J."]
+[Black "Holscher, H."]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "1fbe6ad0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Be3 Nf6
+8. Qe2 Bd6 9. h3 Be5 10. Nxc6 Qxc6 11. Bd2 b6 12. f4 Bxc3 13. Bxc3 Bb7 14.
+Bxf6 gxf6 15. O-O-O a5 16. e5 Qa4 17. Qf2 fxe5 18. fxe5 Qxa2 19. Qxb6 Rb8
+20. Rhf1 h5 21. Rxf7 1-0
+

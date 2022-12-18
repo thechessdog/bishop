@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Sommovigo"]
+[Black "Schenck"]
+[Result "1-0"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "4...e6"]
+[HashCode "6baf6136"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 Nf6 5. Bxc4 Be7 6. Nc3 O-O 7. O-O c6 8.
+e4 b5 9. Bd3 a5 10. Bg5 b4 11. Na4 Ng4 12. Bxe7 Qxe7 13. Rc1 Ra7 14. Re1
+Re8 15. d5 cxd5 16. exd5 Qd6 17. dxe6 Kh8 18. exf7 Rf8 19. Rxc8 1-0
+

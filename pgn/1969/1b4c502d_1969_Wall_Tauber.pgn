@@ -1,0 +1,15 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Tauber, Andre"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "1b4c502d"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 Nf6 4. Nc3 d5 5. dxc5 Nxe4 6. Qxd5 Qxd5 7. Nxd5 Kd7
+8. Bb5 e6 9. Ne5+ 1-0

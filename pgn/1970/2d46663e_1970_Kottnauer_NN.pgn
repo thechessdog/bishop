@@ -1,0 +1,15 @@
+[Event "London simul"]
+[Site "London simul"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kottnauer, Cenek"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "A21"]
+[Opening "English opening"]
+[HashCode "2d46663e"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. c4 e5 2. Nc3 f5 3. e3 Nf6 4. d4 e4 5. Nh3 Be7 6. Nf4 c6 7. h4 O-O 8. Be2 d5
+9. cxd5 cxd5 10. Qb3 Kh8 11. h5 Nc6 12. Ncxd5 Na5 13. Ng6+ 1-0

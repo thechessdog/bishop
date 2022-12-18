@@ -1,0 +1,20 @@
+[Event "Coventry ch-BCF"]
+[Site "Coventry ch-BCF"]
+[Date "1970.08.01"]
+[Round "3"]
+[White "Williams, A. Howard"]
+[Black "Eales, Richard G"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "cde0b0f9"]
+[Epoch "Bishop"]
+[WhiteID "1800043"]
+[WhiteCountry "WLS"]
+[BlackID "400556"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 g6 7. Nf3 Bf5 8. O-O
+Bxd3 9. Qxd3 Bg7 10. Nbd2 O-O 11. Ne5 Nxe5 12. Bxe5 Qb6 13. Nb3 Nd7 14. Bxg7
+Kxg7 15. Rfe1 1/2-1/2

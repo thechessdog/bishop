@@ -1,0 +1,19 @@
+[Event "Budapest-ch"]
+[Site "Budapest"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Sapi, Laszlo"]
+[Black "Dely, Peter"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "c936832d"]
+[Epoch "Bishop"]
+[WhiteID "701513"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. g3 Bb4 6. Qb3 Nc6 7. d5 Bxc3+ 8.
+Qxc3 exd5 9. cxd5 Nxd5 10. Qxg7 Qf6 11. Qxf6 Nxf6 12. Bg5 Ne4 13. Bf4 Nb4 14.
+Rc1 Nc5 15. Rd1 Ncd3+ 0-1

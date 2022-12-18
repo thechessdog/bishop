@@ -1,0 +1,21 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Skalkotas, Nikolaos"]
+[Black "Peev, Peicho Chonev"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "Nd2 variation"]
+[HashCode "17c50c82"]
+[Epoch "Bishop"]
+[WhiteID "4200144"]
+[WhiteCountry "GRE"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. Nd2
+Qa5 9. e4 Bxf1 10. Kxf1 Bg7 11. Qe2 Nbd7 12. Nc4 Qb4 13. Bd2 O-O 14. g3 Nb6 15.
+b3 Nxc4 16. bxc4 Nd7 17. Rb1 Qa5 18. Rb5 Qa6 19. Kg2 Nb6 20. Rhb1 Na4 21. Nd1
+Qc8 22. Ba5 f5 23. Qc2 f4 24. f3 fxg3 25. hxg3 Bh6 26. Qxa4 Bd2 27. R1b2 Be1
+28. Re2 Rxf3 29. Kxf3 Qh3 30. Rxe1 Rf8+ 31. Ke3 Qxg3+ 32. Kd2 1-0

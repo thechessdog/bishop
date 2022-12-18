@@ -1,0 +1,19 @@
+[Event "Bassano tt"]
+[Site "Bassano tt"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Agnostopulos"]
+[Black "Alba"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bogolyubov variation"]
+[HashCode "d3b0fd84"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 d5 5. exd5 Bd6 6. Nf3 O-O 7. O-O Nbd7
+8. d4 Nb6 9. Bb3 a5 10. a4 Re8 11. Ne5 g5 12. g3 Bh3 13. Rf2 fxg3 14. hxg3
+Bxe5 15. Bxg5 Bxg3 16. Rxf6 Re1+ 17. Qxe1 Bxe1 18. Rxe1 Qd7 19. Kh2 Bf5 20.
+d6 Bg6 21. Re7 Qd8 22. Rxg6+ hxg6 23. Bxf7+ Kg7 24. Be6+ Qxe7 25. Bxe7 Re8
+26. Nb5 1-0
+

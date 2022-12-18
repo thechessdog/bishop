@@ -1,0 +1,20 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Timperley, J."]
+[Black "Milan, S."]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "4762fe54"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 Rb8 9. axb5 axb5 10. c3 d6 11. d4 Rb6 12. h3 h6 13. Be3 Ra6 14. Nbd2
+exd4 15. cxd4 Na5 16. Ba2 c5 17. dxc5 dxc5 18. Qc2 Nd7 19. e5 Re8 20. Rad1
+Nb7 21. e6 fxe6 22. Bb1 Nf8 23. Ne5 Qc7 24. Ng6 Nd8 25. Nxe7+ Rxe7 26. Bxc5
+Rd7 27. b4 Bb7 28. Ne4 Rxd1 29. Rxd1 Nf7 30. Qd3 Qc6 31. Qg3 e5 32. Bxf8
+Kxf8 33. Nc5 Ra1 34. Kh2 g5 35. Be4 1-0
+

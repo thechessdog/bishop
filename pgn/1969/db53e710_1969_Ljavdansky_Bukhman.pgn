@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ljavdansky, V."]
+[Black "Bukhman, Eduard"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Berlin variation"]
+[HashCode "db53e710"]
+[Epoch "Bishop"]
+[BlackID "4102088"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Nc5 10. Bc2 Bg4 11. h3 Bh5 12. Qe2 Qd7 13. Bf4 Be7 14. Rd1 O-O 15.
+Nbd2 Rad8 16. Nb3 Ne6 17. Qe3 f6 18. g4 Nxf4 19. Qxf4 fxe5 20. Qg3 Bd6 21. Rxd5
+e4 22. Bxe4 Bg6 23. Bxg6 hxg6 24. Rad1 Qf7 25. Rxd6 Rxd6 26. Rxd6 cxd6 27. Ng5
+Qf6 28. Qh4 Re8 29. Nd2 d5 30. Ndf3 Ne5 31. Nxe5 Rxe5 32. Qh7+ Kf8 33. Qh8+ Ke7
+34. f4 Re2 35. Qb8 Qd6 36. Qb7+ Qd7 37. Qxa6 Qc7 38. Kf1 Re3 39. Kf2 Qxf4+ 0-1

@@ -1,0 +1,17 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kuhlmann, A."]
+[Black "Morgado, Juan Sebastian"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "aabe2365"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Bd6 6. Bc4 Ne7 7. dxc6 Nbxc6 8.
+Qe2 O-O 9. Ne4 Bg4 10. c3 Ng6 11. d4 Na5 12. O-O Nxc4 13. Qxc4 Bc7 14. Nc5 b6
+15. Nd3 Rc8 16. d5 Re8 17. Bd2 Bxf3 18. Rxf3 Re2 19. Be1 Qg5 20. Rf2 b5 21.
+Qxb5 Bb6 22. Qxb6 Rxe1+ 23. Rxe1 axb6 0-1

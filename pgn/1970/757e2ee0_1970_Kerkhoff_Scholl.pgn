@@ -1,0 +1,18 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kerkhoff, Leo"]
+[Black "Scholl, Eddie C"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "757e2ee0"]
+[Epoch "Bishop"]
+[BlackID "1000390"]
+[BlackCountry "NLD"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Be2 Nbd7 6. Nf3 Qc7 7. Qd2 b5 8. e5
+dxe5 9. dxe5 Nxe5 10. Nxe5 Qxe5 11. O-O-O Be6 12. Bf3 Nd5 13. Bf4 Qf6 14. Bxd5
+Bxd5 15. Nxd5 cxd5 16. Qxd5 Qxf4+ 17. Kb1 1-0

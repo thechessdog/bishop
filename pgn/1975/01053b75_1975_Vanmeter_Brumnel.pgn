@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Vanmeter, L."]
+[Black "Brumnel, D."]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "01053b75"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O a6 5. Bc4 d5 6. exd5 Nxd5 7. Re1 f6
+8. d4 Nb6 9. Bb3 Bg4 10. c3 Qd7 11. dxe5 Nxe5 12. Nxe5 Qxd1 13. Bxd1 Bxd1
+14. Ng6+ Kf7 15. Nxh8+ Kg8 16. Rxd1 Kxh8 17. Bf4 c6 18. Nd2 1-0
+

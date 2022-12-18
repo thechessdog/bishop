@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Wiktorczyk"]
+[Black "Bozek"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "6c3ab153"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8.
+Nf3 Qa5 9. Bd3 Qxc3+ 10. Bd2 Qxa1+ 11. Ke2 Qxh1 12. Bxh7+ Kxh7 13. Ng5+ Kg8
+14. Qh5 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "Reykjavik zt"]
+[Site "Reykjavik"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Laine, Heikki"]
+[Black "Zwaig, Arne"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "61a67150"]
+[Epoch "Bishop"]
+[WhiteID "500631"]
+[BlackID "1500040"]
+[WhiteCountry "FIN"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. e3 Qa5 6. Rc1 Ne4 7. Nf3 Nxg5 8.
+Nxg5 cxd4 9. Ne4 dxc3 10. bxc3 Ba3 11. Rc2 Nc6 12. Be2 d5 13. cxd5 Qxd5 0-1

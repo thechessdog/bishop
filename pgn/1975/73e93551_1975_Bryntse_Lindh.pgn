@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Bryntse"]
+[Black "Lindh"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "73e93551"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. Nf3 dxe5 4. Nxe5 Bd6 5. Nf3 Nf6 6. e3 Ng4 7. Qe2 Nc6
+8. Nc3 O-O 9. Ne4 Re8 10. Nxd6 Qxd6 11. Qd3 Qf6 12. Qc3 Nce5 13. Be2 Nxf3+
+14. Bxf3 Qh4+ 15. g3 Qh3 16. Qxc7 Ne5 17. Bxb7 Bg4 18. Bxa8 Rxa8 19. Qxe5
+Qg2 20. Qb5 Qxh1+ 21. Qf1 Qxh2 22. Qf2 Qh1+ 23. Qf1 Qc6 24. c4 Rd8 25. d4
+Qg6 26. Kd2 Rd6 27. Qg2 h5 28. b3 Rf6 29. Ba3 Bf3 30. Qh2 Be4 31. Bc5 Bb1
+32. Kc3 Qd3+ 33. Kb4 a5+ 34. Ka4 Rf1 35. Qb2 1-0
+

@@ -1,0 +1,21 @@
+[Event "London open"]
+[Site "London open"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Prizant, A."]
+[Black "Nicholson, JG."]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "0b1abd1c"]
+[Epoch "Bishop"]
+
+1. b3 e5 2. Bb2 d6 3. g3 Nf6 4. Bg2 g6 5. e4 Bg7 6. Ne2 O-O 7. O-O Nc6 8.
+c4 Ne8 9. Nbc3 Bg4 10. f3 Be6 11. Nd5 Nd4 12. Nxd4 exd4 13. Nf4 Bd7 14. d3
+c5 15. Nd5 Bc6 16. Qe2 Bxd5 17. cxd5 Nc7 18. f4 a5 19. Rae1 a4 20. Qf3 axb3
+21. axb3 Ra6 22. f5 Rb6 23. Bc1 Rxb3 24. f6 Bh8 25. g4 c4 26. g5 Rxd3 27.
+Qf4 b5 28. e5 dxe5 29. Rxe5 Ne8 30. d6 b4 31. Bc6 h6 32. Bxe8 Rxe8 33. Rfe1
+Rxe5 34. Qxe5 hxg5 35. Qe8+ Qxe8 36. Rxe8+ Kh7 37. Rxh8+ Kxh8 38. d7 Rd1+
+39. Kg2 Kh7 40. d8=Q 1-0
+

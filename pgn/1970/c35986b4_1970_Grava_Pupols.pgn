@@ -1,0 +1,19 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Grava, A."]
+[Black "Pupols, V."]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Rousseau gambit"]
+[HashCode "c35986b4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nc6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Qf6 7. Qxf6
+Nxf6 8. exf5 d5 9. Bd3 c5 10. b3 Bd6 11. O-O O-O 12. f3 b5 13. Rd1 c4 14.
+bxc4 bxc4 15. Bf1 Bxf5 16. Na3 Bc5+ 17. Kh1 Rab8 18. c3 Rb6 19. g4 Bxg4 20.
+Bg2 Ne4 21. Rxd5 Bxf3 22. Bxf3 Rxf3 23. Rxc5 Nxc5 24. Nxc4 Rg6 25. Be3 Ne4
+26. Bxa7 Nf2+ 27. Bxf2 Rxf2 28. a4 Rgg2 29. Ne3 Rxh2+ 30. Kg1 Ra2 31. Rc1
+Rhe2 32. Nd5 Rxa4 33. c4 Raa2 0-1
+

@@ -1,0 +1,23 @@
+[Event "Birmingham"]
+[Site "Birmingham"]
+[Date "1972.04.01"]
+[Round "7"]
+[White "Dunkelblum, Arthur"]
+[Black "Carleton, John J"]
+[Result "0-1"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "448a750c"]
+[Epoch "Bishop"]
+[BlackID "401013"]
+[BlackCountry "ENG"]
+[WhiteCountry "BEL"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. e3 O-O 6. Qb3 Nc6 7. a3 dxc4 8. Bxc4
+Bd6 9. Bb5 e5 10. Bxc6 exd4 11. Ne4 bxc6 12. Nxd6 cxd6 13. Nxd4 c5 14. Ne2 Ba6
+15. f3 Re8 16. Kf2 Rb8 17. Qc2 Qb6 18. Nc3 Bc4 19. Rb1 Bb3 20. Qd3 d5 21. Re1
+d4 22. Ne4 Nd7 23. exd4 cxd4 24. Bf4 Bc2 25. Qd2 Bxb1 26. Rxb1 Rbd8 27. b4 Ne5
+28. Rc1 Qa6 29. Bxe5 Rxe5 30. Qf4 Qxa3 31. Rc7 Qe3+ 32. Qxe3 dxe3+ 33. Kxe3 f5
+34. Kf4 Rb5 35. Ng5 Rxb4+ 36. Kxf5 Rf8+ 37. Ke6 Rb6+ 38. Kd7 h6 39. Ne4 Rf7+
+40. Kc8 Rxc7+ 41. Kxc7 Rb2 0-1

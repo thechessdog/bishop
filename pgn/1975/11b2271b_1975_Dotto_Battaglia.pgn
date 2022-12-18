@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Dotto"]
+[Black "Battaglia"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "11b2271b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 b5 10. a3 Bb7 11. Bf3 Nc6 12. Qe2 Qc7 13. Rfd1 Na5 14. Nxa5
+Qxa5 15. b4 Qc7 16. Nd5 Nxd5 17. exd5 f5 18. g3 f4 19. gxf4 exf4 20. Bd4
+Rae8 21. Bh5 g6 22. Qe6+ Rf7 23. Bxg6 hxg6 24. Qxg6+ Kf8 25. Qh6+ Kg8 26.
+Qh8# 1-0
+

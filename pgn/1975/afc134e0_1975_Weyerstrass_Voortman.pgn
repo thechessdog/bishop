@@ -1,0 +1,15 @@
+[Event "Laren"]
+[Site "Laren"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Voortman"]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "afc134e0"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 Nf6 5. e3 d6 6. Nge2 Be6 7. d4 exd4 8.
+exd4 Bxd4 9. Nxd4 Nxd4 10. Qxd4 c5 11. Qd3 1-0

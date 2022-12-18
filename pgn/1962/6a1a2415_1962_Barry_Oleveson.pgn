@@ -1,0 +1,16 @@
+[Event "Rhode Island"]
+[Site "Rhode Island"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Barry"]
+[Black "Oleveson"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "6a1a2415"]
+[Epoch "Bishop"]
+
+1. e4 Nc6 2. d4 d6 3. d5 Ne5 4. f4 Bg4 5. Qd4 c5 6. Qf2 Qa5+ 7. Bd2 Qb6 8.
+fxe5 Qxb2 9. Bc3 Qc1# 0-1
+

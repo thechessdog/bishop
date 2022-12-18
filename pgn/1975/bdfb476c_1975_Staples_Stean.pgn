@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Staples"]
+[Black "Stean"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "bdfb476c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Nc6 7. Nf3 Be7 8.
+Bd3 Qb6 9. Qe2 e5 10. f5 Bd7 11. Bd2 O-O 12. O-O-O Nd4 13. Nxd4 exd4 14.
+Nd5 Nxd5 15. exd5 Bf6 16. Qh5 Rac8 17. g4 Ba4 18. b3 Bxb3 19. axb3 Qxb3 20.
+Bg5 Rxc2+ 21. Bxc2 Rc8 22. Rd2 d3 23. Kd1 Rxc2 24. Ke1 Qb1+ 25. Kf2 Qxh1
+0-1
+

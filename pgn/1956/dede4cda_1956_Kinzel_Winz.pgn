@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Kinzel, Alfred"]
+[Black "Winz, Victor"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "dede4cda"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 c6 6. Be3 Qa5 7. Bc4 Bg4
+8. Qf4 e6 9. h3 Bh5 10. g4 Bg6 11. O-O-O Nd5 12. Nxd5 cxd5 13. Bb3 b5 14.
+Nf3 Nd7 15. Rhf1 Be7 16. Bd2 Qd8 17. Rde1 Rc8 18. Kb1 Qc7 19. Qxc7 Rxc7 20.
+Bf4 Rb7 21. Re2 Nb6 22. Bd2 b4 23. Ne5 a5 24. a4 Rc7 25. Nxg6 hxg6 26. Rf3
+Nc4 27. Bf4 Rb7 28. g5 O-O 29. h4 Rd7 30. Rh3 Bd6 31. Bc1 Re8 32. Re1 f5
+33. h5 Kf7 34. hxg6+ Kxg6 35. c3 bxc3 36. Bd1 Kf7 37. g6+ Kf6 38. bxc3 Rb7+
+39. Kc2 Reb8 40. Rg1 Rb2+ 41. Kd3 e5 42. dxe5+ Nxe5+ 43. Kd4 Ke6 44. Bf3
+Bc5+ 0-1
+

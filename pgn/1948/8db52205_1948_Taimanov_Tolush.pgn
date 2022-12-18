@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Tolush, Alexander"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "8db52205"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d6 5. f4 dxe5 6. fxe5 Bf5 7. Qf3 Qc8 8.
+Bd3 Bxd3 9. cxd3 e6 10. Qg3 c5 11. Nf3 Qd7 12. Ng5 Be7 13. Ne4 Nc6 14. O-O Qd5
+15. Qxg7 O-O-O 16. Rxf7 Rdg8 17. Qh6 c4 18. Qe3 cxd3 19. Bb2 Rg4 20. Re1 Qxa2
+21. Nd6+ Kb8 22. Qf3 Bxd6 23. exd6 Rhg8 24. Qxg4 1-0

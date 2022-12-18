@@ -1,0 +1,19 @@
+[Event "Wolverhampton"]
+[Site "Wolverhampton"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Basman"]
+[Black "Griffiths"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "0d6823a1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. b3 d5 5. exd5 Be7 6. Bb5+ c6 7. dxc6 bxc6
+8. Bc4 Bh4+ 9. Nxh4 Qxh4+ 10. Kf1 Ne7 11. Bb2 O-O 12. Qe1 Qxe1+ 13. Kxe1
+Bf5 14. d3 Nd7 15. Rf1 Rfe8 16. Kd2 g5 17. h4 Ng6 18. hxg5 hxg5 19. Nc3
+Nde5 20. Ne2 Nh4 21. Nxf4 gxf4 22. Rxf4 Neg6 23. Raf1 Be6 24. Rxf7 Bxf7 25.
+Rxf7 Ne5 26. Bxe5 1-0
+

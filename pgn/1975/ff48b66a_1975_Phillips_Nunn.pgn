@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Phillips"]
+[Black "Nunn, John D M"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "ff48b66a"]
+[Epoch "Bishop"]
+[BlackID "400017"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O a6 10. a4 Nbd7 11. h3 Qc7 12. f4 Rb8 13. Ng3 c4 14. Bc2 b5 15. axb5
+axb5 16. Be3 b4 17. Ra7 Qd8 18. Nce2 Rb7 19. Ra1 Qc7 20. Bd4 Re8 21. Ra6 Nb8
+22. Ra8 Nbd7 23. Ra6 Nb8 24. Ra8 1/2-1/2

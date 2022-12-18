@@ -1,0 +1,24 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Dannberg, W."]
+[Black "Klompus, G."]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "1dcc43e8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5
+8. Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 Be7 12. f4 Nc5 13. Bxf6 gxf6 14.
+Bd5 b4 15. Bxb7 bxc3 16. Bc6+ Kf8 17. Qxc3 Qxc3 18. bxc3 Rc8 19. e5 fxe5
+20. fxe5 d5 21. Rf1 Rg8 22. Rf2 Bg5+ 23. Kb2 Be3 24. Re2 Bxd4 25. cxd4 Ne4
+26. Rxe4 Rxg2 27. Bxd5 Rcxc2+ 28. Kb3 exd5 29. Rf4 Rb2+ 30. Ka3 Rxa2+ 31.
+Kb4 Rg6 32. Rdf1 Rb2+ 33. Ka5 Rb5+ 34. Ka4 Rb7 35. Ka5 Rb5+ 36. Ka4 Rb7 37.
+Ka5 Ke8 38. Rf6 Rb5+ 39. Kxa6 Rb4 40. Rxg6 fxg6 41. Rf4 h5 42. Rf6 g5 43.
+Rh6 h4 44. Rg6 Rxd4 45. Rxg5 Kf7 46. Kb5 Ke6 47. Rh5 Rc4 48. h3 Rc8 49.
+Rxh4 Kxe5 50. Rh7 Rd8 51. Re7+ Kd6 52. Rb7 Ke5 53. Ka4 d4 54. Rb1 d3 55.
+Kb3 Kd4 56. Rh1 Rb8+ 0-1
+

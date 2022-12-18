@@ -1,0 +1,24 @@
+[Event "ACM Chicago"]
+[Site "ACM Chicago"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Genie"]
+[Black "Tech"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "f17647e1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nc3 d6 6. d4 exd4 7. Nxd4 Bd7
+8. Nf5 O-O 9. Bg5 Ne5 10. Na4 Bxb5 11. Nxc5 Bxf1 12. Nxb7 Qb8 13. Ne7+ Kh8
+14. Nxd6 cxd6 15. Bxf6 gxf6 16. Qxf1 Qb4 17. Nd5 Qxe4 18. Nxf6 Qxc2 19. Qc1
+Qxc1+ 20. Rxc1 Kg7 21. Nh5+ Kg6 22. Nf4+ Kf5 23. Nd5 Rad8 24. Re1 Rb8 25.
+b4 Nd3 26. Re2 Nxb4 27. Nc3 Rfe8 28. a3 Rxe2 29. Nxe2 Nd5 30. h4 Ke4 31. h5
+Rd8 32. h6 Rc8 33. g4 Kf3 34. Ng3 Kxg4 35. a4 Kf3 36. a5 Rg8 37. a6 Rxg3+
+38. fxg3 Kxg3 39. Kf1 Nb4 40. Ke2 Nxa6 41. Ke3 Nc5 42. Kd4 Kf4 43. Kd5 Ne4
+44. Kc6 Ke5 45. Kb7 a5 46. Kc6 a4 47. Kd7 a3 48. Ke7 a2 49. Kxf7 a1=Q 50.
+Ke7 Qc1 51. Kd7 Qxh6 52. Kc6 Qe3 53. Kc7 d5 54. Kc6 d4 55. Kd7 d3 56. Kc6
+d2 57. Kd7 d1=Q+ 58. Kc6 Qa7 59. Kb5 Qda4# 0-1
+

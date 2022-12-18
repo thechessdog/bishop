@@ -1,0 +1,21 @@
+[Event "Titovo Uzice"]
+[Site "Titovo Uzice"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Janosevic, Dragoljub"]
+[Black "Nikolic, Stanimir"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "ae11c4e6"]
+[Epoch "Bishop"]
+[BlackID "903191"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. e5 Nc6 6. Qa4 Nd5 7. c4 Nc7 8. Nc3
+Bg7 9. Bf4 Ne6 10. Bg3 O-O 11. Nd5 d6 12. O-O-O dxe5 13. Nf6+ exf6 14. Rxd8
+Rxd8 15. Be2 Nc5 16. Qa3 Bf5 17. b4 Nd3+ 18. Bxd3 Rxd3 19. Qa4 Rc3+ 20. Kb2
+Rxc4 21. a3 Rc8 22. Qb5 Rc2+ 23. Ka1 e4 24. Ne1 Nd4 25. Qd5 R2c4 26. Bf4 Be6
+27. Qxb7 f5 28. Kb1 Ne2 0-1

@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Huguet, Bernard"]
+[Black "Matulovic, Milan"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "3f144c55"]
+[Epoch "Bishop"]
+[WhiteID "601462"]
+[WhiteCountry "FRA"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 e6 6. Nb3 a6 7. Bd3 Nf6 8.
+Be3 b5 9. f4 d6 10. Qf3 Be7 11. O-O-O Nb4 12. g4 Bb7 13. Kb1 d5 14. g5 dxe4 15.
+Nxe4 Nxe4 16. Bxe4 Qxc2+ 17. Bxc2 Bxf3 0-1

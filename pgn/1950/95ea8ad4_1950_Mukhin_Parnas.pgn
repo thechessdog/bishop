@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Mukhin, Mikhail A"]
+[Black "Parnas, A."]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Yankovich variation"]
+[HashCode "95ea8ad4"]
+[Epoch "Bishop"]
+[WhiteCountry "KAZ"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. Qe2
+Nxc4 9. dxc4 Bc5 10. Nfd2 O-O 11. h3 e3 12. fxe3 Bxe3 13. Kd1 Re8 14. Qf3 c6
+15. Nc3 cxd5 16. Nxd5 Nxd5 17. cxd5 Bxd2 18. Bxd2 Re5 19. c4 b5 20. b3 bxc4 21.
+bxc4 Ba6 22. Rc1 Rc8 23. Qf4 Qe8 24. Bc3 Rxd5+ 25. Kc2 Qe2+ 26. Kb1 Bxc4 27.
+Bb2 Rd2 28. Qe5 Qxe5 29. Bxe5 Bxa2+ 30. Ka1 Rxc1+ 31. Rxc1 Rxg2 32. Rc8+ Kh7
+33. Ra8 Be6 34. Rxa7 Rg1+ 0-1

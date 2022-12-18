@@ -1,0 +1,19 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Adamski"]
+[Black "Witkowski, Stefan"]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "85eadedf"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 c6 7. O-O dxc4 8. Bxc4
+Bg4 9. h3 Bxf3 10. Qxf3 Nbd7 11. Rd1 Qa5 12. e4 e6 13. Be3 Qb4 14. Qe2 b5 15.
+Bb3 Nb6 16. Rac1 Nc4 17. Bxc4 bxc4 18. e5 Nd5 19. Ne4 Rab8 20. Rd2 Rfc8 21.
+Rxc4 Qa5 22. a3 Bf8 23. Rdc2 Qa6 24. Qf3 Rb6 25. h4 Rxb2 26. Rxb2 Qxc4 27. Rb7
+Be7 28. Nd6 1-0

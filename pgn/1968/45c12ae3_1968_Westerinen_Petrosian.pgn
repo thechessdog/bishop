@@ -1,0 +1,18 @@
+[Event "Bamberg"]
+[Site "Bamberg"]
+[Date "1968.04.01"]
+[Round "13"]
+[White "Westerinen, Heikki M.J."]
+[Black "Petrosian, Tigran"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "45c12ae3"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "GEO"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 Qc7 10. Bd2 e6 11. O-O-O O-O-O 12. c4 Ngf6 13. Kb1 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Valenti, Giuseppe"]
+[Black "Catalini"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "51234e76"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Bc4
+Nc6 9. Bb3 Bd7 10. Qd2 Qb8 11. h4 a5 12. a4 Nh5 13. g4 Nxd4 14. Bxd4 Bxd4 15.
+Qxd4 Nf4 16. Qd2 Ne6 17. Nd5 b5 18. Qh6 Re8 19. g5 bxa4 20. h5 Nf8 21. hxg6
+fxg6 22. Nf6+ 1-0

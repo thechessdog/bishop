@@ -1,0 +1,26 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "6"]
+[White "Zuidema, Coen"]
+[Black "Csom, Istvan"]
+[Result "1/2-1/2"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "ab4f15b2"]
+[Epoch "Bishop"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Nxd4 8.
+Qxd4 Qa5 9. f4 e6 10. O-O-O Be7 11. Kb1 Bc6 12. Bc4 Rd8 13. Bb3 Rd7 14. Rhf1 h6
+15. Bh4 Qh5 16. Bg3 O-O 17. f5 e5 18. Qd3 b5 19. Bd5 Bxd5 20. Nxd5 Nxd5 21.
+Qxd5 Rc7 22. Qxb5 Rfc8 23. c3 Rc4 24. Qd5 Qg4 25. Rfe1 h5 26. Rd2 a5 27. Qd3 a4
+28. Rc2 h4 29. Bf2 Bg5 30. Qf3 Qxf3 31. gxf3 a3 32. Be3 Bd8 33. b3 Rxc3 34.
+Rec1 Rxc2 35. Rxc2 Ra8 36. b4 h3 37. Rc6 Rb8 38. Kc2 Rxb4 39. Bc1 Bh4 40. Bxa3
+Ra4 41. Kb3 Rd4 42. Bxd6 Rd3+ 43. Kc4 Rxf3 44. Bxe5 Ra3 45. Kd5 Rxa2 46. Rc8+
+Kh7 47. Rc3 Ra5+ 48. Rc5 Rxc5+ 49. Kxc5 g5 50. fxg6+ Kxg6 51. Kc4 Kh5 52. Kd3
+Kg4 53. Ke2 Bg5 54. Bc7 Bf4 55. e5 Bg5 56. Kf2 Be7 57. Bb6 1/2-1/2

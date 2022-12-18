@@ -1,0 +1,18 @@
+[Event "corr Finland"]
+[Site "corr Finland"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Maenpaa, T."]
+[Black "Varjonen, A."]
+[Result "0-1"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "170ea07a"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. f3 d5 5. fxe4 dxe4 6. Bg5 Bf5 7. Bc4 e6
+8. d5 exd5 9. Bxf6 Qxf6 10. Nxd5 Qe5 11. Qe2 Nd7 12. O-O-O O-O-O 13. Qe3
+Bc5 14. Qb3 c6 15. Nb4 Nb6 16. Rxd8+ Rxd8 17. Ne2 a5 18. Nxc6 bxc6 19. Ba6+
+Kc7 20. Rf1 Be6 0-1
+

@@ -1,0 +1,15 @@
+[Event "London open"]
+[Site "London open"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sherman, David"]
+[Black "Stone, D."]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "bc363385"]
+[Epoch "Bishop"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. Nc3 d5 5. cxd5 Nxd5 6. a3 a5 7. e3 Bc5 8. Qc2
+O-O 9. Nf3 Re8 10. Nxd5 Qxd5 11. Bc4 Qd6 12. Ng5 Kf8 13. Qxh7 Qf6 14. Ne4 1-0

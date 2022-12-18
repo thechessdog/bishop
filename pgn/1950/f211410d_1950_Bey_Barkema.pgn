@@ -1,0 +1,20 @@
+[Event "Leiden"]
+[Site "Leiden"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Bey, Jerry"]
+[Black "Barkema, A."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "f211410d"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 a6 6. Nbd2 c4 7. a4 Na5 8. b4
+cxb3 9. Nxb3 Bd7 10. Nxa5 Qxa5 11. Bd2 Qc7 12. Bd3 Ne7 13. O-O Ng6 14. Ng5
+Be7 15. Qh5 Bxg5 16. Qxg5 O-O 17. h4 Qd8 18. h5 Qxg5 19. Bxg5 Nh8 20. f4 f6
+21. exf6 gxf6 22. Bh6 Rfc8 23. Rf3 Kf7 24. Bxh7 Ke7 25. Rg3 Nf7 26. Rg7
+Rxc3 27. Bg6 Be8 28. Re1 Rac8 29. f5 R8c6 30. Bd2 R3c4 31. h6 Kf8 32. fxe6
+Nxh6 33. Bxh6 Bxg6 34. Rxg6+ 1-0
+

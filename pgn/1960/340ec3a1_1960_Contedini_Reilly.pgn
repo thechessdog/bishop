@@ -1,0 +1,19 @@
+[Event "Leipzig olm fin-C"]
+[Site "Leipzig olm"]
+[Date "1960.10.01"]
+[Round "3"]
+[White "Contedini, Ennio"]
+[Black "Reilly, Brian Patrick"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "340ec3a1"]
+[Epoch "Bishop"]
+[WhiteID "801046"]
+[WhiteCountry "ITA"]
+[BlackCountry "IRL"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Nd7 6. Nf3 Ne7 7. Nh4 dxc4 8. Bxc4
+b5 9. Bb3 b4 10. Nxf5 Nxf5 11. Ne4 c5 12. dxc5 Bxc5 13. Ba4 Rc8 14. g4 Ne7 15.
+Bg5 h6 16. Bh4 g5 17. Bxd7+ 1-0

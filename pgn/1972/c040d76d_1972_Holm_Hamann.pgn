@@ -1,0 +1,25 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Holm, Sejer"]
+[Black "Hamann, Svend"]
+[Result "1-0"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "c040d76d"]
+[Epoch "Bishop"]
+[WhiteID "1400304"]
+[BlackID "1400193"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb4+ 5. Nbd2 Bb7 6. a3 Be7 7. Bd3 d5 8. O-O
+O-O 9. b4 a5 10. b5 Nbd7 11. Bb2 Ne4 12. cxd5 exd5 13. Qc2 f5 14. Rac1 Bd6 15.
+Ne5 Bxe5 16. dxe5 Rc8 17. Rfd1 Qe7 18. f4 c5 19. bxc6 Rxc6 20. Qb1 Ndc5 21. Nf3
+Rh6 22. Bd4 Rc8 23. Bf1 Rhc6 24. Bb5 R6c7 25. Bf1 Na4 26. Rxc7 Qxc7 27. Qb3
+Nac5 28. Qc2 Bc6 29. Rb1 Ba4 30. Qa2 Rd8 31. e6 Bc6 32. Be5 Qb7 33. Nd4 Nc3 34.
+Qa1 Nxb1 35. Qxb1 g6 36. e7 Re8 37. Nxc6 Qxc6 38. Bb5 Qc8 39. Ba1 Rxe7 40. Qb2
+d4 41. Qxd4 Qc7 42. Qh8+ Kf7 43. Qg7+ Ke6 44. Qf6+ Kd5 45. Qd4+ Ke6 46. Bc4#
+1-0

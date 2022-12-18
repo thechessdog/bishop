@@ -1,0 +1,19 @@
+[Event "Leningrad-ch"]
+[Site "Leningrad"]
+[Date "1957.??.??"]
+[Round "8"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Zhukhovitsky, Samuel"]
+[Result "1/2-1/2"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "7340d076"]
+[Epoch "Bishop"]
+[BlackID "4101383"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nc6 10. Be2 Bd7 11. Qg3 O-O-O 12. Rhf1 h6 13. Bxf6 gxf6 14. Bh5
+Nxd4 15. Rxd4 Qc5 1/2-1/2

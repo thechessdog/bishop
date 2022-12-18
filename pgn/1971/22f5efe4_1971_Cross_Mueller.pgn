@@ -1,0 +1,24 @@
+[Event "corr NAICCC I"]
+[Site "corr NAICCC I"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Cross, Robert"]
+[Black "Mueller, Thomas"]
+[Result "1-0"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "22f5efe4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8.
+Nf3 O-O 9. O-O Nbd7 10. Nd2 Qe7 11. h3 b6 12. Nc4 Ba6 13. Qa4 Bxc4 14. Qxc4
+a6 15. Qh4 b5 16. Bg5 Rfe8 17. Rae1 Qf8 18. Bc1 Nb6 19. a3 Rab8 20. g4 Nfd7
+21. g5 Nc4 22. a4 Na5 23. axb5 axb5 24. Ne4 Nb3 25. Bf4 Be5 26. e3 Ra8 27.
+Bxe5 Rxe5 28. f4 Rxe4 29. Bxe4 Nd2 30. Bd3 Nxf1 31. Bxf1 c4 32. e4 Qg7 33.
+Qf2 h6 34. h4 hxg5 35. hxg5 Re8 36. e5 dxe5 37. Bh3 Nf8 38. d6 f5 39. gxf6
+Qxf6 40. fxe5 Qg5+ 41. Kh2 Rxe5 42. Rf1 Nh7 43. d7 Qd8 44. Qf7+ Kh8 45.
+Qxg6 Re7 46. Rg1 Re2+ 47. Kh1 Qa8+ 48. Rg2 Re1+ 49. Kh2 Qb8+ 50. Rg3 Re2+
+51. Bg2 Re7 52. Qg8+ Qxg8 53. Rxg8+ Kxg8 54. d8=Q+ Kf7 55. Bd5+ Kf6 56.
+Qd6+ 1-0
+

@@ -1,0 +1,22 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "6"]
+[White "Jones, Iolo C"]
+[Black "Moe, Mogens"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "e30f819a"]
+[Epoch "Bishop"]
+[WhiteID "1800094"]
+[WhiteCountry "WLS"]
+[BlackID "1400550"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 g6 4. c3 d5 5. e5 Nh6 6. Be2 Bg4 7. Na3 Nf5 8. Nc2 e6
+9. Ne3 h5 10. Nxf5 Bxf5 11. d3 Be7 12. h4 Qb6 13. Qb3 Qc7 14. Bd2 f6 15. d4
+fxe5 16. fxe5 O-O-O 17. Qa4 Kb8 18. Rc1 Rdf8 19. b4 c4 20. Ng5 Nxe5 21. dxe5
+Qxe5 22. Kd1 Qg3 23. Bf3 Bxg5 24. Bxg5 e5 25. Bd2 e4 26. Be1 Qf4 27. Be2 e3 28.
+g3 Qe5 29. Qa3 d4 30. Bxc4 d3 31. Rh2 Bg4+ 32. Re2 Bxe2# 0-1

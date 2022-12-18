@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Grzeskowiak, F."]
+[Black "Hybl, J."]
+[Result "0-1"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "85e3093e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 O-O 9. h4 cxd4 10. cxd4 Nc6 11. Be3 Na5 12. Bd3 Nc6 13. Bc2 b6 14.
+h5 Ba6 15. hxg6 hxg6 16. d5 Nb4 17. Bb3 Qd6 18. g3 Nd3+ 19. Kf1 Qe5 20. Rb1
+Qxe4 21. Rh2 Rac8 22. Kg1 Nxf2 23. Kxf2 Bxe2 24. Kxe2 Rc3 0-1
+

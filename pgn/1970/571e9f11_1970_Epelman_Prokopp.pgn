@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Epelman, E."]
+[Black "Prokopp, H."]
+[Result "1-0"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "571e9f11"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Bd3 Bb7 8.
+f3 O-O 9. Ne2 Nc6 10. e4 Ne8 11. Be3 d6 12. O-O Qd7 13. f4 f5 14. Ng3 g6
+15. Qe2 Ng7 16. Rad1 Na5 17. d5 Rae8 18. Rfe1 fxe4 19. Nxe4 Nf5 20. Bf2 Kg7
+21. g4 Ne7 22. Ng5 1-0
+

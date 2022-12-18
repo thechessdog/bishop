@@ -1,0 +1,18 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Seiffert, R."]
+[Black "Uhlmann, Wolfgang"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "e06c3244"]
+[Epoch "Bishop"]
+[BlackID "4611284"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4 8.
+cxd4 Qc7 9. Bd2 Qxc2 10. Qxg7 Rg8 11. Qh6 Qb2 12. Rc1 Qxd4 13. Bc3 Qe4+ 14. Ne2
+Nbc6 15. f3 Qf5 16. Qe3 Bd7 17. Ng3 Qg5 18. f4 Qh4 19. Bd3 d4 0-1

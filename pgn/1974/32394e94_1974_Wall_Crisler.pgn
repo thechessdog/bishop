@@ -1,0 +1,16 @@
+[Event "Guam"]
+[Site "Guam"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Crisler"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "32394e94"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qb4 7. O-O-O Nc6
+8. Nb5 e5 9. Nxc7+ Ke7 10. Nxa8 Bg4 11. Qf2 Ne4 12. Qh4+ Nf6 13. Nc7 Qe4 14.
+Bc5# 1-0

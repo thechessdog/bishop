@@ -1,0 +1,19 @@
+[Event "Vilyandy"]
+[Site "Vilyandy"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Heuer"]
+[Black "Oim, T."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lesser bishop's (Petroff-Jaenisch-Tartakower) gambit"]
+[HashCode "b8478fb7"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Be2 Be7 4. Nf3 d5 5. exd5 Qxd5 6. d4 g5 7. c4 Qd6 8.
+Nc3 Bf5 9. h4 f6 10. c5 Qd7 11. hxg5 Nc6 12. Qa4 fxg5 13. Bb5 Kf8 14. O-O
+Qe6 15. Nxg5 Bxg5 16. d5 Qe7 17. dxc6 Qxc5+ 18. Kh1 bxc6 19. Bxc6 Rd8 20.
+Bxf4 Rd4 21. Qxd4 Qxd4 22. Bxg5 Qg4 23. Be4 Ne7 24. Bxe7+ Kxe7 25. Bxf5
+Qh4+ 26. Bh3 Kd6 27. Rf6+ Kc5 28. Raf1 c6 29. R1f5+ Kb6 30. Rb5+ 1-0
+

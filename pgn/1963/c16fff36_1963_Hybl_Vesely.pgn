@@ -1,0 +1,18 @@
+[Event "CSR-ch"]
+[Site "Prague"]
+[Date "1963.??.??"]
+[Round "18"]
+[White "Hybl, Jaroslav"]
+[Black "Vesely, Jiri"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "c16fff36"]
+[Epoch "Bishop"]
+[BlackID "353280"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Bd7 9. Qe2 Bc6 10. Rd1 cxd4 11. exd4 Qa5 12. Ne5 Bxc3 13. bxc3 Bd5 14. Bxd5
+exd5 15. Rd3 Qa6 16. Qc2 Nbd7 17. Rh3 Rfe8 1/2-1/2

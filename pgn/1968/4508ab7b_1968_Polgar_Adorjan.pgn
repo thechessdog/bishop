@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Polgar, Istvan"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "4508ab7b"]
+[Epoch "Bishop"]
+[WhiteID "700215"]
+[BlackID "700096"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 c5 6. d5 d6 7. Nf3 Na6 8. O-O
+Nc7 9. e4 Rb8 10. a4 b6 11. Re1 a6 12. Bf1 e5 13. Bd2 Kh8 14. Nh4 Ng8 15. Bd3
+Bh6 16. Ng2 Bxd2 17. Qxd2 a5 18. f4 f6 19. f5 Qe7 20. Rf1 Bd7 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Padevsky, Nikola"]
+[Black "Kirov, Nino"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "4160655b"]
+[Epoch "Bishop"]
+[BlackCountry "BGR"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 h6 4. Bxf6 exf6 5. e3 c6 6. Bd3 Bb4 7. Ne2 O-O 8. e4
+c5 1/2-1/2

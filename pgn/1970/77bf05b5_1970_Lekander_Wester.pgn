@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Lekander, Rolf"]
+[Black "Wester, Eric"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "77bf05b5"]
+[Epoch "Bishop"]
+[WhiteID "1700952"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. c3 c5 6. Be2 Nc6 7. O-O Qc7 8. Re1
+Be7 9. Qc2 Bb7 10. Nf1 h6 11. Ng3 O-O-O 12. exd5 Nxd5 13. d4 Nf6 14. dxc5 Bxc5
+15. Qa4 Kb8 16. Ba6 Bd6 17. Bxb7 Qxb7 18. Bf4 g5 19. Bxd6+ Rxd6 20. Rad1 Rhd8
+21. Rxd6 Rxd6 22. h4 b5 23. Qa3 1-0

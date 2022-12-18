@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Roch"]
+[Black "Heimerl, L."]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Steinitz variation"]
+[HashCode "6ecef2b4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 Ng4 7. Bxf7+ Kf8
+8. Bd5 Ngxe5 9. Nxe5 Nxe5 10. Re1 d6 11. Re4 Ng6 12. Qh5 Qd7 13. Re6 Qf7
+14. Re8+ Qxe8 15. Qf3+ Ke7 16. Bg5+ Kd7 17. Qg4+ Qe6 18. Qxe6# 1-0
+

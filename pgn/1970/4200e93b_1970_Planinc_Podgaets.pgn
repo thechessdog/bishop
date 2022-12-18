@@ -1,0 +1,19 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Planinc, Albin"]
+[Black "Podgaets, Mikhail"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "4200e93b"]
+[Epoch "Bishop"]
+[WhiteCountry "SVN"]
+[BlackCountry "UKR"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 e6 7. Bd2 Qb6 8. g4
+Na6 9. g5 Nd7 10. d4 Qxd4 11. exd5 Nb4 12. dxe6 Ne5 13. exf7+ Kd8 14. Qf5 g6
+15. Qf6+ Be7 16. Qxh8+ Kc7 17. Qxa8 Nxc2+ 18. Ke2 Bxg5 19. Nb5+ cxb5 20. Ba5+
+1-0

@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Libman"]
+[Black "Semenova, Lidia K"]
+[Result "0-1"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "01c9dbbf"]
+[Epoch "Bishop"]
+[BlackID "14100460"]
+[BlackCountry "UKR"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 d5 4. d4 Bg7 5. Bf4 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5 8.
+Bxc7 Na6 9. Bg3 Bf5 10. a3 Rac8 11. e3 Rc2 12. b4 Qc6 13. Bxa6 Qxa6 14. Nd2 Bd3
+15. Rc1 Rfc8 16. Rxc2 Rxc2 17. Qa1 Qc6 18. Kd1 Rxd2+ 0-1

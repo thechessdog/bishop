@@ -1,0 +1,18 @@
+[Event "Dubrovnik olm"]
+[Site "Dubrovnik olm"]
+[Date "1950.01.01"]
+[Round "4"]
+[White "Book, Eero"]
+[Black "Canal, Esteban"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "ba20192e"]
+[Epoch "Bishop"]
+[WhiteCountry "FIN"]
+[BlackCountry "PER"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Bb5 Rc8 9. h3 Bxf3 10. Qxf3 e6 11. Nxd5 exd5 12. O-O Be7 13. Be3 O-O 14. Rfc1
+Qb6 15. Qxd5 Rcd8 16. Qb3 Nxd4 17. Bxd4 Rxd4 18. Bc4 1/2-1/2

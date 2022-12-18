@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Platonov"]
+[Black "Moskow"]
+[Result "1/2-1/2"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "3b4f0e83"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 Nc4 13. Bxc4 Rxc4 14.
+h5 Nxh5 15. g4 Nf6 16. Bh6 Nxe4 17. Qh2 Rxd4 18. Bxg7 Rxd1+ 19. Nxd1 Kxg7
+20. Qh6+ Kf6 21. Qf4+ 1/2-1/2
+

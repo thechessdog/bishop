@@ -1,0 +1,17 @@
+[Event "Moscow tt"]
+[Site "Moscow tt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Kots, Yury Isakovich"]
+[Black "Litvinov, Vladimir"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, 4.Nc3"]
+[HashCode "1f0d8c8d"]
+[Epoch "Bishop"]
+[WhiteCountry "UKR"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 e6 5. e4 Bb4 6. Bg5 h6 7. Bxf6 Qxf6 8.
+Bxc4 O-O 9. O-O Bxc3 10. bxc3 b6 11. Ne5 Nd7 12. f4 Nxe5 13. fxe5 Qg6 14. Rf4
+Qg5 15. Qf3 Bb7 16. Rf1 Qe7 17. Qh5 c5 18. d5 Qg5 19. Qf3 exd5 20. exd5 Qxe5
+21. Rxf7 1-0

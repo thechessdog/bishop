@@ -1,0 +1,17 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Nowak, Ignacy"]
+[Black "Witkowski, Stefan"]
+[Result "1-0"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "94fccc84"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Rc8 8.
+f4 Nxd4 9. Qxd4 Qa5 10. e5 dxe5 11. fxe5 Qc5 12. O-O-O Qxd4 13. Rxd4 Ng8 14.
+Bc4 h6 15. Rhd1 hxg5 16. Rxd7 a6 17. Nb5 1-0

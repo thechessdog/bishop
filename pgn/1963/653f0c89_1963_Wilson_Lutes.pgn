@@ -1,0 +1,18 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Wilson"]
+[Black "Lutes, W."]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "653f0c89"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3
+Nxe4 8. Qg4 Nxc3 9. Qxg7 Rf8 10. bxc3 Qa5 11. Nb3 Qh5 12. Bd3 Nc6 13. Qxh7
+Qa5 14. Qe4 Qxc3+ 15. Ke2 b6 16. Qf4 Qg7 17. Be4 Bb7 18. Bf3 a5 19. a4 Ba6+
+0-1
+

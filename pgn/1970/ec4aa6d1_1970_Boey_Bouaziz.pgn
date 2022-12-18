@@ -1,0 +1,20 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "17"]
+[White "Boey, Josef"]
+[Black "Bouaziz, Slim"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "ec4aa6d1"]
+[Epoch "Bishop"]
+[WhiteID "200093"]
+[WhiteCountry "BEL"]
+[BlackID "5500010"]
+[BlackCountry "TUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nb3 Nbd7 8. Bg2
+Qc7 9. O-O b5 10. Be3 Bb7 11. Qe2 Rc8 12. Rac1 Be7 13. Rfd1 O-O 14. Nd5 Nxd5
+15. exd5 1/2-1/2

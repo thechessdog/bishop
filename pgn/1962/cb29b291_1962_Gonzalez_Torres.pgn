@@ -1,0 +1,18 @@
+[Event "Argentina"]
+[Site "Buenos Aires"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Gonzalez, Gerardo"]
+[Black "Torres, JS."]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "cb29b291"]
+[Epoch "Bishop"]
+[WhiteID "2017784"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Qh4 8.
+d5 exd5 9. Nxd5 Bg4 10. Bxc6+ bxc6 11. Nxc7+ Ke7 12. Qd4 Rd8 13. Qe5+ Kd7 14.
+Bg5 Qh5 15. Qd4+ 1-0

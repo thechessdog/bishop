@@ -1,0 +1,16 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Philipp"]
+[Black "Janku"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "78257e3c"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Qg4 f5 8.
+Qh5+ g6 9. Qh6 Kf7 10. h5 gxh5 11. Be2 Nf8 12. Bxh5+ Kg8 13. Bf6 1-0
+

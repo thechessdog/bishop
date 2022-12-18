@@ -1,0 +1,16 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "King, B."]
+[Black "Baker, W."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "c648dbb8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Nxc6 dxc6 5. Nc3 Bc5 6. Bc4 Nf6 7. O-O
+fxe4 8. Re1 Bxf2+ 9. Kxf2 Qd4+ 10. Kf1 Rf8 0-1
+

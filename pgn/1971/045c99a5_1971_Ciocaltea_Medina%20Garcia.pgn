@@ -1,0 +1,18 @@
+[Event "Malaga"]
+[Site "Malaga"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Ciocaltea, Victor"]
+[Black "Medina Garcia, Antonio Angel"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "045c99a5"]
+[Epoch "Bishop"]
+[WhiteCountry "ROU"]
+[BlackCountry "EST"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c3 Nge7 7. d4 Ng6 8. Re1
+Be7 9. Nbd2 O-O 10. Nf1 Bg4 11. d5 Nh4 12. dxc6 Bxf3 13. Qd3 Bxg2 14. Re3 f5
+15. cxb7 Rb8 16. exf5 Bxb7 17. Bb3+ Kh8 18. Be6 Qe8 0-1

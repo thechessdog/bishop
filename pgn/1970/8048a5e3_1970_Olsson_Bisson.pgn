@@ -1,0 +1,18 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "5"]
+[White "Olsson, Ake 1936"]
+[Black "Bisson, John"]
+[Result "1-0"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "8048a5e3"]
+[Epoch "Bishop"]
+[WhiteID "1732439"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Nxd4 Bd7 6. Nc3 Ne5 7. O-O Nf6 8.
+f4 Bxb5 9. Ndxb5 Nc6 10. Qe2 Qd7 11. e5 Ng4 12. Nxc7+ Kd8 13. Nxa8 Nh6 14. Ne4
+d5 15. Rd1 Nf5 16. Be3 Nxe3 17. Qxe3 1-0

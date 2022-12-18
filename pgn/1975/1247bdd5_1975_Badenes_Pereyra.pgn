@@ -1,0 +1,19 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Badenes, Anselmo"]
+[Black "Pereyra, Manuel"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "1247bdd5"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nh3 Nf6 8.
+Nf4 Bh7 9. Bc4 e5 10. Qe2 Qxd4 11. O-O Nbd7 12. Rd1 Qc5 13. Nfh5 Nd5 14. a3
+N5b6 15. Ba2 O-O-O 16. Ne4 Bxe4 17. Qxe4 g6 18. Ng3 f5 19. Qe2 Qe7 20. h5
+Qe8 21. c4 e4 22. a4 Nb8 23. Rxd8+ Kxd8 24. Bf4 Kc8 25. Rd1 Na6 26. hxg6
+Qxg6 27. f3 Bc5+ 28. Kh1 Qg5 0-1
+

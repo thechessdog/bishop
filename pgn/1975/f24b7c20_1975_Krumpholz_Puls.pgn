@@ -1,0 +1,20 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Krumpholz"]
+[Black "Puls"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "f24b7c20"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d3 c5 3. Nd2 b6 4. g3 Bb7 5. Bg2 g6 6. f4 Bg7 7. Ngf3 Ne7 8.
+O-O d6 9. c3 O-O 10. Re1 Nd7 11. Nf1 Qc7 12. d4 c4 13. e5 dxe5 14. fxe5
+Rad8 15. Qe2 b5 16. Ng5 Bxg2 17. Qxg2 Nd5 18. Ne4 N7b6 19. Bg5 f6 20. exf6
+Bxf6 21. Bxf6 Nxf6 22. Nc5 Qf7 23. Nxe6 Rde8 24. Nxf8 Rxe1 25. Rxe1 Qxf8
+26. Qc6 b4 27. Nd2 bxc3 28. bxc3 Qf7 29. Rf1 Kg7 30. Ne4 Nbd7 31. Nxf6 Nxf6
+32. Qxf6+ Qxf6 33. Rxf6 Kxf6 34. Kf2 1-0
+

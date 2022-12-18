@@ -1,0 +1,17 @@
+[Event "California"]
+[Site "California"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Sedayao, M."]
+[Black "Boyd, G."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "ddda47d4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. Kxf2 Bg4 10. Qf1 Qc5 11. b4 Ne4+ 12. Ke3 Nxc2+ 13. Kxe4
+Qd4# 0-1
+

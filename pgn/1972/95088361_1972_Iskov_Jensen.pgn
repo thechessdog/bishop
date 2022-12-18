@@ -1,0 +1,24 @@
+[Event "DEN-ch"]
+[Site "Frederiksberg"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Iskov, Gert"]
+[Black "Jensen, Allan"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "95088361"]
+[Epoch "Bishop"]
+[WhiteID "1400398"]
+[BlackID "1401181"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. d3 d6 8. Be3
+Bxe3 9. fxe3 Na5 10. O-O Nxb3 11. axb3 O-O 12. b4 Qe7 13. Nc3 c6 14. d4 Bg4 15.
+Qd3 Bxf3 16. Rxf3 d5 17. dxe5 Ng4 18. Qd4 Qxe5 19. Rg3 Qxd4 20. exd4 Nf6 21. e5
+Ne8 22. Ne2 f6 23. Rc3 fxe5 24. dxe5 Rf5 25. Nd4 Rxe5 26. Rxc6 Nf6 27. c3 Rae8
+28. Rcxa6 Re1+ 29. Kf2 Ng4+ 30. Kg3 R1e3+ 31. Kxg4 R8e4+ 32. Kg5 h6+ 33. Kh5
+Kh7 34. Rf1 Re5+ 35. Rf5 R5e4 36. g3 Rd3 37. Rf7 Rd2 38. Nf3 Rxb2 39. Rg6 Rxh2+
+40. Nxh2 Re5+ 41. Kg4 Kxg6 1-0

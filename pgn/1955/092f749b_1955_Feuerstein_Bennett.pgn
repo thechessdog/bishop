@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Feuerstein, Arthur"]
+[Black "Bennett, J."]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "092f749b"]
+[Epoch "Bishop"]
+[WhiteID "2003651"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. d5 cxd5 5. cxd5 Qa5+ 6. Nc3 Ne4 7. Qd4 Nxc3 8.
+Bd2 Qxd5 9. Qxc3 Nc6 10. Qxh8 Nd4 11. Rc1 Qxh1 12. Qxd4 Qxg1 13. Qxa7 1-0

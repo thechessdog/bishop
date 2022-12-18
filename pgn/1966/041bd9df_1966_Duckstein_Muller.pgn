@@ -1,0 +1,16 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Dueckstein, Andreas"]
+[Black "Mueller, Helge"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, Maroczy attack"]
+[HashCode "041bd9df"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. f4 e6 7. Nf3 Bd6 8. Bd3
+Ne7 9. O-O Nd7 10. Ne4 Bxe4 11. Bxe4 Qb6 12. c4 Nf6 13. Bd3 Qd8 14. Qe2 g6 15.
+Kh1 Nf5 16. b3 Be7 17. Bb2 h5 18. Rad1 O-O 19. Ne5 Re8 20. d5 cxd5 21. cxd5 1-0

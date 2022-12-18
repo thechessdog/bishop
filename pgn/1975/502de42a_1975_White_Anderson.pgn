@@ -1,0 +1,16 @@
+[Event "Michigan"]
+[Site "Michigan"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "White"]
+[Black "Andersson, Ulf"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "502de42a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Be7 8.
+O-O-O Qc7 9. Qg3 Nbd7 10. Be2 b5 11. a3 Bb7 12. Bxf6 Bxf6 13. Bxb5 e5 14. Nf5
+axb5 15. Nxb5 Qc6 16. Nbxd6+ Kf8 17. Qb3 1-0

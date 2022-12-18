@@ -1,0 +1,16 @@
+[Event "Aachen"]
+[Site "Aachen"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Braune"]
+[Black "Rupprecht"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "3d5388ed"]
+[Epoch "Bishop"]
+
+1. g4 d5 2. Bg2 e5 3. c4 c6 4. cxd5 cxd5 5. Qb3 Ne7 6. Nc3 Be6 7. Qxb7 Nbc6
+8. Nb5 Rc8 9. Nf3 a6 10. Qxa6 Nb4 11. Nd6+ Kd7 12. Nxe5+ Kc7 13. Nb5+ Kb8
+14. Qa7# 1-0
+

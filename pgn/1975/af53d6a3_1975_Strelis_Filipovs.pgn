@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Strelis, V."]
+[Black "Filipovs, L."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "af53d6a3"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+
+Kd8 8. Bxg6 Qxh1+ 9. Ke2 c6 10. Nc3 Nf6 11. Bg5 Qxa1 12. Qh4 b6 13. Bxf6+
+Kc7 14. Bxh8 Ba6+ 15. Kd2 hxg6 16. Nf7 Bb4 17. Qd8+ Kb7 18. Be5 Bd3 19. a3
+Qxb2 20. Qc7+ Ka6 21. Qc8+ Ka5 22. axb4+ Kxb4 23. Nxe4 Qxc2+ 24. Ke3 Qe2+
+25. Kf4 Qxe4+ 26. Kg3 Be2 27. Bd6+ c5 28. Ne5 Qxd4 29. Bxb8 Qxe5+ 30. Bxe5
+Rxc8 0-1
+

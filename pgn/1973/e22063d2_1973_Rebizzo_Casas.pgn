@@ -1,0 +1,19 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1973.01.01"]
+[Round "11"]
+[White "Rebizzo, Cayetano"]
+[Black "Casas, Fernando"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "e22063d2"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. f4 a6 12. a4 c4 13. Kh1 Nc5 14. Bf3 h5 15. h3
+Qe7 16. e5 dxe5 17. fxe5 Qxe5 18. Nxc4 Qg3 19. Ne2 Qh4 20. Nd6 Bxh3 21. Nxe8
+Bf5+ 22. Kg1 Rxe8 23. g3 Qc4 24. Bf4 Nb3 25. Ra3 Bc2 26. Qe1 Nxd5 27. Bxd5 Qxd5
+28. Qf2 Qe6 29. Rxb3 Bxb3 30. Nd4 Qd5 31. Nxb3 Qxb3 32. Qd2 Qxb2 0-1

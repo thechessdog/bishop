@@ -1,0 +1,20 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Luthi, R."]
+[Black "Jensen, Henning"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "2890c373"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bg5 Bg7 8.
+Bd3 O-O 9. Nge2 a6 10. O-O b5 11. Rc1 Qb6 12. Bb1 Nbd7 13. Kh1 Re8 14. Ng3
+Ne5 15. h3 Nc4 16. Rc2 a5 17. Bc1 a4 18. Re2 Nd7 19. Qc2 Qa5 20. Nd1 Ba6
+21. Ree1 b4 22. Rg1 Rab8 23. b3 Nce5 24. Qd2 c4 25. f4 Nd3 26. Bxd3 Bc3 27.
+Nxc3 bxc3 28. Qf2 cxd3 29. Rd1 axb3 30. axb3 d2 31. Bxd2 cxd2 32. Rxd2 Rxb3
+33. Ra2 Qc5 0-1
+

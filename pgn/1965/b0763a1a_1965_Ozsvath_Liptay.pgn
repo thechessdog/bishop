@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Ozsvath, Andras"]
+[Black "Liptay, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "b0763a1a"]
+[Epoch "Bishop"]
+[BlackID "700320"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Bxc6 Nxc6 7. d4 d5 8. e5
+cxd4 9. cxd4 Be7 10. Nc3 O-O 11. Be3 b5 12. Rc1 Qb6 13. Nd2 Nxe5 14. dxe5 d4
+15. Nc4 bxc4 16. Qxd4 Qxd4 17. Bxd4 Bd7 18. Rfd1 Bc6 19. Nb1 Bd5 20. f3 Rab8
+21. Rc2 Bb4 22. Kf2 Rb5 23. a3 Ba5 24. Bc3 Bb6+ 25. Ke2 Bc5 26. Bd4 Bxd4 27.
+Rxd4 Rfb8 28. Rdd2 Bc6 29. Rxc4 Rxb2 30. Rxc6 Rxb1 31. Rxa6 R1b2 1/2-1/2

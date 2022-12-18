@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Lewis"]
+[Black "Wolstenholme, J."]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "eab0b9f3"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. Be2 d6 6. O-O dxe5 7. Nxe5 Qd4+
+8. Kh1 Qxe5 9. Bxh5 Be6 10. d4 Qa5 11. Bxf4 Nc6 12. c3 O-O-O 13. b4 Qb6 14.
+a4 a5 15. bxa5 Nxa5 16. Nd2 f6 17. Rb1 Qc6 18. Qe2 Bd5 19. c4 Bxc4 20. Nxc4
+Qxc4 21. Rfc1 Qxe2 22. Rxc7+ Kb8 23. Rcxb7+ Ka8 24. Rb8+ Ka7 25. Bxe2 1-0
+

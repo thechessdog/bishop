@@ -1,0 +1,18 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1953.01.01"]
+[Round "15"]
+[White "Smyslov, Vasily"]
+[Black "Boleslavsky, Isaac"]
+[Result "1/2-1/2"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[HashCode "30d312e1"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6 8.
+a3 Bxc3+ 9. Qxc3 c6 10. Nf3 O-O 11. e3 Bf5 12. Be2 Nd7 13. O-O Qe7 14. Rac1
+Rfe8 15. Rfe1 Nf6 16. Qc5 Ne4 17. Qxe7 Rxe7 18. Ne5 1/2-1/2

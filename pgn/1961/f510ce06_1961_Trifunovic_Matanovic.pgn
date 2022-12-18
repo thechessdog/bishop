@@ -1,0 +1,19 @@
+[Event "Bled"]
+[Site "Bled"]
+[Date "1961.09.01"]
+[Round "10"]
+[White "Trifunovic, Petar"]
+[Black "Matanovic, Aleksandar"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Capablanca variation"]
+[HashCode "f510ce06"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Qe7 7. O-O Bxd2 8.
+Qxd2 O-O 9. Nc3 d6 10. Ne1 Bxg2 11. Nxg2 d5 12. cxd5 exd5 13. Qg5 c6 14. Rad1
+h6 15. Qf5 Nbd7 16. Rfe1 Qe6 17. Qxe6 fxe6 18. e4 Rfe8 1/2-1/2

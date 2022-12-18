@@ -1,0 +1,16 @@
+[Event "Liege"]
+[Site "Liege"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Leroy"]
+[Black "Tonoli"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "72f9b06b"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Bg4 5. g3 h5 6. Bg2 h4 7. Nxh4 Rxh4
+8. gxh4 Qxh4+ 9. Kf1 Bc5 10. Qe1 Qf6+ 0-1
+

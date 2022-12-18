@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Vidale"]
+[Black "Incelli"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "e3550d67"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. f4 b5 7. Qf3 Bb7 8.
+Bd3 Nf6 9. g4 d5 10. g5 Bb4 11. Bxb5+ axb5 12. gxf6 g6 13. e5 Qb6 14. Qd3
+Bxc3+ 15. bxc3 Ra5 16. Be3 Qa6 17. Rb1 Bc6 18. h4 h5 19. Nxe6 Qb7 20. Rg1
+fxe6 21. Qxg6+ Qf7 22. Qxf7+ Kxf7 23. Rg7+ Ke8 24. Re7+ Kf8 25. Bc5 Na6 26.
+Bd6 Be8 27. Rg7# 1-0
+

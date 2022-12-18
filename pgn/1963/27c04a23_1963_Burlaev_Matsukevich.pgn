@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Burlaev"]
+[Black "Matsukevich"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "27c04a23"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qa3 Nge7 9. Nc3 Nd4 10. Bd3 Qg6 11. O-O Nf3+ 12. Kh1 Qh5 13. h3 d6
+14. Be2 Bxh3 15. Bxf3 Bg4+ 16. Kg1 Bxf3 17. gxf3 Qg6+ 18. Kh2 Qh5+ 1/2-1/2
+

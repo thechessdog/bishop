@@ -1,0 +1,20 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Fuchs, Reinhart"]
+[Black "Kolarov, Atanas S."]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "21df5c85"]
+[Epoch "Bishop"]
+[WhiteID "4611357"]
+[WhiteCountry "GER"]
+[BlackID "2900246"]
+[BlackCountry "BGR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. a4
+Bb7 9. d3 d6 10. Bd2 b4 11. a5 Rb8 12. Ba4 Nd7 13. Be3 Bf6 14. Nbd2 Ne7 15. Nc4
+Ng6 16. Bb3 1/2-1/2

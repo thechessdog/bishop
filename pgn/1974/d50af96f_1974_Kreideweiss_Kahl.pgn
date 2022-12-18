@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kreideweiss"]
+[Black "Kahl"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Pierce gambit"]
+[HashCode "d50af96f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. Qxf3 Qh4+
+8. g3 Nxd4 9. Qf2 Qf6 10. Bxf4 Bb4 11. O-O Bxc3 12. bxc3 Ne6 13. Qd2 Qe7
+14. Bxe6 dxe6 15. Rad1 Bd7 16. Bg5 f6 17. Rxf6 Qc5+ 18. Rf2 Qd6 19. Qe2 1-0
+

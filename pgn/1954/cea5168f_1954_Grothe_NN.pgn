@@ -1,0 +1,15 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Grothe"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C27"]
+[Opening "Boden-Kieseritsky gambit"]
+[HashCode "cea5168f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nxe4 4. Nc3 Nxc3 5. dxc3 f6 6. O-O Be7 7. Bh6
+Kf8 8. Nxe5 fxe5 9. Qd5 Qe8 10. Qf3+ Bf6 11. Qxf6+ Qf7 12. Qxf7# 1-0
+

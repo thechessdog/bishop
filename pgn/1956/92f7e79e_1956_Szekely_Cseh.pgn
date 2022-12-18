@@ -1,0 +1,19 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Szekely, Jeno"]
+[Black "Cseh, Andor"]
+[Result "0-1"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Capablanca variation"]
+[HashCode "92f7e79e"]
+[Epoch "Bishop"]
+[BlackID "702633"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Nbd2 c5 7. dxc5 Bxc5 8.
+O-O O-O 9. Qc2 d5 10. Ne5 Qc8 11. e3 dxc4 12. Qxc4 Bxg2 13. Kxg2 Qb7+ 14. Ndf3
+Nbd7 15. Nxd7 Nxd7 16. b4 Ne5 17. e4 Nxc4 0-1

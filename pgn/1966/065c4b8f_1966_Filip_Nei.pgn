@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1966.01.01"]
+[Round "5"]
+[White "Filip, Miroslav"]
+[Black "Nei, Iivo"]
+[Result "1/2-1/2"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "065c4b8f"]
+[Epoch "Bishop"]
+[BlackID "4500059"]
+[BlackCountry "EST"]
+[WhiteCountry "CZE"]
+
+1. c4 f5 2. d4 Nf6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O d6 7. Nc3 c6 8. Qc2
+Qc7 9. e4 e5 10. dxe5 dxe5 11. exf5 Bxf5 12. Qe2 Nbd7 13. Be3 Rae8 14. h3 Ne4
+15. Nxe4 Bxe4 16. Rae1 c5 17. Nh4 Bxg2 18. Nxg2 1/2-1/2

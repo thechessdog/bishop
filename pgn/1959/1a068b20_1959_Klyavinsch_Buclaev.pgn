@@ -1,0 +1,23 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Klyavinsch"]
+[Black "Buclaev"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "1a068b20"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8.
+Bh4 Be7 9. Qf3 Nbd7 10. O-O-O Qc7 11. Bd3 b5 12. a3 Bb7 13. Bf2 Rc8 14. g4
+Nc5 15. h4 d5 16. e5 Nfe4 17. Bxe4 dxe4 18. Qe3 Nd3+ 19. cxd3 Bxa3 20. dxe4
+Qxc3+ 21. Qxc3 Rxc3+ 22. Kb1 Bxe4+ 23. Ka1 Bxh1 24. Rxh1 Rd3 25. bxa3 Kd7
+26. Rb1 Rc8 27. f5 Rc4 28. fxe6+ fxe6 29. Nb3 Rf3 30. Rb2 Rxg4 31. Rd2+ Ke8
+32. Nc5 Rg2 33. Be3 Rxd2 34. Bxd2 Rxa3+ 35. Kb2 Rh3 36. Nxe6 Kf7 37. Nc7
+Rxh4 38. e6+ Ke7 39. Kb3 g5 40. Bc1 Kd6 41. Nxa6 Kxe6 42. Nc7+ Ke5 43. Nxb5
+g4 44. Kc2 g3 45. Nc3 g2 46. Be3 Rh1 47. Ne2 h5 48. Kd2 h4 49. Bf2 Ke4 50.
+Bg1 h3 51. Ke1 Rxg1+ 0-1
+

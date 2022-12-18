@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Shackes"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "0f6e1352"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O b4 8. Nd5
+exd5 9. exd5 Bxd5 10. Re1+ Be7 11. Nf5 Nc6 12. Nxg7+ Kf8 13. Nf5 Be6 14. Qg4
+Bf6 15. Bf4 d5 16. Qh5 Nce7 17. Bh6+ Nxh6 18. Qxh6+ Kg8 19. Qxf6 Nxf5 20. Rxe6
+fxe6 21. Qxe6+ Kg7 22. Qxf5 Qf6 23. Qd7+ Kf8 24. Re1 Rd8 25. Qg4 h5 26. Qxb4+
+Kg7 27. Re7+ Kg8 28. Qe1 Rh6 29. Re5 Rf8 30. Qe3 Kg7 31. Rxd5 Rf7 32. Rg5+ Kh8
+33. Rf5 1-0

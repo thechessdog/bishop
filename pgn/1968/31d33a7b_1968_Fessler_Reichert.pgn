@@ -1,0 +1,19 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Fessler, R."]
+[Black "Reichert, K."]
+[Result "0-1"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Reti-Tartakower variation"]
+[HashCode "31d33a7b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6
+8. Nb3 Be6 9. f4 O-O 10. O-O Qc8 11. Qe1 Rd8 12. f5 gxf5 13. Qg3 Kh8 14.
+Bd3 Nxe4 15. Nxe4 fxe4 16. Bxe4 f5 17. Bxc6 bxc6 18. Nd4 Rg8 19. c3 Bd5 20.
+Rxf5 Be5 21. Qh4 Rxg2+ 22. Kf1 c5 23. Rxe5 dxe5 24. Ne2 Qf5+ 25. Ke1 Qf3
+0-1
+

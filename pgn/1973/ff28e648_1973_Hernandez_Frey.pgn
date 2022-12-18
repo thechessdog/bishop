@@ -1,0 +1,27 @@
+[Event "Caracas"]
+[Site "Caracas"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Hernandez, Gustavo2"]
+[Black "Frey Beckman, Kenneth"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "ff28e648"]
+[Epoch "Bishop"]
+[BlackID "5100054"]
+[BlackCountry "MEX"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Nf3 c5 5. e3 O-O 6. Bd3 d5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Ba5 10. Ne2 Bb6 11. dxc5 Bxc5 12. b4 Qxd1 13. Rxd1 Be7 14. Bb2 Bd7
+15. Rac1 Rfd8 16. Ned4 Nxd4 17. Nxd4 Ba4 18. Bb3 Bxb3 19. Nxb3 Rxd1+ 20. Rxd1
+Rc8 21. Rc1 Rxc1+ 22. Bxc1 Ne4 23. Na5 Nd6 24. Bb2 Bd8 25. Be5 Bxa5 26. Bxd6
+Bd8 27. Kf1 f6 28. Ke2 Kf7 29. Kd3 Ke8 30. Kc4 Kd7 31. Bf8 g6 32. e4 Bc7 33. h3
+a6 34. Bc5 b5+ 35. Kd3 Kc6 36. Bd4 f5 37. f3 Bf4 38. Bb2 Kd6 39. Bc3 fxe4+ 40.
+fxe4 Bc1 41. Kc2 Bxa3 42. g4 Kc6 43. Bd2 a5 44. bxa5 Kb7 45. Kb3 Bd6 46. Bb4
+Bc7 47. Kc3 Ka6 48. Kb3 Bxa5 49. Bd6 Kb7 50. Be7 Kc6 51. Bf8 Bc7 52. Bb4 Bd6
+53. Bc3 Be7 54. Bd2 h5 55. gxh5 gxh5 56. Be1 Kd7 57. Kc3 Ke8 58. Kd4 Kf7 59.
+Bd2 Kg6 60. Ke5 b4 61. Kxe6 b3 62. Bc3 Ba3 63. Ke5 Kg5 64. Kd4 Kf4 65. Kd3 b2
+66. Bxb2 Bxb2 67. Ke2 Kg3 68. Kf1 Kh2 69. Kf2 Bd4+ 70. Kf1 Kxh3 71. e5 Kh2 72.
+e6 Bc5 0-1

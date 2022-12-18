@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Hobbis, A."]
+[Black "Cooper, A."]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "be583ca6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Re1 O-O 6. c3 d5 7. Bxc6 bxc6
+8. Nxe5 dxe4 9. Nxc6 Qd6 10. d4 Ng4 11. dxc5 Qxh2+ 12. Kf1 Ba6+ 13. Re2
+Qh1# 0-1
+

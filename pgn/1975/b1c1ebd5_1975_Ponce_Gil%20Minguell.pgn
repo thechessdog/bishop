@@ -1,0 +1,17 @@
+[Event "Badalona"]
+[Site "Badalona"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Ponce, Jose"]
+[Black "Gil Minguell, C."]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Pirc-Lisitsin gambit"]
+[HashCode "b1c1ebd5"]
+[Epoch "Bishop"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 d5 4. d3 e5 5. dxe4 Nf6 6. f4 Bd6 7. exd5 exf4
+8. Bb5+ c6 9. Qe2+ Be7 10. dxc6 bxc6 11. Qc4 cxb5 12. Qf7+ Kd7 13. O-O Kc6
+14. Bxf4 Ng4 15. Ne6 Qd7 16. Bxb8 Qxe6 17. Qf4 Rxb8 18. Nc3 Qe3+ 0-1
+

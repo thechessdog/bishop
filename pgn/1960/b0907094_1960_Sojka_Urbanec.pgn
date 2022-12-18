@@ -1,0 +1,17 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Sojka, V."]
+[Black "Urbanec, M."]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit"]
+[HashCode "b0907094"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Ba4 Bc5 6. Nxe5 O-O 7. Nd3 Bb6
+8. e5 Ne8 9. O-O d6 10. Nb5 dxe5 11. Nxe5 c6 12. Na3 Qf6 13. Ng4 Qh4 14. h3
+h5 15. Nh2 Bc7 16. d3 Nf6 17. f4 Re8 18. Rf2 Bb6 0-1
+

@@ -1,0 +1,19 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Holm, Sejer"]
+[Black "Hansen, Asgar"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "3b804984"]
+[Epoch "Bishop"]
+[WhiteID "1400304"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 h6 6. Bh4 b5 7. e4 g5 8. Bg3 Nxe4
+9. Be5 O-O 10. Qh5 Kh7 11. Bd3 f5 12. Bxe4 fxe4 13. h4 Qe8 14. Qxe8 Rxe8 15.
+hxg5 h5 16. g4 exd5 17. Rxh5+ Kg6 18. Bf6 Rg8 19. Nh3 Bxc3+ 20. bxc3 Bb7 21.
+Nf4+ Kf7 22. Rh7+ Kf8 23. g6 Na6 24. Re7 dxc4 25. g7+ Rxg7 26. Rxg7 1-0

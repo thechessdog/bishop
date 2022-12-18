@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Nahimovska"]
+[Black "Mosionzika"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "97227dfa"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 c6 7. Bd3 dxc4 8.
+Bxc4 Nd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Be2 Nd7 12. O-O Nf6 13. Qc2 Bg4 14.
+h3 Bh5 15. Rab1 Ne4 1/2-1/2
+

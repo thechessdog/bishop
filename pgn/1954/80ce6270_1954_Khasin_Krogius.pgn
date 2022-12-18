@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Khasin, Abram"]
+[Black "Krogius, Nikolai V"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "80ce6270"]
+[Epoch "Bishop"]
+[WhiteID "4103424"]
+[WhiteCountry "RUS"]
+[BlackID "4100565"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+b4 9. Nb1 Nxe4 10. Qf3 d5 11. c4 bxc3 12. Nxc3 Nxc3 13. bxc3 Bc5 14. Qg3 O-O
+15. Bh6 Bxd4 16. cxd4 Qf6 17. Bf4 Nc6 18. Rfd1 Bd7 19. Bc2 g6 20. Bg5 Qh8 21.
+Qf4 f6 22. Bh6 Rf7 23. Qd6 f5 24. Ba4 Nxd4 25. Bxd7 Rd8 26. Rab1 Qf6 27. Rb7 g5
+28. Rxd4 Qxd4 29. h4 Kh8 30. Bxe6 Rff8 31. Qe7 1-0

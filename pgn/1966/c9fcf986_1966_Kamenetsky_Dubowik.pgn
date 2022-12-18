@@ -1,0 +1,20 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Kamenetsky, J."]
+[Black "Dubowik, J."]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "c9fcf986"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 h6 6. Bf4 c6 7. O-O-O b5 8.
+e5 b4 9. exf6 bxc3 10. Qxc3 Bxf6 11. Nf3 c5 12. Be5 cxd4 13. Bxd4 Bxd4 14.
+Rxd4 O-O 15. Bc4 Bb7 16. Qe3 Kg7 17. Rh4 Rh8 18. Bxf7 Kxf7 19. Qb3+ Kg7 20.
+Qxb7 Qd7 21. Qe4 Nc6 22. Rg4 Qe8 23. h4 Rf8 24. h5 g5 25. Rxg5+ hxg5 26.
+Nxg5 Kh6 27. f4 Rh8 28. Qe6+ Kg7 29. h6+ Kf8 30. Qf5+ Kg8 31. h7+ Kg7 32.
+Ne6# 1-0
+

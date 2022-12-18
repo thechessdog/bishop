@@ -1,0 +1,23 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1975.07.01"]
+[Round "8"]
+[White "Hamann, Svend"]
+[Black "Raicevic, Vladimir"]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "5...c6"]
+[HashCode "dcffa559"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+[BlackID "900605"]
+[BlackCountry "SRB"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. cxd5 exd5 7. Bd3 Bd6 8.
+Qc2 Nf8 9. Nf3 Ng6 10. Nh4 O-O 11. O-O-O h6 12. Nxg6 fxg6 13. Bf4 g5 14. Bxd6
+Qxd6 15. h3 Bd7 16. Kb1 Rae8 17. Ka1 g4 18. Ne2 Ne4 19. Bxe4 dxe4 20. Ng3 gxh3
+21. gxh3 Qd5 22. Rd2 Rf7 23. h4 a5 24. Qc5 Ref8 25. Rh2 Bg4 26. b3 g6 27. Kb2
+Kg7 28. Qc2 Bf3 29. Qc1 a4 30. Rc2 Bg4 31. h5 axb3 32. axb3 Be6 33. Rc3 Rxf2+
+34. Rxf2 Rxf2+ 35. Kb1 Qa5 0-1

@@ -1,0 +1,18 @@
+[Event "Rhyl ch-BCF"]
+[Site "Rhyl ch-BCF"]
+[Date "1969.08.01"]
+[Round "10"]
+[White "Bonner, Gerald"]
+[Black "Gavrilovic, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "79334e1b"]
+[Epoch "Bishop"]
+[WhiteID "2400340"]
+[WhiteCountry "SCO"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Kh1 Rb8 10. Qe1 Nd4 11. Nxd4 cxd4 12. Ne2 Bd7 13. Bd2 e5 14. c3 dxc3 15.
+Bxc3 f5 16. Rd1 Qc7 1/2-1/2

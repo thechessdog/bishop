@@ -1,0 +1,18 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1975.01.01"]
+[Round "6"]
+[White "Miana, Elias"]
+[Black "Emma, Jaime"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "6c7c601c"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. Ra3 Rb8 13. Rb3 Qc7 14. h3 b6 15. Kh2
+Ne5 16. Qc2 c4 17. Nd1 b5 18. axb5 axb5 19. f4 Neg4+ 20. hxg4 Nxg4+ 21. Kh1
+Rxe2 22. f5 Bxf5 23. Rxf5 gxf5 24. Rf3 Qd7 25. Rxf5 Rbe8 26. Rf1 R8e5 0-1

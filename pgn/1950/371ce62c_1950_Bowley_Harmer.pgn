@@ -1,0 +1,16 @@
+[Event "Essex"]
+[Site "Essex"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Bowley, EG."]
+[Black "Harmer, RJ."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "371ce62c"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 exd5 5. Bb5+ Nc6 6. dxc5 d4 7. Qe2+ Be6
+8. Ne4 a6 9. Bc4 Bxc4 10. Nf6# 1-0
+

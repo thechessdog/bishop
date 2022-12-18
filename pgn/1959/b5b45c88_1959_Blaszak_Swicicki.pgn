@@ -1,0 +1,16 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Blaszak"]
+[Black "Swicicki"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Lisitsin gambit deferred"]
+[HashCode "b5b45c88"]
+[Epoch "Bishop"]
+
+1. Nf3 f5 2. d3 Nf6 3. e4 fxe4 4. dxe4 Nxe4 5. Bd3 Nf6 6. Ng5 g6 7. h4 d5
+8. h5 gxh5 9. Bxh7 Bg4 10. Bg6+ Kd7 11. f3 Rg8 12. Nf7 Qc8 13. fxg4 1-0
+

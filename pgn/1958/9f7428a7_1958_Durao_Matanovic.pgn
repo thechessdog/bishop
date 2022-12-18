@@ -1,0 +1,20 @@
+[Event "Munich olm prel"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "2"]
+[White "Durão, Joaquim Manuel"]
+[Black "Matanovic, Aleksandar"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "9f7428a7"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[BlackCountry "SRB"]
+[WhiteCountry "PRT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. Bc4
+Be7 9. a4 O-O 10. O-O exf4 11. Bxf4 Nc5 12. Qd4 Ne6 13. Bxe6 fxe6 14. Rad1 Ne8
+15. Bg3 Qc7 16. Kh1 Qc6 17. Qb4 Rf7 18. Bh4 Bf8 19. Ng5 Rxf1+ 20. Rxf1 Nf6 21.
+Qb3 Qe8 22. Qc4 h6 23. Nh3 b5 24. axb5 axb5 25. Qe2 b4 26. Bxf6 Ba6 0-1

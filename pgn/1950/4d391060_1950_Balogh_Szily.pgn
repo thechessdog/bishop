@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Balogh, Janos"]
+[Black "Szily, Jozsef"]
+[Result "1/2-1/2"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "4d391060"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. f4 a5 10. f5 a4 11. Nd2 Nd4 12. Bd3 a3 13. bxa3 Qa5 14. Bb2 d5 15.
+Nb3 Qd8 16. Nxd4 exd4 17. Nxd5 Nxd5 18. exd5 Qxd5 19. Qf3 Qxf3 20. Rxf3 1/2-1/2

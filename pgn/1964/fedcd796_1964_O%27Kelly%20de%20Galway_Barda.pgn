@@ -1,0 +1,19 @@
+[Event "corr Ragozin mem"]
+[Site "corr Ragozin mem"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "O'Kelly, Albéric de Galway"]
+[Black "Barda, Olaf"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "fedcd796"]
+[Epoch "Bishop"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d6 6. Ne2 Nc6 7. O-O O-O 8. Qc2
+Ba5 9. a3 Bc7 10. b3 h6 11. Bb2 cxd4 12. exd4 d5 13. Rad1 a6 14. Rfe1 Bd7 15.
+h3 Rc8 16. c5 Re8 17. b4 Bb8 18. Qb3 Qc7 19. g3 Rcd8 20. Bb1 Bc8 21. Na4 e5 22.
+dxe5 Nxe5 23. f4 Ng6 24. Nb6 Kf8 25. Bxg6 fxg6 26. Be5 Rxe5 27. fxe5 Qxe5 28.
+Nxc8 1-0

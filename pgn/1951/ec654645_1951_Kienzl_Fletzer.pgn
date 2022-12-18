@@ -1,0 +1,23 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Kienzl"]
+[Black "Fletzer"]
+[Result "1-0"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Blackburne variation"]
+[HashCode "ec654645"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 cxb5 9. Qxa8 Qd7 10. Nc3 Nc6 11. b4 Be7 12. a4 Nd4 13. O-O O-O
+14. axb5 Bb7 15. Qxa7 h6 16. Nge4 Nxe4 17. Nxe4 Qd5 18. c4 Qxe4 19. f3
+Nxf3+ 20. gxf3 Qg6+ 21. Kh1 Qd3 22. Qf2 Bxb4 23. Bb2 Re8 24. Rac1 Re6 25.
+Qe3 Qd7 26. Bc3 Be7 27. c5 Qxb5 28. Rb1 Qd7 29. Rb6 Rxb6 30. cxb6 Qb5 31.
+Re1 f6 32. d4 Qxb6 33. dxe5 Qc6 34. Kg2 fxe5 35. Bxe5 Bh4 36. Bg3 Bf6 37.
+Qb3+ Kh7 38. Qd3+ Kg8 39. Qb3+ Kh7 40. Qd3+ Kg8 41. Rb1 Ba8 42. Rb8+ Kf7
+43. Qe2 Bb7 44. Qa2+ Ke7 45. Qa3+ Kd7 46. Qb3 Bc8 47. Qf7+ Kd8 48. Bf2 Qc2
+49. Rb5 Be7 50. Qxg7 Bd7 51. Qg8+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "South Africa"]
+[Site "South Africa"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Lewis"]
+[Black "Bekerman"]
+[Result "1-0"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, not Scheveningen"]
+[HashCode "e45c9250"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. Nxc6 bxc6
+8. e5 d5 9. exf6 dxc4 10. Qxd8+ Kxd8 11. fxe7+ Bxe7 12. Bf4 Bf5 13. O-O-O+
+Kc8 14. Na4 Kb7 15. Rhe1 Be6 16. Rxe6 fxe6 17. Rd7+ Kc8 18. Nb6# 1-0
+

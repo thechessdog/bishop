@@ -1,0 +1,19 @@
+[Event "corr ch-NOR"]
+[Site "corr ch-NOR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Forsberg, J."]
+[Black "Stoere, T."]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "ee2c6c3a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. b4 c6
+15. Bb2 Qc7 16. Rb1 g6 17. Ba1 Bg7 18. c4 exd4 19. Bxd4 bxc4 20. Nxc4 Nxe4
+21. Bxg7 Kxg7 22. Rxe4 Rxe4 23. Bxe4 d5 24. Qd4+ f6 25. Rd1 Rd8 26. Ng5 Re8
+27. Bc2 1-0
+

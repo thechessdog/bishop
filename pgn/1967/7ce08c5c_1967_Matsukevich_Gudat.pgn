@@ -1,0 +1,16 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Matsukevich, A."]
+[Black "Gudat, A."]
+[Result "1-0"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[HashCode "7ce08c5c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2
+Bxd2+ 8. Nbxd2 d5 9. exd5 Nxd5 10. Qb3 Nce7 11. O-O O-O 12. Rfe1 c6 13. Ne4
+Nb6 14. Bd3 Bg4 15. Neg5 Ng6 16. Nxf7 1-0
+

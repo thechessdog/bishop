@@ -1,0 +1,17 @@
+[Event "corr BDGW1"]
+[Site "corr BDGW1"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Trottier"]
+[Black "Freidl, A."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "416cc87e"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nc6 9. Qh4 Ng4 10. Nd5 Be6 11. Ng5 Bxd4+ 12. Kh1 h5 13. Nxe6 fxe6
+14. Nf4 Nf2+ 15. Kg1 Qd6 16. Qg3 Ne4+ 17. Qe3 Bxe3+ 18. Bxe3 Rxf4 19. Rxf4
+Nf6 20. Raf1 Ne5 21. Be2 Neg4 22. Bxg4 Nxg4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "van Scheltinga, Theo Daniel"]
+[Black "Toran, Roman"]
+[Result "1/2-1/2"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "a79636d2"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+c6 9. h3 Qe7 10. Re1 Ne8 11. Bg5 f6 12. Be3 f5 13. exf5 gxf5 14. c5 e4 15. cxd6
+Nxd6 16. Bf4 Nf6 17. d5 Nxd5 18. Nxd5 cxd5 19. Qxd5+ Nf7 20. Ng5 h6 1/2-1/2

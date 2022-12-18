@@ -1,0 +1,19 @@
+[Event "Sukhumi"]
+[Site "Sukhumi"]
+[Date "1966.01.01"]
+[Round "2"]
+[White "Parma, Bruno"]
+[Black "Lutikov, Anatoly S"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "2d5058d3"]
+[Epoch "Bishop"]
+[WhiteID "14600706"]
+[WhiteCountry "SLO"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Qd3 Qb6 7. Be2 Bg7
+8. Nf3 Bg4 9. O-O Nd7 10. Be3 Qc7 11. Nh4 Bxe2 12. Qxe2 e6 13. Qh5 f5 14. Rfe1
+Nf6 15. Qg5 O-O 16. Bf4 Qd8 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Murillo, P."]
+[Black "Anaya, Mario Manuel"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "3...Nf6"]
+[HashCode "9b36bbf0"]
+[Epoch "Bishop"]
+[BlackID "120243"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. e3 c6 5. Bd3 Bb4 6. a3 Ba5 7. b4 Bc7 8. Nf3
+Nbd7 9. O-O e5 10. cxd5 cxd5 11. e4 dxe4 12. Bxe4 exd4 13. Qxd4 O-O 14. Bb2 Ne5
+15. Nd5 Nxf3+ 16. Bxf3 Ne8 17. Rfe1 Be6 18. Rac1 Bd6 19. h4 Qd7 20. Qxg7+ Nxg7
+21. Nf6+ Kh8 22. Nxd7 Bxd7 23. Rcd1 Bxb4 24. axb4 Bc6 25. Bxc6 bxc6 26. Rd6 a5
+27. bxa5 Rxa5 28. Re3 Rf5 29. Rxc6 f6 30. Re7 Rf4 31. g3 Rf5 32. Rcc7 Rg8 33.
+Rf7 Rf3 34. Kg2 Rf5 35. Rce7 h6 36. Rxf6 Rxf6 37. Bxf6 1-0

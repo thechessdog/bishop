@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Malmgren"]
+[Black "Van't Veer"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "2aebf57a"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 Be7
+8. O-O O-O 9. Qe2 c5 10. Bg5 cxd4 11. Nxd4 Nc5 12. Rad1 Nxd3 13. Rxd3 Nd5
+14. Bd2 Bd7 15. c4 Nb4 16. Bxb4 Bxb4 17. Nc2 Ba5 18. Rfd1 Qb6 19. Rxd7 Qxb2
+20. Nd4 Qb6 21. Qe4 Qb4 22. Nh5 Qxc4 23. Qe5 f6 24. Rxg7+ Kh8 25. Qe4 f5
+26. Qe5 1-0
+

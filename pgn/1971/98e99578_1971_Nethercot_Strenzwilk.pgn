@@ -1,0 +1,16 @@
+[Event "Atlantic City"]
+[Site "Atlantic City"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Nethercot"]
+[Black "Strenzwilk, Denis"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "98e99578"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Bxf6 gxf6 9. Na3 f5 10. Qh5 d5 11. Nxd5 Bxa3 12. Bc4 Be6 13. Rd1 Qa5+ 14. Kf1
+O-O-O 15. bxa3 fxe4 16. Ne3 Bxc4+ 17. Nxc4 Qb5 18. Rxd8+ Rxd8 19. Qxf7 Qb1+ 0-1

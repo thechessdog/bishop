@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Ghinda, Mihail-Viorel"]
+[Black "Pawlitzki, Thomas"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "0d55090d"]
+[Epoch "Bishop"]
+[BlackID "4636708"]
+[BlackCountry "GER"]
+[WhiteID "1200054"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3 cxd4
+8. Nxd4 e5 9. Nb5 Bb4+ 10. c3 Qxd1+ 11. Rxd1 Ba5 12. Bc5 Be6 13. Nd6+ Kf8 14.
+Nxb7+ Kg8 15. Bb5 1-0

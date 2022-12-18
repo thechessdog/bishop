@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kurakin"]
+[Black "Divin"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "d3f910aa"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5
+8. Be3 Bd7 9. Bxc6 bxc6 10. O-O Bb6 11. Nd2 Nxd2 12. Qxd2 O-O 13. Bg5 Qe8
+14. Rae1 c5 15. Bf6 h6 16. Re3 gxf6 17. exf6 Qxe3 18. Qxe3 Kh7 19. Nf3 Bb5
+20. Qe5 Rg8 21. Qf5+ Kh8 22. Ne5 1-0
+

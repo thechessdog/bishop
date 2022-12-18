@@ -1,0 +1,18 @@
+[Event "Vancouver"]
+[Site "Vancouver"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Lam, Greg"]
+[Black "Suttles, Duncan"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "9cadcacb"]
+[Epoch "Bishop"]
+[BlackID "2600056"]
+[BlackCountry "CAN"]
+
+1. e4 g6 2. g3 d5 3. exd5 Qxd5 4. Qf3 Nf6 5. Nc3 Qa5 6. d4 Nc6 7. Ne2 Bg4 8.
+Qd3 Nb4 9. Qb5+ Qxb5 10. Nxb5 Nxc2+ 11. Kd1 Nxa1 12. Nxc7+ Kd7 13. Nxa8 Bg7 14.
+Bg2 Rxa8 15. f3 Bf5 16. g4 Bc2+ 17. Kd2 Bh6+ 18. Ke1 Bxc1 19. Nxc1 Nd5 20. Ne2
+Bd3 0-1

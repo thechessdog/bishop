@@ -1,0 +1,18 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Kretschmar, H."]
+[Black "Kunerth, W."]
+[Result "1-0"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "bdc5a4d5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. Qe2 a6 10. a4 Qc7 11. Na2 Ba5 12. dxc5 Qxc5 13. b4 Bxb4 14.
+Nxb4 Qxb4 15. Ba3 Qa5 16. Bxf8 Nxf8 17. Rfd1 Bd7 18. Qd2 Qxd2 19. Rxd2 Ng6
+20. Rb2 Rc8 21. Bf1 Rc7 22. a5 Ne4 23. Bd3 1-0
+

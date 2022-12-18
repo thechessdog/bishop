@@ -1,0 +1,20 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Pontini"]
+[Black "Del Pezzo"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "ac47cc4b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 e6 4. Nc3 Bb4 5. Bd2 Bb7 6. a3 Bxc3 7. Bxc3 O-O
+8. e3 Ne4 9. Rc1 d6 10. Be2 Nd7 11. O-O f5 12. Nd2 Nxc3 13. Rxc3 e5 14. c5
+dxc5 15. dxc5 Nxc5 16. b4 Nd7 17. Qc2 c6 18. Rd1 Qe7 19. Nc4 e4 20. Nd6 Ne5
+21. f4 exf3 22. gxf3 f4 23. exf4 Rxf4 24. Qb3+ Kh8 25. Nxb7 Qxb7 26. Qe6
+Ng6 27. Rd7 Qb8 28. Rcd3 Qf8 29. Qxc6 Re8 30. Qa4 Ne5 31. Re3 Nxd7 32. Rxe8
+Qxe8 33. Bb5 Rxf3 0-1
+

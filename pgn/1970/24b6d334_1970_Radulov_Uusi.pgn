@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Radulov, Ivan"]
+[Black "Uusi, Gunnar"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Larsen variation"]
+[HashCode "24b6d334"]
+[Epoch "Bishop"]
+[WhiteID "2900300"]
+[WhiteCountry "FID"]
+[BlackCountry "EST"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Qd2 O-O 8.
+O-O-O Re8 9. f3 Nc6 10. h4 Nxd4 11. Bxd4 Be6 12. h5 c6 13. hxg6 fxg6 14. Qg5
+Qe7 15. Qh4 b5 16. g4 b4 17. Ne2 c5 18. Be3 Bxa2 19. Nf4 Bf7 20. g5 Nh5 21.
+Nxh5 gxh5 22. g6 hxg6 23. Qxe7 Rxe7 24. Rxd6 c4 25. Bc5 Rb7 26. f4 Rc8 27. Be3
+a5 28. Bh3 Rcb8 29. Ra6 c3 30. b3 Bh6 31. Rg1 Kh7 32. Rxa5 Re7 33. e5 Rbe8 34.
+Kd1 h4 35. Ke2 Rd8 36. Rb5 Ra8 37. Rxb4 Ra2 38. Kd3 Rc7 39. Rg4 Ra1 40. Rg1 Ra8
+41. e6 Be8 42. f5 Rd8+ 43. Ke2 Rd2+ 44. Bxd2 cxd2 45. f6 g5 46. f7 Bc6 47. Bf5+
+Kg7 48. Rb8 1-0

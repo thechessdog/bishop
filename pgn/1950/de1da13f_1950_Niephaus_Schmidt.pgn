@@ -1,0 +1,18 @@
+[Event "Saarbrucken"]
+[Site "Saarbrucken"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Niephaus, Walter"]
+[Black "Schmidt, Paul"]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "de1da13f"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8. f4
+Nc6 9. Nb3 Be6 10. g4 Nd7 11. h4 f5 12. h5 Nc5 13. hxg6 hxg6 14. gxf5 gxf5 15.
+Qd2 fxe4 16. O-O-O Nxb3+ 17. cxb3 Rc8 18. Rdg1 Bf5 19. Bc4+ e6 20. Qh2 Qf6 21.
+Nd5 exd5 22. Bxd5+ Be6 23. Bxe6+ Qxe6 24. Rxg7+ Kxg7 25. Qh7+ Kf6 26. Rh6# 1-0

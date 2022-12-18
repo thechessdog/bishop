@@ -1,0 +1,25 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Rudenko, Ludmila"]
+[Black "Heemskerk"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "1d69975e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Ne2 e5 7. O-O Bxc3 8.
+Nxc3 Re8 9. b3 e4 10. Bc2 Bg4 11. f3 exf3 12. gxf3 Bh3 13. Rf2 Nc6 14. a3
+Nh5 15. Qd3 Qg5+ 16. Kh1 Qh4 17. Qd2 f5 18. Nd5 Re6 19. Bb2 Rg6 20. Rg1
+Rxg1+ 21. Kxg1 Qg5+ 22. Kh1 Rf8 23. Nxc7 Rf6 24. f4 Qh4 25. Bd1 Rg6 26.
+Bxh5 Qxh5 27. Qe2 Bg4 28. Qf1 Rh6 29. Qg2 Rg6 30. Qf1 Bh3 31. Qe2 Rg4 32.
+Ne6 h6 33. d5 Qg6 34. Qe1 Ne7 35. Bxg7 Bg2+ 36. Rxg2 Rxg2 37. Bxh6 Qg4 38.
+Qf1 Rd2 39. h3 Qg3 40. Qg1 Qxg1+ 41. Kxg1 Rd3 42. Bg5 Nc8 43. Kf2 Rxb3 44.
+h4 Rxa3 45. h5 Ra2+ 46. Kg3 Re2 47. h6 Rxe3+ 48. Kh4 Re1 49. Bf6 Rh1+ 50.
+Kg5 Nb6 51. Kg6 Nd7 52. Be7 Rg1+ 53. Ng5 Nf8+ 54. Kxf5 Rh1 55. Bxf8 Kxf8
+56. Kg6 a5 57. f5 a4 58. f6 Ke8 59. Kg7 Rg1 60. f7+ Kd7 61. f8=Q Rxg5+ 62.
+Kf6 Re5 63. h7 Re8 64. Qxe8+ Kxe8 65. h8=Q+ 1-0
+

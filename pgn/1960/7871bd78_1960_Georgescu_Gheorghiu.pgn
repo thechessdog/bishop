@@ -1,0 +1,19 @@
+[Event "Bucharest ch"]
+[Site "Bucharest ch"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Georgescu"]
+[Black "Gheorghiu, Florin"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "7871bd78"]
+[Epoch "Bishop"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. a3
+Nbd7 9. Qf3 Bb7 10. O-O-O Be7 11. g4 Qb6 12. Bg2 Rc8 13. Bh4 Rc4 14. Bf2 Qc7
+15. g5 Rxc3 16. Qxc3 Qxc3 17. bxc3 Nxe4 18. Bxe4 Bxe4 19. Rhe1 d5 20. Kb2 Nc5
+21. Nc6 Bd6 22. Bxc5 Bxc5 23. Rxe4 O-O 24. Re2 1-0

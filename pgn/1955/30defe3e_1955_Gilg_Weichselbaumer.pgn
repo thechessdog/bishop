@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Gilg, Karl"]
+[Black "Weichselbaumer, J."]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "30defe3e"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 Bd7 8. Be2
+Ba4 9. Bd2 Ne7 10. O-O Nd7 11. Ne1 Rc8 12. Rb1 a6 13. f4 cxd4 14. cxd4 Nf5 15.
+Bd3 Nxd4 16. Qg4 Nf5 17. Bxf5 exf5 18. Qxg7 Ke7 19. Bb4+ Ke6 20. Nf3 Qb6+ 21.
+Kh1 h6 22. Qxh6+ 1-0

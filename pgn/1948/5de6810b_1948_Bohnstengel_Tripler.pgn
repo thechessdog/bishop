@@ -1,0 +1,17 @@
+[Event "Dormagen"]
+[Site "Dormagen"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Bohnstengel"]
+[Black "Tripler"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "5de6810b"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Bf5 4. f3 exf3 5. Qxf3 Qc8 6. Bc4 e6 7. Nge2
+Bxc2 8. O-O Nf6 9. Bf4 c6 10. Rac1 Bg6 11. Ng3 Be7 12. Nge4 Nxe4 13. Nxe4
+Bxe4 14. Qxe4 O-O 15. Rc3 Bf6 16. Bh6 Nd7 17. Rg3 c5 18. Rxf6 Nxf6 19.
+Rxg7+ Kh8 20. Qe5 Qd8 21. d5 exd5 22. Bd3 1-0
+

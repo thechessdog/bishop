@@ -1,0 +1,19 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1974.01.01"]
+[Round "13"]
+[White "Pribyl, Josef"]
+[Black "Damjanovic, Mato"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "9359572b"]
+[Epoch "Bishop"]
+[WhiteID "300187"]
+[WhiteCountry "CZE"]
+[BlackCountry "HRV"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Ne2 d5 7. cxd5 exd5 8. a3
+cxd4 9. exd4 Bxc3+ 10. bxc3 Bg4 11. O-O Bh5 12. Bg5 Nbd7 13. Qb3 Bxe2 14. Bxe2
+1-0

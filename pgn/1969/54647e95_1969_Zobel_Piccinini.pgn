@@ -1,0 +1,22 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Zobel"]
+[Black "Piccinini"]
+[Result "0-1"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "Ericson variation"]
+[HashCode "54647e95"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 b5 4. e3 e6 5. Bd2 c5 6. Nc3 a6 7. a4 b4 8. Ne4
+cxd4 9. Nxd4 Bb7 10. Ng3 a5 11. Qc2 Qc7 12. Bxc4 Bxg2 13. Bb5+ Kd8 14.
+Qxc7+ Kxc7 15. Rc1+ Kd8 16. Rg1 Bb7 17. Nh5 g6 18. Ng3 e5 19. Nc6+ Nxc6 20.
+Bxc6 Bxc6 21. Rxc6 h5 22. Ke2 Ne7 23. Rc4 f5 24. Rgc1 e4 25. Kf1 Bg7 26. b3
+Kd7 27. Ne2 Rhc8 28. Rxc8 Rxc8 29. Rxc8 Kxc8 30. Nd4 Kd7 31. Nb5 h4 32. Ke2
+g5 33. f3 exf3+ 34. Kxf3 Ke6 35. Nc7+ Ke5 36. Bc1 g4+ 37. Ke2 Ke4 38. Ne6
+Be5 39. Ng5+ Kd5 40. h3 g3 41. Kf3 Ng6 42. Ke2 Bf6 43. Nf3 Nf8 44. Bd2 Ne6
+45. Kd3 Nc5+ 46. Kc2 Ke4 47. Ng1 Bg5 0-1
+

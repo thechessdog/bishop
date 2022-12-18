@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1957.01.01"]
+[Round "3"]
+[White "Bertok, Mario"]
+[Black "Tolush, Alexander"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "595e4d4b"]
+[Epoch "Bishop"]
+[WhiteCountry "HRV"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Bd3 O-O 6. Ne2 d5 7. a3 cxd4 8. exd4
+dxc4 9. Bxc4 Be7 10. O-O Nbd7 11. Nf4 Nb6 12. Ba2 Bd6 13. Nd3 Nfd5 14. Nxd5
+Nxd5 15. Bxd5 exd5 16. Bf4 Bf5 17. Bxd6 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Pope"]
+[Black "Wright"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[HashCode "c6271b7b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be3 Nf6 6. Nd2 Qc7 7. Bd3 d5 8.
+O-O e5 9. Ne2 Be6 10. f4 Ng4 11. Bf2 Bc5 12. f5 Nxf2 13. Rxf2 Bxf2+ 14.
+Kxf2 dxe4 15. Nxe4 Bxf5 16. Nd6+ Kf8 17. Nxf5 g6 18. Nfg3 Kg7 19. Qd2 Rd8
+20. Qg5 Qb6+ 21. Kf1 1-0
+

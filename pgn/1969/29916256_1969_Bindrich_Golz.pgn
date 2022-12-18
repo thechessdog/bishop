@@ -1,0 +1,19 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bindrich, Oswald"]
+[Black "Golz, Werner"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "29916256"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+h6 9. Bh4 g5 10. Bg3 Nh5 11. Bd3 O-O 12. O-O Nxg3 13. hxg3 Nd7 14. Nd2 Ne5 15.
+Nc4 Nxc4 16. Bxc4 a6 17. a4 Qa5 18. Qb3 Rb8 19. Rfe1 Bd7 20. f3 Rfe8 21. g4 Be5
+22. Kf2 Kg7 23. g3 Qd8 24. a5 b5 25. axb6 Rxb6 26. Qc2 Qf6 27. Kg2 Reb8 28.
+Reb1 Rxb2 29. Rxb2 Rxb2 30. Qxb2 Bxc3 31. Qb7 Bxa1 0-1

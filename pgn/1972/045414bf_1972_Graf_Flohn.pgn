@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Graf"]
+[Black "Flohn"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "045414bf"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 Qa5 12. g4 Bxg4 13. fxg4 Nxg4 14.
+Nxc6 Rxc6 15. Nd5 Qd8 16. O-O-O a5 17. h5 e6 18. hxg6 exd5 19. gxf7+ Kh8
+20. exd5 Ra6 21. Rxh7+ Kxh7 22. Qd3+ Kh8 23. Rh1+ 1-0
+

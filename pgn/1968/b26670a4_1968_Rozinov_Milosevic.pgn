@@ -1,0 +1,18 @@
+[Event "corr YUG-USSR tt"]
+[Site "corr YUG-USSR tt"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Rozinov"]
+[Black "Milosevic"]
+[Result "0-1"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "b26670a4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. Bc4 Nge7 7. Be3 Nxd4
+8. Bxd4 Nc6 9. Be3 Be7 10. Qd2 Ne5 11. Bb3 Bd7 12. h3 b5 13. a3 Qc7 14. f4
+Nc4 15. Bxc4 Qxc4 16. Qd3 O-O 17. O-O Rfc8 18. Rac1 a5 19. Qxc4 Rxc4 20. f5
+b4 21. fxe6 fxe6 22. Ne2 Rxe4 23. Rf3 bxa3 24. bxa3 d5 25. Ra1 Rxe3 0-1
+

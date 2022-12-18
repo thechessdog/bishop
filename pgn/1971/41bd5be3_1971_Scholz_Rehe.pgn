@@ -1,0 +1,16 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Scholz, G."]
+[Black "Rehe, Walter"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "41bd5be3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Be3 Nf6 8.
+O-O Nxd4 9. Bxd4 Bc5 10. Bxc5 Qxc5 11. Kh1 d6 12. f4 b5 13. Qe2 O-O 14. e5 dxe5
+15. fxe5 Nd7 16. Qe4 f5 17. Qxa8 Nxe5 18. Bxf5 exf5 19. Qd5+ Qxd5 20. Nxd5 1-0

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Gibson, S."]
+[Black "Hart, F."]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "4ce61f7d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Nf6 5. d4 exd3 6. Bxd3 Bc5 7. Qf3 O-O
+8. Nc3 Nbd7 9. Nxd7 Bxd7 10. f5 Bc6 11. Qg3 Re8+ 12. Kf1 Ne4 13. Nxe4 Bxe4
+14. Bf4 Qf6 15. Be2 Bxc2 16. Qc3 Qxf5 17. Ke1 Bd3 0-1
+

@@ -1,0 +1,19 @@
+[Event "RSFSR"]
+[Site "RSFSR"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Bukhtin"]
+[Black "Shipov"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack, Wagner gambit"]
+[HashCode "d96531aa"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e4 Qb6 5. Nbd2 cxd4 6. e5 Nd5 7. Nc4 Qc7
+8. Nxd4 a6 9. a4 Nc6 10. Nf3 f6 11. Bh4 Bb4+ 12. c3 Nxc3 13. bxc3 Bxc3+ 14.
+Nfd2 Nxe5 15. Bg3 Bxa1 16. Qxa1 d6 17. Qa3 Nf7 18. Nxd6+ Nxd6 19. Bxd6 Qa5
+20. Bb4 Qe5+ 21. Be2 Bd7 22. Nc4 Qb8 23. Nb6 Ra7 24. O-O Bc6 25. Bc4 e5 26.
+Qh3 1-0
+

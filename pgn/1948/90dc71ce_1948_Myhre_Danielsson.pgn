@@ -1,0 +1,21 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Myhre, Erling"]
+[Black "Danielsson, Gosta"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "90dc71ce"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. Nf3 Be7 5. Bg5 O-O 6. e3 b6 7. cxd5 exd5 8.
+Qc2 Be6 9. Bd3 h6 10. Bf4 c5 11. h3 Nc6 12. a3 Bd6 13. Bxd6 Qxd6 14. g4
+Rfc8 15. Ba6 Rcb8 16. Bb5 Bd7 17. Bxc6 Bxc6 18. O-O-O c4 19. g5 hxg5 20.
+Rdg1 Ne4 21. Nxg5 b5 22. Ngxe4 dxe4 23. d5 Be8 24. Nxe4 Qh6 25. Qc3 Kh8 26.
+Nd6 Rb6 27. Nf5 Qf6 28. Rxg7 Qxc3+ 29. bxc3 Rg6 30. Rxg6 fxg6 31. Nd6 Bd7
+32. e4 a5 33. e5 b4 34. Kb2 Rf8 35. cxb4 Rxf2+ 36. Kc3 Rf3+ 37. Kxc4 Rxa3
+38. e6 1-0
+

@@ -1,0 +1,22 @@
+[Event "Hoogovens-B"]
+[Site "Beverwijk"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "694d0c7a"]
+[Epoch "Bishop"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Qb6 6. Na3 a6 7. Ba4 Qc7 8. Bxc6
+dxc6 9. d3 Nf6 10. Be3 b6 11. h3 O-O 12. Qc2 e5 13. b4 cxb4 14. cxb4 b5 15. d4
+exd4 16. Bxd4 Qf4 17. Rae1 Bxh3 18. Be5 Qg4 19. Bg3 Qh5 20. gxh3 Qxf3 21. Re3
+Qh5 22. Kg2 Rac8 23. Nb1 c5 24. bxc5 Rxc5 25. Qb3 Rc4 26. Nc3 Bh6 27. Rf3 Rxc3
+28. Qxc3 Nxe4 29. Qc6 Nd2 30. Rd3 Nxf1 31. Kxf1 Qxh3+ 32. Kg1 Rc8 33. Qf3 Rc1+
+34. Rd1 Rxd1+ 35. Qxd1 Bf8 36. Be5 Qe6 37. Bb2 h5 38. Qc2 Bg7 0-1

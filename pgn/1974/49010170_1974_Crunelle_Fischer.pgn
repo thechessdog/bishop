@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Crunelle, M."]
+[Black "Fischer, J."]
+[Result "1-0"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "49010170"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Ba4 Nxf3+ 5. Qxf3 c6 6. Nc3 b5 7. Bb3 b4
+8. Qxf7# 1-0
+

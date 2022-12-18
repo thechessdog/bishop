@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Foldi, Joseph"]
+[Black "Florian, Tibor"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Meitner variation"]
+[HashCode "76951583"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Nc2 d6 8.
+Bxc5 dxc5 9. Ne3 Qg6 10. Nd2 O-O 11. Be2 f5 12. Qb3+ Kh8 13. exf5 Nxf5 14. Nxf5
+Bxf5 15. O-O-O Qxg2 16. Qxb7 Nb4 0-1

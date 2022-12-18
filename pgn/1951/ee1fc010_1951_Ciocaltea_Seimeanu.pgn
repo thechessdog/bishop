@@ -1,0 +1,17 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Seimeanu"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "ee1fc010"]
+[Epoch "Bishop"]
+[WhiteCountry "ROU"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. Bg5 c6 6. Bc4 exf3 7. Nxf3 e6 8.
+Qe2 Be7 9. Bxf6 Bxf6 10. O-O-O O-O 11. h3 b5 12. Bd3 Bxd3 13. Qxd3 Qa5 14. Ne4
+Be7 15. Neg5 g6 16. Qe4 Kg7 17. Kb1 h6 18. h4 hxg5 19. hxg5 Na6 20. Rh7+ Kg8
+21. Rdh1 Bxg5 22. Rh8+ Kg7 23. Qe5+ 1-0

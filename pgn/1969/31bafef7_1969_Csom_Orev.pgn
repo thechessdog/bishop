@@ -1,0 +1,23 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "Orev, Petar"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Maroczy variation"]
+[HashCode "31bafef7"]
+[Epoch "Bishop"]
+[BlackID "2900742"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackCountry "FID"]
+
+1. e4 Nf6 2. d3 e5 3. Nf3 Nc6 4. c3 a5 5. g3 d5 6. Qc2 Be6 7. Nbd2 Be7 8. Bg2
+Qd7 9. O-O Bh3 10. Re1 dxe4 11. dxe4 h5 12. Nh4 Bxg2 13. Kxg2 Rd8 14. h3 Qd3
+15. Qb3 b6 16. Nf5 g6 17. Nxe7 Nxe7 18. Nf3 Nd7 19. Bg5 Qd6 20. Rad1 Qc6 21.
+Rxd7 Rxd7 22. Nxe5 Qe6 23. Qxe6 fxe6 24. Bxe7 Rxe7 25. Nxg6 Rg8 26. Nxe7 Kxe7
+27. Rd1 Rg5 28. f4 Rb5 29. Rd2 a4 30. Kf3 Rc5 31. a3 Rb5 32. g4 hxg4+ 33. hxg4
+Ke8 34. g5 Ke7 35. Kg4 Ke8 36. Kh5 Ke7 37. Kg6 1-0

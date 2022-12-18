@@ -1,0 +1,21 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Steiner, Herman"]
+[Black "Toran, Roman"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "6755511e"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. e3 e5 6. d5 Ne7 7. a3 Bxc3+ 8. Qxc3
+d6 9. Bd3 O-O 10. Ne2 Ne8 11. f4 exf4 12. exf4 Nf5 13. O-O Nf6 14. Nd4 Nxd4 15.
+Qxd4 Re8 16. Bd2 c5 17. dxc6 bxc6 18. Rae1 Rxe1 19. Rxe1 Ba6 20. Bc3 d5 21. Rd1
+Qd7 22. cxd5 Bxd3 23. Rxd3 Qxd5 24. Qe3 Qf5 25. Qxa7 Re8 26. Rf3 Nd5 27. Qd4 f6
+28. Qc4 Re4 29. Qxc6 Nxf4 30. h3 h5 31. Kh2 h4 32. Bd2 Qe5 33. Bc3 Qf5 34. Rf2
+Kh7 35. Bd2 Qe5 36. Bxf4 Rxf4 37. Qc2+ Rf5+ 0-1

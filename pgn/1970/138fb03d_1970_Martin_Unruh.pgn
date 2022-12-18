@@ -1,0 +1,14 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Martin, Pedro"]
+[Black "Unruh"]
+[Result "1-0"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[HashCode "138fb03d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bc4 Nxe4 6. Bxf7+ Kxf7 7. Qh5+ Kf6
+8. Qh4+ Ke5 9. Nf3+ Kd5 10. c4+ Kxc4 11. Qxe4+ Kb5 12. Nc3+ Kb6 13. Qc4 1-0

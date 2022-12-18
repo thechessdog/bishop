@@ -1,0 +1,18 @@
+[Event "Southend"]
+[Site "Southend"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Roe, P."]
+[Black "Oliff, K."]
+[Result "0-1"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Winawer attack"]
+[HashCode "b7018758"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6
+bxc6 8. dxe5 Nb7 9. Nd4 O-O 10. b3 Bc5 11. Bb2 Qh4 12. Nf3 Qh5 13. Nbd2 d5
+14. Rfe1 Nd8 15. Rac1 Ne6 16. Nd4 Qg6 17. Nxe6 fxe6 18. Nf3 Ba6 19. Qxa6
+Rxf3 20. Re2 Rxf2 21. Rxf2 Rf8 0-1
+

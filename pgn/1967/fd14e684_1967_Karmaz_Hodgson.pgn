@@ -1,0 +1,17 @@
+[Event "Oxford ch-BCF U16"]
+[Site "Oxford ch-BCF U16"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Karmaz, P."]
+[Black "Hodgson, Julian M"]
+[Result "1-0"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Carls' Bremen system"]
+[HashCode "fd14e684"]
+[Epoch "Bishop"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. Nf3 d6 6. O-O Bg4 7. d3 Qd7 8. Bg5
+Ne7 9. a3 c6 10. Nxe5 dxe5 11. Bxf6 gxf6 12. Ne4 O-O-O 13. Nxc5 1-0

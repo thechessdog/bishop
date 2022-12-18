@@ -1,0 +1,18 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Durasevic, Bozidar"]
+[Black "Andric"]
+[Result "1-0"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Rubinstein variation"]
+[HashCode "031f8791"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nge7 7. Nbd2 Ng6 8. Nf1
+exd4 9. cxd4 d5 10. exd5 Bb4+ 11. Bd2 Bxd2+ 12. Qxd2 Nce7 13. Bb3 Bb5 14. Ne3
+a5 15. a4 Ba6 16. g3 O-O 17. h4 Nc8 18. h5 Nge7 19. Qc2 h6 20. g4 Nb6 21. Qe4
+Qd6 22. O-O-O Rfe8 23. Bc2 Nbxd5 24. Qh7+ Kf8 25. Qh8+ Ng8 26. Nf5 Qf6 27. g5
+hxg5 28. Ne5 1-0

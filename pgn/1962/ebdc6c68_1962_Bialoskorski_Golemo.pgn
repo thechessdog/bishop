@@ -1,0 +1,20 @@
+[Event "corr ch4-POL"]
+[Site "corr ch4-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Bialoskorski, E."]
+[Black "Golemo, J."]
+[Result "0-1"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "ebdc6c68"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. f3 d5 7. cxd5 exd5
+8. e3 Nh5 9. Qc2 Re8 10. Bd3 Qh4+ 11. Qf2 Nf4 12. Bc2 Nxg2+ 13. Kf1 Qxf2+
+14. Kxf2 Nh4 15. Ne2 Bf5 16. Bd1 Nd7 17. Kg3 Ng6 18. h4 h5 19. Kf2 Nf6 20.
+Ng3 Bd7 21. Bb3 c5 22. Bd2 Rac8 23. Rab1 b6 24. Rb2 Ne7 25. e4 dxe4 26.
+fxe4 cxd4 27. cxd4 Nc6 28. Kf3 Ng4 29. Kf4 Nxd4 30. Nxh5 Nf2 31. Rh2 Rxe4+
+32. Kg3 Nd3 0-1
+

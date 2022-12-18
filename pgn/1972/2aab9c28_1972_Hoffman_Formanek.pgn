@@ -1,0 +1,25 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1972.01.01"]
+[Round "5"]
+[White "Hoffman, Alejandro"]
+[Black "Formanek, Edward"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "2aab9c28"]
+[Epoch "Bishop"]
+[WhiteID "100340"]
+[WhiteCountry "ARG"]
+[BlackID "2001640"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 a6 7. Bxc6 bxc6 8. d3
+O-O 9. Nbd2 a5 10. e5 Nd5 11. Ne4 Qb6 12. c4 f5 13. cxd5 fxe4 14. dxe4 d6 15.
+e6 Bb7 16. Bg5 cxd5 17. exd5 Qc7 18. Re2 a4 19. Rc1 Rf5 20. Rd2 c4 21. g4 Rff8
+22. Be3 Ra5 23. Ng5 Rxd5 24. Rxd5 Qc6 25. b3 axb3 26. axb3 c3 27. Ne4 Qxd5 28.
+Qxd5 Bxd5 29. Nxc3 Bxb3 30. Ne4 Bxe6 31. Bg5 Re8 32. h3 h6 33. Be3 Bd5 34. Nc3
+Bf3 35. Nb5 Be4 36. Nc7 Rb8 37. Ne6 Bb2 38. Re1 Bc3 39. Rc1 Bg7 40. Nxg7 Kxg7
+41. Rc7 Rb7 42. Rc8 g5 43. Kh2 e5 44. h4 gxh4 45. Kh3 Bf3 46. Rd8 d5 47. Kxh4
+Rb4 48. Kg3 Bxg4 49. Rxd5 h5 1/2-1/2

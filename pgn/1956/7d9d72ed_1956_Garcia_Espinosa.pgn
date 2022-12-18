@@ -1,0 +1,18 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Espinosa Flores, Rafael Emilio"]
+[Result "0-1"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Nimzovich variation"]
+[HashCode "7d9d72ed"]
+[Epoch "Bishop"]
+[WhiteID "3600130"]
+[WhiteCountry "ECU"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 Bb4+ 4. Bd2 Qe7 5. Nc3 O-O 6. e3 b6 7. Bd3 Bb7 8. Ng5
+h6 9. h4 d5 10. Qf3 c5 11. Qh3 dxc4 12. Bxc4 cxd4 13. exd4 Nc6 14. O-O-O Nxd4
+15. Bf4 Qc5 16. Bxe6 Ne2+ 17. Kb1 Nxf4 18. Bxf7+ Rxf7 19. Qh2 Qf5+ 20. Ka1 Bxc3
+21. bxc3 Rd7 0-1

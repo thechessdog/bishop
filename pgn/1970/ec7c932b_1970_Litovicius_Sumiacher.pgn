@@ -1,0 +1,21 @@
+[Event "Cordoba op"]
+[Site "Cordoba"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Litovicius, Miguel"]
+[Black "Sumiacher, Carlos"]
+[Result "0-1"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "ec7c932b"]
+[Epoch "Bishop"]
+[WhiteID "100668"]
+[BlackID "100889"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. f4 Nge7 7. Nf3 d6 8. Be3
+Nd4 9. O-O O-O 10. Rb1 Bd7 11. Ne2 Nxf3+ 12. Bxf3 f5 13. e5 Bc6 14. Qe1 Bxf3
+15. Rxf3 Rc8 16. d4 cxd4 17. Nxd4 dxe5 18. fxe5 Qd5 19. Rd1 Rfd8 20. Bg5 Nc6
+21. Bxd8 Nxd4 22. Rfd3 Rxc2 23. R1d2 Rxd2 24. Rxd2 Nf3+ 0-1

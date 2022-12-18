@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Ravn, Palle"]
+[Black "Enevoldsen, Jens"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "939b6a1a"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 a6 10. Bd3 Nc6 11. Be3 Qa5 12. Ne4 Be7 13. Qe2 Bd7 14. a3 Rad8 15.
+b4 Qd5 16. Nc5 Bc8 17. Rfd1 Qh5 18. Qc2 Bd6 19. Be2 Ng4 20. h3 Nxe3 21. fxe3
+Qh6 22. Qc3 Ne7 23. e4 b6 24. Nxa6 Bf4 25. Bd3 Bb7 26. b5 f5 27. d5 fxe4 28.
+Bxe4 exd5 29. Qb3 Kh8 30. Bc2 Be3+ 31. Kh2 Rxf3 32. gxf3 Bc8 0-1

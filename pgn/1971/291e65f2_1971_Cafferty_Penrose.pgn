@@ -1,0 +1,20 @@
+[Event "Blackpool ch-BCF"]
+[Site "Blackpool ch-BCF"]
+[Date "1971.01.01"]
+[Round "4"]
+[White "Cafferty, Bernard"]
+[Black "Penrose, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "291e65f2"]
+[Epoch "Bishop"]
+[WhiteID "401005"]
+[WhiteCountry "ENG"]
+[BlackID "400360"]
+[BlackCountry "ENG"]
+
+1. b3 e5 2. Bb2 d6 3. d4 Nd7 4. Nd2 Ne7 5. Ngf3 Nc6 6. e3 Be7 7. Bb5 Bf6 8.
+Bxc6 bxc6 9. dxe5 Nxe5 10. Nxe5 Bxe5 11. Bxe5 dxe5 12. Qh5 Qe7 13. O-O O-O 14.
+Qf3 Bd7 15. Nc4 1/2-1/2

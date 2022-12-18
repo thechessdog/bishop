@@ -1,0 +1,19 @@
+[Event "Wurttemberg"]
+[Site "Wurttemberg"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Joppen, Egon"]
+[Black "Skrbek"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "4bf13f8d"]
+[Epoch "Bishop"]
+[WhiteID "1324187"]
+[WhiteCountry "SUI"]
+
+1. d4 d5 2. e4 Nc6 3. Nc3 dxe4 4. d5 Nb8 5. Bg5 Nf6 6. f3 exf3 7. Nxf3 Bg4 8.
+h3 Bxf3 9. Qxf3 Qc8 10. O-O-O a6 11. Bd3 Nbd7 12. Rhe1 h6 13. Bh4 Kd8 14. Bf5
+Ra7 15. Be6 Ke8 16. Bxf6 gxf6 17. Ne4 Qd8 18. Qh5 Ne5 19. Bxf7+ Nxf7 20. Nxf6#
+1-0

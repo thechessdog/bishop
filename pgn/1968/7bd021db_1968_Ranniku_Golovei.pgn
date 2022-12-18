@@ -1,0 +1,22 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Ranniku, Maaja"]
+[Black "Golovei, Tamara"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "7bd021db"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 e5 7. Qd2 exd4 8.
+Nxd4 Re8 9. f3 d5 10. O-O-O dxe4 11. Ndb5 Qxd2+ 12. Rxd2 Na6 13. fxe4 b6
+14. Bc4 Bb7 15. Rf1 Nxe4 16. Rd7 Rf8 17. Rfxf7 Rxf7 18. Rxf7 Nxc3 19. bxc3
+Kh8 20. g4 Bg2 21. h4 c6 22. Nxa7 b5 23. Bb3 Bxc3 24. a4 bxa4 25. Bxa4 Bd5
+26. Bxc6 Bxc6 27. Nxc6 Nb4 28. Bd4+ Bxd4 29. Nxd4 Kg8 30. Rb7 Nd5 31. Ne6
+Ra4 32. Rg7+ Kh8 33. Rd7 Nf6 34. Rd8+ Ng8 35. Rd4 Ra7 36. c4 h6 37. c5 Ne7
+38. Rd8+ Kh7 39. Kb2 Nc6 40. Rc8 Ne7 41. Re8 Nc6 42. Kb3 h5 43. g5 Rb7+ 44.
+Kc4 Rb1 45. Rf8 Rc1+ 46. Kb5 Ne5 47. Rf4 1-0
+

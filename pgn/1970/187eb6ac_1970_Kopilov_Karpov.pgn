@@ -1,0 +1,18 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kopilov, A."]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "187eb6ac"]
+[Epoch "Bishop"]
+[BlackID "4100026"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O b5 8.
+Nxc6 Qxc6 9. Bf3 Bb7 10. Re1 Ne7 11. e5 Qc7 12. Bxb7 Qxb7 13. Ne4 Nf5 14. Qf3
+Qc6 15. c3 Be7 16. Bg5 O-O 17. Bxe7 Nxe7 18. Rad1 Nd5 19. Rd4 h6 1/2-1/2

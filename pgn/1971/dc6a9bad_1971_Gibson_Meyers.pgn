@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Gibson"]
+[Black "Meyers"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "dc6a9bad"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7
+8. Qe2 a6 9. Rd1 Qc7 10. Bf4 Ne5 11. Bb3 Nf6 12. Rac1 Qa5 13. Bd2 Nxf3+ 14.
+Qxf3 Qh5 15. Qxh5 Nxh5 16. Na4 O-O 17. Nb6 Rb8 18. Bb4 Rd8 19. Rc7 Bg5 20.
+Bxd6 1-0
+

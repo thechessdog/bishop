@@ -1,0 +1,24 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Spikiene"]
+[Black "Zvorykina, Kira Alekseyevna"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "83e9aa63"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 d6 7. c3 Bg4 8. d3
+Be7 9. O-O O-O 10. Nbd2 Nh5 11. Rd1 Nf4 12. Qf1 Qd7 13. Kh1 Kh8 14. h3 Bh5 15.
+g4 Bg6 16. Nh2 h5 17. Ndf3 Ne6 18. Bd5 Rab8 19. d4 exd4 20. cxd4 Nb4 21. Qe2
+hxg4 22. hxg4 Nxd5 23. exd5 Nd8 24. Re1 Re8 25. Nh4 Bh7 26. Ng2 c5 27. dxc5
+dxc5 28. Bf4 Rb6 29. d6 Rxd6 30. Bxd6 Qxd6 31. Rad1 Qc7 32. Qe5 Qxe5 33. Rxe5
+Ne6 34. Rd7 Bf6 35. Re2 Bb1 36. a3 Ba2 37. Ne3 Nf4 38. Red2 Bd4 39. Nhf1 Re6
+40. Ng3 Rh6+ 41. Kg1 Be6 42. Rd8+ Kh7 43. Ngf5 Bxe3 44. fxe3 Bxf5 45. gxf5 Nh5
+46. R8d6 Nf6 47. Rxa6 Rh5 48. Rh2 Rxh2 49. Kxh2 Ng4+ 50. Kg3 Nxe3 51. Kf4 Nc4
+52. b3 Nd2 53. Rb6 c4 54. Rxb5 Nxb3 55. a4 Nd4 56. Rc5 c3 57. Ke4 Ne2 58. Kd3
+Ng3 59. a5 1-0

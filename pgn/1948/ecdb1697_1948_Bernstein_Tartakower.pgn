@@ -1,0 +1,18 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Bernstein, Ossip"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich variation"]
+[HashCode "ecdb1697"]
+[Epoch "Bishop"]
+[BlackCountry "FRA"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Bc4 Be6 6. Bxe6 fxe6 7. Qe2 d5 8.
+Qb5+ Nc6 9. Nd4 Qd7 10. Qxb7 Bb4+ 11. c3 Nxd4 12. Qxa8+ Ke7 13. Qxh8 Qb5 14.
+Qxg7+ Ke8 15. Qg4 Qd3 16. Bd2 Nc2+ 17. Kd1 Nxf2+ 0-1

@@ -1,0 +1,17 @@
+[Event "Hammersmith"]
+[Site "Hammersmith"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Paulger, T."]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "26865e33"]
+[Epoch "Bishop"]
+[BlackID "405213"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Nbc6 8. a4
+Bd7 9. Be2 Qa5 10. Qd3 cxd4 11. Qb5 Qxc3+ 0-1

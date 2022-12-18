@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gufeld, Eduard"]
+[Black "Popov, Luben"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Schlechter variation"]
+[HashCode "d9dc9023"]
+[Epoch "Bishop"]
+[BlackID "2900173"]
+[BlackCountry "FID"]
+[WhiteCountry "RUS"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 g6 5. e3 Bg7 6. b4 O-O 7. Bb2 b6 8. Rc1 Bb7
+9. Qb3 Nbd7 10. cxd5 cxd5 11. b5 Re8 12. Be2 Qc7 13. O-O Bf8 14. Rfd1 e6 15. a4
+Rec8 16. Ba3 1/2-1/2

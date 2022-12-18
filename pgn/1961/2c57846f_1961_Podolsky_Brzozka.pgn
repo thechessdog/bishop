@@ -1,0 +1,17 @@
+[Event "Katowice ch18-POL"]
+[Site "Katowice ch18-POL"]
+[Date "1961.01.01"]
+[Round "3"]
+[White "Podolsky, Horst"]
+[Black "Brzozka, Stefan"]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "2c57846f"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 Nbd7 7. O-O e5 8. Re1
+exd4 9. Nxd4 a6 10. Bf1 Nc5 11. f3 Ne6 12. Be3 Nxd4 13. Bxd4 Be6 14. Qb3 b6 15.
+Rad1 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Planinc, Albin"]
+[Black "Ciric, Dragoljub Miladin"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "2a3093ab"]
+[Epoch "Bishop"]
+[WhiteCountry "SVN"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. c3
+dxe4 9. Nxe4 b6 10. Re1 h6 11. Ned2 Qxd3 12. Nxe5 Qd6 13. Nec4 Qc7 14. Ne4 Nd5
+15. Ncd6 Be6 16. c4 Ne7 17. Bxh6 Bxh6 18. Nf6+ Kh8 19. Qd4 c5 20. Qh4 Ng8 21.
+Nxg8 Kxg8 22. Nb5 Qd8 23. Qxh6 Nd7 24. Rxe6 1-0

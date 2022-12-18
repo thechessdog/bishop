@@ -1,0 +1,26 @@
+[Event "La Spezia"]
+[Site "La Spezia"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Schauwecker"]
+[Black "Vujovic"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "12256767"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8.
+d5 Ne7 9. Nd2 g5 10. Nb3 h6 11. c5 Ng6 12. Be3 Nf4 13. Rc1 Nxe2+ 14. Qxe2
+Ng4 15. cxd6 cxd6 16. Nb5 a6 17. Nc7 Nxe3 18. Qxe3 Rb8 19. Qa7 Bd7 20. Na5
+g4 21. Nxb7 Qf6 22. Nxa6 Ra8 23. Qb6 h5 24. Rc7 Bc8 25. Rc6 h4 26. Rxd6 Qf4
+27. Nbc5 h3 28. Qb3 hxg2 29. Kxg2 Bxa6 30. Rxa6 Rxa6 31. Nxa6 Qxe4+ 32. Kg1
+Bh6 33. Nc5 Qg6 34. Nd7 Re8 35. Qb6 Qxb6 36. Nxb6 e4 37. Nc4 Bf4 38. Rd1
+Kg7 39. d6 Rh8 40. d7 Bxh2+ 41. Kf1 Bc7 42. Ne3 Kg6 43. Rd5 Kf6 44. Nxg4+
+Ke6 45. Ne3 Bb6 46. Ke2 Rd8 47. Rb5 Bd4 48. Nc2 Be5 49. Ke3 f5 50. Rb6+ Kd5
+51. Nb4+ Kc5 52. a4 Bd4+ 53. Ke2 f4 54. Rb5+ Kc4 55. b3+ Kc3 56. Nd5+ Kc2
+57. Nxf4 Rxd7 58. Nd5 Rf7 59. Ne3+ Kc3 60. a5 Rg7 61. Nf5 Rg1 62. Nxd4 Kxd4
+63. a6 Rg8 64. b4 e3 65. a7 Ra8 66. fxe3+ Ke4 67. Rb7 Rg8 68. Rb8 Rg2+ 69.
+Kf1 1-0
+

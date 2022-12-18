@@ -1,0 +1,19 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1972.08.01"]
+[Round "12"]
+[White "Myagmarsuren, Lhamsuren"]
+[Black "Razuvaev, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "f1b9c1d7"]
+[Epoch "Bishop"]
+[WhiteID "4900081"]
+[WhiteCountry "MGL"]
+[BlackCountry "RUS"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Nc6 7. h3 e5 8. dxe5
+dxe5 9. Bg5 Be6 10. Qc1 Qe7 11. Rd1 Rad8 12. Nd5 Bxd5 13. exd5 Nb4 14. c4 a5
+15. Qd2 b6 16. a3 1/2-1/2

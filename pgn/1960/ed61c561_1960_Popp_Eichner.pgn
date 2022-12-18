@@ -1,0 +1,18 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Popp, F."]
+[Black "Eichner, H."]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "ed61c561"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 Bxd4 6. Nxd4 Nxd4 7. f4 d6
+8. fxe5 dxe5 9. c3 Be6 10. Na3 Bxc4 11. Nxc4 Ne6 12. Qf3 Qe7 13. Kh1 O-O-O
+14. Nxe5 Nc5 15. Qf5+ Kb8 16. Nxf7 Qxf7 17. Qxc5 Nxe4 18. Qxa7+ Kxa7 19.
+Be3+ c5 20. Rxf7 Rd3 21. Re1 Kb6 22. Re7 Nd6 23. b4 Kc6 24. Bxc5 Rxc3 25.
+R7e6 Rd8 26. Rd1 1-0
+

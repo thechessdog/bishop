@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Cortlever, Nicolaas"]
+[Black "Rossolimo, Nicolas"]
+[Result "0-1"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[HashCode "d259f618"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Nb3 d5 7. Bg5 Be6 8. exd5
+Qxd5 9. Nc3 Bb4 10. Bd2 Qd8 11. Bd3 O-O 12. Qe2 Nc6 13. O-O Bxb3 14. axb3 Nd4
+15. Qxe5 Nxb3 16. Bg5 Bxc3 17. bxc3 Nxa1 18. Qf5 Qc8 19. Qf4 Qxc3 20. Qf5 Qc8
+21. Qf4 Qc5+ 22. Kh1 Nh5 23. Qh4 Nxc2 24. Be7 Qd4 25. Be4 f5 0-1

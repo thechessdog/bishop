@@ -1,0 +1,22 @@
+[Event "DSV-Turnier"]
+[Site "Zinnowitz"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Neukirch, Detlef"]
+[Black "Bukic, Enver"]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "b8c4a383"]
+[Epoch "Bishop"]
+[WhiteID "4611624"]
+[WhiteCountry "GER"]
+[BlackID "14600030"]
+[BlackCountry "SLO"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. a4 b6 8. g4 e5
+9. Nf5 g6 10. g5 gxf5 11. exf5 Bb7 12. Rg1 d5 13. Bg2 Ne4 14. Bxe4 dxe4 15. Qh5
+Nd7 16. O-O-O Bc5 17. g6 Bxe3+ 18. fxe3 Qf6 19. g7 Rg8 20. Qxh7 O-O-O 21. h4
+Bc6 22. h5 Kc7 23. h6 Qh4 24. Qxg8 Rxg8 25. Rh1 Qg5 26. h7 Qxg7 27. hxg8=Q Qxg8
+28. Rdg1 Qf8 0-1

@@ -1,0 +1,19 @@
+[Event "DDR ch"]
+[Site "DDR ch"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Dittmann"]
+[Black "Fuchs, Reinhart"]
+[Result "0-1"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "c36f08d7"]
+[Epoch "Bishop"]
+[BlackID "4611357"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qb3 a6 10. a3 Bxc3 11. Qxc3 b5 12. Ba2 Bb7 13. Rd1 Rc8 14. Bd2 Ne4 15.
+Qd3 Nxd2 16. Rxd2 Bxf3 17. gxf3 Qg5+ 18. Kh1 Qh5 19. Qe4 cxd4 20. Rxd4 Nf6 21.
+Qb7 Rc2 22. Rf1 Rxb2 23. Bb1 Nd5 24. Be4 Nxe3 25. fxe3 Qxh2# 0-1

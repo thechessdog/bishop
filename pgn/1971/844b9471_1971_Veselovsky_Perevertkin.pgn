@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Veselovsky, Sergey"]
+[Black "Perevertkin, Vladim"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "844b9471"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd3 Nbd7 8. f4
+b5 9. O-O-O Bb7 10. e5 dxe5 11. Ndxb5 axb5 12. fxe5 b4 13. exf6 bxc3 14. fxg7
+Qxg5+ 15. Kb1 Bd5 16. gxf8=Q+ Kxf8 17. b3 Rc8 18. Be2 Qe7 0-1

@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Ehrenfeld"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "1f50e327"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 c5 4. Bf4 cxd4 5. Nb5 Qa5+ 6. b4 Qxb4+ 7. c3 dxc3 8.
+Nc7# 1-0

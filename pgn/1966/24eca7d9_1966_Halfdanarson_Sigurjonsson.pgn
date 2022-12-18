@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1966.??.??"]
+[Round "9"]
+[White "Halfdanarson, Jon"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "24eca7d9"]
+[Epoch "Bishop"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+[WhiteID "2301830"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. Nf4 c6 8. c5
+Nbd7 9. Nd3 e5 10. Nxe5 Nxe5 11. dxe5 Nd7 12. b4 Nxe5 13. Bd3 Bg4 14. Qc2 Nxd3+
+15. Qxd3 Bf6 16. Bb2 1/2-1/2

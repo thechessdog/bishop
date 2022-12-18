@@ -1,0 +1,22 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Jansson, Borje"]
+[Black "Falk, Lars"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Nimzovich variation"]
+[HashCode "1e5a471d"]
+[Epoch "Bishop"]
+[BlackID "1712349"]
+[BlackCountry "SWE"]
+[WhiteID "1700189"]
+[WhiteCountry "SWE"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bb4 5. d3 O-O 6. g3 d6 7. Bg2 Be6 8. O-O
+Bxc3 9. bxc3 Qd7 10. Rb1 b6 11. Nh4 Rac8 12. Rb2 Ne7 13. f4 Bg4 14. Qe1 Ne8 15.
+Rbf2 c6 16. Ba3 Nc7 17. d4 c5 18. Qe3 f6 19. d5 Rb8 20. Qd3 b5 21. cxb5 Nxb5
+22. Bc1 Ng6 23. Nxg6 hxg6 24. a4 Nc7 25. fxe5 fxe5 26. Rxf8+ Rxf8 27. Rxf8+
+Kxf8 28. h3 Bxh3 29. Qf1+ Kg8 30. Bxh3 Qxa4 31. Qe2 Qa1 32. Qb2 Qa5 33. Bg5 1-0

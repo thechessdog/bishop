@@ -1,0 +1,20 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Reinhardt, Enrique Heinrich"]
+[Result "1-0"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[HashCode "f0af0609"]
+[Epoch "Bishop"]
+[WhiteID "3600130"]
+[WhiteCountry "ECU"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c6 5. Nf3 Nbd7 6. O-O Bd6 7. Nbd2 O-O 8. e4
+Nxe4 9. Nxe4 dxe4 10. Ng5 Nf6 11. Nxe4 Nxe4 12. Bxe4 Qf6 13. Re1 Rd8 14. Bxh7+
+Kxh7 15. Qh5+ Kg8 16. Bg5 Qf5 17. g4 Qa5 18. c5 Bxh2+ 19. Kxh2 Rxd4 20. Rh1 e5
+21. Kg3 Rxg4+ 22. Kf3 e4+ 23. Ke2 Qb5+ 24. Ke1 1-0

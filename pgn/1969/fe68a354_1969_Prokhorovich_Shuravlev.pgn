@@ -1,0 +1,15 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Prokhorovich, Taras"]
+[Black "Zhuravliov, Valerij"]
+[Result "0-1"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "fe68a354"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. cxd5 exd5 5. Qb3 Nc6 6. Nxd5 Be4 7. Nc3 Nxd4 8.
+Qa4+ b5 0-1

@@ -1,0 +1,18 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Hansson, L."]
+[Black "Oscarsson, T."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "0a98c67e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. Nbd2 Nc5 6. g3 d6 7. exd6 Bf5
+8. Nb3 Nxb3 9. Qxb3 Bxd6 10. a3 O-O 11. Be3 Na5 12. Qa4 c5 13. O-O-O Qb6
+14. Nd2 Be5 15. Qb5 Nxc4 16. Qxb6 Nxb6 17. Bf4 Bxf4 18. gxf4 Rfe8 19. e3 c4
+20. Nb1 Na4 21. Bg2 Nc5 0-1
+

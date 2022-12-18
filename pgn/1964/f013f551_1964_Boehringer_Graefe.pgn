@@ -1,0 +1,16 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Boehringer, W."]
+[Black "Graefe, M."]
+[Result "0-1"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[HashCode "f013f551"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. c4 e6 3. g3 dxc4 4. Qa4+ Bd7 5. Qxc4 c5 6. Ne5 Nc6 7. Nxd7
+Qxd7 8. Bg2 Nf6 9. d3 Be7 10. Na3 Nd5 11. O-O Nd4 12. e4 Nb6 0-1
+

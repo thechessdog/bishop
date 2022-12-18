@@ -1,0 +1,18 @@
+[Event "Leipzig ch"]
+[Site "Leipzig ch"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Paulick"]
+[Black "Kuhn"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Schlechter variation"]
+[HashCode "42e82c71"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. Nc3 b5 6. Bxf7+ Kxf7 7. dxe5 Be7
+8. exd6 Bf6 9. Bf4 Bxc3+ 10. bxc3 Qf6 11. Qd2 Ba6 12. O-O Re8 13. e5 Qg6
+14. Ng5+ Kf8 15. Rfe1 h6 16. e6 hxg5 17. exd7 Rd8 18. Re8+ Rxe8 19. dxe8=Q+
+Qxe8 20. d7 Qd8 21. Bc7 1-0
+

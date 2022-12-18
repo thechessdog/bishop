@@ -1,0 +1,17 @@
+[Event "Moscow tt"]
+[Site "Moscow tt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Roizman"]
+[Black "Antoshin, Vladimir S"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "432f8dcb"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. e3 e6 5. Nf3 Be7 6. Bd3 Nbd7 7. O-O c5 8. e4
+cxd4 9. Nxd4 Nxe4 10. Nxe4 Bxg5 11. Nd6+ Ke7 12. Qg4 Bf6 13. N4b5 Nc5 14. Qg3
+a6 15. Nf5+ exf5 16. Nc7 Be6 17. Nxa8 Qxa8 18. Rfe1 Qb8 19. Qf3 Ne4 20. c4 dxc4
+21. Bxe4 fxe4 22. Rxe4 Rd8 23. Rae1 Kf8 24. Qa3+ Qd6 0-1

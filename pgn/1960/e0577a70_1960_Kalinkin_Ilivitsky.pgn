@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Kalinkin"]
+[Black "Ilivitsky"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "e0577a70"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+Be2 b4 9. Na4 Qa5 10. b3 Nxe4 11. Bf3 d5 12. Bxe4 dxe4 13. Qe2 Bb7 14.
+O-O-O Nd7 15. f5 exf5 16. Rhf1 g6 17. g4 fxg4 18. Qxg4 Ne5 19. Qf4 Bg7 20.
+Bf6 g5 21. Bxg5 O-O 22. Qf5 Rae8 23. Bf6 Bxf6 24. Qxf6 Qd8 25. Qh6 Nd3+ 26.
+Rxd3 1-0
+

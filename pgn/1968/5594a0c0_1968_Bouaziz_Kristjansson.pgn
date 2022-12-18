@@ -1,0 +1,17 @@
+[Event "Lugano olm"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Bouaziz, Slim"]
+[Black "Kristjansson, Bragi"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "5594a0c0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 g6 7. g4 Bg7 8. g5
+Nh5 9. Be2 e5 10. Nb3 Nf4 11. Nd5 Be6 12. Nxf4 exf4 13. Bxf4 Bxb2 14. Rb1 Bc3+
+15. Kf1 O-O 16. Qxd6 Nc6 17. Qxd8 Rfxd8 18. Nc5 Bxa2 19. Rxb7 Nd4 20. Bd3 Ne6
+1/2-1/2

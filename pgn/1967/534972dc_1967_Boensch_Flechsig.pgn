@@ -1,0 +1,19 @@
+[Event "Jena"]
+[Site "Jena"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Boensch"]
+[Black "Flechsig"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "534972dc"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qa3 Nge7 9. Nc3 Rb8 10. Be3 b5 11. Nd5 Nxd5 12. exd5 Ne7 13. O-O-O
+Bb7 14. f4 Nxd5 15. fxe5 Qc6 16. Bd2 Qb6 17. e6 fxe6 18. Qg3 O-O 19. Bh6 g6
+20. Qe5 Nf6 21. Rxd7 Be4 22. Bd3 Bxd3 23. Rxd3 Rf7 24. Rhd1 Ng4 25. Qxb8+
+1-0
+

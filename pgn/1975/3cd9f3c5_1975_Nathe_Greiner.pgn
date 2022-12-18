@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Nathe, E."]
+[Black "Greiner, H."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "3cd9f3c5"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. c5 Be7 7. Nf3 O-O 8.
+b4 b6 9. a3 bxc5 10. dxc5 a6 11. Bd3 Qc7 12. Bg5 Nh5 13. O-O f5 14. Re1
+Bxg5 15. Nxg5 Nf4 16. g3 Nxd3 17. Qxd3 Qc6 18. Re2 Rf6 19. Rae1 h6 20. Nf3
+Qd7 21. Nd4 Nc6 22. Nxe6 d4 23. Na4 Nxb4 24. axb4 Qxa4 25. Nc7 Rb8 26. Nd5
+Rf7 27. Re8+ Kh7 28. Qxd4 Qc6 29. Rd8 Rbb7 30. Ree8 Rfd7 31. Nf4 1-0
+

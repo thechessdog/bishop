@@ -1,0 +1,15 @@
+[Event "corr USCF"]
+[Site "corr USCF"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hughes, B."]
+[Black "Brent, M."]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[HashCode "af42500c"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 d5 3. g3 c5 4. Bg2 dxc4 5. Qa4+ Bd7 6. Qxc4 Bc6 7. Nf3 cxd4
+8. O-O Bd5 9. Qxd4 Nc6 10. Qa4 Bxf3 0-1
+

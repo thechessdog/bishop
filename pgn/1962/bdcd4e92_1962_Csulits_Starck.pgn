@@ -1,0 +1,21 @@
+[Event "DDR-12ch"]
+[Site "Gera"]
+[Date "1962.??.??"]
+[Round "12"]
+[White "Csulits, Anton"]
+[Black "Starck, Bodo"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "bdcd4e92"]
+[Epoch "Bishop"]
+[WhiteID "4611705"]
+[BlackID "4611829"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bg5 Bf5 11. Rd1 Bg4 12. Bxf6 Bxf3 13. Nxf3 exf6 14. O-O
+Qd7 15. Nd2 Rfd8 16. Nde4 Rab8 17. Nc5 Qf5 18. Rfe1 Nxd5 19. Nxd5 Qxd5 20. Re8+
+1-0

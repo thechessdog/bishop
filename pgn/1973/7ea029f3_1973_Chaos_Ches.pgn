@@ -1,0 +1,16 @@
+[Event "ACM Atlanta"]
+[Site "ACM Atlanta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Chaos"]
+[Black "Ches"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "7ea029f3"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 dxc4 4. e4 Nc6 5. Nf3 Na5 6. Be3 b6 7. Ne5 f6 8.
+Qh5+ Ke7 9. Qf7+ Kd6 1-0
+

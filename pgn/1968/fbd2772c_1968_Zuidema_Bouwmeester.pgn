@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1968.01.01"]
+[Round "10"]
+[White "Zuidema, Coen"]
+[Black "Bouwmeester, Hans"]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "fbd2772c"]
+[Epoch "Bishop"]
+[BlackID "1000187"]
+[BlackCountry "NED"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 Nxd5 6. Bb5+ Bd7 7. Bxd7+ Nxd7
+8. O-O Be7 9. Ne4 O-O 10. Qe2 Qc7 11. dxc5 Nxc5 12. Nxc5 Bxc5 13. c4 1/2-1/2

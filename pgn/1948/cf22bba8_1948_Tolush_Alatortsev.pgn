@@ -1,0 +1,19 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1948.01.01"]
+[Round "8"]
+[White "Tolush, Alexander"]
+[Black "Alatortsev, Vladimir Alexeyevich"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "cf22bba8"]
+[Epoch "Bishop"]
+[BlackID "34280375"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. f4 d5 3. exd5 Qxd5 4. Nc3 Qe6 5. fxe5 Qxe5+ 6. Be2 Bg4 7. d4 Qe6 8.
+Qd3 c6 9. Bf4 Nf6 10. O-O-O Bxe2 11. Ngxe2 Bd6 12. d5 Nxd5 13. Nxd5 cxd5 14.
+Qg3 Bxf4+ 15. Nxf4 Qh6 16. Rhe1+ Kf8 17. Qa3+ 1-0

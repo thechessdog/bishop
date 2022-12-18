@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Hurd"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "955876c3"]
+[Epoch "Bishop"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 e6 4. Nf3 Bb4 5. e5 Nge7 6. Bd3 b6 7. O-O h6 8. a3
+Bxc3 9. bxc3 Na5 10. a4 Nc4 11. Nd2 Ba6 12. Qe2 Nxd2 13. Bxd2 Bxd3 14. Qxd3 O-O
+15. f4 c5 16. g4 Qc7 17. f5 Ng6 18. fxg6 1-0

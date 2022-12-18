@@ -1,0 +1,23 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Eindhoven"]
+[Black "Chess 3 5"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "631bcbb8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Nf6 6. N1c3 Bb4 7. Nd6+
+Bxd6 8. Qxd6 Qe7 9. Qxe7+ Kxe7 10. Bg5 h6 11. Bh4 g5 12. Bg3 d6 13. Bc4 Be6
+14. Nd5+ Bxd5 15. exd5 Na5 16. Bd3 Nxd5 17. O-O-O Nb4 18. c3 Nxd3+ 19. Rxd3
+f5 20. f3 f4 21. Bf2 Rhf8 22. Re1 Rf6 23. h4 Nc4 24. hxg5 hxg5 25. Rh1 b6
+26. Rh7+ Rf7 27. Rxf7+ Kxf7 28. b3 Ne3 29. Bxe3 fxe3 30. Rxd6 b5 31. Kd1
+Ke7 32. Rd3 Rd8 33. Rxd8 Kxd8 34. Ke2 Kd7 35. Kxe3 Ke6 36. Ke4 a6 37. g3 a5
+38. a3 a4 39. bxa4 bxa4 40. c4 Kf6 41. Kd5 Kf5 42. c5 g4 43. fxg4+ Kxg4 44.
+c6 Kf5 45. c7 Kg5 46. c8=Q Kf6 47. Qf8+ Kg5 48. Kxe5 Kg6 49. Qf6+ Kh5 50.
+Qf5+ Kh6 51. Qg4 Kh7 52. Kf6 Kh8 53. Qg7# 1-0
+

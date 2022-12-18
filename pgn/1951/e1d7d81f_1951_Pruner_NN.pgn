@@ -1,0 +1,17 @@
+[Event "Capablanca mem"]
+[Site "Capablanca mem"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Pruner, Earl"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "e1d7d81f"]
+[Epoch "Bishop"]
+[WhiteID "2015102"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 g6 4. e3 Bg7 5. Bxc4 Nd7 6. Bxf7+ Kxf7 7. Ng5+ Kf6
+8. Qf3+ Kxg5 9. e4+ Kh4 10. Qh3# 1-0

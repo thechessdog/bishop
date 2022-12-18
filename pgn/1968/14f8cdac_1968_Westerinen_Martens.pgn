@@ -1,0 +1,22 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Martens, Martin"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "14f8cdac"]
+[Epoch "Bishop"]
+[BlackID "1000683"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. Bf4 h6 12. O-O d4 13. Nb5 Nd5 14. Bd6 a6
+15. c4 axb5 16. Bxf8 bxc4 17. Bxg7 cxd3 18. Bxh6 Qh4 19. Qd2 f6 20. Rae1 Bf5
+21. Qc1 Ne5 22. Qc5 Rd8 23. Bd2 Nf3+ 24. gxf3 Qh5 25. Qxd4 Kf7 26. Bf4 Qxf3 27.
+Bg3 d2 28. Qh4 dxe1=Q 29. Rxe1 Ne3 30. fxe3 Be4 31. Qh3 Rd2 0-1

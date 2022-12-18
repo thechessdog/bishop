@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Bjorkquist, A."]
+[Black "Gavrilov, K."]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "b03fe4f5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 Bb7 9. d3 Nd4 10. Nxe5 Nxb3 11. cxb3 d5 12. exd5 Nxd5 13. Nc3 Bf6 14. d4
+c5 15. axb5 Nb4 16. Be3 axb5 17. Rxa8 Bxa8 18. f4 cxd4 19. Qxd4 Nc2 20.
+Qxd8 Bxd8 21. Re2 Nxe3 22. Nd7 Re8 23. Nd1 Bc6 0-1
+

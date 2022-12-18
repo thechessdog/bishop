@@ -1,0 +1,18 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Lampela"]
+[Black "Sliwa"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "cb7b9d1f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Bb7 9. Bxe6 fxe6 10. Nxe6 Qc8 11. Nd5 Bxd5 12. exd5 Kf7 13. g4 h6 14.
+f4 Qc4 15. Re1 Nbd7 16. Bd2 Qxd5 17. Re3 Rc8 18. Nxf8 Rhxf8 19. h3 Rc4 20.
+Rd3 Rd4 21. a4 Rxd3 22. cxd3 Qxd3 23. Ra3 Qd4+ 0-1
+

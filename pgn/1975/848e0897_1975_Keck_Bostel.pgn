@@ -1,0 +1,19 @@
+[Event "corr BDF/H"]
+[Site "corr BDF/H"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Keck"]
+[Black "Bostel"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "848e0897"]
+[Epoch "Bishop"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. e3 d5 6. cxd5 Nxd5 7. Nf3 Re8
+8. Be2 Nc6 9. Bb2 Be7 10. O-O Be6 11. d4 Bf6 12. Nbd2 a6 13. a3 Rc8 14. Rc1
+Nb8 15. e4 Nf4 16. e5 Nxe2+ 17. Qxe2 Be7 18. Rfd1 Qd5 19. Ne4 Bg4 20. Nc3
+Bxf3 21. gxf3 Qe6 22. d5 Qf5 23. Ne4 Nd7 24. Ng3 Qg5 25. Rc4 f5 26. f4 Qg6
+27. Qc2 Qg4 28. d6 Nb6 29. d7 Kf8 30. dxe8=Q+ Kxe8 31. h3 Qg6 32. Rxc7 Rxc7
+33. Qxc7 h5 34. Qb8+ Kf7 35. Qxb7 Qe6 36. Rd6 1-0
+

@@ -1,0 +1,22 @@
+[Event "Copenhagen ch-DEN"]
+[Site "Copenhagen ch-DEN"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Hvenekilde, Jorgen"]
+[Black "Andersen, Borge"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "d3d755a2"]
+[Epoch "Bishop"]
+[WhiteID "1400649"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d6 6. Ng3 O-O 7. Be2 Qe7 8. O-O
+Nc6 9. Bf3 Bxc3 10. bxc3 e5 11. Rb1 Na5 12. Qa4 e4 13. Nxe4 Nxe4 14. Qxa5 Bf5
+15. Rb2 Rfc8 16. Bd2 Rc6 17. Qa4 Ra6 18. Qd1 Re8 19. Qe2 b6 20. Rc1 g5 21. Be1
+Qe6 22. Qf1 g4 23. Be2 Ng5 24. Kh1 Qg6 25. Rd1 Qh5 26. dxc5 bxc5 27. Rd5 Be4
+28. f4 gxf3 29. gxf3 Bxd5 30. cxd5 Rb6 31. Rxb6 axb6 32. f4 Qg6 33. fxg5 Rxe3
+34. Bf3 Qb1 35. Be2 Qe4+ 0-1

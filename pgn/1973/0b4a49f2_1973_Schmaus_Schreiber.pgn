@@ -1,0 +1,17 @@
+[Event "corr ch12-FRG"]
+[Site "corr ch12-FRG"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Schmaus, A."]
+[Black "Schreiber, W."]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "0b4a49f2"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 h6 7. Bh4
+Bxc3+ 8. bxc3 d6 9. f3 Ne5 10. e4 Ng6 11. Bf2 O-O 12. Be2 Nd7 13. O-O Nc5
+14. Re1 Nf4 15. Bf1 Qg5 16. Bg3 Nh5 17. Bf2 Nf4 18. Bg3 Nh5 1/2-1/2
+

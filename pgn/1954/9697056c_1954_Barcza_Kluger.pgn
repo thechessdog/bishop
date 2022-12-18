@@ -1,0 +1,18 @@
+[Event "Prague zt"]
+[Site "Praag zt"]
+[Date "1954.01.01"]
+[Round "14"]
+[White "Barcza, Gedeon"]
+[Black "Kluger, Gyula"]
+[Result "1/2-1/2"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, symmetrical variation"]
+[HashCode "9697056c"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c5 5. e3 Nc6 6. Bd3 Bd6 7. O-O O-O 8. dxc5
+Bxc5 9. a3 dxc4 10. Bxc4 Qxd1 11. Rxd1 Bd7 12. Bd2 Rfd8 13. Be1 Be8 14. Kf1 Kf8
+15. Ke2 Ke7 16. Rxd8 Rxd8 17. Rd1 Rxd1 18. Kxd1 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "CSSR"]
+[Site "CSSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Malypetrova"]
+[Black "Larsen, Ingrid"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "3f147b9f"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e5 7. Nb3 Be6 8. Qe2
+Nc6 9. O-O Rc8 10. Bg5 Nd4 11. Nxd4 Bxc4 12. Bxf6 Bxe2 13. Bxd8 Bxf1 14. Nf3
+Bxg2 15. Nd2 Bxe4 16. Ncxe4 Rxd8 0-1

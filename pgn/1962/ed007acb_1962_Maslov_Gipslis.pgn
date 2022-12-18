@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Maslov, Leonid P"]
+[Black "Gipslis, Aivars"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "ed007acb"]
+[Epoch "Bishop"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. exd5 Nh5 10. O-O Bxc3 11. bxc3 Ng7 12. Be3 Nd7 13. Bf2 Nf6 14. Nd2 Re8 15.
+Bf3 Bf5 16. Re1 Qd7 17. Qb3 Ngh5 18. Bh4 Bg4 19. Be4 Nxe4 20. Nxe4 Bf5 21. Ng3
+Nxf4 22. Bg5 Rxe1+ 23. Rxe1 Re8 24. Qd1 Rxe1+ 25. Qxe1 Nd3 26. Qe7 Qxe7 27.
+Bxe7 Nb2 28. Nxf5 gxf5 29. Bxd6 b6 30. Bb8 Nxc4 31. Bxa7 Kf8 32. a4 Ke8 33. Kf2
+Kd7 34. a5 bxa5 35. Bxc5 a4 36. Kf3 a3 37. Bxa3 Nxa3 38. Kf4 Nc4 39. Kxf5 Ke7
+40. Ke4 Kd6 41. Kf5 Ke7 42. Ke4 Nb6 43. g4 Kd6 44. Kf5 Nd7 45. c4 Kc5 46. Kg5
+Kxc4 47. Kh6 Kxd5 48. g5 Ke6 49. Kxh7 Ne5 50. h4 Kf5 51. Kg7 Kg4 0-1

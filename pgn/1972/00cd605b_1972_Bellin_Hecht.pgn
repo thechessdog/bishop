@@ -1,0 +1,20 @@
+[Event "Teeside"]
+[Site "Teeside"]
+[Date "1972.01.01"]
+[Round "2"]
+[White "Bellin, Robert"]
+[Black "Hecht, Hans-Joachim"]
+[Result "1/2-1/2"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern variation, 4...Bg4"]
+[HashCode "00cd605b"]
+[Epoch "Bishop"]
+[WhiteID "400343"]
+[WhiteCountry "ENG"]
+[BlackID "4600320"]
+[BlackCountry "DEU"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. O-O Nc6 7. c4 Nb6 8. exd6
+cxd6 9. Nc3 d5 10. c5 Nd7 11. b4 Nxb4 12. Rb1 Nc6 13. Rxb7 Bxf3 14. Bxf3 Rb8
+15. Rxb8 Ndxb8 16. Bf4 Be7 17. Qa4 O-O 18. Rb1 1/2-1/2

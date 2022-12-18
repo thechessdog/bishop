@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Harjunpaa, V."]
+[Black "Karvi, T."]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "0d65d806"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 dxe4 6. Nxe4 Nxd4 7. Be3 Qd5
+8. Nxd4 Qxe4 9. Nb5 Bd7 10. Nc7+ Kd8 11. Nxa8 Qxh1 12. Qd2 b6 13. O-O-O Qc6
+14. Bg2 Qc8 15. a4 Nf6 16. Bg5 Be7 17. Bxf6 Bxf6 18. a5 bxa5 19. Qxa5+ Ke8
+20. Qxa7 Bd8 21. Bb7 1-0
+

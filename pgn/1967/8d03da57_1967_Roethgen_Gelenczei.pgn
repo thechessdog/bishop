@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Roethgen, R."]
+[Black "Gelenczei, E."]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Reifir (Spielmann) variation"]
+[HashCode "8d03da57"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 Nc6 6. Bg5 Qb6 7. cxd5 Nxd4
+8. Be3 e5 9. dxe6 Bc5 10. exf7+ Ke7 11. Bc4 Rd8 12. Nf3 Bg4 13. Bxd4 Rxd4
+14. Qe2+ Kf8 15. Bb3 a5 16. O-O a4 17. Bc4 Bxf3 18. gxf3 Rh4 19. Ne4 Nxe4
+20. fxe4 Qd6 21. e5 Qd4 22. Be6 Qf4 23. h3 Ra6 0-1
+

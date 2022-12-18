@@ -1,0 +1,18 @@
+[Event "Essen"]
+[Site "Essen"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Elm"]
+[Black "Lange"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "416a4122"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. Qd3 Nbd7 5. Nf3 Qc7 6. e4 dxe4 7. Nxe4
+Nxe4 8. Qxe4 Nf6 9. Bxf6 gxf6 10. Bc4 Qa5+ 11. c3 Bf5 12. Qf4 Rg8 13. d5
+Bd7 14. dxc6 bxc6 15. O-O-O Rg6 16. Nd2 Bh6 17. Qe4 Qe5 18. Qxe5 fxe5 19.
+Bd3 Rxg2 20. Rdg1 Rxg1+ 21. Rxg1 O-O-O 22. Kc2 Bxd2 23. Ba6+ Kc7 24. Kxd2
+Bc8+ 0-1
+

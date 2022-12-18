@@ -1,0 +1,17 @@
+[Event "corr DDR-MK"]
+[Site "corr DDR-MK"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Thurm"]
+[Black "Angermann"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "8b88e2b1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 d5 4. f3 Nd6 5. Nc3 Nf5 6. Bf2 Nc6 7. g4 Nd6 8.
+Nxd5 Nc4 9. e4 Nxb2 10. Qb1 Na4 11. Bb5 Nb6 12. Nxb6 axb6 13. d5 Bd7 14.
+dxc6 Bxc6 15. Bxc6+ bxc6 16. Ne2 e6 17. Qb2 Ra3 18. Nd4 Bc5 19. Nxc6 Bxf2+
+20. Ke2 Re3+ 21. Kxf2 Qd2+ 22. Kg1 Re2 0-1
+

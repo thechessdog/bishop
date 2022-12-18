@@ -1,0 +1,19 @@
+[Event "corr CADAP"]
+[Site "corr CADAP"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Mujica, J."]
+[Black "Pilarche, A."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "b0366bc4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+cxd5 9. cxd5 Ne8 10. O-O-O f5 11. Kb1 a6 12. Bd3 b5 13. exf5 Bxf5 14. g4
+Bxd3+ 15. Qxd3 Nd7 16. Ne4 Bf6 17. h4 Be7 18. Nh3 Ndf6 19. Neg5 Ng7 20. h5
+gxh5 21. gxh5 Qd7 22. h6 Ngh5 23. Ne6 Rfc8 24. Rdg1+ Kh8 25. Rg7 e4 26.
+Nhg5 Qe8 27. fxe4 1-0
+

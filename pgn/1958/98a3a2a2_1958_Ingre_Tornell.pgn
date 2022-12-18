@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Ingre"]
+[Black "Tornell"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "98a3a2a2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 O-O 10. Bf4 Qc7 11. Nb5 Qb6 12. Bxd6 Bxd6 13. Nxd6 e5 14.
+Bxf7+ Rxf7 15. Qc4 Nd8 16. Ng5 Ng4 17. Ndxf7 Be6 18. Rxd8+ Rxd8 19. Qxe6
+Qxe6 20. Nxe6 Rd2 21. Nfd8 Nxf2 22. Rf1 1-0
+

@@ -1,0 +1,16 @@
+[Event "Cody-UD"]
+[Site "Cody-UD"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Mack, A."]
+[Black "Mohlere"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "e4665b5f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 d5 7. Nxe5 Qd6
+8. Nxc6 bxc6 9. d3 Qb4 10. Bxc6+ Bd7 11. Bxa8 1-0
+

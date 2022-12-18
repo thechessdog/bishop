@@ -1,0 +1,16 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Albers, S."]
+[Black "Rehe, Walter"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "04587bd6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O d6 8. Re1
+Nd7 9. a4 b4 10. Na2 a5 11. c3 d5 12. Nxe6 fxe6 13. exd5 Ngf6 14. dxe6 Bc5 15.
+exd7+ 1-0

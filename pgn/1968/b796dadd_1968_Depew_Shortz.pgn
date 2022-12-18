@@ -1,0 +1,16 @@
+[Event "Pennsylvania"]
+[Site "Pennsylvania"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Depew, R."]
+[Black "Shortz, R."]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "Two knights defence"]
+[HashCode "b796dadd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Ba4 Bc5 9. c3 Bxf2+ 10. Kxf2 Ng4+ 11. Ke1 Qxg5 12. b4 Nxh2 13. bxa5
+Qg3+ 14. Ke2 Bg4# 0-1
+

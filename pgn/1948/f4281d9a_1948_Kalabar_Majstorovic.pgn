@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Kalabar, Sadi"]
+[Black "Majstorovic"]
+[Result "1-0"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Richter variation"]
+[HashCode "f4281d9a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 exd4 7. Qxd4
+Nf6 8. e5 Ng4 9. O-O c5 10. Qd5 Rb8 11. Re1 Be7 12. exd6 cxd6 13. Bg5 Be6
+14. Qc6+ Qd7 15. Qxa6 Bxg5 16. Nxg5 O-O 17. b3 Bf5 18. Nc3 Bxc2 19. Nd5
+Rbe8 20. Qc4 Qf5 21. f4 Bd3 22. Rxe8 Rxe8 23. Qa4 Kf8 24. Qc6 Rd8 25. Re1
+Qd7 26. Re7 Qxc6 27. Rxf7+ Ke8 28. Re7+ Kf8 29. Ne6+ Kg8 30. Nxd8 Kf8 31.
+Nxc6 1-0
+

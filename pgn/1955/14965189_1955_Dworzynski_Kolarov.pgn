@@ -1,0 +1,18 @@
+[Event "Erfurt"]
+[Site "Erfurt"]
+[Date "1955.01.01"]
+[Round "12"]
+[White "Dworzynski, Roman"]
+[Black "Kolarov, Atanas S."]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "14965189"]
+[Epoch "Bishop"]
+[BlackID "2900246"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+b5 9. a4 bxa4 10. Rxa4 O-O 11. Be3 Bd7 12. Ra1 a5 13. f3 a4 14. Nd2 Qc7 15. Nc4
+Ra6 16. Na3 Ra5 17. Qd2 Qb7 1/2-1/2

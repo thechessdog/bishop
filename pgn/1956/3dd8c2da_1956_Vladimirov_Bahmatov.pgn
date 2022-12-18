@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Vladimirov, Boris T"]
+[Black "Bahmatov"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "3dd8c2da"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 Nxd5 6. Bxd8 Nxc3 7. Qb3 Ne4+ 8.
+Kd1 Nxf2+ 9. Kc2 Kxd8 10. Qf3 Nxh1 11. Qxf7 Nc6 12. e3 b5 13. Rd1 Re8 14. Nh3
+bxc4 15. Ng5 d5 16. Bxc4 Ne5 17. Qxg7 Nd7 18. Bb5 Nf2 19. Nf7+ Kc7 20. Qg3+ Kb6
+21. Qxf2 Rf8 22. Bxd7 Bxd7 23. a3 Ba5 24. Qf6 Bc6 25. b4 cxb4 26. Qd4+ Ka6 27.
+Kb3 Rxf7 28. Qc5 Rc8 0-1

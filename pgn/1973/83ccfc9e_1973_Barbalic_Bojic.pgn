@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Barbalic, Z."]
+[Black "Bojic, Z."]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "83ccfc9e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. f3 Ne5 13. h3 g5 14. f4 gxf4
+15. Rxf4 Kh8 16. Bh5 Rg8 17. Be2 Bh6 18. Nf3 Bxh3 19. Rh4 Bxc1 20. Qxc1
+Bxg2 21. Ng5 Qe7 22. Kxg2 Rxg5+ 23. Kf2 Rag8 24. Qf4 Rg2+ 25. Ke3 R8g3+ 0-1
+

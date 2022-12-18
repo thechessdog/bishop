@@ -1,0 +1,18 @@
+[Event "Stavanger"]
+[Site "Stavanger"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Haugen, Arild"]
+[Black "Bryne, Jone"]
+[Result "1-0"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "0ee86128"]
+[Epoch "Bishop"]
+[WhiteID "1505076"]
+[WhiteCountry "NOR"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 f6 4. e4 b5 5. a4 a6 6. axb5 axb5 7. Rxa8 Bb7 8. Ra5
+Qd7 9. Nc3 e5 10. Rxb5 Bc6 11. Rxb8+ Ke7 12. Bxc4 g5 13. d5 g4 14. Nh4 Bh6 15.
+Nf5+ Kf7 16. dxc6+ Qe6 17. Bxe6+ Kxe6 18. Qd7# 1-0

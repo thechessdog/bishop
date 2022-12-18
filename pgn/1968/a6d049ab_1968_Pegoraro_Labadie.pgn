@@ -1,0 +1,16 @@
+[Event "San Benedetto"]
+[Site "San Benedetto"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Pegoraro"]
+[Black "Labadie"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "a6d049ab"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 b5 6. Bb3 Nxd4 7. Nxd4 exd4
+8. e5 Ng8 9. Qf3 Qe7 10. Qxa8 Qxe5+ 11. Kd1 Kd8 12. Qd5 1-0
+

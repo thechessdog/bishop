@@ -1,0 +1,17 @@
+[Event "Caorle zt"]
+[Site "Caorle zt"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Durão, Joaquim Manuel"]
+[Black "Gouder"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "335fd34e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Bd3 Nbd7 8. O-O
+Nc5 9. Kh1 b5 10. e5 Nxd3 11. Qxd3 dxe5 12. fxe5 Nd5 13. Qf3 Qc7 14. Nxd5 exd5
+15. e6 Bxe6 16. Bg5 Qd7 17. Rae1 Rb8 18. Nxe6 fxe6 19. Qh5+ g6 20. Qg4 Rb6 21.
+Qd4 1-0

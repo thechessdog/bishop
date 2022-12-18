@@ -1,0 +1,23 @@
+[Event "DSV-Turnier"]
+[Site "Zinnowitz"]
+[Date "1969.??.??"]
+[Round "8"]
+[White "Sydor, Andrzej"]
+[Black "Moehring, Guenther"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "0db99972"]
+[Epoch "Bishop"]
+[WhiteID "1100475"]
+[BlackID "4611462"]
+[WhiteCountry "POL"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 Nf6 6. Re1 e6 7. d4 cxd4 8. cxd4
+d5 9. exd5 Nxd5 10. Nc3 Nxc3 11. bxc3 Be7 12. Qe2 a6 13. Bd3 O-O 14. Qe4 g6 15.
+Bh6 Re8 16. h4 Bf8 17. Bxf8 Rxf8 18. Qf4 Rc8 19. h5 Qa5 20. g4 Qd8 21. Re3 Rc7
+22. Ng5 Bc8 23. Rae1 h6 24. Ne4 g5 25. Qf3 Kg7 26. Ng3 b5 27. Qe4 f5 28. gxf5
+exf5 29. Qg2 f4 30. Qe4 Kh8 31. Rf3 fxg3 32. Rxf8+ Qxf8 33. fxg3 Re7 34. Qxc6
+Rxe1+ 35. Kg2 Re6 36. Qc7 Re7 0-1

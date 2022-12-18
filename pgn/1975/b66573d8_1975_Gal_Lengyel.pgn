@@ -1,0 +1,27 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gal, Gabor"]
+[Black "Lengyel, Laszlo"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "b66573d8"]
+[Epoch "Bishop"]
+[WhiteID "704261"]
+[WhiteCountry "HUN"]
+[BlackID "701998"]
+[BlackCountry "HUN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Bc4 c6 7. a4 a5 8. Bg5 h6
+9. Be3 d5 10. exd5 cxd5 11. Bd3 Nc6 12. Qd2 Kh7 13. Ne5 Nb4 14. g4 Ng8 15. f4
+e6 16. O-O-O b6 17. Bb5 Ne7 18. Rdf1 f6 19. Nf3 Bd7 20. Nh4 Rc8 21. Bxd7 Qxd7
+22. f5 exf5 23. gxf5 g5 24. Ng6 Nxg6 25. fxg6+ Kxg6 26. h4 g4 27. h5+ Kh7 28.
+Rf4 f5 29. Rhf1 Rf7 30. R4f2 Rc4 31. Kb1 Qc8 32. Rf4 Rc6 33. Qf2 Rcf6 34. Qg2
+Qe6 35. Bd2 Bf8 36. Re1 Qd7 37. Nb5 Re6 38. Ref1 Re4 39. Qxg4 fxg4 40. Rxf7+
+Qxf7 41. Rxf7+ Kg8 42. Rf6 Bg7 43. Rxb6 Kh7 44. Rg6 Bf8 45. b3 g3 46. Rxg3 Nc6
+47. Rf3 Bg7 48. c3 Rh4 49. Rf5 Ne7 50. Rf7 Re4 51. Nd6 Kg8 52. Rxg7+ Kxg7 53.
+Nxe4 dxe4 54. c4 Nf5 55. Bxa5 Kf7 56. d5 Ke7 57. Bb4+ Kd7 58. Bc5 e3 59. Kc1 e2
+60. Kd2 Ng3 61. Be3 Nxh5 62. Kxe2 Ng3+ 63. Kf3 Nf5 64. c5 1-0

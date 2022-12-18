@@ -1,0 +1,17 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Barcza, Gedeon"]
+[Black "Gufeld, Eduard"]
+[Result "1/2-1/2"]
+[ECO "D79"]
+[Opening "Neo-Gruenfeld, 6.O-O, main line"]
+[HashCode "21d373ef"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "RUS"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 Nf6 4. Nf3 c6 5. O-O O-O 6. d4 d5 7. cxd5 cxd5 8. Nc3
+e6 9. Ne5 Nfd7 10. Nxd7 Bxd7 11. e3 Nc6 12. Bd2 Qe7 13. Qe2 Rfc8 14. Rfc1 b6
+15. Nd1 Nd8 16. Rxc8 Rxc8 17. Rc1 Rxc1 18. Bxc1 1/2-1/2

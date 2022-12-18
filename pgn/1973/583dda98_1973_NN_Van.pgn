@@ -1,0 +1,16 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Van Mil, Johannes A J"]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit, Bogolyubov variation"]
+[HashCode "583dda98"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxe5 Qe7 6. f4 Nxb5 7. Nxb5 d6 8.
+Nd3 Bg4 0-1

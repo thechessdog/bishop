@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Omsk"]
+[Black "Kemerovo"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "48fec37c"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Ne7 8.
+Qxg7 Rg8 9. Qxh7 Bc7 10. Nb5 a6 11. Nxd4 Bxe5 12. Ngf3 Bf6 13. Qh6 Qc7 14.
+Bb2 Rg6 15. Qd2 e5 16. Ne2 Bg7 17. g3 Bh6 18. Qc3 Nbc6 19. Nh4 Rg4 20. Qd3
+e4 21. Qb3 Be6 22. Nd4 Nxd4 23. Bxd4 e3 24. fxe3 Bxe3 25. Qc3 Qxc3+ 26.
+Bxc3 Bg5 27. Bd3 Bxh4 28. gxh4 Rxh4 29. O-O-O Kd7 30. Bf6 Rh3 31. Kb2 Rg8
+32. b5 a5 33. Bf1 Rh6 34. Bc3 Bf5 35. h4 Be4 36. Rh2 b6 37. Bd2 Rh7 38. c4
+f5 39. Be3 Kc7 40. Rhd2 Bf3 41. Rc1 Kb7 42. Bg5 Rc8 43. Re1 Be4 44. cxd5
+Ng6 45. Bh3 Ne5 46. Rxe4 fxe4 47. Bxc8+ Kxc8 48. Rd4 Nd3+ 49. Kc3 Nc5 50.
+Rd1 Kd7 51. Rf1 Nb7 52. Rf6 1-0
+

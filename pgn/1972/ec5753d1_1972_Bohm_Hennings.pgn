@@ -1,0 +1,27 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1972.06.01"]
+[Round "7"]
+[White "Bohm, Hans"]
+[Black "Hennings, Artur"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "ec5753d1"]
+[Epoch "Bishop"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+[BlackID "4611594"]
+[BlackCountry "GER"]
+
+1. b3 e5 2. Bb2 d6 3. c4 c5 4. g3 g6 5. f4 Bg7 6. Nf3 Nc6 7. Bg2 Nge7 8. O-O
+O-O 9. Nc3 Rb8 10. Ng5 h6 11. Nge4 f5 12. Nf2 exf4 13. gxf4 Be6 14. Nd3 d5 15.
+Nxd5 Nxd5 16. Bxg7 Kxg7 17. cxd5 Bxd5 18. Nxc5 Re8 19. Rc1 Bxg2 20. Kxg2 Qd5+
+21. Kg1 Re7 22. e3 Rd8 23. Rc2 b6 24. Na6 Rd6 25. Qf3 Qb5 26. Rfc1 Nd8 27. Nc7
+Qd3 28. Qf1 g5 29. Nb5 Qxf1+ 30. Rxf1 Rg6 31. Nd4 Kf6 32. fxg5+ Rxg5+ 33. Kf2
+Reg7 34. Ke2 Rg2+ 35. Kd3 Rd7 36. Rxf5+ Kg7 37. b4 Rxh2 38. Re5 Nf7 39. Re6 h5
+40. Rcc6 Rg2 41. Kc3 h4 42. Re4 h3 43. Nf5+ Kf8 44. Rh4 Rgxd2 45. Rc8+ Rd8 46.
+Rxd8+ Rxd8 47. Rxh3 Rd1 48. Kc4 Ne5+ 49. Kc3 Rd3+ 50. Kc2 Ra3 51. Kb1 Nc4 52.
+Rh4 b5 53. Nd4 a6 54. Nc2 Rd3 55. Rd4 Rc3 56. Rd7 Nxe3 57. Nxe3 Rxe3 58. Rd6
+Ra3 59. Kb2 Ke7 60. Rh6 Ra4 61. a3 Kd7 1/2-1/2

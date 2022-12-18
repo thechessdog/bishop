@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Skrbek, F."]
+[Black "Brilla Banfalvi, S."]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Vienna variation"]
+[HashCode "54b9cb54"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ 5. Nc3 h6 6. Bxf6 Qxf6 7. Qb3 c5
+8. cxd5 exd5 9. a3 Bxc3+ 10. Qxc3 Nd7 11. e3 c4 12. b3 cxb3 13. Qxb3 Qd6
+14. Bb5 O-O 15. O-O a6 16. Bd3 b5 17. a4 bxa4 18. Rxa4 Ra7 19. Rfa1 Bb7 20.
+Ra5 Rc8 21. Bf5 Rc7 22. Bxd7 Qxd7 23. Ne5 Qc8 24. Nd3 Rc6 25. g3 Rf6 26.
+Nc5 Qf5 27. f4 Bc8 28. Nd3 Rb7 29. Qc3 Rfb6 30. Rc1 Rb8 31. Rc5 Be6 32. Nf2
+Rb2 33. e4 Qh5 34. f5 Rxf2 35. Kxf2 Qxh2+ 36. Kf1 Bd7 37. Rxd5 Qh1+ 38. Kf2
+Qxe4 39. Re5 Qg4 40. Rce1 Bxf5 41. Re8+ Rxe8 42. Rxe8+ Kh7 43. Ra8 Qh3 44.
+Ra7 Qh2+ 45. Kf3 h5 46. Qe1 Qb2 47. Qe5 Bg4+ 48. Ke4 Qb3 49. Qc7 Kg6 50. d5
+Bf3+ 51. Kf4 Bxd5 52. Ke5 Bc4 53. Kf4 Qd1 54. Qc6+ f6 55. Qc7 Qd2+ 56. Kf3
+Bd5# 0-1
+

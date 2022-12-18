@@ -1,0 +1,20 @@
+[Event "France"]
+[Site "France"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Vladimirov, Boris T"]
+[Black "Mestel, A Jonathan"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "022a6d36"]
+[Epoch "Bishop"]
+[BlackID "400122"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. e5 Nh5 8. Bb5+
+Bd7 9. Qf3 dxe5 10. fxe5 Bxe5 11. Be3 Bxb5 12. Ncxb5 Qa5+ 13. c3 a6 14. Qd5
+Bxd4 15. Nd6+ exd6 16. Qxa5 Bxe3 17. Kd1 Nc6 18. Qc7 O-O 19. Rf1 Rab8 20. Kc2
+Nd4+ 21. Kb1 Ne6 22. Qxd6 Rbd8 23. Qe7 Rd2 24. a3 Nhf4 25. Qxb7 Nc5 26. Qf3 Nd5
+0-1

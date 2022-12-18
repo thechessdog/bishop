@@ -1,0 +1,17 @@
+[Event "corr Wch5"]
+[Site "corr Wch5"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Endzelins, L."]
+[Black "De Carbonnel, H."]
+[Result "1/2-1/2"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "21084dc9"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 Nc6 4. e3 e6 5. d4 cxd4 6. exd4 d5 7. cxd5 exd5
+8. Be2 Be7 9. O-O O-O 10. Ne5 Ne4 11. Bf4 Nxc3 12. bxc3 Bf5 13. Nxc6 bxc6
+14. Bd3 Bxd3 15. Qxd3 Bd6 16. Bxd6 Qxd6 17. Rfe1 1/2-1/2
+

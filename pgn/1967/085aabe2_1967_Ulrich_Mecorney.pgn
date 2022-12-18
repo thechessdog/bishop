@@ -1,0 +1,19 @@
+[Event "Contra Costa"]
+[Site "Contra Costa"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Ulrich, Jesper"]
+[Black "Mecorney, J."]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "085aabe2"]
+[Epoch "Bishop"]
+[WhiteID "1404296"]
+[WhiteCountry "DEN"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 Nf6 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 7. Qd2 c5 8. d5 a6
+9. Nh3 Ne5 10. Nf2 Qa5 11. a3 Rb8 12. Be2 b5 13. cxb5 axb5 14. O-O Nc4 15. Bxc4
+bxc4 16. Rab1 Rb3 17. Bh6 Bxh6 18. Qxh6 Ba6 19. f4 Rfb8 20. e5 Ne8 21. Nfe4
+Rxb2 22. Ng5 Rxg2+ 23. Kxg2 Rb2+ 24. Rxb2 Qxc3 25. Qxh7+ Kf8 26. Qxf7# 1-0

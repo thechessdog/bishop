@@ -1,0 +1,16 @@
+[Event "corr URU"]
+[Site "corr URU"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Martinez, Gustavo"]
+[Black "Macchia"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Blackburne variation"]
+[HashCode "fd952202"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Qf3 cxb5 9. Qxa8 Nb7 10. d3 Bc5 11. O-O O-O 12. b4 Bxf2+ 13. Rxf2 Qb6 14. Nc3
+Ng4 0-1

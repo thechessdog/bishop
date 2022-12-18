@@ -1,0 +1,18 @@
+[Event "Vienna 5253"]
+[Site "Vienna"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Kopetzky, Karl"]
+[Black "De Souza Mendes, Joao"]
+[Result "0-1"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "07d0fb0c"]
+[Epoch "Bishop"]
+[BlackCountry "BRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nb3 Be7 8. Bg2
+O-O 9. O-O b5 10. a3 Bb7 11. Be3 Nbd7 12. Qe2 Rc8 13. f3 d5 14. exd5 Nxd5 15.
+Nxd5 Bxd5 16. Rfd1 Be6 17. Nc1 Qc7 18. Rd2 Nb6 19. b3 Nd5 20. Nd3 Qc3 21. Ra2
+Nxe3 0-1

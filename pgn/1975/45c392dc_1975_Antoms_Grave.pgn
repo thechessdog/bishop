@@ -1,0 +1,17 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Antoms"]
+[Black "Grave, P."]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "45c392dc"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Be7 5. Nf3 Bd7 6. Bd3 Bc6 7. O-O Nd7
+8. Ne5 Ngf6 9. Nxf7 Kxf7 10. Ng5+ Ke8 11. Nxe6 Qc8 12. Qe2 Nf8 13. Nxg7+
+Kf7 14. Bc4+ Kxg7 15. Qxe7+ Kg6 16. Bf7+ 1-0
+

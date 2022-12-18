@@ -1,0 +1,22 @@
+[Event "Beverwijk"]
+[Site "Beverwijk"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Bouwmeester, Hans"]
+[Black "Kottnauer, Cenek"]
+[Result "1-0"]
+[ECO "E02"]
+[Opening "Catalan"]
+[Variation "open, 5.Qa4"]
+[HashCode "14b50af9"]
+[Epoch "Bishop"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Bd7 6. Qxc4 Bc6 7. f3 Nbd7 8.
+e4 Nb6 9. Qd3 Qd7 10. Nc3 Bb4 11. Be3 Bb5 12. Qc2 c5 13. O-O-O Nc4 14. Bf2 Ba6
+15. dxc5 Qc6 16. Nge2 Bxc5 17. Nd4 Qc8 18. Qa4+ Ke7 19. Nc6+ Qxc6 20. Qxc6 bxc6
+21. Bxc5+ Ke8 22. Bf1 Nd7 23. Rxd7 Kxd7 24. b3 e5 25. Bxc4 Bxc4 26. bxc4 Rhd8
+27. Kc2 Kc7 28. Be3 Rd6 29. Na4 Re8 30. Nc5 Kc8 31. Rb1 Re7 32. a4 h6 33. f4 h5
+34. a5 Rf6 35. a6 Rd6 36. Kc3 f6 37. f5 Rc7 38. Nb7 Rdd7 39. c5 1-0

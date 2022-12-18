@@ -1,0 +1,19 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Mescheder"]
+[Black "Klatt"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "4b6538bb"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. b3 Bg4 3. Bb2 Nd7 4. d4 e6 5. Nbd2 Ngf6 6. e3 Ne4 7. Qc1 Bxf3
+8. Nxf3 Qf6 9. Bd3 Qg6 10. O-O Bd6 11. c4 c6 12. Ba3 Bc7 13. b4 Ndf6 14. b5
+Qh5 15. cxd5 exd5 16. Bxe4 dxe4 17. Ne5 Bxe5 18. dxe5 Ng4 19. h3 Nxe5 20.
+Qc5 Qg5 21. bxc6 bxc6 22. Kh1 Qf6 23. Rab1 Qe6 24. Rb7 Nd7 25. Qd4 Qd5 26.
+Qxg7 O-O-O 27. Qb2 Qd3 28. Rb1 Qa6 29. Rb8+ Nxb8 30. Qxb8+ Kd7 31. Qd6+ 1-0
+

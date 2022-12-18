@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Negyesy, Gyorgy"]
+[Black "Honfi, Karoly"]
+[Result "0-1"]
+[ECO "D84"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit accepted"]
+[HashCode "5fee1f02"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5 8.
+Bxc7 Nc6 9. Ne2 Bg4 10. f3 Bh5 11. Nc3 Qe6 12. Qe2 g5 13. O-O-O Rac8 14. Bg3
+Nb4 15. Kb1 Rfd8 16. Bf2 Bxd4 17. e4 Bxf2 18. Rxd8+ Rxd8 19. Qxf2 Qxa2+ 0-1

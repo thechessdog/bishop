@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Silli"]
+[Black "Pergoli"]
+[Result "1-0"]
+[ECO "C56"]
+[Opening "two knights defence"]
+[Variation "Canal variation"]
+[HashCode "9b94c460"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Nc3 dxc4
+8. Rxe4+ Be7 9. Nxd4 Nxd4 10. Rxd4 Bd7 11. Bf4 c6 12. Ne4 Qc8 13. Bd6 Be6
+14. Qe2 c5 15. Rxc4 Qd7 16. Rxc5 Bxd6 17. Rd1 O-O 18. Nxd6 Rad8 19. Rc3
+Qxd6 20. Rxd6 Rxd6 21. h3 g6 22. Rc7 Rd7 23. Qe5 Rxc7 24. Qxc7 Rc8 25. Qxb7
+Rxc2 26. Qb8+ Bc8 27. b4 a6 28. a4 h5 29. b5 axb5 30. axb5 Kg7 31. b6 f5
+32. b7 Bxb7 33. Qxb7+ Kh6 34. Qb1 Rc4 35. g3 h4 36. Qb3 1-0
+

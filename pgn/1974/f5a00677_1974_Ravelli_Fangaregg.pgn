@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Ravelli"]
+[Black "Fangaregg"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "f5a00677"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4
+g6 8. O-O Bg7 9. Be3 Nh6 10. h3 f5 11. Qd2 Nf7 12. exf5 gxf5 13. f4 Rg8 14.
+Nc3 Bxd4 15. Bxd4 e5 16. Nd5 Rg6 17. Rfe1 Nxd4 18. Qxd4 Kf8 19. Qf2 Qc6 20.
+fxe5 Qxc4 21. Nf4 Rh6 22. e6 Ne5 23. b3 Qc8 24. Rad1 Rxe6 25. Nxe6+ Qxe6
+26. Rf1 Kf7 27. Qxf5+ Qxf5 28. Rxf5+ Ke6 29. Rh5 Rh8 30. Rh6+ 1-0
+

@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hudson"]
+[Black "Grey"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "e406e271"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Nxd4 c5
+8. Nde2 Qxd1+ 9. Nxd1 Bd7 10. Bf4 O-O-O 11. Ne3 Bc6 12. f3 Ne7 13. Bg3 g6
+14. Nf4 Bh6 15. Ng4 Bxf4 16. Bxf4 f5 17. Bg5 fxg4 18. Bxe7 Rd7 19. Bxc5 b6
+20. Be3 h5 21. b3 Rf7 22. Ke2 Re8 23. h3 Rfe7 24. hxg4 hxg4 25. Rae1 Re5
+26. Rh7 Rh5 27. Rh1 Ree5 28. Bf4 Rxh1 29. Rxh1 Rh5 30. Rxh5 gxh5 31. Bg3
+gxf3+ 32. gxf3 Be8 33. f4 Kd7 34. f5 c5 35. Ke3 Kc6 36. c4 b5 37. e5 bxc4
+38. bxc4 Bf7 39. e6 Bg8 40. Ke4 h4 41. Bxh4 Kd6 42. Bg3+ 1-0
+

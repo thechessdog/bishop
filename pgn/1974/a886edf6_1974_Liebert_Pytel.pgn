@@ -1,0 +1,19 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1974.01.01"]
+[Round "15"]
+[White "Liebert, Heinz"]
+[Black "Pytel, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "a886edf6"]
+[Epoch "Bishop"]
+[WhiteID "4611438"]
+[WhiteCountry "GER"]
+[BlackID "600199"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Qe7 7. Bxd7+ Nxd7
+8. dxc5 Nxc5 9. Nb3 O-O-O 10. Qxe7 Bxe7 11. Nxc5 Bxc5 12. Nf3 Ne7 1/2-1/2

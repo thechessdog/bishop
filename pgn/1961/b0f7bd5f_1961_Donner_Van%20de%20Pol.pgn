@@ -1,0 +1,17 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Van de Pol, J."]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "b0f7bd5f"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c6 5. Qb3 Ba5 6. Bd3 d6 7. Ne2 O-O 8. O-O
+e5 9. Qc2 Nbd7 10. b3 d5 11. cxd5 cxd5 12. dxe5 Nxe5 13. Bb2 Nfg4 14. h3 Bc7
+15. Bxh7+ Kh8 16. Bf5 Qh4 17. Nf4 Nf3+ 18. gxf3 Bxf4 19. fxg4 Bxf5 20. Qxf5 1-0

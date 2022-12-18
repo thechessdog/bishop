@@ -1,0 +1,15 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Cable"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "c581035f"]
+[Epoch "Bishop"]
+[WhiteCountry "BEL"]
+
+1. e4 e5 2. Nf3 d6 3. d4 g6 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Nxe5 Bg7 7. Nxf7+ Ke8
+8. Nxh8 1-0

@@ -1,0 +1,21 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1960.01.01"]
+[Round "6"]
+[White "Petersen, Finn"]
+[Black "Haahr, Thorkild"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "10ee62e3"]
+[Epoch "Bishop"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. O-O Be7 8.
+Re1 Nf6 9. c4 O-O 10. Nc3 Nd7 11. Nd5 Bxd5 12. exd5 Bf6 13. Qd1 Re8 14. Rb1
+Rxe1+ 15. Qxe1 Qe8 16. Qxe8+ Rxe8 17. Be3 Re4 18. Nd2 Re8 19. Nf3 a6 20. Rc1
+Nc5 21. Bxc5 dxc5 22. Kf1 Kf8 23. b3 Be7 24. Rc2 h6 25. Ke2 Bd6+ 26. Kd3 Rc8
+27. h3 c6 28. dxc6 Rxc6 1/2-1/2

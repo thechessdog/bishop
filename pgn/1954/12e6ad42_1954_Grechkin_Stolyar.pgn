@@ -1,0 +1,20 @@
+[Event "RSFSR ch"]
+[Site "RSFSR ch"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Grechkin"]
+[Black "Stolyar"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "12e6ad42"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 exf6 5. e4 dxe4 6. dxc5 Qa5 7. Qd5
+Qxc5 8. Qxe4+ Qe7 9. Bb5+ Bd7 10. Bxd7+ Nxd7 11. O-O-O Qxe4 12. Nxe4 O-O-O
+13. Ne2 Be7 14. N2c3 Nc5 15. Rhe1 Rxd1+ 16. Rxd1 Nxe4 17. Nxe4 Re8 18. Rd5
+Kc7 19. Kd2 Rd8 20. Rxd8 Bxd8 21. Kd3 f5 22. Nd2 Kd6 23. a4 g5 24. b4 g4
+25. Nb3 Bh4 26. g3 Bg5 27. c4 f4 28. Ke4 fxg3 29. hxg3 Be7 30. c5+ Kd7 31.
+Kd5 h5 32. Nc1 h4 33. gxh4 Bxh4 34. Nd3 Kc7 35. b5 g3 36. fxg3 Bxg3 37. Ke4
+Bh2 38. Kf3 a6 39. Ke4 axb5 40. axb5 Bg1 41. Kd5 f5 1/2-1/2
+

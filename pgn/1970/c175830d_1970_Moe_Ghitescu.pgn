@@ -1,0 +1,23 @@
+[Event "Siegen olm"]
+[Site "Siegen ol"]
+[Date "1970.01.01"]
+[Round "8"]
+[White "Moe, Mogens"]
+[Black "Ghitescu, Theodor"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "c175830d"]
+[Epoch "Bishop"]
+[WhiteID "1400550"]
+[WhiteCountry "DEN"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 b5 8. O-O
+Bb7 9. Kh1 Nbd7 10. Qe1 g6 11. Nf3 e5 12. Bd2 Bg7 13. fxe5 dxe5 14. Qh4 h6 15.
+a4 bxa4 16. Rxa4 g5 17. Qf2 Nc5 18. Rc4 Nxd3 19. cxd3 Qd6 20. d4 exd4 21. Nxd4
+O-O 22. Nf5 Qe6 23. Rc7 Bxe4 24. Nxg7 Kxg7 25. Na4 Nd5 26. Nc5 Qe5 27. Rxf7+
+Rxf7 28. Qxf7+ Kh8 29. Re1 Qf5 30. Qxf5 Bxf5 31. Re5 Rf8 32. Rxd5 Be4 33. Bc3+
+Kg8 34. Rd1 Bc6 35. Kg1 Rf4 36. h3 g4 37. Rd6 Bb5 38. Rg6+ Kf7 39. Rg7+ Ke8 40.
+Rg8+ Ke7 41. Rxg4 1-0

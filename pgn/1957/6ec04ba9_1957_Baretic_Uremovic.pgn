@@ -1,0 +1,18 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Baretic, Dragoljub"]
+[Black "Uremovic"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "6ec04ba9"]
+[Epoch "Bishop"]
+[WhiteID "920541"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1 Nh6
+8. d4 d5 9. Bxd5 Bh3 10. Bxh6 Bxf1 11. Qxf1 O-O 12. Qg2 Qf6 13. Be3 c6 14. Nc3
+cxd5 15. Nxd5 Qd8 16. Nxh4 Qxh4 17. Bg5 Qh5 18. Nf4 1-0

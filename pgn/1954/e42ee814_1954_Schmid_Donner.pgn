@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Schmid, Lothar Maximilian Lorenz"]
+[Black "Donner, Jan Hein"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "e42ee814"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 Be6 8.
+b3 Nd7 9. Bb2 f6 10. d4 Bd6 11. Nbd2 Qe7 12. Qe2 O-O 13. Nc4 Bf7 14. Rad1 c5
+15. dxe5 Nxe5 16. Nfxe5 fxe5 17. f4 exf4 18. e5 Qe8 19. Qe4 Be7 20. e6 Bg6 21.
+Qxb7 Qc8 22. Qc6 Be8 23. Rd7 Bf6 24. e7 Bxd7 25. exf8=Q+ Kxf8 26. Qxc5+ Kg8 27.
+Bxf6 gxf6 28. Rxf4 1-0

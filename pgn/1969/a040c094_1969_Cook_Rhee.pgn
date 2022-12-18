@@ -1,0 +1,15 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "4"]
+[White "Cook, P."]
+[Black "Rhee, P."]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "a040c094"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Bg5 c5 3. e3 d5 4. Nf3 Nc6 5. Be2 Bf5 6. O-O e6 7. c4 Be7 8. Qb3
+a6 9. dxc5 Bxc5 10. Rd1 Nb4 11. Nd4 dxc4 12. Bxc4 Bc2 13. Nc3 Bxb3 14. Nxb3 Qc7
+15. Rac1 h6 16. Bf4 e5 0-1

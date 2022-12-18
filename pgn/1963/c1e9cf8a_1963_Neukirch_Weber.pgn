@@ -1,0 +1,20 @@
+[Event "Magdeburg"]
+[Site "Magdeburg"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Neukirch"]
+[Black "Weber"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Bird variation"]
+[HashCode "c1e9cf8a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 Be6 9. Nc4 Nd4 10. Bd3 Rc8 11. Ne3 Be7 12. Bxf6 Bxf6 13. O-O Bg5 14.
+Ncd5 Bxe3 15. Nxe3 O-O 16. c3 Nc6 17. Qh5 Ne7 18. Rfd1 Qb6 19. Rd2 Ng6 20.
+g3 Rfd8 21. Bf1 Qc5 22. Bh3 b5 23. Nd5 Rb8 24. Bf5 Bxd5 25. Rxd5 Qc4 26. a3
+Nf8 27. Rad1 g6 28. Qg5 h6 29. Qxh6 gxf5 30. Qg5+ Kh8 31. exf5 Nh7 32. Qh5
+Qc7 33. f6 Rb6 34. R1d4 1-0
+

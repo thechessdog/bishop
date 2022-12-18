@@ -1,0 +1,18 @@
+[Event "Asztalos mem"]
+[Site "Balatonfured"]
+[Date "1959.??.??"]
+[Round "7"]
+[White "Dely, Peter"]
+[Black "Florian, Tibor"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "945d51ae"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. c4 e6 2. d4 Nf6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 c5 7. O-O Nbd7 8. Qe2
+a6 9. cxd5 exd5 10. Ne5 Qc7 11. f4 Qb6 12. a3 cxd4 13. Na4 Qd6 14. axb4 Nxe5
+15. fxe5 Qxe5 16. exd4 1-0

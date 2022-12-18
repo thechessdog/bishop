@@ -1,0 +1,23 @@
+[Event "Trencianske-Teplice"]
+[Site "Trencianske-Teplice"]
+[Date "1949.08.01"]
+[Round "2"]
+[White "Foltys, Jan"]
+[Black "Platt, Josef"]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "3dea4f40"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Ne2 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7 8. f3
+O-O 9. Be3 d5 10. Nxd5 Nxd5 11. Qxd5 Qxd5 12. exd5 Nb4 13. O-O-O Bf5 14. c3
+Nxa2+ 15. Kd2 Nb4 16. d6 Bxd6 17. Ke1 Nc2+ 18. Kf2 Nxe3 19. Rxd6 Bc2 20. Na1
+Nf5 21. Rd7 Ba4 22. Rxb7 Rfb8 23. Rxb8+ Rxb8 24. b3 Bc6 25. b4 Bd5 26. Rd1 Be6
+27. Nc2 g6 28. Ra1 Rc8 29. Ra3 Nd6 30. Ne3 Rc7 31. c4 Kf8 32. c5 Nc8 33. Ke1
+Ne7 34. Kd2 Nc6 35. Kc3 Rb7 36. Nc2 Nd4 37. Bd3 Nxc2 38. Bxc2 Ke7 39. Be4 Rc7
+40. Ra1 f5 41. Bd3 Bc8 42. Ba6 Be6 43. Bc4 Bc8 44. Bd5 g5 45. Kc4 h5 46. b5 g4
+47. Re1 Kf6 48. c6 Re7 49. Kc5 e4 50. fxe4 fxe4 51. Kd6 Bf5 52. c7 e3 53. Rf1
+Re8 54. Bc4 Kg5 55. Rxf5+ Kxf5 56. Kd7 Rh8 57. c8=Q Rxc8 58. Kxc8 1-0

@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Dondini"]
+[Black "Pulieri"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "722f9430"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Ne7 6. Ne2 c6 7. O-O Nd7
+8. a3 Bd6 9. Ng3 O-O 10. Nce2 f5 11. Bg5 Nf6 12. c4 Ne4 13. Bxe7 Qxe7 14.
+f3 Nxg3 15. hxg3 Qe3+ 16. Kh2 Rf6 17. Ng1 Rg6 18. Nh3 Bxg3+ 19. Kh1 Qxd4
+20. Qc2 Be6 21. b3 Rf8 22. Rad1 Qb6 23. f4 d4 24. Ng5 Rh6+ 25. Kg1 Bh2+ 26.
+Kf2 Bxf4 27. Nxe6 Rxe6 28. c5 Qd8 29. Bc4 Qh4+ 30. Kg1 Bh2+ 31. Kh1 Bg3+
+32. Kg1 Qh2# 0-1
+

@@ -1,0 +1,23 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1969.01.01"]
+[Round "13"]
+[White "Cebalo, Miso"]
+[Black "Marangunic, Srdjan"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "67c8c674"]
+[Epoch "Bishop"]
+[WhiteID "14500094"]
+[WhiteCountry "CRO"]
+[BlackID "14500159"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 c6 7. O-O Bg4 8. Ne5
+Bxe2 9. Qxe2 Ne4 10. Rd1 Nxc3 11. bxc3 Nd7 12. cxd5 cxd5 13. Nxd7 Qxd7 14. g3
+Rfc8 15. Rb1 Rxc3 16. Qb5 Rc7 17. Qxd7 Rxd7 18. Ba3 Rc8 19. Rdc1 Rdc7 20. Rxc7
+Rxc7 21. Rb2 Bf8 22. h4 b6 23. Kg2 Rc3 24. Bb4 Rc4 25. Kf3 h5 26. Ke2 e6 27.
+Bxf8 Kxf8 28. Kd3 Ke7 29. Kd2 Kd6 30. Kd3 Kc6 31. Kd2 b5 32. Kd3 b4 33. Kd2 a5
+34. Kd3 Kb5 35. Kd2 Ka4 36. Kd1 Ka3 37. Rd2 a4 0-1

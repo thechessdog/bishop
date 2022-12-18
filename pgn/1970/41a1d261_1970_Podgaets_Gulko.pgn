@@ -1,0 +1,20 @@
+[Event "Dubna student ch"]
+[Site "Dubna student ch"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Podgaets"]
+[Black "Gulko, Boris"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "41a1d261"]
+[Epoch "Bishop"]
+[BlackID "2000040"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Ne2 d5 6. a3 Be7 7. Ng3 O-O 8. cxd5
+exd5 9. Bd3 g6 10. Qc2 Re8 11. Bd2 a6 12. O-O-O b5 13. h4 b4 14. Na2 Rb8 15.
+Qxc6 Bd7 16. Qc2 b3 17. Qb1 bxa2 18. Qxa2 Ba4 19. Bc2 Bxc2 20. Kxc2 Ng4 21.
+Rdf1 Bxh4 22. Rh3 c5 23. dxc5 Bf6 24. Bc1 Qa5 25. Qxd5 Re5 26. Qd6 Rd8 27. Kb1
+Rxd6 28. cxd6 Qd5 29. e4 Qd3+ 30. Ka2 Ra5 0-1

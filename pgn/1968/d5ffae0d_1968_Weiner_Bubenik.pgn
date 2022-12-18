@@ -1,0 +1,25 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Weiner, M."]
+[Black "Bubenik"]
+[Result "1-0"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "d5ffae0d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. O-O Be7
+8. Be3 a6 9. Bb3 Qc7 10. f4 Na5 11. Qf3 b5 12. e5 Bb7 13. Qg3 dxe5 14. fxe5
+Nh5 15. Qf2 O-O 16. g4 Qxe5 17. gxh5 Nxb3 18. axb3 Qxh5 19. Nce2 Rac8 20.
+c3 f5 21. Ng3 Qg6 22. Qe2 Bd6 23. Bf4 e5 24. Bxe5 Rce8 25. Rxf5 Rxf5 26.
+Nxf5 Bxe5 27. Re1 Bd4+ 28. Nxd4 Rxe2 29. Rxe2 h5 30. Kf2 Qg5 31. Ngf5 g6
+32. Re8+ Kh7 33. Re7+ Kg8 34. Re8+ Kf7 35. Rf8+ Kxf8 36. Ne6+ Kg8 37. Nxg5
+gxf5 38. c4 Kg7 39. Ke3 Kf6 40. h4 Bg2 41. Kf4 Bc6 42. Nh3 Be4 43. c5 b4
+44. Ke3 Ke5 45. Nf4 Bc2 46. Nxh5 Bxb3 47. Nf4 a5 48. h5 Bg8 49. h6 a4 50.
+Kd3 a3 51. bxa3 bxa3 52. Kc3 Kf6 53. c6 a2 54. Kb2 Bc4 55. c7 a1=Q+ 56.
+Kxa1 Ba6 57. Kb2 Kf7 58. Kc3 Kg8 59. Kd4 Kh7 60. Ke5 Bc8 61. Ne6 Kg6 62. h7
+Kxh7 63. Kxf5 Kg8 64. Kf6 1-0
+

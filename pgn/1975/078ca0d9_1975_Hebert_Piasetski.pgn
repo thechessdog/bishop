@@ -1,0 +1,18 @@
+[Event "CAN-ch"]
+[Site "Calgary"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Hebert, Jean"]
+[Black "Piasetski, Leon David"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "078ca0d9"]
+[Epoch "Bishop"]
+[WhiteID "2600048"]
+[WhiteCountry "CAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. c3 Nge7 5. O-O a6 6. Ba4 b5 7. Bc2 d5 8. a4 b4
+9. d4 c4 10. exd5 exd5 11. b3 cxb3 12. Bxb3 g6 13. Bg5 Bg7 14. cxb4 Nxb4 15.
+Qd2 Nbc6 16. Nc3 f6 17. Bh6 O-O 18. Bxg7 Kxg7 19. h3 Be6 1/2-1/2

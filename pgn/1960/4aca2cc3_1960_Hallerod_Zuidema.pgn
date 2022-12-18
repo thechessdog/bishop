@@ -1,0 +1,21 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "7"]
+[White "Hallerod, Ralph"]
+[Black "Zuidema, Coen"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "4aca2cc3"]
+[Epoch "Bishop"]
+[WhiteID "1705644"]
+[WhiteCountry "SWE"]
+[BlackID "1000101"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+O-O 9. Bd3 c5 10. dxc5 dxc4 11. bxc4 bxc5 12. Ne4 Bxc4 13. Nxc5 Qa5+ 14. Bd2
+Qxc5 15. Bb4 Qd5 16. Bxc4 Qxg2 17. Rf1 Rc8 18. Be2 Nc6 19. Bf3 Qg5 20. h4 Qe5
+21. Rb1 Rd8 22. Bd2 Ne4 23. Bxe4 Qxe4 24. Rg1 Nd4 0-1

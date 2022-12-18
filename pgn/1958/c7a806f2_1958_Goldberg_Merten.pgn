@@ -1,0 +1,21 @@
+[Event "corr POL-GER"]
+[Site "corr POL-GER"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Goldberg, J."]
+[Black "Merten, W."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "c7a806f2"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 c5 5. e5 Nfd7 6. c3 Nc6 7. Ne2 f6 8.
+Nf4 Qe7 9. Qh5+ Qf7 10. Bg6 hxg6 11. Qxh8 cxd4 12. cxd4 Nxd4 13. O-O Nxe5
+14. b3 g5 15. Bb2 gxf4 16. Bxd4 Ng6 17. Qh5 e5 18. Bb2 Bd7 19. Rac1 Bd6 20.
+Rfd1 Ke7 21. Qe2 Rh8 22. Qd3 Bc6 23. Ne4 Bb4 24. Nc3 Bxc3 25. Ba3+ Ke6 26.
+Rxc3 e4 27. Qd2 Rd8 28. Qd4 Ne5 29. Qxa7 Qh5 30. Rd2 Nf3+ 31. gxf3 exf3 32.
+Rdd3 Re8 33. Rxc6+ Kf7 34. Qxb7+ Kg6 35. Rxf3 Re1+ 36. Kg2 Qg4+ 37. Rg3 f3#
+0-1
+

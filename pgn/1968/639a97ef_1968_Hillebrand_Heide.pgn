@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Hillebrand, P."]
+[Black "Heide, H."]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "639a97ef"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8.
+cxd5 Bxf1 9. dxe6 Ba6 10. exf7+ Kxf7 11. e4 c5 12. e5 Qxd4 13. e6+ Kf8 14.
+Qf3 Nc6 15. Qxc6 Rd8 16. Qf3 Bd6 17. Be3 Qe5 18. Rd1 Ke7 19. h4 g6 20. g4
+Rhf8 21. g5 Nh5 22. Ncd5+ Ke8 23. Nc7+ 1-0
+

@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Shabanov, Yuri"]
+[Black "Rashkovsky, Nukhim N"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "b9c3abc0"]
+[Epoch "Bishop"]
+[BlackID "4100603"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. O-O Ne5 7. d3 e6 8.
+Nc3 Ne7 9. a3 N7c6 10. Rb1 Be7 11. Be3 O-O 12. Ne1 f5 13. f3 b6 14. b3 Bf6 15.
+Qd2 Nd4 16. Bxd4 cxd4 17. Ne2 fxe4 18. fxe4 d5 19. exd5 exd5 20. Nc2 dxc4 21.
+bxc4 Ng4 22. h3 Ne3 23. Nxe3 Bg5 24. Kh1 dxe3 25. Qc3 Rf2 26. Rxf2 exf2 27. Rf1
+Be3 28. d4 Re8 29. d5 Qd6 30. Qd3 Bc5 31. Nd4 Re1 32. Nf3 Qg3 0-1

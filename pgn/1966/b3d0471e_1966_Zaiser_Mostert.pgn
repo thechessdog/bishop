@@ -1,0 +1,20 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Zaiser, P."]
+[Black "Mostert, H."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "b3d0471e"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. dxc5 Bxc5 6. Bd3 f5 7. O-O Nge7 8.
+a3 a5 9. Re1 O-O 10. Nc3 Bd7 11. Na4 Ba7 12. c4 Qe8 13. Nc3 Nd4 14. Bg5 Bc6
+15. Bxe7 Nxf3+ 16. Qxf3 dxc4 17. Be4 Bxe4 18. Nxe4 Qxe7 19. Nd6 Bd4 20.
+Rad1 Bc5 21. Nxc4 Ra6 22. a4 Bb4 23. Re3 Rc6 24. b3 Rd8 25. Red3 Rxd3 26.
+Qxd3 Rc5 27. Qd8+ Qf8 28. Kf1 b5 29. axb5 Rxb5 30. Qd7 Rb8 31. Qxe6+ Kh8
+32. Nd6 1-0
+

@@ -1,0 +1,17 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "10"]
+[White "Withers, WR."]
+[Black "Olsen, Heini"]
+[Result "1/2-1/2"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "5...c6"]
+[HashCode "de80ac63"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 c6 6. cxd5 cxd5 7. Bd3 Be7 8.
+Nf3 a6 9. O-O O-O 10. Rc1 b5 11. Ne5 Bb7 12. f4 Ne4 13. Bxe7 Qxe7 14. Bxe4 dxe4
+15. Nxd7 Qxd7 16. Rf2 Rac8 17. Rfc2 h6 18. Ne2 Rxc2 19. Rxc2 Rc8 20. Qc1 Rxc2
+21. Qxc2 1/2-1/2

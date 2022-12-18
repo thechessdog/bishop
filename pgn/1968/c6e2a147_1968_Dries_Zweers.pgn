@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Dries, J."]
+[Black "Zweers, A."]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "c6e2a147"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 d5 10. e5 Nd7 11. Bxe7 Qxe7 12. Nf3 a6 13. Bd3 b5 14.
+Qe1 f5 15. exf6 Nxf6 16. Qh4 Qc5 17. Rhe1 Ne7 18. g4 Ng6 19. Bxg6 hxg6 20.
+Ne5 Nh7 21. Nxg6 Rf7 22. f5 exf5 23. Re8+ 1-0
+

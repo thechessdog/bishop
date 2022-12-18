@@ -1,0 +1,20 @@
+[Event "Oakland"]
+[Site "Oakland"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Shorman, R."]
+[Black "Trenberth, R."]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "a4e37ea0"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 g6 4. e4 dxc4 5. Bxc4 Bg7 6. Nf3 Ne7 7. Be3 Nbc6
+8. Qd2 O-O 9. O-O-O a6 10. Bh6 b5 11. Bxg7 Kxg7 12. Be2 Bb7 13. h4 b4 14.
+Na4 b3 15. axb3 h5 16. Ng5 a5 17. Nc5 Bc8 18. g4 hxg4 19. Bxg4 e5 20. Bxc8
+Qxc8 21. dxe5 Qb8 22. Qf4 Qb5 23. Nd3 Qxb3 24. Qf6+ Kg8 25. h5 Nd4 26. Rd2
+Qa2 27. Kd1 Qa1+ 28. Nc1 Nb3 29. Ke2 Nxc1+ 30. Rxc1 Qxc1 31. h6 Qc4+ 32.
+Kf3 1-0
+

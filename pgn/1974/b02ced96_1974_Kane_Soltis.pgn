@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kane, George Francis"]
+[Black "Soltis, Andrew"]
+[Result "0-1"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "b02ced96"]
+[Epoch "Bishop"]
+[WhiteID "2001659"]
+[WhiteCountry "USA"]
+[BlackID "2000741"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 7. Bd3 c5 8. Nge2
+cxd4 9. Nxd4 e6 10. O-O d5 11. cxd5 exd5 12. exd5 Nb6 13. Qd2 Nbxd5 14. Nxd5
+Nxd5 15. Bf2 Qf6 16. Rad1 Rd8 17. Bc4 Nf4 18. Be3 Be6 19. Be2 Rxd4 0-1

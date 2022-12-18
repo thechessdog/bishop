@@ -1,0 +1,18 @@
+[Event "Tel Aviv olm fin-B"]
+[Site "Tel Aviv olm"]
+[Date "1964.11.01"]
+[Round "12"]
+[White "Gragger, T."]
+[Black "Jansson, Borje"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "93c6fa1c"]
+[Epoch "Bishop"]
+[BlackID "1700189"]
+[BlackCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6 8.
+Bb3 c5 9. Bf4 Nfd5 10. Qh5 g6 11. Qf3 c4 12. Nxf7 Kxf7 13. Bg5+ Nf6 14. d5 cxb3
+15. O-O-O bxa2 0-1

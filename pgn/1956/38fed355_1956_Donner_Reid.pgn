@@ -1,0 +1,22 @@
+[Event "Dublin"]
+[Site "Dublin"]
+[Date "1956.01.01"]
+[Round "3"]
+[White "Donner, Jan Hein"]
+[Black "Reid, John"]
+[Result "1-0"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Haberditz variation"]
+[HashCode "38fed355"]
+[Epoch "Bishop"]
+[BlackID "418927"]
+[BlackCountry "ENG"]
+[WhiteCountry "NLD"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 Nf6 7. bxc4 bxc4 8. Bxc4
+e6 9. O-O Bd6 10. Qe2 O-O 11. Rd1 Nbd7 12. Nc3 Nb6 13. Bd3 Nbd5 14. Nxd5 Nxd5
+15. Bd2 c5 16. Ne5 Bxe5 17. dxe5 Ne7 18. a5 Ng6 19. Be1 Qd5 20. f4 Qc6 21. Rab1
+Rfd8 22. Rb6 Qc7 23. Rdb1 Bd5 24. Bxa6 c4 25. Bb7 Bxb7 26. Rxb7 Qc5 27. R7b5
+Qa3 28. Bb4 Qd3 29. Qxd3 cxd3 30. Bd6 Nh4 31. Rd1 Rac8 32. Be7 Nf5 33. Bxd8
+Rxd8 34. Rxd3 Rc8 35. a6 g6 36. a7 Rc1+ 37. Kf2 Rc2+ 38. Ke1 1-0

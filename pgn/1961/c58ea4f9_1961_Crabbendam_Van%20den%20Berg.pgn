@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1961.01.01"]
+[Round "9"]
+[White "Crabbendam, H."]
+[Black "Van den Berg, Carel Benjamin"]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "c58ea4f9"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. Ne2
+cxd4 9. exd4 dxc4 10. Bxc4 b6 11. Bg5 Be7 12. a3 Bb7 13. b4 Nd5 14. Qd2 Bxg5
+15. Nxg5 Nce7 16. Bd3 Nf5 17. Ng3 Qf6 18. Nxf5 exf5 19. Nf3 Rad8 20. Rfd1 Nc7
+21. Qf4 Ne6 22. Qxf5 Qxf5 23. Bxf5 Bxf3 24. gxf3 Nxd4 25. Be4 f5 26. Bb7 Rd6
+27. a4 Rb8 28. Bc6 Rg6+ 0-1

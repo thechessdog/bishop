@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Murey, Jacob"]
+[Black "Shekhtman, E."]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[Variation "Lasker variation"]
+[HashCode "5c6b4c23"]
+[Epoch "Bishop"]
+[WhiteID "2803585"]
+[WhiteCountry "ISR"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 c5 4. b3 Nc6 5. Bb5 Bd7 6. Bb2 g6 7. Nc3 a6 8. Bxc6
+Bxc6 9. Ne5 Rc8 10. Qf3 e6 11. g4 Bg7 12. g5 Nd7 13. Ng4 d4 14. Ne4 h5 15. gxh6
+Bf8 16. exd4 f5 17. d5 Qh4+ 18. Qg3 1-0

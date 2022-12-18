@@ -1,0 +1,18 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "2"]
+[White "Garcia Martinez, Silvino"]
+[Black "Tan, L."]
+[Result "1/2-1/2"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "16bcf1bc"]
+[Epoch "Bishop"]
+[WhiteID "3500179"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Ne2 d5 6. a3 Be7 7. Nf4 dxc4 8. Bxc4
+e5 9. Nfe2 exd4 10. exd4 a6 11. O-O O-O 12. Qd3 Bd6 13. f3 b5 14. Bb3 Ne5
+1/2-1/2

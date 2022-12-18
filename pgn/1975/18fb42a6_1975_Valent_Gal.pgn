@@ -1,0 +1,18 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Valent, Ing"]
+[Black "Gal, Gabor"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "18fb42a6"]
+[Epoch "Bishop"]
+[BlackID "704261"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. c4 e6 12. Qe2 Bb4+ 13. Bd2 Qa5 14. a3 Bxd2+
+15. Qxd2 Qxd2+ 16. Nxd2 e5 17. Rh4 1/2-1/2

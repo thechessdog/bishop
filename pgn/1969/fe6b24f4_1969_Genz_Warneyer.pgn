@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Genz, R."]
+[Black "Warneyer, H."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "fe6b24f4"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Nc6 6. Bb5 Bd7 7. Nge2 e5
+8. Bg5 Be7 9. O-O-O O-O 10. Bxc6 Bxc6 11. d5 Be8 12. h4 e4 13. Nxe4 Nxe4
+14. Qxe4 Bxg5+ 15. hxg5 Qxg5+ 16. Kb1 f5 17. Qc4 Rf7 18. Nd4 Qg4 19. Qb3 c5
+20. Nf3 Qg3 21. d6 Rd8 22. Rhe1 Kf8 23. Qe6 Bd7 24. Qe7+ Rxe7 25. dxe7+ Ke8
+26. exd8=Q+ Kxd8 27. Ne5 Kc7 28. Rxd7+ Kc8 29. Re2 h5 30. Rf7 Qf4 31. Nd3
+Qa4 32. Nxc5 Qb5 33. c4 Qc6 34. Re6 1-0
+

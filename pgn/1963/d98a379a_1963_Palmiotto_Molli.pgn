@@ -1,0 +1,24 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Palmiotto"]
+[Black "Molli"]
+[Result "1-0"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Richter attack"]
+[HashCode "d98a379a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Nxc6 bxc6
+8. e5 dxe5 9. Qf3 Be7 10. Bxf6 Bxf6 11. Qxc6+ Bd7 12. Qc5 Be7 13. Qxe5 Bf6
+14. Qg3 O-O 15. O-O-O Rb8 16. Bc4 Qc8 17. b3 Bc6 18. Rhe1 a5 19. Ne4 Bxe4
+20. Rxe4 a4 21. Qe3 Qb7 22. Bd3 a3 23. Qh3 Rfd8 24. Ra4 Bb2+ 25. Kd2 g6 26.
+Ke2 Rd5 27. Be4 Re5 28. Qe3 Qe7 29. f4 Rc5 30. c4 Rbc8 31. g3 R5c7 32. Ra8
+Rxa8 33. Bxa8 Rc8 34. Be4 Qc7 35. Qd3 Bf6 36. Qd7 Qc5 37. Qb5 Qa7 38. Bc6
+Kf8 39. Qb7 Qxb7 40. Bxb7 Rc7 41. Ba6 Be7 42. Bb5 Bb4 43. Rd8+ Kg7 44. Rb8
+Bd6 45. Re8 h5 46. Ra8 e5 47. fxe5 Re7 48. Kd3 Rxe5 49. Kd4 h4 50. Rd8 hxg3
+51. hxg3 Re6 52. g4 Be7 53. Re8 f5 54. gxf5 gxf5 55. c5 Kf6 56. c6 Re4+ 57.
+Kd3 Bd6 58. Rf8+ Ke7 59. Ra8 Re1 60. Re8+ 1-0
+

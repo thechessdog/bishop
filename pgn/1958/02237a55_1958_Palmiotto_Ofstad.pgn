@@ -1,0 +1,20 @@
+[Event "Munich olm fin-C"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "8"]
+[White "Palmiotto, Fiorentino"]
+[Black "Ofstad, Per"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "02237a55"]
+[Epoch "Bishop"]
+[WhiteID "803146"]
+[BlackID "1500708"]
+[WhiteCountry "ITA"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. d4 dxe4 10. Nxe5 Bb7 11. Bg5 Nxe5 12. dxe5 Nd7 13. Bxe7 Qxe7 14. Bd5 Bxd5
+15. Qxd5 Rad8 16. Qxe4 Nc5 17. Qc2 Nd3 18. Rf1 1/2-1/2

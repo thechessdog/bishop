@@ -1,0 +1,16 @@
+[Event "Guam"]
+[Site "Guam"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Barton"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "9f5a3b84"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 d6 4. Bd3 g6 5. e5 dxe5 6. fxe5 Bg7 7. Bb5 Qc7 8. d4
+cxd4 9. Nxd4 Qxe5+ 10. Qe2 Qxd4 0-1

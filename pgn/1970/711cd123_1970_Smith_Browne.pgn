@@ -1,0 +1,25 @@
+[Event "WLS-ch U18"]
+[Site "Swansea"]
+[Date "1970.03.28"]
+[Round "4"]
+[White "Smith, RL."]
+[Black "Browne, R."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "711cd123"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+cxd5 9. cxd5 Na6 10. O-O-O Bd7 11. h4 Nh5 12. g4 Nf4 13. Nge2 Nxe2+ 14.
+Bxe2 f6 15. h5 g5 16. Bb5 Bxb5 17. Nxb5 b6 18. Kb1 Rf7 19. Qd3 Nc7 20. Na3
+Qb8 21. Nc4 Bf8 22. Rc1 Qb7 23. Rc2 Rc8 24. Rhc1 Rd7 25. Na3 Rcd8 26. Rc3
+Be7 27. Nc2 Na6 28. Ra3 Nb8 29. Nb4 Rc7 30. Nc6 Nxc6 31. dxc6 Qc8 32. Qd5+
+Kf8 33. b4 Kg7 34. b5 Bf8 35. Rc4 Re8 36. Rca4 Ree7 37. Bd2 Rf7 38. Bb4
+Rfd7 39. Rc3 Rd8 40. Rca3 Qb8 41. Rd3 Rf7 42. Rd2 Qc8 43. Ra3 h6 44. Kc1
+Re7 45. Kd1 Rf7 46. Ke2 Rc7 47. Kf2 Rf7 48. Kg2 Rc7 49. Qb3 Rf7 50. Rd5 Qe6
+51. Qd1 Rc7 52. Rad3 Rf7 53. a4 Rc7 54. Kg3 Kf7 55. Bxd6 Bxd6 56. Rxd6 Rxd6
+57. Rxd6 Qe8 58. Qd5+ Kg7 59. Rd7+ Rxd7 60. Qxd7+ Kf8 61. Qd6+ Qe7 62. Qb8+
+Qe8 63. c7 1-0
+

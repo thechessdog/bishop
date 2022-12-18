@@ -1,0 +1,17 @@
+[Event "Finland"]
+[Site "Finland"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Kaila, Osmo"]
+[Black "Backmansson"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "888dee28"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. Nf3 Bg4 4. Be2 Nf6 5. Nxe5 Bxe2 6. Qxe2 dxe4 7. Qc4
+Qd5 8. Qxc7 Na6 9. Qc4 Nb4 10. Na3 Bc5 11. Qb5+ Nd7 12. Nxd7 Nxc2+ 13. Kf1
+Nd4 14. Nf6+ 1-0
+

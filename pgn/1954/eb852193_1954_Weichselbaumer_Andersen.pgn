@@ -1,0 +1,19 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Weichselbaumer, E."]
+[Black "Andersen, Borge"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "eb852193"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 Nbd7 7. Be2 c5 8. O-O
+cxd4 9. Nxd4 Nc5 10. Bf3 Qb6 11. Be3 Qxb2 12. Ndb5 Qb4 13. e5 Ne8 14. Nd5 Qxc4
+15. Nxe7+ Kh8 16. Nxd6 Nxd6 17. Qxd6 Ne6 18. Rac1 Qxa2 19. Rfd1 Re8 20. Nxc8
+Raxc8 21. Qd7 Rcd8 22. Qxf7 Qb3 23. Bf2 Rxd1+ 24. Bxd1 Qb5 25. Be2 Qa4 26. Rc4
+Qb5 27. Bf1 Nd8 0-1

@@ -1,0 +1,20 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Thiellement, Andre"]
+[Result "1-0"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "2f23e648"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O c6 6. Ba4 Bc5 7. d3 Ne7 8.
+Bg5 O-O 9. Bb3 h6 10. Bh4 d6 11. f4 Be6 12. f5 Bxb3 13. axb3 f6 14. Qg4 Qd7 15.
+Rf3 d5 16. Nd2 Bb4 17. Rg3 Nc8 18. Nf3 dxe4 19. dxe4 Bd6 20. Rh3 Kh8 21. Bf2 c5
+22. c3 dxc3 23. bxc3 Re8 24. Nh4 Ne7 25. Be3 Ng8 26. Rd1 Qc6 27. e5 Bxe5 28.
+Ng6+ Kh7 29. Bxh6 gxh6 30. Nf8+ Rxf8 31. Qg6+ Kh8 32. Rxh6+ Nxh6 33. Qxh6+ Kg8
+34. Qg6+ Kh8 35. Rd3 Bxh2+ 36. Kh1 1-0

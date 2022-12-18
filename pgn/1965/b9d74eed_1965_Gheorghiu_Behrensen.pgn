@@ -1,0 +1,21 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1965.??.??"]
+[Round "5"]
+[White "Gheorghiu, Florin"]
+[Black "Behrensen, Jorge"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "b9d74eed"]
+[Epoch "Bishop"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 Nxe4 11. Qe1 Nf6 12. Nf5 Qa5 13. Nxd6+ Bxd6 14. Rxd6
+O-O-O 15. Rd1 Ne7 16. Nd5 Qxe1 17. Nxe7+ Kc7 18. Bxe1 Rde8 19. Bb4 Kd8 20. Nc6+
+bxc6 21. Bxa6 Nd5 22. Bd6 Bc8 23. Be2 Kd7 24. Bc5 Kc7 25. c4 Nf6 26. Bd6+ Kd7
+27. Bb8+ 1-0

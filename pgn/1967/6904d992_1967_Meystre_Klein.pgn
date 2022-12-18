@@ -1,0 +1,16 @@
+[Event "corr BRD/M"]
+[Site "corr BRD/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Meystre, G."]
+[Black "Klein, H."]
+[Result "1-0"]
+[ECO "A43"]
+[Opening "Old Benoni"]
+[Variation "Franco-Benoni defence"]
+[HashCode "6904d992"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 c5 3. d5 exd5 4. exd5 d6 5. Nf3 Nd7 6. Bf4 g6 7. Nbd2 Ngf6
+8. Nc4 Nb6 9. Qe2+ Kd7 10. Nfe5+ 1-0
+

@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Vasiukov, Evgeni"]
+[Black "Lebedev"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "5fc5de6e"]
+[Epoch "Bishop"]
+[WhiteID "4100522"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 h6 5. dxe5 dxe5 6. Bxf7+ Kxf7 7. Nxe5+ Kf6
+8. Nc3 Kxe5 9. Qh5+ g5 10. Bxg5 hxg5 11. f4+ Ke6 12. f5+ Ke7 13. Nd5+ Kd6 14.
+Qxh8 Ngf6 15. O-O-O Kc6 16. Rhe1 b6 17. Nb4+ Bxb4 18. Qxd8 Bb7 19. Rxd7 Nxd7
+20. Qxg5 Bxe1 21. Qe3 Bh4 22. Qh6+ Bf6 23. e5 Rf8 24. exf6 Rxf6 25. Qf4 Bc8 26.
+g4 Nc5 27. b4 Nb7 28. Qe4+ Kd7 29. Qd4+ Rd6 30. Qg7+ Kc6 31. f6 Nd8 32. f7 Nxf7
+33. Qxf7 1-0

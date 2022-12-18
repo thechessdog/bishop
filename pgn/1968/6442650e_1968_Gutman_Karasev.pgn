@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gutman"]
+[Black "Karasev, Vladimir I"]
+[Result "0-1"]
+[ECO "D33"]
+[Opening "QGD"]
+[Variation "Tarrasch, Wagner variation"]
+[HashCode "6442650e"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Bg4 8. Bg5
+Bxf3 9. Bxf3 Nxd4 10. Bxd5 Be7 11. Bxf6 Bxf6 12. Qa4+ b5 13. Nxb5 O-O 14. Bxa8
+Qxa8 15. O-O-O Nxb5 16. Qxb5 Rb8 17. Qd3 Rxb2 18. e4 Qb8 19. e5 Rxf2 20. Rd2
+Bg5 21. Rd1 g6 22. Qd6 Rxd2 23. Rxd2 Qxd6 24. exd6 Kf8 0-1

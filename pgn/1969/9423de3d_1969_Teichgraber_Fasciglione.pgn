@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Teichgraber"]
+[Black "Fasciglione, M."]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "9423de3d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. e5 dxe5 10. fxe5 Ng4 11. Bg5 Qa5 12. cxd5 Nxe5 13. O-O Qb4 14. d6
+Qxb2 15. Nd5 Nxf3+ 16. Bxf3 Bd4+ 17. Kh1 Qxa1 18. Qxa1 Bxa1 19. Ne7+ Kg7
+20. Nxc8 Nd7 21. Rxa1 Raxc8 22. Be7 b5 23. Bb7 Rfe8 24. Rf1 c4 25. Bd5 Rxe7
+26. dxe7 Nf6 27. Re1 Rc5 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Schielzeth"]
+[Black "Groos, K."]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "b9c0f28a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6
+dxc6 8. Nxe5 Ne6 9. Qf3 Qe7 10. Nxc6 Qc5 11. Ne5 f6 12. Nd3 Qxc2 13. Nc3
+Bd6 14. Qh5+ g6 15. Qd5 Kf7 16. f4 Rd8 17. Qf3 Bf8 18. Nf2 Nd4 19. Qg3 Bf5
+20. Qh4 Re8 21. Re3 Rxe3 22. dxe3 Ne2+ 23. Nxe2 Qxe2 24. g4 Qe1+ 25. Kg2
+Be4+ 0-1
+

@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Young, W."]
+[Black "Puckett, R."]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "f15ebba1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. Nc3 Bc5 5. Bc4 O-O 6. d4 Bb6 7. O-O Re8
+8. Bxf4 Nxe4 9. Bxc7 Qxc7 10. Bxf7+ Kxf7 11. Ng5+ Kg8 12. Qh5 Bxd4+ 13. Kh1
+Nxg5 14. Qxe8# 1-0
+

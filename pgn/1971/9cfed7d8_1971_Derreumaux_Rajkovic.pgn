@@ -1,0 +1,17 @@
+[Event "Hastings II"]
+[Site "Hastings II"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Derreumaux, P."]
+[Black "Rajkovic, Dusan"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "9cfed7d8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. Bb3
+b5 9. f4 O-O 10. Be3 b4 11. Na4 Bb7 12. f5 e5 13. Ne2 Nbd7 14. Bd5 Qc7 15. Ng3
+Bxd5 16. exd5 Qc4 17. c3 Nxd5 18. Bf2 bxc3 19. Rc1 Qxa2 20. b3 Qd2 21. Nxc3
+Qxd1 22. Rfxd1 Nxc3 23. Rxc3 Rfc8 0-1

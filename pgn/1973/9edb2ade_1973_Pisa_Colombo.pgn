@@ -1,0 +1,17 @@
+[Event "Caorle"]
+[Site "Caorle"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Pisa"]
+[Black "Colombo"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "9edb2ade"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. Nc3 Bc5 5. d4 Bb4 6. Bxf4 O-O 7. Bd3 Re8
+8. O-O Bxc3 9. bxc3 Nxe4 10. Qe1 Nc5 11. Bxh7+ Kxh7 12. Ng5+ Kg8 13. Qh4
+Ne6 14. Qh7+ Kf8 15. Bxc7 Qxc7 16. Rxf7# 1-0
+

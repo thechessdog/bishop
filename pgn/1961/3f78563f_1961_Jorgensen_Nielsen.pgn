@@ -1,0 +1,19 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Jorgensen, Vagn"]
+[Black "Nielsen, E Verner"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "3f78563f"]
+[Epoch "Bishop"]
+[WhiteID "1453092"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. c3 Nc6 7. Be3 Qb6 8. Qb3 c4
+9. Qxb6 axb6 10. O-O b5 11. Nh4 Bg6 12. f4 Nh6 13. g4 Be7 14. Nxg6 hxg6 15. Nd2
+b4 16. Rfc1 bxc3 17. bxc3 b5 18. Rc2 Kd7 19. Nf1 Rhb8 20. Bd2 b4 21. Kf2 b3 22.
+Rb2 Ba3 0-1

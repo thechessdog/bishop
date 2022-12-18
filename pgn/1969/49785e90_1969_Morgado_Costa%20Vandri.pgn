@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Morgado, Juan Sebastian"]
+[Black "Costa Vandri, Jose"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "49785e90"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 exd4 6. e5 dxc3 7. Nxc3 Nge7 8.
+O-O d5 9. exd6 Bxd6 10. Qb3 h6 11. Be3 Bd7 12. Rad1 Rf8 13. Rfe1 Rf6 14. Bxc6
+Bxc6 15. Bd4 Rf7 16. Ne5 Bxe5 17. Rxe5 Kf8 18. Bc5 Qc8 19. Rde1 Be4 20. Nxe4
+fxe4 21. R1xe4 1-0

@@ -1,0 +1,19 @@
+[Event "New Hampshire"]
+[Site "New Hampshire"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Curdo, John"]
+[Black "Montgomery, P."]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical, Pillsbury variation"]
+[HashCode "59423d74"]
+[Epoch "Bishop"]
+[WhiteID "2001705"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Ne7 8. Nh4
+c6 9. Ba4 Ng6 10. Nxg6 hxg6 11. f4 Qb6+ 12. Kh1 Ng4 13. Qe1 exf4 14. Bxf4 Be6
+15. Qg3 Rad8 16. Bb3 Bxb3 17. axb3 Nf6 18. Bg5 Qd4 19. Qh4 Bxc3 20. bxc3 Qxc3
+21. Rae1 1-0

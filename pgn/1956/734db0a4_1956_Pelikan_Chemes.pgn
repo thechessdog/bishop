@@ -1,0 +1,17 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1956.01.01"]
+[Round "6"]
+[White "Pelikán, Jiří (Jorge)"]
+[Black "Chemes, Luis"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "734db0a4"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. d4 g4 6. Ng5 Nc6 7. c3 Qe7 8. Qd3
+Nh6 9. Ne4 Bf5 10. Nxd6+ cxd6 11. Qe3 Qxe3 12. Bxe3 Bxb1 13. Rxb1 Nf5 14. Bf4
+Kd7 15. e4 Rae8 16. Bd3 Nh4 17. O-O Rhf8 18. Bh6 1-0

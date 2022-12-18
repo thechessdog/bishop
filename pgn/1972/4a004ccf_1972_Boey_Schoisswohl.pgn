@@ -1,0 +1,22 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Boey, Jef"]
+[Black "Schoisswohl, A."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Sozin variation"]
+[HashCode "4a004ccf"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 c6 8.
+a4 exd4 9. Nxd4 Re8 10. Be3 Bf8 11. f3 d5 12. exd5 Nb6 13. Ba2 c5 14. Ndb5
+a6 15. Na3 Bd7 16. Qf2 Rc8 17. a5 Na4 18. Nxa4 Bxa4 19. Nc4 Bb5 20. Bg5
+Qxd5 21. Bxf6 Bxc4 22. Rad1 Qe6 23. Bxc4 Qxc4 24. Bc3 Re2 25. Qg3 Qa4 26.
+h4 Qxc2 27. Rd7 Qb3 28. Rfd1 Re7 29. R7d3 Qb5 30. h5 Rce8 31. Rd6 Qe2 32.
+R1d5 g6 33. hxg6 fxg6 34. Rh5 Qe3+ 35. Kh2 Rg7 36. Rf6 c4 37. Qg4 Qd3 38.
+Rh4 Bd6+ 39. Kh3 Rc7 40. Re6 Rec8 41. Rh6 Qd5 42. Rhxg6+ hxg6 43. Qxg6+ Kf8
+44. Rxd6 Rh7+ 45. Qxh7 1-0
+

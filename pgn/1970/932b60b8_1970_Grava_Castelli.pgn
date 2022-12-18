@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Grava, A."]
+[Black "Castelli, R."]
+[Result "1/2-1/2"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "932b60b8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nf6 4. d4 Nxe4 5. dxe5 Be7 6. O-O Nc5 7. Nd4 d5
+8. exd6 Qxd6 9. Nb5 Qxd1 10. Rxd1 Nba6 11. Bf4 Be6 12. N1a3 Bxc4 13. Nxc4
+Ne6 14. Be5 Kf7 15. Nd4 Nxd4 16. Rxd4 Rhe8 17. Rf4 g6 18. a4 Nc5 19. Rd4
+Bf6 20. f4 Ne6 21. Rd7+ Re7 22. Rad1 1/2-1/2
+

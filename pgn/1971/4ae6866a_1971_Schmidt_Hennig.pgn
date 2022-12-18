@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Schmidt, O."]
+[Black "Hennig, K."]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "4ae6866a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 c5 6. d5 d6 7. Be3 e6 8. Qd2
+exd5 9. exd5 Re8 10. O-O-O Nbd7 11. g4 a6 12. h4 Qa5 13. a3 Nxg4 14. fxg4
+Bxc3 15. bxc3 Qxa3+ 16. Kc2 Ne5 17. Bf4 Bxg4 18. Bxe5 Qa4+ 19. Kc1 Rxe5 20.
+Be2 Qa3+ 21. Kc2 Rxe2 22. Nxe2 Bf5+ 0-1
+

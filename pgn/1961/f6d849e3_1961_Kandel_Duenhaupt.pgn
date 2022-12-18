@@ -1,0 +1,21 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Kandel, I."]
+[Black "Duenhaupt, H."]
+[Result "0-1"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, main line"]
+[HashCode "f6d849e3"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Bd3 O-O 6. a3 Bxc3+ 7. bxc3 Nc6
+8. Ne2 d6 9. e4 Ne8 10. Be3 b6 11. O-O Ba6 12. Ng3 Na5 13. Qe2 Qd7 14. f4
+f5 15. Rad1 Qf7 16. dxc5 dxc5 17. exf5 exf5 18. Nxf5 Bxc4 19. g4 Bxd3 20.
+Qxd3 Nf6 21. Nd6 Qd7 22. g5 Rad8 23. Qd2 Qg4+ 24. Kh1 Nb7 25. gxf6 Rxd6 26.
+fxg7 Rf7 27. Qc2 Re6 28. Qf2 Nd6 29. Rg1 Qh5 30. c4 Rg6 31. Qf1 Rfxg7 32.
+Rg5 Rxg5 33. fxg5 Rf7 34. Qe1 Qf3+ 35. Kg1 Qg4+ 36. Kh1 Ne4 37. Rd8+ Kg7
+38. Qa1+ Kg6 39. Qe1 Rf3 0-1
+

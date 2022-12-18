@@ -1,0 +1,18 @@
+[Event "corr Czerniakow"]
+[Site "corr Czerniakow"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Konikowski, J."]
+[Black "Sokolovski, R."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "470ce401"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O b4 9. Na4 Nxe4 10. Re1 d5 11. c4 dxc4 12. Bxc4 Nc5 13. Bf4 Nxa4 14.
+Qxa4+ Qd7 15. Bb5 axb5 16. Qxa8 Bc5 17. Qxb8 Bxd4 18. Rad1 O-O 19. Qd6 e5
+20. Qxd7 Bxd7 21. Bxe5 1-0
+

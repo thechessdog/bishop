@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Mathiesen, E."]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights game"]
+[HashCode "995b49d1"]
+[Epoch "Bishop"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. h3 Nf6 5. a3 Be7 6. Bc4 h6 7. d3 O-O 8. g4 Be6
+9. g5 hxg5 10. Bxg5 Bxc4 11. dxc4 Nh7 12. Be3 Bf6 13. Nd5 Ne7 14. Nxf6+ Nxf6
+15. Rg1 g6 16. Ng5 Qd7 17. Qf3 Nh7 18. O-O-O Nxg5 19. Bxg5 Nc6 20. Bf6 Qe6 21.
+c3 Qxc4 22. Qh5 1-0

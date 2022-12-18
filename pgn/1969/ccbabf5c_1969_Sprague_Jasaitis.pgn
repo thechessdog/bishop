@@ -1,0 +1,20 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Sprague, Ross"]
+[Black "Jasaitis, A."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "ccbabf5c"]
+[Epoch "Bishop"]
+[WhiteID "2036975"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. Be3
+O-O 9. Qe2 b5 10. f3 Bd7 11. a3 Nc6 12. Nxc6 Bxc6 13. O-O Qc7 14. Rad1 Rac8 15.
+Bf2 Qb7 16. Qe3 Nd7 17. Kh1 Nc5 18. Ba2 a5 19. Ne2 Nxe4 20. fxe4 Bxe4 21. Rg1
+Rxc2 22. Bb1 Bg5 23. Qxg5 Rxe2 24. Qg4 Rxf2 25. Bxe4 Qb6 26. Qh4 f5 27. Bf3
+Rxb2 28. Qe7 1-0

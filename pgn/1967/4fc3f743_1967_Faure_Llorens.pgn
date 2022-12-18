@@ -1,0 +1,24 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Faure, P."]
+[Black "Llorens, R."]
+[Result "1-0"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "4fc3f743"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. f5 Qb6 13. g3 b4 14. Ne2
+Qf2 15. Nfd4 Nxd4 16. Nxd4 Qxd2+ 17. Rxd2 Bf8 18. Kb1 h5 19. Bc4 Bh6 20.
+Rd3 Ke7 21. Rhd1 Rhc8 22. b3 Rc5 23. Nf3 Rc6 24. Nh4 Rg8 25. fxe6 Bxe6 26.
+Nf5+ Bxf5 27. exf5 Rd8 28. Rd4 Bg5 29. Bd5 Rb6 30. Rc4 Rb5 31. h4 Bh6 32.
+Rc7+ Rd7 33. Rc6 a5 34. Ra6 Rc5 35. Re1+ Kd8 36. Bc6 Rxf5 37. Bxd7 Kxd7 38.
+Rd1 Bf8 39. Ra7+ Ke6 40. Re1+ Re5 41. Rxe5+ fxe5 42. Kc1 e4 43. Rxa5 d5 44.
+Ra8 Bd6 45. Rg8 f5 46. Kd1 Kf6 47. Ke2 f4 48. gxf4 Bxf4 49. Rh8 Kg6 50. Rd8
+Kf5 51. Rxd5+ Kg4 52. Rd4 Kxh4 53. Rxe4 Kg3 54. Rxb4 h4 55. Rxf4 Kxf4 56.
+Kf2 1-0
+

@@ -1,0 +1,19 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Jansa, Vlastimil"]
+[Black "Bogdanovic, Rajko"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "62b5eb80"]
+[Epoch "Bishop"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackID "14400316"]
+[BlackCountry "BIH"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 e5 4. Nd5 Ne7 5. Nec3 Nbc6 6. Bc4 Nxd5 7. Nxd5 Be6
+8. O-O g6 9. d3 Bg7 10. f4 exf4 11. Bxf4 O-O 12. a4 Re8 13. Qd2 Qd7 1/2-1/2

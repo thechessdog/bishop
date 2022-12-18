@@ -1,0 +1,18 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Trenberth, R."]
+[Black "Pruner, Earl"]
+[Result "0-1"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "497f9287"]
+[Epoch "Bishop"]
+[BlackID "2015102"]
+[BlackCountry "USA"]
+
+1. f4 d5 2. d4 Nf6 3. e3 c5 4. Bd3 g6 5. c3 Nbd7 6. Nd2 Bg7 7. Ngf3 O-O 8. Nf1
+Qc7 9. Ng3 Ne8 10. O-O Nd6 11. f5 e5 12. dxe5 Nxe5 13. fxg6 hxg6 14. Be2 Be6
+15. Kh1 Qe7 16. Nxe5 Bxe5 17. Bf3 Qh4 18. Kg1 Nf5 19. Nxf5 Bxh2+ 20. Kh1 Bxf5
+0-1

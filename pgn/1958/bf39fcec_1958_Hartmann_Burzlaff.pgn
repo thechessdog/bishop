@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Hartman, Christer"]
+[Black "Burzlaff, H."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Mason variation"]
+[HashCode "bf39fcec"]
+[Epoch "Bishop"]
+[WhiteID "1700448"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O 8. c4
+c6 9. Nc3 Bg4 10. Nxe4 dxe4 11. Bxe4 f5 12. Bc2 Bxf3 13. Qxf3 Qxd4 14. Rd1 Qe5
+15. Bf4 Qxb2 16. Qe2 Qf6 17. Rab1 b6 18. Be5 Qg5 19. Rb3 f4 20. Rh3 g6 21. c5
+Bf6 22. Qc4+ Kh8 23. Rd8 Na6 24. Qf7 h5 25. Rxh5+ 1-0

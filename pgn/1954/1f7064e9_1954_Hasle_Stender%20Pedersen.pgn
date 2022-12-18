@@ -1,0 +1,17 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Hasle, SS."]
+[Black "Stender Pedersen, B"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "1f7064e9"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. d3 O-O 6. Bg5 d6 7. Nbd2 Bg4
+8. Qe1 h6 9. Bh4 g5 10. Nxg5 hxg5 11. Bxg5 Nd4 12. Ba4 Kg7 13. c3 Ne2+ 14.
+Kh1 Rh8 15. Bd1 Rxh2+ 0-1
+

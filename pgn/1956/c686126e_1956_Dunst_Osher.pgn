@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Dunst, Ted"]
+[Black "Osher"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "c686126e"]
+[Epoch "Bishop"]
+
+1. Nc3 d5 2. e4 d4 3. Nce2 c5 4. Ng3 g6 5. Bc4 Nc6 6. d3 Bg7 7. f4 Nf6 8. Nf3
+a6 9. a4 Na5 10. Ba2 O-O 11. O-O Nc6 12. h3 b6 13. Bd2 Bb7 14. Bc4 Na7 15. f5
+b5 16. Ba2 Nd7 17. fxg6 hxg6 18. Ng5 Bf6 19. Qg4 Bxg5 20. Qxg5 e6 21. Qh6 Qc7
+22. Bf4 Qd8 23. Bg5 Qc7 24. Rf6 Qe5 25. Bxe6 1-0

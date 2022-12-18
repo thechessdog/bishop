@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kosikov, Alexey I"]
+[Black "Kaminsky, Oleg M"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "90184278"]
+[Epoch "Bishop"]
+[BlackID "2001292"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Nf6 5. Nc3 cxd4 6. Qxd4 g6 7. Bg5 Bg7 8.
+e5 dxe5 9. Nxe5 O-O 10. O-O-O Qa5 11. Nc4 Qc7 12. Rhe1 Qxh2 13. Rh1 Qxg2 14.
+Qh4 Qg4 15. Nd5 Qxh4 16. Nxe7+ Kh8 17. Rxh4 Nb6 18. a3 1/2-1/2

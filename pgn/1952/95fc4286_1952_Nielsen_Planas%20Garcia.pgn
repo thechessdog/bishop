@@ -1,0 +1,26 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Nielsen, Poul Erik"]
+[Black "Planas Garcia, Francisco"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "5.e3"]
+[HashCode "95fc4286"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Be7 6. Qc2 O-O 7. e4 dxe4 8. Nxe4
+Bb4+ 9. Nc3 c5 10. a3 Bxc3+ 11. bxc3 Nc6 12. Be3 cxd4 13. cxd4 Ng4 14. Bd3 e5
+15. d5 f5 16. dxc6 Nxe3 17. fxe3 e4 18. Be2 exf3 19. Bxf3 Qf6 20. O-O bxc6 21.
+Rad1 Rb8 22. Qa4 Qe7 23. Rfe1 c5 24. e4 Bb7 25. exf5 Qg5 26. Bxb7 Rxb7 27. Qc6
+Rbb8 28. Qd5+ Kh8 29. Rf1 h6 30. Rd3 Kh7 31. Rg3 Qf6 32. Qxc5 Qb6 33. Qxb6 Rxb6
+34. h3 Rc6 35. Rc3 Rc5 36. g4 h5 37. Kg2 hxg4 38. hxg4 Kh6 39. Rd1 Kg5 40. Rd7
+Kxg4 41. Rxg7+ Kf4 42. Rf3+ Ke5 43. Re7+ Kf6 44. Re6+ Kf7 45. Ra6 Rg8+ 46. Kf2
+Rxc4 47. Rxa7+ Kf6 48. Ra6+ Kf7 49. Rb3 Rgc8 50. Rb7+ R8c7 51. Rxc7+ Rxc7 52.
+Kf3 Rc4 53. a4 Rc1 54. Ke3 Re1+ 55. Kd3 Rf1 56. Ke4 Re1+ 57. Kd4 Rd1+ 58. Ke5
+Re1+ 59. Kd5 Rf1 60. Ke5 Re1+ 61. Kd6 Kf6 62. Ra8 Rd1+ 63. Kc6 Rc1+ 64. Kb6
+Rb1+ 65. Ka6 Kxf5 66. Re8 Kf6 67. a5 Kf7 68. Re2 Kf6 69. Ka7 Rb5 70. a6 Kf7 71.
+Ka8 Rb6 72. a7 Rb1 73. Rh2 Ke7 74. Rh8 Kd6 75. Rb8 Rg1 76. Kb7 Rb1+ 77. Kc8
+Rc1+ 78. Kd8 Rg1 79. Rb6+ Kc5 80. Rc6+ Kb5 81. Rc8 Rg8+ 82. Kc7 1-0

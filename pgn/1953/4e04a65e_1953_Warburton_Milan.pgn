@@ -1,0 +1,18 @@
+[Event "Stockport CC"]
+[Site "Stockport CC"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Warburton, Charles"]
+[Black "Milan, Slade"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "4e04a65e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Bd6 6. d3 Ne7 7. Be3 O-O
+8. d4 Ng6 9. O-O Qe7 10. Qe2 h6 11. Rad1 Qf6 12. dxe5 Nxe5 13. Nxe5 Bxe5
+14. f4 Bxc3 15. bxc3 Qxc3 16. f5 f6 17. Rf3 Qe5 18. Bxh6 gxh6 19. Rg3+ Kf7
+20. Qh5+ 1-0
+

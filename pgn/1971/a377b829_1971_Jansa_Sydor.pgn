@@ -1,0 +1,22 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Jansa, Vlastimil"]
+[Black "Sydor, Andrzej"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "a377b829"]
+[Epoch "Bishop"]
+[WhiteID "300128"]
+[BlackID "1100475"]
+[WhiteCountry "CZE"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 Nc5 11. Be3 O-O 12. c4 bxc4 13. Bxc4 Na5 14. Bxd5 Bxd5
+15. Nc3 Bxf3 16. Qxf3 Qe8 17. b4 Na4 18. Nd5 Nc4 19. Nxc7 Qb8 20. Nxa8 Qxa8 21.
+Qf4 Nxe3 22. Qxe3 Qb7 23. a3 Nb6 24. Rac1 h6 25. h3 Re8 26. f4 Bd8 27. Kh1 Nd7
+28. Qf3 1-0

@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kuuskmaa, E."]
+[Black "Terpstra, W."]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "bd627f21"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. g3 g6 3. Bg2 Bg7 4. Nf3 Nf6 5. O-O O-O 6. c4 d6 7. Nc3 c6 8. d5
+e5 9. dxe6 Bxe6 10. b3 Ne4 11. Nxe4 Bxa1 12. Qxd6 Bc8 13. Bg5 Qe8 14. Rxa1
+fxe4 15. Ne5 Qe6 16. c5 Re8 17. Nc4 Nd7 18. Rd1 b6 19. Qc7 Nxc5 20. Nd6 Qd7
+21. Qxd7 Bxd7 22. Nxe8 Bxe8 23. Be3 Ne6 24. Bxe4 Rd8 25. Rxd8 Nxd8 26. b4
+Bf7 27. a4 Bd5 28. Bxd5+ cxd5 29. Kf1 Nc6 30. b5 Ne5 31. Kg2 1-0
+

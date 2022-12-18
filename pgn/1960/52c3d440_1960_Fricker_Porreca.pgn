@@ -1,0 +1,23 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Fricker"]
+[Black "Porreca"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "52c3d440"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nf6 5. c4 Bg7 6. Nc3 O-O 7. Be2 Nc6
+8. Be3 d6 9. Nc2 Be6 10. f3 Ne5 11. b3 Qa5 12. Qd2 Rfc8 13. Nd5 Qxd2+ 14.
+Kxd2 Bxd5 15. cxd5 Neg4 16. Bg1 Rc7 17. Bd3 Bh6+ 18. Ke2 Ne5 19. Ne3 Rac8
+20. Bf2 Nfd7 21. Nc4 Nxd3 22. Kxd3 Ne5+ 23. Nxe5 Rc3+ 24. Ke2 Rc2+ 25. Kf1
+Rc1+ 26. Rxc1 Rxc1+ 27. Be1 dxe5 28. h4 Bf4 29. a4 Rb1 30. Ke2 Rxb3 31. g3
+Be3 32. h5 Bc5 33. hxg6 hxg6 34. Bd2 b6 35. Rc1 Kf8 36. a5 Ke8 37. axb6
+axb6 38. Bc3 f6 39. f4 Bd4 40. Bxd4 exd4 41. Rc4 Re3+ 42. Kd2 Rxe4 43. Rb4
+Kd7 44. Rxb6 Re3 45. Rb4 Rxg3 46. Rxd4 Rg4 47. Ke3 g5 48. fxg5 Rxd4 49.
+Kxd4 fxg5 0-1
+

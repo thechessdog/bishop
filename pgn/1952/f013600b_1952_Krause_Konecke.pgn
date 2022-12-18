@@ -1,0 +1,17 @@
+[Event "Rotenburg"]
+[Site "Rotenburg"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Krause"]
+[Black "Konecke"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "f013600b"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f4 e6 5. Nf3 c5 6. c3 Nc6 7. Bd3 Nh6 8. O-O
+Qb6 9. Bxf5 Nxf5 10. dxc5 Bxc5+ 11. Kh1 h5 12. b4 Be7 13. a4 h4 14. a5 Ng3+
+0-1
+

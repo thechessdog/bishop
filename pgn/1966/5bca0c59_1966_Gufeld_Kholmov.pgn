@@ -1,0 +1,17 @@
+[Event "Tbilisi ch-URS"]
+[Site "Tbilisi ch-URS"]
+[Date "1966.01.01"]
+[Round "19"]
+[White "Gufeld, Eduard"]
+[Black "Kholmov, Ratmir D"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "5bca0c59"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O O-O 7. b3 c5 8. Bb2 d5
+9. cxd5 Nxd5 10. Nc3 Nxc3 11. Bxc3 cxd4 12. Nxd4 Nd7 13. Qe2 1/2-1/2

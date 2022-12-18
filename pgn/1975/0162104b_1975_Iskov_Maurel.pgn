@@ -1,0 +1,21 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Iskov"]
+[Black "Maurel"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "0162104b"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qa5 8.
+dxc5 Qxc5 9. Ne2 f6 10. Ned4 Nxd4 11. Nxd4 Qb6 12. exf6 Nxf6 13. Bb5+ Bd7
+14. Bxd7+ Nxd7 15. O-O Bc5 16. Be3 O-O 17. b4 Bxd4 18. Bxd4 Qc7 19. Qg4 Nf6
+20. Qxe6+ Qf7 21. Rae1 Qxe6 22. Rxe6 Ne4 23. Re5 a5 24. b5 Rac8 25. Rf3 Rf7
+26. Rxd5 Rfc7 27. b6 Rc6 28. Rd7 Nxc3 29. Rxg7+ Kf8 30. Rxc3 Rxc3 31. Bxc3
+Rxc3 32. Rxb7 Rc1+ 33. Kf2 Rc2+ 34. Kg3 Rxa2 35. Rxh7 Rb2 36. b7 Kg8 37.
+Rc7 1-0
+

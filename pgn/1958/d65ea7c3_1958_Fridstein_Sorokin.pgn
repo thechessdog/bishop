@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Fridstein, Grigory"]
+[Black "Sorokin, Gerald"]
+[Result "0-1"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation, 4.Nf3"]
+[HashCode "d65ea7c3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. Bg5 h6 6. Bh4 c6 7. e3 Be7 8.
+Be2 O-O 9. Qc2 Re8 10. O-O-O Qa5 11. Kb1 a6 12. Rhg1 b5 13. dxe5 dxe5 14.
+g4 b4 15. Na4 e4 16. Nd4 c5 17. Nc6 Qc7 18. Nxe7+ Rxe7 19. g5 hxg5 20. Bxg5
+Re6 21. Bf4 Qc6 22. Rg5 Bb7 23. Rgd5 Nb6 24. Nxb6 Qxb6 25. Rd6 Rxd6 26.
+Rxd6 Qa5 27. Qd2 Ne8 28. Rd7 Bc6 29. Re7 Rd8 30. Qe1 Qb6 31. Bh5 g6 32. Qg1
+Ba8 33. Be5 Kf8 34. Qg5 Rd2 35. Bg4 Qd8 36. Rxe8+ Kxe8 37. Qh6 Rd1+ 38. Kc2
+Qd3# 0-1
+

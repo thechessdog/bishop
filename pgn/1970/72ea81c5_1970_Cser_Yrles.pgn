@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Cser"]
+[Black "Yrles"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "72ea81c5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. Bc4 e6 4. f4 b5 5. Bb3 Nc6 6. Nf3 Bc5 7. O-O Nf6 8.
+Qe1 Ng4 9. h3 Ne3 10. Bxe3 dxe3 11. Kh2 b4 12. c3 a5 13. a3 Ba6 14. axb4
+axb4 15. Rh1 Bd3 16. Rxa8 Qxa8 17. cxb4 Nxb4 18. Nc3 Bxe4 0-1
+

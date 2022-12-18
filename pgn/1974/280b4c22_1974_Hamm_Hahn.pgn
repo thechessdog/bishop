@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hamm"]
+[Black "Hahn"]
+[Result "1-0"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Pachman system"]
+[HashCode "280b4c22"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. Nbd2 O-O 7. e4 c6 8.
+b4 a5 9. bxa5 Qxa5 10. Bb2 d4 11. a4 Qc7 12. c3 c5 13. cxd4 cxd4 14. Ba3
+Rd8 15. Nc4 Be6 16. Nfxe5 Nec6 17. Nxc6 Qxc6 18. e5 Qxa4 19. Qb1 Bxc4 20.
+dxc4 Nc6 21. Qxb7 Na5 22. Qb4 Nxc4 23. Bxa8 Rxa8 24. Qxa4 Rxa4 25. Bc5 Rxa1
+26. Rxa1 Bxe5 27. f4 Bd6 28. Ra8+ Kg7 29. Bxd4+ Kh6 30. Rg8 f5 31. Bf6 Nd2
+32. Bg7+ Kh5 33. Rh8 Bc5+ 34. Kg2 g5 35. Be5 gxf4 36. Bxf4 Ne4 37. Rxh7+
+Kg6 38. Rh6+ Kf7 39. Rc6 Bf8 40. Kf3 Nc5 41. Be5 Ne6 42. h4 Bh6 43. Rb6 Bd2
+44. Rb7+ Kf8 45. Rh7 1-0
+

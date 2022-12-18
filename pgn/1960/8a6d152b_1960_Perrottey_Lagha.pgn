@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Perrottey"]
+[Black "Lagha"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit"]
+[HashCode "8a6d152b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. b4 e5 3. Nf3 Nc6 4. Bc4 cxb4 5. a3 bxa3 6. Nxa3 Be7 7. O-O Nf6
+8. Re1 O-O 9. Bb2 d6 10. h3 Be6 11. d4 Bxc4 12. Nxc4 exd4 13. Nxd4 Nxd4 14.
+Bxd4 b5 15. Nxd6 Bxd6 16. e5 Be7 17. exf6 Bxf6 18. Bxf6 Qxf6 19. Qd7 Qb6
+20. Reb1 a6 21. c4 Rfd8 22. Qf5 g6 23. Qf3 b4 24. Ra4 a5 25. Rbxb4 Qxb4 26.
+Rxb4 axb4 27. Qb3 Rdb8 28. c5 Ra3 29. Qd5 b3 30. Qd6 Raa8 0-1
+

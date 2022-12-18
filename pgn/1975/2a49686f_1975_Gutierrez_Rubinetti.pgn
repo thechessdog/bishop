@@ -1,0 +1,19 @@
+[Event "Quito"]
+[Site "Quito"]
+[Date "1975.01.01"]
+[Round "3"]
+[White "Gutierrez, Jose Antonio"]
+[Black "Rubinetti, Jorge"]
+[Result "0-1"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "closed Berlin defence, Bernstein variation"]
+[HashCode "2a49686f"]
+[Epoch "Bishop"]
+[BlackID "100161"]
+[BlackCountry "ARG"]
+[WhiteCountry "COL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 Be7 7. Bg5 exd4 8.
+Nxd4 O-O 9. Re1 Nxd4 10. Qxd4 Bxb5 11. Nxb5 c6 12. Nc3 Qa5 13. Bh4 Rad8 14.
+Rad1 Rfe8 15. a4 a6 16. Rd3 d5 17. exd5 Bc5 0-1

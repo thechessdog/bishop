@@ -1,0 +1,20 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Lombard, Andre"]
+[Black "Jensen, Vagn"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "7f3c7c5a"]
+[Epoch "Bishop"]
+[WhiteID "1300091"]
+[BlackID "1400851"]
+[WhiteCountry "SUI"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Ba4 Nf6 6. exf5 Bc5 7. O-O O-O 8.
+Nxe5 d5 9. Nf3 Bxf5 10. Nxd4 Bxd4 11. d3 Ng4 12. Bf4 Nxf2 13. Rxf2 Bxf2+ 14.
+Kxf2 Qh4+ 15. Bg3 Qd4+ 16. Ke1 Bg4 0-1

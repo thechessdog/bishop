@@ -1,0 +1,21 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Chodos"]
+[Black "Krutikhin, Yuri"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "b80ff7b0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nd2 Bb4 5. Nf3 Nc6 6. a3 Nxd2 7. Bxd2
+Bxd2+ 8. Qxd2 O-O 9. Rd1 Qe7 10. Qc3 Re8 11. Rd5 b6 12. e3 Bb7 13. Be2 Nd8
+14. Rd1 Nc6 15. Rd5 Nd8 16. Rd1 Nc6 17. O-O Rad8 18. Rd5 Nb8 19. Rc1 Bxd5
+20. cxd5 c5 21. d6 Qe6 22. Bc4 Qf5 23. e4 Qh5 24. Bd5 g5 25. h3 h6 26. Nh2
+Qg6 27. Ng4 Rf8 28. b4 cxb4 29. axb4 b5 30. Nf6+ Kg7 31. g4 Rh8 32. Nh5+
+Kh7 33. Qd4 a6 34. Rc3 Rc8 35. Rf3 Rhf8 36. Rf6 Qg8 37. Qe3 Nc6 38. Bxc6
+Rxc6 39. Qf3 1-0
+

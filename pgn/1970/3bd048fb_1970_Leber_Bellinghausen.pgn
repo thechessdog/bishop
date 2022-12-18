@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Leber, J."]
+[Black "Bellinghausen, H."]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit, Wurzburger trap"]
+[HashCode "3bd048fb"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Qh4+ 6. g3 Nxg3 7. Nf3 Qh5
+8. Nxd5 Nxh1 9. Nxc7+ Kd8 10. Nxa8 Be7 11. Bg2 Bh4+ 12. Kf1 Re8 13. d4 Nf2
+14. Qe1 Nc6 15. Nxh4 Qxh4 16. Qxf2 Qxf2+ 17. Kxf2 Nxd4 18. Bg5+ f6 19. exf6
+1-0
+

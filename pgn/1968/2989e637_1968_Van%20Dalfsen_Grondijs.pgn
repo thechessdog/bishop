@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Van Dalfsen, P."]
+[Black "Grondijs, H."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "2989e637"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+Be7 8. Qe2 c6 9. Bg5 O-O 10. O-O-O Qa5 11. Kb1 Bd7 12. Ne5 Rfd8 13. Bxh7+
+Kf8 14. Rd3 Nxh7 15. Qh5 Be8 16. Bxe7+ Kxe7 17. Nxc6+ bxc6 18. Qxa5 1-0
+

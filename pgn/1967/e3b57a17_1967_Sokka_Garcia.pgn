@@ -1,0 +1,16 @@
+[Event "Harrachov"]
+[Site "Harrachov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Sokka, Hannu"]
+[Black "Garcia, E."]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence (classical defence, modern defence[!])"]
+[HashCode "e3b57a17"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Qxd5 5. Nc3 Qh5 6. Be2 Nc6 7. d4 g5 8. d5
+Nb8 9. Qd4 f6 10. Ne4 Qg6 11. Bd3 Bf5 12. Bxf4 Bxe4 13. Bxe4 Qg7 14. Nxg5 Bc5
+15. Qxc5 fxg5 16. Qxc7 Qxc7 17. Bxc7 Na6 18. Be5 Nf6 19. Bxf6 O-O 20. O-O 1-0

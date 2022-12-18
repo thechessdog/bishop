@@ -1,0 +1,16 @@
+[Event "Halle"]
+[Site "Halle"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Grossner"]
+[Black "Budrich"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[HashCode "3f64b1ef"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ne2 e5 5. exd5 Qxd5 6. c4 Nb4 7. cxd5 Nd3#
+0-1
+

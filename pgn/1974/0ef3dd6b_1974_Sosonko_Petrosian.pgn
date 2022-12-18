@@ -1,0 +1,20 @@
+[Event "Nice olm fin-A"]
+[Site "Nice olm"]
+[Date "1974.06.01"]
+[Round "4"]
+[White "Sosonko, Gennadi"]
+[Black "Petrosian, Tigran"]
+[Result "1/2-1/2"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "0ef3dd6b"]
+[Epoch "Bishop"]
+[WhiteID "1000039"]
+[WhiteCountry "NED"]
+[BlackID "13300849"]
+[BlackCountry "GEO"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Qc2 c6 8. b3
+a5 9. Nbd2 b6 10. e4 Bb7 11. Bb2 Rc8 12. Rfe1 Qc7 13. Rad1 Rfd8 14. Qb1 Qb8 15.
+Ng5 dxc4 16. Nxc4 1/2-1/2

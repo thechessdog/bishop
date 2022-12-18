@@ -1,0 +1,24 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Holm, Sejer"]
+[Black "Kolbak, Jens"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Smyslov variation"]
+[HashCode "841e3eda"]
+[Epoch "Bishop"]
+[WhiteID "1400304"]
+[BlackID "1400339"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 O-O 6. Bd3 d5 7. O-O dxc4 8. Bxc4
+Qe7 9. Qc2 Nc6 10. a3 Ba5 11. dxc5 Qxc5 12. Be2 Bxc3 13. bxc3 e5 14. a4 Re8 15.
+Ba3 Qa5 16. Rab1 e4 17. Nd2 Qg5 18. Rb5 Qg6 19. Bd6 a6 20. Rb2 Bg4 21. Nc4 Bxe2
+22. Qxe2 Nd5 23. Rxb7 Red8 24. Qd2 Qe6 25. Rd1 Ndb4 26. Nb6 Nd3 27. Bc7 Rac8
+28. Bxd8 Rxd8 29. c4 Nce5 30. Rb1 Qg4 31. Kh1 h5 32. h3 Qh4 33. Rf1 Rd6 34. Nd5
+Nxc4 35. Qc3 Rxd5 36. Qxc4 Qg5 37. Qxe4 Rd8 38. Qe7 Qxe7 39. Rxe7 Kf8 40. Ra7
+Rd6 41. Kg1 Rc6 42. Rd1 Rc3 43. Rxa6 1-0

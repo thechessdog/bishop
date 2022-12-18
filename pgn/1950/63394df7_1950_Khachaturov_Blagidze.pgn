@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Khachaturov, Andre"]
+[Black "Blagidze, Alexander"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "63394df7"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 g6 7. h4 Bg7
+8. h5 O-O 9. hxg6 hxg6 10. Bh6 Bxh6 11. Rxh6 Qb6 12. Qc1 e5 13. Rh4 Nh7 14.
+Qh6 Ndf6 15. Ne4 Nh5 16. Nfg5 Qa5+ 17. c3 1-0
+

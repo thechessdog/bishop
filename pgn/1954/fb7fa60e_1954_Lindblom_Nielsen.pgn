@@ -1,0 +1,19 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Lindblom, Per"]
+[Black "Nielsen, Poul Erik"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "fb7fa60e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Rd8 14. d5 Bd7 15.
+Nf1 Rdc8 16. Ne3 g6 17. a4 Nh5 18. Bd2 Nf4 19. Nxe5 dxe5 20. d6 Qxd6 21. Bxa5
+Qxd1 22. Raxd1 Be6 23. Bc3 f6 24. Rb1 b4 25. Bd2 Kf7 26. b3 a5 27. Nc4 Bxc4 28.
+bxc4 Ne6 29. c5 Bxc5 30. Bb3 Ke7 31. Bd5 Ra7 32. Bc1 Bd4 33. Be3 Bxe3 34. fxe3
+Rc3 35. Kf2 Nc5 0-1

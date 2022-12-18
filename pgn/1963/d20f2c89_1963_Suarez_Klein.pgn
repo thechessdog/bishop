@@ -1,0 +1,20 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1963.01.01"]
+[Round "9"]
+[White "Suarez, JM."]
+[Black "Klein, Lawrence"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "d20f2c89"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bh4 b6 11. e4 Ba6 12. a4 Re8 13. Qf3 Qe7 14. Ne3 Bxf1 15.
+Rxf1 Nbd7 16. O-O-O a6 17. Qe2 b5 18. f3 c4 19. Nc2 Nc5 20. axb5 axb5 21. Nb4
+Rec8 22. Kc2 Nb3 23. f4 Qb7 24. e5 Ne8 25. Bg3 Nc7 26. f5 dxe5 27. fxg6 fxg6
+28. Qg4 Nd4+ 29. Kb1 Qa7 30. Rxd4 exd4 31. Nca2 Rf8 32. Rd1 Qc5 33. d6 Na6 34.
+Qe6+ Kh7 35. Nd5 Rae8 36. Ne7 Rf6 37. Qe4 c3 38. bxc3 dxc3 39. d7 Rxe7 40. Qc2
+Nb4 41. d8=Q Nxc2 0-1

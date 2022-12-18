@@ -1,0 +1,19 @@
+[Event "Dubrovnik olm"]
+[Site "Dubrovnik olm"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Castillo, Manuel"]
+[Black "Poulsen, C."]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "6de12f4e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Ne4 5. Qc2 f5 6. Bd3 d5 7. Nf3 O-O 8. a3
+Bxc3+ 9. bxc3 c6 10. a4 b6 11. Ba3 Re8 12. Ne5 Ba6 13. O-O Nd6 14. Qe2 Bxc4 15.
+Nxc4 Nxc4 16. Bxc4 dxc4 17. Qxc4 Qd5 18. Qd3 b5 19. f3 Nd7 20. e4 Qc4 21. Qxc4
+bxc4 22. Bd6 fxe4 23. fxe4 e5 24. Rab1 Re6 25. dxe5 Nxe5 26. Bxe5 Rxe5 27. Rb7
+Rf8 28. Rxf8+ Kxf8 29. Rxa7 Rxe4 30. Rc7 Re3 31. a5 Rxc3 32. a6 Rd3 33. a7 Rd8
+34. Rb7 1-0

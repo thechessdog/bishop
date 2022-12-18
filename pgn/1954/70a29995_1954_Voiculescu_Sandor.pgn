@@ -1,0 +1,20 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Voiculescu, Paul"]
+[Black "Sandor, Bela"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "70a29995"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. e3 g6 5. Bd3 Bg7 6. Nf3 O-O 7. Qd2 b6 8. O-O-O
+Bb7 9. h4 c5 10. Bxf6 Bxf6 11. h5 c4 12. Be2 e6 13. Ne5 Nd7 14. f4 a6 15. Bf3
+b5 16. g4 g5 17. h6 Rc8 18. a3 Be7 19. e4 Nb6 20. f5 b4 21. axb4 Bxb4 22. Qh2
+Bxc3 23. bxc3 dxe4 24. Bg2 f6 25. Ng6 Re8 26. Rdf1 Na4 27. Qh5 Nxc3 28. Ne5
+Ne2+ 29. Kd2 Qxd4+ 30. Kxe2 Qxe5 31. Rb1 Bd5 32. fxe6 Rxe6 33. Rhf1 c3 34. Rf5
+Qd4 35. Rxd5 Qxd5 36. Rd1 Qb5+ 37. Ke1 Qc5 38. Rd7 Re7 39. Rxe7 Qxe7 40. Bf1
+Qd6 0-1

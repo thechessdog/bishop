@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Norlin, Jorgen"]
+[Black "Bryntse, Arne"]
+[Result "1-0"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "4500892a"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8.
+b3 Qh5 9. Re1 Ne4 10. Nxe4 fxe4 11. Nd2 d5 12. e3 Qxd1 13. Rxd1 Na6 14. a3
+c5 15. Bb2 Bf6 16. Rab1 Bd7 17. Bc3 Rf7 18. Re1 cxd4 19. Bxd4 Raf8 20. f4
+b6 21. b4 Ba4 22. Rec1 Rc7 23. b5 Nc5 24. cxd5 exd5 25. Rb4 Rfc8 26. Bxc5
+Bd1 27. Rxd1 bxc5 28. Rbb1 c4 29. Bh3 Re8 30. Rdc1 c3 31. Kg2 d4 32. exd4
+g5 33. Bf5 gxf4 34. Nxe4 Bxd4 35. Rc2 1-0
+

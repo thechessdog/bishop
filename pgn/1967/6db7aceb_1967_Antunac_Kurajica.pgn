@@ -1,0 +1,21 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Antunac, Goran"]
+[Black "Kurajica, Bojan"]
+[Result "0-1"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "6db7aceb"]
+[Epoch "Bishop"]
+[WhiteID "14500264"]
+[BlackID "14400057"]
+[WhiteCountry "CRO"]
+[BlackCountry "BIH"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 e6 6. Be3 a6 7. Bd3 b5 8. O-O
+Bb7 9. Kh1 Nf6 10. a3 h5 11. f4 Ng4 12. Bg1 g5 13. Nxc6 dxc6 14. Bd4 f6 15. e5
+O-O-O 16. Bg1 c5 17. Qe1 f5 18. b3 gxf4 19. a4 Nxe5 20. Bxb5 axb5 21. Nxb5 Qg7
+0-1

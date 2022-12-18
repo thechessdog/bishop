@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Solondz"]
+[Black "Cammarata"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "c038cbce"]
+[Epoch "Bishop"]
+
+1. f4 c5 2. e3 g6 3. Nf3 Bg7 4. c4 e6 5. Nc3 b6 6. g3 Bb7 7. Bg2 Ne7 8. O-O
+O-O 9. d4 d6 10. e4 f5 11. e5 cxd4 12. Qxd4 dxe5 13. Qxd8 Rxd8 14. Nxe5
+Nbc6 15. Nxc6 Bxc6 16. Re1 Bxg2 17. Kxg2 Kf7 18. Nb5 Rac8 19. Re2 Rxc4 20.
+Nxa7 Rd1 0-1
+

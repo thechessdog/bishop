@@ -1,0 +1,15 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Petersen, Svend"]
+[Black "Olsen"]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[HashCode "3dc75b4a"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Bf5 4. cxd5 cxd5 5. Qb3 e6 6. Qxb7 Nd7 7. Bf4 Qc8
+8. Qb3 a6 9. Rc1 1-0
+

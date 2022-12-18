@@ -1,0 +1,21 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Mooy"]
+[Black "Bubenik, J."]
+[Result "1-0"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "a84e4cf6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. dxc5 f5 9. Nh3 Qa5 10. Nf2 Nc6 11. Qd2 O-O 12. c4 Ndb4 13. Rb1 Nc2+ 14.
+Kd1 Rd8 15. Nd3 N2d4 16. e3 Qa4+ 17. Ke1 Nc2+ 18. Kf2 f4 19. exf4 e5 20.
+Qc3 exf4 21. Bb2 N6d4 22. Nxf4 Qc6 23. Qa5 Bf5 24. Rd1 Rd7 25. Bxd4 Nxd4
+26. Nd5 Nb3 27. Qb5 Qxc5+ 28. Qxc5 Nxc5 29. Be2 Re8 30. Rhe1 Re6 31. Bf1
+Kf7 32. Rxe6 Bxe6 33. Nc3 Rxd1 34. Nxd1 Bf5 35. Ke3 Kf6 36. Nc3 g5 37. Nb5
+a6 38. Nd6 h6 39. Nxf5 Kxf5 40. Kd4 1-0
+

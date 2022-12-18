@@ -1,0 +1,20 @@
+[Event "Nykobing"]
+[Site "Nykobing"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Moller, Per"]
+[Black "Blom, Kaj"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "0a80d5e1"]
+[Epoch "Bishop"]
+[WhiteID "1421840"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. g3 a6 7. Bg2 Qc7 8. O-O
+Be7 9. Be3 O-O 10. Nxc6 bxc6 11. f4 d5 12. e5 Nd7 13. Qh5 Rb8 14. Nd1 f5 15. g4
+Bc5 16. gxf5 exf5 17. e6 g6 18. Qg5 Bxe3+ 19. Nxe3 Nc5 20. e7 Re8 21. c4 Qxe7
+22. Rae1 Qxg5 23. fxg5 Nd3 24. Re2 d4 0-1

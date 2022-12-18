@@ -1,0 +1,17 @@
+[Event "California"]
+[Site "California"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Smith, Daniel"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "0964d710"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qa4 Nf6 5. Nc3 d5 6. e5 d4 7. exf6 dxc3 8.
+Bb5 Qd5 9. Bxc6+ bxc6 10. Nf3 cxb2 11. Bxb2 gxf6 12. O-O Rg8 13. Ne1 Bh3 14. f3
+Bh6 15. Bd4 Bd7 16. Rd1 Be3+ 17. Kh1 c5 18. Bxe3 Qxd1 0-1

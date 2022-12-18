@@ -1,0 +1,25 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Nei, Iivo"]
+[Black "Bobotsov, Milko G"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "98d7a0b0"]
+[Epoch "Bishop"]
+[WhiteID "4500059"]
+[WhiteCountry "EST"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. Bb3
+b5 9. Re1 O-O 10. Bg5 Bb7 11. a4 b4 12. Na2 Nxe4 13. Bxe7 Qxe7 14. Nxb4 Qf6 15.
+f3 Nc5 16. c3 a5 17. Nd3 Nxb3 18. Qxb3 Bd5 19. Qd1 Na6 20. Nb5 Rfd8 21. Nf2
+Rac8 22. Ne4 Qe7 23. Kh1 Bxe4 24. Rxe4 d5 25. Rd4 Nc7 26. Na7 Ne8 27. Nxc8 Rxc8
+28. Qe2 Qc5 29. Rdd1 Nd6 30. Rab1 Qc6 31. Ra1 h5 32. Rdc1 h4 33. Qf2 Nf5 34.
+Re1 Qb7 35. g4 hxg3 36. hxg3 g5 37. g4 Nh4 38. Re5 d4 39. Rxg5+ Kf8 40. Rh5
+Nxf3 41. Rh8+ Ke7 42. Rxc8 Ng5+ 43. Kh2 Qxc8 44. Qf4 Qh8+ 45. Kg2 Qa8+ 46. Kg3
+Ne4+ 47. Kh2 d3 48. Rf1 f6 49. g5 f5 50. Qc7+ Kf8 51. g6 Qe8 52. Qh7 Qb8+ 53.
+Kh1 1-0

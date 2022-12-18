@@ -1,0 +1,20 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "19"]
+[White "Boey, Josef"]
+[Black "Kaplan, Julio"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "52cac446"]
+[Epoch "Bishop"]
+[WhiteID "200093"]
+[WhiteCountry "BEL"]
+[BlackID "2000326"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ke8 10. Ne4 Be6 11. b3 Bd5 12. Re1 h6 13. c4 Bxe4 14. Rxe4
+Rd8 1/2-1/2

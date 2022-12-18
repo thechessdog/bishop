@@ -1,0 +1,31 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1969.12.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Farago, Ivan"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "bae8668e"]
+[Epoch "Bishop"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. O-O-O h5 7. Qh4 Be7 8.
+Bg5 Qe5 9. Bxe7 Nxe7 10. Nxe4 Nbc6 11. Nf3 Qa5 12. Bc4 Bd7 13. Neg5 Qf5 14. Nd4
+Nxd4 15. Qxd4 O-O-O 16. h4 Nc6 17. Qe3 Rhf8 18. Rhe1 Qa5 19. a3 Ne7 20. Nxf7
+Rxf7 21. Bxe6 Nf5 22. Qe4 Nh6 23. Rd5 Qb6 24. Red1 c6 25. Rd6 Re7 26. Qg6 Qc7
+27. Bh3 Ng4 28. f3 Nf6 29. c4 Rg8 30. Rxf6 Bxh3 31. gxh3 Rd8 32. Qf5+ Kb8 33.
+Rxd8+ Qxd8 34. Rf8 Re8 35. Rxe8 Qxe8 36. Kd2 Qd8+ 37. Kc3 Qe7 38. f4 Qe3+ 39.
+Kc2 Qf2+ 40. Kb3 Qf3+ 41. Kb4 a6 42. Qe5+ Ka7 43. Qd4+ Ka8 44. Kc5 Qxh3 45. Kb6
+Qc8 46. Qd6 Qe8 47. b4 g6 48. Qc7 Qb8 49. Qxb8+ Kxb8 50. a4 Kc8 51. b5 axb5 52.
+axb5 cxb5 53. cxb5 Kb8 54. Kc5 Ka7 55. Kd6 Kb6 56. Ke6 Kxb5 57. Kf6 Kc6 58.
+Kxg6 b5 59. f5 b4 60. f6 b3 61. f7 b2 62. f8=Q b1=Q+ 63. Kxh5 Qd1+ 64. Kh6 Qd2+
+65. Kg7 Qg2+ 66. Kh8 Qh3 67. Qe8+ Kd6 68. h5 Qc3+ 69. Kg8 Qc4+ 70. Qf7 Qh4 71.
+Kg7 Ke5 72. Qe8+ Kf5 73. Qd7+ Ke5 74. h6 Qf6+ 75. Kh7 Qh4 76. Qg7+ Ke6 77. Kh8
+Qh5 78. h7 Qh1 79. Qg6+ Ke7 80. Qg5+ Kf7 81. Qf5+ Ke7 82. Qe5+ Kf7 83. Qf5+ Ke7
+84. Kg7 Qg2+ 85. Kh6 Qh1+ 86. Kg6 Qc6+ 87. Kg7 Qg2+ 88. Kh6 Qh1+ 89. Kg5 Qg2+
+90. Qg4 Qd5+ 91. Kh6 Qh1+ 92. Kg6 Qb1+ 93. Qf5 Qb6+ 94. Kh5 Qb2 95. Qc5+ Kf7
+96. Qc7+ 1-0

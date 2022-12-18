@@ -1,0 +1,17 @@
+[Event "corr BDGW"]
+[Site "corr BDGW"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Smook, R."]
+[Black "Tordion, M."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "f5d6d0ab"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nc6 9. Bf4 Nb4 10. Qh4 c6 11. Bh6 Nxc2 12. Rad1 Bxh6 13. Qxh6 Ng4
+14. Qh4 Kg7 15. Ng5 Nh6 16. Bxf7 Qa5 17. Bb3 Rxf1+ 18. Rxf1 Ne3 19. Rf7+
+Nxf7 20. Qxh7+ Kf6 21. Nce4+ Kf5 22. Qxf7+ Kg4 23. Qf3+ Kh4 24. g3# 1-0
+

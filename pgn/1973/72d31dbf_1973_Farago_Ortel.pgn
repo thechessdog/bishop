@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Farago"]
+[Black "Ortel"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "72d31dbf"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O cxd4 8.
+exd4 dxc4 9. Bxc4 b6 10. Bg5 Bb7 11. Ne5 Be7 12. Qe2 h6 13. Nxf7 Kxf7 14.
+Qxe6+ Ke8 15. Bb5+ Nbd7 16. Bd3 Qc7 17. Rfe1 Nb8 18. Bb5+ Kd8 19. Bf4 Qxf4
+20. Qxe7+ Kc8 21. Qxf8+ Kc7 22. Re7+ 1-0
+

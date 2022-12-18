@@ -1,0 +1,19 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Beisser, G."]
+[Black "Peric, St"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, 6.Be2"]
+[HashCode "c79bbbd9"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. f4 c5 7. d5 e6 8. dxe6
+fxe6 9. Be3 Qa5 10. Qd2 Nc6 11. g4 Nd4 12. O-O-O a6 13. g5 Ne8 14. Bd3 b5
+15. cxb5 axb5 16. Bb1 b4 17. Nce2 Nb5 18. Rf1 c4 19. Nd4 c3 20. Qf2 cxb2+
+21. Qxb2 Qc7+ 22. Kd1 Qc4 23. Nge2 Nc3+ 24. Ke1 Bxd4 25. Nxd4 Nxb1 26. Qxb1
+Rxa2 27. Qc1 Qa6 28. Qd1 Ra1 29. Bc1 Qc4 0-1
+

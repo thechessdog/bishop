@@ -1,0 +1,17 @@
+[Event "Rhyl ch-BCF"]
+[Site "Rhyl ch-BCF"]
+[Date "1969.08.01"]
+[Round "1"]
+[White "Cafferty, Bernard"]
+[Black "Jamieson, Peter Michael"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[HashCode "189d4261"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Nf3 Nc6 6. e5 dxe5 7. Nxe5 Nxe5 8.
+dxe5 Qxd1+ 9. Nxd1 Ne4 10. f4 f6 11. exf6 exf6 12. O-O f5 13. Re1 Bd7 14. Be3
+Bc6 15. Be6 Rd8 16. c3 Rd6 17. Bb3 Kd7 18. Nf2 b6 19. Rad1 Re8 20. Nxe4 Bxe4
+21. Ba4+ c6 22. Rxd6+ 1/2-1/2

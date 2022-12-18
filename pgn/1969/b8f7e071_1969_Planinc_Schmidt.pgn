@@ -1,0 +1,19 @@
+[Event "Cacak"]
+[Site "Cacak"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Planinc, Albin"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "b8f7e071"]
+[Epoch "Bishop"]
+[WhiteCountry "SVN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. f4 a6 7. Be3 b5 8. Nxc6
+Qxc6 9. Be2 Ba3 10. Bd4 Bxb2 11. Nxb5 Bxa1 12. Bxa1 axb5 13. Bxg7 Qxe4 14. O-O
+Rxa2 15. Bd3 Qe3+ 16. Kh1 Bb7 17. Bxh8 Nh6 18. Bxb5 Bd5 19. Bg7 Nf5 20. Bf6 Qe4
+21. Qg4 Nh6 22. Qg7 Qg6 23. Rf2 Qxg7 24. Bxg7 Ng4 25. Rd2 f6 26. Kg1 Ra1+ 27.
+Bf1 Bc4 0-1

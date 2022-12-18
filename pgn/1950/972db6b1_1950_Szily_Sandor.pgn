@@ -1,0 +1,18 @@
+[Event "HUN-ch06"]
+[Site "Budapest"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Szily, Jozsef"]
+[Black "Sandor, Bela"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "972db6b1"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. a4 Qa5 8. Bd2
+c4 9. Nf3 h6 10. Qb1 Nd7 11. Qb4 Nc6 12. Qa3 Nb6 13. Be2 Ne7 14. O-O Bd7 15.
+Rfb1 Rc8 16. Ne1 Rc7 1/2-1/2

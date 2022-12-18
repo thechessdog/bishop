@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Budapest"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Polgar, Istvan"]
+[Black "Sax, Gyula"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "4fc9cc9e"]
+[Epoch "Bishop"]
+[WhiteID "700215"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O d6 5. c3 Bd7 6. d4 Bb6 7. Na3 Nge7 8. Nc4
+O-O 9. a4 exd4 10. cxd4 Bg4 11. Nxb6 axb6 12. Ra3 d5 13. Re1 dxe4 14. Rxe4 Bf5
+15. Re1 Ng6 16. Rc3 Qd6 17. h3 Nb4 18. Ne5 Be6 19. b3 Na2 20. Rce3 Nxc1 21.
+Qxc1 Nh4 22. Bc4 Bd5 23. Bxd5 Qxd5 24. Re4 Nxg2 25. Rg4 Nxe1 26. Rxg7+ Kh8 27.
+Qh6 Qe4 28. Rg4 Qg6 29. Rxg6 Nf3+ 30. Nxf3 1-0

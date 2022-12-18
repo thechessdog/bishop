@@ -1,0 +1,17 @@
+[Event "Pardubice"]
+[Site "Pardubice"]
+[Date "1965.01.01"]
+[Round "15"]
+[White "Machacek, Petr"]
+[Black "Janata, Michael"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "67372cdc"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. O-O Bd6 7. b3 O-O 8. Bb2
+Nbd7 9. Nbd2 Qe7 10. Ne5 c5 11. f4 Ne4 12. Rf3 Bxe5 13. fxe5 Nxd2 14. Bxh7+
+Kxh7 15. Rh3+ Kg8 16. Qh5 f5 17. cxd5 Bxd5 18. dxc5 Ne4 19. c6 Bxc6 20. Rd1 Qg5
+21. Qe2 Qg4 22. Qe1 Nf2 0-1

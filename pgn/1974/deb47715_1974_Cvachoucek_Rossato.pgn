@@ -1,0 +1,19 @@
+[Event "corr WER/C"]
+[Site "corr WER/C"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Cvachoucek, F."]
+[Black "Rossato, G."]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "deb47715"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Bd7 8.
+Qf3 Nc6 9. O-O-O Nxd4 10. Rxd4 Bc6 11. Be2 Be7 12. Rhd1 Qa5 13. Qe3 Qb6 14.
+e5 Ng8 15. Qg3 dxe5 16. fxe5 Bxg5+ 17. Qxg5 g6 18. Bf3 Ne7 19. Bxc6+ Qxc6
+20. Rd6 Qc4 21. Qf6 Rf8 22. Rd7 Nc6 23. R1d6 Qc5 24. Ne2 Qe3+ 25. Kd1 Qc5
+26. Nd4 a5 27. Nxc6 1-0
+

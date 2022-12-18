@@ -1,0 +1,17 @@
+[Event "corr FRG-PK"]
+[Site "corr FRG-PK"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Thuener, E."]
+[Black "Auth"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "ff911d64"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 Nbd7 7. O-O c5 8.
+d5 Qc7 9. Qe1 a6 10. a4 b6 11. Qh4 Re8 12. Bd2 e6 13. Bc4 exd5 14. Nxd5 Qc6
+15. Ng5 Nxe4 16. Rae1 Bd4+ 17. Kh1 1-0
+

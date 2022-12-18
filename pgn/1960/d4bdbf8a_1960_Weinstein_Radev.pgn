@@ -1,0 +1,17 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "15"]
+[White "Weinstein, Raymond Allen"]
+[Black "Radev, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "d4bdbf8a"]
+[Epoch "Bishop"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 a6 8. a4
+Nbd7 9. e4 Bg7 10. Be2 O-O 11. O-O Re8 12. f4 Qc7 13. Bd3 Rb8 14. Qf3 Nb6 15.
+h3 1/2-1/2

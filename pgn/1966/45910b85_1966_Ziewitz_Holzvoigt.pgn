@@ -1,0 +1,20 @@
+[Event "corr ch10-BRD"]
+[Site "corr ch10-BRD"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Ziewitz, H."]
+[Black "Holzvoigt, G."]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "45910b85"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 c5 6. Bd3 d5 7. O-O dxc4 8.
+Bxc4 b6 9. Qe2 Bb7 10. Rd1 Qc8 11. Bd2 cxd4 12. Nxd4 Nc6 13. Nf3 Qb8 14. a3
+Be7 15. Rac1 Ng4 16. h3 Nge5 17. Nxe5 Nxe5 18. Ba2 Ng6 19. Nb5 Nh4 20. e4
+Qe5 21. Rc7 Ba6 22. Bc3 Bxb5 23. Qg4 h5 24. Bxe5 hxg4 25. Rxe7 Ng6 26. Bd6
+Nxe7 27. Bxe7 Rfe8 28. Bb4 gxh3 29. gxh3 Red8 30. Re1 Rd3 31. Kg2 Rc8 32.
+Bb1 Rb3 0-1
+

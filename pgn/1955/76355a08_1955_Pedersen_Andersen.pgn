@@ -1,0 +1,23 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Pedersen, Henry"]
+[Black "Andersen, Richard"]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "76355a08"]
+[Epoch "Bishop"]
+[WhiteID "1429205"]
+[BlackID "1522558"]
+[WhiteCountry "DEN"]
+[BlackCountry "NOR"]
+
+1. d4 d5 2. c4 Bf5 3. Nf3 e6 4. Nc3 c6 5. e3 Nf6 6. Nh4 Bg6 7. Nxg6 hxg6 8. a3
+Bd6 9. g3 Nbd7 10. cxd5 exd5 11. Bg2 Nb6 12. O-O Qe7 13. e4 dxe4 14. Bg5 O-O-O
+15. Nxe4 Be5 16. dxe5 Rxd1 17. Raxd1 Nbd5 18. Rxd5 cxd5 19. exf6 gxf6 20. Rc1+
+Kb8 21. Bxf6 Qe6 22. Nc5 Rc8 23. Be5+ Ka8 24. Nxe6 Rxc1+ 25. Bf1 fxe6 26. f4
+Rd1 27. Kf2 Rd2+ 28. Ke3 Rxh2 29. Bd3 Rh6 30. g4 b6 31. g5 Rh3+ 32. Kd4 Kb7 33.
+Bxg6 Kc8 34. Bf7 1-0

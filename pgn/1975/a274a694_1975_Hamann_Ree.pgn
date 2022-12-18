@@ -1,0 +1,22 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1975.07.01"]
+[Round "4"]
+[White "Hamann, Svend"]
+[Black "Ree, Hans"]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "closed Berlin defence, Showalter variation"]
+[HashCode "a274a694"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+[BlackID "1000098"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 Be7 7. Bxc6 Bxc6 8.
+Qd3 exd4 9. Nxd4 Bd7 10. b3 O-O 11. Bb2 Re8 12. Rae1 Bf8 13. f4 g6 14. e5 Ng4
+15. Ne4 dxe5 16. h3 Nf6 17. fxe5 Nxe4 18. Qxe4 Bc5 19. Qd5 Bxd4+ 20. Bxd4 Be6
+21. Qe4 Qd5 22. Qf4 Rad8 23. Bf2 b6 24. Kh2 Rd7 25. Bh4 Qc5 26. Bf6 Rd4 27. Qg5
+a5 28. Rd1 Rxd1 29. Rxd1 h5 30. Rd4 Rc8 31. Qh6 Qf8 32. Qh8# 1-0

@@ -1,0 +1,21 @@
+[Event "Harrachov"]
+[Site "Harrachov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Sorri, Kari Juhani"]
+[Black "Arnaudov, Petar"]
+[Result "0-1"]
+[ECO "B34"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation"]
+[HashCode "3a0f7ae2"]
+[Epoch "Bishop"]
+[WhiteID "500216"]
+[WhiteCountry "FIN"]
+[BlackID "2901706"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. f3 d6 8. Qd2
+O-O 9. h4 d5 10. Nxc6 bxc6 11. O-O-O Be6 12. e5 Nd7 13. Bh6 Bxe5 14. Bxf8 Qxf8
+15. f4 Bf6 16. g3 Rb8 17. Bh3 Bxh3 18. Rxh3 e6 19. a3 Nb6 20. Qd3 Nc4 21. b4
+Rxb4 22. axb4 Qxb4 23. Rd2 Bxc3 24. Rf2 0-1

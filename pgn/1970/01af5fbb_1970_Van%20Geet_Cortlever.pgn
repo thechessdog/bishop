@@ -1,0 +1,17 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "7"]
+[White "Van Geet, Dirk Daniel"]
+[Black "Cortlever, Nicolaas"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "01af5fbb"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "NLD"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 Nf6 4. Nxf6+ gxf6 5. b3 Qd5 6. Bb2 Bf5 7. Be2 Rg8
+8. Bf3 Be4 9. Qe2 f5 10. O-O-O Nc6 11. Bxe4 fxe4 12. f3 exf3 13. Nxf3 O-O-O 14.
+Rhf1 e5 1/2-1/2

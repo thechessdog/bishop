@@ -1,0 +1,16 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Hrdy, A."]
+[Black "Haberditz, H."]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "b6b38e79"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 Nc6 3. e3 e5 4. dxe5 d4 5. a3 Bf5 6. Bd3 dxe3 7. Bxf5 exf2+
+8. Ke2 Qxd1+ 0-1
+

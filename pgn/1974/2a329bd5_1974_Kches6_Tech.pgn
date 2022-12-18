@@ -1,0 +1,19 @@
+[Event "ACM San Diego"]
+[Site "ACM San Diego"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kches6"]
+[Black "Tech II"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Lolli attack"]
+[HashCode "2a329bd5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. d4 exd4 7. Qf3 Be6
+8. Nxe6 fxe6 9. Qe4 Bb4+ 10. c3 dxc3 11. bxc3 Nxc3 12. Qg4 Nxb1+ 13. Ke2
+Nd4+ 14. Ke3 Nc2+ 15. Ke2 Nc3+ 16. Kf3 Nxa1 17. Bg5 O-O+ 18. Kg3 Ne4+ 19.
+Qxe4 Qxg5+ 20. Kh3 Qh5+ 21. Kg3 Bd6+ 22. f4 Qg5+ 23. Kh3 Qh6+ 24. Kg4 Rxf4+
+0-1
+

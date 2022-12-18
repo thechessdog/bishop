@@ -1,0 +1,19 @@
+[Event "Hollywood"]
+[Site "Hollywood"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Piatigorsky, G."]
+[Black "Johnson"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "956c47bb"]
+[Epoch "Bishop"]
+[BlackID "25736477"]
+[BlackCountry "IND"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 Bxc3+ 7. bxc3
+bxc6 8. Bd3 Qe7 9. O-O O-O 10. Bg5 Qe5 11. f4 Qxc3 12. e5 Nd5 13. Qh5 g6 14.
+Qh6 Re8 15. f5 Qc5+ 16. Kh1 Qf8 17. fxg6 hxg6 18. Qh4 Qg7 19. Rf3 Rxe5 20. Bh6
+Qh8 21. Qd8+ Kh7 22. Rxf7+ 1-0

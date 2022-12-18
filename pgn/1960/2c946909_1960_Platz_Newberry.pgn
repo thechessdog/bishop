@@ -1,0 +1,18 @@
+[Event "New Haven"]
+[Site "New Haven"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Newberry, W."]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Nimzovich variation"]
+[HashCode "2c946909"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d5 5. Bb5 dxe4 6. Nc3 Bd7 7. Nxc6 bxc6
+8. Ba4 f5 9. Be3 e5 10. Qe2 Qa5 11. a3 Nf6 12. Qc4 Rc8 13. b4 Qc7 14. Bb3 Nd5
+15. Nxd5 cxd5 16. Qxd5 Qc3+ 17. Ke2 f4 18. Rhd1 Rc7 19. Qf7+ Kd8 20. Ba4 Be7
+21. Qe6 Qxa1 22. Rxd7+ 1-0

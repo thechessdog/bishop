@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Abramovich Furman, Semyon"]
+[Black "Blagidze, Alexander"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "7127669f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O a6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 b5 11. Be2 c4 12. Ne1 Bb7 13. f3 Nd5 14. Qc2 Nc6 15.
+e4 Nb6 16. Bb2 Na5 17. Rd1 f5 18. g3 Ra7 19. Ng2 Qa8 20. Nf4 Qe8 21. Bc1 fxe4
+22. fxe4 e5 23. dxe5 Qxe5 24. Bf3 Na4 25. Be3 Raa8 26. Bd4 Qe7 27. Nd5 Qxa3 28.
+Nc7 Rac8 29. Ne6 Rf7 30. Bh5 Rxf1+ 31. Rxf1 g6 32. Bxg6 hxg6 33. e5 Kh7 34.
+Rf7+ Kh8 35. Qxg6 Qc1+ 36. Rf1 1-0

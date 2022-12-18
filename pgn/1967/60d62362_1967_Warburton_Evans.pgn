@@ -1,0 +1,18 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Warburton"]
+[Black "Evans"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "60d62362"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qc7 4. c3 a6 5. Ba4 b5 6. Bc2 Bb7 7. O-O Nf6 8.
+Re1 d6 9. d4 cxd4 10. cxd4 Nb4 11. Bb3 Bxe4 12. Nc3 Bg6 13. a4 bxa4 14.
+Bxa4+ Kd8 15. d5 Qb7 16. Nd4 e5 17. dxe6 d5 18. Nc6+ Nxc6 19. Nxd5 Nd7 20.
+Nb6 1-0
+

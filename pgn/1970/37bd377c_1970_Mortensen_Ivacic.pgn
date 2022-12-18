@@ -1,0 +1,20 @@
+[Event "Rasmus mem"]
+[Site "Randers"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "Mortensen, Steen Juul"]
+[Black "Ivacic, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "37bd377c"]
+[Epoch "Bishop"]
+[WhiteID "1408143"]
+[BlackID "14600307"]
+[WhiteCountry "DEN"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. b4 c6 7. Bd2 Ne4 8. Qb3
+Nxd2 9. Nxd2 e5 10. dxe5 dxc4 11. Bxc4 Bxe5 12. Nf3 Bg7 13. Rd1 Qe7 14. Nd4 Nd7
+15. b5 Nc5 16. Qc2 Be6 17. Nxe6 Nxe6 18. O-O Rfd8 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr Finland"]
+[Site "corr Finland"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Ahtianen"]
+[Black "Nieminen"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "8f802130"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nd2 d5 6. exd6 Bf5 7. Nf3 Nc6
+8. dxc7 Qxc7 9. Qa4 O-O-O 10. a3 Bxd2+ 11. Bxd2 Nxd2 12. Nxd2 Rxd2 13. Kxd2
+Qe5 14. Qb3 Rd8+ 15. Kc1 Na5 16. Qf3 Be4 17. Qe3 Qd6 18. b4 Qd1+ 19. Kb2
+Qc2# 0-1
+

@@ -1,0 +1,17 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Bergdahl, Arne"]
+[Black "Bryntse, Arne"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "d2a0b935"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Nxc3
+8. bxc3 Ba5 9. Qg4 O-O 10. Bd3 d5 11. Kf1 f5 12. Qe2 a6 13. Rb1 Qc7 14. Rb3
+Nc6 15. f4 Bd7 16. Nf3 Rfc8 17. g4 Ne7 0-1
+

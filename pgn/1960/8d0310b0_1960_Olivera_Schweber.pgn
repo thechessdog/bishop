@@ -1,0 +1,22 @@
+[Event "Atlantida"]
+[Site "Atlantida"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Olivera, Alfredo"]
+[Black "Schweber, Samuel"]
+[Result "0-1"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "8d0310b0"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+[WhiteCountry "URY"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 a5 7. Bb2 a4 8. c4
+Nfd7 9. Nbd2 e5 10. dxe5 dxe5 11. Ne4 Qe7 12. Qc1 a3 13. Bc3 Nc6 14. Bd2 Nd4
+15. Nc3 c6 16. Bh6 Nxf3+ 17. Bxf3 f5 18. Bxg7 Kxg7 19. e4 f4 20. Qd2 Nc5 21.
+Rad1 Bh3 22. Bg2 Bxg2 23. Kxg2 Rad8 24. Qc1 f3+ 25. Kh1 Nd3 26. Qe3 Qd7 27. Rg1
+Qd4 28. Qxd4 Rxd4 29. Rgf1 Rfd8 30. Kg1 Nc5 31. Rxd4 exd4 32. Nb1 Nxe4 33. Re1
+d3 34. Rxe4 d2 35. Nxd2 Rxd2 36. h4 Rxa2 37. Re7+ Kf6 38. Rxb7 Rb2 39. Ra7 a2
+40. Kh2 Rxf2+ 41. Kh3 Rb2 0-1

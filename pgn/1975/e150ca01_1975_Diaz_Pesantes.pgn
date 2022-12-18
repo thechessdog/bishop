@@ -1,0 +1,24 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1975.01.01"]
+[Round "10"]
+[White "Diaz, Joaquin, Dr."]
+[Black "Pesantes, Carlos"]
+[Result "0-1"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...Nc6"]
+[HashCode "e150ca01"]
+[Epoch "Bishop"]
+[WhiteID "4663349"]
+[WhiteCountry "GER"]
+[BlackID "3800067"]
+[BlackCountry "PER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Nd8 14. a4 Rb8 15. axb5
+axb5 16. b4 Nb7 17. Nf1 Bd7 18. Be3 Rfc8 19. Bd3 Ra8 20. Qe2 c4 21. Bc2 Ne8 22.
+N3h2 Qd8 23. Nf3 g6 24. Bh6 Nc7 25. Ng3 Rxa1 26. Rxa1 Ra8 27. Rxa8 Qxa8 28. Bg5
+Bxg5 29. Nxg5 Qa1+ 30. Kh2 Qxc3 31. Nf5 Bxf5 32. exf5 Qd4 33. Nxh7 Kxh7 34.
+fxg6+ Kg7 35. gxf7 Nd8 36. Be4 Nxf7 37. h4 Ne8 38. Qg4+ Kf8 39. Qf5 Qd2 40. g3
+Qxb4 41. Bf3 Qd2 42. Bh5 Qxd5 0-1

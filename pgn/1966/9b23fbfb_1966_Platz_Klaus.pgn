@@ -1,0 +1,17 @@
+[Event "Connecticut"]
+[Site "Connecticut"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Platz"]
+[Black "Klaus"]
+[Result "1-0"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer"]
+[HashCode "9b23fbfb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Qa5 7. Bxf6
+gxf6 8. Bb5 Bd7 9. Nb3 Qd8 10. Qh5 Bg7 11. Rd1 a6 12. Be2 O-O 13. O-O Kh8
+14. f4 Rc8 15. a3 Be6 16. Nd5 Bxd5 17. exd5 1-0
+

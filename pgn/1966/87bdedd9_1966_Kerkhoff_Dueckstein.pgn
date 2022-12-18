@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1966.??.??"]
+[Round "7"]
+[White "Kerkhoff, Leo J"]
+[Black "Dueckstein, Andreas"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "87bdedd9"]
+[Epoch "Bishop"]
+[BlackID "1600168"]
+[BlackCountry "AUT"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Be2 Bd7 8. Nbd2 Na5
+9. O-O Ne7 10. Rb1 Ng6 11. g3 f6 12. b4 cxb3 13. c4 fxe5 14. cxd5 exd5 15. Nxe5
+Nxe5 16. dxe5 Bf5 17. Rxb3 Nxb3 18. Nxb3 a6 19. Be3 Qd8 20. Nd4 Bh3 21. Bb5+
+axb5 22. Qh5+ g6 23. Qxh3 Qd7 24. e6 Qe7 25. Rc1 Bg7 26. Nf5 Qf6 27. Nd6+ Ke7
+28. Rc7+ Kxd6 29. Bf4+ Qxf4 30. Rd7+ Kc6 31. gxf4 Bd4 32. Qf3 1-0

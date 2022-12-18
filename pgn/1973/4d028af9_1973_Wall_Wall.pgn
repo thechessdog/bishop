@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Wall, Steven"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Blackburne variation"]
+[HashCode "4d028af9"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Qf3 cxb5 9. Qxa8 Nb7 10. Qxa7 Ng4 11. d3 Bc5 12. Qa8 Bxf2+ 13. Ke2 Ne3 14. Bxe3
+Bg4+ 0-1

@@ -1,0 +1,20 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Golombek, Harry"]
+[Black "Bolbochan, Julio"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "26377a79"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nbd7 8. Re1
+c6 9. Bf1 Re8 10. b3 exd4 11. Nxd4 Ng4 12. Qxg4 Bxd4 13. Bb2 Nc5 14. Qf3 h5 15.
+h3 Be5 16. Rad1 Qg5 17. b4 Ne6 18. Na4 Nf4 19. Bxe5 Nxh3+ 20. Kh2 Qxe5+ 21. Qg3
+Nxf2 22. Qxe5 dxe5 23. Rd6 Kf8 24. Kg3 Ng4 25. b5 Ke7 26. c5 Bd7 27. Nc3 Red8
+28. Bc4 Be8 29. bxc6 bxc6 30. Rxd8 Kxd8 31. Be2 Nf6 32. Rb1 Nd7 0-1

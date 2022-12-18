@@ -1,0 +1,25 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1955.01.01"]
+[Round "13"]
+[White "Karaklajic, Nikola"]
+[Black "Bogdanovic, Rajko"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "91cd66d1"]
+[Epoch "Bishop"]
+[BlackID "14400316"]
+[BlackCountry "BIH"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bd3 O-O 10. O-O exf4 11. a5 Ne5 12. Bxf4 Bg4 13. Be2 Re8 14. Kh1 Ng6 15.
+Be3 Bf8 16. Bg5 h6 17. Bxf6 Qxf6 18. Nd5 Qd8 19. Nd2 Be6 20. Nb6 Rb8 21. Bc4
+Bxc4 22. Ndxc4 Ne5 23. Qd5 Qc7 24. Rad1 Nxc4 25. Nxc4 Re6 26. Rf3 Be7 27. b3
+Bf6 28. Rfd3 Be5 29. g3 Rbe8 30. R1d2 R8e7 31. Kg2 g6 32. Rf2 Bg7 33. Rdf3 Rxe4
+34. Rxf7 Rxf7 35. Rxf7 Qxf7 36. Qxf7+ Kxf7 37. Nxd6+ Ke6 38. Nxe4 Kd5 39. Kf3
+Be5 40. Ke3 Bc7 41. c4+ Kc6 42. b4 h5 43. h3 Bd8 44. Kd4 Be7 45. c5 Bf8 46. Kc4
+Bg7 47. Nc3 Be5 48. Ne2 g5 49. g4 hxg4 50. hxg4 Bc7 51. Nd4+ Kd7 52. Nf3 Bf4
+53. b5 1-0

@@ -1,0 +1,18 @@
+[Event "Tiumen"]
+[Site "Tiumen"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Gavrikov, Viktor"]
+[Black "Estrin, Yakov Borisovich"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "ed01f6cb"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Nf3 Nc6 9. O-O cxd4 10. cxd4 O-O 11. Be3 Bg4 12. e5 e6 13. Qd2 Bxf3 14. gxf3
+Qh4 15. Rac1 Rfd8 16. f4 g5 17. d5 exd5 18. Bxd5 Ne7 19. Rc5 Nxd5 20. Qe2 gxf4
+21. Bd4 f3 22. Qxf3 Qxd4 0-1

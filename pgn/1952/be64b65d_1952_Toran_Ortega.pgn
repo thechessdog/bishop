@@ -1,0 +1,22 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Toran, Roman"]
+[Black "Ortega, Rogelio"]
+[Result "1-0"]
+[ECO "A95"]
+[Opening "Dutch"]
+[Variation "stonewall with Nc3"]
+[HashCode "be64b65d"]
+[Epoch "Bishop"]
+[WhiteCountry "EST"]
+[BlackCountry "CUB"]
+
+1. Nf3 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. d4 d5 7. Nc3 c6 8. Qc2
+Ne4 9. b3 Nd7 10. Bb2 Ndf6 11. Ne5 Qe8 12. f3 Nxc3 13. Bxc3 Qh5 14. e4 Bd6 15.
+exd5 exd5 16. Rae1 Re8 17. Re2 Be6 18. Rfe1 Bf7 19. c5 Bc7 20. b4 a6 21. Bd2
+Re6 22. Bf4 Bxe5 23. Bxe5 Nd7 24. Qd2 Rae8 25. Qf4 Nf8 26. Qd2 Rh6 27. h3 Ne6
+28. Bf4 g5 29. Be5 Rg6 30. g4 fxg4 31. fxg4 Qh6 32. Rf2 Re7 33. Ref1 Be8 34. a4
+Rf7 35. b5 axb5 36. axb5 Nf8 37. Rxf7 Bxf7 38. Qa5 Be8 39. Qa8 Re6 40. Qxb7 Ng6
+41. bxc6 Nf4 42. Rxf4 Rxe5 43. dxe5 gxf4 44. Bxd5+ Kf8 45. Qb8 1-0

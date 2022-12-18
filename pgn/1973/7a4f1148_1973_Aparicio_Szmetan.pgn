@@ -1,0 +1,21 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1973.01.01"]
+[Round "10"]
+[White "Aparicio, Anibal"]
+[Black "Szmetan, Jorge"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "7a4f1148"]
+[Epoch "Bishop"]
+[WhiteID "101133"]
+[BlackID "100366"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 Bb7 12. Qg3 O-O-O 13. Bxf6 Nxf6 14. a3 g6
+15. Kb1 Kb8 16. Qf2 Qb6 17. Be2 Rc8 18. Bf3 Rc4 19. Qd2 Rd8 20. b3 Rc7 21. Kb2
+Rdc8 0-1

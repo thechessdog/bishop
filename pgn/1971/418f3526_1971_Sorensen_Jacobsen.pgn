@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Sorensen, Dick"]
+[Black "Jacobsen, Erik Holm"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "418f3526"]
+[Epoch "Bishop"]
+[WhiteID "1427962"]
+[BlackID "1416340"]
+[WhiteCountry "DEN"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 h5 7. d4 Be7 8. Ng2
+Nf6 9. Nf4 h4 10. Rg1 Nc6 11. e3 Ne4 12. Bd3 Ng5 13. Be2 hxg3 14. hxg3 f5 15.
+Nd2 Nxd4 16. exd4 Qxd4 17. Rg2 Qe3 18. Rf2 Bc5 19. Nd3 Ne4 20. Nf3 Rh1+ 21. Rf1
+Qf2+ 22. Nxf2 Bxf2# 0-1

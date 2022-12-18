@@ -1,0 +1,19 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Simm, B."]
+[Black "Kermeen, R."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "fd44dcf9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Bd3 Nc6 8.
+Nf3 Qc7 9. O-O Be7 10. Qe1 Bd7 11. a3 O-O 12. e5 Ne8 13. Qg3 g6 14. Ne4 d5
+15. Neg5 Bc5+ 16. Kh1 Ne7 17. Nxh7 Kxh7 18. f5 Rh8 19. fxg6+ fxg6 20. Bxg6+
+Nxg6 21. Nh4 Rf8 22. Rf7+ Rxf7 23. Qxg6+ Kh8 24. Qxf7 Ng7 25. Bh6 Rg8 26.
+Rf1 Qd8 27. Rf6 1-0
+

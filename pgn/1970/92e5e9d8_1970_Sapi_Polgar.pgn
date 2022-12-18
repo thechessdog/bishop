@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Sapi, Laszlo"]
+[Black "Polgar, Istvan"]
+[Result "1/2-1/2"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "92e5e9d8"]
+[Epoch "Bishop"]
+[WhiteID "701513"]
+[BlackID "700215"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Nbd7 5. Bg2 Be7 6. O-O O-O 7. b3 dxc4 8.
+bxc4 c5 9. e3 Qc7 10. Qe2 Nb6 11. Nbd2 Bd7 12. Ba3 Bc6 13. dxc5 Na4 14. Nb3 e5
+15. Nh4 Bxg2 16. Kxg2 Rfd8 17. Nf5 1/2-1/2

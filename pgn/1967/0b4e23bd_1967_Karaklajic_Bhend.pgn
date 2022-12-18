@@ -1,0 +1,22 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Karaklajic, Nikola"]
+[Black "Bhend, Edwin"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "0b4e23bd"]
+[Epoch "Bishop"]
+[BlackID "1300288"]
+[BlackCountry "SUI"]
+[WhiteCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Ne2 e6 8.
+Ng3 Bg6 9. h4 h5 10. Be2 Qa5 11. b4 Qd5 12. Bf3 Qc4 13. Qb3 Qa6 14. Be2 Qb6 15.
+Be3 Qc7 16. Qd1 a5 17. b5 cxb5 18. Bxb5+ Nd7 19. Ne2 Be4 20. O-O Bd6 21. Bd3
+Qc6 22. d5 Bxd5 23. Nd4 Qc7 24. c4 Bc6 25. Be2 Ke7 26. Nxc6+ Qxc6 27. Rb1 Rag8
+28. Bf3 Qxc4 29. Rxb7 Qxh4 30. Qxd6+ Kxd6 31. Rd1+ Ke7 32. Rdxd7+ Ke8 33. Re7+
+1-0

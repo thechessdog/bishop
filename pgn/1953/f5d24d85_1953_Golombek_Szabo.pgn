@@ -1,0 +1,26 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1953.01.01"]
+[Round "7"]
+[White "Golombek, Harry"]
+[Black "Szabo, Stefan"]
+[Result "0-1"]
+[ECO "E09"]
+[Opening "Catalan"]
+[Variation "closed, main line"]
+[HashCode "f5d24d85"]
+[Epoch "Bishop"]
+[BlackID "14944227"]
+[BlackCountry "SVK"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O Nbd7 7. Qc2 c6 8. Nbd2
+Re8 9. b3 Bd6 10. Bb2 e5 11. cxd5 cxd5 12. dxe5 Nxe5 13. Rfd1 Qb6 14. Bd4 Qa6
+15. Nxe5 Bxe5 16. Bxe5 Rxe5 17. Qb2 Re8 18. e3 Bg4 19. Rdc1 Rac8 20. h3 Bf5 21.
+Nf3 Ne4 22. g4 Bd7 23. Nd2 h5 24. Nxe4 dxe4 25. Rxc8 Bxc8 26. gxh5 Qh6 27. Qe2
+Qg5 28. Kh1 Qh4 29. Kh2 Re5 30. f4 exf3 31. Qxf3 Rxh5 32. Qg3 Qe7 33. Rc1 Be6
+34. Rc7 Qd8 35. Rxb7 Qd2 36. Rb8+ Kh7 37. Kg1 Qc1+ 38. Kh2 Qb2 39. Kg1 Qb1+ 40.
+Kh2 Qxa2 41. Kg1 Qb1+ 42. Kh2 Qc2 43. Kg1 Bxb3 44. Qf4 Bd5 45. e4 Be6 46. Rd8
+Qc5+ 47. Kh2 Qe5 48. Qxe5 Rxe5 49. Ra8 a5 50. Bf3 Bb3 51. Kg3 a4 52. Kf4 Rc5
+53. e5 g6 54. Ra7 Kh6 55. h4 Rc4+ 56. Kg3 Rc1 57. Ra6 Ra1 58. h5 a3 59. hxg6
+fxg6 60. Be4 a2 0-1

@@ -1,0 +1,21 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Bruhl, G."]
+[Black "Muller, R."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "13845f79"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 a6 10. Nge2 Ne8 11. O-O f5 12. exf5 gxf5 13. Qb1 Qh4 14. Kh1
+f4 15. Bg1 Nd7 16. b4 Ndf6 17. a4 Qh5 18. b5 axb5 19. axb5 Rxa1 20. Qxa1
+Qf7 21. Qa2 Nc7 22. Bc4 Bf5 23. Qb3 Ra8 24. Na4 Nd7 25. Nec3 Ne8 26. Ne4
+Bxe4 27. fxe4 Nef6 28. Bd3 Nh5 29. Be2 Ndf6 30. Nb6 Rd8 31. Qh3 Bf8 32. Rc1
+Ng7 33. Qd3 Nge8 34. Qc2 Qg6 35. Bf3 Nh5 36. Bf2 Nhf6 37. Ra1 Qg7 38. Bh4
+Be7 39. Ra8 Rxa8 40. Nxa8 Bd8 41. Qc8 Qe7 42. b6 1-0
+

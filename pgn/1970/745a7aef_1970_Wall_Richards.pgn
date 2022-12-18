@@ -1,0 +1,16 @@
+[Event "South Carolina"]
+[Site "South Carolina"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Wall, B."]
+[Black "Richards"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "745a7aef"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 cxd4
+8. Qxg7 Qxc3+ 9. Kd1 Qxa1 10. Qxh8 Kf8 11. Bd3 h6 12. Bh7 1-0
+

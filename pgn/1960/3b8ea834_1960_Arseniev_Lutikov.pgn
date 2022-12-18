@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Arseniev, Vladimir V."]
+[Black "Lutikov, Anatoly S"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "3b8ea834"]
+[Epoch "Bishop"]
+[WhiteID "4105800"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. Ne2 Ba6 6. Nf4 Bxf1 7. Kxf1 Qd7 8. h4
+Nc6 9. Rh3 O-O-O 10. a3 Bf8 11. a4 f6 12. a5 fxe5 13. dxe5 Nxa5 14. Qd3 Kb7 15.
+Bd2 Nc4 16. b3 Nxd2+ 17. Qxd2 c6 18. Nce2 Re8 19. Nd4 c5 20. Nde2 Ne7 21. b4
+Nc6 22. b5 Nxe5 23. Rha3 Ra8 24. Ra6 Nc4 25. Qd3 Be7 26. Qh3 Bf6 27. Nxe6 Qxb5
+28. Qf5 Bxa1 29. Qxd5+ Kxa6 30. Nc7+ Ka5 31. Nxb5 Rad8 0-1

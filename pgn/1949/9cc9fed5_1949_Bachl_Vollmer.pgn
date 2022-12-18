@@ -1,0 +1,17 @@
+[Event "Worms"]
+[Site "Worms"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Bachl"]
+[Black "Vollmer"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "9cc9fed5"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. Bg5 Nbd7 6. d5 h6 7. Be3 exf3
+8. Nxf3 a6 9. Be2 e5 10. dxe6 Bxe6 11. Nd4 Qe7 12. O-O Qc5 13. Qd2 Qe7 14.
+Bf3 O-O-O 15. Qe2 Nb6 16. Nc6 bxc6 17. Qxa6+ Kd7 18. Bxb6 Qd6 19. Rad1 Nd5
+20. Qb7 Rc8 21. Bxd5 cxd5 22. Nxd5 1-0
+

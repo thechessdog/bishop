@@ -1,0 +1,19 @@
+[Event "Gardone"]
+[Site "Gardone"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Napolitano"]
+[Black "Bozic"]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "5050c1de"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Bc4 Nb6
+8. Bb3 c5 9. O-O Na6 10. Qe2 Bg4 11. Rd1 cxd4 12. exd4 e6 13. h3 Bxf3 14.
+Qxf3 Qe7 15. Bf4 Rfd8 16. Qe3 Nb4 17. Bg5 Bf6 18. Bh6 N4d5 19. Qf3 Nxc3 20.
+bxc3 Rac8 21. Re1 Rc6 22. Rad1 Rdc8 23. d5 Rxc3 24. dxe6 Nc4 25. exf7+ Qxf7
+26. Qg4 Rc7 27. Re4 b5 28. Rde1 Be7 29. Rxe7 1-0
+

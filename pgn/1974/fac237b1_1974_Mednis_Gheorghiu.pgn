@@ -1,0 +1,25 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1974.01.01"]
+[Round "4"]
+[White "Mednis, Edmar John"]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "fac237b1"]
+[Epoch "Bishop"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Nbd7 8. f4
+b5 9. Bf3 Bb7 10. e5 Bxf3 11. Nxf3 Ng4 12. Qe2 b4 13. Ne4 d5 14. Ng3 Bc5+ 15.
+Kh1 h5 16. Ng5 Qb6 17. Nh3 g6 18. Rf3 a5 19. Nf1 Qa6 20. Qd1 Rc8 21. Be3 Bxe3
+22. Nxe3 Nc5 23. Ng5 Ne4 24. Nxg4 hxg4 25. Nxe4 gxf3 26. Nd6+ Kd7 27. Nxc8
+fxg2+ 28. Kxg2 Rxc8 29. b3 Qc6 30. Rc1 Qc3 31. Qe2 Rc6 32. h4 Kc7 33. Qf2 Kb7
+34. Qe2 Kb6 35. Qf2+ Rc5 36. Qe2 d4 37. Rd1 Qxc2 38. Rd2 d3 39. Qxd3 Qxd3 40.
+Rxd3 Rc2+ 41. Kf3 Rxa2 42. Ke4 a4 43. bxa4 Rxa4 44. Kd4 Kb5 45. Rh3 Ra8 46. h5
+Rd8+ 47. Ke4 gxh5 48. f5 Kc4 49. fxe6 fxe6 50. Rxh5 b3 51. Rh7 Rc8 52. Kf4 b2
+53. Rb7 Kc3 54. Kg5 Kc2 55. Kf6 Rc6 0-1

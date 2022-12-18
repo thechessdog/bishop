@@ -1,0 +1,25 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Beni, Alfred"]
+[Black "Matanovic, Aleksandar"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "a5956a11"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[BlackCountry "SRB"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 Nd7 8.
+d4 exd4 9. Nxd4 O-O 10. Nf5 Bf6 11. f4 Nc5 12. Ng3 Qd4+ 13. Kh1 Bh4 14. Qc3
+Qxc3 15. Nxc3 Bxg3 16. hxg3 Re8 17. Bd2 Nxe4 18. Nxe4 Rxe4 19. Rae1 Bf5 20.
+Rxe4 Bxe4 21. c3 Rd8 22. Be3 f5 23. Kg1 b6 24. Kf2 c5 25. Re1 a5 26. Bc1 h5 27.
+Be3 Kf7 28. Re2 Bb1 29. a3 a4 30. Rd2 Rxd2+ 31. Bxd2 Ke6 32. Ke3 Kd5 33. Be1
+Be4 34. Bf2 Bxg2 35. Bg1 Ke6 36. Bf2 Kf6 37. Be1 Bh1 38. Bd2 Bb7 39. Kf2 Bc6
+40. Ke2 Bh1 41. Kf2 Ke6 42. Ke3 Kd5 43. Be1 Kc4 44. Kd2 Be4 45. Bf2 b5 46. Be3
+g6 47. Bf2 Kb3 48. Kc1 b4 49. cxb4 cxb4 50. axb4 Kxb4 51. Kd2 c5 52. Be3 Kb3
+53. Kc1 c4 0-1

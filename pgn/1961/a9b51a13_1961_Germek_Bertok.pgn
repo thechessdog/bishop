@@ -1,0 +1,17 @@
+[Event "Bled"]
+[Site "Bled"]
+[Date "1961.09.01"]
+[Round "1"]
+[White "Germek, Milan"]
+[Black "Bertok, Mario"]
+[Result "1/2-1/2"]
+[ECO "A74"]
+[Opening "Benoni"]
+[Variation "classical, 9...a6, 10.a4"]
+[HashCode "a9b51a13"]
+[Epoch "Bishop"]
+[BlackCountry "HRV"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+a6 9. a4 O-O 10. O-O Re8 11. Nd2 Nbd7 12. Re1 Qc7 13. h3 Bh6 14. Bf1 Ne5 15.
+Nc4 Bxc1 16. Qxc1 Nxc4 17. Bxc4 Bd7 1/2-1/2

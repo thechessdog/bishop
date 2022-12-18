@@ -1,0 +1,17 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Nordstrom, Osten"]
+[Black "Gil, Antonio"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "f27e0420"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. exd5 exd5 5. d4 Bg4 6. h3 Bxf3 7. Qxf3 c6
+8. Bd3 Bd6 9. O-O Nbd7 10. Re1+ Kf8 11. Bf4 Bxf4 12. Qxf4 Qb8 13. Qxb8+
+Rxb8 1/2-1/2
+

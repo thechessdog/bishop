@@ -1,0 +1,17 @@
+[Event "Herning"]
+[Site "Herning"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Floe, Anton"]
+[Black "Nergaard, Holger"]
+[Result "1-0"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "f0831a8d"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. e3 Bg7 5. Be2 d6 6. h4 h6 7. g4 fxg4 8. Qc2
+Bf5 9. e4 Bd7 10. e5 Bf5 11. Bd3 dxe5 12. Bxf5 gxf5 13. dxe5 Nfd7 14. e6
+Ne5 15. Qxf5 Qd3 16. Qh5+ Kd8 17. Bf4 Nf3+ 18. Nxf3 Bxc3+ 19. bxc3 Qxc3+
+20. Nd2 Qxa1+ 21. Ke2 Qxh1 22. Qe5 1-0
+

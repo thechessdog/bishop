@@ -1,0 +1,18 @@
+[Event "Leningrad ch-SU"]
+[Site "Leningrad ch-SU"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Bronstein, David Ionovich"]
+[Black "Averbakh, Yuri L"]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "fc32f2a8"]
+[Epoch "Bishop"]
+[BlackID "4101529"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. cxd5
+exd5 9. Ne2 c4 10. Bc2 Re8 11. Bd2 Bd6 12. b3 cxb3 13. Bxb3 Bg4 14. Nc3 Ne4 15.
+Re1 Bxf3 16. gxf3 Nxf2 17. Kxf2 Qh4+ 18. Ke2 Qxh2+ 19. Kd3 Nb4# 0-1

@@ -1,0 +1,24 @@
+[Event "Sinaia"]
+[Site "Sinaia"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Gheorghiu, Florin"]
+[Black "Savon, Vladimir"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "577cca46"]
+[Epoch "Bishop"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bd3 a6 7. O-O Nbd7 8.
+Be3 b5 9. a3 Bb7 10. f4 Be7 11. Qf3 Nc5 12. Rae1 O-O 13. Qh3 Nxd3 14. cxd3 Nd7
+15. Rf3 Bf6 16. Ref1 Nc5 17. Bf2 Rc8 18. Qh5 g6 19. Qh3 Bg7 20. Rg3 Rc7 21. f5
+exf5 22. exf5 Re8 23. Nce2 Re5 24. Be3 Bc8 25. Bh6 Bf6 26. Nf4 Kh8 27. Nh5 gxh5
+28. Qxh5 Rd5 29. Qg4 Rxd4 30. Bg7+ Kg8 31. Bxf6+ Rxg4 32. Rxg4+ Kf8 33. Bxd8
+Rd7 34. Bg5 Nxd3 35. Bh6+ Ke7 36. Rg7 Kf6 37. Rg3 Nc5 38. Bg7+ Ke7 39. Re3+ Kd8
+40. b4 1-0

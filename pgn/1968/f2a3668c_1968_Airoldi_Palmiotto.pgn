@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Airoldi"]
+[Black "Palmiotto"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "f2a3668c"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+Bd3 Bxd3 9. Qxd3 Ngf6 10. Bf4 Nd5 11. Be5 Qa5+ 12. Nd2 f6 13. c4 Nxe5 14.
+dxe5 Nf4 15. Qe4 fxe5 16. O-O-O Qc5 17. Nf3 b5 18. Nxe5 Nd5 19. Qg6+ Kd8
+20. Ne4 1-0
+

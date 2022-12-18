@@ -1,0 +1,19 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Gurgenidze, Bukhuti"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "2aac5fd0"]
+[Epoch "Bishop"]
+[WhiteCountry "GEO"]
+[BlackCountry "HRV"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. h4 Nf6 6. Nh3 d6 7. Nf4 h5 8. a3 O-O
+9. Rb1 a5 10. d3 e6 11. O-O Rb8 12. b3 Bd7 13. e3 Ne7 14. b4 axb4 15. axb4 b6
+16. Bd2 Bc6 17. e4 Bd7 18. Nfe2 Nc6 19. bxc5 bxc5 20. Nb5 Qe7 21. Bf4 Ne5
+1/2-1/2

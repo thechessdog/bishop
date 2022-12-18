@@ -1,0 +1,19 @@
+[Event "corr FIN jub10"]
+[Site "corr FIN jub10"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Letic, S."]
+[Black "Koskinen, U."]
+[Result "1-0"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "cc48aedd"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 dxc4 7. Bxc4 Nc6
+8. O-O Bd6 9. Bb5 Qe7 10. e4 e5 11. Bg5 exd4 12. Nd5 Qxe4 13. Nxf6+ gxf6
+14. Bd3 Qd5 15. Bxf6 Qh5 16. Qd2 Ne5 17. Nxe5 Bxe5 18. Bxe5 Qxe5 19. Rfe1
+Qg7 20. Rac1 Be6 21. Rc5 h6 22. Rh5 Rae8 23. Rc1 Re7 24. Rxh6 f5 25. Rh5
+Rf6 26. g3 Rd7 27. Rg5 Rg6 28. Bxf5 Bxf5 29. Rxf5 b6 30. Re1 1-0
+

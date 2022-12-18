@@ -1,0 +1,17 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Katz, G."]
+[Black "Garside, R."]
+[Result "0-1"]
+[ECO "A76"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8"]
+[HashCode "7c0664d4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Qc2 Na6 11. Nd2 Nc7 12. a4 b6 13. Nc4 Ba6 14. f3 Rb8
+15. Bf4 Nh5 16. Bxd6 Bd4+ 17. Kh1 Bxc4 18. Bxc7 Qxc7 19. Bxc4 Ng3+ 0-1
+

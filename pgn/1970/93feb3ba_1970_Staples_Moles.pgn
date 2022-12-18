@@ -1,0 +1,17 @@
+[Event "Islington"]
+[Site "Islington"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Staples"]
+[Black "Moles"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "93feb3ba"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bf3 O-O 7. Ne2 e5
+8. O-O Bxc3 9. Nxc3 exd4 10. Nb5 c5 11. Bf4 Ne8 12. Re1 Nc6 13. Rxe8 Rxe8
+14. Bxc6 bxc6 15. Nc7 Be6 16. Nxe8 Qxe8 17. Bd6 1/2-1/2
+

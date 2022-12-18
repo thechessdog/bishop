@@ -1,0 +1,18 @@
+[Event "Swansea ch-WLS"]
+[Site "Swansea ch-WLS"]
+[Date "1970.03.30"]
+[Round "7"]
+[White "Davies, PL."]
+[Black "Franklin, Chris E"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "d237b9fc"]
+[Epoch "Bishop"]
+[BlackID "401439"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. hxg6 dxc3 10. gxf7+ Rxf7 11. Bc4 cxb2 12. Bxf7+ Kxf7 13. Ng5+ Kf8 14.
+Nxh7+ Kg8 15. Qd5+ Kh8 16. Ng5+ Bh6 17. Rxh6+ Kg7 18. Qf7+ 1-0

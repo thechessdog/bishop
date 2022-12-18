@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Heinrich, H."]
+[Black "Kuntermann, H."]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "5778d69d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Nb8 10. d4 Nbd7 11. Bg5 Bb7 12. Nbd2 Re8 13. Bc2 Nd5 14. Bxe7
+Nxe7 15. Nf1 Ng6 16. Qd2 Ndf8 17. Rad1 Qf6 18. Ne3 Nf4 19. dxe5 dxe5 20.
+Ng4 1-0
+

@@ -1,0 +1,26 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Beyer, E."]
+[Black "Hund, J."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "f7e83cad"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
+O-O O-O 9. f4 b5 10. a3 Bb7 11. Qd3 Nbd7 12. Qe3 Nc5 13. e5 Ng4 14. Qg3
+dxe5 15. Nf3 Nxb3 16. cxb3 Bxf3 17. gxf3 Nh6 18. fxe5 Nf5 19. Qg4 Bc5+ 20.
+Kh1 Qd3 21. Bg5 Be3 22. Qe4 Qxe4 23. fxe4 Ng3+ 24. hxg3 Bxg5 25. Rad1 Rfd8
+26. Rd6 Be7 27. Rc6 Rd2 28. Rb1 h5 29. b4 Rad8 30. Rxa6 R8d3 31. Re1 Bg5
+32. Rd6 Rxg3 33. Re2 Rxe2 34. Nxe2 Rb3 35. Nc3 Rxb2 36. Nxb5 Bf4 37. Rd8+
+Kh7 38. Rd7 Kg6 39. Rd1 h4 40. Nd6 Bxe5 41. Nc4 Rh2+ 42. Kg1 Bf4 43. Rf1
+Bg3 44. Rc1 Re2 45. e5 Bf4 46. Rf1 Kg5 47. Rf2 Re1+ 48. Rf1 Re4 49. Nd6 Re2
+50. Kh1 Kg4 51. Nxf7 Be3 52. Nd6 Bd4 53. Nb5 Bxe5 54. a4 Kg3 55. Rg1+ Kh3
+56. Rf1 Bf4 57. Rf3+ Bg3 58. Rf1 Rh2+ 59. Kg1 Rg2+ 60. Kh1 Bf2 61. Rxf2
+Rxf2 62. Kg1 Kg3 63. Nc3 Rg2+ 64. Kh1 h3 65. Ne4+ Kf3 66. Nc5 Re2 67. Nd3
+Kg3 68. b5 Rh2+ 0-1
+

@@ -1,0 +1,17 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kluger, Gyula"]
+[Black "Dely, Peter"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "f370bc78"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Bd7 9. a3 Ba5 10. Bd2 cxd4 11. Nxd4 Nc6 12. Nxc6 Bxc6 1/2-1/2

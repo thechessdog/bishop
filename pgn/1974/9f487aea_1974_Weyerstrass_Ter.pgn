@@ -1,0 +1,16 @@
+[Event "Laren"]
+[Site "Laren"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Ter Steeg"]
+[Result "1-0"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "9f487aea"]
+[Epoch "Bishop"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 d6 5. Nf3 Nc6 6. O-O Nf6 7. d3 O-O 8. Bd2
+Bd7 9. Rb1 Rb8 10. a3 b6 11. b4 a6 12. Qc1 e6 13. Ne1 Re8 14. Bh6 Bxh6 15. Qxh6
+Ng4 16. Qd2 Qf6 17. h3 Nge5 18. f4 Nxc4 19. dxc4 Rbd8 20. Ne4 1-0

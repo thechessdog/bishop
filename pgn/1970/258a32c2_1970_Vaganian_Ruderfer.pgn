@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Vaganian, Rafael A"]
+[Black "Ruderfer, Mark B"]
+[Result "1-0"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "neo-Meran (Lundin variation)"]
+[HashCode "258a32c2"]
+[Epoch "Bishop"]
+[BlackID "4103505"]
+[WhiteID "13300016"]
+[WhiteCountry "ARM"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+b4 9. Na4 c5 10. e4 cxd4 11. e5 Nd5 12. O-O Bb7 13. Re1 N5b6 14. Bb5 Nxa4 15.
+Bxa4 Bc5 16. Nxd4 Qe7 17. Nb3 Bd5 18. Qg4 Bxb3 19. Bxb3 Kf8 20. Bg5 Qe8 21. Ba4
+h6 22. Bd2 Qe7 23. Rac1 a5 24. Qe4 Rd8 25. Be3 Bxe3 26. Qxe3 1-0

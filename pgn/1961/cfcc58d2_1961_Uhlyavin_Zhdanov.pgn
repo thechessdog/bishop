@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Uhlyavin"]
+[Black "Zhdanov"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "cfcc58d2"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 g6 4. d4 Bg7 5. h3 a6 6. Bf4 Nf6 7. e5 Ng8 8. Qd2
+b5 9. Be2 h6 10. O-O-O e6 11. g4 Nd7 12. Bg3 Bf8 13. Rdf1 Nb6 14. Nd1 a5
+15. Ne1 b4 16. Nd3 Nc4 17. Qe1 Qb6 18. b3 Qxd4 19. bxc4 Qa1+ 20. Kd2 dxc4
+21. Nf4 Qxa2 22. Ke3 Bb7 23. Qd2 g5 24. Nh5 c3 25. Qd3 Rd8 26. Qe4 Bc5+ 27.
+Kf3 Rd4 28. Qe3 Qd5+ 0-1
+

@@ -1,0 +1,16 @@
+[Event "corr BDGW"]
+[Site "corr BDGW"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Richter, J."]
+[Black "Mendau"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "6dff3c62"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bg4 6. h3 c6 7. hxg4 Nxg4
+8. Bc4 e6 9. Bf4 Nd7 10. Qd3 Nb6 11. Bb3 Bd6 12. Ne5 Bxe5 13. dxe5 Qxd3 14.
+cxd3 Ke7 15. Bd1 h5 16. Rh4 Rad8 17. Bf3 f6 18. exf6+ 1-0
+

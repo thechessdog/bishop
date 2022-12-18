@@ -1,0 +1,18 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Castagna"]
+[Black "Burkhalter"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "73f65d8a"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 f6 9. Nf4 Qe7 10. Qh5+ Qf7 11. Qh3 Nxd4 12. Ng6 hxg6 13. Qxh8 Nxe5 14.
+Bb1 Bd7 15. Nb3 Nxb3 16. axb3 Bb5 17. Be3 Qc7 18. f3 Kf7 19. Kf2 Bc5 20.
+Qh4 Rh8 21. Qxh8 Ng4+ 22. Ke1 Bb4+ 23. Bd2 Qc1# 0-1
+

@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Toth, Bela"]
+[Black "Forintos, Gyozo V"]
+[Result "1-0"]
+[ECO "E28"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "805fa6cb"]
+[Epoch "Bishop"]
+[WhiteID "736112"]
+[BlackID "700690"]
+[WhiteCountry "ITA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. e3 b6 7. Ne2 Nc6 8.
+Ng3 Ba6 9. e4 Na5 10. Bg5 h6 11. h4 d6 12. e5 dxe5 13. Ne4 hxg5 14. hxg5 Ng4
+15. Qxg4 f5 16. Qh5 1-0

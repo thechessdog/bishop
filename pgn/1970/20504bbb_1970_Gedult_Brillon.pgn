@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Brillon"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "20504bbb"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 c5 6. Bf4 Bg4 7. Bb5+ Nbd7 8.
+dxc5 a6 9. c6 axb5 10. cxd7+ Nxd7 11. Qe2 b4 12. Nb5 e5 13. Bxe5 Be7 14. Bxg7
+Rg8 15. Nd6# 1-0

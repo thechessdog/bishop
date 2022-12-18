@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Medina Garcia, Antonio Angel"]
+[Black "Donner, Jan Hein"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "84dcc9bc"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. e4 d6 2. f4 g6 3. g3 Bg7 4. Bg2 c5 5. d3 Nc6 6. Nc3 Bd7 7. Nf3 e6 8. O-O
+Nge7 9. Be3 Nd4 10. Nh4 O-O 11. Qd2 Rb8 12. Nd1 b5 13. c3 Ndc6 14. f5 exf5 15.
+exf5 Nxf5 16. Nxf5 gxf5 17. Bh6 Qf6 18. Bxg7 Kxg7 19. Bxc6 Bxc6 20. Ne3 Rbe8
+21. Nxf5+ Kh8 22. Nd4 Qd8 23. Nxc6 Qc7 24. Qh6 f5 25. Rae1 1-0

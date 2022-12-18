@@ -1,0 +1,21 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "11"]
+[White "Piket, Joop"]
+[Black "Tatai, Stefano"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "0b545c34"]
+[Epoch "Bishop"]
+[WhiteID "1001256"]
+[WhiteCountry "NED"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Bd3 Bb7 8. f3
+O-O 9. e4 Ne8 10. Ne2 Nc6 11. d5 Ne5 12. f4 Nxd3+ 13. Qxd3 f5 14. e5 d6 15.
+dxe6 Qe7 16. O-O Qxe6 17. Ng3 Rd8 18. Re1 Ba6 19. Qd5 Bxc4 20. Qxe6+ Bxe6 21.
+exd6 Rxd6 22. a4 a5 23. Bb2 g6 24. c4 Bxc4 25. Re7 Re6 26. Rxe6 Bxe6 27. Be5
+Nf6 28. Nf1 Nd7 29. Bd6 Rc8 30. Re1 Kf7 31. Nd2 Rc6 32. Be5 Nxe5 33. Rxe5 0-1

@@ -1,0 +1,17 @@
+[Event "Okinawa"]
+[Site "Okinawa"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Bates, Robert"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "b781f81d"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nf3 Bb4 6. Bd2 O-O 7. a3 Bxc3 8.
+bxc3 c5 9. Bd3 c4 10. Bxh7+ Kxh7 11. Ng5+ Kg8 12. Qh5 Re8 13. Qxf7+ Kh8 14.
+Qh5+ Kg8 15. Qh7+ Kf8 16. Qh8+ Ke7 17. Qxg7# 1-0

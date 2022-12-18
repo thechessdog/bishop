@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Kallinger"]
+[Black "Kaliwoda"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "666a8744"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 Nc6 8.
+Nf3 Qc7 9. O-O b6 10. cxd5 exd5 11. c4 cxd4 12. cxd5 Nxd5 13. Be4 Nf6 14.
+Qc2 Bd7 15. Nxd4 Rc8 16. Bxc6 Bxc6 17. Bb2 Qb7 18. Nf5 Bxg2 19. Nd6+ Kd7
+20. Nxc8 Rxc8 21. Qf5+ Ke7 22. Qe5+ Kf8 23. Qd6+ Ke8 24. Rfd1 1-0
+

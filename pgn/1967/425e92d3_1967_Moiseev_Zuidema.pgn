@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1967.07.01"]
+[Round "11"]
+[White "Moiseev, Oleg L"]
+[Black "Zuidema, Coen"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "425e92d3"]
+[Epoch "Bishop"]
+[BlackID "1000101"]
+[BlackCountry "NED"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 f5 10. b3 Bf6 11. Bb2 Nc6 12. Rad1 Ne7 13. Qc1 d6 14. Ng5 Bxg2 15.
+Kxg2 Bxg5 1/2-1/2

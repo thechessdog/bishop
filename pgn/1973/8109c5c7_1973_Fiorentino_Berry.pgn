@@ -1,0 +1,15 @@
+[Event "Guadalajara"]
+[Site "Guadalajara"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Fiorentino, Andres"]
+[Black "Berry, Jonathan"]
+[Result "0-1"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "8109c5c7"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 d6 4. Nf3 c6 5. g3 Qc7 6. Bg2 e5 7. dxe5 dxe5 8. O-O
+Be7 9. e4 O-O 10. Qe2 f4 11. gxf4 exf4 12. b3 Nbd7 13. Bb2 Ng4 14. Bh3 Nde5 15.
+Nxe5 f3 16. Qd2 Qxe5 17. Nd5 Qxh2# 0-1

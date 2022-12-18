@@ -1,0 +1,18 @@
+[Event "Amsterdam izt"]
+[Site "Amsterdam izt"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Evans"]
+[Black "Berger"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "a0b4dad7"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 e6 12. O-O-O Ngf6 13. Kb1 c5 14. c4
+cxd4 15. Nxd4 a6 16. Nxe6 fxe6 17. Qg6+ Kd8 18. Rhe1 Kc8 19. Rxe6 b6 20.
+Qf5 Kb7 21. Bf4 Qc5 22. Rxf6 Nxf6 23. Rd7+ Kc6 24. Rc7# 1-0
+

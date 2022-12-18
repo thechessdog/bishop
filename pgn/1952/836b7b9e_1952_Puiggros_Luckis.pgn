@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1952.01.01"]
+[Round "4"]
+[White "Puiggros, Guillermo"]
+[Black "Luckis, Marcos"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "836b7b9e"]
+[Epoch "Bishop"]
+[BlackCountry "LTU"]
+[WhiteCountry "URY"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bc4 g6
+8. Ne5 Nd5 9. Bb3 Bg7 10. Bd2 Be6 11. Qf3 O-O 12. O-O-O Qc8 13. h3 b5 14. c3 a5
+15. Ng4 a4 16. Bc2 Qb7 17. a3 Rac8 18. Bh6 Qc7 19. g3 1/2-1/2

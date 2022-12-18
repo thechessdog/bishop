@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Aronin, Lev Solomonovich"]
+[Black "Zlotnik, Boris A"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "19b6f8d4"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. a3 Nbd7 10. O-O-O Rb8 11. Bxf6 Nxf6 12. g4 b4 13. axb4 Rxb4 14. g5 Nd7
+15. Nb3 Nc5 16. Nxc5 Qxc5 17. f5 Be7 18. h4 O-O 19. f6 Bd8 20. Bd3 Bb6 21. Rde1
+Qe5 22. fxg7 Kxg7 23. Nd1 Bb7 24. Rhf1 Kg8 25. c3 Ra4 26. Nf2 Ra1+ 27. Kc2 Rxe1
+28. Rxe1 f5 29. gxf6 Rxf6 30. Qg2+ Rg6 31. Qf3 Rg3 32. Qe2 Rg2 33. Rf1 Qf4 0-1

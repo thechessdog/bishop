@@ -1,0 +1,19 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Keller, K."]
+[Black "Schmidt, P."]
+[Result "1-0"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Keres variation"]
+[HashCode "6a967594"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd3 Be7
+8. O-O-O Nxd4 9. Qxd4 O-O 10. e5 dxe5 11. Qxe5 Qe8 12. h4 Ng4 13. Qg3 Bxg5+
+14. hxg5 e5 15. Nd5 Bf5 16. Bd3 e4 17. Be2 Qe6 18. Bc4 Qe8 19. Rh4 Rc8 20.
+Bb3 Ne5 21. Nf6+ gxf6 22. gxf6+ Bg6 23. Rxh7 Rxc2+ 24. Bxc2 Nd3+ 25. Kb1
+Qb5 26. Rg7+ Kh8 27. Rh1+ Bh5 28. Rh7+ Kxh7 29. Qg7# 1-0
+

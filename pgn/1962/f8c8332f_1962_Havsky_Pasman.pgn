@@ -1,0 +1,15 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Havsky"]
+[Black "Pasman, Michael"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "f8c8332f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 gxf6 5. e3 c6 6. Bd3 Bg6 7. Nf3 Nd7 8.
+Qe2 e6 9. e4 dxe4 10. Nxe4 Rg8 11. O-O-O Qa5 12. Kb1 O-O-O 13. Ng3 Nb6 14. Bxg6
+Rxg6 15. c3 Na4 16. Nd2 Qb6 17. Nb3 Ba3 18. Rd2 Bxb2 19. Qc4 Bxc3 0-1

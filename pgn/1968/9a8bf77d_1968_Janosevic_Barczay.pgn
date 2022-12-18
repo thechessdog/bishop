@@ -1,0 +1,21 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1968.03.01"]
+[Round "4"]
+[White "Janosevic, Dragoljub"]
+[Black "Barczay, Laszlo"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "9a8bf77d"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qb6 7. Bc4 Nc6 8.
+Nxc6 Qxc6 9. Qd3 e6 10. Bb3 b5 11. O-O Be7 12. f5 O-O 13. fxe6 Bxe6 14. Nd5
+Bxd5 15. exd5 Qc7 16. Bg5 Nd7 17. Bxe7 Ne5 18. Qd4 Qxe7 19. a4 bxa4 20. Rxa4 f5
+21. Bc4 a5 22. Bd3 g6 23. h3 Rf7 24. b4 Qd8 25. Rfa1 f4 26. Rxa5 Rxa5 27. bxa5
+f3 28. Bf1 Qg5 29. h4 Qf6 30. g3 f2+ 31. Kg2 Qf3+ 32. Kh2 Ng4+ 33. Kh3 Ne3 34.
+Bd3 Qg2# 0-1

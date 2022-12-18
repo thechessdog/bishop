@@ -1,0 +1,16 @@
+[Event "URS-chT"]
+[Site "Moscow"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kasimovas, N."]
+[Black "Rogozhnikov, Oleg"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "e7256319"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Ne4 6. Qc2 f5 7. e3 b6 8. f3
+Qh4+ 9. g3 Nxg3 10. Qf2 f4 11. e4 Qh5 12. hxg3 Qxh1 13. Nh3 Ba6 14. Kd2 fxg3
+15. Qe2 0-1

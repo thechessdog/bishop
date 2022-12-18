@@ -1,0 +1,20 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "12"]
+[White "Gibbs, Peter C"]
+[Black "Sokolov, Vladimir"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "dc21c8dd"]
+[Epoch "Bishop"]
+[WhiteID "421413"]
+[BlackID "904031"]
+[WhiteCountry "ENG"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 O-O-O 12. g4 Qe5 13. Nf3 Qd5 14. fxg7
+Bxg4 15. gxh8=Q Rxh8 16. h3 Bxh3 17. Nfg5 Rg8 18. Qh5 Bf5 19. Nf6 1-0

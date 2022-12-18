@@ -1,0 +1,20 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1957.01.01"]
+[Round "3"]
+[White "Karaklajic, Nikola"]
+[Black "Nedeljkovic, Strecko"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "5703ec6d"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+d5 9. e5 Nfd7 10. f4 Nb6 11. O-O-O Nc6 12. Nf3 e6 13. h4 h5 14. Bc5 Ne7 15. Nb5
+a6 16. Nbd4 Nd7 17. Bd6 Re8 18. Ng5 Nf8 19. Be2 Nc6 20. Nxc6 bxc6 21. g4 hxg4
+22. h5 gxh5 23. Rxh5 f6 24. exf6 Bxf6 25. Be5 Ng6 26. Qd3 Nxe5 27. Rh8+ Bxh8
+28. Qh7+ Kf8 29. Qxh8+ Ke7 30. Qg7+ Nf7 31. Qxf7+ Kd6 32. Ne4# 1-0

@@ -1,0 +1,20 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Martin, Pedro"]
+[Black "Kozma, Julius"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "102348bc"]
+[Epoch "Bishop"]
+[BlackID "14934019"]
+[BlackCountry "SVK"]
+[WhiteID "108383"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 a6 7. a5 Ba7 8. Nc3
+Nf6 9. Bg5 h6 10. Bh4 d6 11. Be2 Be6 12. O-O g5 13. Bg3 h5 14. h4 Ng4 15. hxg5
+Qxg5 16. Qd2 Ne3 17. Bf3 h4 18. Bh2 h3 19. Nd1 hxg2 20. Re1 Rxh2 0-1

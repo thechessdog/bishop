@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Rudolf, K."]
+[Black "Thalman, F."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "fd3ed87a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. a4 Bb7 8.
+axb5 axb5 9. Rxa8 Qxa8 10. O-O O-O 11. d3 d5 12. Bg5 dxe4 13. dxe4 Nxe4 14.
+Be3 Nd4 15. Bxd4 exd4 16. Qd3 Bb6 17. Nxd4 Bxd4 18. Qxd4 c5 19. Qd7 c4 20.
+Ba2 Bc6 0-1
+

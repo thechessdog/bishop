@@ -1,0 +1,19 @@
+[Event "England"]
+[Site "England"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Wood, Baruch Harold"]
+[Black "Parr, Frank"]
+[Result "0-1"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, main line"]
+[HashCode "b2b96f5e"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 O-O 7. Bd3 Nc6 8.
+Ne2 d6 9. e4 b6 10. Bg5 h6 11. Bh4 e5 12. O-O g5 13. Bg3 Nh5 14. d5 Na5 15. Nc1
+Nf4 16. Bxf4 gxf4 17. Kh1 Kh8 18. Nb3 Nxb3 19. Qxb3 Rg8 20. Be2 Qh4 21. Ra2
+Rxg2 0-1

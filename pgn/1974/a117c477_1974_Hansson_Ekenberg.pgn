@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1974.01.01"]
+[Round "12"]
+[White "Hansson, Dan"]
+[Black "Ekenberg, Bengt"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, Botvinnik variation"]
+[HashCode "a117c477"]
+[Epoch "Bishop"]
+[WhiteCountry "ISL"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 b6 7. Ne2 Ba6 8. Bb1
+cxd4 9. cxd4 Nc6 10. Nf3 Bb4+ 11. Bd2 Bxd2+ 12. Qxd2 Qe7 13. a3 Na5 14. Qb4
+Bxe2 15. Kxe2 f6 16. exf6 gxf6 17. Re1 Rc8 18. Kf1 Rc4 19. Qb5 O-O 20. Bf5 a6
+21. Qxd5 exd5 22. Rxe7 Nb8 23. Bxh7+ Kh8 24. Nh4 Rg8 25. Bxg8 Nbc6 26. Re8 1-0

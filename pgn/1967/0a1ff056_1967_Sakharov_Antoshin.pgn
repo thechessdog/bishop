@@ -1,0 +1,20 @@
+[Event "match"]
+[Site "match"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Sakharov, Yuri G."]
+[Black "Antoshin, Vladimir S"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "0a1ff056"]
+[Epoch "Bishop"]
+[WhiteID "34113743"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Be2 O-O 7. O-O a6 8. a4
+c5 9. Nf3 Nc6 10. h3 Nb4 11. Bg5 Be6 12. Qc1 d5 13. exd5 Nbxd5 14. Nxd5 Nxd5
+15. Rd1 Qc7 16. Bxe7 Nxe7 17. Qg5 Ng6 18. Bf1 Rad8 19. b3 Rfe8 20. Rxd8 Rxd8
+21. Re1 h6 1/2-1/2

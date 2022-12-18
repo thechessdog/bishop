@@ -1,0 +1,22 @@
+[Event "Halle zt"]
+[Site "Halle"]
+[Date "1967.01.01"]
+[Round "2"]
+[White "Kuijpers, Frans"]
+[Black "Minev, Nikolay Nikolaev"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "16afe896"]
+[Epoch "Bishop"]
+[WhiteID "1000349"]
+[WhiteCountry "NED"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 d5 10. e5 Nd7 11. h4 Nb6 12. Qe3 Bd7 13. Bxe7 Qxe7 14. h5 Na5
+15. Nb3 Nac4 16. Qd4 Rfc8 17. Kb1 a5 18. f5 a4 19. f6 Qf8 20. Rh3 Nxb2 21. Kxb2
+Nc4+ 22. Bxc4 Rxc4 23. Qd2 axb3 24. cxb3 Rg4 25. Qf2 gxf6 26. exf6 Qa3+ 27. Kb1
+Kh8 28. Rg3 Rag8 29. Rxg4 Rxg4 30. Qe2 Qb4 31. Rc1 Bc6 32. Qe5 Qf4 33. Qe2 d4
+34. Rf1 Qg5 35. Nd1 Bb5 0-1

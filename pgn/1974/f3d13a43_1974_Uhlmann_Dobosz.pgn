@@ -1,0 +1,22 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Uhlmann, Wolfgang"]
+[Black "Dobosz, Henryk"]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bellon gambit"]
+[HashCode "f3d13a43"]
+[Epoch "Bishop"]
+[WhiteID "4611284"]
+[BlackID "1100114"]
+[WhiteCountry "GER"]
+[BlackCountry "POL"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 e4 4. Ng5 b5 5. b3 b4 6. Nb1 h6 7. Nh3 Bc5 8. d4
+exd3 9. Qxd3 O-O 10. Bb2 Bb7 11. Nd2 d6 12. e3 Nbd7 13. Nf4 Ne5 14. Qc2 Nfg4
+15. Be2 Bxe3 16. fxe3 Nxe3 17. Qc1 Qg5 18. Nf1 Nxg2+ 19. Nxg2 Qxg2 20. Bxe5
+Rfe8 21. Ng3 Rxe5 22. Kd2 Qf2 23. Qg1 Qf4+ 24. Kc2 Rae8 25. Re1 Re3 26. Qf1 Qe5
+27. Rg1 Qc3+ 28. Kb1 Rxg3 0-1

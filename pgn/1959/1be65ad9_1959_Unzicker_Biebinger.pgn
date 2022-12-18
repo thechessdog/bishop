@@ -1,0 +1,21 @@
+[Event "Bielefeld"]
+[Site "Bielefeld"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Unzicker, Wolfgang"]
+[Black "Biebinger, Gerhard"]
+[Result "1-0"]
+[ECO "B37"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 5...Bg7"]
+[HashCode "1be65ad9"]
+[Epoch "Bishop"]
+[BlackID "4603648"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Nb3 d6 7. Be2 f5 8. exf5
+Bxf5 9. O-O Nh6 10. Nc3 O-O 11. Be3 Be6 12. f3 Kh8 13. Nd4 Bg8 14. Qd2 Nf5 15.
+Nxf5 gxf5 16. Kh1 Qa5 17. Rad1 Rac8 18. Bg5 Bxc3 19. bxc3 Qe5 20. f4 Qg7 21.
+Rf3 Rc7 22. Rh3 Rfc8 23. Qd3 Nd8 24. Re3 Bxc4 25. Qxf5 Rc5 26. Qd7 Ne6 27. Bxc4
+Nf8 28. Qxe7 Qxe7 29. Rxe7 Rxc4 30. Bf6+ Kg8 31. Rg7+ Kh8 32. Rg6# 1-0

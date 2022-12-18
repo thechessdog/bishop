@@ -1,0 +1,18 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Potthammel, J."]
+[Black "Bader, H."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "f095e7a5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 Bd6 8.
+h3 Bh5 9. Be3 Ne7 10. Nbd2 O-O 11. Re1 Kh8 12. a3 Rg8 13. Nxe5 Qe8 14. Nef3
+Nc8 15. Qc2 Bf8 16. e5 Ne7 17. c4 Bg6 18. Qc3 Qd7 19. Nh4 Bf7 20. Ne4 Nf5
+21. Nxf5 Qxf5 22. Bd2 fxe5 23. dxe5 Be7 24. g4 Qe6 25. Bg5 1-0
+

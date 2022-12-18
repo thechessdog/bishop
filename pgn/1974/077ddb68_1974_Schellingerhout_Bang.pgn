@@ -1,0 +1,16 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Schellingerhout, J."]
+[Black "Bang, E."]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "077ddb68"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+Nxe5 Nxe5 9. dxe5 c6 10. c3 Bf5 11. Bc2 Bc5 12. a4 Nxf2 13. Rxf2 Qh4 0-1
+

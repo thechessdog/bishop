@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1967.07.01"]
+[Round "9"]
+[White "Marovic, Drazen"]
+[Black "Medina Garcia, Antonio Angel"]
+[Result "1/2-1/2"]
+[ECO "D54"]
+[Opening "QGD"]
+[Variation "Anti-neo-orthodox variation"]
+[HashCode "70e7c26a"]
+[Epoch "Bishop"]
+[WhiteID "14500183"]
+[WhiteCountry "CRO"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Rc1 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Be2 Bb7 12. Bf3 c5 13. Ne2 Rd8 14. dxc5
+bxc5 15. O-O Nd7 16. b4 cxb4 17. Rc7 1/2-1/2

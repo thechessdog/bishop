@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Van Oosterom, H."]
+[Black "Smederevac, Petar"]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "0e4146e7"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. c4 Nf6 2. g3 e5 3. Bg2 Be7 4. Nc3 O-O 5. d3 c6 6. Nf3 d5 7. O-O d4 8. Nb1
+Qc7 9. Nbd2 c5 10. Ne1 Nc6 11. e4 dxe3 12. fxe3 Bg4 13. Bf3 Bh3 14. Rf2 Qd7 15.
+a3 Ng4 16. Re2 f5 17. Bd5+ Kh8 18. Nef3 f4 19. exf4 exf4 20. Ne4 fxg3 21. Nxg3
+Bf6 22. Be3 Nxe3 23. Rxe3 Nd4 24. Ne5 Bxe5 25. Rxe5 Bg4 26. Qb1 Bf3 27. b4 Qd6
+28. Re3 Bxd5 29. cxd5 Qxd5 30. Ne4 Nb3 31. Ra2 cxb4 32. axb4 Rac8 33. Qb2 Nd4
+34. Nc5 b6 0-1

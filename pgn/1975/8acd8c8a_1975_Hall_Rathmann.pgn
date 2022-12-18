@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hall"]
+[Black "Rathmann"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "8acd8c8a"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Bc4 e6 7. O-O c6
+8. Bg5 Be7 9. Qe2 Nbd7 10. Rad1 Qc7 11. Ne5 Nxe5 12. dxe5 Bg4 0-1
+

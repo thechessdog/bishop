@@ -1,0 +1,22 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1950.01.01"]
+[Round "13"]
+[White "Martin, Pedro"]
+[Black "Czerniak, Moshe"]
+[Result "1-0"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "b1a6cdb9"]
+[Epoch "Bishop"]
+[WhiteID "108383"]
+[WhiteCountry "ARG"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 Nbd7 7. O-O e5 8. Re1
+exd4 9. Nxd4 Nc5 10. Bf1 Re8 11. f3 a5 12. Be3 a4 13. Qc2 c6 14. Rad1 Qa5 15.
+Bf4 Bf8 16. h3 Ne6 17. Nxe6 Bxe6 18. Kh1 Rad8 19. Qxa4 Qb6 20. Qc2 Nh5 21. Bh2
+Be7 22. g4 Ng7 23. f4 Bh4 24. Bg1 Qa6 25. Bf2 Bxf2 26. Qxf2 Bxc4 27. f5 g5 28.
+h4 h6 29. hxg5 hxg5 30. f6 Ne6 31. Qh2 Bxf1 32. Rxf1 d5 33. Qh6 dxe4 34. Rf5
+Rxd1+ 35. Nxd1 1-0

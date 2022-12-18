@@ -1,0 +1,18 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Abels, H."]
+[Black "Whiteley, Andrew Jonathan"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "1af16474"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Ne7 8. Qxg7
+Rg8 9. Qxh7 dxc3 10. bxa5 Nd7 11. Nf3 Qc7 12. Bf4 Nf8 13. Qh5 Nfg6 14. Bg3 Nf5
+15. Bd3 Nxg3 16. hxg3 Rh8 17. Qxh8+ Nxh8 18. Rxh8+ Ke7 19. Bg6 Bd7 20. Rxa8
+fxg6 21. Rh8 Qc4 22. Rh4 Qb5 23. Rb4 Qxa5 24. Rxb7 Qa4 25. Kd1 Qa6 0-1

@@ -1,0 +1,24 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Soltau, A."]
+[Black "Escher, F."]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Marini variation"]
+[HashCode "fa60c4d2"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. d3 Bc5 7. Qb3 Nde7
+8. e3 O-O 9. Be2 Bb6 10. O-O Ng6 11. Na4 Be6 12. Qc3 Qe7 13. b4 a6 14. Bb2
+Rad8 15. Rac1 Ba7 16. Rfd1 f6 17. Nc5 Bxc5 18. Qxc5 Rfe8 19. b5 Qxc5 20.
+Rxc5 axb5 21. Rxb5 b6 22. Rc1 Bd7 23. Rb3 Na5 24. Rb4 Ne7 25. Bc3 Ra8 26.
+d4 Nac6 27. Bc4+ Kf8 28. Rb3 exd4 29. Nxd4 Ne5 30. Bb5 Bxb5 31. Nxb5 Nd3
+32. Rcb1 Nd5 33. Bd4 Ne5 34. e4 Nf4 35. Kf1 Nc4 36. Rd1 c5 37. Be3 Rxe4 38.
+Bxf4 Rxf4 39. Nc7 Re8 40. Nxe8 Kxe8 41. g3 Re4 42. Rbd3 Re7 43. Rd8+ Kf7
+44. Rb8 Ra7 45. Rc1 Ra4 46. Rb7+ Ke6 47. Rxg7 Nxa3 48. Rxh7 c4 49. h4 b5
+50. h5 Ra8 51. Ke2 Rb8 52. Ra7 b4 53. h6 Nb5 54. Ra6+ Kd5 55. Rh1 Nd4+ 56.
+Kd2 Nb3+ 57. Kc2 Nd4+ 58. Kb1 c3 59. h7 Rh8 60. Rxf6 b3 61. Rf4 1-0
+

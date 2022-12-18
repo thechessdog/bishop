@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Barcza, Gedeon"]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "symmetrical (Austrian) defence"]
+[HashCode "034d1843"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Nf6 4. e4 Nxe4 5. Bc4 Qa5+ 6. Bd2 Nxd2 7. Nxd2 b5 8.
+Be2 Nd7 9. Nf3 g6 10. O-O Bg7 11. a4 bxa4 12. Rxa4 Qd8 13. Bb5 O-O 14. Bc6 Rb8
+15. Rxa7 cxd4 16. Nc4 Nb6 17. Nxb6 Qxb6 18. Rxe7 Qxb2 19. h3 Bf5 1-0

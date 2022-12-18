@@ -1,0 +1,19 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Castillo"]
+[Black "Ecenarro"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Herman Steiner variation"]
+[HashCode "996c847b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 e4 10. Ng5 Ne5 11. Nxe4 Nd3 12. Re3 Nxe4 13. Rxd3 Bc5 14. Rf3
+Bxf2+ 15. Rxf2 Nxf2 16. Kxf2 Qh4+ 17. Kf1 Re8 18. d4 Bg4 19. Bg5 Qxg5 20.
+Qd2 Qf5+ 21. Qf2 Qd3+ 22. Kg1 Re2 23. Qg3 Qxg3 24. hxg3 Re1+ 25. Kh2 Rae8
+26. a4 Rc1 0-1
+

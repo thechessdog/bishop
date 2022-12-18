@@ -1,0 +1,17 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Biegler"]
+[Result "1-0"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "79aa365b"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Ne4 6. Nb3 Bb4+ 7. Nfd2 Qh4 8.
+Qe2 Nxd2 9. Bxd2 a5 10. c3 a4 11. g3 Qe4 12. Qxe4 dxe4 13. Nc1 a3 14. b3 Be7
+15. Bg2 1-0

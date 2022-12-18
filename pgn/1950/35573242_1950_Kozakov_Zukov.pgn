@@ -1,0 +1,17 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Kozakov, Mikhail"]
+[Black "Zukov"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "35573242"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. f4 Nf6 7. Nf3 Bg4 8.
+O-O Ne4 9. Qe1 f5 10. Ne5 Nxe5 11. fxe5 e6 12. Bb5+ Kd8 13. h3 h5 14. hxg4
+hxg4 15. Nd2 Qxe5 16. dxe5 Bc5+ 17. Rf2 Ng3 0-1
+

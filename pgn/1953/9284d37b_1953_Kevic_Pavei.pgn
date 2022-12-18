@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Kevic"]
+[Black "Pavei, M."]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "9284d37b"]
+[Epoch "Bishop"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6
+8. Qd2 h6 9. Nh3 exd5 10. Qe3+ Kf8 11. Nf4 Nc6 12. O-O-O Ne7 13. f3 c5 14.
+dxc5 d4 15. Qd2 Qc7 16. e3 Be5 17. Ne4 dxe3 18. Qd8+ Qxd8 19. Rxd8+ Kg7 20.
+Rxh8 Bxf4 21. Rxc8 e2+ 22. Kc2 exf1=Q 23. Rxf1 Rxc8 24. g3 Be5 25. b4 f5
+26. Nd2 Nd5 27. Kb3 Bc3 28. Nc4 Bxb4 29. Rd1 Rxc5 30. Rxd5 Rxd5 31. Kxb4
+Kf6 32. a4 g5 33. Kc3 b5 34. axb5 Rxb5 35. f4 gxf4 36. gxf4 Rb1 0-1
+

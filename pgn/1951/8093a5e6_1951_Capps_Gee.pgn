@@ -1,0 +1,18 @@
+[Event "California"]
+[Site "California"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Capps, C."]
+[Black "Gee"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "8093a5e6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Bc5 7. O-O d6 8.
+Nd5 Bg4 9. c3 Nxe4 10. h3 Bxf3 11. Qxf3 Ng5 12. Nf6+ gxf6 13. Qxc6+ Ke7 14.
+d4 Bb6 15. Bxg5 fxg5 16. dxe5 Qd7 17. exd6+ Qxd6 18. Rae1+ Kf6 19. Qf3+ Qf4
+20. Qh5 Raf8 1-0
+

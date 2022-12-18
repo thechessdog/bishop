@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1964.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Babizkij_Sapundzhie"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "e62c8687"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. h3 Bh4 10. c3 Nf5 11. d4 e4 12. Bd2 e3 13. Be1 Bf2 14.
+Bxf2 exf2 15. Qd2 Ne4 0-1
+

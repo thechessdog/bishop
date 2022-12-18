@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Gelenczei, E."]
+[Black "Baier, G."]
+[Result "1-0"]
+[ECO "A43"]
+[Opening "Old Benoni"]
+[Variation "Franco-Benoni defence"]
+[HashCode "6ae29860"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 c5 3. d5 exd5 4. exd5 d6 5. c4 g6 6. Nc3 Nd7 7. Qe2+ Qe7 8.
+Nb5 Ne5 9. Nxd6+ Qxd6 10. f4 Bg7 11. Nf3 Bg4 12. fxe5 Bxf3 13. exd6+ Bxe2
+14. Bxe2 Be5 15. O-O Bxd6 16. b4 Ne7 17. Bb2 O-O 18. Rf6 Rad8 19. Rxd6 Rxd6
+20. bxc5 Ra6 21. a4 Re8 22. Bf3 f5 23. Bc3 1-0
+

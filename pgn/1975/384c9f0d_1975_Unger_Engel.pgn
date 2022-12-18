@@ -1,0 +1,22 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Unger"]
+[Black "Engel"]
+[Result "1-0"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "384c9f0d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Bf4
+a6 9. a4 Qa5 10. Qd2 Kh7 11. h3 b5 12. Nf3 b4 13. Nd1 Nxe4 14. Qe3 f5 15.
+Bd3 e5 16. dxe6 Bxe6 17. Bxe4 fxe4 18. Qxe4 Nd7 19. O-O Bf5 20. Qc6 Nf6 21.
+Qxd6 Ra7 22. Nd2 Bc2 23. Rc1 Rd7 24. Qc6 Bxa4 25. Ra1 Bxc6 26. Rxa5 g5 27.
+Be3 Rfd8 28. Rxa6 Be4 29. Nxe4 Nxe4 30. Re6 Nd2 31. Bxd2 Rxd2 32. Ne3 Rxb2
+33. Nf5 Bf8 34. Ra1 Rd7 35. Rf6 Bg7 36. Nxg7 Kxg7 37. Raa6 Rbd2 38. Rxh6 b3
+39. Rag6+ Kf7 40. Rb6 Kg7 41. Rhg6+ Kh7 42. Rxg5 b2 43. Kh2 R7d6 44. Rb5
+Rxf2 45. Rgxc5 Rg6 46. Rh5+ Kg7 47. Rhg5 1-0
+

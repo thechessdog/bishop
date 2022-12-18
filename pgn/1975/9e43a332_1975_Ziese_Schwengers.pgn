@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Ziese, E."]
+[Black "Schwengers, A."]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "9e43a332"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Bg4 10. dxc6 e4 11. d4 exf3 12. gxf3 Bh5 13. Bf4 Re8 14. Be5
+Bd6 15. Nd2 Bxe5 16. dxe5 Nd5 17. Kh1 Nf4 18. Qe3 Qxd2 19. Rad1 Qxe3 20.
+fxe3 Ng6 0-1
+

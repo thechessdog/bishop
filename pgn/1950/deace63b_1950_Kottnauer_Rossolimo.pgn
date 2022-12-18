@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1950.11.01"]
+[Round "1"]
+[White "Kottnauer, Cenek"]
+[Black "Rossolimo, Nicolas"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "deace63b"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteCountry "CZE"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. O-O O-O 11. Bxd6 Qxd6 12. Rfc1 e5 13. dxe5 Nxe5 14. Nxe5
+Qxe5 15. h3 Rfd8 16. Rd1 Rd7 1/2-1/2

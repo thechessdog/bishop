@@ -1,0 +1,16 @@
+[Event "USA-BRD"]
+[Site "USA-BRD"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Schofield"]
+[Black "Walther, Edgar"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "2d860df4"]
+[Epoch "Bishop"]
+[BlackCountry "CHE"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. e5 Nfd7 7. d4 e6 8. Bd2
+c5 9. Qe3 Nc6 10. Nb5 a6 11. Nd6+ Bxd6 12. exd6 Nxd4 13. Qg3 Nxc2+ 0-1

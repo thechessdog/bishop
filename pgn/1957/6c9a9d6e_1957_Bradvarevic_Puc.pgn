@@ -1,0 +1,20 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1957.01.01"]
+[Round "14"]
+[White "Bradvarevic, Aleksandar"]
+[Black "Puc, Stojan"]
+[Result "0-1"]
+[ECO "B38"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 6.Be3"]
+[HashCode "6c9a9d6e"]
+[Epoch "Bishop"]
+[BlackCountry "SVN"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. c4 Nf6 7. Nc3 O-O 8.
+Nc2 b6 9. Be2 d6 10. O-O Bb7 11. Qd2 Rc8 12. f3 Ne8 13. Bh6 f5 14. Bxg7 Nxg7
+15. Rad1 f4 16. Nd5 g5 17. g3 e6 18. gxf4 exd5 19. cxd5 Ne7 20. fxg5 Ng6 21.
+Kh1 Nf4 22. Nd4 Qe7 23. Rg1 Qe5 24. Rc1 a6 25. Rxc8 Bxc8 26. Rc1 Qxg5 27. a4
+Bh3 28. Qb4 Nd3 29. Qxb6 Nf2# 0-1

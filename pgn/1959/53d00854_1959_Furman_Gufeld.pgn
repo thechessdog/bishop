@@ -1,0 +1,17 @@
+[Event "Tbilisi ch-URS"]
+[Site "Tbilisi ch-URS"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Furman, Semyon"]
+[Black "Gufeld, Eduard"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "53d00854"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nbd2 Nf6 5. g3 c5 6. cxd5 exd5 7. Bg2 Nc6 8. O-O
+Bf5 9. dxc5 Bxc5 10. Nb3 Bb6 11. Nfd4 Be4 12. Be3 O-O 13. Nxc6 bxc6 14. Bd4
+Bxg2 15. Kxg2 Ne4 16. Rc1 Rc8 17. Nc5 Qe7 18. b4 1/2-1/2

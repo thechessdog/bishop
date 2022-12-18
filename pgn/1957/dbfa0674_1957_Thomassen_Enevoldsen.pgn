@@ -1,0 +1,16 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Thomassen, Alfred"]
+[Black "Enevoldsen, Poul"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "dbfa0674"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 h6 5. O-O d6 6. Nxd4 Ne5 7. Bb3 Nf6
+8. f4 Nc6 9. Nxc6 bxc6 10. e5 Ng8 11. Qf3 d5 12. f5 Bc5+ 13. Kh1 Be7 14.
+Qh5 Bg5 15. e6 Bxe6 16. fxe6 g6 17. exf7+ Kf8 18. fxg8=Q+ 1-0
+

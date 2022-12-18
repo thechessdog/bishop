@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Barvik"]
+[Black "Koussov"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "1ccc843c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qc7
+8. Be2 b5 9. Bf3 Bb7 10. a3 e6 11. O-O Be7 12. Kh1 h6 13. Bxf6 Nxf6 14. e5
+dxe5 15. fxe5 Nd7 16. Bxb7 Qxb7 17. Qg4 Bc5 18. Rxf7 Bxd4 19. Qxe6+ Kd8 20.
+Qe7+ Kc8 21. Rd1 1-0
+

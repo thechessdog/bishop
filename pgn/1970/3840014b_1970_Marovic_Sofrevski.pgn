@@ -1,0 +1,19 @@
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Marovic, Drazen"]
+[Black "Sofrevski, Jovan"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "3840014b"]
+[Epoch "Bishop"]
+[WhiteID "14500183"]
+[WhiteCountry "CRO"]
+[BlackCountry "MKD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d5 6. e3 O-O 7. Bd2 a6 8. Rd1
+dxc4 9. Bxc4 Qe7 10. O-O h6 11. Rfe1 Bd6 12. e4 e5 13. Nd5 Qd8 14. dxe5 Nxe5
+15. Nxe5 Bxe5 16. Bb4 Bxh2+ 17. Kxh2 Ng4+ 18. Kg3 Qg5 19. f4 1-0

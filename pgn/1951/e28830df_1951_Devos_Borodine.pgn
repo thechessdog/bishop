@@ -1,0 +1,17 @@
+[Event "Antwerp"]
+[Site "Antwerp"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Devos, Paul"]
+[Black "Borodine"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "e28830df"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Nc3 Nxe4 6. Ne5 Nd6 7. Bb3 Nc6
+8. d4 O-O 9. Bxf4 Nxe5 10. Bxe5 b6 11. O-O Bb7 12. Qh5 g6 13. Qh6 Ne8 14.
+Qxf8+ Kxf8 15. Rxf7+ 1-0
+

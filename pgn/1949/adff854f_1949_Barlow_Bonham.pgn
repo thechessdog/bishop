@@ -1,0 +1,24 @@
+[Event "England"]
+[Site "England"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Barlow, A."]
+[Black "Bonham, R."]
+[Result "0-1"]
+[ECO "E72"]
+[Opening "King's Indian with e4 & g3"]
+[HashCode "adff854f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 O-O 6. Bg2 e5 7. d5 Nbd7 8.
+Nge2 Nh5 9. Bf3 Nhf6 10. g4 Nb6 11. g5 Ne8 12. b3 f6 13. Rg1 a5 14. Qd3 Nd7
+15. Na4 f5 16. h4 Nc5 17. Nxc5 dxc5 18. Nc3 Nd6 19. Be3 b6 20. O-O-O a4 21.
+Kb2 Qe8 22. Rge1 Bd7 23. Qe2 Qc8 24. Ra1 Ra5 25. Bd2 Qa6 26. Rec1 fxe4 27.
+Bxe4 b5 28. cxb5 Bxb5 29. Qe3 Rf4 30. f3 Nf5 31. Qe1 a3+ 32. Kc2 Nd4+ 33.
+Kd1 Nxf3 34. Bxf3 Rxf3 35. Nxb5 Qxb5 36. Rc4 Ra8 37. Rac1 Raf8 38. Qe4 Rf1+
+39. Kc2 R1f2 40. Qe3 R8f3 41. Qe1 Qd7 42. Rd1 Qf5+ 43. Qe4 Re3 44. Qxf5
+gxf5 45. Rxc5 e4 46. Rxc7 Ree2 47. Rc8+ Kf7 48. Rc7+ Kg8 49. Rc8+ Bf8 50.
+Kc1 Kf7 51. Rc7+ Kg6 52. d6 e3 53. Bc3 Rxa2 54. d7 Be7 55. Kb1 Rac2 56. Rc8
+f4 57. Bf6 Rcd2 58. d8=Q Rxd8 59. Rdxd8 Bxd8 60. Rxd8 e2 61. Bc3 f3 62. Re8
+Rf1+ 0-1
+

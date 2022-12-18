@@ -1,0 +1,17 @@
+[Event "Lindau"]
+[Site "Lindau"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Schickner"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "7d8bc1c3"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qb4 7. O-O-O c6
+8. Rd4 Qa5 9. Be2 e5 10. Ra4 Qc7 11. Nh3 Be7 12. Rf1 h6 13. g4 Be6 14. g5 hxg5
+15. Nxg5 Nbd7 16. Nxe6 fxe6 17. Qg2 O-O-O 18. Rxa7 Nb8 19. Na4 Nfd7 20. Ra8 Qd6
+21. Rd1 Qb4 22. Bb6 Nxb6 23. Qxc6+ bxc6 24. Ba6+ Kc7 25. Ra7# 1-0

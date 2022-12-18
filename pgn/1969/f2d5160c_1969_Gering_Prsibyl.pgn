@@ -1,0 +1,20 @@
+[Event "Garrakhov"]
+[Site "Garrakhov"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gering"]
+[Black "Prsibyl"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "f2d5160c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 Nxc3 7. bxc3 O-O
+8. e3 c5 9. Ne2 Nc6 10. O-O Qa5 11. a4 Rd8 12. Rb1 Qa6 13. Rb5 cxd4 14.
+cxd4 Bd7 15. Bd2 Rac8 16. Nc3 b6 17. Na2 Nxd4 18. Nb4 Bxb5 19. axb5 Qxb5
+20. exd4 Rxd4 21. Nc2 Rd7 22. Na3 Qd3 23. Nb1 Rc2 24. Re1 Rxd2 25. Qxd2
+Qxd2 26. Nxd2 Rxd2 27. Rxe7 a5 28. Re8+ Bf8 29. Rb8 a4 30. Rxb6 a3 31. Ra6
+a2 32. Bf1 Bc5 0-1
+

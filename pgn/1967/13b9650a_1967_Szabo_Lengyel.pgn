@@ -1,0 +1,19 @@
+[Event "HUN-ch"]
+[Site "Budapest"]
+[Date "1967.??.??"]
+[Round "16"]
+[White "Szabo, Laszlo"]
+[Black "Lengyel, Levente"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "13b9650a"]
+[Epoch "Bishop"]
+[WhiteID "710741"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Qe2 Bxc3 11. bxc3 Bb7 12. Bd3 Nbd7 13. c4 Re8 14. Bb2 Qc7
+15. Rac1 Rac8 16. Rfe1 Nf8 1/2-1/2

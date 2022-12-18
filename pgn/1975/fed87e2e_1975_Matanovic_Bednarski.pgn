@@ -1,0 +1,20 @@
+[Event "Vraca zt"]
+[Site "Vraca zt"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Matanovic, Aleksandar"]
+[Black "Bednarski, Jacek B"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "fed87e2e"]
+[Epoch "Bishop"]
+[WhiteID "900230"]
+[WhiteCountry "SRB"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 Kf8 8. a3
+Ba5 9. Bd2 Nxc3 10. bxc3 d6 11. exd6 Qxd6 12. Qh5 f5 13. Bb5 Nd7 14. O-O Nf6
+15. Qh4 Ne4 16. Rad1 Qe7 17. Qh3 Nxd2 18. Rxd2 Qxa3 19. Nxf5 exf5 20. Re1 Qxc3
+21. Qh5 g6 22. Qh4 Be6 23. Rxe6 Qa1+ 24. Bf1 Bxd2 25. Qe7+ Kg8 26. Rf6 1-0

@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Lednev"]
+[Black "Kucherov"]
+[Result "1-0"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "758e2e71"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Ne4 6. e3 f5 7. Qh5+ g6
+8. Qh6 Qf6 9. Ne2 Nc6 10. f3 Nd6 11. Ng3 e5 12. e4 f4 13. dxe5 Qxe5 14. Ne2
+g5 15. h4 Nf7 16. Qh5 h6 17. g3 d6 18. gxf4 gxf4 19. Qg6 Ne7 20. Qg1 Qh5
+21. Bg2 Ne5 22. Nxf4 Qf7 23. c5 Rg8 24. cxd6 Nxf3+ 25. Bxf3 Rxg1+ 26. Rxg1
+Qf6 27. Bh5+ Kd7 28. dxe7 Qxe7 29. Be3 c6 30. Bg4+ Kc7 31. Bxc8 Qxh4+ 32.
+Bf2 Qf6 33. Bf5 Qxc3+ 34. Ke2 Qc2+ 35. Kf3 Qc3+ 36. Be3 1-0
+

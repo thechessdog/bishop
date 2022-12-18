@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Chumachenko"]
+[Black "Bukhman, Eduard"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "d1fb8f39"]
+[Epoch "Bishop"]
+[BlackID "4102088"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Ne2 e6 3. g3 Nc6 4. Bg2 d6 5. O-O Qb6 6. c3 g6 7. d4 cxd4 8. cxd4
+Bg7 9. Na3 Nxd4 10. Nxd4 Bxd4 11. Nc4 Qc5 12. Be3 Bxe3 13. Nxe3 b5 14. Rc1 Qb6
+15. e5 d5 16. Bxd5 Bb7 17. Bxb7 Qxb7 18. Qd6 Rd8 19. Qb4 Ne7 20. Rc5 a6 21.
+Rfc1 Rd7 22. Ng4 Kf8 23. Nf6 Kg7 24. Nxd7 Nd5 25. Rxd5 Qxd5 26. Qe7 Ra8 27.
+Qf6+ Kg8 28. Nb6 Qd2 29. Qf4 Rd8 30. Rc8 Qd1+ 31. Kg2 Rxc8 32. Nxc8 Qd5+ 33.
+Kh3 Qd7 34. Nd6 f5 35. Qf3 1-0

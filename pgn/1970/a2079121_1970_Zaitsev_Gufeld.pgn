@@ -1,0 +1,21 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Zaitsev, Alexander"]
+[Black "Gufeld, Eduard"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "a2079121"]
+[Epoch "Bishop"]
+[WhiteID "4164490"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nb4 12. Be3 a6 13. Bc4 Rb8 14. h3 Re8 15.
+Bf2 b5 16. axb5 Nb6 17. Be2 axb5 18. Bh4 Bf6 19. Bxf6 Qxf6 20. Bxb5 Bd7 21.
+Bxd7 Nxd7 22. Qd2 c4 23. e5 dxe5 24. fxe5 Nxe5 25. Nxe5 Qxe5 26. Rae1 Qd6 27.
+Rxe8+ Rxe8 28. Qd4 Nc2 29. Qf2 1-0

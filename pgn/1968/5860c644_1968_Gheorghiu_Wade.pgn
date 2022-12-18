@@ -1,0 +1,23 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gheorghiu, Florin"]
+[Black "Wade, Robert Graham"]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "5860c644"]
+[Epoch "Bishop"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+dxc4 9. Bxc4 Ba5 10. Qd3 a6 11. dxc5 Qxd3 12. Bxd3 Bxc3 13. bxc3 Na5 14. Rb1
+Bd7 15. c4 Ba4 16. c6 Bxc6 17. Bd2 Bxf3 18. Bxa5 Bc6 19. f3 Rfc8 20. e4 Nd7 21.
+Be2 b5 22. Rfc1 Ne5 23. cxb5 axb5 24. Bb4 Be8 25. Rxc8 Rxc8 26. f4 Nc4 27. Rc1
+Ra8 28. Rc3 Na5 29. Rc7 Nb3 30. Kf2 Nd4 31. Bd3 f6 32. Ke3 Nc6 33. Bd6 Ra5 34.
+Rb7 e5 35. f5 Ra8 36. Rxb5 g6 37. g4 gxf5 38. gxf5 Nd4 39. Rb7 Ra4 40. Be7 Bc6
+41. Rc7 Bb5 42. Bb1 Nc6 43. Bc5 Na5 44. Rc8+ Kf7 45. Rc7+ Kg8 46. Bb4 1-0

@@ -1,0 +1,21 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1957.03.01"]
+[Round "1"]
+[White "Esposito, Alfredo"]
+[Black "Ader Hausman, Walter"]
+[Result "1-0"]
+[ECO "D75"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O c5, 8.dc"]
+[HashCode "58d6814e"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "CHL"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. cxd5 Nxd5 7. O-O c5 8.
+dxc5 Na6 9. Ng5 Ndb4 10. Nc3 Qxd1 11. Rxd1 Nc2 12. Rb1 Nxc5 13. Nd5 Bg4 14. f3
+Be6 15. Nxe6 fxe6 16. Nc3 Rfd8 17. Bg5 Kf7 18. Rxd8 Rxd8 19. Rd1 Rc8 20. h4 b5
+21. Nxb5 Rb8 22. Rc1 Nd4 23. Nxd4 Bxd4+ 24. e3 Nd3 25. exd4 Nxc1 26. Bxc1 Rb4
+27. Kf2 Rc4 28. Bd2 Rc2 29. Ke2 Rxb2 30. a4 a5 31. f4 Kf6 32. g4 Rb3 33. Bxa5
+Ra3 34. Bc6 h5 35. gxh5 gxh5 36. Bb4 Rb3 37. Bc5 Kf5 38. a5 Kxf4 39. a6 Rb2+
+40. Kd3 Ra2 41. a7 e5 42. a8=Q 1-0

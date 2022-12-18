@@ -1,0 +1,21 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Lehmann, W."]
+[Black "Stabenow, J."]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "716ffde2"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. c3
+e6 8. Nf3 Bd6 9. Bg5 Qc7 10. Bxf6 gxf6 11. Qc2 Bd7 12. O-O-O O-O-O 13. Kb1
+Kb8 14. Rhe1 Ka8 15. g3 Rb8 16. Rd2 a5 17. Bf1 b5 18. Rc1 h5 19. Ne1 h4 20.
+Bg2 Ka7 21. Nd3 hxg3 22. hxg3 Rh2 23. Bf3 Rbh8 24. c4 Rc8 25. a3 Rhh8 26.
+b4 e5 27. Nc5 Bxc5 28. dxc5 bxc4 29. Rd6 f5 30. Rcd1 Rhd8 31. Qd2 c3 32.
+Qxc3 e4 33. Qd4 exf3 34. b5 cxb5 35. c6+ Ka8 36. Qc5 Bxc6 37. Rxc6 Rxd1+
+0-1
+

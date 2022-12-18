@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Glaser"]
+[Black "Carlson, Curtis"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "f443a462"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 12. Bg3 gxf4 13. Bh4 b5 14. Bxb5 axb5
+15. Ndxb5 Qc6 16. Bxf6 Nxf6 17. Qxf4 0-1

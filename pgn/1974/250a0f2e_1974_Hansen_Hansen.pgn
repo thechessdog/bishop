@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Hansen, Soren Bech"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "250a0f2e"]
+[Epoch "Bishop"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Qa5 6. Nf3 cxd4 7. axb4 Qxa1 8.
+Nxd4 Nc6 9. Nb3 Qxc1 10. Qxc1 Nxb4 11. Nb5 Na6 12. Nd6+ Ke7 13. Qg5+ f6 1-0

@@ -1,0 +1,19 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Padevsky, Nikola"]
+[Black "Kiprov, Alexander"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "2cb015ed"]
+[Epoch "Bishop"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. e5 cxd4 8. Nxd4
+Qa5 9. exf6 Bxc3+ 10. bxc3 Qxg5 11. fxg7 Qxg7 12. Qf3 Qe5+ 13. Be2 a6 14. O-O
+Qc5 15. Rfe1 Rg8 16. Rad1 Ra7 17. Bf1 b5 18. Qf4 Nd7 19. Nf5 Nb6 20. Nd6+ Kf8
+21. Nxc8 1-0

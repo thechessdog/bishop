@@ -1,0 +1,22 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Penrose, Jonathan"]
+[Black "Ulvestad, Olaf"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "9885617d"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. h3 O-O 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 Nb8 15.
+Bb1 a5 16. Be3 a4 17. Nbd2 Bd7 18. a3 Na6 19. Bd3 Qb8 20. Rc1 Bd8 21. Qe2 Re8
+22. Rc2 exd4 23. Nxd4 Nc5 24. Bxb5 Bxb5 25. Qxb5 Qxb5 26. Nxb5 Ncxe4 27. Nxe4
+Nxe4 28. Nc7 Bxc7 29. Rxc7 h6 30. Rec1 Nf6 31. Rd1 Re6 32. Kf1 Ne8 33. Rc4 Re5
+34. Rdd4 Rea5 35. Bd2 R5a6 36. Bc3 f6 37. Rb4 R6a7 38. Rb6 Ra6 39. Rb7 R6a7 40.
+Rdb4 Nc7 41. Rxa7 Rxa7 42. Bd4 Ra6 43. Ke2 Ne6 44. Be3 f5 45. Rb5 f4 46. Rb6
+Ra5 47. Rxd6 Re5 48. Ra6 Re4 0-1

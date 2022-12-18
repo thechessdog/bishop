@@ -1,0 +1,25 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1955.01.01"]
+[Round "14"]
+[White "Udovcic, Mijo"]
+[Black "Matanovic, Aleksandar"]
+[Result "1-0"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "5569e263"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[BlackCountry "SRB"]
+[WhiteCountry "HRV"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 c5 6. Be2 b6 7. O-O Bb7 8. Qc2
+Nc6 9. Rd1 cxd4 10. exd4 d5 11. cxd5 exd5 12. Bg5 Be7 13. Ne5 Rc8 14. Qf5 g6
+15. Qh3 Nxe5 16. dxe5 Ne4 17. Nxe4 Bxg5 18. f4 Be7 19. f5 Qc7 20. f6 Qxe5 21.
+fxe7 Qxe7 22. Ng3 Rc2 23. Bf3 Rxb2 24. Re1 Qb4 25. Qd7 Rxa2 26. Rxa2 Qxe1+ 27.
+Nf1 Bc8 28. Qxa7 Qb4 29. Qa3 Qd4+ 30. Qe3 Qc4 31. Rd2 Be6 32. Qxb6 Rc8 33. Qd4
+Qb5 34. Ne3 Rc1+ 35. Kf2 Qb8 36. h3 Qh2 37. Rd1 Rxd1 38. Nxd1 Qd6 39. Ne3 h5
+40. Nxd5 Bxd5 41. Bxd5 Qe7 42. Kf3 Kh7 43. Kf4 Qh4+ 44. Ke3 Qg3+ 45. Ke2 Qd6
+46. Kd3 Qa3+ 47. Qc3 Qe7 48. Qc6 Kg7 49. Kc4 Qe2+ 50. Kc5 Qf2+ 51. Kd6 Qf6+ 52.
+Kd7 Qf5+ 53. Kc7 Qe5+ 54. Qd6 Qd4 55. Qd7 Qe3 56. Kd8 Qc3 57. Qc7 1-0

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Talavera, L."]
+[Black "Worsley, M."]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "two knights defence"]
+[Variation "Canal variation"]
+[HashCode "c952ea16"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Nc3 Be6
+8. Bxd5 dxc3 9. Rxe4 Ne7 10. Rd4 Nxd5 11. bxc3 Bc5 12. Rd3 Qe7 0-1
+

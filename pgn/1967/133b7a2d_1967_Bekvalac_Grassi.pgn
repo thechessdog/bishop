@@ -1,0 +1,20 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Bekvalac"]
+[Black "Grassi"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "133b7a2d"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. f4 Qb6 6. Nf3 Nh6 7. Bd3 Bd7 8. Bc2
+f6 9. O-O f5 10. h3 Be7 11. Kh1 Nf7 12. dxc5 Bxc5 13. Nbd2 g5 14. fxg5 Bf2
+15. Qe2 Bg3 16. Bxf5 O-O-O 17. Bc2 Nfxe5 18. a4 Ng4 19. Nd4 Nxd4 20. cxd4
+Qxd4 21. Qxg4 Qxg4 22. hxg4 h5 23. Rf6 hxg4+ 24. Rh6 Rxh6+ 25. gxh6 Rh8 26.
+Nf1 Bd6 27. Bg5 e5 28. Bg6 e4 29. Rc1+ Kb8 30. h7 Be5 31. b3 Rf8 32. Be7
+Rf2 33. Bd6+ 1-0
+

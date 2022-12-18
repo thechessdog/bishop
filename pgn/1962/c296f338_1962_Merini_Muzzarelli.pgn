@@ -1,0 +1,18 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Merini"]
+[Black "Muzzarelli"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "c296f338"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qg4 Qf6 7. Qxe4
+Ne7 8. Nf3 Nd5 9. Bd2 Qe7 10. Bd3 Nf6 11. Qh4 h6 12. O-O Nbd7 13. c4 c6 14.
+Bb4 Qd8 15. Rae1 a5 16. Bd6 Nf8 17. c5 Nd5 18. Qg3 g6 19. Ne5 Qf6 20. Ng4
+Qd8 21. c4 Nc7 22. Be5 Rh7 23. Nf6+ Ke7 24. Bd6+ Kxf6 25. Qe5# 1-0
+

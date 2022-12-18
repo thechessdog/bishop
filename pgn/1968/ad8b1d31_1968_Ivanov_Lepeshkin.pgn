@@ -1,0 +1,23 @@
+[Event "France"]
+[Site "France"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Ivanov, Igor Vasilyevich"]
+[Black "Lepeshkin, Vladimir"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "ad8b1d31"]
+[Epoch "Bishop"]
+[BlackID "4104986"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bxf6 Qxf6 5. Nbd2 d5 6. e4 a6 7. Bd3 c5 8. O-O
+Nc6 9. Re1 Nxd4 10. exd5 Nxf3+ 11. Nxf3 Be7 12. Be4 exd5 13. Bxd5 O-O 14. Ne5
+Bd6 15. Nxf7 Rxf7 16. Bxf7+ Kxf7 17. Qd5+ Kg6 18. Re8 Qd4 19. Rd1 Qxd5 20. Rxd5
+Kf7 21. Rxc8 Bxh2+ 22. Kxh2 Rxc8 23. Rd7+ Kf6 24. Rxb7 Rc6 25. Kg3 c4 26. Kf3
+h5 27. Ke3 h4 28. Kf3 g5 29. Rb8 Re6 30. Rf8+ Kg6 31. Rc8 Rf6+ 32. Ke3 Rb6 33.
+b3 cxb3 34. axb3 Kf6 35. Rc4 Re6+ 36. Kf3 Kf5 37. g3 hxg3 38. fxg3 Rd6 39. g4+
+Kf6 40. Ke4 Ke6 41. Rc5 Kf6 42. Rf5+ Kg6 43. Rd5 Rf6 44. Ke5 1-0

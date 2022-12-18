@@ -1,0 +1,23 @@
+[Event "Islington op"]
+[Site "Islington"]
+[Date "1972.12.15"]
+[Round "1"]
+[White "Morley, Andrew J"]
+[Black "Byway, Paul V"]
+[Result "1-0"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "81bc97a3"]
+[Epoch "Bishop"]
+[WhiteID "420077"]
+[BlackID "400920"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 O-O 5. e3 c5 6. a3 Bxc3+ 7. bxc3 b6 8.
+Bd3 Bb7 9. O-O d6 10. Qe2 Nc6 11. Rd1 Qc7 12. e4 e5 13. Bg5 Ne8 14. Rac1 f6 15.
+Bh4 g6 16. Bg3 Ng7 17. d5 Na5 18. h3 Nh5 19. Bh2 Nf4 20. Bxf4 exf4 21. Nd2 Qe7
+22. Re1 Qe5 23. Qg4 Bc8 24. Qh4 Ba6 25. Nf3 Qe7 26. e5 g5 27. Qh6 dxe5 28. Nxg5
+fxg5 29. Rxe5 Rf6 30. Bxh7+ Qxh7 31. Qxf6 Qf7 32. Rxg5+ Kf8 33. Qd6+ Qe7 34.
+Rf5+ Ke8 35. Re5 Qxe5 36. Qxe5+ Kd7 37. Re1 Rd8 38. Qe7+ Kc8 39. d6 1-0

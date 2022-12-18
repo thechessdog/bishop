@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Spitzenberger, E."]
+[Black "Vivas, P."]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "a564b0c5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 Nd7
+8. d4 f6 9. b3 c5 10. dxe5 Nxe5 11. Nxe5 fxe5 12. Bb2 Bf6 13. Qe2 Qe7 14.
+Nc3 Be6 15. Nd5 Bxd5 16. exd5 O-O-O 17. Qe4 Qd6 18. c4 Kb8 19. Rae1 Rde8
+20. Re2 g6 21. Rfe1 Re7 22. Bc3 b6 23. a3 a5 24. Rb1 c6 25. dxc6 Kc7 26. b4
+axb4 27. axb4 Qxc6 28. bxc5 1-0
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Budovskis, I."]
+[Black "Maly, N."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "72f21055"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qf7 6. Ne3 c6 7. d3 exd3
+8. Bxd3 d5 9. O-O Bd6 10. Re1 Nf6 11. Nc4+ Kd7 12. Bf5+ Kc7 13. Nxd6 Kxd6
+14. Bf4+ Kc5 15. Na4+ Kb5 16. Qd3+ Kxa4 17. Qb3+ Ka5 18. Bd2+ Ka6 19. Qa4+
+Kb6 20. Qa5# 1-0
+

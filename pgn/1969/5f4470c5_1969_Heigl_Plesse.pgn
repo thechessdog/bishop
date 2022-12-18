@@ -1,0 +1,20 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Heigl"]
+[Black "Plesse, H."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "5f4470c5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bg5 a6 10. Ne4 b5 11. Ncxd6 Qa5+ 12. Bd2 Qc7 13. Bc3 Nxe4 14.
+Nxe4 Bxc3+ 15. Nxc3 b4 16. Na4 Bd7 17. a3 Qa5 18. axb4 Qxb4+ 19. Qd2 Bxa4
+20. Qxb4 cxb4 21. Rxa4 a5 22. e4 Re8 23. f3 f5 24. Bb5 Re5 25. Kf2 Kf8 26.
+Rha1 fxe4 27. fxe4 Rxe4 28. Rxa5 Rxa5 29. Rxa5 Ke7 30. Ra8 Rf4+ 31. Ke3 Rf8
+32. Ra7+ Kd6 33. Rxh7 Kxd5 34. Rg7 Rf6 35. Bd3 Re6+ 36. Kd2 1-0
+

@@ -1,0 +1,25 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Edelsvard, Olle"]
+[Black "Johansson, Martin"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed system"]
+[HashCode "89f02236"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 Nge7 7. O-O O-O 8. d4
+exd4 9. exd4 Re8 10. d5 Ne5 11. b3 Bf5 12. Nd4 Bd3 13. Re1 Nf5 14. Be3 Qf6 15.
+Rc1 Nxe3 16. fxe3 h5 17. Nf3 Bf5 18. Nxe5 Rxe5 19. e4 Bg4 20. Qd2 a6 21. c5
+dxc5 22. Na4 b6 23. b4 Bd7 24. Nb2 Ree8 25. Rc2 Qd4+ 26. Qxd4 Bxd4+ 27. Kh1
+cxb4 28. Rxc7 Bb5 29. Nc4 Bc5 30. Bf1 Rac8 31. Rxc8 Rxc8 32. Ne5 Bxf1 33. Rxf1
+Re8 34. Nd7 Rd8 35. Nxc5 bxc5 36. Rf6 Re8 37. Rxa6 Rxe4 38. Ra8+ Kg7 39. Rc8 c4
+40. d6 Rd4 41. d7 Rxd7 42. Rxc4 Rd1+ 43. Kg2 Rd2+ 44. Kh3 Rb2 45. g4 hxg4+ 46.
+Rxg4 f5 47. Rc4 Kh6 48. Kg3 Kh5 49. Rh4+ Kg5 50. Rc4 Rb1 51. h3 b3 52. axb3
+Rxb3+ 53. Kg2 Re3 54. Rc8 Kf4 55. Rc4+ Re4 56. Rc2 Ra4 57. Rf2+ Kg5 58. Rb2 Kh4
+59. Rb6 Ra2+ 60. Kf1 g5 61. Rh6+ Kg3 62. Rh5 Rf2+ 63. Kg1 Rg2+ 64. Kh1 Rh2+ 65.
+Kg1 Rxh3 66. Rxg5+ Kf4 67. Rg2 Rg3 0-1

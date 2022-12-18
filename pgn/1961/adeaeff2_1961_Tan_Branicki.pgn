@@ -1,0 +1,18 @@
+[Event "The Hague ch-NLD"]
+[Site "The Hague ch-NLD"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Tan"]
+[Black "Branicki"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Taimanov (chase/wing/accelerated counterthrust) variation"]
+[HashCode "adeaeff2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. d4 Nxb3 7. axb3 exd4
+8. Qxd4 Bb7 9. O-O Qf6 10. Qd3 Bc5 11. Rd1 d6 12. Nc3 Ne7 13. Bg5 Qe6 14.
+Nxb5 axb5 15. Qxb5+ Bc6 16. Rxa8+ Kd7 17. Qxc5 Bxa8 18. Qb5+ Kc8 19. Ra1
+Bc6 20. Nd4 Qxe4 21. Nxc6 Nxc6 22. Ra8+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Scheichel"]
+[Black "Nemlioglu"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "2f60ec12"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 Ne8 8. Qc2
+Na6 9. a3 e6 10. Bd3 Nac7 11. O-O f5 12. dxe6 fxe4 13. Bxe4 Nxe6 14. Ne2
+Nf6 15. Bd3 Ng4 16. f5 gxf5 17. Bxf5 Nd4 18. Nexd4 cxd4 19. Bxh7+ Kh8 20.
+Bd3 Ne3 21. Bxe3 dxe3 22. Qe2 Qb6 23. Nd4 Rxf1+ 24. Rxf1 Qc5 25. Nf5 Bxf5
+26. Rxf5 Qd4 27. Qh5+ Kg8 28. Qf7+ 1-0
+

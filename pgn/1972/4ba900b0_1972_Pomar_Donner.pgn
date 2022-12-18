@@ -1,0 +1,17 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Pomar Salamanca, Arturo"]
+[Black "Donner, Jan Hein"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "4ba900b0"]
+[Epoch "Bishop"]
+[WhiteCountry "EST"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 e5 7. dxe5 Nfd7 8. Bb2
+dxe5 9. e4 Nc6 10. Na3 Nc5 11. Qxd8 Rxd8 12. Nb5 Ne6 13. Rad1 Bd7 1/2-1/2

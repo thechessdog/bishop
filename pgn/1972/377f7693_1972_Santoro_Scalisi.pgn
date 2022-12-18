@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Santoro"]
+[Black "Scalisi"]
+[Result "0-1"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Ragozin variation"]
+[HashCode "377f7693"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Nf3 O-O 6. Bd3 d5 7. O-O dxc4 8.
+Bxc4 Bd6 9. Bb5 Nd5 10. e4 Nxc3 11. bxc3 Bd7 12. Qe2 a6 13. Bc4 b5 14. Bd3
+e5 15. Bb2 Qf6 16. Nxe5 Nxe5 17. dxe5 Bxe5 18. Qc2 b4 19. Rac1 Bb5 20. Ba1
+Qd6 21. Rfd1 Bxh2+ 22. Kf1 Bxd3+ 23. Rxd3 Qe6 24. cxb4 Qxe4 25. Rg3 Rfe8
+26. Rxg7+ Kf8 27. Rxh7 Qxc2 28. Rxc2 Bd6 29. Bf6 0-1
+

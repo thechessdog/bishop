@@ -1,0 +1,18 @@
+[Event "corr Finland"]
+[Site "corr Finland"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Nylund, T."]
+[Black "Tuominen, R."]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "a2657bf5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Ndb5 Qb8 7. Be3 a6
+8. Bb6 axb5 9. Nxb5 Bb4+ 10. c3 Ba5 11. Nd6+ Kf8 12. Bc5 Nce7 13. Qh5 Nh6
+14. Rd1 Bc7 15. Qh4 b6 16. Nxc8 Qxc8 17. Qxe7+ Kg8 18. Rxd7 bxc5 19. Rxc7
+Qb8 20. Qxc5 1-0
+

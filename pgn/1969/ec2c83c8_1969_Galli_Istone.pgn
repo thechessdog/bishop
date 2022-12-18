@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Galli"]
+[Black "Istone"]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Marshall defence"]
+[HashCode "ec2c83c8"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 d5 3. cxd5 Qxd5 4. Nc3 Qd8 5. Nf3 Bg4 6. e3 e5 7. Qa4+ Qd7
+8. Nxe5 Qxa4 9. Nxa4 Nbd7 10. Nxg4 Nxg4 11. Be2 Ngf6 12. O-O O-O-O 13. a3
+h5 14. b4 g5 15. Nc5 Bg7 16. Rb1 g4 17. Bd2 Nd5 18. Rfc1 Rhe8 19. Bd3 Nxc5
+20. bxc5 Kb8 21. Rb3 Bh6 22. Ba6 Ka8 23. Bxb7+ 1-0
+

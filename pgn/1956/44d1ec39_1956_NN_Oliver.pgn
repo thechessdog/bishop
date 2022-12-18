@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1956.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Oliver, V."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "44d1ec39"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Bg4 7. Nxf7 Qxd5
+8. f3 Qxf7 9. fxg4 a6 10. a4 Bc5 11. axb5 Bf2+ 0-1
+

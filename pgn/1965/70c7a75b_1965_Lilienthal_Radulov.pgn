@@ -1,0 +1,18 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Lilienthal, Andor Arnoldovich"]
+[Black "Radulov, Ivan"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "70c7a75b"]
+[Epoch "Bishop"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 b6 7. cxd5 exd5 8. Qc2
+c5 9. Bd3 h6 10. Bxf6 Bxf6 11. dxc5 Nc6 12. Rd1 Nb4 13. Qb1 bxc5 1/2-1/2

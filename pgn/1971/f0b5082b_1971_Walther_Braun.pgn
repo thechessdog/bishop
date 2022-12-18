@@ -1,0 +1,22 @@
+[Event "corr ICCF/WT"]
+[Site "corr ICCF/WT"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Browne, Walter S"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "f0b5082b"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. d5 Bc8 15.
+Re3 Ne8 16. Rc3 Qd8 17. b4 Nb7 18. Bb2 Bd7 19. Nf1 f5 20. Bd3 fxe4 21. Bxe4 Rf4
+22. Bb1 Rxb4 23. Qc2 g6 24. a3 Rf4 25. Ba2 Rf7 26. Ng3 Bf6 27. Ne4 Bf5 28.
+Nxf6+ Nxf6 29. Qd1 Ne4 30. Rc6 Bxh3 31. gxh3 Qf6 32. Bxe5 Qxf3 33. Qxf3 Rxf3
+34. Bd4 Rd3 35. Be3 Rxa3 36. Rc7 Nbc5 37. Re1 Nd3 38. Re2 Nc3 39. Rc2 b4 40.
+Bc4 Ne5 41. Kg2 Nxc4 42. Rxc4 Nxd5 43. Bd2 a5 44. Rd4 b3 45. Rc1 Ne7 46. Rxd6
+Rb8 0-1

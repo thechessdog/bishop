@@ -1,0 +1,21 @@
+[Event "Glasgow"]
+[Site "Glasgow"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Levy, David N L"]
+[Black "Keene, Raymond D"]
+[Result "0-1"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "11471ecc"]
+[Epoch "Bishop"]
+[BlackID "400211"]
+[BlackCountry "ENG"]
+[WhiteID "2400120"]
+[WhiteCountry "SCO"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 Ne7 8. Bd3
+b6 9. O-O Ba6 10. Bxa6 Nxa6 11. Qd3 Nb8 12. Qb5+ Nd7 13. a4 O-O 14. Ba3 Rfc8
+15. Rfd1 Ng6 16. Rd2 Qc6 17. Rc1 Qxb5 18. axb5 a6 19. bxa6 Rxa6 20. Ra1 Rca8
+0-1

@@ -1,0 +1,22 @@
+[Event "Wch U20 final-B"]
+[Site "Antwerp"]
+[Date "1955.??.??"]
+[Round "2"]
+[White "Muller, Vilhelm"]
+[Black "Klages, Jurgen"]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "d95fc63a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. Be3 Ng4 9. Be2 Nxe3 10. Qxe3 O-O 11. f4 Qb6 12. O-O-O Bf6 13. e5 dxe5
+14. Na4 Qa5 15. Nxc6 bxc6 16. fxe5 Bxe5 17. b3 Rb8 18. Qc5 Bf4+ 19. Kb1
+Qxa4 20. Rd4 Qxd4 21. Qxd4 e5 22. Qxa7 Bf5 23. Qf2 Rfd8 24. Rd1 Rxd1+ 25.
+Bxd1 Rd8 26. Qf1 Bg6 27. g3 Bd2 28. Kb2 e4 29. a4 h6 30. Be2 Bb4 31. Qf4
+Rd2 32. Qb8+ Bf8 33. a5 Rxe2 34. a6 e3 35. a7 Rxc2+ 36. Ka1 Rc1+ 37. Ka2
+Rc2+ 38. Ka1 e2 39. Qe5 Rc1+ 40. Kb2 e1=Q 41. Qxe1 Rxe1 42. a8=Q Re2+ 43.
+Kc3 c5 44. Qh1 Rc2# 0-1
+

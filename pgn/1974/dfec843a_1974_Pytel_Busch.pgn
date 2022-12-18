@@ -1,0 +1,27 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pytel, Krzysztof"]
+[Black "Busch, Raimund"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Smyslov variation"]
+[HashCode "dfec843a"]
+[Epoch "Bishop"]
+[WhiteID "600199"]
+[BlackID "4602480"]
+[WhiteCountry "FRA"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 O-O 6. Bd3 d5 7. O-O dxc4 8. Bxc4
+Qe7 9. a3 Ba5 10. Ba2 Rd8 11. Qe2 Nc6 12. Rd1 Bd7 13. Bd2 cxd4 14. exd4 Be8 15.
+Bg5 Bb6 16. d5 exd5 17. Qc2 d4 18. Nd5 Qc5 19. Qxc5 Bxc5 20. Bxf6 gxf6 21. b4
+Bd6 22. b5 Ne7 23. Nxf6+ Kg7 24. Nxe8+ Rxe8 25. a4 Rad8 26. Rxd4 Bc7 27. Rad1
+Ng6 28. Rxd8 Rxd8 29. Rxd8 Bxd8 30. Bd5 Nf4 31. Bc4 Ng6 32. g3 Nf8 33. Ne5 f6
+34. Nd3 Nd7 35. Bd5 Nb6 36. Bb3 Nd7 37. Kg2 Be7 38. Bc2 Bd6 39. f4 Nc5 40. Nb2
+Ne6 41. Nc4 Bb4 42. Ne3 Bc5 43. Nf5+ Kf8 44. Kf3 Nd4+ 45. Nxd4 Bxd4 46. Bxh7 a6
+47. bxa6 bxa6 48. Bd3 a5 49. Ke4 Bg1 50. h3 Kg7 51. Kf5 Bf2 52. g4 Bg3 53. g5
+fxg5 54. fxg5 Bf2 55. Kg4 Be1 56. h4 Bd2 57. h5 Be3 58. h6+ Kg8 59. Kh5 Bd2 60.
+g6 1-0

@@ -1,0 +1,17 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Glass, Eduard"]
+[Black "Ribar"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "0c0c7272"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. c3 d6 3. d4 Nd7 4. Nf3 Qc7 5. Na3 a6 6. Bc4 Ngf6 7. Ng5 e6 8. Qb3
+Nb6 9. O-O Bd7 10. Bf4 Ba4 11. Bb5+ axb5 12. Nxb5 Qd7 13. Bxd6 Bxb3 14. axb3
+Qxb5 0-1

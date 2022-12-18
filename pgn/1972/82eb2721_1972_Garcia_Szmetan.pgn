@@ -1,0 +1,17 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1972.01.01"]
+[Round "7"]
+[White "Garcia, Horacio Pedro"]
+[Black "Szmetan, Jorge"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "82eb2721"]
+[Epoch "Bishop"]
+[BlackID "100366"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 f5 10. Ne1 Bxg2 11. Nxg2 Bf6 12. c5 Nc6 13. Be3 1/2-1/2

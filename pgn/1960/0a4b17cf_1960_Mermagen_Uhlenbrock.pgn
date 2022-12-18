@@ -1,0 +1,19 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Mermagen, J."]
+[Black "Uhlenbrock, E."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "0a4b17cf"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+cxd5 9. cxd5 a6 10. Bd3 Nbd7 11. Nge2 b5 12. Rc1 Nb6 13. b3 Ne8 14. O-O f5
+15. Bh6 f4 16. Bxg7 Kxg7 17. a4 b4 18. Nd1 a5 19. Nf2 Nd7 20. Qb2 Nc5 21.
+Rxc5 dxc5 22. Qxe5+ Nf6 23. Rc1 Re8 24. Qb2 Qd6 25. Bb5 Ba6 26. Bxe8 Rxe8
+27. Ng4 Bxe2 28. e5 Qxd5 29. Nxf6 1-0
+

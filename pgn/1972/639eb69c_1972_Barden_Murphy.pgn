@@ -1,0 +1,18 @@
+[Event "Barnstaple op"]
+[Site "Barnstaple"]
+[Date "1972.??.??"]
+[Round "1"]
+[White "Barden, Leonhard William"]
+[Black "Murphy, R."]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "639eb69c"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. e5 Bg4 8. exf6
+Bxd1 9. fxg7 Rg8 10. Bb5+ Nd7 11. Nxd1 a6 12. Ba4 Qc7 13. Nc3 O-O-O 14. Be3
+Rxg7 15. O-O-O e6 16. Bxd7+ Rxd7 17. Rd3 Kb8 18. Nb3 Rg8 19. Rhd1 Rgd8 20. Bd4
+Ka8 21. Na4 1-0

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Siegers, L."]
+[Black "Amilibia, C."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "774df619"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 b5 4. Bxg8 Rxg8 5. Qe2 Qe7 6. Qxb5 Nc6 7. Qd5
+fxe4 8. Nxe5 Qxe5 9. Qxg8 Nb4 10. Kd1 Qf5 11. Na3 d5 12. Nb5 Qxf2 13. Nxc7+
+Ke7 14. Nxd5+ Nxd5 15. h3 Bg4+ 16. hxg4 Ne3+ 17. dxe3 Rd8+ 0-1
+

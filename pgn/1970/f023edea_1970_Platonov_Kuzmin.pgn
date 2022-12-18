@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Platonov, Igor"]
+[Black "Kuzmin, G."]
+[Result "0-1"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, not Scheveningen"]
+[HashCode "f023edea"]
+[Epoch "Bishop"]
+[WhiteID "24197190"]
+[BlackID "4132041"]
+[WhiteCountry "UKR"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e5 7. Nf5 Be6 8.
+Bb3 Qd7 9. Bg5 Nxe4 10. Nxg7+ Bxg7 11. Nxe4 Bxb3 12. Nxd6+ Kf8 13. axb3 Nd4 14.
+c3 Qxd6 15. cxd4 Qg6 16. Qd2 h6 17. Qb4+ Kg8 18. Qxb7 Re8 19. Be7 Qe6 20. Rxa7
+exd4+ 21. Kd2 Be5 22. Re1 Qf5 23. Qf3 Bf4+ 24. Kd1 Rc8 0-1

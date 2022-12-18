@@ -1,0 +1,20 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "10"]
+[White "Parma, Bruno"]
+[Black "Popov, Luben"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "2f2972ac"]
+[Epoch "Bishop"]
+[WhiteID "14600706"]
+[WhiteCountry "SLO"]
+[BlackID "2900173"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. f4 e5 8. f5
+b5 9. a4 Bb7 10. Qe2 Nf6 11. Nd2 Nd7 12. O-O Nc5 13. axb5 cxb5 14. Nf3 f6 15.
+Be3 Qc7 1/2-1/2

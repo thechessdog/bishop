@@ -1,0 +1,22 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1970.01.01"]
+[Round "3"]
+[White "Zhukhovitsky, Samuel"]
+[Black "Muchnik, Khanan Lvovich"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "ee4bc5b6"]
+[Epoch "Bishop"]
+[WhiteID "4101383"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. Nf1 Rac8 15.
+Bb1 Rfe8 16. d5 Nh5 17. Bd3 g6 18. Ne3 Nc4 19. b3 Nb6 20. Bd2 Nd7 21. Rc1 Qd8
+22. Bc2 Rf8 23. Qe2 Nf4 24. Qf1 f5 25. exf5 Rxc2 26. Nxc2 Nxd5 27. fxg6 hxg6
+28. Qd3 Rf5 29. Nb4 Nc5 30. Qb1 Qa8 31. Nd4 exd4 32. Nxd5 Bxd5 33. Rxe7 Be4 34.
+Rxe4 Qxe4 35. Qxe4 Nxe4 36. Bb4 d3 37. f3 Nc5 38. Rd1 Re5 39. Kf1 Re2 40. Rd2
+Rxd2 41. Bxd2 1-0

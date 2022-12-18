@@ -1,0 +1,24 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Sapi, Laszlo"]
+[Black "Pogats, Jozsef Jr."]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "aa91f534"]
+[Epoch "Bishop"]
+[BlackID "744450"]
+[BlackCountry "HUN"]
+[WhiteID "701513"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+b6 9. Qe2 Bb7 10. Rd1 Qc8 11. Bd2 cxd4 12. exd4 Bxc3 13. bxc3 Bxf3 14. gxf3
+Nbd7 15. Rac1 Qc7 16. Bb3 e5 17. dxe5 Qxe5 18. Qxe5 Nxe5 19. Kg2 Nd3 20. Rb1
+Rac8 21. Bc2 Rfd8 22. Kf1 Nc5 23. Bf5 Ne6 24. Bxe6 fxe6 25. Be1 Kf7 26. Rxd8
+Rxd8 27. a4 Rd5 28. Rb5 Rxb5 29. axb5 Ne8 30. Ke2 Nd6 31. c4 Nxc4 32. Bb4 Ke8
+33. Kd3 Ne5+ 34. Ke4 Nf7 35. Kf4 Kd7 36. Bf8 g6 37. h4 e5+ 38. Ke4 Ke6 39. f4
+exf4 40. Kxf4 Kd5 0-1

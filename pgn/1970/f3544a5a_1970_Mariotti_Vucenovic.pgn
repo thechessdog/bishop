@@ -1,0 +1,18 @@
+[Event "Alassio"]
+[Site "Alassio"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Mariotti"]
+[Black "Vucenovic"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "f3544a5a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 b5 7. cxd4 bxc4
+8. dxe5 Nxd5 9. Nf3 Nb4 10. O-O Bf5 11. Na3 Bd3 12. Re1 Bc5 13. b3 Bd4 14.
+Nxd4 Qxd4 15. Nb5 Qxa1 16. Nxc7+ Kd7 17. Nxa8 Qd4 18. e6+ Kc6 19. bxc4 Bxc4
+20. Ba3 Nd3 21. Qa4+ 1-0
+

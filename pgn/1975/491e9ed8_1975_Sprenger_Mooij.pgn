@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Sprenger"]
+[Black "Mooij"]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "491e9ed8"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O Nb6
+8. Nc3 Nc6 9. Bf4 Nxd4 10. Nxd4 Bxd4 11. Nb5 e5 12. Bh6 Re8 13. e3 Bc5 14.
+Qxd8 Rxd8 15. Rac1 Bd6 16. Nxc7 Rb8 17. Nb5 Bf8 18. Bxf8 Kxf8 19. Rfd1
+Rxd1+ 20. Rxd1 a6 21. Nc3 Be6 1/2-1/2
+

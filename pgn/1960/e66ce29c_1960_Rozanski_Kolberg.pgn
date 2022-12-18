@@ -1,0 +1,19 @@
+[Event "Wroclaw tt"]
+[Site "Wroclaw tt"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Rozanski, B."]
+[Black "Kolberg"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "e66ce29c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c5 5. e4 dxe4 6. d5 exf3 7. Nxf3 Nbd7
+8. Bb5 Qc7 9. Qe2 O-O-O 10. Bxd7+ Bxd7 11. Ne5 Be8 12. O-O-O g6 13. Rhe1
+Bg7 14. Nc4 h6 15. d6 exd6 16. Nd5 Nxd5 17. Bxd8 Qxd8 18. Rxd5 Bc6 19. Rxd6
+Qg5+ 20. Kb1 Rd8 21. Rxd8+ Qxd8 22. Qg4+ Bd7 23. Qf4 Qc7 24. Qxf7 b5 25.
+Qxg7 bxc4 26. Qxh6 c3 27. Qh8+ Kb7 28. Qxc3 Qxh2 29. b3 Qxg2 30. Qxc5 g5
+31. Re7 Qd2 32. Qb5+ Kc7 33. Rxd7+ Qxd7 34. Qxd7+ Kxd7 35. Kc1 1-0
+

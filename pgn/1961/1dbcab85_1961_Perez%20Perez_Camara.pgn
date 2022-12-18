@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1961.03.01"]
+[Round "11"]
+[White "Perez Perez, Francisco Jose"]
+[Black "Camara, Ronald"]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "1dbcab85"]
+[Epoch "Bishop"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 a6 10. g4 h5 11. h3 Nbd7 12. O-O-O b5 13. Kb1 Rb8 14. Rc1 Qa5 15. Bd3
+Nc5 16. Nge2 Bd7 17. Rhg1 b4 18. Nd1 Nxd3 19. Qxd3 Bb5 20. Qd2 Bxe2 21. Qxe2
+Rfc8 22. Rc4 Rc7 23. b3 Rxc4 24. Qxc4 Qb5 25. Nb2 Qxc4 26. Nxc4 hxg4 27. hxg4
+Ne8 28. Rc1 Bf6 29. Na5 Rb5 30. Rc8 Rxa5 31. Rxe8+ Kg7 32. g5 1-0

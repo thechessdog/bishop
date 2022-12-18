@@ -1,0 +1,26 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "11"]
+[White "Westerinen, Heikki M.J."]
+[Black "Cortlever, Nicolaas"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "86080d76"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. Nxe5
+Nxe5 9. dxe5 c6 10. c3 Be7 11. Be3 O-O 12. f3 Nc5 13. Bc2 f6 14. f4 fxe5 15.
+fxe5 Rxf1+ 16. Qxf1 Qf8 17. Nd2 Qxf1+ 18. Rxf1 Bg4 19. h3 Be2 20. Rf2 Bh5 21.
+b4 Na4 22. g4 Bg6 23. Bxg6 hxg6 24. Bd4 c5 25. bxc5 Nxc5 26. Nf1 Ne4 27. Rf3
+Rc8 28. Rd3 Kf7 29. e6+ Kxe6 30. Bxg7 Rc4 31. Ne3 Bc5 32. Bd4 Bxd4 33. cxd4 Rc3
+34. Ng2 g5 35. Ne1 b4 36. Kg2 a5 37. Kf3 Rc1 38. Re3 Rd1 39. Nc2 Rd2 40. Re2
+Rxe2 41. Kxe2 Nc3+ 42. Kd2 Nxa2 43. Ne1 Nc3 44. Kc2 Kd6 45. Nf3 Ne4 46. Kb3 Kc6
+47. Ka4 Kb6 48. h4 gxh4 49. Nxh4 Nc3+ 50. Kb3 Kb5 51. Nf3 a4+ 52. Kc2 Ne4 53.
+g5 b3+ 54. Kc1 a3 55. g6 Kb4 56. g7 Nf6 57. Kb1 Kc3 58. Ka1 Kc2 59. Ne1+ Kd2
+0-1

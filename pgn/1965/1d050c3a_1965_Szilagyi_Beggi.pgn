@@ -1,0 +1,19 @@
+[Event "Reggio Emilia 6566"]
+[Site "Reggio Emilia"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Szilagyi, Gyorgy"]
+[Black "Beggi, Pierluigi"]
+[Result "1-0"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "1d050c3a"]
+[Epoch "Bishop"]
+[BlackID "801127"]
+[BlackCountry "ITA"]
+[WhiteCountry "HUN"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 c6 4. Nf3 e4 5. Nd4 d5 6. cxd5 Qb6 7. Nb3 h5 8. Bg2
+Bf5 9. d3 Ng4 10. d4 Nf6 11. dxc6 Nxc6 12. Bg5 Bb4 13. Bxf6 gxf6 14. e3 h4 15.
+Qc2 hxg3 16. hxg3 Rxh1+ 17. Bxh1 Rc8 18. Bxe4 1-0

@@ -1,0 +1,21 @@
+[Event "Blaricum"]
+[Site "Blaricum"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Baart, Joan"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "e4fbea2c"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. e5 Qa5+ 4. Bd2 Qb6 5. Bc3 Bf5 6. Ne2 e6 7. Ng3 Bg6 8. Bd3
+Nd7 9. Qd2 c5 10. Qe3 Bxd3 11. Qxd3 cxd4 12. Bxd4 Bc5 13. Bxc5 Nxc5 14. Qd4 Rc8
+15. Na3 Ne7 16. Rb1 Nc6 17. Qd2 Nxe5 18. O-O O-O 19. Qd4 Ncd7 20. Qxb6 Nxb6 21.
+Rfe1 Nec4 22. Nxc4 Rxc4 23. c3 Rfc8 24. Re3 d4 25. cxd4 Rxd4 26. Re2 Rcd8 27.
+b3 Rd1+ 28. Re1 Rxe1+ 29. Rxe1 Rc8 30. Ne4 Nd5 31. Nd6 Rb8 32. Rc1 Kf8 33. f3
+Ke7 34. Ne4 Rd8 35. Kf2 Rd7 36. Rc4 Rc7 37. Ra4 a6 38. Ng5 h6 39. Nh3 Rc2+ 40.
+Kg3 Ne3 41. Nf2 Nf5+ 42. Kh3 Rxf2 43. g4 Rxf3+ 44. Kg2 Nh4+ 45. Kg1 Rc3 46. b4
+Rc4 47. h3 Nf3+ 0-1

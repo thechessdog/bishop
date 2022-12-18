@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Reyss, H."]
+[Black "Altshuler, Roman"]
+[Result "1-0"]
+[ECO "D28"]
+[Opening "QGA"]
+[Variation "classical, 7...b5"]
+[HashCode "ca904f53"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8.
+Bd3 Bb7 9. dxc5 Bxc5 10. Bxb5+ Nbd7 11. Ba4 O-O 12. Nc3 Ba7 13. e4 Rc8 14.
+Be3 Bb8 15. Rfd1 h6 16. Rxd7 Nxd7 17. Rd1 Bc6 18. Qxa6 Bxa4 19. Qxa4 Rc7
+20. Ne5 1-0
+

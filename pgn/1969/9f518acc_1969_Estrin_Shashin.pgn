@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Shashin, Alexsander A"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "9f518acc"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. Ng5
+Bxb5 9. Qxg4 Bd7 10. e6 Bxe6 11. Nxe6 fxe6 12. dxc5 Qd7 13. cxd6 exd6 14. Bd2
+Nc6 15. O-O-O O-O-O 16. Ne4 Rhe8 17. Bc3 d5 18. Nf6 Qe7 19. Nxe8 Bxc3 20. bxc3
+Qxe8 21. c4 Qe7 22. Qh3 Qf6 23. Kb1 Ne7 24. Qa3 Kb8 25. Rhe1 Nf5 26. cxd5 exd5
+27. Rd3 d4 28. Qc5 Qh4 29. Qe5+ Ka8 30. g3 Qxh2 31. g4 Rc8 32. Rc1 Ne3 33. Qxd4
+Nc4 34. Qxc4 1-0

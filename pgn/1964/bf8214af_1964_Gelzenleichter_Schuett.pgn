@@ -1,0 +1,20 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Gelzenleichter, S."]
+[Black "Schuett, I."]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "bf8214af"]
+[Epoch "Bishop"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. e4 c5 7. c3 Nc6 8.
+Ne1 Rb8 9. a4 a6 10. Qc2 b5 11. axb5 axb5 12. f4 Qb6 13. Kh1 Bd7 14. Nf3 c4
+15. Re1 cxd3 16. Qxd3 Ng4 17. Be3 Nxe3 18. Rxe3 b4 19. Nbd2 bxc3 20. bxc3
+Nb4 21. Nc4 Qc7 22. Qe2 Bb5 23. Rc1 Na6 24. Bf1 Rfc8 25. Nfd2 Nc5 26. Qe1
+Na4 27. Rc2 Qb7 28. Qa1 Rc7 29. h4 Rbc8 30. Rc1 Bxc4 31. Qxa4 Bxf1 32. Rxf1
+Qb2 33. Nf3 Bxc3 34. Qd1 Qb5 35. Kg2 Rc4 36. Qd3 Ba5 37. Re2 R8c5 0-1
+

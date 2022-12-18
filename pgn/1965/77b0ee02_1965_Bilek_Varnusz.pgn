@@ -1,0 +1,18 @@
+[Event "HUN-ch21"]
+[Site "Budapest"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Varnusz, Egon"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "77b0ee02"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. e3 Bb4 6. Bd3 O-O 7. Bd2 d5 8. O-O
+Nbd7 9. Nxd5 Nxd5 10. cxd5 Bxd2 11. dxe6 Bxf3 12. gxf3 Bxe3 13. fxe3 fxe6 14.
+f4 Nf6 15. Rc1 Kh8 16. Rf2 c5 17. dxc5 bxc5 18. e4 Ng4 1/2-1/2

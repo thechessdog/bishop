@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Espig, Lutz"]
+[Black "Zinn, Lothar"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "78fd00fd"]
+[Epoch "Bishop"]
+[WhiteID "4611276"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. Nf3 e6 3. c4 b6 4. g3 Be7 5. Bg2 Nf6 6. O-O O-O 7. Nc3 Bb7 8. Ne5
+Ne4 9. cxd5 exd5 10. Qc2 Nxc3 11. Qxc3 c5 12. Be3 Nd7 13. Nxd7 Qxd7 14. Rfd1 c4
+15. Bf4 b5 16. e4 dxe4 17. d5 f5 18. a4 Bf6 19. Qd2 a6 20. f3 Rfe8 21. fxe4
+fxe4 22. Rac1 Rad8 23. d6 e3 24. Bxe3 Bxg2 25. Kxg2 Bxb2 26. Qxb2 Rxe3 27. axb5
+axb5 28. Kg1 Qc6 29. Qd4 Re6 30. d7 Rxd7 31. Qxd7 Re1+ 32. Rxe1 Qxd7 33. Red1
+Qc7 34. Ra1 c3 35. Ra8+ Kf7 36. Rf1+ Ke7 37. Ra2 c2 0-1

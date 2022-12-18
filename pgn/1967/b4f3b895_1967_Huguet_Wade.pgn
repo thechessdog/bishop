@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Huguet"]
+[Black "Wade, Robert Graham"]
+[Result "1/2-1/2"]
+[ECO "B79"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 12.h4"]
+[HashCode "b4f3b895"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Nc6 7. Be3 Bg7 8. Bc4
+O-O 9. Qd2 Bd7 10. O-O-O Qa5 11. h4 Rfc8 12. Bb3 Ne5 13. h5 Nxh5 14. g4 Nf6 15.
+Bh6 Rxc3 16. bxc3 Bxh6 17. Rxh6 Rc8 18. Kb2 Qb6 19. Kc1 Qa5 20. Kb2 Qb6 21. Kc1
+Qc5 22. Kb2 a5 23. Rdh1 a4 24. Rxh7 Nxh7 25. Qh6 e6 26. g5 Ng4 27. Qxh7+ Kf8
+28. Ne2 axb3 29. fxg4 Qxg5 30. Rf1 Be8 31. Nf4 Ke7 32. axb3 Ra8 33. b4 Qxg4 34.
+Qg7 Qg5 35. Qd4 Qb5 36. Nxg6+ fxg6 37. Qg7+ Kd8 38. Qf6+ Kd7 39. Rh1 Qa6 40.
+Rh7+ Kc6 41. Kc1 Qe2 42. Kb2 Qd1 43. b5+ Kb6 44. Qf2+ Ka5 45. Rxb7 Ka4 46. Qb6
+Ra5 1/2-1/2

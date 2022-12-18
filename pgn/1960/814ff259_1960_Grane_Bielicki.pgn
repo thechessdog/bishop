@@ -1,0 +1,21 @@
+[Event "Mar del Plata KIM"]
+[Site "Mar del Plata"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Grane, E."]
+[Black "Bielicki, Carlos"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "814ff259"]
+[Epoch "Bishop"]
+[BlackID "100684"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. Qf3
+Bb7 9. a3 Nbd7 10. f5 e5 11. Nb3 Be7 12. O-O-O Rc8 13. Bxf6 Nxf6 14. g4 Rxc3
+15. Qxc3 Nxe4 16. Qa5 Bg5+ 17. Kb1 Nd2+ 18. Rxd2 Bxd2 19. Qxd8+ Kxd8 20. Bg2
+Bxg2 21. Rg1 Bf4 22. Rxg2 Ke7 23. Nc1 h5 24. Nd3 Kf6 25. h3 hxg4 26. hxg4 Kg5
+27. Nb4 e4 28. Nxa6 e3 29. Rg1 e2 30. Nb4 Re8 31. Nd3 Bd2 32. Ne1 Bxe1 33. Rxe1
+Kxg4 34. Kc1 Kf3 35. b3 Re5 36. Kd2 Kf2 0-1

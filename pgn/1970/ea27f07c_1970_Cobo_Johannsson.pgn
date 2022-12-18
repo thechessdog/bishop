@@ -1,0 +1,18 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Cobo, E."]
+[Black "Johannsson, G."]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "ea27f07c"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Bb4 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Qc2 Bxc3+ 10. bxc3 d6 11. Bd3 Nxg3 12. hxg3 Nd7 13. a4 a5 14. Rb1 Qe7
+15. Be4 O-O-O 16. Bxb7+ Kxb7 17. Nd2 f5 18. Ke2 Rdf8 19. c5 dxc5 20. Nc4 Ka7
+21. Qb3 cxd4 22. cxd4 c5 23. Nxb6 1-0

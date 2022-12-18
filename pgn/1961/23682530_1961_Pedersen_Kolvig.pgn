@@ -1,0 +1,20 @@
+[Event "Nykobing"]
+[Site "Nykobing"]
+[Date "1961.01.01"]
+[Round "9"]
+[White "Pedersen, Eigil"]
+[Black "Kolvig, Bent"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Marshall gambit"]
+[HashCode "23682530"]
+[Epoch "Bishop"]
+[BlackID "1400746"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+
+8. Be2 Na6 9. Bd6 Ne7 10. Nf3 c5 11. O-O Nf5 12. Bd3 Qg4 13. h3 Qh5 14. g4 Qxh3
+15. gxf5 Bd7 16. fxe6 fxe6 17. Ne5 O-O-O 18. Be4 Be8 19. Re1 Bh5 20. Qd2 Rhf8
+21. Qg5 Rfe8 22. Re3 1-0

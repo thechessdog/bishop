@@ -1,0 +1,26 @@
+[Event "Chigorin mem"]
+[Site "Sochi"]
+[Date "1964.??.??"]
+[Round "5"]
+[White "Bondarevsky, Igor"]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "8536f4df"]
+[Epoch "Bishop"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. Nbd2 c5 5. e3 b6 6. c3 O-O 7. h3 d6 8. Bc4
+Ba6 9. O-O Bxc4 10. Nxc4 Na6 11. Qe2 Nc7 12. Rad1 Qc8 13. Rfe1 Qa6 14. a3 Rac8
+15. dxc5 Ne6 16. Ncd2 Qxe2 17. Rxe2 Nxc5 18. Bg5 h6 19. Bxf6 Bxf6 20. Nf1 Rfd8
+21. e4 e6 22. Ne1 b5 23. Nd3 Nb3 24. Nd2 Na5 25. a4 d5 26. axb5 d4 27. cxd4
+Bxd4 28. Ra1 Bb6 29. b4 Nb7 30. Rc1 Rxc1+ 31. Nxc1 Rd4 32. Na2 Nd6 33. Kf1 Nxb5
+34. Nf3 Rd1+ 35. Re1 Rd3 36. Rc1 Kg7 37. Rc2 Ra3 38. Nc1 f5 39. exf5 gxf5 40.
+Ke1 Nc3 41. Ne5 Nd5 42. Ned3 Bd4 43. Ra2 Nxb4 44. Rxa3 Nc2+ 45. Ke2 Nxa3 46.
+Nb3 Bb6 47. f4 Nb5 48. g4 Nc3+ 49. Kf3 a5 50. Nd2 a4 51. Nc4 Bd4 52. Nb4 Bc5
+53. Nc2 Nb5 54. Ke2 a3 55. Kd3 a2 56. Nd2 Bd4 57. Nb3 Bb2 58. gxf5 exf5 59.
+Nca1 Kg6 60. Nc2 Kf6 61. Ke3 Na3 0-1

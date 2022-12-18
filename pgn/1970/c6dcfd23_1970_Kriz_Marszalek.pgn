@@ -1,0 +1,19 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kriz"]
+[Black "Marszalek"]
+[Result "1/2-1/2"]
+[ECO "A86"]
+[Opening "Dutch"]
+[Variation "Leningrad variation"]
+[HashCode "c6dcfd23"]
+[Epoch "Bishop"]
+
+1. c4 f5 2. d4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nh3 O-O 6. Nc3 d6 7. Nf4 c6 8. d5
+e5 9. dxe6 Qe7 10. O-O Na6 11. e4 fxe4 12. Nxe4 Nxe4 13. Bxe4 Bxe6 14. Re1
+Nc7 15. Bd5 cxd5 16. cxd5 Rf5 17. dxe6 Raf8 18. Be3 g5 19. Nh5 Rd5 20. Qc2
+Be5 21. Rac1 Nxe6 22. Qb3 Ra5 23. Bxg5 Qf7 24. Be3 Nd4 25. Qxf7+ Rxf7 26.
+Bxd4 Bxd4 27. Nf4 Bxb2 28. Rc2 Be5 29. Ne6 Re7 30. Rc8+ Kf7 1/2-1/2
+

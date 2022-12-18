@@ -1,0 +1,20 @@
+[Event "ACM Minneapolis"]
+[Site "ACM Minneapolis"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Duchess"]
+[Black "Iron Fish"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "35dcdb65"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Bg4 4. Nf3 Bxf3 5. Qxf3 Nc6 6. Bb5 Qd7 7. O-O Qg4
+8. Qxg4 Nxg4 9. d5 a6 10. dxc6 axb5 11. cxb7 Rb8 12. f3 Ne5 13. f4 Ng4 14.
+h3 Nf6 15. e5 Nd7 16. exd6 Rxb7 17. dxc7 Rxc7 18. Nxb5 Rxc2 19. Re1 e6 20.
+b3 Bc5+ 21. Be3 Bxe3+ 22. Rxe3 Rc5 23. Nd6+ Ke7 24. Rd1 Ra8 25. b4 Rc6 26.
+Nf5+ Kd8 27. b5 Rc5 28. Nd6 Ke7 29. a3 Ra4 30. f5 g6 31. fxe6 fxe6 32. g4
+Rf4 33. Kh1 Rc2 34. Kg1 e5 35. Kh1 h6 36. Ne4 Rc4 37. Nc3 Ke6 38. a4 Rf2
+39. a5 Ke7 40. Kg1 Rf8 41. b6 Rc5 42. Nd5+ Kd8 43. b7 Rxa5 44. Nb6 1-0
+

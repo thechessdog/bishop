@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Wall, Steven"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "0c279288"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 Bxc3+ 5. bxc3 dxe4 6. Bxe4 Ne7 7. Nf3 O-O
+8. Bxh7+ Kxh7 9. Ng5+ Kg8 10. Qh5 Re8 11. Qxf7+ Kh8 12. Qh5+ Kg8 13. Qh7+ Kf8
+14. Qh8+ Ng8 15. Ba3+ Re7 16. Nxe6+ 1-0

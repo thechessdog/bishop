@@ -1,0 +1,21 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Juarez, Carlos Eleodoro"]
+[Black "Wexler, Bernardo"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "dc99757d"]
+[Epoch "Bishop"]
+[WhiteID "100293"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 e5 8. Nf3
+Be7 9. O-O Nbd7 10. Kh1 b5 11. a3 Nc5 12. Qe1 O-O 13. f5 Bb7 14. Bg5 h6 15. Bh4
+Rfe8 16. b4 Ncd7 17. Nd1 d5 18. Nf2 dxe4 19. Nxe4 Nxe4 20. Bg3 Nxg3+ 21. Qxg3
+Bd6 22. f6 Nxf6 23. Nh4 e4 24. Qh3 exd3 25. Rxf6 Be5 26. Rxh6 gxh6 27. Qg4+ Kh8
+28. Rf1 dxc2 0-1

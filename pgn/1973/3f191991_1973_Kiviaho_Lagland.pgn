@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kiviaho, A."]
+[Black "Lagland, G."]
+[Result "0-1"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, 9.Bg5"]
+[HashCode "3f191991"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8.
+O-O O-O 9. Bg5 Be6 10. Rc1 cxd4 11. Nxd4 h6 12. Be3 Ng4 13. Bf4 Bd6 14.
+Nxe6 fxe6 15. Bxd6 Qxd6 16. e4 Nxf2 17. Rxf2 Rxf2 18. Kxf2 Qc5+ 19. Kf3
+Ne5+ 20. Kf4 d4 21. Nd5 Qxc1+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Nice olm fin-C"]
+[Site "Nice olm"]
+[Date "1974.06.01"]
+[Round "7"]
+[White "Verduga, Denis Homero"]
+[Black "Toth, Peter"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "6fc7881b"]
+[Epoch "Bishop"]
+[BlackID "2100517"]
+[BlackCountry "BRA"]
+[WhiteCountry "ECU"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+Be7 9. O-O f6 10. Nf4 Nd8 11. Re1 f5 12. Bxf5 exf5 13. Nxd5 Qc6 14. Nxe7 Kxe7
+15. d5 Qa6 16. d6+ Kf7 17. Qd5+ Ke8 18. e6 Nf6 19. d7+ Ke7 20. Qxc5+ 1-0

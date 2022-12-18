@@ -1,0 +1,16 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Akopian, Vladimir"]
+[Black "Zlotnik"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "b17defe3"]
+[Epoch "Bishop"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Nf3 c6 5. h3 Nd7 6. Be3 e5 7. Bd3 Qb6 8. Ne2
+Qxb2 9. a3 exd4 10. Nfxd4 Nc5 11. O-O Qb6 12. Nb3 a5 13. Rb1 Qa7 14. Bc4 Ke7
+15. Nxc5 dxc5 16. Bf4 b5 17. Qd6+ Ke8 18. Qxc6+ Bd7 19. Qd5 bxc4 20. Rb7 1-0

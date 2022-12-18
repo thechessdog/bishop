@@ -1,0 +1,20 @@
+[Event "POL-ch"]
+[Site "Gdynia"]
+[Date "1973.??.??"]
+[Round "17"]
+[White "Schinzel, Wladyslaw"]
+[Black "Pytel, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "adc32803"]
+[Epoch "Bishop"]
+[WhiteID "1100327"]
+[BlackID "600199"]
+[WhiteCountry "POL"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Qb3 c6 8. Nc3
+b6 9. Rd1 Ba6 10. cxd5 cxd5 11. Nb5 Ne4 12. Bf4 Ndc5 13. dxc5 Nxc5 14. Qb4 Nd3
+15. Qa4 Nc5 16. Qb4 Nd3 17. Qb3 Nc5 1/2-1/2

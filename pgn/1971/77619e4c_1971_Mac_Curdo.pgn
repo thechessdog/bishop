@@ -1,0 +1,21 @@
+[Event "Boston op"]
+[Site "Boston op"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Mac Hack"]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "77619e4c"]
+[Epoch "Bishop"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Nxd2 12. Qxd2 Re8 13. Qf4 Bf8 14. Ng5 g6 15.
+Re1 Bg7 16. Bd2 Qe7 17. Bb3 Rad8 18. Bc2 Bc8 19. Qh4 h6 20. Nf3 Qxh4 21. Nxh4
+Nxe5 22. Bf4 c5 23. Rad1 Bb7 24. Be3 Bf6 25. g3 Bxh4 26. gxh4 Nf3+ 27. Kf1 Nxe1
+28. Rxe1 d4 29. Bxh6 Bg2+ 30. Kxg2 Rxe1 31. Bg5 d3 32. Bb3 c4 33. Bxd8 cxb3 34.
+axb3 d2 35. Bf6 d1=Q 0-1

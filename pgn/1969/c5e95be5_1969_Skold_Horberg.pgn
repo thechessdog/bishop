@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Skold, Kristian"]
+[Black "Horberg, Bengt"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "c5e95be5"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Bd3 Nc6 7. Be3 Nf6 8.
+O-O d6 9. Qe2 Nxd4 10. Bxd4 e5 11. Be3 Be6 12. f3 Be7 13. Kh1 d5 14. exd5 Nxd5
+15. Nxd5 Bxd5 16. Bd2 O-O 17. Bc3 Bd6 18. Bxh7+ Kxh7 19. Qd3+ e4 20. Qxd5 e3
+21. Qg5 f5 22. f4 Rae8 23. Rf3 Re6 24. Re1 Rg6 25. Rh3+ Rh6 26. Rexe3 Rxh3 27.
+Rxh3+ Kg8 28. Qh5 1-0

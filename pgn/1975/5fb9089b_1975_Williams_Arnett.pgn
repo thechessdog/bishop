@@ -1,0 +1,21 @@
+[Event "San Diego op"]
+[Site "San Diego op"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Williams, W."]
+[Black "Arnett, L."]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[Variation "Williams gambit"]
+[HashCode "5fb9089b"]
+[Epoch "Bishop"]
+
+1. f4 d5 2. e4 dxe4 3. Nc3 Bf5 4. Qe2 e3 5. Qb5+ Bd7 6. Qxb7 Bc6 7. Bb5
+exd2+ 8. Bxd2 Bxb5 9. Nxb5 f5 10. Nxc7+ Kf7 11. Nxa8 Nf6 12. O-O-O Qd5 13.
+Qxd5+ Nxd5 14. Ba5 e6 15. c4 Ne3 16. Rd8 Nxc4 17. Rxb8 Nxa5 18. Nf3 Nc6 19.
+Ne5+ Nxe5 20. fxe5 g6 21. Kb1 Kg7 22. Rc1 h5 23. Rc7+ Kh6 24. Rcc8 Kg7 25.
+Rb7+ Kh6 26. Rxa7 Bg7 27. Rxh8+ Bxh8 28. Ra5 h4 29. b4 f4 30. h3 g5 31. Nc7
+Kh5 32. Nxe6 g4 33. Nxf4+ Kg5 34. e6+ Kxf4 35. e7 Kg3 36. hxg4 Kxg4 37.
+e8=Q 1-0
+

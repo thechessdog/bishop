@@ -1,0 +1,16 @@
+[Event "Wolverhampton"]
+[Site "Wolverhampton"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Miles, Anthony J"]
+[Black "Marshall"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "567856eb"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. O-O-O Nf6 7. Qxg7 Rg8
+8. Qh6 Ng4 9. Qh4 Qxf2 10. Qd8+ Kxd8 11. Bg5+ Ke8 12. Rd8# 1-0

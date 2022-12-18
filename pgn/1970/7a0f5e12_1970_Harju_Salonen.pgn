@@ -1,0 +1,19 @@
+[Event "corr Finland"]
+[Site "corr Finland"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Harju, A."]
+[Black "Salonen, S."]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "7a0f5e12"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8.
+Qe2 Nxc4 9. dxc4 Bc5 10. Bf4 O-O 11. Nfd2 Bg4 12. Qf1 c6 13. dxc6 bxc6 14.
+h3 Re8 15. hxg4 Nxg4 16. Qe2 Nxf2 17. Rf1 Nd3+ 18. Kd1 Nxf4 19. Rxf4 e3 20.
+Qd3 Qg5 21. Re4 Qxg2 22. Rxe8+ Rxe8 23. Qe2 Qxe2+ 24. Kxe2 exd2+ 25. Kxd2
+Be3+ 26. Kd1 Bf2 0-1
+

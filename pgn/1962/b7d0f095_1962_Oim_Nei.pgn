@@ -1,0 +1,18 @@
+[Event "Estonia"]
+[Site "Estonia"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Oim, T."]
+[Black "Nei, Iivo"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "b7d0f095"]
+[Epoch "Bishop"]
+[BlackID "4500059"]
+[BlackCountry "EST"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 Nf6 5. e5 Bxc3 6. Bxc3 Ne4 7. Qg4 O-O 8.
+Nf3 f5 9. exf6 Rxf6 10. Qh4 Qf8 11. Bd2 Nxd2 12. Nxd2 Nc6 13. Bd3 Rh6 14. Qg3
+Nxd4 15. Qxc7 e5 16. O-O-O Nc6 17. c4 Rd6 0-1

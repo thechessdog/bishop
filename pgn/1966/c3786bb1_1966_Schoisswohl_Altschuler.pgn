@@ -1,0 +1,18 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Schoisswohl, A."]
+[Black "Altschuler, L."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "c3786bb1"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Nc6 7. Nf3 Nb6 8.
+Qd2 f6 9. exf6 Bxf6 10. O-O-O Bd7 11. Qf4 O-O 12. Qh2 Rc8 13. Bf4 a6 14. h5
+Be7 15. Bd3 Nb4 16. Bg6 Be8 17. Rde1 c5 18. Rxe6 cxd4 19. h6 Bxg6 20. Rxg6
+1-0
+

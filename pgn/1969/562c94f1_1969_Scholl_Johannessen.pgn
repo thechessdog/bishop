@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Scholl, Eddie C"]
+[Black "Johannessen, Svein"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "562c94f1"]
+[Epoch "Bishop"]
+[BlackCountry "NOR"]
+[WhiteID "1000390"]
+[WhiteCountry "NLD"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6 8.
+Bd3 h6 9. N5f3 Nbd7 10. Bd2 c5 11. O-O-O Qb6 12. Qe1 cxd4 13. Ba5 Qc5 14. Ne2
+b6 15. Bd2 Ne5 16. Nxe5 Qxe5 17. Bf4 Qd5 18. Nxd4 Qxa2 19. Nb3 Bd7 20. Be5 Rc8
+21. Bc3 Nd5 22. Bc4 Rxc4 23. Rxd5 Be7 24. Rd3 Bg5+ 25. Bd2 Ba4 26. Bxg5 hxg5
+27. Qe5 O-O 28. Kd2 Rfc8 29. Rc1 Bxb3 30. Rxb3 R4c5 31. Qe3 Qa5+ 32. c3 Re5 33.
+Qf3 Rd8+ 34. Kc2 Qa4 35. Rd1 Rxd1 36. Qxd1 Rb5 37. Qd8+ Kh7 38. Qd3+ Rf5 39. g4
+Qxg4 40. Rb4 Qf3 0-1

@@ -1,0 +1,19 @@
+[Event "FIDE (29) 1973-1975"]
+[Site "Palma de Mallorca cm qf"]
+[Date "1974.01.01"]
+[Round "7"]
+[White "Petrosian, Tigran A."]
+[Black "Portisch, Lajos"]
+[Result "1/2-1/2"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "9363eae9"]
+[Epoch "Bishop"]
+[WhiteID "13300849"]
+[WhiteCountry "ARM"]
+[BlackID "700037"]
+[BlackCountry "HUN"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Qd2 Be6 12. b4 c6 13. Rb1 Nd7 1/2-1/2

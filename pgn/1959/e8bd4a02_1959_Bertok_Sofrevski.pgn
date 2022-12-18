@@ -1,0 +1,26 @@
+[Event "Kragujevac ch14-YUG"]
+[Site "Kragujevac ch14-YUG"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Bertok, Mario"]
+[Black "Sofrevski, Jovan"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "e8bd4a02"]
+[Epoch "Bishop"]
+[WhiteCountry "HRV"]
+[BlackCountry "MKD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+Qc7 9. Be3 Nbd7 10. a4 b6 11. Qd3 O-O 12. Qc4 Qxc4 13. Bxc4 Bb7 14. f3 Rac8 15.
+Nd2 Rfd8 16. Rfd1 Nc5 17. b4 Ncd7 18. Nd5 Bxd5 19. exd5 a5 20. bxa5 bxa5 21.
+Bb3 Rc3 22. Bf2 Rdc8 23. Nb1 R3c7 24. Na3 Nc5 25. Nc4 Ra8 26. Nxe5 Nxb3 27.
+cxb3 Nxd5 28. Rxd5 dxe5 29. Rb1 Bb4 30. Rxe5 f6 31. Re2 Rac8 32. Be1 Bxe1 33.
+Rbxe1 Kf7 34. Rd1 Rb8 35. Rd3 Kg6 36. Kf2 Rcb7 37. Ree3 Rc8 38. Rc3 Rd8 39. Ke2
+h5 40. h4 Rd4 41. g3 Kf7 42. Red3 Rdb4 43. Rc5 g6 44. Rcc3 R4b6 45. Kd2 Re6 46.
+Rd5 Reb6 47. Kc2 Ra7 48. Rcc5 Rba6 49. Kc3 Ke6 50. Kc4 Kf7 51. f4 f5 52. Re5
+Kg7 53. Rb5 Rc6+ 54. Rec5 Rca6 55. Rb8 Re6 56. Kb5 Re3 57. Kb6 Rd7 58. Kxa5
+Rxg3 59. b4 Rg4 60. b5 Rxh4 61. b6 Rxf4 62. Rc7 Rxc7 63. bxc7 Rc4 64. c8=Q Rxc8
+65. Rxc8 h4 66. Kb4 g5 67. a5 h3 68. a6 h2 69. Rc1 1-0

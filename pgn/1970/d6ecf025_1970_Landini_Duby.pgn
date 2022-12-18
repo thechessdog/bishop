@@ -1,0 +1,18 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Landini, J."]
+[Black "Duby, T."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "d6ecf025"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+
+Ke7 8. d4 Bh6 9. Bg5+ Bxg5 10. Qxg5+ Nf6 11. Bxd5 Rh5 12. Qg7+ Kd6 13. Bb3
+Nc6 14. O-O Bf5 15. Na3 Qe7 16. Nb5+ Kd7 17. Qg3 Rc8 18. d5 Ne5 19. Nxa7
+Rg8 20. d6 Rxg3 21. dxe7 Nf3+ 22. Kh1 Rxh2# 0-1
+

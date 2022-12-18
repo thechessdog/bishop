@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Engel, W."]
+[Black "Walthemathe, A."]
+[Result "0-1"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "0a903592"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. dxc5 f5 9. Qc2 f4 10. e4 fxe3 11. Bb2 Nd7 12. O-O-O Qa5 13. Qe4 Nxc5 14.
+Rxd5 Nxe4 15. Rxa5 Nf2 16. Re5 Nxh1 17. Bb5+ Kf7 18. Rxe3 Rd8 19. Nh3 h6
+20. Re1 Bd7 21. Bc4 0-1
+

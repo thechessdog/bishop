@@ -1,0 +1,16 @@
+[Event "Mulcahy op"]
+[Site "Mulcahy"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Cahill, J."]
+[Black "Kennefick, Maurice"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "61fff0c3"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. Ngf3 Nc6 7. c3 Qb6 8. Nb3
+c4 9. Nbd2 Qa5 10. b4 cxb3 11. Nxb3 Qc7 12. Bd3 Na5 13. Qc2 Nc4 14. a3 Ndb6 15.
+Nfd2 Ne3 16. Qb2 Nxg2+ 17. Kd1 Nxf4 18. Bc2 Na4 0-1

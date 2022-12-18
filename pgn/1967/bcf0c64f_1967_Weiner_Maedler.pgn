@@ -1,0 +1,20 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Weiner, M."]
+[Black "Maedler, M."]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "bcf0c64f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bc4 Be7 7. Be3 a6 8.
+Bb3 Nc6 9. O-O Qc7 10. f4 Na5 11. Qf3 b5 12. g4 Nxb3 13. cxb3 h5 14. g5 Ng4
+15. Rac1 Qb6 16. Nc2 Nxe3 17. Qxe3 Bd8 18. h4 Qxe3+ 19. Nxe3 Bb6 20. Kf2
+Bb7 21. Ke2 O-O 22. Rfd1 Rad8 23. Rd2 Rfe8 24. Rcd1 d5 25. Nc2 dxe4 26.
+Rxd8 Rxd8 27. Rxd8+ Bxd8 28. Ke3 Bb6+ 29. Nd4 Kf8 30. Nxe4 Bxd4+ 31. Kxd4
+Bxe4 32. Kxe4 Ke7 0-1
+

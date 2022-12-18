@@ -1,0 +1,22 @@
+[Event "Munich olm fin-C"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "1"]
+[White "Cardoso, Radolfo Tan"]
+[Black "Lagha, Khelil"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "82813e02"]
+[Epoch "Bishop"]
+[WhiteID "5200210"]
+[BlackID "5500125"]
+[WhiteCountry "PHI"]
+[BlackCountry "TUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bd7 14. Nf1 Rac8 15.
+Ne3 Rfe8 16. Bd2 Bf8 17. Rc1 Qb6 18. dxe5 dxe5 19. Bc3 Rcd8 20. Nd5 Nxd5 21.
+exd5 f6 22. Nh4 Re7 23. d6 Ree8 24. Qh5 g6 25. Nxg6 hxg6 26. Qxg6+ Bg7 27. Re3
+Be6 28. Bxa5 Qxd6 29. Rg3 1-0

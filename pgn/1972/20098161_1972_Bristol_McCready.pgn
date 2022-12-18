@@ -1,0 +1,16 @@
+[Event "Oregon"]
+[Site "Oregon"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Bristol"]
+[Black "McCready"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "20098161"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Nf3 O-O 6. Be2 c6 7. Qd2 b5 8.
+a3 Re8 9. O-O-O a5 10. e5 b4 11. Bxf6 bxc3 12. Bxe7 cxd2+ 0-1
+

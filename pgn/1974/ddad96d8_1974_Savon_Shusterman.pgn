@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Savon, Vladimir"]
+[Black "Susterman, Lazar"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "ddad96d8"]
+[Epoch "Bishop"]
+[WhiteID "14138786"]
+[WhiteCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Qh3 Nf8 12. f5 N8h7 13. Be3 e5 14. Nb3 b5 15.
+g4 Bb7 16. Qg2 b4 17. Nd5 Nxd5 18. exd5 Nf6 19. Be2 a5 20. Bb5+ Kf8 21. g5 hxg5
+22. Bxg5 Nxd5 23. Rxd5 Bxg5+ 24. Nd2 Bxd5 25. Qxd5 Rc8 26. Ba4 Qc5 0-1

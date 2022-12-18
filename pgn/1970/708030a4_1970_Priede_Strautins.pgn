@@ -1,0 +1,17 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Priede, C."]
+[Black "Strautins, V."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "708030a4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qe6 6. Ne3 c6 7. Bc4 d5
+8. Nexd5 cxd5 9. Nxd5 Qe5 10. d4 exd3+ 11. Kf1 Qe2+ 12. Qxe2+ dxe2+ 13.
+Kxe2 Bd6 14. Re1 Bf5 15. Kf1+ Kd7 16. Bf4 Bxf4 17. Nxf4 Nf6 18. Rad1+ Kc8
+19. Re7 g6 20. f3 Nc6 21. Rf7 Ne5 22. Rxf6 Nxc4 23. g4 Ne3+ 0-1
+

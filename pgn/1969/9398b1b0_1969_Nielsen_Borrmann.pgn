@@ -1,0 +1,19 @@
+[Event "corr EU/I"]
+[Site "corr EU/I"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Nielsen, H."]
+[Black "Borrmann, F."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "9398b1b0"]
+[Epoch "Bishop"]
+
+1. b4 e5 2. Bb2 f6 3. b5 d5 4. e3 Be6 5. d4 e4 6. Nd2 f5 7. c4 Bb4 8. Ne2
+dxc4 9. Bc3 Bxc3 10. Nxc3 Nf6 11. Bxc4 Bxc4 12. Nxc4 Nd5 13. Qb3 Nxc3 14.
+Qxc3 O-O 15. Rc1 c6 16. Ne5 Qe8 17. bxc6 Nxc6 18. Nxc6 bxc6 19. Qxc6 Qxc6
+20. Rxc6 Rfb8 21. Kd2 Rb2+ 22. Rc2 Rab8 23. f3 a5 24. fxe4 fxe4 25. Rc1 a4
+26. Rxb2 Rxb2+ 27. Rc2 Rb1 28. Kc3 Re1 29. d5 Rxe3+ 30. Kd4 Re1 31. Ke5 Kf7
+32. d6 Rf1 33. Rc7+ Kf8 34. Rc8+ Kf7 35. d7 1-0
+

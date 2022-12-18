@@ -1,0 +1,26 @@
+[Event "Havirov"]
+[Site "Havirov"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Smejkal, Jan"]
+[Black "Lechtynsky, Jiri"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "fc607806"]
+[Epoch "Bishop"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+[BlackID "300217"]
+[BlackCountry "CZE"]
+
+1. g3 d6 2. Bg2 e5 3. c4 Be7 4. Nc3 Nf6 5. d4 O-O 6. Nf3 Nbd7 7. O-O c6 8. e4
+Qc7 9. h3 Re8 10. Be3 Bf8 11. d5 a6 12. Qe2 Rb8 13. Rfc1 g6 14. b4 c5 15. a3
+Bg7 16. Rab1 b6 17. Ne1 Rf8 18. a4 cxb4 19. Rxb4 a5 20. Nb5 Qd8 21. Rb2 Nc5 22.
+Qc2 Qe7 23. Rcb1 Ba6 24. Bxc5 bxc5 25. Qc3 Qd8 26. Nd3 Nh5 27. Na7 Rb4 28. Nxb4
+axb4 29. Qb3 f5 30. a5 Qd7 31. Nb5 Ra8 32. Ra2 fxe4 33. Bxe4 Bxb5 34. cxb5 Qxb5
+35. Bd3 Qd7 36. Kg2 Nf6 37. a6 Ra7 38. Qc4 Kf8 39. Ra5 Qf7 40. Be4 Nxe4 41.
+Qxe4 Qf5 42. Qxf5+ gxf5 43. Rba1 Ke7 44. Rb5 Kd7 45. Rb6 Bf6 46. Rc6 Bd8 47. g4
+fxg4 48. hxg4 e4 49. Kg3 Bf6 50. Ra5 b3 51. Rb5 b2 52. Rcb6 Ke8 53. Rb8+ Bd8
+54. Rxb2 Rxa6 55. R2b7 Ra3+ 56. Kg2 Rd3 57. Rxh7 Rxd5 58. Rh8+ Kf7 59. Rbxd8
+Rd3 60. Rhe8 d5 61. Re5 1-0

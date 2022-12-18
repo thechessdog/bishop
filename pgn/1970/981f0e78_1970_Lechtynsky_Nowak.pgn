@@ -1,0 +1,19 @@
+[Event "CSR-ch Havirov"]
+[Site "Havirov"]
+[Date "1970.01.01"]
+[Round "4"]
+[White "Lechtynsky, Jiri"]
+[Black "Nowak, Erwin"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "981f0e78"]
+[Epoch "Bishop"]
+[WhiteID "300217"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O O-O 7. b3 d5 8. Bb2 c5
+9. Nbd2 Nc6 10. Rc1 Rc8 11. a3 Bd6 12. cxd5 Nxd5 13. dxc5 Bxc5 14. Qe2 Be7
+1/2-1/2

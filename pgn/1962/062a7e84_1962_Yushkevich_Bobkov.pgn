@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Yushkevich"]
+[Black "Bobkov"]
+[Result "0-1"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "062a7e84"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c6 7. Qd2 Re8 8.
+O-O-O a6 9. d5 b5 10. dxc6 Nxc6 11. cxb5 axb5 12. Bxb5 Bd7 13. Nge2 Qa5 14.
+Bxc6 Bxc6 15. Nd4 Rec8 16. Kb1 Bxe4+ 17. Ka1 Nd5 18. Nb3 Qb4 19. Nd4 Bxd4
+20. Qxd4 Nxc3 0-1
+

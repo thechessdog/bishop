@@ -1,0 +1,25 @@
+[Event "corr Sweden"]
+[Site "corr Sweden"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Nordstrom, E."]
+[Black "Jonasson, A."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "cdf6e643"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Qd3 Nbc6 11. f4 dxc3 12. Ne2 Bd7 13. Nxc3 a6 14.
+Rb1 Na5 15. Be3 Nc4 16. Rb3 Rc8 17. Bd4 Nf5 18. Ne2 Ba4 19. Rb4 b5 20. g3
+Qe7 21. Bh3 Nxd4 22. Nxd4 a5 23. Rxa4 bxa4 24. Qh7 Rf8 25. O-O Qc5 26. c3
+Nd2 27. Rf2 Qxc3 28. Nxe6 Qe3 29. Ng7+ Kd8 30. Qf5 Rc1+ 31. Kg2 Qe4+ 32.
+Qxe4 Nxe4 33. Rb2 Kc7 34. e6 Nd6 35. exf7 Rxf7 36. Ne6+ Kd7 37. Ng5+ Ke7
+38. Re2+ Ne4 39. Nxe4 dxe4 40. Rxe4+ Kf8 41. Be6 Rc2+ 42. Kf3 Rc3+ 43. Kg4
+Rg7+ 44. Kf5 Rxa3 45. g4 Rb7 46. Kg5 Rb4 47. Re5 Rab3 48. Bd7 Rd4 49. Bf5
+Rh3 50. Rxa5 a3 51. Be6 Re4 52. Bd5 Rd4 53. f5 Rxh2 54. Be6 Rh3 55. Ra8+
+Ke7 56. Ra7+ Kd6 57. Rd7+ Ke5 58. Rxd4 Kxd4 59. f6 Rf3 60. f7 Ke4 61. Kg6
+Rf4 62. g5 Ke5 63. Ba2 Rf5 64. Kh6 1-0
+

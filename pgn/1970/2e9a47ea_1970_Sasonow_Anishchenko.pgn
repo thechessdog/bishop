@@ -1,0 +1,17 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Sasonow"]
+[Black "Anishchenko"]
+[Result "0-1"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "2e9a47ea"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Qb3 Nc6 7. Nxd5 Nd4
+8. Qc4 Nxd5 9. Bxd5 b5 10. Bxf7+ Ke7 11. Qd5 Nc2+ 12. Kd1 Nxa1 13. Qxa8 Qc7
+14. Bb3 Be6 15. e4 Nxb3 16. axb3 g6 0-1
+

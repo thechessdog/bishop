@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Leone"]
+[Black "Scalisi"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "a272b05d"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Bd3 Qa5 9. Ne2 O-O 10. Bh6 Ng6 11. h4 Nc6 12. f4 gxh6 13. h5 f5 14. Qg3
+1-0
+

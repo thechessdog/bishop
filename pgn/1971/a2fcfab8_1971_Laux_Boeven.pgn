@@ -1,0 +1,17 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Laux, R."]
+[Black "Boeven, M."]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "Two knights defence"]
+[HashCode "a2fcfab8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ Bd7 7. Qe2 Be7
+8. O-O Nxd5 9. Bxd7+ Qxd7 10. d3 Nc6 11. Nf3 Nd4 12. Nxd4 exd4 13. Bg5 O-O
+14. Bxe7 Rfe8 15. Na3 Rxe7 16. Qd2 Rae8 17. Rfe1 Nf4 18. Rxe7 Qxe7 19. Kf1
+Qg5 20. g3 Qd5 0-1
+

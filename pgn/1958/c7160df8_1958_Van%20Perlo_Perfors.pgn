@@ -1,0 +1,20 @@
+[Event "NLD-KNSB"]
+[Site "NLD-KNSB"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Van Perlo, G."]
+[Black "Perfors, Barthold"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Keres (9...a5) variation"]
+[HashCode "c7160df8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8.
+c3 d6 9. h3 a5 10. d3 Bd7 11. Nbd2 Nh5 12. Nf1 Nf4 13. d4 a4 14. Bd5 Kh8
+15. dxe5 Ng6 16. Nd4 Ra6 17. exd6 Bxd6 18. Nxb5 Nce5 19. Nxd6 Rxd6 20. Be3
+Nh4 21. f4 Rg6 22. fxe5 Nxg2 23. Kf2 Bxh3 24. Qxa4 f5 25. Bc5 fxe4+ 26.
+Bxf8 Qxf8+ 27. Ke2 Bg4+ 28. Kd2 Qf2+ 29. Kc1 Qxe1+ 30. Kc2 Qe2+ 31. Nd2
+Ne3+ 0-1
+

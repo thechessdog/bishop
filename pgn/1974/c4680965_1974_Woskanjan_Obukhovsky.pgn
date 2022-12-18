@@ -1,0 +1,18 @@
+[Event "Kirov"]
+[Site "Kirov"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Woskanjan"]
+[Black "Obukhovsky"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "c4680965"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. d4 exd4 5. Nxd4 g6 6. Nc3 Bg7 7. Be3 O-O
+8. Qd2 d5 9. exd5 Nxd5 10. Nxc6 bxc6 11. Bxc6 Nxe3 12. Bxa8 Qxd2+ 13. Kxd2
+Nc4+ 14. Kc1 Bh6+ 15. Kb1 Nd2+ 16. Kc1 Ne4+ 17. Kb1 Nxc3+ 18. bxc3 Be6 19.
+Kb2 Rxa8 0-1
+

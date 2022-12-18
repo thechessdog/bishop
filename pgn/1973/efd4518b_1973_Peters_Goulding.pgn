@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1973.01.01"]
+[Round "4"]
+[White "Peters, John A"]
+[Black "Goulding, K."]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "efd4518b"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Qa5 11. Kb1 Rfc8 12. Bb3 Ne5 13. Bg5 Kf8 14. Rhe1 Nc4
+15. Bxc4 Rxc4 16. Nb3 Qa6 17. e5 Ne8 18. Nd5 e6 19. Be7+ Kg8 20. Nf6+ Bxf6 21.
+exf6 h5 22. Qh6 1-0

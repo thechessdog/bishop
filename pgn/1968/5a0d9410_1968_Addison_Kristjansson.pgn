@@ -1,0 +1,21 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Addison, William"]
+[Black "Kristjansson, Bragi"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "5a0d9410"]
+[Epoch "Bishop"]
+[BlackID "2300346"]
+[BlackCountry "ISL"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. f4 Be7 8. Bf3
+O-O 9. O-O Qc7 10. Kh1 Nc6 11. Nde2 b5 12. a3 Bb7 13. g4 d5 14. exd5 Rad8 15.
+g5 Nxd5 16. Nxd5 exd5 17. Nc3 Na5 18. f5 Nc4 19. f6 Bc5 20. fxg7 Rfe8 21. Ne2
+d4 22. Bf4 Bxf3+ 23. Rxf3 Qc6 24. Ng1 Ne3 25. Qd3 Rd5 26. Re1 Bb6 27. c3 dxc3
+28. Qxc3 Rc5 29. Qb3 Rf5 0-1

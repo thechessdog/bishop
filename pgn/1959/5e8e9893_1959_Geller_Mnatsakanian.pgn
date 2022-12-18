@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Geller, Efim P"]
+[Black "Mnatsakanian, Eduard A"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "5e8e9893"]
+[Epoch "Bishop"]
+[BlackCountry "ARM"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+a6 9. Nd2 h6 10. Bh4 O-O 11. a4 Qc7 12. Be2 Nbd7 13. O-O Re8 14. Qc2 g5 15. Bg3
+Ne5 16. Bxe5 Rxe5 17. Nc4 Re8 18. f4 Ng4 19. e5 gxf4 20. Bxg4 Bxg4 21. Rxf4 Bh5
+22. exd6 Qd8 23. Raf1 Bg6 24. Qd1 Rb8 25. a5 Bf8 26. Qf3 Bxd6 27. Rg4 Kh8 28.
+Ne4 Bf8 29. Nf6 Re7 30. h4 Bg7 31. h5 Bh7 32. Rxg7 Kxg7 33. Qc3 1-0

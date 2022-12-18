@@ -1,0 +1,15 @@
+[Event "Byelorussia"]
+[Site "Byelorussia"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Sokolsky, Alexey"]
+[Black "Krupski"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "a3b92efd"]
+[Epoch "Bishop"]
+[WhiteCountry "UKR"]
+
+1. b4 d5 2. Bb2 Qd6 3. a3 e5 4. Nf3 Nd7 5. e3 Be7 6. c4 c6 7. cxd5 cxd5 8. Nc3
+Bf6 9. Nb5 Qb8 10. Rc1 Bd8 11. Rxc8 1-0

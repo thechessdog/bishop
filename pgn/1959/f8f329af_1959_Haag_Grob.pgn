@@ -1,0 +1,16 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Haag, Ervin"]
+[Black "Grob, Henri"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "f8f329af"]
+[Epoch "Bishop"]
+[BlackCountry "SWI"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Bg7 5. d4 cxd4 6. cxd4 Qb6 7. Nc3 Nxd4 8.
+Nd5 Nxf3+ 9. Qxf3 Qd8 10. Bf4 Kf8 11. Bc7 Qe8 12. Ba5 Be5 13. Bc3 1-0

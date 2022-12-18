@@ -1,0 +1,19 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Haase, J."]
+[Black "Richter, M."]
+[Result "1-0"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, solid line"]
+[HashCode "5697bbaf"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Qe2 d6 8.
+a4 Bg4 9. c3 O-O 10. d3 Na5 11. Bc2 c5 12. Nbd2 h6 13. Re1 Qc7 14. Nf1 Nc6
+15. h3 Be6 16. Ng3 Qd7 17. Nh4 Nxe4 18. dxe4 Bxh4 19. Nf5 Bxf5 20. exf5 Bg5
+21. Bxg5 hxg5 22. Qh5 f6 23. Rad1 d5 24. h4 gxh4 25. Re4 Rad8 26. Rxh4 Rfe8
+27. Be4 d4 28. Bf3 Rf8 29. Qg6 Rf7 30. Rh7 Kf8 31. Bxc6 Qxc6 32. Rh8+ 1-0
+

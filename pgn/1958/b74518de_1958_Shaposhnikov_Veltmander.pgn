@@ -1,0 +1,18 @@
+[Event "Russia"]
+[Site "Russia"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Shaposhnikov, Yuri"]
+[Black "Veltmander, Ioganes"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Tartakower attack"]
+[HashCode "b74518de"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8.
+dxe5 dxe5 9. O-O Bb6 10. Rd1 Qe7 11. a4 a5 12. Bd5 Bg4 13. Rd3 Be6 14. Ba3
+Qf6 15. Nbd2 Nge7 16. Nc4 Ra6 17. Qb5 Bc8 18. Nfxe5 O-O 19. Rf3 Qxe5 20.
+Bxf7+ Rxf7 21. Nxe5 1-0
+

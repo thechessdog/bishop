@@ -1,0 +1,18 @@
+[Event "corr ch-SU"]
+[Site "corr ch-SU"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Arinin"]
+[Black "Sadomsky"]
+[Result "0-1"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Pilnik variation"]
+[HashCode "c51473ba"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+d3 d6 9. c3 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. Nf1 Be6 13. Ne3 Qc7 14. Ng5 d5
+15. exd5 Nxd5 16. Nxe6 fxe6 17. Qg4 Nf4 18. g3 h5 19. Qd1 Nh3+ 20. Kg2 Nxf2
+21. Qxh5 Nb4 22. Bd1 Nbxd3 23. Rf1 Nxd1 24. Rxd1 Nf2 0-1
+

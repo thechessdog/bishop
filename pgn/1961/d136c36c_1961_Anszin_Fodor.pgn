@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Anszin"]
+[Black "Fodor"]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Janowski variation"]
+[HashCode "d136c36c"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 f6 6. exf6 Qxf6 7. g3 Bg4
+8. Bg2 d3 9. exd3 Bb4 10. O-O O-O-O 11. Ne4 Qf5 12. Bf4 h6 13. h3 Bxh3 14.
+Bxh3 Qxh3 15. c5 Rd5 16. Rc1 g5 17. Be3 g4 18. Nh4 Ne5 19. d4 Ne7 20. dxe5
+Rxd1 21. Rfxd1 c6 22. Nd6+ Kb8 23. Nf7 Rh7 24. e6 Nd5 25. Rxd5 1-0
+

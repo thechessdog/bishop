@@ -1,0 +1,18 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Seidman, Herbert"]
+[Black "Bisguier, Arthur Bernard"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "3fcd485d"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 b5 6. Bd3 Bb7 7. O-O Qc7 8. Re1
+b4 9. Nd5 exd5 10. exd5+ Ne7 11. Nf5 Bxd5 12. Be4 Bxe4 13. Nd6+ Qxd6 14. Qxd6
+Bg6 15. Bd2 1/2-1/2

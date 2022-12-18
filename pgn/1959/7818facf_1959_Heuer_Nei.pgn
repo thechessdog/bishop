@@ -1,0 +1,19 @@
+[Event "Estonia"]
+[Site "Estonia"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Heuer, Valter"]
+[Black "Nei, Iivo"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "7818facf"]
+[Epoch "Bishop"]
+[BlackID "4500059"]
+[BlackCountry "EST"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Be2 d5 5. exd5 Nf6 6. O-O O-O 7. c4 b5 8.
+cxb5 Nxd5 9. Nc3 Bb7 10. d4 c5 11. Nxd5 Qxd5 12. Bxf4 a6 13. Rc1 axb5 14. Bxb5
+Qxa2 15. Bc4 Qxb2 16. Rf2 Qb6 17. Ne5 Ba6 18. Bxf7+ Rxf7 19. Nxf7 Nd7 20. Ne5
+Nxe5 21. Bxe5 1-0

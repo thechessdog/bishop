@@ -1,0 +1,22 @@
+[Event "Leningrad-ch"]
+[Site "Leningrad"]
+[Date "1957.??.??"]
+[Round "9"]
+[White "Bykov, Vladimir"]
+[Black "Estrin, Yakov Borisovich"]
+[Result "0-1"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "37da96ef"]
+[Epoch "Bishop"]
+[WhiteID "24190080"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. a3 Bxc3+ 7. bxc3 Nc6 8.
+cxd5 exd5 9. c4 Bg4 10. Bb2 Re8 11. Rc1 Ne7 12. Be2 c6 13. O-O Ne4 14. Re1 Qd6
+15. Ne5 Bxe2 16. Qxe2 f6 17. Nd3 Nf5 18. Qc2 Qd7 19. Nf4 Rac8 20. Qd3 g5 21.
+Ne2 Ned6 22. cxd5 cxd5 23. Rc5 Nc4 24. Bc1 b6 25. Rxc8 Qxc8 26. Nc3 Qe6 27. e4
+Nfd6 28. f3 f5 29. Re2 fxe4 30. fxe4 dxe4 31. Nxe4 Nxe4 32. d5 Qf5 33. Qxc4 Rc8
+0-1

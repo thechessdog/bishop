@@ -1,0 +1,21 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1968.01.01"]
+[Round "4"]
+[White "Bouwmeester, Hans"]
+[Black "Lengyel, Levente"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "94827792"]
+[Epoch "Bishop"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 d5 6. Bd3 O-O 7. O-O Nbd7 8. cxd5
+exd5 9. Qb3 Bxc3 10. Qxc3 b6 11. b3 Bb7 12. Bb2 Rc8 13. dxc5 bxc5 14. Bf5 Re8
+15. Rfd1 h6 16. Rac1 Re7 17. Nd2 Qb6 18. Nf1 a5 19. Ng3 a4 20. Bh3 axb3 21.
+axb3 Ba8 22. e4 Rb8 23. exd5 Qxb3 24. Qxb3 Rxb3 25. d6 Re8 26. Bxf6 Nxf6 27.
+Rxc5 1-0

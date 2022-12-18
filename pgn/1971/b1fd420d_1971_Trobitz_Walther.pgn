@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Trobitz, S."]
+[Black "Walther, H."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "b1fd420d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nd2 c5 4. e3 cxd4 5. exd4 Be7 6. Ngf3 d6 7. Bc4 O-O
+8. O-O a6 9. a4 Qc7 10. Re1 Nc6 11. c3 Rb8 12. Qc2 b5 13. Bd3 h6 14. Bxf6
+Bxf6 15. Ne4 Be7 16. Qe2 Qb6 17. axb5 axb5 18. Bc2 f5 19. Ng3 g6 20. Bb3 d5
+21. Qd2 Kg7 22. Ne2 Qc7 23. Nf4 Qd6 24. Qe3 Rf6 25. Ne5 Kh7 26. Nxc6 Qxc6
+27. Nxd5 Rf7 28. Nxe7 Rxe7 29. d5 Qc7 30. Qe5 Qxe5 31. Rxe5 Kg7 32. f4 Kf6
+33. Rae1 g5 34. g3 gxf4 35. gxf4 Rg7+ 36. Kf2 Rg4 37. Kf3 exd5 38. Bxd5 Rb6
+39. h3 Rg7 40. Re8 Rc7 41. Rg1 Rc5 42. Rf8+ Ke7 43. Rf7+ Kd6 44. Rg6+ Kxd5
+45. Rxb6 h5 46. Rh7 Kc4 47. Rd6 Kb3 48. Rd2 Be6 49. Rxh5 Bd5+ 50. Ke3 Be4
+51. Rg5 1-0
+

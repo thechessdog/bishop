@@ -1,0 +1,22 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1969.01.01"]
+[Round "7"]
+[White "Barendregt, Johan Teunis"]
+[Black "Vasiukov, Evgeni"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "275c25c9"]
+[Epoch "Bishop"]
+[BlackID "4100522"]
+[BlackCountry "RUS"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. Nb3 d6 10. a4 b6 11. e5 dxe5 12. Nb5 axb5 13. axb5 Rxa1 14. Bxc6+ Bd7
+15. Bxd7+ Nxd7 16. Nxa1 O-O 17. Qf3 Rc8 18. Rd1 f5 19. Qb3 Kf7 20. c3 Qb7 21.
+Nc2 Nc5 22. Qc4 Qf3 23. Qf1 Ke8 24. Nb4 Ne4 25. Rd3 Qxf2+ 26. Qxf2 Nxf2 27.
+Kxf2 Bxb4 28. cxb4 Rxc1 29. Rd6 Ke7 30. Rxb6 Rc2+ 31. Ke3 Rxb2 32. Rb7+ Kf6 33.
+b6 Rxb4 34. Rb8 Rb3+ 35. Kd2 e4 36. b7 Ke5 37. Ke2 Rb2+ 0-1

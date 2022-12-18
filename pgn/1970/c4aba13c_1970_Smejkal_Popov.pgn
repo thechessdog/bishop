@@ -1,0 +1,22 @@
+[Event "EU-chT Kapfenberg"]
+[Site "Kapfenberg etc"]
+[Date "1970.05.01"]
+[Round "7"]
+[White "Smejkal, Jan"]
+[Black "Popov, Luben"]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed system (without ...d6)"]
+[HashCode "c4aba13c"]
+[Epoch "Bishop"]
+[BlackID "2900173"]
+[BlackCountry "FID"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 Nge7 6. e4 d6 7. Nge2 O-O 8. O-O
+Be6 9. Nd5 Qd7 10. Be3 f5 11. Qd2 Rae8 12. Rae1 Kh8 13. f4 Ng8 14. c5 Nd4 15.
+cxd6 Bxd5 16. exd5 Qxd6 17. fxe5 Nxe2+ 18. Rxe2 Rxe5 19. Bf4 Rxe2 20. Qxe2 Qb6+
+21. Kh1 Rf7 22. Qe8 Re7 23. Qc8 Be5 24. Bg5 Bf6 25. Bxf6+ Qxf6 26. Qxb7 Qd4 27.
+Qb3 Re2 28. Qc3 Qxc3 29. bxc3 Rxa2 30. Re1 a5 31. d6 1-0

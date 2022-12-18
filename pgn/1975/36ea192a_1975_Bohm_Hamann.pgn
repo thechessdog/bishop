@@ -1,0 +1,21 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1975.07.01"]
+[Round "3"]
+[White "Bohm, Hans"]
+[Black "Hamann, Svend"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "36ea192a"]
+[Epoch "Bishop"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+[BlackID "1400193"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 h6 5. Bh4 g5 6. Bg3 Ne4 7. Nfd2 Nxg3 8.
+hxg3 Bg7 9. c3 Nd7 10. Bd3 c5 11. O-O Qb6 12. Qa4 Qxb2 13. Nb3 c4 14. Rd1 b5
+15. Qa5 cxb3 16. axb3 b4 17. Qa4 O-O 18. Ra2 Nb6 19. Rxb2 Nxa4 20. bxa4 Bd7 21.
+Bb5 Bxb5 22. axb5 bxc3 23. Nxc3 Rfc8 1/2-1/2

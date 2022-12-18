@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Zhukhovitsky, Samuel"]
+[Black "Ragozin, Viacheslav"]
+[Result "0-1"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "112918fd"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteID "4101383"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 d6 6. Be3 c6 7. Nge2 a6 8. d5
+Nbd7 9. Ng3 Ne5 10. Qb3 cxd5 11. cxd5 Nfd7 12. Be2 Nc5 13. Qd1 Qb6 14. Qd2 Qxb2
+15. Qxb2 Ncd3+ 16. Kd2 Nxb2 17. Kc2 Nec4 18. Bg5 Bd7 19. Bxc4 Nxc4 20. a4 h6
+21. Bc1 Rac8 22. Nge2 f5 23. exf5 Bxf5+ 24. Kb3 Bd3 25. Ra2 b6 26. Rd1 Na5+ 27.
+Ka3 Bc4 28. Nd4 Bxa2 29. Nxa2 Bxd4 30. Rxd4 Rc4 31. Rxc4 Nxc4+ 32. Kb4 Ne5 33.
+Bxh6 Rc8 34. Nc3 Rc4+ 35. Kb3 Rh4 36. Bg5 Rxh2 37. Bxe7 Rxg2 38. Bxd6 Nxf3 39.
+Bc7 Nd2+ 40. Kc2 Ne4+ 41. Kd3 Nxc3 0-1

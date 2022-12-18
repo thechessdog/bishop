@@ -1,0 +1,16 @@
+[Event "corr ch-SF"]
+[Site "corr ch-SF"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Blass, R."]
+[Black "Wikman, R."]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Russian variation"]
+[HashCode "271c548a"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Kf8 6. Nf3 cxd4 7. Nxd4 Bxc3+
+8. bxc3 Qc7 9. Qg3 a6 10. Ba3+ Ne7 11. Be2 0-1
+

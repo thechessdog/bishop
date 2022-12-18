@@ -1,0 +1,26 @@
+[Event "London"]
+[Site "London"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Speelman, Jon S"]
+[Black "Timman, Jan H"]
+[Result "0-1"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, Benko variation"]
+[HashCode "c5c4bd61"]
+[Epoch "Bishop"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+[WhiteID "400033"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Ndb5 a6 8.
+Be3 Qa5 9. Nd4 Ne5 10. Nb3 Qc7 11. Bd3 e6 12. O-O Be7 13. Qe2 b5 14. f4 Nc4 15.
+Bc1 Bb7 16. a4 b4 17. Nb1 d5 18. e5 Ne4 19. Kh1 f5 20. exf6 Bxf6 21. N1d2 Ncd6
+22. a5 h5 23. Ra4 h4 24. Rxb4 Qe7 25. Bxe4 dxe4 26. Nxe4 Nxe4 27. Rxe4 Bxe4 28.
+Qxe4 O-O 29. Be3 Rac8 30. c3 Qd7 31. Nd4 Rfe8 32. Qd3 Qb7 33. b4 h3 34. Rf3
+hxg2+ 35. Kxg2 Qd5 36. Bf2 Rc4 37. Ne2 Kf7 38. Bc5 Rd8 39. Nd4 Rh8 40. h3 Rh6
+41. Kh2 Rg6 42. Rg3 Rxg3 43. Kxg3 Be7 44. Bxe7 Kxe7 45. Nf5+ Kf6 46. Nd4 Rc8
+47. Qe3 e5 48. fxe5+ Qxe5+ 49. Qf4+ Qxf4+ 50. Kxf4 Rxc3 51. Ke4 Rc4 52. Kd5
+Rxb4 53. Kc5 Rb1 0-1

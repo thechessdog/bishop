@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Zakharian"]
+[Black "Nikolaev"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "40801893"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Ng5 Bb6 7. d5 e3 8.
+dxc6 bxc6 9. h4 exf2+ 10. Kf1 cxb5 11. Qd5 Nh6 12. Qxa8 c6 13. Ne4 O-O 14.
+Bxh6 Ba6 0-1
+

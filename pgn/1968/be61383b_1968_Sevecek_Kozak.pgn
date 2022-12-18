@@ -1,0 +1,21 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Sevecek"]
+[Black "Kozak"]
+[Result "1-0"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "be61383b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. c3 O-O 8.
+Re1 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 Nf4 12. d4 Ng6 13. Re1 Bb7 14.
+Nd2 c5 15. Nf3 c4 16. Bc2 f5 17. Qe2 Qd5 18. b3 Rae8 19. bxc4 bxc4 20. Ba4
+Bc6 21. Bxc6 Qxc6 22. Qe6+ Qxe6 23. Rxe6 Rf6 24. Re2 Rff8 25. Rb1 Rb8 26.
+Rxb8 Rxb8 27. Rb2 Rb5 28. a4 Ra5 29. Ra2 Rd5 30. g3 Rd8 31. Nd2 Rc8 32. a5
+Bd8 33. Ra4 Rb8 34. Ba3 f4 35. Nxc4 Rc8 36. Bc5 fxg3 37. hxg3 Nf8 38. Nb6
+Rc6 39. Rc4 Ne6 40. Bb4 Rxc4 41. Nxc4 Nc7 42. Ne3 Nb5 43. Kf1 1-0
+

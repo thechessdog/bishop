@@ -1,0 +1,18 @@
+[Event "Rosja ch"]
+[Site "Rosja ch"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Hodos"]
+[Black "Bastrikov, Georgy"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "cacacd2f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8.
+Bg5 h6 9. Bh4 a6 10. a4 g5 11. Bg3 Nh5 12. Nd2 Nxg3 13. hxg3 O-O 14. Nc4 f5
+15. Bd3 Re8 16. Kf1 Rf8 17. exf5 Bxf5 18. Bxf5 Rxf5 19. Ne4 Nd7 20. Ncxd6
+Rf8 21. Qg4 Ne5 22. Qe6+ Kh8 23. Ke2 1-0
+

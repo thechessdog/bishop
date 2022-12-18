@@ -1,0 +1,19 @@
+[Event "World ch jr"]
+[Site "World ch jr"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hebert, Jean"]
+[Black "Kemperman, H."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "870c1412"]
+[Epoch "Bishop"]
+[WhiteID "2600048"]
+[WhiteCountry "CAN"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 e6 4. Nf3 d6 5. d4 Nxc3 6. bxc3 Be7 7. Bd3 c5 8. O-O
+Nd7 9. Qe2 d5 10. c4 Nb6 11. dxc5 Bxc5 12. cxd5 Qxd5 13. Rd1 Bd7 14. Bxh7 Qxd1+
+15. Qxd1 Rxh7 16. Bg5 Bc6 17. Qd3 Rh8 18. Rd1 Bd5 19. Qb5+ Nd7 20. Rxd5 exd5
+21. e6 1-0

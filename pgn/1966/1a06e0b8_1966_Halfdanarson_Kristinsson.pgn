@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1966.??.??"]
+[Round "4"]
+[White "Halfdanarson, Jon"]
+[Black "Kristinsson, Jon"]
+[Result "0-1"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "1a06e0b8"]
+[Epoch "Bishop"]
+[WhiteID "2301830"]
+[WhiteCountry "ISL"]
+[BlackID "2300141"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 e5 7. Bg5 c6 8. Qd2
+Nbd7 9. d5 Nb6 10. Ng3 cxd5 11. cxd5 Bd7 12. Bb5 Bxb5 13. Nxb5 a6 14. Na3 Na4
+15. O-O Rc8 16. b3 Nc5 17. Nc4 b6 18. Rfc1 a5 19. Rab1 Rb8 20. a3 Qd7 21. Be3
+Rfc8 22. b4 axb4 23. Rxb4 b5 24. Nxe5 dxe5 25. Rxc5 Bf8 26. Rxc8 Rxc8 27. Rb3
+Ne8 28. Qb2 Nd6 29. Qxe5 Nc4 30. Qg5 Nxe3 31. Rxe3 Bc5 32. Kf2 Bxe3+ 33. Qxe3
+Qd6 34. Qd3 Qc5+ 35. Ke2 Qg1 36. Qxb5 Rc2+ 37. Kd3 Qd1+ 38. Ke3 Qd2# 0-1

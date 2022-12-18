@@ -1,0 +1,21 @@
+[Event "Mar del Plata open"]
+[Site "Mar del Plata open"]
+[Date "1973.01.01"]
+[Round "2"]
+[White "Suarez, Osvaldo C"]
+[Black "Rubinetti, Jorge"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "9f7b44db"]
+[Epoch "Bishop"]
+[BlackID "100161"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 d6 8. e3
+e5 9. Bd3 g5 10. Bg3 e4 11. Bc2 Qe7 12. h4 Rg8 13. hxg5 hxg5 14. Rh6 Nbd7 15.
+Ba4 Kf8 16. Bxd7 Bxd7 17. f3 Kg7 18. Rh2 exf3 19. gxf3 Qxe3+ 20. Kf1 Ne4 21.
+Be1 Qf4 22. Qe2 Rae8 23. Qg2 Rh8 24. Nh3 Rxh3 25. Rxh3 Bxh3 26. Qxh3 Rh8 27.
+Qg4 Rh1+ 28. Ke2 Rh2+ 29. Kd3 Rd2+ 30. Bxd2 Qxd2+ 31. Kxe4 Qe2+ 32. Kf5 Qe5#
+0-1

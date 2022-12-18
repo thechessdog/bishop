@@ -1,0 +1,17 @@
+[Event "Graz"]
+[Site "Graz"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Strobl"]
+[Black "Struner"]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch"]
+[HashCode "54d15eb7"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. Nc3 Nf6 3. f3 d5 4. e4 fxe4 5. fxe4 dxe4 6. Bc4 Bg4 7. Nge2
+Nbd7 8. h3 Bxe2 9. Nxe2 e5 10. O-O exd4 11. Nf4 Ne5 12. Ne6 Qd7 13. Bb3 Nc6
+14. Bg5 h5 15. Bxf6 gxf6 16. Rxf6 Bg7 17. Rf5 Rh6 18. Nxg7+ Qxg7 19. Bf7+
+Kd7 20. Bxh5 Ne7 21. Rf7 Qe5 22. Bg4+ Kc6 23. c3 1-0
+

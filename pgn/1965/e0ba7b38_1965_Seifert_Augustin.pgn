@@ -1,0 +1,20 @@
+[Event "Pardubice"]
+[Site "Pardubice"]
+[Date "1965.01.01"]
+[Round "2"]
+[White "Seifert, Milan"]
+[Black "Augustin, Josef"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "e0ba7b38"]
+[Epoch "Bishop"]
+[WhiteID "301582"]
+[WhiteCountry "CZE"]
+[BlackID "300373"]
+[BlackCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Bd7 8. a4
+Qa5 9. Bd2 c4 10. g3 Nbc6 11. Bh3 O-O-O 12. Ng5 Rdf8 13. f4 Nd8 14. O-O f6 15.
+exf6 gxf6 16. Nf3 Nec6 17. Re1 Re8 18. Re3 1/2-1/2

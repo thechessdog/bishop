@@ -1,0 +1,18 @@
+[Event "Villa Gesell tt"]
+[Site "Villa Gesell tt"]
+[Date "1969.01.01"]
+[Round "5"]
+[White "Riveiro, Jorge"]
+[Black "Presa"]
+[Result "1-0"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Krause attack"]
+[HashCode "04418d20"]
+[Epoch "Bishop"]
+[WhiteID "104450"]
+[WhiteCountry "ARG"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 e6 8. f3
+Be7 9. e4 Bg6 10. Bg5 Nh5 11. Nd6+ Kf8 12. Nxb7 Qb6 13. Bxe7+ Kxe7 14. Nc5 Nxc5
+15. dxc5 Qxc5 16. Qc1 Rhd8 17. Nd5+ 1-0

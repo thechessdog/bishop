@@ -1,0 +1,18 @@
+[Event "ACM Chicago"]
+[Site "ACM Chicago"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Genie"]
+[Black "Chess 3 5"]
+[Result "0-1"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "26ca0457"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Nxc6 bxc6 7. Bf4 e5
+8. Be3 Be6 9. Bg5 Rb8 10. b3 Be7 11. Bc4 Bxc4 12. bxc4 Qd7 13. Rb1 Rxb1 14.
+Nxb1 Nxe4 15. Bc1 O-O 16. Qh5 Rb8 17. Nd2 Nxd2 18. Bxd2 Rb1+ 19. Qd1 Rxd1+
+20. Kxd1 Qg4+ 21. f3 Qxg2 22. Re1 Qxf3+ 23. Kc1 f5 24. Re3 Qf1+ 25. Be1 Bg5
+26. c5 Bxe3+ 27. Kb2 Qxe1 28. cxd6 Qb4+ 29. Ka1 Bd4+ 30. c3 Bxc3# 0-1
+

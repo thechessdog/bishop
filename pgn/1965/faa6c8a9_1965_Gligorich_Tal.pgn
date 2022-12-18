@@ -1,0 +1,19 @@
+[Event "England"]
+[Site "England"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Gligorich & Penrose"]
+[Black "Tal & Golombek"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "faa6c8a9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8.
+Bh4 Qb6 9. Qd3 Qxb2 10. Rb1 Qa3 11. e5 dxe5 12. fxe5 g5 13. exf6 gxh4 14.
+Be2 Nd7 15. O-O Nc5 16. Qf3 Bd7 17. Rb6 Rc8 18. Kh1 Rg8 19. Rd1 Rg5 20. Bc4
+Re5 21. Qf4 Qxc3 22. Qxe5 Qxc4 23. Rd6 Ne4 24. Qxe4 Bxd6 25. Nf5 Bf8 26.
+Qe1 h3 0-1
+

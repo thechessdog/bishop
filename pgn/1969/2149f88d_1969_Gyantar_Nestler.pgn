@@ -1,0 +1,24 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gyantar"]
+[Black "Nestler"]
+[Result "1-0"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation"]
+[HashCode "2149f88d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. d5 c6 5. e4 Be7 6. Nf3 Na6 7. Bd3 O-O 8. h3
+Nc7 9. Be3 c5 10. a3 a6 11. b4 Nd7 12. Ke2 Ne8 13. Qd2 Qc7 14. Rab1 Nb6 15.
+bxc5 dxc5 16. Qb2 Nd7 17. g4 Nd6 18. a4 Bd8 19. Nd2 Re8 20. Qa3 b6 21. f3
+Nb7 22. h4 Qd6 23. Nf1 Na5 24. Ng3 Nf8 25. Nf5 Bxf5 26. gxf5 Ra7 27. Rbg1
+Rd7 28. Rh3 Kh8 29. Qb2 Bf6 30. Kd1 Rb7 31. Qg2 Nd7 32. Rg3 Rg8 33. Bh6 g6
+34. h5 g5 35. Bxg5 Rxg5 36. Rxg5 Bxg5 37. Qxg5 Qf8 38. f6 Nb3 39. Ne2 b5
+40. axb5 axb5 41. f4 bxc4 42. Bxc4 Nd4 43. Nxd4 Rb1+ 44. Kc2 Rxg1 45. Qxg1
+cxd4 46. fxe5 Nxe5 47. Qxd4 Qd6 48. Kb3 Qxf6 49. d6 Kg7 50. Bb5 Qe6+ 51.
+Kb4 f6 52. d7 Qe7+ 53. Qc5 Qd8 54. Qc8 Qe7+ 55. Ka4 Nf7 56. Qe8 Qe5 57. h6+
+Kxh6 58. Qxf7 1-0
+

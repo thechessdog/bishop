@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Bychov"]
+[Black "Klaman"]
+[Result "1-0"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "6cc5ddbe"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 Nxd4
+8. Qxd4 Qa5 9. f4 Rc8 10. O-O-O Qc5 11. e5 Qxd4 12. Rxd4 dxe5 13. fxe5 Rc5
+14. Bb5 Bxb5 15. Rhd1 Nd5 16. Nxd5 f6 17. e6 Kd8 18. Bf4 1-0
+

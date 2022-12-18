@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Forintos, Gyozo V"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack, Schofman variation"]
+[HashCode "619e0f32"]
+[Epoch "Bishop"]
+[BlackID "700690"]
+[BlackCountry "HUN"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. f4 g6 3. Nf3 Bg7 4. Nc3 Nc6 5. Bc4 e6 6. f5 Nge7 7. fxe6 fxe6 8. d3
+d5 9. Bb3 b5 10. a4 b4 11. Ne2 Na5 12. c3 Qb6 13. Rb1 c4 14. Bg5 Nxb3 15. Bxe7
+Kxe7 16. exd5 exd5 17. d4 Bf5 0-1

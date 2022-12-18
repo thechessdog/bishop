@@ -1,0 +1,19 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1971.09.01"]
+[Round "1"]
+[White "Platonov, Igor"]
+[Black "Shamkovich, Leonid"]
+[Result "0-1"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "8b223b26"]
+[Epoch "Bishop"]
+[WhiteID "24197190"]
+[WhiteCountry "UKR"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. f3 Nc6 6. Be3 a6 7. Nge2 Rb8 8. Nc1
+e5 9. d5 Nd4 10. N1e2 c5 11. dxc6 bxc6 12. Nxd4 exd4 13. Bxd4 Rxb2 14. Nb5 Nxe4
+15. Bxb2 Qa5+ 16. Nc3 Nxc3 17. Bxc3 Qxc3+ 18. Ke2 Be6 0-1

@@ -1,0 +1,17 @@
+[Event "Rhyl"]
+[Site "Rhyl"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Price, MR."]
+[Black "Yeeles, WJE."]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "QGD"]
+[HashCode "0a1c251e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. Nc3 O-O 6. Bxf6 Bxf6 7. cxd5
+exd5 8. g3 c5 9. Bg2 Nc6 10. dxc5 Bxc3+ 11. bxc3 Qa5 12. O-O Qxc5 13. Qd3
+Be6 14. Rab1 b6 15. Ng5 g6 16. Rb5 Ne5 17. Nxe6 fxe6 18. Rxc5 Nxd3 19. Rxd5
+Nxf2 20. Rd6 1-0
+

@@ -1,0 +1,16 @@
+[Event "Vancouver"]
+[Site "Vancouver"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Leblanc, P."]
+[Black "MacDonald, H."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "4df16503"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Qxe7 8.
+Nb5 Nb6 9. Nd6+ Kf8 10. dxc5 Nc4 11. Bxc4 dxc4 12. Nxc8 1-0
+

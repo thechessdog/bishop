@@ -1,0 +1,18 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "9"]
+[White "Csiszar, A."]
+[Black "Blom, Seppo"]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "f8349da8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. d4 Bg4 6. Be2 cxd4 7. cxd4 e6
+8. Nc3 Bb4 9. O-O Bxc3 10. bxc3 Nd7 11. Ba3 b5 12. h3 Bh5 13. Qd2 Nb6 14.
+c4 Nxc4 15. Bxc4 bxc4 16. Qb4 Bxf3 17. Qf8+ Kd7 18. Qxf7+ Kc8 19. Qf8+ Qd8
+20. Qxf3 Kc7 21. Rab1 Qd5 22. Qf7+ Kc8 23. Qxg7 1-0
+

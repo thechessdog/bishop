@@ -1,0 +1,27 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "6"]
+[White "Gerusel, Mathias"]
+[Black "Van Baarle, John"]
+[Result "0-1"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "2a06cff9"]
+[Epoch "Bishop"]
+[WhiteID "4601122"]
+[WhiteCountry "GER"]
+[BlackID "1000691"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Nd2
+O-O 9. Be2 Na6 10. O-O Re8 11. f3 Nd7 12. Kh1 Nc7 13. a4 b6 14. Nc4 Ne5 15. Ne3
+f6 16. f4 Nf7 17. Bd2 a6 18. Bd3 Rb8 19. Rb1 b5 20. axb5 axb5 21. Ne2 Bd7 22.
+Ng1 c4 23. Bc2 Na6 24. b4 cxb3 25. Rxb3 Nc5 26. Rb4 Qa5 27. Re1 Na6 28. Rb1 b4
+29. Ra1 Qb6 30. Nc4 Qc7 31. Rxa6 Qxc4 32. Ra7 Bg4 33. Qb1 f5 34. h3 Bh5 35. Bd3
+Qc5 36. Be3 Bd4 37. Bxd4 Qxd4 38. Ra4 fxe4 39. Bxe4 Qc3 40. Ra1 Qg3 41. Qc1 b3
+42. Qd2 Re7 43. Bd3 b2 44. Rab1 Rxe1 45. Rxe1 g5 46. f5 Ne5 47. Bb1 Nc4 48. Ne2
+Nxd2 49. Nxg3 Nxb1 50. Rxb1 Bd1 51. Rxd1 b1=Q 52. Rxb1 Rxb1+ 53. Kh2 Re1 54.
+Nh5 Kf7 55. g4 Rd1 56. h4 Rd2+ 57. Kh3 Rd3+ 58. Kg2 gxh4 59. Kh2 h6 60. Kg2
+Rxd5 61. Kh3 Re5 62. Kxh4 d5 63. Kg3 d4 64. Nf4 d3 65. Ng6 Re8 0-1

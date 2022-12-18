@@ -1,0 +1,17 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Haase, J."]
+[Black "Essegern, K."]
+[Result "1-0"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "3f866f4b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nbd7 6. Bc4 Nb6 7. Bb3 e5
+8. Nf3 Be6 9. O-O Be7 10. Qe2 O-O 11. Rd1 Qc8 12. Bg5 Bc4 13. Bxc4 Nxc4 14.
+Bxf6 Bxf6 15. Nd5 Bd8 16. b3 Na5 17. Ne3 Qe6 18. Nf5 Bc7 19. Ng5 Qf6 20.
+Nxh7 1-0
+

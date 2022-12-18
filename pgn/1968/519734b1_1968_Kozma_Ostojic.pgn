@@ -1,0 +1,21 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kozma, Julius"]
+[Black "Ostojic, Predrag"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "519734b1"]
+[Epoch "Bishop"]
+[WhiteID "14934019"]
+[WhiteCountry "SVK"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O c6 7. Nc3 Qa5 8. e4
+Bg4 9. h3 Bxf3 10. Bxf3 Nfd7 11. Be3 a6 12. a4 c5 13. dxc5 dxc5 14. Qb3 Nc6 15.
+Bg2 e6 16. Rad1 Nd4 17. Qa2 b5 18. e5 Nxe5 19. Bxa8 Rxa8 20. axb5 Qxa2 21. Nxa2
+axb5 22. Nc1 Nxc4 23. Nd3 Nxe3 24. fxe3 Nf5 25. Ra1 Rc8 26. Ra5 c4 27. Nb4 Nxe3
+28. Rf3 Nf5 29. Nc2 Nd4 30. Nxd4 Bxd4+ 31. Kf1 Bxb2 32. Rxb5 c3 0-1

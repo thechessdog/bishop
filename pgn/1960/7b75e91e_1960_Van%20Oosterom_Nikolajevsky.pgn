@@ -1,0 +1,21 @@
+[Event "Leningrad Student tt"]
+[Site "Leningrad Student tt"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Van Oosterom, H."]
+[Black "Nikolajevsky"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "7b75e91e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Rb8 8. f4
+Nge7 9. Nf3 Nd4 10. O-O b5 11. Ng5 O-O 12. Nd1 b4 13. c3 bxc3 14. bxc3 Ndc6
+15. h4 Qa5 16. h5 h6 17. Nf3 f5 18. Nh4 gxh5 19. Bf3 Ba6 20. Re1 Qb5 21.
+Be2 Qa4 22. Bxh5 Nb4 23. Nf2 Nc2 24. Bd1 Rb2 25. Re2 Nxe3 26. Qxb2 Qa5 27.
+Rxe3 Bxc3 28. Qb1 Bd4 29. Qc1 Rb8 30. Bh5 fxe4 31. Rxe4 Bxd3 32. Rxd4 cxd4
+33. Nxd3 Qxh5 34. Qc7 Re8 35. Qxd6 Qe2 36. Ne5 Qe3+ 37. Kh2 Qf2+ 38. Kh3
+Nd5 39. Qd7 Re7 40. Qd8+ Kg7 41. Nhg6 1-0
+

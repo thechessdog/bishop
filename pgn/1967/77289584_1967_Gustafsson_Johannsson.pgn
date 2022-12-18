@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Gustafsson, H."]
+[Black "Johannsson, A."]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Smyslov variation"]
+[HashCode "77289584"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Qe7 9. a3 Ba5 10. Ne5 Rd8 11. Bd3 cxd4 12. exd4 Bxc3 13. bxc3 b6 14.
+Bg5 Bb7 15. f4 Nbd7 16. Qe1 Nf8 17. Ng4 h5 18. Bxf6 gxf6 19. Nh6+ Kh8 20.
+Qe2 Ng6 21. f5 Kg7 22. Nxf7 1-0
+

@@ -1,0 +1,21 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Braeu, L."]
+[Black "Kuhn, W."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "e082754f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. Nxd5 Nxd5 6. e4 h6 7. Bh4 N7b6
+8. exf5 Ne3 9. Qd3 Qxd4 10. Qxd4 Nxc2+ 11. Kf2 Nxd4 12. Bd3 e6 13. f6 g5
+14. Bg3 Bd6 15. Bxd6 cxd6 16. Rc1 Kd7 17. Ne2 Nxe2 18. Bb5+ Kd8 19. Kxe2 a6
+20. Bd3 Nd7 21. h4 gxh4 22. Rxh4 Rc8 23. Rch1 Nxf6 24. Rxh6 Rxh6 25. Rxh6
+Ke7 26. f4 Nd5 27. g3 Nb4 28. a3 Nxd3 29. Kxd3 d5 30. f5 e5 31. Rb6 Rc7 32.
+g4 Kd8 33. g5 Ke8 34. g6 fxg6 35. fxg6 Kf8 36. Rd6 e4+ 37. Ke3 Rc5 38. Rd7
+Rb5 39. b4 a5 40. Kf4 axb4 41. Kg5 bxa3 42. Kh6 Rb6 43. Rxd5 a2 44. Ra5 Ra6
+0-1
+

@@ -1,0 +1,19 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1960.??.??"]
+[Round "2"]
+[White "Fuchs, Reinhart"]
+[Black "Neikirkh, Oleg"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "b8ba0187"]
+[Epoch "Bishop"]
+[WhiteID "4611357"]
+[WhiteCountry "GER"]
+[BlackCountry "BGR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 cxd4 5. exd4 Nf6 6. Nf3 Be7 7. Bg5 O-O 8. Rc1
+a6 9. a3 Nbd7 10. c5 Ne4 11. Bxe7 Qxe7 12. Be2 f5 13. O-O g5 14. b4 Qg7 15. Ne1
+Nb8 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Lehmann, W."]
+[Black "Wiesner, M."]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "b07c4a99"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. c4 e6 13. O-O-O O-O-O 14.
+Kb1 c5 15. Bc3 cxd4 16. Nxd4 a6 17. Qe2 Bd6 18. Ne4 Nxe4 19. Qxe4 Nc5 20.
+Qe2 Na4 21. Bd2 Be5 22. Be3 Rd6 23. c5 Rd5 24. Qg4 Rhd8 25. Nxe6 Rxd1+ 26.
+Rxd1 Rxd1+ 27. Qxd1 Nxb2 28. Qc2 fxe6 29. Bc1 Qc6 30. f4 Qb5 31. fxe5 Nd3+
+32. Ka1 Nxe5 33. a4 Qf1 34. Ka2 Nc6 35. Ba3 e5 36. Qe4 Qf7+ 37. Ka1 Qxh5
+38. Qd5 Qg4 0-1
+

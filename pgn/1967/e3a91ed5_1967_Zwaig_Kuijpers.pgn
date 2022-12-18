@@ -1,0 +1,24 @@
+[Event "Halle zt"]
+[Site "Halle"]
+[Date "1967.??.??"]
+[Round "1"]
+[White "Zwaig, Arne"]
+[Black "Kuijpers, Frans"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "e3a91ed5"]
+[Epoch "Bishop"]
+[WhiteID "1500040"]
+[WhiteCountry "NOR"]
+[BlackID "1000349"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. cxd5 exd5 8. Ne5
+Bb7 9. O-O a6 10. Ne2 Nbd7 11. Bd2 Bd6 12. f4 Ne4 13. Ng3 Nxg3 14. hxg3 Nf6 15.
+Kf2 Ne4+ 16. Bxe4 dxe4 17. Rh1 h6 18. Bc3 Bxe5 19. dxe5 Qxd1 20. Raxd1 Rfd8 21.
+Rxd8+ Rxd8 22. f5 Bd5 23. a3 Bb3 24. g4 Rd3 25. g5 hxg5 26. Rh5 Rd7 27. Rxg5 c5
+28. g4 Rb7 29. e6 fxe6 30. f6 Rf7 31. Kg2 Rd7 32. fxg7 Rd5 33. Be5 Bd1 34. Rh5
+Rxe5 35. Rxe5 Bxg4 36. Rg5 Bf5 37. Kg3 b5 38. Kf4 b4 39. axb4 cxb4 40. Ke5 a5
+41. Kf6 a4 42. Rh5 Bh7 1-0

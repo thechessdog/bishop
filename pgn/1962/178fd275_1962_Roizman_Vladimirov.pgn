@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Roizman, Michael"]
+[Black "Vladimirov, Boris T"]
+[Result "1/2-1/2"]
+[ECO "A56"]
+[Opening "Benoni defence"]
+[HashCode "178fd275"]
+[Epoch "Bishop"]
+[WhiteID "2802953"]
+[WhiteCountry "ISR"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. Bd3 O-O 7. Nge2 e6 8. O-O
+exd5 9. exd5 Ng4 10. Bf4 Qe7 11. Qd2 Nd7 12. Rae1 Nge5 13. Nc1 Qd8 14. Bg5 Bf6
+15. Bh6 Bg7 16. Bg5 Bf6 17. Bh6 Bg7 1/2-1/2

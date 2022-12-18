@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Lutikov, Anatoly S"]
+[Black "Bastrikov, Georgy"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "11c590dd"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Bxg5 8. hxg5
+c5 9. g6 f5 10. Qf4 h6 11. Nf3 O-O 12. O-O-O Nc6 13. dxc5 Qe8 14. Nxd5 exd5 15.
+Rxd5 Nd8 16. Rd6 Nxc5 17. Rxh6 gxh6 18. Qxh6 Qe7 19. g7 Qxg7 20. Rg6 1-0

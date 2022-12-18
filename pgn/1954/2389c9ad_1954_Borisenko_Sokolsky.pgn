@@ -1,0 +1,25 @@
+[Event "Kiev ch-URS"]
+[Site "Kiev ch-URS"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Borisenko, Georgy K"]
+[Black "Sokolsky, Alexey"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "2389c9ad"]
+[Epoch "Bishop"]
+[BlackCountry "UKR"]
+[WhiteCountry "UZB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. Nc4
+Nb6 9. e4 Bg7 10. Ne3 O-O 11. Bd3 Nbd7 12. O-O a6 13. a4 Rb8 14. Nc4 Qc7 15.
+Bf4 Ne5 16. Bxe5 dxe5 17. a5 Ne8 18. Na4 Bd7 19. Ncb6 Bxa4 20. Qxa4 Rd8 21.
+Rac1 Bh6 22. Rc2 Qe7 23. Qc4 Nd6 24. Qxc5 Qh4 25. Re1 f5 26. exf5 e4 27. Bf1
+gxf5 28. Nc4 Qf6 29. Nxd6 Rxd6 30. Qc3 Qg6 31. Qg3 Bg7 32. Rc7 Rf7 33. Rc8+ Rf8
+34. Rc7 Rf7 35. Rxf7 Kxf7 36. Qb3 Qf6 37. Qxb7+ Kg6 38. Qb3 Qe5 39. Bc4 Qf4 40.
+Rd1 Be5 41. g3 Qg4 42. Qc2 Kh6 43. Be2 Qg6 44. Kh1 Qf7 45. b4 Kg7 46. f4 Bf6
+47. Qc5 Be7 48. Qd4+ Bf6 49. Qc5 Be7 50. Qc7 Kf8 51. Qc3 Bf6 52. Qc5 Be7 53. b5
+axb5 54. a6 Qe8 55. Qxb5 Qa8 56. Qb2 Bf6 57. Qb4 Be7 58. Qd4 Bf6 59. Qc5 Be7
+60. Qc3 Bf6 61. Qc7 Rxd5 62. Rb1 Qe8 63. a7 Rd8 64. Rb8 1-0

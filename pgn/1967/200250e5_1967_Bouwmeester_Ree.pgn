@@ -1,0 +1,19 @@
+[Event "Zierikzee ch-NED"]
+[Site "Zierikzee ch-NED"]
+[Date "1967.07.01"]
+[Round "10"]
+[White "Bouwmeester, Hans"]
+[Black "Ree, Hans"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "200250e5"]
+[Epoch "Bishop"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+[BlackID "1000098"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Ne2 e5 7. O-O Re8 8. Qc2
+Qe7 9. f3 Bxc3 10. bxc3 b6 11. e4 Nc6 12. Ba3 Ba6 13. c5 1/2-1/2

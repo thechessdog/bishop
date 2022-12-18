@@ -1,0 +1,23 @@
+[Event "Nederland tt"]
+[Site "Nederland tt"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Zuidema, Coen"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "efc57efb"]
+[Epoch "Bishop"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+[BlackID "1000101"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5 8.
+Nb3 Qxd1 9. Rxd1 Bg4 10. f3 Bd7 11. Bf4 O-O-O 12. a4 c4 13. Na5 Bc5+ 14. Kf1
+Ne7 15. Nxc4 Bxa4 16. Rxd8+ Rxd8 17. Rxa4 Rd1+ 18. Ke2 Rxb1 19. Ra2 Nc6 20. c3
+b5 21. Ne3 g5 22. Bg3 Bxe3 23. Kxe3 a5 24. h4 h6 25. f4 g4 26. h5 b4 27. cxb4
+axb4 28. Bh4 b3 29. Ra8+ Kb7 30. Ra3 Rxb2 31. Bxf6 Rb1 32. Kd3 Kb6 33. Ra1 Nb4+
+34. Kc4 Rxa1 35. Bxa1 Nc2 36. Kxb3 Ne1 37. g3 Kc5 38. Bg7 1-0

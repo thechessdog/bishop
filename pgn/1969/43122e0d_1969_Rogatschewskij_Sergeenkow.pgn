@@ -1,0 +1,19 @@
+[Event "corr ch3-SU"]
+[Site "corr ch3-SU"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Rogatschewskij, N."]
+[Black "Sergeenkow, J."]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "43122e0d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+Nfd7 9. Nb5 dxe5 10. Nd6+ Ke7 11. Nxc8+ Qxc8 12. d6+ Kf8 13. Nf3 Nc6 14.
+Be2 h6 15. fxe5 Ndxe5 16. O-O Nxf3+ 17. Bxf3 Bd4+ 18. Kh1 Kg7 19. Bd5 Rf8
+20. Bf4 g5 21. Bxg5 hxg5 22. Qh5 Bf6 23. Rae1 Qd8 24. Rf3 Qe8 25. Rxe8
+Raxe8 26. h4 Re1+ 27. Kh2 Be5+ 28. g3 f6 29. Kg2 Nd4 30. hxg5 1-0
+

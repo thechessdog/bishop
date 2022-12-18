@@ -1,0 +1,19 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Minev, Nikolay Nikolaev"]
+[Black "Medina Garcia, Antonio Angel"]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Breyer variation"]
+[HashCode "54570c23"]
+[Epoch "Bishop"]
+[BlackCountry "EST"]
+[WhiteCountry "BGR"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. Qe2 Nxc3 7. dxc3 O-O 8.
+Bf4 c5 9. g3 Nc6 10. Bg2 Qb6 11. b3 d4 12. c4 Bf5 13. O-O Rae8 14. Qd2 Bd8 15.
+Rf2 Bc7 16. Raf1 Bg6 17. Nh4 Bxe5 18. Nxg6 hxg6 19. Bd5 Qc7 20. Bg5 Bf6 21.
+Bxf6 gxf6 22. Qh6 1-0

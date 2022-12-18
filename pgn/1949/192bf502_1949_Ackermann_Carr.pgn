@@ -1,0 +1,17 @@
+[Event "Omeha"]
+[Site "Omeha"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Ackermann, D."]
+[Black "Carr, W."]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "192bf502"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Be7 4. Nc3 Nc6 5. f4 exf4 6. Bxf4 O-O 7. e5 Ne8
+8. Nf3 d6 9. Qd2 dxe5 10. Nxe5 Nxe5 11. Bxe5 Bf6 12. Bxf6 Nxf6 13. O-O Qd4+
+14. Kh1 Bd7 15. Rf4 Qc5 16. Raf1 Rae8 17. Ne4 Nxe4 18. Rxf7 Nf6 19. Qg5 1-0
+

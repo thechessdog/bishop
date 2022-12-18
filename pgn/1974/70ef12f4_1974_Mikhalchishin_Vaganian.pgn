@@ -1,0 +1,20 @@
+[Event "Valencia"]
+[Site "Valencia"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Mikhalchishin, Adrian"]
+[Black "Vaganian, Rafael A"]
+[Result "0-1"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Capablanca variation"]
+[HashCode "70ef12f4"]
+[Epoch "Bishop"]
+[WhiteID "14602385"]
+[BlackID "13300016"]
+[WhiteCountry "SLO"]
+[BlackCountry "ARM"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c5 7. dxc5 Qa5 8. Nf3
+Rd8 9. Qa4 Qxc5 10. b4 Qc6 11. Qb3 Ne4 12. Nb5 Na6 13. Bd3 Nac5 14. bxc5 Nxc5
+15. Qa3 Bb2 0-1

@@ -1,0 +1,18 @@
+[Event "Springfield"]
+[Site "Springfield"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Bourbon, E."]
+[Black "Platz, Joseph"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Reti variation"]
+[HashCode "693a43b9"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Qe2 Bf5 6. dxe4 Nxe4 7. Nc3 Qe7 8. g4
+Qh4+ 9. Kd1 Bxg4 10. Nf3 Bxf3 11. Qxf3 Nf2+ 12. Ke2 Nxh1 13. Qxh1 Bd6 14. Be3
+O-O 15. Qf3 Nd7 16. Bh3 Nf6 17. Rg1 Rfe8 18. Kd1 Qh5 19. Bg4 Nxg4 20. Rxg4 g6
+21. h3 f5 22. Rg3 Qxf3+ 23. Rxf3 a6 24. a3 Re7 25. h4 Rae8 26. Kd2 Rxe3 1-0

@@ -1,0 +1,18 @@
+[Event "Marianske Lazne zt"]
+[Site "Marianske Lazne zt"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Stoltz, Gösta"]
+[Black "Barcza, Gedeon"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "ce4a3472"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 d5 8. Nd2
+Nc6 9. e3 Na5 10. b3 dxc4 11. Bxb7 Nxb7 12. Nxc4 c5 13. dxc5 Qxd1 14. Rxd1 Bxc5
+15. Bb2 Rfd8 16. Kf1 Ne8 17. Ke2 f6 18. a3 Be7 19. Rxd8 1/2-1/2

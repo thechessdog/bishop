@@ -1,0 +1,18 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Nordstrom, Eric"]
+[Black "Andersson, Arne"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "412ec0d1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. O-O e5
+8. Nd2 Bd6 9. Nc4 Bc7 10. f4 b5 11. Nxe5 Bxe5 12. fxe5 Qd4+ 13. Kh1 Qxe5
+14. Bf4 Qe6 15. Qh5 Ne7 16. Rf3 Ng6 17. Qc5 f6 18. Bd6 Bb7 19. e5 Rd8 20.
+Raf1 Nh4 21. exf6 Nxf3 22. fxg7 Rg8 23. Qh5+ Qf7 24. Re1+ 1-0
+

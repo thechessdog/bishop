@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Bergonzo"]
+[Black "Kapitaniak"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "a14d383e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 b5 4. Bxb5 fxe4 5. Nxe5 Qg5 6. d4 Qxg2 7. Ke2 c6
+8. Rg1 Qh3 9. Rg3 Qh5+ 0-1
+

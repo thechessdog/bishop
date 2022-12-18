@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Viola"]
+[Black "Maresca"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "84fd9cf5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 Nc6 7. g4 e5 8.
+Nde2 Be6 9. f4 h6 10. f5 Bc4 11. Be3 d5 12. exd5 Nxd5 13. Nxd5 Bxd5 14. Rh2
+Be7 15. Qd2 Rc8 16. O-O-O Nb4 17. c3 Qa5 18. a3 O-O 19. axb4 Qa1+ 0-1
+

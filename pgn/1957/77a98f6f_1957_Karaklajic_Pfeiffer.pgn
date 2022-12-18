@@ -1,0 +1,19 @@
+[Event "Sofia zt"]
+[Site "Sofia zt"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Karaklajic, Nikola"]
+[Black "Pfeiffer, Gerhard"]
+[Result "0-1"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Duras (Keres) variation"]
+[HashCode "77a98f6f"]
+[Epoch "Bishop"]
+[BlackID "1649027"]
+[BlackCountry "AUT"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c4 Bd7 6. Nc3 g6 7. d4 exd4 8. Nxd4
+Bg7 9. Bxc6 Bxc6 10. Nxc6 bxc6 11. O-O Nf6 12. Qa4 Qd7 13. Rd1 O-O 14. e5 Ng4
+15. exd6 Qf5 16. f3 Qc5+ 0-1

@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Zaid"]
+[Black "Zhidkov"]
+[Result "1/2-1/2"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "06baa160"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ne4 6. Qc2 f5 7. a3 Bxc3+ 8.
+Nxc3 Bb7 9. Bd3 Nxc3 10. Qxc3 O-O 11. Rg1 Qh4 12. h3 d6 13. b3 Nd7 14. Bb2
+Nf6 15. Qc2 Ne4 16. Rf1 Ng5 17. d5 exd5 18. O-O-O Ne4 19. cxd5 Bxd5 20. Bc4
+Bf7 21. Rd5 Nf6 22. Bxf6 Qxf6 23. Rxf5 Qxf5 24. Qxf5 Bxc4 25. Qxf8+ 1/2-1/2
+

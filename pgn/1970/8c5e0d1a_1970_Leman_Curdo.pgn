@@ -1,0 +1,18 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Leman, M."]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "8c5e0d1a"]
+[Epoch "Bishop"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. Nf3 e6 3. d4 d5 4. e5 f6 5. c3 fxe5 6. dxe5 Nge7 7. Bd3 Nf5 8. O-O
+Be7 9. g4 Nh4 10. Nxh4 Bxh4 11. f4 Be7 12. g5 Bc5+ 13. Kg2 Ne7 14. Qh5+ g6 15.
+Qh6 Kf7 16. h4 Kg8 17. Nd2 Nf5 18. Bxf5 exf5 0-1

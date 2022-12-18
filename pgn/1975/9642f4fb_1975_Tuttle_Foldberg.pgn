@@ -1,0 +1,20 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Tuttle"]
+[Black "Foldberg"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "9642f4fb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7
+8. f4 Nc5 9. f5 e5 10. Nde2 Be7 11. Ng3 b5 12. Nh5 Nxh5 13. Qxh5 Nxb3 14.
+axb3 Bb7 15. Qg4 h5 16. Qe2 Bh4+ 17. g3 Be7 18. O-O h4 19. g4 h3 20. Rf3
+Bg5 21. Rd3 Bxc1 22. Rxc1 Qg5 23. Rcd1 Rh5 24. Rg3 b4 25. Nd5 Bxd5 26. Rxd5
+Qc1+ 27. Rd1 Qxb2 28. Rxd6 Rc8 29. Qd1 Rh6 30. Rd2 Qa3 31. g5 Rh4 32. f6 g6
+33. Rd5 Rh5 34. Rgd3 1-0
+

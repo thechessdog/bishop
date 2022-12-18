@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Pfleger, Helmut, Dr."]
+[Black "Herzog, K."]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Ponziani gambit"]
+[HashCode "2cc9a46d"]
+[Epoch "Bishop"]
+[WhiteID "4600100"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 Nxe4 4. dxe5 Nc5 5. f4 Ne6 6. Nf3 h6 7. f5 Ng5 8. O-O
+Nxf3+ 9. Qxf3 c6 10. f6 gxf6 11. Bxf7+ Kxf7 12. Qh5+ Kg8 13. Qg6+ Bg7 14. exf6
+Qf8 15. f7+ 1-0

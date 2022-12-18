@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Mabbs"]
+[Black "Blackman"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "92f63078"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 exf3 5. Qxf3 c6 6. Bd3 Qxd4 7. Be3 Qg4
+8. Qf2 e5 9. h3 Qh5 10. Nge2 Bd6 11. O-O-O e4 12. Bxe4 Nxe4 13. Nxe4 Be7
+14. Nf4 Qa5 15. Qg3 O-O 16. Rd5 cxd5 17. Nh5 g6 18. Nhf6+ Bxf6 19. Nxf6+
+Kg7 20. Qe5 Kh8 21. Bh6 Nc6 22. Bg7+ Kxg7 23. Ne8+ Kh6 24. Qf4+ g5 25. Qf6+
+Kh5 26. Ng7+ Kh4 27. Qf2# 1-0
+

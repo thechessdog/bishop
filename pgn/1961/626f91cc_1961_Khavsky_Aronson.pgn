@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Khavsky, Sergey"]
+[Black "Aronson, Lev"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "626f91cc"]
+[Epoch "Bishop"]
+[BlackID "34310037"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nc6 10. Nxc6 bxc6 11. e5 dxe5 12. fxe5 Nd5 13. Bxe7 Nxe7 14. Re1
+Nd5 15. Ne4 Qxe5 16. Qa3 Qf4+ 17. Kb1 f5 18. g3 Qb8 19. Nd6+ Kd7 20. Nf7 Re8
+21. c4 Nb4 22. Ne5+ Kc7 23. Qa5+ Qb6 24. Qxb6+ Kxb6 25. a3 a5 26. axb4 axb4 27.
+Bg2 1-0

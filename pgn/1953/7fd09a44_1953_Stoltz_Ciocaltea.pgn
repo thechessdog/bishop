@@ -1,0 +1,17 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Stoltz, Gösta"]
+[Black "Ciocaltea, Victor"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "7fd09a44"]
+[Epoch "Bishop"]
+[BlackCountry "ROU"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Qc2 g6 5. d4 cxd4 6. cxd4 Bg7 7. Nc3 O-O 8. h3
+Nc6 9. d5 Nb4 10. Qb3 a5 11. Be3 Nd7 12. a3 Na6 13. Bxa6 bxa6 14. Na4 Rb8 15.
+Qc2 Ne5 16. Nd2 Bd7 17. Nc3 Rxb2 0-1

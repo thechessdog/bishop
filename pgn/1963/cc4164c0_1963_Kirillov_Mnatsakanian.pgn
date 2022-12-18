@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Kirillov"]
+[Black "Mnatsakanian, Eduard A"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "cc4164c0"]
+[Epoch "Bishop"]
+[BlackCountry "ARM"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. dxc5 Qa5 7. Qd2 Qxc5
+8. O-O-O Nc6 9. Nxe4 Qe5 10. Bd3 Be6 11. Nf3 Qd5 12. Nc3 Qh5 13. Kb1 Bh6 14.
+Qe2 Qa5 15. Bb5 O-O 16. Nd4 Nxd4 17. Rxd4 Rfc8 18. Ra4 Qb6 19. Ne4 Bg7 20. Ng3
+f5 21. b3 Bd7 22. Bxd7 Qf6 23. c4 Rd8 0-1

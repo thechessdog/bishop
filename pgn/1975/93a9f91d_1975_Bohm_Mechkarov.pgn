@@ -1,0 +1,18 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Bohm, Hans"]
+[Black "Mechkarov, Ventzisl"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "93a9f91d"]
+[Epoch "Bishop"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. O-O fxe4 6. Bxc6 dxc6 7. Nxe5 Qd5 8.
+d4 Nf6 9. f3 Qxe5 10. Kh1 Qh5 11. dxc5 O-O 12. Be3 exf3 13. Qxf3 Bg4 14. Qg3
+Ne4 15. Rxf8+ Rxf8 16. Qe1 Rf1+ 17. Qxf1 Ng3+ 18. Kg1 Nxf1 19. Kxf1 Qf5+ 0-1

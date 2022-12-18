@@ -1,0 +1,24 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Nielsen, E Verner"]
+[Black "Tornerup, John"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "53e78d99"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Bc5 6. d3 Qd6 7. Be3 Bg4
+8. Qd2 O-O-O 9. Bxc5 Qxc5 10. Qg5 Bxf3 11. gxf3 g6 12. Qe3 Qb4 13. O-O-O
+Kb8 14. f4 f6 15. fxe5 fxe5 16. f4 exf4 17. Qxf4 Ne7 18. Rdf1 Qc5 19. Qf2
+Qa5 20. Qh4 Nc8 21. Rf7 Nd6 22. Rxh7 Rxh7 23. Qxd8+ Ka7 24. Qf6 Qc5 25.
+Qxg6 Qe3+ 26. Kb1 Rxh2 27. Qg1 Rxh1 28. Qxh1 Nb5 29. Nxb5+ cxb5 30. a3 a5
+31. Qh5 c5 32. Qd5 Qe1+ 33. Ka2 Qf2 34. c3 Ka6 35. e5 a4 36. e6 Qe2 37.
+Qd6+ b6 38. Qd5 Ka7 39. Qd7+ Ka6 40. Qc6 Ka7 41. Qxb5 Qxe6+ 42. c4 Qd6 43.
+Qxa4+ Kb7 44. Qd1 Qd4 45. Qf3+ Ka7 46. Qe4 Qg1 47. Qe7+ Kb8 48. Qd8+ Kb7
+49. Qd7+ Ka6 50. Qe8 Ka7 51. a4 Qd1 52. Qd7+ Kb8 53. Qb5 Kc7 54. a5 bxa5
+55. Qxc5+ Kb8 56. Qb5+ Kc8 57. c5 1-0
+

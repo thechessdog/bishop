@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Large, Peter G"]
+[Black "Crouch, Colin"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "569016ab"]
+[Epoch "Bishop"]
+[WhiteID "400866"]
+[WhiteCountry "ENG"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Bf4 Ng6 6. Bg3 f5 7. h4 e5 8. dxe6
+Bxe6 9. h5 N6e7 10. Nb5 Nd5 11. c4 Bb4+ 12. Ke2 Nf4+ 13. Bxf4 Bxc4+ 14. Ke3
+Bc5+ 15. Nd4 Bxf1 16. Qa4+ b5 0-1

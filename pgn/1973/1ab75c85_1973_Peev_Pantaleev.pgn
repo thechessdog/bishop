@@ -1,0 +1,16 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Peev, Peicho Chonev"]
+[Black "Pantaleev"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Lasker trap"]
+[HashCode "1ab75c85"]
+[Epoch "Bishop"]
+[WhiteCountry "BGR"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e3 Bb4+ 5. Bd2 dxe3 6. Qa4+ Nc6 7. Bxb4 exf2+
+8. Kxf2 Qh4+ 9. g3 Qd4+ 10. Kg2 Qxb2+ 11. Nd2 Qxa1 12. Ngf3 Qb2 13. a3 Bg4 0-1

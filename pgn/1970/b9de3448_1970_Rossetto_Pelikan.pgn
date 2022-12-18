@@ -1,0 +1,19 @@
+[Event "Miramar"]
+[Site "Miramar"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Rossetto, Hector"]
+[Black "Pelikán, Jiří (Jorge)"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "b9de3448"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nf3 Nf6 8. O-O O-O
+9. f5 gxf5 10. exf5 d5 11. Nh4 h6 12. Kh1 Re8 13. a3 a5 14. a4 Ra6 15. Rb1 Nd4
+16. Ne2 Nxe2 17. Qxe2 Rd6 18. Re1 b6 19. Be3 Ba6 20. Qd1 Qd7 21. b3 Bb7 22. Qf3
+Bc6 23. Qf1 1/2-1/2

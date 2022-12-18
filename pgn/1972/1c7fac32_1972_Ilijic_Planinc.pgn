@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Ilijic, Milan"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[HashCode "1c7fac32"]
+[Epoch "Bishop"]
+[BlackCountry "SVN"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Bb4 4. Nge2 O-O 5. a3 Bxc3 6. Nxc3 Nxe4 7. Nxe4 d5
+8. Bd3 dxe4 9. Bxe4 f5 10. Bf3 e4 11. Be2 f4 12. d3 Qg5 13. dxe4 Qxg2 14. Bf3
+Qh3 15. Bd2 Nc6 16. Bc3 Be6 17. Rg1 Rfd8 18. Rxg7+ Kf8 19. Qe2 Rd4 20. Rg5 Bc4
+21. Bxd4 Bxe2 22. Bc5+ Kf7 23. Kxe2 b6 24. Bh5+ Kf6 25. Rf5+ Kg7 26. Rg1+ Kh8
+27. c3 bxc5 28. Rxc5 Rd8 29. Bf3 Ne7 30. Rxc7 Ng6 31. Rg5 Nh4 32. Bg4 Qd3+ 33.
+Ke1 Ng2# 0-1

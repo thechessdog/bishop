@@ -1,0 +1,25 @@
+[Event "Jonkoping"]
+[Site "Jonkoping"]
+[Date "1958.??.??"]
+[Round "6"]
+[White "Koskinen, Heikki"]
+[Black "Nilsson, Zandor"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "1c92b07e"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5 15.
+Be3 a4 16. Nbd2 Be6 17. a3 Na5 18. Rc1 Rac8 19. Qe2 Qb8 20. Bd3 b4 21. Bb5 bxa3
+22. bxa3 d5 23. Nxe5 Bxa3 24. Ra1 Qd6 25. Nxf7 Rxf7 26. e5 Qf8 27. exf6 Rxf6
+28. Bxa4 Bb4 29. Rec1 Nc4 30. Nxc4 dxc4 31. Bc2 Bd5 32. Bxh7+ Kxh7 33. Qh5+ Kg8
+34. Qxd5+ Qf7 35. Qxf7+ Kxf7 36. Ra4 Rb6 37. Rb1 Rcb8 38. Ra7+ Kg8 39. d5 Rb5
+40. Bf4 Bf8 41. Rxb5 Rxb5 42. d6 Rd5 43. Rc7 Rd1+ 44. Kh2 Rxd6 45. Rxc4 Rd7 46.
+h4 Rb7 47. Rc8 Rd7 48. h5 Rd4 49. g3 Kf7 50. Kh3 Ra4 51. Rc7+ Kg8 52. Be5 Ra5
+53. f4 Rb5 54. Kg4 Rb3 55. Bc3 Rb5 56. f5 Rb3 57. Be5 Rb5 58. Kf4 Rb4+ 59. Kg5
+Re4 60. Bf4 Ra4 61. Rb7 Ra6 62. Be5 Ra5 63. Bb2 Rd5 64. g4 Ra5 65. Kg6 1-0

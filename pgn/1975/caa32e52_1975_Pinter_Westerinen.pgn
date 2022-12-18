@@ -1,0 +1,25 @@
+[Event "Szolnok"]
+[Site "Szolnok"]
+[Date "1975.01.01"]
+[Round "5"]
+[White "Pinter, Jozsef"]
+[Black "Westerinen, Heikki M.J."]
+[Result "0-1"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Alapin variation"]
+[HashCode "caa32e52"]
+[Epoch "Bishop"]
+[WhiteID "700045"]
+[WhiteCountry "HUN"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. Be3 g6 8. Qd2
+Bg7 9. Nc3 Ne7 10. h3 O-O 11. Bh6 Be6 12. O-O-O Qb8 13. g4 Qb4 14. a3 Qb7 15.
+Rdg1 Rab8 16. Nd1 c5 17. Bxg7 Kxg7 18. dxc5 Qxe4 19. cxd6 Nd5 20. Nh4 cxd6 21.
+Nf5+ Bxf5 22. gxf5 Rfc8 23. fxg6 hxg6 24. Ne3 Nxe3 25. fxe3 Rb3 26. Rh2 Qxe3
+27. Qxe3 Rxe3 28. Rhg2 Rxh3 29. Rxg6+ Kf7 30. R1g2 Rf3 31. Rg7+ Ke6 32. Kd2 d5
+33. Rb7 Rc6 34. c3 e4 35. Rb4 Rd3+ 36. Ke1 Ke5 37. a4 Rc4 38. Rxc4 dxc4 39. Rg8
+Rd6 40. Rc8 Kd5 41. a5 f5 42. Rf8 Ke5 43. Rc8 Rd5 44. Rxc4 Rxa5 45. b4 Ra1+ 46.
+Ke2 Ra2+ 47. Ke1 e3 0-1

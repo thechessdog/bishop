@@ -1,0 +1,24 @@
+[Event "corr ch-NOR"]
+[Site "corr ch-NOR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pettersen, H."]
+[Black "Wiik, J."]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "6fe11e08"]
+[Epoch "Bishop"]
+
+1. c4 e6 2. Nc3 Nf6 3. Nf3 b6 4. d4 Bb7 5. Bg5 Bb4 6. e3 h6 7. Bh4 g5 8.
+Bg3 Ne4 9. Qc2 Nxg3 10. hxg3 Be7 11. d5 Bf6 12. O-O-O Qe7 13. Nb5 d6 14.
+dxe6 fxe6 15. Qg6+ Kd7 16. Rxh6 Rxh6 17. Qxh6 Na6 18. Qg6 Nc5 19. Qc2 Be4
+20. Qe2 Na4 21. Rd2 a6 22. Nbd4 Qh7 23. Qd1 Nc5 24. b4 Nb7 25. Bd3 e5 26.
+Bxe4 Qxe4 27. Qc2 Qxc2+ 28. Nxc2 a5 29. b5 Rh8 30. Nfe1 Nc5 31. f3 Rh1 32.
+Rd1 e4 33. Nd4 Rf1 34. Kc2 Bxd4 35. exd4 Rf2+ 36. Kc3 Na4+ 37. Kb3 Nb2 38.
+Rc1 e3 39. Nc2 Nd3 40. Rd1 a4+ 41. Kc3 Rxc2+ 42. Kxd3 Rxa2 43. Kxe3 a3 44.
+f4 gxf4+ 45. gxf4 Rxg2 46. Kd3 Ke6 47. Kc3 Kf5 48. c5 Kxf4 49. cxd6 cxd6
+50. Kc4 Rg5 51. Rf1+ Ke3 52. Ra1 d5+ 53. Kb4 Kxd4 54. Rxa3 Rg2 55. Ra4 Rb2+
+56. Ka3+ Kc3 0-1
+

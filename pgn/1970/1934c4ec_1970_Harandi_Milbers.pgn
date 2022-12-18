@@ -1,0 +1,20 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "7"]
+[White "Harandi, Khosro"]
+[Black "Milbers, Paul"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "1934c4ec"]
+[Epoch "Bishop"]
+[WhiteID "12500011"]
+[WhiteCountry "IRI"]
+[BlackID "4000110"]
+[BlackCountry "LUX"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 d4 6. Bc4 e6 7. Ne2 Qf6 8. Qg3
+e5 9. d3 Nd7 10. f4 Bd6 11. O-O O-O-O 12. fxe5 Bxe5 13. Rxf6 Bxg3 14. Rxf7 Be5
+15. Bf4 Nh6 16. Rxd7 Rxd7 17. Bxe5 Re8 18. Bxd4 a5 19. Bb6 a4 1-0

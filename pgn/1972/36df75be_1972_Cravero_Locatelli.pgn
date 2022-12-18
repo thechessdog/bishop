@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Cravero"]
+[Black "Locatelli"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "36df75be"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 g6 4. e3 Bg7 5. c4 c6 6. h3 O-O 7. d4 Bf5 8. Nc3
+Re8 9. g4 Be4 10. g5 Nfd7 11. h4 e5 12. Nxe4 dxe4 13. Nxe5 Nxe5 14. dxe5
+Qa5+ 15. Qd2 Qxd2+ 16. Kxd2 Bxe5 17. Bxe5 Rxe5 18. Rd1 Nd7 19. Kc3 Re7 20.
+Be2 a6 21. Rd2 Rae8 22. Rhd1 Nb8 23. c5 Kf8 24. Rd8 a5 25. R1d6 Re5 26. Kd4
+Rf5 27. Bg4 Rxf2 28. Rxe8+ Kxe8 29. Kxe4 Rxa2 30. Bc8 a4 31. b4 Rb2 0-1
+

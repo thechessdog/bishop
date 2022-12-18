@@ -1,0 +1,24 @@
+[Event "San Antonio"]
+[Site "San Antonio"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Campos Lopez, Mario"]
+[Black "Kaplan, Julio"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "d2cef656"]
+[Epoch "Bishop"]
+[WhiteID "5100100"]
+[WhiteCountry "MEX"]
+[BlackID "2000326"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Nc6 7. f3 Bg7 8. Qd2
+O-O 9. Bc4 Bd7 10. Bb3 Rc8 11. h4 Ne5 12. Bh6 Bxh6 13. Qxh6 Rxc3 14. bxc3 Qa5
+15. Qd2 Rc8 16. O-O Rxc3 17. Ne2 Qb6+ 18. Qd4 Rc5 19. Nf4 Bb5 20. Nd3 Bxd3 21.
+cxd3 Nxd3 22. Rab1 Nf4 23. Kh2 Qc7 24. Qe3 d5 25. e5 Ne6 26. Rfc1 d4 27. Rxc5
+Qxc5 28. Qe1 Nd5 29. Rc1 Nc3 30. Bxe6 fxe6 31. f4 b5 32. h5 b4 33. Qg3 Kg7 34.
+Qd3 a5 35. Qa6 Qd5 36. Qa7 Qd8 37. Qa6 d3 38. Qxe6 d2 39. h6+ Kxh6 40. Rh1 d1=Q
+41. Rxd1 0-1

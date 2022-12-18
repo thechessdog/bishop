@@ -1,0 +1,19 @@
+[Event "CSR-ch"]
+[Site "Luhacovice"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Doda, Zbigniew"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "4e547061"]
+[Epoch "Bishop"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. e4 Bg7 6. f4 O-O 7. Nf3 b5 8. cxb5 a6
+9. bxa6 Qa5 10. Bd2 Qb6 11. Qb3 Qxb3 12. axb3 Bxa6 13. Bxa6 Rxa6 14. Rxa6 Nxa6
+15. Kd1 1/2-1/2

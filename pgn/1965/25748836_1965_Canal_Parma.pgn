@@ -1,0 +1,19 @@
+[Event "Reggio Emilia 6566"]
+[Site "Reggio Emilia"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Canal, Esteban"]
+[Black "Parma, Bruno"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "25748836"]
+[Epoch "Bishop"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+[WhiteCountry "PER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Qe2 h6 6. Bh4 Qa5 7. O-O-O Bg7 8. e5
+dxe5 9. dxe5 Nh5 10. Re1 Be6 11. Nh3 Nd7 12. g4 Bxe5 13. gxh5 Bxc3 14. bxc3
+Qa3+ 15. Kd2 O-O-O 16. Ke3 Qxc3+ 0-1

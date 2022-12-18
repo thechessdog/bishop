@@ -1,0 +1,17 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1961.03.01"]
+[Round "1"]
+[White "Silva Nazzari, Roberto"]
+[Black "Bielicki, Carlos"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "64b0c476"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Bg5 d6 6. Bd3 e5 7. d5 h6 8. Bh4
+Nbd7 9. g4 Nc5 10. g5 Nh5 11. Nf3 Nxd3+ 12. Qxd3 Nf4 13. Qc2 Bg4 14. gxh6 Bf6
+15. Bxf6 Qxf6 16. Ng1 Ng2+ 17. Kd2 Qg5+ 18. Kd3 Nf4+ 19. Kd2 f5 20. h4 Qxh6 21.
+Ke1 fxe4 0-1

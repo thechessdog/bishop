@@ -1,0 +1,18 @@
+[Event "USA op"]
+[Site "Aspen"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gross, Ronald Joseph"]
+[Black "Dunning, S."]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Opovcensky variation"]
+[HashCode "a326e993"]
+[Epoch "Bishop"]
+[WhiteID "2012154"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2 c6 7. Rc1 Nbd7 8. Bd3
+dxc4 9. Bxc4 Nb6 10. Bb3 Bf5 11. Qe2 Nbd5 12. O-O Nxc3 13. Bxc3 Ne4 14. Bb4 a5
+15. Ba3 Nd6 16. Ne5 Nb5 17. g4 a4 18. Bxf7+ 1-0

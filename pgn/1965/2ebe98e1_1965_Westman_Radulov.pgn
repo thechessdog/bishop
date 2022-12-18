@@ -1,0 +1,20 @@
+[Event "Sinaia"]
+[Site "Sinaia"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Westman, Jan"]
+[Black "Radulov, Ivan"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[HashCode "2ebe98e1"]
+[Epoch "Bishop"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 Ba7 7. d4 Nxe4 8. Re1
+f5 9. Nbd2 O-O 10. Nxe4 fxe4 11. Bg5 Qe8 12. Rxe4 d6 13. dxe5 Bf5 14. Rh4 Qg6
+15. exd6 cxd6 16. Bf4 Be4 17. Bb3+ Kh8 18. Ng5 Bxf2+ 19. Kxf2 Qxg5 20. Qg4 Qc5+
+21. Kg3 g5 22. Qxg5 Rg8 23. Bxg8 Rxg8 24. Rg4 Rxg5 25. Rxg5 Qc4 26. Re1 Ne5 27.
+Bxe5+ dxe5 28. Re3 Qd5 29. c4 Qd2 0-1

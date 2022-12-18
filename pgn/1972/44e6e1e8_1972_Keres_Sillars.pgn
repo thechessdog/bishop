@@ -1,0 +1,22 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Keres, Paul"]
+[Black "Sillars, D."]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "44e6e1e8"]
+[Epoch "Bishop"]
+[WhiteCountry "EST"]
+
+1. e4 c5 2. Nf3 g6 3. Nc3 Bg7 4. Bc4 Nh6 5. O-O Nc6 6. d3 e6 7. Bg5 f6 8. Be3
+Qe7 9. Nb5 O-O 10. d4 a6 11. Nc7 Rb8 12. d5 Na5 13. d6 Qd8 14. Be2 b6 15. Nxa6
+Bxa6 16. Bxa6 Nf7 17. Qd3 Nb7 18. Bxb7 Rxb7 19. Rad1 Qb8 20. Bf4 Rc8 21. Rfe1
+Rc6 22. e5 fxe5 23. Nxe5 Rxd6 24. Nxf7 Rxd3 25. Bxb8 Rxd1 26. Rxd1 Kxf7 27. Bd6
+Bxb2 28. g4 Ra7 29. Bb8 Rb7 30. Bd6 Bd4 31. Rd3 Ra7 32. a3 e5 33. Kg2 Ke6 34.
+Bf8 d5 35. Rb3 c4 36. Rb5 Rf7 37. c3 Bxf2 38. Bh6 Bc5 39. Rb2 Ra7 40. Bc1 Rxa3
+41. Rxb6+ Bxb6 42. Bxa3 d4 43. Bb4 d3 44. Kf1 e4 45. Ba3 e3 46. Bf8 Ke5 47. Bh6
+Ke4 0-1

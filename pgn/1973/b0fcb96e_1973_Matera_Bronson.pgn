@@ -1,0 +1,19 @@
+[Event "USA op"]
+[Site "Chicago"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Matera, Salvatore"]
+[Black "Bronson, P."]
+[Result "1-0"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "b0fcb96e"]
+[Epoch "Bishop"]
+[WhiteID "2000580"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. g3 Bd6 13. Re1 Be6 14. d4 Qd7 15.
+Nd2 f5 16. f4 Kh8 17. Nf3 Bg8 18. Be3 Rf6 19. Ne5 Qc7 20. a4 Ne7 21. axb5 cxb5
+22. Qf3 Qc8 23. Bxg8 Kxg8 24. Nd7 1-0

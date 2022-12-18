@@ -1,0 +1,24 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Portisch, Ferenc"]
+[Black "Haag, Ervin"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "d72afb30"]
+[Epoch "Bishop"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+[BlackID "700398"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nbd7 8. cxd5
+exd5 9. Ne5 Re8 10. Nxd7 Bxd7 11. dxc5 Bxc5 12. b3 Bd6 13. h3 Qe7 14. Qd2 Rac8
+15. Bb2 Qe5 16. g3 Bb4 17. Rfc1 Bxh3 18. a3 Bxc3 19. Bxc3 Ne4 20. Bxe5 Nxd2 21.
+Rxc8 Rxc8 22. Be2 f6 23. Bd4 Nxb3 24. Rb1 Nxd4 25. exd4 b6 26. g4 h5 27. gxh5
+Bf5 28. Rb3 Rc1+ 29. Kg2 Kf7 30. Bf3 Be4 31. Bxe4 dxe4 32. Kg3 Rc4 33. d5 Rc5
+34. Kf4 Rxd5 35. h6 gxh6 36. Kxe4 Ke6 37. Rh3 Ra5 38. Rd3 Ra4+ 39. Kf3 Ke5 40.
+Kg3 Rc4 41. Kg2 0-1

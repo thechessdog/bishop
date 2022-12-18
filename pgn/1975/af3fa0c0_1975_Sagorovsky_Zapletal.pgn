@@ -1,0 +1,18 @@
+[Event "corr WER/K"]
+[Site "corr WER/K"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Sagorovsky, M."]
+[Black "Zapletal, J."]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Nimzovich variation"]
+[HashCode "af3fa0c0"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. g3 O-O 7. Bg2 Ne8 8.
+O-O Bxc3 9. bxc3 f5 10. exf5 Bxf5 11. Nh4 Be6 12. Rb1 Rb8 13. f4 Nf6 14. f5
+Bf7 15. g4 Ne4 16. Bxe4 Qxh4 17. Rb2 Ne7 18. Bxb7 c6 19. Be3 Nc8 20. Rff2
+h5 21. g5 Be8 22. c5 Ne7 23. Rb4 1-0
+

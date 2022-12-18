@@ -1,0 +1,15 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Chernisher"]
+[Black "Les"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "606d33ad"]
+[Epoch "Bishop"]
+
+1. b4 e6 2. Bb2 Nf6 3. b5 Be7 4. e3 O-O 5. Bd3 h6 6. Nf3 b6 7. g4 Bb7 8. g5
+hxg5 9. Nxg5 Bxh1 10. Bxf6 g6 11. Qh5 1-0
+

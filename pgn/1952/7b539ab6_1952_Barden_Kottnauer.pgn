@@ -1,0 +1,19 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Barden, Leonhard William"]
+[Black "Kottnauer, Cenek"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "7b539ab6"]
+[Epoch "Bishop"]
+[BlackCountry "CZE"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+Bb7 9. Re1 Nbd7 10. Bxe6 fxe6 11. Nxe6 Qc8 12. Bf4 Kf7 13. Ng5+ Kg6 14. Nd5
+Bxd5 15. exd5 Qc4 16. Qf3 Qxd5 17. Ne4 Nxe4 18. Rad1 Qc6 19. Rxe4 Nf6 20. Qg3+
+Kf7 21. Re3 Re8 22. Rde1 Rxe3 23. Qxe3 d5 24. Qa7+ Kg6 25. Re5 h6 0-1

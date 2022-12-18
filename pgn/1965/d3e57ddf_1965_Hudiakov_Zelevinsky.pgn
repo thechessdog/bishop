@@ -1,0 +1,18 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Hudiakov, A."]
+[Black "Zelevinsky, Vladimi"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "d3e57ddf"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2
+Qc7 8. O-O Nd7 9. c4 Rg8 10. Kh1 O-O-O 11. Qa4 Kb8 12. Be3 f5 13. d5 c5 14.
+b4 e5 15. Rab1 f4 16. Bxc5 Bxc5 17. bxc5 Nxc5 18. Qa3 Bxf3 19. Qxf3 e4 20.
+Qh5 Rg6 21. Rfd1 Qd6 22. Bf1 Rdg8 23. Qxh7 Qf6 24. Qh3 f3 25. d6 Rh6 0-1
+

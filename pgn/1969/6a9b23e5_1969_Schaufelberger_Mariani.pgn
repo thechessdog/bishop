@@ -1,0 +1,18 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Schaufelberger"]
+[Black "Mariani"]
+[Result "1-0"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind"]
+[HashCode "6a9b23e5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 Bg7
+8. Be2 d6 9. O-O O-O 10. Bg5 Re8 11. Qd2 Be6 12. Rac1 Qa5 13. b3 Rac8 14.
+h3 a6 15. Kh1 Bd7 16. Be3 b5 17. cxb5 axb5 18. Nxb5 Qxd2 19. Bxd2 Rb8 20.
+a4 1-0
+

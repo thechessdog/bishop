@@ -1,0 +1,18 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Averby, Rune"]
+[Black "Kaliwoda, K."]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "621cc106"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. g4 Qc5 11. Bh4 h6 12. Bg2 O-O 13. Bf2 Qc7 14. h4
+Kh8 15. g5 Ng8 16. Rhg1 Re8 17. Bh3 Nb6 18. f5 e5 19. f6 Nxf6 20. gxf6 Bxf6
+21. Nf5 Bxf5 22. Bxb6 Qxb6 23. Qxf5 1-0
+

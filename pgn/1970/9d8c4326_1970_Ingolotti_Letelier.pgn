@@ -1,0 +1,18 @@
+[Event "Miramar"]
+[Site "Miramar"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ingolotti, O."]
+[Black "Letelier, Rene"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "9d8c4326"]
+[Epoch "Bishop"]
+[BlackCountry "CHL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O Na6 10. Ng3 Nc7 11. h3 a6 12. a4 Rb8 13. f4 b5 14. Be3 Re8 15. Bf2
+bxa4 16. Nxa4 Nd7 17. Qf3 Rb3 18. Rfc1 Nb5 19. Qd1 Rb4 20. Be1 Rd4 21. Bf2 Rb4
+22. Be1 Rd4 23. Bf2 1/2-1/2

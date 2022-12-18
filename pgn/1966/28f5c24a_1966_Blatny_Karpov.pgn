@@ -1,0 +1,18 @@
+[Event "Trinec"]
+[Site "Trinec"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Blatny"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "28f5c24a"]
+[Epoch "Bishop"]
+[BlackID "4100026"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3
+d6 9. a4 Bb7 10. d4 exd4 11. cxd4 bxa4 12. Rxa4 d5 13. e5 Ne4 14. Nc3 Nb4 15.
+Rd1 a5 16. Nd2 Nxd2 17. Bxd2 c5 1/2-1/2

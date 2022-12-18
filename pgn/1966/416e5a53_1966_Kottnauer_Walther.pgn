@@ -1,0 +1,18 @@
+[Event "CB"]
+[Site "Brunnen"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Kottnauer, Cenek"]
+[Black "Walther, Edgar"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "416e5a53"]
+[Epoch "Bishop"]
+[BlackCountry "CHE"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. e3 Bf5 5. Bxf6 gxf6 6. Bd3 Bg6 7. Nge2 Nd7 8.
+e4 dxe4 9. Bxe4 e6 10. Qd3 Qa5 11. O-O-O O-O-O 12. Qc4 Nb6 13. Qb3 c5 14. dxc5
+Bxc5 15. f3 Kb8 16. Kb1 a6 17. h4 Rxd1+ 18. Rxd1 Be7 19. Nf4 Bxe4 20. Nxe4 Rc8
+21. a3 Rc6 22. Ka2 f5 23. Ng5 Na4 24. Nd3 Rb6 25. Qc4 Nxb2 0-1

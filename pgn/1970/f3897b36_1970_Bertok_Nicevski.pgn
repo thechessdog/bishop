@@ -1,0 +1,21 @@
+[Event "Rovinj"]
+[Site "Rovinj"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Bertok, Mario"]
+[Black "Nicevski, Risto"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "f3897b36"]
+[Epoch "Bishop"]
+[WhiteCountry "HRV"]
+[BlackCountry "MKD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. e3 cxd4 5. exd4 d5 6. Nf3 Be7 7. a3 O-O 8. Bd3
+dxc4 9. Bxc4 a6 10. O-O b5 11. Ba2 Bb7 12. Re1 Nbd7 13. Bg5 Nb6 14. Ne5 Nbd5
+15. Qf3 Ra7 16. Qh3 Nxc3 17. Qxc3 Nd5 18. Bxe7 Nxe7 19. Rad1 Bd5 20. Bb1 Rc7
+21. Qh3 g6 22. Qg3 Nc6 23. h4 Nxe5 24. dxe5 Rc4 25. Be4 Qe7 26. Bxd5 exd5 27.
+Rxd5 Rxh4 28. Rd6 Rh5 29. Rxa6 Rg5 30. Qe3 Rxg2+ 31. Kxg2 Qb7+ 32. f3 Qxa6 33.
+Rd1 Qe6 34. Rd6 Qb3 35. Qxb3 1-0

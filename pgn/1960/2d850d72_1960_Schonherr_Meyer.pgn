@@ -1,0 +1,18 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Schonherr"]
+[Black "Mevel, Alberic"]
+[Result "1-0"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "2d850d72"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Bxc5 7. e3 Nc6 8.
+Nf3 b6 9. a3 Bb7 10. Bd3 Rc8 11. O-O Be7 12. Rfd1 h6 13. h3 Ne8 14. e4 g5 15.
+Bh2 f6 16. Bf1 Na5 17. Nd4 Ng7 18. Ndb5 a6 19. Nd6 Bxd6 20. Bxd6 Rf7 21. b3 Nc6
+22. b4 e5 23. c5 Nd4 24. Qa2 Nge6 25. Bc4 Kh7 26. Ne2 Rg7 27. Nxd4 Nxd4 28.
+cxb6 Qxb6 29. Bc5 Qc7 30. Rac1 Nc6 31. Qe2 a5 32. b5 Nb8 33. Bf8 1-0

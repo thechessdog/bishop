@@ -1,0 +1,19 @@
+[Event "Fredericia"]
+[Site "Fredericia"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Hage, Poul"]
+[Black "Oppenlander, Arne"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "3d84a700"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 cxd4 5. O-O a6 6. Ba4 b5 7. Bb3 Bb7
+8. d3 g6 9. Nd2 Bg7 10. Qe2 Nf6 11. f4 O-O 12. Nf3 Kh8 13. Ng5 e6 14. Bd2
+Qe7 15. Qf2 Ng4 16. Qh4 Nh6 17. f5 f6 18. fxe6 dxe6 19. Nxe6 g5 20. Qh5 Bc8
+21. Nxg7 Kxg7 22. Bxg5 fxg5 23. Rxf8 Qxf8 24. Qxg5+ Kh8 25. Rf1 Qg7 26.
+Qd8+ Ng8 27. Rf8 Bh3 28. Rxg8+ Qxg8 29. Qxg8+ Rxg8 30. Bxg8 1-0
+

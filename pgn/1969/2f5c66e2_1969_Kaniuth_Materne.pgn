@@ -1,0 +1,17 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Kaniuth, E."]
+[Black "Materne, D."]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack"]
+[HashCode "2f5c66e2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Bc5 10. Qd3 O-O 11. Be3 f6 12. exf6 Qxf6 13. Bxd5 Rad8 14.
+Bxc5 Nxc5 15. Bxe6+ Qxe6 16. Qc2 Rxf3 17. gxf3 Rd5 18. f4 Qg4+ 0-1
+

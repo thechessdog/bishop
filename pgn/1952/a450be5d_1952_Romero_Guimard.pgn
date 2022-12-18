@@ -1,0 +1,21 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Romero, Ricardo"]
+[Black "Guimard, Carlos E"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "a450be5d"]
+[Epoch "Bishop"]
+[WhiteID "8404003"]
+[WhiteCountry "HON"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. h3 c6 8. a4
+h6 9. Be3 Re8 10. Qd2 Bf8 11. Rfe1 b6 12. Rad1 a6 13. dxe5 dxe5 14. Qe2 b5 15.
+Bb3 Qc7 16. axb5 axb5 17. Ra1 Rxa1 18. Rxa1 Nc5 19. Nd2 Nxb3 20. Nxb3 b4 21.
+Na4 Be6 22. Nbc5 Qa5 23. Nxe6 Rxe6 24. b3 Nxe4 25. Bb6 Nc3 26. Qd3 Qd5 27. Nxc3
+Qxd3 28. cxd3 bxc3 29. Ba5 Rd6 30. Bb4 Rxd3 31. Ra8 c2 32. Rxf8+ Kh7 0-1

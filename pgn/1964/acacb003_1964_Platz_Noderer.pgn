@@ -1,0 +1,19 @@
+[Event "New Haven"]
+[Site "New Haven"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Noderer, L."]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "acacb003"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 b6 6. Ne2 Bb7 7. O-O d5 8. a3
+Bd6 9. Nb5 dxc4 10. Bxc4 Bxh2+ 11. Kxh2 Ng4+ 12. Kg3 Qg5 13. f4 Qg6 14. f5 Qg5
+15. e4 Ne3+ 16. Kf3 Nxd1 17. Bxg5 Nxb2 18. Bb3 exf5 19. Nxc7 Bxe4+ 20. Kf2 Nc6
+21. Nxa8 Rxa8 22. Ra2 Nd3+ 23. Kg1 h6 24. Bd2 g5 25. Bc3 f4 26. Rd2 f3 27. gxf3
+Bg6 28. Rfd1 1-0

@@ -1,0 +1,20 @@
+[Event "Goldschmidt"]
+[Site "Goldschmidt"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Webb"]
+[Black "Nunn, John D M"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "cbc228aa"]
+[Epoch "Bishop"]
+[BlackID "400017"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. e6
+fxe6 9. h5 gxh5 10. Rxh5 Nf6 11. Rh4 cxd4 12. Nxd4 Nc6 13. Be3 Qb6 14. g4 e5
+15. fxe5 Nxe5 16. Nf5 Qxb2 17. Nxe7+ Kf7 18. Ncd5 Bxg4 19. Rxg4 Nexg4 20. Bd4
+Qa3 21. c3 Rae8 22. Bc4 Nxd5 23. Qxg4 Bxd4 24. Qxd4 Rxe7+ 25. Kd1 Qa4+ 26. Kd2
+Ke8 27. Rb1 Qxc4 28. Qxc4 Rf2+ 0-1

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Wittig"]
+[Black "Riedel"]
+[Result "1-0"]
+[ECO "D25"]
+[Opening "QGA, Smyslov variation"]
+[HashCode "42760df1"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 g6 5. Bxc4 Bg7 6. O-O O-O 7. Nc3 Nfd7
+8. e4 Nc6 9. Be2 Nb6 10. d5 Ne5 11. Nxe5 Bxe5 12. f4 Bg7 13. Be3 c6 14. Rc1
+Bxc3 15. Rxc3 cxd5 16. Rd3 e6 17. f5 Nc4 18. Bh6 Qb6+ 19. Kh1 Nxb2 20. Qa1
+Re8 21. Rb3 Qd4 22. Rxb2 exf5 23. exd5 b6 24. Bf3 Bb7 25. Rd1 Qh4 26. Rxb6
+Qxh6 27. Rxb7 g5 28. d6 Rad8 29. d7 Re7 30. Qb1 Qf8 31. Bc6 Re6 32. Rc7 f4
+33. Bf3 h5 34. Qb7 Qe7 35. Rcc1 g4 36. Qc7 Kg7 37. Bxg4 hxg4 38. Qxf4 Rxd7
+39. Qxg4+ Kh7 40. Rf1 1-0
+

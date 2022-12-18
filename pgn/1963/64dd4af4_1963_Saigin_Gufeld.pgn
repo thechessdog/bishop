@@ -1,0 +1,18 @@
+[Event "Moscow tt"]
+[Site "Moscow tt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Saigin, Vladimir"]
+[Black "Gufeld, Eduard"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "64dd4af4"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nc3 d6 3. e4 g6 4. Bg5 Bg7 5. Qd2 O-O 6. O-O-O c6 7. Nf3 b5 8. Bd3
+Bg4 9. Qf4 Bxf3 10. Qxf3 Qa5 11. h4 b4 12. Ne2 Nbd7 13. Kb1 h5 14. Qg3 Rac8 15.
+Bxf6 Nxf6 16. f3 c5 17. e5 dxe5 18. dxe5 c4 19. Bxg6 fxg6 20. exf6 Rxf6 21. Rd7
+b3 0-1

@@ -1,0 +1,17 @@
+[Event "Kolomna"]
+[Site "Kolomna"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Glazkov, Igor"]
+[Black "Smirnov, Valerij"]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "d6f9b4a3"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. d4 Ne7 7. Nc3 O-O 8. g3
+fxg3 9. Bxg5 gxh2+ 10. Kh1 Qe8 11. Bxe7 Qxe7 12. Nd5 Qxe4 13. Nxc7 Nc6 14. Nxa8
+Nxd4 15. Bd3 Qc6 16. c3 Ne6 17. Qe2 d5 18. Nd4 Nxd4 19. cxd4 b6 20. Qxh2 Qxa8
+21. Rg1 Qc6 22. Rxg7+ Kxg7 23. Rg1+ 1-0

@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Litvinov"]
+[Black "Ljuboschiz"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "046b672c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bb5+ Nc6 6. O-O Bg4 7. h3 Bh5
+8. Bxc6+ bxc6 9. Ne4 e6 10. b3 Bg6 11. d3 f5 12. Neg5 Qf6 13. Qe1 Qxa1 14.
+Qxe6+ Ne7 15. Ne5 Qd4 16. c4 Rd8 17. Ngf7 Rg8 18. Bg5 f4 19. Bxe7 Bf5 20.
+Qxf5 Bxe7 21. Nxd8 Rf8 22. Qc8 Bxd8 23. Re1 1-0
+

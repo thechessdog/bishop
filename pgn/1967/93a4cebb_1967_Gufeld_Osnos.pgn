@@ -1,0 +1,17 @@
+[Event "October Revolution 50"]
+[Site "Leningrad"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Gufeld, Eduard"]
+[Black "Osnos, Vyacheslav"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Opovcensky variation"]
+[HashCode "93a4cebb"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2 e6 7. Rc1 Nbd7 8. b4
+c6 9. Be2 Ne4 10. O-O Nxd2 11. Qxd2 1/2-1/2

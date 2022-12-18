@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Packroff, H."]
+[Black "Bodewin, WE."]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "373298a9"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h5 8. Nf4
+Bh7 9. Nxh5 cxd4 10. Qxd4 Nc6 11. Bb5 Bxc2 12. Bg5 Qb6 13. Qxb6 axb6 14.
+Rc1 d4 15. Rxc2 dxc3 16. bxc3 Kd7 17. Bxc6+ bxc6 18. Ke2 Ne7 19. Rd1+ Kc7
+20. c4 Rd8 21. Rxd8 Kxd8 22. Rd2+ Kc7 23. f4 Rg8 24. Kf3 c5 25. Bxe7 Bxe7
+26. g5 g6 27. Nf6 Bxf6 28. exf6 Rh8 29. Kg4 Rh7 30. a4 Rh8 31. Rh2 Rh5 32.
+Ra2 Rh8 33. a5 bxa5 34. Rxa5 Kb6 35. Rb5+ Kc6 36. Rb1 Kc7 37. Rh1 Kc6 38.
+h5 gxh5+ 39. Rxh5 Rf8 40. Rh1 Ra8 41. Rh7 Rf8 42. Kh5 Kd6 43. Kh6 e5 44.
+Kg7 Ra8 45. f5 Ra7 46. Rh4 Rb7 47. Kg8 Ra7 48. g6 1-0
+

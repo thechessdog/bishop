@@ -1,0 +1,17 @@
+[Event "corr North America"]
+[Site "corr North America"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gayton"]
+[Black "Carlson, Curtis"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "3812f0d9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. Bg5 Be7 8. O-O
+Nxe4 9. Bxe7 Nxc3 10. Bxd8 Nxd1 11. Rfxd1 Kxd8 12. f4 d5 13. Bf3 Nc6 14. Nxc6+
+bxc6 15. Rxd5+ cxd5 16. Rd1 Rb8 17. b3 Rb4 18. c4 Bb7 19. Be2 Ke7 20. Kf2 Rd8
+21. Rc1 dxc4 22. Bxc4 Rd2+ 23. Kg3 f5 24. Bf1 Kd6 25. Ra1 Rbd4 26. a4 Rd1 0-1

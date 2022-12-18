@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Kozarcanin, S."]
+[Black "Vucenovic, Dragomir"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "784b1462"]
+[Epoch "Bishop"]
+[BlackID "1300393"]
+[BlackCountry "SUI"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. a4 b4 11. c4 Nc5 12. cxd5 Nxb3 13. dxe6 Nxa1 14. exf7+ Kf8
+15. Rd1 Qc8 16. e6 Nb3 17. Qc4 Nca5 18. Qg4 Nc5 19. Re1 Nc6 20. Ng5 Nd8 21. Qf5
+h6 22. Qh7 Nxf7 23. Qf5 1-0

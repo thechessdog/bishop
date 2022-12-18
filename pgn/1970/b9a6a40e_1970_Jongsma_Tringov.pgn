@@ -1,0 +1,17 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1970.07.01"]
+[Round "1"]
+[White "Jongsma, Alexander Kornelis Pieter (Lex)"]
+[Black "Tringov, Georgi P"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[Opening "King's Indian defence, 3.Nc3"]
+[HashCode "b9a6a40e"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 d6 6. h3 Nbd7 7. e3 c6 8. Be2
+a6 9. O-O b5 10. Nd2 Bb7 11. Rc1 bxc4 12. Nxc4 c5 13. dxc5 Nxc5 14. Bf3 Rb8 15.
+Bxb7 Rxb7 16. b3 Qa8 17. Qf3 Ra7 18. Qxa8 Rfxa8 1/2-1/2

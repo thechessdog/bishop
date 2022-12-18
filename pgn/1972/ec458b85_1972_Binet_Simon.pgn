@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Binet, L."]
+[Black "Simon, J."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "ec458b85"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 c6 4. e3 Bf5 5. Nf3 Qa5 6. Bxf6 exf6 7. Bd3 Bxd3
+8. Qxd3 Bb4 9. O-O Bxc3 10. bxc3 Nd7 11. c4 dxc4 12. Qxc4 O-O 13. Rab1 Nb6
+14. Qb3 Rad8 15. c4 Rd7 16. Qb4 Qxb4 17. Rxb4 Rc8 18. c5 Nd5 19. Rb3 b5 20.
+cxb6 Nxb6 21. Rc3 c5 22. Rxc5 Rxc5 23. dxc5 Nc4 24. c6 Rc7 25. Rb1 Kf8 26.
+Nd4 Ke7 27. Rc1 Nd6 28. e4 a6 29. a4 Nxe4 30. Re1 Kd6 31. Rxe4 Kd5 32. f3
+1-0
+

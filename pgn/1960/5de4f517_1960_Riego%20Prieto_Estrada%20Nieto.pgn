@@ -1,0 +1,17 @@
+[Event "Asuncion"]
+[Site "Asuncion"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Riego Prieto, Victo"]
+[Black "Estrada Degrandi, Walter"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Gunsberg variation"]
+[HashCode "5de4f517"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. a3 Be7 5. Bc4 O-O 6. O-O Nxe4 7. Nxe4 d5 8.
+Bd3 f5 9. Nc3 e4 10. Be2 d4 11. Bc4+ Kh8 12. Nxd4 Qxd4 13. Bb3 Ne5 14. Qe2 Bd7
+15. d3 exd3 16. cxd3 Bd6 17. Rd1 Rae8 18. Be3 Qh4 19. h3 f4 20. Bd4 Nc6 21.
+Bxg7+ Kxg7 22. Ne4 Nd4 0-1

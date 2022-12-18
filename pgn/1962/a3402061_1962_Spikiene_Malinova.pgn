@@ -1,0 +1,26 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Spikiene"]
+[Black "Malinova, Elena B"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "a3402061"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Be2 h6 8.
+Be3 e6 9. O-O Be7 10. Qd2 O-O 11. f4 Qc7 12. Bf3 Nb6 13. b3 Bd7 14. Nce2 e5 15.
+fxe5 dxe5 16. Nf5 Bxf5 17. exf5 e4 18. Bxh6 gxh6 19. Qxh6 Qc5+ 20. Kh1 Qxf5 21.
+Bxe4 Qxe4 22. Rf3 Qg6 23. Rg3 Ng4 24. Qxg6+ fxg6 25. Rxg4 Rf6 26. Nf4 Kf7 27.
+Nd3 Bd6 28. c4 Nd7 29. g3 Ne5 30. Nxe5+ Bxe5 31. Rd1 Re8 32. Rh4 Kg7 33. Rd7+
+Rf7 34. Rd5 Bf6 35. Rf4 Re1+ 36. Kg2 Re2+ 37. Rf2 Rxf2+ 38. Kxf2 Bc3+ 39. Ke2
+Re7+ 40. Kd3 Bf6 41. Rd6 Be5 42. Rd5 Kf6 43. c5 Rh7 44. Ke4 Bc7 45. Rd2 Ke6 46.
+b4 Rf7 47. a3 Rf1 48. Rd3 Rh1 49. Rd2 Re1+ 50. Kf3 Be5 51. Rd3 Rc1 52. Kg4 Rc3
+53. Rd8 Rxa3 54. Re8+ Kf6 55. Rf8+ Ke7 56. Rg8 Ra4 57. Rxg6 Rxb4+ 58. Kf5 Bb2
+59. c6 Rb5+ 60. Ke4 Bf6 61. cxb7 Rxb7 62. h4 Kf7 63. h5 a5 64. g4 Re7+ 65. Kf4
+a4 66. g5 Be5+ 67. Kf5 a3 68. Ra6 Bb2 69. h6 Re5+ 70. Kf4 Re6 71. Ra7+ Kg6 72.
+h7 Re8 73. Kg4 Re3 74. Kf4 Rb3 75. Kg4 Bg7 76. Kh4 Kxh7 77. Kh5 Kh8 78. Ra8+
+Bf8 79. Kg6 Rf3 80. Rc8 0-1

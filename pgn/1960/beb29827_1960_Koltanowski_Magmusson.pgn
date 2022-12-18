@@ -1,0 +1,16 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Magmusson"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "beb29827"]
+[Epoch "Bishop"]
+[WhiteCountry "BEL"]
+
+1. e4 g6 2. d4 Nf6 3. Nc3 d6 4. Nf3 Bg7 5. Bc4 O-O 6. O-O Nc6 7. a3 Be6 8. d5
+Nxe4 9. Nxe4 f5 10. Neg5 Ne5 11. Nxe6 Nxf3+ 12. Qxf3 1-0

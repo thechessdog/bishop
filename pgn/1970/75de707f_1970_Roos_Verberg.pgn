@@ -1,0 +1,21 @@
+[Event "WGM-Philidor Leiden"]
+[Site "WGM-Philidor Leiden"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Roos, J."]
+[Black "Verberg"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "75de707f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bf4 Ne8 10. Qd2 Bxc3 11. bxc3 b5 12. Nb2 Nd7 13. e3 Rb8 14. Be2
+f5 15. O-O g5 16. Bg3 Ndf6 17. f3 Nc7 18. c4 b4 19. e4 f4 20. Bf2 Nd7 21.
+a3 Qf6 22. axb4 Rxb4 23. Nd3 Rb7 24. Rfe1 Na8 25. Bf1 Nab6 26. Rac1 Ne5 27.
+Nxc5 Rg7 28. Ne6 Bxe6 29. dxe6 Qxe6 30. c5 Nbd7 31. Qxd6 Qxd6 32. cxd6 g4
+33. Bc4+ Nxc4 34. Rxc4 gxf3 35. e5 fxg2 36. e6 Nf6 37. Rxf4 Ng4 38. Rxf8+
+Kxf8 39. d7 1-0
+

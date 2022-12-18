@@ -1,0 +1,23 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Krieger, Hermann"]
+[Black "Bastian, Herbert"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "cc8cd68a"]
+[Epoch "Bishop"]
+[WhiteID "4609867"]
+[BlackID "4601700"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Ng4 9. h3 Nh6 10. Be3 Nf5 11. Bxf5 Bxf5 12. g4 Bc8 13. Qe2 Be6 14. O-O-O Nb4
+15. Bd2 c6 16. a3 Na6 17. Ne4 f6 18. Bf4 Qd5 19. b3 Qa5 20. Kb2 Nc7 21. Nc5 Nb5
+22. Na4 Bd5 23. Rhf1 Bxf3 24. Rxf3 Nxd4 25. Rxd4 fxe5 26. Qc4+ Kh8 27. Bd2 Qc7
+28. Rxf8+ Rxf8 29. Rd5 Rc8 30. Rc5 b6 31. Qe6 bxc5 32. Ba5 e4+ 33. Ka2 Qb8 34.
+Nxc5 Rf8 35. Nxe4 Rf1 36. Bc3 Bxc3 37. Nxc3 Qd6 38. Qe2 Qf6 0-1

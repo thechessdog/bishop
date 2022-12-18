@@ -1,0 +1,23 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Aparicio, Anibal"]
+[Black "Bronstein, Luis Marcos"]
+[Result "0-1"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "e4e86c91"]
+[Epoch "Bishop"]
+[BlackID "100463"]
+[BlackCountry "ARG"]
+[WhiteID "101133"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. Qe1 Qa5 13. Rd1 cxd4 14. cxd4 b6
+15. Bd2 Qa4 16. Bb3 Qb5 17. Rb1 Qd3 18. d5 Ba6 19. Ng3 Nd4 20. Qd1 h5 21. Bg5
+Nxb3 22. Rxb3 Qxd1 23. Rxd1 Rd7 24. Rc1 Re8 25. Ra3 Bb5 26. Rb3 Ba6 27. Nf1 e6
+28. Ra3 Bxf1 29. Kxf1 exd5 30. Rd3 Rxe4 31. f3 Re8 32. Rcd1 d4 33. Re1 Rc8 34.
+h4 b5 35. a3 a5 36. Bd2 Ra8 0-1

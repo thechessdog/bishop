@@ -1,0 +1,16 @@
+[Event "Hastings Premier Reserves D"]
+[Site "Hastings"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Strand, R."]
+[Black "Sjostrom, O."]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "a6b5408b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. cxd5 Nxg5 6. h4 Ne4 7. Nxe4 Qxd5
+8. Nc3 Qa5 9. e3 h5 10. Qb3 Be6 11. Qxb7 Bg7 12. Bb5+ Bd7 13. Qc8# 1-0
+

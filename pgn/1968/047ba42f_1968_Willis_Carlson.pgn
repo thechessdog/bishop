@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Willis"]
+[Black "Carlson, Curtis"]
+[Result "1-0"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "047ba42f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 Bxc3+ 7. bxc3 Nc6 8.
+O-O Bd7 9. cxd5 exd5 10. Bd2 Re8 11. c4 Bg4 12. h3 dxc4 13. Bxc4 Bh5 14. Rb1
+Rb8 15. Qb3 Ne4 16. Be1 Qf6 17. Nd2 Ng5 18. f4 Ne4 19. Nxe4 Rxe4 20. g4 Bxg4
+21. hxg4 Nxd4 22. Qd3 Rbe8 23. g5 Qf5 24. exd4 Qg4+ 25. Qg3 Qxg3+ 26. Bxg3 Rxd4
+27. Rbe1 Red8 28. Bb3 Rd2 29. Re7 1-0

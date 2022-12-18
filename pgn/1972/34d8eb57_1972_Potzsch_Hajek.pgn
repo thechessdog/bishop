@@ -1,0 +1,18 @@
+[Event "corr WER/M"]
+[Site "corr WER/M"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Potzsch, A."]
+[Black "Hajek, J."]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "34d8eb57"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Qg3 h6 11. Bh4 g5 12. fxg5 Rg8 13. Be2 Ne5 14.
+Nf3 b5 15. Nxe5 hxg5 16. Nxf7 gxh4 17. Nxd6+ Bxd6 18. Qxd6 Qxd6 19. Rxd6
+Ke7 20. e5 Bb7 21. Rhd1 Nd5 22. Bf3 Raf8 23. Nxd5+ exd5 24. Rb6 1-0
+

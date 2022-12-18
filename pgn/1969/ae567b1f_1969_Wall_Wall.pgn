@@ -1,0 +1,17 @@
+[Event "Tacoma,WA"]
+[Site "Tacoma,WA"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Wall, W."]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, 5.de"]
+[HashCode "ae567b1f"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Be3 Qh4+ 7. g3 Nxg3 8.
+Nf3 Qe7 9. hxg3 Qxe3+ 10. Qe2 Bc5 11. Qxe3+ Bxe3 12. Nc3 Bf5 13. Nh4 Bxc2 14.
+Rh2 Bg6 15. Re2 1-0

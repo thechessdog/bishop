@@ -1,0 +1,15 @@
+[Event "Siegen"]
+[Site "Siegen"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Rodriguez, Ruben Jorge"]
+[Black "Jones"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[HashCode "84987dcd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. Nxe5 Nxe5 8.
+d4 Bb6 9. dxe5 Ng8 10. Qd5 1-0

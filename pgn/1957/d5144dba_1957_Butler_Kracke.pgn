@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Butler, D."]
+[Black "Kracke, H."]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "d5144dba"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Nxc6 bxc6
+8. e5 Nd7 9. exd6 exd6 10. Qe2+ Be7 11. g3 O-O 12. Bg2 d5 13. Be3 Re8 14.
+Nd1 d4 15. Bxc6 Rb8 16. c3 dxe3 17. b4 Bxb4 18. cxb4 Rxb4 19. O-O Qb6 20.
+Bxd7 Bxd7 0-1
+

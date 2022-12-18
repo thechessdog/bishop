@@ -1,0 +1,20 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1949.01.01"]
+[Round "14"]
+[White "Kostic, Boris"]
+[Black "Vukovic, Sava"]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit, Schultz variation"]
+[HashCode "707fd129"]
+[Epoch "Bishop"]
+[BlackID "941387"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. d4 g5 5. h4 Bg7 6. Bc4 d6 7. Qd3 g4 8. Ng1 Qf6
+9. c3 h5 10. Ne2 Bh6 11. Na3 c6 12. Bxf4 Bxf4 13. O-O d5 14. Bb3 Bh2+ 15. Kxh2
+Qxh4+ 16. Kg1 Ne7 17. exd5 Qg5 18. dxc6 Nbxc6 19. Bxf7+ Kd8 20. Nf4 Bf5 21. Qb5
+Qh4 22. Ne6+ Kc8 23. Nc4 Rd8 24. Rxf5 g3 25. Rxh5 1-0

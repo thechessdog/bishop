@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Van Maare, J."]
+[Black "Andersson, B."]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "684adab9"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 O-O-O
+8. a3 Nge7 9. Qa4 Kb8 10. b4 Ng6 11. b5 Ncxe5 12. Nxe5 Nxe5 13. Rb1 Bc5 14.
+Ne4 d3 15. Nxc5 d2+ 16. Bxd2 Qxd2+ 17. Kf1 Ng4 18. Na6+ Kc8 19. Bxb7+ Kxb7
+20. Nc5+ Kb8 21. Qa6 Bd5 22. cxd5 Qxd5 23. Qc6 Kc8 24. Na6 Rd7 25. e4 Qd3+
+26. Kg2 Ne3+ 27. Kh3 Kd8 28. Nc5 1-0
+

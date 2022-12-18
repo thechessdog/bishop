@@ -1,0 +1,19 @@
+[Event "Gorki"]
+[Site "Gorki"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Sapfirov"]
+[Black "Reviakin, V."]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, Krause variation"]
+[HashCode "6957f9e6"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d4 Bb4 5. Nxe5 Qe7 6. Nxc6 Qxe4+ 7. Be2
+Qxc6 8. O-O Bxc3 9. bxc3 d5 10. Rb1 O-O 11. Ba3 Ne4 12. Bxf8 Nxc3 13. Qd3
+Bf5 14. Qxf5 Nxe2+ 15. Kh1 Rxf8 16. Qd3 Nc3 17. Rb3 Ne4 18. f3 Nd6 19. Re1
+a5 20. Re2 b5 21. Rb1 Nc4 22. Rbe1 a4 23. Re7 b4 24. Qf5 Nd6 25. Qd7 Qxc2
+26. Qxc7 Qg6 27. Rd7 Ne8 28. Qc5 Nf6 29. Qxf8+ 1-0
+

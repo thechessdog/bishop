@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Sosonko, Gennadi"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "456f8fc4"]
+[Epoch "Bishop"]
+[WhiteID "1000039"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 c5 5. e3 O-O 6. Bd3 d5 7. O-O dxc4 8.
+Bxc4 Bd7 9. Qe2 Bc6 10. Rd1 Nbd7 11. Bd2 Rc8 12. a3 Bxf3 13. gxf3 Bxc3 14. Bxc3
+Nd5 15. Bxd5 exd5 16. dxc5 Nxc5 17. e4 Ne6 18. Qe3 Rc5 19. f4 Re8 20. f5 Qg5+
+21. Qg3 Qxg3+ 22. hxg3 Ng5 23. exd5 Rd8 24. Kg2 h5 25. Rh1 Rdxd5 26. Rxh5 Rxf5
+27. Bd4 Rb5 28. a4 Rbd5 29. Bxa7 g6 30. Rh4 Ne6 31. Rb4 Rd7 32. Be3 Kf8 33. Rb6
+Ra5 34. b4 Ra6 35. b5 Rxb6 36. Bxb6 Rd5 37. Rc1 Ke7 38. Rc8 Kd7 39. Rb8 Rd6 40.
+a5 1-0

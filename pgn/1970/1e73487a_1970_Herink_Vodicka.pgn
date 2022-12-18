@@ -1,0 +1,21 @@
+[Event "Ostrava"]
+[Site "Ostrava"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Herink"]
+[Black "Vodicka"]
+[Result "1-0"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "1e73487a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nf3 O-O 6. O-O Nbd7 7. Nc3 e5 8.
+e4 c6 9. h3 Qb6 10. d5 cxd5 11. cxd5 Nc5 12. Ne1 Bd7 13. Nd3 Nxd3 14. Qxd3
+Rfc8 15. Qe2 Qb4 16. Be3 Rc4 17. Rfc1 Rac8 18. f3 b6 19. Bf1 R4c7 20. Qc2
+b5 21. a3 Qa5 22. Qd2 Rb7 23. Na2 Qd8 24. Rxc8 Qxc8 25. Rc1 Qd8 26. Nb4 Qa5
+27. Nc6 Qxd2 28. Bxd2 Ne8 29. Kf2 f5 30. Ba5 fxe4 31. fxe4 Bh6 32. Rc2 Bg5
+33. h4 Bh6 34. Bb4 Nf6 35. Bg2 Ng4+ 36. Ke1 Ne3 37. Rf2 Nxg2+ 38. Rxg2 Bf8
+39. Rc2 Bg4 40. Rf2 Rf7 41. Rxf7 Kxf7 42. Nxa7 Bd7 43. Nc6 1-0
+

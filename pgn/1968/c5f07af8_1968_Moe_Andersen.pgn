@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Moe, Mogens"]
+[Black "Andersen, Borge"]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "c5f07af8"]
+[Epoch "Bishop"]
+[WhiteID "1400550"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Bd7 7. Be3 g6 8. f3
+Bg7 9. Qd2 O-O 10. O-O-O Qa5 11. h4 Ne5 12. Bb3 Rfc8 13. Qe2 a6 14. h5 b5 15.
+hxg6 hxg6 16. Nd5 Nxd5 17. exd5 Nc4 18. Bg5 Re8 19. Qe4 f5 20. Qh4 Kf7 21. Rhe1
+e5 22. dxe6+ Bxe6 23. Nxe6 Rxe6 24. Rxe6 Bxb2+ 25. Kb1 Kxe6 26. Qh7 1-0

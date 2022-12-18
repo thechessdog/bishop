@@ -1,0 +1,19 @@
+[Event "Pasardshik"]
+[Site "Pasardshik"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Georgiev, K."]
+[Black "Pelitov, Dimitar"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Krause variation"]
+[HashCode "fc69ee88"]
+[Epoch "Bishop"]
+[BlackID "2901358"]
+[BlackCountry "FID"]
+[WhiteCountry "BGR"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 c6 4. d4 Nd7 5. O-O h6 6. dxe5 dxe5 7. Bxf7+ Kxf7 8.
+Nxe5+ Kf6 9. Qf3+ Kxe5 10. Qf7 Ngf6 11. Rd1 Bc5 12. Nd2 Bxf2+ 13. Kxf2 Nxe4+
+14. Nxe4 Rf8 15. Bf4+ Kxe4 16. Re1+ Kd4 17. Be3+ Ke5 18. Bc5# 1-0

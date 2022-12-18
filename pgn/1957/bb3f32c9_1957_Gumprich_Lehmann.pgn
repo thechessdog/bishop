@@ -1,0 +1,25 @@
+[Event "FRG-ch"]
+[Site "Bad Neuenahr"]
+[Date "1957.??.??"]
+[Round "1"]
+[White "Gumprich, Kurt"]
+[Black "Lehmann, Heinz Dr"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "bb3f32c9"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. a3 Rc8 11. f5 Be7 12. fxe6 fxe6 13. Be2 O-O 14. Nxc6
+Bxc6 15. Bf3 a5 16. e5 b4 17. exd6 bxc3 18. bxc3 Bd5 19. dxe7 Qxe7 20. Qe3
+Qxa3+ 21. Kd2 Bxf3 22. gxf3 Qd6+ 23. Qd4 Nd5 24. f4 Rxc3 25. Rhg1 Qc7 26. Bh6
+Rxc2+ 27. Kd3 Qc3+ 28. Qxc3 Rxc3+ 29. Kd4 Rc7 30. Ke5 Ne3 31. Rd3 Nf5 32. Bg5
+Re8 33. Ra1 Rc2 34. Ke4 Re2+ 35. Kf3 Rxh2 36. Rd8 Rxd8 37. Bxd8 Rh3+ 38. Kg2
+Rd3 39. Bxa5 Ne3+ 40. Kf2 Nd5 41. Ra4 Kf7 42. Ke2 Re3+ 43. Kf2 Kf6 44. Bd2 Rh3
+45. Re4 Rh2+ 46. Ke1 g6 47. Ba5 h5 48. Kf1 Kf5 49. Re5+ Kg4 50. Rxe6 Nxf4 51.
+Re3 g5 52. Ra3 h4 53. Bc7 Rd2 54. Kg1 Rd3 55. Ra4 Rf3 56. Kh2 Kh5 57. Ra5 Ne6
+58. Bd6 Nd4 59. Rd5 Nf5 60. Bc5 Ne3 61. Rd8 h3 62. Re8 Ng4+ 63. Kg1 Rc3 64. Bb4
+Rg3+ 65. Kf1 h2 66. Rh8+ Nh6 0-1

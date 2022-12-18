@@ -1,0 +1,19 @@
+[Event "Luhacovice"]
+[Site "Luhacovice"]
+[Date "1969.??.??"]
+[Round "2"]
+[White "Kupka, Slavoj"]
+[Black "Kozma, Julius"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "ada38296"]
+[Epoch "Bishop"]
+[BlackID "14934019"]
+[BlackCountry "SVK"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 c5 8.
+Nxe5 Qd4 9. Nf3 Qxe4 10. Qxe4 Nxe4 11. Re1 Nf6 12. Nc3 h6 13. d4 cxd4 14. Nxd4
+c5 15. Nb3 Be6 1/2-1/2

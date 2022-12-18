@@ -1,0 +1,20 @@
+[Event "London open"]
+[Site "London open"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Graf, H."]
+[Black "Harding, T."]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "4e348b0a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 c6 8.
+Bb3 b5 9. d5 b4 10. dxc6 bxc3 11. cxd7 Bb7 12. bxc3 Nxe4 13. Qd3 Nc5 14.
+Qe3 Qxd7 15. Ba3 Rac8 16. Rfd1 Qf5 17. Bd5 Ba6 18. Rd2 Bd8 19. Bxc5 Rxc5
+20. Rad1 Qc8 21. Be4 f5 22. Bd5+ Kh8 23. Bb3 Be7 24. g3 f4 25. gxf4 Rxc3
+26. Qxa7 Qg4+ 27. Kh1 Qxf3+ 28. Kg1 Bb7 29. Bd5 Bxd5 30. Rxd5 Rxc2 31. fxe5
+Rxf2 0-1
+

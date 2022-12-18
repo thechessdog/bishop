@@ -1,0 +1,18 @@
+[Event "Oxford"]
+[Site "Oxford"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Corden, Martyn J"]
+[Black "Moles, John"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "dd2c9773"]
+[Epoch "Bishop"]
+[WhiteID "401200"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Qf3 Qe7+ 6. Ne2 Nc6 7. Be3 Nf6 8.
+O-O-O Bxc3 9. bxc3 Bg4 10. Qf4 g5 11. Qxg5 Bxe2 12. Bxe2 Qa3+ 13. Kb1 Ne4 14.
+Qxd5 Nxc3+ 15. Ka1 Qxa2+ 0-1

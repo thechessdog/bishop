@@ -1,0 +1,17 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Appenzeller"]
+[Black "Stader"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "cac05606"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. fxe4 Bxe4 6. Nxe4 Nxe4 7. Bf4
+e6 8. Qf3 Nd6 9. Bd3 Nc6 10. Ne2 Qd7 11. O-O f6 12. c4 O-O-O 13. Rfd1 Nb4
+14. c5 Nxd3 15. Qxd3 Nb5 16. a4 Nxd4 17. Qxd4 Qxd4+ 18. Nxd4 e5 19. Ne6 Re8
+20. Nxf8 exf4 21. Nd7 Rd8 22. c6 bxc6 1/2-1/2
+

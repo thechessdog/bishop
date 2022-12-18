@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Povhan"]
+[Black "Nekliudov"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "da84b37e"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 Bd6 7. O-O Ne7
+8. dxc5 Bxc5 9. Nb3 Bd6 10. Be3 O-O 11. c3 Nf5 12. Nfd4 Nxe3 13. fxe3 Ne5
+14. Be2 Qh4 15. Nd2 Ng4 16. Bxg4 Qxh2+ 17. Kf2 Qg3+ 18. Kg1 Qh2+ 19. Kf2
+Bg3+ 20. Kf3 Bxg4+ 21. Kxg4 Qxg2 22. Qf3 f5+ 23. Nxf5 h5+ 24. Kg5 Rxf5+ 25.
+Qxf5 Bf2+ 26. Kxh5 Qh2+ 0-1
+

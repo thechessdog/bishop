@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Lagland, G."]
+[Black "Samarian, S."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "6d46dc9c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nd4 7. c3 Nxd5
+8. Ne4 Ne6 9. Bxb5+ Bd7 10. Qa4 Ndf4 11. d4 Nxg2+ 12. Kf1 Ngf4 13. dxe5 Nd3
+14. Ng5 Nxc1 15. Nxe6 fxe6 16. Bxd7+ Qxd7 17. Qxd7+ Kxd7 18. Kg2 Rb8 19.
+Rd1+ Kc6 20. b4 Ne2 21. Kf3 Rb5 22. Kxe2 Rxe5+ 23. Kf1 Bd6 24. Nd2 Rf8 25.
+h3 Re3 26. Kg2 Rxc3 27. Ne4 Rc4 28. Rac1 Rxc1 29. Rxc1+ Kd7 30. Nxd6 cxd6
+31. Rc3 Rf7 32. Ra3 Kc6 33. Ra6+ Kd5 34. b5 e5 35. f3 Rd7 36. a4 Kd4 37.
+Kf2 Kd3 38. Rc6 d5 39. Re6 e4 40. fxe4 Rf7+ 41. Ke1 dxe4 42. a5 Rf5 43. b6
+axb6 44. axb6 Rb5 45. Kf2 Kd4 46. Rd6+ Ke5 47. Rd7 Rb2+ 48. Ke3 Rb3+ 49.
+Ke2 Rb2+ 50. Kf1 Rxb6 51. Rxg7 Rh6 52. Rg3 Kf4 53. Kf2 Rg6 54. Ra3 Rb6 55.
+Ra7 Rb2+ 56. Kf1 h5 57. Rh7 h4 0-1
+

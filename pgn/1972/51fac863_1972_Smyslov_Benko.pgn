@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1972.01.01"]
+[Round "11"]
+[White "Smyslov, Vasily"]
+[Black "Benko, Pal"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "51fac863"]
+[Epoch "Bishop"]
+[BlackID "2000687"]
+[BlackCountry "HUN"]
+[WhiteCountry "RUS"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Nd5 e4 6. Nxb4 Nxb4 7. Nd4 O-O 8.
+Nc2 Nxc2+ 9. Qxc2 d5 10. Bg2 dxc4 11. Qxc4 Be6 12. Qc2 Re8 13. b3 Bg4 14. Bb2
+Re6 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Lehmann, W."]
+[Black "Reinhardt, H."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "7b6760b4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Bxc3+ 7. bxc3
+Nd5 8. Nb5 O-O 9. Ba3 Ne7 10. Bd6 Na6 11. g4 Re8 12. Bd3 b6 13. Qf3 Nc6 14.
+Qh3 g6 15. Qh6 Bb7 16. Rg1 Ne7 17. Rg3 Bg2 18. Rxg2 Kh8 19. Bxe7 Rxe7 20.
+Nd6 Nc7 21. Qg5 Nd5 22. c4 Nb4 23. h4 b5 24. h5 bxc4 25. Be4 Rb8 26. Rh2
+Kg8 27. hxg6 1-0
+

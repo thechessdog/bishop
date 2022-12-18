@@ -1,0 +1,18 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Nielsen, Hans"]
+[Black "Nielsen, Mogens"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9.c3"]
+[HashCode "4904d469"]
+[Epoch "Bishop"]
+[WhiteID "1465554"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Na5 10. Nbd2 Nc5 11. Bc2 Nc4 12. b4 Nd7 13. Nxc4 dxc4 14. Be4 Rb8 15.
+Bc6 Bf5 16. Be3 Bd3 17. Re1 Qe7 18. Bc5 Qe6 19. Nd4 Qg6 20. Ba7 Rd8 21. e6 1-0

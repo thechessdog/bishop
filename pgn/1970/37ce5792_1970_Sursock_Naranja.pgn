@@ -1,0 +1,24 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "8"]
+[White "Sursock, Sameer"]
+[Black "Naranja, Renato"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "37ce5792"]
+[Epoch "Bishop"]
+[BlackID "5200148"]
+[BlackCountry "PHI"]
+[WhiteID "5300010"]
+[WhiteCountry "LBN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. Qd2 Nbd7 10. O-O-O O-O 11. Kb1 b5 12. a3 Qc7 13. Nd5 Bxd5 14. Bxf6 Nxf6
+15. exd5 Rfc8 16. c3 Qb6 17. Qe3 Bd8 18. Qxb6 Bxb6 19. f3 g6 20. Rd2 Rab8 21.
+Rd3 Nd7 22. Rd2 f5 23. Rhd1 Kg7 24. g3 h5 25. Bf1 Nf6 26. Na1 h4 27. Nc2 Bc5
+28. Nb4 Bxb4 29. axb4 Rh8 30. Kc2 e4 31. Bg2 hxg3 32. hxg3 exf3 33. Bxf3 Rh3
+34. Rg2 Re8 35. Kd2 Re5 36. Re1 f4 37. Rxe5 dxe5 38. d6 e4 39. d7 Rh8 40. Bd1
+f3 41. Rf2 Ng4 42. Rf1 Rd8 0-1

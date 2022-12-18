@@ -1,0 +1,17 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Eppinger, George"]
+[Black "Engert"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "62b4437c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. d4 g5 5. Nc3 d6 6. g3 g4 7. Bxf4 gxf3 8.
+Qxf3 Nc6 9. Bc4 Nxd4 10. Qf2 Ne6 11. O-O Rh7 12. Rad1 c6 13. e5 d5 14. Nxd5
+Nxf4 15. gxf4 cxd5 16. Bb5+ Bd7 17. Rxd5 Rg7+ 18. Kh1 Bxb5 0-1
+

@@ -1,0 +1,25 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Camara, Helder"]
+[Black "Cobo, Eldis"]
+[Result "0-1"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "9f396703"]
+[Epoch "Bishop"]
+[WhiteCountry "BRA"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bf4 O-O 6. e3 c5 7. Be2 cxd4 8. exd4
+Nc6 9. O-O Bg4 10. c5 Ne4 11. h3 Bxf3 12. Bxf3 Nxd4 13. Nxe4 dxe4 14. Bxe4 Rc8
+15. b4 Qd7 16. Be3 Rfd8 17. Rb1 Qb5 18. Bxd4 Rxd4 19. Qe1 Rcd8 20. a4 Qd7 21.
+Bf3 Qc7 22. Qe2 R8d7 23. Rfc1 Rd2 24. Qe3 Ra2 25. c6 bxc6 26. Rxc6 Qb8 27. Rbc1
+Rd8 28. Bd5 Ra1 29. Qb3 Rxc1+ 30. Rxc1 e6 31. Bf3 Qf4 32. Rd1 Rxd1+ 33. Bxd1
+Bd4 34. Bf3 Qd2 35. Qd1 Qxf2+ 36. Kh1 h5 37. b5 Bb6 38. Qc1 Qd4 39. Qd1 Qe3 40.
+Kh2 Kg7 41. Qa1+ Bd4 42. Qd1 Be5+ 43. Kh1 Qc3 44. Kg1 Bd4+ 45. Kh1 e5 46. Kh2
+h4 47. Qf1 f5 48. Be2 e4 49. Kh1 Qd2 50. Qd1 Qxd1+ 51. Bxd1 Bb6 52. a5 Bxa5 53.
+Kg1 Kf6 54. Kf2 Bb6+ 55. Ke2 Ke5 56. Bb3 Kf4 57. Bf7 g5 58. Be6 g4 59. hxg4
+fxg4 60. Bd7 Kg3 61. Kf1 h3 62. gxh3 gxh3 63. Bf5 e3 64. Be4 Kf4 65. Bc6 Ke5
+66. Bf3 Kd4 67. Ke2 Kc4 68. Bc6 h2 0-1

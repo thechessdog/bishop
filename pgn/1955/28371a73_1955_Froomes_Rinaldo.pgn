@@ -1,0 +1,20 @@
+[Event "Lincoln"]
+[Site "Lincoln"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Froomes"]
+[Black "Rinaldo, John"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Berlin variation"]
+[HashCode "28371a73"]
+[Epoch "Bishop"]
+[BlackID "2006170"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Nc5 10. Bc2 Bg4 11. Bf4 d4 12. cxd4 Bxf3 13. Qxf3 Nxd4 14. Qd1 Nxc2
+15. Qxc2 Qd3 16. Qc1 O-O-O 17. Nc3 Qf5 18. Bg3 h5 19. h3 g5 20. Rd1 Nd3 21. Qc2
+h4 22. Bh2 Bc5 23. Rd2 Rd7 24. Nd1 Rhd8 25. b4 Qe6 26. bxc5 Nb4 27. Qe4 Rxd2
+28. Ne3 Nxa2 29. f4 gxf4 30. Bxf4 Nc3 31. Qa8+ Kd7 32. c6+ Ke8 0-1

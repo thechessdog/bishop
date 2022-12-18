@@ -1,0 +1,18 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Freyer"]
+[Black "Mohrlok, Dieter"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "560f1d4b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Nf6 7. h3 O-O 8. Qd2
+Nd4 9. Nce2 e5 10. c3 Ne6 11. f4 exf4 12. Nxf4 Nxf4 13. gxf4 Nh5 14. Ne2 f5 15.
+Bf3 Kh8 16. h4 Be6 17. exf5 Rxf5 18. d4 Bd5 19. Bxd5 Rxd5 20. c4 Rf5 21. O-O-O
+Qg8 22. d5 a6 23. Kc2 b5 24. b3 b4 25. Qd3 a5 26. Bc1 a4 27. Qf3 Qd8 28. Rdg1
+Qf6 29. Rg5 Rxg5 30. hxg5 Qa1 0-1

@@ -1,0 +1,20 @@
+[Event "corr ch3-NOR"]
+[Site "corr ch3-NOR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Rostad, R."]
+[Black "Orseth, D."]
+[Result "0-1"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind"]
+[HashCode "0bf671b9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. f3 Bg7 8.
+Be3 O-O 9. Be2 Nd7 10. Qd2 Nc5 11. O-O Bd7 12. Nc2 a5 13. Rad1 Be6 14. Bh6
+Bxh6 15. Qxh6 Qb6 16. Qe3 f5 17. Kh1 Qxb2 18. Qd2 fxe4 19. Rb1 e3 20. Rxb2
+exd2 21. Ne3 Rad8 22. Rxd2 Bc8 23. Rfd1 Rf7 24. Ne4 Nxe4 25. fxe4 Rdf8 26.
+h3 Rf4 27. Bd3 Ne5 28. Bc2 Be6 29. Nd5 Rf1+ 30. Rxf1 Rxf1+ 31. Kh2 Nxc4 32.
+Rd4 Bxd5 0-1
+

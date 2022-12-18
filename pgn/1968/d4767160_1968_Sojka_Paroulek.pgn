@@ -1,0 +1,19 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Sojka"]
+[Black "Paroulek"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz, Rosenthal variation"]
+[HashCode "d4767160"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nd5 Bg7 6. Bg5 Nce7 7. Nxd4 h6
+8. Nb5 hxg5 9. Ndxc7+ Kf8 10. Nxa8 Bxb2 11. Rb1 Be5 12. Qd2 Nc6 13. Bc4 a6
+14. Qd5 Qf6 15. Nbc7 Bd4 16. f4 gxf4 17. Be2 Qh4+ 18. Kd1 Nf6 19. Qd6+ Kg8
+20. Bf3 g5 21. Nd5 Be5 22. Qc5 g4 23. g3 fxg3 24. hxg3 Qxg3 25. Rf1 gxf3
+26. Rg1 Nxe4 27. Qe3 f2 0-1
+

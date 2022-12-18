@@ -1,0 +1,23 @@
+[Event "Steinheim"]
+[Site "Steinheim"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Altrock, Rainer"]
+[Black "Huelsmann, Josef"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "f9199f90"]
+[Epoch "Bishop"]
+[WhiteID "4667310"]
+[WhiteCountry "GER"]
+[BlackID "4607929"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+g6 9. Bd3 Nb6 10. Ne2 Bd7 11. g3 a5 12. Kf1 a4 13. Kg2 Nb4 14. Bb1 Nc4 15. g4
+Qb6 16. a3 Nc6 17. Bc2 h5 18. h3 Nxb2 19. Rb1 Bxa3 20. Bxb2 Bxb2 21. Bxa4 Na5
+22. Bxd7+ Kxd7 23. Qa4+ Ke7 24. f5 Rhc8 25. Qd1 Nc4 26. Qe1 hxg4 27. Qh4+ Kd7
+28. hxg4 exf5 29. gxf5 Ne3+ 30. Kf2 Nxf5 31. Qg5 Rc2 32. e6+ Qxe6 33. Ne5+ Kd6
+34. Rxb2 Rxb2 35. Qf4 Rxe2+ 0-1

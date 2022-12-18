@@ -1,0 +1,16 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Alberts, L."]
+[Black "Robins, E."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "a1521b69"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. d4 fxe4 4. Nfd2 Qe7 5. Nxe4 exd4 6. Bd3 d6 7. Bg5 Nf6
+8. O-O Nc6 9. Re1 Be6 10. Nxf6+ gxf6 11. Bf5 Ne5 12. f4 Bxf5 13. fxe5 dxe5
+14. Qxd4 exd4 0-1
+

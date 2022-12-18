@@ -1,0 +1,19 @@
+[Event "Capablanca mem-B"]
+[Site "Havana"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Addison, William"]
+[Black "Kostro, Jerzy"]
+[Result "0-1"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "5b31d7ed"]
+[Epoch "Bishop"]
+[BlackID "1101188"]
+[BlackCountry "POL"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 Nxd5 8. e4
+Nxc3 9. Nxc3 c5 10. d5 exd5 11. Nxd5 Nc6 12. Bc4 Bd6 13. O-O Qh4 14. f4 Bg4 15.
+Qd3 Nd4 16. Rf2 Rfe8 17. Be3 Rxe4 18. Qxe4 Bf5 19. g3 0-1

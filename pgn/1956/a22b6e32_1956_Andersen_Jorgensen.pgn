@@ -1,0 +1,18 @@
+[Event "Nyborg"]
+[Site "Nyborg"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Andersen, Richard"]
+[Black "Jorgensen, Leon"]
+[Result "0-1"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "a22b6e32"]
+[Epoch "Bishop"]
+[WhiteID "1522558"]
+[WhiteCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. Re1 Bd7 6. c3 Be7 7. d4 O-O 8. Bg5
+exd4 9. cxd4 Bg4 10. Bxc6 bxc6 11. Nbd2 Rb8 12. Qc2 Qd7 13. b3 h6 14. Be3 Rb5
+15. Rac1 Rb6 16. Nc4 Bxf3 17. Nxb6 Qg4 0-1

@@ -1,0 +1,22 @@
+[Event "corr Wch1"]
+[Site "corr Wch1"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Collins, J."]
+[Black "Adam, E."]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "8481d3d4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Bxc3+ 6. bxc3 O-O 7. cxd5 exd5
+8. Bd3 c5 9. Ne2 b6 10. O-O Ba6 11. Bxa6 Nxa6 12. Bb2 Qd7 13. a4 cxd4 14.
+cxd4 Rfc8 15. Ba3 Rc4 16. Bb2 Rac8 17. Ra3 Nb4 18. Bc3 a5 19. f3 h6 20. Qd2
+Qe7 21. Rb3 Re8 22. Kf2 Nc6 23. Rxb6 Qc7 24. Rb5 Qxh2 25. Ng3 Re6 26. Bxa5
+h5 27. Ne2 Rxa4 28. Bc3 Re8 29. Rfb1 Ne7 30. Qc2 Raa8 31. Ng3 h4 32. Nf1
+Qc7 33. Rb7 Qc8 34. Qd3 Nf5 35. R7b6 Ra3 36. R6b3 Rxb3 37. Rxb3 h3 38. gxh3
+Nh4 39. Kg3 g5 40. Qd1 Qf5 41. Rb2 Rxe3 42. Nxe3 Ne4+ 43. Kh2 Nxf3+ 44. Kg2
+Nh4+ 45. Kg1 Qxh3 46. Rb8+ Kg7 47. Nf5+ Qxf5 0-1
+

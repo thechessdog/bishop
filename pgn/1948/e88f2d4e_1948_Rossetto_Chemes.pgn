@@ -1,0 +1,18 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Rossetto, Hector"]
+[Black "Chemes, Luis"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "e88f2d4e"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. g3 Nbd7 6. Bg2 O-O 7. O-O c6 8. Qc2
+Nb6 9. c5 Nbd7 10. b4 Re8 11. Rb1 Bf8 12. Rd1 g6 13. Bg5 h6 14. Bf4 Nh5 15. Bc1
+Qe7 16. e4 Kh7 17. e5 f5 18. b5 Qd8 19. bxc6 bxc6 20. Qa4 Qc7 21. Bd2 Be7 22.
+Nxd5 cxd5 23. Ba5 1-0

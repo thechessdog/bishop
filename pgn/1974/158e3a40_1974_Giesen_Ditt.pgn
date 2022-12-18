@@ -1,0 +1,24 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Giesen, Dieter"]
+[Black "Ditt, Egon"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "158e3a40"]
+[Epoch "Bishop"]
+[WhiteID "4652010"]
+[WhiteCountry "GER"]
+[BlackID "4603400"]
+[BlackCountry "GER"]
+
+1. b3 d5 2. Bb2 Nf6 3. f4 Bf5 4. Nf3 e6 5. e3 Be7 6. Be2 h6 7. O-O O-O 8. Ne5
+Nfd7 9. d3 Nxe5 10. fxe5 Bg5 11. Rf3 c5 12. Nd2 Nd7 13. c4 Bg6 14. Qe1 Bh4 15.
+Qf1 Qa5 16. Rd1 Qxa2 17. Bc3 Bg5 18. cxd5 exd5 19. h4 Bxe3+ 20. Rxe3 d4 21. Ra1
+Qc2 22. Rg3 Qxc3 23. Nc4 b5 24. Nd6 Qxb3 25. h5 Bh7 26. Ra6 Qe6 27. Bg4 Qxe5
+28. Qf2 Nb6 29. Nf5 Bxf5 30. Bxf5 c4 31. dxc4 bxc4 32. Kh2 d3 33. Ra5 Qxa5 34.
+Qd4 f6 35. Qg4 Rf7 36. Be6 Qg5 37. Qf3 Qh4+ 38. Kg1 Qd4+ 39. Kh2 Re8 40. Qf5
+Rxe6 41. Qxe6 Qe5 0-1

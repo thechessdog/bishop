@@ -1,0 +1,25 @@
+[Event "Sandefjord"]
+[Site "Sandefjord"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Schneider, Lars-Ake"]
+[Black "Rohde, Michael"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "1e615146"]
+[Epoch "Bishop"]
+[WhiteID "1700235"]
+[WhiteCountry "SWE"]
+[BlackID "2000172"]
+[BlackCountry "USA"]
+
+1. b3 e5 2. Bb2 d6 3. g3 f5 4. Bg2 Nf6 5. c4 Be7 6. d4 e4 7. e3 Nc6 8. Ne2 Nb4
+9. Nc1 d5 10. O-O Be6 11. a3 Nc6 12. Qc2 O-O 13. Ne2 a5 14. Nd2 a4 15. b4 dxc4
+16. Nxc4 Nd5 17. Rac1 Bg5 18. Ne5 Nce7 19. Nf4 Bxf4 20. gxf4 Ng6 21. Kh1 Nh4
+22. Rg1 Rf6 23. Bf1 Nf3 24. Rg3 Nxe5 25. dxe5 Rf7 26. Be2 c6 27. Qc5 Rc7 28.
+Qd6 Qe8 29. Bh5 g6 30. Rcg1 Rg7 31. Be2 b6 32. b5 Rc8 33. bxc6 Rd8 34. Bb5 Rxd6
+35. exd6 Qd8 36. Be5 Ra7 37. Rxg6+ hxg6 38. Rxg6+ Kf8 39. Rxe6 Rh7 40. d7 Qh4
+41. Rf6+ Kg7 42. Rxf5+ Kg6 43. Rg5+ Kf7 44. Rg2 Nxe3 45. Bc4+ Nxc4 46. c7 Nxe5
+47. d8=Q Qxf4 48. Qg8+ Kf6 49. Qf8+ Nf7 50. c8=Q 1-0

@@ -1,0 +1,18 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Schwidun"]
+[Black "Monostori, L."]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "ab48b55b"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bg5 c6 6. Qd2 b5 7. Bd3 a5 8.
+Bh6 O-O 9. O-O Nbd7 10. e5 Ne8 11. Rae1 Ba6 12. Re4 dxe5 13. Rh4 Bf6 14.
+Ng5 exd4 15. Nce4 e5 16. f4 Ng7 17. Nxf6+ Qxf6 18. fxe5 Qxe5 19. Nxh7 Ne6
+20. Re1 Qh8 21. Rxe6 1-0
+

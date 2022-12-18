@@ -1,0 +1,20 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Neukirch"]
+[Black "Schaefer, Norbert"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "3c303b13"]
+[Epoch "Bishop"]
+[BlackID "4606353"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nbd7 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Qe2 e5 12. e4 Re8 13. Ng5 Re7 14. f4 exd4
+15. e5 Nb6 16. Bxf7+ Rxf7 17. Nxf7 Bg4 18. Qd3 Qxf7 19. exf6 Re8 20. cxd4 Be2
+21. Qc3 Bxf1 22. Kxf1 Qe6 23. dxc5 Qe2+ 24. Kg1 Nc4 25. h3 gxf6 26. Qxf6 Re6
+27. Qd8+ Kf7 28. Qd5 Qe1+ 29. Kh2 Ne3 30. Bxe3 Qxa1 31. Bd4 1-0

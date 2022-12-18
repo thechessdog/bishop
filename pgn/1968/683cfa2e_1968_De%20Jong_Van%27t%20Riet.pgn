@@ -1,0 +1,15 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "De Jong, R."]
+[Black "Van't Riet, A."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "683cfa2e"]
+[Epoch "Bishop"]
+
+1. b4 d5 2. Bb2 Bf5 3. e3 Nd7 4. f4 e6 5. g4 Qh4+ 6. Ke2 Bxg4+ 7. Nf3 Bxf3+
+8. Kxf3 Qh5+ 0-1
+

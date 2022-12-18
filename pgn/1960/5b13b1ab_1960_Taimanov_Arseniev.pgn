@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Arseniev, Vladimir V."]
+[Result "1-0"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox variation"]
+[HashCode "5b13b1ab"]
+[Epoch "Bishop"]
+[BlackID "4105800"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Nf3 e5 7. O-O exd4 8. Nxd4
+Re8 9. f3 c6 10. Kh1 Na6 11. Rb1 d5 12. cxd5 cxd5 13. Bb5 Bd7 14. exd5 Qb6 15.
+Bg5 Bxb5 16. Ndxb5 Re5 17. f4 Ree8 18. d6 Re6 19. f5 gxf5 20. Rxf5 Ne4 21. Nxe4
+Rxe4 22. d7 1-0

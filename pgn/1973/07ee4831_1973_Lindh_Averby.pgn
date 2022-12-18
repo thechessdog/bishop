@@ -1,0 +1,21 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Lindh, Bengt"]
+[Black "Averby, Rune"]
+[Result "0-1"]
+[ECO "D89"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 13.Bd3"]
+[HashCode "07ee4831"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 O-O 9. O-O cxd4 10. cxd4 Nc6 11. Be3 Na5 12. Bd3 Bg4 13. f3 Be6 14.
+Rc1 Bxa2 15. d5 Bb3 16. Qd2 a6 17. Bf4 e5 18. Bg5 f6 19. Be3 b5 20. Bc5 Bc4
+21. Bxf8 Nb3 22. Qb2 Nxc1 23. Rxc1 Bxd3 24. Bxg7 Kxg7 25. Rc6 a5 26. Nc1
+Bc4 27. Qf2 Rc8 28. Qa7+ Kg8 29. Rxc8 Qxc8 30. d6 Qd8 31. Qc5 Kf7 32. Nd3
+Ke6 33. h4 Qxd6 34. Qc8+ Kf7 35. Nc5 a4 36. Nb7 Qf8 37. Qc7+ Qe7 38. Nd6+
+Ke6 0-1
+

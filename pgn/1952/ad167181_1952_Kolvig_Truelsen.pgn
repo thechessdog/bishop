@@ -1,0 +1,18 @@
+[Event "Ringsted"]
+[Site "Ringsted"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Kolvig, Bent"]
+[Black "Truelsen, Ole Illum"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "ad167181"]
+[Epoch "Bishop"]
+[WhiteID "1400746"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O
+Qc7 9. b4 Bb6 10. Bf4 Nge7 11. Qe2 Rc8 12. Nbd2 Ng6 13. Bg3 O-O 14. h4 f5 15.
+exf6 Qxg3 0-1

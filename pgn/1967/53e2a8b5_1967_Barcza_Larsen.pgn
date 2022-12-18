@@ -1,0 +1,19 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Barcza, Gedeon"]
+[Black "Larsen, Bent Ravn"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "53e2a8b5"]
+[Epoch "Bishop"]
+[BlackID "1430670"]
+[WhiteCountry "HUN"]
+[BlackCountry "DNK"]
+
+1. c4 c6 2. Nf3 Nf6 3. d4 d5 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. h3 Nb4 13. Qb1 Rfc8 14. Rc1 Nd7
+15. Ne1 a6 16. Nd3 1/2-1/2

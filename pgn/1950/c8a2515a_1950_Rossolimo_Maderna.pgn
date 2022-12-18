@@ -1,0 +1,22 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1950.01.01"]
+[Round "7"]
+[White "Rossolimo, Nicolas"]
+[Black "Maderna, Carlos Hugo"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "c8a2515a"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. Nc3 h6 7. Nf3 Bc5 8. h3
+O-O 9. d3 b5 10. Nxb5 c6 11. Nbxd4 exd4 12. O-O Nxd5 13. Re1 Be6 14. Ne5 Qc7
+15. Qh5 Rfe8 16. Bd2 Rab8 17. b3 Bb4 18. Nf3 Nf4 19. Qh4 Bxd2 20. Nxd2 Bxc4 21.
+Nxc4 c5 22. Qg4 f6 23. Qf3 Kf7 24. Kf1 Rbd8 25. g3 Ne6 26. h4 Kg8 27. Re2 Nf8
+28. Rae1 Rxe2 29. Rxe2 Qd7 30. Kg2 Re8 31. Rxe8 Qxe8 32. Qd5+ Ne6 33. Qb7 Qd8
+34. Qxa7 Qd5+ 35. f3 g5 36. Qb8+ Kh7 37. Qd6 Qxd6 38. Nxd6 gxh4 39. gxh4 Kg6
+40. Kg3 1-0

@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Rashkovsky, Nukhim N"]
+[Black "Gutman, Lev"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "671996cb"]
+[Epoch "Bishop"]
+[WhiteID "4100603"]
+[BlackID "4600177"]
+[WhiteCountry "RUS"]
+[BlackCountry "GER"]
+
+1. Nc3 c5 2. Nf3 d6 3. e4 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Be2 e5 7. Nb3 Be6 8. f4
+Qc7 9. g4 exf4 10. Bxf4 Nc6 11. g5 Nd7 12. Qd2 Nce5 13. O-O-O Be7 14. Nd4 g6
+15. h4 O-O-O 16. Nd5 Bxd5 17. exd5 Kb8 18. Rh3 Rc8 19. Rc3 Qd8 20. Nc6+ bxc6
+21. dxc6 Nb6 22. Bxe5 dxe5 23. Qe3 1-0

@@ -1,0 +1,19 @@
+[Event "Bucharest tt ROM-FRA"]
+[Site "Bucharest tt ROM-FRA"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Mititelu"]
+[Black "Rollan"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "3482c5b1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Nc6 6. Ne2 Re8 7. O-O e5 8.
+d5 Nb8 9. f3 a5 10. a3 Bf8 11. Ng3 Na6 12. Rb1 Nc5 13. Bc2 d6 14. e4 g6 15.
+Bg5 h6 16. Be3 Bg7 17. b4 axb4 18. axb4 Ncd7 19. Qd2 Kh7 20. Ra1 Rxa1 21.
+Rxa1 Rf8 22. Nb5 Ng8 23. c5 Nb8 24. Ra8 Bd7 25. Bd3 Bxb5 26. Bxb5 c6 27.
+dxc6 bxc6 28. Bxc6 dxc5 29. Qxd8 Rxd8 30. Bd5 cxb4 31. Ba7 1-0
+

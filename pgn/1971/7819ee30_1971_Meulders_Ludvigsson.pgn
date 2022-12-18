@@ -1,0 +1,18 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Meulders, Richard"]
+[Black "Ludvigsson"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "7819ee30"]
+[Epoch "Bishop"]
+[WhiteID "200123"]
+[WhiteCountry "BEL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 b4 10. Nbd2 d5 11. exd5 Nxd5 12. Nc4 f6 13. d4 Nxd4 14. Nxd4 exd4 15.
+Na5 c6 16. Nxb7 Qc7 17. Na5 Bd6 18. Nxc6 1-0

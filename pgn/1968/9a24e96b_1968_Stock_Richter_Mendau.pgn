@@ -1,0 +1,24 @@
+[Event "corr BDGW"]
+[Site "corr BDGW"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Stock"]
+[Black "Richter_Mendau"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "9a24e96b"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. Bg5 O-O
+8. Qd2 Nbd7 9. O-O c6 10. a4 Nb6 11. Bb3 Nbd5 12. Rae1 Be6 13. Bh6 Qd6 14.
+Ne4 Qb4 15. Qg5 Nxe4 16. Rxe4 f6 17. Qd2 Qxd2 18. Bxd2 Bf7 19. Bxd5 Bxd5
+20. Rxe7 Rf7 21. Ree1 Rd8 22. Bc3 Rfd7 23. g4 Bh6 24. Bd2 Bf8 25. Be3 g5
+26. Nd2 Kg7 27. c3 Bd6 28. b3 Re7 29. Bf2 Rde8 30. h3 Bf4 31. Rxe7+ Rxe7
+32. Re1 Re6 33. Nc4 h5 34. gxh5 Kh6 35. Ne3 Be4 36. Ng4+ Kg7 37. h6+ Kf7
+38. Ne5+ Bxe5 39. dxe5 f5 40. Be3 Rxh6 41. Bxg5 Rxh3 42. Re3 Rh1+ 43. Kf2
+Ke6 44. Bf6 Bc2 45. b4 f4 46. Rf3 Kf5 47. c4 Rb1 48. b5 Bxa4 49. Ra3 cxb5
+50. cxb5 Bxb5 51. Rxa7 Rb2+ 52. Kg1 f3 53. Bh4 Rg2+ 54. Kh1 f2 55. Bxf2
+Rxf2 56. Kg1 Rf1+ 57. Kg2 Rb1 58. Kf2 Ba6 59. Ke3 Kxe5 60. Kd2 Kd4 61. Ra8
+Rb2+ 62. Kc1 Rh2 63. Rc8 Bc4 64. Re8 Kc3 65. Re1 Bd3 0-1
+

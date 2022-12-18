@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gipslis, Aivars"]
+[Black "Tarve, Udo"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "80ce7d7b"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. a4
+Bg4 9. c3 O-O 10. h3 Bh5 11. d3 Na5 12. Ba2 c5 13. Nbd2 Qd7 14. Bb1 b4 15. Ba2
+Rab8 16. Bc4 Qc8 17. Re3 Rb6 18. Qf1 bxc3 19. bxc3 Qb7 20. Ba2 Rb8 21. Ne1 Bd1
+22. Nef3 Bb3 23. d4 Bxa2 24. Rxa2 cxd4 25. cxd4 Nb3 26. Nxb3 Rxb3 27. Rxb3 Qxb3
+28. Rb2 Qxb2 29. Bxb2 Rxb2 30. Qxa6 1-0

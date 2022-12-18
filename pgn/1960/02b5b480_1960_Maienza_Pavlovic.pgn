@@ -1,0 +1,21 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Maienza"]
+[Black "Pavlovic"]
+[Result "0-1"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "02b5b480"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7
+8. O-O O-O 9. Be3 a5 10. a4 Be6 11. Bf3 Nb4 12. Nd5 Bxd5 13. exd5 e4 14.
+Be2 Nbxd5 15. Bd4 Nf4 16. Bb5 Qc7 17. Qd2 d5 18. f3 Ne6 19. Bc3 b6 20. Rad1
+Rfd8 21. Bxf6 Bxf6 22. fxe4 dxe4 23. Qe2 Rxd1 24. Rxd1 Rd8 25. Rxd8+ Qxd8
+26. Qxe4 Bxb2 27. Bd3 g6 28. h3 Qg5 29. Bc4 Nf4 30. Qe8+ Kg7 31. Qxf7+ Kh6
+32. Bf1 Qe5 33. Qd7 Qe3+ 34. Kh1 Qe1 35. Qb5 Qf2 36. Qc4 Be5 37. Qb5 Nxh3
+0-1
+

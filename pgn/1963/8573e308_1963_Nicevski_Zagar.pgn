@@ -1,0 +1,21 @@
+[Event "Dravograd"]
+[Site "Dravograd"]
+[Date "1963.01.01"]
+[Round "3"]
+[White "Nicevski, Risto"]
+[Black "Zagar, Ivan"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "8573e308"]
+[Epoch "Bishop"]
+[BlackID "14526271"]
+[BlackCountry "CRO"]
+[WhiteCountry "MKD"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 Nc6 6. Bc4 d6 7. O-O e6 8. Qe2
+Nf6 9. Rd1 Qa5 10. Bf4 Ne5 11. Bb3 Be7 12. Nd4 Ng6 13. Bg3 Nh5 14. Nf5 Nxg3 15.
+Nxg3 O-O 16. Nh5 Bd7 17. f4 Rad8 18. Rd3 b5 19. Rg3 b4 20. Nd1 Qc5+ 21. Kh1 Kh8
+22. Ne3 Rc8 23. Qg4 Qd4 24. f5 exf5 25. exf5 Qxb2 26. Rd1 Rc5 27. Qh3 Qe5 28.
+Rf1 Rfc8 29. f6 Bxh3 30. fxg7+ Qxg7 31. Nxg7 Rc1 32. Ngf5 0-1

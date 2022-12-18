@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Pribyl, J."]
+[Black "Gufeld, Eduard"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "a2556b17"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "CZE"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 O-O 5. f4 c5 6. d5 b5 7. e5 Ne8 8. Nxb5 d6
+9. Nf3 Nd7 10. e6 fxe6 11. Ng5 Ndf6 12. dxe6 Bb7 13. Bd3 d5 14. O-O Qb6 15. Qe2
+dxc4 16. Bxc4 a6 17. Nc3 Nd6 18. Be3 Nxc4 19. Qxc4 Qxb2 20. Bf2 Qb4 21. Qxc5
+Qxf4 22. Bg3 Nd7 23. Bxf4 Nxc5 24. Bd2 Rfd8 25. Be3 Bxc3 26. Bxc5 Rd2 27. Nf3
+Bxf3 28. gxf3 Bxa1 29. Rxa1 Re2 30. Bxe7 Rxe6 31. Bc5 Rc8 32. Bf2 Rc2 33. a4
+Ree2 34. Bg3 Ra2 0-1

@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Soloviev"]
+[Black "Rovner, Dmitry"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "af823053"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O Bb6 6. d4 exd4 7. cxd4 d5
+8. exd5 Nxd5 9. Re1+ Be6 10. Bg5 Qd6 11. Nbd2 Qb4 12. Ba4 Bxd4 13. Re4 b5
+14. Bb3 Nde7 15. Nxd4 Nxd4 16. Nf3 c5 17. Nxd4 cxd4 18. Bxe6 1-0
+

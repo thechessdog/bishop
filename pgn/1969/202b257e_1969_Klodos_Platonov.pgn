@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Klodos"]
+[Black "Platonov"]
+[Result "0-1"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "202b257e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. dxc5 f5 9. e4 fxe4 10. Qc2 e3 11. Bd3 Nd7 12. g3 Qf6 13. Bb2 Nxc5 14.
+Rd1 Ne7 15. c4 e5 16. Qe2 Bf5 17. Bxf5 Nxf5 18. Rd5 Ne6 19. Bxe5 Qh6 20.
+Bd6 O-O-O 21. c5 Nxd6 22. cxd6 Nc7 23. Qc4 Rxd6 24. Rc5 Rhd8 25. Kf1 Rd2
+26. Rxc7+ Kb8 27. Rc5 g5 28. Qc3 Qa6+ 29. Qc4 Rc2 0-1
+

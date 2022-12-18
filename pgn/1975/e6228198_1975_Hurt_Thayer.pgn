@@ -1,0 +1,16 @@
+[Event "Memphis"]
+[Site "Memphis"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hurt"]
+[Black "Thayer"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Marshall variation"]
+[HashCode "e6228198"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. axb4 Bxb4 7. c3 Bd6
+8. Na3 Bxa3 9. Bxa3 Bg4 10. Qa4+ Bd7 11. Qb4 1-0
+

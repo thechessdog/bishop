@@ -1,0 +1,17 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Johner, Hans"]
+[Black "Morel"]
+[Result "0-1"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Pilnik variation"]
+[HashCode "a05a5898"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. c3 a5 10. Nbd2 a4 11. Bc2 d5 12. d4 Bg4 13. h3 Bxf3 14. Nxf3 dxe4 15.
+Nxe5 Qd5 16. Nxc6 Qxc6 17. Qe2 Rae8 18. Bxe4 Nxe4 19. Qxe4 Bd6 0-1

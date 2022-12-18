@@ -1,0 +1,16 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Khasin, Abram"]
+[Black "Feldman, Yakov"]
+[Result "1-0"]
+[ECO "A81"]
+[Opening "Dutch defence"]
+[HashCode "2638e7ed"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 d6 4. d5 g6 5. c4 Bg7 6. Nh3 O-O 7. O-O Nbd7 8. Nc3
+Ne5 9. b3 c6 10. Bb2 cxd5 11. cxd5 Bd7 12. Nf4 Rc8 13. e3 Qa5 14. Nce2 g5 15.
+Ne6 Bxe6 16. dxe6 Ne4 17. Nd4 Nd2 18. Re1 f4 19. gxf4 gxf4 20. Re2 fxe3 21.
+fxe3 Nef3+ 22. Bxf3 Bxd4 23. Rg2+ 1-0

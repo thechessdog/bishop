@@ -1,0 +1,23 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1961.01.01"]
+[Round "9"]
+[White "Kuijpers, Frans"]
+[Black "Enevoldsen, Jens"]
+[Result "1-0"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "a825d178"]
+[Epoch "Bishop"]
+[WhiteID "1000349"]
+[WhiteCountry "NED"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 Nc6 7. e4 e5 8. Ne2
+d6 9. d5 Ne7 10. Ng3 h5 11. Bd3 h4 12. Ne2 Ng6 13. Bg5 Qa5 14. O-O Nh5 15. Qd2
+f6 16. Be3 Bd7 17. Rab1 O-O-O 18. Rb3 Ba4 19. Rb2 Ngf4 20. Rfb1 Nxe2+ 21. Bxe2
+b6 22. Bd1 Bd7 23. a4 g5 24. Ra2 Nf4 25. Rb5 Qa6 26. Rb1 Kc7 27. a5 b5 28. cxb5
+Bxb5 29. Rab2 Rb8 30. Bxc5 dxc5 31. c4 Bc6 32. d6+ Kd7 33. Rxb8 Rxb8 34. Rxb8
+Qxc4 35. g3 hxg3 36. hxg3 Nd3 37. Qh2 Qd4+ 38. Kh1 Bxe4 39. Qh3+ Kc6 40. Qc8+
+Kd5 41. Bb3+ c4 42. Qxc4+ Qxc4 43. Bxc4+ 1-0

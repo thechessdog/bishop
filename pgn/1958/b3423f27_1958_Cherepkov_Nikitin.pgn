@@ -1,0 +1,21 @@
+[Event "Leningrad-Moscow"]
+[Site "Leningrad-Moscow"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Cherepkov, Alexander V"]
+[Black "Nikitin, A."]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "b3423f27"]
+[Epoch "Bishop"]
+[BlackID "4155220"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 d6 8.
+dxe6 Bxe6 9. e3 Nbd7 10. Bd3 Qa5 11. Ne2 d5 12. cxd5 Nxd5 13. O-O O-O 14. c4
+Nb4 15. Nf4 Qa6 16. Be2 g5 17. a3 gxf4 18. axb4 Qb6 19. bxc5 Qxc5 20. exf4 Qf5
+21. Ra3 Qxf4 22. Be7 Rfe8 23. Rg3+ Kh8 24. Qa1+ f6 25. Rf3 Qe4 26. Bxf6+ Kg8
+27. Bd3 Qc6 28. Rg3+ Kf8 29. Bh4 1-0

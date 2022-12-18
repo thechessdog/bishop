@@ -1,0 +1,21 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Spassov, Liuben"]
+[Black "Inkiov, Ventzislav"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "eee6e711"]
+[Epoch "Bishop"]
+[BlackID "2900033"]
+[BlackCountry "FID"]
+[WhiteID "2900220"]
+[WhiteCountry "FID"]
+
+1. Nf3 d5 2. d4 Nc6 3. c4 Bg4 4. cxd5 Bxf3 5. dxc6 Bxc6 6. Nc3 e6 7. e4 Bb4 8.
+f3 f5 9. Bc4 Qh4+ 10. g3 Qh3 11. exf5 Qg2 12. Rf1 Qxh2 13. Bxe6 Qxg3+ 14. Rf2
+Ne7 15. Bd2 Qh4 16. Qe2 Qh1+ 17. Rf1 Qh4+ 18. Rf2 Qh1+ 19. Rf1 Qh4+ 20. Kd1
+Qxd4 21. Kc2 Bd7 22. a3 Bc5 23. Rad1 Bxe6 24. fxe6 Nc6 25. Nb5 Qa4+ 26. b3 Qxb5
+27. Qxb5 1-0

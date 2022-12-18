@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Shagalovich, Abo"]
+[Black "Kondratiev"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "4e93fc25"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bg4 5. h3 Bh5 6. c3 Qb6 7. Na3 e6 8.
+d4 cxd4 9. cxd4 d5 10. exd5 Bxa3 11. dxc6 Qxb5 12. cxb7 Rb8 13. bxa3 Ne7
+14. Bf4 Rxb7 15. Rb1 Qa6 16. Rxb7 Qxb7 17. Qa4+ Qc6 18. Qb4 Bxf3 19. gxf3
+a5 20. Qb8+ Qc8 21. Qa7 Qd7 22. Qb8+ Qc8 23. Rc1 Qxb8 24. Bxb8 O-O 25. Bd6
+Rc8 26. Rxc8+ Nxc8 27. Bc5 f6 28. Kf1 Kf7 29. Ke2 Ke8 30. f4 Kd7 31. Kd3
+Kc6 32. Kc4 Nb6+ 33. Bxb6 Kxb6 34. f5 exf5 35. Kd5 Kc7 36. Ke6 f4 37. d5
+Kd8 38. Kf7 f3 39. Kxg7 1-0
+

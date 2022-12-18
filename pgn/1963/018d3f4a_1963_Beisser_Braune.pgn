@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Beisser, G."]
+[Black "Braune"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "018d3f4a"]
+[Epoch "Bishop"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. g4 Be4 5. f3 Bg6 6. Be3 e6 7. c3 Be7 8. Nh3
+Bh4+ 9. Bf2 h5 10. Bd3 hxg4 11. fxg4 Rh6 12. Bxh4 Qxh4+ 13. Nf2 Bxd3 14.
+Qxd3 f6 15. Qe2 fxe5 16. dxe5 Qg5 17. Nd3 Rh3 18. Kd1 d4 19. Nd2 Re3 0-1
+

@@ -1,0 +1,19 @@
+[Event "Albuquerque"]
+[Site "Albuquerque"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Cahill"]
+[Black "Barry"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "57ce7aba"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bd3 Nc6 8.
+Nxc6 bxc6 9. O-O Be7 10. f4 Qb6+ 11. Kh1 Qxb2 12. Na4 Qd4 13. c3 Qa7 14.
+Rb1 O-O 15. Qe2 Bd8 16. Qb2 Bd7 17. Qb7 c5 18. Bc2 Qxb7 19. Rxb7 Bxa4 20.
+Bxa4 Nxe4 21. Bxd8 Rfxd8 22. c4 Rab8 23. Bc6 f5 24. Rfb1 Rxb7 25. Bxb7 d5
+26. Bxa6 d4 27. Bb5 d3 0-1
+

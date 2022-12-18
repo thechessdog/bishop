@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Veresov, Gavril"]
+[Black "Buslaev, Alexander"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "9dee672b"]
+[Epoch "Bishop"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be3 c6 6. Qd2 Qa5 7. h3 O-O 8.
+Bd3 e5 9. O-O Nbd7 10. Rad1 Re8 11. Rfe1 Nf8 12. d5 Bd7 13. dxc6 Bxc6 14.
+Bc4 Ne6 15. Ng5 Nxg5 16. Bxg5 Rad8 17. Bxf6 1-0
+

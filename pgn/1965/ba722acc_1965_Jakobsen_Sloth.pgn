@@ -1,0 +1,24 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1965.01.01"]
+[Round "11"]
+[White "Jakobsen, Ole"]
+[Black "Sloth, Jorn"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "ba722acc"]
+[Epoch "Bishop"]
+[BlackID "1400240"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 Qc7 10. Bd2 e6 11. O-O-O O-O-O 12. c4 Bd6 13. Ne4 Bf4 14. Kb1 Bxd2
+15. Nfxd2 Ngf6 16. c5 Ne8 17. Nc4 Ndf6 18. Ned6+ Kb8 19. Qg3 Rf8 20. Rd3 Nxd6
+21. cxd6 Qd7 22. Rc1 Ne4 23. Qxg7 f6 24. Qxh6 Nxd6 25. Nxd6 Qxd6 26. Qe3 Qd5
+27. f3 Rh8 28. g3 Qd6 29. Qf2 Rh5 30. g4 Ra5 31. h5 e5 32. Rcd1 Qe6 33. a3 Rad5
+34. Qe2 Qd7 35. dxe5 Rxd3 36. Qxd3 Qxd3+ 37. Rxd3 Rxd3 38. exf6 Kc7 39. h6 Kd7
+40. h7 Rd1+ 41. Kc2 Rh1 42. g5 Ke6 43. f4 Rxh7 44. g6 Rd7 45. f7 Ke7 46. f5 Rd6
+0-1

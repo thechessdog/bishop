@@ -1,0 +1,21 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Heigl, Rudolf"]
+[Black "Westphal, Reinhard"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "9225cb9a"]
+[Epoch "Bishop"]
+[WhiteID "4606493"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 b6 10. e3 Ba6 11. a4 Bxc4 12. Bxc4 Nbd7 13. O-O h6 14. Bf4 Ne8 15.
+Qd2 f5 16. Bg3 Ndf6 17. f3 Nc7 18. a5 b5 19. Bxb5 Nh5 20. Bc4 Nxg3 21. hxg3 Rb8
+22. Rab1 Rb4 23. b3 Qg5 24. Kf2 h5 25. Rh1 Rfb8 26. Qd3 Bxc3 27. Qxc3 Ne8 28.
+Rbe1 Nf6 29. Rh4 Rf8 30. Rf4 Qh6 31. Bd3 Qg7 32. Qc2 Qb7 33. a6 Qb6 34. Bc4 Qd8
+35. Re2 Kh7 36. Rh4 Qe7 37. Qc3 Re8 38. Rh1 Qg7 39. Rc1 Re5 1/2-1/2

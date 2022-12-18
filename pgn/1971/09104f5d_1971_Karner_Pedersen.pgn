@@ -1,0 +1,22 @@
+[Event "Domzale"]
+[Site "Domzale"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Karner, Hillar"]
+[Black "Pedersen, Erik"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "09104f5d"]
+[Epoch "Bishop"]
+[BlackID "1404997"]
+[BlackCountry "DEN"]
+[WhiteID "4500202"]
+[WhiteCountry "EST"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. f4 Nf6 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+ 8.
+Kxd1 Ng4 9. Ke1 Nc6 10. h3 Nh6 11. Be3 Bf5 12. Rc1 Nb4 13. Nd4 Rad8 14. Nxf5
+Nxf5 15. Bc5 Nd5 16. Nxd5 Rxd5 17. Bf2 Bh6 18. g3 Rxe5+ 19. Be2 Ra5 20. Ra1 Bg7
+21. c3 e5 22. g4 Nd6 23. fxe5 Bxe5 24. Kf1 Re8 25. a3 Rd5 26. Be1 Bf4 27. Rg1
+Re3 28. h4 Rde5 29. Rg2 Rh3 30. Rd1 g5 31. hxg5 Rh1+ 32. Kf2 Bxg5 0-1

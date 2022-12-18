@@ -1,0 +1,25 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1953.01.01"]
+[Round "4"]
+[White "Dimc, Dragutin"]
+[Black "Puc, Stojan"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "38ee74b4"]
+[Epoch "Bishop"]
+[BlackCountry "SVN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 b6 6. a3 Ba5 7. Rb1 Nc6 8. d5
+exd5 9. cxd5 Bxc3+ 10. Nxc3 Ne5 11. Be2 O-O 12. O-O a6 13. e4 d6 14. b4 Re8 15.
+bxc5 bxc5 16. Qc2 Ng6 17. Bd2 Qe7 18. f3 Qe5 19. Be3 Nh5 20. Qd2 Nhf4 21. Bc4
+Qf6 22. Rb6 Ne5 23. Ba2 Nd7 24. Rb2 Ng6 25. Na4 h6 26. Nb6 Rb8 27. Rfb1 Nxb6
+28. Rxb6 Rxb6 29. Rxb6 Qe5 30. Bb1 Qe7 31. Bd3 Ne5 32. Be2 f5 33. exf5 Bxf5 34.
+Bxa6 Qd8 35. Rb7 Qh4 36. Bf2 Qf6 37. Be2 Ra8 38. Qb2 Kh7 39. Rb6 Qe7 40. g4 Bd3
+41. f4 Bxe2 42. Qxe2 Qc7 43. Rb3 Ng6 44. Qe4 Qf7 45. f5 Ne5 46. Bxc5 dxc5 47.
+Qxe5 Re8 48. Qd6 c4 49. Rb6 Kg8 50. Qg6 Rd8 51. Qxf7+ Kxf7 52. d6 Kf6 53. Rc6
+h5 54. h3 Ke5 55. Rxc4 Rxd6 56. Kg2 Rd3 57. a4 Ra3 58. Rc7 Kf6 59. Rc6+ Kf7 60.
+Ra6 h4 61. a5 Ra2+ 62. Kf3 Ra3+ 63. Kf4 Rxh3 64. Ra7+ Kf8 65. Kg5 Rh1 66. Kg6
+h3 67. Ra8+ Ke7 68. Rh8 h2 69. g5 Ra1 70. Rxh2 Rxa5 71. Rh7 1-0

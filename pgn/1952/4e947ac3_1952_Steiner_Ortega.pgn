@@ -1,0 +1,18 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1952.01.01"]
+[Round "20"]
+[White "Steiner, Herman"]
+[Black "Ortega, Rogelio"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "4e947ac3"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+[BlackCountry "CUB"]
+
+1. d4 e6 2. e4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3 h6 7. Bd3 Bd6 8.
+Qe2 Nd7 9. Bd2 Qe7 10. O-O-O Nf6 11. Ne5 a6 12. f4 c5 13. dxc5 Bxc5 14. Qf3 O-O
+15. g4 Nd7 16. h4 Bd4 17. Qe4 1-0

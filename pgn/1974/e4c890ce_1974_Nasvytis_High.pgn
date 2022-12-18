@@ -1,0 +1,21 @@
+[Event "Cleveland,OH"]
+[Site "Cleveland,OH"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Nasvytis"]
+[Black "High, G."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "e4c890ce"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7
+8. Bf4 a6 9. Qe2 Nf6 10. Rfd1 Qc7 11. Qd2 Ne5 12. Bb3 Bd7 13. Rac1 Bc6 14.
+Nd5 Nxf3+ 15. gxf3 exd5 16. exd5 Nxd5 17. Bxd5 Rd8 18. Qc3 O-O 19. Bxc6
+bxc6 20. Qxc6 Qxc6 21. Rxc6 d5 22. Rxa6 Bf6 23. b3 Rfe8 24. Kf1 d4 25. Rd3
+Rc8 26. b4 Rc3 27. Rxc3 dxc3 28. Rc6 Ra8 29. a4 g5 30. Rxf6 gxf4 31. Rxf4
+Rc8 32. Re4 c2 33. Re1 c1=Q 34. Rxc1 Rxc1+ 35. Ke2 Kf8 36. Kd3 Ke8 37. b5
+Kd8 38. a5 Kc7 0-1
+

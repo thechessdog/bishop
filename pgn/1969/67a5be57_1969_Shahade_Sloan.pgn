@@ -1,0 +1,21 @@
+[Event "US Amateur ch"]
+[Site "US Amateur ch"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Shahade, Michael"]
+[Black "Sloan, Sam"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "67a5be57"]
+[Epoch "Bishop"]
+[WhiteID "2001870"]
+[BlackID "2030390"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. Bg5 Bg7 7. c5 Nc6 8. Bb5
+O-O 9. Nf3 Bg4 10. Bxc6 bxc6 11. h3 Bxf3 12. Qxf3 Rb8 13. O-O-O Qa5 14. a3 Rb3
+15. Bf4 Ne4 16. Rd3 Qa6 17. Rhd1 e5 18. dxe5 Nxc5 19. Re3 Qc4 20. Kc2 d4 21.
+Qe2 Rxc3+ 22. bxc3 Qa2+ 23. Kc1 Nb3# 0-1

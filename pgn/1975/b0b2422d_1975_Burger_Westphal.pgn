@@ -1,0 +1,18 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Burger, H."]
+[Black "Westphal, Reinhard"]
+[Result "1-0"]
+[ECO "A73"]
+[Opening "Benoni"]
+[Variation "classical, 9.O-O"]
+[HashCode "b0b2422d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Na6 10. Bf4 Nc7 11. a4 Bg4 12. h3 Bxf3 13. Bxf3 Nfe8 14. Qd2
+Be5 15. Be3 a6 16. Be2 Nf6 17. Bd3 Re8 18. Bg5 Qc8 19. Rae1 Rb8 20. f4 Bd4+
+21. Kh2 Nd7 22. e5 1-0
+

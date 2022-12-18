@@ -1,0 +1,25 @@
+[Event "corr Wch2"]
+[Site "corr Wch2"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Laustsen, A."]
+[Black "Batik, F."]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "f9f6e573"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Bg5 c5 6. dxc5 Na6 7. a3 Bxc3+
+8. Qxc3 Nxc5 9. Bxf6 Qxf6 10. Qxf6 gxf6 11. b4 Nb3 12. Rb1 Nd4 13. Rb2 a5
+14. e3 Nf5 15. b5 b6 16. Rd2 Rd8 17. e4 Ng7 18. f3 Kf8 19. Ne2 Ke7 20. Nc3
+d6 21. Na4 Rb8 22. Kf2 e5 23. Nc3 Be6 24. Bd3 Rdc8 25. Nd5+ Bxd5 26. exd5
+f5 27. g3 h6 28. Rc1 Rc5 29. a4 Kf6 30. Rdc2 Re8 31. Re1 Rcc8 32. Rce2 Rh8
+33. Rg1 h5 34. h4 Rh6 35. Rc2 Rg6 36. Rcc1 Rh6 37. Rc2 Rch8 38. Rcc1 Rg8
+39. Rg2 Ke7 40. Rcg1 Rf6 41. Ke2 Ne8 42. Kd2 Kf8 43. Ke2 f4 44. Kf2 fxg3+
+45. Rxg3 Rxg3 46. Kxg3 Rf4 47. Re1 Rd4 48. Bf1 Nf6 49. Be2 Nd7 50. Rd1 Rf4
+51. Rc1 Nc5 52. Rc3 Nxa4 53. Ra3 Nc5 54. Rc3 Ke7 55. Bf1 f5 56. Bh3 Kf6 57.
+Rc2 Rd4 58. Bf1 f4+ 59. Kf2 e4 60. Be2 e3+ 61. Ke1 Nd7 62. Ra2 Ne5 63. Ra4
+Ng6 64. Ra2 Nxh4 0-1
+

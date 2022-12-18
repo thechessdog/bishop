@@ -1,0 +1,19 @@
+[Event "Riga LIT-LAT"]
+[Site "Riga LIT-LAT"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Csulits"]
+[Black "Berzins"]
+[Result "1-0"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[HashCode "4cf6d2ca"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8.
+d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. exf5 gxf5 12. f4 Ng6 13. Be3 Qe7 14. Qd2
+a6 15. Rfe1 Kh8 16. b4 Rg8 17. Kh1 Bf6 18. Rac1 Qg7 19. Rg1 exf4 20. Nxf4
+Nxf4 21. Bxf4 Ne5 22. c5 Bd7 23. cxd6 cxd6 24. b5 Rac8 25. bxa6 Ng4 26.
+Bxg4 Bxc3 27. Rxc3 Rxc3 28. axb7 fxg4 29. Bxd6 Bf5 30. Qf4 1-0
+

@@ -1,0 +1,21 @@
+[Event "Flensburg"]
+[Site "Flensburg"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Jacobsen, Bo"]
+[Black "Petersen, Finn"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "de127d24"]
+[Epoch "Bishop"]
+[WhiteID "1400738"]
+[BlackID "1400754"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7 7. e4 Ng6 8.
+Nxg6 hxg6 9. Bg2 Rxh2 10. O-O Bxg3 11. d4 Rh7 12. Qd3 Qh4 13. Rd1 Bf2+ 14. Kf1
+g3 15. Qb5+ Nc6 16. Nc3 Qh2 17. Bg5 Bg4 18. Ne2 Qxg2+ 19. Kxg2 Rh2+ 20. Kf1
+Bh3# 0-1

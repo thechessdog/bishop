@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Castro, Juan"]
+[Black "Morgado, Juan Sebastian"]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "944e6efc"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Nc6 8.
+cxd5 Nxd4 9. Nxf7 Rxf7 10. Bxe4 Bxh2+ 11. Kxh2 Qh4+ 12. Kg1 Qxe4 13. Nc3 Qh4
+14. Be3 Nf5 15. Qb3 Nd6 16. Bc5 Bf5 17. Nb5 Ne4 18. Be3 Raf8 19. Nxc7 Rxc7 20.
+d6+ Rcf7 0-1

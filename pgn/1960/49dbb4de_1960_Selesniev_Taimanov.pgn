@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Selesniev, Alexei"]
+[Black "Taimanov, Mark"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Simagin variation"]
+[HashCode "49dbb4de"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nc6 7. Nc3 Bg4 8. h3
+Bxf3 9. Bxf3 Nd7 10. e3 e5 11. d5 Ne7 12. e4 f5 13. exf5 gxf5 14. Bg2 Kh8 15.
+Rb1 Ng6 16. b4 Qe7 17. c5 e4 18. cxd6 cxd6 19. Ne2 Nb6 20. Nf4 Nxf4 21. Bxf4
+Be5 22. Bh6 Rg8 23. Qb3 Qf7 24. Rfd1 Qg6 25. Be3 f4 26. Bd4 Rae8 27. Bxe5+ Rxe5
+28. Re1 f3 29. Bf1 e3 0-1

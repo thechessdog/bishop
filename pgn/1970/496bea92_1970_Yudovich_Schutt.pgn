@@ -1,0 +1,16 @@
+[Event "corr FRG jub"]
+[Site "corr FRG jub"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Yudovich, Mikhail Sr"]
+[Black "Schutt, I."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "496bea92"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bg5 Bg7 8. e3
+Na6 9. Nd2 Nc7 10. Be2 O-O 11. O-O a6 12. a4 b6 13. Nde4 Nce8 14. f4 Qc7 15.
+Nf2 h6 16. Bh4 Bb7 17. e4 c4 18. Bf3 Kh7 19. Qd2 Nd7 20. Rae1 Nc5 1-0

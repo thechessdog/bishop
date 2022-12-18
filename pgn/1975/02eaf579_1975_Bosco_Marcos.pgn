@@ -1,0 +1,20 @@
+[Event "Pinamar tt"]
+[Site "Pinamar"]
+[Date "1975.??.??"]
+[Round "4"]
+[White "Bosco, Ricardo"]
+[Black "Marcos, R."]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "02eaf579"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Bg4
+8. h3 Bxf3 9. Qxf3 Qd7 10. Nd2 O-O-O 11. Nc4 Qe6 12. Bd2 g6 13. a4 c5 14.
+Rfb1 Nd7 15. b4 cxb4 16. Bxb4 Bxb4 17. Rxb4 Nc5 18. Rab1 Rd4 19. Qe3 Qe7
+20. Qc1 Rhd8 21. Qb2 Kd7 22. Nxe5+ Qxe5 23. Rxd4+ Ke7 24. Rxd8 Qxb2 25.
+Rxb2 Kxd8 26. a5 Kd7 27. f3 Kc6 28. Kf2 b5 29. axb6 cxb6 30. Ke3 b5 31. d4
+Na4 32. Ra2 Kb6 33. Rxa4 1-0
+

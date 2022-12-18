@@ -1,0 +1,18 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "02a25ee0"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Qe2
+Be7 9. Bg5 O-O 10. f4 b4 11. Na4 Bb7 12. f5 Qa5 13. fxe6 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Khanov, Kurban"]
+[Black "Gusev"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "9bd0bf6f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 a6 4. Nc3 b5 5. cxb5 axb5 6. Nxb5 e6 7. Nc3 exd5 8. e3
+Bb7 9. Nf3 Na6 10. Be2 Bd6 11. O-O O-O 12. Nh4 Re8 13. Nf5 Bf8 14. Bf3 Nc7 15.
+Qc2 Ra6 16. Rd1 Qa8 17. b3 g6 18. Ng3 Ne6 19. Bb2 h5 20. Be2 h4 21. Bxa6 Qxa6
+22. Nf1 Qc6 23. f3 h3 24. Ng3 Bh6 25. Re1 Nc7 26. Na4 Na6 27. Qc3 Re6 28. Rac1
+d6 29. Qd3 Nb4 30. Qd2 Nxa2 31. Bxf6 Nxc1 32. Bb2 Nxb3 33. Qc3 d4 0-1

@@ -1,0 +1,23 @@
+[Event "ACM Chicago"]
+[Site "ACM Chicago"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Tech"]
+[Black "Chess 3 5"]
+[Result "0-1"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "c9592965"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. O-O a6 8.
+Be3 Ne5 9. Qe2 Qc7 10. Bd3 Neg4 11. f4 e5 12. Nf5 Be6 13. Nd5 Nxd5 14. exd5
+Bxf5 15. Bxf5 Nh6 16. Qd3 g6 17. Be4 f5 18. Bf3 e4 19. Qd4 Bg7 20. Qb4 exf3
+21. Rxf3 Qxc2 22. Qxb7 O-O 23. Rf2 Qd3 24. Re1 Ng4 25. Rd2 Qe4 26. Rde2
+Rfb8 27. Qd7 Qxd5 28. b3 Nxe3 29. Rxe3 Bd4 30. Qc7 Bxe3+ 31. Rxe3 Rc8 32.
+Qe7 Qd1+ 33. Kf2 Rc2+ 34. Re2 Qd4+ 35. Kf3 Rc3+ 36. Re3 Qd1+ 37. Kf2 Qd2+
+38. Re2 Qxf4+ 39. Kg1 Rc1+ 40. Re1 Rxe1+ 41. Qxe1 Qe4 42. Qxe4 fxe4 43. Kf2
+Kf7 44. Ke3 d5 45. Kf4 Ke6 46. b4 Rc8 47. h3 Rc2 48. a4 Rxg2 49. b5 axb5
+50. axb5 g5+ 51. Ke3 Ke5 52. b6 d4# 0-1
+

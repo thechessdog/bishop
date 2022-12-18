@@ -1,0 +1,16 @@
+[Event "Alma Ata ch-URS"]
+[Site "Alma Ata ch-URS"]
+[Date "1968.12.01"]
+[Round "1"]
+[White "Platonov, Igor V"]
+[Black "Osnos, Vyacheslav"]
+[Result "1/2-1/2"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "3bf2bce7"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. Nc3 cxd4 5. Nxd4 Nc6 6. e3 Bb4 7. Bd2 O-O 8. a3
+Be7 9. Be2 d5 10. cxd5 exd5 11. O-O Nxd4 12. exd4 Qb6 13. Bg5 1/2-1/2

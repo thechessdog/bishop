@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1967.01.01"]
+[Round "4"]
+[White "Simagin, Vladimir"]
+[Black "Langeweg, Kick"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "6947ada8"]
+[Epoch "Bishop"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Nxd2 12. Qxd2 f6 13. Qd3 f5 14. a4 b4 15. a5
+Qc8 16. Bb3 Ne7 17. Bg5 Qd7 18. Ba4 Qc8 19. Nd4 1-0

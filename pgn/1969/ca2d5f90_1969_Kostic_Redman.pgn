@@ -1,0 +1,21 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Kostic, V."]
+[Black "Redman, T."]
+[Result "0-1"]
+[ECO "A26"]
+[Opening "English"]
+[Variation "closed system"]
+[HashCode "ca2d5f90"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 d6 5. d3 Bg7 6. Rb1 Be6 7. b4 Qd7 8. b5
+Nd8 9. Bg5 f6 10. Bd2 Ne7 11. Qc1 O-O 12. h4 h5 13. Nd5 Nf5 14. Nf3 Kh7 15.
+O-O Qf7 16. e4 Nh6 17. c5 dxc5 18. Qxc5 b6 19. Qc2 Bxd5 20. exd5 Nf5 21.
+Bb4 Re8 22. Rfc1 Rc8 23. Qa4 Ra8 24. d6 cxd6 25. Ng5+ fxg5 26. Bxa8 gxh4
+27. gxh4 Nd4 28. Qd1 Rf8 29. Rb2 Nb7 30. Bxb7 Qxb7 31. Bxd6 Rf4 32. Rc6 Qd7
+33. Bb4 Qh3 34. f3 Nxf3+ 35. Kf2 Nd4+ 36. Ke1 Rf1+ 37. Kd2 Bh6+ 38. Kc3
+Rxd1 39. Rc7+ Kg8 0-1
+

@@ -1,0 +1,19 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1969.09.01"]
+[Round "1"]
+[White "Lutikov, Anatoly S"]
+[Black "Tukmakov, Vladimir B"]
+[Result "1/2-1/2"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "21ffaebd"]
+[Epoch "Bishop"]
+[BlackID "14100096"]
+[BlackCountry "UKR"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. f4 Nf6 7. Be3 Be7 8. Qd2
+Ng4 9. Bg1 Nxd4 10. Qxd4 e5 11. fxe5 Nxe5 12. Nd5 Bh4+ 13. Bf2 O-O 14. O-O-O
+Bxf2 1/2-1/2

@@ -1,0 +1,27 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Pirc, Vasja"]
+[Black "Rossolimo, Nicolas"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "23197a9c"]
+[Epoch "Bishop"]
+[WhiteCountry "SVN"]
+[BlackCountry "USA"]
+
+1. Nf3 Nf6 2. d4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+Re8 9. d5 Nc5 10. Ne1 a5 11. h3 Nfd7 12. Be3 f5 13. exf5 gxf5 14. Nd3 Nxd3 15.
+Qxd3 Rf8 16. f4 e4 17. Qd2 Nc5 18. Bd4 Rf7 19. Kh2 Bd7 20. Rg1 Qf8 21. Bf1 Bxd4
+22. Qxd4 Qh6 23. Nd1 Rg7 24. Ne3 Kf7 25. Be2 Rag8 26. Raf1 Rf8 27. b3 Kg8 28.
+Qc3 b6 29. a3 Be8 30. b4 axb4 31. axb4 Nd7 32. g4 fxg4 33. Bxg4 Qf6 34. Qxf6
+Nxf6 35. Nf5 Nxg4+ 36. hxg4 Rd7 37. Nd4 Re7 38. Ne6 Rff7 39. Re1 Rxe6 40. dxe6
+Rxf4 41. Rgf1 Rxf1 42. Rxf1 e3 43. e7 e2 44. Re1 b5 45. c5 dxc5 46. bxc5 Kf7
+47. Rxe2 b4 48. Kg3 b3 49. Re3 b2 50. Rb3 Kxe7 51. Rxb2 Kd7 52. Re2 Bg6 53. Kf4
+Kc6 54. Re5 Kb5 55. Kg5 Bc2 56. Kf6 Bb1 57. g5 Bd3 58. Re3 Bg6 59. Rc3 Kc6 60.
+Ke5 Bb1 61. Kd4 Bg6 62. Rf3 Bb1 63. Rf1 Bg6 64. Kc4 Bc2 65. Rf6+ Kb7 66. Kd4
+Bb1 67. Rf1 Bg6 68. Kd5 Bc2 69. Rf3 Bd1 70. Rh3 Bc2 71. Rh2 Bb3+ 72. Kd4 Bg8
+73. Rh6 1-0

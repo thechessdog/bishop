@@ -1,0 +1,16 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Arregui, Jose Luis"]
+[Black "Pereyra"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "1ad3e702"]
+[Epoch "Bishop"]
+[WhiteID "103500"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Bg5 Ne4 6. Be3 e5 7. Nf3 Bb4+ 8.
+Nbd2 exd4 9. Nxd4 Qf6 10. Qa4+ Nc6 11. Nb3 Qxb2 12. Rd1 O-O 0-1

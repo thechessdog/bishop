@@ -1,0 +1,20 @@
+[Event "corr POL-DEN tt"]
+[Site "corr POL-DEN tt"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Schlick, A."]
+[Black "Jaworski, J."]
+[Result "0-1"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "5c1677c7"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. c4 d4 3. b4 f6 4. e3 e5 5. a3 a5 6. b5 c5 7. bxc6 Nxc6 8. Bb2
+Bc5 9. exd4 Nxd4 10. Nxd4 Bxd4 11. Bxd4 Qxd4 12. Nc3 Bd7 13. Nd5 Rd8 14.
+Ra2 Bc6 15. Ne3 Ne7 16. Be2 f5 17. Qb1 O-O 18. Rg1 f4 19. Nd1 Nf5 20. Qb2
+Nh4 21. Qxd4 exd4 22. f3 d3 23. Bf1 Ba4 24. Ra1 Bc2 25. Kf2 Nf5 26. Nb2 Rf6
+27. g4 fxg3+ 28. hxg3 Nd4 29. f4 Nb3 30. Re1 Nxd2 31. Bg2 Rb6 32. Ke3 Rxb2
+33. Bd5+ Rxd5 34. cxd5 Nc4+ 35. Kd4 Nxa3 36. Re8+ Kf7 37. Rge1 d2 0-1
+

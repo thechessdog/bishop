@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Schippers"]
+[Black "Lagendijk"]
+[Result "1-0"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "Greco variation"]
+[HashCode "3222560c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3
+Nxe4 8. O-O Nxc3 9. bxc3 Bxc3 10. Qb3 Bxd4 11. Bxf7+ Kf8 12. Bg5 Bf6 13.
+Rae1 Ne7 14. Bh5 d5 15. Rxe7 Qxe7 16. Re1 Be6 17. Nd4 Bxg5 18. Nxe6+ Kg8
+19. Qxd5 Qd6 20. Nd8+ Qxd5 21. Re8# 1-0
+

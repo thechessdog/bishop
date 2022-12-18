@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Lepsenyi"]
+[Black "Gannhold"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Haberditz variation"]
+[HashCode "7f62987d"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 f5 4. exf5 exf5 5. Bd3 Nf6 6. Ndf3 Bd6 7. Ne2 O-O
+8. O-O Ne4 9. Nf4 c6 10. Ne5 Bxe5 11. dxe5 Qe7 12. c4 Qxe5 13. Qe2 Nd7 14.
+cxd5 cxd5 15. Nxd5 Nec5 16. Bf4 Qd4 17. Rad1 Nxd3 18. Rxd3 Qc4 19. Ne7+ Kf7
+20. Nxc8 Qxc8 21. Rc1 1-0
+

@@ -1,0 +1,27 @@
+[Event "Yaroslavl"]
+[Site "Yaroslavl"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Ovchinikov"]
+[Black "Grokhotov, Vladimir T"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni defence"]
+[HashCode "a7e51a79"]
+[Epoch "Bishop"]
+[BlackID "4103300"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bf4 Bg7 8. Qa4+
+Bd7 9. Qb3 Qc7 10. e4 O-O 11. Be2 a6 12. e5 Nh5 13. exd6 Qc8 14. Be3 b5 15. O-O
+c4 16. Qd1 b4 17. Ne4 Bxb2 18. Rb1 c3 19. Qd4 Bb5 20. Bxb5 axb5 21. Bh6 f5 22.
+Nc5 Rf6 23. Rfe1 Nd7 24. Ne6 Qc4 25. Nc7 Rc8 26. Qe3 Rxd6 27. Qe8+ Rxe8 28.
+Rxe8+ Kf7 29. Ng5+ Kf6 30. Rbe1 f4 31. Ne4+ Qxe4 32. R8xe4 Kf5 33. Rxb4 g5 34.
+Rxb5 Kg6 35. Bxg5 Kxg5 36. Ne6+ Kg6 37. Nd4 Ng7 38. Kf1 Nb6 39. Nc6 Nc4 40. Rc5
+Nd2+ 41. Ke2 Ne4 42. Rc4 f3+ 43. gxf3 Nd2 44. Rc5 Kf6 45. a4 Nh5 46. Ke3 Nb3
+47. Rb5 c2 48. Rxb3 c1=Q+ 49. Rxc1 Bxc1+ 50. Ke4 Nf4 51. Rc3 Bd2 52. Rc5 Nh3
+53. a5 Ng5+ 54. Kd3 Ne6 55. Rb5 Nc7 56. Rc5 Nxd5 57. Kxd2 Ne7+ 58. Kc3 Nxc6 59.
+Kc4 Ke7 60. Rh5 h6 61. a6 Rf6 62. Kb5 Na7+ 63. Ka5 Kd7 64. Rd5+ Kc7 65. Rc5+
+Kb8 66. Rh5 Nc6+ 67. Kb5 Nd4+ 68. Kc4 Nxf3 69. h3 Rxa6 70. Rf5 Ng5 71. Kb5 Rd6
+72. h4 Ne6 73. Rf7 Kc8 74. f4 Kd8 75. f5 Nd4+ 76. Kc5 Ke8 77. Kxd6 Kxf7 78. Ke5
+Ne2 0-1

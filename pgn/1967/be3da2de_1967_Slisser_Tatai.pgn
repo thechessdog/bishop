@@ -1,0 +1,21 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1967.07.01"]
+[Round "1"]
+[White "Slisser, Theo"]
+[Black "Tatai, Stefano"]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "be3da2de"]
+[Epoch "Bishop"]
+[WhiteID "1009320"]
+[WhiteCountry "NED"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 O-O 7. Be2 e6 8. Nf3 exd5
+9. cxd5 Re8 10. e5 Nfd7 11. O-O dxe5 12. fxe5 Nxe5 13. Bf4 a6 14. a4 Nbd7 15.
+d6 Nxf3+ 16. Bxf3 Bd4+ 17. Kh1 Ne5 18. Bd5 Be6 19. Bxe6 Rxe6 20. Ne4 Qh4 21.
+Ra3 Qg4 22. Qc2 Qf5 23. Qb1 Nc4 24. Ng5 Qxb1 25. Rxb1 Nxa3 26. bxa3 Re2 27. h3
+Be5 28. Bxe5 Rxe5 29. Nf3 Rd5 30. Rxb7 Rd8 31. Rc7 R8xd6 32. Kh2 0-1

@@ -1,0 +1,21 @@
+[Event "BUL-CSR"]
+[Site "Sofia"]
+[Date "1949.??.??"]
+[Round "1"]
+[White "Markov, Ziva"]
+[Black "Rohacek, Ivan Vladimir"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "eace8916"]
+[Epoch "Bishop"]
+[WhiteID "918253"]
+[WhiteCountry "SRB"]
+[BlackCountry "SVK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Nxd5 6. exd5 Bb4+ 7. Bd2 Qe7+
+8. Qe2 Bxd2+ 9. Kxd2 Qxe2+ 10. Bxe2 Ne7 11. d6 Nc6 12. Rhe1 O-O 13. dxc7 a6 14.
+Bc4 d6 15. Bd5 Bd7 16. Bxc6 bxc6 17. Re7 Be6 18. Nxd4 c5 19. Nxe6 fxe6 20. f3
+Rfe8 21. Rd7 d5 22. Re1 Rac8 23. c4 dxc4 24. Re5 Kf8 25. Rxc5 Re7 26. Rxe7 Kxe7
+27. Rxc4 Kd6 28. b4 1-0

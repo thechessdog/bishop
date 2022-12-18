@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Berlow"]
+[Black "Cook"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "1bb92af4"]
+[Epoch "Bishop"]
+
+1. b4 d5 2. f4 e5 3. fxe5 Bxb4 4. Nf3 Bg4 5. c3 Be7 6. d4 Nd7 7. Nbd2 Bf5
+8. c4 c6 9. cxd5 cxd5 10. Qb3 Qa5 11. Kf2 Rc8 0-1
+

@@ -1,0 +1,23 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Castiglioni"]
+[Black "Ferrantes"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "07bcc11f"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. f4 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Nf3 f6 12. Nc3 fxe5 13. fxe5 Rxf3
+14. gxf3 Qh4+ 15. Qf2 Nxd4 16. Qxh4 Nxf3+ 17. Kf2 Nxh4 18. Re1 Ng6 19. h4
+h5 20. Rg1 Ngxe5 21. Kg3 Kf7 22. Bh3 Ng4 23. Bxg4 hxg4 24. Kxg4 Nf6+ 25.
+Kf4 Bd7 26. Ne2 Rh8 27. Rh1 Ne4 28. Ref1 Bb5 29. Ke5+ Nf6 30. Rf2 Rh5+ 31.
+Kd4 e5+ 32. Ke3 Bc6 33. Rh3 g5 34. Ng3 Rh6 35. h5 Ke6 36. Ke2 d4 37. Nf5
+Rh7 38. h6 d3+ 39. Kxd3 Be4+ 40. Ke2 Bxf5 41. Ra3 a6 42. Rb3 Be4 43. Rb6+
+Bc6 44. Rh2 Ng4 45. Rh3 Rxh6 46. Rc3 Kf5 47. Rb4 Rh2+ 48. Ke1 Nf6 49. Rg3
+g4 0-1
+

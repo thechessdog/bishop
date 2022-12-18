@@ -1,0 +1,23 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Glazstein"]
+[Black "Parshutin"]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "dacd491f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. Nxe5 Nxe5 13. dxe5 Qxe5
+14. Qc2 Re8 15. f3 Bd7 16. e4 c4 17. Be2 Qc5+ 18. Kh1 Re6 19. Qd2 Qc7 20.
+Qd4 Bb5 21. a4 Rd8 22. Bf4 Qc8 23. Qxa7 Ra6 24. Qb8 Qxb8 25. Bxb8 Bxa4 26.
+Bxc4 b5 27. Rxa4 Rxa4 28. Bxb5 Ra2 29. Be5 Rdd2 30. Bc4 Rac2 31. Ra1 h6 32.
+Bf1 Nd7 33. Bd4 Ra2 34. Rxa2 Rxa2 35. h4 Ra1 36. Kg1 f6 37. Kf2 Ne5 38. Bb5
+Ra2+ 39. Kg3 Rd2 40. f4 Nd3 41. e5 Kf7 42. Bc4+ Ke7 43. h5 fxe5 44. fxe5
+Ke8 45. e6 Ke7 46. Bxg7 Ne1 47. Bxh6 Rxg2+ 48. Kf4 Rf2+ 49. Ke4 Kf6 50. Be3
+Rb2 51. Bd4+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Palermo, Vicente"]
+[Black "Bahamonde, Antonio"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "74db6c95"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+Bb7 9. Qf3 Nbd7 10. Re1 Rc8 11. Qh3 Nc5 12. Bd5 b4 13. Bxb7 Nxb7 14. Nd5 e5 15.
+Ne6 Qd7 16. Nb6 Qxe6 17. Qxe6+ fxe6 18. Nxc8 Nd7 19. Be3 d5 20. exd5 exd5 21.
+Nb6 Nxb6 22. Bxb6 Bd6 23. Bd4 e4 24. f3 Bc5 25. Rad1 O-O 26. Bxc5 Nxc5 27. Rxd5
+exf3 28. gxf3 Na4 29. Rd7 Nb6 30. Ra7 Nd5 31. Rd1 Rf5 32. Rxa6 Rg5+ 33. Kf2 Nf4
+34. Rd8+ Kf7 35. Rd7+ Ke8 36. Rb7 1-0

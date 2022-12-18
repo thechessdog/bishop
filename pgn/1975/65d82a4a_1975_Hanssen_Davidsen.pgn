@@ -1,0 +1,17 @@
+[Event "Sandefjord"]
+[Site "Sandefjord"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hanssen, Petter"]
+[Black "Davidsen, Niels Chr."]
+[Result "1-0"]
+[ECO "A21"]
+[Opening "English opening"]
+[HashCode "65d82a4a"]
+[Epoch "Bishop"]
+[BlackID "1405969"]
+
+1. c4 e5 2. Nc3 d6 3. g3 f5 4. Bg2 Nf6 5. d3 Be7 6. b4 c6 7. Qb3 Nbd7 8. Rb1
+O-O 9. Nf3 Qc7 10. O-O Nh5 11. Ng5 Bxg5 12. Bxg5 Ndf6 13. b5 Be6 14. bxc6 bxc6
+15. Qa4 Rac8 16. Qa6 Rf7 17. Rb2 Nd7 18. Rb7 Nc5 19. Rxc7 Nxa6 20. Rxc8+ Bxc8
+21. Bxc6 Nb4 22. Be8 1-0

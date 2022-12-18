@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Freeman"]
+[Black "Milan"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "c3d3b359"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 Nxd4 11. Qxd4 Bc6 12. Nd5 exd5 13. exd5 Bb5 14.
+c4 Rc8 15. Kb1 Bxc4 16. Re1+ Be7 17. Bxf6 Bxa2+ 18. Kxa2 Qa5+ 19. Kb3 gxf6
+20. Bd3 Kf8 21. Re3 Rg8 22. Rhe1 Rc7 23. Bf5 Rxg2 24. Rxe7 Rc5 25. Rxb7
+Qxe1 26. Be6 Rb5+ 27. Rxb5 axb5 28. Qxf6 Qd1+ 0-1
+

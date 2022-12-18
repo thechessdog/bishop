@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Friedrich, A."]
+[Black "Diepstraten, L."]
+[Result "0-1"]
+[ECO "A90"]
+[Opening "Dutch defence"]
+[Variation "Dutch-Indian (Nimzo-Dutch) variation"]
+[HashCode "e5dadf8b"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. c4 e6 3. g3 Nf6 4. Bg2 Bb4+ 5. Bd2 Qe7 6. a3 Bxd2+ 7. Qxd2 O-O
+8. Nf3 Ne4 9. Qd3 d6 10. Nc3 Nxc3 11. bxc3 Nd7 12. h4 e5 13. dxe5 dxe5 14.
+Ng5 c6 15. O-O Nc5 16. Qc2 h6 17. Nf3 f4 18. e3 Bf5 19. Qb2 Bd3 20. Rfd1 e4
+21. Nd4 fxg3 22. fxg3 a5 23. a4 Qe5 24. Kh2 Bxc4 25. Bf1 Nd3 26. Bxd3 exd3
+27. Qxb7 Rf2+ 0-1
+

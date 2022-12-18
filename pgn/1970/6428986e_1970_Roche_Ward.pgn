@@ -1,0 +1,19 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Roche, W."]
+[Black "Ward, JB."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "6428986e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. e4 exd5 8.
+exd5 O-O 9. Bd3 bxc4 10. Bxc4 Qe8+ 11. Qe2 Ne4 12. Rc1 Ba6 13. Bxa6 Nxa6
+14. f3 Nxc3 15. bxc3 Ba3 16. Rd1 c4 17. d6 g5 18. Bf2 Rb8 19. h4 Rb2 20.
+Qe4 f5 21. Qxe8 Rxe8+ 22. Kf1 Bc5 23. Bxc5 Nxc5 24. hxg5 Nd3 25. Nh3 hxg5
+26. Rh2 Rbe2 0-1
+

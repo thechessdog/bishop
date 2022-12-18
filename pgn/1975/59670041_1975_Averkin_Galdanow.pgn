@@ -1,0 +1,19 @@
+[Event "Riazan"]
+[Site "Riazan"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Averkin, Orest N"]
+[Black "Galdanow"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "59670041"]
+[Epoch "Bishop"]
+[WhiteCountry "MDA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 d5 5. Nbd2 Be7 6. c3 Nbd7 7. Bd3 h6 8. Bf4
+O-O 9. Ne5 Qb6 10. Rb1 cxd4 11. exd4 Nxe5 12. dxe5 Nd7 13. Qg4 f5 14. Qg3 Nc5
+15. Bc2 Kh7 16. h4 Bd7 17. Qe3 Qa6 18. Nb3 Rac8 19. Nd4 Bb5 20. Rd1 Na4 21. g4
+Bc5 22. gxf5 exf5 23. Rg1 Bxd4 24. Rxd4 Nxb2 25. e6 Nc4 26. Rxc4 Rxc4 27. Be5
+g5 28. Rxg5 Rf6 29. Bxf6 1-0

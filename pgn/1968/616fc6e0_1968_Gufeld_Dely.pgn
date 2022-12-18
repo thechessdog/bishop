@@ -1,0 +1,20 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gufeld, Eduard"]
+[Black "Dely, Peter"]
+[Result "1/2-1/2"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "616fc6e0"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. b4 Bf8 14. Bb2 a5 15. a3
+Qb8 16. dxe5 dxe5 17. Nb3 axb4 18. cxb4 c5 19. bxc5 Nxc5 20. Nxc5 Bxc5 21. Bd3
+Bc6 22. Rc1 Nd7 23. Qb3 b4 24. axb4 Ba4 25. Qc4 Bxb4 26. Bc3 Bxc3 27. Qxc3 Rc8
+28. Qxc8+ Qxc8 29. Rxc8+ Rxc8 30. Ra1 Bc6 31. Rc1 Bb7 32. Rxc8+ Bxc8 1/2-1/2

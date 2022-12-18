@@ -1,0 +1,21 @@
+[Event "Hahn"]
+[Site "Hahn"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Moore, B."]
+[Black "Hopkins"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "50ebd441"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nc6 4. Nf3 e6 5. cxd4 Nf6 6. Nc3 Bb4 7. Bd3 d5 8.
+e5 Ne4 9. Qc2 f5 10. O-O Bxc3 11. bxc3 O-O 12. a4 a6 13. Ba3 Rf7 14. Rfc1
+Qb6 15. Ne1 Bd7 16. Rab1 Qa7 17. f3 Nxd4 18. cxd4 Qxd4+ 19. Kf1 g6 20. Bb2
+Qxa4 21. Qxa4 Bxa4 22. Ke2 Raf8 23. Ba3 Rd8 24. fxe4 fxe4 25. Bc2 Bb5+ 26.
+Ke3 d4+ 27. Kxe4 Bc6+ 28. Kd3 Bb5+ 29. Rxb5 axb5 30. Bb3 Ra8 31. Bd6 Rf4
+32. Bxe6+ Kg7 33. Rc7+ Kh6 34. Nf3 Ra4 35. Bg8 g5 36. e6 b4 37. Bxf4 gxf4
+38. e7 Ra3+ 39. Kxd4 Re3 40. Ne5 b3 41. e8=Q 1-0
+

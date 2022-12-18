@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Grigorian, Karen Ashotovich"]
+[Black "Dorfman, Iossif"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "e55b40ab"]
+[Epoch "Bishop"]
+[BlackID "604011"]
+[WhiteCountry "ARM"]
+[BlackCountry "FRA"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Nbd2 Nc6 7. a3 Bxd2+
+8. Qxd2 Qf6 9. O-O Nge7 10. b4 Be6 11. Bd3 a6 12. Bb2 O-O 13. Rac1 Bg4 14. Ne1
+Rad8 15. f4 Qh6 16. a4 Rd7 17. b5 axb5 18. axb5 Ne5 19. Qf2 Nxd3 20. Nxd3 Qh5
+21. f5 g5 22. Qg3 Be2 23. Nf4 Qg4 24. Nxe2 Qxe2 25. Qxg5+ Kh8 26. Qf6+ Kg8 27.
+Bxd4 Rxd4 28. Qxd4 Qxb5 29. Rxc7 Nc6 30. Qe3 1-0

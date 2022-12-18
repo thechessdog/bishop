@@ -1,0 +1,22 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1970.08.01"]
+[Round "11"]
+[White "Filipowicz, Andrzej"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B34"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation"]
+[HashCode "ffc5d1da"]
+[Epoch "Bishop"]
+[WhiteID "1100491"]
+[WhiteCountry "POL"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Nde2 d6 7. h3 Nf6 8. g3
+O-O 9. Bg2 Bd7 10. O-O Rb8 11. a4 a6 12. g4 b5 13. axb5 axb5 14. g5 Nh5 15. f4
+Be6 16. Rf2 Qb6 17. Bf3 f6 18. Nd5 Bxd5 19. Qxd5+ Kh8 20. Bxh5 gxh5 21. Ra3
+fxg5 22. Be3 Qb7 23. Rg2 Nb4 24. Qxg5 Bf6 25. Qxh5 Nxc2 26. e5 Rg8 27. Ng3 Ne1
+28. Re2 Rxg3+ 29. Kf2 Qh1 0-1

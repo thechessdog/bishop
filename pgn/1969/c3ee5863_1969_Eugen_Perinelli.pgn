@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Eugen"]
+[Black "Perinelli"]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "c3ee5863"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 cxd4 9. exd4 dxc4 10. Bxc4 Be7 11. Re1 b6 12. d5 Na5 13. Ba2 Nxd5 14.
+Nxd5 exd5 15. Bxd5 Bb7 16. Bxb7 Nxb7 17. b4 Bf6 18. Ra2 Qxd1 19. Rxd1 Rad8
+20. Rad2 Rxd2 21. Bxd2 Rd8 22. Rb1 Rd3 23. a4 Kf8 24. Kf1 Nd6 25. Bf4 b5
+26. Ke2 Rd5 27. Bxd6+ Rxd6 28. axb5 Bd8 29. Nd2 Rd5 30. b6 Bxb6 31. Nc4 Bc7
+32. b5 Rd7 33. Rb3 Rd5 1/2-1/2
+

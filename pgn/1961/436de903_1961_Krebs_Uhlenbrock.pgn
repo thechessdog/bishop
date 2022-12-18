@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Krebs, H."]
+[Black "Uhlenbrock, E."]
+[Result "1-0"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "436de903"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. a3 Be7 8.
+O-O O-O 9. Ba2 a6 10. Be3 Bd7 11. Qe2 Nxd4 12. Bxd4 Bc6 13. f4 d5 14. Rad1
+dxe4 15. f5 e5 16. Be3 Qa5 17. g4 Bc5 18. h3 h6 19. Kh2 Qb6 20. Bxc5 Qxc5
+21. g5 hxg5 22. Rg1 Nh7 23. h4 Rad8 24. hxg5 Rxd1 25. Nxd1 Bd5 26. Bxd5
+Qxd5 27. Nc3 Qd4 28. Nxe4 Rd8 29. c3 Qd3 30. Qg4 Nf8 31. Rg2 Qe3 32. Re2
+Qc1 33. Qg3 Rd1 34. Qxe5 Rh1+ 35. Kg3 Rg1+ 36. Kf3 Qf1+ 37. Ke3 Qc1+ 38.
+Kd3 Qb1+ 39. Kc4 b5+ 40. Kb4 Qd3 41. Rd2 Qc4+ 42. Ka5 Rg2 43. Rd8 1-0
+

@@ -1,0 +1,18 @@
+[Event "Ascherleben ch-DDR"]
+[Site "Ascherleben ch-DDR"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Pietzsch"]
+[Black "Muhring"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "305cceed"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 c5 6. d5 d6 7. Bd3 e6 8. Nge2
+exd5 9. exd5 Re8 10. O-O Nbd7 11. Ng3 Ne5 12. Be2 h5 13. Bg5 Qb6 14. h3 Nh7
+15. Bc1 f5 16. Bd3 a6 17. Nge2 Qd8 18. Kh2 b6 19. a3 Ra7 20. b3 Nxd3 21.
+Qxd3 Rxe2 0-1
+

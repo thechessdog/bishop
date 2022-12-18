@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Nikolic, Vasilije"]
+[Black "Mihevic, Ivo"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "9dedee39"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qh5 g6 13. Qh4 h5 14.
+Kb1 Nc6 15. Nxc6 Bxc6 16. Ne4 Bxe4 17. Qxe4 Rc8 18. Bf6 Nxf6 19. exf6 Bd6
+20. Bd3 Bxh2 21. Rdf1 Bg3 22. Rh3 g5 23. a4 Rb8 24. axb5 axb5 25. Rxg3 Qxg3
+26. Qb4 Kd8 27. Bxb5 Rb7 28. Rd1+ Kc8 29. Rd3 Qxg2 30. Rc3+ Rc7 31. Ba6+
+Kd7 32. Qe7# 1-0
+

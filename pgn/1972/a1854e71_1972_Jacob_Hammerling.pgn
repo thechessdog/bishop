@@ -1,0 +1,18 @@
+[Event "corr DDR-PV"]
+[Site "corr DDR-PV"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Jacob, P."]
+[Black "Hammerling, G."]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "a1854e71"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Nc6 9. Bg5 Na5 10. Bb3 b6 11. Qd3 Qd7 12. O-O Bb7 13. f3 e6 14. Rfd1
+Nxb3 15. axb3 a5 16. c4 c5 17. Ra2 f6 18. Be3 Rfd8 19. Rad2 Bf8 20. dxc5
+Qxd3 21. Rxd3 Rxd3 22. Rxd3 bxc5 1/2-1/2
+

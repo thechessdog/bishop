@@ -1,0 +1,18 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hertel"]
+[Black "Dorawa"]
+[Result "0-1"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, Benko variation"]
+[HashCode "0ac15c3e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Ne2 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Nxc6
+bxc6 8. O-O g6 9. Bb3 Bg7 10. Be3 Qa5 11. f3 O-O 12. Qd2 Ba6 13. Rfe1 Qc7
+14. Bh6 Rab8 15. Bxg7 Kxg7 16. Rab1 Rb7 17. f4 Rd8 18. Kh1 Qa5 19. e5 dxe5
+20. fxe5 Rxd2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Kapu, Jeno"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "c4262a26"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Be7 7. Be3 a6 8. Be2
+Qc7 9. O-O Nc6 10. Qe1 Nxd4 11. Bxd4 b5 12. Qg3 b4 13. e5 dxe5 14. fxe5 bxc3
+15. Qxg7 Rf8 16. exf6 Bc5 17. bxc3 Bxd4+ 18. cxd4 Qxc2 19. Bf3 Rb8 20. Rfe1 Bd7
+21. d5 Rb6 22. Rac1 Qxa2 23. dxe6 Rxe6 24. Bg4 1-0

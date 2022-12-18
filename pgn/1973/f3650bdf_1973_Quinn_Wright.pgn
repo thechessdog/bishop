@@ -1,0 +1,20 @@
+[Event "Eastborne ch-BCF"]
+[Site "Eastborne ch-BCF"]
+[Date "1973.08.01"]
+[Round "9"]
+[White "Quinn, John M"]
+[Black "Wright, Daniel"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "f3650bdf"]
+[Epoch "Bishop"]
+[WhiteID "405043"]
+[WhiteCountry "ENG"]
+[BlackID "402397"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. Ng3
+d5 9. Be3 Nc6 10. Be2 dxc4 11. Bxc4 b6 12. O-O Bb7 13. Qd3 Qd7 14. Rac1 Rfd8
+15. Rfd1 Rac8 16. Qe2 Nb8 17. Bd3 g6 1/2-1/2

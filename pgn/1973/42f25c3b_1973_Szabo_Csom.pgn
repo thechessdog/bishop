@@ -1,0 +1,24 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Csom, Istvan"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "42f25c3b"]
+[Epoch "Bishop"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+[WhiteID "710741"]
+[WhiteCountry "HUN"]
+
+1. c4 e6 2. d4 Nf6 3. Nc3 Bb4 4. f3 c5 5. d5 Bxc3+ 6. bxc3 Nh5 7. g3 f5 8. e4
+f4 9. Bxf4 Nxf4 10. gxf4 Qh4+ 11. Ke2 Qxf4 12. Nh3 Qf6 13. Rg1 d6 14. Rg3 Nd7
+15. Kd2 Nf8 16. f4 exd5 17. Qh5+ g6 18. Qxd5 Nd7 19. e5 dxe5 20. Re1 Rf8 21.
+Rge3 a5 22. Ng5 Ra6 23. Rxe5+ Kd8 24. Kc2 Qxf4 25. Ne6+ Rxe6 26. Rxe6 Qxh2+ 27.
+R1e2 Rf2 28. Bg2 Rxe2+ 29. Rxe2 Kc7 30. Bf3 Qf4 31. Re7 h5 32. Rg7 Qh2+ 33. Kb3
+Qg1 34. Be4 a4+ 35. Kxa4 Qf2 36. Kb3 h4 37. Rxg6 Qf4 38. Rg7 Qf2 39. Qe5+ Kb6
+40. Qd6+ Ka7 41. Rxd7 1-0

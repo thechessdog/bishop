@@ -1,0 +1,16 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Cappello"]
+[Black "Lucidi"]
+[Result "1-0"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "a1b7ef2d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qa5 9. Nxd4 Nxd4 10. Qxd4 f5 11. Bh6 Kf7 12. Nxe4 fxe4 13. Rxe4
+Qb6 14. Rf4+ Kg6 15. Qe5 1-0
+

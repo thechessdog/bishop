@@ -1,0 +1,23 @@
+[Event "Halle zt"]
+[Site "Halle zt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Minev, Nikolay Nikolaev"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "2f2fc9db"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nbd7 9. Qf3 Qc7 10. O-O-O b5 11. a3 Bb7 12. g4 Be7 13. Bxf6 Nxf6 14. g5 Nd7 15.
+Rg1 g6 16. Qh3 Nc5 17. Nd2 Rc8 18. Bd3 d5 19. exd5 Nxd3+ 20. Qxd3 exd5 21. f5
+O-O 22. Rg3 b4 23. axb4 Bxb4 24. Ne2 d4 25. Nxd4 Rfd8 26. N2b3 a5 27. Kb1 a4
+28. Nc1 a3 29. fxg6 hxg6 30. bxa3 Bc3 31. Ncb3 Qe7 32. Qb5 Be4 33. Qe2 Bxd4 34.
+Rxd4 Bxc2+ 35. Qxc2 Rxc2 36. Rxd8+ Qxd8 37. Kxc2 Qe7 38. Nd2 Qc5+ 39. Kd1 Qg1+
+40. Rxg1 1-0

@@ -1,0 +1,25 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1955.01.01"]
+[Round "2"]
+[White "Darga, Klaus"]
+[Black "Pfeiffer, Gerhard"]
+[Result "1-0"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "e0d2ec6f"]
+[Epoch "Bishop"]
+[WhiteID "4600150"]
+[WhiteCountry "GER"]
+[BlackID "1649027"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 c5 8.
+cxd5 exd5 9. Ne2 b6 10. O-O Ba6 11. Bxa6 Nxa6 12. Qd3 c4 13. Qc2 Nb8 14. f3 Re8
+15. Ng3 Nc6 16. Bd2 Na5 17. e4 Nb3 18. Rae1 Nxd2 19. Qxd2 g6 20. Qh6 Qe7 21.
+Qg5 h6 22. Qxh6 Qxa3 23. e5 Nh7 24. Qd2 Qf8 25. f4 Qh6 26. Qb2 f5 27. Qb5 Rad8
+28. Qc6 Qg7 29. Rf3 Qf7 30. Ra1 Nf8 31. Nf1 Ne6 32. Qa4 Re7 33. Ne3 Rb7 34. g4
+b5 35. Qc2 Ng7 36. Ra6 Rb6 37. Qa2 b4 38. cxb4 Ne6 39. Rxa7 Rb7 40. Rxb7 Qxb7
+41. gxf5 Nxd4 42. Rg3 Ra8 43. Qf2 c3 44. Rxg6+ Kf8 45. Rf6+ Ke8 46. Qg2 Ra1+
+47. Nf1 Qh7 48. Rb6 Rxf1+ 49. Kxf1 c2 50. Rb8+ 1-0

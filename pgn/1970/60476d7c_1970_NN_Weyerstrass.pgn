@@ -1,0 +1,18 @@
+[Event "Woerden-Laren jr"]
+[Site "Woerden-Laren jr"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "60476d7c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qd4 6. Qh5 g6 7. c3 Qxe4+ 8.
+Qe2 Qxe2+ 9. Kxe2 f6 10. Nf3 Bg4 11. h3 Bxf3+ 12. gxf3 O-O-O 13. Kd1 Bc5 14. d4
+Ne7 15. Bd2 Bb6 16. Re1 Nf5 17. Re6 Rhf8 18. Be3 c5 19. Nd2 cxd4 20. cxd4 Bxd4
+21. Bxd4 Nxd4 22. Re4 Nxf3 23. Re2 Rxd2+ 24. Rxd2 Nxd2 25. Kxd2 Rd8+ 26. Kc3 b6
+27. a4 Rd5 28. Kc4 Rd2 29. b4 Rxf2 30. b5 axb5+ 31. Kxb5 Rf5+ 32. Kc6 Rc5# 0-1

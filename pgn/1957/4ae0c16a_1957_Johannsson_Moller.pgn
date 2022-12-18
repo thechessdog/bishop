@@ -1,0 +1,20 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Johannsson, Ingi Randver"]
+[Black "Moller, Per"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "4ae0c16a"]
+[Epoch "Bishop"]
+[BlackID "1421840"]
+[BlackCountry "DEN"]
+[WhiteCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O b5 10. a3 Bb7 11. g4 O-O 12. Bd3 Nc6 13. Nxc6 Bxc6 14. Rhe1 Rfb8
+15. Qh3 e5 16. Nd5 Bxd5 17. exd5 h6 18. Bxf6 Bxf6 19. g5 hxg5 20. fxe5 Bxe5 21.
+Rxe5 dxe5 22. d6 1-0

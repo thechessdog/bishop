@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Renne"]
+[Black "Vespa"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "81469ab4"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. Qg4 Qc7
+8. Qxg7 cxd4 9. Qxh8 O-O-O 10. Ne2 dxc3 11. b3 Ngf6 12. Qg7 Rg8 13. Qh6 Rg6
+14. Qf4 Rg4 15. Qf3 Qxe5 16. O-O d4 17. Ng3 Rh4 18. h3 Bd6 19. Rd1 Nc5 20.
+Kf1 Nfe4 21. Re1 f5 22. a4 a5 23. Kg1 Qg7 24. Ne2 Nd7 25. Rd1 Ne5 0-1
+

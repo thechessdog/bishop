@@ -1,0 +1,21 @@
+[Event "Whitby ch-BCF"]
+[Site "Whitby ch-BCF"]
+[Date "1962.08.01"]
+[Round "6"]
+[White "Thomas, Andrew Rowland Benedick"]
+[Black "Littlewood, John Eric"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "c88ed9f4"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Be2 c5 7. d5 e6 8. dxe6
+Bxe6 9. O-O Nc6 10. f5 gxf5 11. Bg5 fxe4 12. Nxe4 d5 13. Nxf6+ Bxf6 14. h4 Kh8
+15. Bd3 Bg4 16. Qd2 c4 17. Bxh7 Bxf3 18. Rxf3 Bxg5 19. hxg5 Kxh7 20. g6+ Kg7
+21. gxf7 Rxf7 22. Rxf7+ Kxf7 23. Rf1+ Ke7 24. Qg5+ Kd6 25. Rf6+ Kc5 26. Qe3+
+Kb5 27. a4+ Kxa4 28. b3+ Kb4 29. c3+ Kb5 30. bxc4+ dxc4 31. Rf1 Qd3 32. Qf2 a5
+33. Qb2+ Ka6 34. Rf7 Qe3+ 35. Kf1 b6 36. Rf6 Rh8 37. Rxc6 Rh1# 0-1

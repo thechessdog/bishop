@@ -1,0 +1,19 @@
+[Event "Oberlin ch-USA"]
+[Site "Oberlin ch-USA"]
+[Date "1975.01.01"]
+[Round "13"]
+[White "Tarjan, James"]
+[Black "Grefe, John Alan"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "5710cabb"]
+[Epoch "Bishop"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 h5 7. h4 Bxc3+ 8. bxc3
+d5 9. Qf3 Qd7 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 O-O 13. Bd3 f5 14. Qe2 Nc6 15.
+Ba3 Rfe8 16. f4 Na5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Wade, Robert Graham"]
+[Black "Karaklajic, Nikola"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "87e76e2a"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. c3 c5 7. Na3 Ne7 8. d4
+cxd4 9. cxd4 exd4 10. e5 Bg4 11. exf6 gxf6 12. Qxd4 Bxf3 13. Qxf6 Bxg2 14. Qxh8
+Bxf1 15. Bh6 Qd5 16. Rxf1 O-O-O 17. Bxf8 Ng6 18. Qg7 Rxf8 19. f3 Rg8 20. Qf6
+Nf4+ 0-1

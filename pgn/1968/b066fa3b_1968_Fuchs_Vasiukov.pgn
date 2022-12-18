@@ -1,0 +1,25 @@
+[Event "Lasker mem"]
+[Site "Berlin-Ost"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Fuchs, Reinhart"]
+[Black "Vasiukov, Evgeni"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "b066fa3b"]
+[Epoch "Bishop"]
+[WhiteID "4611357"]
+[WhiteCountry "GER"]
+[BlackID "4100522"]
+[BlackCountry "RUS"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Qe2 Qa5 6. Qd2 Nbd7 7. Nf3 Bg7 8. Bd3
+h6 9. Be3 Ng4 10. Bf4 e5 11. dxe5 dxe5 12. Bg3 Ngf6 13. O-O Nh5 14. Kh1 Qc5 15.
+Qe2 O-O 16. Nd2 Nf4 17. Qf3 Ne6 18. Nb3 Qe7 19. Qe3 a5 20. a4 Nd4 21. Nb1 Nxb3
+22. cxb3 Nc5 23. Bc4 Be6 24. Nd2 Rfd8 25. Rad1 Kh7 26. Bxe6 Rd3 27. Bh4 f6 28.
+Qe2 Qxe6 29. f4 Rad8 30. f5 gxf5 31. exf5 Qd5 32. Qh5 Rd6 33. Qg6+ Kh8 34. Bf2
+Nd7 35. Be1 Nf8 36. Qh5 e4 37. Rc1 Rxd2 38. Bxd2 Qxd2 39. Rcd1 Qb4 40. Rxd6
+Qxd6 41. Re1 Qd5 42. Qg4 Qxb3 43. Rxe4 Qxb2 44. h4 Qa1+ 45. Kh2 Qa3 46. Qf4 Qc5
+47. Re8 b5 48. g3 bxa4 49. Rc8 a3 50. Qg4 Qb4 0-1

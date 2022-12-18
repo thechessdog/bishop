@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Osterling, G."]
+[Black "Bjuhr, A."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "b1d27667"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O h6 7. Bxf6
+Nxf6 8. e4 dxe4 9. Qf4 e6 10. fxe4 Bg6 11. g4 Bb4 12. Nge2 O-O 13. h4 h5
+14. Bh3 Qa5 15. Rhg1 c5 16. gxh5 Nxh5 17. Qf3 cxd4 18. Rg5 e5 19. Nd5 Rfe8
+20. Rxh5 Bxh5 21. Qxh5 Rad8 22. Rf1 g6 23. Nf6+ Kf8 24. Qh8+ Ke7 25. Ng8+
+Kd6 26. Rxf7 Kc5 27. Kb1 d3 28. cxd3 Qb5 29. Nc1 Ba3 30. Nb3+ Kb4 31. Bf1
+Rxd3 32. Nc1 Red8 33. Bxd3 Rxd3 34. Qxe5 1-0
+

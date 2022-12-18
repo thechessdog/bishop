@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Engel, H."]
+[Black "Weinitschke, G."]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Trifunovic variation"]
+[HashCode "648c6810"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Bxe5
+8. dxe5 Nc6 9. cxd5 Qxd5 10. Qf3 f5 11. exf6 Nxf6 12. Qxd5+ Nxd5 13. Bc4
+Be6 14. Nc3 Nf4 1/2-1/2
+

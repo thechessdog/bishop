@@ -1,0 +1,19 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1969.03.01"]
+[Round "1"]
+[White "Damjanovic, Mato"]
+[Black "Lutikov, Anatoly S"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "befe7eeb"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Ne3 Nc5 11. Nf5 g6 12. Nxe7+ Qxe7 13. Be3 Rd8 14. Nd2
+Ne6 15. f4 exf4 16. Bxf4 Nxf4 17. Rxf4 Qe5 18. Rf2 Qxb2 19. Rb1 Qc3 20. Qf3 Rf8
+21. Qg3 Rf7 22. Nf3 b5 23. h4 Be6 24. h5 g5 25. h6 Qc5 26. d4 Qf8 27. Nxg5 fxg5
+28. Qxg5+ Kh8 29. Qe5+ Kg8 30. Qxe6 Re8 31. Qb3 Rxe4 32. Rbf1 1/2-1/2

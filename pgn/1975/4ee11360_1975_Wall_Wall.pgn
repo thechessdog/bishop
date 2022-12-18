@@ -1,0 +1,16 @@
+[Event "Greenville"]
+[Site "Greenville"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Wall, Jerry"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "4ee11360"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. g4 d5 2. Bg2 Nf6 3. g5 Ne4 4. d3 Nc5 5. Nf3 Nbd7 6. Nc3 e6 7. h4 f6 8. Bf4
+Be7 9. Qd2 b6 10. O-O-O O-O 11. Nb5 e5 12. Nxe5 fxe5 13. Bxd5+ Kh8 14. Bxa8
+Rxf4 15. Nxa7 Bb7 16. Bxb7 Nxb7 17. Nc6 Qe8 18. Nxe5 Nxe5 19. Qxf4 1-0

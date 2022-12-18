@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Yudovich, Mikhail"]
+[Black "Polugaevsky, Lev"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "1f0dfe8a"]
+[Epoch "Bishop"]
+[BlackCountry "BLR"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Bf4 Nc6 13. Nxc6 Qxc6 14. Qd3
+Nc5 15. Qe3 Be7 16. Be2 O-O 17. Bf3 Qc7 18. Rd2 Rac8 19. Rhd1 b4 20. Ne4 Bxe4
+21. Bxe4 a5 22. Bf3 a4 23. Kb1 Qa5 24. Bg5 Bxg5 25. Qxg5 b3 26. a3 bxc2+ 27.
+Rxc2 Nb3 28. Rxc8 Rxc8 29. Be4 f6 30. Qh4 f5 31. Bc2 Nd2+ 32. Kc1 Nc4 33. Qd4
+Qc7 34. Qd7 Ne3 35. Qxc7 Rxc7 36. Rd2 Rc5 37. Kb1 Nxc2 38. Rxc2 Rxe5 39. Rc4
+Re2 40. Rxa4 Rxg2 41. Rc4 e5 42. Rc5 Re2 0-1

@@ -1,0 +1,22 @@
+[Event "FRG-ch"]
+[Site "Bad Pyrmont"]
+[Date "1963.10.29"]
+[Round "10"]
+[White "Bialas, Wolfram"]
+[Black "Besser, Hans"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "9e99bf04"]
+[Epoch "Bishop"]
+[WhiteID "4601041"]
+[BlackID "4601033"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Nd7 6. cxd5 cxd5 7. a3 Ne7 8. Bg5
+f6 9. exf6 gxf6 10. Be3 Bg6 11. Nge2 Nf5 12. Nf4 Bf7 13. Bd3 Nxe3 14. fxe3 Bd6
+15. O-O f5 16. Nxe6 Bxe6 17. Qh5+ Bf7 18. Qxf5 Qe7 19. Bb5 Bg6 20. Qh3 O-O-O
+21. Nxd5 Qg7 22. Qe6 Bf8 23. Nf6 Kb8 24. Nxd7+ Ka8 25. Bc6 a6 26. Bxb7+ Kxb7
+27. Qb6+ Kc8 28. Qc6# 1-0

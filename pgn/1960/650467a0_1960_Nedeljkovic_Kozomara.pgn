@@ -1,0 +1,17 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Nedeljkovic"]
+[Black "Kozomara, Vladimir"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "650467a0"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 5. Be2 e6 6. c3 Nd7 7. h3 Bh5 8. Qb3
+Bd6 9. Qxb7 O-O 10. O-O Rb8 11. Qa6 Rb6 12. Qc4 Qa8 13. Ne5 Bxe5 14. Bxh5 Bf4
+15. Bxf4 Nxf4 16. Bf3 Qd8 17. b4 e5 18. Rd1 Qg5 19. Kf1 e4 20. Bxe4 Re8 21. Bf3
+Rg6 22. g3 Qf5 23. g4 Nxh3 0-1

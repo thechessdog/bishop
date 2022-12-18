@@ -1,0 +1,30 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pinter, Jozsef"]
+[Black "Petran, Pal"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "d5f96ad5"]
+[Epoch "Bishop"]
+[WhiteID "700045"]
+[WhiteCountry "HUN"]
+[BlackID "700304"]
+[BlackCountry "HUN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 c6 7. O-O Qb6 8. Kh1
+Bg4 9. e5 Ne8 10. Be3 Nd7 11. Qe1 Qd8 12. Ne4 c5 13. Qg3 Bxf3 14. Rxf3 cxd4 15.
+Bxd4 dxe5 16. fxe5 Qc7 17. Ng5 Nxe5 18. Qh3 h6 19. Ne6 Qd6 20. Bxe5 Qxe6 21.
+Qxe6 fxe6 22. Rxf8+ Kxf8 23. Rf1+ Kg8 24. Bg3 Nd6 25. Bxg6 Bxb2 26. Re1 Nf5 27.
+Bf2 Bd4 28. Bxf5 Bxf2 29. Rxe6 Rd8 30. Bd3 Rd6 31. Rxe7 b5 32. g3 b4 33. Bc4+
+Kh8 34. Bd3 Bb6 35. Kg2 Kg8 36. Kf3 Kf8 37. Rb7 Rf6+ 38. Kg4 Rf2 39. h4 Rf7 40.
+Rb8+ Kg7 41. Bc4 Rc7 42. Bb3 Rc3 43. Rb7+ Kg6 44. h5+ Kf6 45. Rf7+ Ke5 46. Rf5+
+Kd4 47. Rf4+ Kc5 48. Rf6 Bc7 49. Rxh6 Rxg3+ 50. Kf5 Rf3+ 51. Ke6 Rh3 52. Rh7
+Bb6 53. Rh8 Kb5 54. Kd5 Rh4 55. h6 Rh5+ 56. Ke4 Rh4+ 57. Kf5 Bd4 58. Rb8+ Ka5
+59. Kg6 Rh2 60. Rd8 Rg2+ 61. Kh7 Bc3 62. Rg8 Rh2 63. Rg6 Kb5 64. Kg8 a5 65. h7
+Bb2 66. c4+ Kc5 67. Rg5+ Kb6 68. c5+ Kc7 69. Bd5 Rh3 70. Rf5 Rg3+ 71. Kf8 Kd8
+72. Rh5 Bh8 73. Be4 Rg4 74. Bc6 Kc7 75. Bb5 Rg2 76. Bc4 a4 77. Bd5 Rg4 78. Rf5
+Rg7 79. Rf7+ Rxf7+ 80. Kxf7 b3 81. Bxb3 1-0

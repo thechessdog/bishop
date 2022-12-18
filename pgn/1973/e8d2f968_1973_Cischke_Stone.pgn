@@ -1,0 +1,18 @@
+[Event "Michigan"]
+[Site "Michigan"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Cischke"]
+[Black "Stone, Raymond"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "e8d2f968"]
+[Epoch "Bishop"]
+[BlackID "2600285"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Qa5 10. Kb1 Nxd4 11. Qxd4 e5 12. fxe5 dxe5 13. Qf2 Be6 14. Bd3
+Rac8 15. Qg3 Rxc3 16. bxc3 Bxa2+ 17. Kc1 Qxc3 0-1

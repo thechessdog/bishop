@@ -1,0 +1,21 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Scanavino, Eduardo"]
+[Black "Sanguinetti, Raul"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "c964a97c"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nbd7 7. O-O c6 8. a3
+dxc4 9. Bxc4 Bd6 10. e4 e5 11. Re1 exd4 12. Qxd4 Bc5 13. Qd1 Ng4 14. Rf1 Nde5
+15. Nxe5 Nxe5 16. Qxd8 Rxd8 17. Bg5 Re8 18. Be2 f6 19. Bf4 Bg4 20. Bxg4 Nxg4
+21. Rad1 Rad8 22. Rxd8 Rxd8 23. h3 Ne5 24. Rd1 Nd3 25. Kf1 Bb6 26. Bc1 Nxc1 27.
+Rxc1 Rd2 28. Nd1 Ba5 29. b4 Bb6 30. Ke1 Rd3 31. Ra1 c5 32. b5 Rd4 33. Ne3 Rxe4
+34. Rc1 Kf7 35. Rc4 Rd4 36. Rxd4 cxd4 37. Nc4 Ke6 38. Kd2 Kd5 39. Kd3 Kc5 40.
+a4 Bc7 0-1

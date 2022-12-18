@@ -1,0 +1,19 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kausek"]
+[Black "Sojka"]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "495c78c2"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8.
+d5 a5 9. Ne1 Nc5 10. Qc2 Ne8 11. Be3 b6 12. Rd1 f5 13. exf5 Bxf5 14. Qc1
+Nf6 15. f3 e4 16. Nb5 exf3 17. Nxf3 Ng4 18. Bg5 Qd7 19. Nfd4 Rae8 20. b3 h6
+21. Bf4 g5 22. Bd2 Rxe2 23. Rxf5 Rxg2+ 24. Kxg2 Rxf5 25. Rf1 Rf2+ 26. Rxf2
+Nxf2 27. Ne6 Nfd3 28. Qd1 c6 0-1
+

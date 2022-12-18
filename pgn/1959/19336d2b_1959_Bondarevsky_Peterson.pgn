@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Bondarevsky, Igor"]
+[Black "Peterson"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "19336d2b"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 c5 2. e4 cxd4 3. Nf3 e5 4. c3 dxc3 5. Nxc3 d6 6. Bc4 Nc6 7. Ng5 Nh6 8.
+O-O Bg4 9. Bxf7+ Nxf7 10. Qxg4 Nxg5 11. Bxg5 Be7 12. Bxe7 Qxe7 13. Nd5 Qd7 14.
+Qh5+ g6 15. Qh4 Qd8 16. Qh6 Qa5 17. b4 Nxb4 18. Qg7 O-O-O 19. Rab1 1-0

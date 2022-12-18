@@ -1,0 +1,18 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Franz, Joachim"]
+[Black "Tolush, Alexander"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "ba78aaea"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Bc4 e6 5. O-O Ne7 6. Nc3 O-O 7. Re1 a6 8. a3 b5
+9. Ba2 Bb7 10. Bg5 h6 11. Bh4 Nd7 12. Qd2 Nb6 13. Rad1 Qd7 14. h3 Rae8 15. Bg3
+Kh7 16. Qd3 f5 17. exf5 Nxf5 18. Nh4 Nxh4 19. Bxh4 Rf4 20. Qg3 Rxd4 21. Rxd4
+Bxd4 22. Ne4 Qf7 23. Qd3 Bg7 24. Re3 Nd7 25. c3 d5 26. Rf3 Qg8 27. Nf6+ Bxf6
+28. Bxf6 e5 29. Qe2 e4 30. Rf4 Rf8 0-1

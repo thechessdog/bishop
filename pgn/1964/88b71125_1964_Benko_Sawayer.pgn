@@ -1,0 +1,17 @@
+[Event "New York simul"]
+[Site "New York simul"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Benko, Pal"]
+[Black "Sawayer"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "88b71125"]
+[Epoch "Bishop"]
+[WhiteID "2000687"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. c3 a6 5. Bc4 h6 6. d4 d6 7. Qb3 Na5 8. Bxf7+
+Kd7 9. Nxe5+ dxe5 10. Qe6# 1-0

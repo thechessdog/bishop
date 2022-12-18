@@ -1,0 +1,16 @@
+[Event "BSG rapid"]
+[Site "BSG rapid"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Wieringa"]
+[Result "1-0"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "89c3f79a"]
+[Epoch "Bishop"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. d3 d6 6. Nf3 Nh6 7. h4 Nf5 8. h5 O-O
+9. Bd2 Nfd4 10. Qc1 Re8 11. hxg6 hxg6 12. Bh6 Bh8 13. Bf8 e6 14. Rxh8+ Kxh8 15.
+Qh6+ Kg8 16. Qg7# 1-0

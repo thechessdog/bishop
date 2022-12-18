@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kalatozashvili"]
+[Black "Kupreichik"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "c304039f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Bxc3+ 6. bxc3 d6 7. Nf3 Nc6
+8. e4 e5 9. d5 Ne7 10. O-O Ng6 11. Ne1 Qe7 12. Bc2 O-O 13. f3 b6 14. Rf2
+Ne8 15. g3 f5 16. exf5 Bxf5 17. Be4 Qd7 18. Qc2 Bxe4 19. Qxe4 Nf6 20. Qc2
+Rae8 21. Bg5 e4 22. Bxf6 Rxf6 23. f4 Qf5 24. Ng2 b5 25. Ne3 Qh3 26. Re1 a6
+27. Ng2 Qf5 28. Rfe2 bxc4 29. Rxe4 Rff8 30. Qe2 Rb8 31. Qxc4 Rb2 32. R4e2
+Rxe2 33. Qxe2 Qxd5 34. Rd1 Qb7 35. Rxd6 Qb8 36. Rxa6 Rd8 37. Re6 Qb1+ 38.
+Ne1 Nf8 39. Re7 Qc1 40. Qe5 1-0
+

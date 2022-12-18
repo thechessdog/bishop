@@ -1,0 +1,18 @@
+[Event "Illinois Open"]
+[Site "Illinois Open"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Panzner, K."]
+[Black "Martinovsky, Eugene"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed, Hort variation"]
+[HashCode "5be0eb16"]
+[Epoch "Bishop"]
+[BlackCountry "MKD"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 e5 5. e3 Nc6 6. Nge2 Be6 7. b3 Qd7 8. d4
+Bh3 9. O-O h5 10. dxe5 Bxg2 11. Kxg2 h4 12. f4 hxg3 13. hxg3 Qh3+ 14. Kf3 dxe5
+15. Ba3 Nf6 16. Rh1 e4+ 17. Nxe4 Qg4+ 18. Kg2 Nxe4 19. Rxh8+ Bxh8 20. Qd3 Bxa1
+21. Qxe4+ Qe6 0-1

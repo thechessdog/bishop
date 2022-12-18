@@ -1,0 +1,20 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Evans, Larry D."]
+[Black "Trevino"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "a3878d82"]
+[Epoch "Bishop"]
+[WhiteID "2001713"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3
+h5 9. Qh3 cxd4 10. g4 Qa5 11. Ne2 Ne7 12. gxh5 Nbc6 13. Bf4 Bd7 14. Qg4 O-O-O
+15. Qxg7 Rdg8 16. Qf6 Rxh5 17. Qxf7 Rgh8 18. Bg3 Nf5 19. Bxf5 Rxf5 20. Qg7 Rfh5
+21. O-O dxc3 22. Rfd1 Qd8 23. Rd3 Nxe5 24. Rxc3+ Bc6 25. Nf4 Rg5 26. Ng6 Nxg6
+27. Rxc6+ bxc6 28. Rb1 1-0

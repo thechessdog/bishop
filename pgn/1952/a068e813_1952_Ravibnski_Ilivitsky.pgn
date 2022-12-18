@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Ravibnski"]
+[Black "Ilivitsky"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "a068e813"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8.
+Bd3 Be7 9. O-O O-O 10. Qe1 b5 11. a3 Nbd7 12. fxe5 dxe5 13. Nh4 Bd8 14. Kh1
+Nc5 15. Bg5 Be6 16. Nf5 Nh5 17. Qh4 Nf4 18. Nxg7 Kxg7 19. Rxf4 exf4 20.
+Qh6+ Kg8 21. Bf6 Bxf6 22. e5 Nxd3 23. exf6 Nf2+ 24. Kg1 Nh3+ 25. Kf1 Bc4+
+26. Ne2 Bxe2+ 27. Ke1 1-0
+

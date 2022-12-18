@@ -1,0 +1,17 @@
+[Event "Milan tt"]
+[Site "Milan tt"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Volonte"]
+[Black "Buonocore"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "ec8a0abe"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. Bxf7+ Kxf7 6. Nxe4 d5 7. Nc3
+e4 8. Ng1 Qg5 9. g3 Bg4 10. f3 exf3 11. Nxf3 Re8+ 12. Kf2 Qf5 13. Kg2 Bh3+
+14. Kg1 Bc5+ 15. d4 Nxd4 16. Ng5+ Qxg5 17. Qf1+ Nf3# 0-1
+

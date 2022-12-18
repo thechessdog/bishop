@@ -1,0 +1,15 @@
+[Event "Detroit ch-MI op"]
+[Site "Detroit ch-MI op"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Brattin, J."]
+[Black "Marfia, James"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "9146ab12"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. h4 c5 4. d5 Qb6 5. b3 g6 6. Qd3 f5 7. Nd2 Bg7 8. O-O-O
+h6 9. Nxe4 fxe4 10. Qxe4 hxg5 11. d6 Bf6 12. Qxg6+ Kd8 13. hxg5 Rxh1 14. Qg8#
+1-0

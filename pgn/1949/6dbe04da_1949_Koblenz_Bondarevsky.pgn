@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Koblenz, A."]
+[Black "Bondarevsky, Igor"]
+[Result "1/2-1/2"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "6dbe04da"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8.
+Bxc4 c5 9. Ne2 Qc7 10. Bd3 Nc6 11. f4 b6 12. O-O Bb7 13. Ng3 Ne7 14. Qe1 Nf5
+15. e4 Nxg3 16. hxg3 Qc6 17. dxc5 Qxc5+ 18. Be3 Qc6 19. Bd4 Nxe4 20. Bxe4 Qxe4
+21. Qxe4 Bxe4 22. g4 f5 23. g5 Kf7 24. Kf2 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Edwards"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Bertin gambit"]
+[HashCode "37c953e5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. Bxf7+ Kxf7 7. Ne5+
+Ke6 8. Qg4+ Kxe5 9. O-O gxh2+ 10. Kh1 Bf6 11. d4+ Kxd4 12. Be3+ Kxe3 13. e5
+Bxe5 14. Re1+ Kf2 15. Qg2+ Kxe1 16. Nc3# 1-0
+

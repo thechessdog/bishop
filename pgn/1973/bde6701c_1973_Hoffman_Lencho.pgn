@@ -1,0 +1,16 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Hoffman, N."]
+[Black "Lencho, M."]
+[Result "0-1"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, 4...c5, 5.dc Nc6"]
+[HashCode "bde6701c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. a3 Nd4 7. Qa4 Bxc3+
+8. bxc3 Nc6 9. Bg5 h6 10. Bh4 g5 11. Bg3 Ne4 12. Bd6 Qf6 0-1
+

@@ -1,0 +1,21 @@
+[Event "Hjoerring"]
+[Site "Hjoerring"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Rosenlund, Thorbjorn"]
+[Black "Vestergaard, Bent"]
+[Result "1-0"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "bf0d7501"]
+[Epoch "Bishop"]
+[BlackID "1409034"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Bg2 g6 7. Nf3 Bg7 8. O-O
+O-O 9. Nc3 a6 10. a4 Nbd7 11. Nd2 Re8 12. h3 Qe7 13. Nc4 Ne5 14. Nb6 Rb8 15. f4
+Ned7 16. Nc4 b5 17. axb5 axb5 18. Na5 Rb6 19. Nc6 Qf8 20. e4 Nb8 21. e5 Nfd7
+22. exd6 Qxd6 23. Ne4 Qf8 24. f5 Nxc6 25. dxc6 Rxc6 26. Ra7 Bd4+ 27. Kh2 Ne5
+28. fxg6 hxg6 29. Bg5 Nc4 30. Qf3 Bf5 31. Nc3 Ne5 32. Qf4 Rce6 33. Qh4 Nd3 34.
+Nd5 Qd6 35. Ne7+ R8xe7 36. Bxe7 1-0

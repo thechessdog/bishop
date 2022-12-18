@@ -1,0 +1,20 @@
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Planinc, Albin"]
+[Black "Lutikov, Anatoly S"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "2ca63415"]
+[Epoch "Bishop"]
+[WhiteCountry "SVN"]
+[BlackCountry "RUS"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nf3 Qf6 5. Nxe5 Qxe5 6. Bd3 Bb4+ 7. Nd2 Nf6
+8. O-O d6 9. Nc4 Qe7 10. c3 Bc5 11. b4 Bb6 12. a4 Bg4 13. Qe1 c6 14. Bg5 h6 15.
+Bh4 Bc7 16. f4 g5 17. fxg5 hxg5 18. Bxg5 d5 19. exd5 Bxh2+ 20. Kf2 Be6 21. Ke2
+Bf5+ 22. Kd1 Bxd3 23. Bxf6 Qxe1+ 24. Rxe1+ Kf8 25. Bxh8 Bxc4 26. Rh1 Bb3+ 27.
+Kc1 Bd6 28. Bf6 Ke8 29. Rh8+ Bf8 30. Bg7 1-0

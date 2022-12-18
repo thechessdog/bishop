@@ -1,0 +1,17 @@
+[Event "Bognor Regis"]
+[Site "Bognor Regis"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Rogoff"]
+[Black "Fuller, Maxwell Leonard"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "54869ca2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O Qc7 8. Re1
+d6 9. Bg5 Nf6 10. Bxf6 gxf6 11. Nd5 exd5 12. exd5+ Kd8 13. Qf3 Be7 14. Nf5 Re8
+15. Nxe7 Rxe7 16. Qxf6 Bxd5 17. Be4 Bxe4 18. Rxe4 d5 19. Rd1 Ra7 20. Re3 Nc6
+21. Qh8+ 1-0

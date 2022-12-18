@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Bouwmeester, Hans"]
+[Black "Krabbe"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Kaufmann attack"]
+[HashCode "4c82ff9c"]
+[Epoch "Bishop"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. c4 Be7 6. Nc3 Nxc3 7. bxc3 O-O 8.
+d4 Re8 9. Be3 Nc6 10. Rb1 Bg4 11. Bd3 Bg5 12. O-O Bxe3 13. fxe3 Rxe3 14. Qd2
+Re7 15. Ng5 h6 16. Bh7+ Kh8 17. Nxf7+ Rxf7 18. Rxf7 Kxh7 19. Rxb7 Rc8 20. Qd3+
+Kh8 21. Qg6 Qg5 22. Qxg5 hxg5 23. Rfxc7 Rxc7 24. Rxc7 Na5 25. h3 Be2 26. c5
+dxc5 27. d5 Nc4 28. Rxc5 Nb6 29. d6 1-0

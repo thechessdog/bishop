@@ -1,0 +1,16 @@
+[Event "England"]
+[Site "England"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Knibbs, M."]
+[Black "Fuller, John A"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Jaenisch variation"]
+[HashCode "e2e608bb"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. Qf3 d5 6. exd5 Bd6 7. Nge2 O-O 8.
+O-O Bg4 9. Qf2 cxd5 10. Bb3 d4 11. Qxd4 Bxe2 12. Nxe2 Nc6 13. Qf2 Ne4 14. Qf3
+Ng5 15. Qf2 f3 16. Ng3 Rc8 17. c3 Ne5 18. d4 Ng4 19. Bxg5 Qxg5 0-1

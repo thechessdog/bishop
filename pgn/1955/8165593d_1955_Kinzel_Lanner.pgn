@@ -1,0 +1,16 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Kinzel"]
+[Black "Lanner"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "8165593d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 d5 5. exd5 Qxd5 6. h3 g6 7. Qe2 Nc6 8.
+Nd2 Bg7 9. Nc4 Qd8 10. Bf4 Nf6 11. O-O-O Bd7 12. Nd6+ Kf8 13. Nxf7 1-0
+

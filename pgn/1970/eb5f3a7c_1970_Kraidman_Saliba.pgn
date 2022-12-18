@@ -1,0 +1,20 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Kraidman, Yair"]
+[Black "Saliba, Alexandre"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "eb5f3a7c"]
+[Epoch "Bishop"]
+[WhiteID "2800187"]
+[WhiteCountry "ISR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Ne2 Nc6 7. O-O d6 8. a3
+Bxc3 9. Nxc3 e5 10. d5 Ne7 11. Qc2 Bd7 12. Bd2 Qc8 13. Rae1 b5 14. cxb5 c4 15.
+Be2 Nfxd5 16. Nxd5 Nxd5 17. Qxc4 Qxc4 18. Bxc4 Nb6 19. Be2 d5 20. Bc3 Nc4 21.
+Rd1 Bxb5 22. Rxd5 a6 23. Re1 f6 24. a4 Nb6 25. axb5 Nxd5 26. Bc4 Rfd8 27. e4
+axb5 28. Bxd5+ 1-0

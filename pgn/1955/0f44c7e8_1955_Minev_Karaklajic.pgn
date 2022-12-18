@@ -1,0 +1,18 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1955.01.01"]
+[Round "6"]
+[White "Minev, Nikolay Nikolaev"]
+[Black "Karaklajic, Nikola"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "0f44c7e8"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "BGR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 a6 10. Rd1 Qc7 11. Bd2 e5 12. Nd5 Nxd5 13. Bxd5 Bxd2 14. Rxd2 exd4
+15. exd4 Nf6 16. dxc5 Qxc5 17. Qc4 Qxc4 1/2-1/2

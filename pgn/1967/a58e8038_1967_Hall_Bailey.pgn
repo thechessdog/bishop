@@ -1,0 +1,17 @@
+[Event "Oxford ch-BCF U16"]
+[Site "Oxford ch-BCF U16"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Hall, G."]
+[Black "Bailey, R."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "a58e8038"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
+Be3 Nc6 9. Qe2 O-O 10. O-O-O Qc7 11. g4 b5 12. g5 Nxd4 13. Bxd4 Nd7 14. g6
+hxg6 15. h4 b4 16. h5 bxc3 17. hxg6 Nc5 18. Rh8+ Kxh8 1-0
+

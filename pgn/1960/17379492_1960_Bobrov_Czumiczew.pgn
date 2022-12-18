@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Bobrov"]
+[Black "Czumiczew"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit, Wurzburger trap"]
+[HashCode "17379492"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Qh4+ 6. g3 Nxg3 7. Nf3 Qh5
+8. Nxd5 Nxh1 9. Nxc7+ Kd8 10. Nxa8 Bg4 11. Bg2 Nc6 12. Bg5+ Kc8 13. Be3
+Nxe5 14. Bxh1 Nxf3+ 15. Bxf3 Bxf3 16. Qd2 Qh4+ 17. Bf2 Qg4 18. Bxa7 Bb4 19.
+c3 Re8+ 20. Kf1 Re2 21. Qxe2 Bxe2+ 0-1
+

@@ -1,0 +1,17 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Svancer"]
+[Black "Richter, Kurt"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "867337cd"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Nc6 7. a3 Nf6 8. Be3
+d6 9. f4 Be7 10. O-O O-O 11. Qe1 Bd7 12. Qg3 Nxd4 13. Bxd4 Bc6 14. Kh1 b5 15.
+Rae1 Rfd8 16. Bd3 Ne8 17. Qh3 Bf8 18. e5 g6 19. Ne4 Bxe4 20. Bxe4 Rac8 21. c3
+1/2-1/2

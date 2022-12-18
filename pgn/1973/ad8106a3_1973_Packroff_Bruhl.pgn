@@ -1,0 +1,18 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Packroff, H."]
+[Black "Bruhl, G."]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "ad8106a3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e6 6. c3 Nge7 7. d4 cxd4 8.
+cxd4 Qb6 9. Bxc6 Nxc6 10. d5 Nd4 11. Nc3 Nxf3+ 12. Qxf3 O-O 13. Bg5 d6 14.
+b3 Bd7 15. Bf6 e5 16. Bxg7 Kxg7 17. Qe3 Qxe3 18. Rxe3 Kf6 19. Ne2 Rac8 20.
+Rc3 1/2-1/2
+

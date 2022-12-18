@@ -1,0 +1,19 @@
+[Event "Cheliabinsk ch sf"]
+[Site "Cheliabinsk ch sf"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Feldman, Vladimir"]
+[Black "Arseniev"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "90888a32"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 b6 8. e4
+Bg7 9. Nc4 O-O 10. Bg5 Ba6 11. a4 Re8 12. f3 Bxc4 13. Bxc4 Nxe4 14. Nxe4 Qxg5
+15. O-O Qe5 16. Kh1 Nd7 17. Bb5 Re7 18. Rf2 Rd8 19. a5 bxa5 20. Rxa5 Nb6 21.
+Bc6 f5 22. Ng3 Nc4 23. Ra2 Qd4 24. Qxd4 Bxd4 25. Re2 Rxe2 26. Nxe2 Rb8 27. Nxd4
+cxd4 28. Rxa7 Rxb2 29. Ra1 d3 30. g3 Ne3 31. Ba4 g5 32. h4 g4 33. Kg1 Kg7 34.
+Re1 Rg2+ 35. Kh1 Re2 36. Ra1 0-1

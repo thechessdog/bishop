@@ -1,0 +1,18 @@
+[Event "Springfield"]
+[Site "Springfield"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Guertin, R."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "5444c03f"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 d6 6. c3 b5 7. Bc2 Be7 8. a4 b4
+9. a5 bxc3 10. dxc3 O-O 11. Nbd2 Bg4 12. h3 Bxf3 13. Qxf3 Nb8 14. Nf1 c6 15. g4
+d5 16. Ng3 dxe4 17. Nxe4 Nxe4 18. Bxe4 Bg5 19. Qf5 g6 20. Qxg5 f6 21. Qe3 f5
+22. gxf5 gxf5 23. Rg1+ Kh8 24. Qh6 Ra7 25. Bg5 1-0

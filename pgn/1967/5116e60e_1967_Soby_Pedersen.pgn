@@ -1,0 +1,18 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Soby, Frode"]
+[Black "Pedersen, Eigil"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "5116e60e"]
+[Epoch "Bishop"]
+[WhiteID "1407880"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 b6 5. Qd5 Bb7 6. Qxb7 Nc6 7. Be3 a6 8.
+Nd4 Bb4+ 9. Nc3 O-O 10. O-O-O Bxc3 11. Nxc6 1-0

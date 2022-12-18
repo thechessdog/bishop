@@ -1,0 +1,20 @@
+[Event "Buenos Aires qual"]
+[Site "Buenos Aires"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Adad, Carlos"]
+[Black "Szmetan, Jorge"]
+[Result "1/2-1/2"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...Nc6"]
+[HashCode "284e50a6"]
+[Epoch "Bishop"]
+[WhiteID "102237"]
+[BlackID "100366"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. dxe5 dxe5 14. Nh2 c4 15. a4
+Rb8 16. axb5 axb5 1/2-1/2

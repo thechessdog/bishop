@@ -1,0 +1,23 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1975.07.01"]
+[Round "14"]
+[White "Makarichev, Sergey"]
+[Black "Hamann, Svend"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "e5759173"]
+[Epoch "Bishop"]
+[WhiteID "4100468"]
+[WhiteCountry "RUS"]
+[BlackID "1400193"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Qc7 8. Bg5
+Nbd7 9. a4 h6 10. Bh4 b6 11. Nd2 Be7 12. Bc4 Bb7 13. Qe2 O-O 14. O-O Rfc8 15.
+Rfd1 d5 16. Bxf6 Nxf6 17. Nxd5 Nxd5 18. exd5 Qc5 19. Qe4 Bd6 20. Bb3 b5 21. Qd3
+Qb6 22. Ne4 Bb8 23. axb5 axb5 24. Rxa8 Bxa8 25. d6 Bxe4 26. d7 Rd8 27. Qxe4 Ba7
+28. Qxe5 Qxf2+ 29. Kh1 Qe3 30. Qxb5 Bd4 31. Qd5 Bxb2 32. Qxf7+ Kh8 33. Be6 Qg5
+34. Qe8+ 1-0

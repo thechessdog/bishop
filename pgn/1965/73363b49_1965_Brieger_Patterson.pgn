@@ -1,0 +1,16 @@
+[Event "Houston"]
+[Site "Houston"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Brieger"]
+[Black "Patterson"]
+[Result "0-1"]
+[ECO "C27"]
+[Opening "Boden-Kieseritsky gambit"]
+[HashCode "73363b49"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Nc3 Nxc3 5. dxc3 f6 6. Nh4 g6 7. f4 Nc6
+8. O-O Bc5+ 9. Kh1 d6 10. f5 Ne7 11. Bd3 Rg8 12. fxg6 hxg6 13. Rxf6 Bf5 14.
+Bxf5 Nxf5 15. Rxg6 Qxh4 16. Rxg8+ Kd7 17. Rg4 Qxh2+ 18. Kxh2 Rh8+ 0-1
+

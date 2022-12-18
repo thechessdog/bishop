@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bryant"]
+[Black "Carlson, Curtis"]
+[Result "0-1"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O"]
+[HashCode "cdf03617"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd2 d5 6. a3 Bxc3 7. Bxc3 b6 8. b4
+dxc4 9. Bxc4 Bb7 10. Nf3 Nbd7 11. O-O Ne4 12. Rc1 Ndf6 13. Ne5 b5 14. Bxb5 Qd5
+15. Bc4 Qd6 16. f3 Nxc3 17. Rxc3 Nd5 18. Bxd5 Bxd5 19. e4 Bb7 20. Nc4 Qc6 21.
+Qc2 Ba6 22. Rc1 Qd7 23. d5 exd5 24. exd5 Qxd5 25. Ne3 Qd4 26. Rd1 Qb6 27. Kh1
+c6 0-1

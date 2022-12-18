@@ -1,0 +1,17 @@
+[Event "corr BdF/I"]
+[Site "corr BdF/I"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Ebert"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "1e057f4a"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. a4 Bb7 8. axb5
+axb5 9. Rxa8 Qxa8 10. Nc3 Nd4 11. Nxd4 exd4 12. Nxb5 O-O 13. Nxc7 Qc8 14. Nb5
+Bxe4 15. Qf1 Qc6 16. f3 Bf5 17. c4 Re8+ 18. Kd1 d3 0-1

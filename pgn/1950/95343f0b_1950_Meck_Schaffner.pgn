@@ -1,0 +1,16 @@
+[Event "Basel"]
+[Site "Basel"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Meck"]
+[Black "Schaffner, Urs"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "95343f0b"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bg4 5. Be2 Nd7 6. Nd4 Bxe2 7. Qxe2
+Ngf6 8. Nd6# 1-0
+

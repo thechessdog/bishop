@@ -1,0 +1,25 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1972.01.01"]
+[Round "12"]
+[White "Jacobs, J."]
+[Black "Thornley, J."]
+[Result "0-1"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "f1c9bb9a"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. g4 e5 7. d5 c6 8. g5 Ne8
+9. Be3 cxd5 10. cxd5 Na6 11. Qd2 Bd7 12. O-O-O Qa5 13. Kb1 Nc5 14. Bd3 Nc7 15.
+h4 b5 16. h5 b4 17. Nce2 Rfb8 18. Bc2 Nb5 19. Ka1 Rb6 20. Nc1 Nc3 21. Bxc5 dxc5
+22. bxc3 bxc3 23. Qe3 Qa3 24. Nd3 Rb2 25. Bb3 Rxb3 26. Qxc5 c2 27. Qxc2 Ba4 28.
+Ne2 Rb4 29. Qc1 Qxc1+ 30. Rxc1 Rxe4 31. Nc3 Rd4 32. h6 Bh8 33. Nc5 e4 34. N5xa4
+Rxa4 35. Kb2 Rb8+ 36. Kc2 Rc4 37. Rh3 Rcb4 38. Kd1 Kf8 39. Re3 Be5 40. Ne2 Rd8
+41. Rc5 Bd4 42. Nxd4 Rxd4+ 43. Kc2 R4xd5 44. Rxd5 Rxd5 45. Rxe4 Rxg5 46. Ra4 a5
+47. Kd3 Ke7 48. Ke3 Kd6 49. Rc4 Rb5 50. Rc8 Rh5 51. Ra8 Kc6 52. Ra6+ Kb5 53.
+Rf6 Kb4 54. Rxf7 Rxh6 55. Rd7 Ka3 56. Rd5 a4 57. Rd2 Rh1 58. Kf4 h5 59. f3 Rg1
+60. Rh2 h4 61. Ke4 h3 62. f4 Rg2 63. Rxh3+ Kxa2 64. Kd3 Kb2 65. Rh8 Rg3+ 66.
+Kc4 Rc3+ 67. Kd4 a3 68. Rh2+ Rc2 69. Rh8 a2 70. Rb8+ Kc1 71. Ra8 Kb1 72. Kd3
+Rb2 0-1

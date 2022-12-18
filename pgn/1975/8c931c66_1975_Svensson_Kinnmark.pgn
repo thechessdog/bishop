@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Svensson, Gert"]
+[Black "Kinnmark, Ove"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "8c931c66"]
+[Epoch "Bishop"]
+[WhiteID "1701533"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Ne2 Qe7 7. O-O Bxc3 8.
+Nxc3 e5 9. f3 Nbd7 10. Bd2 c6 11. Qc2 g6 12. f4 Re8 13. fxe5 dxe5 14. c5 Nf8
+15. Bc4 Be6 16. Qb3 Rad8 17. Rae1 exd4 18. exd4 Rxd4 19. Bxe6 Rxd2 20. Bxf7+
+Qxf7 21. Rxe8 Qxb3 22. Rxf8+ Kxf8 23. axb3 Rxb2 24. Rxf6+ Ke7 25. Rf3 1-0

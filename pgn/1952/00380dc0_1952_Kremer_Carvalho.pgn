@@ -1,0 +1,24 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Kremer, P."]
+[Black "Carvalho,Luiz Candido Brant"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "00380dc0"]
+[Epoch "Bishop"]
+[BlackID "2140098"]
+[BlackCountry "BRA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bxd7+ Bxd7 6. d4 cxd4 7. Nxd4 Nf6
+8. Nc3 e6 9. Re1 Be7 10. b3 O-O 11. Bb2 b5 12. a3 Qc7 13. Nf3 Rfd8 14. h3 Bc6
+15. Qe2 Rac8 16. Nd2 Bb7 17. b4 Nd7 18. Rac1 Nb6 19. Nd1 Bf8 20. Ne3 Na4 21.
+Ba1 Nc3 22. Qg4 g6 23. Kh1 Bg7 24. f4 Nxe4 25. Nxe4 Bxe4 26. Bxg7 Kxg7 27. h4
+h5 28. Qg3 Qc3 29. Kh2 d5 30. Qf2 Rc6 31. Nd1 Qf6 32. c3 Rdc8 33. Qg3 Kg8 34.
+Re3 Bf5 35. Re5 d4 36. Qe1 Bg4 37. g3 Bxd1 38. Qxd1 dxc3 39. Rc2 Qe7 40. Rg5
+Rc4 41. Qxh5 Rd8 42. Qe2 Qf6 43. Re5 Rd5 44. Qe3 Rxe5 45. fxe5 Qf5 46. Rxc3 Re4
+47. Qd2 Qxe5 48. Qd3 Rxh4+ 49. Kg2 Rd4 50. Qc2 Qd5+ 51. Kh3 Rd2 52. Rc8+ Kh7
+53. Qc3 Qh5# 0-1

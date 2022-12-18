@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Feist, H."]
+[Black "Kremer, H."]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "f45bc5c6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8.
+cxd5 exd5 9. dxc5 Bxc5 10. Qc2 Nb4 11. Qe2 Bg4 12. Rd1 Nxd3 13. Rxd3 Be6
+14. b3 Rc8 15. Bb2 Bb4 16. Rad1 Qa5 17. Rc1 Bf5 18. Rd4 Bxc3 19. Ra4 Bxb2
+20. Rxc8 Rxc8 21. Rxa5 Rc1+ 22. Ne1 Bc3 23. Rxa7 0-1
+

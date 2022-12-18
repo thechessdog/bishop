@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Natapov"]
+[Black "Rasdobarin"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "b4908a76"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. e4 g4 6. Ng1 Qh4+ 7. Ke2 g3
+8. Nc3 Qxh2 9. Rxh2 gxh2 10. Nf3 h1=Q 0-1
+

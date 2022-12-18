@@ -1,0 +1,17 @@
+[Event "corr FRG-PK"]
+[Site "corr FRG-PK"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Schupp, A."]
+[Black "Hepke, R."]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "e6cce37f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8.
+Qe2 Nxc4 9. dxc4 Bc5 10. Nc3 O-O 11. Nd2 Bg4 12. Qf1 Bb4 13. Ndb1 c6 14. a3
+Bxc3+ 15. Nxc3 cxd5 16. cxd5 Nxd5 17. Qc4 Nxc3 0-1
+

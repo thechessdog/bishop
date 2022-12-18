@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Villato"]
+[Black "Ganzo"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "0a079fa3"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. d3 Qxd5 6. Nc3 Bb4 7. Bd2 Bxc3
+8. Bxc3 O-O 9. Nd2 exd3 10. Qxd3 Re8+ 11. Kd1 Ng4 12. Bd4 Nc6 13. h3 Bf5
+14. Qc3 Nxd4 15. hxg4 Bxc2+ 16. Qxc2 Re1+ 17. Kxe1 Nxc2+ 0-1
+

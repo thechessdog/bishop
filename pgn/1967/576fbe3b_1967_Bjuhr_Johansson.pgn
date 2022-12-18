@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Bjuhr, Arne"]
+[Black "Johansson, Martin"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "576fbe3b"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+ Kf8
+8. Qh5 Be6 9. Bd3 Bb4+ 10. c3 Qxd4 11. Qd1 Qd5 12. cxb4 Qxg2 13. Be2 Nd7 14.
+Bf3 Qg6 15. Ne2 Ne5 16. Nf4 Qf5 17. O-O Ke7 18. Re1 Rhd8 19. Qe2 Rd4 20. Be4
+Qg5+ 21. Ng2 Rxe4 22. Qxe4 Qh5 23. Bf4 Nf3+ 24. Kh1 f5 25. Qe2 g5 26. Bxg5+ Kf8
+27. Bf4 Bd5 28. Qe7+ Kg8 29. Re3 h6 30. Rd1 1-0

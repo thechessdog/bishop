@@ -1,0 +1,16 @@
+[Event "Mendoza tt"]
+[Site "Mendoza tt"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Velasquez Ojeda, Cesar"]
+[Black "Quinteros, Miguel A."]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "d34b2946"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. O-O e5 8.
+f4 Nf6 9. Kh1 Bd6 10. Nd2 Ng4 11. Qe1 Bc7 12. h3 exf4 13. hxg4 g5 14. Rf3 h5
+15. Rh3 Ke7 16. Qg1 hxg4 17. Rxh8 Qxh8+ 18. Qh2 Be6 19. a4 Bb6 20. g3 fxg3 0-1

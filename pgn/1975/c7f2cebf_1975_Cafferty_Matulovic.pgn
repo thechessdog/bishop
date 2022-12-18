@@ -1,0 +1,28 @@
+[Event "Birmingham"]
+[Site "Birmingham"]
+[Date "1975.03.31"]
+[Round "5"]
+[White "Cafferty, Bernard"]
+[Black "Matulovic, Milan"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "c7f2cebf"]
+[Epoch "Bishop"]
+[WhiteID "401005"]
+[WhiteCountry "ENG"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. e5 Nd5 7. Nc3 Nc7 8. Bc4
+O-O 9. d3 Ne6 10. Nd5 b6 11. c3 Bb7 12. a4 d6 13. exd6 Qxd6 14. Bg5 Nxg5 15.
+Nxg5 Ne5 16. Qb3 e6 17. Ne4 Qd8 18. Ne3 Rb8 19. Rad1 f5 20. f4 fxe4 21. fxe5
+exd3 22. Bxd3 Qg5 23. Qxe6+ Kh8 24. Qg4 Qxe5 25. Nc4 Qf6 26. Rf1 Qc6 27. Qg3
+Rbe8 28. Rxf8+ Rxf8 29. Nd6 Qxa4 30. Rf1 Rxf1+ 31. Bxf1 Bd5 32. Qg5 Bg8 33. Qe7
+Qf4 34. g3 Qf6 35. Qxf6 Bxf6 36. Nc8 Bg5 37. c4 b5 38. cxb5 c4 39. b6 axb6 40.
+Nd6 Be3+ 41. Kg2 Bc5 42. Nxc4 Bd5+ 43. Kh3 h5 44. Ne5 Kg7 45. Bc4 Bb7 46. Nd7
+Bd4 47. g4 hxg4+ 48. Kxg4 Bc8 49. Be6 Bxb2 50. Nc5 Bxe6+ 51. Nxe6+ Kf7 52. Nc7
+Be5 53. Nd5 b5 54. h4 Ke6 55. Nb4 Bd6 56. Nc2 Kd5 57. Kg5 Kc4 58. Kxg6 Bc5 59.
+Kf5 Kc3 60. Ne1 Bf2 61. Nf3 b4 62. Ng5 b3 63. Ne4+ Kc2 64. Nxf2 b2 65. h5 b1=Q
+66. Ng4 Qb5+ 67. Kg6 Qe8+ 68. Kg5 Qg8+ 69. Kf5 Qh7+ 70. Kg5 Qe7+ 71. Kg6 Qe8+
+72. Kg5 Kd3 73. h6 Qg8+ 74. Kf5 Kd4 75. Nf6 Qc8+ 76. Kg6 Ke5 0-1

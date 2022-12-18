@@ -1,0 +1,23 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Brooks, G."]
+[Black "Kerman, David J"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "b64c33a8"]
+[Epoch "Bishop"]
+[BlackID "2003830"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. O-O
+b5 9. a3 O-O 10. Re1 Bb7 11. Bxe6 fxe6 12. Nxe6 Qc8 13. Nxf8 Bxf8 14. Bf4 Qc6
+15. Qd2 Nbd7 16. Rad1 Ne5 17. Bxe5 dxe5 18. Nd5 Rc8 19. Qg5 Bc5 20. Qxe5 Bxf2+
+21. Kxf2 Ng4+ 22. Kg1 Nxe5 23. Ne7+ Kf7 24. Nxc6 Bxc6 25. Re2 Ke7 26. Kf2 g5
+27. Kg3 h5 28. h3 Rf8 29. Kh2 Rf4 30. Kg1 Ke6 31. Rde1 h4 32. Kh2 Nc4 33. b3
+Nxa3 34. c3 a5 35. e5 Bd5 36. Ra1 b4 37. c4 Be4 38. Rc1 Kxe5 39. c5 Nb5 40. c6
+Nc3 41. c7 Rf8 42. Rf2 Rxf2 43. c8=Q Rxg2+ 44. Kh1 Rc2+ 45. Kg1 Rxc1+ 46. Kf2
+Nd1+ 0-1

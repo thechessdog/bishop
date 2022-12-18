@@ -1,0 +1,17 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Axelsson, Rolf"]
+[Black "Wester, Eric"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "1ebbb679"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Be7 7. dxc5
+Nf6 8. Ngf3 O-O 9. O-O Re8 10. Nb3 Bxc5 11. Qd3 Bb6 12. Bg5 Bxb5 13. Qxb5
+Nbd7 14. Rad1 Qc7 15. Qd3 Rac8 16. c3 a6 17. Rfe1 Ne4 18. Be3 1/2-1/2
+

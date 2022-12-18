@@ -1,0 +1,19 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1971.09.01"]
+[Round "1"]
+[White "Platonov, Igor"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "de7f2954"]
+[Epoch "Bishop"]
+[WhiteID "24197190"]
+[WhiteCountry "UKR"]
+[BlackCountry "BLR"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 g6 8.
+Nc3 Bg7 9. Be3 Nf6 10. f3 O-O 11. O-O a6 12. a4 Rac8 13. b3 e6 14. Rc1 Rfd8 15.
+Qd2 Na5 16. Nce2 Qc7 17. Qa2 1/2-1/2

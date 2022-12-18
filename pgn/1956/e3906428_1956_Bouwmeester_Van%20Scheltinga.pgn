@@ -1,0 +1,21 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1956.01.01"]
+[Round "9"]
+[White "Bouwmeester, Hans"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "e3906428"]
+[Epoch "Bishop"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 exd4 11. cxd4 d5 12. e5 Ne4 13. Nbd2 Na5 14. Bxd5 Nxf2 15.
+Kxf2 Bxd5 16. Ne4 f6 17. Kg1 fxe5 18. dxe5 Bxe4 19. Qxd8 Raxd8 20. Rxe4 Rd1+
+21. Kf2 Nb7 22. Ke2 Rfd8 23. b4 c5 24. g3 a5 25. bxa5 Nxa5 26. Bb2 R1d3 27. e6
+Nb3 28. Re1 c4 29. Bxg7 Kxg7 0-1

@@ -1,0 +1,17 @@
+[Event "unknown"]
+[Site "unknown"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Schleicher"]
+[Black "Kubart"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Kiel variation"]
+[HashCode "f90faea0"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb4 5. Qa4+ N8c6 6. d5 b5 7. cxb5 Nd4
+8. Na3 e5 9. dxe6 Bxe6 10. Bd2 Qd5 11. Bxb4 Bxb4+ 12. Qxb4 Qe4+ 13. Ne2
+Nf3+ 14. gxf3 Qxb4+ 15. Nc3 Qxb2 0-1
+

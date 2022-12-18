@@ -1,0 +1,29 @@
+[Event "FRG-ch"]
+[Site "Voelklingen"]
+[Date "1970.??.??"]
+[Round "15"]
+[White "Berner"]
+[Black "Suess, Alois"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "24241daf"]
+[Epoch "Bishop"]
+[BlackID "4601521"]
+[BlackCountry "GER"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 g6 4. e3 Bg7 5. c4 c6 6. Be2 O-O 7. O-O Bg4 8. Ne5
+Bxe2 9. Qxe2 Nbd7 10. f4 e6 11. d3 Nxe5 12. Bxe5 Ne8 13. Bxg7 Nxg7 14. Nd2 Nf5
+15. g4 Ng7 16. Nf3 f6 17. c5 Qe7 18. d4 Ne8 19. Rac1 Rd8 20. b4 Nc7 21. a4 a6
+22. Qd3 Rf7 23. Rf2 Rdf8 24. h4 Rg7 25. g5 Kh8 26. Rg2 Qf7 27. Rf1 Qe7 28. Kh2
+Kg8 29. Rfg1 fxg5 30. hxg5 Qf7 31. Ne5 Qf5 32. Qe2 Qe4 33. Ng4 Ne8 34. Nh6+ Kh8
+35. Rg4 Rf5 36. Nxf5 exf5 37. R4g3 Nc7 38. Qd1 Re7 39. Qb1 Qe6 40. Qd3 Kg7 41.
+Kg2 Kg8 42. Kf2 Kg7 43. Rb1 Qd7 44. Rb3 Re8 45. Rg1 Re4 46. Kf3 Re8 47. Rb2 Re7
+48. Rgb1 Qe8 49. Kf2 Qd7 50. b5 axb5 51. axb5 Nxb5 52. Rxb5 cxb5 53. Rxb5 h6
+54. gxh6+ Kxh6 55. Rb6 Re6 56. Qb5 Qe7 57. Rxe6 Qxe6 58. Qxb7 Qe4 59. Qb8 Kh7
+60. Qb5 Qc2+ 61. Qe2 Qc1 62. Qe1 Qc2+ 63. Kg3 Kg7 64. Kf3 Kf7 65. Qe2 Qe4+ 66.
+Kf2 Qb1 67. Qd2 Ke6 68. Qc3 Qh1 69. Qd3 Qg2+ 70. Ke1 Qg1+ 71. Kd2 Qf2+ 72. Qe2
+Qg1 73. Qa6+ Ke7 74. Qd6+ Ke8 75. Qe5+ Kf8 76. Kc3 Qc1+ 77. Kb4 Qc4+ 78. Ka5
+Qb3 79. c6 Qc3+ 80. Kb6 Qb4+ 81. Kc7 Qa5+ 82. Kd7 Qb5 83. Qf6+ Kg8 84. Qxg6+
+Kh8 85. Qxf5 Kg8 86. Qe6+ Kg7 87. Qe5+ Kg6 88. e4 1-0

@@ -1,0 +1,19 @@
+[Event "Narvik"]
+[Site "Narvik"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Jacobsen, Bo"]
+[Black "Svedenborg, Paul"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "fc66877d"]
+[Epoch "Bishop"]
+[BlackID "1500899"]
+[BlackCountry "NOR"]
+
+1. Nc3 f5 2. e4 e5 3. exf5 Nf6 4. Be2 Bc5 5. Bh5+ Kf8 6. Qf3 Nc6 7. Nge2 d5 8.
+d3 e4 9. dxe4 Ne5 10. Qh3 dxe4 11. Bg5 Bb4 12. O-O Qd7 13. Rad1 Bd6 14. Bxf6
+gxf6 15. Nd4 Qg7 16. Nxe4 Rg8 17. Nxd6 cxd6 18. Ne6+ Bxe6 19. fxe6 Qh6 20. f4
+Ng6 21. Rxd6 Nxf4 22. e7+ Kg7 23. Qg3+ Ng6 24. Bxg6 Qxg6 25. Qxg6+ hxg6 26.
+Rdxf6 Rge8 27. Rf8 1-0

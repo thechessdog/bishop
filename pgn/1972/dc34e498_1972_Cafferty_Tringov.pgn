@@ -1,0 +1,21 @@
+[Event "Teeside"]
+[Site "Teeside"]
+[Date "1972.01.01"]
+[Round "2"]
+[White "Cafferty, Bernard"]
+[Black "Tringov, Georgi P"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "dc34e498"]
+[Epoch "Bishop"]
+[WhiteID "401005"]
+[WhiteCountry "ENG"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 Nf6 6. Bg5 h6 7. Bxf6 gxf6 8.
+Nc3 Rg8 9. Nd5 Bg7 10. O-O-O Kf8 11. Qd2 a6 12. Bc4 b5 13. Bb3 Nc5 14. Nd4 Bd7
+15. Rhe1 a5 16. a3 e6 17. Nc3 b4 18. Na2 bxa3 19. bxa3 Qb6 20. Qe2 f5 21. Bc4
+Nxe4 22. f3 Bxd4 23. fxe4 f4 24. Bb3 a4 25. Qc4 Be3+ 26. Kb2 axb3 27. cxb3
+Rxg2+ 0-1

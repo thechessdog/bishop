@@ -1,0 +1,20 @@
+[Event "BCF-ch U16"]
+[Site "Bath"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Price, AR."]
+[Black "Walsh, M."]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "260e7227"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. Bd2 Nxc5 7. a3 Bxc3
+8. Bxc3 b6 9. f3 Bb7 10. e4 d5 11. b4 Ncd7 12. e5 Nh5 13. Nh3 dxc4 14. Qf2
+g6 15. Be2 Ng7 16. O-O b5 17. f4 O-O 18. Bf3 Bd5 19. Bxd5 exd5 20. Rad1 Nb6
+21. Ng5 Qd7 22. Ne4 Ne8 23. Qh4 f6 24. Nc5 Qc6 25. f5 fxe5 26. Ne6 Rxf5 27.
+Rxf5 gxf5 28. Qg5+ Kf7 29. Qxf5+ Ke7 30. Re1 e4 31. Nf4 Nf6 32. Qe5+ Kf7
+33. Nh5 Nxh5 34. Rf1+ Kg8 35. Qh8# 1-0
+

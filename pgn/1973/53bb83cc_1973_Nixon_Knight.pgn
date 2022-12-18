@@ -1,0 +1,20 @@
+[Event "EU-ch U20 fin-D"]
+[Site "Groningen"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Nixon, Rodney J"]
+[Black "Knight, Timothy"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "53bb83cc"]
+[Epoch "Bishop"]
+[WhiteID "404500"]
+[BlackID "10700064"]
+[WhiteCountry "IRL"]
+[BlackCountry "GCI"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O Re8 10. Ng3 Na6 11. h3 Nc7 12. a4 a6 13. f4 Bd7 14. Qf3 b5 15. e5
+Nh5 16. Nxh5 gxh5 17. Qxh5 h6 18. Ne4 c4 19. Bb1 Qe7 20. exd6 1-0

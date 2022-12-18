@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Maritn"]
+[Black "Squarcialupi"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "c43669ed"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Ne2 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 Be7 11. Be2 Qc7 12. Nb3 Rc8 13. Bxf6 gxf6 14.
+Rhe1 b5 15. Bh5 b4 16. Nd5 exd5 17. exd5 Ne5 18. fxe5 fxe5 19. Qf2 O-O 20.
+Kb1 a5 21. Rf1 f5 22. h4 a4 23. Nc1 e4 24. Qg3+ Kh8 25. Rd2 Bf6 26. Bd1 a3
+27. Ne2 axb2 28. Qe3 Kh7 29. Rd4 Qa7 30. c4 Rxc4 31. Rd3 Qxe3 32. Rxe3 Rfc8
+33. Bb3 R4c5 34. a4 f4 0-1
+

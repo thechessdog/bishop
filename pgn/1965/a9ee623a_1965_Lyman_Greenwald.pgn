@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Lyman"]
+[Black "Greenwald, B."]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "a9ee623a"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 Nc6 6. d5 Ne5 7. c5 Nbd7
+8. f4 Ng6 9. h4 e6 10. h5 Ne7 11. d6 cxd6 12. cxd6 Nd5 13. Nxd5 1-0
+

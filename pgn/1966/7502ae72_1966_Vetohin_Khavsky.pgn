@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Vetohin"]
+[Black "Khavsky, Sergey"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "7502ae72"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6
+Qg5 8. Qe2 Nf6 9. Nxa7+ Bd7 10. Bxd7+ Nxd7 11. Qxe4+ Be7 12. d4 Qa5+ 13.
+Bd2 Qxa7 14. O-O Nf6 15. Qe5 Kf7 16. Rfe1 Bd6 17. Qe6+ Kg6 18. Re4 h5 19.
+g4 Rae8 20. gxh5+ Rxh5 21. Rg4+ Kh7 1-0
+

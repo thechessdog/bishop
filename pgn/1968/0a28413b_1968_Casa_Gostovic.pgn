@@ -1,0 +1,18 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Casa"]
+[Black "Gostovic"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "0a28413b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Bc4 b5 9. Bb3 Bb7 10. a3 Rc8 11. O-O Qb6 12. Kh1 Nxe4 13. Nxe4 Bxe4 14. f5
+e5 15. Qh5 d5 16. Nf3 g6 17. fxg6 Qxg6 18. Qxg6 hxg6 19. Nxe5 Nxe5 20. Bf6
+Rh5 0-1
+

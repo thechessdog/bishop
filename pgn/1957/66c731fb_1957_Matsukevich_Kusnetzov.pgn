@@ -1,0 +1,15 @@
+[Event "Tula"]
+[Site "Tula"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Matsukevich, A."]
+[Black "Kusnetzov"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian defence"]
+[HashCode "66c731fb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Nxc6 bxc6 7. e5 Nd5
+8. Nxd5 cxd5 9. Qxd5 Rb8 10. e6 dxe6 11. Qe5 1-0
+

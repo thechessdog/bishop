@@ -1,0 +1,23 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Hofler"]
+[Black "Mehwald, D."]
+[Result "1-0"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "e56b081c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. g4 c5 7. d5 e6 8. g5
+Ne8 9. Qc2 exd5 10. exd5 Bf5 11. Qb3 Qe7 12. Nd1 b6 13. f4 Nc7 14. Nf3 Nd7
+15. Kf2 Rfe8 16. Re1 Bg4 17. Bd2 f5 18. Bd3 Qf7 19. Ne3 Bxf3 20. Kxf3 a6
+21. a4 Rab8 22. Bc3 Rb7 23. Qc2 Rf8 24. Re2 Rbb8 25. h4 Rbe8 26. Rh2 Re7
+27. Rah1 Rfe8 28. Re1 b5 29. axb5 axb5 30. b3 Nb6 31. Rhe2 Rf8 32. Ba5 Rb8
+33. cxb5 Ncxd5 34. Nxd5 Qxd5+ 35. Kg3 Rxe2 36. Rxe2 Qd4 37. Re1 d5 38. Be2
+c4 39. Bf3 Kf8 40. Qe2 h6 41. Bxb6 Qxb6 42. Bxd5 Qd6 43. Bxc4 hxg5 44. hxg5
+Bc3 45. Rd1 Bd4 46. Qf3 Re8 47. b6 Re4 48. b7 Qb4 49. Bd5 Re8 50. Bc6 Rd8
+51. Qe3 Bxe3 52. Rxd8+ Ke7 53. Re8+ Kf7 54. b8=Q 1-0
+

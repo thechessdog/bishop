@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Mochalov, Evgeny V"]
+[Black "Kapengut, Albert Z"]
+[Result "0-1"]
+[ECO "A73"]
+[Opening "Benoni"]
+[Variation "classical, 9.O-O"]
+[HashCode "5ce07043"]
+[Epoch "Bishop"]
+[BlackID "13500058"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Bg4 10. Bg5 h6 11. Bh4 Qb6 12. Rb1 Nbd7 13. Nd2 Bxe2 14. Qxe2 Rae8
+15. Rfe1 Nh5 16. Qf1 Ne5 17. Nc4 Qa6 18. Nxe5 Qxf1+ 19. Rxf1 Bxe5 20. f3 a6 21.
+Ne2 b5 22. g4 Nf4 23. Nxf4 Bxf4 24. Bf6 Bg5 25. Bxg5 hxg5 26. Rbe1 f5 27. Kg2
+fxg4 28. fxg4 Rxf1 29. Kxf1 Kg7 30. Kf2 Kf6 31. Kg3 Ke5 32. h4 gxh4+ 33. Kxh4
+Rh8+ 34. Kg5 Rh2 35. Kxg6 Rxb2 36. g5 Rxa2 37. Rg1 Rf2 38. Kg7 c4 39. g6 c3 40.
+Kg8 c2 41. g7 b4 42. Kh8 Rh2+ 43. Kg8 Rg2 44. Rxg2 c1=Q 45. Rg6 b3 46. Re6+ Kd4
+47. Kf7 b2 48. g8=Q b1=Q 49. Qg3 Qc7+ 50. Re7 Qf1+ 51. Ke6 Qc8+ 52. Rd7 Qcf8
+53. Qg6 Qh3+ 0-1

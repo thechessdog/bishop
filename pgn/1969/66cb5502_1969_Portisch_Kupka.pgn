@@ -1,0 +1,20 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1969.01.01"]
+[Round "4"]
+[White "Portisch, Ferenc"]
+[Black "Kupka, Slavoj"]
+[Result "1/2-1/2"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "66cb5502"]
+[Epoch "Bishop"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. Nf3 c6 6. e3 O-O 7. Be2 e6 8. O-O b6
+9. Rc1 Bb7 10. Qb3 Nbd7 11. c5 Re8 12. a4 Ne4 13. Nxe4 dxe4 14. Ng5 Nf6 15. Be5
+Nd7 16. Nxe4 Nxe5 17. dxe5 Bxe5 18. Rfd1 Qc7 19. f4 Bg7 20. Nd6 Red8 21. Bf3
+Rab8 22. cxb6 Qxb6 23. Qxb6 axb6 24. Nxb7 Rxd1+ 25. Rxd1 Rxb7 1/2-1/2

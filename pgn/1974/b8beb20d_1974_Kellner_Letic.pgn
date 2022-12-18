@@ -1,0 +1,18 @@
+[Event "corr FIN jub10"]
+[Site "corr FIN jub10"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kellner, J."]
+[Black "Letic, S."]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind - Bronstein variation"]
+[HashCode "b8beb20d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8.
+Bc2 Qc7 9. Ne2 Ne7 10. a3 Bxc3+ 11. Nxc3 d5 12. cxd5 exd5 13. O-O dxe4 14.
+Bg5 Ng4 15. g3 e3 16. fxe3 O-O 17. Rf4 f5 18. Bb3+ Kh8 19. Qxg4 Ng6 20. Rc4
+1-0
+

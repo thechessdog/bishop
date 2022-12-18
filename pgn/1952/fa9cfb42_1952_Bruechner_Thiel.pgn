@@ -1,0 +1,17 @@
+[Event "Anhalt"]
+[Site "Anhalt"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Bruechner"]
+[Black "Thiel"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "fa9cfb42"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Be4 5. f3 Bg6 6. h4 f6 7. e6 Qd6 8. Qe2
+h5 9. g5 Bf5 10. Bh3 Qg3+ 11. Kf1 Qxh4 12. Bxf5 Qxh1 13. Bh3 g6 14. Bf4 Bg7
+15. Bg3 1-0
+

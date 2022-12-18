@@ -1,0 +1,20 @@
+[Event "Strasbourg ch20-DDR"]
+[Site "Strasbourg ch20-DDR"]
+[Date "1971.01.01"]
+[Round "11"]
+[White "Baumbach, Friedrich, Dr."]
+[Black "Brameyer, Hermann"]
+[Result "1/2-1/2"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "dc8b239a"]
+[Epoch "Bishop"]
+[WhiteID "4611721"]
+[WhiteCountry "GER"]
+[BlackID "4612019"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. g3 d6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. Nc3 e5 7. d4 Nbd7 8. b3
+Re8 9. Bb2 c6 10. Qc2 Qc7 11. Rad1 e4 12. Nd2 e3 13. Nde4 Nxe4 14. Nxe4 f5 15.
+Ng5 exf2+ 16. Rxf2 Nf6 17. Bc1 1/2-1/2

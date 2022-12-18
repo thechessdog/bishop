@@ -1,0 +1,15 @@
+[Event "Freiberg ch19-DDR"]
+[Site "Freiberg ch19-DDR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hennings, Artur"]
+[Black "Schoeneberg, M."]
+[Result "1/2-1/2"]
+[ECO "C93"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Smyslov defence"]
+[HashCode "d009528c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 h6 10. d4 Re8 11. Be3 Bf8 12. Nbd2 Bb7 13. Qb1 Qb8 14. a4 exd4 1/2-1/2

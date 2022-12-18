@@ -1,0 +1,21 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Shishov, Mikhail"]
+[Black "Beradze, Dzhemal"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "c6a098bf"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8.
+Bh4 Be7 9. Qf3 Nbd7 10. Bd3 g5 11. fxg5 Ne5 12. Qe2 Nfg4 13. Nf3 hxg5 14.
+Bg3 Qb6 15. Nxe5 Nxe5 16. O-O-O Bd7 17. Rdf1 Rc8 18. Bf2 Qa5 19. Kb1 b5 20.
+Bd4 b4 21. Nd1 Bb5 22. b3 f6 23. Nb2 Nxd3 24. cxd3 e5 25. Be3 Bc6 26. Nc4
+Qb5 27. Rxf6 Bxf6 28. Nxd6+ Ke7 29. Nxb5 Bxb5 30. Bb6 Kf7 31. Ba5 Be7 32.
+Qf3+ Kg7 33. Qg3 Rc3 34. Rd1 Rhc8 35. Qxe5+ Bf6 36. Qd6 Bxd3+ 37. Qxd3 Rxd3
+38. Rxd3 Re8 39. Bxb4 Rxe4 40. Bc3 Bxc3 41. Rxc3 Kf6 42. Rc6+ 1-0
+

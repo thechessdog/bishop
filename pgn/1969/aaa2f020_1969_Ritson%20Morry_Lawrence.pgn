@@ -1,0 +1,19 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ritson Morry, W."]
+[Black "Lawrence, J."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "aaa2f020"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d4 fxe4 5. Bxc6 bxc6 6. Nxe5 Nf6 7. Bg5
+Be7 8. Nd2 O-O 9. O-O Qe8 10. Re1 d6 11. Nec4 Bg4 12. Qc1 Qg6 13. Nf1 Rae8
+14. Bh4 Nh5 15. Bxe7 Rxe7 16. Ng3 Qf7 17. Nxh5 Bxh5 18. Qg5 Qxf2+ 19. Kh1
+Ref7 20. Ne3 Rf6 21. h3 Be2 22. Ng4 Bxg4 23. Qxg4 d5 24. Qd1 Qg3 25. Rg1
+Rf2 26. Qe1 R8f3 0-1
+

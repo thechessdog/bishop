@@ -1,0 +1,16 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Stieg, H."]
+[Black "Klemm, W."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "b2a1977f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 d6 6. Bc4 Nc6 7. Qe2 a6 8.
+O-O Be7 9. Rd1 Qc7 10. Bf4 Ne5 11. Bb3 b5 12. Rac1 Qb7 13. Nxe5 dxe5 14.
+Bxe5 Nf6 15. Nd5 Bd8 16. Rc7 Bxc7 17. Nxc7+ Ke7 18. Qd2 1-0
+

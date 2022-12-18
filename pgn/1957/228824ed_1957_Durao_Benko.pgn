@@ -1,0 +1,19 @@
+[Event "Dublin zt"]
+[Site "Dublin zt"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Durão, Joaquim Manuel"]
+[Black "Benko, Pal"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "228824ed"]
+[Epoch "Bishop"]
+[BlackID "2000687"]
+[BlackCountry "USA"]
+[WhiteCountry "PRT"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. Nc3 Be7 8. Be3
+b5 9. b4 Qc7 10. Qd2 O-O 11. a4 bxa4 12. f3 d5 13. Nxa4 dxe4 14. fxe4 Bb7 15.
+Nb3 Nxe4 16. Bxe4 Bxe4 17. Nb6 Ra7 18. Na4 Ra8 19. Nb6 Ra7 20. Na4 1/2-1/2

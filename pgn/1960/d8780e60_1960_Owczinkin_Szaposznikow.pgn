@@ -1,0 +1,19 @@
+[Event "corr ch4-SU"]
+[Site "corr ch4-SU"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Owczinkin"]
+[Black "Szaposznikow"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "d8780e60"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bf4 Ne8 10. e3 g5 11. Bg3 f5 12. Qd2 Bxc3 13. bxc3 b5 14. Nb2
+Qe7 15. f3 Nc7 16. a4 Bb7 17. axb5 f4 18. Bf2 Bxd5 19. O-O-O Qg7 20. c4 Be6
+21. exf4 Nba6 22. bxa6 Rab8 23. Bd4 cxd4 24. Qxd4 Rb6 25. Qxg7+ Kxg7 26. f5
+Rxf5 27. Bd3 Ra5 28. Rhe1 Ra2 29. Re2 Ra1+ 0-1
+

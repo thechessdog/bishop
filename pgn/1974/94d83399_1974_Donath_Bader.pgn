@@ -1,0 +1,20 @@
+[Event "corr ch7-DDR"]
+[Site "corr ch7-DDR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Donath, R."]
+[Black "Bader, H."]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "94d83399"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O b6 8.
+cxd5 exd5 9. dxc5 bxc5 10. Ne2 Bg4 11. b3 Nc6 12. Bb2 d4 13. exd4 Bxf3 14.
+gxf3 Qd5 15. a3 Ba5 16. dxc5 Rad8 17. Nf4 Qg5+ 18. Ng2 Nd5 19. h4 Qh6 20.
+Bc1 Qe6 21. Bd2 Bc7 22. f4 Qh3 23. f3 Nd4 24. Rc1 Ne6 25. Rc4 f5 26. Qc2
+Rf6 27. Rf2 Kh8 28. Bc3 Nxc3 29. Rxc3 Nd4 30. Qd1 Rg6 31. Bxf5 Nxf5 32. Rd3
+Re8 33. Re2 Ne3 34. Rdxe3 Rxe3 35. Qd5 h6 36. Kf1 Rxe2 0-1
+

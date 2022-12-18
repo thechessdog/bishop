@@ -1,0 +1,20 @@
+[Event "Basel"]
+[Site "Basel"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Christoffel, M."]
+[Black "Leepin, P."]
+[Result "1-0"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "0d2225fc"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4
+8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nc6 12. O-O b6 13. Rac1 Bb7
+14. d5 exd5 15. Bxd5 Na5 16. Rfd1 Rc8 17. Rxc8 Qxc8 18. Ne5 Bxd5 19. Qxd5
+Qb7 20. Qd3 h6 21. Nd7 Rc8 22. e5 Qc6 23. h3 Qc2 24. Qf3 Qxa2 25. Nf6+ Kf8
+26. Qf5 Qe6 27. Qh7 Nb3 28. Rd7 Qxd7 29. Nxd7+ Ke7 30. Qxg7 Nd2 31. Qf6+
+Ke8 32. h4 Kxd7 33. Qxf7+ Kc6 34. Qe6+ Kc7 35. Qd6+ Kb7 36. Qxd2 1-0
+

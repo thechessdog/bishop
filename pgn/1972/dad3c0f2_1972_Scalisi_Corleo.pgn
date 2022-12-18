@@ -1,0 +1,20 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Scalisi"]
+[Black "Corleo"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "dad3c0f2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d6 4. d4 Nd7 5. Bd3 g6 6. O-O Bg7 7. a4 e5 8. dxc5
+dxc5 9. Bc4 Ngf6 10. Qd6 Qe7 11. Qxe7+ Kxe7 12. Bd5 Nxd5 13. exd5 Nb6 14.
+Be3 Nxd5 15. Bxc5+ Kd7 16. Re1 Kc6 17. b4 b6 18. Be3 Nxe3 19. Rxe3 Rd8 20.
+Na3 f6 21. Nc2 Bf5 22. Nce1 Ra7 23. Nh4 Be6 24. Nhf3 Bg8 25. g4 Re7 26. b5+
+Kb7 27. Nd4 Red7 28. Nc6 Ra8 29. Rb1 axb5 30. axb5 Bh6 31. Rh3 Bd2 32. Nc2
+Be6 33. f3 Bf4 0-1
+

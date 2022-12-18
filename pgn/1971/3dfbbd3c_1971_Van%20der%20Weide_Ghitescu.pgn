@@ -1,0 +1,24 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1971.07.01"]
+[Round "4"]
+[White "Van der Weide, Piet"]
+[Black "Ghitescu, Theodor"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "3dfbbd3c"]
+[Epoch "Bishop"]
+[WhiteID "1001370"]
+[WhiteCountry "NED"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. Nf3 Qc7 8. a4
+g6 9. Bd3 Bg7 10. O-O O-O 11. Qe1 e6 12. Qh4 Qc5+ 13. Kh1 Qh5 14. Qe1 Nc5 15.
+Be2 Nfxe4 16. Nd2 Qf5 17. g4 Nf2+ 18. Qxf2 Qxc2 19. Qe3 Bd7 20. Bf3 Rac8 21.
+Nde4 Nxe4 22. Bxe4 Bc6 23. Bxc6 Rxc6 24. Bd2 d5 25. Rfc1 Qxb2 26. Rab1 d4 27.
+Rxb2 dxe3 28. Be1 Rfc8 29. Rb3 b5 30. Kg2 b4 31. Rxb4 Bxc3 32. Bxc3 Rxc3 33.
+Rxc3 Rxc3 34. Kf3 Ra3 35. g5 Kg7 36. h4 h5 37. Rc4 a5 38. Re4 Kf8 39. Ke2 Ke7
+40. Kf3 Kd6 41. Rd4+ Ke7 42. Re4 f5 43. Rc4 Kd6 44. Rc8 Rxa4 45. Kxe3 e5 46.
+Rg8 Re4+ 47. Kd3 exf4 48. Rxg6+ Ke5 49. Ra6 f3 50. Rxa5+ Kf4 51. Kd2 f2 0-1

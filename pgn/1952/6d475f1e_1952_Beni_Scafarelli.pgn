@@ -1,0 +1,31 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Beni, Alfred"]
+[Black "Scafarelli, Francesco"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "6d475f1e"]
+[Epoch "Bishop"]
+[BlackID "802867"]
+[BlackCountry "ITA"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 Bg4 7. f3 e5 8. fxg4
+exd4 9. Qxd4 Nxg4 10. Be2 Nc6 11. Qd1 Nge5 12. Be3 Be7 13. Nd5 O-O 14. Qd2 Nd7
+15. O-O-O Re8 16. Rhf1 Bf8 17. Bg4 Nce5 18. Bxd7 Nxd7 19. Qf2 f6 20. Bb6 Nxb6
+21. Nxb6 Rb8 22. Qd4 Qc7 23. Rf5 Re5 24. Rxe5 dxe5 25. Qd5+ Kh8 26. Qe6 Bc5 27.
+Nd5 Qc8 28. Qxc8+ Rxc8 29. Rd3 Bg1 30. Ne7 Re8 31. h3 Bc5 32. Nd5 Rd8 33. Rc3
+Bd6 34. g4 Kg8 35. Rb3 b5 36. Rc3 a5 37. Rc6 a4 38. a3 Kf7 39. Rb6 g6 40. Rxb5
+Ke6 41. Rb7 f5 42. gxf5+ gxf5 43. Rxh7 fxe4 44. c4 Bc5 45. Rh6+ Kf5 46. Rc6 Bd4
+47. Rf6+ Kg5 48. Rf7 Rc8 49. Rg7+ Kh4 50. Rg4+ Kxh3 51. Rxe4 Kg3 52. Kc2 Kf3
+53. Rxd4 exd4 54. Kd3 Rb8 55. Nb4 Kf4 56. Kxd4 Kf5 57. Kd5 Rd8+ 58. Kc6 Rd2 59.
+c5 Rxb2 60. Kb7 Rxb4+ 61. axb4 a3 62. c6 a2 63. c7 a1=Q 64. c8=Q+ Kf4 65. b5
+Ke3 66. Qh3+ Ke2 67. Qg2+ Kd3 68. b6 Qf6 69. Qd5+ Ke2 70. Qb5+ Ke1 71. Qb4+ Kf1
+72. Qc4+ Ke1 73. Ka7 Qa1+ 74. Kb8 Qe5+ 75. Qc7 Qe8+ 76. Qc8 Qe5+ 77. Ka7 Qa5+
+78. Qa6 Qc5 79. Qa4 Qe3 80. Ka6 Qd3+ 81. Qb5 Qd6 82. Qb1+ Kd2 83. Qb2+ Kd1 84.
+Qc3 Ke2 85. Ka7 Qd7+ 86. b7 Qf7 87. Qb2+ Ke1 88. Qe5+ Kd1 89. Kb6 Qg6+ 90. Ka5
+1-0

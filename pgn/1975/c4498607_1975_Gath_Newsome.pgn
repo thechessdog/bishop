@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gath, Neil"]
+[Black "Newsome"]
+[Result "1-0"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "c4498607"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d3 Bd7 5. Nc3 f6 6. h3 a6 7. Bc4 Nh6 8.
+Bxh6 gxh6 9. Nd4 Nxd4 10. Qh5+ Ke7 11. Qf7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Katowice ch18-POL"]
+[Site "Katowice ch18-POL"]
+[Date "1961.01.01"]
+[Round "16"]
+[White "Kostro, Jerzy"]
+[Black "Gniot, Tadeusz"]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "8d18ce76"]
+[Epoch "Bishop"]
+[WhiteID "1101188"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. c4 c6 12. cxb5 cxb5 13. Nc3 Nb8 14. a3 Re8 15.
+dxe5 dxe5 16. Bxf7+ Kxf7 17. Qb3+ Kg6 18. Nh4+ Kh5 19. Qd1+ 1-0

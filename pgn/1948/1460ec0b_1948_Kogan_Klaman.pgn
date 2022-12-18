@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Kogan, Efim"]
+[Black "Klaman, Konstantin"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "1460ec0b"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O b5 8. Bf3
+Ra7 9. Be3 Rd7 10. a4 b4 11. Na2 Bb7 12. Qd3 d5 13. e5 Ne4 14. Nc1 Be7 15. Bg4
+Qc7 16. f4 O-O 17. Ncb3 Nc6 18. Nxc6 Bxc6 19. Bd4 g6 20. Qh3 Rdd8 21. Rf3 Rfe8
+22. Bxe6 fxe6 23. Qxe6+ Kh8 24. Qf7 1-0

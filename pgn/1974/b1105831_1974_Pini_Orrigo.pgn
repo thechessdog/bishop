@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pini"]
+[Black "Orrigo"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "b1105831"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nxc3 7. Bxc3 O-O
+8. d5 Bxc3+ 9. bxc3 c6 10. c4 Na6 11. Nf3 Qa5+ 12. Nd2 Nc5 13. Qc2 cxd5 14.
+cxd5 Bd7 15. Rc1 Rac8 16. Qc3 Nd3+ 0-1
+

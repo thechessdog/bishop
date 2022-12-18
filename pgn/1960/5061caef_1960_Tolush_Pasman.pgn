@@ -1,0 +1,20 @@
+[Event "USSR tt"]
+[Site "USSR tt"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Tolush, Alexander"]
+[Black "Pasman, Michael"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "5061caef"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nbd7 9. Qf3 Be7 10. O-O-O Qc7 11. g4 O-O 12. Bd3 e5 13. f5 b5 14. Be3 b4 15.
+Nd5 Nxd5 16. exd5 Qd8 17. h4 a5 18. g5 a4 19. Nd2 Re8 20. f6 Bf8 21. Qe4 g6 22.
+h5 Nxf6 23. gxf6 Qxf6 24. Rdf1 Bf5 25. Qg2 e4 26. Nxe4 Qe5 27. hxg6 fxg6 28.
+Rxf5 Qxf5 29. Nxd6 Qe5 30. Nc4 Qf6 31. Bg5 Qd4 32. Qh3 Qg7 33. Bf6 Qf7 34. Ne5
+Rxe5 35. Bxe5 Re8 36. d6 Rxe5 37. Bc4 1-0

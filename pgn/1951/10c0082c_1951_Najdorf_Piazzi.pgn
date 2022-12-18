@@ -1,0 +1,17 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Najdorf, Miguel"]
+[Black "Piazzi"]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "symmetrical (Austrian) defence"]
+[HashCode "10c0082c"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Qxd5 4. Nf3 cxd4 5. Nc3 Qd8 6. Qxd4 Qxd4 7. Nxd4 e5
+8. Ndb5 Kd8 9. Be3 Nc6 10. O-O-O+ Bd7 11. g3 Nf6 12. Bh3 Be7 13. Rxd7+ Nxd7 14.
+Rd1 1-0

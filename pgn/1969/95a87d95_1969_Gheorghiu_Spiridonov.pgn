@@ -1,0 +1,26 @@
+[Event "Athene zt"]
+[Site "Athene zt"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gheorghiu, Florin"]
+[Black "Spiridonov, Nikola"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Schlechter variation"]
+[HashCode "95a87d95"]
+[Epoch "Bishop"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. Nc3 g6 5. cxd5 cxd5 6. Bf4 Nc6 7. e3 Bg7 8. h3
+O-O 9. Bd3 a6 10. O-O Bf5 11. Ne5 Bxd3 12. Nxc6 bxc6 13. Qxd3 Qa5 14. Be5 Rfd8
+15. Rfc1 c5 16. dxc5 Qxc5 17. Ne4 Qb4 18. Nxf6+ exf6 19. Bd4 f5 20. a3 Qe7 21.
+Bxg7 Kxg7 22. Qd4+ Kg8 23. Rc5 Qe4 24. Rd1 Rac8 25. Rxd5 Rxd5 26. Qxd5 Qa4 27.
+Rd4 Rc1+ 28. Kh2 Qc2 29. Qe5 Qc7 30. Qxc7 Rxc7 31. Rd5 h5 32. Kg3 Kg7 33. h4
+Rc2 34. b4 f4+ 35. Kxf4 Rxf2+ 36. Kg3 Rf6 37. e4 Kf8 38. e5 Rc6 39. Rc5 Re6 40.
+Kf4 Ke7 41. Rc7+ Kf8 42. Rc5 Kg7 43. Ke4 f6 44. Kd4 fxe5+ 45. Rxe5 Rd6+ 46. Kc5
+Rd2 47. Rg5 Rd3 48. a4 Rc3+ 49. Kb6 Rc4 50. b5 axb5 51. a5 Rxh4 52. a6 Kh6 53.
+Rxb5 Rf4 54. a7 Rf8 55. Kb7 Rf7+ 56. Ka6 Rf8 57. Rb8 Rf2 58. a8=Q Ra2+ 59. Kb5
+Rxa8 60. Rxa8 Kg5 61. Rf8 Kh4 62. Rf3 g5 63. Kc4 g4 64. Re3 g3 65. Kd3 Kg5 66.
+Rxg3+ Kh4 67. Rh3+ 1-0

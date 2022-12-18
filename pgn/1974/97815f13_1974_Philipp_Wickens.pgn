@@ -1,0 +1,18 @@
+[Event "corr WER"]
+[Site "corr WER"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Philipp, W."]
+[Black "Wickens, T."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "97815f13"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 Be7 8.
+a3 b5 9. Ba2 O-O 10. g4 Bb7 11. Qf3 Nbd7 12. g5 Nxe4 13. g6 Nxc3 14. gxf7+
+Rxf7 15. Qxb7 Nxa2 16. Nxe6 Qc8 17. Qxc8+ Rxc8 18. Kd2 Nc3 19. bxc3 Bf6 20.
+Nd4 Nc5 21. f3 Na4 0-1
+

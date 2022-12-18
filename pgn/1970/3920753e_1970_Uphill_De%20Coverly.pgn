@@ -1,0 +1,18 @@
+[Event "Islington"]
+[Site "Islington"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Uphill, RJ."]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "3920753e"]
+[Epoch "Bishop"]
+[BlackID "405213"]
+[BlackCountry "END"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Nxe4 dxe4 6. e3 Bg7 7. g3 c5 8. Bg2
+Qb6 9. Rb1 Bf5 10. Ne2 Nc6 11. Bf4 cxd4 12. exd4 Nxd4 13. Be3 Rd8 14. Qc1 O-O
+15. c5 Qb4+ 16. Bd2 Qb5 17. Nc3 Qd3 18. Be3 Nc2+ 0-1

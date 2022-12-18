@@ -1,0 +1,21 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Soininen"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "ee82b1c4"]
+[Epoch "Bishop"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 cxd4 9. cxd4 O-O 10. Be3 Nc6 11. O-O Bd7 12. Rb1 Rc8 13. d5 Na5 14. Bd3 b6
+15. Ba6 Rc7 16. Qd3 Bc8 17. Rbc1 Bxa6 18. Qxa6 Qc8 19. Qxc8 Rfxc8 20. Rxc7 Rxc7
+21. Rc1 Rxc1+ 22. Nxc1 Nc4 23. Nb3 Nxe3 24. fxe3 Kf8 25. Kf2 e6 26. dxe6 fxe6
+27. Nd4 Ke7 28. Nc6+ Kd6 29. Nxa7 Kc5 30. Nc8 b5 31. Ke2 e5 32. Ne7 Kb4 33.
+Nd5+ Ka3 0-1

@@ -1,0 +1,28 @@
+[Event "ITA-ch28"]
+[Site "Savona"]
+[Date "1967.??.??"]
+[Round "1"]
+[White "Magrin, Antonio"]
+[Black "Romani, Elio"]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "ca3cd178"]
+[Epoch "Bishop"]
+[WhiteID "803243"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8. Ne2
+dxc4 9. Bxc4 cxd4 10. exd4 Bd6 11. Bg5 b6 12. Ng3 Bb7 13. Re1 Rc8 14. Bd3 Bxg3
+15. hxg3 h6 16. Bxf6 Qxf6 17. Qa4 Rfd8 18. Rad1 a6 19. Rd2 b5 20. Qd1 Nb4 21.
+Bb1 Bxf3 22. gxf3 Rc4 23. Re4 Rdc8 24. Qe2 Rc1+ 25. Rd1 Qg5 26. f4 Qd5 27. a3
+Na2 28. Kh2 Rxd1 29. Qxd1 Rc1 30. Bxa2 Rxd1 31. Bxd5 exd5 32. Re8+ Kh7 33. Ra8
+Rxd4 34. Rxa6 b4 35. Ra4 Rd2 36. Rxb4 Rxf2+ 37. Kg1 Rc2 38. Kf1 d4 39. Rxd4
+Rxb2 40. Rd3 h5 41. Ke1 Ra2 42. Kd1 Kg6 43. Kc1 f6 44. Kb1 Rf2 45. Kc1 Kf5 46.
+Kd1 Kg4 47. Ke1 Ra2 48. Kf1 f5 49. Rd7 Kxg3 50. Rxg7+ Kxf4 51. Rh7 Kg4 52. Rg7+
+Kf4 53. Rh7 Kg5 54. Rg7+ Kf6 55. Rh7 Kg6 56. Ra7 h4 57. Kg1 Kg5 58. Rg7+ Kf4
+59. Rh7 Rxa3 60. Kh2 Kg4 61. Rg7+ Kf3 62. Rh7 Ra4 63. Rb7 Re4 64. Kh3 f4 65.
+Kxh4 Kf2 66. Kh3 f3 67. Rf7 Re8 68. Ra7 Kf1 69. Kg3 f2 70. Ra1+ Re1 71. Ra2
+Re3+ 72. Kh2 Re8 73. Ra1+ Ke2 74. Ra2+ Kf3 75. Ra3+ Re3 76. Ra1 Re1 77. Ra3+
+Ke4 0-1

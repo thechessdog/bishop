@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Domanski, J."]
+[Black "Ackermann, H."]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "e5ddf61a"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 Nb6 9. O-O Bd7 10. Nb3 a5 11. Be3 Nb4 12. Bb1 Nc4 13. Bc1 Be7 14. Nf4
+O-O 15. Qg4 Rc8 16. Nd2 Nxd2 17. Bxd2 Nc2 18. Bxc2 Rxc2 19. Nh5 g6 20. Bh6
+Re8 21. Qf4 Rxb2 22. Rfc1 Bc6 23. Rc3 Qb6 24. Nf6+ Kh8 25. Qh4 1-0
+

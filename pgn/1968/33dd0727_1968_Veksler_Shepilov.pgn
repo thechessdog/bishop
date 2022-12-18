@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Veksler, Alexander"]
+[Black "Shepilov"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "33dd0727"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. Bd3 a6 10. a4 O-O 11. Nf3 Qc7 12. Qb3 Re8 13. O-O b6 14. e5
+dxe5 15. d6 Qxd6 16. Bc4 Rf8 17. Ne4 Qe7 18. fxe5 Nxe5 19. Nxe5 Bxe5 20.
+Bg5 Qc7 21. Bh6 Bf5 22. Bxf8 Kxf8 23. Ng3 Bxg3 24. hxg3 h5 25. Qe3 Ra7 26.
+Rae1 Qd8 27. Kh2 Kg7 28. Rd1 Qf6 29. Bd3 Re7 30. Qf4 Re5 31. Bxf5 Rxf5 32.
+Qc1 Nc6 33. Rxf5 Qxf5 34. Qf4 Nd4 35. Qxf5 gxf5 36. b4 a5 37. bxa5 bxa5 38.
+Rc1 Ne6 39. Rb1 Kf6 40. Rb5 Ke5 41. Rxa5 Kd4 42. Ra6 c4 43. a5 c3 44. Rc6
+Nc5 45. a6 c2 46. a7 c1=Q 47. a8=Q Qc4 48. Qa1+ Ke4 49. Qa7 Kd4 50. Qe7 f4
+51. gxf4 1-0
+

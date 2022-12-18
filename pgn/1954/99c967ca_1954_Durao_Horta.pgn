@@ -1,0 +1,16 @@
+[Event "Lisbon"]
+[Site "Lisbon"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Durão, Joaquim Manuel"]
+[Black "Horta, Hector"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "99c967ca"]
+[Epoch "Bishop"]
+[BlackID "1712209"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 Nf6 3. Bg5 Be7 4. Bd3 O-O 5. Nc3 Nxe4 6. Bxe7 Nxc3 7. Bxh7+ Kh8
+8. Qh5 1-0

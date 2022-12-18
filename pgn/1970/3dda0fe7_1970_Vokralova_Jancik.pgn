@@ -1,0 +1,16 @@
+[Event "CSR tt"]
+[Site "CSR tt"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Vokralova"]
+[Black "Jancik"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "3dda0fe7"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Bd2 Ngxe5 7. Nxe5
+Nxe5 8. Bc3 d6 9. b4 Bb6 10. c5 1-0
+

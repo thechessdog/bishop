@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Reyze"]
+[Result "1-0"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "384aaafc"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 d6 6. d5 c5 7. Nh3 Na6 8. O-O O-O
+9. Bg5 Nc7 10. Qd2 Bd7 11. Bh6 Rb8 12. Bxg7 Kxg7 13. a4 b6 14. Rfe1 e5 15. dxe6
+Bxe6 16. b3 d5 17. Nb5 Nxb5 18. axb5 dxc4 19. Rxa7+ Rf7 20. Qxd8 Rxd8 21. Ng5
+Rxa7 22. Nxe6+ Kg8 23. Nxd8 cxb3 24. Nc6 Ra2 25. Ne7+ Kg7 26. Nd5 Rc2 27. Ne3
+Ra2 28. Rb1 b2 29. Bf1 Ne4 30. Nc4 Ra4 31. e3 Rxc4 32. Bxc4 Nd2 33. Ba2 Nxb1
+34. Bxb1 Kf6 35. Kf1 Ke5 36. Ke2 c4 37. Kd2 Kd5 38. Kc3 Kc5 39. Ba2 1-0

@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1972.01.01"]
+[Round "7"]
+[White "Busquets, Luis"]
+[Black "McCormick, Edgar Thomas"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "5183fe82"]
+[Epoch "Bishop"]
+[WhiteID "2001926"]
+[WhiteCountry "USA"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 e6 6. Nf3 Be7 7. Bg5 O-O 8. Rc1
+Nc6 9. c5 Ne4 10. Bxe7 Qxe7 11. Bb5 Bd7 12. O-O f5 13. Bxc6 Bxc6 14. Ne5 Qh4
+15. Nxc6 bxc6 16. Qa4 Rf6 17. Qxc6 Raf8 18. Qd7 Rg6 19. c6 Qg4 20. g3 Qh3 21.
+Nxe4 fxe4 22. f4 exf3 23. Rf2 Qh6 24. Rc3 Qf4 25. Rcxf3 1-0

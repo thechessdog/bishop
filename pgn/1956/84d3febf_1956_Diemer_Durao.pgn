@@ -1,0 +1,18 @@
+[Event "Hoogovens-B"]
+[Site "Beverwijk"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Durão, Joaquim Manuel"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "84d3febf"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+[BlackCountry "PRT"]
+
+1. e4 Nf6 2. Nc3 d5 3. d4 Nxe4 4. Nxe4 dxe4 5. Bf4 Nd7 6. f3 exf3 7. Nxf3 Nf6
+8. Bc4 e6 9. O-O Be7 10. Qe1 O-O 11. Bd3 Nd5 12. Be5 Bf6 13. c4 Bxe5 14. dxe5
+Nf4 15. Bc2 Qe7 16. Qe3 Ng6 17. Ng5 h6 18. Nxf7 Rxf7 19. Bxg6 Rxf1+ 20. Rxf1
+Bd7 21. Rf7 Qd8 22. Qf3 1-0

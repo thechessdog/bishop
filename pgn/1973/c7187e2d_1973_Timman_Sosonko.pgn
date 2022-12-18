@@ -1,0 +1,21 @@
+[Event "SB"]
+[Site "Amsterdam"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Sosonko, Gennadi"]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "c7187e2d"]
+[Epoch "Bishop"]
+[WhiteID "1000012"]
+[BlackID "1000039"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6 8. h4
+h5 9. f3 O-O 10. Qd2 d5 11. Nxc6 bxc6 12. e5 Nd7 13. f4 Qa5 14. g4 hxg4 15. h5
+gxh5 16. Rxh5 f5 17. Bxg4 fxg4 18. Qd3 Rf7 19. e6 Nf6 20. exf7+ Kxf7 21. Re5
+Rb8 22. O-O-O Rb4 23. a3 Rc4 24. Qxc4 1-0

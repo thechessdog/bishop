@@ -1,0 +1,23 @@
+[Event "Cienfuegos"]
+[Site "Cienfuegos"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Garcia, Gildardo"]
+[Black "Balashov, Yuri S"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "75a069b6"]
+[Epoch "Bishop"]
+[WhiteID "4400020"]
+[BlackID "4100263"]
+[WhiteCountry "COL"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Nxd2 9. Qxd2 a5 10. a3 Bxc3 11. Nxc3 a4 12. Be2 O-O 13. O-O b6 14. Na2 bxc5 15.
+dxc5 Qa5 16. Nb4 Qxc5 17. Rac1 Qb6 18. Rc3 Bb7 19. Rg3 Nd7 20. Rd1 Qd6 21. Bb5
+Ne5 22. Re1 Ng6 23. Qd1 d4 24. Bxa4 e5 25. Bb3 Kh8 26. Qh5 f5 27. Nd3 Rac8 28.
+Rg5 Nf4 29. Nxf4 exf4 30. Rxf5 Qc6 31. Rxf8+ Rxf8 32. f3 d3 33. Qa5 d2 34. Rd1
+Ra8 35. Rxd2 Qe8 0-1

@@ -1,0 +1,23 @@
+[Event "Oberhausen etc"]
+[Site "Oberhausen etc"]
+[Date "1961.06.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Pfeiffer, Gerhard"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "d0c5f8f8"]
+[Epoch "Bishop"]
+[BlackID "1649027"]
+[BlackCountry "AUT"]
+[WhiteCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. c5 b6 8. b4
+O-O 9. Bd3 Bb7 10. O-O a5 11. Na4 Nbd7 12. Bb5 Rc8 13. Ne5 Nxe5 14. dxe5 bxc5
+15. exf6 Bxf6 16. Nxc5 Bxa1 17. Be3 d4 18. Bf4 Qd5 19. Nxb7 Qxb7 20. Qe2 Bc3
+21. bxa5 Bxa5 22. Ba6 Qd5 23. Bxc8 Rxc8 24. Rd1 Bc3 25. Qc2 Ra8 26. a4 h6 27.
+Rb1 Qc4 28. Qe4 Qxa4 29. h4 Rd8 30. Bc7 Rc8 31. Be5 Qd7 32. Rb7 Qd5 33. Qxd5
+exd5 34. Rd7 f6 35. Bf4 Rc5 36. Rb7 g5 37. Bd6 Ra5 38. Kf1 d3 39. Rb1 Kf7 40.
+h5 Ke6 41. Bf8 Ra8 0-1

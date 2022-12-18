@@ -1,0 +1,17 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Noorda"]
+[Black "Siba"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "44e24c3e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3 Qd6
+8. Be3 g6 9. d5 Ne5 10. Nxe5 Bxd1 11. Bb5+ Kd8 12. Nxf7+ Kc7 13. Nxd6 exd6
+14. Rxd1 1-0
+

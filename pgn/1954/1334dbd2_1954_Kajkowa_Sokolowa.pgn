@@ -1,0 +1,17 @@
+[Event "Moscow Wch"]
+[Site "Moscow Wch"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Kajkowa, O."]
+[Black "Sokolowa"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "1334dbd2"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Be7 5. Nf3 Nf6 6. Bd3 Nc6 7. O-O Nb4
+8. Re1 Nxd3 9. Qxd3 b6 10. Ne5 Nxe4 11. Qxe4 Qd5 12. Qxd5 exd5 13. Nc6 Be6
+14. c4 Bd6 15. cxd5 Kd7 16. Ne5+ Bxe5 17. dxe6+ Kxe6 18. Rxe5+ 1-0
+

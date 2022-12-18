@@ -1,0 +1,17 @@
+[Event "Russia"]
+[Site "Russia"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Yuravlev"]
+[Black "Nezhmetdinov, Rashid"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[HashCode "19bea13f"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bb4+ 5. c3 Be7 6. g3 d5 7. Bb5 Bd7 8.
+exd5 Nxd4 9. Bxd7+ Qxd7 10. Qxd4 Nf6 11. c4 Qh3 12. Nc3 Qg2 13. Rf1 c5 14. Qf4
+O-O 15. d6 Bxd6 16. Qxd6 Rad8 17. Qf4 Rfe8+ 18. Be3 Rd4 19. Qf5 Rxe3+ 20. Ne2
+Re6 0-1

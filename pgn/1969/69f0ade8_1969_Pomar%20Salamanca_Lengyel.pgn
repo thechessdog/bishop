@@ -1,0 +1,22 @@
+[Event "Malaga"]
+[Site "Malaga"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Pomar Salamanca, Arturo"]
+[Black "Lengyel, Laszlo"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "69f0ade8"]
+[Epoch "Bishop"]
+[BlackID "701998"]
+[BlackCountry "HUN"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+Na6 9. O-O Nc7 10. a4 O-O 11. Rb1 b6 12. f3 Nd7 13. f4 Na6 14. Nb5 Nf6 15. Bd2
+Re8 16. Qc2 c4 17. Qxc4 Nc5 18. Nec3 a6 19. Na3 Bd7 20. b4 b5 21. axb5 axb5 22.
+Naxb5 Nxd3 23. Be3 Nxe4 24. Nxe4 Rxe4 25. Qxe4 Bxb5 26. Bd4 Qe8 27. Qe3 Qxe3+
+28. Bxe3 Re8 29. Bb6 Re4 30. g3 Nxb4 31. Rfc1 Bd7 32. Bc7 Bd4+ 33. Kg2 Bc5 34.
+Re1 Rd4 35. Rbd1 Rxd1 36. Rxd1 Nxd5 0-1

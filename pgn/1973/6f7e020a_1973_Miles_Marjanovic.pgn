@@ -1,0 +1,20 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Miles"]
+[Black "Marjanovic, Slavoljub"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "6f7e020a"]
+[Epoch "Bishop"]
+[BlackID "900354"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 b5 8. O-O
+e5 9. Nf3 Be7 10. Kh1 Nbd7 11. Qe1 O-O 12. fxe5 dxe5 13. Bg5 b4 14. Nd1 h6 15.
+Bh4 Nc5 16. Bxf6 Bxf6 17. Qxb4 Be6 18. b3 Rfd8 19. Nf2 Rac8 20. Qd2 a5 21. Qe2
+Nxd3 22. cxd3 a4 23. Nd2 axb3 24. Nxb3 Qc2 25. Qf3 Bg5 26. g3 f5 27. exf5 Bd5
+28. Ne4 Rc3 29. Rfd1 Bc6 30. Qg2 Rdxd3 31. Qxc2 Rxc2 32. Re1 Be3 0-1

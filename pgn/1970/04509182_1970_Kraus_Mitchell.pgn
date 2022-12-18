@@ -1,0 +1,19 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kraus, E."]
+[Black "Mitchell, G."]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "04509182"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d4 Bg4 10. Bd5 Nxd5 11. exd5 Na5 12. dxe5 dxe5 13. h3 Bxf3 14.
+Qxf3 Bd6 15. b3 Qe7 16. Bb2 f5 17. Qe2 Rae8 18. Nd2 Nb7 19. c4 b4 20. Nf3
+e4 21. Nd4 Nc5 22. Qc2 Qh4 23. Rad1 f4 24. Ne6 f3 25. Nxf8 Qg5 26. g3 Bxg3
+27. fxg3 Qxg3+ 28. Kf1 Rxf8 0-1
+

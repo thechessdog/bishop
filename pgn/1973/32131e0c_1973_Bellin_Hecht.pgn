@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1973.07.01"]
+[Round "4"]
+[White "Bellin, Robert"]
+[Black "Hecht, Hans-Joachim"]
+[Result "0-1"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Schmid variation"]
+[HashCode "32131e0c"]
+[Epoch "Bishop"]
+[WhiteID "400343"]
+[WhiteCountry "ENG"]
+[BlackID "4600320"]
+[BlackCountry "DEU"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nb6 5. a4 a5 6. Nc3 Bg4 7. h3 Bxf3 8. Qxf3
+d5 9. e6 fxe6 10. Qh5+ Kd7 11. Bf4 g6 12. Qg4 Bg7 13. O-O-O Qf8 14. Bh2 Na6 15.
+Qg3 e5 16. dxe5 e6 17. f4 Qb4 18. Qf2 Nc4 19. Bxc4 Qxc4 20. Rd4 Qc6 21. g4 Raf8
+22. Qg2 Kc8 23. Kb1 Rhg8 24. Re1 Bh6 25. Qd2 b6 26. Nb5 Kb7 27. c4 Nc5 28. cxd5
+exd5 29. g5 Nxa4 30. Rxd5 Nc5 31. gxh6 Qxb5 32. Bg1 Nb3 33. Qg2 Qc6 34. e6 Rxf4
+35. e7 Ra4 36. Bc5 Ra1+ 37. Kc2 Rxe1 38. Kxb3 bxc5 0-1

@@ -1,0 +1,23 @@
+[Event "Leipzig olm prel"]
+[Site "Leipzig"]
+[Date "1960.??.??"]
+[Round "2"]
+[White "Petersen, Finn"]
+[Black "Lengyel, Levente"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "38a95681"]
+[Epoch "Bishop"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 Ne4 7. Qc2 f5 8. O-O
+Bxc3 9. bxc3 O-O 10. Nd2 Qh4 11. Nb3 Rf6 12. f3 Ng5 13. Qf2 Qh5 14. Be2 d6 15.
+h4 Nf7 16. f4 Qg6 17. h5 Qh6 18. Bf3 d5 19. Ba3 Nc6 20. cxd5 exd5 21. Bxd5 Qxh5
+22. Bf3 Qh6 23. d5 Na5 24. Be7 Nxb3 25. axb3 Rg6 26. d6 c6 27. d7 Re6 28. Qh4
+Qxh4 29. Bxh4 a6 30. Rfd1 Nd8 31. b4 Kf8 32. Kf2 Re7 33. Bxe7+ Kxe7 34. g4 fxg4
+35. Bxg4 Nf7 36. d8=Q+ Rxd8 37. Rxd8 Nxd8 38. Be2 b5 39. Rh1 h6 40. Rg1 Kf8 41.
+Rd1 Ne6 42. Bg4 Ke7 43. Bxe6 Kxe6 44. Rd8 1-0

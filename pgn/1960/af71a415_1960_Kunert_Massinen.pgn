@@ -1,0 +1,18 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Kunert, G."]
+[Black "Massinen, P."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack"]
+[HashCode "af71a415"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. dxe5 Bb4 6. Bd2 Nc6 7. Bb5 Bd7
+8. Qe2 O-O-O 9. Bxc6 Bxc6 10. Rd1 Nh6 11. f4 Bxc3 12. Bxc3 Rxd1+ 13. Qxd1
+Qxa2 14. Nf3 Rd8 15. Qc1 Qc4 16. Kf2 Qc5+ 17. Kg3 Nf5+ 18. Kh3 h5 19. Be1
+Bd7 0-1
+

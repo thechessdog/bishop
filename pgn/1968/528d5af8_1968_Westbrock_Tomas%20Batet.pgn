@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Westbrock, JT."]
+[Black "Tomas Batet, Joan"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "528d5af8"]
+[Epoch "Bishop"]
+[BlackID "2205270"]
+[BlackCountry "ESP"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. e4 g5 8. Bg3 Nxe4
+9. Be5 f6 10. Bd3 Bxc3+ 11. bxc3 fxe5 12. Qh5+ Ke7 13. Bxe4 Qa5 14. Ne2 Kd8 15.
+Qf7 Re8 16. d6 Nc6 17. Qf6+ 1-0

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Steiner, J."]
+[Black "Dunhaupt, H."]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "168e04cd"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nbd7 8.
+a3 Ba5 9. Qc2 dxc4 10. Bxc4 Qe7 11. Bd2 a6 12. dxc5 Qxc5 13. Na4 Qh5 14. b4
+Bc7 15. Bd3 Bb8 16. Rac1 b5 17. Qc6 Ra7 18. Qxc8 g5 19. h3 g4 20. hxg4 Nxg4
+21. Rfd1 Rxc8 22. Rxc8+ Kg7 23. Nc5 Be5 24. Rc1 Bf6 25. Be2 Nde5 26. Ne4
+Rd7 27. R1c2 Nxf3+ 28. Bxf3 Be5 29. R8c6 Qg6 30. Nc5 Rd6 31. Be4 Qf6 32. f4
+Bxf4 33. Nxe6+ Rxe6 0-1
+

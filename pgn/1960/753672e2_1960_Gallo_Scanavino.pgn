@@ -1,0 +1,16 @@
+[Event "Azul ch-ARG jr"]
+[Site "Azul ch-ARG jr"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Gallo, R."]
+[Black "Scanavino, E."]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Neo-Indian (Seirawan) attack"]
+[HashCode "753672e2"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. Bg5 c5 4. d5 exd5 5. cxd5 Qb6 6. Bxf6 Qxf6 7. Nc3 g6
+8. Nf3 Bg7 9. e3 Qb6 10. Qc2 O-O 11. Bc4 a6 12. Rd1 Qb4 13. Bb3 c4 14. Bxc4
+Qxc4 15. d6 b5 16. h4 b4 17. Nd5 Qxc2 0-1
+

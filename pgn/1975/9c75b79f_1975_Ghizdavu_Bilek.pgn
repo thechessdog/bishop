@@ -1,0 +1,18 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1975.04.01"]
+[Round "4"]
+[White "Ghizdavu, Dumitru"]
+[Black "Bilek, Istvan"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "9c75b79f"]
+[Epoch "Bishop"]
+[WhiteID "2000610"]
+[WhiteCountry "USA"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Qe2 Bg4
+8. Qxe7+ Bxe7 9. h3 Be6 10. Bxe6 fxe6 11. Ne2 Kf7 12. Be3 1/2-1/2

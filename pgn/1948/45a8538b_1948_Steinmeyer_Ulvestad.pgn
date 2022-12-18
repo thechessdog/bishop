@@ -1,0 +1,18 @@
+[Event "Baltimore"]
+[Site "Baltimore"]
+[Date "1948.01.01"]
+[Round "6"]
+[White "Steinmeyer, Robert"]
+[Black "Ulvestad, Olaf"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "45a8538b"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Bxc3+ 6. bxc3 d6 7. Ne2 e5 8. Ng3
+Nc6 9. d5 Ne7 10. O-O h5 11. e4 h4 12. Ne2 Nh5 13. Bg5 f6 14. Bxh4 g5 15. Bg3
+Ng6 16. Qd2 Qe7 17. f3 Qh7 18. Rab1 Ngf4 19. Kf2 Nxg2 20. Rh1 Bh3 21. Rbg1 Nhf4
+22. Bxf4 gxf4 23. Rxg2 Qh4+ 24. Rg3 Bd7 25. Rg1 O-O-O 26. Kf1 fxg3 0-1

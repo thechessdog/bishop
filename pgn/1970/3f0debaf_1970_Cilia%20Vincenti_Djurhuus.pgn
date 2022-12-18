@@ -1,0 +1,16 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Cilia Vincenti, V."]
+[Black "Djurhuus, R2."]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "3f0debaf"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 d6 4. g3 Bg7 5. Bg2 c5 6. O-O cxd4 7. Nxd4 O-O 8. Nc3
+a6 9. e4 e6 10. Be3 Qc7 11. Qe2 Nc6 12. Nxc6 bxc6 13. Rfd1 Bb7 14. h3 Nd7 15.
+Qd2 Ne5 16. b3 Rfd8 17. Rac1 f6 18. Na4 c5 19. b4 Bc6 20. Qc2 Bxa4 21. Qxa4
+cxb4 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Munich olm fin-B"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "10"]
+[White "Arnlind, Erik"]
+[Black "Koskinen, Heikki"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "caf0e44a"]
+[Epoch "Bishop"]
+[BlackCountry "FIN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Ne2 Bf5 7. Ng3 Bg6
+8. c3 e6 9. h4 h6 10. Bd3 Bxd3 11. Qxd3 Nd7 12. Bd2 Qc7 13. O-O-O O-O-O 14. Qf3
+f5 15. Bf4 Bd6 16. Nh5 Nb6 17. Bxd6 Qxd6 18. Nf4 Rhg8 19. g3 1/2-1/2

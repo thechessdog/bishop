@@ -1,0 +1,20 @@
+[Event "Berlin tt"]
+[Site "Berlin tt"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kauschmann"]
+[Black "Huebner, Robert"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "e687fddd"]
+[Epoch "Bishop"]
+[BlackID "4600010"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. O-O Bb7 8. Bf3
+Nc6 9. Nxc6 dxc6 10. Qe2 Bd6 11. h3 Ne7 12. Bh5 O-O 13. f4 f5 14. e5 Bb4 15.
+Nd1 c5 16. Bf3 c4 17. Bxb7 Qxb7 18. Be3 Nd5 19. Bd4 Rfd8 20. Ne3 Ne7 21. c3 Nc6
+22. Nc2 Nxd4 23. Nxd4 Bc5 24. Rfd1 Qb6 25. Qf2 Rd5 26. Rd2 Rad8 27. Rad1 b4 28.
+Kf1 Qa5 29. cxb4 Qxb4 0-1

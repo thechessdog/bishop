@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Howard"]
+[Black "Adams, Weaver Warren"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "8f406695"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Qc2 h6 7. a3 a5 8. Bg2 g5
+9. O-O Bg7 10. Rd1 g4 11. Nh4 Nxe5 12. Bxb7 Rb8 13. Bd5 Ne7 14. Nc3 O-O 15. Bf4
+dxc3 16. Bxe6 Rxb2 17. Qe4 Qa8 18. Bd5 Nxd5 19. Rxd5 Re8 20. Bxe5 Rxe5 21. Qd3
+Rd2 22. Qb1 Rexd5 23. cxd5 c2 0-1

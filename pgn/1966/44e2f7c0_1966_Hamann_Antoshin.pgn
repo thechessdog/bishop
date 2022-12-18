@@ -1,0 +1,18 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Hamann, Svend"]
+[Black "Antoshin, Vladimir S"]
+[Result "0-1"]
+[ECO "B44"]
+[Opening "Sicilian, Szen (`anti-Taimanov') variation"]
+[HashCode "44e2f7c0"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. Bf4 e5 7. Be3 a6 8. N5c3
+Nf6 9. Be2 Be7 10. O-O O-O 11. Nd2 b5 12. a4 b4 13. Nd5 Nxd5 14. exd5 Na5 15.
+f4 exf4 16. Bxf4 Bf5 17. Kh1 Bg6 18. Nf3 Bf6 19. Ra2 Bxc2 20. Qxc2 b3 0-1

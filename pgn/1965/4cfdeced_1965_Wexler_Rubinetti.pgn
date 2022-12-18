@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1965.01.01"]
+[Round "2"]
+[White "Wexler, Bernardo"]
+[Black "Rubinetti, Jorge"]
+[Result "1/2-1/2"]
+[ECO "A53"]
+[Opening "Old Indian"]
+[Variation "Janowski variation"]
+[HashCode "4cfdeced"]
+[Epoch "Bishop"]
+[BlackID "100161"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. f3 e5 5. d5 Be7 6. e4 Bg6 7. Be3 O-O 8. Bd3
+Nbd7 9. Nge2 c6 10. O-O Qc7 11. b4 c5 12. b5 Ne8 13. g4 Qd8 14. a4 Bg5 15. Bxg5
+Qxg5 16. Qc1 Qxc1 17. Rfxc1 1/2-1/2

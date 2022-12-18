@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Zagorovsky, Mikhail"]
+[Black "Lipnitsky, Isaak"]
+[Result "1-0"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Alapin variation"]
+[HashCode "b596747f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. c4 Ne7 8. Be3
+Rb8 9. Qd2 d5 10. dxe5 dxe4 11. exf6 exf3 12. f7+ Kxf7 13. Qxd8 fxg2 14. Rg1
+Nd5 15. Nc3 Nxe3 16. fxe3 1-0

@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Hugot, Claude"]
+[Black "O'Kelly, Albéric de Galway"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "d0019d0a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. a3 Bxc3+ 7. Qxc3 Nxc5 8.
+Bg5 a5 9. Qe5 d6 10. Bxf6 gxf6 11. Qf4 e5 12. Qh6 Qb6 13. Rb1 Bf5 14. Qxf6 Bxb1
+15. Qxh8+ Ke7 16. Qxa8 Ne4 17. e3 Qxb2 18. Qxa5 Qxf2+ 19. Kd1 Qxf1+ 20. Qe1
+Qd3+ 0-1

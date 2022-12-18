@@ -1,0 +1,22 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Aleman Dovo, Miguel"]
+[Black "Ortega, Rogelio"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "bdfd9339"]
+[Epoch "Bishop"]
+[WhiteCountry "CUB"]
+[BlackCountry "CUB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 cxd4 11. cxd4 Qc7 12. h3 Bb7 13. d5 O-O 14. Nbd2 Bc8 15.
+Nf1 Bd7 16. g4 h5 17. N3h2 hxg4 18. hxg4 Rfc8 19. Bd3 g6 20. Kg2 Kg7 21. Ng3
+Rh8 22. f3 Nh7 23. Be3 Qd8 24. Qd2 Ng5 25. Rh1 Nh3 26. Nhf1 Nf4+ 27. Bxf4 exf4
+28. Qxf4 Rxh1 29. Nxh1 Nb7 30. Qd2 Nc5 31. Nf2 Bf6 32. Ng3 Na4 33. Rh1 Nxb2 34.
+g5 Be5 35. Ne2 Qb6 36. f4 Bd4 37. Bb1 b4 38. Nxd4 Nc4 39. Qd3 Rc8 40. f5 gxf5
+41. exf5 Rg8 42. Qxc4 1-0

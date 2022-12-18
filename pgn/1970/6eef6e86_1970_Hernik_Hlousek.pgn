@@ -1,0 +1,17 @@
+[Event "Havirov ch-CSSR"]
+[Site "Havirov ch-CSSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Herink, Miroslav"]
+[Black "Hlousek, Zdenek"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "6eef6e86"]
+[Epoch "Bishop"]
+[BlackID "343951"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nc3 Bg7 7. Nf3 O-O 8. O-O
+Ne4 9. Ne5 Nxc3 10. bxc3 Nc6 11. Nxc6 bxc6 12. e4 Be6 1/2-1/2

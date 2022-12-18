@@ -1,0 +1,17 @@
+[Event "Wichita"]
+[Site "Wichita"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Means, R."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Breyer gambit"]
+[HashCode "4cb51845"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Qf3 Qh4+ 4. g3 fxg3 5. hxg3 Qf6 6. Nc3 Qxf3 7. Nxf3 Be7
+8. Nd5 Bd8 9. Bc4 Nf6 10. d3 Nxd5 11. Bxd5 c6 12. Bb3 Bc7 13. e5 d6 14. Ng5 d5
+15. Nxh7 Bf5 16. Nf6+ 1-0

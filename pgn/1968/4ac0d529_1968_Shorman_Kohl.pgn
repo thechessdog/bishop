@@ -1,0 +1,17 @@
+[Event "Hayward"]
+[Site "Hayward"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Shorman, R."]
+[Black "Kohl, L."]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "4ac0d529"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 O-O 6. h5 c5 7. d5 e6 8. Bg5
+exd5 9. Nxd5 Nbd7 10. hxg6 fxg6 11. Bc4 Qa5+ 12. Bd2 Qd8 13. Nxf6+ Kh8 14.
+Rxh7# 1-0
+

@@ -1,0 +1,17 @@
+[Event "Raach zt"]
+[Site "Raach"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Jakobsen, Ole"]
+[Black "Hartoch, Robert G"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "92128e7a"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+[BlackCountry "NLD"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. Be2 O-O 8. Ne5
+Nc6 9. Nxc6 bxc6 10. c5 e5 11. dxe5 Nd7 12. Be3 1/2-1/2

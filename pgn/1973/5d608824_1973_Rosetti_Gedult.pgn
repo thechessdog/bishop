@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Rosetti"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "5d608824"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. h3 Bg3# 0-1

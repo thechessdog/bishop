@@ -1,0 +1,23 @@
+[Event "Freiberg ch19-DDR"]
+[Site "Freiberg ch19-DDR"]
+[Date "1970.01.01"]
+[Round "19"]
+[White "Brameyer, Hermann"]
+[Black "Lorenz, Gerd"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "d248c751"]
+[Epoch "Bishop"]
+[WhiteID "4612019"]
+[WhiteCountry "GER"]
+[BlackID "4612272"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. h3 Nf6 5. Nc3 O-O 6. Be2 Nbd7 7. O-O c5 8. d5
+Rb8 9. Re1 Ne8 10. Bf4 Nc7 11. Bf1 b5 12. Qd2 b4 13. Nd1 Nb5 14. Bh6 Ba6 15.
+Bxg7 Kxg7 16. Ne3 f6 17. Ng4 Nc7 18. Bxa6 Nxa6 19. a3 b3 20. c4 Nc7 21. Rac1
+Qc8 22. Rc3 Nb6 23. Qh6+ Kg8 24. Nh4 Rf7 25. Rg3 Qf8 26. Qc1 Kh8 27. Rxb3 Nd7
+28. Rxb8 Qxb8 29. f4 Rf8 30. Qc3 Nb6 31. b3 Qd8 32. e5 Nd7 33. Nf3 Ne8 34. Ng5
+1-0

@@ -1,0 +1,21 @@
+[Event "Hammersmith"]
+[Site "Hammersmith"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Burton, GP."]
+[Black "De Coverly, Roger D"]
+[Result "1-0"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, Benko variation"]
+[HashCode "ab12290a"]
+[Epoch "Bishop"]
+[BlackID "405213"]
+[BlackCountry "END"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Nb3 e6 8.
+O-O Be7 9. Be3 Qc7 10. Bd3 O-O 11. f4 a6 12. Qf3 Rb8 13. a4 b6 14. Rae1 Bb7 15.
+Qh3 e5 16. Nd5 Qc8 17. Qxc8 Bxc8 18. Nxb6 Nb4 19. a5 Be6 20. Nd2 Ng4 21. f5
+Nxe3 22. Rxe3 Bc8 23. Nb3 Bb7 24. Nd7 Nxd3 25. cxd3 Bc6 26. Nxb8 Rxb8 27. d4
+Bg5 28. Rc3 Bxe4 29. dxe5 Bd5 30. Nd4 dxe5 31. Nc6 Rxb2 32. Rd1 Rxg2+ 33. Kf1
+Be4 34. Nxe5 h6 35. Rc8+ Kh7 36. Nxf7 g6 37. Nxg5+ Rxg5 38. Rd7# 1-0

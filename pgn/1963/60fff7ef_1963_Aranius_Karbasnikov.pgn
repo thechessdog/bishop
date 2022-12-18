@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Aranius"]
+[Black "Karbasnikov"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "60fff7ef"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Ng5 d5 8.
+exd5 Nd4 9. Re1 Bd6 10. c3 Nxb3 11. axb3 O-O 12. d4 exd4 13. Qxd4 Bxd5 14.
+b4 Re8 15. Be3 c6 16. Nd2 a5 17. c4 bxc4 18. bxa5 Rxa5 19. Nxc4 Rxa1 20.
+Rxa1 1/2-1/2
+

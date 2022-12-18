@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Hylen, Mats"]
+[Black "Englund, Helge"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "ab2ed3e3"]
+[Epoch "Bishop"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5 h6 5. Nc3 g5 6. Qe4 Qe6 7. Nd5 Bd6
+8. h4 g4 9. Qc4 Bb4+ 10. Qxb4 Qxd5 11. Qxg4 d6 12. Qa4 dxe5 13. e4 Qd6 14.
+Be3 Bd7 15. Bb5 O-O-O 16. Rd1 Qg6 17. Nxe5 Qxg2 18. Nxd7 Rxd7 19. Rxd7
+Qxh1+ 20. Ke2 Nge7 21. Rxe7 Rd8 22. Rxc7+ Kxc7 23. Bf4+ Kc8 24. Bxc6 Qd1+
+25. Ke3 Qe1+ 26. Kf3 Qh1+ 27. Ke2 Qd1+ 1/2-1/2
+

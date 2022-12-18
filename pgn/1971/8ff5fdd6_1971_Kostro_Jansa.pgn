@@ -1,0 +1,28 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Kostro, Jerzy"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "8ff5fdd6"]
+[Epoch "Bishop"]
+[WhiteID "1101188"]
+[WhiteCountry "POL"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. h3 Qc7 8. a4 e5
+9. a5 Nbd7 10. dxe5 dxe5 11. Be3 Re8 12. Nd2 Nf8 13. Na4 Ne6 14. Re1 Rd8 15.
+Qb1 Rxd2 16. Bxd2 Nxe4 17. Be3 f5 18. Bc4 Nd6 19. Bb3 Kh8 20. Nc5 Nxc5 21. Bxc5
+Ne4 22. Be3 Nf6 23. Qd1 c5 24. Qe2 f4 25. Bd2 e4 26. Qc4 Bf5 27. Qf7 Qxf7 28.
+Bxf7 Rf8 29. Bc4 e3 30. fxe3 Ne4 31. Bc1 fxe3 32. Bxe3 Bxb2 33. Rab1 Bc3 34.
+Rf1 Re8 35. Bb5 Re7 36. g4 Be6 37. a6 bxa6 38. Bc6 Bc4 39. Bh6 Bd4+ 40. Kg2
+Bxf1+ 41. Kxf1 Rf7+ 42. Ke1 Bf2+ 43. Kf1 Be3+ 44. Ke1 Bf2+ 45. Kf1 Be3+ 46. Ke1
+Bxh6 47. Bxe4 Re7 48. Rb8+ Kg7 49. Rb7 Rxb7 50. Bxb7 a5 51. Ke2 Kf6 52. Kd3 Ke5
+53. Bc6 Bf8 54. Kc4 Kf4 55. Bd5 a4 56. Bg8 h6 57. Bf7 g5 58. Kd3 Kg3 59. c4
+Kxh3 60. Bh5 Kg3 61. Kc2 Bg7 62. Kb1 a3 63. Ka2 Bb2 64. Kb3 Kf4 65. Ka2 a5 66.
+Kb3 Kf3 67. Ka2 Ke3 68. Kb3 a4+ 69. Kc2 0-1

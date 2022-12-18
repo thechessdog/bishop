@@ -1,0 +1,19 @@
+[Event "Kislovodsk"]
+[Site "Kislovodsk"]
+[Date "1966.01.01"]
+[Round "4"]
+[White "Matulovic, Milan"]
+[Black "Hamann, Svend"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "184e3faf"]
+[Epoch "Bishop"]
+[BlackID "1400193"]
+[BlackCountry "DEN"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5 8.
+Qe2 Nf6 9. Bg5 Be7 10. Nd2 O-O 11. Rae1 Re8 12. Kh1 Bb7 13. f4 c5 14. e5 Nd7
+15. Bxh7+ Kxh7 16. Qh5+ Kg8 17. Re3 f5 18. Rh3 Nf8 19. Nf3 1-0

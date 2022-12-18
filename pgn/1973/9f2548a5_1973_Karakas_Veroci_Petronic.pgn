@@ -1,0 +1,17 @@
+[Event "Minorca"]
+[Site "Minorca"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Karakas, Eva"]
+[Black "Veroci_Petronic, Zs"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "9f2548a5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Ne7 6. Nxe5 Qd4 7. Nf3
+Qxe4 8. Nc3 Qg6 9. Ne5 Qf6 10. d4 Ng6 11. Re1 Nxe5 12. Rxe5+ Be6 13. Bg5
+Qg6 14. Ne2 h6 15. Nf4 Qh7 16. Nxe6 fxe6 17. Qg4 1-0
+

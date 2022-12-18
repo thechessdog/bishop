@@ -1,0 +1,17 @@
+[Event "Rochester"]
+[Site "Rochester"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Reithel, D."]
+[Black "Frumkin, E."]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "178b2ca5"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 Nd7 7. N1e2 e5
+8. O-O h5 9. f4 h4 10. f5 hxg3 11. fxg6 gxh2+ 12. Kh1 f6 13. Bf7+ Ke7 14.
+Ng3 Qc7 15. dxe5 fxe5 16. Bg5+ Ngf6 17. Rxf6 1-0
+

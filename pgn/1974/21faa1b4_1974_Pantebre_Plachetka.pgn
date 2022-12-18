@@ -1,0 +1,19 @@
+[Event "Nice olm prel"]
+[Site "Nice"]
+[Date "1974.??.??"]
+[Round "6"]
+[White "Pantebre, B."]
+[Black "Plachetka, Jan"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "21faa1b4"]
+[Epoch "Bishop"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Re1 a6 10. dxc5 Nxc5 11. Rb1 Bf5 12. Ra1 Qc7 13. Nd4 Rad8 14. Qf3 Ng4
+15. g3 Ne5 16. Qf4 Bg4 17. Be2 Bxe2 18. Rxe2 b5 19. Rc2 Qb7 20. Nce2 Ncd3 21.
+Qh4 Ne1 0-1

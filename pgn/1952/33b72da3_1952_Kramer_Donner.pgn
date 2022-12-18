@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Kramer, Haije"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "33b72da3"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O c5 8. e4
+Nf6 9. e5 Nfd7 10. dxc5 Nc6 11. Bg5 Nxc5 12. Qc2 Nd7 13. e6 fxe6 14. Nc3 Qa5
+15. Ne4 Kh8 16. a3 Qb6 17. Rab1 e5 18. b4 Nf6 19. Nfd2 Bf5 20. Qc5 Qd8 21. Rbd1
+Nd4 22. Bxf6 exf6 23. Nd6 Bg4 24. Bxb7 Bxd1 25. Bxa8 Ne2+ 0-1

@@ -1,0 +1,18 @@
+[Event "Tartu"]
+[Site "Tartu"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Uusi, Gunnar"]
+[Black "Rosenfeld"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "3b8e1f18"]
+[Epoch "Bishop"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 exd5 7. cxd5 d6 8. e3
+Nbd7 9. f3 a6 10. e4 Qe7 11. Ne2 Ne5 12. a3 Ba5 13. f4 Nc4 14. b4 cxb4 15. axb4
+Bd8 16. Qd4 b5 17. Nxb5 Rb8 18. Na7 Bb6 19. Qxc4 Bxa7 20. Ng3 g5 21. fxg5 Qe5
+22. gxf6 Qxa1+ 23. Kd2 Qb2+ 24. Qc2 Be3+ 0-1

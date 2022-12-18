@@ -1,0 +1,16 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Doda, Zbigniew"]
+[Black "Sokolov, V."]
+[Result "1/2-1/2"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical, main line with b3"]
+[HashCode "b919828e"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. O-O Bg7 5. c4 Nf6 6. Nc3 O-O 7. b3 e6 8. Bb2
+d5 9. cxd5 exd5 10. d4 Ne4 11. e3 Bg4 12. Ne2 Qa5 13. Re1 1/2-1/2

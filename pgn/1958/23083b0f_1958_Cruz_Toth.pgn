@@ -1,0 +1,21 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Cruz, Raul C."]
+[Black "Toth, Bela"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "23083b0f"]
+[Epoch "Bishop"]
+[WhiteID "5215234"]
+[WhiteCountry "PHI"]
+[BlackID "736112"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Na6 7. Qd2 c5 8. Nge2
+Qa5 9. g4 cxd4 10. Nxd4 Be6 11. h4 h5 12. gxh5 Nxh5 13. Rg1 Bd7 14. O-O-O Nc5
+15. Kb1 Kh7 16. Be2 f5 17. f4 fxe4 18. Bxh5 gxh5 19. f5 Rg8 20. Qe2 Be8 21. Rg6
+Rh8 22. Qxh5+ Kg8 23. Rxg7+ 1-0

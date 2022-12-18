@@ -1,0 +1,19 @@
+[Event "corr BdF-cup3"]
+[Site "corr BdF-cup3"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Rosenloecher, E."]
+[Black "Dobiezynski, T."]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "42542a4b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nf3 a6 6. c4 Nge7 7. Nc3 Ng6
+8. Nd5 Bc5 9. Bd2 O-O 10. Bc3 f5 11. Bd3 Nf4 12. Nxe5 Nxd3+ 13. Qxd3 Bxf2+
+14. Kd2 Qg5+ 15. Ne3 Bxe3+ 16. Qxe3 Qxg2+ 17. Kd3 Nxe5+ 18. Bxe5 fxe4+ 19.
+Qxe4 Rf3+ 20. Kd4 Qd2+ 21. Kc5 b6+ 22. Kxb6 Qb4+ 23. Kc7 Qc5+ 24. Kd8 Rf8#
+0-1
+

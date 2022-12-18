@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Martin, Andrew D"]
+[Black "Puls, G."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "5bd74a2d"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Ng6 8. h4
+h5 9. Qg3 c4 10. Be2 Nc6 11. Bf3 Qa5 12. Bd2 Nce7 13. Qg5 Nf5 14. g3 Nge7 15.
+Bxh5 g6 16. Bf3 Qb6 17. g4 Qb2 18. Rd1 Ng7 19. h5 Kf8 20. h6 Ne8 21. h7 Nc6 22.
+Qh4 f6 23. exf6 Kf7 24. Nh3 Nb8 25. Ng5+ Kxf6 26. Qg3 Ke7 27. Bxd5 1-0

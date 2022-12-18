@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Bartis"]
+[Black "Szmetan, Jorge"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "4d67e3a0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 d6 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 b5 10. e5 dxe5 11. fxe5 Ng4 12. Bf4 Nd7 13. e6 fxe6 14. dxe6 Rxf4 15.
+Qd5 Kh8 16. Qxa8 Nb6 17. Qxa7 Bxe6 18. O-O Ne3 19. Rf2 b4 20. Nd1 Ng4 21. Ng5
+Rxf2 22. Nxf2 Qxg5 23. Bxg4 Nc8 24. Qa4 Bxb2 25. Bxe6 Bxa1 26. Qe8+ Kg7 27.
+Qf7+ 1-0

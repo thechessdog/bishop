@@ -1,0 +1,20 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1959.01.01"]
+[Round "9"]
+[White "Prins, Lodewijk"]
+[Black "Rellstab, Ludwig Sr"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "ace931ef"]
+[Epoch "Bishop"]
+[BlackID "4671155"]
+[BlackCountry "DEU"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Bc5 6. Nxe5 Bxf2+ 7. Kxf2
+Qd4+ 8. Ke1 Qxe5 9. d4 Qd6 10. Rf1 Qxh2 11. Qf3 Qh4+ 12. Rf2 Nf6 13. e5 Bg4 14.
+g3 Qh5 15. Qg2 O-O-O 16. Ne2 Nd5 17. Bd2 Rde8 18. b3 f6 19. c4 fxe5 20. cxd5
+exd4 21. dxc6 d3 22. cxb7+ Kb8 23. Bf4 Qa5+ 24. Kf1 dxe2+ 0-1

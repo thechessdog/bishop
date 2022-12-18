@@ -1,0 +1,16 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Krabbe"]
+[Black "Nieuwhuis"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Benima defence"]
+[HashCode "83215ff5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 exd4 5. c3 dxc3 6. Qd5 Nh6 7. Bxh6 O-O
+8. Bc1 Nb4 9. Qh5 Nc2+ 0-1
+

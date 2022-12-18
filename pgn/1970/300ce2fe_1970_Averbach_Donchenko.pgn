@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Averbakh, Yuri L"]
+[Black "Donchenko, Oleg I"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "300ce2fe"]
+[Epoch "Bishop"]
+[BlackID "4103068"]
+[WhiteID "4101529"]
+[WhiteCountry "RUS"]
+
+1. c4 e6 2. d4 Nf6 3. Nc3 Bb4 4. e3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5 8.
+Bd3 O-O 9. Ne2 b6 10. O-O Ba6 11. f3 Re8 12. Ng3 Bxd3 13. Qxd3 Nc6 14. Bb2 c4
+15. Qd2 b5 16. Rae1 a5 17. e4 b4 18. e5 Nd7 19. f4 Nb6 20. f5 f6 21. Nh5 Nd7
+22. Re3 fxe5 23. Rg3 Kh8 24. Rxg7 1-0

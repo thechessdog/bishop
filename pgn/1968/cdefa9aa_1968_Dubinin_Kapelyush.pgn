@@ -1,0 +1,19 @@
+[Event "Gorki"]
+[Site "Gorki"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Dubinin, Peter Vasilievich"]
+[Black "Kapelyush"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "cdefa9aa"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Qd3 dxc3 11. f4 Bd7 12. Nf3 Nbc6 13. Be3 Nf5 14. g3
+O-O-O 15. Bf2 f6 16. exf6 e5 17. f7 Rg6 18. fxe5 Nxe5 19. Nxe5 Qxe5+ 20. Be2 d4
+21. Rf1 Re6 22. Rb1 Bc6 23. g4 Be4 24. Qc4+ Rc6 25. Qb4 Rc5 26. gxf5 Bf3 27.
+Be3 dxe3 28. Bxf3 b6 29. Qe4 1-0

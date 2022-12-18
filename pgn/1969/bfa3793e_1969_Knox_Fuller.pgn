@@ -1,0 +1,20 @@
+[Event "Rhyl ch-BCF"]
+[Site "Rhyl ch-BCF"]
+[Date "1969.08.01"]
+[Round "1"]
+[White "Knox, Victor W"]
+[Black "Fuller, Maxwell Leonard"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "bfa3793e"]
+[Epoch "Bishop"]
+[BlackCountry "AUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Be7 4. e5 b6 5. Nf3 Ba6 6. Bxa6 Nxa6 7. O-O Nb8 8. Ne2
+h5 9. c4 c6 10. b3 g5 11. a4 Na6 12. cxd5 cxd5 13. Ba3 g4 14. Bxe7 Nxe7 15. Ne1
+Nb4 16. Nd3 Nbc6 17. Qd2 Nf5 18. Nb4 Na5 19. Qd3 h4 20. Rac1 g3 21. fxg3 hxg3
+22. hxg3 Rg8 23. Qb5+ Kf8 24. Nxd5 Nxg3 25. Qb4+ Kg7 26. Nxg3 Qxd5 27. Rc7 Raf8
+28. Qd2 Kh7 29. Nh5 Rxg2+ 30. Qxg2 Qxd4+ 31. Kh2 Qxe5+ 32. Nf4 Qxc7 33. Qh3+
+Kg7 34. Qg3+ Kh6 35. Qh4+ Kg7 36. Rg1# 1-0

@@ -1,0 +1,23 @@
+[Event "Cheliabinsk ch sf"]
+[Site "Cheliabinsk ch sf"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Borisenko, Georgy K"]
+[Black "Sorokin"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "d80b009b"]
+[Epoch "Bishop"]
+[WhiteCountry "UZB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 Ne8 10. Qd2 b6 11. e3 Ba6 12. a4 Qe7 13. Be2 Nd7 14. O-O Bxc4 15.
+Bxc4 a6 16. Rfe1 f5 17. Bg3 Ne5 18. Be2 Qf7 19. f4 Nd7 20. Bh4 Nc7 21. h3 Rfe8
+22. Kh2 Nf6 23. Rad1 Ne4 24. Nxe4 Rxe4 25. b3 Rb4 26. Rb1 b5 27. a5 Ne8 28.
+Red1 Nf6 29. Be1 Re4 30. Bf3 Re7 31. Qd3 Rae8 32. Bd2 Ne4 33. Re1 c4 34. bxc4
+bxc4 35. Qc2 c3 36. Bc1 Qxd5 37. Ra1 Qc6 38. Rd1 Rb7 39. Be2 Rc8 40. Ra4 d5 41.
+Qa2 Rd7 42. Bf3 Kh8 43. Rb4 Qc5 44. Rb6 g5 45. Bxe4 fxe4 46. fxg5 d4 47. exd4
+Bxd4 48. Qe2 Be5+ 49. Kh1 Qc4 50. Qg4 Rxd1+ 51. Qxd1 c2 52. Qe1 Rd8 53. Rb4
+Qxb4 0-1

@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Dries, J."]
+[Black "De Waal, E."]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "a91d0645"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Be7 6. Bc4 O-O 7. O-O d6
+8. Nxd4 Re8 9. Nxc6 bxc6 10. Nxe7+ Qxe7 11. f3 d5 12. Bb3 Qd6 13. Bg5 dxe4
+14. Bxf6 gxf6 15. fxe4 Rxe4 16. Qf3 f5 17. Bxf7+ Kg7 18. Bb3 c5 19. Rad1
+Qe7 20. Qc3+ Kg6 21. Bd5 1-0
+

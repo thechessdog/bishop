@@ -1,0 +1,17 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1970.01.01"]
+[Round "4"]
+[White "Bronstein, David Ionovich"]
+[Black "Tomic, M."]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "86a51b62"]
+[Epoch "Bishop"]
+[BlackID "4609093"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Qb6 5. Ba4 Bg7 6. O-O e5 7. Na3 Nge7 8. b4
+cxb4 9. Nc4 Qc5 10. d3 bxc3 11. Rb1 c2 12. Qxc2 Nd4 1-0

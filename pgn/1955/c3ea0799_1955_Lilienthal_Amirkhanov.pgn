@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Lilienthal, Andor Arnoldovich"]
+[Black "Amirkhanov, Rinat"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "c3ea0799"]
+[Epoch "Bishop"]
+[BlackID "14102099"]
+[BlackCountry "UKR"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nbd7 8. a3
+Ba5 9. Qc2 dxc4 10. Bxc4 Bc7 11. dxc5 Nxc5 12. b4 Ncd7 13. Bb2 Nb6 14. Ba2 Bd7
+15. Ne4 Rc8 16. Bxf6 gxf6 17. Qb2 Kg7 18. Rad1 Qe7 19. Rd4 e5 20. Rd2 Na4 21.
+Qa1 Rcd8 22. Ng3 Be6 23. Nh4 Kh8 24. Nhf5 Qe8 25. Rxd8 Qxd8 26. Rd1 Qc8 27. Ne7
+Qb8 28. Nd5 Bd8 29. e4 Nb6 30. Qc1 Nxd5 31. Bxd5 Be7 32. Bxe6 fxe6 33. Rd7 Rf7
+34. Qc4 1-0

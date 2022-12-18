@@ -1,0 +1,27 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1972.06.01"]
+[Round "11"]
+[White "Bohm, Hans"]
+[Black "Cafferty, Bernard"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[HashCode "7ee7db15"]
+[Epoch "Bishop"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+[BlackID "401005"]
+[BlackCountry "ENG"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. c4 Nb6 6. exd6 cxd6 7. Be2 Bg7 8. Nc3
+Bg4 9. Be3 Nc6 10. b3 O-O 11. O-O d5 12. c5 Nc8 13. Ne1 Bxe2 14. Nxe2 e6 15. b4
+a6 16. Rb1 N8e7 17. Nf3 Nf5 18. Qd2 h6 19. Rfd1 Kh7 20. a4 Re8 21. h3 Nh4 22.
+Nxh4 Qxh4 23. f4 Rg8 24. Kh2 Qe7 25. Ng1 Nb8 26. Nf3 Nd7 27. Qf2 Rge8 28. b5
+Rec8 29. bxa6 bxa6 30. Rb7 Rab8 31. Rdb1 Qe8 32. Ne5 Bxe5 33. fxe5 Rxb7 34.
+Rxb7 Rb8 35. Qb2 Rxb7 36. Qxb7 Nb8 37. Bd2 Nc6 38. Be3 a5 39. g4 g5 40. Qb5 Qc8
+41. h4 gxh4 42. Kh3 f5 43. gxf5 Qg8 44. Kxh4 Nxd4 45. Bxd4 Qg5+ 46. Kh3 Qxf5+
+47. Kg3 Qg5+ 48. Kf3 Qf5+ 49. Ke3 Qe4+ 50. Kd2 Qf4+ 51. Kc2 Qh2+ 52. Kc3 Qh1
+53. Qd3+ Kh8 54. Kb2 Qe1 55. Bc3 Qg1 56. Qh3 Qf2+ 57. Kb3 Qxc5 58. Qxh6+ Kg8
+59. Qxe6+ Kh7 60. Qf7+ Kh8 61. e6+ d4 62. Qf6+ Kh7 63. Qxd4 1-0

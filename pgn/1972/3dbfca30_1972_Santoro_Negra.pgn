@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Santoro"]
+[Black "Negra"]
+[Result "1-0"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "3dbfca30"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 d5 7. O-O O-O 8.
+a3 Bxc3 9. bxc3 Na5 10. cxd5 c4 11. Bc2 exd5 12. Nd2 Re8 13. f3 b5 14. e4
+dxe4 15. fxe4 Bg4 16. Qe1 Nc6 17. Nf3 h6 18. Qg3 Bxf3 19. Qxf3 h5 20. Bg5
+Nxd4 21. cxd4 Qxd4+ 22. Kh1 Rab8 23. Rad1 Qb2 24. e5 Qxc2 25. exf6 g6 26.
+Rd7 Re5 27. Qg3 Qe2 28. Rg1 Rc8 29. Bd2 c3 30. Qxg6+ 1-0
+

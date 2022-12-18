@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Thornblom"]
+[Black "Seeger"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "8cc4cd07"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e6 4. cxd4 d5 5. e5 Nc6 6. Nf3 Bb4+ 7. Nbd2 Nh6
+8. a3 Be7 9. Bb5 Bd7 10. Be2 a6 11. O-O Nb8 12. Rb1 Nf5 13. Nb3 Ba4 14. Bd3
+Nh4 15. Nxh4 Bxh4 16. Qg4 g6 17. Nc5 Bc6 18. Bh6 Be7 19. Rbc1 Nd7 20. Nxe6
+fxe6 21. Qxg6+ 1-0
+

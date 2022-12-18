@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Smollny"]
+[Black "Asafov"]
+[Result "1-0"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "0f269ead"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 a6 8. a4
+Qa5 9. Bd2 Qc7 10. g4 e6 11. g5 Ne8 12. h4 exd5 13. Nxd5 Qd8 14. h5 Nc6 15.
+hxg6 hxg6 16. Qb3 Nd4 17. Qg3 Nc2+ 18. Kd1 Nxa1 19. Qh4 f6 20. Qh7+ Kf7 21.
+Qxg6+ Kxg6 22. Bh5+ Kh7 23. Bf7+ Bh6 24. g6+ 1-0
+

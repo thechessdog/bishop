@@ -1,0 +1,24 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Chemes, Luis"]
+[Black "Garcia Vera, Oscar"]
+[Result "0-1"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "d637d525"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Qc2 d5 8. Rd1
+Nbd7 9. cxd5 Nxd5 10. Nc3 c6 11. e4 Nb4 12. Qb1 Nf6 13. a3 Na6 14. e5 Nd5 15.
+Ne4 f5 16. exf6 gxf6 17. Bh6 Rf7 18. Re1 Nac7 19. Bh3 Bc8 20. Qc2 Bd7 21. Re2
+Kh8 22. Rae1 Qg8 23. Qc1 Qg6 24. Nh4 Qg8 25. Nc3 Rc8 26. Nxd5 cxd5 27. Nf5 Bf8
+28. Rc2 Ba4 29. Bxf8 Bxc2 30. Nh6 Qxf8 31. Nxf7+ Qxf7 32. Qxc2 Re8 33. f4 Nb5
+34. Qd3 Nd6 35. b3 f5 36. Rc1 Qd7 37. Qe2 Ne4 38. Qc2 Qg7 39. Qd3 Rd8 40. Rc6
+Qd7 41. Rc2 Rc8 42. Bf1 Rg8 43. Bg2 h6 44. Qd1 Nd6 45. a4 Rd8 46. Kf2 b5 47. a5
+a6 48. Qc1 Ne4+ 49. Ke3 Nd6 50. Rc7 Nc4+ 51. Qxc4 bxc4 52. Rxd7 Rxd7 53. bxc4
+dxc4 54. Bf1 Rd5 55. Bxc4 Rxa5 56. Bxe6 Kg7 57. d5 Kf6 58. Kd4 Ra2 59. Bg8 Rxh2
+60. d6 Rg2 61. Bc4 Rxg3 62. Bxa6 Rf3 63. Kd5 Rxf4 64. Kc6 Rd4 65. Kc7 f4 66.
+Bb7 h5 67. Bf3 h4 68. Kc6 h3 69. Bd5 Rxd5 0-1

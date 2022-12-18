@@ -1,0 +1,25 @@
+[Event "Canada"]
+[Site "Canada"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "LaBelle, Jacques"]
+[Black "Markov, Bozidar"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "256b8305"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+a4 Bg4 9. c3 O-O 10. h3 Bh5 11. d3 Na5 12. Bc2 c5 13. g4 Bg6 14. Nbd2 h6
+15. axb5 axb5 16. Nf1 Nh7 17. Kg2 Bg5 18. Ne3 Bxe3 19. Bxe3 f6 20. Nh4 Bf7
+21. Nf5 Be6 22. b4 Bxf5 23. gxf5 cxb4 24. cxb4 Nc6 25. Bb3+ Kh8 26. Rxa8
+Qxa8 27. Bd5 Qa6 28. Qd2 Rc8 29. Qb2 Rc7 30. Ra1 Qc8 31. Bb6 Rb7 32. Bxc6
+Rxb6 33. Ra8 Rb8 34. Qa2 Rxa8 35. Qxa8 Qxa8 36. Bxa8 Kg8 37. Bc6 Kf8 38. h4
+Ke7 39. Bxb5 Kd8 40. Kf3 Nf8 41. Ke3 Kc7 42. Be8 Kd8 43. Ba4 Ke7 44. Kd2 d5
+45. Kc3 Kd6 46. Be8 dxe4 47. dxe4 Ke7 48. Ba4 Kd6 49. Be8 Ke7 50. Bh5 Kd6
+51. Kc4 Nd7 52. Kb5 Nb8 53. Kb6 Nc6 54. b5 Nd4 55. Be8 Ke7 56. Bc6 Kd6 57.
+Bd5 Kd7 58. Bc4 Kc8 59. Ka7 Kd7 60. b6 Nc6+ 61. Ka8 Kd6 62. b7 Kc7 63. Bb5
+Nb8 64. h5 1-0
+

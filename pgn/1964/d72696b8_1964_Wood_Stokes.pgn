@@ -1,0 +1,16 @@
+[Event "Birmingham"]
+[Site "Birmingham"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Wood, Baruch Harold"]
+[Black "Stokes, G."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "d72696b8"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Nc3 Nxe4 6. Bxf7+ Kxf7 7. Nxe4 d5
+8. Ne5+ Ke6 9. Qg4+ Kxe5 10. d4+ Kxd4 11. c3+ Kc4 12. Qe2# 1-0

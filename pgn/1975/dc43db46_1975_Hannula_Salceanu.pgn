@@ -1,0 +1,24 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hannula, P."]
+[Black "Salceanu, V."]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "dc43db46"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 h6 8.
+O-O Nbd7 9. Be3 Qc7 10. Nh4 b5 11. f4 Bb7 12. fxe5 dxe5 13. Bd3 b4 14. Nd5
+Bxd5 15. exd5 Bc5 16. Qf3 e4 17. Bxe4 Ne5 18. Qf4 Nh5 19. d6 Nxf4 20. dxc7
+Bxe3+ 21. Kh1 Rc8 22. Rae1 O-O 23. Nf5 Bc5 24. Rxf4 g6 25. Nxh6+ Kg7 26.
+Nf5+ gxf5 27. Bxf5 f6 28. Rh4 Bb6 29. Bxc8 Rxc8 30. Rxb4 Ba5 31. Rb8 Rxc7
+32. c3 Rd7 33. h3 Kg6 34. Ra8 Bb6 35. Rf1 Rd2 36. Rxa6 Rxb2 37. a4 Nc4 38.
+Rf4 Rb1+ 39. Kh2 Ne3 40. Kg3 Nd5 41. Rf3 Nc7 42. Rxb6 Rxb6 43. Rd3 Ne6 44.
+a5 Rb5 45. Rd6 Ng5 46. Ra6 Rc5 47. Ra8 Rxc3+ 48. Kh2 Ra3 49. h4 Nf7 50. g4
+Ne5 51. a6 Nxg4+ 52. Kg1 Ra2 53. a7 Kg7 54. h5 f5 55. Kh1 f4 56. Rb8 Rxa7
+57. Rb4 Rf7 58. Kg1 Kh6 59. Rb5 f3 0-1
+

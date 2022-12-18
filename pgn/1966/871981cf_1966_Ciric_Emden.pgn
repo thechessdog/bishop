@@ -1,0 +1,18 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Ciric"]
+[Black "Emden"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "871981cf"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3
+Bxc3+ 8. Nxc3 d5 9. exd5 Nxd5 10. Bd2 O-O 11. Bd3 e5 12. O-O Kh8 13. Qe2 f5
+14. Nxd5 Qxd5 15. Bc4 Qd6 16. Rad1 Qe7 17. Bd5 Re8 18. Bc3 Bd7 19. Rfe1 Qg5
+20. f3 e4 21. fxe4 fxe4 22. Qe3 Qh5 23. Bxe4 Bg4 24. Qg3 Re7 25. Rd5 1-0
+

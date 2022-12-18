@@ -1,0 +1,25 @@
+[Event "Moskou olm"]
+[Site "Moskou olm"]
+[Date "1956.09.01"]
+[Round "1"]
+[White "Bot, G."]
+[Black "Cerendagva"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[HashCode "b391013c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 c5 6. O-O cxd4 7. Nxd4 Bxg2
+8. Kxg2 Be7 9. Nc3 O-O 10. Qc2 Na6 11. e4 Rc8 12. Qe2 Qc7 13. b3 Qb7 14. f3
+d5 15. exd5 exd5 16. Nxd5 Nxd5 17. cxd5 Bf6 18. Bb2 Rfe8 19. Qb5 Nc7 20.
+Qc6 Qa6 21. Rfe1 Ne6 22. Qd7 Red8 23. dxe6 Rxd7 24. exd7 Rf8 25. Nc6 Qd3
+26. Rad1 Qc2+ 27. Kh1 Qxc6 28. Bxf6 Qxf3+ 29. Kg1 gxf6 30. d8=Q Rxd8 31.
+Rxd8+ Kg7 32. Rd7 Qc3 33. Ree7 Qa1+ 34. Kg2 Qxa2+ 35. Kh3 Qxb3 36. Rxa7 b5
+37. Rab7 Qd5 38. Red7 Qe6+ 39. Kg2 b4 40. Re7 Qd5+ 41. Kh3 b3 42. Rb8 Qf3
+43. Reb7 Qf1+ 44. Kh4 Qg2 45. h3 Qe4+ 46. g4 f5 47. Rxb3 f4 48. g5 Qg2 49.
+R8b4 h6 50. Rb5 Qe2 51. gxh6+ Kxh6 52. Rb6+ Kg7 53. Rb2 Qe1+ 54. Kg4 Qg3+
+55. Kf5 f3 56. R6b3 Qxh3+ 57. Ke4 f5+ 58. Ke5 Kg6 59. Kf4 Qg4+ 60. Ke3 Qg3
+61. Rb8 f2+ 62. Ke2 Qg1 63. Rb1 f1=Q+ 0-1
+

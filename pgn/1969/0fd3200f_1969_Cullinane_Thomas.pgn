@@ -1,0 +1,20 @@
+[Event "Rhyl"]
+[Site "Rhyl"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Cullinane, A."]
+[Black "Thomas, B."]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "0fd3200f"]
+[Epoch "Bishop"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Bf4 Qb4+ 5. Bd2 Qxb2 6. Nc3 Nb4 7. Nd4
+c6 8. Rb1 Qa3 9. e4 Qa5 10. Nf3 b5 11. Be2 Bc5 12. O-O Ne7 13. Rb3 Qc7 14.
+Bf4 O-O 15. Qd2 Ng6 16. Bg3 Qd8 17. h4 Re8 18. h5 Nf8 19. a3 Na6 20. Nd1
+Bb6 21. Bh4 Qc7 22. Qf4 Ne6 23. Qg4 Nd4 24. Bf6 Nxe2+ 25. Kh1 g6 26. Qg5
+Bc5 27. Ne3 d5 28. Nf5 Re6 29. Qh6 Bf8 30. Ng7 Rxf6 31. exf6 Be7 32. fxe7
+Qxe7 33. Ng5 Qf6 34. Qxh7+ Kf8 35. Qh8+ Ke7 36. Qe8+ Kd6 37. e5+ 1-0
+

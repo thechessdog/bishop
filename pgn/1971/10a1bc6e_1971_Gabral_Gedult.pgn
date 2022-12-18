@@ -1,0 +1,17 @@
+[Event "Marseille"]
+[Site "Marseille"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Gabral, Francois"]
+[Black "Gedult, Jean"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "10a1bc6e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 Nf6 7. Qe5+
+Be7 8. Nxh8 dxc4 9. O-O Nc6 10. Qg5 Nd4 11. Na3 Be6 12. c3 Ne2+ 13. Kh1 Qd3
+14. Re1 Ng4 15. Qh5+ Kf8 16. Ng6+ Kf7 17. h3 Nxf2+ 18. Kh2 Qg3# 0-1
+

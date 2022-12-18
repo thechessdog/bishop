@@ -1,0 +1,20 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Altrock, R."]
+[Black "Hang, E."]
+[Result "1-0"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "fe32b379"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. O-O Be7
+8. Bb3 O-O 9. Be3 Na5 10. f4 b6 11. e5 Ne8 12. f5 dxe5 13. fxe6 Nxb3 14.
+Nc6 Qd6 15. Qxd6 Bxd6 16. axb3 Bxe6 17. Nxa7 Bc5 18. Bxc5 bxc5 19. Nc6 Rxa1
+20. Rxa1 f6 21. Ne4 c4 22. Nc5 Bg4 23. Ne7+ Kf7 24. Ra7 cxb3 25. cxb3 g5
+26. Kf2 h5 27. b4 Rh8 28. b5 f5 29. h3 Kf6 30. hxg4 fxg4 31. Nd5+ Kf5 32.
+b6 1-0
+

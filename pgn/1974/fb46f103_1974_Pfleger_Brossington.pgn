@@ -1,0 +1,17 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pfleger, Helmut, Dr."]
+[Black "Brossington"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "fb46f103"]
+[Epoch "Bishop"]
+[WhiteID "4600100"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Bb4+ 5. c3 dxc3 6. bxc3 Be7 7. e5 Ng4 8.
+h3 Nh6 9. Bxh6 gxh6 10. Qd5 1-0

@@ -1,0 +1,23 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Juarez, Carlos Eleodoro"]
+[Black "Bronstein, Luis Marcos"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "7cbe90f4"]
+[Epoch "Bishop"]
+[WhiteID "100293"]
+[BlackID "100463"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 dxc3 12. Qd3 Bd7 13. Be3 O-O-O 14.
+Nd4 Na5 15. O-O-O a6 16. Kb1 Kb8 17. Ka2 Rc8 18. Rb1 Ka8 19. g3 Nc4 20. Qxc3
+Nxe3 21. Qxe3 Nf5 22. Nxf5 exf5 23. Bd3 d4 24. Qxd4 Rg6 25. Rb2 Rc6 26. Qb4
+Be6+ 27. Kb1 Rd8 28. Re1 Rc3 29. a4 Rc6 30. h3 Rh8 31. g4 fxg4 32. hxg4 Bxg4
+33. Be4 Rh2 34. Bxc6 Qxc6 35. Qf8+ Qc8 36. Qxf7 Be6 37. Qe7 1-0

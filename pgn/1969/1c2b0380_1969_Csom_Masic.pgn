@@ -1,0 +1,21 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "Masic, L."]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "1c2b0380"]
+[Epoch "Bishop"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. Nbd2 d5 5. g3 g6 6. Bg2 Bg7 7. O-O Nge7 8. Re1
+b6 9. c3 O-O 10. h4 h6 11. e5 Qc7 12. Nf1 Nxe5 13. Nxe5 Bxe5 14. Bxh6 Bg7 15.
+Bxg7 Kxg7 16. Ne3 Bb7 17. d4 Rh8 18. Qd2 Rad8 19. Bh3 Bc8 20. Ng2 Nc6 21. Rad1
+Qd6 22. Re3 Bd7 23. Nf4 a5 24. Qd3 Rh6 25. Rde1 cxd4 26. cxd4 Qb4 27. Bxe6 fxe6
+28. Nxe6+ Bxe6 29. Rxe6 Nxd4 30. Re7+ Kg8 31. Re8+ Rxe8 32. Rxe8+ Kf7 33. Qe3
+Rh5 34. Rb8 Re5 35. Qf4+ Rf5 36. Rb7+ Ke6 37. Qe3+ Re5 38. Qd3 Re4 39. Qa6 Re1+
+40. Kg2 Nc6 41. Rxb6 Qe4+ 42. f3 Qc2+ 43. Kh3 Rh1+ 44. Kg4 Qf5# 0-1

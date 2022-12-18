@@ -1,0 +1,24 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "3"]
+[White "Levy, David N L"]
+[Black "Kagan, Shimon"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "9915d275"]
+[Epoch "Bishop"]
+[WhiteID "2400120"]
+[WhiteCountry "SCO"]
+[BlackID "2800284"]
+[BlackCountry "ISR"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. O-O-O e6 13. Qe2 O-O-O 14. Ne5
+Nb6 15. Ba5 Rd5 16. Bxb6 axb6 17. c4 Ra5 18. Kb1 Bd6 19. f4 b5 20. d5 bxc4 21.
+Nxc4 Rxd5 22. Rxd5 exd5 23. Nxd6+ Qxd6 24. Qf2 Ne4 25. Qe3 Nxg3 26. Qxg3 Re8
+27. Rf1 Qf6 28. a3 Qf5+ 29. Ka1 g6 30. hxg6 fxg6 31. Qc3 h5 32. g3 Qe4 33. Qa5
+Kb8 34. Qc5 Rd8 35. Rc1 d4 36. Qb4 Qd5 37. Rd1 c5 38. Qb5 d3 39. Kb1 Qf3 40.
+Rd2 Qxg3 41. Qxc5 Qxf4 0-1

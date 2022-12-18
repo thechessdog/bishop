@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Richter, L."]
+[Black "Claus, U."]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit, Bardeleben variation"]
+[HashCode "f0625c28"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 Nf6 6. Nxc3 Bb4 7. e5 d5
+8. exf6 dxc4 9. Qxd8+ Nxd8 10. fxg7 Rg8 11. Bh6 Bf5 12. O-O-O Bxc3 13. bxc3
+Ne6 14. Rhe1 Rd8 15. Nd4 Rd5 16. Nxf5 Rxf5 17. f4 Rh5 18. Bg5 Rxg5 19. fxg5
+Rxg7 20. h4 1-0
+

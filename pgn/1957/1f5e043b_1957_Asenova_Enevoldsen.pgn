@@ -1,0 +1,17 @@
+[Event "Cracow"]
+[Site "Cracow"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Asenova, Venka"]
+[Black "Enevoldsen"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "1f5e043b"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 g6 6. Nxf5 Qa5+ 7. c3 Qxf5
+8. Nf3 Bg7 9. Bd3 Qh5 10. O-O Nd7 11. Re1 Ngf6 12. Qb3 b6 13. Ng5 Nd5 14.
+Be2 1-0
+

@@ -1,0 +1,21 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Petersson, Gosta"]
+[Black "Osterling, Gosta"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "5dd52106"]
+[Epoch "Bishop"]
+[WhiteID "1701908"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Qa5 8. Nge2
+Nd4 9. O-O Ne7 10. Nc1 Bd7 11. f4 h5 12. Qf2 f5 13. Nd1 fxe4 14. c3 Ndf5 15.
+dxe4 Nxe3 16. Nxe3 O-O 17. Qd2 Bb5 18. Rf2 Qc7 19. Bh3 Bd7 20. Ne2 Rad8 21. f5
+exf5 22. exf5 Rf7 23. Nf4 Bh6 24. fxg6 Nxg6 25. Nfd5 Qc6 26. Rxf7 Bxh3 27. Rf6
+Bxe3+ 28. Nxe3 Qe4 29. Qd5+ Qxd5 30. Rxg6+ Kh7 31. Nxd5 Kxg6 32. Nf4+ Kg5 33.
+Nxh3+ Kg4 34. Rf1 1-0

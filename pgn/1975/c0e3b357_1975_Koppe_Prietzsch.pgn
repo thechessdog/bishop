@@ -1,0 +1,20 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Koppe"]
+[Black "Prietzsch"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "c0e3b357"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Bxc3+ 7. bxc3
+Nd5 8. Nb5 O-O 9. Ba3 Re8 10. Nd6 Rf8 11. Qd2 Nc6 12. Nxc8 Rxc8 13. Bxf8
+Qxf8 14. c4 Nb6 15. f4 Qc5 16. c3 Na5 17. Rd1 Naxc4 18. Bxc4 Qxc4 19. Qd4
+Qxa2 20. O-O Qb3 21. Ra1 Qxc3 22. Qxc3 Rxc3 23. Rxa7 g6 24. Rxb7 Nd5 25.
+Rxd7 Rc8 26. g3 h5 27. Rd1 Kg7 28. Rd2 h4 29. Rb2 hxg3 30. hxg3 g5 31. f5
+Ne3 32. fxe6 Rc1+ 33. Kf2 Nd1+ 34. Rxd1 Rxd1 35. e7 1-0
+

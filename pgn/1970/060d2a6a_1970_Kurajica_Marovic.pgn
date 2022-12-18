@@ -1,0 +1,20 @@
+[Event "Rovinj / Zagreb"]
+[Site "Rovinj / Zagreb"]
+[Date "1970.04.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Marovic, Drazen"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "060d2a6a"]
+[Epoch "Bishop"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+[BlackID "14500183"]
+[BlackCountry "CRO"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c3 Nc6 5. Bf4 Nf6 6. Nd2 Bg4 7. Qb3 Qc8 8.
+Ngf3 e6 9. Bd3 Be7 10. O-O O-O 11. h3 Bh5 12. Ne5 Bg6 13. Nxg6 hxg6 14. Bh2 a6
+15. a4 Rd8 16. Rfe1 Bd6 17. Bxd6 Rxd6 1/2-1/2

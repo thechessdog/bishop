@@ -1,0 +1,16 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Klein, R."]
+[Black "Mason, E."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "2efe4ab2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 dxe4 4. d4 h6 5. Bc4 Be6 6. Bxe6 fxe6 7. Qh5+ g6
+8. Qxg6+ Ke7 9. Qf7+ Kd6 10. Nc4+ Kc6 11. Qxe6+ Bd6 12. Ne5+ Kb6 13. Qb3+
+Ka6 14. Qa4+ 1-0
+

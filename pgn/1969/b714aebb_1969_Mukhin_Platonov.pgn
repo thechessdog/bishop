@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Mukhin, Georgy"]
+[Black "Platonov, Igor"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "b714aebb"]
+[Epoch "Bishop"]
+[WhiteID "4102215"]
+[BlackID "24197190"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd3 h6 8. Bh4
+Be7 9. f4 Nbd7 10. O-O-O Qc7 11. Be2 b5 12. Bf3 Bb7 13. Nxe6 fxe6 14. e5 dxe5
+15. Qg6+ Kf8 16. Bxf6 Bxf6 17. Bh5 Nc5 18. fxe5 Bxe5 19. Rhf1+ Bf6 20. b4 Be4
+21. Rxf6+ gxf6 22. Qxf6+ Kg8 23. Nxe4 1-0

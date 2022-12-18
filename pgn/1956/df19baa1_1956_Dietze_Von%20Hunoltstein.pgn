@@ -1,0 +1,20 @@
+[Event "corr BdF-cup3"]
+[Site "corr BdF-cup3"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Dietze, O."]
+[Black "Von Hunoltstein, Vo"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "df19baa1"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Ne4 7. Nf3 Bg4
+8. Be3 e6 9. a3 Qa5 10. cxd5 Nxc3 11. bxc3 Bxf3 12. gxf3 Qxd5 13. Bg2 Qc4
+14. Qd2 Bd6 15. Qb2 Rb8 16. f4 O-O 17. Rg1 Rfc8 18. Bf1 Qa4 19. Bb5 Qa5 20.
+Ke2 Ne7 21. c4 Ng6 22. d5 a6 23. Bd7 Rxc4 24. Rg5 Qc7 25. Qb3 Rc3 26. Qa4
+b5 27. Qd4 Rc4 28. Rc1 Rxc1 29. Bxc1 Qxc1 30. dxe6 Nxf4+ 31. Kf3 Nxe6 32.
+Bxe6 Qxg5 33. Bd7 Rd8 0-1
+

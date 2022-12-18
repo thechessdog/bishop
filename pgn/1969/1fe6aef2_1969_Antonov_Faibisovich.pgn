@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Antonov, V."]
+[Black "Faibisovich, Vadim Z"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "1fe6aef2"]
+[Epoch "Bishop"]
+[BlackID "4102703"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 Ne7 8.
+Bg5 h6 9. Be3 b6 10. Nbd2 g5 11. Nc4 Ng6 12. a4 Be6 13. a5 b5 14. Na3 Bf8 15.
+Nb1 Qd7 16. Nc3 f6 17. Nd2 h5 18. Ne2 h4 19. Nc1 O-O-O 20. a6 g4 21. Ncb3 Nf4
+22. Bxc5 g3 23. Bxf8 Rdxf8 24. Qf3 Rfg8 25. fxg3 hxg3 26. hxg3 Bg4 27. Qe3 Bh3
+28. Kf2 Nxg2 29. Qc5 Nxe1 30. Rxe1 Be6 31. Rg1 Bxb3 32. Nxb3 Qc7 33. d4 Rh2+
+34. Kf1 Kb8 35. Rg2 Rxg2 36. Kxg2 exd4 0-1

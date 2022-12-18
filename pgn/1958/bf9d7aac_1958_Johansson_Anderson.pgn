@@ -1,0 +1,18 @@
+[Event "Munchen olm"]
+[Site "Munchen olm"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Johansson, Ingi"]
+[Black "Andersen, Borge"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "bf9d7aac"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Qe2 e5 12. dxe5 Nxe5 13. Nxe5 Qxe5 14. f3
+Re8 15. Bd2 Be6 16. e4 Rad8 17. Bxe6 Rxe6 18. Rfd1 Red6 19. Be1 Nd5 20. Qb2 Ne3
+21. Rdc1 f5 22. exf5 Qxf5 23. Qe2 Re6 24. Bg3 Rd3 25. Qb2 Qd5 26. Bf2 Rd2 27.
+Qb1 Rxf2 0-1

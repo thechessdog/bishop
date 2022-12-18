@@ -1,0 +1,17 @@
+[Event "Rasmus mem"]
+[Site "Randers"]
+[Date "1970.??.??"]
+[Round "7"]
+[White "Kolbak, Jens"]
+[Black "Petersen, Bent Wester"]
+[Result "1-0"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "e75e6878"]
+[Epoch "Bishop"]
+[WhiteID "1400339"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Nb3 Be7 7. h4 f6 8. Bd3
+Nb4 9. exf6 Nxd3+ 10. Qxd3 Nxf6 11. Bg5 c5 12. Nxc5 Bxc5 13. Qb5+ 1-0

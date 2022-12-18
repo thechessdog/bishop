@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Engholm, B."]
+[Black "Chiricuta"]
+[Result "1-0"]
+[ECO "B79"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 12.h4"]
+[HashCode "e089b7b5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 d6
+8. f3 O-O 9. Bb3 Bd7 10. Qd2 Qa5 11. O-O-O Rfc8 12. h4 Nh5 13. Nd5 Qxd2+
+14. Rxd2 Nf6 15. Nxc6 Nxd5 16. exd5 bxc6 17. h5 cxd5 18. Bxd5 Bc6 19. Bxc6
+Rxc6 20. hxg6 hxg6 21. Bd4 f6 22. Be3 e6 23. Bh6 1-0
+

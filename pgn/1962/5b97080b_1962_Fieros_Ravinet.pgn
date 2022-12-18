@@ -1,0 +1,18 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Fieros"]
+[Black "Ravinet"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "5b97080b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 g6 4. Nf3 Bg7 5. O-O e6 6. d3 Nge7 7. Be3 Nd4 8.
+Bxd4 cxd4 9. Nb5 Qb6 10. b3 a6 11. Na3 d5 12. exd5 exd5 13. Bxd5 Nxd5 14.
+Qe2+ Be6 15. Rae1 O-O 16. Ng5 Rae8 17. Qf3 Qb4 18. Nc4 Bg4 19. Qxd5 Rxe1
+20. h3 Be6 21. Qf3 Rxf1+ 22. Kxf1 Bxc4 23. a3 Qxa3 0-1
+

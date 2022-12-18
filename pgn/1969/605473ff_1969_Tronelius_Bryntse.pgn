@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Tronelius, Ivar"]
+[Black "Bryntse, Arne"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "605473ff"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Nxc3
+8. bxc3 Ba5 9. Qg4 O-O 10. O-O-O f5 11. exf6 Qxf6 12. Bd3 d5 13. Rde1 Nc6
+14. Nxe6 g6 15. f4 Nb4 16. Kb2 Nxd3+ 17. cxd3 d4 18. Kc2 dxc3 19. Bc1 Bd7
+20. Ba3 h5 21. Qg5 Qxg5 22. Nxg5 Rxf4 23. Ne4 Ba4+ 24. Kc1 Rd8 25. Nc5 Rf2
+26. Nxa4 Rxa2 27. Be7 Re8 28. Nc5 Bb4 29. Kb1 Rxg2 30. Re4 Ba3 31. Bg5 c2+
+32. Ka1 Rxe4 33. Nxe4 Rxg5 0-1
+

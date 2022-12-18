@@ -1,0 +1,21 @@
+[Event "Ybbs"]
+[Site "Ybbs"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Yoffie, Marc"]
+[Black "Postler, Reinhard"]
+[Result "1-0"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[HashCode "63fc8ebf"]
+[Epoch "Bishop"]
+[WhiteID "2001608"]
+[BlackID "4611608"]
+[WhiteCountry "USA"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. g3 Nc6 4. Bg2 Nf6 5. d3 d5 6. Nbd2 Be7 7. O-O O-O 8. Re1
+Rb8 9. e5 Nd7 10. Nf1 b5 11. h4 a5 12. Bf4 b4 13. Ne3 Ba6 14. c4 bxc3 15. bxc3
+Rb2 16. c4 d4 17. Ng4 Qb6 18. Ng5 Bxg5 19. Bxg5 Nb4 20. Nf6+ Nxf6 21. exf6 g6
+22. Bc1 Rxa2 23. Rxa2 Nxa2 24. Qd2 Qb4 25. Qh6 1-0

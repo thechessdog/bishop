@@ -1,0 +1,23 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Teschner, Rudolf"]
+[Black "Honfi, Karoly"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "7b8934d4"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 f5 12. Nb3 Bb6 13. Nfd4 Nxd4 14. Nxd4 Bxd4
+15. cxd4 f4 16. f3 Ng3 17. hxg3 fxg3 18. Qd3 Bf5 19. Qxf5 Rxf5 20. Bxf5 Qh4 21.
+Bh3 Qxd4+ 22. Kh1 Qxe5 23. Bd2 c5 24. Rae1 Qxb2 25. Bf4 Qf6 26. Bxg3 d4 27. Re6
+Qg5 28. Be5 d3 29. f4 Qh4 30. f5 d2 31. f6 gxf6 32. Bxf6 Rf8 33. Re8 d1=Q 34.
+Rxd1 Qxf6 35. Re6 Qg5 36. Rxa6 c4 37. Rc6 Qe3 38. Re6 Qf2 39. Re7 c3 40. Rdd7
+Qh4 41. Rc7 c2 42. Red7 Rf1+ 43. Kh2 Qf4+ 44. g3 Rf2+ 45. Bg2 Qh6+ 46. Kg1
+c1=Q+ 47. Rxc1 Rxg2+ 0-1

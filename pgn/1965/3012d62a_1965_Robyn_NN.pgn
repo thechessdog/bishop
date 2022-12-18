@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Robyn"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "3012d62a"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 f5 4. Bg5 Nf6 5. f3 exf3 6. Nxf3 Nc6 7. d5 Nb4
+8. Bxf6 gxf6 9. a3 Na6 10. Nd4 Nc5 11. Qh5+ Kd7 12. Bb5+ c6 13. dxc6+ Kc7
+14. O-O-O Kb8 15. b4 Ne4 16. Nxf5 Qc7 17. Nd5 Qe5 18. c7+ 1-0
+

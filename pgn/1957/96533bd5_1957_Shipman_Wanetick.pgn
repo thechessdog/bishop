@@ -1,0 +1,19 @@
+[Event "New Jersey"]
+[Site "New Jersey"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Shipman, Walter"]
+[Black "Wanetick"]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Spielmann variation"]
+[HashCode "96533bd5"]
+[Epoch "Bishop"]
+[WhiteID "2001357"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Be3 Nc6 9. Nb3 Be6 10. f4 Na5 11. f5 Bc4 12. Bd3 Nxb3 13. axb3 Bxd3 14. cxd3 a6
+15. d4 Rc8 16. Qf3 Nd7 17. Rad1 b5 18. Qh3 Nb6 19. e5 b4 20. Ne4 Nd5 21. fxg6
+h5 22. gxf7+ Rxf7 23. Qe6 Nxe3 24. Qxf7+ Kh7 25. Qxh5+ Bh6 26. Rf7+ 1-0

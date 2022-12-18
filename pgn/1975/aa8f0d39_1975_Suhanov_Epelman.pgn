@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Suhanov, E."]
+[Black "Epelman, E."]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "aa8f0d39"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Qc2 O-O 10. Rd1 Qe7 11. Ng5 g6 12. Ne4 Nh5 13. Be2 f5 14. Bxh5
+gxh5 15. Ng3 h4 16. Nf1 b6 17. dxc5 dxc5 18. f4 Ba6 19. e4 fxe4 20. Qxe4
+Bb7 21. f5 Nd4 22. Qg4+ Kh8 23. Bg5 Rg8 24. Bxe7 Rxg4 25. Ne3 Re4 26. cxd4
+exd4 27. f6 Rxe3 28. Rf1 Re2 29. Rf4 h3 30. gxh3 Rg8+ 31. Kf1 Rxh2 32. Rf2
+Rh1+ 33. Ke2 Rxa1 34. f7 d3+ 0-1
+

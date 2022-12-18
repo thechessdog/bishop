@@ -1,0 +1,19 @@
+[Event "Palma de Mallorca Interzonal"]
+[Site "Palma de Mallorca izt"]
+[Date "1970.11.01"]
+[Round "3"]
+[White "Ivkov, Borislav"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "1d60c7e5"]
+[Epoch "Bishop"]
+[WhiteID "900141"]
+[WhiteCountry "SRB"]
+[BlackCountry "BLR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 c5 10. Rd1 d6 11. b3 Bf6 12. Bb2 Qe7 13. Qc2 Nc6 14. a3 Rac8 15.
+dxc5 Bxb2 16. Qxb2 dxc5 1/2-1/2

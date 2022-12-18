@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Morgado, Juan Sebastian"]
+[Black "Poch, Cesar G."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "29cdfb03"]
+[Epoch "Bishop"]
+[BlackID "100315"]
+[BlackCountry "ARG"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 dxe4 4. Nxe4 Nd7 5. d4 Ngf6 6. Bc4 Nb6 7. Bd3 Qxd4 8.
+Ne2 Qd7 9. Nxf6+ exf6 10. h3 Bd6 11. O-O O-O 12. Ng3 Qc7 13. Nf5 1-0

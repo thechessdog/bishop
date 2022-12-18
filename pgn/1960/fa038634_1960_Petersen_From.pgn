@@ -1,0 +1,23 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "From, Sigfred"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "fa038634"]
+[Epoch "Bishop"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Qe2 O-O 8. a4
+Rb8 9. axb5 axb5 10. c3 d6 11. h3 Be6 12. Bxe6 fxe6 13. d4 exd4 14. cxd4 Nd7
+15. Be3 Nb4 16. Bd2 Nc2 17. Ra7 Rxf3 18. Qxf3 Nxd4 19. Qd1 c5 20. Be3 Nc6 21.
+Ra1 Nde5 22. Nc3 Bf6 23. b3 Nb4 24. Qd2 Nec6 25. Rad1 Bd4 26. Ne2 e5 27. Bxd4
+exd4 28. Ra1 Qf6 29. Rfd1 Qe6 30. Rab1 Qxe4 31. Kf1 Rf8 32. Kg1 Qe5 33. Re1 Qf6
+34. Ng3 d5 35. Rec1 Qd6 36. Ne2 d3 37. Nc3 Nd4 38. Re1 Qg6 39. Kf1 Ndc2 40. Re5
+d4 41. Nd1 Qd6 42. Qg5 Nc6 43. Rxc5 Qh2 44. f3 Qh1+ 0-1

@@ -1,0 +1,22 @@
+[Event "Rasmussen mem"]
+[Site "Randers"]
+[Date "1973.10.17"]
+[Round "4"]
+[White "Ostberg, Peter"]
+[Black "Carlsson, Aake"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "b93791ab"]
+[Epoch "Bishop"]
+[WhiteID "1700960"]
+[WhiteCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Bxf3 9. gxf3 e6 10. Qxb7 Nxd4 11. Bb5+ Nxb5 12. Qc6+ Ke7 13. Qxb5 Nxc3 14.
+bxc3 f6 15. Qb7+ Ke8 16. Be3 Qc8 17. Qxc8+ Rxc8 18. Kd2 Bc5 19. Rab1 Bxe3+ 20.
+fxe3 Rf8 21. Rb7 Rf7 22. Rxf7 Kxf7 23. Rb1 Rc7 24. Rb8 g5 25. Kd3 Ke7 26. c4
+Kd6 27. h3 h5 28. a4 Rc5 29. Kc3 Rf5 30. Kd4 Rxf3 31. c5+ Kc7 32. Ra8 Kb7 33.
+Re8 e5+ 34. Kc4 Rxh3 35. Re6 Rh4+ 36. Kd5 Rxa4 37. Rxf6 g4 38. Rf7+ Ka6 39. Rg7
+h4 40. e4 g3 41. Rg4 0-1

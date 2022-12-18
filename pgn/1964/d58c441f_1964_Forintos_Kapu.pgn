@@ -1,0 +1,19 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Forintos, Gyozo V"]
+[Black "Kapu, Jeno"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "d58c441f"]
+[Epoch "Bishop"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qc7 4. O-O d6 5. a4 Nf6 6. Re1 Bd7 7. Nc3 e6 8. d3
+Be7 9. Ne2 O-O 10. Ng3 Rac8 11. c3 a6 12. Bc4 Ne5 13. Nxe5 dxe5 14. a5 Bc6 15.
+Qe2 Bb5 16. Bxb5 axb5 17. Be3 Ra8 18. d4 exd4 19. cxd4 c4 20. Qd2 b4 21. Bf4
+Qc6 22. Bg5 Rfd8 23. h3 Qb5 24. Rec1 c3 25. bxc3 bxc3 26. Qxc3 Qxg5 0-1

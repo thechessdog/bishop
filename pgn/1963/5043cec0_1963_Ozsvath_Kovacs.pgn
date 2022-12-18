@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Ozsvath, Andras"]
+[Black "Kovacs, Laszlo M"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "5043cec0"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Be7 7. e5 Qa5+ 8. c3
+dxc3 9. Nxc3 Bg4 10. Qb3 Bxf3 11. Bxf7+ Kf8 12. O-O Qc5+ 13. Kh1 Qxe5 14. Bf4
+Qc5 15. Bxg8 Rxg8 16. Rxf3 1-0

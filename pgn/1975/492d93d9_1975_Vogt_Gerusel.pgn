@@ -1,0 +1,22 @@
+[Event "DSV-Turnier"]
+[Site "Leipzig"]
+[Date "1975.01.01"]
+[Round "2"]
+[White "Vogt, Lothar"]
+[Black "Gerusel, Mathias"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "492d93d9"]
+[Epoch "Bishop"]
+[WhiteID "4611292"]
+[WhiteCountry "GER"]
+[BlackID "4601122"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 b5 7. Bg2 Bb7 8. O-O
+Nc6 9. Re1 d6 10. a4 Nxd4 11. Qxd4 e5 12. Nd5 Qd7 13. Qb6 Bxd5 14. exd5 bxa4
+15. Re4 Rc8 16. Qxa6 Rxc2 17. Bf1 Ke7 18. Rexa4 g6 19. Bg5+ f6 20. Bb5 Qd8 21.
+Qb7+ Rc7 22. Ra7 fxg5 23. Qxc7+ Qxc7 24. Rxc7+ Kf6 25. Ra8 Ne7 26. Bc6 Bg7 27.
+Raa7 Bf8 28. b4 g4 1-0

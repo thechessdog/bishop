@@ -1,0 +1,21 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Laver, R."]
+[Black "McCollough"]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "pawn storm variation"]
+[HashCode "08ff7188"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Nf3 Bg4 9. Bb5+ Nfd7 10. O-O O-O 11. h3 Bxf3 12. Qxf3 Nb6 13. a4 a6 14. Bd3
+c4 15. Bc2 N8d7 16. a5 Nc8 17. Be3 Nc5 18. e5 Nd3 19. Bxd3 cxd3 20. Bd4
+dxe5 21. fxe5 Ne7 22. Rad1 Nf5 23. Bb6 Qe7 24. Rfe1 Bxe5 25. Qxd3 Qd6 26.
+Ne4 Bh2+ 27. Kh1 Qf4 28. Qc3 f6 29. Bd4 Nxd4 30. Qxd4 Qe5 31. Nxf6+ Qxf6
+32. Kxh2 Qd6+ 33. Kh1 Rf4 34. Qd2 Raf8 35. Qd3 R4f5 36. Re6 Qd7 37. Qc4 Qg7
+38. d6 Qxb2 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Van Doremalen, A."]
+[Black "Chmelik, J."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "793da305"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
+g4 O-O 9. g5 Nfd7 10. Bxe6 Bxg5 11. Rg1 Bxc1 12. Qxc1 Qf6 13. Bf5 Nc6 14.
+Nxc6 bxc6 15. Qe3 Ne5 16. Qg3 Bxf5 17. exf5 d5 18. O-O-O Nc4 19. Qf4 Rae8
+20. f3 Ne3 21. Ne4 dxe4 22. Rd6 Qxf5 23. Qh6 g6 24. Rg5 exf3 0-1
+

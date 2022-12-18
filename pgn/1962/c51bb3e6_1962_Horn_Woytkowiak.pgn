@@ -1,0 +1,17 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Horn, A."]
+[Black "Woytkowiak, H."]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "c51bb3e6"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 e6 4. Nxe4 Nf6 5. Bd3 Nc6 6. Bg5 Be7 7. Nxf6+
+Bxf6 8. Qh5+ Kf8 9. Nf3 Nxd4 10. Ne5 Qe7 11. Bxh7 Rxh7 12. Qxh7 Qb4+ 13. c3
+Qb5 14. Qh8+ Ke7 15. Qxg7+ Kd6 16. Qf8+ 1-0
+

@@ -1,0 +1,21 @@
+[Event "Sevastopol"]
+[Site "Sevastopol"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gutman"]
+[Black "Yanitsky"]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "aec0217b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. Nf3 Nbd7
+8. Bg5 b6 9. e3 Bb7 10. Bd3 Qe7 11. Nd2 Rae8 12. Rg1 e5 13. d5 a6 14. Bf5
+Bc8 15. g4 Kh8 16. e4 Nc5 17. b4 Bxf5 18. Bxf6 Qxf6 19. g5 Qe7 20. exf5 Na4
+21. Qc2 e4 22. Qxa4 e3 23. Nf3 Qe4 24. Qd1 Qxc4 25. Qd4 Qc2 26. fxe3 Qxf5
+27. Kf2 Re4 28. Qd3 f6 29. g6 hxg6 30. Rg3 g5 31. Kg2 Rfe8 32. Nd2 R4e5 33.
+Qxf5 Rxf5 34. e4 Rfe5 35. Rf1 f5 36. Nf3 Rxe4 37. Nxg5 Re2+ 38. Rf2 Rxf2+
+39. Kxf2 Re7 40. Rc3 Kg8 41. Ne6 1-0
+

@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "10"]
+[White "Marovic, Drazen"]
+[Black "Bednarski, Jacek B"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[HashCode "fd1f103b"]
+[Epoch "Bishop"]
+[WhiteID "14500183"]
+[WhiteCountry "CRO"]
+[BlackCountry "POL"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. e4 O-O 6. Be2 e5 7. Be3 c6 8. h3
+exd4 9. Bxd4 Re8 10. e5 dxe5 11. Bxe5 Qxd1+ 12. Rxd1 Nbd7 13. Bd4 Ne4 14. Nxe4
+Rxe4 15. Bxg7 Kxg7 1/2-1/2

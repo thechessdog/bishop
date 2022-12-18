@@ -1,0 +1,17 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Funk, V."]
+[Black "Popp, F."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Dresden opening"]
+[HashCode "44e703c2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. c4 Bc5 4. Nc3 d6 5. a3 Nf6 6. b4 Bb6 7. h3 Bd4 8.
+Nxd4 exd4 9. Nd5 Nxe4 10. Qe2 O-O 11. Nxc7 Qxc7 12. Qxe4 Qd7 13. Qd3 Re8+
+14. Kd1 Ne5 15. Qb3 Qf5 16. f3 d3 17. Bb2 b5 18. cxb5 Be6 19. Qa4 Nxf3 20.
+Kc1 Nxd2 21. Kxd2 Qf2+ 22. Kc1 Bb3 0-1
+

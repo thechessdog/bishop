@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Voigt, D."]
+[Black "Rausch, Wolfgang"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "58d9582f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Ne2 e5 7. O-O Re8 8. a3
+Bxc3 9. Nxc3 e4 10. Be2 Bf5 11. b4 Nc6 12. Bb2 Ne7 13. d5 Qc8 14. Qd4 Bg6 15.
+c5 Nf5 16. Qc4 dxc5 17. bxc5 Nh4 18. f4 Bf5 19. Rad1 Bg4 20. h3 Bxh3 21. gxh3
+Qxh3 0-1

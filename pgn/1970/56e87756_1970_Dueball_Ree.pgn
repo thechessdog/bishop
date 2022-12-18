@@ -1,0 +1,19 @@
+[Event "Bad Pyrmont"]
+[Site "Bad Pyrmont"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Dueball, Juergen"]
+[Black "Ree, Hans"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "56e87756"]
+[Epoch "Bishop"]
+[BlackID "1000098"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. f4 Be7 7. Be3 a6 8. Qf3
+Qc7 9. O-O-O b5 10. e5 Bb7 11. Bxb5+ axb5 12. Ndxb5 Qc8 13. Qg3 dxe5 14. fxe5
+Nh5 15. Qh3 g6 16. Bh6 Nc6 17. Rhe1 Nb4 18. a3 Nd5 19. Nd6+ Bxd6 20. exd6 Rxa3
+21. d7+ Qxd7 22. bxa3 f5 23. Nxd5 Bxd5 24. Qc3 Rg8 25. g4 fxg4 26. Qe5 1-0

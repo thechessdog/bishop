@@ -1,0 +1,21 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1966.01.01"]
+[Round "10"]
+[White "Donner, Jan Hein"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "7f0defc8"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. Qe2
+Nbd7 9. Rd1 c5 10. Bd2 Qe7 11. cxd5 exd5 12. a3 Bxc3 13. Bxc3 Ne4 14. Be1 Rfd8
+15. dxc5 Ndxc5 16. Nd4 Nxd3 17. Qxd3 Nc5 18. Qf5 Rd6 19. Rac1 Rad8 20. Qc2 Rg6
+21. b4 Ne6 22. b5 h5 23. Nxe6 Qxe6 24. Qc7 Rd7 25. Qb8+ Kh7 26. Rd4 Rg4 27. Bc3
+Qg6 28. Rxg4 Qxg4 29. Bd4 h4 30. h3 Qe4 31. Qxa7 Rd6 32. f3 Qd3 33. Qxb7 Rg6
+34. Qc7 Qe2 35. Qc2 1-0

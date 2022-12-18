@@ -1,0 +1,17 @@
+[Event "Southsea"]
+[Site "Southsea"]
+[Date "1950.01.01"]
+[Round "6"]
+[White "O'Hanlon, John"]
+[Black "Schmid, Lothar"]
+[Result "0-1"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[HashCode "f8228bac"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Nf3 O-O 7. e3 c5 8. Be2
+Nc6 9. O-O Bg4 10. a3 cxd4 11. axb4 dxc3 12. bxc3 Qc7 13. Qb3 Ne5 14. Bb2 Nxf3+
+15. gxf3 Bh5 16. Rfd1 Qe5 17. Rd4 Rad8 18. Rxa7 Qg5+ 19. Kh1 Ne4 20. Rxe4 dxe4
+21. Ra1 exf3 22. Rg1 fxe2 0-1

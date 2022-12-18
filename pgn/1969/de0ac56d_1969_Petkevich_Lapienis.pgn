@@ -1,0 +1,21 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Petkevich, Jusefs"]
+[Black "Lapienis, Donatas"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "de0ac56d"]
+[Epoch "Bishop"]
+[WhiteID "11600110"]
+[WhiteCountry "LAT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. Bg2 Bb7 13. g5 Nd7 14. a3 O-O-O
+15. h4 g6 16. Qh3 Kb8 17. f5 e5 18. Nde2 h6 19. f6 Bf8 20. Qg3 Nb6 21. Nd5 Nxd5
+22. exd5 Bc8 23. Rd3 Bf5 24. Rc3 Qb7 25. Qf2 Rc8 26. Rxc8+ Kxc8 27. Ng3 Bd7 28.
+b3 Qc7 29. Kb2 Qc5 30. Qd2 Bf5 31. Qc3 Kb7 32. b4 Qf2 33. Nxf5 Qxg2 34. Qc6+
+Ka7 35. Nd4 1-0

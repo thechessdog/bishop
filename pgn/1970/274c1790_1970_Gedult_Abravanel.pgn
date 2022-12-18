@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Abravanel, Chely"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "274c1790"]
+[Epoch "Bishop"]
+[BlackID "600440"]
+[BlackCountry "FRA"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Bg5 Nbd7 5. Bc4 c6 6. f3 exf3 7. Nxf3 Qb6 8.
+O-O e6 9. Qd3 Be7 10. Ne5 h6 11. Nxf7 Kxf7 12. Bxe6+ Kxe6 13. Qc4+ Nd5 14.
+Rae1+ Kd6 15. Nxd5 cxd5 16. Bxe7# 1-0

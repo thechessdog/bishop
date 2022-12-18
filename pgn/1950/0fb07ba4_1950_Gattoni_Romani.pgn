@@ -1,0 +1,17 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Gattoni"]
+[Black "Romani"]
+[Result "0-1"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence"]
+[HashCode "0fb07ba4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Nbxd2 d5 6. e3 Nbd7 7. Bd3
+Qe7 8. O-O O-O 9. Qe2 Re8 10. Rac1 c6 11. Bb1 e5 12. dxe5 Nxe5 13. Nxe5
+Qxe5 14. Nf3 Qh5 15. h3 g5 16. Nd4 g4 17. hxg4 Nxg4 18. Nf3 Nh2 19. Rfd1
+Bg4 20. Rd4 Nxf3+ 21. gxf3 Bxf3 22. Bxh7+ Kxh7 0-1
+

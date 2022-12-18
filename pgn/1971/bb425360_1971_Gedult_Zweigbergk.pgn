@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Zweigbergk"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "bb425360"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 c5 5. Bf4 cxd4 6. Nb5 Nd5 7. Bxb8 Ne3 8.
+Nc7+ Qxc7 9. Bxc7 Nxd1 10. Rxd1 1-0

@@ -1,0 +1,21 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "7"]
+[White "Blom, Seppo"]
+[Black "Van den Dvej"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "70bc4d58"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Kxe7 8.
+Qg4 Rg8 9. Nf3 cxd4 10. Qxd4 Nc6 11. Qf4 a6 12. O-O-O f6 13. exf6+ Nxf6 14.
+Bd3 Qd6 15. Qd2 Rd8 16. Qg5 Kf7 17. g4 h6 18. Qg6+ Kf8 19. g5 Qf4+ 20. Nd2
+Ne7 21. Ne2 Qc7 22. gxf6 Nxg6 23. fxg7+ Qxg7 24. Rdg1 Ne5 25. Rxg7 Nxd3+
+26. cxd3 Kxg7 27. Rg1+ Kf7 28. Nf3 Bd7 29. Ne5+ Kf8 30. Nf4 Rac8+ 31. Kd2
+Rc7 32. Rg6 Ke7 33. Rg7+ Kf8 34. Rf7+ Kg8 35. Nh5 Be8 36. Nf6+ Kh8 37. Ng6#
+1-0
+

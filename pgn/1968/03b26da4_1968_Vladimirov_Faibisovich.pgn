@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Vladimirov"]
+[Black "Faibisovich, Vadim Z"]
+[Result "1/2-1/2"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "03b26da4"]
+[Epoch "Bishop"]
+[BlackID "4102703"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6 8.
+Bg5 h6 9. Bh4 c5 10. O-O-O b5 11. Qxb5 Rb8 12. dxc5 Qc7 13. Bg3 Rxb5 14. Bxc7
+Rxc5 15. Bd8 Re8 16. Bb5 1/2-1/2

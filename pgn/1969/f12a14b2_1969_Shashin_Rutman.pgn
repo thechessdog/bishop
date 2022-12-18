@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Shashin, Alexsander A"]
+[Black "Rutman, A."]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "f12a14b2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 b5 10. a4 b4 11. Nd5 Bb7 12. Nb6 Bxe4 13. Nxa8 Bxa8 14. c4 bxc3 15.
+bxc3 Nd5 16. Bd2 f5 17. Kh1 Kh8 18. Qc2 Bg5 19. Bf3 e4 20. Be2 Nf4 21. Bxf4
+Bxf4 22. Nd4 Qf6 23. Rad1 Nc6 24. Nxc6 Bxc6 25. Bxa6 Qh6 26. g3 e3+ 27. f3 Bxg3
+28. Bb5 Ba8 29. Qg2 Be5 30. Rd3 g5 31. Bc4 g4 32. Bd5 Rg8 33. f4 Bxd5 34. Rxd5
+Bxf4 35. Rxf5 Be5 36. a5 g3 37. a6 e2 38. a7 exf1=Q+ 39. Rxf1 Qxh2+ 40. Qxh2
+gxh2 0-1

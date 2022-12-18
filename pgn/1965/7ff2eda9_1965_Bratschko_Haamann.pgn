@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Bratschko"]
+[Black "Haamann"]
+[Result "0-1"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "7ff2eda9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Be7 9. f4 Bd7 10. Be2 b5 11. Bxf6 gxf6 12. f5 h5 13. Bf3 b4 14. Nxc6
+Bxc6 15. Ne2 e5 16. Qxb4 d5 17. Qc3 Rc8 18. b3 d4 19. Qd2 Qb6 20. Kb2 Bb4
+21. Qc1 Qa5 22. Kb1 Ke7 23. c4 dxc3 24. Qc2 Bb5 25. Nc1 Qa3 26. Nd3 a5 27.
+Rhf1 a4 28. Rf2 Ra8 29. Be2 axb3 30. Qxb3 c2+ 31. Qxc2 Bc3 32. Nc1 Ba4 33.
+Nb3 Rhc8 0-1
+

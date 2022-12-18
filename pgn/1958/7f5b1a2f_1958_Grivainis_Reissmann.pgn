@@ -1,0 +1,26 @@
+[Event "Munich olm fin-C"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "4"]
+[White "Grivainis, Konstantin"]
+[Black "Reissmann, Paul"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "7f5b1a2f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qc7 4. O-O e6 5. c3 Nge7 6. d4 cxd4 7. cxd4 d5
+8. Nc3 a6 9. Ba4 Bd7 10. Re1 dxe4 11. Nxe4 Nd5 12. Bg5 Be7 13. Rc1 O-O 14.
+Bxe7 Ndxe7 15. Ne5 Be8 16. Re3 Nf5 17. Rh3 f6 18. Nxc6 bxc6 19. Bb3 Qe7 20.
+Nc5 Bf7 21. Qf3 Nxd4 22. Qe4 Nf5 23. Nxe6 Nh6 24. Rxh6 gxh6 25. Qg4+ Bg6
+26. Nxf8+ Kxf8 27. Qc4 Kg7 28. Qxc6 Ra7 29. h3 h5 30. Qe6 Qb4 31. Qc4 Qe7
+32. Rd1 a5 33. Qe6 Qc5 34. Rd7+ Rxd7 35. Qxd7+ Kf8 36. Qd2 Kg7 37. Qe3 Qc7
+38. Bd5 Qd7 39. Bf3 Qf5 40. Qc3 Qb1+ 41. Kh2 Qxa2 42. Qc7+ Kh6 43. Qb6 f5
+44. Qe3+ Kg7 45. Qe5+ Kh6 46. Qf6 Qf7 47. Qxf7 Bxf7 48. Kg3 Kg5 49. h4+ Kf6
+50. Kf4 Be8 51. Bd1 Bf7 52. g3 h6 53. Ba4 Be6 54. Be8 Ke7 55. Bxh5 Kf6 56.
+Bd1 Bf7 57. Bc2 Bg6 58. f3 h5 59. Bd3 Bh7 60. g4 hxg4 61. fxg4 Bg6 62. Bxf5
+Bf7 63. Bc2 Bc4 64. g5+ Kg7 65. h5 Bd5 66. h6+ Kf8 67. Ke5 Bc4 68. Kf6 Kg8
+69. h7+ Kh8 70. g6 1-0
+

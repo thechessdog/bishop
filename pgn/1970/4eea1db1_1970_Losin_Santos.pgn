@@ -1,0 +1,19 @@
+[Event "corr South America"]
+[Site "corr South America"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Losin"]
+[Black "Santos"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "4eea1db1"]
+[Epoch "Bishop"]
+[BlackID "35034987"]
+[BlackCountry "IND"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. Qe2
+Nxc4 9. dxc4 Bc5 10. h3 O-O 11. Nfd2 Re8 12. Nf1 b5 13. Be3 Bd6 14. cxb5 Nxd5
+15. a3 f5 16. Qd2 Nb6 17. Bxb6 axb6 18. Nc3 Qe7 19. Nd5 Qe5 20. c4 Be6 21. Rd1
+f4 22. Nxb6 e3 23. fxe3 fxe3 24. Nxe3 cxb6 25. O-O Bc5 26. Rfe1 Bxc4 0-1

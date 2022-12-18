@@ -1,0 +1,21 @@
+[Event "Vancouver"]
+[Site "Vancouver"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Andersen, Borge"]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "c4aaa2e0"]
+[Epoch "Bishop"]
+[WhiteCountry "CAN"]
+[BlackCountry "DNK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Nc5 10. Rd1 Be7 11. Be3 Nxb3 12. axb3 Qc8 13. Bg5 Bxg5 14. Nxg5 O-O
+15. c4 Ne7 16. cxd5 Bxd5 17. Qc2 g6 18. f3 h6 19. Nc3 c6 20. Nge4 Qe6 21. Nf6+
+Kg7 22. Re1 Bxb3 23. Qc1 b4 24. Ng4 Nf5 25. Ne4 Qc4 26. Qf4 Qd4+ 27. Kh1 Rfe8
+28. Qc1 h5 29. Ngf6 Rh8 30. Nc5 h4 31. h3 Bc4 32. Nce4 Ng3+ 33. Nxg3 hxg3 34.
+Ne4 Bd5 35. Nxg3 Rxh3+ 36. gxh3 Bxf3+ 0-1

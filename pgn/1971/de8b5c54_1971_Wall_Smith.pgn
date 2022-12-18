@@ -1,0 +1,17 @@
+[Event "Marysville"]
+[Site "Marysville"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Smith, Daniel"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[HashCode "de8b5c54"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Nf3 Bxc5 6. Bb5 Qa5+ 7. Nc3 d4 8.
+Bxc6+ bxc6 9. Nxd4 Ba6 10. Nb3 Qc7 11. Nxc5 Qxe5+ 12. Be3 Rd8 13. Qf3 Bc4 14.
+Qxc6+ Ke7 15. Nd3 Bxd3 16. cxd3 Rxd3 17. O-O Nf6 18. Bc5+ Kd8 19. Rad1 1-0

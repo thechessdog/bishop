@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Liavdansky, Vladimi"]
+[Result "1-0"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "45eee8ba"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Bg4 7. Be3 Nfd7 8. Rc1
+c5 9. d5 Nb6 10. Nd2 Bxe2 11. Qxe2 e6 12. O-O Re8 13. a4 exd5 14. cxd5 Na6 15.
+Kh1 Nc7 16. Qd3 Nd7 17. f4 Na6 18. Bf2 Nb4 19. Qf3 a6 20. Nc4 Qb8 21. e5 dxe5
+22. fxe5 Bxe5 23. Ne4 f5 24. Nxc5 Nxc5 25. Bxc5 a5 26. d6 Bf6 27. Bxb4 axb4 28.
+Qd5+ Kg7 29. Nb6 1-0

@@ -1,0 +1,17 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Hagoort"]
+[Black "Dries"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "ac77348f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Bg4 9. Be2 Bxe2+ 10. Qxe2 Nd4 11. Qxf2 O-O-O 12. Na3 Rf8 13. Kg1
+Ne4 14. Qe3 Qf6 15. h4 Ng3 0-1
+

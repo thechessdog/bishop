@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hodos, German"]
+[Black "Asaturian"]
+[Result "1-0"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "99417b8b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. dxc5 f5 9. Qc2 O-O 10. e4 fxe4 11. fxe4 Qf6 12. Nf3 Nf4 13. e5 Qe7 14.
+Qe4 Qxc5 15. Bxf4 Qxc3+ 16. Kf2 Qxa1 17. Bd3 Qb2+ 18. Kg3 g6 19. Bh6 Rf7
+20. Qg4 Nc6 21. Bxg6 Rxf3+ 22. Kh4 Qxe5 23. Be8+ Kh8 24. Qxf3 Qf5 25. Qxf5
+exf5 26. Re1 Kg8 27. Kg5 Nd8 28. Kf6 a5 29. Bf7+ 1-0
+

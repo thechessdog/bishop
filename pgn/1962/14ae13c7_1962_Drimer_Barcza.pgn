@@ -1,0 +1,18 @@
+[Event "Lasker mem"]
+[Site "Berlin-Ost"]
+[Date "1962.??.??"]
+[Round "1"]
+[White "Drimer, Dolfi"]
+[Black "Barcza, Gedeon"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "14ae13c7"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "ROU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 Be7 7. Bxf6 Nxf6
+8. Bd3 c5 9. Nxc5 Bxc5 10. dxc5 Qa5+ 11. Nd2 Qxc5 12. O-O Bd7 13. Ne4 Nxe4 14.
+Bxe4 Bc6 15. Bxc6+ Qxc6 16. Qe2 O-O 17. Rfd1 1/2-1/2

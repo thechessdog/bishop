@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Makarichev, Sergey"]
+[Black "Vaganian, Rafael A"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, Zaitsev variation"]
+[HashCode "525796bb"]
+[Epoch "Bishop"]
+[BlackID "13300016"]
+[BlackCountry "ARM"]
+[WhiteID "4100468"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. b4 Nxf3+ 6. Qxf3 Bxb4 7. Bb2 Qf6
+8. Qg3 Bd6 9. f4 Bf8 10. Nc3 exf4 11. Rxf4 Qd4+ 12. Kh1 c6 13. Na4 Qd6 14. Bxg7
+Bxg7 15. Qxg7 Qxf4 16. Rf1 Qxe4 17. Qxh8 Kf8 18. Bd3 Qxa4 19. Bxh7 Qg4 20. Re1
+d5 21. Bxg8 Qxg8 22. Re8+ 1-0

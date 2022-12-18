@@ -1,0 +1,20 @@
+[Event "corr RUM-POL tt"]
+[Site "corr RUM-POL tt"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Vasilescu, R."]
+[Black "Braczko, M."]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "7ba7b120"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Bc4 Nc6 9. Qd2 Nd7 10. O-O-O Nb6 11. Bb3 Na5 12. Qd3 Bd7 13. g4 Rc8 14. h4
+Nbc4 15. h5 Nxe3 16. Qxe3 Nxb3+ 17. cxb3 Qa5 18. Kb1 e6 19. Nde2 Rc6 20. f4
+b5 21. e5 b4 22. Ne4 Ra6 23. Nc1 Bc6 24. Nf6+ Bxf6 25. exf6 Bxh1 26. Rxh1
+Qc5 27. Qe2 Rc6 28. Nd3 Qd5 29. Rd1 Qb5 30. hxg6 fxg6 31. Qxe6+ Rf7 32. Ne5
+Qb7 33. Qe8+ 1-0
+

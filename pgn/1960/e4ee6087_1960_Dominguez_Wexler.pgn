@@ -1,0 +1,21 @@
+[Event "Bariloche"]
+[Site "Bariloche"]
+[Date "1960.01.01"]
+[Round "9"]
+[White "Dominguez, Cristoba"]
+[Black "Wexler, Bernardo"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "e4ee6087"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. Be2
+b4 9. Na4 Bd7 10. Bf3 e5 11. b3 Bxa4 12. bxa4 Nbd7 13. O-O h6 14. Bh4 Rc8 15.
+Kh1 exd4 16. e5 dxe5 17. fxe5 Nxe5 18. Re1 Qd6 19. Qd3 Be7 20. Qf5 Nfd7 21. Bg3
+Rc5 22. Rad1 O-O 23. Qe4 Qb6 24. Qxd4 Bf6 25. Be4 Rc7 26. Bf5 Qa5 27. Qd5 Rc5
+28. Qd6 Nc4 29. Qxd7 Rxf5 30. Re8 Rxe8 31. Qxe8+ Kh7 32. Qe4 Qc5 33. Be1 g6 34.
+Bh4 Ne3 35. Re1 Bxh4 36. Qxh4 Qc4 37. Qxc4 Nxc4 38. Kg1 Kg7 39. Re4 Rc5 40. Kf2
+a5 0-1

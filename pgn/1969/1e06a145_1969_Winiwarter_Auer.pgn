@@ -1,0 +1,18 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Winiwarter, Felix"]
+[Black "Auer, Martin"]
+[Result "1-0"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Keres variation"]
+[HashCode "1e06a145"]
+[Epoch "Bishop"]
+[WhiteID "1601890"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd3 Bd7 8.
+Rd1 a6 9. Be2 Be7 10. O-O Qc7 11. Kh1 O-O 12. Qg3 Rac8 13. f4 Nxd4 14. Rxd4 Qb6
+15. Rd3 Qxb2 16. e5 Rxc3 17. Bxf6 Bxf6 18. exf6 g6 19. Rxc3 1-0

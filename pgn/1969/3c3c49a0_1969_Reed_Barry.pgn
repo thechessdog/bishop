@@ -1,0 +1,21 @@
+[Event "Air Force Systems"]
+[Site "Air Force Systems"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Reed"]
+[Black "Barry"]
+[Result "0-1"]
+[ECO "D04"]
+[Opening "Queen's pawn game"]
+[HashCode "3c3c49a0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 c6 4. c3 Qc7 5. Bd3 Nbd7 6. Nbd2 e5 7. O-O e4 8.
+Bc2 exf3 9. Qxf3 Nb6 10. e4 Bg4 11. Qg3 Qxg3 12. fxg3 dxe4 13. Nxe4 Nxe4
+14. Bxe4 Bd6 15. Bf4 Bxf4 16. gxf4 O-O 17. Rae1 Rfe8 18. f5 f6 19. Rf4 Bh5
+20. Rh4 Bf7 21. Re3 Bxa2 22. Rg4 Re7 23. Reg3 Rae8 24. h4 Kf8 25. Bd3 Re3
+26. Rxg7 Rxd3 27. Rg8+ Bxg8 28. Rxd3 Bc4 29. Rg3 Nd5 30. Kh2 Re2 31. h5
+Rxb2 32. h6 Nf4 33. Rg7 Rxg2+ 34. Rxg2 Nxg2 35. Kxg2 a5 36. Kg3 a4 37. d5
+Bxd5 38. Kg4 a3 39. c4 Bxc4 40. Kh5 a2 41. Kh4 a1=Q 42. Kg3 Qf1 43. Kg4
+Be2+ 44. Kh4 Qf4+ 45. Kh3 Bf1# 0-1
+

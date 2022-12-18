@@ -1,0 +1,18 @@
+[Event "Santa Monica"]
+[Site "Santa Monica"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Addison, William"]
+[Black "Henin, C."]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "0c7a6bd4"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+a6 9. a3 Ba5 10. Bd3 b5 11. Ne4 cxd4 12. exd4 h6 13. Be3 Bb7 14. Nc5 Bd5 15. a4
+bxa4 16. Rxa4 Bc7 17. Ne5 a5 18. Qd2 Nbd7 19. Bxh6 Nxc5 20. dxc5 Bxe5 21. Bxg7
+Be4 22. Qh6 Bh7 23. Bxf6 1-0

@@ -1,0 +1,18 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Silberring"]
+[Black "Hirt"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "deda35f6"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 cxd4 6. O-O Bd7 7. Bf4 Nge7 8.
+Nbd2 Ng6 9. Bg3 Be7 10. Nb3 Rc8 11. a3 O-O 12. Nbxd4 Qb6 13. Nxc6 bxc6 14.
+h4 Rfd8 15. h5 Nf8 16. Nh2 c5 17. Qf3 c4 18. Be2 Qxb2 19. h6 g6 20. Ng4
+Qxc2 21. Nf6+ Kh8 22. Nxd5 exd5 23. Qxf7 Ne6 24. Bg4 Rg8 25. Qxe7 1-0
+

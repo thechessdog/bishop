@@ -1,0 +1,18 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Jackl, G."]
+[Black "Manzke"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "66384a3d"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 cxd4 6. O-O Bc5 7. Bf4 Nge7 8.
+Nbd2 a6 9. Nb3 Ba7 10. Re1 h6 11. Qd2 Qc7 12. Rad1 Bd7 13. Bf1 g5 14. Bg3
+Nf5 15. Bd3 Nxg3 16. hxg3 g4 17. Nh4 Nxe5 18. Qf4 Bb8 19. Qf6 Rf8 20. Re2
+Nc6 21. Nf5 Bc8 22. Nc5 Ne7 23. Ng7+ 1-0
+

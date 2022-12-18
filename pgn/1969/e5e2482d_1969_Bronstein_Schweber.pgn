@@ -1,0 +1,22 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1969.01.01"]
+[Round "7"]
+[White "Bronstein, Luis Marcos"]
+[Black "Schweber, Samuel"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "e5e2482d"]
+[Epoch "Bishop"]
+[WhiteID "100463"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. Nxe5 Nxe5 13. dxe5 Qxe5 14. Qc2
+Rd8 15. f3 Be6 16. Re1 c4 17. Bf1 Nd7 18. e4 Nc5 19. Be3 Nb3 20. Rad1 Qa5 21.
+f4 f6 22. f5 Bf7 23. Rxd8+ Rxd8 24. Rd1 a6 25. Be2 b5 26. Kf2 Rxd1 27. Qxd1
+Qxa3 28. Qd8+ Qf8 29. Qb6 Qc8 30. g4 h6 31. h4 Qe8 32. Qxa6 Qe5 33. Kf3 Qxc3
+34. Qc8+ Kh7 35. Qf8 Nd2+ 36. Kf2 Nxe4+ 37. Kf3 Bd5 38. Qd8 0-1

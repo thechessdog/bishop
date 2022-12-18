@@ -1,0 +1,18 @@
+[Event "Mar del Plata zt"]
+[Site "Mar del Plata zt"]
+[Date "1951.01.01"]
+[Round "5"]
+[White "Esposito, Alfredo"]
+[Black "Luckis, Marcos"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "97e948ee"]
+[Epoch "Bishop"]
+[BlackCountry "LTU"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. O-O cxd4 8. exd4
+O-O 9. Bf4 dxc4 10. Bxc4 Bd6 11. Qd2 e5 12. dxe5 Bxe5 13. Rad1 Qxd2 14. Rxd2
+Bf5 1/2-1/2

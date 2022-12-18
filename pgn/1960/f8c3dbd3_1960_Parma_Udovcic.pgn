@@ -1,0 +1,19 @@
+[Event "Ljubljana"]
+[Site "Ljubljana"]
+[Date "1960.01.01"]
+[Round "14"]
+[White "Parma, Bruno"]
+[Black "Udovcic, Mijo"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "f8c3dbd3"]
+[Epoch "Bishop"]
+[WhiteID "14600706"]
+[WhiteCountry "SLO"]
+[BlackCountry "HRV"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Nc6 8. Nc2
+Ne5 9. Nc3 Be7 10. Be2 Qc7 11. b3 b5 12. f4 Ned7 13. Ba3 Rb8 14. Qd4 e5 15. Qe3
+bxc4 16. Bxc4 O-O 17. Nb4 Bb7 18. Nbd5 Bxd5 19. Nxd5 Nxd5 1/2-1/2

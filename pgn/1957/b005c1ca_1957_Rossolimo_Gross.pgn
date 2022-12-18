@@ -1,0 +1,22 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Rossolimo, Nicolas"]
+[Black "Gross, Henry"]
+[Result "0-1"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Alekhine defence"]
+[HashCode "b005c1ca"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. a4 Nf6 5. e3 Bg4 6. Bxc4 e6 7. O-O c5 8. Qb3
+Bxf3 9. gxf3 Nc6 10. dxc5 Bxc5 11. Rd1 Qe7 12. Bf1 O-O 13. Nc3 Rfd8 14. Bd2 Ne5
+15. Be2 Ng6 16. Be1 Nd7 17. Ne4 f5 18. Nxc5 Nxc5 19. Qb6 Rdc8 20. Qd6 Qg5+ 21.
+Qg3 Qe7 22. b4 Nd7 23. Qd6 Qg5+ 24. Kh1 Ndf8 25. f4 Qf6 26. Qd4 e5 27. fxe5
+Nxe5 28. Qd5+ Kh8 29. Rac1 f4 30. Rxc8 Rxc8 31. Qxb7 Rc2 32. Qxa6 Qh4 33. Qd6
+Neg6 34. Bf3 Rxf2 35. Bg2 f3 36. Bxf3 Rf1+ 37. Kg2 Rxe1 38. Qg3 Rxe3 39. Qxh4
+Nxh4+ 40. Kg3 Rxf3+ 41. Kxh4 Rf4+ 42. Kg3 Rxb4 43. a5 Ra4 44. Rd8 Kg8 45. Ra8
+Kf7 0-1

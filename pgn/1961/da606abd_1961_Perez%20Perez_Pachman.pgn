@@ -1,0 +1,18 @@
+[Event "Oberhausen etc"]
+[Site "Oberhausen etc"]
+[Date "1961.06.01"]
+[Round "10"]
+[White "Perez Perez, Francisco Jose"]
+[Black "Pachman, Ludek"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "da606abd"]
+[Epoch "Bishop"]
+[BlackCountry "CZE"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. e3 d5 4. Nc3 Bb4 5. Bd3 O-O 6. Nf3 b6 7. O-O Bb7 8. a3
+Bd6 9. b4 dxc4 10. Bxc4 Nbd7 11. Nb5 Be7 12. Bb2 a6 13. Nc3 Bd6 14. Qe2 e5 15.
+dxe5 Nxe5 16. Nxe5 Bxe5 1/2-1/2

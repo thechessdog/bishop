@@ -1,0 +1,18 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1965.03.01"]
+[Round "9"]
+[White "Ciric, Dragoljub M"]
+[Black "Bogdanovic, Rajko"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "e3ebd2e9"]
+[Epoch "Bishop"]
+[BlackID "14400316"]
+[BlackCountry "BIH"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4
+Nc5 9. Qe2 Be7 10. O-O O-O 11. f5 e5 12. Nf3 Nxb3 13. axb3 h6 14. g4 d5 15. Rd1
+Qb6+ 16. Kh1 dxe4 17. Nxe5 1/2-1/2

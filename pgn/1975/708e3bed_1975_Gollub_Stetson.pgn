@@ -1,0 +1,18 @@
+[Event "Arizona"]
+[Site "Arizona"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gollub, D."]
+[Black "Stetson, R."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "708e3bed"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Ne4 7. Qg4 Qa5
+8. Qxe4 Bxc3+ 9. bxc3 Qxc3+ 10. Kd1 Qxa1 11. Nb5 d5 12. Qb4 Qxe5 13. f4 Nc6
+14. fxe5 Nxb4 15. Nc7+ Kd7 16. Nxa8 Nc6 17. Bb5 b6 18. Rf1 f5 19. exf6 g6
+20. f7 1-0
+

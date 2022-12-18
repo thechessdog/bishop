@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Artsukevich, Victor"]
+[Black "Vinogradov, Vladisl"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "66fe2308"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Na5 8. Be2
+Bd7 9. O-O Ne7 10. Rb1 Ng6 11. g3 O-O-O 12. b3 cxb3 13. c4 Nxc4 14. Nxc4
+dxc4 15. Bxc4 Bc6 16. Bxb3 Qa6 17. Qc2 Kb8 18. Ng5 Rxd4 19. Be3 Rd7 20.
+Rfd1 Be7 21. Nxf7 Rf8 22. Bxe6 Rc7 23. Rdc1 Qa5 24. Qc3 Qa4 25. Nd6 Bxd6
+26. exd6 Qe4 27. dxc7+ Ka8 28. Qxc6 bxc6 29. c8=Q+ Rxc8 30. Bxc8 1-0
+

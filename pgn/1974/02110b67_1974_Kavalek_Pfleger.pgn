@@ -1,0 +1,20 @@
+[Event "Manila"]
+[Site "Manila"]
+[Date "1974.01.01"]
+[Round "9"]
+[White "Kavalek, Lubomir"]
+[Black "Pfleger, Helmut, Dr."]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "02110b67"]
+[Epoch "Bishop"]
+[WhiteID "2000121"]
+[WhiteCountry "USA"]
+[BlackID "4600100"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 a6 7. a4 b6 8. Bc4 e6
+9. e5 dxe5 10. Nxe5 Bb7 11. O-O Nc6 12. Nxc6 Bxc6 13. Qe2 Bb7 14. Rad1 Qd6 15.
+Bg5 Rfe8 16. Bxf6 Bxf6 17. Ne4 Bxe4 18. Qxe4 1/2-1/2

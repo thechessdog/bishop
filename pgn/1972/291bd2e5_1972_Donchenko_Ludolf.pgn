@@ -1,0 +1,15 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Donchenko"]
+[Black "Ludolph, Jaan"]
+[Result "1-0"]
+[ECO "D75"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O c5, 8.dc"]
+[HashCode "291bd2e5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O c5 8.
+dxc5 Na6 9. c6 bxc6 10. Nbd2 Rb8 11. Nc4 Nc5 12. Nd4 Bd7 13. e4 Nb6 14. Na5 Qc7
+15. e5 Rfc8 16. Naxc6 Bxc6 17. Nxc6 Bxe5 18. Re1 Bd6 19. Bf4 Ne6 20. Nxe7+ 1-0

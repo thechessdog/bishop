@@ -1,0 +1,28 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Faibisovich, Vadim Z"]
+[Black "Tukmakov, Vladimir B"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "a059f888"]
+[Epoch "Bishop"]
+[WhiteID "4102703"]
+[BlackID "14100096"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Bd3 g6 5. Bc2 Bg7 6. d4 cxd4 7. cxd4 O-O 8. Nc3
+Bg4 9. h3 Bxf3 10. Qxf3 Nc6 11. Qd1 e5 12. d5 Nd4 13. O-O Nd7 14. Be3 Qh4 15.
+a4 a5 16. f3 Rfc8 17. Bd3 Nc5 18. Ra3 Bh6 19. Bf2 Qg5 20. Bb5 Qd2 21. Qxd2 Bxd2
+22. Rd1 Bxc3 23. bxc3 Nxb5 24. axb5 b6 25. c4 Ra7 26. Bxc5 Rxc5 27. Rc1 f5 28.
+Kf2 Rf7 29. Ke3 Kf8 30. Ra2 Ke7 31. Kd3 fxe4+ 32. fxe4 Rc8 33. Ke3 Rcf8 34. Re2
+g5 35. Rce1 h5 36. Kd2 Rf4 37. Re3 g4 38. hxg4 h4 39. R1e2 Rxg4 40. Rh3 Rff4
+41. Kd3 Rf1 42. Kc3 Ra1 43. Kb2 Rg1 44. Kc3 Rf4 45. Rd3 Rc1+ 46. Kb3 Rb1+ 47.
+Kc3 Ra1 48. Rdd2 Ra3+ 49. Kb2 Rg3 50. Kc2 Rf1 51. Rd1 Rf4 52. Rdd2 a4 53. Kb2
+Rgg4 54. Ka3 Rxe4 55. Rxe4 Rxe4 56. Rc2 Rd4 57. Kxa4 e4 58. Kb4 Kf6 59. Rc3 Kg5
+60. Rh3 Kg4 61. Kc3 Rd1 62. Re3 Kf4 63. Rh3 e3 64. Rxh4+ Kf5 65. g4+ Kf4 66.
+g5+ Kg3 67. Re4 Kf3 68. Re6 e2 69. c5 dxc5 70. d6 e1=Q+ 71. Rxe1 Rxe1 72. g6
+Re8 0-1

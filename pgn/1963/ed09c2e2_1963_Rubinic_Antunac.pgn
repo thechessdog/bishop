@@ -1,0 +1,21 @@
+[Event "Dravograd"]
+[Site "Dravograd"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Rubinic, Ognjen"]
+[Black "Antunac, Goran"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "ed09c2e2"]
+[Epoch "Bishop"]
+[BlackID "14500264"]
+[BlackCountry "CRO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O Bb6 6. d4 exd4 7. cxd4 d5 8.
+exd5 Nxd5 9. Re1+ Be6 10. Ng5 Qd6 11. Nxe6 fxe6 12. Nc3 O-O 13. Be3 Rad8 14.
+Qa4 Nxe3 15. fxe3 Ne7 16. Bc4 Nd5 17. Qb3 c6 18. Ne4 Qe7 19. Nd2 Qg5 20. Bxd5
+exd5 21. Rf1 Bxd4 22. exd4 Qxd2 23. Qxb7 Qxd4+ 24. Kh1 Qb6 25. Qe7 Qxb2 26.
+Qxa7 Rf6 27. h3 Rdf8 28. Rab1 Qe5 29. Rfe1 Qd6 30. Qe3 c5 31. a4 d4 32. Qe5
+Rf1+ 0-1

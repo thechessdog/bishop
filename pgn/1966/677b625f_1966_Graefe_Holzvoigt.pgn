@@ -1,0 +1,21 @@
+[Event "corr ch10-BRD"]
+[Site "corr ch10-BRD"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Graefe, M."]
+[Black "Holzvoigt, G."]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "677b625f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nxe5
+Nxe4 8. Re1 Nc5 9. d4 Ne6 10. c3 O-O 11. Be3 f6 12. Nd3 Rf7 13. Nd2 Qf8 14.
+Qb3 g5 15. f3 Ng7 16. Ne4 b6 17. Qc4 Bb7 18. Bf2 a5 19. Rad1 Kh8 20. Bg3
+Rc8 21. f4 g4 22. Nef2 h5 23. f5 Nxf5 24. Nf4 Qg8 25. Nxh5 Qh7 26. Nf4 Nxg3
+27. hxg3 Rg8 28. Ne4 Rgg7 29. Kf2 Qf5 30. Rh1+ Kg8 31. Rh5 Qxe4 32. Re1
+Qc2+ 33. Re2 b5 34. Qxf7+ Kxf7 35. Rxc2 Bc8 36. Rc1 Bd7 37. Rch1 Bd6 38.
+Rh7 c5 39. d5 1-0
+

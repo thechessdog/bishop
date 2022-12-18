@@ -1,0 +1,17 @@
+[Event "Hartford"]
+[Site "Hartford"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Raymond, N."]
+[Result "1-0"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[HashCode "996a7972"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Nb5 a6 7. N5c3 Be6 8. Nd5
+Nxd5 9. exd5 Bc8 10. Be3 Qh4+ 11. Bf2 Qb4+ 12. Nd2 Qxb2 13. Rb1 Qxa2 14. Nc4 b5
+15. Ra1 Qxa1 16. Qxa1 bxc4 17. Bxc4 1-0

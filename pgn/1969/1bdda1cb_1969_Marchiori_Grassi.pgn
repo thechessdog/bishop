@@ -1,0 +1,21 @@
+[Event "Fanano"]
+[Site "Fanano"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Marchiori"]
+[Black "Grassi"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "1bdda1cb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 Nf6 7. O-O e6
+8. Qe2 Be7 9. Rd1 Bd7 10. Bg5 Qb8 11. b4 h6 12. Bc1 O-O 13. h3 Ne5 14. Nxe5
+dxe5 15. a3 a6 16. Rd3 b5 17. Bb3 Bc6 18. Rg3 Kh7 19. Bc2 Qc7 20. Nd5 Qb7
+21. Be3 Rfd8 22. Rc1 Kh8 23. Nxf6 Bxf6 24. Qh5 Kh7 25. Rf3 Qe7 26. Bc5 Qe8
+27. h4 Rd2 28. Bb1 Rad8 29. Rfc3 Qd7 30. Kh2 Qb7 31. Be3 Bxe4 32. Rc7 Qa8
+33. Bxh6 Bxb1 34. Bxd2+ Kg8 35. Qxf7+ Kh8 36. Bh6 Rg8 37. Rxb1 Qe4 38. Qh5
+1-0
+

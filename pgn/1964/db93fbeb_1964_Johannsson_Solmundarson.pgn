@@ -1,0 +1,19 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1964.01.01"]
+[Round "10"]
+[White "Johannsson, Ingi Randver"]
+[Black "Solmundarson, Magnus"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "db93fbeb"]
+[Epoch "Bishop"]
+[BlackID "2300850"]
+[BlackCountry "ISL"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O O-O 7. b3 Ne4 8. Bb2
+f5 9. Nc3 Nxc3 10. Bxc3 Qe8 11. Qe2 Be4 12. Nd2 Bxd3 13. Qxd3 Qg6 14. e4 fxe4
+15. Qxe4 Qxe4 16. Nxe4 Nc6 17. Rad1 a5 1/2-1/2

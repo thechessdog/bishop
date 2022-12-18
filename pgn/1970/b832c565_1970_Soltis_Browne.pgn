@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Soltis, Andrew"]
+[Black "Browne, Walter S"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "b832c565"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteID "2000741"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Bd7 10. e5 dxe5 11. Nxe6 e4 12. Nxg7+ Kf8 13. Nxe4 Bc6 14. Bh6 Bxe4
+15. Nh5+ 1-0

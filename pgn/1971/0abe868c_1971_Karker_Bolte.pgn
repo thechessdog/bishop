@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Karker, N."]
+[Black "Bolte, D."]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Loman defence"]
+[HashCode "0abe868c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4
+8. Re1+ Be6 9. Ng5 g6 10. Qf3 d3 11. Nxe6 fxe6 12. Rxe6+ Kd7 13. Qg4 Nd4
+14. Re5+ Kd6 15. Qe4 1-0
+

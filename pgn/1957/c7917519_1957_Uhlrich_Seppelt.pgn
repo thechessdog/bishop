@@ -1,0 +1,15 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Uhlrich"]
+[Black "Seppelt, Alfred"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "Queen's gambit accepted"]
+[HashCode "c7917519"]
+[Epoch "Bishop"]
+[BlackID "4608291"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. e3 c5 4. Bxc4 cxd4 5. Nf3 dxe3 6. Bxf7+ 1-0

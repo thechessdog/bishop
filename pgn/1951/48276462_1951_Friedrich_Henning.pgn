@@ -1,0 +1,20 @@
+[Event "corr ch2-BRD"]
+[Site "corr ch2-BRD"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Friedrich, G."]
+[Black "Henning, K."]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "48276462"]
+[Epoch "Bishop"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nbd7 7. O-O e5 8.
+e4 exd4 9. Nxd4 Nb6 10. b3 Re8 11. Bb2 Bd7 12. Qd2 Qc8 13. Rae1 Bh3 14. Nf5
+Bxg2 15. Nxg7 Qh3 16. f3 Bxf1 17. Nxe8 Nxe8 18. Rxf1 c6 19. Qd4 f6 20. f4
+Qd7 21. Nd1 Rd8 22. Ne3 h5 23. Rd1 Kf7 24. a4 c5 25. Qd3 Qc6 26. e5 f5 27.
+Nxf5 gxf5 28. Qxf5+ Ke7 29. Qh7+ Kf8 30. e6 Qc7 31. Qh8+ Ke7 32. Re1 Ra8
+33. f5 1-0
+

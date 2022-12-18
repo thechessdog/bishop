@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Lemvig, Mogens"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "a05f9a6c"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Nxf7 Nxf7 7. Bxf7+ Kxf7
+8. Qh5+ g6 9. Qxc5 d6 10. Qb5 Re8 11. Qd3 d5 12. f3 dxe4 13. fxe4 Qh4+ 14. g3
+Qxe4+ 15. Qxe4 Rxe4+ 16. Kf2 Bg4 17. Rf1 Rae8 18. Nd2 Re2+ 19. Kg1+ Kg7 20. b3
+Bh3 21. Rd1 Rg2+ 22. Kh1 Ree2 23. Nf3 Ne5 0-1

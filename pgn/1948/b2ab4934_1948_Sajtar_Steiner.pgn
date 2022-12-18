@@ -1,0 +1,20 @@
+[Event "Karlovy Vary"]
+[Site "Karlovy Vary"]
+[Date "1948.06.01"]
+[Round "18"]
+[White "Sajtar, Jaroslav"]
+[Black "Steiner, Lajos"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "b2ab4934"]
+[Epoch "Bishop"]
+[BlackCountry "AUT"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bxf6 Bxf6 7. Nf3 O-O 8. Qc2
+c6 9. O-O-O Qa5 10. h4 c5 11. g4 cxd4 12. exd4 dxc4 13. Bxc4 Bd7 14. g5 hxg5
+15. hxg5 Bxg5+ 16. Kb1 Rc8 17. Qh7+ Kf8 18. Rh5 f6 19. d5 Rxc4 20. Nxg5 fxg5
+21. Rxg5 Rf4 22. Rxg7 Ke8 23. Rg8+ Rf8 24. Qg6+ Kd8 25. Rxf8+ Kc7 26. dxe6 Bc6
+27. e7 1-0

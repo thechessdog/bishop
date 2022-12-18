@@ -1,0 +1,21 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1968.01.01"]
+[Round "9"]
+[White "Zuckerman, Bernard"]
+[Black "Rossolimo, Nicolas"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "b2f2e8b4"]
+[Epoch "Bishop"]
+[WhiteID "2000423"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. d4 Nf6 7. Bd3 Be7 8. e5
+Nfd7 9. Qg3 g6 10. h4 Qb6 11. h5 Qxd4 12. hxg6 Qxe5+ 13. Qxe5 Nxe5 14. Rxh7 Rg8
+15. gxf7+ Nxf7 16. Kf1 Nd7 17. Bd2 Nf6 18. Rh3 Kd7 19. Re1 Raf8 20. Rhe3 Ng4
+21. Rxe6 Nh2+ 22. Kg1 Nf3+ 23. Kh1 Rh8+ 24. Rh6 Nxh6 25. gxf3 Rfg8 26. Bf4 Nf7+
+27. Bh2 Bd6 28. Bf5+ Kd8 29. Bg4 0-1

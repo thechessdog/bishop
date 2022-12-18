@@ -1,0 +1,20 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Tobies"]
+[Black "Kunzelmann"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "ae9be2db"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. e4 e5 9. d5 Ne7 10. h3 h6 11. Be3 Qa5 12. Qc2 Bd7 13. Nd2 g5 14. Nb3 Qc7
+15. Qd2 Ng6 16. g3 O-O-O 17. f4 gxf4 18. gxf4 exf4 19. Bxf4 Rde8 20. Qe3
+Nxe4 21. Bxe4 f5 22. Nd2 Nxf4 23. Qxf4 fxe4 24. O-O-O Rhf8 25. Qxh6 Qa5 26.
+Kb2 Rf2 27. Qe3 Ref8 28. Qxe4 R8f3 29. Qxf3 Rxf3 30. Nxf3 b5 31. Nd2 b4 32.
+cxb4 Qxb4+ 33. Nb3 a5 34. h4 a4 35. h5 a3+ 0-1
+

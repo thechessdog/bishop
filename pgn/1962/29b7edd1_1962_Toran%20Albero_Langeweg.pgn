@@ -1,0 +1,18 @@
+[Event "Torremolinos zt"]
+[Site "Torremolinos zt"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Toran Albero, Roman"]
+[Black "Langeweg, Kick"]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "29b7edd1"]
+[Epoch "Bishop"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+[WhiteCountry "EST"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Bd3 Ba6 8. Ne2
+Bxd3 9. cxd3 c5 10. Qa4+ Qd7 11. Qxd7+ Nxd7 12. f4 1/2-1/2

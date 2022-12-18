@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Tardivello"]
+[Black "Montanelli"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "706c6e2d"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 dxc3 11. f4 b6 12. Nd4 a6 13. Qd3 Bd7 14.
+Be3 Ba4 15. Rb1 Nd7 16. Rb4 b5 17. g3 Rc8 18. Bg2 Nc6 19. Nxc6 Qxc6 20. O-O
+a5 21. Rd4 Nb6 22. f5 Rc7 23. Rdf4 Nc4 24. fxe6 Nxe3 25. exf7+ Rxf7 26.
+Rxf7 Nxf1 27. Bxd5 Qc5+ 28. Kxf1 b4 29. Qf3 Rg5 30. Rb7 Rf5 31. Bf7+ 1-0
+

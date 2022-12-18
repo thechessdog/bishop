@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Soderborg, Berndt"]
+[Black "Boleslavsky, Isaac"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "df14e576"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Na6 10. O-O Nc7 11. Nd2 Rb8 12. Nc4 b5 13. Nxd6 b4 14. Nxc8 bxc3 15. d6
+Qxc8 16. dxc7 Qxc7 17. e5 cxb2 18. Bxb2 Rxb2 19. exf6 Rd8 20. Qe1 Re8 21. fxg7
+Rexe2 22. Qg3 Qb7 0-1

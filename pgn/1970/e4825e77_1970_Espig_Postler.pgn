@@ -1,0 +1,22 @@
+[Event "Freiberg ch19-DDR"]
+[Site "Freiberg ch19-DDR"]
+[Date "1970.01.01"]
+[Round "13"]
+[White "Espig, Lutz"]
+[Black "Postler, Reinhard"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "e4825e77"]
+[Epoch "Bishop"]
+[WhiteID "4611276"]
+[WhiteCountry "GER"]
+[BlackID "4611608"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. Re1 Nbd7 10. Bxe6 fxe6 11. Nxe6 Qc8 12. Nd5 Bxd5 13. exd5 Kf7 14. Bf4
+Qc4 15. Qf3 Qxd5 16. Qh3 Nc5 17. Nc7 Qc4 18. Bg5 Ra7 19. Bxf6 Rxc7 20. Bd8 Rd7
+21. b3 Qf4 22. Re3 Kg8 23. Bh4 Rf7 24. Rae1 h5 25. Rf3 Qg4 26. Rxf7 Kxf7 27.
+Qe3 Qxh4 28. b4 Qxb4 29. Qf3+ Kg6 30. c3 Qg4 31. Qd5 Qf5 32. Qa8 0-1

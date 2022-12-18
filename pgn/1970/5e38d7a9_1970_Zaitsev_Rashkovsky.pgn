@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Zaitsev, Alexander"]
+[Black "Rashkovsky, Nukhim N"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "5e38d7a9"]
+[Epoch "Bishop"]
+[WhiteID "4164490"]
+[BlackID "4100603"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8. c5
+b6 9. b4 bxc5 10. dxc5 O-O 11. g3 a5 12. Rb1 axb4 13. axb4 Nc6 14. Bg2 Na7 15.
+O-O Bd7 16. Re1 Ne8 17. Nd4 Nc7 18. Bf1 Qe8 19. b5 Bxc5 20. b6 Bxd4 21. Qxd4
+Ncb5 22. Nxb5 Nxb5 23. Bxb5 Bxb5 24. Bf4 Ra4 25. Qxa4 Bxa4 26. b7 Qe7 27. Rec1
+g5 28. Be5 f6 29. Rc8 fxe5 30. b8=Q Rxc8 31. Qxc8+ Qe8 32. Qc7 Qf7 33. Qd8+ Kg7
+34. Qxg5+ Kf8 35. Qxe5 Be8 36. Rb6 Bd7 37. h4 Ke7 38. Qd6+ Kf6 39. Rb7 1-0

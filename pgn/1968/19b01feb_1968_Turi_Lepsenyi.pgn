@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Turi"]
+[Black "Lepsenyi"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, Maroczy attack"]
+[HashCode "19b01feb"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. f4 e6 7. Nf3 Bd6 8.
+Bc4 Nd7 9. O-O Nb6 10. Bb3 c5 11. c3 Nf6 12. Ne5 O-O 13. Nxg6 hxg6 14. Qf3
+cxd4 15. cxd4 Nbd5 16. Ne4 Be7 17. Rd1 Qb6 18. Nc3 Rfd8 19. Na4 Qa6 20. Bd2
+b5 21. Nc3 Qb6 22. Be1 a5 23. a4 b4 24. Nxd5 Nxd5 25. Rac1 Ra7 26. Bf2 Rad7
+27. g4 g5 28. fxg5 Bxg5 29. Rc5 Be7 30. Rb5 Qc7 31. h4 Bd6 32. Kh1 Ne7 33.
+d5 Nxd5 34. Bxd5 exd5 35. Rdxd5 Qc4 36. Kg2 Bf8 37. Rxd7 Rxd7 38. b3 Qc2
+39. Rb8 Rd2 40. g5 f6 41. h5 Qc7 42. Ra8 Qe5 43. g6 Rd5 44. Qg4 f5 45. Qc4
+Qe4+ 46. Qxe4 fxe4 47. Bb6 e3 48. Rxa5 e2 49. Kf2 Rd6 50. Be3 Rd3 51. Kxe2
+Rxb3 52. Ra8 Rc3 53. h6 1-0
+

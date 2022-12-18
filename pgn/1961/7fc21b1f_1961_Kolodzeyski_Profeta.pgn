@@ -1,0 +1,18 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Kolodzeyski"]
+[Black "Profeta"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "7fc21b1f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Bc5 5. O-O d6 6. b4 Bxb4 7. c3 Bxc3
+8. Nxc3 dxc3 9. e5 Ne4 10. Re1 d5 11. Bxd5 Nd2 12. e6 Qxd5 13. exf7+ Kxf7
+14. Bxd2 cxd2 15. Re5 Qd8 16. Qb3+ Kf8 17. Ng5 Qf6 18. Qb4+ Qd6 19. Qf4+
+Qf6 20. Qb4+ 1/2-1/2
+

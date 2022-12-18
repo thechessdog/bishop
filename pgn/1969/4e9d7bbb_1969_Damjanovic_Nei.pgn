@@ -1,0 +1,21 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Damjanovic, Mato"]
+[Black "Nei, Iivo"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "4e9d7bbb"]
+[Epoch "Bishop"]
+[BlackID "4500059"]
+[BlackCountry "EST"]
+[WhiteCountry "HRV"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Qd2 e6 8. f4
+Qc7 9. O-O-O Be7 10. Be2 h6 11. h4 b5 12. Bxf6 Nxf6 13. a3 Bb7 14. Rh3 Nxe4 15.
+Nxe4 Bxe4 16. f5 e5 17. Bf3 d5 18. Bxe4 dxe4 19. f6 Bxf6 20. Nf5 O-O 21. Qe2
+Qc4 22. Qg4 Rfd8 23. Nxh6+ Kf8 24. Nf5 Rxd1+ 25. Qxd1 Rd8 26. Qe1 Qa2 27. Qb4+
+Kg8 0-1

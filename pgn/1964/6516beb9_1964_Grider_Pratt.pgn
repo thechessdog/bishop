@@ -1,0 +1,17 @@
+[Event "Arkansas"]
+[Site "Arkansas"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Grider"]
+[Black "Pratt, F."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "6516beb9"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7.
+Ke3 Qh4 8. Nxh8 Qf4+ 9. Ke2 Nd4+ 10. Kd3 Nf2+ 11. Kc3 Nxd1+ 12. Kb4 Nxc2+
+13. Kb3 Nxa1+ 14. Ka3 Qxc4 15. Rxd1 Nc2# 0-1
+

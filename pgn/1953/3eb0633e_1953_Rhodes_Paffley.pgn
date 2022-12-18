@@ -1,0 +1,24 @@
+[Event "England"]
+[Site "England"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Rhodes, H."]
+[Black "Paffley, D."]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "3eb0633e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. Nc3 Nd4 5. Nxd4 Bxd4 6. Ne2 Bb6 7. d4 c6
+8. Bc4 Qh4 9. O-O Nf6 10. f3 d5 11. exd5 O-O 12. dxc6 exd4 13. Kh1 bxc6 14.
+Qe1 Qxe1 15. Rxe1 Bf5 16. Bd3 Bxd3 17. cxd3 Rfe8 18. Bd2 Nd7 19. a4 Ne5 20.
+Nc1 a6 21. f4 Ng4 22. Rxe8+ Rxe8 23. Kg1 f5 24. Nb3 Rb8 25. Rb1 Kf7 26. h3
+Nf6 27. Kf2 Ke6 28. Ba5 Ba7 29. Nd2 Nd5 30. g3 Ne3 31. b4 Kd5 32. Kf3 Nc2
+33. Kf2 Bb6 34. Bxb6 Rxb6 35. Nc4 Rxb4 36. Rc1 Ne3 37. Nxe3+ dxe3+ 38. Kxe3
+Rxa4 39. Rb1 a5 40. Rb7 Ra1 41. Rxg7 a4 42. Ra7 h5 43. Kd2 a3 44. Kc3 a2
+45. Kb2 Rg1 46. Kxa2 Rxg3 47. Rf7 Ke6 48. Rh7 Rxh3 49. Kb3 Rxd3+ 50. Kc4
+Re3 51. Rh6+ Kd7 52. Kc5 Re4 53. Rh7+ Ke6 54. Rh6+ Kf7 55. Rxh5 Rxf4 56.
+Rh6 Rg4 57. Rxc6 Rg6 58. Rc7+ Kf6 59. Kd4 Rg3 0-1
+

@@ -1,0 +1,22 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1958.01.01"]
+[Round "6"]
+[White "O'Kelly, Albéric de Galway"]
+[Black "Bouwmeester, Hans"]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "519f67bf"]
+[Epoch "Bishop"]
+[BlackID "1000187"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. cxd5 exd5 8. O-O
+Bb7 9. Ne5 Nbd7 10. f4 c5 11. Qf3 a6 12. Qh3 Nxe5 13. dxe5 Ne4 14. f5 Qe7 15.
+Nxe4 dxe4 16. Qg3 f6 17. Bc4+ Kh8 18. a3 b5 19. exf6 Qxf6 20. axb4 bxc4 21. Qe1
+Qg5 22. Bd2 Rxf5 23. Rxf5 Qxf5 24. Ra5 Rc8 25. Bc3 h6 26. h3 Qf7 27. Rxc5 Rxc5
+28. bxc5 Kh7 29. Qg3 Qe7 30. Qb8 Bc6 31. Qc8 Bb7 32. Qf5+ Kg8 33. Qg6 Qd7 34.
+Bd4 a5 35. Qb6 a4 36. Kf2 Bd5 37. Ke1 Kh7 38. Kd2 Qf7 39. Ke1 c3 40. Bxc3 Bc4
+41. Qd6 Qf1+ 42. Kd2 Qe2+ 43. Kc1 Bd3 0-1

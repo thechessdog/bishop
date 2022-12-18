@@ -1,0 +1,19 @@
+[Event "corr ch-NOR"]
+[Site "corr ch-NOR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Wiik, J."]
+[Black "Kjaerstad, E."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "4330379a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nf3 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Na6 8.
+e4 Nc7 9. a4 Bg7 10. Nc4 O-O 11. Bg5 h6 12. Bf4 Nfe8 13. Qd2 Kh7 14. Bd3 b6
+15. h4 Ba6 16. O-O-O Bxc4 17. Bxc4 a6 18. Bd3 b5 19. h5 g5 20. Be3 c4 21.
+Bb1 Kg8 22. f4 f6 23. g4 Rb8 24. e5 Rf7 25. e6 Re7 26. Qc2 Bf8 27. fxg5
+bxa4 28. gxh6 Nb5 29. Nxb5 Rxb5 30. Qg6+ Kh8 31. Bd4 Reb7 32. e7 1-0
+

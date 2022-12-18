@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Bykov, Valery"]
+[Black "Faibisovich, Vadim Z"]
+[Result "1-0"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation, 4.Nf3"]
+[HashCode "730f4f42"]
+[Epoch "Bishop"]
+[WhiteID "4105460"]
+[BlackID "4102703"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. c4 e5 2. Nc3 d6 3. Nf3 Nf6 4. d4 Nbd7 5. Bg5 h6 6. Bh4 Be7 7. Qc2 O-O 8.
+O-O-O Qe8 9. e3 c6 10. Bd3 a6 11. g4 Nxg4 12. Rhg1 Ngf6 13. Bf5 Kh8 14. c5 Nd5
+15. cxd6 Bxd6 16. Nxd5 cxd5 17. Rxg7 1-0

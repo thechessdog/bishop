@@ -1,0 +1,25 @@
+[Event "Halle zt"]
+[Site "Halle zt"]
+[Date "1967.01.01"]
+[Round "13"]
+[White "Gerusel, Mathias"]
+[Black "Zinn, Lothar"]
+[Result "0-1"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, 8...Bb7"]
+[HashCode "06c088ba"]
+[Epoch "Bishop"]
+[WhiteID "4601122"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3
+Bb7 9. Rd1 Nbd7 10. Nc3 Qb8 11. d5 exd5 12. Bxd5 b4 13. Qc4 bxc3 14. Bxf7+ Kd8
+15. Ng5 h6 16. Ne6+ Kc8 17. f4 Bc6 18. Qxc3 Qb4 19. Qc2 Qe4 20. Qxe4 Nxe4 21.
+b3 Be7 22. Ba3 Kb7 23. Rac1 g5 24. Bg6 Ndf6 25. Nxc5+ Bxc5 26. Bxc5 gxf4 27.
+exf4 Rad8 28. Be7 Rxd1+ 29. Rxd1 Rg8 30. f5 Nd5 31. Bf7 Nxe7 32. Bxg8 Nxg8 33.
+Rd8 Ngf6 34. h3 h5 35. Kh2 Kc7 36. Rd4 Bd7 37. a4 Bxf5 38. b4 Bd7 39. b5 a5 40.
+Rc4+ Kb7 41. Rc1 Nd5 42. Rc4 Ndc3 43. g3 Be6 44. Rc6 Bd5 45. Rh6 Nxa4 46. Rxh5
+Nac3 47. Rf5 a4 48. Rf1 a3 49. Ra1 a2 50. g4 Kb6 51. h4 Be6 52. Kh3 Nf2+ 53.
+Kg3 Nxg4 54. Kf4 Kxb5 55. h5 Kb4 56. Re1 Nb1 57. Rxe6 a1=Q 0-1

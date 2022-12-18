@@ -1,0 +1,19 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1965.03.01"]
+[Round "3"]
+[White "Kozomara, Vladimir"]
+[Black "Malich, Burkhard, Dr."]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b7b2b2a5"]
+[Epoch "Bishop"]
+[BlackID "4611330"]
+[BlackCountry "GER"]
+[WhiteCountry "BIH"]
+
+1. e4 c5 2. c3 Nf6 3. Bd3 e6 4. Bc2 d5 5. e5 Nfd7 6. d4 Nc6 7. a3 Qa5 8. Nf3
+Nxd4 9. Nxd4 cxd4 10. b4 Qa6 11. Qxd4 Qb6 12. Be3 Qxd4 13. Bxd4 Nb8 14. Nd2 Bd7
+15. f4 Nc6 16. Nf3 Be7 1/2-1/2

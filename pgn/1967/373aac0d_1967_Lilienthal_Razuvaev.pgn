@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Lilienthal, Andor Arnoldovich"]
+[Black "Razuvaev, Yuri S"]
+[Result "0-1"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "Averbakh system"]
+[HashCode "373aac0d"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Bg5 Nbd7 7. Qd2 c6 8. Nf3
+e5 9. O-O Re8 10. Rfe1 exd4 11. Nxd4 Qb6 12. Bf3 Ne5 13. b3 Nxf3+ 14. Nxf3 Bg4
+15. Na4 Qc7 16. Qf4 Rxe4 17. Rxe4 Nxe4 0-1

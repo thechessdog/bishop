@@ -1,0 +1,21 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Adorjan, Andras"]
+[Black "Brinck-Claussen, Bjorn"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "8eb343ac"]
+[Epoch "Bishop"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackID "1400134"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. O-O
+b5 9. f4 O-O 10. e5 Ne8 11. Be3 Bb7 12. f5 dxe5 13. fxe6 exd4 14. exf7+ Kh8 15.
+fxe8=Q Rxe8 16. Bxd4 Nc6 17. Bf2 Bf6 18. Qxd8 Raxd8 19. Rad1 Nd4 20. Bf7 Rf8
+21. Bd5 Bxd5 22. Bxd4 Bxd4+ 0-1

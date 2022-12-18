@@ -1,0 +1,29 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Lengyel, Laszlo"]
+[Black "Kaposztas, Miklos"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[HashCode "d31bfee0"]
+[Epoch "Bishop"]
+[WhiteID "701998"]
+[WhiteCountry "HUN"]
+[BlackID "700711"]
+[BlackCountry "HUN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. Nf3 Qa5 5. Be3 Nf6 6. Qd2 Nc6 7. h3 cxd4 8.
+Nxd4 Nxe4 9. Nxe4 Qxd2+ 10. Nxd2 Nxd4 11. O-O-O O-O 12. f4 d6 13. g4 Bd7 14.
+Bd3 a6 15. c3 Rac8 16. Kb1 Ne6 17. f5 Nc5 18. Bc2 Ba4 19. Nb3 Nd7 20. h4 Ne5
+21. Rdg1 Bc6 22. Rh3 Nf3 23. Rf1 Ne5 24. Rg1 Bf3 25. Rhg3 Bd5 26. Nd4 b5 27. a3
+Rc7 28. h5 Rfc8 29. Ne2 Bc4 30. Nd4 Bd5 31. hxg6 hxg6 32. Ne2 Bc4 33. Nf4 g5
+34. Nh5 Bf6 35. Rh1 Kf8 36. Bd4 Bd5 37. Rhh3 Nd7 38. Nxf6 exf6 39. Rh6 Ke7 40.
+b3 Ne5 41. Kb2 Rb8 42. Bd1 Rcc8 43. Rgh3 a5 44. Be2 a4 45. b4 Bb3 46. Kb1 Bc4
+47. Bd1 Bf1 48. Rh2 Bd3+ 49. Ka2 Be4 50. R2h3 Bg2 51. Rh2 Bf1 52. Rh1 Bd3 53.
+R1h3 Rb7 54. Ka1 Bc4 55. Re3 Rbb8 56. Reh3 Rc7 57. Re3 Rbc8 58. Reh3 Bf1 59.
+Rh1 Bg2 60. R1h2 Rxc3 61. Bxc3 Rxc3 62. Rxg2 Rc1+ 63. Ka2 Rxd1 64. Rh3 Rc1 65.
+Rhg3 Rc4 66. Kb1 d5 67. Rg1 Kd6 68. R1g2 d4 69. Ka1 Kd5 70. Kb1 d3 71. Kb2 Kd4
+72. Rh3 Rc3 73. Rh8 Nc4+ 74. Kb1 Rb3+ 75. Ka2 Rxa3+ 76. Kb1 Rb3+ 77. Ka2 Rxb4
+78. Rd8+ Kc3 79. Rg3 Ne5 0-1

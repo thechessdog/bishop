@@ -1,0 +1,21 @@
+[Event "Malaga"]
+[Site "Malaga"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "3cb6eedc"]
+[Epoch "Bishop"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. c4 Nf6 5. d3 g6 6. g3 Bg7 7. Bg2 O-O 8. Nc3 Be6
+9. Nd5 Bxd5 10. cxd5 Ne7 11. h4 Nexd5 12. h5 c6 13. e4 Qa5+ 14. Kf1 Nc7 15. Bf3
+Ne6 16. Ne2 Ng5 17. Kg2 Nxf3 18. Kxf3 Nxh5 19. g4 Nf4 20. Nxf4 exf4 21. Bxg7
+Kxg7 22. Kxf4 Rae8 23. Kg3 Qe5+ 24. f4 Qd4 25. Qf3 f5 26. Rae1 fxg4 27. Kxg4
+Re7 28. Rh4 Ref7 29. Kh3 g5 30. Qg3 Kh8 31. Rg4 Rxf4 32. Rxg5 Qf6 33. Rf5 Qh6+
+0-1

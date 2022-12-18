@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Rustamow"]
+[Black "Pisariew"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Spielmann variation"]
+[HashCode "f9eef09d"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. e6 fxe6 5. d4 e5 6. dxe5 e6 7. Bd3 g6 8.
+Nf3 Nc6 9. Qe2 Nc5 10. Bg5 Be7 11. Bh6 Bd7 12. h4 Nxd3+ 13. cxd3 Bf8 14.
+Be3 Be7 15. d4 O-O 16. O-O-O b5 17. Nxb5 Na5 18. Nc3 Nc4 19. Bg5 Rxf3 20.
+Qxf3 Bxg5+ 21. hxg5 Qxg5+ 22. Kb1 Rb8 23. Nxd5 exd5 24. Qxd5+ Kf8 25. Qxc4
+Qxg2 26. Rxh7 Qxf2 27. Rh8+ 1-0
+

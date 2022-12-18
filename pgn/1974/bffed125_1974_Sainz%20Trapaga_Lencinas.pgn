@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Sainz Trapaga, F."]
+[Black "Lencinas, H."]
+[Result "0-1"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "bffed125"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 c5 7. dxc5 dxc4
+8. Qxd8 Rxd8 9. e4 Na6 10. Be3 Ng4 11. Nd5 Nxe3 12. Nxe3 c3 13. bxc3 Nxc5
+14. Nd5 e6 15. Ne7+ Kf8 16. Nxc8 Raxc8 17. Nd2 Rxd2 18. Kxd2 Bh6+ 19. Kd1
+Bxc1 20. Kxc1 Nxe4 21. Kb2 Nxf2 0-1
+

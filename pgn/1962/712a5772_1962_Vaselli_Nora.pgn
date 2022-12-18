@@ -1,0 +1,20 @@
+[Event "Torino"]
+[Site "Torino"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Vaselli"]
+[Black "Nora"]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "712a5772"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. e3 O-O 6. Bd3 d5 7. Nf3 dxc4 8.
+Bxc4 cxd4 9. exd4 a6 10. O-O b5 11. Bd3 Bb7 12. Be3 Nbd7 13. Rac1 Rc8 14.
+Qe2 Nb6 15. Ne5 Nbd5 16. Ne4 Nxe4 17. Bxe4 Qh4 18. f4 Rxc1 19. Bxc1 Rc8 20.
+g3 Qe7 21. f5 exf5 22. Bxf5 Rf8 23. Qd3 g6 24. Be4 f5 25. Bg2 Ba5 26. Bh6
+Rd8 27. g4 Bb6 28. Kh1 Qh4 29. Qd2 f4 30. Bxf4 Nxf4 31. Qxf4 Bxg2+ 32. Kxg2
+Qe7 33. Nc6 Qb7 34. Qe4 Rd7 35. Qe8+ Kg7 36. Qf8# 1-0
+

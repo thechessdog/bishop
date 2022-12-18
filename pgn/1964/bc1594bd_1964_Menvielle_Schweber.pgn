@@ -1,0 +1,19 @@
+[Event "Tel Aviv olm"]
+[Site "Tel Aviv olm"]
+[Date "1964.11.01"]
+[Round "1"]
+[White "Menvielle, A."]
+[Black "Schweber, Samuel"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "bc1594bd"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4
+Nc5 9. Qe2 Be7 10. f5 e5 11. Nf3 g6 12. fxg6 hxg6 13. Be3 Ncxe4 14. Nxe4 Nxe4
+15. Qc4 d5 16. Qd3 Qa5+ 17. c3 Be6 18. O-O-O Rc8 19. Bxd5 Rxc3+ 20. bxc3 Bxd5
+21. Qc2 Bxa2 22. Rd3 Bc4 23. Nxe5 Bxd3 24. Nxd3 Qa1+ 25. Qb1 Ba3+ 26. Kc2 Qxc3+
+27. Kd1 O-O 28. Ke2 Re8 29. Rf1 Qc7 30. Qb3 Bc5 31. Rc1 b6 32. Qa4 Qe7 33. Nf4
+Bxe3 34. Nd5 Qe5 35. Nxe3 Ng3+ 36. hxg3 Qxe3+ 37. Kd1 Qe2# 0-1

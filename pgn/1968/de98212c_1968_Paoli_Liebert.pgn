@@ -1,0 +1,25 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Paoli, Enrico"]
+[Black "Liebert"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "de98212c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 b5 7. Bf1 Nxd5 8.
+cxd4 Qxg5 9. Bxb5+ Kd8 10. O-O Bb7 11. Qf3 Rb8 12. Nc3 exd4 13. d3 Qf6 14. Qg4
+Bc8 15. Qh5 Ne7 16. Ne4 Qf5 17. Qxf5 Nxf5 18. Bc4 f6 19. b3 Rb6 20. Bb2 h5 21.
+Ng3 Bc5 22. Rac1 Nxg3 23. fxg3 Rd6 24. Bf7 Bb4 25. Rf2 Ba6 26. Bg6 Rh6 27. Be4
+g6 28. a3 Ba5 29. b4 Bb6 30. Rd2 Bb5 31. Bf3 Rh7 32. Bd1 a5 33. a4 Ba6 34. b5
+Bc8 35. Bb3 Be6 36. Bc4 Bf5 37. Re2 Bc5 38. h3 Bb4 39. Rf1 Re7 40. Rxe7 Kxe7
+41. Rf2 Kd7 42. Kf1 Bc5 43. Bc1 Kd8 44. Bf4 Rd7 45. Bd2 Bb6 46. Rf4 Rd6 47. g4
+hxg4 48. hxg4 Bd7 49. g5 f5 50. Rh4 Be6 51. Rh8+ Kd7 52. Rh7+ Kc8 53. Bf4 Bxc4
+54. dxc4 Rd7 55. Rxd7 Kxd7 56. Ke2 c6 57. bxc6+ Kxc6 58. Kd3 Kc5 59. Be5 Kc6
+60. Bxd4 Bc7 61. Bc3 Bb6 62. c5 Bc7 63. Kc4 Bd8 64. Bf6 Bc7 65. Bc3 Bd8 66. Bd2
+Bc7 67. Kd4 Bd8 68. Bf4 Be7 69. Ke5 Kxc5 70. Ke6 Bd8 71. Kd7 Bxg5 72. Bxg5 Kb4
+73. Ke6 1-0

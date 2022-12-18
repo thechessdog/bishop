@@ -1,0 +1,18 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1971.07.01"]
+[Round "4"]
+[White "Zuidema, Coen"]
+[Black "Van Geet, Dirk Daniel"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "ab473962"]
+[Epoch "Bishop"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. e4 Nc6 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. Bb5 Be7 7. d4 O-O 8.
+O-O d6 9. Bf4 1/2-1/2

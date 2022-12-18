@@ -1,0 +1,19 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Poch, Cesar G."]
+[Black "Rossetto, Hector"]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "4fff196d"]
+[Epoch "Bishop"]
+[WhiteID "100315"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 Na5 11. Nd4 Qd7 12. f3 Nc5 13. c3 Naxb3 14. axb3 O-O 15.
+b4 Nb7 16. Nd2 Rfe8 17. f4 c5 18. bxc5 Bxc5 0-1

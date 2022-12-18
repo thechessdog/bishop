@@ -1,0 +1,18 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Schweber, Samuel"]
+[Black "Cuartas, Carlos Enrique"]
+[Result "1/2-1/2"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[HashCode "1b37bc1b"]
+[Epoch "Bishop"]
+[BlackID "4428161"]
+[WhiteCountry "ARG"]
+[BlackCountry "COL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. Bxc6 dxc6 6. Nxe5 Qd4 7. Nf3 Qxe4+
+8. Qe2 Nf6 9. d3 Qxe2+ 10. Kxe2 Bd6 11. Re1 O-O 12. Kf1 Bd7 13. Nbd2 1/2-1/2

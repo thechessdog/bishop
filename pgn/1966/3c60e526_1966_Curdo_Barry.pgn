@@ -1,0 +1,19 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Curdo, John"]
+[Black "Barry, John"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "3c60e526"]
+[Epoch "Bishop"]
+[WhiteID "2001705"]
+[BlackID "30936446"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 f6 8. f4 b6
+9. O-O Bb7 10. f5 Qe7 11. fxe6 Qxe6 12. Nf4 Qe7 13. Nxd5 Qd8 14. Qh5+ 1-0

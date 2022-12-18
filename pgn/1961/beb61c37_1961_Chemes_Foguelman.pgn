@@ -1,0 +1,18 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1961.01.01"]
+[Round "2"]
+[White "Chemes, Luis"]
+[Black "Foguelman, Alberto"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "beb61c37"]
+[Epoch "Bishop"]
+[BlackID "101435"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 h6 8. Bh4
+Nxe4 9. Bxd8 Nxd2 10. Kxd2 Kxd8 11. g3 Nc6 12. Nb3 Kc7 13. a4 d5 14. a5 Bb4 15.
+Ra4 d4 16. Rxb4 Nxb4 17. Nxd4 Rd8 0-1

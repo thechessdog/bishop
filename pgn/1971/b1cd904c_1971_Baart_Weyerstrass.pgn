@@ -1,0 +1,16 @@
+[Event "Blaricum"]
+[Site "Blaricum"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Baart, Joan"]
+[Black "Weyerstrass, Ronald"]
+[Result "1/2-1/2"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "b1cd904c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. Bg5 d5 7. e3 c5 8. Qf3
+Qa5 9. Bxf6 Qxc3+ 10. Ke2 Qc2+ 11. Ke1 gxf6 12. Qxf6 Qc3+ 13. Ke2 Qc2+ 14. Ke1
+Qc3+ 15. Ke2 Qc2+ 1/2-1/2

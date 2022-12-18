@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Vitolinsh, Alvis"]
+[Black "Bokuchava, Alexande"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "1b61cf90"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8.
+Be3 b5 9. a3 d6 10. Bg5 Be7 11. Nxc6 Qxc6 12. e5 Nd5 13. Bf3 Bxg5 14. Nxd5 Qc5
+15. b4 Qa7 16. exd6 O-O 17. Ne7+ Bxe7 18. dxe7 Re8 19. Bxa8 1-0

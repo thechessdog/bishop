@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Sicuteri"]
+[Black "Paterlini"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Rauzer variation"]
+[HashCode "225a901a"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Nf3 cxb2
+8. Bxb2 Bd7 9. Bd3 b5 10. Qd2 a6 11. h4 Bc6 12. Qf4 Qc7 13. Ng5 h6 14. Nf3
+Nd7 15. h5 Nb6 16. Qg4 Kf8 17. Rh3 Qe7 18. Rg3 f6 19. Nh4 Be8 20. Bd4 Nd7
+21. Bg6 f5 22. Bxf5 exf5 23. Qxf5+ Ngf6 24. Re3 Qf7 25. Ng6+ Kg8 26. e6 1-0
+

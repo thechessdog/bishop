@@ -1,0 +1,23 @@
+[Event "Doesburg"]
+[Site "Doesburg"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Van der Sterren, Paul"]
+[Result "1-0"]
+[ECO "A59"]
+[Opening "Benko gambit"]
+[Variation "7.e4"]
+[HashCode "47cacb8b"]
+[Epoch "Bishop"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8.
+Kxf1 g6 9. f4 Bg7 10. Nf3 O-O 11. g3 Na6 12. Kg2 Qa5 13. Re1 Nd7 14. e5 Nb6 15.
+f5 Nc4 16. e6 Nxb2 17. Bxb2 Bxc3 18. exf7+ Rxf7 19. Bxc3 Qxc3 20. fxg6 hxg6 21.
+Re6 Rf6 22. Rc1 Qa3 23. Nh4 Rxe6 24. dxe6 Qxa2+ 25. Rc2 Qxe6 26. Re2 Qf7 27.
+Rf2 Qe8 28. Qd5+ Kg7 29. Qg5 Ra7 30. Nf5+ Kg8 31. h4 e6 32. Nh6+ Kh8 33. Ng4
+Qg8 34. Nf6 Qg7 35. h5 1-0

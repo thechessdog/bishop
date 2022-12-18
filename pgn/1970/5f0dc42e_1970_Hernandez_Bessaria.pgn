@@ -1,0 +1,19 @@
+[Event "Siegen olm"]
+[Site "Siegen"]
+[Date "1970.01.01"]
+[Round "12"]
+[White "Hernandez, Roman"]
+[Black "Bessaria"]
+[Result "1-0"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "5f0dc42e"]
+[Epoch "Bishop"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 c6 6. e3 O-O 7. Qb3 dxc4 8. Bxc4
+Nbd7 9. Ne5 Nxe5 10. dxe5 Nd5 11. Rd1 Qc7 12. Bxd5 cxd5 13. Nxd5 Qxe5 14. f4
+Qe4 15. O-O Be6 16. f5 gxf5 17. Rf4 Qe5 18. Nxe7+ Kh8 19. Qd3 f6 20. Rh4 Bf7
+21. Bf4 Qxe7 22. Qxf5 Bg8 23. Rd7 Qb4 24. Qb1 Rad8 25. Rxg7 f5 26. Be5 Qxh4 27.
+Rg5+ 1-0

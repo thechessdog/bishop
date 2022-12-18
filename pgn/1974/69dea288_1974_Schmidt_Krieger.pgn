@@ -1,0 +1,24 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Schmidt, Bodo"]
+[Black "Krieger, Hermann"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "69dea288"]
+[Epoch "Bishop"]
+[WhiteID "4601505"]
+[BlackID "4609867"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bh4 c5 5. c3 d5 6. e3 b6 7. Bd3 Bb7 8. Nbd2
+Nbd7 9. Ne5 Be7 10. f4 O-O 11. O-O Ne4 12. Bxe7 Qxe7 13. Nxe4 dxe4 14. Nxd7
+Qxd7 15. Be2 Rfd8 16. Qb3 Bd5 17. c4 Bc6 18. dxc5 Qd2 19. Rfe1 bxc5 20. Rad1
+Qa5 21. Qc3 Qxc3 22. bxc3 Ba4 23. Rxd8+ Rxd8 24. Rb1 Rd2 25. Rb8+ Kh7 26. Kf1
+Rxa2 27. Rb7 Bc2 28. Rxf7 Kg6 29. Rd7 a5 30. Rd2 a4 31. Rd6 Kf7 32. Rd7+ Ke8
+33. Rxg7 Bd3 34. Bxd3 exd3 35. Ke1 a3 36. Ra7 Re2+ 37. Kf1 a2 38. h4 Rb2 39. e4
+Rb1+ 40. Kf2 0-1

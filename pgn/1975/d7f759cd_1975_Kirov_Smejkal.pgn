@@ -1,0 +1,18 @@
+[Event "Budapest Tungsram"]
+[Site "Budapest Tungsram"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kirov, Nino"]
+[Black "Smejkal, Jan"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "d7f759cd"]
+[Epoch "Bishop"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+[WhiteCountry "BGR"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. b3 Nd7 5. Bb2 Ngf6 6. d3 e6 7. Nbd2 Bd6 8. h3
+Bh5 9. O-O O-O 10. Qe1 a5 11. Nh4 Ne8 12. e4 a4 13. f4 1/2-1/2

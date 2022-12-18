@@ -1,0 +1,25 @@
+[Event "Wageningen"]
+[Site "Wageningen"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Andriessen, William"]
+[Black "Bouwmeester, Hans"]
+[Result "0-1"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "98c45d5e"]
+[Epoch "Bishop"]
+[BlackID "1000187"]
+[BlackCountry "NED"]
+
+1. g3 c5 2. Bg2 Nc6 3. Nf3 g6 4. c4 Bg7 5. Nc3 a6 6. Rb1 Rb8 7. a3 b5 8. cxb5
+axb5 9. b4 c4 10. d4 Nh6 11. a4 bxa4 12. b5 Qa5 13. Bd2 Nxd4 14. Nxd4 Bxd4 15.
+Qxa4 Bxc3 16. Qxa5 Bxa5 17. Bxa5 Bb7 18. O-O Bxg2 19. Kxg2 O-O 20. Bc7 Rb7 21.
+b6 Rc8 22. Rbc1 Nf5 23. Rfd1 Rcxc7 24. bxc7 Rxc7 25. e4 Nd6 26. e5 Nb7 27. Rd5
+Kg7 28. f4 f6 29. Rc3 fxe5 30. fxe5 Kf7 31. Rb5 Ke6 32. Kf3 Nd8 33. Ke4 d6 34.
+exd6 exd6 35. Rd5 Nf7 36. Kd4 Ne5 37. Rb5 Rf7 38. Ke4 Rf1 39. Rxe5+ dxe5 40.
+Rxc4 Re1+ 41. Kf3 Kf5 42. h3 Rf1+ 43. Kg2 Ra1 44. Kf2 Ra2+ 45. Kf3 Ra3+ 46. Kf2
+Rd3 47. Rc5 Ke4 48. Rc4+ Rd4 49. Rc7 Rd2+ 50. Ke1 Rg2 51. Rxh7 Ke3 52. Kf1 Rxg3
+53. Rg7 e4 54. h4 Kd2 55. Re7 Ke3 56. Re8 Rh3 57. Rg8 Rh1+ 58. Kg2 Rxh4 59.
+Rxg6 Ke2 60. Re6 e3 61. Ra6 Rg4+ 0-1

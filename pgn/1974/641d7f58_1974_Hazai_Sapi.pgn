@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hazai, Laszlo Dr."]
+[Black "Sapi, Laszlo"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "641d7f58"]
+[Epoch "Bishop"]
+[WhiteID "700177"]
+[WhiteCountry "HUN"]
+[BlackID "701513"]
+[BlackCountry "HUN"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. h3 b5 8. e5 Ne8
+9. Bf4 Bf5 10. Qd2 Nd7 11. g4 Be6 12. Ng5 dxe5 13. Nxe6 fxe6 14. dxe5 Nc7 15.
+Qe3 b4 0-1

@@ -1,0 +1,17 @@
+[Event "Baden"]
+[Site "Baden"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Oesterle"]
+[Black "Schulze, Ulrich"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "92c96702"]
+[Epoch "Bishop"]
+[BlackID "4600525"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qe5 7. O-O-O c6
+8. h3 e6 9. Bf4 Qa5 10. g4 Bb4 11. Nge2 Nd5 12. Nxd5 cxd5 13. a3 Be7 14. Nd4
+Nc6 15. Nb5 O-O 16. Bc7 b6 17. Bg3 Bb7 18. Qb3 d4 19. Be1 1-0

@@ -1,0 +1,21 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Secchi, E."]
+[Black "Kunz, E."]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Reti-Tartakower variation"]
+[HashCode "0da5d023"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7
+8. O-O O-O 9. Nb3 Be6 10. f4 Qc8 11. Qe1 a5 12. a4 Nb4 13. Nd4 Bc4 14. f5
+Nd7 15. fxg6 fxg6 16. Rxf8+ Nxf8 17. Qf1 Bxe2 18. Qxe2 Ne6 19. Ndb5 Qc6 20.
+Rd1 Kh8 21. Rd2 Nc5 22. Bg5 Re8 23. Nd5 Nxd5 24. exd5 Qd7 25. b3 e5 26. Be3
+e4 27. Rd1 Kg8 28. Na3 Qc7 29. Qb5 Rc8 30. Nc4 Bc3 31. Qb6 Qxb6 32. Nxb6
+Rc7 33. Nc4 Nxa4 34. Nxd6 Nb2 35. Rf1 Re7 36. Bg5 Rd7 37. Bh6 Bg7 38. Bxg7
+Kxg7 39. Ne8+ Kh6 40. Nf6 1-0
+

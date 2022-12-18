@@ -1,0 +1,18 @@
+[Event "Leipzig olm prel"]
+[Site "Leipzig"]
+[Date "1960.??.??"]
+[Round "3"]
+[White "Haygarth, Michael J"]
+[Black "Kluger, Gyula"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "d533c907"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+O-O 9. Be2 Nc6 10. cxd5 Bxe2 11. Nxe2 Qxd5 12. Nf4 Qf5 13. Qd3 Qxd3 14. Nxd3
+Na5 15. Rb1 Nb7 1/2-1/2

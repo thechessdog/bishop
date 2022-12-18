@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "McCarthy, John"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "d2fcd051"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+ 8.
+Kxd1 Rd8+ 9. Bd3 Nd5 10. Nxd5 Rxd5 11. Ke2 Nc6 12. c4 Rd8 13. Be4 Nd4+ 14. Nxd4
+Rxd4 15. Bd3 Bg4+ 16. Ke3 Rad8 17. Be4 Rxc4 18. Bxb7 Rc2 19. h3 Re2# 0-1

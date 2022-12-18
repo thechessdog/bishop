@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Pulieri"]
+[Black "Rugiadini"]
+[Result "0-1"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "d42250df"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Qb3 dxc4 7. Qxc4 Na6
+8. e4 c5 9. d5 e6 10. O-O-O exd5 11. exd5 Re8 12. h3 Bd7 13. Bd3 Nb4 14.
+Rhe1 Rxe1 15. Nxe1 b5 16. Nxb5 Nfxd5 17. Nc3 Nxc3 18. bxc3 Be6 0-1
+

@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Eising, Johannes"]
+[Black "Christoph, M."]
+[Result "0-1"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "9b1d0dce"]
+[Epoch "Bishop"]
+[WhiteID "4602510"]
+[WhiteCountry "GER"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 e4 5. Ng5 Be7 6. Nh3 Bf6 7. e3 Nce7 8. g4
+fxg4 9. Nf4 Nh6 10. h3 d6 11. Nxe4 O-O 12. Bd2 Ng6 13. Nxg6 hxg6 14. Qe2 Bh4
+15. O-O-O Qe7 16. Ng3 Bxg3 17. fxg3 Bf5 18. Bg2 gxh3 19. Bf3 Be4 20. Bxe4 Qxe4
+21. Rxh3 Rae8 22. Rh4 Qf3 23. Qh2 Nf5 24. Rh8+ Kf7 25. Rxf8+ Kxf8 26. b3 Nxg3
+27. Re1 Kg8 28. Kb2 Nf1 0-1

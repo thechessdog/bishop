@@ -1,0 +1,20 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Brglez, F."]
+[Black "Karker, N."]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "10dc9293"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5
+8. Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 O-O-O 12. a3 Be7 13. Kb1 Kb8 14.
+f3 Rc8 15. a4 b4 16. Na2 Nxe4 17. fxe4 Bxg5 18. Qxb4 Qxb4 19. Nxb4 Nc5 20.
+Nf3 Be7 21. Rd4 Rhd8 22. Nd3 d5 23. e5 Ne4 24. Rc1 g5 25. c4 dxc4 26. Rcxc4
+g4 27. Rxc8+ Rxc8 28. Nfe1 Nd2+ 29. Ka2 Nxb3 30. Kxb3 Bd5+ 31. Rxd5 exd5
+32. Nc2 Bc5 33. Nf4 Re8 34. Nxd5 Rxe5 35. Nf6 Rf5 0-1
+

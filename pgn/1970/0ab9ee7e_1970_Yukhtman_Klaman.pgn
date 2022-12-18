@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Yukhtman, Yakov"]
+[Black "Klaman"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "0ab9ee7e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. e3 Qb6 5. Rb1 Bf5 6. Bd3 Bxd3 7. cxd3 Nbd7
+8. Nf3 e6 9. O-O h6 10. Bf4 Be7 11. b4 O-O 12. Ne5 Nxe5 13. dxe5 Nd7 14. d4
+Qd8 15. Na4 b5 16. Nc5 Nxc5 17. dxc5 a5 18. a3 axb4 19. axb4 Ra4 20. Qg4
+Kh7 21. e4 f5 22. exf6 Rxf6 23. Bg3 Rg6 24. Qe2 Bf8 25. exd5 exd5 26. Qc2
+Qf6 27. Rb3 Kg8 28. Rf3 Qe6 29. Qd2 Rg4 30. Rf4 Rxf4 31. Qxf4 Bxc5 32. Qb8+
+Bf8 33. f3 Ra2 34. Re1 Re2 35. Rxe2 Qxe2 36. h4 Qe7 37. Qc8 Qxb4 38. Kh2
+Qc5 39. Qe6+ Kh8 40. h5 d4 41. Be5 Qd5 0-1
+

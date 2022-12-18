@@ -1,0 +1,17 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Andersson, Arne"]
+[Black "Bryntse, Arne"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "f8d0454b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Nxc3
+8. bxc3 Ba5 9. Nb5 O-O 10. Bd3 f5 11. O-O Nc6 12. f4 d5 13. exd6 a6 14. Nd4
+Qxd6 15. Nxc6 Qxc6 16. c4 Bb6+ 17. Kh1 Bd4 18. Rb1 b6 19. Qf3 Bb7 1/2-1/2
+

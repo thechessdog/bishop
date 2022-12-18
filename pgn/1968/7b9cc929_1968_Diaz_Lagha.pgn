@@ -1,0 +1,22 @@
+[Event "Lugano ol (Men)"]
+[Site "Lugano"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Diaz, Sergio"]
+[Black "Lagha, Khelil"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "7b9cc929"]
+[Epoch "Bishop"]
+[WhiteID "113204"]
+[WhiteCountry "ARG"]
+[BlackID "5500125"]
+[BlackCountry "TUN"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 Bg4 7. Be2 O-O-O
+8. Nc3 Qa5 9. Qb3 e6 10. O-O Nf6 11. Be3 Kb8 12. h3 Bh5 13. a3 Be7 14. Rac1 Ka8
+15. g4 Bg6 16. Ne5 Nxd4 17. Bxd4 Rxd4 18. Nb5 Qb6 19. Nxd4 Qxb3 20. Nxb3 Bd6
+21. Nxg6 hxg6 22. Kg2 Nd5 23. Rfd1 Nf4+ 24. Kf1 Rxh3 25. Rc8+ Bb8 26. Bf3 Rxf3
+27. Rdd8 a6 28. Nc5 1-0

@@ -1,0 +1,26 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Hecht, Hans-Joachim"]
+[Black "Aarland, Stein Arild"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "67e1f705"]
+[Epoch "Bishop"]
+[BlackID "1500503"]
+[WhiteID "4600320"]
+[WhiteCountry "DEU"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Ne2 Nf6 3. Nbc3 d5 4. exd5 Nxd5 5. Nxd5 Qxd5 6. d4 cxd4 7. Qxd4
+Qxd4 8. Nxd4 a6 9. Be3 e5 10. Nb3 Be6 11. O-O-O Nd7 12. Be2 O-O-O 13. Kb1 Be7
+14. Na5 Bb4 15. Nc4 f6 16. a3 Bxc4 17. Bxc4 Be7 18. b4 Kc7 19. Bb3 Nb8 20. c3
+Rxd1+ 21. Rxd1 Rd8 22. Rxd8 Bxd8 23. Bg8 h6 24. Kc2 Nd7 25. g4 Kd6 26. Kd3 Bb6
+27. Bxb6 Nxb6 28. c4 Nc8 29. c5+ Kc6 30. Bh7 Ne7 31. Be4+ Kc7 32. Kc4 Kc8 33.
+h4 g6 34. h5 gxh5 35. gxh5 Kc7 36. a4 Kb8 37. b5 axb5+ 38. axb5 Kc7 39. b6+ Kc8
+40. Bd5 Kb8 41. Be6 Ka8 42. Bd7 Kb8 43. Be6 Ka8 44. c6 Nxc6 45. Kd5 Nd4 46. Kd6
+Ne2 47. Ke7 Nf4 48. Kxf6 e4 49. Bf7 Nh3 50. Kg7 Nxf2 51. Kxh6 Ng4+ 52. Kg5 Ne5
+53. Bd5 e3 54. h6 1-0

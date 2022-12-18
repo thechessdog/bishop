@@ -1,0 +1,20 @@
+[Event "Morecambe ch-BCF"]
+[Site "Morecambe ch-BCF"]
+[Date "1975.08.01"]
+[Round "6"]
+[White "Littlewood, John Eric"]
+[Black "Povah, Nigel E"]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "d4fa6c54"]
+[Epoch "Bishop"]
+[BlackID "400467"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+Nfd7 9. Ne4 dxe5 10. Nd6+ Ke7 11. Nxc8+ Qxc8 12. Nf3 Re8 13. fxe5 Nxe5 14. Bb5
+Nbd7 15. O-O a6 16. Nxe5 Bxe5 17. d6+ Kf8 18. Qd5 Bd4+ 19. Kh1 Nf6 20. Bh6+ Kg8
+21. Rxf6 Bxf6 22. d7 axb5 23. dxc8=Q Raxc8 24. Qxb7 Bxb2 25. Rf1 1-0

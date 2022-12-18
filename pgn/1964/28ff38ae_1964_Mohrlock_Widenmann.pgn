@@ -1,0 +1,17 @@
+[Event "corr ch9-BRD"]
+[Site "corr ch9-BRD"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Mohrlock, D."]
+[Black "Widenmann, A."]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "28ff38ae"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Qe2 Be7 10. Rd1 Nc5 11. Nc3 Nxb3 12. cxb3 Na7 13. Be3 c5 14.
+Rac1 Rc8 15. Ne4 Qb6 16. Nxc5 1-0
+

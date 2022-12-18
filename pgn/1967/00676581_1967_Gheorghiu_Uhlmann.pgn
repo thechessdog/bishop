@@ -1,0 +1,22 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Gheorghiu, Florin"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "00676581"]
+[Epoch "Bishop"]
+[WhiteID "1200011"]
+[BlackID "4611284"]
+[WhiteCountry "ROU"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Ngf3 Be7 5. g3 c5 6. Bg2 Nc6 7. O-O O-O 8. Re1
+b5 9. e5 Nd7 10. Nf1 a5 11. h4 b4 12. Bf4 a4 13. a3 bxa3 14. bxa3 Ba6 15. Ne3
+Nxd4 16. c4 Nb3 17. cxd5 Nxa1 18. Qxa1 exd5 19. Nxd5 Bd3 20. e6 Nf6 21. Nxe7+
+Qxe7 22. Ne5 Bg6 23. Nc6 Qb7 24. Bd6 Be4 25. Rxe4 Qxc6 26. Bxf8 Rxf8 27. Qxf6
+Qxe4 28. Qxf7+ Rxf7 29. exf7+ Kxf7 30. Bxe4 1-0

@@ -1,0 +1,18 @@
+[Event "Caracas"]
+[Site "Caracas"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Cuellar Gacharna, Miguel"]
+[Black "Yepes Martinez, Eduard"]
+[Result "0-1"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, Benko attack"]
+[HashCode "c1bf4a1a"]
+[Epoch "Bishop"]
+
+1. c4 g6 2. d4 Nf6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 h5 12. g5 h4 13. Kh1 f4 14. Rg1 Kf7 15. b4 Rh8
+16. c5 Nf8 17. Ba3 Rh5 18. Rc1 a6 19. b5 dxc5 20. Bxc5 Nd7 21. Bb4 a5 22. Ba3
+Nb6 23. Na4 Nxa4 24. Qxa4 Bf8 25. Qc4 Rh8 26. Nd3 Nf5 27. Bxf8 Ng3+ 28. hxg3
+hxg3+ 29. Kg2 Bh3+ 0-1

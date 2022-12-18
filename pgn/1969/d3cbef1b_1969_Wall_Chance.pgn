@@ -1,0 +1,18 @@
+[Event "Tacoma,WA"]
+[Site "Tacoma,WA"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Chance, John"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "d3cbef1b"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Bg4 7. Nbd2 Nf6
+8. O-O c5 9. Qxd8+ Rxd8 10. h3 Bxf3 11. Nxf3 Nxe4 12. Re1 f5 13. Nd2 c4 14. f3
+Kf7 15. fxe4 fxe4 16. Nxc4 Bb4 17. c3 Bc5+ 18. Kh1 Rhe8 19. Bf4 c6 20. Ne5+ Kf6
+21. Rxe4 Bd6 22. Ng4+ Kf5 23. Rxe8 1-0

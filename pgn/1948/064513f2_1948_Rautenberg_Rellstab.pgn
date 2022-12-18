@@ -1,0 +1,24 @@
+[Event "Bad Nauheim"]
+[Site "Bad Nauheim"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Rautenberg, Wilhelm"]
+[Black "Rellstab, Ludwig Sr"]
+[Result "0-1"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Chigorin defence"]
+[HashCode "064513f2"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. e3 Nf6 5. Nc3 Nbd7 6. Bd3 Bd6 7. e4 dxe4 8. Nxe4
+Nxe4 9. Bxe4 Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 Nf6 12. Bc2 b6 13. O-O O-O 14. Rad1
+Qc7 15. Qg5 Ba6 16. b3 c5 17. Rfe1 Bb7 18. Re3 Rfd8 19. Ne5 Rxd4 20. Rxd4 cxd4
+21. Rg3 Ne8 22. Rh3 g6 23. Ng4 f5 24. Nh6+ Kh8 25. Rh4 Qg7 26. Bd3 e5 27. f3
+Nd6 28. b4 Nf7 29. Nxf7+ Qxf7 30. c5 bxc5 31. Bc4 Qxc4 32. Qe7 Qc1+ 33. Kf2
+Qc2+ 34. Ke1 Qb1+ 35. Kf2 Qxa2+ 36. Ke1 Qb1+ 37. Kf2 Qa2+ 38. Ke1 Qg8 39. Qxb7
+h5 40. Qe7 cxb4 41. Qxe5+ Qg7 42. Qe6 Rf8 43. Kd2 Rd8 44. Kd3 Kh7 45. g4 fxg4
+46. fxg4 Rf8 47. gxh5 g5 48. Qe4+ Kh6 49. Rg4 Qf6 50. Qg6+ Qxg6+ 51. hxg6 Kxg6
+52. h4 Rf5 53. hxg5 a5 54. Kc4 Rf3 55. Rxd4 Rc3+ 56. Kb5 Ra3 57. Rd5 b3 58. Kc4
+a4 59. Kc3 Ra2 60. Ra5 b2 0-1

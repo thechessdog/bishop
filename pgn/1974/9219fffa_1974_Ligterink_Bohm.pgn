@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1974.07.01"]
+[Round "1"]
+[White "Ligterink, Gert"]
+[Black "Bohm, Hans"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, Trifunovic variation"]
+[HashCode "9219fffa"]
+[Epoch "Bishop"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "1000306"]
+[BlackCountry "NED"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 Bf5 6. Nc3 e6 7. Nf3 dxe5 8. fxe5
+Nc6 9. Be3 Be7 10. d5 exd5 11. cxd5 Nb4 12. Nd4 Bd7 13. Qf3 c5 14. dxc6 Nxc6
+15. e6 fxe6 16. Bd3 Bh4+ 17. g3 Bf6 18. Qh5+ Kf8 19. O-O Kg8 20. Ne4 Nd5 21.
+Ng5 Qe8 22. Bxh7+ Kf8 23. Ndxe6+ Qxe6 24. Bc5+ Nde7 25. Nxe6+ Bxe6 26. Rae1 Bf7
+27. Rxf6 gxf6 28. Qh6+ Ke8 29. Qxf6 Rxh7 30. Rxe7+ 1-0

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Orrigo"]
+[Black "LaRosa"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "6a08edc4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. a4 Rb8 11. axb5 axb5 12. Nd4 Nxe5 13. f3 Nf6 14. Re1
+Qd6 15. Bf4 Nfd7 16. Bxe5 Nxe5 17. f4 Nc4 18. f5 Bd7 19. Qe2 c5 20. Ra6 Nb6
+21. Nxb5 Bxb5 22. Qxb5+ Nd7 23. Rxd6 Rxb5 24. Rxd7 O-O 25. Bxd5 Bd8 26.
+Bxf7+ Rxf7 27. Rxd8+ Rf8 28. Rxf8+ Kxf8 29. Re2 c4 30. Na3 1-0
+

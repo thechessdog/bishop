@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Incelli"]
+[Black "Maisano"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "cee742a6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. O-O Nbd7
+8. f4 b5 9. Bf3 Bb7 10. e5 Bxf3 11. Nxf3 dxe5 12. fxe5 Ng4 13. Qe2 Qb6+ 14.
+Kh1 b4 15. Qe4 Rc8 16. Qxg4 bxc3 17. b3 g6 18. Qf4 Bg7 19. Ba3 f6 20. exf6
+Nxf6 21. Nd4 Kf7 22. Rae1 1-0
+

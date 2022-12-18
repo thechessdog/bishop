@@ -1,0 +1,17 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1953.01.01"]
+[Round "17"]
+[White "Gligorić, Svetozar"]
+[Black "Trifunovic, Petar"]
+[Result "1/2-1/2"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "a2697bf7"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Bxc3+ 7. Nxc3 O-O 8. d5
+c6 9. e4 exd5 10. exd5 Qe7+ 11. Be2 cxd5 12. cxd5 Qe5 13. O-O Nxd5 14. Bd2 Nxc3
+15. Bxc3 Qg5 16. Bf3 d5 17. Qd4 Nc6 18. Qxd5 Qxd5 19. Bxd5 1/2-1/2

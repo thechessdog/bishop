@@ -1,0 +1,16 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Purdy, John"]
+[Black "Byrne, Robert E"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "b36f2573"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. Bxd7+
+Qxd7 9. Ng5 cxd4 10. e6 fxe6 11. Qxg4 dxc3 12. Nxe6 cxb2 13. Nxg7+ Kf7 14. Qxd7
+bxc1=Q+ 15. Rxc1 Nxd7 16. Rb1 Nc5 0-1

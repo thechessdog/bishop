@@ -1,0 +1,17 @@
+[Event "Harrachov"]
+[Site "Harrachov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Ivanov, Nikolay"]
+[Black "Litzberger, R."]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "6e00e00a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Nxd4 9. Qxd4 Bc5 10. Qd3 d6 11. Na4 O-O 12. c4 Ba7 13. b3 Ng4 14. Ba3 Bc5 15.
+Nxc5 dxc5 16. Rad1 b6 17. Qd6 Qa7 18. b4 cxb4 19. Bxb4 Re8 20. Bc3 e5 21. h3
+Nh6 22. Qxe5 1-0

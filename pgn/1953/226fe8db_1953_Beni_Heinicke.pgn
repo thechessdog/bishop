@@ -1,0 +1,23 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Beni, Alfred"]
+[Black "Heinicke, Herbert"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "226fe8db"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 b6 6. c3 Ba6 7. Bxa6 Nxa6 8. Ne2
+c5 9. O-O h5 10. Nf4 Nc7 11. Nh3 b5 12. f4 g6 13. Nf3 c4 14. Nhg5 Nb6 15. h3
+Qd7 16. g4 hxg4 17. hxg4 Be7 18. Kg2 Bxg5 19. fxg5 O-O-O 20. Be3 Rh7 21. Rh1
+Rxh1 22. Qxh1 Na4 23. Rb1 Rg8 24. Kg3 Qe8 25. Qg2 Rh8 26. Rf1 Qg8 27. Rf2 Qh7
+28. Qh2 Qxh2+ 29. Nxh2 Rh7 30. Bc1 a5 31. a3 Kd7 32. Nf1 Ke7 33. Rh2 Rxh2 34.
+Nxh2 Kd7 35. Kf2 Kc6 36. Nf3 b4 37. axb4 axb4 38. cxb4 Kb5 39. Ke3 Kxb4 40. Nd2
+Nb5 41. Nf3 Kb3 42. Nh4 Nxb2 43. Bd2 c3 44. Bxc3 Kxc3 45. Nf5 gxf5 46. gxf5
+Nxd4 0-1

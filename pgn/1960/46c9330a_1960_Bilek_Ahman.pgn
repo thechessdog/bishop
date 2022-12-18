@@ -1,0 +1,16 @@
+[Event "Budapest izt"]
+[Site "Budapest izt"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Ahman"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "46c9330a"]
+[Epoch "Bishop"]
+
+1. g3 e5 2. Bg2 d5 3. Nf3 e4 4. Nd4 f5 5. d3 Nf6 6. O-O Be7 7. c4 c5 8. Nb5 Bd7
+9. dxe4 Bxb5 10. cxb5 dxe4 11. Qb3 Qd5 12. Nc3 Qxb3 13. axb3 Nbd7 14. f3 c4 15.
+bxc4 Nc5 16. Be3 O-O 17. b4 exf3 18. Bxc5 Bxc5+ 19. bxc5 fxg2 20. Rxf5 Ng4 21.
+Rxf8+ Rxf8 22. Nd5 1-0

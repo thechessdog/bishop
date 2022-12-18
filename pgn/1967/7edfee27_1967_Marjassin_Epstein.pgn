@@ -1,0 +1,18 @@
+[Event "Bobruisk"]
+[Site "Bobruisk"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Marjassin"]
+[Black "Epstein"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "7edfee27"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 d5 7. Bxd5
+Nf6 8. O-O Be7 9. Qb3 O-O 10. Rd1 Qe8 11. Na3 a6 12. Rac1 Bd8 13. Nc4 Ne7
+14. Bxf7+ Rxf7 15. Nce5 Nc6 16. Rxc6 bxc6 17. Ng5 Be7 18. Nexf7 Kf8 19. e5
+Nd5 20. Qf3 Kg8 21. Rxd5 Bg4 22. Qe4 Bxg5 23. Nxg5 Qh5 24. Rd4 1-0
+

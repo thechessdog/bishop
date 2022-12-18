@@ -1,0 +1,18 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Ghinda"]
+[Black "Ghitescu, Theodor"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "ce61d8c0"]
+[Epoch "Bishop"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Qe2
+Bb7 9. Bg5 Nbd7 10. O-O-O Rc8 11. Rhe1 h6 12. Bh4 g5 13. Bg3 Rxc3 14. bxc3 Qa5
+15. Bd5 Qa3+ 16. Kb1 Nxd5 17. exd5 Bxd5 18. Nb3 Nb6 19. Rd4 Bg7 20. Qd2 Bxd4
+21. cxd4 Na4 22. c4 bxc4 23. Qc1 Qb4 0-1

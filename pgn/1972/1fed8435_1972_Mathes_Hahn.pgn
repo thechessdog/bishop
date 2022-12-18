@@ -1,0 +1,24 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Mathes, W."]
+[Black "Hahn, K."]
+[Result "0-1"]
+[ECO "B55"]
+[Opening "Sicilian"]
+[Variation "Prins variation, Venice attack"]
+[HashCode "1fed8435"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Bb5+ Bd7 7. Bxd7+
+Nbxd7 8. Nf5 d5 9. exd5 Qa5+ 10. Nc3 Nb6 11. Qe2 O-O-O 12. O-O Nfxd5 13.
+Nxd5 Qxd5 14. Be3 Qe6 15. Ng3 Be7 16. a4 Kb8 17. b3 Nd5 18. Bf2 Rc8 19. c4
+Nf4 20. Qc2 Qg6 21. Qc3 h5 22. Qxe5+ Bd6 23. Qd4 b6 24. a5 h4 25. Be3 Nxg2
+26. Kxg2 hxg3 27. h4 Bc7 28. axb6 Bxb6 29. Bf4+ Ka8 30. Qd5+ Rc6 31. Rfd1
+Qe6 32. Qxe6 Rxe6 33. Bxg3 Re2+ 34. Kf1 Rb2 35. Rd7 g5 36. c5 Bxc5 37. Ra5
+Be3 38. Rd3 Bb6 39. Rxg5 Rc8 40. Re5 Rc1+ 41. Re1 Rcc2 42. Re8+ Kb7 43. h5
+Rg2 44. Rb8+ Ka6 45. Rxb6+ axb6 46. Be5 Rbf2+ 47. Ke1 Ra2 48. Kf1 Rgf2+ 49.
+Kg1 Rfe2 50. Bc3 Rac2 51. Kf1 Rh2 52. Kg1 Rxh5 53. f4 Rhh2 54. Rf3 Rcg2+
+55. Kf1 Ra2 56. Kg1 Rhc2 57. Be5 Rc1+ 58. Rf1 Rxf1+ 59. Kxf1 Kb5 0-1
+

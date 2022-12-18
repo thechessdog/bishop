@@ -1,0 +1,18 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1968.03.01"]
+[Round "7"]
+[White "Matulovic, Milan"]
+[Black "Bogdanovic, Rajko"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "8a420e45"]
+[Epoch "Bishop"]
+[BlackID "14400316"]
+[BlackCountry "BIH"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Qd3 O-O 11. Bg2 Nc6 12. O-O Rc8 1/2-1/2

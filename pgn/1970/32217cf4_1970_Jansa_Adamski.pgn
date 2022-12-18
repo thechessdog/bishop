@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Jansa, Vlastimil"]
+[Black "Adamski, Jan"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "32217cf4"]
+[Epoch "Bishop"]
+[WhiteID "300128"]
+[BlackID "1100190"]
+[WhiteCountry "CZE"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 d6 6. Bc4 b5 7. Bb3 Bb7 8. O-O
+Nd7 9. Bxe6 fxe6 10. Nxe6 Qb6 11. Nd5 Bxd5 12. exd5 Ngf6 13. Qe2 Ne5 14. Be3
+Qb7 15. Bd4 Kf7 16. f4 Qxd5 17. fxe5 Qxe6 18. exf6 1-0

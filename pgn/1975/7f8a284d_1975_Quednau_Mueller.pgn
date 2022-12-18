@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Quednau"]
+[Black "Mueller"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "7f8a284d"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qf4 cxd4 10. cxd4 Qh4 11. Qxh4 Nxh4 12. Bg5 Nf5 13. Ne2 Nc6 14.
+c3 Bd7 15. Nf4 Nfe7 16. Be2 g6 17. Bf6 Rg8 18. Rb1 b6 19. Ba6 Na5 20. Ke2
+Bc8 21. Bb5+ Bd7 22. Ba6 Bc8 23. Bb5+ Bd7 24. a4 Bxb5+ 25. Rxb5 Rc8 26. Kd3
+Kd7 27. Ne2 Rc4 28. Ra1 Rgc8 29. Rbb1 Nf5 30. Ra3 Nh6 31. h3 Ng8 32. Bg7
+Ne7 33. Bf6 Ng8 34. Bg7 Ne7 35. g4 hxg4 36. hxg4 Rg8 37. Bf6 Rc7 38. Rh1
+Nc4 39. Raa1 Rf8 40. Rh7 Ng8 41. Bg5 Kc6 42. Nf4 Rb7 43. Ke2 a6 44. Nd3 a5
+45. Rb1 f6 1/2-1/2
+

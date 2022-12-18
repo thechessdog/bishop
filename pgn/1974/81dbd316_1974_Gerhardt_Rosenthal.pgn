@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Gerhardt"]
+[Black "Rosenthal"]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Marshall defence"]
+[HashCode "81dbd316"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. Nf3 Nc6 5. e4 Nf6 6. Nc3 Bg4 7. d5 Ne5
+8. Bb5+ c6 9. Nxe5 1-0
+

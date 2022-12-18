@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Dvoretsky, Mark Izrailovich"]
+[Black "Romanov"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "db27736e"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 d5 6. Bd3 O-O 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Bg5 Bb7 11. Qe2 Be7 12. Rfd1 Qc7 13. Bb3 Nc6 14. Rac1 Rac8
+15. d5 exd5 16. Bxd5 Rfe8 17. Qc4 Nxd5 18. Nxd5 Qb8 19. Bf4 Na5 20. Nxe7+ Rxe7
+21. Qxc8+ 1-0

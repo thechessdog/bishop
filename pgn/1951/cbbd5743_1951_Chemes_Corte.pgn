@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1951.01.01"]
+[Round "4"]
+[White "Chemes, Luis"]
+[Black "Corte, Cesar Juan"]
+[Result "0-1"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Capablanca variation"]
+[HashCode "cbbd5743"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Nbd2 O-O 7. O-O d5 8. Ne5
+Nbd7 9. Qa4 Bd6 10. f4 c5 11. e3 a6 12. Qd1 b5 13. b3 Qb6 14. cxd5 cxd4 15.
+Nxd7 Nxd7 16. dxe6 dxe3 17. exf7+ Rxf7 18. Nc4 bxc4 19. Qe2 Bc5 20. Bxb7 Qxb7
+21. bxc4 Bd4 0-1

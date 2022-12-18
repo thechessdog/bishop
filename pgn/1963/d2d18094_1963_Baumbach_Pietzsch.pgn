@@ -1,0 +1,18 @@
+[Event "Bad Liebenstein"]
+[Site "Bad Liebenstein"]
+[Date "1963.??.??"]
+[Round "1"]
+[White "Baumbach, Friedrich, Dr."]
+[Black "Pietzsch, Wolfgang"]
+[Result "0-1"]
+[ECO "A44"]
+[Opening "Semi-Benoni (`blockade variation')"]
+[HashCode "d2d18094"]
+[Epoch "Bishop"]
+[WhiteID "4611721"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Bd3 Be7 5. Ne2 Nf6 6. Nd2 O-O 7. a4 Ne8 8. O-O
+Bg5 9. Nc4 Nd7 10. a5 Bxc1 11. Qxc1 Qe7 12. Ng3 g6 13. Qh6 Ndf6 14. h3 Kh8 15.
+c3 Bd7 16. Rae1 Ng7 17. f4 Ng8 18. Qg5 f6 19. Qh4 g5 0-1

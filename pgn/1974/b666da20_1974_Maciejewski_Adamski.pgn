@@ -1,0 +1,19 @@
+[Event "POL-ch31"]
+[Site "Zielona Gora"]
+[Date "1974.??.??"]
+[Round "8"]
+[White "Maciejewski, Andrzej"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b666da20"]
+[Epoch "Bishop"]
+[WhiteID "1100181"]
+[BlackID "1100190"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Na3 a6 7. Nc4 Nbd7 8. Be2
+cxd4 9. cxd4 Bb4+ 10. Bd2 Bxd2+ 1/2-1/2

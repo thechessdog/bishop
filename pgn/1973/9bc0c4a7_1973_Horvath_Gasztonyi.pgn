@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Horvath, Tamas"]
+[Black "Gasztonyi, Endre"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "9bc0c4a7"]
+[Epoch "Bishop"]
+[WhiteID "700185"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. dxc5 Qa5+ 5. Nc3 Qxc5 6. Nd5 Qa5+ 7. Bd2 Qd8 8.
+Bc3 f6 9. h4 Nc6 10. h5 e6 11. Ne3 Nh6 12. Bc4 a6 13. a3 b5 14. Ba2 Bb7 15. Qd6
+Nf7 16. Qd1 g5 17. h6 Bxh6 18. Rxh6 Nxh6 19. Nxg5 Qe7 20. Qh5+ Nf7 21. Nf5 exf5
+22. Nxf7 Rf8 23. Nd6+ Kd8 24. Nxb7+ Kc7 25. Na5 Qxe4+ 26. Qe2 Rae8 27. Qxe4
+Rxe4+ 28. Kf1 Ne5 29. f3 Rh4 30. Kf2 Rc8 31. Rd1 Kd8 32. Nb7+ Ke7 33. Nd6 1-0

@@ -1,0 +1,20 @@
+[Event "Titovo Uzice"]
+[Site "Titovo Uzice"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Janosevic, Dragoljub"]
+[Black "Forintos, Gyozo V"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "587f93cd"]
+[Epoch "Bishop"]
+[BlackID "700690"]
+[BlackCountry "HUN"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bb4 6. Nd5 b5 7. Bb3 O-O 8. O-O
+Bb7 9. d4 Nxd5 10. Bxd5 exd4 11. Nxd4 Qf6 12. Be3 Rfe8 13. c3 Bf8 14. f4 Na5
+15. Bxb7 Nxb7 16. e5 Qd8 17. Qf3 Qc8 18. Rad1 d6 19. e6 fxe6 20. f5 exf5 21.
+Nxf5 Nd8 22. Bd4 Ne6 23. Nh6+ Kh8 24. Qf7 Be7 25. Qg8+ Rxg8 26. Nf7# 1-0

@@ -1,0 +1,20 @@
+[Event "corr SWE tt"]
+[Site "corr SWE tt"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Erlandsson, C."]
+[Black "Lundblad, G."]
+[Result "1-0"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, not Scheveningen"]
+[HashCode "42d827d3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Bd7 7. Bb3 Na5
+8. O-O g6 9. Bg5 Bg7 10. Nd5 Nxb3 11. Bxf6 exf6 12. cxb3 Rc8 13. Qd2 O-O
+14. Rac1 Bc6 15. Nb5 Ra8 16. Nbc7 Rb8 17. b4 Qd7 18. Rc4 Rfd8 19. Rfc1 Kf8
+20. Qf4 f5 21. exf5 Qxf5 22. Qxf5 gxf5 23. b3 Rbc8 24. a4 Bd7 25. b5 Rb8
+26. Re1 a6 27. b6 Bc6 28. Kf1 Bxd5 29. Nxd5 Re8 30. Rxe8+ Kxe8 31. Rc7 Kf8
+32. a5 1-0
+

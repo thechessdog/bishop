@@ -1,0 +1,17 @@
+[Event "corr BdF/I"]
+[Site "corr BdF/I"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Wolf"]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "9102a208"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Bb5 Bd7 8.
+Bxc6 Bxc6 9. e5 dxe5 10. fxe5 Nd5 11. e6 f6 12. O-O Nxc3 13. bxc3 Bg7 14. Nxc6
+Qxd1 15. Rxd1 bxc6 16. Ba3 f5 17. Rd7 Bf6 18. Rb1 Rg8 19. Rbb7 1-0

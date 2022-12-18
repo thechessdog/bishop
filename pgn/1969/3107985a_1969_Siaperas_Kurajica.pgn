@@ -1,0 +1,18 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1969.01.01"]
+[Round "9"]
+[White "Siaperas, Triantafyllos"]
+[Black "Kurajica, Bojan"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "3107985a"]
+[Epoch "Bishop"]
+[BlackID "14400057"]
+[BlackCountry "BIH"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e5 7. Nge2 Nge7 8. O-O
+O-O 9. Qd2 Nd4 10. f4 Be6 11. h3 Qd7 12. Kh2 Rac8 13. Nd1 Nxe2 14. Qxe2 exf4
+15. gxf4 f5 16. c3 b6 17. Nf2 Rfe8 1/2-1/2

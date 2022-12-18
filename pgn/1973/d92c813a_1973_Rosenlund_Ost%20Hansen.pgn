@@ -1,0 +1,20 @@
+[Event "Rasmussen mem"]
+[Site "Randers"]
+[Date "1973.10.19"]
+[Round "6"]
+[White "Rosenlund, Thorbjorn"]
+[Black "Ost Hansen, Jacob"]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Czech Benoni defence"]
+[HashCode "d92c813a"]
+[Epoch "Bishop"]
+[WhiteID "1400614"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. g3 O-O 7. h4 Nbd7 8. Bh3 b5
+9. cxb5 a6 10. bxa6 Bxa6 11. g4 Qa5 12. Qf3 Nb6 13. g5 Ne8 14. Ne2 Na4 15. Ng3
+Rb8 16. Nf5 Bd8 17. h5 Nxb2 18. Rg1 g6 19. Nh6+ Kg7 20. Bd7 Nd3+ 21. Kd2 Nf4
+22. Bxe8 Rxe8 23. Kd1 Bd3 24. Bxf4 Qxc3 25. Bxe5+ Qxe5 26. Rc1 Bxe4 27. Qxf7+
+Kh8 28. Re1 Qd4+ 29. Ke2 Qd3# 0-1

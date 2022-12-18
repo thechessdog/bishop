@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Morgado, Juan Sebastian"]
+[Black "Lencinas, Hector"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "ebb61e5e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bb4 7. Bc4 Qc7 8.
+Bb3 O-O 9. O-O Bxc3 10. bxc3 d6 11. Re1 b5 12. Ba3 Rd8 13. Ng5 Rd7 14. Nxf7
+Rxf7 15. Bxd6 Qc6 16. Bxf7+ Kxf7 17. Bxe5 Nbd7 18. Bd4 Bb7 19. f3 Re8 20. e5
+Nd5 21. Qd3 Kg8 22. Qf5 Nf8 23. Qe4 Ne6 24. g3 Ng5 25. Qd3 Rf8 0-1

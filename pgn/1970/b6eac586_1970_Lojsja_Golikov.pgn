@@ -1,0 +1,18 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Lojsja"]
+[Black "Golikov"]
+[Result "1-0"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Geller variation"]
+[HashCode "b6eac586"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. e4 b5 8.
+Bd3 cxd4 9. e5 Nd5 10. a4 bxa4 11. Qxa4+ Nd7 12. Qxd4 g6 13. Nc3 Nxc3 14.
+Qxc3 Bb7 15. Rd1 Bg7 16. Bg5 Qb8 17. Qa3 f6 18. exf6 Nxf6 19. Qa4+ Ke7 20.
+Bf4 Qa7 21. Qb4+ Ke8 22. Bb5+ Kf7 23. Ng5+ Kg8 24. Be3 Qb8 25. Qe7 1-0
+

@@ -1,0 +1,19 @@
+[Event "Dubrovnik ol"]
+[Site "Dubrovnik ol"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Najdorf, Miguel"]
+[Black "Kostic, Boris"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "7679acf1"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+[BlackCountry "SRB"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 Be6 6. Qc2 Qd7 7. Bf4 h6 8. h3 g5
+9. Bh2 Nge7 10. Nbd2 Bg7 11. Ne4 Ng6 12. Nf6+ Bxf6 13. exf6 Bf5 14. Qa4 O-O-O
+15. O-O-O Qe6 16. g4 Be4 17. Bg2 Rhe8 18. Rhe1 Qxf6 19. Bg3 Nf4 20. Bf1 Kb8 21.
+Nd2 Bh7 22. e3 dxe3 23. fxe3 Nd3+ 24. Bxd3 Rxd3 25. Nb3 Rc3+ 26. Kd2 Rc2# 0-1

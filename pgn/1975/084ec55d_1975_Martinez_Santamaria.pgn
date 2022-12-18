@@ -1,0 +1,17 @@
+[Event "corr Cuba"]
+[Site "corr Cuba"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Martinez, Gustavo"]
+[Black "Santamaria"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "084ec55d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. f4
+O-O 9. Qf3 Re8 10. Be3 Qc7 11. O-O-O e5 12. fxe5 Bg4 13. exd6 Bxd6 14. Qf2 Bxd1
+15. Rxd1 Bxh2 16. Nf5 Nc6 17. Qh4 Ne5 18. Nxg7 Kxg7 19. Bh6+ Kg8 20. Qxf6 Nd3+
+21. Rxd3 Be5 22. Rg3+ 1-0

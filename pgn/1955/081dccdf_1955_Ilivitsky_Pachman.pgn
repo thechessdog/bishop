@@ -1,0 +1,20 @@
+[Event "match"]
+[Site "match"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Ilivitsky, Georgy"]
+[Black "Pachman, Ludek"]
+[Result "1-0"]
+[ECO "A96"]
+[Opening "Dutch"]
+[Variation "classical variation"]
+[HashCode "081dccdf"]
+[Epoch "Bishop"]
+[BlackCountry "CZE"]
+[WhiteCountry "RUS"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 d6 7. Nc3 a5 8. Re1
+Ne4 9. Qc2 Nc6 10. Nxe4 Nb4 11. Qb1 fxe4 12. Qxe4 e5 13. g4 Be6 14. a3 Na6 15.
+Be3 Bxc4 16. dxe5 d5 17. Qc2 c5 18. Rad1 a4 19. Nd2 Bb5 20. Ne4 d4 21. b4 Bh4
+22. Bc1 cxb4 23. axb4 Qe7 24. Rxd4 Bc6 25. Rf1 Qxe5 26. Bb2 a3 27. Qb3+ Kh8 28.
+Qxa3 Qe6 29. Qc3 Rf7 30. g5 Rc7 31. Qd3 Be8 32. b5 1-0

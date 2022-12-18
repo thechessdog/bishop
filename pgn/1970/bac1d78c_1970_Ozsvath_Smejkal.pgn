@@ -1,0 +1,23 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ozsvath, Andras"]
+[Black "Smejkal, Jan"]
+[Result "1-0"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Richter variation"]
+[HashCode "bac1d78c"]
+[Epoch "Bishop"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 exd4 7. Qxd4 f6 8.
+Nc3 g6 9. Bf4 Bg7 10. O-O-O Bg4 11. e5 Bxf3 12. exd6 Bxd1 13. Re1+ Kf8 14. Qc5
+Qd7 15. dxc7+ Ne7 16. Rxe7 Qxe7 17. Bd6 Kf7 18. Bxe7 Bg4 19. Ne4 Rae8 20. c8=Q
+Bxc8 21. Nd6+ Kxe7 22. Nxc8+ Kd7 23. Nb6+ Kc7 24. Nd5+ Kd7 25. Nb4 Bh6+ 26. Kd1
+Re6 27. Qa7+ Kd6 28. Qb6 Rc8 29. Nxa6 Re5 30. Nb4 Bf8 31. Qa6 Rc7 32. Nd3 Re8
+33. b4 Kd7 34. a4 Bd6 35. b5 Rb8 36. b6 Rcc8 37. Qa7+ Ke6 38. b7 Rd8 39. a5 c5
+40. a6 c4 41. Qb6 cxd3 42. a7 1-0

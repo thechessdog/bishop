@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Truelsen, Ole Illum"]
+[Black "Kolvig, Bent"]
+[Result "0-1"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "dd12f74b"]
+[Epoch "Bishop"]
+[WhiteID "1406574"]
+[BlackID "1400746"]
+[BlackCountry "DEN"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Qb3 Nc6 7. Nxd5 Nd4 8.
+Nxf6+ Qxf6 9. Qd1 Bf5 10. d3 Rc8 11. Kf1 Qa6 12. Bd5 Rc5 13. Bb3 Nxb3 14. Qxb3
+Qc6 15. e4 Rxc1+ 16. Rxc1 Qxc1+ 17. Ke2 Bg4+ 18. f3 Bd7 19. Nh3 Qxh1 20. Ng5
+Qxh2+ 21. Kd1 Qh5 0-1

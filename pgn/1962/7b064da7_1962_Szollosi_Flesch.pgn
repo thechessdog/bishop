@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Szollosi, Laszlo"]
+[Black "Flesch, János"]
+[Result "1-0"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation, 4.Nf3"]
+[HashCode "7b064da7"]
+[Epoch "Bishop"]
+[WhiteID "701157"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. g3 c6 6. Qc2 Be7 7. Bg2 O-O 8. O-O
+Re8 9. h3 a6 10. Be3 Rb8 11. Rac1 Bf8 12. d5 cxd5 13. Nxd5 Nxd5 14. cxd5 b5 15.
+Nd2 Rb7 16. b4 a5 17. Nb3 axb4 18. Qd2 Nb6 19. Na5 Nc4 20. Nxb7 Bxb7 21. Qxb4
+Nxe3 22. fxe3 Qb6 23. Rc3 e4 24. Bxe4 g6 25. Bf3 Bg7 26. Rb3 Bc8 27. Qxb5 Qd8
+28. Bg2 Be5 29. e4 Bd7 30. Qd3 h5 31. Rb7 Qc8 32. Rfb1 Bxh3 33. Rb8 Qc5+ 34. e3
+Rxb8 35. Rxb8+ Bc8 36. Bh3 f5 37. exf5 Qc7 38. f6 Qc1+ 39. Qf1 Qxe3+ 40. Qf2
+Qd3 41. f7+ Kh7 42. f8=Q Bd4 1-0

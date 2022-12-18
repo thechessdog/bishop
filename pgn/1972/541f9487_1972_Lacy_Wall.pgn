@@ -1,0 +1,17 @@
+[Event "Okinawa"]
+[Site "Okinawa"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Lacy"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, Planinc variation"]
+[HashCode "541f9487"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 g5 6. fxg5 dxe5 7. dxe5 Qxd1+ 8.
+Kxd1 Bg4+ 9. Nf3 Bg7 10. Bf4 Nc6 11. Be2 O-O-O+ 12. Nbd2 Na4 13. b3 Nc3+ 14.
+Ke1 Nxe2 15. Kxe2 Nxe5 16. Rae1 Nd3 0-1

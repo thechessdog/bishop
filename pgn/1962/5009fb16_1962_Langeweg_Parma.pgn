@@ -1,0 +1,20 @@
+[Event "Torremolinos zt"]
+[Site "Torremolinos zt"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Parma, Bruno"]
+[Result "0-1"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "5009fb16"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 O-O 5. Bg2 d5 6. Qb3 c5 7. O-O Nc6 8. cxd5
+exd5 9. a3 c4 10. Qd1 Be7 11. d4 Na5 12. Bf4 Nb3 13. Ra2 Be6 14. Ng5 Bf5 15.
+Be5 Qd7 16. e4 Nxe4 17. Ngxe4 dxe4 18. d5 Bc5 0-1

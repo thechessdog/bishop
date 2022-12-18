@@ -1,0 +1,20 @@
+[Event "Szolnok"]
+[Site "Szolnok"]
+[Date "1975.01.01"]
+[Round "11"]
+[White "Farago, Ivan"]
+[Black "Dely, Peter"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "38b4dcca"]
+[Epoch "Bishop"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Ne5 Bb7 11. Bg5 Be7 12. Qe2 h6 13. Nxf7 Rxf7 14. Qxe6 Qf8
+15. Bxf6 Bxf6 16. Nd5 Bd8 17. Nf4 Qe7 18. Qxe7 Bxe7 19. Ng6 Nc6 20. Bd5 Bf6 21.
+Rfc1 Bxd4 22. Rxc6 Bxc6 23. Ne7+ Kf8 24. Ng6+ Kg8 25. Ne7+ Kf8 1/2-1/2

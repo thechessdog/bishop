@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Konikowski, J."]
+[Black "Klusek"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "d63d27fd"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+Be3 b4 9. Na4 Nxe4 10. O-O Nf6 11. Re1 Be7 12. Nb6 Qxb6 13. Nxe6 Qb7 14.
+Nxg7+ Kd8 15. Bxf7 Nc6 16. Bf4 Qc7 17. Be6 Bd7 18. Qf3 Rb8 19. Rad1 Kc8 20.
+Nf5 Ne8 21. Qxc6 Qxc6 22. Nxe7+ Kc7 23. Nxc6 Bxc6 24. Bc4 1-0
+

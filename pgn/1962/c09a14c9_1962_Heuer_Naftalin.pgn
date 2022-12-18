@@ -1,0 +1,16 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Heuer, Valter"]
+[Black "Naftalin, S."]
+[Result "1/2-1/2"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "c09a14c9"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 b5 7. Bf1 Nxd5 8.
+cxd4 Qxg5 9. Qe2 Nb4 10. Na3 Bd6 11. dxe5 Qxe5 12. d4 Qxe2+ 13. Bxe2 a6 14. O-O
+Bb7 15. Bd2 O-O 1/2-1/2

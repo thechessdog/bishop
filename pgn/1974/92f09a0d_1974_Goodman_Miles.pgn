@@ -1,0 +1,17 @@
+[Event "Islington"]
+[Site "Islington"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Goodman"]
+[Black "Miles"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "92f09a0d"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 b6 3. a3 Nf6 4. Nc3 Bb7 5. d5 Bd6 6. Nf3 O-O 7. g3 Ba6 8. e3
+Qe7 9. Be2 exd5 10. cxd5 Ne4 11. O-O Nxc3 12. bxc3 Qe4 13. Bxa6 Nxa6 14.
+Ne1 Nc5 15. f3 Qc4 16. e4 f5 17. exf5 Rxf5 18. Qc2 Re5 0-1
+

@@ -1,0 +1,28 @@
+[Event "Panamerican"]
+[Site "Havana"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Martinez, Gustavo"]
+[Black "Letelier, Rene"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "9b2acbe1"]
+[Epoch "Bishop"]
+[WhiteID "3300072"]
+[WhiteCountry "BOL"]
+[BlackCountry "CHL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. e3 h6 7. Bh4 O-O 8. Be2
+d6 9. O-O Bxc3 10. bxc3 Nbd7 11. Nd2 e5 12. Bf3 Qc8 13. Bxb7 Qxb7 14. Bxf6 Nxf6
+15. d5 c6 16. e4 Rac8 17. Rc1 Rfe8 18. Qb3 Nd7 19. Qa3 Nc5 20. Rfd1 cxd5 21.
+cxd5 Qa6 22. Qxa6 Nxa6 23. c4 Re7 24. Rc3 Rec7 25. f3 Nc5 26. Rb1 g6 27. h3 f5
+28. Kh2 f4 29. Kg1 Kf7 30. Kf2 Kf6 31. Ke2 g5 32. Kf2 Nb7 33. Rb5 Na5 34. Rb4
+h5 35. Rc1 Rg7 36. Rb2 Nb7 37. Nb3 Rgc7 38. Rbc2 b5 39. Ke2 bxc4 40. Nd2 Na5
+41. Nb1 g4 42. fxg4 hxg4 43. hxg4 Rg7 44. Nd2 Rxg4 45. Kf2 Rcg8 46. Rg1 Rg3 47.
+Nxc4 Nb7 48. Kf1 Rd3 49. Kf2 Rd4 50. Rb1 Rg7 51. Kf3 Rd3+ 52. Kf2 Rd4 53. Kf3
+Rc7 54. Rbc1 Rc5 55. Rc3 Kg5 56. R1c2 Rd1 57. Ra3 a5 58. Rb3 Rd4 59. Rbc3 Kf6
+60. Rc1 Rc7 61. Na3 Rg7 62. g4 Rh7 63. Nb5 Rd2 64. g5+ Kxg5 65. Rg1+ Kf6 66.
+Rc6 Rd3+ 67. Kf2 Rh2+ 68. Ke1 Re3+ 69. Kd1 Rxe4 70. Nxd6 Nxd6 71. Rxd6+ Kf5 72.
+Kc1 Rxa2 73. Rg8 Re1# 0-1

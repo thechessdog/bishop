@@ -1,0 +1,21 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Altshuler, Roman"]
+[Black "Sjukov"]
+[Result "0-1"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "22bda632"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bd3 b4 12. Ne2 Qa5 13. Kb1 Ra7 14. h3
+O-O 15. g4 Rc8 16. f5 Rac7 17. Bf4 Ne5 18. Bxe5 dxe5 19. g5 Nh5 20. f6 Bf8
+21. Nc1 Rc6 22. fxg7 Kxg7 23. Rhf1 Be8 24. Qf2 Be7 25. Qh4 f6 26. gxf6+
+Bxf6 27. Ng5 Bg6 28. Be2 Qc5 29. Bd3 Nf4 30. Qg3 a5 31. h4 a4 32. Qf2 Qa5
+33. Ne2 b3 34. cxb3 axb3 35. a3 h6 36. Nh3 Rc2 37. Qf3 Be7 38. Bxc2 bxc2+
+39. Ka2 cxd1=Q 40. Rxd1 Bxa3 0-1
+

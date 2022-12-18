@@ -1,0 +1,18 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Vincent, Patrick"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "49ae7db4"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackID "612413"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 Nf6 7. e5 dxe5 8.
+Qxd8+ Kxd8 9. Ng5 Kc7 10. Nxf7 Rg8 11. Nb5+ Kb8 12. Nxe5 Nxe5 13. Bf4 1-0

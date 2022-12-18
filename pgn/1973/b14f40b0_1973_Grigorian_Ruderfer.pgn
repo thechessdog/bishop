@@ -1,0 +1,27 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Grigorian, Levon"]
+[Black "Ruderfer, Mark B"]
+[Result "1-0"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "b14f40b0"]
+[Epoch "Bishop"]
+[WhiteID "24123781"]
+[BlackID "4103505"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 b6 8. Bf4
+Bb7 9. Rd1 Bxf3 10. gxf3 Nc6 11. e3 Nh5 12. Bd6 Bxd6 13. Rxd6 Qe7 14. Qd1 Nf6
+15. h4 Rac8 16. f4 Na5 17. Rd4 Nc6 18. Rd2 Na5 19. Qa4 d5 20. cxd5 Nxd5 21.
+Nxd5 exd5 22. Rxd5 Qf6 23. Qd4 Rc1+ 24. Ke2 Rc2+ 25. Kf3 Qxd4 26. Rxd4 Rxb2 27.
+Kg3 Nb3 28. Rb4 Rb1 29. a4 Rd8 30. Bg2 Rxh1 31. Bxh1 Na5 32. Rb1 Kf8 33. Rc1
+Ke7 34. Be4 g6 35. h5 Nb3 36. Rc7+ Rd7 37. Rxd7+ Kxd7 38. Bd5 Nc5 39. Bxf7 gxh5
+40. f3 Nxa4 41. e4 b5 42. e5 Nc5 43. f5 b4 44. Kh4 b3 45. Kxh5 a5 46. Kh6 a4
+47. f6 Ne6 48. f4 Nxf4 49. Kg7 Ne6+ 50. Bxe6+ Kxe6 51. f7 b2 52. f8=Q b1=Q 53.
+Qd6+ Kf5 54. Qf6+ Kg4 55. e6 a3 56. e7 a2 57. Qd4+ Kf3 58. Qc3+ Kg2 59. e8=Q
+a1=Q 1-0

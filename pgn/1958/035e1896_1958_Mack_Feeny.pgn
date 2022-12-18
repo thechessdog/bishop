@@ -1,0 +1,19 @@
+[Event "match"]
+[Site "match"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Mack, A."]
+[Black "Feeny, T."]
+[Result "1-0"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld, Smyslov defense"]
+[HashCode "035e1896"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nxc3 6. bxc3 Bg7 7. Rb1 c6
+8. Nf3 O-O 9. O-O Re8 10. d4 Qc7 11. Bf4 Qa5 12. Qb3 Nd7 13. Ng5 Rf8 14.
+Bh3 Qd5 15. Qxd5 cxd5 16. Bxd7 Bxd7 17. Rxb7 Bc8 18. Rxe7 Ba6 19. Re1 Bc4
+20. e3 a5 21. a3 Bf6 22. Rc7 h6 23. Nf3 Rfe8 24. Bxh6 Be7 25. Ne5 Bxa3 26.
+Rxf7 Bb2 27. Rg7+ Kf8 28. Nxg6# 1-0
+

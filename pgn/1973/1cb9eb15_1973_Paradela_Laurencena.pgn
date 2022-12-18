@@ -1,0 +1,17 @@
+[Event "Mar del Plata open"]
+[Site "Mar del Plata open"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Paradela, J."]
+[Black "Laurencena, Alberto"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "1cb9eb15"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Bd2 c5 8. Be2
+Nc6 9. Nxd5 Qxd5 10. Bc3 cxd4 11. exd4 Rd8 12. O-O Nxd4 13. Nxd4 Bxd4 14. Bf3
+Qc5 15. Bxd4 Rxd4 16. Qe2 Be6 17. Bxb7 Rad8 18. Rfd1 Qb4 19. Rxd4 Rxd4 20. Qe5
+Qxb2 21. Re1 Rd2 22. Qb8+ Kg7 23. Qg3 Re2 0-1

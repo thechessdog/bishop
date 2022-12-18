@@ -1,0 +1,19 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Cobo Arteaga, Eldis"]
+[Black "Rossetto, Hector"]
+[Result "0-1"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "5eabafaf"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+[WhiteCountry "CUB"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. cxd5 exd5 8.
+Qb3 Bxc3+ 9. bxc3 c6 10. e3 O-O 11. c4 dxc4 12. Bxc4 Nd7 13. a4 Nb6 14. Be2 Be6
+15. Qa3 Nd5 16. O-O a5 17. Rfc1 Nb4 18. Ne5 Rfd8 19. Bc4 Bd5 20. Bxd5 Rxd5 21.
+Nc4 Rh5 22. Nxa5 Qh4 23. h3 Raxa5 24. Qxb4 Rag5 25. f4 Qxh3 0-1

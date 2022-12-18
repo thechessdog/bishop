@@ -1,0 +1,19 @@
+[Event "Azul ch-ARG jr"]
+[Site "Azul ch-ARG jr"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Biscay, J."]
+[Black "Diani, J."]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "da0ac6b7"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c6 5. Nc3 d6 6. Nf3 O-O 7. O-O Na6 8.
+e4 Bg4 9. h3 Bxf3 10. Qxf3 Nb4 11. Qd1 e5 12. d5 Qe7 13. a3 Na6 14. Be3
+Rfd8 15. b4 cxd5 16. cxd5 Rdc8 17. Qb3 b6 18. Rfc1 Ne8 19. Bf1 Nac7 20. Nb5
+f5 21. Rc6 fxe4 22. Rac1 Nxb5 23. Rxc8 Rxc8 24. Rxc8 Qd7 25. Qc4 Kf7 26.
+Rxe8 Nxa3 27. Qa6 Nc2 28. Ra8 Qf5 29. Rxa7+ Kf6 30. Qxb6 Nxe3 31. Qd8# 1-0
+

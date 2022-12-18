@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Di Gennaro"]
+[Black "Duden"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "dba92c96"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+Bd3 Bxd3 9. Qxd3 Qc7 10. Bd2 e6 11. O-O-O O-O-O 12. Kb1 Ngf6 13. c4 c5 14.
+Bc3 cxd4 15. Nxd4 a6 16. Qe2 Bc5 17. Rd2 Nb6 18. b3 Rd7 19. Rhd1 Bd6 20.
+Ne4 Be5 21. Ba5 Rxd4 22. Rxd4 Bxd4 23. Rxd4 Qc6 24. Nxf6 gxf6 25. Qd3 Qc5
+26. b4 Qc6 27. a3 f5 28. Rd6 Qxc4 29. Bxb6 Qxd3+ 30. Rxd3 Re8 31. Kc2 1-0
+

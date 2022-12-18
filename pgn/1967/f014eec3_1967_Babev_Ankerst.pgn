@@ -1,0 +1,22 @@
+[Event "Harrachov"]
+[Site "Harrachov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Babev, Aleksandar"]
+[Black "Ankerst, N."]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "f014eec3"]
+[Epoch "Bishop"]
+[WhiteID "2900920"]
+[WhiteCountry "FID"]
+[BlackID "14601265"]
+[BlackCountry "SLO"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8. a3
+Ba5 9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3 Bg4 12. c4 Ne5 13. cxd5 Qxd5 14. Be2
+Nxf3+ 15. gxf3 Bh3 16. Qxd5 Nxd5 17. Re1 Rfc8 18. e4 Nc3 19. Be3 Nxe2+ 20. Rxe2
+Rc6 21. Kh1 Rg6 22. Rg1 Rxg1+ 23. Kxg1 Rd8 24. Rd2 Rxd2 25. Bxd2 Bd7 26. Kf1
+Kf8 27. Ke2 Ke7 1/2-1/2

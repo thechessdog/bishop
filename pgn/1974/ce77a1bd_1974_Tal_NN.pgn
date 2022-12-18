@@ -1,0 +1,18 @@
+[Event "England simul"]
+[Site "England simul"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Tal, Mikhail"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "ce77a1bd"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qxe5 13. Bd3 Nf6 14. Bxf6
+Qxf6 15. Rhe1 h5 16. Nxe6 Be7 17. Bxb5+ axb5 18. Nc7+ Kf8 19. Rd8+ Bxd8 20.
+Re8# 1-0

@@ -1,0 +1,17 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Martinovic, Slobodan"]
+[Black "Minic, Dragoljub"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "a7193085"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. Re1 Nbd7 10. Bg5 h6 11. Bxf6 Nxf6 1/2-1/2

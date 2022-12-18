@@ -1,0 +1,17 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Sek"]
+[Black "Dzieciolowski"]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "560bf6ff"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. Nge2 d6 6. O-O Bg4 7. h3 Bd7 8.
+Kh2 h5 9. d3 h4 10. gxh4 Ng4+ 11. Kg1 Qxh4 12. d4 exd4 13. Nd5 d3 14. Qxd3
+Nxf2 15. Rxf2 Qxf2+ 16. Kh1 Bg4 0-1
+

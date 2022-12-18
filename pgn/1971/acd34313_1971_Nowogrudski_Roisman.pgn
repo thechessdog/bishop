@@ -1,0 +1,19 @@
+[Event "Liepaia"]
+[Site "Liepaia"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Nowogrudski"]
+[Black "Roisman"]
+[Result "0-1"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "acd34313"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 Qc7 10. Qe2 dxc4 11. Bxc4 e5 12. Nxe5 Nxe5 13. dxe5 Qxe5
+14. Bd3 Rd8 15. Rd1 Be6 16. f4 Qc7 17. h3 c4 18. Bc2 Rxd1+ 19. Qxd1 Bd5 20.
+Bd2 Rd8 21. Qe1 Be4 22. Bd1 Qc6 23. g4 Qd5 24. Ra2 Bh1 25. Qe2 Ne4 26. Qh2
+Nxc3 0-1
+

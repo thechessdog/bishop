@@ -1,0 +1,18 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kosenkov, V."]
+[Black "Zsinzs, E."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "10335865"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
+Qe2 Nc6 9. Be3 Na5 10. O-O-O Nxb3+ 11. cxb3 Qa5 12. Kb1 Bd7 13. g4 g6 14.
+f3 b5 15. Qd2 Rc8 16. h4 h5 17. g5 Nh7 18. e5 d5 19. f4 Bb4 20. Nde2 Bc5
+21. Bxc5 Rxc5 22. f5 O-O 23. fxg6 fxg6 24. Nf4 Kg7 25. b4 1-0
+

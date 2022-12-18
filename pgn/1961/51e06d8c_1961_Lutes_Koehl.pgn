@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Lutes, W."]
+[Black "Koehl"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "51e06d8c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1
+d6 8. Bxf7+ Kxf7 9. Ne5+ Ke8 10. Qh5+ g6 11. Nxg6 Nd7 12. Nxh8+ Ke7 13.
+Qf7# 1-0
+

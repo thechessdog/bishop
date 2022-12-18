@@ -1,0 +1,16 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Sutiman"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[HashCode "2d992c53"]
+[Epoch "Bishop"]
+[WhiteCountry "ROU"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. Nf3 Bg4 6. Be2 dxe5 7. c5 e4 8. cxb6
+exf3 9. Bxf3 Bxf3 10. Qxf3 Nc6 11. O-O e6 12. Nc3 axb6 13. d5 exd5 14. Nxd5 Ra5
+15. Re1+ Be7 16. Nxe7 Nxe7 17. Bg5 Rxg5 18. Rad1 Qc8 19. Qe3 1-0

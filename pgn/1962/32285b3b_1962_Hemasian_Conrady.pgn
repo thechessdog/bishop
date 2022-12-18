@@ -1,0 +1,19 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Hemasian"]
+[Black "Conrady, Alphonse"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "32285b3b"]
+[Epoch "Bishop"]
+[BlackID "4000846"]
+[BlackCountry "LUX"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Be3 Bb4+ 7. c3 Be7 8.
+O-O d6 9. f4 O-O 10. g4 e5 11. Nxc6 bxc6 12. f5 d5 13. Nd2 Kh8 14. Bc2 Ba6 15.
+Rf2 d4 16. cxd4 exd4 17. Bg5 d3 18. Bb3 Bc5 19. e5 Bxf2+ 20. Kxf2 Qd4+ 21. Be3
+Nxg4+ 0-1

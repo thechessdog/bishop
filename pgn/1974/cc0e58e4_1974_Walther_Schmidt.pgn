@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Schmidt, Jan Peter"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "cc0e58e4"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. Be3 Qb6 5. Nd2 Nf6 6. Rb1 c5 7. exd5 exd5 8. Qe2
+c4 9. g3 Be7 10. Qd1 O-O 11. Ne2 Re8 12. Bg1 Nc6 13. Bg2 Bf5 14. a3 Bd6 15. Nf1
+Qa5+ 16. Kf2 Rxe2+ 17. Kxe2 Re8+ 18. Kf2 Nxd4 19. Ne3 Rxe3 0-1

@@ -1,0 +1,18 @@
+[Event "Club Argentino"]
+[Site "Buenos Aires"]
+[Date "1975.01.01"]
+[Round "10"]
+[White "Cuasnicu, Oscar"]
+[Black "Schweber, Samuel"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "8bcdad4e"]
+[Epoch "Bishop"]
+[WhiteID "100390"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 Be7
+8. Qe2 O-O 9. Bg5 c5 10. dxc5 Qa5+ 11. c3 Qxc5 12. O-O Rd8 1/2-1/2

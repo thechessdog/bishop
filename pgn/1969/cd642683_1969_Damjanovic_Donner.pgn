@@ -1,0 +1,18 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1969.01.01"]
+[Round "4"]
+[White "Damjanovic, Mato"]
+[Black "Donner, Jan Hein"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "cd642683"]
+[Epoch "Bishop"]
+[WhiteCountry "HRV"]
+[BlackCountry "NLD"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 Nbd7 8. e5
+dxe5 9. dxe5 Ne8 10. Bf4 Nc7 11. Qc1 Ne6 12. Bh6 Qa5 13. Bxg7 Kxg7 14. Qe3 Qb4
+15. Rfb1 a5 16. Ne4 Ndc5 17. Ng3 Qf4 18. Qa3 Qb4 19. Qe3 Qf4 1/2-1/2

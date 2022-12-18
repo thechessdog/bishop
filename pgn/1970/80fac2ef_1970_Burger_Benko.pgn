@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Burger, Karl"]
+[Black "Benko, Pal"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "80fac2ef"]
+[Epoch "Bishop"]
+[BlackID "2000687"]
+[BlackCountry "HUN"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. Be2 O-O 8. O-O
+Nc6 9. h3 dxc4 10. Bxc4 b6 11. a3 e6 12. Bg5 h6 13. Bf4 Bb7 14. Ba2 Ne7 15. Be5
+Nf5 16. Nh2 Rc8 17. Rc1 Qd7 18. Qd3 Rfd8 19. Rfd1 Nh5 20. Qe2 Bxe5 21. dxe5 Qc6
+22. Rxd8+ Rxd8 23. Qf1 Nf4 24. Nf3 Nd4 25. Nxd4 Rxd4 26. Rd1 Rxd1 27. Nxd1 Ba6
+0-1

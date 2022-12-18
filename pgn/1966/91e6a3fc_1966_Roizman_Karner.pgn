@@ -1,0 +1,21 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Roizman, Abram"]
+[Black "Karner, Hillar"]
+[Result "1-0"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "91e6a3fc"]
+[Epoch "Bishop"]
+[BlackID "4500202"]
+[BlackCountry "EST"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bc5 5. Bg2 d6 6. d3 Nd4 7. Nxd4 exd4 8. b4
+Bb6 9. Na4 O-O 10. O-O Re8 11. Bb2 c6 12. Nxb6 Qxb6 13. Qd2 a5 14. a3 Bg4 15.
+Rfe1 axb4 16. axb4 c5 17. b5 Nd7 18. e3 dxe3 19. Qxe3 Be6 20. Qg5 f6 21. Bxf6
+Nxf6 22. Rxa8 Rxa8 23. Rxe6 Ra1+ 24. Bf1 Qd8 25. Qf4 d5 26. Qe5 Rb1 27. Re7
+dxc4 28. Rxb7 Rxf1+ 29. Kxf1 Qxd3+ 30. Kg2 h5 31. Qe6+ Kh8 32. Rc7 c3 33. b6 c2
+34. Rxc5 Kh7 35. b7 1-0

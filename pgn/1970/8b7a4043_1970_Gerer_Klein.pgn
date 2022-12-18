@@ -1,0 +1,19 @@
+[Event "FRG-ch"]
+[Site "Voelklingen"]
+[Date "1970.??.??"]
+[Round "14"]
+[White "Gerer, Sepp"]
+[Black "Klein, Manfred"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "8b7a4043"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. c3 d6 3. g3 Nf6 4. Bg2 g6 5. Ne2 Bg7 6. O-O O-O 7. d3 Nc6 8. h3
+Rb8 9. a4 a6 10. Be3 b5 11. axb5 axb5 12. Nd2 Ne5 13. d4 Ned7 14. b4 cxb4
+15. cxb4 Nb6 16. Qb3 d5 17. Bf4 Rb7 18. Bg5 Nxe4 19. Nxe4 dxe4 20. Bxe4 Be6
+21. Qf3 Bd5 22. Be3 Bxe4 23. Qxe4 Qd5 24. Nc3 Qxe4 25. Nxe4 Rbb8 26. Nc5
+Ra8 27. Kg2 Rxa1 28. Rxa1 Ra8 29. Rxa8+ Nxa8 30. Kf3 Nb6 1/2-1/2
+

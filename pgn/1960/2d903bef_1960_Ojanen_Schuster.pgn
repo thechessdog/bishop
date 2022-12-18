@@ -1,0 +1,23 @@
+[Event "Nijmegen"]
+[Site "Nijmegen"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Ojanen, Kaarle Sakari"]
+[Black "Schuster, Theo"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "2d903bef"]
+[Epoch "Bishop"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 Bxc3+ 6. bxc3 d6 7. e4 O-O 8. Bd3
+Nbd7 9. Ne2 Ne5 10. O-O Re8 11. Bg5 h6 12. Bxf6 Qxf6 13. f4 Ng4 14. h3 exd5 15.
+cxd5 Ne3 16. Qa4 Re7 17. Rf3 c4 18. Rxe3 cxd3 19. Rxd3 Bd7 20. Qd4 Bb5 21. Rg3
+Kf8 22. Qxf6 gxf6 23. Nd4 Bd7 24. Re3 Rc8 25. f5 Rc4 26. Rb1 b6 27. Kf2 Re8 28.
+Rb3 Ke7 29. Nf3 Ra4 30. a3 Rc8 31. Nd2 b5 32. Rd3 Rac4 33. Re3 R4c5 34. Nf3 a5
+35. Nd4 a4 36. Rb2 Rxc3 37. Nc6+ R3xc6 38. dxc6 Rxc6 39. Kf3 Rc5 40. g4 Bc6 41.
+Rb4 Kd7 42. Rd4 Kc7 43. Kg3 d5 44. exd5 Bxd5 45. Kh4 Kd6 46. Kh5 Rc8 47. Kxh6
+Kc5 48. Rd2 Bc4 49. Kg7 b4 50. axb4+ Kxb4 51. h4 a3 52. h5 a2 53. Rxa2 Bxa2 54.
+h6 Kc5 55. h7 Kd4 56. Re7 Bd5 57. h8=Q Rxh8 58. Kxh8 Bf3 59. Kg7 1-0

@@ -1,0 +1,23 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1973.01.01"]
+[Round "9"]
+[White "Van der Weide, Piet"]
+[Black "Kurajica, Bojan"]
+[Result "0-1"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "72a11df1"]
+[Epoch "Bishop"]
+[WhiteID "1001370"]
+[WhiteCountry "NED"]
+[BlackID "14400057"]
+[BlackCountry "BIH"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 a6 7. f4 Na5 8. Qf3
+b5 9. Bd3 Bb7 10. Bf2 Nc4 11. Bxc4 Qxc4 12. Qd3 Rc8 13. O-O Nf6 14. e5 Ng4 15.
+Ne4 Qd5 16. Rae1 f5 17. exf6 Nxf6 18. Nxf6+ gxf6 19. Qh3 Rg8 20. Nf3 Rxc2 21.
+Bg3 h6 22. f5 e5 23. Qh4 Rg5 24. Kh1 Rxf5 25. a4 b4 26. b3 Qxb3 27. Qd4 Rxf3
+28. Rxe5+ fxe5 29. Qxe5+ Qe6 30. Qh5+ Rf7 31. Re1 Bxg2+ 32. Kg1 Bc5+ 33. Qxc5
+Qxe1+ 0-1

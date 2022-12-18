@@ -1,0 +1,17 @@
+[Event "Rio de Janeiro"]
+[Site "Rio de Janeiro"]
+[Date "1952.04.15"]
+[Round "1"]
+[White "Vasconcelos, Fernando"]
+[Black "De Souza Mendes, Joao"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "3ee1c6f9"]
+[Epoch "Bishop"]
+[BlackCountry "BRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Be7 8. Bg5
+Nbd7 9. h3 h6 10. Be3 b5 11. Nd5 Bb7 12. Qd3 Nxd5 13. exd5 Nf6 14. Qb3 Bxd5 15.
+c4 Be6 16. a4 bxc4 17. Bxc4 d5 18. Rd1 Qa5+ 19. Bd2 dxc4 20. Qb7 Qd5 0-1

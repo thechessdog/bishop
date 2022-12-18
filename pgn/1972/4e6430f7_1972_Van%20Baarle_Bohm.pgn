@@ -1,0 +1,28 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1972.06.01"]
+[Round "8"]
+[White "Van Baarle, John"]
+[Black "Bohm, Hans"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "4e6430f7"]
+[Epoch "Bishop"]
+[BlackID "1000306"]
+[BlackCountry "NED"]
+[WhiteID "1000691"]
+[WhiteCountry "NED"]
+
+1. Nf3 g6 2. d4 Bg7 3. e4 Nf6 4. Nc3 d6 5. Be2 O-O 6. O-O c6 7. a4 Bg4 8. Be3
+Nbd7 9. Qd2 e5 10. h3 Bxf3 11. Bxf3 Qc7 12. Rad1 Rad8 13. dxe5 dxe5 14. Qd6
+Qxd6 15. Rxd6 Nb6 16. Rxd8 Rxd8 17. Be2 Bf8 18. f3 Ne8 19. a5 Nc8 20. Na4 Nc7
+21. Nc5 b6 22. axb6 axb6 23. Nd3 f6 24. Ra1 Be7 25. g4 g5 26. Nf2 b5 27. Nh1
+Kf7 28. Ng3 Ke8 29. Kf1 Ne6 30. Ra6 Kd7 31. Ke1 Kc7 32. c3 Bc5 33. Bc1 Nf4 34.
+Bf1 Kb7 35. Ra2 Nb6 36. b4 Be7 37. Be3 Na4 38. Bxf4 exf4 39. Ne2 Nb6 40. Rd2
+Bd6 41. Nc1 Kc7 42. Kd1 Ra8 43. Ra2 Rxa2 44. Nxa2 Nc4 45. Bxc4 bxc4 46. Nc1 Kb6
+47. Ne2 Be5 48. Kc2 Kb5 49. Kb2 Bd6 50. Nd4+ Kb6 51. Nf5 Kc7 52. h4 gxh4 53.
+Nxh4 Be5 54. Nf5 Kd7 55. Nd4 Kd6 56. Nc2 c5 57. bxc5+ Kxc5 58. Nb4 Kd6 59. Kc2
+Ke6 60. Nd5 Kd6 61. Nb6 Kc5 62. Nd7+ Kd6 63. Nf8 Ke7 64. Nxh7 Kf7 65. g5 Kg6
+66. Nxf6 Kxg5 67. Nd7 Bc7 68. Kd2 Kh4 69. e5 Kg3 70. e6 1-0

@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Pruess, J."]
+[Black "Butler, D."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "4d7a7423"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 d5 4. exd5 exd4 5. Bb5+ c6 6. Qe2+ Be7 7. dxc6
+bxc6 8. Bc4 O-O 9. O-O Bg4 10. c3 c5 11. cxd4 cxd4 12. Bg5 Nc6 13. Nbd2 Re8
+14. Rac1 Rc8 15. Ba6 Rc7 16. Qc4 Be6 17. Qa4 Bd7 18. Bb5 Nd5 19. Rxc6 Bxc6
+20. Bxc6 1-0
+

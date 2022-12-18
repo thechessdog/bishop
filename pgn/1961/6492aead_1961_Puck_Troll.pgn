@@ -1,0 +1,16 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Puck"]
+[Black "Troll"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "6492aead"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 d6 3. d4 e5 4. dxe5 Nc6 5. exd6 Bxd6 6. e5 Nxe5 7. Bf4 Qe7
+8. Bxe5 Bxe5 9. Nd5 Bc3# 0-1
+

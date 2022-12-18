@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Schmidt, H."]
+[Black "Hilpmann, W."]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "5f4a50f1"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3 Nc6 5. Ngf3 Nf6 6. e5 Nd7 7. b3 Be7 8.
+Bd3 O-O 9. Qc2 f5 10. a3 b6 11. h3 a5 12. Bb2 Bb7 13. g4 g6 14. O-O-O cxd4
+15. c4 Ncxe5 16. Nxd4 Nxd3+ 17. Qxd3 Nc5 18. Qe3 e5 19. Rhe1 e4 20. gxf5
+Nd3+ 21. Kb1 Bg5 22. Qg3 Nxb2 23. Kxb2 Qf6 0-1
+

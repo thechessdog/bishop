@@ -1,0 +1,17 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Zeidaks, A."]
+[Black "Atars, O."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "67937e9a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 d6 4. d4 e4 5. Ng5 Bxf5 6. g4 Bd7 7. Bc4 Nf6 8.
+Nf7 Qe7 9. g5 Nc6 10. gxf6 Qxf6 11. Nxh8 Nxd4 12. Qh5+ g6 13. Qxh7 O-O-O
+14. Nd2 Nxc2+ 15. Kd1 Nxa1 16. Rg1 Qxf2 17. Qxg6 e3 18. Nf1 Bf5 19. Qg2
+Bc2# 0-1
+

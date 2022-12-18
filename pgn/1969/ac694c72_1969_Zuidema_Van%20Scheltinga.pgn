@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "2"]
+[White "Zuidema, Coen"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "ac694c72"]
+[Epoch "Bishop"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. f4
+Nc6 9. Nxc6 bxc6 10. Nd2 e5 11. b3 exf4 12. Bb2 Bg4 13. Qf2 Be7 14. Qxf4 Be6
+15. Kh1 O-O 16. e5 Nh5 17. Qf3 g6 18. exd6 Bxd6 19. Ne4 Be5 20. Bxe5 Qxe5 21.
+Rae1 Qc7 22. Nc5 Bd5 23. Qf2 f5 24. Qh4 Qd6 25. Qe7 Ng3+ 26. hxg3 Qxg3 27. Ne4
+fxe4 28. Bxe4 Bxe4 29. Qxe4 Qc3 30. Qe6+ Kg7 31. Qe7+ Kg8 32. Qe6+ Kg7 33. Qe7+
+Kg8 34. Rxf8+ Rxf8 35. Qe6+ Kg7 36. Qe5+ Qxe5 37. Rxe5 Kf6 38. Rc5 Rc8 39. Ra5
+Ra8 40. c4 Ke6 41. b4 Kd6 1/2-1/2

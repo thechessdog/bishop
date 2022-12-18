@@ -1,0 +1,21 @@
+[Event "Steinheim"]
+[Site "Steinheim"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Sandmann, Bernd"]
+[Black "Buchenthal, Dieter"]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "de699c1e"]
+[Epoch "Bishop"]
+[WhiteID "4665945"]
+[WhiteCountry "GER"]
+[BlackID "4605349"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. bxa5 dxc3 8. Qg4
+Ne7 9. Qxg7 Rg8 10. Qxh7 Nbc6 11. Nf3 Qc7 12. Bb5 Bd7 13. Bg5 O-O-O 14. O-O
+Nxe5 15. Nxe5 Bxb5 16. Nxf7 Bxf1 17. Nxd8 Rxg5 18. Nxe6 Rxg2+ 19. Kh1 Qe5 20.
+Rxf1 Qxe6 21. Kxg2 Qg4+ 1/2-1/2

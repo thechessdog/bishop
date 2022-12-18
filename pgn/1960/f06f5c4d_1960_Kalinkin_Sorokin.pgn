@@ -1,0 +1,18 @@
+[Event "Krasnodar"]
+[Site "Krasnodar"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Kalinkin"]
+[Black "Sorokin"]
+[Result "1/2-1/2"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "f06f5c4d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+Be2 b4 9. Na4 Be7 10. Bf3 Ra7 11. O-O Bd7 12. b3 Bxa4 13. bxa4 Qb6 14. Kh1
+h6 15. Bh4 Nxe4 16. Nxe6 Nc3 17. Qe1 Bxh4 18. Nxg7+ Kf8 19. Qxh4 Kxg7 20.
+Qg4+ Kf8 21. Qc8+ 1/2-1/2
+

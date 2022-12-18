@@ -1,0 +1,17 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Goldobow"]
+[Black "Kanadin"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Kiel variation"]
+[HashCode "c9398026"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb4 5. Qa4+ N8c6 6. d5 b5 7. Qxb5
+Nc2+ 8. Kd1 Bd7 9. dxc6 Bg4+ 10. Kxc2 Qd1+ 11. Kc3 Qxc1+ 12. Kb3 Bd1+ 13.
+Kb4 a5+ 14. Kc5 e5+ 15. Kd5 Rd8+ 16. Kxe5 Bd6+ 17. Kd5 Bc5+ 0-1
+

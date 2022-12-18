@@ -1,0 +1,24 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Peck, J."]
+[Black "Ocasio, T."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "fe657074"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O a6 8.
+Qe2 Nge7 9. Rd1 Ng6 10. Be3 Be7 11. Na4 b5 12. Bb6 Qd7 13. Nc5 dxc5 14.
+Rxd7 Bxd7 15. Bb3 Rb8 16. Bc7 Rb7 17. Bg3 c4 18. Bc2 e5 19. Rd1 Bg4 20. Qe3
+Nd4 21. Rxd4 exd4 22. Qxd4 O-O 23. Ne5 Rd8 24. Qe3 Nxe5 25. Bxe5 Rbd7 26.
+h3 Be6 27. Qg3 f6 28. Bc3 b4 29. Be1 Kh8 30. e5 b3 31. axb3 cxb3 32. Be4
+Rd1 33. f4 Bb4 34. exf6 Rxe1+ 35. Kh2 gxf6 36. Qh4 Kg7 37. Qxh7+ Kf8 38.
+Qh8+ Ke7 39. Qg7+ Bf7 40. Bg6 Rf8 41. g4 Re2+ 42. Kg3 Rxb2 43. g5 Bc3 44.
+h4 Rd2 45. h5 b2 46. h6 Bd4 47. h7 f5 48. h8=Q Bxg7 49. Qxg7 b1=Q 50. Qe5+
+Kd8 51. Qa5+ Ke7 52. Qc5+ Rd6 53. Qc7+ Rd7 54. Qc5+ Kd8 55. Qxf8+ Kc7 56.
+Qc5+ Kb7 57. Bxf5 Qe1+ 58. Kg4 Qe2+ 59. Kh4 Qh2+ 60. Kg4 Bh5# 0-1
+

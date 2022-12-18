@@ -1,0 +1,23 @@
+[Event "corr WER/K"]
+[Site "corr WER/K"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Letic, S."]
+[Black "Krzyszton, J."]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "67b709fa"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6
+8. Be2 c5 9. d5 e6 10. Bg5 h6 11. Bxf6 Bxf6 12. e5 Bg7 13. O-O-O Qa5 14. a3
+Bd7 15. Qe4 Nc7 16. dxe6 Bxe6 17. Qa4 Qxa4 18. Nxa4 Nd5 19. g3 Ne7 20. Rd2
+b6 21. Re1 Rad8 22. Bb5 g5 23. Nc3 Rxd2 24. Kxd2 Rd8+ 25. Kc2 Ng6 26. Bd3
+g4 27. Bxg6 fxg6 28. Nd2 Bf5+ 29. Kc1 Kf7 30. Nb5 h5 31. Nd6+ Ke6 32. Nxf5
+Kxf5 33. f4 gxf3 34. Nxf3 g5 35. Kc2 Re8 36. b4 Bxe5 37. Kb3 Re7 38. bxc5
+bxc5 39. Nxe5 Rxe5 40. Rc1 Ke6 41. Rc2 Kd5 42. Rd2+ Ke4 43. Kc4 Kf3 44. Kb5
+g4 45. Rd3+ Kg2 46. Rd2+ Kg1 47. Rc2 Rf5 48. a4 Rf2 49. Rc1+ Kxh2 50. Rxc5
+h4 51. gxh4 g3 0-1
+

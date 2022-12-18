@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Cheremisin, Felix"]
+[Black "Kantorovich, B."]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "f6b25640"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. e4 d5 3. exd5 c6 4. Nc3 cxd5 5. fxe5 d4 6. Ne4 Qd5 7. Qe2 Nc6
+8. Nf3 Bg4 9. c4 dxc3 10. dxc3 O-O-O 11. Bf4 Nxe5 12. Bxe5 Bxf3 13. Qxf3
+Qxe5 14. Be2 f5 15. Nd2 g6 16. Nc4 Qc7 17. a4 Nf6 18. a5 Ne4 19. O-O Bc5+
+20. Kh1 a6 21. b4 Ba7 22. Rab1 h5 23. b5 Bc5 24. bxa6 h4 25. Qxe4 fxe4 26.
+Rxb7 Qxb7 27. axb7+ Kxb7 28. h3 Rhf8 29. Rb1+ Ka7 30. Ne5 Rd6 31. a6 Rf2
+32. Bg4 e3 33. Re1 e2 34. Kh2 Rf1 35. Nf3 Bf2 0-1
+

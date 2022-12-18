@@ -1,0 +1,17 @@
+[Event "Poland ch13"]
+[Site "Poland ch13"]
+[Date "1955.01.01"]
+[Round "14"]
+[White "Dworzynski, Roman"]
+[Black "Pytlakowski, Andrzej"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[HashCode "45e096c2"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 d5 6. Ne5 Nbd7 7. Qa4 c5 8. cxd5
+Nxd5 9. dxc5 Bxc5 10. O-O a6 11. Qxd7+ Qxd7 12. Nxd7 Kxd7 13. Rd1 Ke7 14. Bd2
+Rab8 15. Nc3 Nxc3 16. Bxc3 Bxg2 17. Kxg2 f6 18. Rd3 Rhd8 19. Rad1 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Dynamo"]
+[Site "Dynamo"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Konstantinopolsky, Alexander"]
+[Black "er-Krutikhin, Yuri"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "23449c09"]
+[Epoch "Bishop"]
+[WhiteCountry "UKR"]
+
+1. d4 e6 2. Nf3 f5 3. g3 b6 4. Bg2 Bb7 5. O-O Nf6 6. c4 Be7 7. d5 O-O 8. Nd4
+Ne4 9. dxe6 c5 10. Nxf5 Rxf5 11. Qc2 Re5 12. f4 Rxe6 13. f5 Re5 14. Bf4 Qc7 15.
+Nc3 Nxc3 16. Bxe5 Qxe5 17. Bxb7 Nxe2+ 18. Kh1 Nc6 19. Bxa8 Ned4 20. Qg2 1-0

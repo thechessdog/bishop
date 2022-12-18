@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Mueller, S."]
+[Black "Doerfel"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "feb0e1c0"]
+[Epoch "Bishop"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Bb4 4. Nf3 c5 5. e3 Nc6 6. cxd5 Qxd5 7. Bd2 Bxc3
+8. Bxc3 cxd4 9. Nxd4 Nxd4 10. Qxd4 Qxd4 11. Bxd4 f6 12. O-O-O b6 13. Bb5+
+Kf7 14. Bc3 Ne7 15. Bb4 a6 16. Ba4 b5 17. Bb3 Ra7 18. e4 a5 19. Bc3 a4 20.
+Bc2 Nc6 21. Rd6 Rc7 22. Kb1 Rd8 23. e5 Ke7 24. Rhd1 Bb7 25. Ba5 Nxa5 26.
+exf6+ Kxf6 27. Rxd8 Bxg2 28. R1d7 Rxd7 29. Rxd7 h6 30. Bd3 Nc4 31. Bxc4
+bxc4 32. Ra7 g5 33. Rxa4 Bd5 34. Kc2 Ke5 35. Kc3 h5 36. Rxc4 g4 37. a4 1-0
+

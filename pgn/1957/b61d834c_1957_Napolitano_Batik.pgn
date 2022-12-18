@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Napolitano, Mariano"]
+[Black "Batik, F."]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "b61d834c"]
+[Epoch "Bishop"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. a3 Bxc3+ 6. bxc3 Nc6 7. Nf3 d6 8. Qc2
+e5 9. d5 Ne7 10. Bd3 O-O 11. Nh4 e4 0-1

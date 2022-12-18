@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Hafner"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "4f8c6d01"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nbd7 7. e5 Ne8 8. Ng5
+dxe5 9. fxe5 Nb6 10. Be3 c6 11. O-O Nc7 12. Nxh7 Ncd5 13. Bd2 Kxh7 14. Rxf7
+Rxf7 15. Qh5+ Kg8 16. Bxg6 Be6 17. Qh7+ Kf8 18. Bh6 Nf6 19. exf6 Qxd4+ 20. Kh1
+Qxf6 21. Qh8# 1-0

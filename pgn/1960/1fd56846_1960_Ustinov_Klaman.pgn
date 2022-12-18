@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Ustinov"]
+[Black "Klaman"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "1fd56846"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 Qf6 8.
+Bxc6+ bxc6 9. hxg4 hxg4 10. Ng5 Qh6 11. f3 Qh2+ 12. Kf2 Qh4+ 13. Ke2 Be7
+14. g3 Qxg3 15. Rg1 Qh2+ 16. Kd3 exd4 17. Rxg4 Nf6 18. Rg1 Nd7 19. Qf1 Ne5+
+20. Kxd4 Qxc2 21. Nc3 Rh2 22. Ke3 Rf2 0-1
+

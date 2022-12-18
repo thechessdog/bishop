@@ -1,0 +1,14 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Lehmann, Heinz Dr"]
+[Black "Schulz, Klaus-Juergen"]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "09a60998"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. c4 d5 2. cxd5 Nf6 3. e4 Nxe4 4. Qa4+ 1-0

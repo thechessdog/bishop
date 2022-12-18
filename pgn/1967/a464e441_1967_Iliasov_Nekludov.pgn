@@ -1,0 +1,16 @@
+[Event "Tashkent"]
+[Site "Tashkent"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Iliasov"]
+[Black "Nekludov"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "a464e441"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. Bc4 Nf6 6. Nc3 O-O 7. O-O b6
+8. e5 Ne8 9. Bxf7+ Kxf7 10. Ne6 Kxe6 11. Qd5+ Kf5 12. g4+ Kxg4 13. Qe4+ 1-0
+

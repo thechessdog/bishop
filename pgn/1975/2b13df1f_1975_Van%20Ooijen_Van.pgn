@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Van Ooijen, Mari"]
+[Black "Van Aurich"]
+[Result "1-0"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "2b13df1f"]
+[Epoch "Bishop"]
+[WhiteID "1038737"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 Nd7 13. Nc4 Ne5 14. Ne3 b6 15. f4
+Nd7 16. Bd3 Ba6 17. Ne2 Bxd3 18. Qxd3 a6 19. Nc4 Qe7 20. e5 b5 21. Nxd6 Reb8
+22. axb5 Nxb5 23. Nxb5 Rxb5 24. Rxa6 1-0

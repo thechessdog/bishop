@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Evrard"]
+[Black "Zielinski"]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "66d8b377"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 b6 4. Bg2 Bb7 5. e3 Nf6 6. d4 exd4 7. exd4 Bb4 8.
+Ne2 O-O 9. O-O h6 10. Qd3 Bxc3 11. Qxc3 d5 12. Nf4 dxc4 13. b3 Re8 14. Bb2
+b5 15. Rfe1 Qd7 16. d5 Ne7 17. bxc4 bxc4 18. Qxc4 Nfxd5 19. Rxe7 Nxe7 20.
+Bxb7 Rab8 21. Qc3 f6 22. Be4 Qb5 23. Ba3 Qe5 24. Qc4+ Kh8 25. Bxe7 Qxa1+
+26. Kg2 Qe1 27. Ng6+ Kh7 28. Ne5+ Kh8 29. Nf7+ Kg8 30. Nxh6+ Kh8 31. Qg8+
+Rxg8 32. Nf7# 1-0
+

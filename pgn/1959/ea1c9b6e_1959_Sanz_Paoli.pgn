@@ -1,0 +1,19 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Sanz"]
+[Black "Paoli, Enrico"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "ea1c9b6e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. a4 Rb8 8. axb5
+axb5 9. d3 d6 10. Bg5 Bg4 11. c3 O-O 12. h3 Be6 13. Nbd2 b4 14. c4 h6 15. Bh4
+g5 16. Bg3 Nh5 17. Nxe5 Nxg3 18. Nxc6 Nxe2 19. Nxd8 Nf4 20. Nxe6 fxe6 21. O-O
+Nxd3 22. Nf3 Nxb2 23. e5 Ra8 24. exd6 cxd6 25. Rxa8 Rxa8 26. Nd2 Ra3 27. g3 Kg7
+28. Kg2 Nd3 29. h4 e5 30. hxg5 hxg5 31. Kf3 Bd4 32. Ke2 Nc5 33. Rb1 Bc3 34. Bc2
+Ra2 35. Kd1 Bxd2 0-1

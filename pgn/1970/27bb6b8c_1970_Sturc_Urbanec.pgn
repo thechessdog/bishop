@@ -1,0 +1,18 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Sturc, Gustav"]
+[Black "Urbanec"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "27bb6b8c"]
+[Epoch "Bishop"]
+[WhiteID "14902303"]
+[WhiteCountry "SVK"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Qg4 f5 6. Qg3 b6 7. a3 Bf8 8. Be2 Ba6
+9. Bd1 Nc6 10. Nf3 Na5 11. Ne2 c5 12. O-O Rc8 13. Re1 Rc7 14. Nf4 Nc6 15. Ng5
+Nd8 16. Nxh7 Nh6 17. Nxf8 Rxf8 18. Bh5+ Rf7 19. Qxg7 1-0

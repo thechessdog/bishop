@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ehmig"]
+[Black "Gualandi"]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, reverse dragon"]
+[HashCode "f5a5242c"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nb6 6. d3 Nc6 7. Nh3 Be7
+8. O-O h5 9. Bxc6+ bxc6 10. Kg2 h4 11. Ng1 hxg3 12. hxg3 Qd6 13. Re1 Bd7
+14. a4 Qg6 15. e4 Qh7 16. Kf1 Qh1 17. Qf3 O-O-O 18. Ke2 Qh5 19. Qxh5 Rxh5
+20. Be3 Rh2 0-1
+

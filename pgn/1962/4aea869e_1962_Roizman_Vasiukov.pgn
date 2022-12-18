@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Roizman, Michael"]
+[Black "Vasiukov, Evgeni"]
+[Result "0-1"]
+[ECO "A32"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "4aea869e"]
+[Epoch "Bishop"]
+[WhiteID "2802953"]
+[WhiteCountry "ISR"]
+[BlackID "4100522"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. e3 Nc6 6. Be2 d5 7. O-O Bd6 8. Nc3
+O-O 9. cxd5 exd5 10. Nxc6 bxc6 11. b3 Qc7 12. g3 h5 13. Bxh5 Bb4 14. Bb2 Qe5
+15. Nxd5 Qxd5 16. Bf3 Ne4 17. Qc2 Bf5 18. Rfd1 Nd2 19. Bxd5 Bxc2 20. Rac1 cxd5
+21. Rxc2 Nf3+ 22. Kf1 Rfc8 23. Rdc1 Rxc2 24. Rxc2 Nxh2+ 25. Ke2 Ng4 26. a3 Be7
+27. Rc7 Bf6 28. Bc1 Be5 29. Rc5 Nf6 30. f4 Ne4 0-1

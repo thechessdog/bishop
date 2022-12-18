@@ -1,0 +1,17 @@
+[Event "Pinamar tt"]
+[Site "Pinamar"]
+[Date "1975.??.??"]
+[Round "4"]
+[White "Moreni, H."]
+[Black "Gruszka, M."]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "8afd90b2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+Qf3 Bb7 9. a3 Be7 10. O-O-O Nbd7 11. Qg3 Qc7 12. e5 dxe5 13. fxe5 Nh5 14.
+Bxe7 Nxg3 15. Bd6 Qxd6 16. exd6 Nxh1 0-1
+

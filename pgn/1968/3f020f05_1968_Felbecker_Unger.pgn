@@ -1,0 +1,17 @@
+[Event "corr ICCF/M"]
+[Site "corr ICCF/M"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Felbecker, H."]
+[Black "Unger, R."]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[HashCode "3f020f05"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Bc5 3. Nf3 Nc6 4. O-O d6 5. b4 Bxb4 6. c3 Bc5 7. d4 exd4 8.
+cxd4 Bb6 9. Nc3 Bg4 10. Bb5 Bxf3 11. Qa4 Bxe4 12. Nxe4 Ne7 13. d5 a6 14.
+Bc4 Bxf2+ 15. Rxf2 b5 16. dxc6 bxc4 17. Bb2 O-O 18. Nf6+ gxf6 19. Bxf6 d5
+20. Qa3 Qd6 21. Qh3 1-0
+

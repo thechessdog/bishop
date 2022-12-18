@@ -1,0 +1,19 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Benediktsson, Benon"]
+[Black "Hecht, Hans-Joachim"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "50df5dae"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. g4 Bg6 6. h4 h6 7. Bxf6 Nxf6 8. e3
+c6 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Nge2 O-O-O 12. O-O-O e6 13. g5 Nd7 14. g6 f6
+15. e4 Bd6 16. h5 Rhe8 17. a4 Kb8 18. Kb1 Qa5 19. Ka2 b5 20. Ra1 bxa4 21. Kb1
+a3 22. Nc1 Qb6 23. Nb3 e5 24. exd5 exd4 25. Na4 Qb5 26. dxc6 Qxa4 27. cxd7 Rxd7
+28. Qxd4 Qxd4 29. Nxd4 Bc5 30. Nb3 axb2 31. Ra4 Bb6 32. Kxb2 Re3 33. f4 Rd5 34.
+c4 Rdd3 35. Rb4 Re2+ 36. Kb1 Ree3 37. Nc5 Rd6 38. Na6+ Kb7 39. c5 Rc6 40. cxb6
+axb6 1-0

@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1971.07.01"]
+[Round "14"]
+[White "Ree, Hans"]
+[Black "Smyslov, Vasily"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "b14710c1"]
+[Epoch "Bishop"]
+[WhiteID "1000098"]
+[WhiteCountry "NED"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 Bg4
+8. h3 Bxf3 9. Qxf3 e6 10. Bc4 Nd5 11. O-O g6 12. Qg3 Bd6 13. Qf3 O-O 14. Re1
+Re8 15. g3 1/2-1/2

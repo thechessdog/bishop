@@ -1,0 +1,17 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Dorman, G."]
+[Black "Dunham, G."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "e2b3422f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. dxe6 fxe6 8.
+cxb5 d5 9. e3 O-O 10. Bd3 d4 11. a3 Ba5 12. b4 cxb4 13. Ne4 bxa3+ 14. Kf1
+Nxe4 15. Bxe4 Qxh4 16. f4 dxe3 17. g3 Rxf4+ 18. Nf3 Qh3+ 19. Kg1 Rxe4 0-1
+

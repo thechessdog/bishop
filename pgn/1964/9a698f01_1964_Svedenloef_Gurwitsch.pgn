@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Svedenloef, E."]
+[Black "Gurwitsch, A."]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "9a698f01"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8.
+a4 b4 9. a5 d5 10. exd5 e4 11. dxc6 Bg4 12. d3 exf3 13. gxf3 Bh5 14. Nd2
+Bd6 15. Qe3 Nd5 16. Bxd5 Qh4 17. Re1 Bf4 18. Qc5 Qxh2+ 19. Kf1 Rae8 20. Be4
+Bxd2 21. Bxd2 Rxe4 22. Qg5 Bxf3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Foguelman, Alberto"]
+[Black "Jimenez Zerquera, Eleazar"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "ef0f5447"]
+[Epoch "Bishop"]
+[WhiteID "101435"]
+[WhiteCountry "ARG"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. a3 Nc6 5. d4 cxd4 6. Nxd4 Qc7 7. Nb3 Nf6 8. Be3
+Be7 9. Be2 d6 10. O-O b5 11. f4 Bb7 12. Qe1 b4 13. axb4 Nxb4 14. Nb5 axb5 15.
+Qxb4 O-O 16. Bd3 d5 17. Bc5 Rxa1 18. Rxa1 Bxc5+ 19. Nxc5 dxe4 1/2-1/2

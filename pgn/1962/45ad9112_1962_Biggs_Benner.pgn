@@ -1,0 +1,16 @@
+[Event "Columbus,OH (116)"]
+[Site "Columbus,OH (116)"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Biggs, D."]
+[Black "Benner, G."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Bertin gambit"]
+[HashCode "45ad9112"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O d5 7. Bxd5 c6
+8. Bxf7+ Kf8 9. Bxg8 Kxg8 10. Qe2 Bg4 11. Qc4+ 1-0
+

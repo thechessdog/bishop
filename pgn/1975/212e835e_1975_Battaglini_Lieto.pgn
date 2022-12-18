@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Battaglini"]
+[Black "Lieto"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "212e835e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 b5 7. Nd5 e6 8.
+Nxf6+ Qxf6 9. c4 e5 10. Nxb5 axb5 11. Qd5 Ra7 12. Be3 Rb7 13. cxb5 Qd8 14.
+b6 Be7 15. Bb5+ Nd7 16. a4 O-O 17. a5 Nf6 18. Qc6 d5 19. a6 Bb4+ 20. Ke2 d4
+21. axb7 Bxb7 22. Qxb7 Nh5 23. Rhd1 Bc5 24. Ra8 Qxa8 25. Qxa8 Rxa8 26. b7
+Rf8 27. Bd2 Nf4+ 28. Kf1 Ng6 29. Rc1 Bd6 30. Rc6 1-0
+

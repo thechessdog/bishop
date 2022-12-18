@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Cardiff"]
+[Black "Bristol"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Nimzovich variation"]
+[HashCode "85d8c7c4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Bb5+ c6 5. dxc6 bxc6 6. Ba4 Qd4 7. c3 Qd6
+8. Ne2 Bg4 9. O-O Qd3 10. Re1 Bc5+ 11. Kf1 Qf3+ 12. gxf3 Bh3# 0-1
+

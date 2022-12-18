@@ -1,0 +1,16 @@
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "Herrmann, Michael"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian gambit"]
+[HashCode "e378a047"]
+[Epoch "Bishop"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. dxc6 Nxc6 5. d3 e5 6. Nc3 Bc5 7. Bg5 O-O 8.
+Ne4 Nxe4 9. Bxd8 Bxf2+ 10. Ke2 Nd4# 0-1

@@ -1,0 +1,23 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Schreyer, W."]
+[Black "Gebuhr, G."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "e4bb1772"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. O-O O-O 9. Bb3 Bd7 10. f4 a6 11. Qe2 Qa5 12. Rad1 Nxd4 13. Bxd4 e5 14.
+fxe5 dxe5 15. Nd5 exd4 16. Nxe7+ Kh8 17. Nf5 Rae8 18. Nd6 Bg4 19. Qd2 Qxd2
+20. Rxd2 Nxe4 21. Rxd4 Nxd6 22. Rxd6 Re7 23. Rxf7 Rexf7 24. Bxf7 g6 25. Bc4
+Rc8 26. Bd3 Rc7 27. Kf2 Kg7 28. h3 Bc8 29. Ke3 Kf7 30. Kf4 Ke7 31. Rb6 Rc5
+32. h4 Rh5 33. Be4 Rxh4+ 34. Ke3 Kd7 35. a4 Rh5 36. b4 a5 37. b5 Rh1 38.
+Kd4 Kc7 39. Rf6 Ra1 40. Kc5 Rxa4 41. Rf7+ Kd8 42. c4 Be6 43. Rxh7 Rxc4+ 44.
+Kd6 Rxe4 45. Rh8+ Bg8 46. Rxg8+ Re8 47. Rxg6 a4 48. Rg4 Re2 49. Rxa4 Rd2+
+50. Kc5 Rxg2 51. Kb6 1-0
+

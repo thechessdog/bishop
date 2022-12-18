@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Vasilev"]
+[Black "Ustinov, Georgy I"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein; Rubinstein counter-gambit"]
+[HashCode "2b2cd919"]
+[Epoch "Bishop"]
+[BlackID "4104293"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. d4 e6 5. Nc3 Nc6 6. Nxd5 exd5 7. Bd3 c4 8. Be2
+d6 9. O-O h6 10. b3 b5 11. a4 Qb6 12. axb5 Qxb5 13. Ba3 dxe5 14. Bxf8 Rxf8 15.
+bxc4 dxc4 16. d5 Ne7 17. Nxe5 Qxd5 18. Bf3 Qxd1 19. Rfxd1 1-0

@@ -1,0 +1,16 @@
+[Event "Dayton op"]
+[Site "Dayton op"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Pythyon, J."]
+[Black "Martin, H."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "e40641ee"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qh3 Qh4 10. Bxf5 1-0
+

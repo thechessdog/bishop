@@ -1,0 +1,23 @@
+[Event "ACM Boston"]
+[Site "ACM Boston"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Chess 3 6"]
+[Black "Tech"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "8c82ae69"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nc3 d6 6. Bxc6+ bxc6 7. d4
+exd4 8. Nxd4 O-O 9. Bg5 Bg4 10. Qd3 Bxd4 11. Qxd4 Rb8 12. Bxf6 Qxf6 13.
+Qxf6 gxf6 14. b3 Rb4 15. h3 Be6 16. g4 Rd4 17. Rad1 Rxd1 18. Nxd1 Kg7 19.
+Ne3 Kg6 20. f4 Kg7 21. Kg2 Rb8 22. Kf3 Rb5 23. c4 Ra5 24. f5 Bd7 25. Rf2
+Re5 26. Rd2 a6 27. h4 c5 28. Nd5 Bc6 29. Nxc7 Bxe4+ 30. Kf4 h5 31. gxh5 a5
+32. Rxd6 Bxf5 33. h6+ Kg6 34. h5+ Kxh5 35. Rxf6 Re2 36. Kxf5 Rf2+ 37. Ke5
+Rh2 38. Nd5 Kg5 39. Nc3 Rh4 40. Rxf7 Kxh6 41. Ne4 Rh5+ 42. Kd6 Kg6 43. Ra7
+a4 44. Rxa4 Kf7 45. Ra7+ Kg6 46. a4 Rf5 47. a5 Rf3 48. Rb7 Kf5 49. Nxc5 Rc3
+50. a6 Rh3 51. a7 1-0
+

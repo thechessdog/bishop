@@ -1,0 +1,18 @@
+[Event "corr ch11-BRD"]
+[Site "corr ch11-BRD"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Widenmann, A."]
+[Black "Walter, H."]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, reverse dragon"]
+[HashCode "5082d0a9"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Be6 6. Nf3 Nc6 7. O-O Nb6
+8. d3 Be7 9. Be3 f5 10. Na4 g5 11. Bc5 f4 12. Rc1 Bd5 13. e4 Bf7 14. g4 h5
+15. h3 hxg4 16. hxg4 Be6 17. Bxe7 Qxe7 18. Rxc6 bxc6 19. Nxe5 Qb4 20. b3
+Nxa4 21. bxa4 Qc3 0-1
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Cucullu"]
+[Black "Nail"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "27ebda03"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bg4 6. Bc4 h6 7. O-O e6
+8. Be3 Be7 9. Qe1 Nbd7 10. Rd1 O-O 11. h3 Bh5 12. Qg3 Bg6 13. Bd3 Nh5 14.
+Qf2 c6 15. g4 Bxd3 16. Rxd3 Nhf6 17. g5 hxg5 18. Nxg5 Qe8 19. Qh4 Qd8 20.
+Nce4 b6 21. Nxf6+ Nxf6 22. Rxf6 Re8 23. Qh7+ Kf8 24. Qh8# 1-0
+

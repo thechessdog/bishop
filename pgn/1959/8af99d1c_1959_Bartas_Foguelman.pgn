@@ -1,0 +1,18 @@
+[Event "Buenos Aires-ch"]
+[Site "Buenos Aires"]
+[Date "1959.??.??"]
+[Round "5"]
+[White "Bartas"]
+[Black "Foguelman, Alberto"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "8af99d1c"]
+[Epoch "Bishop"]
+[BlackID "101435"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3
+h5 9. Qh3 cxd4 10. Ne2 dxc3 11. Bxf5 exf5 12. Qg3 Rg8 13. O-O d4 14. Bg5 Qb6
+15. Rab1 Qc5 16. Nxd4 f6 17. Bxf6 Kf7 18. Qh4 gxf6 19. Qxh5+ Kg7 20. Rxb7+ 1-0

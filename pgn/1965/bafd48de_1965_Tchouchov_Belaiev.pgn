@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Tchouchov"]
+[Black "Belaiev"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Marshall gambit"]
+[HashCode "bafd48de"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4
+Qxe4+ 8. Be2 Na6 9. Bc3 Ne7 10. Bxg7 Rg8 11. Bc3 Nd5 12. cxd5 Qxg2 13. Bf1
+Qxh1 14. Nf3 exd5 15. Qe2+ Be6 16. O-O-O O-O-O 17. Bh3 Qxd1+ 18. Qxd1 Bxh3
+19. Qd3 Be6 20. Be5 c5 21. Qxh7 d4 22. h4 Nb4 23. Ng5 Rg6 24. Kd2 c4 25.
+Nxf7 c3+ 26. bxc3 dxc3+ 27. Kxc3 Nxa2+ 28. Kb2 Rd2+ 29. Ka3 Rd3+ 30. Kb2
+Rb3+ 31. Kxa2 Rb1+ 32. Ka3 Bxf7 33. Bf6 Rb3+ 0-1
+

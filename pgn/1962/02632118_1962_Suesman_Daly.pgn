@@ -1,0 +1,25 @@
+[Event "Haverhill"]
+[Site "Haverhill"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Suesman"]
+[Black "Daly"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[HashCode "02632118"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Nf6
+8. Bg5 Be7 9. Bxf6 Bxf6 10. Nc4 Be7 11. Ne3 Be6 12. Be2 O-O 13. O-O Rc8 14.
+Ncd5 Bg5 15. g3 Bxe3 16. Nxe3 Nd4 17. Bd3 Bh3 18. Re1 Qf6 19. Be2 Qg6 20.
+c3 Nxe2+ 21. Qxe2 Qxe4 22. Rad1 Bd7 23. f3 Qg6 24. Nd5 Rfe8 25. Nb6 Rcd8
+26. Nxd7 Rxd7 27. Qc4 Qe6 28. Rd5 Rdd8 29. Qb3 Qe7 30. Qb6 Rd7 31. Red1 Qd8
+32. Qe3 Re6 33. c4 b6 34. Qa3 a5 35. Qe3 h6 36. Rb5 Qc7 37. b3 Rf6 38. Kg2
+d5 39. Rbxd5 Rxd5 40. Rxd5 Re6 41. c5 bxc5 42. Rxc5 Qb6 43. Qc3 Qa6 44. Kf2
+e4 45. Rxa5 e3+ 46. Ke1 Qb7 47. Ke2 Rf6 48. Qxe3 Re6 49. Re5 Qa6+ 50. Ke1
+Qxa2 51. Rxe6 fxe6 52. Qxe6+ Kf8 53. Qd6+ Kf7 54. b4 Qxh2 55. b5 Qg1+ 56.
+Ke2 Qg2+ 57. Ke3 Qg1+ 58. Ke4 Qe1+ 59. Kd5 Qd1+ 60. Kc6 Qc2+ 61. Kb7 Qb3
+62. Qd7+ Kf8 63. Qc6 Qf7+ 64. Kb8 h5 65. Qc8+ 1-0
+

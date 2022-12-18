@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Korzin, Vitaly"]
+[Black "Sokolov, Sergey"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "4d0e8cbf"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 Nd5 7. Ne2 e6
+8. O-O Be7 9. f4 c5 10. Ng3 Nc7 11. Nh5 Nb6 12. Bd3 g6 13. dxc5 Bxc5+ 14.
+Kh1 gxh5 15. Nxf7 Qh4 16. Nxh8 Bd7 17. Qf3 Ke7 18. Be3 Bxe3 19. Qxe3 Rxh8
+20. Qe5 Rc8 21. f5 Ne8 22. fxe6 Bxe6 23. Rf4 Nd7 24. Qxe6+ Kxe6 25. Rxh4
+Ndf6 26. Re1+ Kf7 27. Rf4 1-0
+

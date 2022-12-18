@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Shteinberg, M."]
+[Black "Zhidkov, Valery S"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "ba32d68c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. e5 Nc6 6. Qa4 Nd5 7. Qe4 Ndb4 8.
+a3 d5 9. Qe2 Na6 10. b4 Nc7 11. Bb2 Bg7 12. g3 Bg4 13. Nbd2 Ne6 14. O-O-O Bh6
+15. Qd3 Qb6 16. h3 Bf5 17. Qe2 Rc8 18. Qb5 Qxf2 19. Be2 O-O 20. Rh2 Qe3 21. Qa4
+Ncd4 22. Nxd4 Nxd4 0-1

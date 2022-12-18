@@ -1,0 +1,20 @@
+[Event "Beverwijk"]
+[Site "Beverwijk"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "van Scheltinga, Theo Daniel"]
+[Black "Rossolimo, Nicolas"]
+[Result "1-0"]
+[ECO "A98"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with Qc2"]
+[HashCode "ab720fd4"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteCountry "NLD"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. Qc2
+Qh5 9. e4 e5 10. dxe5 dxe5 11. Nd5 Nc6 12. Nxe5 Nxd5 13. Nxc6 bxc6 14. exd5 f4
+15. Bxf4 Rxf4 16. gxf4 Bd6 17. dxc6 Kh8 18. Rad1 Bf5 19. Qc1 Be7 20. Rd5 Qg6
+21. Qe3 Bf6 22. b3 h5 23. Qg3 Qh7 24. Re1 h4 25. Qe3 Qg6 26. Kh1 Bg4 27. f3 Bh5
+28. Qc5 1-0

@@ -1,0 +1,17 @@
+[Event "corr DDR-USSR"]
+[Site "corr DDR-USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Vladut, G."]
+[Black "Bidulescu, C."]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "closed Berlin defence, Wolf variation"]
+[HashCode "f130db62"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 exd4 7. Nxd4 Nxd4
+8. Qxd4 Bxb5 9. Nxb5 a6 10. e5 axb5 11. exf6 gxf6 12. Re1+ Kd7 13. Qd5 Be7
+14. Qxf7 Re8 15. Bh6 Kc8 16. Re3 Qd7 17. Rae1 Kd8 18. Bg7 1-0
+

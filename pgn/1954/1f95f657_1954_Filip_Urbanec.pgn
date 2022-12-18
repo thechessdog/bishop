@@ -1,0 +1,19 @@
+[Event "CSR-ch"]
+[Site "Prague"]
+[Date "1954.01.01"]
+[Round "13"]
+[White "Filip, Miroslav"]
+[Black "Urbanec, Karel"]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "1f95f657"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8. a3
+cxd4 9. exd4 dxc4 10. Bxc4 Be7 11. Bg5 Nd5 12. Bxe7 Ncxe7 13. Qd3 Nxc3 14. bxc3
+Ng6 15. Rfe1 Bd7 16. Ne5 Rc8 17. Ba2 Nxe5 18. Rxe5 Bc6 19. Rae1 Qd6 20. c4 Rfd8
+21. d5 exd5 22. cxd5 Bd7 23. h4 Rc1 24. Rxc1 Qxe5 25. Qc4 Qe8 26. Qb4 b6 27.
+Re1 Qf8 28. Re7 a5 29. Qe4 Bf5 30. Qe5 Be6 31. Rc7 Bc8 32. d6 Re8 33. Qxe8 1-0

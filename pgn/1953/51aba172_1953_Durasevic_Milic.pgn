@@ -1,0 +1,18 @@
+[Event "JUG-ch"]
+[Site "Zagreb"]
+[Date "1953.01.01"]
+[Round "16"]
+[White "Durasevic, Bozidar"]
+[Black "Milic, Borislav"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "51aba172"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Nbd7 10. Rc1 b5 11. Nd5 Nxd5 12. Qxd5 Rb8 13. Qd2 Nf6 14. Bf3 Bb7
+15. Qd3 d5 16. exd5 Bxd5 17. Bxd5 Qxd5 18. Qxd5 Nxd5 1/2-1/2

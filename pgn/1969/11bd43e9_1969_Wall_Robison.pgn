@@ -1,0 +1,16 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Robison"]
+[Result "1-0"]
+[ECO "B53"]
+[Opening "Sicilian, Chekhover variation"]
+[HashCode "11bd43e9"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Bg5 Qa5+
+8. Nc3 e5 9. Qc4 Rc8 10. O-O-O Bd7 11. Qb3 b5 12. Nxe5 dxe5 13. Rxd7 Kxd7 14.
+Qxf7+ Kc6 15. Qd5+ Kc7 16. Nxb5+ Kb8 17. Qxe5+ Ka8 18. Qd5+ Kb8 19. Bf4+ 1-0

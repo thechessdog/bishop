@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kristjansson, Olafur"]
+[Black "Sigurjonsson, Bjorn"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "09ec36b3"]
+[Epoch "Bishop"]
+[WhiteID "2300656"]
+[BlackID "2302187"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bd6 7. Nf3 Nbd7 8. O-O
+c6 9. e4 dxc4 10. Bxc4 e5 11. Bg5 h6 12. Bh4 g5 13. Bg3 Qe7 14. Qd3 Nh5 15.
+dxe5 Nxe5 16. Bxe5 Bxe5 17. Nxe5 Qxe5 18. Rad1 Bg4 19. f3 Be6 20. Bxe6 Qxe6 21.
+Qd7 Qb3 22. Qh3 Qxb2 23. Na4 Qxa3 24. Qxh5 Kg7 25. f4 Qxa4 26. fxg5 Qxe4 27.
+gxh6+ Kh8 28. Rxf7 Rxf7 29. Qxf7 Qe3+ 30. Kh1 Qxh6 31. Qxb7 Rg8 32. Qxa7 Qg6
+33. Qd4+ Kh7 34. Qh4+ Kg7 35. Rd7+ Kf8 36. Qd8+ Qe8 37. Qf6+ 1-0

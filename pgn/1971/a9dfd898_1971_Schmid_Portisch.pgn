@@ -1,0 +1,22 @@
+[Event "Adelaide"]
+[Site "Adelaide"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Schmid, Lothar Maximilian Lorenz"]
+[Black "Portisch, Lajos"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "a9dfd898"]
+[Epoch "Bishop"]
+[BlackID "700037"]
+[BlackCountry "HUN"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nc6 7. Bg2 Nf6 8. O-O
+Be7 9. Re1 d6 10. Nxc6 bxc6 11. e5 dxe5 12. Rxe5 Bb7 13. Bf4 Bd6 14. Rg5 Bxf4
+15. gxf4 Rd8 16. Qe2 Qxf4 17. Rxg7 Rd2 18. Qf3 Qxf3 19. Bxf3 Rxc2 20. Na4 Ke7
+21. Rd1 Rb8 22. Rd3 c5 23. Kg2 Kf8 24. Rg5 Ne4 25. Rh5 Ke7 26. Kf1 c4 27. Bxe4
+cxd3 28. Bxd3 Rd2 29. Be2 Bc6 30. Nc3 Rbxb2 31. Ke1 Rdc2 32. Rc5 Kd6 33. Rc4
+Rxe2+ 0-1

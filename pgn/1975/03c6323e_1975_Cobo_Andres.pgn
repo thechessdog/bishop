@@ -1,0 +1,18 @@
+[Event "Cienfuegos B"]
+[Site "Cienfuegos B"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Cobo, E."]
+[Black "Andres, Miguel"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "03c6323e"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "EST"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bxc6 bxc6 7. e5 Ng6 8.
+b3 Be7 9. Ba3 f6 10. d4 cxd4 11. Bxe7 Qxe7 12. Qxd4 O-O 13. Nbd2 fxe5 14. Nxe5
+Nh4 15. Ne4 Nf5 16. Qc3 Bb7 17. Nc5 d6 18. Nxb7 Qxb7 1/2-1/2

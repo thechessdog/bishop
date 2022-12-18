@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "French"]
+[Black "Rothman, S."]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "915862dd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6
+8. Qe2+ Be6 9. Ng5 O-O 10. Nxe6 Qb6 11. Bxc6 Qxc6 12. Nxg7 Rae8 13. Nxe8
+Rxe8 14. Qxe8+ Qxe8+ 15. Kf2 Qe4 16. Nc3 Ng4+ 17. Kf1 Qxc2 0-1
+

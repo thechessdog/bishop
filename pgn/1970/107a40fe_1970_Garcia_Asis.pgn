@@ -1,0 +1,20 @@
+[Event "Cordoba"]
+[Site "Cordoba"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Asis"]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Opovcensky variation"]
+[HashCode "107a40fe"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. d4 d5 5. e3 O-O 6. Bd2 b6 7. cxd5 Nxd5 8. Bc4
+Nf6 9. O-O Bb7 10. Qe2 c5 11. dxc5 bxc5 12. Rfd1 Qc7 13. Rac1 Nbd7 14. Ba6 Bc6
+15. Bb5 Rab8 16. b3 Rfd8 17. Bxc6 Qxc6 18. Be1 Nb6 19. Qb5 Qxb5 20. Nxb5 Rxd1
+21. Rxd1 a6 22. Nc7 c4 23. Nxa6 Ra8 24. Nb4 cxb3 25. axb3 Ne4 26. Nc6 Bf6 27.
+Ba5 Nc8 28. Nd2 Nxd2 29. Rxd2 Nd6 30. f3 Ra6 31. Rc2 Nb5 32. Rc5 Nd6 33. b4 Nb7
+34. Rc2 Nxa5 35. bxa5 Kf8 36. Kf1 e6 37. Ke2 Ke8 38. Kd3 Bd8 39. Rc5 Bc7 40.
+Kc4 Bd6 41. Kb5 Bxc5 42. Kxa6 1-0

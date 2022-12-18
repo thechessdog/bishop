@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Osterling, G."]
+[Black "Bjuhr, A."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "a0c5130f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O Bg6 7. e4 dxe4
+8. d5 h6 9. Bh4 Qb6 10. dxc6 bxc6 11. Nxe4 Bxe4 12. fxe4 Rb8 13. Bxf6 Nxf6
+14. Qd4 e6 15. Qxb6 axb6 16. Bd3 Ng4 17. Nh3 Bc5 18. Be2 Ne3 19. Rd3 Nxg2
+20. Rg3 Nh4 21. Rxg7 Ng6 22. Rf1 Rb7 23. Bh5 Bd4 24. Rgxf7 Rxf7 25. Bxg6
+O-O 26. Bxf7+ Rxf7 27. Rxf7 Kxf7 28. a4 Be5 29. b4 Bxh2 30. a5 Ke7 31. a6
+Bb8 32. e5 Kd7 33. Nf4 b5 34. Kd2 Kc7 35. Nxe6+ Kb6 36. Nc5 Ka7 37. e6 Bd6
+38. c3 Be7 39. Ke3 h5 40. Kf4 h4 41. Kg4 Kb6 42. Nd7+ Kxa6 43. Ne5 Kb6 44.
+Ng6 Kc7 45. Nxe7 Kd6 46. Ng6 Kxe6 47. Kf3 Kd5 48. Ne7+ Kd6 49. Nf5+ Ke5 50.
+Nxh4 Kd5 51. Ke3 Kc4 52. Kd2 c5 53. bxc5 Kxc5 54. Kd3 b4 55. c4 1-0
+

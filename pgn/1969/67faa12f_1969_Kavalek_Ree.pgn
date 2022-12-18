@@ -1,0 +1,18 @@
+[Event "Eersel"]
+[Site "Eersel"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Kavalek, Lubomir"]
+[Black "Ree, Hans"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "67faa12f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 b5 8. Ba2
+Bb7 9. O-O Nbd7 10. Qe2 Rc8 11. f3 Qc7 12. Kh1 Nb6 13. Bg5 Nc4 14. Bxf6 gxf6
+15. Bxc4 Qxc4 16. Qe3 Qc5 17. Qd3 Qc4 18. Qd2 Qc5 19. f4 Bh6 20. Rad1 b4 21.
+axb4 Qxb4 22. Qe1 Qxb2 23. Nd5 exd5 24. exd5+ Kd7 25. Rb1 Qxd4 26. Rxb7+ Rc7
+27. Rxc7+ Kxc7 28. Qe7+ Kc8 29. Rb1 f5 30. Qxd6 1-0

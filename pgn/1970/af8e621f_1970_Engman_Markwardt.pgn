@@ -1,0 +1,17 @@
+[Event "corr BDGW1"]
+[Site "corr BDGW1"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Engman, T."]
+[Black "Markwardt, K."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "af8e621f"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. d5 Bb4 5. Bd2 Nf6 6. Bc4 c6 7. dxc6 Nxc6
+8. Nge2 Bg4 9. h3 Bxe2 10. Qxe2 Nd4 11. Qd1 Qc7 12. Bb5+ Ke7 13. Ba4 Qa5
+14. Bb3 Rhd8 15. a3 Bxc3 16. Bxc3 Qa6 17. Bb4+ Ke8 18. Bd2 Nxb3 19. cxb3 e3
+20. fxe3 Ne4 0-1
+

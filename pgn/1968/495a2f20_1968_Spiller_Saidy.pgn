@@ -1,0 +1,18 @@
+[Event "Santa Monica"]
+[Site "Santa Monica"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Spiller"]
+[Black "Saidy"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "accelerated Averbakh system"]
+[HashCode "495a2f20"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 c5 6. d5 b5 7. cxb5 a6 8. Nf3
+Nbd7 9. Nd2 O-O 10. bxa6 Qb6 11. Nc4 Qb8 12. Be2 Bxa6 13. Qd2 Bxc4 14. Bxc4
+Qb4 15. Bd3 Ne5 16. Ke2 Nxd3 17. Kxd3 Nxe4 18. Nxe4 Qd4+ 19. Ke2 Qxe4+ 20.
+Kf1 Rfb8 21. Re1 Qc4+ 22. Qe2 Qxd5 0-1
+

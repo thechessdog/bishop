@@ -1,0 +1,16 @@
+[Event "Mulcahy op"]
+[Site "Mulcahy"]
+[Date "1974.01.01"]
+[Round "3"]
+[White "Noone, J."]
+[Black "Muldoon, P."]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "53af3540"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 b4 12. Nd5 Nxd5 13. exd5 Bxg5 14. dxe6
+Ne5 15. exf7+ Qxf7 16. Qxa8 Qxf4+ 17. Kb1 O-O 18. Rf1 Bg4 19. Qd5+ 1-0

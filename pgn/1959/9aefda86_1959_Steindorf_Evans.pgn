@@ -1,0 +1,15 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Steindorf, Annelore"]
+[Black "Evans, Henry"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "9aefda86"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. cxd5 Qxd5 5. Nf3 Bb4+ 6. Nc3 Ne4 7. Bd2 Nxd2
+8. Nxd5 Nxf3# 0-1
+

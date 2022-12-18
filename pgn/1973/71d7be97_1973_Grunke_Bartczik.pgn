@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Grunke, G."]
+[Black "Bartczik, U."]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "71d7be97"]
+[Epoch "Bishop"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 d5 4. cxd5 Bg7 5. Nc3 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Bc4 Nc6 9. Be3 cxd4 10. Nxd4 O-O 11. O-O Qc7 12. Nxc6 Qxc6 13. Bd5 Qxc3
+14. Rc1 Qb4 15. Bc5 Qb2 16. Bxe7 Re8 17. Rc7 Qe5 18. Bxf7+ 1-0
+

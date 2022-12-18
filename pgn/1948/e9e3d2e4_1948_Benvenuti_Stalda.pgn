@@ -1,0 +1,20 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Benvenuti, Carlo"]
+[Black "Stalda"]
+[Result "0-1"]
+[ECO "A53"]
+[Opening "Old Indian defence"]
+[HashCode "e9e3d2e4"]
+[Epoch "Bishop"]
+[WhiteID "803120"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. d5 Be7 6. Nf3 Nf8 7. g3 Ng6 8. Bg2
+Bd7 9. h3 Qc8 10. Be3 O-O 11. Qd2 c6 12. Rc1 c5 13. a4 a6 14. b3 Bd8 15. Qb2
+Ba5 16. Nd2 Nh5 17. Bf3 Nhf4 18. gxf4 exf4 19. Nf1 fxe3 20. fxe3 Ne5 21. Qe2 f5
+22. Kd2 fxe4 23. Bxe4 Bf5 24. Ng3 Bxe4 25. Nxe4 Qf5 26. Nxd6 Qg6 27. Nxb7 Rf2
+28. Qxf2 Qd3+ 29. Ke1 Bxc3+ 30. Rxc3 Qxc3+ 31. Ke2 Qc2+ 32. Kf1 Rf8 33. Qxf8+
+Kxf8 34. Nxc5 Qd1+ 0-1

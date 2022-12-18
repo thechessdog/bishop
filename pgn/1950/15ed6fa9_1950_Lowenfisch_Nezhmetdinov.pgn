@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Levenfish, Grigory"]
+[Black "Nezhmetdinov, Rashid"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "15ed6fa9"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. d4 exd4 11. cxd4 Bg4 12. Nc3 Nb6 13. Be3 Nc4 14. Rc1 Nb4
+15. Qe2 Na5 16. Bc2 Nxc2 17. Rxc2 Nc4 18. b3 Nb6 19. Ne4 Nd5 20. Bd2 Re8 21.
+Qd3 f6 22. h3 Bh5 23. Nh4 Bf8 24. Rcc1 Qd7 25. Ng3 Bf7 26. Qf5 Qxf5 27. Nhxf5
+Rxe1+ 28. Bxe1 a5 29. a4 b4 30. Ne4 Re8 31. Nfg3 Nf4 32. Rb1 Ne6 33. Nf5 Bg6
+34. g4 Bxf5 35. gxf5 Nxd4 36. Ng3 Nxb3 37. Bxb4 axb4 38. Rxb3 c5 39. Nf1 c4 40.
+Rb1 c3 41. Rc1 Bc5 0-1

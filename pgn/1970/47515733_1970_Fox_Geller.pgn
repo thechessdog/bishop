@@ -1,0 +1,21 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "7"]
+[White "Fox, Maurice"]
+[Black "Geller, Uzi"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "47515733"]
+[Epoch "Bishop"]
+[BlackID "2800489"]
+[BlackCountry "ISR"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 b6 7. a3 Be7 8. O-O
+Bb7 9. cxd5 exd5 10. Ng3 Re8 11. Bd2 c5 12. dxc5 bxc5 13. Bb5 Nc6 14. Rc1 Qb6
+15. Be2 Ne5 16. Na4 Qc6 17. f3 c4 18. Nf5 Bf8 19. Nd4 Qd7 20. b4 Nc6 21. Re1
+Nxd4 22. exd4 Bc6 23. Nc3 a5 24. Rb1 axb4 25. axb4 Reb8 26. b5 Bxb5 27. Nxb5
+Rxb5 28. Qc2 Rab8 29. Rxb5 Qxb5 30. Bf4 Qb2 31. Qf5 Qxd4+ 32. Kh1 Re8 33. Bg3
+Qd2 0-1

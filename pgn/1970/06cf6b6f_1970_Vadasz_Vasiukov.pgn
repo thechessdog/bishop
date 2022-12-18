@@ -1,0 +1,15 @@
+[Event "Budapest tt"]
+[Site "Budapest tt"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Vadasz"]
+[Black "Vasiukov, Evgeni"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[Opening "King's Indian defence, 3.Nc3"]
+[HashCode "06cf6b6f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bf4 d6 6. e3 c5 7. Be2 cxd4 8. exd4
+Bg4 9. h3 Bxf3 10. Bxf3 Qb6 11. Qb3 Nc6 12. Qxb6 axb6 13. Be3 Nd7 14. O-O-O e5
+15. dxe5 Ndxe5 16. Bd5 1/2-1/2

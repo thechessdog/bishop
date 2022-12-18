@@ -1,0 +1,17 @@
+[Event "Brno"]
+[Site "Brno"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Lastovicka"]
+[Black "Vykydal, Frantisek"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Maroczy variation"]
+[HashCode "d9afd165"]
+[Epoch "Bishop"]
+[BlackID "301744"]
+[BlackCountry "CZE"]
+
+1. e4 Nf6 2. d3 e5 3. g3 d5 4. Nd2 Bc5 5. Bg2 dxe4 6. dxe4 Bxf2+ 7. Kxf2 Ng4+
+8. Kf3 Qf6+ 9. Ke2 Qf2+ 10. Kd3 Qd4+ 11. Ke2 Qe3+ 12. Kf1 Qf2# 0-1

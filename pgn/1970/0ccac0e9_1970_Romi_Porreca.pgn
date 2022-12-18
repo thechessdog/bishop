@@ -1,0 +1,21 @@
+[Event "Genova"]
+[Site "Genova"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Romi"]
+[Black "Porreca"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "0ccac0e9"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. h3 O-O 5. Nbd2 c5 6. e3 cxd4 7. exd4 Nc6
+8. c3 d6 9. Nc4 Nd5 10. Bg5 h6 11. Bd2 e5 12. dxe5 dxe5 13. Be2 Be6 14. O-O
+Qc7 15. Re1 e4 16. Nh2 f5 17. Ne3 Nxe3 18. Bxe3 Be5 19. Nf1 f4 20. Bc5 Rfd8
+21. Qa4 Bf5 22. Rad1 Kh7 23. Bb5 Bf6 24. Bxc6 Qxc6 25. Qb4 b6 26. Be7 Rxd1
+27. Rxd1 Re8 28. Bxf6 Qxf6 29. Qb5 Re5 30. Qe2 f3 31. gxf3 Bxh3 32. fxe4
+Bg4 33. f3 Bxf3 34. Rd7+ Kh8 35. Qh2 Rg5+ 36. Ng3 h5 37. Qh4 Be2 38. Qh3
+Bg4 0-1
+

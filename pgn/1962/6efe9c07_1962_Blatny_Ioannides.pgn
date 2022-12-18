@@ -1,0 +1,19 @@
+[Event "Varna olm"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "8"]
+[White "Blatny, Frantisek"]
+[Black "Ioannides, Milton"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "6efe9c07"]
+[Epoch "Bishop"]
+[WhiteID "300764"]
+[WhiteCountry "CZE"]
+[BlackID "404527"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Bc4 Nc6 4. c3 d6 5. Nf3 h6 6. O-O a6 7. a4 e5 8. dxe5
+Nxe5 9. Nxe5 Bxe5 10. f4 Bg7 11. Qb3 Qe7 12. e5 h5 13. exd6 cxd6 14. Bd2 Be6
+15. Re1 1-0

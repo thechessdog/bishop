@@ -1,0 +1,25 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Karner, Hillar"]
+[Black "Roizman, Abram"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "6657f319"]
+[Epoch "Bishop"]
+[WhiteID "4500202"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bg5
+h6 9. Bh4 g5 10. Bg3 Nh5 11. Bb5+ Kf8 12. Be2 Nxg3 13. fxg3 Nd7 14. O-O Ne5 15.
+Nxe5 Bxe5 16. Bg4 Kg7 17. Bxc8 Rxc8 18. Qf3 Rf8 19. Kh1 Qe7 20. Rae1 Rce8 21.
+Nd1 Bd4 22. g4 f6 23. b3 Qd7 24. g3 Re5 25. Nf2 Bxf2 26. Rxf2 Qf7 27. h4 Qd7
+28. h5 b5 29. Kg2 a6 30. Kh3 Qe7 31. Kg2 c4 32. bxc4 bxc4 33. Rb1 Rc8 34. Qc3
+Rf8 35. Qxc4 Rxe4 36. Qxa6 Rf7 37. Rb8 Re1 38. Qd3 Qe4+ 39. Qxe4 Rxe4 40. Rd8
+Rxg4 41. Rxd6 Ra4 42. Re6 g4 43. d6 Rd4 44. Rfe2 Rd5 45. R2e4 Rd2+ 46. Kf1 f5
+47. Rg6+ Kf8 48. Re2 Rd3 49. Rxh6 Rxg3 50. Rh8+ Kg7 51. Re7 Rd3 52. Rd8 Rh3 53.
+Rde8 Rxe7 54. Rxe7+ Kf8 55. Rh7 f4 56. Rh8+ Kg7 57. d7 g3 58. Rb8 Rh1+ 59. Kg2
+Rh2+ 60. Kg1 1-0

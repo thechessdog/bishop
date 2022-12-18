@@ -1,0 +1,19 @@
+[Event "Minden"]
+[Site "Minden"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Steger"]
+[Black "Manner, Martin"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "6a006efb"]
+[Epoch "Bishop"]
+[BlackID "4615050"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Bxc3+ 6. bxc3 d6 7. Ne2 e5 8.
+Ng3 Nc6 9. O-O Re8 10. f3 b6 11. Bc2 Na5 12. c5 Ba6 13. Re1 exd4 14. cxd4 dxc5
+15. dxc5 Qe7 16. Bb2 Qxc5 17. Bxf6 Rxe3 18. Qd4 Rxe1+ 19. Rxe1 Qxc2 20. Bxg7
+Qg6 21. Bf6 c5 22. Qe5 Bb5 23. Nf5 Nc6 24. Qe8+ 1-0

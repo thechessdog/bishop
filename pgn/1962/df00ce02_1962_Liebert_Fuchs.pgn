@@ -1,0 +1,26 @@
+[Event "DDR-12ch"]
+[Site "Gera"]
+[Date "1962.??.??"]
+[Round "2"]
+[White "Liebert, Heinz"]
+[Black "Fuchs, Andreas"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "df00ce02"]
+[Epoch "Bishop"]
+[WhiteID "4611438"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Kf8 8. Bd3
+Qa5 9. Bd2 Qa4 10. Kd1 Nbc6 11. Nf3 h6 12. h4 c4 13. Be2 b5 14. Kc1 Rb8 15. Kb2
+Qa5 16. Rhb1 Qc7 17. Kc1 Bd7 18. h5 Nc8 19. Nh4 N6e7 20. Qf3 Ke8 21. g4 Nb6 22.
+Qh3 Na4 23. f4 Qc8 24. Kd1 Rf8 25. Ke1 a6 26. Kf1 f6 27. Kg1 Qc7 28. Rf1 f5 29.
+Kh2 Rf7 30. Rg1 Kf8 31. Rg2 Rb7 32. Rag1 fxg4 33. Bxg4 Nf5 34. Bxf5 exf5 35.
+Rg6 Rb6 36. Qg2 Be6 37. Rxe6 Rxe6 38. Qxd5 Qc6 39. Ng6+ Ke8 40. Qxc6+ Rxc6 41.
+d5 Rc8 42. Rd1 Rd8 43. d6 Kd7 44. Rg1 Re8 45. Kg2 Nc5 46. Be3 Ne6 47. Kf3 Rb8
+48. Bf2 Re8 49. Bh4 Nc5 50. Ne7 Ne6 51. Nd5 Kc6 52. Rd1 Ra8 53. Be7 Rb8 54. Bh4
+Rbb7 55. Ne7+ Kd7 56. Ke3 Rb8 57. Ng6 Rc8 58. Be7 Rb8 59. Nh4 a5 60. Rb1 Nc5
+61. Ra1 Rb7 62. Nf3 Ne6 63. Nd4 Nxd4 64. Kxd4 Kc6 65. e6 Rfxe7 66. dxe7 Rxe7
+67. Ke5 Rb7 68. Kxf5 Kd6 69. Rd1+ Ke7 70. Rd7+ Rxd7 71. exd7 1-0

@@ -1,0 +1,18 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Sauermann, W."]
+[Black "Cording, H."]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Simagin variation"]
+[HashCode "4744bee5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Nb8 10. d4 Nbd7 11. Nh4 g6 12. Bh6 Re8 13. f4 Bf8 14. Bg5 h6
+15. Nxg6 hxg5 16. fxg5 Nh7 17. Qh5 Re6 18. Bxe6 fxe6 19. Nxf8 Nhxf8 20. Rf1
+Qe7 21. Nd2 Qg7 22. Rf2 exd4 23. cxd4 Qxd4 24. Qf7+ Kh8 1-0
+

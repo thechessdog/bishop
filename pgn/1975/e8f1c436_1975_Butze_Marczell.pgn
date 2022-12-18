@@ -1,0 +1,17 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Butze, Roland"]
+[Black "Marczell, P."]
+[Result "1/2-1/2"]
+[ECO "C93"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Smyslov defence"]
+[HashCode "e8f1c436"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 h6 10. d4 Re8 11. Be3 Bf8 12. Nbd2 Bd7 13. Qb1 Na5 14. Bc2 c5 15. b4
+Nb7 16. d5 Qc7 17. a4 cxb4 18. cxb4 a5 19. bxa5 Rxa5 20. Rc1 1/2-1/2

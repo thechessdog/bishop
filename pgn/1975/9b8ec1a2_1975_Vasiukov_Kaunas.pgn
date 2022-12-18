@@ -1,0 +1,22 @@
+[Event "URS-chT"]
+[Site "Riga"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Vasiukov, Evgeni"]
+[Black "Kaunas, Kestutis"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "9b8ec1a2"]
+[Epoch "Bishop"]
+[WhiteID "4100522"]
+[WhiteCountry "RUS"]
+[BlackID "12800139"]
+[BlackCountry "LTU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Re1 Bg4 9. c3 f5 10. h3 Bxf3 11. gxf3 Nf6 12. Bxf5 O-O 13. f4 Bd6 14. Be3 Qe8
+15. Nd2 Ne4 16. Bxe4 dxe4 17. Qg4 Rf6 18. f5 Qf7 19. Nxe4 Rxf5 20. Rad1 Rf8 21.
+b3 b5 22. Kh1 Ne7 23. Rg1 Ng6 24. Ng5 Qd5+ 25. Rg2 R8f6 26. Ne4 Rf8 27. Ng5
+R8f6 28. Ne4 Rf8 1/2-1/2

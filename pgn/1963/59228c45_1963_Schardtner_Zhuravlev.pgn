@@ -1,0 +1,16 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Schardtner, A."]
+[Black "Zhuravliov, Valerij"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "59228c45"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nf6 5. exf5 Bc5 6. O-O O-O 7. Nxe5 Nd4 8.
+Nf3 c6 9. b4 Nxf3+ 10. Qxf3 Bxb4 11. Bd3 d5 12. Bb2 Ne8 13. Rae1 Qg5 14. Nxd5
+cxd5 15. Qxd5+ Kh8 16. Qb5 Be7 17. f4 1-0

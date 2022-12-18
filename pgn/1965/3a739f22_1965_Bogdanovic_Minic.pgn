@@ -1,0 +1,19 @@
+[Event "Titograd"]
+[Site "Titograd"]
+[Date "1965.01.01"]
+[Round "4"]
+[White "Bogdanovic, Rajko"]
+[Black "Minic, Dragoljub"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "3a739f22"]
+[Epoch "Bishop"]
+[WhiteID "14400316"]
+[WhiteCountry "BIH"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Nbd7 7. f4 g6 8. f5
+Bg7 9. a4 Qa5 10. O-O d5 11. exd5 Nxd5 12. Nxd5 Qxd5 13. c3 Ne5 14. Bg5 Nc6 15.
+Nxc6 Qxc6 16. Bd3 1/2-1/2

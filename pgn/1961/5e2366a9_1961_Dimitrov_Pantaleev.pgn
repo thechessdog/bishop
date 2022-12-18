@@ -1,0 +1,18 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Dimitrov, Vladimir"]
+[Black "Pantaleev, Dimitar"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "5e2366a9"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. d3 Bf6 11. Qe4 Nde7 12. g4 Bb7 13. g5 Qc8 14. Re1 Nd4 15.
+cxd4 Bxe4 16. Rxe4 Qh3 17. gxf6 gxf6 18. Ne1 Kh8 19. Re3 Rg8+ 20. Rg3 Nf5 21.
+Bxf7 Nxd4 22. Nd2 Ne2+ 23. Kh1 Nxg3+ 24. fxg3 Rxg3 25. Be6 Rag8 26. Bxg8 Rxg8
+27. b3 Qe3 28. Ndf3 Qf2 0-1

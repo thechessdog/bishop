@@ -1,0 +1,20 @@
+[Event "Rio Hondo Tch-ARG"]
+[Site "Rio Hondo Tch-ARG"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Fernandez, Alb"]
+[Black "Santillan"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "e62c8c1e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nfd7 11. f4 Na6 12. Bf3 Rb8 13. a4 Nb4 14. Nb5
+Nb6 15. a5 a6 16. Nxd6 Qxd6 17. axb6 Qxb6 18. Nc4 Qd8 19. e5 h5 20. Nd6 Rf8
+21. Be3 b6 22. Nxc8 Qxc8 23. d6 Qf5 24. Qe2 a5 25. Bd2 Nc2 26. Be4 Nd4 27.
+Qd3 Qd7 28. Bc3 Nc6 29. Qd5 Nd8 30. Bxg6 Qg4 31. Be4 Qe6 32. f5 Qxd5 33.
+Bxd5 Re8 34. e6 1-0
+

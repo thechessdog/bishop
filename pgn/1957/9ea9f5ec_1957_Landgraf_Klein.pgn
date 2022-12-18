@@ -1,0 +1,16 @@
+[Event "Karl-Marx-Stadt"]
+[Site "Karl-Marx-Stadt"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Landgraf, Manfred"]
+[Black "Klein"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "9ea9f5ec"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Nc3 e5 5. cxd5 Bxf3 6. gxf3 exd4 7. dxc6
+dxc3 8. cxb7 cxb2 9. Qa4+ Ke7 10. Bxb2 Rb8 11. Qe4+ 1-0
+

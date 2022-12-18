@@ -1,0 +1,21 @@
+[Event "URS-chT"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Bykhovsky, Anatoly A"]
+[Black "Bebchuk, Evgeni"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "a3f64de3"]
+[Epoch "Bishop"]
+[WhiteID "4101669"]
+[WhiteCountry "RUS"]
+[BlackID "4104919"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nc3 d6 3. e4 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. hxg6 dxc3 10. gxf7+ Rxf7 11. Ng5 cxb2 12. Bc4 Nxe5 13. Qh5 Qa5+ 14. Kf1
+d5 15. Bxb2 Rxf4+ 16. Nf3 dxc4 17. Bc1 Rf6 18. Qxh7+ Kf8 19. Bh6 Bxh6 20. Rxh6
+Nxf3 21. Rh5 Ng5+ 0-1

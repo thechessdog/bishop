@@ -1,0 +1,18 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Tatai, Stefano"]
+[Black "Giustolisi"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "8973136a"]
+[Epoch "Bishop"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 b6 11. f3 Ba6 12. Bxa6 Nxa6 13. Nc4 Nh5 14. g4 Bxc3 15.
+bxc3 b5 16. Na3 Ng7 17. Nxb5 Qd7 18. a4 f5 19. exf5 gxf5 20. Bf4 fxg4 21. fxg4
+h5 22. gxh5 Nf5 23. Qg4+ Kh8 24. Bg3 Rf8 25. Nxd6 Rg8 26. Qxf5 Qxd6 27. Kh1 1-0

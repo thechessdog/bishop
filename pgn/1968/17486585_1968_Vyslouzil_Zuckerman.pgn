@@ -1,0 +1,16 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Vyslouzil, A."]
+[Black "Zuckerman, Bernard"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "17486585"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. d5 d6 6. Nf3 O-O 7. Nc3 Na6 8. O-O
+Nc7 9. Nd2 Rb8 10. a4 b6 11. Ra2 a6 12. b3 b5 13. a5 e6 14. e4 exd5 15. cxd5
+Ng4 16. Ne2 Re8 17. h3 Nf6 18. Bb2 1/2-1/2

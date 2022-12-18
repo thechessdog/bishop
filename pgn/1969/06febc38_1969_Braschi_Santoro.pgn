@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Braschi"]
+[Black "Santoro"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "06febc38"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. cxd4 Qc7 9. Ra2 Nf5 10. Nf3 Nc6 11. Bd3 h5 12. Qg5 Ncxd4 13. Nxd4 Qc3+
+14. Kf1 Qxd4 15. Bb2 Qg4 16. Qd2 Bd7 17. h3 Qa4 18. Qb4 Ne7 19. Bd4 Qxb4
+20. axb4 Nc6 21. Bc5 Nxe5 22. Rxa7 Rxa7 23. Bxa7 Nxd3 24. cxd3 O-O 25. Ke2
+Ra8 26. Ra1 b6 27. Kd2 Bb5 28. Kc2 h4 29. g3 hxg3 30. fxg3 d4 31. h4 Kf8
+32. g4 Ke8 33. g5 g6 34. Kb2 Ke7 0-1
+

@@ -1,0 +1,16 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Hannemann, H."]
+[Black "Svedenloef, E."]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "158edec1"]
+[Epoch "Bishop"]
+
+1. d4 g6 2. e4 Bg7 3. c4 c5 4. d5 d6 5. Nc3 Nf6 6. Be2 O-O 7. f4 Ne8 8. Nf3
+Bg4 9. O-O Nd7 10. Be3 a6 11. a4 Qa5 12. Qc2 Bxf3 13. Bxf3 Rb8 14. Bg4 Nef6
+15. Bh3 h5 16. Qe2 Qc7 17. Rae1 Rbe8 18. Bc1 Nh7 19. e5 f5 20. exf6 1-0
+

@@ -1,0 +1,16 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Duin"]
+[Black "Bielicki, Carlos"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "8070f827"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 h6 4. Bxf6 exf6 5. e3 c6 6. Bd3 f5 7. Qf3 g6 8. Nge2
+Bg7 9. h3 h5 10. O-O-O Nd7 11. g4 fxg4 12. hxg4 Nf6 13. gxh5 Bg4 14. Qg3 Bxh5
+15. Rde1 Bxe2 16. Rxh8+ Bxh8 17. Rxe2 Nh5 18. Qh2 Bg7 19. Re1 Qe7 20. Rg1 Nf6
+21. Qh3 Qd7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "corr James mem"]
+[Site "corr James mem"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Price"]
+[Result "1-0"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Bondarevsky variation"]
+[HashCode "0a71c799"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 g6 7. Bb5 Bg7 8.
+Nxc6 Qc7 9. Bxf6 Bxf6 10. Ne5+ Bd7 11. Bxd7+ 1-0

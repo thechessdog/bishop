@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hamann, H."]
+[Black "Meyer, F."]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "ca294d21"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8.
+a3 Ba5 9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3 Bg4 12. a4 Qa5 13. Qc2 Bxf3 14.
+gxf3 Rfd8 15. Ba3 Ne5 16. Be2 Nfd7 17. Rfb1 Nxc5 18. Rb5 Qxa4 19. Qb1 Rd6
+20. Bxc5 Rg6+ 21. Qxg6 Qxa1+ 22. Qb1 1-0
+

@@ -1,0 +1,21 @@
+[Event "Leipzig ol prel"]
+[Site "Leipzig ol prel"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Naranja, Renato"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto with ...Nc6"]
+[HashCode "218bbb89"]
+[Epoch "Bishop"]
+[BlackID "5200148"]
+[WhiteCountry "NLD"]
+[BlackCountry "PHI"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O Rb8 8. d5
+Na5 9. Nd2 c6 10. b4 Nxd5 11. cxd5 Bxc3 12. Rb1 cxd5 13. bxa5 Bf5 14. Rb5 d4
+15. Ne4 a6 16. Rxf5 gxf5 17. Nxc3 dxc3 18. Bh6 Qxa5 19. Qd4 f6 20. Qd5+ Qxd5
+21. Bxd5+ Rf7 22. Rc1 Rc8 23. Be6 Rc5 24. Kf1 b5 25. a3 a5 26. e3 b4 27. axb4
+axb4 28. Ra1 1-0

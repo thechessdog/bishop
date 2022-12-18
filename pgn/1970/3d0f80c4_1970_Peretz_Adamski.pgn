@@ -1,0 +1,20 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "14"]
+[White "Peretz, Malkiel"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Swiss cheese variation"]
+[HashCode "3d0f80c4"]
+[Epoch "Bishop"]
+[WhiteID "2800446"]
+[WhiteCountry "ISR"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6 6. O-O Bg7 7. Be3 Ne7 8. Nc3
+Nbc6 9. Nde2 O-O 10. a4 b6 11. f4 d5 12. exd5 exd5 13. Bf2 d4 14. Ne4 Nf5
+1/2-1/2

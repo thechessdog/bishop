@@ -1,0 +1,24 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Ree, Hans"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "0cd6111d"]
+[Epoch "Bishop"]
+[WhiteID "14400057"]
+[BlackID "1000098"]
+[WhiteCountry "BIH"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. h3 g6 7. Bc4 Bg7 8. Bb3
+Nbd7 9. O-O Nc5 10. Re1 O-O 11. Bg5 Nxb3 12. axb3 b6 13. Nc6 Qc7 14. Nb4 Bb7
+15. Qd3 b5 16. Bxf6 exf6 17. Red1 Rfe8 18. Nbd5 Qd8 19. Re1 Rc8 20. Rad1 Rc5
+21. b4 Rc8 22. Re3 Rc4 23. Rde1 Bc8 24. b3 Rc6 25. Ne2 Be6 26. Nd4 Rc8 27. c4
+h5 28. cxb5 axb5 29. Nxb5 Bh6 30. Nxd6 Bxe3 31. Nxe8 Bg5 32. Nd6 Ra8 33. Rd1
+Ra2 34. b5 Bh4 35. g3 Bg5 36. h4 Bh6 37. Nb4 Rb2 38. Nxf7 Qxd3 39. Nxh6+ Kg7
+40. Nxd3 Ra2 1-0

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Simunok"]
+[Black "Philipp, A."]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "e4de9574"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 Bb4 6. Bc4 Bxc3+ 7. bxc3
+Nge7 8. Ng5 Ne5 9. Bb3 h6 10. f4 hxg5 11. fxe5 Ng6 12. O-O Nxe5 13. Bxf7+
+Nxf7 14. Rxf7 d5 15. Rxg7 Qd6 16. Qxd5 Qxh2+ 17. Kf2 Rf8+ 18. Ke3 g4 19.
+Ba3 1-0
+

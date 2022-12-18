@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Sed"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "d9074620"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qd4 f5 5. exf6 Nxf6 6. Bg5 Nc6 7. Bxf6 Nxd4
+8. Bxd8 Nc2+ 9. Kd1 Nxa1 10. Bg5 d5 11. cxd5 Bf5 12. Nc3 Bb4 13. Nb5 O-O 14. f3
+c6 15. dxc6 Rfd8+ 16. Bxd8 Rxd8+ 17. Kc1 Bd2+ 18. Kd1 Bc2# 0-1

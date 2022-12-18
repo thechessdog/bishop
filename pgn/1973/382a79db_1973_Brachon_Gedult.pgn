@@ -1,0 +1,16 @@
+[Event "St Die"]
+[Site "St Die"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Brachon"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Kiel variation"]
+[HashCode "382a79db"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb4 5. Qa4+ N8c6 6. d5 b5 7. Qxb5 Nc2+ 8.
+Kd1 Bd7 9. Qa6 N6b4 10. Qb7 Bc6 0-1

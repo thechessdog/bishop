@@ -1,0 +1,16 @@
+[Event "London"]
+[Site "London"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Dutch"]
+[Black "Sugden, John"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "ce7e3d13"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. Nf3 Bg4 6. Qa4+ Nc6 7. Nxd4
+Bd7 8. Nb5 O-O-O 9. Nxa7+ Nxa7 10. Qxa7 Qd1+ 0-1
+

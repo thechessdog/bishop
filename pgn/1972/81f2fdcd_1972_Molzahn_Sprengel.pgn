@@ -1,0 +1,19 @@
+[Event "corr DDR-PV"]
+[Site "corr DDR-PV"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Molzahn, N."]
+[Black "Sprengel, F."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "81f2fdcd"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. dxe6 fxe6 8.
+cxb5 d5 9. a3 Ba5 10. Qa4 O-O 11. e3 Bd7 12. b4 Bb6 13. bxc5 Bxc5 14. Qb3
+Qa5 15. Bxf6 Rxf6 16. Nf3 a6 17. bxa6 Nc6 18. Bb5 d4 19. Bxc6 Bxc6 20. exd4
+Rxf3 21. gxf3 Bd5 22. Qb2 Bxd4 23. Kd2 Bxf3 24. Rhe1 Rd8 25. Kc2 Rc8 26.
+Re3 Qf5+ 27. Kd2 Qf4 28. Kc2 Bxe3 0-1
+

@@ -1,0 +1,26 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Mubedi"]
+[Black "Hunold"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "86ccd587"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 b5 8. a3
+Bb7 9. Bg2 Be7 10. g5 Nfd7 11. h4 Nc6 12. Be3 Nce5 13. Qe2 Rc8 14. f4 Nc4
+15. Bc1 Qb6 16. Qf2 d5 17. exd5 Bc5 18. Nce2 O-O 19. c3 exd5 20. O-O f5 21.
+b3 Nd6 22. Rd1 Ne4 23. Bxe4 fxe4 24. Qg3 Bxd4+ 25. Rxd4 Nc5 26. Rb1 Ne6 27.
+Be3 Nxd4 28. Bxd4 Qg6 29. Rb2 Rce8 30. Be3 Qd6 31. b4 Rc8 32. Bd4 Rc4 33.
+Rb1 Bc8 34. Rf1 Bf5 35. Rf2 Rfc8 36. Rg2 Qd7 37. Kh2 R8c6 38. h5 Rc8 39. g6
+h6 40. Be5 R4c6 41. Bd4 Qd8 42. Qf2 Rc4 43. Kg1 Bh3 44. Rg3 Bf5 45. Be5 Qd7
+46. Qg2 Qa7+ 47. Kh2 Qe7 48. Kg1 Qa7+ 49. Qf2 Qd7 50. Re3 Bg4 51. Ng3 Rf8
+52. Qd2 Bf3 53. Qh2 Qg4 54. Bd6 Rxf4 55. Bxf4 Qxf4 56. Qf2 d4 57. cxd4 Rxd4
+58. Re1 Rc4 59. Rd1 Qc7 60. Re1 Qf4 61. Rd1 Qc7 62. Re1 Qb8 63. Nf5 Qf4 64.
+Rd1 Rc1 65. Qa2+ Kh8 66. Rxc1 Qxc1+ 67. Kf2 Bg4 68. Qd5 Qf4+ 69. Ke1 Qc1+
+70. Kf2 Qf4+ 71. Ke1 Qc7 72. Qa8+ 1-0
+

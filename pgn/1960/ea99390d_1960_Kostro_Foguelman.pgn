@@ -1,0 +1,22 @@
+[Event "Leipzig olm prel"]
+[Site "Leipzig"]
+[Date "1960.??.??"]
+[Round "3"]
+[White "Kostro, Jerzy"]
+[Black "Foguelman, Alberto"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "ea99390d"]
+[Epoch "Bishop"]
+[WhiteID "1101188"]
+[BlackID "101435"]
+[WhiteCountry "POL"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3
+h5 9. Qh3 cxd4 10. Nf3 Qc7 11. Rb1 Nc6 12. Bf4 f6 13. exf6 Qxf4 14. Bxf5 exf5
+15. fxg7 Rg8 16. Qxh5+ Ke7 17. Qh7 Kf7 18. h4 Rxg7 19. Ng5+ Qxg5 20. hxg5 Rxh7
+21. Rxh7+ Kg6 22. Rh8 Kxg5 23. Rb5 dxc3 24. Rxd5 Be6 25. Rxa8 Bxd5 26. f3 Kf4
+27. Rf8 Nd4 28. Kd1 Bc6 29. Rf7 Kg3 30. Rg7+ Kf2 31. Kc1 f4 32. Kd1 0-1

@@ -1,0 +1,23 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Kluger, Gyula"]
+[Black "Haag, Ervin"]
+[Result "1-0"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "fe5a768d"]
+[Epoch "Bishop"]
+[BlackID "700398"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Be2 b6 7. O-O Bb7 8. a3
+Bxc3 9. bxc3 Nc6 10. a4 Ne4 11. Qc2 Re8 12. Ba3 Na5 13. c5 bxc5 14. dxc5 Nc4
+15. Bxc4 dxc4 16. Rfd1 Qf6 17. Rd4 e5 18. Rdd1 Qc6 19. Rab1 Ba6 20. h3 Re6 21.
+Nd2 Nxc5 22. Bxc5 Qxc5 23. Ne4 Qc6 24. Ng5 Rg6 25. Qf5 Qe8 26. Rd5 e4 27. Re5
+Qf8 28. Qxe4 Rd8 29. Rf5 Qe8 30. Qxe8+ Rxe8 31. h4 f6 32. Nf3 Bc8 33. Rc5 Bg4
+34. Nd4 Bd7 35. a5 Rc8 36. Rb7 Bh3 37. g3 a6 38. Rcxc7 Re8 39. Kh2 Bf1 40. Nf5
+Bd3 41. Ne7+ Rxe7 42. Rxe7 h5 43. f3 Be2 44. Re8+ Kh7 45. Rbb8 1-0

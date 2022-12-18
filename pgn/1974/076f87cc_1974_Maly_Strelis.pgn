@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Maly, N."]
+[Black "Strelis, V."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "076f87cc"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+
+Kd8 8. Bxg6 Qxh1+ 9. Ke2 c6 10. Nc3 Nf6 11. Qg5 Be7 12. Bf4 Qf3+ 13. Nxf3
+exf3+ 14. Kxf3 hxg6 15. Re1 Re8 16. Rxe7 1-0
+

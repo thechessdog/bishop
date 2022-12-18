@@ -1,0 +1,17 @@
+[Event "Portsmouth"]
+[Site "Portsmouth"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Maczynski"]
+[Black "Pratten, Wilfred Heny"]
+[Result "0-1"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[HashCode "2c00fc76"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. O-O d6 6. d4 Bb6 7. b4 Bg4 8. a4 a5
+9. b5 Nd8 10. Ba3 f6 11. Ra2 Ne6 12. dxe5 fxe5 13. Qd5 Bxf3 14. Qxb7 Qg5 15.
+Qxa8+ Ke7 16. g3 Nf4 17. Re1 Qh5 18. Nd2 Nf6 19. Qxh8 Qxh2+ 20. Kxh2 Ng4+ 21.
+Kg1 Nh3+ 22. Kf1 Nh2# 0-1

@@ -1,0 +1,27 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "Hug, Werner"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "f9e0db03"]
+[Epoch "Bishop"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+[BlackID "1300040"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. dxc5 Nbc6 7. Qg4 Ng6 8. Nf3
+Bxc5 9. Bd3 Bd7 10. O-O Nb4 11. Bxg6 hxg6 12. Na4 Na6 13. Nxc5 Nxc5 14. Bb4 Rc8
+15. Rfe1 Rh5 16. Qd4 b6 17. g4 Rh3 18. Qf4 f6 19. Kg2 g5 20. Qd4 Rxf3 21. Kxf3
+Ne4 22. b3 Rxc2 23. Re2 Rxe2 24. Kxe2 Bb5+ 25. Kd1 fxe5 26. Qe3 Qf6 27. f3 Nc5
+28. Bxc5 bxc5 29. Rc1 c4 30. a4 Bc6 31. Qc5 Qxf3+ 32. Kd2 Qg2+ 33. Kc3 Qh3+ 34.
+Kd2 Qxh2+ 35. Kc3 Qg3+ 36. Kd2 Qg2+ 37. Kc3 Qf3+ 38. Kd2 Qd3+ 39. Ke1 Qe4+ 40.
+Kd2 Qd3+ 41. Ke1 Qe4+ 42. Kd2 Qf4+ 43. Kc2 cxb3+ 44. Kb2 Bd7 45. a5 Qa4 46. Ra1
+Qd4+ 47. Qxd4 exd4 48. Ra3 e5 49. Rxb3 Bc6 50. Rf3 e4 51. Rf5 Ke7 52. Rxg5 Kf6
+53. Rf5+ Ke6 54. Rg5 Bb5 55. Rg6+ Ke5 56. Rxg7 e3 57. g5 d3 58. Re7+ Kd4 59. g6
+d2 60. g7 d1=Q 61. g8=Q Qd2+ 62. Ka3 Qxa5+ 63. Kb3 Qa4+ 0-1

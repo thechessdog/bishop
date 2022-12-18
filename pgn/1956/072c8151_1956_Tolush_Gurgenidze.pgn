@@ -1,0 +1,18 @@
+[Event "Erevan"]
+[Site "Erevan"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Tolush, Alexander"]
+[Black "Gurgenidze, Bukhuti"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "072c8151"]
+[Epoch "Bishop"]
+[BlackCountry "GEO"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qc7 8.
+Be2 e6 9. Bh5 Nxh5 10. Qxh5 Nf6 11. Bxf6 gxf6 12. O-O-O Qc5 13. e5 f5 14. Rhe1
+Bg7 15. Nxf5 1-0

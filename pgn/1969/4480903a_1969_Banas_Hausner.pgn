@@ -1,0 +1,20 @@
+[Event "CSR-J U26"]
+[Site "Cihak"]
+[Date "1969.12.30"]
+[Round "6"]
+[White "Banas, Jan"]
+[Black "Hausner, Ivan"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "4480903a"]
+[Epoch "Bishop"]
+[WhiteID "14900076"]
+[BlackID "300110"]
+[WhiteCountry "SVK"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+ 8.
+Kxd1 Rd8+ 9. Bd3 Ne8 10. Ke2 Nc6 11. a3 f6 12. exf6 Nxf6 13. Bc4+ Kf8 14. Rd1
+Rxd1 15. Nxd1 1/2-1/2

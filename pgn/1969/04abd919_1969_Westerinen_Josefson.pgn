@@ -1,0 +1,16 @@
+[Event "FIN-SWE"]
+[Site "FIN-SWE"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Westermeier, Arnulf"]
+[Black "Josefson"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann defence"]
+[HashCode "04abd919"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 e5 6. Nf3 exd4 7. Nxd4 Bc5 8.
+Be3 Qb6 9. Be2 O-O 10. O-O Nd5 11. Qd2 Qxb2 12. Ngf5 Bxf5 13. Nxf5 Nxe3 14.
+fxe3 Qe5 15. Rab1 g6 16. Nh6+ Kg7 17. Ng4 Qe7 18. Qc3+ f6 19. Rxf6 Bxe3+ 20.
+Kh1 Bd2 21. Qa1 Rxf6 22. Rxb7 1-0

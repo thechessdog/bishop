@@ -1,0 +1,17 @@
+[Event "match"]
+[Site "match"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Karageanes, J."]
+[Black "Mack, A."]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "7e02c360"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f5 8.
+Qg3 cxd4 9. cxd4 Ne7 10. Bd2 O-O 11. c3 b6 12. Nh3 Kh8 13. Nf4 Qd7 14. h4
+Ba6 15. Bxa6 Nxa6 16. h5 Nb8 17. Ng6+ hxg6 18. hxg6+ Kg8 19. Rh8+ 1-0
+

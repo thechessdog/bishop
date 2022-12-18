@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1968.01.01"]
+[Round "11"]
+[White "Gheorghiu, Florin"]
+[Black "Bobotsov, Milko G"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "87bd948d"]
+[Epoch "Bishop"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Nc6 8. cxd5
+exd5 9. Be2 Bxc5 10. O-O Be6 11. a3 a6 12. Rc1 d4 13. Na4 Ba7 14. Nc5 Bxc5 15.
+Rxc5 Nd5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "ACM Atlanta"]
+[Site "ACM Atlanta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Ches"]
+[Black "Tech II"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence (Modern bishop's opening)"]
+[HashCode "2f2a143e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 d5 5. exd5 Nxd5 6. Qe2 Bg4 7. Bxd5
+Qxd5 8. c4 Bb4+ 9. Kf1 Qd6 10. Nc3 O-O 11. Qe4 f5 12. Qe3 Nd4 13. Rb1 Nxf3
+14. gxf3 Bh3+ 15. Ke2 Bg2 16. Rg1 Qg6 17. Nb5 f4 18. Qe4 Bxf3+ 19. Kxf3
+Qxg1 20. Qd5+ Rf7 21. Nxc7 Qd1+ 22. Kg2 f3+ 23. Kg3 Qg1+ 24. Kh4 Be7+ 25.
+Bg5 Qxg5+ 0-1
+

@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Doroshkievich, Vladimir K"]
+[Black "Astashin"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "f231928f"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. a4 Nxc3 8. bxc3
+Bb7 9. e6 fxe6 10. Be2 Qd5 11. Ng5 Qxg2 12. Rf1 Bd5 13. axb5 Qxh2 14. Bg4 h5
+15. Bxe6 Bxe6 16. Qf3 c6 17. Nxe6 Qd6 18. Qf5 g6 19. Qxg6+ Kd7 20. Nc5+ Kc8 21.
+Qe8+ Qd8 22. b6 1-0

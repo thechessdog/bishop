@@ -1,0 +1,18 @@
+[Event "DEN-FRG m"]
+[Site "Berleburg"]
+[Date "1971.12.19"]
+[Round "2"]
+[White "Petersen, Finn"]
+[Black "Schiffers, Emanuel Stepanovich"]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "23e482ec"]
+[Epoch "Bishop"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3 cxd4
+8. Nxd4 Qa5+ 9. c3 Nxd4 10. Qxd4 e5 11. Qc4 Be7 12. Qb5+ Qxb5 13. Bxb5+ Bd7 14.
+Bxd7+ Kxd7 1/2-1/2

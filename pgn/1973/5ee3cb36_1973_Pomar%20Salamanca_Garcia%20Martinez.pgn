@@ -1,0 +1,19 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1973.11.01"]
+[Round "15"]
+[White "Pomar Salamanca, Arturo"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "5ee3cb36"]
+[Epoch "Bishop"]
+[BlackID "3500179"]
+[BlackCountry "CUB"]
+[WhiteCountry "EST"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 e6 6. Nf3 d6 7. Nc3 Nc6 8. Bb5
+Nxc3 9. bxc3 Bd7 10. exd6 Bxd6 11. O-O O-O 12. Bd3 h6 13. Re1 Rc8 14. Ne5 Nxe5
+15. dxe5 Be7 16. Qg4 1/2-1/2

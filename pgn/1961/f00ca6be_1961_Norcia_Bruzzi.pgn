@@ -1,0 +1,18 @@
+[Event "San Benedetto ch"]
+[Site "San Benedetto ch"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Norcia"]
+[Black "Bruzzi"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "f00ca6be"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Qc2 Nbd7 7. Ne2 a6 8.
+a3 dxc4 9. Bxc4 Bd6 10. b4 e5 11. d5 Ng4 12. Bd3 Qh4 13. Ng3 Nxh2 14. Nce4
+a5 15. bxa5 f5 16. Nxd6 cxd6 17. Bxf5 Nc5 18. e4 Bxf5 19. exf5 Qd4 20. Bb2
+Nd3+ 0-1
+

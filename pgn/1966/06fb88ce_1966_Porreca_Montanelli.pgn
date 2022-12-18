@@ -1,0 +1,21 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Porreca"]
+[Black "Montanelli"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "06fb88ce"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 b5 7. Bf1 Nxd5
+8. h4 h6 9. Ne4 Ne6 10. d4 exd4 11. Bxb5+ Bd7 12. Qa4 c5 13. O-O Nb6 14.
+Bxd7+ Nxd7 15. b4 cxb4 16. cxd4 Be7 17. d5 Nd4 18. Qd1 Nf5 19. d6 Bxh4 20.
+Qd5 g6 21. g3 O-O 22. Bb2 Kh7 23. gxh4 Qxh4 24. Nbd2 Rae8 25. Rae1 Re6 26.
+Re3 Nxd6 27. Nxd6 Rxe3 28. fxe3 Qg3+ 29. Qg2 Qxd6 30. Ne4 Qe7 31. Rd1 f6
+32. Qh3 Nb6 33. Qg2 Rf7 34. Rd6 Nd7 35. Qf3 Kg7 36. Qf4 Rf8 37. Bd4 a5 38.
+Rxd7 Qxd7 39. Nxf6 Qc8 40. Nd7+ Kg8 41. Nxf8 Qxf8 42. Qe5 a4 43. Qh8+ 1-0
+

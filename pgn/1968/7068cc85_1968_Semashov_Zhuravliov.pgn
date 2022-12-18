@@ -1,0 +1,17 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Semashov"]
+[Black "Zhuravliov, Valerij"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "7068cc85"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. a3 Rb8 12. Bxf6 Nxf6 13. f5 d5 14. fxe6 fxe6
+15. exd5 O-O 16. Nxe6 Bxe6 17. dxe6 b4 18. axb4 Rxb4 19. g5 Ne4 20. Nd5 Bxg5+
+21. Kb1 Rxf3 22. Nxc7 Nc3+ 0-1

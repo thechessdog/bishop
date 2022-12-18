@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Wagner"]
+[Black "Kokorin"]
+[Result "0-1"]
+[ECO "D99"]
+[Opening "Gruenfeld defence"]
+[Variation "Smyslov, Yugoslav variation"]
+[HashCode "6ab12381"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4
+8. Be3 Nfd7 9. Qb3 c5 10. Qxb7 Bxf3 11. Qxa8 cxd4 12. gxf3 dxc3 13. Qxa7
+cxb2 14. Rb1 Bc3+ 15. Bd2 Bxd2+ 16. Kxd2 Nc6 17. Qa3 Nde5+ 18. Ke1 Nxf3+
+0-1
+

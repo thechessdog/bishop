@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Osterling, G."]
+[Black "Wikstrom, B."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "fc417d43"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O h6 7. Bxf6
+Nxf6 8. e4 dxe4 9. Qf4 e6 10. fxe4 Nh5 11. Qf2 Bg4 12. Be2 Bb4 13. h3 Bxe2
+14. Ngxe2 Qg5+ 15. Kb1 Bxc3 16. Nxc3 O-O 17. g4 Nf6 18. Rhg1 Nd7 19. h4 Qe7
+20. g5 h5 21. e5 g6 22. Ne4 Nb6 23. Nf6+ Kg7 24. Qe2 Rh8 25. Rgf1 Rac8 26.
+Ne4 Qb4 27. Nd6 Rc7 28. a3 Qa4 29. Nxf7 Rf8 30. Nd6 1-0
+

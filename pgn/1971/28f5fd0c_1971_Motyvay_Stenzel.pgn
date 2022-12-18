@@ -1,0 +1,17 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Motyvay, T."]
+[Black "Stenzel, H."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "28f5fd0c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 b5 4. Bxg8 Rxg8 5. exf5 Qf6 6. Qe2 Kd8 7. g4 Bb7
+8. d3 g5 9. Nbd2 d5 10. Qxe5 Nd7 11. Qxf6+ Nxf6 12. Rg1 c5 13. d4 Rc8 14.
+c3 h6 15. Ne5 cxd4 16. cxd4 Rg7 17. a3 Rgc7 18. Nb3 a5 19. Be3 a4 20. Nc5
+Bxc5 21. dxc5 Ke7 22. f3 d4 23. Bxd4 1-0
+

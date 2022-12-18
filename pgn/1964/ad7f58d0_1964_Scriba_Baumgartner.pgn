@@ -1,0 +1,21 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Scriba, P."]
+[Black "Baumgartner, W."]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "ad7f58d0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. O-O Nbd7
+8. f4 b5 9. Bf3 Bb7 10. a3 Qc7 11. Qe1 Be7 12. Be3 O-O 13. Rd1 Nb6 14. Kh1
+Nc4 15. Bc1 Rac8 16. Rd3 Rfd8 17. b3 Nb6 18. g3 Qb8 19. Bb2 Qa8 20. Re3 Rc7
+21. g4 d5 22. e5 Ne4 23. Nce2 Nd7 24. c3 g5 25. f5 Nxe5 26. fxe6 f6 27. Ng3
+Bc5 28. Ngf5 Bxd4 29. Nxd4 Nxf3 30. Rfxf3 Re7 31. a4 bxa4 32. bxa4 Rf8 33.
+Ba3 Qd8 34. Bxe7 Qxe7 35. h4 h5 36. hxg5 hxg4 37. gxf6 Qh7+ 38. Rh3 gxh3
+39. Qg1+ Kh8 40. e7 Re8 41. f7 1-0
+

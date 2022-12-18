@@ -1,0 +1,19 @@
+[Event "EU-ch U20 qual"]
+[Site "Groningen"]
+[Date "1974.??.??"]
+[Round "6"]
+[White "Schneider, Lars-Ake"]
+[Black "Borkowski, Franciszek"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "db37e3d9"]
+[Epoch "Bishop"]
+[BlackID "1100173"]
+[BlackCountry "POL"]
+[WhiteID "1700235"]
+[WhiteCountry "SWE"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. Nf3 f6 6. d4 e4 7. Nfd2 a6 8. Bxc6+
+bxc6 1/2-1/2

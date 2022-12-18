@@ -1,0 +1,22 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "1"]
+[White "Theodorsson, Hjalmar"]
+[Black "Solmundarson, Magnus"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "b617070e"]
+[Epoch "Bishop"]
+[BlackID "2300850"]
+[BlackCountry "ISL"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 g6 4. Nf3 Bg7 5. Bc4 O-O 6. h3 c6 7. a3 d5 8. exd5
+cxd5 9. Bd3 Nc6 10. O-O a6 11. Rb1 b5 12. Be3 Bb7 13. Qd2 Re8 14. Bg5 Na5 15.
+Rfe1 Nc4 16. Bxc4 dxc4 17. Ne5 Nd5 18. Bh6 Nxc3 19. bxc3 Bh8 20. f3 Qd5 21. Re4
+f6 22. Ng4 f5 23. Ne3 Qd6 24. Rf4 e5 25. Nxf5 gxf5 26. Rxf5 Re6 27. Rg5+ Rg6
+28. a4 Bc6 29. axb5 axb5 30. d5 Qxd5 31. Qxd5+ Bxd5 32. Rxb5 Rd8 33. Rc5 Bf6
+34. Rxg6+ hxg6 35. Be3 Bh4 36. Bf2 Bg5 37. Kh2 Bd2 38. Bg3 Bxc3 39. Rc7 Re8 40.
+Rd7 Bf7 41. Bh4 e4 0-1

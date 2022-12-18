@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Blasi, A."]
+[Black "Forster, K."]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[HashCode "1ebe7aae"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 Nc6
+8. cxd4 Nxd4 9. c3 Nxf3+ 10. Qxf3 c5 11. d4 cxd4 12. Bb5+ Bd7 13. e6 fxe6
+14. O-O Qe7 15. Bg5 1-0
+

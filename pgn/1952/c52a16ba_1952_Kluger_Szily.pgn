@@ -1,0 +1,18 @@
+[Event "Hungary ch"]
+[Site "Hungary ch"]
+[Date "1952.01.01"]
+[Round "4"]
+[White "Kluger, Gyula"]
+[Black "Szily, Jozsef"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "c52a16ba"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Nf3 O-O 6. Bd2 Re8 7. Qc2 Bf8 8. a3
+d5 9. Bd3 a6 10. O-O dxc4 11. Bxc4 Bd6 12. Rad1 Qe7 13. Rfe1 e5 14. Ng5 exd4
+15. Nd5 1-0

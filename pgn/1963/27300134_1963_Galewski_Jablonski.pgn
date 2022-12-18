@@ -1,0 +1,17 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Galewski, E."]
+[Black "Jablonski, J."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "27300134"]
+[Epoch "Bishop"]
+
+1. b3 d5 2. e3 e5 3. Bb2 Bd6 4. f4 Nd7 5. Qg4 Ngf6 6. Qxg7 Rg8 7. Qh6 exf4
+8. exf4 Rg6 9. Qh4 Rg4 10. Qf2 Rxf4 11. Nf3 Ne5 12. d3 Qe7 13. Be2 Nfg4 14.
+Qg3 Nxf3+ 15. gxf3 Re4 16. Qg2 Qh4+ 0-1
+

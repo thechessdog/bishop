@@ -1,0 +1,17 @@
+[Event "Cincinnati"]
+[Site "Cincinnati"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Southard"]
+[Black "Blaine, Roger E"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Labourdonnais variation"]
+[HashCode "7f821077"]
+[Epoch "Bishop"]
+[BlackID "2050811"]
+
+1. e4 e6 2. f4 d5 3. Bd3 Nf6 4. e5 Nfd7 5. b3 c5 6. c4 d4 7. Ba3 a5 8. Qf3 Qc7
+9. Be4 Ra6 10. d3 Nc6 11. Ne2 f5 12. exf6 Nxf6 13. O-O Nxe4 14. Qxe4 Bd6 15. f5
+O-O 16. fxe6 Bxh2+ 0-1

@@ -1,0 +1,18 @@
+[Event "Szczawno Zdroj"]
+[Site "Szczawno Zdroj"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Gawliczek, Andreas"]
+[Black "Bondarevsky, Igor"]
+[Result "0-1"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "2e5e2e6e"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 c5 8. e3
+O-O 9. a3 Ba5 10. Be2 cxd4 11. exd4 Nc6 12. Rd1 dxc4 13. Qxc4 Bd7 14. b4 Bb6
+15. O-O Rfd8 16. Ne4 Qe7 17. Nc5 Be8 18. Rfe1 a5 19. b5 Nxd4 20. Rxd4 Rxd4 21.
+Qxd4 Bxc5 22. Qb2 Bxa3 0-1

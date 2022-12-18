@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Troeger, Paul"]
+[Black "Eisinger, Max Jr"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "d0b520df"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. Qc2 Bb4 6. Bd2 O-O 7. e3 d5 8. cxd5
+exd5 9. Bd3 c5 10. a3 Bxc3 11. Bxc3 c4 12. Be2 b5 13. a4 a6 14. b3 Nc6 15. bxc4
+dxc4 16. Rb1 b4 17. Ba1 Na5 18. Rxb4 Be4 19. Qd1 Nd5 20. Nd2 Bxg2 21. Rg1 Nxe3
+22. Qc1 Qh4 23. d5 Rfe8 24. Qc3 f6 25. Rb6 Nxd5 26. Qxa5 Qh5 27. Ne4 Rxe4 28.
+Rb2 Rae8 29. Rxg2 Rxe2+ 30. Kf1 Rxb2 0-1

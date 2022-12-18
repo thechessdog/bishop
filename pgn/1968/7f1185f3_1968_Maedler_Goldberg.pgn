@@ -1,0 +1,20 @@
+[Event "corr Eberhardt-Wilhelm"]
+[Site "corr Eberhardt-Wilhelm"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Maedler, M."]
+[Black "Goldberg"]
+[Result "1-0"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...Nc6"]
+[HashCode "7f1185f3"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Nd8 14. b3 Bd7
+15. Nf1 Nb7 16. Ne3 g6 17. g4 Ne8 18. Kh2 Ng7 19. Rg1 Kh8 20. Rg2 Rg8 21.
+Bd2 f6 22. Qe2 Raf8 23. Rag1 Qc8 24. Nf1 f5 25. gxf5 gxf5 26. Bh6 Bf6 27.
+exf5 Bxf5 28. Ng3 Bxc2 29. Qxc2 Nd8 30. Ne4 Qf5 31. Nh4 Bxh4 32. Rxg7 Nf7
+33. Nf6 1-0
+

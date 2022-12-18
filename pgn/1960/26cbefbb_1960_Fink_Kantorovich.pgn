@@ -1,0 +1,19 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Fink"]
+[Black "Kantorovich"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "26cbefbb"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 Nf6 12. Re1 Bd6 13. h3 Ng4 14.
+hxg4 Qh4 15. Qf3 Bh2+ 16. Kf1 Bxg4 17. Qe4 Kh8 18. d4 Qh5 19. Bd5 f5 20.
+Qd3 Bf4 21. g3 Bxc1 22. Rxc1 Rae8 23. Kg1 f4 24. c4 Be2 25. Qa3 Rf6 26. Nd2
+Rh6 27. Nf1 f3 0-1
+

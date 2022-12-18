@@ -1,0 +1,18 @@
+[Event "Oxford - Cambridge"]
+[Site "Varsity m"]
+[Date "1968.03.23"]
+[Round "5"]
+[White "Harouni, J."]
+[Black "Sugden, John N"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "cd955df2"]
+[Epoch "Bishop"]
+[BlackID "402001"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d6 4. e4 Bg7 5. f4 O-O 6. Nf3 c5 7. dxc5 Qa5 8. Bd3
+Nfd7 9. Bd2 Nxc5 10. Qc2 Nc6 11. Nd5 Qd8 12. Bc3 e5 13. f5 gxf5 14. exf5 e4 15.
+Bxg7 Nxd3+ 16. Kf1 Kxg7 17. f6+ Kh8 18. Ng5 Ncb4 19. Qe2 Nxd5 20. Nxe4 Nxf6 0-1

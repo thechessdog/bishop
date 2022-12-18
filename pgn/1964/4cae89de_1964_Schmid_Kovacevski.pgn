@@ -1,0 +1,20 @@
+[Event "corr YUG-BRD"]
+[Site "corr YUG-BRD"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Schmid, H."]
+[Black "Kovacevski, S."]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "4cae89de"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. d4
+cxd4 8. Nxd4 Be7 9. c4 Rc8 10. Nc3 Qa5 11. Nb3 Qb4 12. Nd2 Ne5 13. a3 Qc5
+14. b3 Qd4 15. Bb2 Qd3 16. Qd1 a6 17. Re1 Qd4 18. Na4 Qa7 19. Nf3 Nfd7 20.
+Nxe5 dxe5 21. Re2 Bg5 22. Bc1 Bxc1 23. Rxc1 Ke7 24. Rd2 Nf6 25. c5 Rcd8 26.
+Nb6 Nxe4 27. Rd7+ Rxd7 28. Qxd7+ Kf6 29. Qc7 Kg6 30. Rc4 Nf6 31. c6 Nd5 32.
+Nxd5 exd5 33. Rg4+ 1-0
+

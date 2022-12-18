@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Carlsson, Gosta"]
+[Black "Lekander, Rolf"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "2586b750"]
+[Epoch "Bishop"]
+[BlackID "1700952"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. e3 O-O 6. Bd3 b6 7. cxd5 exd5 8. Ne5
+Bb7 9. O-O Nbd7 10. f4 c5 11. b3 cxd4 12. exd4 Ne4 13. Bb2 f5 14. Nxe4 fxe4 15.
+Nxd7 Qxd7 16. Be2 Qd6 17. Qd2 a5 18. a4 Rf6 19. Rac1 h6 20. Rf2 Raf8 21. Rcf1
+Qb8 22. Qe3 Rc6 23. Bb5 Rc7 24. Qh3 Qc8 25. g4 Rc2 26. Bd7 Qc7 27. g5 Rxf2 28.
+Rxf2 Rxf4 29. Qe6+ Kf8 30. Ba3 1-0

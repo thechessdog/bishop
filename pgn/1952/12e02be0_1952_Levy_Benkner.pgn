@@ -1,0 +1,18 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Levy, P."]
+[Black "Benkner, Otto"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "12e02be0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. e3 O-O 6. Bd3 Nc6 7. Nf3 b6 8. O-O
+cxd4 9. Nxd4 Nxd4 10. exd4 Bxc3 11. Qxc3 d5 12. b3 Bb7 13. f3 Rc8 14. Bb2 Qd6
+15. Qd2 Rfd8 16. Rac1 h6 17. Rc2 Nh5 18. Bc1 dxc4 19. Bxc4 Qxd4+ 20. Qxd4 Rxd4
+21. Re1 b5 22. Bb2 Rdd8 23. Re5 bxc4 24. Rxh5 Rd1+ 25. Kf2 cxb3 26. Rxc8+ Bxc8
+27. axb3 Rd2+ 0-1

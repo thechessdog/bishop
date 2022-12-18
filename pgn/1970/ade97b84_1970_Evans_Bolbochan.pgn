@@ -1,0 +1,19 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "11"]
+[White "Evans, Larry D."]
+[Black "Bolbochan, Julio"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "ade97b84"]
+[Epoch "Bishop"]
+[WhiteID "2001713"]
+[WhiteCountry "USA"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c4 Nf6 7. Nc3 e6 8.
+d4 cxd4 9. Nxd4 Be7 10. b3 O-O 11. Bb2 a6 12. Rc1 Rfd8 13. h3 Nxd4 14. Qxd4 b5
+15. Rfd1 Qb7 16. cxb5 axb5 17. a3 Ne8 18. Kh1 1/2-1/2

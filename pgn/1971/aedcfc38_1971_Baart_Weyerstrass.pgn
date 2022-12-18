@@ -1,0 +1,23 @@
+[Event "Blaricum"]
+[Site "Blaricum"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Baart, Joan"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.a3"]
+[HashCode "aedcfc38"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. bxc3 c5 7. e3 O-O 8. f4
+Nc6 9. Nf3 Qc7 10. Bd3 dxc4 11. Bxc4 cxd4 12. cxd4 Na5 13. Bd3 Qxc2 14. Bxc2 b6
+15. e4 Bb7 16. e5 Nd5 17. Kf2 Rac8 18. Bd1 Nc3 19. Bd2 Nxd1+ 20. Rhxd1 Bxf3 21.
+Kxf3 Nb3 22. Ra2 Nxd4+ 23. Kf2 Rfd8 24. Bb4 Nb5 25. Rad2 Rxd2+ 26. Rxd2 a5 27.
+Bd6 Rd8 28. a4 Nxd6 29. exd6 Kf8 30. Ke3 Ke8 31. Ke4 Kd7 32. f5 Re8 33. fxe6+
+Rxe6+ 34. Kf5 Rxd6 35. Rxd6+ Kxd6 36. g4 h6 37. h4 Ke7 38. Ke5 g6 39. h5 f6+
+40. Ke4 gxh5 41. gxh5 Ke6 42. Kf4 f5 43. Kf3 Ke5 44. Ke3 f4+ 45. Kf3 Kf5 46.
+Kf2 Kg4 47. Kg2 Kxh5 48. Kf3 Kg5 49. Kf2 Kg4 50. Kg2 h5 51. Kf2 h4 52. Kg2 h3+
+53. Kg1 f3 54. Kf1 h2 55. Kf2 h1=Q 56. Ke3 Qd1 57. Ke4 f2 58. Ke5 f1=Q 59. Ke6
+Qf5+ 0-1

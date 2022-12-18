@@ -1,0 +1,22 @@
+[Event "Baja"]
+[Site "Baja"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Forintos, Gyozo V"]
+[Black "Tompa, Janos"]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "9ba82a87"]
+[Epoch "Bishop"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+[BlackID "700193"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d6 5. Nf3 Qe7 6. e3 O-O 7. Bd2 b6 8. Bd3
+Bb7 9. e4 e5 10. O-O Bxc3 11. Bxc3 Nbd7 12. Rae1 Nh5 13. Re3 Nf4 14. Rfe1 Qf6
+15. Bf1 a5 16. b3 Rad8 17. Qb2 Rfe8 18. c5 dxc5 19. dxe5 Qe7 20. a4 Ng6 21. Bb5
+c6 22. Be2 Ndxe5 23. Nxe5 Nxe5 24. f4 Ng6 25. Bxg7 Qd6 26. f5 Qd2 27. Qxd2 Rxd2
+28. Bc3 1-0

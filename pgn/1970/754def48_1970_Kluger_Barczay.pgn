@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Budapest"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kluger, Gyula"]
+[Black "Barczay, Laszlo"]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "754def48"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Bg7 6. cxd5 Nxc3 7. bxc3 Qxd5 8.
+e3 Nc6 9. Nf3 Bg4 10. Be2 e5 11. O-O O-O 12. h3 Bxf3 13. Bxf3 e4 14. Be2 Na5
+15. Qa4 b6 16. Rab1 c6 17. c4 Qd7 18. c5 Nb7 19. Ba6 b5 20. Qc2 Nd8 21. a4 bxa4
+22. Qxe4 f5 23. Qe7 Qxe7 24. Bxe7 Re8 25. Bc4+ Kh8 26. Bd6 1-0

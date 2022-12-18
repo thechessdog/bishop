@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "O'Kelly"]
+[Black "Nora"]
+[Result "1-0"]
+[ECO "A19"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Sicilian variation"]
+[HashCode "5ff7c8f6"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. e5 Ng8 5. d4 cxd4 6. Qxd4 Nc6 7. Qe4 f5 8.
+Qe2 d6 9. Nf3 dxe5 10. Nxe5 Nf6 11. Nxc6 bxc6 12. g3 Bd6 13. Bg2 Bd7 14.
+Bg5 O-O 15. O-O-O Be7 16. Bxc6 Rf7 17. Bxf6 Bxf6 18. Bxd7 1-0
+

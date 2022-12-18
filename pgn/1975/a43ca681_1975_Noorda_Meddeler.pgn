@@ -1,0 +1,19 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Noorda, S."]
+[Black "Meddeler, H."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "a43ca681"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c6 6. a4 O-O 7. e5 Ng4 8. Bd3
+Na6 9. O-O c5 10. dxc5 Nxc5 11. Bc4 Na6 12. exd6 Qb6+ 13. Kh1 exd6 14. Nd5
+Qd8 15. c3 Bd7 16. h3 Nh6 17. Be3 Nf5 18. Bf2 Nc5 19. Re1 Kh8 20. Nd4 Nh6
+21. a5 f5 22. Nb5 Bc6 23. Bd4 Kg8 24. Bxg7 Kxg7 25. Qd4+ Kg8 26. Nbc7 Bxd5
+27. Nxd5 Ne4 28. g4 1-0
+

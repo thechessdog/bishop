@@ -1,0 +1,17 @@
+[Event "corr GB-RUM tt"]
+[Site "corr GB-RUM tt"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Stefaniu, C."]
+[Black "Waits, TE."]
+[Result "1-0"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Richter variation"]
+[HashCode "0e594d67"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O
+8. O-O Nc6 9. Qd2 Ng4 10. Bxg4 Bxg4 11. f4 Bd7 12. Rad1 Rc8 13. f5 Ne5 14.
+Bh6 Nc4 15. Qc1 Bc6 16. Bxg7 Kxg7 17. fxg6 hxg6 18. Nf5+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Kolarov, Atanas S."]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Nimzovich variation"]
+[HashCode "8141a1f6"]
+[Epoch "Bishop"]
+[WhiteID "2900246"]
+[WhiteCountry "BGR"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. e3 b6 6. Bxb4 Qxb4+ 7. Qd2 Qxd2+
+8. Nbxd2 c5 9. Be2 Bb7 10. O-O d6 11. Rfd1 Ke7 12. dxc5 dxc5 13. Ne5 Nbd7 14.
+Nxd7 Nxd7 15. Bf3 Bxf3 16. Nxf3 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Siegen olm"]
+[Site "Siegen"]
+[Date "1970.??.??"]
+[Round "1"]
+[White "Naftel, S."]
+[Black "Lobigas, Julian"]
+[Result "0-1"]
+[ECO "A76"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8"]
+[HashCode "bf15e675"]
+[Epoch "Bishop"]
+[BlackID "5200237"]
+[BlackCountry "PHI"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. Nf3 O-O 6. e4 d6 7. Be2 e6 8. O-O
+exd5 9. cxd5 Re8 10. Bd3 Na6 11. a3 Nc7 12. Re1 Rb8 13. Qc2 Bg4 14. Be2 b5 15.
+Bg5 h6 16. Bxf6 Qxf6 17. Rab1 a5 18. h3 Bd7 19. Nd1 Qf4 20. Bf1 Bxh3 21. g3
+Qxf3 22. Bxh3 Bd4 23. Kh2 Nxd5 24. Bg2 Qh5+ 25. Kg1 Qg5 26. Re2 Nf6 27. Ne3 h5
+28. Rd1 h4 29. gxh4 Qxh4 30. Nf1 Nh5 31. Nh2 Nf4 32. Ree1 Qg5 0-1

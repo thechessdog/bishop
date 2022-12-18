@@ -1,0 +1,20 @@
+[Event "Mar del Plata op"]
+[Site "Mar del Plata op"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Steinbaum"]
+[Black "Martinez Dorr, R."]
+[Result "1-0"]
+[ECO "A83"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Staunton's line"]
+[HashCode "614d320c"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 d5 5. f3 exf3 6. Nxf3 Bg4 7. Bd3 g6
+8. h3 Bxf3 9. Qxf3 c6 10. O-O-O Nbd7 11. h4 Qb6 12. h5 gxh5 13. Bxf6 Nxf6
+14. Bf5 Qb4 15. Kb1 Kd8 16. Rhe1 Kc7 17. a3 Qd6 18. Re6 Qh2 19. g3 h4 20.
+Rde1 Qxg3 21. Qe2 Rd8 22. Na4 Qf4 23. Qd3 Rg8 24. Nc5 Rg3 25. R6e3 Rd6 26.
+Qb3 Qxf5 27. Qxb7+ Kd8 28. Qb8+ Qc8 29. Nb7+ Kd7 30. Nc5+ Kd8 31. Nb7+ Kd7
+32. Rxe7+ Bxe7 33. Rxe7+ Kxe7 34. Qxc8 h3 35. Nxd6 h2 36. Nf5+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "SWE-ch"]
+[Site "Gothenburg"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Goransson, Bo"]
+[Black "Aurell, Bo"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Bird variation"]
+[HashCode "1bc4a1ea"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 Be6 9. Nc4 Rc8 10. Nd5 Bxd5 11. Bxf6 gxf6 12. exd5 Ne7 13. Qf3 f5
+14. Qa3 Ng6 15. O-O-O Rc5 16. b4 Rc8 17. h4 Bh6+ 18. Kb1 b5 19. h5 Ne7 20.
+Nxe5 dxe5 21. d6 Qd7 22. Qxa6 Nc6 1-0
+

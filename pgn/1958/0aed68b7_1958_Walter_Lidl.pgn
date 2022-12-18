@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Walter, R."]
+[Black "Lidl, C."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "0aed68b7"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 d5 5. exd6 Bf5 6. Nc3 Nxd6 7. e4 Nxe4
+8. Bd3 Nxf2 9. Bxf5 Nxh1 10. Nf3 Bc5 11. Ne4 Bd4 12. Bf4 c5 13. O-O-O Qa5
+14. Nxd4 cxd4 15. Nf6+ 1-0
+

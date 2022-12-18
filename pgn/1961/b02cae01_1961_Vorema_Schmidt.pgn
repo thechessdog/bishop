@@ -1,0 +1,16 @@
+[Event "USSR Tch sf"]
+[Site "USSR Tch sf"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Vorema"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "b02cae01"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 a6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. e5 h6 11. Bxf6 gxf6 12. Ne4 fxe5 13. fxe5 dxe5 14. Nf6+ Ke7
+15. Nf5+ exf5 16. Nd5+ Ke8 17. Nc7+ Ke7 18. Nd5+ 1/2-1/2

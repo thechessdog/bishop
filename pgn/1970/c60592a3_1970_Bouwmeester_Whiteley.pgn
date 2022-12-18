@@ -1,0 +1,20 @@
+[Event "Vlissingen NLD-ENG"]
+[Site "Vlissingen NLD-ENG"]
+[Date "1970.10.31"]
+[Round "1"]
+[White "Bouwmeester, Hans"]
+[Black "Whiteley, Andrew Jonathan"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[HashCode "c60592a3"]
+[Epoch "Bishop"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+[BlackCountry "ENG"]
+
+1. c4 c6 2. e4 e5 3. Nc3 Nf6 4. Nf3 d6 5. d4 Nbd7 6. Be2 g6 7. d5 cxd5 8. cxd5
+Nc5 9. Be3 Qa5 10. Bb5+ Bd7 11. Bxd7+ Nfxd7 12. O-O Qb4 13. Qc2 Be7 14. Nd2 a5
+15. a3 Qb6 16. Na4 Qb5 17. Nxc5 Nxc5 18. Bxc5 Rc8 19. b4 dxc5 20. a4 Qa6 21. b5
+Qf6 22. Nc4 b6 23. Rad1 Bd8 24. d6 O-O 25. Rd5 1-0

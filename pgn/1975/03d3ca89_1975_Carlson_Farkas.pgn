@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Farkas"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "03d3ca89"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nxe5 Bxf2+ 6. Rxf2 Nxe5 7. d4 Neg4
+8. Rf1 c6 9. e5 cxb5 10. exf6 Nxf6 11. Qe2+ Qe7 12. Qxb5 O-O 13. Bg5 Qd6 14.
+Bxf6 gxf6 15. Nc3 Qxd4+ 16. Kh1 a6 17. Qh5 d6 18. Nd5 1-0

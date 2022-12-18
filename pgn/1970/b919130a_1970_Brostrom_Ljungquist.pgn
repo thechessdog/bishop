@@ -1,0 +1,19 @@
+[Event "Naessjoe"]
+[Site "Naessjoe"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Brostrom, Goran"]
+[Black "Ljungquist, Lennart"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Opovcensky variation"]
+[HashCode "b919130a"]
+[Epoch "Bishop"]
+[WhiteID "1700197"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2 c6 7. Rc1 h6 8. h3 Be6
+9. cxd5 Nxd5 10. Ne4 Nd7 11. Bc4 Nc7 12. O-O Bxc4 13. Rxc4 Nd5 14. Nc5 Nxc5 15.
+Rxc5 Re8 16. Qc2 e6 17. Rd1 Bf8 18. Rc4 Nb6 19. Rc3 Nd5 1/2-1/2

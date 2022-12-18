@@ -1,0 +1,20 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Zorat"]
+[Black "Benvenuti, Carlo"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "25041743"]
+[Epoch "Bishop"]
+[BlackID "803120"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. e3 e6 3. Nf3 b6 4. c4 Bb4+ 5. Nc3 Bxc3+ 6. bxc3 Bb7 7. Bd3 d6 8.
+O-O Nbd7 9. Qe2 c5 10. e4 O-O 11. Bg5 h6 12. Bf4 Qe7 13. e5 Nh5 14. Bd2 dxe5
+15. Nxe5 Nhf6 16. Rae1 Rad8 17. f4 Qd6 18. Qf2 cxd4 19. cxd4 Nxe5 20. fxe5 Qxd4
+21. Bb4 Ng4 22. Qxd4 Rxd4 23. Be2 Rc8 24. Bc3 Re4 25. Bf3 Rxe1 26. Rxe1 Rxc4
+27. Bd2 Bxf3 28. gxf3 Rc2 29. Bf4 Nf2 30. Bg3 Nh3+ 31. Kf1 Rxa2 0-1

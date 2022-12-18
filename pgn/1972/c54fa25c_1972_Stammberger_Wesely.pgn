@@ -1,0 +1,20 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Stammberger, S."]
+[Black "Wesely, H."]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "c54fa25c"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Bg4 7. h3 Bxf3 8.
+Qxf3 Nc6 9. Ne2 e5 10. c3 Nd7 11. d5 exf4 12. Bxf4 Nce5 13. Bxe5 Nxe5 14.
+Qe3 Bh6 15. Qxh6 Nxd3+ 16. Kd2 Nf2 17. Rhf1 Nxe4+ 18. Kc2 Qg5 19. Qxg5 Nxg5
+20. Nd4 a6 21. Kd3 Rae8 22. Rae1 f5 23. b4 Re5 24. c4 Rfe8 25. Rxe5 dxe5
+26. Nb3 b6 27. h4 Ne4 28. Rc1 Ng3 29. a4 f4 30. c5 e4+ 31. Kd2 f3 32. Ke1
+Ne2 33. Ra1 Nf4 34. gxf3 Nxd5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Gereben, Erno"]
+[Black "Szollosi, Laszlo"]
+[Result "1-0"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit"]
+[HashCode "06bf510a"]
+[Epoch "Bishop"]
+[BlackID "701157"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Be5 Nbd7 7. cxd5 Nxe5 8.
+dxe5 Ng4 9. e6 f5 10. h3 Nf6 11. Bc4 c6 12. d6 b5 13. Bb3 Qa5 14. Ne2 Ne4 15.
+dxe7 Re8 16. Qd8 Qxd8 17. exd8=Q Rxd8 18. e7+ 1-0

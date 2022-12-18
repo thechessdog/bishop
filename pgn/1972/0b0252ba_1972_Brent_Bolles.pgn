@@ -1,0 +1,23 @@
+[Event "corr USCF"]
+[Site "corr USCF"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Brent, M."]
+[Black "Bolles, B."]
+[Result "1-0"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "0b0252ba"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Bd7 7. O-O Qc7
+8. Qe2 e5 9. Ndb5 Qc6 10. Nd5 Na6 11. Re1 Nxd5 12. exd5 Qc8 13. Bf4 f6 14.
+Rad1 Kf7 15. Bd2 Bxb5 16. Bxb5 Nc7 17. Bc4 h5 18. f4 e4 19. Qxe4 f5 20. Qd4
+Qd7 21. Re6 Qd8 22. Re2 Qf6 23. Bc3 Qxd4+ 24. Bxd4 b6 25. Bd3 Re8 26. Rxe8
+Kxe8 27. Re1+ Kd8 28. c4 Be7 29. Bxg7 Rh7 30. Bc3 h4 31. Bd4 Na6 32. g4
+hxg3 33. hxg3 Rf7 34. a3 Nc5 35. Bc2 Nd7 36. Kg2 Nf6 37. Kf3 Ng4 38. Bxf5
+Ne5+ 39. Bxe5 dxe5 40. Rxe5 Bf6 41. Re2 Rc7 42. Bd3 Kd7 43. b4 Be7 44. g4
+a5 45. g5 axb4 46. g6 Bf8 47. axb4 Kd8 48. Re6 Rb7 49. f5 Bxb4 50. f6 Bf8
+51. g7 Bxg7 52. fxg7 Rxg7 53. Rxb6 1-0
+

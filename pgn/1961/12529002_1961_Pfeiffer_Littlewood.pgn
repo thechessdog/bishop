@@ -1,0 +1,22 @@
+[Event "Neuhausen"]
+[Site "Neuhausen"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Pfeiffer"]
+[Black "Littlewood"]
+[Result "0-1"]
+[ECO "E86"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.Nge2 c6"]
+[HashCode "12529002"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8.
+Qd2 Nbd7 9. d5 cxd5 10. cxd5 a6 11. g4 b5 12. Ng3 Nb6 13. b3 Bd7 14. Rc1 b4
+15. Nd1 a5 16. Be2 Ne8 17. Bd3 Nc8 18. Nb2 Ne7 19. Nc4 Rb8 20. Qf2 f5 21.
+gxf5 gxf5 22. Bb6 Qc8 23. Rc2 Qb7 24. Nh5 Bb5 25. Nxg7 Kxg7 26. Qg2+ Kh8
+27. Be3 f4 28. Bf2 a4 29. Qh3 axb3 30. axb3 Ra8 31. Ke2 Rg8 32. Rhc1 Ra6
+33. Qf1 Ng6 34. Ra1 Rxa1 35. Qxa1 Qg7 36. Qa5 Bxc4 37. Rxc4 Qh6 38. Qd8 Ng7
+39. Qf6 Rf8 40. Qxd6 Qxh2 41. Rc7 Ne8 42. Qd7 Nxc7 43. Qxc7 Qg2 44. Bb5 h5
+45. Bd7 h4 46. d6 Ra8 47. Ba4 h3 48. d7 h2 49. d8=Q+ Rxd8 50. Qxd8+ Kg7 0-1
+

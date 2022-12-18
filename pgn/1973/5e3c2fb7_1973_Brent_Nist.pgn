@@ -1,0 +1,20 @@
+[Event "corr USCF"]
+[Site "corr USCF"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Brent, M."]
+[Black "Nist, D."]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "5e3c2fb7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Nf6 6. N1c3 Bb4 7. Nd6+
+Bxd6 8. Qxd6 a6 9. Be3 Qe7 10. Bc5 Qxd6 11. Bxd6 b5 12. Bd3 Bb7 13. O-O b4
+14. Na4 Ne7 15. Nc5 Ra7 16. Bxe5 Bc8 17. Bd6 a5 18. Rfe1 h5 19. Rad1 h4 20.
+Re3 g5 21. Bc4 Bb7 22. Bd5 Ba8 23. Bb8 Bxd5 24. exd5 Ra8 25. Bd6 Ng8 26.
+Bxe7 Nxe7 27. d6 Rc8 28. Rxe7+ Kf8 29. Rxd7 Rxc5 30. Rd8+ Kg7 31. Rxh8 Kxh8
+32. d7 Rxc2 33. d8=Q+ Kg7 34. Qxg5+ 1-0
+

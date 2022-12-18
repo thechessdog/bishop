@@ -1,0 +1,20 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Schneiders"]
+[Black "Ivkov"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "Kramer system"]
+[HashCode "45707a15"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 O-O 6. h3 e5 7. d5 c6 8. Be3
+Na6 9. g4 cxd5 10. cxd5 Qa5 11. Ng3 Nc5 12. Qb1 Qb4 13. Be2 Bd7 14. O-O a5
+15. a3 Qb3 16. a4 Qb6 17. Bb5 Rfc8 18. Rc1 Qd8 19. Ra3 h5 20. f3 Nh7 21. b4
+axb4 22. Qxb4 Qh4 23. Kg2 Bh6 24. Bxh6 hxg4 25. fxg4 Qxh6 26. Nce2 Bxb5 27.
+axb5 Ng5 28. Ng1 Nxh3 29. Rca1 Rxa3 30. Qxa3 Nd3 31. N1e2 Ndf4+ 32. Kf1 Ng5
+33. Rc1 Rxc1+ 34. Qxc1 Qh3+ 0-1
+

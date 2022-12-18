@@ -1,0 +1,19 @@
+[Event "Reykjavik zt"]
+[Site "Reykjavik"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hartston, William R"]
+[Black "Zwaig, Arne"]
+[Result "1-0"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[HashCode "e8cfbbc0"]
+[Epoch "Bishop"]
+[WhiteID "400262"]
+[WhiteCountry "ENG"]
+[BlackID "1500040"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nc6 4. d3 Bb4 5. Nf3 d5 6. exd5 Nxd5 7. O-O Bxc3 8.
+bxc3 O-O 9. Ng5 h6 10. Ne4 Nb6 11. Bb3 Na5 12. Re1 Nxb3 13. axb3 Nd5 14. c4 Ne7
+15. Ng3 Ng6 16. Bb2 Re8 17. Qh5 Qf6 18. Re4 Nf4 19. Rxe5 Kh7 20. Rxe8 1-0

@@ -1,0 +1,15 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Peters"]
+[Black "Walcheren"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "e54a2c5d"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Nh4 Qd7 7. Qf3
+Bxc2 8. Qxb7 Qxd4 9. Qxa8 Qxh4+ 10. g3 Qb4 11. Bb5+ Nd7 12. Qxb8# 1-0
+

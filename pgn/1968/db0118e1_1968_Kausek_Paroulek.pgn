@@ -1,0 +1,21 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kausek"]
+[Black "Paroulek"]
+[Result "0-1"]
+[ECO "E57"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...dc and 9...cd"]
+[HashCode "db0118e1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 dxc4 9. Bxc4 cxd4 10. exd4 Bxc3 11. bxc3 Qa5 12. Bb2 e5 13. Be2 exd4 14.
+cxd4 Be6 15. Rc1 Qb6 16. Qd2 Rfd8 17. Bd3 Rac8 18. Rc5 Rd5 19. Rxd5 Bxd5
+20. Ne5 Rd8 21. Re1 Be6 22. Nxc6 Qxc6 23. h3 Bd5 24. Qg5 h6 25. Qg3 Qd6 26.
+Re5 Qc6 27. Re3 Qd6 28. Qh4 Re8 29. Re5 Rc8 30. Qf4 Qc6 31. Qg3 Re8 32.
+Rxe8+ Nxe8 33. Bc3 Bxg2 34. Bd2 Bd5 35. Bf5 Qd6 36. Qe3 Nc7 37. Bc2 Bc6 38.
+Kf1 Qd5 39. Ke2 Nb5 40. Bc3 Nxa3 41. Bd3 Bb5 42. Kd2 Bxd3 43. Qxd3 Nc4+ 0-1
+

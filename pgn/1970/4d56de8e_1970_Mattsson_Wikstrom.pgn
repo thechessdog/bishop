@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Mattsson, B."]
+[Black "Wikstrom, B."]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "4d56de8e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 d5 9. cxd5 Nxc3 10. Qxc3 exd5 11. Ne5 c5 12. a3 Nd7 13. Nxd7 Qxd7 14.
+dxc5 Rac8 15. Rd1 Rxc5 16. Qd3 Bf6 17. e4 Qb5 18. Qxb5 Rxb5 19. exd5 Rd8
+20. d6 Bxg2 21. Kxg2 Be5 22. a4 Rb3 23. d7 Kf8 24. a5 Bc7 25. axb6 Bxb6 26.
+Ra4 f6 27. Rd5 Kf7 28. Re4 a5 29. h3 Bc7 30. g4 Rb7 31. g5 Bb6 32. gxf6
+gxf6 33. Rh5 Rdxd7 34. Rxh7+ Kg8 35. Rxd7 Rxd7 36. Be3 Bxe3 37. Rxe3 Rb7
+38. b3 Rb4 39. Re7 Rxb3 40. Ra7 Rb5 41. h4 Rb4 42. Kg3 a4 43. f3 Rc4 44. f4
+Rc3+ 45. Kg4 a3 46. Kf5 Rh3 47. h5 a2 48. Kg6 Rg3+ 49. Kxf6 Rh3 50. Rxa2
+Rxh5 51. Kg6 1-0
+

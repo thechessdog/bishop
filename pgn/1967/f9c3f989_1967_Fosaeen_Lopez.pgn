@@ -1,0 +1,16 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Fosaeen, J."]
+[Black "Lopez Pereyra, Migu"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "f9c3f989"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Nd5 5. Qxd4 c6 6. Bc4 Nb4 7. Na3 c5 8. Qf4
+Qe7 9. O-O g6 10. c3 N4c6 11. Nb5 Bg7 12. Nc7+ Kd8 13. Nd5 Bxe5 14. Nxe5 Qxe5
+15. Qxf7 h6 16. Bf4 Qe8 17. Bc7# 1-0

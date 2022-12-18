@@ -1,0 +1,27 @@
+[Event "Freiberg ch19-DDR"]
+[Site "Freiberg ch19-DDR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Boehnisch, Manfred"]
+[Black "Baumbach, Friedrich, Dr."]
+[Result "0-1"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, symmetrical variation"]
+[HashCode "c8bfc33a"]
+[Epoch "Bishop"]
+[WhiteID "4611543"]
+[WhiteCountry "GER"]
+[BlackID "4611721"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 c5 5. Nc3 Nc6 6. Bd3 Bd6 7. O-O O-O 8. b3 b6
+9. Bb2 Bb7 10. Rc1 cxd4 11. exd4 Bf4 12. Rb1 Rc8 13. Bc1 Bxc1 14. Rxc1 dxc4 15.
+bxc4 Nb4 16. Ne5 Nxd3 17. Qxd3 Qe7 18. f3 Rfd8 19. Rfd1 Nd7 20. Nxd7 Rxd7 21.
+Ne4 h6 22. Rd2 Ba6 23. Ng3 Qd6 24. Ne4 Qb4 25. Rdc2 Rcd8 26. Rd2 f5 27. Nf2
+Rxd4 28. Qxd4 Qxd2 29. Qa1 Qd4 30. Qxd4 Rxd4 31. c5 bxc5 32. Rxc5 Ra4 33. Rc2
+Bc4 34. Nd1 Bxa2 35. Nc3 Bb3 36. Rb2 Rb4 37. Kf2 Rb6 38. Ke3 Kf7 39. Kd4 Kf6
+40. Kc5 Rb8 41. Kd6 Rb4 42. Ne2 a5 43. Kc5 g5 44. Rb1 Rb8 45. Ra1 a4 46. Nc3
+Rd8 47. Kb4 Rd4+ 48. Ka3 Rd2 49. Rg1 Ke5 50. Nxa4 Bxa4 51. Kxa4 Kd4 52. Kb3 e5
+53. h4 gxh4 54. Rh1 Rxg2 55. Rxh4+ Ke3 56. Rh5 Rg5 57. Rh3 Kf4 58. Kc4 Rg3 59.
+Rxh6 Kxf3 60. Kd5 e4 61. Ke5 e3 0-1

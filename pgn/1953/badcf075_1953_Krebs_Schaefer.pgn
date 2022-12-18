@@ -1,0 +1,25 @@
+[Event "corr ch3-BRD"]
+[Site "corr ch3-BRD"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Krebs, H."]
+[Black "Schlaugat, Michael"]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "badcf075"]
+[Epoch "Bishop"]
+[BlackID "4607503"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8. a3
+Ba5 9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3 Bg4 12. a4 Qa5 13. Qc2 Bxf3 14. gxf3
+Rfe8 15. Ba3 Re5 16. f4 Rh5 17. Be2 Rh6 18. Kh1 Ne4 19. Bf3 Re8 20. c4 Nd2 21.
+Bxd5 Nxf1 22. Rxf1 Nb4 23. Qc3 Nc6 24. Qc2 Nb4 25. Bxb4 Qxb4 26. Rb1 Qxc5 27.
+Qf5 Qf8 28. Rxb7 Rf6 29. Qc2 Qc5 30. Rb5 Qd6 31. Bf3 Rg6 32. Rd5 Qb4 33. Rd1
+Qc5 34. Be4 Rh6 35. Rd5 Qc8 36. Bg2 Rd8 37. Rxd8+ Qxd8 38. c5 Qc7 39. h3 Re6
+40. c6 Re8 41. Qf5 g6 42. Qc5 Qb6 43. Qc4 Re7 44. Qc3 Qc7 45. Bd5 Re8 46. Kg2
+Rd8 47. Bf3 Rd6 48. Qc5 Kg7 49. Bd5 Rd8 50. Kf3 Re8 51. e4 f6 52. Bc4 Kh6 53.
+Ba6 g5 54. fxg5+ fxg5 55. Kg2 Re7 56. a5 Re8 57. Bb7 Re7 58. f3 Re5 59. Qf8+
+Kh5 60. Bc8 Qxc6 61. Qg8 1-0

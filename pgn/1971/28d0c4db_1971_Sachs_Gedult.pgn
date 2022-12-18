@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Sachs, Jonathan"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "28d0c4db"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Bc5 5. Bc4 Nh6 6. Nxf7 Qd4 7. Qh5 Qf2+ 8.
+Kd1 Bg4+ 0-1

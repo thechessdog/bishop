@@ -1,0 +1,17 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Swihart, T."]
+[Black "Hall, J."]
+[Result "0-1"]
+[ECO "D84"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit accepted"]
+[HashCode "d8a62434"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5
+8. Bxc7 Nc6 9. Nf3 Bf5 10. a3 Rac8 11. Bg3 Bc2 12. Qd2 Na5 13. e4 Qxe4+ 14.
+Qe3 Nb3 15. Ra2 Qxe3+ 16. fxe3 Bb1 0-1
+

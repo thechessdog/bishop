@@ -1,0 +1,18 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Vitolinsh, Alvis"]
+[Black "Remert, T."]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "3c110fb1"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d4 Nxd4 8.
+Nxd4 exd4 9. e5 Ne4 10. c3 d3 11. Be3 c5 12. c4 d5 13. Qxd3 dxc4 14. Qxd8+ Rxd8
+15. Bc2 Be7 16. a4 b4 17. Bd1 Rd5 18. f3 Rd3 19. Bc1 Ng5 20. Be2 Rd4 21. Be3
+Ne6 22. Rc1 Nf4 23. Bxc4 Nd3 24. Bxd4 Nxc1 25. Be3 O-O 26. Nd2 1-0

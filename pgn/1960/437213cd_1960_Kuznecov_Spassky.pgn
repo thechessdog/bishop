@@ -1,0 +1,20 @@
+[Event "Kislovodsk"]
+[Site "Kislovodsk"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Kuznecov, Alex"]
+[Black "Spassky, Boris V."]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "437213cd"]
+[Epoch "Bishop"]
+[WhiteID "2600331"]
+[BlackID "600024"]
+[WhiteCountry "CAN"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 9. Qd3 Qxb2 10. Rb1 Qa3 11. f5 Be7 12. fxe6 fxe6 13. e5 dxe5 14. Qg6+ Kf8
+15. Rb3 Qc1+ 16. Nd1 exd4 17. Bb5 axb5 18. O-O 0-1

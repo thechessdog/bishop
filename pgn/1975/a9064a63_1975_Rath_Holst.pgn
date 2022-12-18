@@ -1,0 +1,22 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1975.07.11"]
+[Round "7"]
+[White "Rath, Ulrik"]
+[Black "Holst, Per"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "a9064a63"]
+[Epoch "Bishop"]
+[WhiteID "1400223"]
+[BlackID "1405411"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 e6 2. Nc3 Nf6 3. d4 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+O-O 9. a4 Nbd7 10. Be2 c5 11. O-O Ne4 12. Nxe4 dxe4 13. Bb2 Bb7 14. a5 Rc8 15.
+Qd2 Qc7 16. Rfd1 Rfd8 17. d5 exd5 18. cxd5 Nf6 19. d6 Qd7 20. axb6 axb6 21. h3
+Ne8 22. Qc3 Ra8 23. Rxa8 Bxa8 24. Bg4 f5 25. Be2 Nf6 26. Bc4+ Kh8 27. Qxf6 gxf6
+28. Bxf6+ Qg7 29. Bxd8 Bc6 30. d7 1-0

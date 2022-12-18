@@ -1,0 +1,24 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Barwinski, Dionizy"]
+[Black "Krause, Christian"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "bec169be"]
+[Epoch "Bishop"]
+[WhiteID "1104365"]
+[BlackID "4608429"]
+[WhiteCountry "POL"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. h3
+Bxb5 9. Nxb5 cxd4 10. hxg4 Qa5+ 11. Kf2 Qxb5 12. exd6 Nc6 13. dxe7 Qc5 14. Kg3
+Nxe7 15. b4 Qd6 16. c3 d3 17. Qa4+ Qc6 18. Qxc6+ bxc6 19. Bd2 O-O 20. Rae1 Nd5
+21. Ne5 a5 22. a3 axb4 23. axb4 Ra2 24. Rd1 Bxe5 25. fxe5 Rc2 26. Bh6 Rb8 27.
+Rhf1 Rxc3 28. Kh4 Rc4 29. Rxd3 Rbxb4 30. g3 Rxg4+ 31. Kh3 Rge4 32. Bd2 Rbd4 33.
+Rxd4 Rxd4 34. Bh6 Re4 35. Rb1 f6 36. exf6 Nxf6 37. Rb7 Ng4 38. Rb8+ Kf7 39.
+Rb7+ Kf6 40. Rxh7 Nxh6 41. Rxh6 Kg7 0-1

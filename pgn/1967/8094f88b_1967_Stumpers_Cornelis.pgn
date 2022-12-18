@@ -1,0 +1,23 @@
+[Event "Eersel"]
+[Site "Eersel"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Stumpers"]
+[Black "Cornelis"]
+[Result "0-1"]
+[ECO "D50"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch"]
+[HashCode "8094f88b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c5 5. cxd5 cxd4 6. Qxd4 Be7 7. Rd1 exd5
+8. Nxd5 Nxd5 9. Qxg7 Bb4+ 10. Bd2 Qf6 11. Qxf6 Bxd2+ 12. Rxd2 Nxf6 13. f3
+Be6 14. b3 Nc6 15. e4 Ke7 16. Ne2 Rhd8 17. Nc3 Rxd2 18. Kxd2 Rd8+ 19. Ke3
+Nb4 20. Be2 Nc2+ 21. Kf2 Rc8 22. Nb1 Nb4 23. a3 Na2 24. b4 Nc3 25. Nxc3
+Rxc3 26. Ra1 Bc4 27. Bxc4 Rxc4 28. g4 Nd7 29. g5 Ke6 30. h4 Rc2+ 31. Kg3
+Rc3 32. a4 Ne5 33. Rf1 Nd3 34. Kg4 Nxb4 35. Kh5 f5 36. Kh6 Rc7 37. h5 Nd3
+38. g6 hxg6 39. hxg6 Kf6 40. Rd1 Rc2 41. Kh7 Rh2+ 42. Kg8 fxe4 43. fxe4 Ne5
+44. g7 Ke7 45. Rb1 Nc6 46. Rxb7+ Ke8 47. a5 Ne7+ 48. Rxe7+ Kxe7 49. e5 a6
+50. e6 Kxe6 51. Kf8 Rf2+ 52. Ke8 Rg2 53. Kf8 Kd6 0-1
+

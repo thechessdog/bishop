@@ -1,0 +1,20 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Klein, Lawrence"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "3720a766"]
+[Epoch "Bishop"]
+[WhiteID "710741"]
+[BlackID "2002655"]
+[WhiteCountry "HUN"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+h6 9. Bh4 g5 10. Bg3 Nh5 11. Bb5+ Bd7 12. Bxd7+ Qxd7 13. Ne5 dxe5 14. Qxh5 Qe7
+15. Nd1 Qf6 16. Ne3 Qg6 17. Nf5 Nd7 18. Qxg6 1-0

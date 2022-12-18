@@ -1,0 +1,19 @@
+[Event "Spain"]
+[Site "Spain"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pomar Salamanca, Arturo"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "2830ebe3"]
+[Epoch "Bishop"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+[WhiteCountry "EST"]
+
+1. e4 e6 2. d4 d5 3. exd5 Qxd5 4. Nc3 Bb4 5. Nf3 Nf6 6. Bd3 Ne4 7. Bd2 Bxc3 8.
+bxc3 Nxd2 9. Qxd2 O-O 10. O-O Nd7 11. Rfe1 Qd6 12. Re4 Nf6 13. Rh4 b6 14. Qg5
+Bb7 15. Ne5 Qd5 16. f3 h5 17. Rh3 Ng4 18. Qxh5 Nh6 19. Rg3 1-0

@@ -1,0 +1,19 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "2"]
+[White "Lee, Chee Kian"]
+[Black "Hernandez, Roman"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "d6635f60"]
+[Epoch "Bishop"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O Re8 10. Bg5 Nbd7 11. h3 a6 12. a4 Qc7 13. Ng3 h6 14. Be3 c4 15. Bc2
+h5 16. f4 h4 17. Nge2 Nh5 18. Qd2 Nc5 19. e5 Bf5 20. Bxf5 gxf5 21. Qc2 Nd3 22.
+Rad1 dxe5 23. fxe5 Bxe5 24. Rxf5 Bh2+ 25. Kf1 Rxe3 26. Rxh5 Rc8 27. Rxh4 Qb6
+28. Rg4+ Kf8 29. Ne4 Rxe2 30. Qxd3 cxd3 31. Rxd3 0-1

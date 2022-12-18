@@ -1,0 +1,20 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Palmiotto"]
+[Black "Caroprese"]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "57c199ab"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d6 4. e4 Bg7 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+cxd5 9. cxd5 a6 10. Bd3 Ne8 11. g4 f5 12. Na4 fxe4 13. Bxe4 Nd7 14. h4 Nef6
+15. Bc2 b5 16. Nc3 Bb7 17. h5 Qe8 18. hxg6 hxg6 19. Bh6 e4 20. Bxg7 Kxg7
+21. Qh6+ Kf7 22. g5 Nxd5 23. Bb3 exf3+ 24. Kf1 f2 25. Nxd5 fxg1=Q+ 26. Kxg1
+Bxd5 27. Bxd5+ Ke7 28. Re1+ Ne5 29. Qg7+ Rf7 30. Rxe5+ dxe5 31. Qxe5+ Kd7
+32. Qxe8+ Rxe8 33. Bxf7 1-0
+

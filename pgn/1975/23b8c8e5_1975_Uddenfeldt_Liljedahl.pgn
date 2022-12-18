@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Uddenfeldt, Dan"]
+[Black "Liljedahl, Lennart"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "23b8c8e5"]
+[Epoch "Bishop"]
+[WhiteID "1700243"]
+[BlackID "1700758"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 c5 6. a3 Bxc3+ 7. bxc3 d6 8. Ng3
+Nc6 9. Bd3 b6 10. O-O Ba6 11. Qe2 Rc8 12. Bb2 1/2-1/2

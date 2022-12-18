@@ -1,0 +1,16 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Astapovich"]
+[Black "Golosov"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "97a0553c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Nf5 O-O 7. Bg5 Re8
+8. Bc4 Nxe4 9. Bxf7+ Kxf7 10. Qd5+ Kf8 11. Nh6 1-0
+

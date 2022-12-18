@@ -1,0 +1,16 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Veresov, Gavril"]
+[Black "Zheliandinov, Viktor"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "c1b206a6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 e6 5. e4 h6 6. Bh4 g5 7. Bg3 Nxe4 8.
+Nxe4 dxe4 9. Nd2 Bg7 10. h4 Bxd4 11. c3 gxh4 12. Rxh4 Bf6 13. Qh5 Bg5 14. Nxe4
+Rg8 15. Rd1 a6 16. Rg4 e5 17. Bc4 Qe7 18. Bh4 Nf6 19. Rxg5 hxg5 20. Bxf7+ Kf8
+21. Nxf6 1-0

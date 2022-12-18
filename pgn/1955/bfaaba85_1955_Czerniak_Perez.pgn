@@ -1,0 +1,17 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Czerniak, Moshe"]
+[Black "Perez Perez, Francisco Jose"]
+[Result "1-0"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "bfaaba85"]
+[Epoch "Bishop"]
+[WhiteCountry "ISR"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 e5 6. dxe5 dxe5 7. Qxd8+ Kxd8 8.
+Bg5 c6 9. f4 h6 10. Bh4 1-0

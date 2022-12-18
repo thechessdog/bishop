@@ -1,0 +1,18 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1950.09.01"]
+[Round "1"]
+[White "Letelier, Rene"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "cd3c192e"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "CHL"]
+
+1. d4 Nf6 2. c4 e6 3. a3 d5 4. Nc3 c6 5. e3 Nbd7 6. Nf3 a6 7. Bd3 dxc4 8. Bxc4
+b5 9. Ba2 c5 10. dxc5 Bxc5 11. b4 Be7 12. Bb2 Bb7 13. O-O Nb6 14. Ne5 O-O 15.
+Qb3 Nfd5 16. Rac1 Bf6 17. Ne4 Bxe5 18. Bxe5 Nc4 19. Nc5 Bc6 20. Rxc4 bxc4 21.
+Qxc4 Qg5 22. Nd3 Bb5 0-1

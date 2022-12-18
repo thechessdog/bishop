@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Kavnatzky"]
+[Black "Sadursky"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical variation"]
+[HashCode "9923056b"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Nf3 O-O
+8. Bd3 c5 9. h4 f6 10. Nb5 a6 11. Bxh7+ Kxh7 12. Ng5+ Kg6 13. Qd3+ f5 14.
+Nd6 Nc6 15. Qg3 f4 16. h5+ Kh6 17. Ngf7+ Kh7 18. Qg6+ Kg8 19. h6 1-0
+

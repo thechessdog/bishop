@@ -1,0 +1,24 @@
+[Event "Groningen ch-EU jr"]
+[Site "Groningen ch-EU jr"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Holt"]
+[Black "Ermenkov, Evgenij"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "530ea6e0"]
+[Epoch "Bishop"]
+[BlackID "2900106"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 d6 7. Bc4 Nf6 8. f3
+O-O 9. Qd2 Bd7 10. Bb3 Rc8 11. h4 Ne5 12. h5 Nxh5 13. g4 Nf6 14. Nd5 Nxd5 15.
+exd5 Rc4 16. O-O-O Rxd4 17. Qxd4 Nxg4 18. Qd2 Nxe3 19. Qxe3 a5 20. Rh2 a4 21.
+Bc4 Bf5 22. Rdh1 h5 23. Bd3 Bxd3 24. Qxd3 Qb6 25. c3 a3 26. b3 Qc5 27. Rc2 b5
+28. b4 Qb6 29. Kb1 Rc8 30. f4 Rc4 31. f5 Rg4 32. fxg6 fxg6 33. Rf1 Bf6 34. Rcf2
+Qc7 35. Rf3 Qd7 36. Qe3 Kg7 37. Qf2 Qd8 38. Qa7 Kh6 39. Qxa3 Qg8 40. Qc1+ Bg5
+41. Qd1 Rg2 42. Rf8 Qg7 43. Rc8 h4 44. Rff8 Be3 45. Qf3 Rg1+ 46. Kc2 Qe5 47.
+Rh8+ Kg5 48. Kd3 Rg3 49. Qh5+ gxh5 50. Rcg8+ Kf5 51. Rf8+ Kg4 52. Rhg8+ Bg5+
+53. Kc2 Qxc3+ 54. Kd1 Qd2# 0-1

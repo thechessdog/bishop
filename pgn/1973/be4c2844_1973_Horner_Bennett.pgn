@@ -1,0 +1,22 @@
+[Event "Eastborne ch-BCF"]
+[Site "Eastborne ch-BCF"]
+[Date "1973.08.01"]
+[Round "1"]
+[White "Horner, Jeff"]
+[Black "Bennett, Gerald H"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "be4c2844"]
+[Epoch "Bishop"]
+[WhiteID "400572"]
+[WhiteCountry "ENG"]
+[BlackID "400998"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. c3 e6 3. Nf3 Nc6 4. Bb5 Nge7 5. O-O a6 6. Bxc6 Nxc6 7. d4 d5 8.
+exd5 Qxd5 9. Be3 Qh5 10. Nbd2 cxd4 11. cxd4 Bd6 12. Nc4 Bc7 13. Qd2 b5 14. Nce5
+Nxe5 15. dxe5 Bb7 16. Rac1 Bxe5 17. Nxe5 Qxe5 18. Rc5 Bd5 19. Bd4 Qe4 20. f3
+Qg6 21. Rxd5 exd5 22. Re1+ Kd7 23. Bxg7 Rhe8 24. Qxd5+ Kc7 25. Rc1+ Kb8 26.
+Be5+ Rxe5 27. Qd8+ Kb7 28. Qc7# 1-0

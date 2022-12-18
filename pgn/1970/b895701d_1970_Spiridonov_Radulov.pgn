@@ -1,0 +1,20 @@
+[Event "Godine"]
+[Site "Godine"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Spiridonov, Nikola"]
+[Black "Radulov, Ivan"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "b895701d"]
+[Epoch "Bishop"]
+[WhiteID "2900238"]
+[WhiteCountry "FID"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 Nc6 6. Bg2 Be7 7. O-O O-O 8. e5
+Nd7 9. Re1 Qc7 10. Qe2 b5 11. h4 b4 12. Nf1 a5 13. Bf4 Ba6 14. Ne3 Nb6 15. Ng5
+h6 16. Qh5 hxg5 17. hxg5 g6 18. Qh6 Rfc8 19. Ng4 Nd7 20. Nf6+ Nxf6 21. gxf6 Bf8
+22. Qh3 Nd4 23. Kh2 c4 24. Rh1 Ne2 25. Bf3 Nxf4 26. gxf4 Bg7 27. Kg2 Kf8 28.
+Qh8+ 1-0

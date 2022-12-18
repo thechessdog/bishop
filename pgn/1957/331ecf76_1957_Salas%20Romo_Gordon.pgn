@@ -1,0 +1,20 @@
+[Event "Santiago"]
+[Site "Santiago"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Salas Romo, Julio"]
+[Black "Gordon, Bernardo"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "331ecf76"]
+[Epoch "Bishop"]
+[WhiteCountry "CHL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 d6 6. c3 Bd7 7. O-O b5 8. Bc2
+Be7 9. h3 O-O 10. Rd1 Be6 11. d3 d5 12. Ng5 Bd7 13. exd5 Nxd5 14. Nxh7 Kxh7 15.
+Qe4+ f5 16. Qxd5 Bd6 17. Qf3 Qe8 18. Nd2 Ne7 19. Qg3 Rf6 20. Nf3 f4 21. Ng5+
+Kh8 22. Qf3 Nf5 23. d4 Nh4 24. Nf7+ Kg8 25. Qh5 Qxf7 26. Qh7+ Kf8 27. Qh8+ Qg8
+28. Qxh4 Rh6 29. Qg5 Qf7 30. dxe5 Rh5 31. Qxf4 Rxe5 32. Qxf7+ Kxf7 33. Bf4 Re6
+34. Bb3 1-0

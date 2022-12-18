@@ -1,0 +1,18 @@
+[Event "Hastings I"]
+[Site "Hastings I"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Philips, A."]
+[Black "Nunn, John D M"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "868c827d"]
+[Epoch "Bishop"]
+[BlackID "400017"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 b5 6. Bd3 Nd7 7. f4 Bb7 8. Nf3 c5
+9. d5 Ngf6 10. a3 O-O 11. Rd1 e6 12. dxe6 fxe6 13. Ng5 Qe7 14. O-O Ng4 15. e5
+dxe5 16. Bxg6 hxg6 17. Qxd7 Qxd7 18. Rxd7 Nxe3 19. Rxb7 Nxf1 20. Nxe6 Rf7 21.
+Rxf7 Kxf7 0-1

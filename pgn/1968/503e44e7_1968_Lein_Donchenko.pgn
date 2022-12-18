@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Lein, Anatoly"]
+[Black "Donchenko"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "503e44e7"]
+[Epoch "Bishop"]
+[WhiteID "2000270"]
+[WhiteCountry "USA"]
+
+1. Nf3 d5 2. b3 c5 3. e3 Nc6 4. Bb2 Bg4 5. Bb5 Nf6 6. h3 Bd7 7. O-O e6 8. d3
+Be7 9. Nbd2 Nb8 10. a4 a6 11. Bxd7+ Nbxd7 12. e4 O-O 13. a5 Nb8 14. Ne5 Nfd7
+15. Nxd7 Nxd7 16. f4 Nb8 17. f5 exf5 18. Rxf5 d4 19. Nc4 Nd7 20. Qg4 Qc7 21.
+Raf1 f6 22. Bc1 Kh8 23. Rh5 1-0

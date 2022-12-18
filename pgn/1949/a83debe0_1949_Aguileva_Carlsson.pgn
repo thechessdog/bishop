@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Aguileva"]
+[Black "Carlsson"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "a83debe0"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. Bc4 g5 5. d4 Bg7 6. c3 Qe7 7. O-O d6 8. e5
+dxe5 9. Nxe5 Bxe5 10. Re1 f6 11. b3 Nd7 12. Qh5+ Kd8 13. Ba3 Qg7 14. Nd2
+Ne7 15. dxe5 Nxe5 16. Rad1 Bg4 17. Nf3+ Kc8 18. Nxe5 Bxh5 19. Be6+ Kb8 20.
+Nd7+ Kc8 21. Nf8+ Kb8 22. Rd8+ Nc8 23. Rxc8# 1-0
+

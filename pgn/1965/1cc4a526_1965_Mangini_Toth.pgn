@@ -1,0 +1,22 @@
+[Event "Rio de Janeiro"]
+[Site "Rio de Janeiro"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Mangini,Jose Henrique de Mello"]
+[Black "Toth, Peter"]
+[Result "1-0"]
+[ECO "C96"]
+[Opening "Ruy Lopez"]
+[Variation "closed (10...c5)"]
+[HashCode "1cc4a526"]
+[Epoch "Bishop"]
+[WhiteID "2140950"]
+[WhiteCountry "BRA"]
+[BlackID "2100517"]
+[BlackCountry "BRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Bb7 12. Nbd2 cxd4 13. cxd4 Rc8 14. Nf1 d5 15.
+exd5 exd4 16. Nxd4 Qxd5 17. Ne3 Qc5 18. b4 Qxb4 19. Bd2 Qa3 20. Nef5 Bd8 21.
+Re3 Qc5 22. Bxa5 Bxa5 23. Ne7+ Kh8 24. Nxc8 Rxc8 25. Nb3 Qc6 26. Be4 Nxe4 27.
+Nxa5 Nxf2 28. Nxc6 Nxd1 29. Rxd1 1-0

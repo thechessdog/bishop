@@ -1,0 +1,25 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Marcus, J."]
+[Black "Zuidema, Coen"]
+[Result "0-1"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Petrosian variation"]
+[HashCode "56f238f8"]
+[Epoch "Bishop"]
+[BlackID "1000101"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. Nc3 O-O 6. e3 h6 7. Bxf6 Bxf6 8. Rc1
+c6 9. Bd3 Nd7 10. O-O dxc4 11. Bxc4 e5 12. Ne4 exd4 13. Nxf6+ Nxf6 14. Qxd4 Bg4
+15. Qf4 Qe7 16. h3 Bxf3 17. Qxf3 Rad8 18. Rfd1 c5 19. Qf5 b6 20. a3 Rd6 21. Be2
+Rfd8 22. Rxd6 Rxd6 23. Qc2 Qe5 24. b4 cxb4 25. axb4 Rd8 26. Qc7 Qxc7 27. Rxc7
+Rd7 28. Rc8+ Kh7 29. Kf1 Nd5 30. b5 Kg6 31. Bd3+ Kf6 32. Ke2 Ke7 33. Kf3 Nf6
+34. Bc4 Ne8 35. Ra8 Rc7 36. Bd5 Nf6 37. Bc6 Kd6 38. e4 Re7 39. Rc8 Kc5 40. h4
+Kb4 41. g4 Nd7 42. Kf4 Ne5 43. Rg8 a5 44. Rxg7 Nxc6 45. bxc6 a4 46. Rg8 a3 47.
+Ra8 Rc7 48. g5 hxg5+ 49. Kxg5 Rxc6 50. e5 Rc5 51. Kf6 Ra5 52. Rd8 a2 53. Rd1
+a1=Q 54. Rxa1 Rxa1 55. Kxf7 Kc5 56. h5 Ra7+ 57. Kg6 b5 58. h6 b4 59. h7 Ra8 60.
+e6 b3 61. e7 b2 0-1

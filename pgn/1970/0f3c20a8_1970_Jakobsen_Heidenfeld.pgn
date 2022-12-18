@@ -1,0 +1,17 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Jakobsen, Ole"]
+[Black "Heidenfeld, Wolfgang"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "0f3c20a8"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+[BlackCountry "IRL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6 8.
+Qe2 Nc6 9. Rd1 Be7 10. Nb3 e5 11. Bb5 Bg4 12. Bxc6+ bxc6 13. Qxe5 Qxe5 0-1

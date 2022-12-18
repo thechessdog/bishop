@@ -1,0 +1,19 @@
+[Event "BRD"]
+[Site "BRD"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Karker"]
+[Black "Radisch"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Riga variation"]
+[HashCode "24688411"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4 7. Re1 f5
+8. Nxd4 Qh4 9. g3 Qh3 10. Bxc6 dxc6 11. f3 Bc5 12. fxe4 O-O 13. Qd3 Be6 14.
+Be3 fxe4 15. Qc3 Bxd4 16. Bxd4 Rf3 17. Qd2 Rxg3+ 18. hxg3 Qxg3+ 19. Kh1 e3
+20. Bxe3 Bd5+ 21. Qxd5+ cxd5 22. Nd2 Rf8 23. Bc5 Qh4+ 24. Kg1 Qg5+ 25. Kh1
+Qh5+ 26. Kg2 Rf6 0-1
+

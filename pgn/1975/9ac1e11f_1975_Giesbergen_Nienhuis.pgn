@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Giesbergen"]
+[Black "Nienhuis"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "9ac1e11f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5
+8. Ba3 dxc4 9. e4 Qd7 10. Be2 Nc6 11. O-O O-O-O 12. Qc2 Kb8 13. Rfd1 Qe8
+14. Rab1 Ka8 15. Nf1 Ne7 16. Ne3 Bb7 17. f3 Ng6 18. Bxc4 Nd5 19. Bc1 Nxe3
+20. Bxe3 Bc6 21. Bb3 h5 22. c4 Ne7 23. Bf4 Rc8 24. d5 Bb7 25. Ba4 Qf8 26.
+Bd7 Rd8 27. dxe6 Ng6 28. Be3 Qe7 29. c5 fxe6 30. Qa4 Kb8 31. cxb6 axb6 32.
+Rxb6 cxb6 33. Bxb6 Ba6 34. Bc7+ 1-0
+

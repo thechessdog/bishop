@@ -1,0 +1,18 @@
+[Event "Tacoma,WA"]
+[Site "Tacoma,WA"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "2f3da44e"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Be3 Qb6 6. b3 Nge7 7. g3 Nf5 8. Qd2
+Nxe3 9. Qxe3 Be7 10. Bg2 O-O 11. O-O Nb4 12. Qc3 cxd4 13. Nxd4 Bc5 14. a3 Bxd4
+15. Qxb4 Qxb4 16. axb4 Bxa1 0-1

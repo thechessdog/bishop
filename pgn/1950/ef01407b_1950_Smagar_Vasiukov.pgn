@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Smagar"]
+[Black "Vasiukov, Evgeni"]
+[Result "0-1"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Reti-Tartakower variation"]
+[HashCode "ef01407b"]
+[Epoch "Bishop"]
+[BlackID "4100522"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6 8.
+O-O O-O 9. Nb3 Be6 10. f4 Qc8 11. h3 Rd8 12. Bf3 Bc4 13. Rf2 e5 14. Rd2 Qc7 15.
+g4 d5 16. exd5 exf4 17. d6 Rxd6 18. Rxd6 fxe3 19. Nc5 e2 20. Nxe2 Bxe2 21. Bxe2
+Qb6 22. b4 Ne4 0-1

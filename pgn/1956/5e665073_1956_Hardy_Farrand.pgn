@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Hardy"]
+[Black "Farrand"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "5e665073"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. b4 Bb6 6. Nxf7 Bxf2+ 7. Kf1
+Qe7 8. Nxh8 d5 9. exd5 Nd4 10. Be2 Qf8 11. d3 Nxe2 12. Qxe2 Bd4 13. c3 Bg4
+14. Qb2 Ne4+ 15. Ke1 Bf2+ 16. Kf1 Be3+ 17. Ke1 Bxc1 18. Qc2 Bd2+ 0-1
+

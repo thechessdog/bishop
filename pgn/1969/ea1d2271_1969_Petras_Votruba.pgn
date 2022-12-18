@@ -1,0 +1,20 @@
+[Event "CSR-J U26"]
+[Site "Cihak"]
+[Date "1969.12.29"]
+[Round "4"]
+[White "Petras, Jan"]
+[Black "Votruba, Pavel"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "ea1d2271"]
+[Epoch "Bishop"]
+[WhiteID "311413"]
+[BlackID "301019"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. a3 Bxc3+ 7. Qxc3 Qe7 8.
+b3 e5 9. dxe5 dxe5 10. Bb2 Ne4 11. Qe3 Bf5 12. g3 Qc5 13. Bg2 Qa5+ 14. Kf1
+O-O-O 15. g4 Bg6 16. Nh4 Qd2 0-1

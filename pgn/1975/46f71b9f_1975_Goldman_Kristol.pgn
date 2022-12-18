@@ -1,0 +1,20 @@
+[Event "URS-chT"]
+[Site "Riga"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Goldman, L."]
+[Black "Kristol, Luba"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "46f71b9f"]
+[Epoch "Bishop"]
+[BlackID "2801035"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. Bxc6 dxc6 7. d3 O-O 8.
+Nbd2 Qc7 9. e5 Nd5 10. h3 Rd8 11. Ne4 b6 12. a3 c4 13. Bd2 cxd3 14. c4 Bxe5 15.
+Nxe5 Qxe5 16. cxd5 Qxd5 17. Bg5 Qd7 18. Qf3 f6 19. Bxf6 Rf8 20. g4 Bb7 21. Rad1
+c5 22. Rxd3 Qc6 23. Qg3 c4 24. Rd2 exf6 25. Rd6 Qb5 26. Nxf6+ Rxf6 27. Rxf6 Qd5
+28. Kf1 Qh1+ 29. Qg1 Qxh3+ 30. Ke2 Qd3# 0-1

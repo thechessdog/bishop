@@ -1,0 +1,21 @@
+[Event "Luhacovice"]
+[Site "Luhacovice"]
+[Date "1969.01.01"]
+[Round "2"]
+[White "Augustin, Josef"]
+[Black "Mista, Ladislav"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "eae68d39"]
+[Epoch "Bishop"]
+[WhiteID "300373"]
+[WhiteCountry "CZE"]
+[BlackID "300640"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. c3 cxd4 5. cxd4 d5 6. e5 Bg4 7. Nbd2 Qa5 8. Qb3
+Nd7 9. Qxb7 Rb8 10. Qa6 Qxa6 11. Bxa6 f6 12. exf6 Ngxf6 13. Bd3 Nh5 14. h3 Nf4
+15. Bb1 Bxf3 16. Nxf3 O-O 17. Bxf4 Rxf4 18. Bc2 Rxb2 19. O-O-O Rxa2 20. Bb3
+Rxf2 21. Bxd5+ Kh8 22. Rhe1 Nb6 23. Bb7 Bh6 24. Ne5 R4f3+ 25. Kb1 Rb3+ 0-1

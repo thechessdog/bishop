@@ -1,0 +1,24 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Lengyel, L."]
+[Black "Suba, Mihai"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "bdc7349a"]
+[Epoch "Bishop"]
+[BlackID "1203363"]
+[BlackCountry "ESP"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+c6 9. Rb1 Re8 10. Re1 Ng4 11. h3 exd4 12. Nxd4 Qb6 13. hxg4 Bxd4 14. Rf1 a5 15.
+Bf3 Ne5 16. Be2 Nxg4 17. Bxg4 Bxg4 18. Qxg4 Bxc3 19. Bf4 Be5 20. Rfd1 Qc5 21.
+b3 Bxf4 22. Qxf4 Re6 23. Rd3 Rae8 24. Rf3 R8e7 25. Rd1 Rxe4 26. Qxd6 Qh5 27.
+Kg2 Qe5 28. Qxe5 R4xe5 29. Rd8+ Kg7 30. Ra8 Rd7 31. Ra7 h5 32. Rc3 Rc5 33. Re3
+g5 34. Re2 Kg6 35. Kh2 f6 36. Kg2 Rh7 37. Re8 h4 38. gxh4 gxh4 39. Rb8 h3+ 40.
+Kh2 Rf5 41. Rg8+ Kf7 42. Rg1 Ke6 43. Re1+ Kd6 44. Re2 Kc7 45. Ra8 Kb6 46. Rg8
+Rh4 0-1

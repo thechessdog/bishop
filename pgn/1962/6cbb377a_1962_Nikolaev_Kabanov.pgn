@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Nikolaev"]
+[Black "Kabanov"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "6cbb377a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. Qd3 e6 5. e4 dxe4 6. Nxe4 Be7 7. Bxf6 Bxf6
+8. O-O-O O-O 9. f4 Na6 10. c3 b5 11. h4 Bb7 12. Nf3 b4 13. Nfg5 g6 14. h5
+bxc3 15. hxg6 fxg6 16. Qh3 h5 17. Qxe6+ Kg7 18. Bxa6 cxb2+ 19. Kb1 Bxa6 20.
+Qxc6 Bxg5 21. Nxg5 Bc8 22. Kxb2 Rb8+ 23. Ka1 Rxf4 24. Rhe1 Bg4 25. Ne6+
+Bxe6 26. Qxe6 Qf6 1/2-1/2
+

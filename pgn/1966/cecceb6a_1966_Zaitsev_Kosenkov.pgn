@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Zaitsev, Igor"]
+[Black "Kosenkov, Vsevolod"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "cecceb6a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. e3 h6 7. Bh4 Bxc3+ 8.
+bxc3 d6 9. Qc2 Nbd7 10. a4 a5 11. Nd2 e5 12. f3 Qe7 13. e4 O-O 14. Bd3 Rfe8 15.
+O-O Nf8 16. Bf2 Ne6 17. Rfe1 Nd7 18. g3 Qf6 19. Qb2 Ba6 20. Be3 exd4 21. cxd4
+c5 22. e5 dxe5 23. Ne4 Qxf3 24. Nd6 Ng5 25. Bxg5 Qxd3 26. Rad1 Qg6 27. Nxe8
+Rxe8 28. dxe5 Qf5 29. Qf2 Qxf2+ 30. Kxf2 hxg5 31. Rxd7 Bxc4 32. Rd6 Bb3 33.
+Rxb6 Bxa4 34. Ra6 Bd7 35. Rxa5 c4 36. Rea1 Kh7 37. Ra7 Be6 38. Ra8 Rxa8 39.
+Rxa8 Kg6 40. Ra5 Kf5 41. Kf3 g4+ 42. Ke3 Kg5 43. Kd4 Kf5 44. Rc5 Kg5 45. Rb5
+Kf5 46. Rb2 Kg5 47. Rf2 Kg6 48. Kc5 Kg5 49. Kd6 Kg6 50. Kc5 Kg5 51. Kd6 Kg6 52.
+Ke7 Kg5 53. Rxf7 Bxf7 54. Kxf7 c3 55. e6 c2 56. e7 c1=Q 57. e8=Q Qf1+ 58. Kg8
+Qf6 59. Qd7 g6 60. Kh7 Qb2 61. Qd5+ 1-0

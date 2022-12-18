@@ -1,0 +1,24 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "4"]
+[White "Zuidema, Coen"]
+[Black "Ostojic, Predrag"]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "5d786d42"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bd3 a6 7. O-O Nc6 8. Be3
+Bd7 9. f4 Qc7 10. Qe1 b5 11. a3 Be7 12. Qg3 g6 13. Rad1 O-O 14. Kh1 b4 15. axb4
+Nxb4 16. e5 Nfd5 17. Nxd5 Nxd5 18. Bc1 Nb4 19. c3 Nc6 20. exd6 Bxd6 21. Nf3 Be7
+22. Ne5 Nxe5 23. fxe5 Bb5 24. Bxb5 axb5 25. Bg5 Rfd8 26. Bxe7 Qxe7 27. Rd6 Ra7
+28. Qd3 Rb8 29. b3 Qg5 30. Rd7 Rbb7 31. Rd8+ Kg7 32. Qd6 Qe7 33. Rd1 Rc7 34.
+Qxe7 Rxe7 35. Rb8 Red7 36. Re1 Rd5 37. h3 Rc7 38. Re3 Rcc5 39. b4 Rxe5 40. bxc5
+Rxe3 41. c4 Rc3 42. cxb5 Rxc5 43. Kh2 Rc3 44. g4 g5 45. Kg2 Rb3 46. b6 h6 47.
+b7 Kf6 48. h4 gxh4 0-1

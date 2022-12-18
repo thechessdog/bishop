@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Nikonova, V."]
+[Black "Ibenfeldt, O."]
+[Result "0-1"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "8043cfc6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3
+d5 8. exd5 Qe7+ 9. Kf1 Bxc3 10. bxc3 cxd5 11. Bg5 Rb8 12. Bxf6 Qxf6 13. Qh5
+Be6 14. Re1 Kd7 15. c4 c6 16. cxd5 cxd5 17. a4 Rhc8 18. h4 Rb4 19. Qg5 Qd4
+20. Bb5+ Kd6 21. Ba6 Rxc2 22. Qd8+ Kc6 23. Bb5+ Kb7 24. Qe7+ Ka8 25. Qd8+
+Bc8 26. Be2 Rb8 27. Qa5 Rxe2 0-1
+

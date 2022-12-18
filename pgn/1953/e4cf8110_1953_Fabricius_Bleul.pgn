@@ -1,0 +1,17 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Fabricius, H."]
+[Black "Bleul"]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "e4cf8110"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Qd2 e6 8.
+O-O-O Be7 9. f4 Qa5 10. Kb1 Bd7 11. Be2 b5 12. Bf3 b4 13. e5 bxc3 14. Nxc6
+Qb6 15. Qxc3 Nd5 16. Bxd5 Bxg5 17. fxg5 exd5 18. Nb4 1-0
+

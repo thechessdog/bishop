@@ -1,0 +1,18 @@
+[Event "Charkov"]
+[Site "Charkov"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Suetin, Alexey S"]
+[Black "Maslov, Valentin"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "eeb7d3cd"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 d5 5. Nbd2 Nbd7 6. c3 Qc7 7. Bd3 b6 8. O-O
+Bb7 9. Bxf6 gxf6 10. e4 Qf4 11. Re1 Bd6 12. exd5 Bxd5 13. Be4 Bxe4 14. Nxe4 Be7
+15. Qa4 f5 16. Ng3 Kd8 17. Rad1 Kc7 18. c4 Rhc8 19. d5 e5 20. d6+ Bxd6 21. Rxd6
+Kxd6 22. Rd1+ Ke7 23. Qxd7+ Kf8 24. Qd6+ Kg8 25. Nh5 Qxc4 26. Qf6 1-0

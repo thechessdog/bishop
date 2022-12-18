@@ -1,0 +1,16 @@
+[Event "match"]
+[Site "match"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Snijders"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "54b32f35"]
+[Epoch "Bishop"]
+
+1. f4 d5 2. Nf3 g6 3. g3 Bg7 4. Bg2 c5 5. O-O Nc6 6. d3 d4 7. Nbd2 Nf6 8. Nc4
+O-O 9. e4 dxe3 10. Bxe3 Nd4 11. c3 Nxf3+ 12. Bxf3 Qc7 13. Qe2 Rd8 14. d4 cxd4
+15. Bxd4 Be6 16. Ne5 Bd5 17. Rad1 Bxa2 18. c4 Bb3 19. Rd2 Rac8 20. Rc1 Nd7 21.
+Nxf7 Bxd4+ 22. Rxd4 Qc5 23. Bd5 Qxd4+ 24. Kf1 Qxd5 25. Nh6+ Kf8 0-1

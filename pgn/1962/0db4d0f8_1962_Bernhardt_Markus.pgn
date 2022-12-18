@@ -1,0 +1,18 @@
+[Event "Zuerich"]
+[Site "Zuerich"]
+[Date "1962.01.01"]
+[Round "11"]
+[White "Bernhardt, Rolf"]
+[Black "Markus, Marcel"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "0db4d0f8"]
+[Epoch "Bishop"]
+[WhiteID "4600800"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 e5 7. c4 Qd7 8. dxe5
+Qxd1+ 9. Bxd1 O-O-O 10. Bf4 Nge7 11. O-O Ng6 12. Bg3 Bxf3 13. Bxf3 Ngxe5 14.
+Bd5 Bd6 15. Nc3 Nb4 16. Nb5 Nxd5 17. Nxd6+ 1-0

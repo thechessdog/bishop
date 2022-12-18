@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Nocci"]
+[Black "Lazzaroni"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "11a39b27"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nb5 Nc6 7. a3 Bxc3+
+8. Nxc3 d5 9. Bd3 Qc7 10. O-O a6 11. exd5 exd5 12. Re1+ Ne7 13. Bg5 Be6 14.
+Qf3 Ng4 15. Rxe6 Qxh2+ 16. Kf1 fxe6 17. Qxg4 Qd6 18. Re1 Kd7 19. Bxe7 Qxe7
+20. Rxe6 Qxe6 21. Bf5 Rhe8 22. Nxd5 Kd6 23. Bxe6 Rxe6 24. Nc7 1-0
+

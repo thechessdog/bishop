@@ -1,0 +1,18 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Gilnicki"]
+[Black "Monneal"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "f62dd970"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Nxc6 dxc6 5. d4 Qh4 6. e5 Be6 7. c3 O-O-O
+8. Be2 c5 9. g3 Qe4 10. f3 Qc6 11. O-O cxd4 12. cxd4 Rxd4 13. Bd2 Bc5 14.
+Kg2 h5 15. Qc2 h4 16. Nc3 hxg3 17. hxg3 Rg4 18. Bb5 f4 19. Bxf4 Rxf4 20.
+gxf4 Bh3+ 0-1
+

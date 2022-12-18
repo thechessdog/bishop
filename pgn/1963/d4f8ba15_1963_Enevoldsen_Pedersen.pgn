@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Enevoldsen, Jens"]
+[Black "Pedersen, Eigil"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "d4f8ba15"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nxc6 bxc6 6. Bd3 Bc5 7. O-O Nf6 8.
+Nc3 h5 9. Bg5 Be7 10. Qe2 h4 11. Qf3 d6 12. h3 Be6 13. Rad1 Nh5 14. Be3 g5 15.
+b3 g4 16. hxg4 Nf6 17. g5 Bg4 18. gxf6 Bxf3 19. fxe7 Qd7 0-1

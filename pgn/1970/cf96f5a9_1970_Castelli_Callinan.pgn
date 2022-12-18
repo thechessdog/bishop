@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Castelli, R."]
+[Black "Callinan, M."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "cf96f5a9"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nf6 4. Nxe5 Qe7 5. d4 Nc6 6. Nf7 Qxe4+ 7. Kf1 d5
+8. Bd3 Qxd4 9. Nxh8 Ne4 10. Qe2 Be7 11. Nc3 Be6 12. Nb5 Qb6 13. Be3 d4 14.
+Bf4 1-0
+

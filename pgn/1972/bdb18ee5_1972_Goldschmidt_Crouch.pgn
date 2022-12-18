@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Goldschmidt"]
+[Black "Crouch, Colin"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "bdb18ee5"]
+[Epoch "Bishop"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Bf4 Ng6 6. Bg3 f5 7. h4 e5 8.
+h5 f4 9. hxg6 fxg3 10. Rxh7 gxf2+ 11. Kxf2 Rxh7 12. Bb5+ c6 13. dxc6 Bc5+
+14. Kf1 Qf6+ 15. Nf3 Rh1+ 16. Ke2 exf3+ 17. gxf3 Rh2+ 0-1
+

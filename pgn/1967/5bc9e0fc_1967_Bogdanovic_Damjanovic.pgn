@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1967.01.01"]
+[Round "4"]
+[White "Bogdanovic, Rajko"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "5bc9e0fc"]
+[Epoch "Bishop"]
+[WhiteID "14400316"]
+[WhiteCountry "BIH"]
+[BlackCountry "HRV"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. e3 d5 6. Bd3 c5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Ba5 10. Ne5 Qc7 11. Nxc6 Qxc6 12. d5 Qe8 13. Bd2 Bxc3 14. Bxc3 exd5
+15. Bxd5 Nxd5 16. Qxd5 Qe7 17. Rad1 1/2-1/2

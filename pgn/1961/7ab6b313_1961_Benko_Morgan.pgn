@@ -1,0 +1,20 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Benko, Pal"]
+[Black "Morgan, Charles T"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[HashCode "7ab6b313"]
+[Epoch "Bishop"]
+[BlackID "2089840"]
+[WhiteID "2000687"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 g6 5. Nc3 Bg7 6. Qb3 O-O 7. Bd2 dxc4 8. Bxc4
+b5 9. Be2 a6 10. O-O Bb7 11. a4 Nbd7 12. Rfd1 Qb8 13. h3 e5 14. dxe5 Nxe5 15.
+Nxe5 Qxe5 16. Bf3 Rfd8 17. axb5 axb5 18. Rxa8 Bxa8 19. Ne2 Ne4 20. Bc3 Rxd1+
+21. Qxd1 Qd6 22. Qa1 1-0

@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Tompa, Janos"]
+[Black "Sax, Gyula"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "8409ae60"]
+[Epoch "Bishop"]
+[WhiteID "700193"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. d4 cxd4 6. Nxd4 Ngf6 7. Nc3 g6
+8. O-O Bg7 9. Bg5 O-O 10. Re1 Rc8 11. Qd2 Re8 12. Rad1 Rc4 13. b3 Rc8 14. Na4
+Nc5 15. Nxc5 dxc5 16. Nf3 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "McAllen"]
+[Black "Harding, Timothy"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "dde6747a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 Bb4+ 7. Nc3
+Nf6 8. Qc2 d6 9. O-O-O O-O 10. e5 Ng4 11. Nd5 Bc5 12. Nf6+ Nxf6 13. exf6
+gxf6 14. g4 Qe7 15. g5 Ne5 16. Rde1 Re8 17. g6 Be6 18. gxh7+ Kh8 19. Nxe5
+fxe5 20. Bxe6 Qxe6 21. Kb1 Qg6 0-1
+

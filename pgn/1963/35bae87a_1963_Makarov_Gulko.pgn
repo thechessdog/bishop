@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Makarov"]
+[Black "Gulko, Boris"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "35bae87a"]
+[Epoch "Bishop"]
+[BlackID "2000040"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Ne4 7. Qg4 Qa5 8.
+Qxe4 Bxc3+ 9. bxc3 Qxc3+ 10. Ke2 Qxa1 11. Ba3 Qxa2 12. Nb5 Kd8 13. Qh4+ f6 14.
+exf6 Qxc2+ 15. Ke3 Qb3+ 16. Bd3 1-0

@@ -1,0 +1,28 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Bulat, Ante"]
+[Black "Bogdanovic, Rajko"]
+[Result "0-1"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "dc828e3b"]
+[Epoch "Bishop"]
+[WhiteID "14500418"]
+[BlackID "14400316"]
+[WhiteCountry "CRO"]
+[BlackCountry "BIH"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+c6 9. h3 Qb6 10. dxe5 Nxe5 11. b3 Nfd7 12. Be3 Qa5 13. Bd2 Qc7 14. Ne1 Nc5 15.
+Qe2 Re8 16. f4 Ned7 17. b4 Ne6 18. Kh2 a5 19. b5 Nd4 20. Qf2 Nb6 21. bxc6 bxc6
+22. Be3 c5 23. e5 Qd7 24. Bxd4 cxd4 25. Qxd4 Rb8 26. Rb1 dxe5 27. Qxd7 Nxd7 28.
+Rxb8 Nxb8 29. Nb5 exf4 30. gxf4 Re2 31. Nd6 Be6 32. Nf3 Bf8 33. c5 Bd5 34. Kg3
+Rxa2 35. Rd1 Bc6 36. Ne1 Bxg2 37. Nxg2 Rc2 38. Nb7 Nc6 39. Ra1 Rc3+ 40. Kh2
+Bxc5 41. Nxa5 Nd4 42. Nb7 Nf3+ 43. Kh1 Be7 44. f5 Nh4 45. Nxh4 Rxh3+ 46. Kg2
+Rxh4 47. Na5 Kg7 48. Nc6 Bf6 49. Rf1 Rc4 50. Nb8 g5 51. Nd7 h5 52. Rd1 Rg4+ 53.
+Kh3 Rf4 54. Rd5 g4+ 55. Kg3 Rf3+ 56. Kg2 h4 57. Nc5 h3+ 58. Kh2 Bg5 59. Nd3
+Bf4+ 60. Nxf4 Rxf4 61. Kg3 Rf1 62. Rd4 Rg1+ 63. Kh2 Rg2+ 64. Kh1 Kf6 65. Rf4
+Kg5 66. Rf1 Ra2 67. f6 g3 68. Rb1 0-1

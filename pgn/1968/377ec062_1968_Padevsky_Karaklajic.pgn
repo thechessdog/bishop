@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1968.01.01"]
+[Round "2"]
+[White "Padevsky, Nikola"]
+[Black "Karaklajic, Nikola"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "377ec062"]
+[Epoch "Bishop"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Qe7 7. Bxd7+ Nxd7
+8. dxc5 Qxe2+ 9. Nxe2 Bxc5 10. Nb3 Bb6 11. O-O Ngf6 12. Ned4 O-O 13. Bf4 Nc5
+14. Nxc5 Bxc5 15. Nb3 Bb6 16. c3 1/2-1/2

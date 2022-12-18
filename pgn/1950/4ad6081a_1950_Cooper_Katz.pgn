@@ -1,0 +1,19 @@
+[Event "England"]
+[Site "England"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Cooper, John G"]
+[Black "Katz"]
+[Result "0-1"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Wiesbaden variation"]
+[HashCode "4ad6081a"]
+[Epoch "Bishop"]
+[WhiteID "1800027"]
+[WhiteCountry "WLS"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. e4
+Bxe4 9. fxe4 Nxe4 10. Qf3 Qxd4 11. Qxf7+ Kd8 12. Qxb7 Qf2+ 13. Kd1 Bxc3 14.
+Nxc6+ Nxc6 15. Qxa8+ Kc7 16. Qxh8 Nd4 17. Qxg7+ Kc6 18. Bd3 Qe2+ 19. Bxe2 Nf2#
+0-1

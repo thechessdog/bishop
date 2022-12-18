@@ -1,0 +1,18 @@
+[Event "Austria ch"]
+[Site "Austria ch"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Kinzel"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "749aa597"]
+[Epoch "Bishop"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. g4 Bg6 7. Bb5+ Nc6 8.
+Ne5 Qd6 9. d4 a6 10. Bxc6+ bxc6 11. Bf4 Qb4 12. Nxc6 Qxb2 13. Nxd5 Qxc2 14.
+Nc7+ Kd7 15. Ne5+ Kc8 16. Qxc2 Bxc2 17. Nxa8 1-0

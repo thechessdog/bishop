@@ -1,0 +1,23 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Heidenfeld, Wolfgang"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine variation"]
+[HashCode "6308bdde"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "IRL"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. Nc3 Bc5 6. Be2 d6 7. Nf3 Nbc6 8.
+O-O O-O 9. Kh1 Nxf3 10. Bxf3 Ne5 11. Be2 Qh4 12. g3 Qh3 13. Nd5 Ng4 14. Bxg4
+Bxg4 15. f3 Be6 16. Nf4 Qh6 17. b4 Qf6 18. Rb1 Bd4 19. Qd3 Rad8 20. Rd1 Be5 21.
+Nd5 Bxd5 22. cxd5 Qe7 23. b5 Qd7 24. f4 Bf6 25. Ba3 Rfe8 26. Rbc1 Ra8 27. Rb1
+h6 28. Rdc1 Bd8 29. Bb2 a6 30. a4 axb5 31. axb5 b6 32. Ra1 Rxa1 33. Rxa1 Bf6
+34. Bxf6 gxf6 35. Kg2 Kg7 36. Ra7 Re7 37. f5 Qe8 38. Kf3 c5 39. Ra6 Rb7 40. Qc3
+Qxb5 0-1

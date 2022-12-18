@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1975.07.01"]
+[Round "3"]
+[White "Weinstein, Norman"]
+[Black "Rodriguez, Ruben Jorge"]
+[Result "1/2-1/2"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "Averbakh system"]
+[HashCode "b47546e2"]
+[Epoch "Bishop"]
+[WhiteID "2000466"]
+[WhiteCountry "USA"]
+[BlackID "124761"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Bg5 Nbd7 7. Qd2 e5 8. Nf3
+c6 9. O-O exd4 10. Nxd4 Nc5 11. Qf4 Re8 12. Rad1 h6 13. Bxh6 Ncxe4 14. Bxg7
+Kxg7 15. Nxe4 Rxe4 16. Qd2 Bd7 17. Rfe1 Qb6 18. Bf3 Re5 19. Nb3 1/2-1/2

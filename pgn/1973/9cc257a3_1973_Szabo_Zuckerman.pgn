@@ -1,0 +1,20 @@
+[Event "Las Vegas"]
+[Site "Las Vegas"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Zuckerman, Bernard"]
+[Result "1-0"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "9cc257a3"]
+[Epoch "Bishop"]
+[WhiteID "710741"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. f4 c5 7. d5 e6 8. Nf3 exd5
+9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. O-O Nxe5 13. Bf4 Nbd7 14. d6 Nxf3+ 15.
+Bxf3 Ne5 16. Nb5 Bf5 17. Nc7 Nxf3+ 18. Qxf3 Bxb2 19. Nxe8 Bxa1 20. Nc7 Bd4+ 21.
+Be3 Rc8 22. Bxd4 cxd4 23. Qf4 Be6 24. Nxe6 fxe6 25. Qf7+ Kh8 26. d7 Ra8 27.
+Qxe6 Kg7 28. Rf7+ Kh6 29. Qh3+ Kg5 30. g3 h5 31. Qh4+ Kh6 32. Qf4+ 1-0

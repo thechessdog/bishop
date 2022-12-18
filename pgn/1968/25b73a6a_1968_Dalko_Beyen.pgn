@@ -1,0 +1,17 @@
+[Event "corr ol7"]
+[Site "corr ol7"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Dalko"]
+[Black "Beyen, Roland"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "25b73a6a"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 exd4 7. Bxc4 Nc6
+8. O-O Nf6 9. e5 Ng4 10. h3 Nh6 11. Nb3 Nf5 12. Qd3 O-O 13. Rfe1 Qe7 14. Rac1
+Be6 15. Nc5 b6 16. Nxe6 fxe6 17. Qe4 Na5 18. Bd3 g6 19. b4 Qxb4 20. Rxc7 Rae8
+21. Rb1 Qa3 22. Rxa7 Re7 23. Rxe7 Nxe7 24. Ng5 1-0

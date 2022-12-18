@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Giesbergen, H."]
+[Black "Notten"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "6d58472d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bf4 Ne8 10. Qd2 b6 11. e3 Ba6 12. a4 Bxc4 13. Bxc4 a6 14. O-O
+Qe7 15. Rfe1 Nd7 16. Rab1 Nc7 17. b4 b5 18. bxc5 bxc4 19. cxd6 Bxc3 20.
+Qxc3 Qf6 21. Qxf6 Nxf6 22. dxc7 Nxd5 23. Rbc1 Nxf4 24. exf4 Rfc8 25. Rxc4
+Ra7 26. Rec1 f5 27. f3 Kf7 28. Kf2 Rb7 29. g4 Ke6 30. Rc6+ Kd7 31. gxf5 1-0
+

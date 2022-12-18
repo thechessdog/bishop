@@ -1,0 +1,17 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Perry, L."]
+[Black "Fox, GF."]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "7c38952d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qa5 9. Nxe4 Be6 10. Bd2 Qb6 11. Bg5 h6 12. Bh4 Be7 13. Bxe7
+Kxe7 14. Ng3 g6 15. Qd2 Rad8 16. Rad1 Kd7 17. a3 Qxb2 18. Qd3 Kc8 19. Rb1
+Qc3 20. Qb5 b6 21. Qa6+ Kb8 22. Ne4 Qc4 23. Rb5 Ka8 24. Ned2 Nb8 0-1
+

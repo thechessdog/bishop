@@ -1,0 +1,16 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Brix, Per"]
+[Black "Hansen, Soren Bech"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "0413ee96"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 c5 5. Nf3 Nc6 6. O-O cxd4 7. Ne2 e5 8. Bb5
+dxe4 9. Nxe5 Ne7 10. Nxd4 O-O 11. Bxc6 f6 12. Bxb7 Bxb7 13. Ng4 Ba6 14. Re1
+Bxe1 15. Qxe1 Qxd4 0-1

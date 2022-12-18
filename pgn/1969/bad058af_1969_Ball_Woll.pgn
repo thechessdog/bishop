@@ -1,0 +1,19 @@
+[Event "corr BDGW1"]
+[Site "corr BDGW1"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ball, L."]
+[Black "Woll, C."]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "bad058af"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. Bf4 O-O
+8. Qd2 c6 9. O-O b5 10. Bb3 Bb7 11. Rae1 Nd5 12. Ng5 e6 13. Rxe6 fxe6 14.
+Nxe6 Qf6 15. Nxf8 Qxd4+ 16. Qxd4 Bxd4+ 17. Kh1 Bxc3 18. bxc3 Kxf8 19. Bxb8+
+Ke7 20. Be5 c5 21. c4 Ne3 22. Bf6+ Kf8 23. Rf2 bxc4 24. Bd4+ Kg8 25. Bxe3
+cxb3 26. cxb3 Re8 27. Bd2 Re4 28. h3 c4 29. Bh6 Re8 30. bxc4 Ba6 31. c5 Bc4
+32. a3 Bd5 33. Rf6 1/2-1/2
+

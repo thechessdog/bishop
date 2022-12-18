@@ -1,0 +1,17 @@
+[Event "Leeuwarden"]
+[Site "Leeuwarden"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Ooiman"]
+[Black "Van Wijngaarden, F."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "d02e315a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Nc3 Nxe4 6. O-O Nxc3 7. dxc3
+c6 8. Bxf7+ Kxf7 9. Ne5+ Kg8 10. Qh5 Qf8 11. Bxf4 Bf6 12. Rae1 d5 13. Nf7
+Qxf7 14. Re8+ Qf8 15. Bd6 Nd7 16. Rxf8+ Nxf8 17. Qe8 h6 18. Rxf6 1-0
+

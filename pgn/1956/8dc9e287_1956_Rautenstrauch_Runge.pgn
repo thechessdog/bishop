@@ -1,0 +1,22 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Rautenstrauch"]
+[Black "Runge"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "8dc9e287"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qh3 cxd4 10. g4 Nh6 11. Qxh5 Qc7 12. Ne2 Rf8 13. cxd4 Nc6 14. c3
+Ng8 15. a4 Nce7 16. Qg5 g6 17. Ba3 Bd7 18. h4 a6 19. Kd2 Bc6 20. Bd6 Qd7
+21. h5 gxh5 22. gxh5 f6 23. Qg7 fxe5 24. Bg6+ Nxg6 25. Qxg6+ Qf7 26. Bxf8
+Kxf8 27. Qxf7+ Kxf7 28. dxe5 Nh6 29. Nd4 Ng4 30. f4 Nf2 31. Rh2 Ne4+ 32.
+Kc2 Bd7 33. h6 Kg8 34. Rg1+ Kh8 35. a5 Rc8 36. Rh3 Ba4+ 37. Kb2 b6 38. axb6
+Rb8 39. Ka3 Be8 40. h7 Bf7 41. f5 Nc5 42. fxe6 Nxe6 43. Nxe6 Bxe6 44. Rg6
+Bxh3 45. Rg8+ 1-0
+

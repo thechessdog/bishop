@@ -1,0 +1,21 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Fieros"]
+[Black "Sofvat"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "eae721a1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 d5 6. c5 b6 7. cxb6 axb6
+8. f3 h6 9. g3 O-O 10. Bg2 Bb7 11. Nh3 Nc6 12. O-O Na5 13. Nf2 Nc4 14. e4
+Qe7 15. e5 Nd7 16. f4 Nxa3 17. Bxa3 Rxa3 18. Rxa3 Qxa3 19. Qc1 Ra8 20. Qxa3
+Rxa3 21. Rc1 Ba6 22. g4 Kf8 23. h4 Ke7 24. Bh3 Nb8 25. f5 Nc6 26. g5 hxg5
+27. hxg5 Na7 28. Bg4 Bc4 29. Kh2 exf5 30. Bxf5 Nb5 31. Nd1 Be2 32. Ne3 c6
+33. Bc8 g6 34. Bb7 Kd7 35. c4 Nxd4 36. Nxd5 cxd5 37. cxd5 Nf3+ 38. Kg2 Nxe5
+0-1
+

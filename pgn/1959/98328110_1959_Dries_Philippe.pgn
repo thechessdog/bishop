@@ -1,0 +1,16 @@
+[Event "Beverwijk"]
+[Site "Beverwijk"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Dries, J."]
+[Black "Philippe, Georges"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "98328110"]
+[Epoch "Bishop"]
+[BlackCountry "LUX"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 c5 5. d5 exf3 6. Nxf3 a6 7. a4 e6 8. Bc4
+exd5 9. Nxd5 Nxd5 10. Bxd5 Qe7+ 11. Kf2 Be6 12. Re1 c4 13. Ng5 Qf6+ 14. Kg1
+Bc5+ 15. Kh1 O-O 16. Nxe6 fxe6 17. Bxc4 Rd8 18. Qh5 Qf2 19. Bg5 1-0

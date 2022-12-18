@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Donner, Jan Hein"]
+[Black "Bouwmeester, Hans"]
+[Result "*"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "195be123"]
+[Epoch "Bishop"]
+[BlackID "1000187"]
+[WhiteCountry "NLD"]
+[BlackCountry "NED"]
+
+1. d4 g6 2. e4 Bg7 3. f4 d6 4. Nf3 Bg4 5. Be2 Nf6 6. e5 dxe5 7. fxe5 Nd5 8. Ng5
+Bxe2 9. Qxe2 h6 10. Nf3 O-O 11. O-O c6 12. c4 Nc7 13. Nc3 Nd7 14. Rd1 g5 15. h4
+g4 16. Nh2 h5 17. Nf1 f5 18. Ng3 Qe8 19. e6 Nb6 20. Bf4 Rc8 21. d5 cxd5 22.
+Nxd5 Ncxd5 23. cxd5 *

@@ -1,0 +1,23 @@
+[Event "URS-JUG2"]
+[Site "Lvov"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Zakharov, Alexander V"]
+[Black "Nemet, Ivan"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "8b279848"]
+[Epoch "Bishop"]
+[BlackCountry "CHE"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 Nf6 5. Qe2 e5 6. O-O Be7 7. c3 Nc6 8. d4
+a6 9. dxe5 axb5 10. exf6 Bxf6 11. Na3 bxa4 12. Nc4 O-O 13. Bf4 Ne5 14. Rfd1
+Nxc4 15. Qxc4 Be6 16. Qe2 Qa5 17. Bxd6 Rfc8 18. Nd2 Qa6 19. Qxa6 Rxa6 20. e5
+Bd8 21. Ne4 Bb6 22. Bxc5 Rxc5 23. Nxc5 Bxc5 24. Rd8+ Bf8 25. Rb8 Bb3 26. Rxb7
+Re6 27. Rb5 g5 28. g3 g4 29. h3 gxh3 30. Kh2 Re8 31. Kxh3 Rd8 32. f4 Rd2 33. f5
+Kg7 34. g4 Kh6 35. Kh4 Be7+ 36. f6 Bd8 37. Rb8 Rh2+ 38. Kg3 Bc7 39. g5+ Kh5 40.
+Re8 Rxb2 41. Kf4 Rh2 42. Re7 Bb6 43. Rb7 Rh4+ 44. Kg3 Rg4+ 45. Kh3 Bf2 46. c4
+Bxc4 47. Rb8 Be6 48. Re8 Bd5 0-1

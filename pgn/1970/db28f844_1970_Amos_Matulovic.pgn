@@ -1,0 +1,25 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Amos, Bruce M."]
+[Black "Matulovic, Milan"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "db28f844"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Nf6 4. Nc3 Bg7 5. Bc4 O-O 6. Bb3 Nc6 7. h3 e5 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. Bg5 Rd6 11. O-O Ne8 12. Rad1 Nd4 13. Nxd4 exd4 14. Nb5
+Rd7 15. e5 c5 16. e6 fxe6 17. Bxe6+ Rf7 18. Bxf7+ Kxf7 19. Rfe1 Be6 20. Rd3 Bc4
+21. Rxe8 Kxe8 22. Nd6+ Kd7 23. Nxc4 b5 24. Nd2 h6 25. Bf4 g5 26. Bg3 c4 27. Rf3
+Ke6 28. Kf1 a5 29. Ke2 Rc8 30. Ne4 b4 31. Nd6 Rc5 32. Kd1 a4 33. b3 cxb3 34.
+cxb3 axb3 35. axb3 Ra5 36. Kc2 Ra1 37. Nf5 Bh8 38. Nxh6 Rg1 39. Nf5 Rxg2 40.
+Kd3 Kd5 41. Ne7+ Ke6 42. Nc6 Rg1 43. Nxd4+ Kd7 44. Ke4 Re1+ 45. Kd5 Rd1 46. Be5
+Bxe5 47. Kxe5 Rd2 48. Rf7+ Ke8 49. Rf5 Rd3 50. Rxg5 Rxh3 51. f4 Kf7 52. f5 Rc3
+53. Rg6 Rc5+ 54. Ke4 Rc8 55. Rb6 Re8+ 56. Kd5 Rd8+ 57. Ke5 Rd7 58. Rxb4 Ra7 59.
+Nc6 Ra6 60. Rb7+ Ke8 61. Rc7 Ra1 62. b4 Rb1 63. b5 Re1+ 64. Kf6 Rb1 65. Ke6
+Re1+ 66. Ne5 Kd8 67. b6 Re2 68. Rc1 Re3 1-0

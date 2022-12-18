@@ -1,0 +1,20 @@
+[Event "corr ch-SWE"]
+[Site "corr ch-SWE"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Johansson, B."]
+[Black "Ek, H."]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "6c6da862"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3
+Nd7 8. Bc4 O-O 9. Qe2 Nb6 10. Bb3 Bd7 11. h4 Bc6 12. O-O-O Qe7 13. g4 g6
+14. g5 Bg7 15. h5 a5 16. c3 Bd5 17. Bc2 Nc4 18. Rdg1 Rfe8 19. Qf1 e5 20.
+hxg6 hxg6 21. Rg4 exd4 22. Rgh4 Qe6 23. Nxd4 Qb6 24. b3 Bxe4 25. Bxe4 Nd6
+26. Qh3 Kf8 27. Bxg6 fxg6 28. Ne6+ Rxe6 29. Qxe6 Nf7 30. Qxb6 cxb6 31. Rc4
+Be5 32. Kc2 Bd6 33. f4 Kg7 34. a4 Re8 35. Kd3 Rd8 36. Ke2 Bc5 37. Re4 0-1
+

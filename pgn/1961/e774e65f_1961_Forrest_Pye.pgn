@@ -1,0 +1,18 @@
+[Event "California"]
+[Site "California"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Forrest, K."]
+[Black "Pye, F."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, 6...Ne7"]
+[HashCode "e774e65f"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. g4 Nbc6 8.
+Ne2 Ng6 9. Ng3 f6 10. Nh5 O-O 11. exf6 gxf6 12. Bh6 Rf7 13. Qd2 cxd4 14.
+cxd4 e5 15. g5 Nxd4 16. Nxf6+ Rxf6 17. Bg2 Nh4 18. O-O-O Rc6 19. Bxd5+ Qxd5
+20. Qb4 Rxc2+ 0-1
+

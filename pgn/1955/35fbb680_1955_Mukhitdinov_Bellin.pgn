@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Muhutdinov, Marat"]
+[Black "Bellin"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "35fbb680"]
+[Epoch "Bishop"]
+[WhiteID "4102010"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bg4 5. c3 Qb6 6. Ba4 Nf6 7. Re1 e6 8. d3
+Be7 9. Nbd2 Qa6 10. Bxc6+ Qxc6 11. Nf1 O-O 12. Ng3 e5 13. h3 Bd7 14. d4 exd4
+15. cxd4 Rfe8 16. d5 Qb6 17. Qc2 a5 18. Bd2 a4 19. Bc3 Qa6 20. Qd2 b5 21. a3
+Qb7 22. Qf4 b4 23. axb4 cxb4 24. Bd4 a3 25. Nh4 axb2 26. Bxb2 Rxa1 27. Rxa1 Bd8
+28. Nhf5 Bxf5 29. Nxf5 Qd7 30. Qg5 g6 31. Nh6+ Kg7 32. Ng4 Re5 33. Bxe5 dxe5
+34. Qh6+ 1-0

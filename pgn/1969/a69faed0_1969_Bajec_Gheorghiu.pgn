@@ -1,0 +1,20 @@
+[Event "Ljubljana"]
+[Site "Ljubljana"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bajec, Ivo"]
+[Black "Gheorghiu, Florin"]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's lesser variation"]
+[HashCode "a69faed0"]
+[Epoch "Bishop"]
+[WhiteID "14600749"]
+[WhiteCountry "SLO"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 b6 9. h4 Bb7 10. Qd3 Nc6 11. h5 Na5 12. hxg6 Nxc4 13. gxh7+ Kh8 14. Qxc4
+Bxe4 15. Nf4 Qd6 16. f3 Bg6 17. Be3 1/2-1/2

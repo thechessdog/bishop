@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ivanchenko"]
+[Black "Rovner, Dmitry"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "6b5eeda3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. Qc2 Re8 13. e4 exd4 14.
+cxd4 Bg4 15. Qxc5 Bxf3 16. gxf3 Qd7 17. d5 Ne5 18. Be2 Qh3 19. Qe3 Nxd5 20.
+exd5 Ng6 21. Qg5 Rxe2 22. Qg4 Qxg4+ 23. fxg4 Re4 24. Rd1 Rxg4+ 25. Kf1 Ne5
+26. Rb1 b6 27. Rb3 Ra4 28. Re1 f6 29. Bb2 Ng6 30. d6 Rc4 31. Rd3 Rd8 32.
+Rd2 Kf7 33. Red1 Rd7 34. Ra1 Nh4 35. a4 Nf3 36. Rd3 Nxh2+ 37. Kg1 Ng4 38.
+f3 Ne5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Worms"]
+[Site "Worms"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Bachl, E."]
+[Black "Buechler"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "089843a0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. Bc4 Nc6 5. Be3 g6 6. Qd2 h6 7. a3 Bg7 8.
+h3 g5 9. f3 exf3 10. Nxf3 Bf5 11. d5 Na5 12. Ba2 b6 13. Rf1 Ne4 14. Nxe4
+Bxe4 15. O-O-O O-O 16. Ne1 Qd6 17. Qe2 Bg6 18. g4 Nb7 19. Nf3 c6 20. h4
+gxh4 21. Nxh4 Qe5 22. c3 Bh7 23. Nf5 Na5 24. Nxg7 Qxg7 25. Bd4 Qg5+ 26. Be3
+Qg6 27. Rf5 cxd5 28. Rh1 e6 29. Rxh6 exf5 30. Rxg6+ Bxg6 31. gxf5 Bxf5 32.
+Qg2+ Bg6 33. Bxd5 Rae8 34. Qxg6+ 1-0
+

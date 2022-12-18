@@ -1,0 +1,23 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Formanek, Edward"]
+[Black "Sherwin, James T"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "cf1a15cc"]
+[Epoch "Bishop"]
+[WhiteID "2001640"]
+[WhiteCountry "USA"]
+[BlackID "2000997"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5 8.
+Qd2 e6 9. Bb3 h6 10. Bh4 Be7 11. O-O-O Nc5 12. Bg3 Nh5 13. Kb1 Nxg3 14. hxg3
+Bd7 15. g4 Rf8 16. f4 b5 17. Nf3 b4 18. Ne2 Nxe4 19. Qd4 d5 20. Qxg7 Nf2 21.
+Ne5 Nxh1 22. Rxh1 Bb5 23. Nd4 Qb6 24. Nxb5 Qxb5 25. f5 a5 26. fxe6 fxe6 27.
+Qg6+ Kd8 28. Nf7+ Kd7 29. Rd1 Rxf7 30. Qxf7 Rf8 31. Qg7 Rf1 32. Qd4 Bc5 33. Qd3
+Qxd3 34. cxd3 Rf2 35. Rh1 Be3 36. Rh3 Rf1+ 37. Kc2 Rc1# 0-1

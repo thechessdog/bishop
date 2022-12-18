@@ -1,0 +1,17 @@
+[Event "Strobeck"]
+[Site "Strobeck"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Geissert"]
+[Black "Starck, Ines"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "a58f465a"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. c3 Qc7 8.
+Be2 Ngf6 9. Nh4 e6 10. Bf3 Be7 11. Qb3 O-O 12. Nxg6 hxg6 13. h4 e5 14. h5 Nxh5
+15. Bxh5 gxh5 16. Rxh5 Nf6 17. Rh4 exd4 18. Qc2 Rfe8 19. Kf1 Qa5 20. Nf5 Rad8
+21. Nxd4 Rxd4 22. cxd4 Qe1+ 0-1

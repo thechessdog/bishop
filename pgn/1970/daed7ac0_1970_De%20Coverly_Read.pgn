@@ -1,0 +1,17 @@
+[Event "CU Champ"]
+[Site "CU Champ"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "De Coverly, Roger D"]
+[Black "Read, DL."]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "daed7ac0"]
+[Epoch "Bishop"]
+[WhiteID "405213"]
+[WhiteCountry "END"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nc3 O-O 6. Nf3 Nbd7 7. O-O e5 8. e4
+Re8 9. h3 exd4 10. Nxd4 Ne5 11. b3 b6 12. f4 c5 13. fxe5 Rxe5 14. Nc6 1-0

@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Grankin"]
+[Black "Gutkin, Boris"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "a27b8393"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Nbd7
+8. O-O-O Qc7 9. Qg3 b5 10. Bxb5 axb5 11. Ndxb5 Qa5 12. Bxf6 Nxf6 13. Rxd6
+Nxe4 14. Nc7+ Qxc7 15. Rxe6+ Kd7 16. Rd1+ Nd6 17. Nb5 Qc5 18. Nxd6 Kxe6 19.
+Qb3+ Ke5 20. f4+ Kxf4 21. Qg3# 1-0
+

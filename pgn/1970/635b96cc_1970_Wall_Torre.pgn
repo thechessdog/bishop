@@ -1,0 +1,17 @@
+[Event "San Antonio"]
+[Site "San Antonio"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Torre"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "635b96cc"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. Ne2 Bb4+ 7. Bd2
+Bxd2+ 8. Qxd2 Ne7 9. O-O O-O 10. Nbc3 c6 11. Ng3 Nf6 12. Rfe1 Qd6 13. Re3 Rfe8
+14. Rae1 b5 15. Qe2 Ng6 16. Rxe8+ Rxe8 17. Qxe8+ Nxe8 18. Rxe8+ Nf8 19. Nf5 1-0

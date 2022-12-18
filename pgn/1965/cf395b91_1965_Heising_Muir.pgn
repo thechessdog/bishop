@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Heising"]
+[Black "Muir, Walter"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "cf395b91"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. d4 e4 5. Ne5 Ne7 6. Nc3 Bb4 7. Bc4 O-O 8. O-O
+Bf5 9. f3 Bxc3 10. bxc3 Nxd5 11. fxe4 Bxe4 12. Qg4 f5 13. Qh3 c6 14. Rf4 Nd7
+15. Rxe4 fxe4 16. Nxd7 Re8 17. Ne5 1-0

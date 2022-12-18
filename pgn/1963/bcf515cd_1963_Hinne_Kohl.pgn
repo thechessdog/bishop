@@ -1,0 +1,22 @@
+[Event "FRG-ch"]
+[Site "Bad Pyrmont"]
+[Date "1963.10.23"]
+[Round "5"]
+[White "Hinne, Jobst"]
+[Black "Kohl, Andreas"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "bcf515cd"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Re8 9. Bf3 e6 10. d6 Qxd6 11. Nge2 Nc6 12. Bf4 e5 13. Bxc6 Qxc6 14.
+dxe5 Nh5 15. O-O Be6 16. Qb4 Bc4 17. Be3 Bf8 18. Qa5 b6 19. Nd4 Qb7 20. Qa4
+Bxf1 21. Rxf1 Rxe5 22. Nf3 Ree8 23. Qh4 Be7 24. Qh3 Qc8 25. Qxc8 Raxc8 26.
+Nd5 Bd8 27. Bd4 Re6 28. Bc3 Nf6 29. Nf4 Re4 30. g3 h6 31. Rd1 g5 32. Ng2
+Be7 33. Ne3 Rd8 34. Nd2 Re6 35. Nf5 Ne4 36. Nd4 Nxd2 37. Rxd2 Re4 38. f3
+Re1+ 39. Kf2 Rb1 40. Ke3 Bc5 41. Kd3 Re1 42. b4 Bxd4 43. Bxd4 Re5 44. f4
+gxf4 45. gxf4 Red5 0-1
+

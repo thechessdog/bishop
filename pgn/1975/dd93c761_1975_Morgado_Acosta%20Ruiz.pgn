@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Morgado, Juan Sebastian"]
+[Black "Acosta Ruiz, Franci"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "dd93c761"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 g6 5. Nf3 d6 6. Bf4 Bg7 7. Qd2 O-O 8.
+O-O-O Bg4 9. Be2 Nc6 10. exd6 cxd6 11. Rhe1 Qa5 12. Kb1 Rac8 13. Nd4 Bxe2 14.
+Rxe2 Bxd4 15. cxd4 Nb4 16. a3 Rxc2 17. axb4 Rxd2 18. Bxd2 Qf5+ 19. Kc1 Rc8+ 20.
+Bc3 Qg5+ 21. Kb1 1-0

@@ -1,0 +1,23 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Haemmerling"]
+[Black "Potthammel"]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Spassky's variation"]
+[HashCode "88b0a2e4"]
+[Epoch "Bishop"]
+
+1. Nf3 Nf6 2. g3 b5 3. a4 b4 4. d3 d5 5. Nbd2 Bb7 6. Bg2 e6 7. O-O Be7 8.
+b3 O-O 9. Bb2 c5 10. e4 Nc6 11. Re1 Rc8 12. exd5 exd5 13. Ne5 Nxe5 14. Rxe5
+Nd7 15. Rf5 Bf6 16. Bxf6 Nxf6 17. Qf3 Re8 18. g4 Re7 19. g5 Ne8 20. Qg3
+Rcc7 21. Bf3 g6 22. Re5 Rxe5 23. Qxe5 Re7 24. Qg3 Ng7 25. Bg4 Re8 26. f4
+Bc8 27. Bf3 Qd6 28. Re1 Rxe1+ 29. Qxe1 Qxf4 30. h4 Be6 31. Bg2 Nf5 32. Nf3
+Ne3 33. Qf2 Ng4 34. Qxc5 Qc1+ 35. Bf1 Ne3 36. Nh2 Nxf1 37. Nxf1 Bh3 38. Qf2
+h6 39. gxh6 Qxf1+ 40. Qxf1 Bxf1 41. Kxf1 f5 42. Ke2 d4 43. Kf3 Kh7 44. Kf4
+Kxh6 45. Ke5 Kh5 46. Kxd4 f4 47. c4 bxc3 48. Kxc3 f3 49. Kd2 Kxh4 50. Ke1
+Kg3 51. Kf1 f2 0-1
+

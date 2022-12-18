@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Agzamov"]
+[Black "Tukmakov, Vladimir B"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "e4e47dfe"]
+[Epoch "Bishop"]
+[BlackID "14100096"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 b5 8. f3
+Be7 9. a3 Qc7 10. O-O-O O-O 11. g4 b4 12. axb4 a5 13. bxa5 Qxa5 14. Nb3 Qb4 15.
+Nb5 Qa4 16. Nc3 Qb4 17. Bf4 e5 18. Be3 Be6 19. g5 Bxb3 20. gxf6 Ra1+ 21. Nb1
+Rc8 22. fxe7 Qa4 23. e8=Q+ Qxe8 24. Qd3 Qa4 25. c3 Bxd1 26. Bg2 Bb3 27. Bh3 Rc6
+28. Rg1 Na6 29. Kd2 Qa2 30. Bh6 g6 31. Qb5 Qxb2+ 32. Ke3 Ra2 0-1

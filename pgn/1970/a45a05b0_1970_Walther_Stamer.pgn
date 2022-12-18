@@ -1,0 +1,19 @@
+[Event "corr BdF/I"]
+[Site "corr BdF/I"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Stamer"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "a45a05b0"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb4 12. Ne4 O-O 13. Qg4 Nxe5 14. Qg3
+Nbd7 15. Bh6 g6 16. Bxf8 Bxf8 17. Be2 Qa5 18. Kb1 Bg7 19. Nd6 Qb6 20. Nf3 Qc5
+21. Ng5 Nb6 22. Qh4 h6 23. Ngxf7 Nxf7 24. Nxf7 Kxf7 25. Qd8 Nd5 26. Rxd5 exd5
+27. Bf3 Qxc2+ 0-1

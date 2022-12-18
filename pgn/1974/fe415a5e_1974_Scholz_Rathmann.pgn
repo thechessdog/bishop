@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Scholz, H."]
+[Black "Rathmann, H."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[HashCode "fe415a5e"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Kd1 Nbc6 11. Nf3 dxc3 12. Rb1 Bd7 13. Bg5 Nxe5
+14. Bf4 f6 15. Qh5+ Kd8 16. Nxe5 fxe5 17. Bxe5 Qc5 18. Qf7 Be8 19. Qxe6
+Qxf2 20. Bc7+ Kxc7 21. Qxe7+ Bd7 22. Rxb7+ 1-0
+

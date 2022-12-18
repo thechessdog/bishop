@@ -1,0 +1,22 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Berthold, Andreas"]
+[Black "Yepez, Olavo"]
+[Result "1-0"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "8422e2ad"]
+[Epoch "Bishop"]
+[WhiteID "4648854"]
+[BlackID "3600033"]
+[WhiteCountry "GER"]
+[BlackCountry "ECU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 b6 10. Bb2 Qc7 11. cxd5 exd5 12. h3 c4 13. Bc2 Bb7 14. Nd2 Rfe8
+15. Re1 Rac8 16. f3 b5 17. Nf1 Nd8 18. Qd2 a5 19. Qf2 Rb8 20. Ng3 Ne6 21. Rf1
+Nf8 22. Rae1 Ba6 23. e4 b4 24. axb4 axb4 25. e5 N6d7 26. Nf5 b3 27. Bb1 Nb6 28.
+f4 Na4 29. Qg3 g6 30. Bc1 b2 31. Bd2 Kh8 32. Nh6 Rb6 33. f5 Re7 34. Bg5 1-0

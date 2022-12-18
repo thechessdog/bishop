@@ -1,0 +1,22 @@
+[Event "Villa Gesell tt"]
+[Site "Villa Gesell"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Van Riemsdijk, Herman Claudius"]
+[Black "Gonzalez, Gerardo"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "fe98d8a4"]
+[Epoch "Bishop"]
+[WhiteID "2100053"]
+[WhiteCountry "BRA"]
+[BlackID "2017784"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Bc4 e6 8. N1e2
+Bd6 9. Nf4 Bxf4 10. Bxf4 Nf6 11. Bb3 Nbd7 12. Bd6 Nb6 13. Bc5 Nbd5 14. a4 a5
+15. h5 Bh7 16. O-O Qc7 17. Re1 Rd8 18. Bxd5 Rxd5 19. c4 Rd7 20. Qb3 Qf4 21. Qb6
+Ng4 22. d5 cxd5 23. cxd5 Rxd5 24. Rxe6+ fxe6 25. Qxe6+ Kd8 26. Qxd5+ Kc8 27.
+Qe6+ Kc7 28. Bd6+ Qxd6 29. Rc1+ Qc6 30. Rxc6+ bxc6 31. Qxg4 1-0

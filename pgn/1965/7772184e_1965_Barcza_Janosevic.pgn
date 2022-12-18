@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Barcza, Gedeon"]
+[Black "Janosevic, Dragoljub"]
+[Result "1-0"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical, main line with d3"]
+[HashCode "7772184e"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "SRB"]
+
+1. Nf3 c5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. Nc3 Nc6 7. d3 b6 8. a3
+Bb7 9. Rb1 Nd4 10. e4 Nxf3+ 11. Bxf3 d6 12. Bg2 Ne8 13. Be3 e5 14. f4 f5 15.
+Nd5 Nc7 16. fxe5 Nxd5 17. cxd5 fxe4 18. Rxf8+ Qxf8 19. exd6 exd3 20. Qxd3 Qxd6
+21. b4 Re8 22. bxc5 bxc5 23. Rxb7 1-0

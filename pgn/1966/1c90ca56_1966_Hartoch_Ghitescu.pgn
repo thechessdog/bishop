@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1966.01.01"]
+[Round "5"]
+[White "Hartoch, Robert G"]
+[Black "Ghitescu, Theodor"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed system (without ...d6)"]
+[HashCode "1c90ca56"]
+[Epoch "Bishop"]
+[BlackCountry "ROU"]
+[WhiteCountry "NLD"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 Nge7 6. Nf3 d6 7. O-O O-O 8. Ne1
+a5 9. Bd2 h6 10. Nc2 Nd4 11. e3 Nxc2 12. Qxc2 c6 13. a3 Be6 14. b4 axb4 15.
+axb4 Qc7 16. c5 f5 17. e4 f4 18. f3 b5 19. Ne2 g5 20. Ra5 Rxa5 21. bxa5 d5 22.
+Bb4 h5 23. h3 Qd7 24. g4 Ng6 25. a6 Nh4 26. Ra1 hxg4 27. hxg4 d4 28. Be1 Ra8
+29. Qd2 Bf8 30. Ng3 Nxg2 0-1

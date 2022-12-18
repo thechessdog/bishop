@@ -1,0 +1,22 @@
+[Event "Harrachov"]
+[Site "Harrachov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Tompa, Janos"]
+[Black "Cebalo, Miso"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "0a40a3b1"]
+[Epoch "Bishop"]
+[WhiteID "700193"]
+[WhiteCountry "HUN"]
+[BlackID "14500094"]
+[BlackCountry "CRO"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e6 7. O-O Nge7 8. Be3
+Nd4 9. Rb1 O-O 10. b4 Nxe2+ 11. Nxe2 cxb4 12. Rxb4 d5 13. exd5 Nxd5 14. Rb3
+Nxe3 15. fxe3 Rb8 16. c4 Qc7 17. Nf4 Bd7 18. Qe2 b5 19. cxb5 Rxb5 20. Rfb1 Rxb3
+21. axb3 Bb5 22. Qd1 Rc8 23. d4 Qc3 24. Qf3 a6 25. Qf2 Qb4 26. Bf3 Rc3 27. Bd1
+Rxe3 28. Ng2 Rd3 0-1

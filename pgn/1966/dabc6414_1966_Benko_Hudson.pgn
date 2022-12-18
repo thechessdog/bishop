@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Benko, Pal"]
+[Black "Hudson"]
+[Result "1-0"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Keres variation"]
+[HashCode "dabc6414"]
+[Epoch "Bishop"]
+[WhiteID "2000687"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 8.
+dxc5 Qa5 9. e4 Nf6 10. Be3 Qxc3+ 11. Kf2 Nc6 12. Ne2 Qa5 13. Qd6 e5 14. Rb1 Bf5
+15. Ng3 Rd8 16. Nxf5 Rxd6 17. Nxd6+ Kf8 18. Rxb7 Nd8 19. Rb8 Nd7 20. Nb7 1-0

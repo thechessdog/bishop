@@ -1,0 +1,19 @@
+[Event "Dunkirk"]
+[Site "Dunkirk"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Letzelter"]
+[Black "Romett"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "07a00284"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Bc4 e6 6. Nf3 Nc6 7. O-O Nb6 8.
+Bb3 d6 9. Bg5 Be7 10. Bxe7 Qxe7 11. cxd4 Nd7 12. exd6 Qxd6 13. d5 Nce5 14.
+dxe6 Nxf3+ 15. Qxf3 fxe6 16. Nc3 Nf6 17. Rad1 Qe7 18. Ba4+ Kf7 19. Ne4 Rf8
+20. Ng5+ Kg8 21. Rfe1 e5 22. Bb3+ Kh8 23. Qg3 Ng4 24. Nf7+ Rxf7 25. Bxf7
+Bd7 26. Bh5 Nf6 27. Qxe5 Qxe5 28. Rxe5 1-0
+

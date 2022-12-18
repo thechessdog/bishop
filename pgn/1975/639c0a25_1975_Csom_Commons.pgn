@@ -1,0 +1,19 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1975.04.01"]
+[Round "10"]
+[White "Csom, Istvan"]
+[Black "Commons, Kim S"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "639c0a25"]
+[Epoch "Bishop"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Qe2 Bxb5 5. Qxb5+ Qd7 6. Qxd7+ Nxd7 7. c4 Ne5
+8. Nxe5 dxe5 9. d3 e6 10. Nc3 Ne7 11. Be3 Nc6 12. a3 Be7 13. Ke2 O-O 14. Rab1
+Rfd8 15. Na2 a6 16. Rhc1 1/2-1/2

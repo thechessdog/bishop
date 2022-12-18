@@ -1,0 +1,23 @@
+[Event "Capablanca Memorial"]
+[Site "Havana"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Garcia, Gildardo"]
+[Black "Darga, Klaus"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "00cb7deb"]
+[Epoch "Bishop"]
+[WhiteID "4400020"]
+[WhiteCountry "COL"]
+[BlackID "4600150"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. Nc3 h6 6. Bh4 O-O 7. e3 b6 8. cxd5
+Nxd5 9. Bg3 Bb7 10. Be2 c5 11. O-O Nd7 12. Rc1 a6 13. a4 N7f6 14. h3 Rc8 15.
+Qb3 cxd4 16. exd4 Bd6 17. Nxd5 Nxd5 18. Rxc8 Bxc8 19. Ne5 Bb7 20. Rc1 Qg5 21.
+Rf1 Nf4 22. Bf3 Bxf3 23. Qxf3 Bxe5 24. dxe5 Nd5 25. Qe2 a5 26. h4 Qe7 27. Rc1
+Rd8 28. Rc4 Qd7 29. Rd4 Rc8 30. h5 Qc6 31. Qg4 Qc2 32. Bh4 Rc5 33. Kh2 Qxb2 34.
+Rxd5 Rxd5 35. Bf6 Kf8 36. Qxg7+ Ke8 37. Qg8+ Kd7 38. Qd8+ Kc6 39. Qc8# 1-0

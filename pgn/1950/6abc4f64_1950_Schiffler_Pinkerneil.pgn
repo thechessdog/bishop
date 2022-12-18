@@ -1,0 +1,15 @@
+[Event "Sommerda"]
+[Site "Sommerda"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Schiffler, L."]
+[Black "Pinkerneil"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "6abc4f64"]
+[Epoch "Bishop"]
+
+1. b4 e5 2. Bb2 f6 3. e4 c6 4. Bxe5 fxe5 5. Qh5+ Ke7 6. Qxe5+ Kf7 7. Bc4+
+Kg6 8. Nh3 d5 9. Nf4+ Kf7 10. exd5 Qe7 11. d6+ 1-0
+

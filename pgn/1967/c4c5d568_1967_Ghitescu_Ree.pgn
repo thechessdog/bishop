@@ -1,0 +1,18 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1967.07.01"]
+[Round "4"]
+[White "Ghitescu, Theodor"]
+[Black "Ree, Hans"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "c4c5d568"]
+[Epoch "Bishop"]
+[BlackID "1000098"]
+[BlackCountry "NED"]
+[WhiteCountry "ROU"]
+
+1. d4 g6 2. e4 Bg7 3. c3 d6 4. Bc4 c6 5. Nf3 d5 6. Bb3 dxe4 7. Ng5 Nh6 8. Nxe4
+Qc7 9. O-O O-O 10. Re1 Nf5 11. Nbd2 Nd7 12. Nf3 Nf6 13. Nxf6+ exf6 14. g3 Nd6
+15. Nh4 Bh3 16. Bf4 g5 17. Bxd6 Qxd6 18. Ng2 Rae8 19. Bxf7+ Kxf7 20. Qh5+ 1-0

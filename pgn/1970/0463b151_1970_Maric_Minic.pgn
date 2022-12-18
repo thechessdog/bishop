@@ -1,0 +1,18 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "Marić, Rudolf"]
+[Black "Minic, Dragoljub"]
+[Result "1/2-1/2"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Duras (Keres) variation"]
+[HashCode "0463b151"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c4 Nf6 6. Nc3 Bd7 7. d4 exd4 8. Nxd4
+Nxd4 9. Bxd7+ Qxd7 10. Qxd4 Be7 11. O-O O-O 12. Bg5 Rfe8 13. Rfe1 h6 14. Bh4
+Qg4 15. Bg3 Rad8 16. Rad1 Qc8 17. Bh4 Qg4 18. Bg3 Qc8 1/2-1/2

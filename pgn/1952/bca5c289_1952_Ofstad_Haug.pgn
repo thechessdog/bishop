@@ -1,0 +1,18 @@
+[Event "Trondheim"]
+[Site "Trondheim"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Ofstad, Per"]
+[Black "Haug, Sverre"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "bca5c289"]
+[Epoch "Bishop"]
+[WhiteID "1500708"]
+[BlackID "1504479"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. Be3 O-O 6. h4 Nbd7 7. h5 Re8 8. hxg6
+fxg6 9. Nf3 e5 10. Bc4+ Kh8 11. Ng5 Re7 12. Nd5 1-0

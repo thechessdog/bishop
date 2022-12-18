@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1971.07.01"]
+[Round "5"]
+[White "Adorjan, Andras"]
+[Black "Hartoch, Robert G"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "6cc1e565"]
+[Epoch "Bishop"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackCountry "NLD"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. e5 dxe5 6. dxe5 Qxd1+ 7. Kxd1 Nfd7 8.
+Nd5 Kd8 9. Nf3 c6 10. Ne3 f6 11. exf6 Bxf6 12. Ng4 Nf8 13. Nxf6 exf6 14. Be3
+Bf5 15. Rg1 Nbd7 16. g4 Be4 17. Nd2 Bd5 1/2-1/2

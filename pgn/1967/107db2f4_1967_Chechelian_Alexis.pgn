@@ -1,0 +1,17 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Chechelian, Seiran"]
+[Black "Alexis"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "107db2f4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 d5 9. O-O-O Nxd4 10. Bxd4 O-O 11. exd5 exd5 12. Bxf6 Bxf6 13. Nxd5
+Bf5 14. Rhe1 Rc8 15. Bb3 Be6 16. Nf4 1-0
+

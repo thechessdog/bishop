@@ -1,0 +1,19 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1955.01.01"]
+[Round "15"]
+[White "Goldberg, Grigory"]
+[Black "Soloviev, Vladimir A"]
+[Result "1/2-1/2"]
+[ECO "E57"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...dc and 9...cd"]
+[HashCode "55367755"]
+[Epoch "Bishop"]
+[WhiteID "2808927"]
+[WhiteCountry "ISR"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 c5 7. O-O Nc6 8. a3
+dxc4 9. Bxc4 cxd4 10. exd4 Be7 11. d5 exd5 12. Nxd5 Nxd5 13. Qxd5 Qxd5 14. Bxd5
+Bd7 1/2-1/2

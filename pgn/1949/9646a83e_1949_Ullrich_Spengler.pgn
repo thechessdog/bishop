@@ -1,0 +1,15 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Ullrich"]
+[Black "Spengler"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Modern defence"]
+[HashCode "9646a83e"]
+[Epoch "Bishop"]
+
+1. d4 g6 2. Nf3 Bg7 3. e3 d6 4. Bc4 Nd7 5. Bxf7+ Kxf7 6. Ng5+ Kf6 7. Qf3+
+Kxg5 8. e4+ Kh4 9. Qh3# 1-0
+

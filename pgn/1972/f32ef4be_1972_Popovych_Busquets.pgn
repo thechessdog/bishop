@@ -1,0 +1,23 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1972.01.01"]
+[Round "9"]
+[White "Popovych, Orest"]
+[Black "Busquets, Luis"]
+[Result "1-0"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "f32ef4be"]
+[Epoch "Bishop"]
+[WhiteID "2002558"]
+[WhiteCountry "USA"]
+[BlackID "2001926"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Bc4 h6 12. Bh4 e5 13. fxe5 dxe5 14. Qd3
+Be6 15. Bxf6 Bxc4 16. Qxc4 Bxf6 17. Nd5 Bd8 18. Kb1 Kh7 19. Rhf1 Bb6 20. Nxb6
+Qxb6 21. Rxf7 Rac8 22. Qf1 Rxf7 23. Qxf7 Qc5 24. Qf5+ Kh8 25. c3 Rf8 26. b4 Qe7
+27. Qg4 Rd8 28. Rd5 Rxd5 29. exd5 Kg8 30. Kc2 b5 31. Kd3 Kh7 32. h4 Qf6 33. Ke4
+g6 34. g3 h5 35. Qd7+ Kh6 36. Qe6 Qf2 37. Qxe5 Qxa2 38. Qh8# 1-0

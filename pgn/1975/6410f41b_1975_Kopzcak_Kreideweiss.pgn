@@ -1,0 +1,29 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kopzcak"]
+[Black "Kreideweiss"]
+[Result "0-1"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[HashCode "6410f41b"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 g6 3. Nf3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 f4 12. Bg4 Nf6 13. Bxc8 Qxc8 14. c5 a6
+15. cxd6 cxd6 16. f3 b5 17. a4 b4 18. Ne2 a5 19. Be1 g5 20. Nec1 g4 21. Nb3
+Ng6 22. Bf2 h5 23. Qc1 Qa6 24. Qd2 Qc4 25. Qe2 Rfc8 26. Nd2 Qa6 27. Rfc1
+Bh6 28. Rxc8+ Rxc8 29. Nb3 Rc7 30. Rc1 gxf3 31. gxf3 Rg7 32. Rc6 Ne7+ 33.
+Kf1 Nxc6 34. dxc6 Qxc6 35. Nxa5 Qxa4 36. Nc4 Ne8 37. Be1 Qd7 38. Nf2 Bg5
+39. Qd3 Bh4 40. Ke2 Bxf2 41. Bxf2 Qb5 42. b3 Rg2 43. Qd1 Qa6 44. Qf1 Rg6
+45. Qh3 Ng7 46. Qh4 Qa2+ 47. Nd2 Qc2 48. Qd8+ Kh7 49. h4 Qc3 50. Qd7 Rg2
+51. Qa7 Kh6 52. Kf1 Rxf2+ 53. Qxf2 Ne6 54. Kg2 Nd4 55. Kh3 Qc8+ 56. Kh2 Qc2
+57. Kg2 Nxb3 58. Nxb3 Qxb3 59. Qd2 Qg8+ 60. Kh1 Qe6 61. Kg2 b3 62. Qb4 Qg6+
+63. Kf1 Qe6 64. Kg2 d5 65. Qxb3 Qg6+ 66. Kf1 dxe4 67. fxe4 Qa6+ 68. Kf2 Kg7
+69. Qb8 Qa2+ 70. Ke1 Qa5+ 71. Ke2 Kf7 72. Qb7+ Ke8 73. Qh7 Qb5+ 74. Ke1
+Qb4+ 75. Ke2 Qc4+ 76. Kd2 Qd4+ 77. Kc2 Kd8 78. Qg8+ Kc7 79. Qf7+ Kb6 80.
+Qb3+ Ka5 81. Qf3 Qe3 82. Qxh5 Qxe4+ 83. Kb3 Qe3+ 84. Kc2 f3 85. Qf7 f2 86.
+Qc7+ Kb5 87. Qd7+ Kc4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Calgary ch-CAN zt"]
+[Site "Calgary ch-CAN zt"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Coudari, Camille"]
+[Black "Harper, Bruce"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "cdcee529"]
+[Epoch "Bishop"]
+[WhiteID "2600293"]
+[WhiteCountry "CAN"]
+[BlackID "2600242"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Bxc3+
+1/2-1/2

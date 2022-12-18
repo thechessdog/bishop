@@ -1,0 +1,21 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1948.10.01"]
+[Round "1"]
+[White "Canal, Esteban"]
+[Black "Barcza, Gedeon"]
+[Result "0-1"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "bb89d489"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "PER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Bc4 h6 12. Bh4 e5 13. Qd3 exf4 14. Nb5
+Bg4 15. Rdf1 a6 16. Nc3 Qe5 17. Bf2 b5 18. Bb3 b4 19. Bd4 Qh5 20. Bxf6 Bxf6 21.
+Nd5 Bg5 22. h4 Be2 23. hxg5 Bxd3 24. Rxh5 Bxf1 25. gxh6 g6 26. Rh2 Kh8 27. Nxf4
+Rac8 28. Nd5 Rc5 29. Ne3 Bb5 30. g4 Bc6 31. Rd2 Bxe4 32. Rxd6 f5 33. gxf5 gxf5
+34. Nd5 f4 35. Nf6 Bc6 36. Kd2 f3 37. Bf7 f2 0-1

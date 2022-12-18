@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Dvoretsky, Mark Izrailovich"]
+[Black "Sokolov, Vladimir"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "24d22a46"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. b4 a5
+9. bxa5 Qxa5 10. Bb2 Nd7 11. a4 Qc7 12. Qe2 Re8 13. Ra3 b6 14. Rfa1 Bb7 15. Nb3
+c5 16. a5 c4 17. dxc4 dxc4 18. axb6 Nxb6 19. Na5 Ba6 20. Bc3 Nec8 21. Qe3 Nd6
+22. Nd2 Nb5 23. R3a2 Bf8 24. Nf3 Bc5 25. Qe1 Bc8 26. Bxe5 Rxe5 27. Nxe5 Qxe5
+28. Nxc4 Nxc4 29. Rxa8 Nb6 30. Bh3 f5 31. exf5 Qxe1+ 32. Rxe1 Nxa8 33. Re8+ Kf7
+34. Rxc8 Nbc7 35. fxg6+ hxg6 36. Bg2 1-0

@@ -1,0 +1,18 @@
+[Event "Beverwijk-C"]
+[Site "Beverwijk-C"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Kruger, E."]
+[Black "Goris"]
+[Result "1-0"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "5675bc94"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Ne8 8. Qd2 f5
+9. O-O-O f4 10. Bf2 a6 11. c5 dxc5 12. Bxc5 Nd6 13. Kb1 Nd7 14. Bf2 b5 15. b3
+Rb8 16. Nge2 Nb6 17. Nc1 Bd7 18. Nd3 b4 19. Ne2 Nxd5 20. exd5 Bf5 21. g4 fxg3
+22. Nxg3 e4 23. Nxf5 Rxf5 24. Nxb4 Rxf3 25. Nc6 Qf8 26. Bd4 e3 27. Bxg7 Qxg7
+28. Qd4 Re8 29. Qxg7+ Kxg7 30. Nd4 Rf2 31. Ne6+ Kh6 32. Re1 Ne4 33. Rxe3 1-0

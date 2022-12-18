@@ -1,0 +1,19 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1975.01.01"]
+[Round "2"]
+[White "Panno, Oscar"]
+[Black "Najdorf, Miguel"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation, main line"]
+[HashCode "3d7fd614"]
+[Epoch "Bishop"]
+[WhiteID "100153"]
+[WhiteCountry "ARG"]
+[BlackCountry "POL"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Qe2 Bg6 10. Ne5 Nbd7 11. Nxg6 hxg6 12. Rd1 Qe7 13. e4 e5 14. dxe5 Nxe5
+15. Bb3 Rad8 16. Bf4 a5 17. f3 Nh5 18. Be3 Bc5 19. Qf2 1/2-1/2

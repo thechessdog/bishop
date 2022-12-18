@@ -1,0 +1,23 @@
+[Event "Schlechter mem"]
+[Site "Vienna"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Puc, Stojan"]
+[Black "Fletzer, Gino"]
+[Result "0-1"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical"]
+[HashCode "3e8fb7d6"]
+[Epoch "Bishop"]
+[WhiteCountry "SVN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e6 7. Be3 a6 8. O-O
+Qc7 9. f4 Be7 10. Qd2 Na5 11. e5 dxe5 12. fxe5 Nd7 13. Rxf7 Kxf7 14. Bh5+ g6
+15. Rf1+ Ke8 16. Nxe6 Qxe5 17. Bd4 Qxe6 18. Re1 Nc4 19. Rxe6 Nxd2 20. Bxh8 Kf7
+21. Re2 gxh5 22. Rxd2 Bf6 23. Bxf6 Nxf6 24. Rd8 Ke7 25. Rh8 b5 26. a4 bxa4 27.
+Nxa4 Bb7 28. Rxa8 Bxa8 29. Nc5 a5 30. c3 Kd6 31. Nb3 a4 32. Nd4 Ke5 33. Kf2
+Ne4+ 34. Ke2 Nd6 35. g3 Be4 36. Ke1 Bg6 37. Ke2 Be8 38. Kd3 Kd5 39. Kc2 Bg6+
+40. Kc1 Kc4 41. Nc6 Nb7 42. Ne5+ Kd5 43. Nd7 Nc5 44. Nb6+ Kc6 45. Nc8 Nd3+ 46.
+Kb1 Kd7 47. Nb6+ Kc6 48. Nc8 Nb4+ 49. Kc1 Nd5 50. Kd2 Bf5 51. Na7+ Kb6 52. c4
+Nc7 0-1

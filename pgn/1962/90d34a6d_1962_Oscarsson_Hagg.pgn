@@ -1,0 +1,18 @@
+[Event "Helsingborg"]
+[Site "Helsingborg"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Oscarsson, T."]
+[Black "Hagg, R."]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Rasa-Studier gambit"]
+[HashCode "90d34a6d"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 c6 3. Nc3 dxe4 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qg4 7. Qf2 Nf6
+8. Bd3 e5 9. h3 Qe6 10. Nf3 Bb4 11. O-O Bxc3 12. bxc3 O-O 13. Ng5 Qe8 14.
+Qh4 Nbd7 15. Rxf6 Nxf6 16. Rf1 h6 17. Rxf6 e4 18. Rxh6 gxh6 19. Qxh6 Bf5
+20. Bd4 f6 21. Bc4+ Rf7 22. Bxf7+ 1-0
+

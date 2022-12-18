@@ -1,0 +1,20 @@
+[Event "Grindsted"]
+[Site "Grindsted"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Nielsen, Jens"]
+[Black "Giaccomazzi, Domini"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "5a696d52"]
+[Epoch "Bishop"]
+[WhiteID "1409310"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. d4 cxd4 6. Nxd4 Qb6 7. Nxc6 Nxc6
+8. Nc3 Bc5 9. Bd3 Bb4 10. Qg4 O-O 11. Bh6 Qd4 12. Ne2 f5 13. Qg3 Qf6 14. Bg5
+Qf7 15. exf5 exf5 16. Rad1 d5 17. c3 Ba5 18. Bc2 Kh8 19. Bb3 Be6 20. Nd4 Bc7
+21. Qxc7 Qxc7 22. Nxe6 Qf7 23. Nxf8 Rxf8 24. Rxd5 Qh5 25. Be3 Qh4 26. Bc5 Rf6
+27. Be7 1-0

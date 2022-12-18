@@ -1,0 +1,19 @@
+[Event "Pecs"]
+[Site "Pecs"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kadar, Gabor"]
+[Black "Koszuros"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "f0cd5bf2"]
+[Epoch "Bishop"]
+[WhiteID "700770"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Qc2 Nf6 10. Bg5 h6 11. Bh4 dxc4 12. Bxc4 Nbd7 13. Nc3 Qc7 14. Rfe1 Nb6
+15. Bxf6 Nxc4 16. Ne4 Nb6 17. Nxd6 gxf6 18. Nxc8 Raxc8 19. Qf5 Rce8 20. Qxf6
+Kh7 21. Ne5 Qe7 22. Qf5+ Kh8 23. Qh5 Qf6 24. Re3 Nd5 25. Nxf7+ 1-0

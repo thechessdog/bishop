@@ -1,0 +1,19 @@
+[Event "corr ch5-SU"]
+[Site "corr ch5-SU"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Jewdokimow"]
+[Black "Gorenstein"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "1e7cd8e0"]
+[Epoch "Bishop"]
+
+1. c4 c6 2. e4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Bb5+ Nbd7 6. Nc3 a6 7. Qa4 g6
+8. Nf3 Bg7 9. O-O O-O 10. Bxd7 Bxd7 11. Qb3 Qc7 12. d4 Rad8 13. Bg5 h6 14.
+Bh4 Bc8 15. Rfe1 b5 16. Ne5 Rde8 17. a4 g5 18. Bg3 Nh5 19. axb5 axb5 20.
+Qxb5 Nxg3 21. hxg3 Bf5 22. Nc6 Bf6 23. Qc5 Qd7 24. Ra7 Qc8 25. Nb5 Bd3 26.
+Nc7 1-0
+

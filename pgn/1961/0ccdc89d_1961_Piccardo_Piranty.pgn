@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Piccardo"]
+[Black "Piranty"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "0ccdc89d"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+Bd3 Bxd3 9. Qxd3 e6 10. Bf4 Ngf6 11. O-O-O Qa5 12. Kb1 Nd5 13. Bd2 Qb6 14.
+c4 Nc7 15. Ne5 Nxe5 16. dxe5 Rd8 17. Qxd8+ Kxd8 18. Bg5+ Ke8 19. Rd8# 1-0
+

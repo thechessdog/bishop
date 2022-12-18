@@ -1,0 +1,18 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Ibsen, Kurt"]
+[Black "Busch, Ivan"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "0557d1ac"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. Qf3 Bg4 9. Qxf2 O-O-O 10. Be2 Rf8 11. Ke1 Nd4 12. Bd1 Bxd1 13. Kxd1
+Ng4 14. Qg1 Nf2+ 15. Ke1 Nxc2+ 16. Ke2 Nd4+ 17. Ke1 Nc2+ 18. Ke2 Nd4+ 19.
+Ke1 Qh4 20. d3 Nxd3+ 21. Kd2 Rf2+ 22. Kxd3 dxe4+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hohne, E."]
+[Black "Reichenbacher, G."]
+[Result "0-1"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "cc6b1723"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. Qd2 Nc6 9. e4 Nb6 10. Bb5 Bd7 11. Rb1 Na5 12. Qb2 Rc8 13. Ne2 Na4 14.
+Qc2 Bxb5 15. Rxb5 a6 16. Qxa4 axb5 17. Qxb5+ Nc6 18. O-O Qa5 19. Qxb7 O-O
+20. Bf4 cxd4 21. Bd6 d3 22. Bxf8 Rxf8 23. Qxc6 dxe2 24. Re1 Qa7+ 25. Kh1
+Qf2 0-1
+

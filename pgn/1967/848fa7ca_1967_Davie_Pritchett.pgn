@@ -1,0 +1,28 @@
+[Event "Dundee"]
+[Site "Dundee"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Davie, Alexander M"]
+[Black "Pritchett, Craig W"]
+[Result "1-0"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "848fa7ca"]
+[Epoch "Bishop"]
+[WhiteID "2400170"]
+[BlackID "2400065"]
+[WhiteCountry "SCO"]
+[BlackCountry "SCO"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 d6 4. O-O g6 5. d4 Bg7 6. c4 O-O 7. Nc3 Nc6 8. d5
+Na5 9. Qd3 c5 10. Bd2 a6 11. Rfe1 Rb8 12. Ng5 b5 13. b3 Ng4 14. cxb5 axb5 15.
+Rac1 b4 16. Nd1 Ne5 17. Qc2 h6 18. Ne6 Bxe6 19. dxe6 Nac6 20. e3 Qc8 21. Bd5
+Nd8 22. Kg2 Nxe6 23. e4 Kh8 24. exf5 Nd4 25. Qb1 gxf5 26. f4 Nec6 27. Kh1 e6
+28. Bg2 Qe8 29. Rf1 Qh5 30. Qd3 Rfd8 31. Rf2 Qe8 32. Ne3 Rbc8 33. Be1 Rc7 34.
+Nc2 Re7 35. Nxd4 Nxd4 36. Rd2 Qb5 37. Qxb5 Nxb5 38. Rxc5 dxc5 39. Rxd8+ Kh7 40.
+Bf2 Bd4 41. Bc6 Bxf2 42. Bxb5 Kg7 43. Bc4 Bd4 44. Rd6 Kf6 45. Kg2 Re8 46. Kf3
+Re7 47. Ra6 Re8 48. h3 h5 49. g4 hxg4+ 50. hxg4 fxg4+ 51. Kxg4 Re7 52. Kf3 Kf5
+53. Bd3+ Kf6 54. Ke4 Kf7 55. Bc4 Kf6 56. f5 Kf7 57. fxe6+ Kf6 58. Kd5 Rc7 59.
+Ra8 Ke7 60. Rg8 Rb7 61. Rc8 Rb6 62. Rc7+ Kd8 63. e7+ Kxc7 64. e8=Q Rd6+ 65. Ke4
+Rd8 66. Qb5 1-0

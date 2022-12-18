@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Schlosser, W."]
+[Black "Hammerling, G."]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "fc9799c2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O Qc7 10. Bb3 a6 11. Rhg1 b5 12. g4 b4 13. Nxc6 Qxc6 14.
+Nd5 Nxd5 15. exd5 Qb7 16. f4 Re8 17. g5 Bf8 18. Bd4 Bd7 19. Bf6 a5 20. g6
+hxg6 21. Rxg6 fxg6 22. dxe6 Kh7 23. f5 d5 24. Rxd5 Bxe6 25. fxg6+ Kxg6 26.
+Bh4 Bf5 27. Qf3 Qc8 28. Qf4 Ra6 29. Rxa5 Re1+ 30. Bxe1 Rxa5 31. Qg3+ Kf6
+32. Qf4 g5 33. Qd4+ Re5 34. h4 g4 35. Bd2 Be4 36. Bg5+ Kf5 37. Qa7 Qb7 38.
+Qe3 Kg6 39. Qf4 Bg7 40. Qxg4 Bf5 41. Qd1 Qe4 42. a3 bxa3 43. bxa3 Qe1 44.
+Bd2 Qxd1+ 45. Kxd1 Re4 0-1
+

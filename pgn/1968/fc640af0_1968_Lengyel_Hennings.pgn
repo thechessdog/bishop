@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Lengyel, Levente"]
+[Black "Hennings, Artur"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Wiesbaden variation"]
+[HashCode "fc640af0"]
+[Epoch "Bishop"]
+[BlackID "4611594"]
+[WhiteCountry "HUN"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. Nxc4
+O-O 9. Bg5 h6 10. Bh4 c5 11. dxc5 Qxd1+ 12. Rxd1 Bc2 13. Rc1 Bxa4 14. Bxf6 gxf6
+15. Ra1 Bb3 16. Nb6 Nc6 17. Nxa8 Rxa8 18. e3 1/2-1/2

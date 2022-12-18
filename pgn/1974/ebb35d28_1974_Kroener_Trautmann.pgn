@@ -1,0 +1,17 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kroener, O."]
+[Black "Trautmann, K."]
+[Result "1/2-1/2"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Gurgenidze variation"]
+[HashCode "ebb35d28"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6
+8. c5 Bg7 9. Bb5+ Bd7 10. cxd6 O-O 11. O-O Bxb5 12. Nxb5 a6 13. Nc3 Ne8
+1/2-1/2
+

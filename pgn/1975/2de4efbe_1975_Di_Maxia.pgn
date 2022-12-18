@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Di Benedetto"]
+[Black "Maxia"]
+[Result "1-0"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "2de4efbe"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Rb8 9. Bxc6+ Nxc6 10. Qxc6+ Nd7 11. d3 Be7 12. Nf3 O-O 13. Qa4
+Nc5 14. Qa3 Nb3 15. Qxa7 Rb7 16. Qa4 Nxa1 17. c3 Qxd3 1-0
+

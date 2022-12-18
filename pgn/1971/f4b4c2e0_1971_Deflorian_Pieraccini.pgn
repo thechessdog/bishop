@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Deflorian"]
+[Black "Pieraccini"]
+[Result "1-0"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "f4b4c2e0"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nd7 4. e4 Nb6 5. Bxc4 Nxc4 6. Qa4+ c6 7. Qxc4
+Nf6 8. Nc3 e6 9. O-O Be7 10. Bf4 O-O 11. Rad1 Qa5 12. Qe2 Nh5 13. Bd2 Qc7
+14. Ne5 Nf6 15. Bf4 Bd6 16. Bg3 Bxe5 17. dxe5 Nd7 18. Rd6 b6 19. Rfd1 Nc5
+20. f4 Nb7 21. R6d2 Rd8 22. Qg4 Rxd2 23. Rxd2 Bd7 24. f5 exf5 25. exf5 Qc8
+26. e6 Bxe6 27. Be5 1-0
+

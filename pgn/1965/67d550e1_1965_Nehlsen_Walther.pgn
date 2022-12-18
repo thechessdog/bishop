@@ -1,0 +1,17 @@
+[Event "corr BdF/PZ"]
+[Site "corr BdF/PZ"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Nehlsen"]
+[Black "Walther, Edgar"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "67d550e1"]
+[Epoch "Bishop"]
+[BlackCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. d4 Nge7 7. Bb3 h6 8. Be3
+Ng6 9. c4 Be7 10. Nc3 Bg5 11. Nd5 Bg4 12. Ba4 Nh4 13. dxe5 dxe5 14. Bc5 Bxf3
+15. Qb3 Qc8 16. Rad1 f6 17. Bxc6+ bxc6 18. Qa4 Qg4 0-1

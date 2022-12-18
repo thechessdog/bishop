@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Tompa, Janos"]
+[Black "Vadasz, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "adcff265"]
+[Epoch "Bishop"]
+[WhiteID "700193"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O Nc6 7. Be3 e5 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Qxd8 Rxd8 11. Rfd1 Rxd1+ 12. Rxd1 Be6 13. f3 c6 14. a4
+1/2-1/2

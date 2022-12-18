@@ -1,0 +1,17 @@
+[Event "Schiffsweiler"]
+[Site "Schiffsweiler"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Nickl"]
+[Black "Pfaff"]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "8b3a0465"]
+[Epoch "Bishop"]
+
+1. f4 d5 2. e3 Nc6 3. Nf3 e6 4. Bb5 Bd7 5. O-O a6 6. Bxc6 Bxc6 7. Ne5 Bd6
+8. Nxc6 bxc6 9. b3 Nf6 10. Bb2 O-O 11. d3 Be7 12. Nd2 Nd7 13. e4 Bf6 14. e5
+Be7 15. f5 exf5 16. Rxf5 Nc5 17. Qg4 Qd7 18. Raf1 Ne6 19. Rh5 Nc5 20. e6
+Nxe6 21. Bxg7 Nc5 22. Qg3 f5 23. Bxf8+ Kxf8 24. Rhxf5+ 1-0
+

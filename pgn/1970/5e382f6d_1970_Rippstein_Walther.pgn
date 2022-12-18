@@ -1,0 +1,18 @@
+[Event "corr BdF/PV"]
+[Site "corr BdF/PV"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Rippstein"]
+[Black "Walther, Edgar"]
+[Result "0-1"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Rubinstein variation"]
+[HashCode "5e382f6d"]
+[Epoch "Bishop"]
+[BlackCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nge7 7. Bb3 h6 8. Nbd2
+g5 9. dxe5 dxe5 10. Nc4 Ng6 11. h4 gxh4 12. Ne3 Be7 13. Nd5 Bg5 14. Nxg5 hxg5
+15. Bxg5 Qxg5 16. Nxc7+ Kd8 17. Nxa8 Qxg2 18. Rf1 Nf4 19. Bc2 Ke7 20. Qd2 Qf3
+21. Rg1 Rg8 0-1

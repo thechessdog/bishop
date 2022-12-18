@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Woizan, G."]
+[Black "Weigel, F."]
+[Result "0-1"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "ca7a17ac"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 Ne4 7. O-O f5 8.
+d5 Nxc3 9. bxc3 Bxc3 10. Rb1 Bf6 11. e4 O-O 12. Re1 exd5 13. exd5 g6 14.
+Bh6 Bg7 15. Qd2 Na6 16. Bg5 Bf6 17. h4 Nc5 18. Bc2 Bxg5 19. Nxg5 Ba6 20.
+Qf4 Re8 21. g4 Qf6 22. gxf5 h6 23. Nh3 gxf5 24. Kh1 Kh8 25. Rg1 Rg8 26.
+Rbe1 Rxg1+ 27. Rxg1 Rg8 28. Rxg8+ Kxg8 29. Bxf5 Kf8 30. Kg2 Bxc4 31. Qxc4
+Qxf5 32. f3 Nd3 33. Qxc7 Ne1+ 34. Kf2 Qc2+ 35. Qxc2 Nxc2 36. d6 b5 37. Nf4
+Nb4 38. Ke3 Kf7 39. Kd4 Nxa2 40. Nd3 Ke6 41. Kc5 b4 42. Kc4 a5 43. Kb3 Nc3
+44. Nc5+ Kxd6 45. Nb7+ Ke5 46. Nxa5 Nd5 47. Kc4 h5 48. Nb3 Ne7 49. Kxb4 Ng6
+50. Nc5 d5 51. Nd3+ Kd4 52. Nc5 Ke3 53. Nd7 d4 54. Nf6 d3 55. Nd5+ Kxf3 56.
+Kc3 Ke2 0-1
+

@@ -1,0 +1,21 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Litvinov, Viktor"]
+[Black "Dydyshko, Viacheslav"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "be5e36ca"]
+[Epoch "Bishop"]
+[WhiteID "24113255"]
+[WhiteCountry "RUS"]
+[BlackID "13500031"]
+[BlackCountry "BLR"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Nf3 e4 5. Nd4 Nxd4 6. Bxd4 Bf5 7. d3 Nf6 8. Nd2
+Ba3 9. dxe4 dxe4 10. Be2 Qe7 11. g4 Bg6 12. g5 Nd7 13. h4 Rg8 14. Nc4 Bb4+ 15.
+c3 Bd6 16. Bg4 f5 17. h5 fxg4 18. hxg6 hxg6 19. Qxg4 c5 20. Bxg7 Rxg7 21. O-O-O
+Bb8 22. Rxd7 Qxd7 23. Rh8+ Ke7 24. Qxe4+ 1-0

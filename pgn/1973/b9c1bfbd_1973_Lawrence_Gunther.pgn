@@ -1,0 +1,17 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Lawrence, R."]
+[Black "Gunther, J."]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "b9c1bfbd"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nf3 e6 3. Nc3 b6 4. d4 Bb7 5. g3 d5 6. cxd5 Nxd5 7. Nxd5 Bxd5
+8. Bg2 Nd7 9. O-O c5 10. e4 Bb7 11. d5 Qe7 12. Qa4 e5 13. Bh3 f6 14. Nxe5
+fxe5 15. Bg5 Qd6 16. f4 1-0
+

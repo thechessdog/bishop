@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Gulko, Boris"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "4e32270f"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackID "2000040"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. Nf3 g6 5. h4 h6 6. Nc3 Bg7 7. Bg2 Nge7 8. d3 d5
+9. O-O O-O 10. Nd1 b6 11. Ne3 Ba6 12. e5 Rc8 13. Ng4 Nf5 14. Bf4 h5 15. Ngh2 c4
+16. Qd2 cxd3 17. cxd3 Qe7 18. Rfd1 Qb4 19. d4 Qxd2 20. Rxd2 Na5 21. Bf1 Bxf1
+22. Nxf1 Rc7 23. b3 Rfc8 24. Ne3 Bf8 25. Nxf5 gxf5 26. Re2 Ba3 27. Ne1 Nc6 28.
+Rd1 Nb4 29. Bg5 Bc1 30. Bf6 Bh6 31. Kg2 Rc1 32. Rxc1 Rxc1 33. Kf3 Nc6 0-1

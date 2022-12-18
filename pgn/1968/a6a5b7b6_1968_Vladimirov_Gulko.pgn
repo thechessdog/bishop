@@ -1,0 +1,20 @@
+[Event "France"]
+[Site "France"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Vladimirov, Yevgeniy"]
+[Black "Gulko, Boris"]
+[Result "1/2-1/2"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "a6a5b7b6"]
+[Epoch "Bishop"]
+[BlackID "2000040"]
+[WhiteCountry "KAZ"]
+[BlackCountry "USA"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Ne2 Ba6 8. Ng3
+Qc7 9. e4 cxd4 10. cxd4 Bxc4 11. Bg5 Bxf1 12. Kxf1 d6 13. Rc1 Qb7 14. e5 Nd5
+15. Nh5 h6 16. Nxg7+ Kf8 17. Qf3 Qd7 18. Bf6 Rg8 19. Qh5 Nf4 20. Qg4 Ng6 21. h4
+dxe5 22. dxe5 Nc6 23. Rh3 Rc8 24. Rhc3 Rxg7 25. Bxg7+ Kxg7 26. h5 1/2-1/2

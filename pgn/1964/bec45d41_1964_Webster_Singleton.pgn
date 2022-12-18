@@ -1,0 +1,15 @@
+[Event "Wisconsin"]
+[Site "Wisconsin"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Webster, P."]
+[Black "Singleton, K."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "bec45d41"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. d4 dxe4 3. f3 exf3 4. Nxf3 c6 5. Bc4 f6 6. O-O e5 7. Nxe5 fxe5
+8. Qh5+ g6 9. Qxe5+ Ne7 10. Bf7+ Kd7 11. Bf4 1-0
+

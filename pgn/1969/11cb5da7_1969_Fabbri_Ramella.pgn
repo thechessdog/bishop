@@ -1,0 +1,22 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Fabbri"]
+[Black "Ramella"]
+[Result "0-1"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "5.e3"]
+[HashCode "11cb5da7"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nc3 Nf6 5. e3 Be7 6. Be2 O-O 7. O-O Nbd7 8.
+c5 Ne8 9. b4 f5 10. b5 g5 11. bxc6 bxc6 12. Rb1 Ng7 13. Ba3 Bf6 14. Qc2 g4
+15. Ne1 e5 16. Qa4 Qc7 17. Nd3 exd4 18. exd4 Ne6 19. Rbc1 Nxd4 20. Rfd1 a5
+21. Ne1 Nxe2+ 22. Nxe2 Ne5 23. Qf4 Ba6 24. Nd3 Qg7 25. Nxe5 Bxe5 26. Qd2 f4
+27. Nd4 Qg6 28. Re1 Rfe8 29. f3 Bxd4+ 30. Qxd4 gxf3 31. Qf2 Rxe1+ 32. Rxe1
+Qxg2+ 33. Qxg2+ fxg2 34. Kxg2 Bc4 35. Re6 Rc8 36. Kf3 Bxa2 37. Kxf4 d4 38.
+Rd6 Bd5 39. Bb2 Rf8+ 40. Kg5 d3 41. Rd7 Re8 42. Bc3 Re2 43. h4 d2 44. Kf6
+Re6+ 0-1
+

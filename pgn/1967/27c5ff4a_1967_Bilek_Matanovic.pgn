@@ -1,0 +1,16 @@
+[Event "FIDE (27) 1967-1969"]
+[Site "Sousse izt"]
+[Date "1967.10.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Matanovic, Aleksandar"]
+[Result "1/2-1/2"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[HashCode "27c5ff4a"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[BlackCountry "SRB"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 c6 6. c4 d5 7. Nbd2 Nbd7 8. Qc2
+Re8 9. Rd1 Nb6 10. c5 Nbd7 11. Nb3 Nh5 1/2-1/2

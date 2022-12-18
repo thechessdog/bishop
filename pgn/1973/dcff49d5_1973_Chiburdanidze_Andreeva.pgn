@@ -1,0 +1,21 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Chiburdanidze, Maia"]
+[Black "Andreeva, Olga"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "dcff49d5"]
+[Epoch "Bishop"]
+[BlackID "4134982"]
+[BlackCountry "RUS"]
+[WhiteID "13600036"]
+[WhiteCountry "GEO"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Nc3 Nxc3 8.
+bxc3 dxe5 9. d5 e4 10. Ng5 Ne5 11. Nxe4 Qc7 12. Qd4 Bd7 13. Ba3 f6 14. d6 Qc6
+15. dxe7 Bxe7 16. Bxe7 Kxe7 17. Qb4+ Kf7 18. f4 Rhe8 19. fxe5 Rxe5 20. O-O-O
+Rxe4 21. Rxd7+ Ke8 22. Re7+ Rxe7 23. Bb5 1-0

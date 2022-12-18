@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Vespa"]
+[Black "Serrano"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "0db89d47"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. f4 Bg7 6. Be3 Qb6 7. Nf5 Qxb2
+8. Nxg7+ Qxg7 9. c3 e5 10. Bc4 exf4 11. Bxf4 Nge7 12. O-O b6 13. Qd2 h6 14.
+Na3 a6 15. Bd5 b5 16. Rf2 b4 17. Nc4 bxc3 18. Nd6+ Kf8 19. Qe3 Rb8 20. Bxh6
+Qxh6 21. Rxf7+ Kg8 22. Rxe7+ Kf8 23. Re8+ Kg7 24. Qxc3+ 1-0
+

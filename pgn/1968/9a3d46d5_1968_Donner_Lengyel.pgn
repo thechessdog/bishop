@@ -1,0 +1,18 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1968.01.01"]
+[Round "12"]
+[White "Donner, Jan Hein"]
+[Black "Lengyel, Levente"]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "9a3d46d5"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8. a3
+dxc4 9. Bxc4 Ba5 10. Bd3 cxd4 11. exd4 Bb6 12. Be3 Qd6 13. Qd2 Nd5 14. Nxd5
+Qxd5 15. Rfe1 Bd7 16. Rad1 Rac8 17. Bc2 Qh5 18. Ng5 h6 19. Ne4 Ne7 1/2-1/2

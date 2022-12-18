@@ -1,0 +1,19 @@
+[Event "Bath"]
+[Site "Bath"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Mitchell"]
+[Black "Ball, J."]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack"]
+[HashCode "e749ed25"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Nxe4 7. d4 d5 8.
+dxe5 Be6 9. c3 Bc5 10. Qd3 f6 11. exf6 Qxf6 12. Bxd5 O-O-O 13. Bxe6+ Qxe6
+14. Qe2 Rhe8 15. a4 Nxf2 16. Qxe6+ Rxe6 17. Bd2 Ne4+ 18. Kh1 Red6 19. axb5
+axb5 20. Ra8+ Nb8 21. Nd4 Bxd4 22. cxd4 Rxd4 23. Be1 Rd1 24. Nc3 Nxc3 25.
+bxc3 Re8 0-1
+

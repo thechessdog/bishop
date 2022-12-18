@@ -1,0 +1,16 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Andersen, Borge"]
+[Black "Price"]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch"]
+[HashCode "72dc509a"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+
+1. d4 f5 2. Nf3 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 d6 7. Bb2 Qe8 8. Nbd2
+Qh5 9. Ne1 g5 10. Nd3 Qh6 11. e4 Nbd7 12. Qe2 Rf7 13. f4 Nh5 14. exf5 Nf8 15.
+fxe6 Bxe6 16. f5 Bd7 17. Bxb7 Re8 18. Bd5 g4 19. Qxg4+ Bg5 20. Nf3 1-0

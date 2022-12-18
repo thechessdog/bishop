@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Chiarenza"]
+[Black "Braschi"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "c445a5cf"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 e6
+8. O-O Qc7 9. Re1 O-O-O 10. Be3 Ngf6 11. c4 Bd6 12. c5 Bxg3 13. fxg3 Ng4
+14. Bc4 Nxe3 15. Rxe3 Nxc5 16. b4 Ne4 17. Rc1 Rd6 18. Nh4 Qb6 19. Nf3 Rhd8
+20. Qb3 Rxd4 21. Nxd4 Qxd4 22. Qd3 Qb2 23. Qa3 Qf2+ 24. Kh1 Rd2 25. Rg1
+Qxe3 26. Qxe3 Nf2+ 27. Qxf2 Rxf2 0-1
+

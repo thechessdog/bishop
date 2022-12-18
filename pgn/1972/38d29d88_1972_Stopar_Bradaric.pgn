@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Stopar, B."]
+[Black "Bradaric, G."]
+[Result "1-0"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "38d29d88"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Nc3 Nc6 8.
+d5 exd5 9. Nxd5 Nxd5 10. Bxd5 Bd7 11. Qb3 Qc7 12. Bxf7+ Kd8 13. Rd1 Bd6 14.
+Qd5 Rf8 15. Qg5+ Kc8 16. Qxg7 Bf5 17. Qf6 Rxf7 18. Qxd6 Rd7 19. Qf8+ Nd8
+20. Qxf5 b6 1-0
+

@@ -1,0 +1,20 @@
+[Event "CSR-DDR"]
+[Site "Prague"]
+[Date "1958.??.??"]
+[Round "2"]
+[White "Fuchs, Reinhart"]
+[Black "Filip, Miroslav"]
+[Result "1/2-1/2"]
+[ECO "C76"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, fianchetto (Bronstein) variation"]
+[HashCode "e3b96ce5"]
+[Epoch "Bishop"]
+[WhiteID "4611357"]
+[WhiteCountry "GER"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 g6 7. O-O Bg7 8. dxe5
+dxe5 9. Bg5 Nge7 10. c4 h6 11. Be3 Nd4 12. Bxd7+ Qxd7 13. Nc3 O-O 14. Nd5 Nxd5
+15. cxd5 c5 16. dxc6 Nxf3+ 17. Qxf3 Qxc6 18. Rfc1 Qb5 19. b3 Rac8 20. g3 Rfd8
+21. Qg4 Rxc1+ 22. Rxc1 h5 23. Qf3 1/2-1/2

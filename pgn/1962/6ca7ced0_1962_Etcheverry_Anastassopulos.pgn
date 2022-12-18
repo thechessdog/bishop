@@ -1,0 +1,17 @@
+[Event "Varna olm"]
+[Site "Varna olm"]
+[Date "1962.09.01"]
+[Round "10"]
+[White "Etcheverry, E."]
+[Black "Anastassopulos, Anastasios"]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Czech Benoni"]
+[Variation "King's Indian system"]
+[HashCode "6ca7ced0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 g6 6. Nf3 Bg7 7. Be2 O-O 8. O-O Na6
+9. a3 Bd7 10. Rb1 Ne8 11. Bg5 f6 12. Bh4 g5 13. Bg3 f5 14. exf5 Bxf5 15. Bd3
+Bg4 16. Be2 Bf5 17. Bd3 Bg4 18. Be2 Bf5 19. Rc1 Bh6 20. Bd3 Bxd3 21. Qxd3 g4
+22. Bh4 Rxf3 23. gxf3 Qxh4 0-1

@@ -1,0 +1,16 @@
+[Event "Coloretta"]
+[Site "Coloretta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Primavera, Roberto"]
+[Black "Alba"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "7faca052"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bxf6 Bxf6 12. Nde2 b5 13. e5 Bb7 14. Be4 d5
+15. exf6 dxe4 16. fxg7 Rg8 17. Nxe4 Rxg7 18. Nd6+ Qxd6 19. Qxb7 Rb8 20. Qa7 1-0

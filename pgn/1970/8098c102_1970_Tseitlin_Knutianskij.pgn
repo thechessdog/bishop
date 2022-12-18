@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Tseitlin, Mikhail S"]
+[Black "Knutianskij, A."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "8098c102"]
+[Epoch "Bishop"]
+[WhiteCountry "BLR"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. Bxc4 a6 8.
+Nf3 b5 9. d5 Na5 10. Be2 Bb7 11. Nxb5 Nxd5 12. Nbd4 f6 13. Qa4+ Qd7 14. Qxa5 e5
+15. Bd2 exd4 16. O-O Bd6 17. Bc4 Ne7 18. Rfe1 Bxf3 19. gxf3 Qh3 20. Rxe7+ Kxe7
+21. Re1+ Kf8 22. Bf4 g6 23. Qd5 1-0

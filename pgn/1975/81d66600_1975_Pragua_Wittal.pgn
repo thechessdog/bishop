@@ -1,0 +1,17 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pragua"]
+[Black "Wittal"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "81d66600"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 d5 4. exd5 exd4 5. Bb5+ c6 6. dxc6 Qa5+ 7. Nc3
+bxc6 8. Nxd4 cxb5 9. Qf3 Qc7 10. O-O Qb7 11. Re1+ Be7 12. Ncxb5 Qxf3 13.
+gxf3 Kd8 14. Bf4 Nd5 15. Rad1 Nxf4 16. Nc6+ Ke8 17. Rd8# 1-0
+

@@ -1,0 +1,20 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Vasiukov, Evgeni"]
+[Black "Ree, Hans"]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "dd3cb7bb"]
+[Epoch "Bishop"]
+[WhiteID "4100522"]
+[BlackID "1000098"]
+[WhiteCountry "RUS"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. e5 dxe5 5. Nxe5 Nbd7 6. d4 Nxe5 7. dxe5 Qxd1+
+8. Kxd1 Ng4 9. Bb5+ Kd8 10. Ke2 Bf5 11. Rd1+ Kc8 12. Bf4 g5 13. Bxg5 a6 14. Bd3
+Bxd3+ 15. Rxd3 Nxe5 16. Rd5 Nc6 17. Rxc5 e5 18. Rd5 Rg8 19. Be3 Kc7 20. Rad1
+Rd8 21. Rxd8 Nxd8 22. Nd5+ 1-0

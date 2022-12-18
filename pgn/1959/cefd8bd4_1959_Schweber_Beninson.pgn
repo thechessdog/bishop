@@ -1,0 +1,21 @@
+[Event "Quilmes"]
+[Site "Quilmes"]
+[Date "1959.01.01"]
+[Round "2"]
+[White "Schweber, Samuel"]
+[Black "Beninson, Dan"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "cefd8bd4"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 b6 7. O-O Bb7 8. Bd2
+cxd4 9. exd4 d5 10. b3 dxc4 11. bxc4 Nc6 12. Ne4 Bxd2 13. Qxd2 Nxe4 14. Bxe4
+Nxd4 15. Bxh7+ Kxh7 16. Nxd4 Qf6 17. Qd3+ Kg8 18. Qe3 Rfc8 19. Rac1 Rc5 20. Nb3
+Re5 21. Qc3 Rc8 22. Rc2 Qf4 23. g3 Qf5 24. f4 Re3 25. Qxe3 Qxc2 26. Nd2 Rd8 27.
+Rf2 Qc1+ 28. Nf1 Qxc4 29. Rd2 Rxd2 30. Qxd2 Bd5 31. a3 Qe4 32. Kf2 Qf3+ 33. Ke1
+Qxa3 34. Ne3 Qa1+ 35. Nd1 g6 36. Kf2 a5 37. h4 Qa2 38. Nb2 a4 39. Qc3 a3 40.
+Qc8+ Kh7 0-1

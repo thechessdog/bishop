@@ -1,0 +1,19 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1975.01.01"]
+[Round "10"]
+[White "Bednarski, Jacek B"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "2b4665e3"]
+[Epoch "Bishop"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+[WhiteCountry "POL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 b6 7. Bd3 Bb7 8. f5 c5
+9. fxg6 hxg6 10. d5 Qd7 11. O-O e6 12. Bc4 exd5 13. Nxd5 Bxd5 14. Bxd5 Nxd5 15.
+Qxd5 Qc6 16. c3 Qxd5 17. exd5 Nd7 1/2-1/2

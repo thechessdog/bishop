@@ -1,0 +1,19 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Romani, E."]
+[Black "Wade, Robert Graham"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "23baacde"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+c6 9. d5 cxd5 10. cxd5 Nc5 11. Re1 a5 12. a4 b6 13. Nh4 Ba6 14. Bf1 Bxf1 15.
+Kxf1 Nfd7 16. Ra3 f5 17. exf5 gxf5 18. Qh5 f4 19. Nf5 Qf6 20. g4 Rfc8 21. Nb5
+Bf8 22. Rh3 h6 23. Nbxd6 Bxd6 24. Nxh6+ Kf8 25. g5 Qg7 26. Nf5 Qg8 27. Qh6+ Ke8
+28. Qxd6 Qxg5 29. Rh7 Rc7 30. Ng7+ 1-0

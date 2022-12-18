@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Bitman"]
+[Black "Bonch_Osmolovsky, M"]
+[Result "0-1"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred, Lipnitsky variation"]
+[HashCode "72deed63"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 Bg4
+8. dxe5 Nxe4 9. Qd3 d5 10. Nbd2 Nc5 11. Qc3 Qd7 12. Nd4 Ne6 13. Qxc6 Qxc6
+14. Nxc6 Be2 15. Re1 Bb5 16. Na5 Nd4 17. c4 Nc2 18. cxb5 Nxe1 19. bxa6 Rxa6
+20. b4 Bxb4 21. Rb1 Nd3 0-1
+

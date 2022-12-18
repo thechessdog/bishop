@@ -1,0 +1,18 @@
+[Event "Wch U20 fin-A"]
+[Site "Copenhagen"]
+[Date "1953.??.??"]
+[Round "3"]
+[White "Olafsson, Fridrik"]
+[Black "Mellberg, B."]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "bbceb9e9"]
+[Epoch "Bishop"]
+[WhiteID "2300052"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d6 7. O-O Bxc3 8. bxc3
+Nc6 9. e4 Ne8 10. e5 dxe5 11. dxe5 b6 12. Bxh7+ Kxh7 13. Ng5+ Kg6 14. Qg4 f5
+15. Qg3 f4 16. Bxf4 Rxf4 17. Nxe6+ Kf5 18. Nxd8 Nxd8 19. Qd3+ 1-0

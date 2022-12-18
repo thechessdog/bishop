@@ -1,0 +1,19 @@
+[Event "corr Baltic"]
+[Site "corr Baltic"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Klein"]
+[Black "Kubbel"]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "b1443070"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 exd4 6. Bxc6+ bxc6 7. Qxd4
+Be7 8. Re1 O-O 9. Nc3 Bg4 10. Nd2 Nd7 11. f4 d5 12. Nb3 dxe4 13. Nxe4 Nf6
+14. Qf2 Nxe4 15. Rxe4 Bf5 16. Re1 a5 17. Be3 Bd6 18. c4 a4 19. Nd4 Bd7 20.
+Nc2 Re8 21. Rad1 Qc8 22. c5 Bf8 23. Nd4 a3 24. b3 Be6 25. Nxc6 Qb7 26. Ne5
+Qb5 27. Rd2 f6 28. Nf3 Bf7 29. Rc2 1-0
+

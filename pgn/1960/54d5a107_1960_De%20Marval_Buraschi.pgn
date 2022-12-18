@@ -1,0 +1,18 @@
+[Event "Azul ch-ARG jr"]
+[Site "Azul ch-ARG jr"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "De Marval, E."]
+[Black "Buraschi, O."]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "54d5a107"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Rc8 10. Be2 Qa5 11. Nb3 Qc7 12. g4 b5 13. Bxf6 gxf6 14. f5 h5
+15. Kb1 b4 16. fxe6 fxe6 17. gxh5 Ne5 18. Bxa6 bxc3 19. bxc3 Ra8 20. Be2 Qa7
+21. Qd4 Qxa2+ 22. Kc1 Bh6+ 23. Rd2 Qa3+ 24. Kb1 Bxd2 25. Qxd2 Ba4 26. Rf1 Bxb3
+27. Bb5+ Ke7 0-1

@@ -1,0 +1,15 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Pandolfini, B."]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[HashCode "22ea01b8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bf4 e5 6. Bxe5 Qa5+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Quito"]
+[Site "Quito"]
+[Date "1975.01.01"]
+[Round "7"]
+[White "Rubinetti, Jorge"]
+[Black "Rossetto, Hector"]
+[Result "1/2-1/2"]
+[ECO "D57"]
+[Opening "QGD"]
+[Variation "Lasker defence, main line"]
+[HashCode "0231dbff"]
+[Epoch "Bishop"]
+[WhiteID "100161"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. c4 e6 2. Nf3 Nf6 3. Nc3 d5 4. d4 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8. Bxe7
+Qxe7 9. cxd5 Nxc3 10. bxc3 exd5 11. Qb3 c6 12. c4 dxc4 13. Bxc4 Nd7 14. O-O Nb6
+15. Be2 Be6 16. Qc2 Rfd8 17. Rfc1 Nd5 18. Qb2 Bf5 1/2-1/2

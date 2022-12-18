@@ -1,0 +1,21 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Sanguinetti"]
+[Black "Benko, Francisco"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Teichmann variation"]
+[HashCode "e79f56a5"]
+[Epoch "Bishop"]
+[BlackID "101753"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 f6 7. Qh5+ g6 8. exf6
+Nxf6 9. Qe2 c5 10. dxc5 Nc6 11. O-O-O O-O 12. Nh3 Bd7 13. Bh6 Re8 14. Nf4 Bxc5
+15. h5 Bd6 16. hxg6 Bxf4+ 17. Bxf4 hxg6 18. Bg5 Kf7 19. Rd3 Rh8 20. Rxh8 Qxh8
+21. Rh3 Qg7 22. Qd2 Rh8 23. Rf3 Rh1 24. Qe1 Nd4 25. Rxf6+ Qxf6 26. Bxf6 Kxf6
+27. Kd2 Rg1 28. f4 1-0

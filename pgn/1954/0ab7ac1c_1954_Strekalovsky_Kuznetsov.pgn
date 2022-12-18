@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Strekalovsky"]
+[Black "Kuznetsov"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "0ab7ac1c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2
+Nd5 8. c4 Nb6 9. Nd2 d5 10. b3 Ba6 11. a4 Qb4 12. Ba3 Qa5 13. Bxf8 Rxf8 14.
+e6 dxc4 15. h4 c3 16. Nc4 Bxc4 0-1
+

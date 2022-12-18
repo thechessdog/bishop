@@ -1,0 +1,27 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Konstantinopolsky, Alexander"]
+[Black "Ostojic, Predrag"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "99da68ea"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "UKR"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Nbd2 d6 6. h3 Nbd7 7. c3 Re8 8. Bc4
+e5 9. dxe5 dxe5 10. Bh2 h6 11. Qc2 e4 12. O-O-O Qe7 13. Nd4 Ne5 14. Be2 c5 15.
+Bxe5 Qxe5 16. Nc4 Qe7 17. Nb5 Be6 18. g4 Red8 19. Nbd6 Bxc4 20. Nxc4 b5 21. Na5
+a6 22. h4 c4 23. Nc6 Rxd1+ 24. Rxd1 Qc7 25. Nd4 Re8 26. Rh1 Re5 27. Rd1 Rd5 28.
+f4 exf3 29. Bxf3 Rd8 30. h5 Qg3 31. hxg6 Rxd4 32. Rxd4 Qxf3 33. Rd8+ Bf8 34.
+Qd2 Qxg4 35. gxf7+ Kxf7 36. a3 h5 37. Kb1 h4 38. Rd4 Qg3 39. e4 h3 40. e5 h2
+41. e6+ Kxe6 42. Qe2+ Kf7 43. Rd1 Qg4 44. Qf1 Bc5 45. Ka2 Bg1 46. Rd6 Qh4 47.
+Qf3 Ke7 48. Qc6 Kf7 49. Qf3 a5 50. Rc6 Qg5 51. Rc7+ Kg6 52. Rc6 Qe5 53. Qg2+
+Kf7 54. Qf3 b4 55. axb4 axb4 56. cxb4 c3 57. Rxf6+ Qxf6 58. Qb7+ Kg6 59. Qg2+
+Qg5 60. Qc6+ Kh5 61. bxc3 Qf5 62. Ka3 Kh4 63. Qg2 Qg4 64. Qd5 Kg3 65. Qd6+ Kg2
+66. Qd5+ Qf3 67. Qg5+ Kf1 68. Qb5+ Ke1 69. Qe5+ Kd1 70. Qd6+ Kc2 71. Qg6+ Kxc3
+0-1

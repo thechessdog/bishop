@@ -1,0 +1,20 @@
+[Event "England"]
+[Site "England"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Adorjan, Andras"]
+[Black "Reuben, Stewart"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "5ab3ef87"]
+[Epoch "Bishop"]
+[BlackID "405256"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 g6 6. Bxc6 dxc6 7. e5 Bg7 8.
+Nc3 Qc7 9. Ne4 Bxe5 10. Nxe5 Qxe5 11. d4 cxd4 12. Bg5 Qc7 13. Nf6+ Kd8 14.
+Qxd4+ Bd7 15. Nxd7 1-0

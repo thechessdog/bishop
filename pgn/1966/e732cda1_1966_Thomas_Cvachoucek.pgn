@@ -1,0 +1,17 @@
+[Event "corr GB-CSSR"]
+[Site "corr GB-CSSR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Thomas, Andrew Rowland Benedick"]
+[Black "Cvachoucek, F."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "e732cda1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Bc4 Nb6 6. Bb3 d6 7. Nf3 e6 8. cxd4
+Nc6 9. Bg5 Be7 10. Bxe7 Qxe7 11. exd6 Qxd6 12. Nc3 O-O 13. O-O a6 14. Ne4 Qe7
+15. Qe2 e5 16. d5 Na5 17. d6 Qe8 18. Nc5 Nxb3 19. axb3 f6 20. Rfd1 Qf7 21. Nd2
+Rd8 22. Nde4 Rb8 23. d7 Bxd7 24. Nxb7 Rxb7 25. Nd6 1-0

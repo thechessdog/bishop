@@ -1,0 +1,19 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Mittig"]
+[Black "Heinicke"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "5b75200b"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 c5 5. e5 Nfd7 6. c3 Nc6 7. Ne2 f6 8.
+Nf4 Qe7 9. Qh5+ Qf7 10. Bg6 hxg6 11. Qxh8 fxe5 12. Nh3 cxd4 13. Ng5 Qf5 14.
+Ndf3 b6 15. Nh4 Qf6 16. Qg8 Nd8 17. O-O Ba6 18. Re1 dxc3 19. f4 e4 20. bxc3
+Nf7 21. Nhf3 Nxg5 22. Nxg5 Nc5 23. Be3 Kd7 24. Rad1 Re8 25. Nh7 Qf5 26. Bd4
+Nd3 27. Bxg7 Bc5+ 0-1
+

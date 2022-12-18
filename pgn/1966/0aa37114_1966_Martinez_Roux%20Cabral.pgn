@@ -1,0 +1,19 @@
+[Event "Panamerican"]
+[Site "Havana"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Martinez, Gustavo"]
+[Black "Roux Cabral, Luis"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[Variation "four knights variation"]
+[HashCode "0aa37114"]
+[Epoch "Bishop"]
+[WhiteID "3300072"]
+[WhiteCountry "BOL"]
+[BlackCountry "URY"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. O-O O-O 6. a3 a6 7. d3 h6 8. Ne2
+d6 9. Ng3 Ne7 10. h3 Ng6 11. c3 c6 12. d4 Bb6 13. Bd3 Bc7 14. Qc2 Re8 15. Re1
+Bd7 16. Be3 Nf8 17. Rad1 Qe7 18. b4 b5 19. Bc1 Ng6 20. Nf5 Qf8 21. Ng3 1/2-1/2

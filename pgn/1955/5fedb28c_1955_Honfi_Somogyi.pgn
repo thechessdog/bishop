@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Somogyi, Istvan"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "5fedb28c"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bg5 c5 7. Ne2 Nc6 8. a3
+Bxc3+ 9. bxc3 h6 10. Bxf6 Qxf6 11. O-O O-O 12. Qd3 Rd8 13. Rfd1 Bd7 14. Rab1 b6
+15. dxc5 bxc5 16. Qa6 Rac8 17. Rxd7 1-0

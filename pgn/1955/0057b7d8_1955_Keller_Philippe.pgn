@@ -1,0 +1,18 @@
+[Event "Wch U20 prel-C"]
+[Site "Antwerp"]
+[Date "1955.??.??"]
+[Round "3"]
+[White "Keller, Dieter"]
+[Black "Philippe, Georges"]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "0057b7d8"]
+[Epoch "Bishop"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+[BlackCountry "LUX"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 e5 7. Nf3 Bg4 8. fxe5
+Bxf3 9. Qxf3 dxe5 10. Bg5 Bg7 11. Rd1 Qb6 12. Bb5+ Kf8 13. Rf1 a6 14. Bc4 1-0

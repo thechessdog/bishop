@@ -1,0 +1,25 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1975.01.01"]
+[Round "2"]
+[White "Westerinen, Heikki M.J."]
+[Black "Pytel, Krzysztof"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "40310cb3"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "600199"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Bd2 Nb8 11. Nc3 c6 12. axb5 axb5 13. Rxa8 Bxa8 14. Ne2 Nbd7
+15. Ng3 Re8 16. c3 Bf8 17. Qa1 g6 18. Qa2 d5 19. d4 Bg7 20. Bg5 exd4 21. e5
+Nxe5 22. Rxe5 dxc3 23. bxc3 Rxe5 24. Nxe5 Qe8 25. Qa7 Qxe5 26. Qxa8+ Qe8 27.
+Qxe8+ Nxe8 28. Ne2 Nd6 29. f3 Kf8 30. Nd4 c5 31. Bf4 cxd4 32. Bxd6+ Ke8 33.
+cxd4 Bxd4+ 34. Kf1 Kd7 35. Bf4 Kc6 36. Ke2 f5 37. Kd3 Bf6 38. Be3 Be5 39. h3 h5
+40. Bd4 Bg3 41. Bg7 Bf2 42. Kc3 Bc5 43. Bc2 h4 44. Bd3 Bf2 45. Kb4 Be1+ 46. Bc3
+Bxc3+ 47. Kxc3 Kc5 48. Bc2 b4+ 49. Kd3 1-0

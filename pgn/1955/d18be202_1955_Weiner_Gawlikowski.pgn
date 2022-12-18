@@ -1,0 +1,18 @@
+[Event "Prague tm"]
+[Site "Prague"]
+[Date "1955.01.31"]
+[Round "5"]
+[White "Weiner, Milan"]
+[Black "Gawliczek, Andreas"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "d18be202"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 b6 7. O-O Bb7 8. Bd2
+Bxc3 9. Bxc3 Ne4 10. Bxe4 Bxe4 11. dxc5 bxc5 12. Qd6 Bxf3 13. gxf3 Qb6 14. Qg3
+f6 15. Rfd1 e5 16. f4 exf4 17. Qxf4 Nc6 18. Rxd7 Ne5 19. Bxe5 fxe5 20. Qxe5
+Qg6+ 21. Qg3 Qf6 22. Rad1 Qxb2 23. R1d4 Rf7 24. Rxf7 Kxf7 25. Qf3+ Ke7 26. Qe4+
+1-0

@@ -1,0 +1,19 @@
+[Event "Rovigo"]
+[Site "Rovigo"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gargiulo"]
+[Black "Schiesari"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "0848428f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 g6 3. c4 Bg7 4. d4 cxd4 5. Nxd4 a6 6. Nc3 e6 7. Be3 d6 8.
+Be2 Ne7 9. f4 Qc7 10. O-O Bd7 11. f5 Be5 12. Rc1 Nbc6 13. fxe6 fxe6 14. Bg4
+Nxd4 15. Bxd4 Nc6 16. Be3 O-O-O 17. Rf7 Bxc3 18. Rxc3 Ne5 19. c5 Nxg4 20.
+cxd6 Qxc3 21. bxc3 Nxe3 22. Qd4 Kb8 23. Rxd7 Nc2 24. Qg7 Rxd7 25. Qxd7 Rc8
+26. Qxe6 Ne3 27. d7 Rd8 28. Qd6+ Ka8 29. Qc7 1-0
+

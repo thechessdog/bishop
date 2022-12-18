@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Pavlovic, Slobodan"]
+[Black "Ivanovic, Bozidar"]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "a849b973"]
+[Epoch "Bishop"]
+[WhiteID "907804"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. e6 fxe6 13. Ng5 exd5 14. O-O Bd4+ 15.
+Kh1 Rf8 16. Bf3 Nc6 17. Bxd5+ Kg7 18. Nf7 Qh4 19. Bf4 Ne7 20. Bb3 Nf5 21. Ne4
+Bd7 22. Qd3 Rae8 23. Nfg5 Bc6 24. Rf3 Rxe4 25. Nxe4 Re8 26. Qc4 Qe7 27. Ng5
+Bxf3 28. gxf3 Qe1+ 29. Rxe1 Rxe1+ 30. Kg2 Rg1+ 0-1

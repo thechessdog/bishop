@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Szeles, Karoly"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "c4457e8a"]
+[Epoch "Bishop"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+[WhiteID "700924"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 d6 7. O-O Na6 8. d5 e5
+9. Ne1 Nc7 10. f4 exf4 1/2-1/2

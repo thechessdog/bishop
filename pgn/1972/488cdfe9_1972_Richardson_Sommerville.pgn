@@ -1,0 +1,18 @@
+[Event "Islington op"]
+[Site "Islington"]
+[Date "1972.12.16"]
+[Round "4"]
+[White "Richardson, Keith B"]
+[Black "Sommerville, Johann"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "488cdfe9"]
+[Epoch "Bishop"]
+[WhiteID "410152"]
+[WhiteCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. Bf4 b6 7. O-O c5 8. d5
+Ba6 9. Re1 Qc8 10. Bxa6 Nxa6 11. Qd2 Ng4 12. h3 Ne5 13. Nxe5 dxe5 14. Bh6 Nc7
+15. Bxg7 Kxg7 16. f4 exf4 17. Qxf4 Qd7 18. Rad1 Rad8 19. e5 e6 20. Qf6+ 1-0

@@ -1,0 +1,18 @@
+[Event "corr BDF/H"]
+[Site "corr BDF/H"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Wechsler"]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "47b7c235"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. d4 O-O 8. Re1
+d6 9. c3 Bg4 10. h3 Bh5 11. Be3 Na5 12. Bc2 Nc4 13. Bc1 h6 14. b3 Nb6 15. dxe5
+Nh7 16. exd6 cxd6 17. e5 dxe5 18. Qxd8 Bxd8 19. Nxe5 Bf6 20. f4 Rfe8 21. Be4
+Rad8 22. Be3 Nd5 23. Bd2 Bh4 24. Rc1 Nhf6 25. Bf5 Bg3 0-1

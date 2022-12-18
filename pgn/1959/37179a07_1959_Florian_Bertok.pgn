@@ -1,0 +1,18 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Florian, Tibor"]
+[Black "Bertok, Mario"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "37179a07"]
+[Epoch "Bishop"]
+[BlackCountry "HRV"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Bd6 6. Be3 c4 7. b3 cxb3 8. axb3
+Ne7 9. Bd3 Nbc6 10. O-O O-O 11. Re1 Bf5 12. Bg5 f6 13. Bh4 Rc8 14. Bxf5 Nxf5
+15. Qd3 Qd7 16. Nbd2 a6 17. Bg3 1/2-1/2

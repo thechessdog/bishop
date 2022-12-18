@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Pinkus"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "bb69f212"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. h3 O-O 12. Nbd2 cxd4 13. cxd4 Bb7 14. d5 Bc8 15.
+Rb1 Bd7 16. b4 Nc4 17. Nxc4 Qxc4 18. Bd3 Qc7 19. Be3 Rfc8 20. Rc1 Qd8 21. Qe2
+Be8 22. Nd2 Nd7 23. Nb3 Nf8 24. Na5 Ng6 25. Qd2 f6 26. Kh2 Qd7 27. Rc6 Qd8 28.
+Bb6 Qd7 29. Rec1 Bd8 30. Qe3 Nf4 31. Bf1 Rxc6 32. dxc6 Qe6 33. Bxd8 Rxd8 34.
+Qb6 Qc8 35. Nb7 1-0

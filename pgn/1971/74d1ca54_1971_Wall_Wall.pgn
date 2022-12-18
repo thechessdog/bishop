@@ -1,0 +1,18 @@
+[Event "Tacoma,WA"]
+[Site "Tacoma,WA"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Wall, W."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Steinitz attack"]
+[HashCode "74d1ca54"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. e5 d6 3. Nf3 dxe5 4. Nxe5 Bc5 5. Qf3 Nf6 6. Bb5+ c6 7. Bxc6+ bxc6
+8. Nxc6 Nxc6 9. Qxc6+ Bd7 10. Qxc5 Rc8 11. Qxa7 Rxc2 12. Kd1 Rc7 13. Qa6 Ne4
+14. Qe2 Qa8 15. f3 Ba4+ 16. b3 Bxb3+ 17. axb3 Qxa1 18. Qxe4 O-O 19. Ba3 Rfc8
+20. Ke2 Qa2 21. Qb4 Qc2 22. Rc1 Qg6 23. g4 Rxc1 24. Bxc1 Qxb1 25. Ba3 Qh1 0-1

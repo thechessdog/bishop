@@ -1,0 +1,17 @@
+[Event "Hallsberg opJ"]
+[Site "Hallsberg"]
+[Date "1975.??.??"]
+[Round "7"]
+[White "Bjork, Carl Magnus"]
+[Black "Aperia, T."]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "e02aceed"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 Nc6 7. O-O g6
+8. d4 cxd4 9. Nxd4 Bg7 10. Nc2 O-O 11. f3 a6 12. b3 Na5 13. Bb2 b5 14. cxb5
+axb5 15. Nd5 1/2-1/2
+

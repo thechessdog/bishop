@@ -1,0 +1,17 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Silva Sanchez, Carlos"]
+[Black "Yabra, Freddy"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "b1c2399a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 c6 5. Qd3 g6 6. e4 dxe4 7. Nxe4 Nxe4 8.
+Qxe4 Bg7 9. Bd3 Nf6 10. Qh4 h6 11. Bxf6 Bxf6 12. Qf4 Qd6 13. Qe3 Be6 14. O-O
+O-O-O 15. Rfe1 g5 16. c3 Rhg8 17. Ne5 h5 18. Bc4 Bxc4 19. Nxc4 Qd5 20. Ne5 g4
+21. Qf4 Rg5 22. Re4 Bxe5 23. dxe5 Qd2 24. Qxf7 Qxb2 25. Rf1 Qa3 26. Qe6+ Kb8
+27. Rb4 Rg7 28. Rfb1 Qxc3 29. Rxb7+ Ka8 30. Qd7 1-0

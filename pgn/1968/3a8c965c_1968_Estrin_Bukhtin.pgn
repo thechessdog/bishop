@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Bukhtin, Vladimir S"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "3a8c965c"]
+[Epoch "Bishop"]
+[BlackID "4106563"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 b4 11. Ncb5 axb5 12. exf6 b3 13. Nxb5 Qa5+ 14. c3 gxf6
+15. Bxf6 Rg8 16. Qc4 1-0

@@ -1,0 +1,18 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1955.01.01"]
+[Round "14"]
+[White "Durasevic, Bozidar"]
+[Black "Gligorić, Svetozar"]
+[Result "1/2-1/2"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Pilnik variation"]
+[HashCode "59ce5a77"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. d3 Na5 10. Bc2 c5 11. Nbd2 Nd7 12. Nf1 Bf6 13. Ne3 Nb6 14. h3 g6 15. d4
+cxd4 16. cxd4 1/2-1/2

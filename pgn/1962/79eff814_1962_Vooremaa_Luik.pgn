@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Vooremaa, Andres"]
+[Black "Luik, Helmuth"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "79eff814"]
+[Epoch "Bishop"]
+[WhiteID "4500083"]
+[BlackID "4500121"]
+[WhiteCountry "EST"]
+[BlackCountry "EST"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Bc4 Ndf6 6. Ng5 Nd5 7. N1f3 h6 8.
+Nxf7 Kxf7 9. Ne5+ Ke6 10. Qg4+ Kd6 11. Nf7+ 1-0

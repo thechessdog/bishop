@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Nocci"]
+[Black "Vercillo"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "fb0568a3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Re1 Nc6 7. c3 e6
+8. d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Nc3 Nxc3 12. bxc3 Rc8 13. Ng5 h6 14.
+Qh5 g6 15. Qh3 Na5 16. Re3 Qa4 17. g3 Nb3 18. Nxf7 Kxf7 19. Rf3+ Ke7 20.
+Bg5+ hxg5 21. Qxh8 Nxa1 22. Qh7+ 1-0
+

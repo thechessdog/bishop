@@ -1,0 +1,17 @@
+[Event "Yorkshire"]
+[Site "Yorkshire"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Lilley, J."]
+[Black "Rivlin, A."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "d2f84606"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. Qc2 d5 6. exd6 Bf5 7. dxc7
+Qxc7 8. Qb3 O-O-O 9. Be3 Bb4+ 10. Nc3 Qa5 11. Rc1 Nxc3 12. bxc3 Ba3 13. Ra1
+Nb4 14. Nd4 Rxd4 15. Bxd4 Nc2+ 16. Kd1 Nxa1 0-1
+

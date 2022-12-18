@@ -1,0 +1,24 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Nikolaevsky, Yuri V"]
+[Black "Karner, Hillar"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "498e7f36"]
+[Epoch "Bishop"]
+[WhiteID "4102231"]
+[WhiteCountry "RUS"]
+[BlackID "4500202"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d6 5. Qb3 c5 6. Nf3 Nc6 7. a3 Ba5 8. Qc2
+O-O 9. Be2 e5 10. dxe5 dxe5 11. O-O Bxc3 12. Qxc3 Bg4 13. h3 Bh5 14. Kh1 Ne4
+15. Qe1 f5 16. Nd2 Qh4 17. Nf3 Bxf3 18. Bxf3 g5 19. Kg1 Rf6 20. Qe2 Rd8 21. b4
+Rg6 22. g3 Qxh3 23. Bg2 Qh6 24. Bxe4 fxe4 25. Qg4 Rf6 26. Bb2 Qg6 27. b5 h5 28.
+Qe2 Ne7 29. Bxe5 Rf5 30. Bb2 h4 31. gxh4 g4 32. Rad1 Rdf8 33. Rd7 R5f7 34. Rfd1
+Qh5 35. Be5 Qxe5 36. R1d6 Qg7 37. h5 g3 38. Rg6 Nxg6 39. Rxf7 gxf2+ 40. Kf1
+Rxf7 41. Qg4 Nf8 0-1

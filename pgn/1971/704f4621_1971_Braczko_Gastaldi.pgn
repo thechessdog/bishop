@@ -1,0 +1,18 @@
+[Event "corr ITA-POL"]
+[Site "corr ITA-POL"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Braczko, M."]
+[Black "Gastaldi, D."]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "704f4621"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 e6
+8. O-O h6 9. Be3 Be7 10. Bxe6 Nc5 11. Bxc8 Rxc8 12. Nf5 g5 13. f4 Ne6 14.
+Qe2 Nxf4 15. Bxf4 gxf4 16. e5 Qb6+ 17. Kh1 dxe5 18. Qxe5 Qc7 19. Rfe1 Qxe5
+20. Rxe5 Rc7 21. Rae1 Ng8 22. Nd5 1-0
+

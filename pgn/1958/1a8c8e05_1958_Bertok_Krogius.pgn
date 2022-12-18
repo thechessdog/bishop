@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1958.01.01"]
+[Round "3"]
+[White "Bertok, Mario"]
+[Black "Krogius, Nikolai V"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "1a8c8e05"]
+[Epoch "Bishop"]
+[BlackID "4100565"]
+[BlackCountry "RUS"]
+[WhiteCountry "HRV"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 c5 8. Qxc4
+cxd4 9. Nxd4 e5 10. Nb3 Nc6 11. Nc3 Be6 12. Qb5 Qc7 13. Nc5 Bc8 14. N5e4 Be6
+15. Nc5 Bc8 1/2-1/2

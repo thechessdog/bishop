@@ -1,0 +1,16 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Van der Weide, Karel"]
+[Black "Balemans"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "1dd4c5f5"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. dxe5
+Nd5 9. Bd2 Nb6 10. O-O f6 11. exf6 exf6 12. a3 Nd4 13. Be3 c5 14. Ne2 Nxf3+ 15.
+Rxf3 c4 0-1

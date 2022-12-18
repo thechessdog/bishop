@@ -1,0 +1,24 @@
+[Event "Mar del Plata zt"]
+[Site "Mar del Plata zt"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Schweber, Samuel"]
+[Black "Camara, Helder"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "1993731a"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "BRA"]
+
+1. c4 g6 2. d4 Nf6 3. Nc3 Bg7 4. e4 O-O 5. Be2 c5 6. d5 e5 7. g4 d6 8. h4 Ne8
+9. Nh3 Na6 10. h5 Nac7 11. Be3 gxh5 12. g5 f5 13. gxf6 Nxf6 14. Bxh5 b5 15.
+cxb5 a6 16. bxa6 Rxa6 17. Be2 Rb6 18. b3 Rb4 19. Bc4 Bg4 20. Qd3 Nh5 21. Ng1
+Qf6 22. Qf1 Nf4 23. f3 Bd7 24. a3 Ra8 25. Kd2 Rbb8 26. a4 Rf8 27. a5 Qg6 28.
+Rh2 Qe8 29. Nge2 Nb5 30. Nxb5 Bxb5 31. Nc3 Bxc4 32. Qxc4 Ng6 33. Rh3 Qd8 34. a6
+Nh4 35. Qf1 Qf6 36. a7 Nxf3+ 37. Ke2 Nd4+ 38. Bxd4 exd4 39. Qxf6 Bxf6 40. Nb5
+d3+ 41. Kxd3 Bxa1 42. Rg3+ Kh8 43. Rg2 Be5 44. Ra2 Rf7 45. Ra6 h5 46. Kc4 Rd7
+47. b4 cxb4 48. Kxb4 h4 49. Ra3 Kh7 50. Rh3 Bg3 51. e5 dxe5 52. d6 e4 53. Kc5
+e3 54. Kc6 e2 55. Rh1 Raxa7 56. Nxa7 Rxa7 0-1

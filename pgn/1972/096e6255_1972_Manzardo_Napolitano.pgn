@@ -1,0 +1,17 @@
+[Event "Firenze tt"]
+[Site "Firenze tt"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Manzardo"]
+[Black "Napolitano"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "096e6255"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nf6 6. Nf3 Bd7 7. Nc3
+Qe6+ 8. Be2 Bc6 9. O-O g6 10. Bg5 Nbd7 11. Re1 Nd5 12. Bc4 Qd6 13. Qb3 N7b6
+14. Ne4 Qd7 15. Ne5 Qc7 16. Nf6+ Nxf6 17. Bxf6 1-0
+

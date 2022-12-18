@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kristiansen, Jens"]
+[Black "Holm, Sejer"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "83b3d516"]
+[Epoch "Bishop"]
+[WhiteID "1400061"]
+[BlackID "1400304"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 a6 6. Bd3 Ne7 7. O-O O-O 8. Qe1 b5
+9. e5 Bb7 10. a4 bxa4 11. Ne4 Nd7 12. c3 Nb6 13. g4 a5 14. h4 f5 15. exf6 Bxf6
+16. Neg5 Bxg5 17. Qxe6+ Kg7 18. Nxg5 h6 19. Re1 Nbd5 20. c4 Rf6 21. cxd5 Nxd5
+22. Qe4 Nxf4 23. Qxb7 hxg5 24. hxg5 Nh3+ 25. Kh1 Nf2+ 26. Kg2 Rf7 27. Rf1 Qh8
+28. Rxf2 Rxf2+ 29. Kxf2 Qh2+ 30. Qg2 Rf8+ 31. Bf5 Qh4+ 32. Qg3 Qh1 33. Qf3 Qh2+
+34. Kf1 Qc2 35. Bxc2 1-0

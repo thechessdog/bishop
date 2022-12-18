@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Voronov, Vladimir"]
+[Black "Estrin, Yakov Borisovich"]
+[Result "0-1"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, Rauzer attack"]
+[HashCode "93dc14e5"]
+[Epoch "Bishop"]
+[WhiteID "4105770"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. dxc5 dxc5 14. Nf1 Be6 15.
+Ne3 Rad8 16. Qe2 g6 17. Ng5 Nh5 18. Nxe6 fxe6 19. g3 c4 20. Ng4 Bc5 21. Kg2 Nd4
+22. cxd4 exd4 23. Bg5 d3 24. Bxd8 Qb8 25. Nh6+ Kh8 26. Qd2 Rxf2+ 27. Qxf2 Bxf2
+28. Bf6+ Nxf6 29. Kxf2 Qf8 0-1

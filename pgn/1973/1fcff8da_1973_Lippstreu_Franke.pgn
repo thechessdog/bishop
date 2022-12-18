@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Lippstreu"]
+[Black "Franke, Heribert"]
+[Result "1/2-1/2"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "1fcff8da"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. b3 b6 8. Bb2
+Bb7 9. Nbd2 c5 10. e3 dxc4 11. bxc4 Rc8 12. Qe2 Qc7 13. Rfd1 Rfd8 14. Rac1 Qb8
+15. Rc2 Qa8 16. Qf1 Ne4 17. Nxe4 Bxe4 18. Nd2 Bxg2 19. Qxg2 Qxg2+ 20. Kxg2 cxd4
+21. exd4 b5 22. Rdc1 bxc4 23. Rxc4 1/2-1/2

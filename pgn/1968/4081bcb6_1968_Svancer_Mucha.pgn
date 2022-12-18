@@ -1,0 +1,22 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Svancer"]
+[Black "Mucha"]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "4081bcb6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Bd3 Qa5
+8. Ne2 Ne4 9. Bf4 Be7 10. O-O Ndf6 11. f3 Nxc3 12. bxc3 Nh5 13. Qc2 Nxf4
+14. Nxf4 g6 15. e4 Bg5 16. Ne2 dxe4 17. fxe4 O-O 18. Bc4 Kg7 19. Rab1 Qc7
+20. Qd3 Bd7 21. Ng3 Rad8 22. Rb2 h5 23. Rbf2 Be6 24. Rf3 Qe7 25. e5 Bxc4
+26. Qxc4 f5 27. Ne2 Rd5 28. Qa4 b5 29. Qa5 Qd7 30. Rb1 Rb8 31. Qa3 Rb6 32.
+h4 Bh6 33. e6 Qc7 34. Re1 Rb8 35. Ng3 Re8 36. Qb2 Qe7 37. a4 a6 38. axb5
+axb5 39. c4 bxc4 40. Ra3 Qxh4 41. Ra7+ Kh8 42. Qb7 Qxd4+ 43. Kh2 Bg7 44.
+Qf7 Qh4+ 0-1
+

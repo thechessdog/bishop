@@ -1,0 +1,17 @@
+[Event "Worms"]
+[Site "Worms"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Bachl, E."]
+[Black "Baranenko"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "f7a356fd"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Nxe4 Qxd4 5. Bd3 Nc6 6. f4 Bd6 7. Nf3 Qd5
+8. Qe2 Nge7 9. Bc4 Nd4 10. Nxd4 Qxd4 11. c3 Qb6 12. Be3 c5 13. Qh5 g6 14.
+Nf6+ Kd8 15. Qd1 Nf5 16. Nd5 Qxb2 17. O-O Be6 18. fxe5 Bxd5 19. Bg5+ Ne7
+20. Qxd5 Qb6 21. exd6 Kc8 22. d7+ Kd8 23. Bxe7+ Kxe7 24. d8=Q+ 1-0
+

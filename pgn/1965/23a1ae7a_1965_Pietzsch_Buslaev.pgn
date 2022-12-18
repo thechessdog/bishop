@@ -1,0 +1,21 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Pietzsch, Wolfgang"]
+[Black "Buslaev, Alexander"]
+[Result "1-0"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "23a1ae7a"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Nf3 O-O 7. Be2 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 b6 13. a5 bxa5 14. Nc4 Ba6 15.
+Nxa5 Bxe2 16. Nxe2 Nb5 17. Qd3 a6 18. Nc3 Nd4 19. Bg5 h6 20. Bh4 Qc7 21. Nc4
+Nh5 22. Bg3 Nxg3 23. hxg3 Reb8 24. f4 Rb4 25. e5 dxe5 26. fxe5 Bxe5 27. d6 Bxd6
+28. Nd5 Qc6 29. Nxb4 cxb4 30. Nxd6 Qxd6 31. Rad1 Rd8 32. Qc4 Qd5 33. Qxd5 Rxd5
+34. g4 Kf8 35. Rfe1 Rd6 36. Kh1 Nb5 37. Rxd6 Nxd6 38. b3 a5 39. Re5 a4 40. bxa4
+b3 41. a5 1-0

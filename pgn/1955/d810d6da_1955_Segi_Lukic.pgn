@@ -1,0 +1,18 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1955.01.01"]
+[Round "3"]
+[White "Segi, Lajos"]
+[Black "Lukic, Arsenije"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "d810d6da"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 O-O 7. Nf3 e6 8. Bd3 exd5
+9. cxd5 Re8 10. O-O c4 11. Bc2 b5 12. e5 dxe5 13. fxe5 Ng4 14. d6 a6 15. Nd5
+Be6 16. Nc7 Ra7 17. Nxe6 Rxe6 18. Qd4 Nc6 19. Qxg4 Nxe5 20. Nxe5 Bxe5 21. Bg5
+Qxd6 22. Rad1 Qb6+ 23. Kh1 h5 24. Qf3 Bxb2 25. Be4 c3 26. Be3 Qc7 27. Bxa7 Qxa7
+28. Bc2 Re7 29. Rd8+ Kh7 30. Qxh5+ 1-0

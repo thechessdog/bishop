@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Trotter"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "8f4cd4e5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bg5 Be7 8. Qd2
+b5 9. Bxf6 Bxf6 10. Bb3 Bb7 11. f3 Nc6 12. Nxc6 Bxc6 13. O-O-O Be7 14. g4 e5
+15. Nd5 Bxd5 16. Qxd5 O-O 17. h4 Rc8 18. g5 Qb6 19. Qd2 Kh8 20. h5 Qd8 21. Rdg1
+f6 22. g6 h6 23. Be6 Rc5 24. Rg2 Qc7 25. Rhg1 a5 26. Qxh6+ gxh6 27. g7+ Kh7 28.
+gxf8=N+ Bxf8 29. Bf5+ Kh8 30. Rg8# 1-0

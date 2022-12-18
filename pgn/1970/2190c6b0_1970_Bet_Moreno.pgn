@@ -1,0 +1,17 @@
+[Event "corr Behting mem"]
+[Site "corr Behting mem"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Bet, Carlos"]
+[Black "Moreno, Aguilera"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Rousseau gambit"]
+[HashCode "2190c6b0"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nc6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Qf6 7. e5 Qb6
+8. Qd3 Bc5 9. O-O Ne7 10. Nc3 c6 11. Na4 Qb4 12. Nxc5 Qxc5 13. Be3 Qa5 14.
+Qd6 b5 15. Bc5 Qd8 16. Bb3 Ng6 17. Rad1 Qe7 18. Qd4 Qh4 19. f4 Nf8 20. g3
+Qh3 21. e6 1-0
+

@@ -1,0 +1,16 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Holz, J."]
+[Black "Hennigsen"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "300daa68"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bg5 Be7 6. Bxe7 Qxe7 7. Nbd2
+Ngxe5 8. b3 Nd3# 0-1
+

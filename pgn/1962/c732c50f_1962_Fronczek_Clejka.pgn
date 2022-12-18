@@ -1,0 +1,18 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Fronczek"]
+[Black "Clejka"]
+[Result "1-0"]
+[ECO "A83"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Staunton's line"]
+[HashCode "c732c50f"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 e6 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3
+O-O 8. Bd3 b6 9. Qe2 Bb7 10. h4 c5 11. Nfg5 h6 12. Qh5 Bxg5 13. hxg5 Bxe4
+14. Bxe4 d5 15. Qg6 dxe4 16. Qxe6+ Kh8 17. Rxh6+ gxh6 18. Qxh6+ Kg8 19.
+Qg6+ Kh8 20. O-O-O 1-0
+

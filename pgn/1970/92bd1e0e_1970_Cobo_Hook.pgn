@@ -1,0 +1,20 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Cobo, Eldis"]
+[Black "Hook, William"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "92bd1e0e"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. g3 d6 7. Bg2 g6 8. e4
+Nbd7 9. Ne2 Ne5 10. O-O Nd3 11. Nbc3 Bg7 12. Rb1 O-O 13. Bd2 Qb6 14. b3 e6 15.
+h3 exd5 16. exd5 Rfe8 17. Be3 Qa5 18. Qd2 Nd7 19. Rfd1 Reb8 20. Ne4 Qxd2 21.
+Rxd2 c4 22. Bd4 cxb3 23. axb3 Bf8 24. Nf6+ Nxf6 25. Bxf6 Bg7 26. Bxg7 Kxg7 27.
+Nd4 Nb4 28. Nc6 Rb6 29. Rd4 Nc2 30. Ra4 Re8 31. Rc1 Re1+ 32. Rxe1 Nxe1 33. Rb4
+Rxb4 34. Nxb4 Bb5 35. f4 Kf6 36. Be4 1-0

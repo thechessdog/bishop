@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Rosenfeld"]
+[Black "Kimelfeld, Rudolf"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "8aa81a0a"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 g6 3. f4 Bg7 4. Nf3 Nf6 5. Nc3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. Qxd4 dxe5 10. Qf2 e4 11. Ng5 Nf6 12. hxg6 hxg6 13. Qh4 Bf5 14. Be2
+Qc8 15. g4 Bxg4 16. Nd5 Re8 17. Nxf6+ exf6 18. Bxg4 Qxc2 19. Be3 Na6 20.
+Bd4 e3 21. Rh2 Qf2+ 22. Rxf2 fxg5 23. fxg5 exf2+ 24. Kxf2 Bxd4+ 25. Kg2
+Rad8 26. Rd1 1/2-1/2
+

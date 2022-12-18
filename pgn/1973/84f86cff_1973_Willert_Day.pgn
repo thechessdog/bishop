@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1973.01.01"]
+[Round "4"]
+[White "Willert, V."]
+[Black "Day, Lawrence A."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "84f86cff"]
+[Epoch "Bishop"]
+[BlackID "2600137"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nc3 e6 3. f4 Nc6 4. Nf3 a6 5. Be2 b5 6. O-O Bb7 7. d3 Be7 8. Qe1 b4
+9. Nd1 Nf6 10. Qg3 O-O 11. f5 exf5 12. exf5 Nh5 13. Qh3 g6 14. Bh6 Kh8 15. Bxf8
+Nf4 16. Qh6 Nxe2+ 17. Kh1 Bxf8 18. Qd2 Ned4 19. Nxd4 cxd4 20. c3 Qh4 21. Re1
+Bh6 1-0

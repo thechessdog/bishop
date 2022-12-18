@@ -1,0 +1,18 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Waniek"]
+[Black "Traczyk"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "d7947b42"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 d6 8.
+e3 e5 9. Bd3 O-O 10. Ne2 Nbd7 11. O-O Re8 12. e4 Nf8 13. f4 exf4 14. Nxf4
+g5 15. Nh5 N8h7 16. Qf3 Nxh5 17. Qxh5 gxh4 18. e5 Ng5 19. Rxf7 Nxf7 20.
+Qg6+ Kf8 21. Rf1 Qd7 22. Qxh6+ Ke7 23. Qf6+ Kf8 24. exd6 1-0
+

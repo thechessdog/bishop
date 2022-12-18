@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Haisfield, Bruce"]
+[Black "Kaufman, Larry C"]
+[Result "0-1"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "neo-Meran (Lundin variation)"]
+[HashCode "d21f76ca"]
+[Epoch "Bishop"]
+[BlackID "2000555"]
+[BlackCountry "USA"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c6 4. Nf3 Nf6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+b4 9. Ne4 Nxe4 10. Bxe4 Bb7 11. Bd2 Be7 12. Qa4 Qb6 13. a3 a5 14. axb4 axb4 15.
+Qxa8+ Bxa8 16. Rxa8+ Bd8 17. O-O O-O 18. Rfa1 Qb5 19. Rc8 Qb7 20. Raa8 Nb6 21.
+Rxd8 Nxa8 22. Bxh7+ Kxh7 23. Rxf8 f6 24. e4 Nb6 25. Bf4 e5 26. dxe5 Qe7 27. Rb8
+Qa7 0-1

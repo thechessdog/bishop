@@ -1,0 +1,20 @@
+[Event "ACM Minneapolis"]
+[Site "ACM Minneapolis"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Chaos"]
+[Black "Duchess"]
+[Result "1-0"]
+[ECO "D57"]
+[Opening "QGD"]
+[Variation "Lasker defence, Bernstein variation"]
+[HashCode "0a665094"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 Ne4 8.
+Bxe7 Qxe7 9. cxd5 Nxc3 10. bxc3 exd5 11. Qb3 Qd6 12. Bd3 Na6 13. O-O Re8
+14. Ne5 c5 15. Qb1 Re7 16. Bh7+ Kh8 17. Bd3 b6 18. f3 h5 19. a4 Bb7 20. Qc2
+cxd4 21. exd4 Rc8 22. Rfe1 Nb4 23. Qd2 Nxd3 24. Qxd3 Qh6 25. a5 bxa5 26.
+Rxa5 Qb6 27. Raa1 Qc7 28. Rxa7 Qb6 29. Ra2 Qc7 30. Rc1 Qb6 31. Qf5 Rxc3 32.
+Qxh5+ Kg8 33. Rd1 Rb3 34. Rc2 Rb1 1-0
+

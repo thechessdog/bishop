@@ -1,0 +1,17 @@
+[Event "corr Wch6"]
+[Site "corr Wch6"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "De Carbonnel, H."]
+[Black "Sanakoev, G."]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "9d6f45b7"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 Ne4 6. Bd2 Nxd2 7. Qxd2 O-O
+8. Bg2 cxd4 9. Nxd4 Nc6 10. O-O Qa5 11. Rfc1 Qc5 12. Nxc6 dxc6 13. a3 Bxc3
+14. Rxc3 a5 15. a4 e5 16. Rd1 Be6 17. b3 Qb4 18. Rd3 1/2-1/2
+

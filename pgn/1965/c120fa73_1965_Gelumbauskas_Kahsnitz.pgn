@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Gelumbauskas"]
+[Black "Kahsnitz"]
+[Result "0-1"]
+[ECO "D66"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, fianchetto variation"]
+[HashCode "c120fa73"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. c4 Be7 5. Nc3 Nbd7 6. e3 c6 7. Rc1 O-O 8.
+Bd3 dxc4 9. Bxc4 b5 10. Bd3 a6 11. a4 Bb7 12. Ne5 Nxe5 13. dxe5 Nd5 14. h4
+Nxc3 15. Rxc3 f5 16. exf6 Bxf6 17. Kf1 Qe7 18. Bb1 Rad8 19. Qc2 g6 20. Bxf6
+Qxf6 21. f3 Rf7 22. h5 Rfd7 23. Ke2 b4 0-1
+

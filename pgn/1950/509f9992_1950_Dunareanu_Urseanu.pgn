@@ -1,0 +1,17 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Dunareanu"]
+[Black "Urseanu"]
+[Result "1-0"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "509f9992"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. e3 Nc6 6. Nf3 Bd7 7. Bd3 dxc4 8.
+Bxc4 Na5 9. Bd3 c5 10. O-O Rc8 11. Qe2 O-O 12. e4 cxd4 13. e5 dxc3 14. exf6
+cxb2 15. Bxh7+ Kxh7 16. Qe4+ Kg8 17. Ng5 1-0
+

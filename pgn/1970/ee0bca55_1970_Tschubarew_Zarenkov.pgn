@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Tschubarew"]
+[Black "Zarenkov"]
+[Result "0-1"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "ee0bca55"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 d6 6. Be3 Nc6 7. Qd2 a6 8.
+O-O-O Bd7 9. h4 b5 10. cxb5 axb5 11. Bxb5 Na5 12. Bd3 c5 13. dxc5 Be6 14.
+Kb1 dxc5 15. g4 Qb6 16. h5 Bxa2+ 17. Nxa2 Nb3 18. Qe2 Rxa2 19. Kxa2 Qa5+
+20. Kxb3 Rb8+ 21. Kc2 Rxb2+ 22. Kxb2 Nxe4+ 23. Kc1 Qa3+ 24. Kc2 Qb2# 0-1
+

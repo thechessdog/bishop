@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Reshko, Aaron"]
+[Result "1-0"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "f2b29512"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 O-O 6. Bd3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 Qc7 10. Bb2 dxc4 11. Bxc4 b6 12. Bd3 Rd8 13. c4 Bb7 14. Qc2 h6 15.
+h3 Rac8 16. Rac1 cxd4 17. exd4 Nh5 18. Rfe1 Nf4 19. Bf1 Ne7 20. Ne5 Nf5 21. Qd2
+g5 22. g3 Nh5 23. Bd3 Nhg7 24. d5 exd5 25. cxd5 Qd6 26. Rxc8 Rxc8 27. Ng4 Kf8
+28. Nf6 Rd8 29. a4 Bxd5 30. Qc3 1-0

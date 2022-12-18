@@ -1,0 +1,23 @@
+[Event "England"]
+[Site "England"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Mitchell, G."]
+[Black "Gardiner, OC."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "3e466339"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qh3 Nc6 10. Ne2 cxd4 11. Bxf5 exf5 12. cxd4 Be6 13. O-O g5 14. f4
+g4 15. Qd3 h4 16. a4 a6 17. Bd2 Na5 18. Rfb1 Rb8 19. Bxa5 Qxa5 20. c3 O-O
+21. Nc1 Rfc8 22. Rb4 Qc7 23. Ra3 a5 24. Rb5 b6 25. Kf2 Qc4 26. Ke3 Bd7 27.
+Rb2 Qxd3+ 28. Nxd3 Kf8 29. Kd2 Ke7 30. Rab3 Bxa4 31. Rxb6 Rxb6 32. Rxb6 Ra8
+33. Nc5 Be8 34. Kc2 a4 35. Kb2 a3+ 36. Ka2 g3 37. hxg3 hxg3 38. Rb7+ Kf8
+39. Rb3 Bc6 40. Rxa3 Rxa3+ 41. Kxa3 Bb5 42. Kb4 Bf1 43. Nd7+ Ke7 44. Nf6
+Bxg2 45. Nh5 Bf1 46. Nxg3 Bd3 47. Kc5 Ke6 48. Nh5 Be4 49. Nf6 Bf3 50. c4
+dxc4 51. d5+ Ke7 52. Kxc4 Bd1 53. Kc5 Ba4 54. Ng8+ Kf8 55. Nh6 1-0
+

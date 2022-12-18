@@ -1,0 +1,16 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Turkka"]
+[Black "Hanninen, Veikko"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "5a456df3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nc3 Bb4 5. Qc2 d5 6. cxd5 Bf5 7. Qa4+ Nc6
+8. Qb3 Nd4 9. Qa4+ b5 10. Qd1 Nxc3 11. Qxd4 c5 12. bxc3 cxd4 0-1
+

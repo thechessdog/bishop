@@ -1,0 +1,17 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Byrne, Robert E"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "9a1c3437"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 a5 7. a4 Na6 8. Bb2 c6
+9. Nbd2 Bd7 10. e4 b5 1/2-1/2

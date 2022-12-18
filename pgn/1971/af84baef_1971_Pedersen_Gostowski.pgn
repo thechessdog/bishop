@@ -1,0 +1,21 @@
+[Event "EU-chT prel"]
+[Site "Aarhus"]
+[Date "1971.09.10"]
+[Round "6"]
+[White "Pedersen, Karl"]
+[Black "Gostowski, Rauli"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "af84baef"]
+[Epoch "Bishop"]
+[WhiteID "1400525"]
+[WhiteCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. h3 c6 6. a4 a5 7. Be2 O-O 8. O-O Na6
+9. Bg5 Nb4 10. Re1 Qc7 11. Bc4 e5 12. Qd2 Re8 13. Rad1 Be6 14. Bxe6 Rxe6 15. d5
+cxd5 16. exd5 Ree8 17. Nb5 Qd7 18. c3 Na6 19. c4 Nc5 20. Qc2 Rac8 21. Bd2 e4
+22. Nfd4 Nd3 23. Bxa5 Nxe1 24. Bxe1 e3 25. Ne2 exf2+ 26. Bxf2 Ne4 27. Bd4 Qf5
+28. Be3 Ng3 29. Qd2 Nxe2+ 30. Qxe2 Qe5 31. Re1 Bh6 32. Bxh6 Qxe2 33. Rxe2 Rxe2
+34. Nxd6 Rd8 35. Nxb7 Rb8 36. c5 Rxb7 37. c6 Rbxb2 38. c7 Rxg2+ 0-1

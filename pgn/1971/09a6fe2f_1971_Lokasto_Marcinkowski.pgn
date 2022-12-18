@@ -1,0 +1,18 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Lokasto, Anatol"]
+[Black "Marcinkowski"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Boren-Svenonius variation"]
+[HashCode "09a6fe2f"]
+[Epoch "Bishop"]
+[WhiteID "1100815"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 Bd6 6. Nf3 Qh5 7. d4 Ne7 8.
+Nc3 f6 9. Qe1 Nbc6 10. Ne2 g5 11. Bxc6+ Nxc6 12. e5 fxe5 13. dxe5 Bb4 14. c3
+Bc5 15. b4 Qxf3+ 0-1

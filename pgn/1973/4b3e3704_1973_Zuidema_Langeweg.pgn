@@ -1,0 +1,26 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1973.01.01"]
+[Round "3"]
+[White "Zuidema, Coen"]
+[Black "Langeweg, Kick"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "4b3e3704"]
+[Epoch "Bishop"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. Re1 Nxd4 10. Qxd4 Bc5 11. Qd1 d6 12. Be3 e5 13. Bxc5 Qxc5 14. Qd2 Be6
+15. Rad1 Ke7 16. Re3 Rac8 17. Na4 Qc7 18. Rc3 Qb8 19. Nb6 Rc6 20. Rxc6 bxc6 21.
+Qa5 Qa7 22. c4 c5 23. b4 Qc7 24. bxc5 Qxc5 25. Qxa6 Rb8 26. Na4 Qc7 27. c5 dxc5
+28. Nc3 Qb6 29. Qe2 Kf8 30. h3 c4 31. Kh2 Qa5 32. Qd2 Ke8 33. Qd6 Rc8 34. Nd5
+Qc5 35. Qxe5 c3 36. Rc1 c2 37. Qf4 Nxd5 38. exd5 Bxd5 39. Qa4+ Ke7 40. Bxd5
+Qxd5 41. Rxc2 Rxc2 42. Qxc2 h5 43. h4 g5 44. hxg5 Qxg5 45. Qe4+ Kf8 46. a4 Qc5
+47. Qe3 Qb4 48. Qh6+ Kg8 49. Qg5+ Kf8 50. Qxh5 Qxa4 51. Qh8+ Ke7 52. Qh4+ Qxh4+
+53. gxh4 Kf6 54. Kg3 Kf5 55. Kf3 Kg6 56. Kg4 Kh6 57. h5 1-0

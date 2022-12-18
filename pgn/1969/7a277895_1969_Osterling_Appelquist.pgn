@@ -1,0 +1,23 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Osterling, Gosta"]
+[Black "Appelquist, Olle"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "7a277895"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. Qd2 b5 5. a3 Nbd7 6. f3 e6 7. e4 dxe4 8.
+fxe4 Qa5 9. Bd3 Qb6 10. e5 h6 11. Bh4 Nd5 12. Nxd5 cxd5 13. Ne2 a6 14. Qe3
+g5 15. Bf2 Be7 16. h4 Bb7 17. Qf3 Rf8 18. hxg5 hxg5 19. Rh7 O-O-O 20. Qh5
+Qc7 21. Be3 Rde8 22. Bxg5 Bxg5 23. Qxg5 Qd8 24. Qxd8+ Kxd8 25. Nf4 Re7 26.
+O-O-O Rg8 27. Rf1 Nf8 28. Rh2 Rc7 29. Nh5 Rh8 30. Rh3 Rg8 31. Rf2 Rg5 32.
+Nf6 Ke7 33. Rh8 Rg7 34. g4 Rc8 35. Rg8 Rxg8 36. Nxg8+ Ke8 37. Nh6 Rc7 38.
+g5 Bc6 39. Be2 Nh7 40. Bh5 Nxg5 41. Rg2 Ne4 42. Rg8+ Ke7 43. Bxf7 a5 44.
+Bg6 Ng5 45. Bh5 Ne4 46. Bf3 Nf2 47. Kd2 Bd7 48. Rg2 Ne4+ 49. Bxe4 dxe4 50.
+Ng8+ Kf7 51. Nf6 Bc6 52. Ke3 Rc8 53. Rh2 b4 54. axb4 Rb8 55. Rh7+ Kg6 56.
+Rc7 Ba8 57. Nd7 Rxb4 58. Kf4 e3 59. Nf8+ 1-0
+

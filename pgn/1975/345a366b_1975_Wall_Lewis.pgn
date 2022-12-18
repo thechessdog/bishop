@@ -1,0 +1,17 @@
+[Event "Vancouver"]
+[Site "Vancouver"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Lewis"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "345a366b"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. fxe5
+dxe5 9. Bd3 Be7 10. O-O O-O 11. Nh4 Nbd7 12. Nf5 Bd8 13. Nd5 Nxd5 14. exd5 b5
+15. Nxg7 Kxg7 16. Qg4+ Kh8 17. Bxh7 Kxh7 18. Rf3 Qb6+ 19. Be3 1-0

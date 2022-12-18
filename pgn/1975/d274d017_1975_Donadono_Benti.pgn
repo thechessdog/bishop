@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Donadono"]
+[Black "Benti"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "d274d017"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 g6 7. Be3 Bg7
+8. f3 O-O 9. Qd2 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 h5 13. Rdg1 a5 14.
+Bh6 Bxh6 15. Qxh6 Rxc3 16. bxc3 a4 17. Bd5 Qa5 18. g4 Qxc3 19. gxh5 Qa1+
+20. Kd2 Qxd4+ 21. Kc1 Nxd5 22. exd5 Nxf3 0-1
+

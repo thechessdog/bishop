@@ -1,0 +1,27 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Dydyszko"]
+[Black "Weremeiczik"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "f63bc5df"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. e4 e5 9. d5 Ne7 10. Nd2 h6 11. Nf1 Qa5 12. Bd2 Bd7 13. Ne3 O-O-O 14. Qb3
+Ng4 15. Rb1 Qc7 16. O-O g5 17. Rb2 Nxe3 18. Bxe3 Kb8 19. Rfb1 Bc8 20. Qa3
+Rh7 21. Rb5 b6 22. Qb2 Bd7 23. Rb3 Ka8 24. Qe2 f6 25. R3b2 h5 26. Qd1 Rb8
+27. Be2 Qc8 28. a4 Qe8 29. a5 Nc8 30. Qb3 Rb7 31. Qa3 Kb8 32. Ra1 Qd8 33.
+Bd1 Be8 34. a6 Rbc7 35. Ba4 Bxa4 36. Qxa4 Qd7 37. Qd1 Ne7 38. Qf3 Ng8 39.
+Rb5 Qg4 40. Qxg4 hxg4 41. g3 Rh8 42. Kg2 Rch7 43. Rh1 Kc8 44. Rb2 Rh3 45.
+f3 gxf3+ 46. Kxf3 Nh6 47. Re1 Kd7 48. Bg1 Ke7 49. Be3 Kf7 50. Rbe2 Kg6 51.
+Rb1 f5 52. exf5+ Kxf5 53. Bg1 Ng4 54. Rbb2 R3h7 55. Ra2 Nf6 56. Ra1 Kg6 57.
+Rf1 Rf7 58. Kg2 g4 59. Be3 Rhf8 60. Bd2 Nd7 61. Rh1 Rh8 62. Re4 Nf6 63. Re2
+Rhf8 64. Rb1 Ne8 65. Rh1 Nc7 66. h4 Kh5 67. Ra1 Rf3 68. Be3 Ne8 69. Raa2
+Ng7 70. Rf2 e4 71. Rxf3 exf3+ 72. Kf1 Nf5 73. Bf4 Re8 74. Ra1 Re4 75. Kf2
+Re2+ 76. Kf1 Rg2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Grimm, U."]
+[Black "Thessmer, H."]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "f99b6183"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. Nf3 dxe5 4. e4 Bc5 5. Bc4 Nf6 6. c3 Nc6 7. b4 Bb6 8.
+a4 Nxe4 9. Qe2 Nd6 10. a5 e4 11. axb6 Nxc4 12. b5 O-O 13. bxc6 exf3 14.
+Qxc4 fxg2 15. Rg1 Re8+ 16. Kd1 Be6 17. Qb4 Qd3 18. cxb7 Bf5 19. Qe7 Qf3+
+20. Qe2 Qxe2# 0-1
+

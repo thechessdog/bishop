@@ -1,0 +1,27 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Kinzel, Alfred"]
+[Black "Paoli, Enrico"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "b0b0690b"]
+[Epoch "Bishop"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. Bb3
+O-O 9. f4 Nbd7 10. Be3 Nc5 11. e5 Ne8 12. Qg4 Qc7 13. Qg3 b5 14. f5 dxe5 15.
+fxe6 Bxe6 16. Nxe6 fxe6 17. Nd5 Qd6 18. Nxe7+ Qxe7 19. Rxf8+ Qxf8 20. Qxe5 Nxb3
+21. Qxe6+ Kh8 22. axb3 Nf6 23. Bd4 Qd8 24. c3 Qg8 25. Re1 Qxe6 26. Rxe6 a5 27.
+Bxf6 gxf6 28. Rxf6 a4 29. Rb6 Ra5 30. b4 a3 31. bxa3 Rxa3 32. Rxb5 Rxc3 33. Rb7
+Rc2 34. h3 Rb2 35. Kh2 Rb3 36. h4 Kg8 37. g3 Rb2+ 38. Kh3 h5 39. Rb5 Kg7 40.
+Rxh5 Rxb4 41. Rg5+ Kh6 42. Rg4 Rb3 43. Ra4 Kh5 44. Ra5+ Kh6 45. Re5 Ra3 46. Kg4
+Ra4+ 47. Kf5 Kh5 48. Kf6+ Kh6 49. Re8 Kh5 50. Rh8+ Kg4 51. Rg8+ Kh5 52. Rg5+
+Kh6 53. Kf5 Rb4 54. Rg8 Ra4 55. Re8 Ra1 56. Re5 Rf1+ 57. Kg4 Rf6 58. h5 Ra6 59.
+Kh4 Ra4+ 60. g4 Rb4 61. Re6+ Kh7 62. h6 Rb1 63. Kh5 Rh1+ 64. Kg5 Ra1 65. Re7+
+Kh8 66. Kf6 Ra6+ 67. Re6 Ra8 68. g5 Rf8+ 69. Ke7 Rf1 70. g6 Kg8 71. Rb6 Re1+
+72. Kf6 Rf1+ 73. Kg5 Rg1+ 74. Kf4 Rf1+ 75. Kg3 Rf8 76. Kg4 Ra8 77. Kg5 Ra5+ 78.
+Kf6 Ra8 79. Rd6 Rb8 80. Ke7 1-0

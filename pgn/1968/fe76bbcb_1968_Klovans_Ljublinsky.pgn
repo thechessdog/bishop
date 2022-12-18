@@ -1,0 +1,17 @@
+[Event "corr Eberhardt-Wilhelm"]
+[Site "corr Eberhardt-Wilhelm"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Klovans, Janis"]
+[Black "Liublinsky, Victor Alexandrovic"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "fe76bbcb"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Bb4 5. exf5 Nf6 6. O-O O-O 7. d4 e4 8. Ne5
+Qe8 9. f4 d6 10. g4 dxe5 11. fxe5 Nd7 12. Nxe4 Ncxe5 13. dxe5 Qxe5 14. Qd3 Ba5
+15. Bf4 Qe7 16. c3 Bb6+ 17. Kh1 h5 18. Rae1 hxg4 19. Nd6 1-0

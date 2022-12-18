@@ -1,0 +1,16 @@
+[Event "Schwerin"]
+[Site "Schwerin"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Hoelzlein, C."]
+[Black "Frommelt, Hans"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann defence"]
+[HashCode "da493f88"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 g6 3. c3 Bg7 4. Bd3 d6 5. f4 d5 6. e5 h5 7. Nf3 Bg4 8. h3
+Bxf3 9. Qxf3 e6 10. Be3 Nd7 11. Nd2 Bf8 12. g4 hxg4 13. hxg4 Rxh1+ 14. Qxh1
+Nh6 15. Qh3 Ng8 16. Qh7 Ne7 17. Nf3 Nc8 18. Ng5 Qe7 19. Bxg6 1-0
+

@@ -1,0 +1,16 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Frick, A."]
+[Black "Brent, M."]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "ac4d8289"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 d5 5. Bg5 dxc4 6. e4 Qxd4 7. Rd1 Bxc3+
+8. bxc3 Qc5 9. Nf3 Nbd7 10. Bxf6 Nxf6 11. Qa4+ b5 0-1
+

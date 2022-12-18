@@ -1,0 +1,24 @@
+[Event "Leipzig olm prel"]
+[Site "Leipzig"]
+[Date "1960.??.??"]
+[Round "2"]
+[White "Soler, Juan"]
+[Black "De Lange, Daan"]
+[Result "0-1"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "34383386"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 b6 6. Bd3 Bb7 7. O-O d6 8.
+Qe2 Bxc3 9. bxc3 Be4 10. Nd2 Bxd3 11. Qxd3 e5 12. e4 Re8 13. Re1 Nc6 14.
+Nf3 Nd7 15. Bg5 f6 16. Bd2 Nf8 17. Nh4 Ne7 18. a4 a5 19. Re3 Nfg6 20. Nxg6
+Nxg6 21. Rh3 Qe7 22. Re1 Qd7 23. Ra1 Re7 24. d5 Rf7 25. Rh5 Raf8 26. Qh3
+Qxh3 27. Rxh3 f5 28. exf5 Rxf5 29. Be3 Nf4 30. Bxf4 Rxf4 31. Re3 Rxc4 32.
+g3 e4 33. Rae1 Rf5 34. Rxe4 Rxe4 35. Rxe4 Rxd5 36. Kf1 Rc5 37. c4 Kf7 38.
+f4 c6 39. Ke2 d5 40. cxd5 Rxd5 41. Rc4 c5 42. Ke3 Rd1 43. Rc2 Ra1 44. Rc4
+Rb1 45. Rc2 Rb3+ 46. Kf2 Rb4 47. Ra2 Ke6 48. Ke2 Kd5 49. Kd2 c4 50. Kc2 Rb3
+51. Ra1 Rb4 52. Kc3 Kc5 53. Re1 Rxa4 54. Re7 b5 55. Rc7+ Kd5 56. Rd7+ Ke6
+57. Rxg7 Ra3+ 58. Kd4 c3 59. Rc7 b4 60. g4 Ra2 61. f5+ Kd6 62. Rc8 Rxh2 0-1
+

@@ -1,0 +1,20 @@
+[Event "Manhattan CC-ch 5556"]
+[Site "New York"]
+[Date "1955.12.08"]
+[Round "5"]
+[White "Owens, B."]
+[Black "Klugman, Reuben"]
+[Result "0-1"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O"]
+[HashCode "3c04440f"]
+[Epoch "Bishop"]
+[BlackID "2003953"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Be7 6. Nf3 d5 7. Bd3 c5 8. O-O
+cxd4 9. exd4 dxc4 10. Bxc4 Nbd7 11. Ba2 Nb6 12. Qd3 Bd7 13. Bg5 Nbd5 14. Rac1
+h6 15. Nxd5 Nxd5 16. Bb1 f5 17. Bxe7 Qxe7 18. Ne5 Rfc8 19. Rxc8+ Rxc8 20. Qb3
+Bc6 21. Nxc6 bxc6 22. Re1 Qg5 23. Qb7 Rc7 24. Qb8+ Kh7 25. Qb3 c5 26. h4 Qg4
+27. g3 cxd4 28. Rxe6 Rc1+ 29. Kh2 Ne3 30. Re8 Rh1+ 0-1

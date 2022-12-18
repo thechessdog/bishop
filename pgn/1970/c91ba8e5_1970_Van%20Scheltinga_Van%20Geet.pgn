@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "van Scheltinga, Theo Daniel"]
+[Black "Van Geet, Dirk Daniel"]
+[Result "0-1"]
+[ECO "A41"]
+[Opening "Robatsch defence"]
+[Variation "Rossolimo variation"]
+[HashCode "c91ba8e5"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "NLD"]
+
+1. d4 g6 2. c4 Bg7 3. Nf3 d6 4. e4 Bg4 5. Be2 Nc6 6. Be3 e5 7. d5 Bxf3 8. Bxf3
+Nd4 9. Nc3 Ne7 10. Bxd4 exd4 11. Nb5 c5 12. dxc6 bxc6 13. Nxd4 Qa5+ 14. Kf1 Qc5
+15. Ne2 Bxb2 16. Rb1 Be5 17. Qd3 O-O 18. g4 f5 19. exf5 gxf5 20. g5 Ng6 21. h4
+Bg7 22. Qe3 Qxc4 23. Rc1 Qxa2 24. Bxc6 Rac8 25. Bd7 Rxc1+ 26. Nxc1 Qc4+ 27. Ne2
+Ne5 28. Qxa7 Qd5 0-1

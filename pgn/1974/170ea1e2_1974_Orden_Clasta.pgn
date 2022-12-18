@@ -1,0 +1,18 @@
+[Event "corr CADAP"]
+[Site "corr CADAP"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Orden, J."]
+[Black "Clasta, L."]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "170ea1e2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Qc7 10. f4 b5 11. fxe5 dxe5 12. Rxf6 Bxf6 13. Nd5 Qd6 14.
+Bc5 Qd8 15. Nb6 Ra7 16. Qxd8 Rxd8 17. Nxc8 Rc7 18. Nb6 Nd7 19. Nxd7 Rdxd7
+20. a4 1-0
+

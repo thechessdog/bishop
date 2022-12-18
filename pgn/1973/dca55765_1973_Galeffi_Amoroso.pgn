@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Galeffi"]
+[Black "Amoroso"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "dca55765"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. c3 e5 6. Nb5 a6 7. Nd6+ Bxd6
+8. Qxd6 Nf6 9. Nd2 Ng4 10. f3 Qf2+ 11. Kd1 Ne3# 0-1
+

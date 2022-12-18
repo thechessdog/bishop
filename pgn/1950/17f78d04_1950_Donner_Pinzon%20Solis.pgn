@@ -1,0 +1,21 @@
+[Event "Dubrovnik olm"]
+[Site "Dubrovnik olm"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Pinzon Solis, Felipe"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "17f78d04"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "PER"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+exd4 9. Nxd4 a5 10. h3 Nc5 11. Be3 Re8 12. Qc2 Bd7 13. Rfe1 Qc8 14. Kh2 h6 15.
+Rad1 Kh7 16. f3 Nh5 17. Nd5 Qd8 18. f4 Nf6 19. Bf2 Nxd5 20. cxd5 Qf6 21. Rd2 b6
+22. Rde2 Rab8 23. e5 dxe5 24. fxe5 Qd8 25. e6 fxe6 26. dxe6 Bxd4 27. exd7 Rxe2
+28. Qxe2 Bf6 29. Bxc5 bxc5 30. Qe8 Bg7 31. Qf7 Qf6 32. Qe8 Rd8 33. Re7 Qf8 34.
+Qxf8 1-0

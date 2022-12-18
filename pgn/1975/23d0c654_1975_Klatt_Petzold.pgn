@@ -1,0 +1,20 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Klatt"]
+[Black "Petzold"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "23d0c654"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O
+8. e5 Ne8 9. c3 d6 10. exd6 Bxd6 11. Bxc6 bxc6 12. Qxd4 c5 13. Qe4 Rb8 14.
+Nbd2 Nf6 15. Qh4 Bb7 16. b3 Nd5 17. Qc4 Nb6 18. Qf1 f5 19. Ne5 f4 20. Ndf3
+Qf6 21. Bb2 Rbe8 22. Ng4 Qf5 23. h3 Qc2 24. Rab1 Bxf3 25. gxf3 h5 26. Nh2
+Rxe1 27. Qxe1 c4 28. Qe6+ Rf7 29. Qe8+ Bf8 30. Qe4 Qd2 31. Nf1 Qd8 32. Bc1
+Qg5+ 33. Kh1 Bc5 34. Qe8+ Rf8 35. Qe6+ Kh8 36. Nd2 Rd8 37. Kh2 Bxf2 0-1
+

@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Zakharov, Alexander V"]
+[Black "Tukmakov, Vladimir B"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "dd003b07"]
+[Epoch "Bishop"]
+[BlackID "14100096"]
+[BlackCountry "UKR"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. f5 Nxd4 12. Qxd4 Bh6+ 13. Kb1 Bf4 14. Be2
+Be5 15. Qe3 Qa5 16. Bh5 Ke7 17. Ne2 Rac8 18. Nf4 Qa4 19. Rd2 Rc4 20. fxe6 fxe6
+21. Nd3 Bd4 22. Qh6 Rb8 23. c3 Ba7 24. e5 1-0

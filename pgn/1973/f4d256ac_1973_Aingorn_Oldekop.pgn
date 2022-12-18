@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Aingorn"]
+[Black "Oldekop"]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "f4d256ac"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 a6 7. Bd3 c5 8. d5
+b5 9. cxb5 axb5 10. Bxb5 Qa5 11. Ne2 Ba6 12. Bxa6 Nxa6 13. O-O Rfb8 14. Qd2
+Qb4 15. Rab1 Nd7 16. Bg5 Kf8 17. Bh6 Ne5 18. b3 Qb6 19. Bxg7+ Kxg7 20. Kh1
+Nc7 21. f4 Nd7 22. Rbd1 Nb5 23. h3 Nxc3 24. Nxc3 Qa5 25. Rf3 Rb4 26. Qe2
+Qa6 27. Qe1 c4 28. Ne2 Qb7 29. Nc1 cxb3 30. Rxb3 Rxb3 31. axb3 Rc8 32. Kh2
+Qb5 33. Qe3 Qb4 34. Ne2 Rc2 35. Qd4+ Qxd4 36. Nxd4 Rb2 37. Re1 Nc5 38. Re3
+h6 39. Nc6 Nxb3 40. Nxe7 Nd2 41. Kg1 Rb1+ 42. Kf2 Rb4 43. e5 Rxf4+ 44. Ke2
+Nc4 45. exd6 Nxd6 1/2-1/2
+

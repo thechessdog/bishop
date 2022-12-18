@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schneider, K."]
+[Black "Bantleon, J."]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred, Rubinstein variation"]
+[HashCode "25ec09d3"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 Nxe4
+8. Re1 f5 9. dxe5 d5 10. Nd4 Qh4 11. g3 Qh3 12. Nc3 h5 13. Nde2 Nxf2 14.
+Kxf2 Bc5+ 15. Be3 Qxh2+ 16. Kf3 f4 17. Bxc5 fxg3 18. Qd4 Bg4+ 19. Ke3 O-O-O
+20. Kd2 Bf3 21. Qd3 1-0
+

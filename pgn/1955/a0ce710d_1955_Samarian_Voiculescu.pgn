@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Samarian, Sergiu"]
+[Black "Voiculescu, Paul"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "a0ce710d"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. a3 f6 7. Bd3 Qc7 8. O-O
+O-O-O 9. Re1 c4 10. Bf1 fxe5 11. Nxe5 Nxe5 12. Bf4 Qb6 13. Bxe5 Qxb2 14.
+Nd2 Nf6 15. Rb1 Qxa3 16. Ra1 Qxc3 17. Bxc4 dxc4 18. Rc1 Qd3 19. Nxc4 1-0
+

@@ -1,0 +1,22 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1963.01.01"]
+[Round "4"]
+[White "Garcia, Raimundo"]
+[Black "Luckis, Marcos"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "3112de3f"]
+[Epoch "Bishop"]
+[WhiteID "100420"]
+[WhiteCountry "ARG"]
+[BlackCountry "LTU"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Be3 e6 7. c3 Qb6 8. Qb3 Na6
+9. Nf3 Rc8 10. h5 c5 11. dxc5 Bxc5 12. Qxb6 Bxb6 13. Bxb6 axb6 14. Na3 Ne7 15.
+Nb5 Bxb5 16. Bxb5+ Nc6 17. Nd4 Nc5 18. O-O Ke7 19. f4 Nxd4 20. cxd4 Ne4 21. Bd3
+Nd2 22. Rf2 Nc4 23. Re2 Na5 24. Rd1 Rc7 25. Kf2 Rhc8 26. g5 Nc6 27. Bb1 hxg5
+28. Kf3 Rh8 29. Kg4 gxf4 30. Rf2 f6 31. exf6+ gxf6 32. Rxf4 f5+ 33. Kh4 Kf6 34.
+Rg1 0-1

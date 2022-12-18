@@ -1,0 +1,18 @@
+[Event "Internationaal"]
+[Site "Mannheim"]
+[Date "1975.03.01"]
+[Round "1"]
+[White "Lombard, Andre"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "026c77c9"]
+[Epoch "Bishop"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Nc6 9. Bd3 cxd4 10. exd4 Be7 11. a3 b6 12. Re1 Bb7 13. Bc2 Rc8 14. Qd3 g6 15.
+Bh6 Re8 16. Rad1 Nd5 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Grob, Henri"]
+[Black "Wiedemeier"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "3b43625d"]
+[Epoch "Bishop"]
+[WhiteCountry "SWI"]
+
+1. g4 d5 2. Bg2 e5 3. c4 c6 4. cxd5 cxd5 5. Qb3 Ne7 6. Nc3 e4 7. d3 exd3 8. Bf4
+Nbc6 9. Nb5 d2+ 10. Kf1 Na5 11. Qa4 Ng6 12. Nc7+ Ke7 13. Nxd5+ Ke6 14. Bc7 Qd7
+15. Qe4+ Ne5 16. Qxe5# 1-0

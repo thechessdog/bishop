@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Vaskan, Uldis"]
+[Black "Zakharov"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "de36a419"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8.
+Bxf6 gxf6 9. f5 Nc6 10. fxe6 fxe6 11. Nxc6 bxc6 12. Be2 Qb6 13. Bh5+ Ke7
+14. Qf3 Bh6 15. Rd1 a5 16. Rf1 Rf8 17. Qd3 Qe3+ 18. Be2 Qxd3 19. Bxd3 Rg8
+20. Kf2 Bf4 21. Ne2 Be5 22. c3 Rb8 23. Rb1 c5 24. b3 Bd7 25. Rfc1 h5 26. g3
+Bc6 27. b4 c4 28. Bc2 axb4 29. cxb4 Rg4 30. b5 Rxb5 31. Rxb5 Bxb5 32. a4
+Bc6 33. a5 Rg8 34. Rb1 Ra8 35. Rb4 d5 36. exd5 exd5 37. Ba4 Bxa4 38. Rxa4
+Ra6 39. Ke3 Kd6 0-1
+

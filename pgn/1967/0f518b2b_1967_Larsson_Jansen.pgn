@@ -1,0 +1,22 @@
+[Event "corr Wch-ICCF"]
+[Site "corr Wch-ICCF"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Larsson"]
+[Black "Jansen"]
+[Result "0-1"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "0f518b2b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bd3 b4 12. Ne2 Qc7 13. Kb1 h6 14. Bh4
+Rb8 15. Rhg1 a5 16. g4 a4 17. Rc1 Na5 18. c4 Bc6 19. Ng3 Nb7 20. Nd4 Nc5
+21. Nb5 Qb7 22. e5 dxe5 23. fxe5 Rd8 24. exf6 gxf6 25. Bxf6 Bxf6 26. Qf4
+Qe7 27. Be4 Bxe4+ 28. Nxe4 Nxe4 29. Qxe4 Qc5 30. Rgf1 Bg5 31. Rcd1 O-O 32.
+Rd4 b3 33. Rfd1 Qxc4 34. Nc3 Rxd4 35. Rxd4 Qa6 36. Qf3 Rc8 37. Rd7 bxa2+
+38. Kxa2 Qc4+ 39. Ka1 Qf4 40. Qxf4 Bxf4 41. Nxa4 Rc4 42. b3 Be5+ 43. Ka2
+Rxg4 44. h3 Rg3 45. b4 Rxh3 46. b5 h5 47. b6 h4 48. b7 Rh2+ 0-1
+

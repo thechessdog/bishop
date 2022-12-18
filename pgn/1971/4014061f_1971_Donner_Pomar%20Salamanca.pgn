@@ -1,0 +1,18 @@
+[Event "Palma de Mallorca"]
+[Site "Palma de Mallorca"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Pomar Salamanca, Arturo"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "4014061f"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "EST"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5 8.
+Bd3 Nc6 9. O-O O-O 10. Re1 Bd7 11. a3 Bf6 12. Be4 Nce7 13. Qd3 g6 14. Ne5 Bc6
+15. Bd2 Nxc3 16. Nxc6 Ne2+ 17. Rxe2 Nxc6 18. Bxc6 1/2-1/2

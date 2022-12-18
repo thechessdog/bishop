@@ -1,0 +1,16 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Have, Kresten"]
+[Black "Hansen, Egon Rahbek"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "010a42d7"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 Bg4 3. e3 e6 4. c4 Nf6 5. Nc3 c5 6. b3 Nc6 7. Be2 Qc7 8. O-O a6
+9. Bb2 Rd8 10. Rc1 dxc4 11. bxc4 Bd6 12. d5 Bxf3 13. Bxf3 Bxh2+ 14. Kh1 h5 15.
+Qe2 Ne5 16. g3 h4 17. Kg2 hxg3 18. Rh1 gxf2 19. dxe6 Neg4 20. exf7+ Kf8 21.
+Bxg4 Qg3+ 22. Kf1 Qg1+ 23. Rxg1 fxg1=Q# 0-1

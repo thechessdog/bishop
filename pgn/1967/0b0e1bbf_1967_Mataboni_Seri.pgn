@@ -1,0 +1,18 @@
+[Event "corr Argentina"]
+[Site "corr Argentina"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Mataboni, E."]
+[Black "Seri, G."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "0b0e1bbf"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. Be2 Bh4 9. d3 Nd4 10. g3 Bh3+ 11. Ke1 O-O-O 12. c3 Nxe2 13. Qxe2 dxe4
+14. dxe4 Bg4 15. Qg2 Qc5 16. Bd2 Bg5 17. h3 Bxd2+ 18. Kf1 Nxe4 19. hxg4 Qe3
+20. Qg1 Rf8+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Hofmann, H."]
+[Black "Winternheimer, W."]
+[Result "1-0"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "1163adb2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O a6 9. f4 Bd7 10. Be2 Rc8 11. Nb3 Nb4 12. Kb1 a5 13. a3 a4 14. Nd4
+Na6 15. Ndb5 O-O 16. Nxd6 Rc6 17. Bxf6 gxf6 18. Nxb7 Qb6 19. Qxd7 Rc7 20.
+Qb5 1-0
+

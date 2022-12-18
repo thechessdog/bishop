@@ -1,0 +1,23 @@
+[Event "Hastings-B6263"]
+[Site "Hastings II"]
+[Date "1962.12.01"]
+[Round "4"]
+[White "Hamann, Svend"]
+[Black "Thomas, Andrew Rowland Benedick"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "1b04ed05"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5 8.
+Ne2 Qxd1 9. Rxd1 Bd6 10. Bf4 Bxf4 11. Nxf4 Ne7 12. Nc3 Bd7 13. Rd3 O-O-O 14.
+Rad1 Nc6 15. Nh5 Bg4 16. Rxd8+ Nxd8 17. Nxg7 Bxd1 18. Nxd1 h5 19. Ne3 c6 20.
+Kf1 Kd7 21. Ke2 Ne6 22. Nxe6 Kxe6 23. f4 b5 24. Nf5 c4 25. Ke3 a5 26. Ke2 a4
+27. a3 c5 28. c3 h4 29. Ne3 h3 30. g4 b4 31. f5+ Kf7 32. cxb4 cxb4 33. Nxc4
+bxa3 34. bxa3 Rb8 35. e5 Rb3 36. Nd6+ Ke7 37. Nc8+ Kf8 38. exf6 Rxa3 39. g5 Rc3
+40. Nb6 a3 41. Nd7+ Kg8 42. g6 Rc8 43. Ne5 a2 44. Ng4 Rc7 45. g7 Rc8 0-1

@@ -1,0 +1,20 @@
+[Event "Argentina"]
+[Site "Buenos Aires"]
+[Date "1962.01.01"]
+[Round "12"]
+[White "Marcussi, Bartolome"]
+[Black "Cruz, Raul C."]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "d0ed7641"]
+[Epoch "Bishop"]
+[BlackID "5215234"]
+[BlackCountry "PHI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Nbd7 9. O-O Qc7 10. a4 b6 11. Qd2 Bb7 12. Bxf6 Nxf6 13. Nd5 Bxd5 14. exd5 O-O
+15. c4 Ne4 16. Qe3 Nc5 17. Ra3 Rab8 18. Nd2 a5 19. f4 exf4 20. Qxf4 Bf6 21. Rh3
+Qe7 22. Bd1 Bxb2 23. Bc2 g6 24. Nf3 Qf6 25. Qg3 Be5 26. Nxe5 Qxe5 27. Qh4 Qg7
+28. Rhf3 f5 29. h3 Rbe8 30. Rg3 Ne4 31. Bxe4 Rxe4 32. Qg5 Rxc4 0-1

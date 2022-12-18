@@ -1,0 +1,16 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Shijanovsky, V."]
+[Black "Kogan, Boris"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "84a3ce6a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 g6 7. Bg2 Bg7 8. O-O
+O-O 9. Nd5 Nbd7 10. c4 Ne5 11. b3 Bg4 12. f3 Bd7 13. a4 Nc6 14. Be3 Nxd4 15.
+Bxd4 Nxd5 16. exd5 Bxd4+ 17. Qxd4 b5 1/2-1/2

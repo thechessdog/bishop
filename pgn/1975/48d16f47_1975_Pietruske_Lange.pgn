@@ -1,0 +1,26 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pietruske, Siegfrie"]
+[Black "Lange"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "48d16f47"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. e5 Nfd7 6. f4 f6 7. exf6 Nxf6 8.
+Bc4 c6 9. Qd2 d5 10. Bd3 O-O 11. Nf3 Qc7 12. O-O Bf5 13. Rae1 e6 14. h3
+Nbd7 15. g4 Bxd3 16. Qxd3 Rae8 17. Rf2 c5 18. Bxf6 Bxf6 19. Qd2 cxd4 20.
+Ne2 Nc5 21. Ng3 e5 22. fxe5 Bxe5 23. Nxe5 Rxf2 24. Qxf2 Rxe5 25. Rf1 Re8
+26. Ne2 Ne6 27. Qf3 Qd7 28. Qd3 Qd6 29. Qg3 Qxg3+ 30. Nxg3 Rc8 31. Rf2 Ng5
+32. Kg2 Ne4 33. Re2 Kf7 34. h4 Rc6 35. g5 Re6 36. Nf1 Ke7 37. Kf3 Nd6 38.
+Rh2 Nf5 39. h5 Kf7 40. h6 Ne3 41. Ng3 Re5 42. Kf4 Ke6 43. Re2 Nc4 44. b3
+Rxe2 45. Nxe2 Nd6 46. Nxd4+ Ke7 47. Nf3 Ke6 48. Ne5 Ke7 49. Ng4 Nf7 50. Nf6
+Nxh6 51. Nxd5+ Ke6 52. Nf6 Nf5 53. Nxh7 Nd4 54. Nf8+ Kf7 55. Nd7 Nxc2 56.
+Ne5+ Ke6 57. Nxg6 Nb4 58. a3 Nc2 59. a4 Nd4 60. b4 Ne2+ 61. Kg4 Kf7 62. Nh4
+Nc3 63. Kh5 Nd5 64. g6+ Kf6 65. Kh6 Ne7 66. g7 Kf7 67. Kh7 Ng8 68. Nf5 Nf6+
+69. Kh8 1-0
+

@@ -1,0 +1,17 @@
+[Event "Bognor Regis"]
+[Site "Bognor Regis"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Wade, Robert Graham"]
+[Black "Mardle"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack"]
+[HashCode "afe83b04"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Qd3 f6 11. exf6 Qxf6 12. Bxd5 O-O-O 13. Bxe6+ Qxe6 14. Qe2
+Rhe8 15. Be3 Nxf2 16. Rxf2 Qxe3 17. Qxe3 Rd1+ 0-1

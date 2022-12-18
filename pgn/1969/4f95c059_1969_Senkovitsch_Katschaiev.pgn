@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Senkovitsch"]
+[Black "Katschaiev"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "4f95c059"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O Qc7 8.
+Qe2 d6 9. a4 b4 10. Na2 Nf6 11. Bg5 d5 12. e5 Nfd7 13. Nxe6 Qxe5 14. Nc7#
+1-0
+

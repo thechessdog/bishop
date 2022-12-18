@@ -1,0 +1,15 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Gusev"]
+[Black "Voinikovich"]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "b1f018e3"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bb5 Bb4
+8. Nxd4 Bxe1 9. Nxc6 Bxf2+ 10. Kh1 Qh4 11. Ne5+ c6 12. Nf3 Ng3# 0-1
+

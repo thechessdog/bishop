@@ -1,0 +1,17 @@
+[Event "Stony Point,NC"]
+[Site "Stony Point,NC"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Wall, Steven"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "2d1b1806"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. Nc3 d5 2. d4 c5 3. dxc5 e6 4. Nf3 Bxc5 5. e4 d4 6. Nb5 Qa5+ 7. c3 dxc3 8.
+Nxc3 a6 9. Bd2 Qd8 10. Rc1 Bb4 11. Qa4+ Nc6 12. Bb5 Bd7 13. Bxc6 Bxc3 14. Bxd7+
+Qxd7 15. Qxd7+ Kxd7 16. Rxc3 1-0

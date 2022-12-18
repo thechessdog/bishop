@@ -1,0 +1,18 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Offert, D."]
+[Black "Meyer, D."]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "2ad0dd70"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. h4 Qa5 11. Bb3 Rfc8 12. h5 Nxh5 13. g4 Nf6 14. O-O-O
+Ne5 15. Qh2 Rxc3 16. Bd2 Rac8 17. Kb1 b5 18. Bxc3 b4 19. Bd2 Qb6 20. Be3
+Qb8 21. Nf5 gxf5 22. gxf5 e6 23. Rdg1 Ng6 24. fxg6 fxg6 25. Bd4 1-0
+

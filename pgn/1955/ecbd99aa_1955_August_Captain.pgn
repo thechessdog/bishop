@@ -1,0 +1,20 @@
+[Event "Altshuler"]
+[Site "Altshuler"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "August Kulberg"]
+[Black "Captain Shirkov"]
+[Result "0-1"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, 5.de"]
+[HashCode "ecbd99aa"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7. Qe2 O-O
+8. Qxe4 Re8 9. Ne5 f6 10. b4 Bb6 11. Bb2 Nd7 12. Bd3 g6 13. Nd2 fxe5 14.
+O-O-O Nf6 15. Qc4 Nxd5 16. Qb3 Be6 17. Bc4 c6 18. Bxe5 a5 19. a3 Qe7 20.
+Rde1 axb4 21. a4 Bc7 22. Bxc7 Qxc7 23. Rhf1 b5 24. axb5 Ra3 25. Qb2 Ne3 26.
+Qxb4 Ra1+ 27. Kb2 Qg7+ 28. c3 Qd7 29. Bxe6+ Rxe6 30. Nf3 Ra5 31. c4 Qd8 32.
+Qc3 Qa8 33. Nd4 Ra2+ 34. Kb1 Ra3 35. Nb3 Qa4 36. Nc5 Ra1+ 37. Kb2 Qa2# 0-1
+

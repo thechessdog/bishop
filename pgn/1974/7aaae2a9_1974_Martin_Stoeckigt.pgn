@@ -1,0 +1,14 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Martin, Pedro"]
+[Black "Stoeckigt"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "7aaae2a9"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 h6 5. Bf4 c5 6. b4 cxd4 7. Qxd4 g5 8.
+Bg3 Bg7 9. e4 dxe4 10. Qc4 Nb6 0-1

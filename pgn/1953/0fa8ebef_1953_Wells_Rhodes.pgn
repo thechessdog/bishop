@@ -1,0 +1,20 @@
+[Event "England"]
+[Site "England"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Wells, HD."]
+[Black "Rhodes, H."]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "0fa8ebef"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Qxd4
+Qxd4 8. Nxd4 Bd6 9. Be3 Ne7 10. f4 Ng6 11. O-O Bd7 12. Rae1 O-O-O 13. Nce2
+c5 14. Nb3 Bb5 15. Nxc5 Bxc5 16. Bxc5 Rd2 17. Rf2 Rxc2 18. Be3 Rxb2 19. Nd4
+Rxf2 20. Kxf2 Bd7 21. Kf3 Re8 22. g3 b6 23. Bf2 c5 24. Rc1 Ne7 25. Rc4 Kb7
+26. Nb3 Bc6 27. a4 f5 28. a5 Bxe4+ 29. Ke2 Bd5 30. Rc3 Bxb3 31. Rxb3 Nc6+
+32. Kd3 c4+ 0-1
+

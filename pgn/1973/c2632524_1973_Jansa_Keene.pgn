@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1973.07.01"]
+[Round "1"]
+[White "Jansa, Vlastimil"]
+[Black "Keene, Raymond D"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "c2632524"]
+[Epoch "Bishop"]
+[WhiteID "300128"]
+[BlackID "400211"]
+[WhiteCountry "CZE"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. Bg5 b6 3. Bxf6 exf6 4. e3 Bb7 5. Nd2 g6 6. Ngf3 f5 7. c3 Bg7 8.
+Bd3 O-O 9. O-O d6 10. a4 Nd7 11. a5 Nf6 12. Qa4 Qe7 13. a6 Bc8 14. Bb5 c5 15.
+Rad1 Be6 16. Nc4 d5 17. Nce5 c4 18. b3 Ne4 19. Rc1 cxb3 20. Nc6 1/2-1/2

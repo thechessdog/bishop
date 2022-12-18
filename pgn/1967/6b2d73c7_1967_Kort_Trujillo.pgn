@@ -1,0 +1,18 @@
+[Event "Harrachov"]
+[Site "Harrachov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kort, Jacob"]
+[Black "Trujillo, Omar"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "6b2d73c7"]
+[Epoch "Bishop"]
+[BlackID "2009153"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. Bc4 Bg7 6. O-O Nc6 7. c3 h6 8. g3
+Nge7 9. gxf4 gxf4 10. Bxf4 Bh3 11. Re1 Qd7 12. Nbd2 O-O-O 13. Kh1 Rhg8 14. Bg3
+d5 15. exd5 Nxd5 1-0

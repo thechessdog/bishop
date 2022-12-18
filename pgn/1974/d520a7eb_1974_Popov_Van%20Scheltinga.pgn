@@ -1,0 +1,19 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1974.01.01"]
+[Round "3"]
+[White "Popov, Luben"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "1-0"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[HashCode "d520a7eb"]
+[Epoch "Bishop"]
+[WhiteID "2900173"]
+[WhiteCountry "FID"]
+[BlackCountry "NLD"]
+
+1. c4 e6 2. Nf3 d5 3. g3 dxc4 4. Qa4+ Nd7 5. Qxc4 c5 6. Bg2 Ngf6 7. O-O Be7 8.
+Rd1 Nd5 9. d4 N7b6 10. Qb3 Bd7 11. Nc3 Nxc3 12. Qxc3 Nd5 13. Qd3 Qb6 14. e4 Bb5
+15. Qb1 Ba4 16. Rd2 Nc7 17. d5 O-O 18. b3 Bb5 19. a4 Ba6 20. a5 1-0

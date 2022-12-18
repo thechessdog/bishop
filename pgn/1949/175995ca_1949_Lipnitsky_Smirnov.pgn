@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Lipnitsky, Isaak"]
+[Black "Smirnov, Valerij"]
+[Result "1-0"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Alapin variation"]
+[HashCode "175995ca"]
+[Epoch "Bishop"]
+[BlackID "13500350"]
+[BlackCountry "BLR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. c4 g6 8. Nc3
+Nh6 9. dxe5 fxe5 10. Bg5 Qd7 11. Bf6 Bg7 12. Nxe5 1-0

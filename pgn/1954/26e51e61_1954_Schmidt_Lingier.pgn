@@ -1,0 +1,17 @@
+[Event "corr BEL-BRD"]
+[Site "corr BEL-BRD"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Schmidt, Jan Peter"]
+[Black "Lingier, C."]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 6...Nc6"]
+[HashCode "26e51e61"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Nf3 Bf5 8. Be3
+e6 9. Nc3 Qd7 10. Be2 O-O-O 11. O-O f6 12. d5 Qf7 13. Qb3 exd5 14. Bxb6 axb6
+15. cxd5 Nb4 16. e6 Bc5+ 17. Kh1 Qe7 18. a3 Nc2 19. Rac1 Ne3 20. Qa4 c6 21. b4
+Nxf1 22. Bxf1 b5 23. Bxb5 Kb8 24. bxc5 cxd5 25. Bd7 Bxe6 26. Nb5 1-0

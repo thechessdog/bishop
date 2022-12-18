@@ -1,0 +1,20 @@
+[Event "corr FSM/SU tt"]
+[Site "corr FSM/SU tt"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Klompus, G."]
+[Black "Gabrans, Harijs"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "a2f36e9b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8.
+c3 d6 9. a4 Bg4 10. h3 Bd7 11. d4 exd4 12. cxd4 Na5 13. Bc2 c6 14. Qd3 g6
+15. Bh6 Re8 16. Nbd2 d5 17. Ne5 dxe4 18. Nxe4 Bf5 19. f3 c5 20. axb5 axb5
+21. b4 c4 22. Qd1 Bxb4 23. Rxa5 Bxa5 24. Nc6 Nxe4 25. Nxd8 Nc3 26. Re1
+Rexd8 27. Qc1 Bxc2 28. Qg5 Bb6 29. Kh2 Bxd4 30. Qf4 Bh8 31. Re7 Bf5 32. Rb7
+Re8 0-1
+

@@ -1,0 +1,19 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Gasser"]
+[Black "Bessenay"]
+[Result "1-0"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "d0a0bd69"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 Nf6 12. f3 Bd6 13. Re2 g5 14. d4
+g4 15. Bh6 Nh5 16. Bxf8 Bxh2+ 17. Kxh2 Qh4+ 18. Kg1 g3 19. Re4 Qh2+ 20. Kf1
+Qh1+ 21. Ke2 Qxg2+ 22. Kd3 Bf5 23. Bh6 c5 24. Nd2 c4+ 25. Kc2 Nf6 26. Qh1
+Bxe4+ 27. fxe4 1-0
+

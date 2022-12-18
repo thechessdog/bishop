@@ -1,0 +1,21 @@
+[Event "Netanya"]
+[Site "Netanya"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Damjanovic, Mato"]
+[Black "Domnitz, Zadok"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "1d4fa074"]
+[Epoch "Bishop"]
+[BlackID "2800756"]
+[BlackCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Nf5 g6 12. Nxe7+ Qxe7 13. f4 Be6 14. b3 Bxc4
+15. bxc4 Nd7 16. fxe5 fxe5 17. Bh6 Rxf1+ 18. Qxf1 b5 19. cxb5 axb5 20. Qf3 Qe6
+21. Rf1 b4 22. h4 c5 23. Rf2 Re8 24. g3 Qe7 25. Kg2 Nf8 26. Qd1 Qe6 27. Qf3 Qe7
+28. Qd1 Qe6 29. c3 bxc3 30. Qc1 c4 31. Qxc3 cxd3 32. Qxd3 c5 33. Qb5 Nd7 34.
+Qb7 c4 35. Rd2 Rd8 36. Qc7 1-0

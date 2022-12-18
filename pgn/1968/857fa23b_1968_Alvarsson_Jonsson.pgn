@@ -1,0 +1,16 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Alvarsson"]
+[Black "Jonsson, Johannes G"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "857fa23b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. d4 d5 6. Bxd5 Nxd4 7. Nxf7 Qe7 8.
+Nxh8 Bg4 9. f3 Nxd5 10. fxg4 Qh4+ 11. Kd2 Qf2+ 12. Kd3 Nb4+ 13. Kc3 O-O-O 14.
+Nd2 Qe3+ 15. Kc4 b5+ 16. Kxc5 Na6# 0-1

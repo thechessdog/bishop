@@ -1,0 +1,22 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wason"]
+[Black "Schportko"]
+[Result "1/2-1/2"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "ac99c074"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Be7 10. d5 Nb4 11. Nd4 Bg6 12. a3 c5 13. axb4 cxd4 14. Bxd4
+Bxb4 15. h4 O-O 16. Qg4 exd5 17. h5 Be4 18. e6 f6 19. Rh3 Qe7 20. Rg3 Bd6
+21. Nxe4 dxe4 22. Rb3 f5 23. Qh3 Bb4+ 24. Kf2 Bc5 25. Bxc5 Qxc5+ 26. Qe3
+Qe5 27. Rb5 Qc7 28. c5 Nd5 29. Qd4 Rfd8 30. Bc4 Ne7 31. Qe3 a6 32. Rba5 Qe5
+33. c6 Qxb2+ 34. Kg1 Rac8 35. R5a2 Qe5 36. cxb7 Rxc4 37. Rxa6 h6 38. Ra8
+Kh7 39. Qa7 Nc6 40. Rxd8 Nxa7 41. b8=Q Qxa1+ 42. Kh2 Rc8 43. Rxc8 Nxc8 44.
+Qxc8 Qe5+ 45. Kg1 e3 46. Qe8 Qg3 1/2-1/2
+

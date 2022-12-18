@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Shishmarev, V."]
+[Black "Korelov, S."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "e1cafb83"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qe7 6. d4 f6 7. b3 exd4
+8. Qxd4 Qc5 9. Qd3 Qh5 10. Bf4 Qf7 11. e5 f5 12. e6 Qe7 13. Ng5 Nh6 14. Re1
+g6 15. Nf7 1-0
+

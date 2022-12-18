@@ -1,0 +1,15 @@
+[Event "Torremolinos rapid"]
+[Site "Torremolinos rapid"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Sanchez"]
+[Black "Bellon Lopez, Juan Manuel"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "e73fd835"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. Nc3 c6 5. e3 b5 6. a4 Bd7 7. Ne5 e6 8. axb5
+cxb5 9. Qf3 Nd5 10. Qxf7# 1-0

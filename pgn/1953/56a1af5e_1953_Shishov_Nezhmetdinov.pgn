@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Shishov, Mikhail"]
+[Black "Nezhmetdinov, Rashid"]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "56a1af5e"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. d4 Bg4 10. h3 Bxf3 11. Qxf3 exd4 12. Qd1 dxc3 13. Nxc3 Na5 14. Bc2 c5 15.
+f4 Nc6 16. Be3 Rc8 17. Kh2 Re8 18. a3 Bf8 19. Bf2 g6 20. g4 Nd4 21. Bxd4 cxd4
+22. Qxd4 Nxg4+ 23. Kg2 Qh4 24. Bb3 Bg7 25. e5 Nxe5 26. Qe4 Nd3 27. Bxf7+ Kf8
+28. Bxe8 Nxf4+ 29. Kf3 Rc4 30. Bd7 Rxe4 31. Rxe4 Be5 32. Nd5 Qd8 33. Nxf4 Qxd7
+34. h4 Qf7 35. Rae1 Kg7 36. b4 Qf5 37. Rg1 d5 38. Rxe5 Qxe5 39. Rg5 Qe4+ 40.
+Kg3 d4 41. h5 d3 42. hxg6 hxg6 0-1

@@ -1,0 +1,18 @@
+[Event "Hastings5556"]
+[Site "Hastings"]
+[Date "1955.12.01"]
+[Round "1"]
+[White "Fuller, John A"]
+[Black "Persitz, Raaphi"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, normal variation"]
+[HashCode "ebf55479"]
+[Epoch "Bishop"]
+[BlackID "1300199"]
+[BlackCountry "SUI"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 Nc6 6. Bg5 e6 7. Nf3 Be7 8. Rc1
+O-O 9. c5 Ne4 10. Bxe7 Qxe7 11. Be2 Nxc3 12. Rxc3 e5 13. dxe5 d4 14. Nxd4 Rd8
+15. Rd3 Nxe5 16. Rd2 Bg4 17. O-O Bxe2 18. Qxe2 Qxc5 19. Nb3 1/2-1/2

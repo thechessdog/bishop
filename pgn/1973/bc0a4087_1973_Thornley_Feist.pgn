@@ -1,0 +1,16 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Thornley, J."]
+[Black "Feist, Joachim"]
+[Result "1-0"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "bc0a4087"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+a6 9. Bc4 Qc7 10. Bb3 Na5 11. h4 Nxb3 12. axb3 h5 13. Bg5 e6 14. O-O-O Nd7 15.
+Nde2 Bf8 16. Qd4 Rg8 17. Rhe1 e5 18. Nd5 Qb8 19. Qc4 1-0

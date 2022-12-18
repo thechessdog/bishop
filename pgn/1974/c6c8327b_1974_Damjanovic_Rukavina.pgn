@@ -1,0 +1,18 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1974.09.01"]
+[Round "3"]
+[White "Damjanovic, Mato"]
+[Black "Rukavina, Josip"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "c6c8327b"]
+[Epoch "Bishop"]
+[BlackID "14500191"]
+[BlackCountry "CRO"]
+[WhiteCountry "HRV"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 Nd7 8.
+d3 O-O 9. Nbd2 f6 10. Nc4 Nc5 11. Be3 Ne6 12. Rd1 c5 13. c3 Qe8 1/2-1/2

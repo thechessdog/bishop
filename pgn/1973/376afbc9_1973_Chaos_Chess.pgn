@@ -1,0 +1,19 @@
+[Event "ACM Atlanta"]
+[Site "ACM Atlanta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Chaos"]
+[Black "Chess 4 0"]
+[Result "0-1"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, 8...Bb7"]
+[HashCode "376afbc9"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8.
+Bb3 Bb7 9. Nc3 Nbd7 10. Bd2 Bd6 11. Rfe1 cxd4 12. exd4 O-O 13. Bg5 Qb6 14.
+Bc2 Bxf3 15. Qxf3 Qxd4 16. Rad1 Qb4 17. g3 Qxb2 18. Re2 Qa3 19. Qc6 Bb4 20.
+Rxd7 Rac8 21. Rc7 Rxc7 22. Qxc7 Qxc3 23. Qb7 Qc4 24. Bd1 Rd8 25. Re5 Rxd1+
+26. Kg2 Qf1+ 27. Kf3 Qh1+ 28. Ke2 Re1+ 29. Kd3 Qf1+ 30. Kd4 Qc4# 0-1
+

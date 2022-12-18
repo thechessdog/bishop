@@ -1,0 +1,19 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Amsterdam"]
+[Black "New York"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "b2663d8f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Nxc3
+8. bxc3 Bf8 9. Bd3 d6 10. f4 g6 11. h4 dxe5 12. fxe5 Bg7 13. h5 Bxe5 14.
+Qg4 Nc6 15. Nxc6 bxc6 16. hxg6 hxg6 17. Rxh8+ Bxh8 18. Ke2 Qd5 19. Rh1 Bf6
+20. Rf1 e5 21. Qg3 Qe6 22. Be4 Ba6+ 23. Bd3 Bc4 24. Kd1 Bg7 25. Qh4 Bxd3
+26. cxd3 Rb8 27. c4 Rb1+ 28. Bc1 Ra1 29. a3 Qd6 30. Qh3 f5 31. Kc2 e4 0-1
+

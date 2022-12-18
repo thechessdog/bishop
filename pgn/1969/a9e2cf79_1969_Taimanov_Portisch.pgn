@@ -1,0 +1,21 @@
+[Event "Zalaegerszeg"]
+[Site "Zalaegerszeg"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Portisch, Ferenc"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "a9e2cf79"]
+[Epoch "Bishop"]
+[BlackID "700487"]
+[WhiteCountry "RUS"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 Ne8 10. b4 f5 11. c5 a5 12. Ba3 axb4 13. Bxb4 dxc5 14. Bxc5 b6 15.
+Bb4 Nd6 16. Nc4 fxe4 17. Nxd6 cxd6 18. Nxe4 Nf5 19. Re1 Qh4 20. Bf1 Rd8 21. a3
+Bb7 22. Rc1 Qe7 23. Bb5 Bh6 24. Rc3 Nd4 25. Bc6 Bxc6 26. dxc6 Rac8 27. Rc4 Bg7
+28. Rxd4 exd4 29. Nxd6 Qxd6 30. Bxd6 Rxd6 31. Qb3+ Kh8 32. Qf7 1-0

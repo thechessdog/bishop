@@ -1,0 +1,17 @@
+[Event "URS simul"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Neishtadt, Yakov Isaevich"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "f5996248"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nxe4 5. Qxd4 Nf6 6. Bg5 Be7 7. Nc3
+O-O 8. O-O-O Nc6 9. Qh4 d6 10. Bd3 h6 11. Bxh6 gxh6 12. Qxh6 Nb4 13. Ng5
+Nxd3+ 14. Rxd3 Bf5 15. Rg3 Bg6 16. Ne6 1-0
+

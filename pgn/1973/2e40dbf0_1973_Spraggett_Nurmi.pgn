@@ -1,0 +1,21 @@
+[Event "Montreal-Toronto"]
+[Site "Montreal-Toronto"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Nurmi, Peter"]
+[Result "1/2-1/2"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "2e40dbf0"]
+[Epoch "Bishop"]
+[BlackID "2600480"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Qe1 Nxd4 11. Rxd4 Qb6 12. Rd2 Rc8 13. e5 Rxc3 14. bxc3
+dxe5 15. Qxe5 Ba3+ 16. Kd1 Qb1+ 17. Ke2 Bb5+ 18. Kf3 Bc6+ 19. Kg3 O-O 20. Bxf6
+gxf6 21. Qxf6 Qe1+ 22. Rf2 Qe3+ 23. Rf3 Bxf3 24. Qg5+ Kh8 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Swansea ch-WLS"]
+[Site "Swansea ch-WLS"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Williams, G."]
+[Black "Minty, W."]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "cc216e90"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. e3 e6 3. Be2 c5 4. c3 Nc6 5. Nd2 cxd4 6. cxd4 Bb4 7. a3 Bxd2+
+8. Bxd2 d5 9. Nf3 a6 10. O-O b5 11. b4 O-O 12. Bd3 Bb7 13. Qc2 Rc8 14. Bc3
+Re8 15. Ng5 g6 16. f4 Ne7 17. Rac1 Nf5 18. Qd2 h6 19. Nf3 Ne4 20. Bxe4 dxe4
+21. Ne5 h5 22. Qe2 Kg7 23. g4 hxg4 24. Qxg4 Nxe3 25. Qe2 Nxf1 26. Qxf1 Qd5
+27. Qg2 e3 28. Qxd5 Bxd5 29. Kf1 Rh8 30. Ng4 Rh3 31. Kg1 e2 32. Re1 Rhxc3
+33. Rxe2 Rc1+ 34. Kf2 R8c2 35. Ne5 Rxe2+ 36. Kxe2 Rc2+ 37. Kd3 Rxh2 38. Nd7
+Rh3+ 39. Kd2 Rxa3 40. Nc5 Rf3 41. Nxa6 Rxf4 42. Ke3 Re4+ 43. Kd3 Rh4 44.
+Nc7 Bc4+ 45. Ke3 g5 46. Ne8+ Kg6 47. Nd6 g4 48. Nxc4 bxc4 49. b5 g3 50. b6
+g2 0-1
+

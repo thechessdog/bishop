@@ -1,0 +1,21 @@
+[Event "La Spezia"]
+[Site "La Spezia"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Kicovic"]
+[Black "Cambi"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "4b1531a5"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 d4 6. Ne2 e5 7. Qb3 Qb6 8.
+f4 Qxb3 9. axb3 f6 10. fxe5 fxe5 11. d3 c5 12. Ng1 Nc6 13. Bd2 Nf6 14. g4
+Be7 15. g5 Nh5 16. Be2 Ng3 17. Rh2 Nxe2 18. Nxe2 h6 19. O-O-O hxg5 20. Rg1
+Nd8 21. Bxg5 Ne6 22. Bd2 Bf6 23. b4 cxb4 24. Bxb4 a5 25. Bd2 Kd7 26. c4
+Rhc8 27. b3 b5 28. Kb2 Nc5 29. Nc1 Rcb8 30. Ka2 b4 31. Bg5 a4 32. Bxf6
+axb3+ 33. Kb2 gxf6 34. Rg7+ Ke6 35. Rc7 Nxd3+ 36. Nxd3 Ra2+ 37. Kxb3 Rxh2
+38. Nxb4 Rxh3+ 39. Ka4 Rh1 40. Ka3 Rb1 0-1
+

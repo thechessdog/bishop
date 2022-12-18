@@ -1,0 +1,20 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Flesser"]
+[Black "Guyman"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Herman Steiner variation"]
+[HashCode "4a6ba4ad"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8.
+c3 d5 9. exd5 e4 10. Ng5 Bg4 11. Qc2 Ne5 12. Nxe4 Nxe4 13. Qxe4 Bd6 14. f4
+f5 15. Qd4 Qh4 16. Rf1 Rae8 17. Bd1 Nd7 18. g3 Qh5 19. Bxg4 fxg4 20. Qf2
+Rf7 21. Re1 Ne5 22. Re3 Ref8 23. d4 Nf3+ 24. Kh1 Bxf4 25. gxf4 Rxf4 26. Re5
+Nxe5 27. Bxf4 Nd3 28. Qg2 Nxf4 29. Qe4 g3 30. Qc2 g2+ 31. Kg1 Nh3+ 32. Kxg2
+Qf3# 0-1
+

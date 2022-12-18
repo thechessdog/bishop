@@ -1,0 +1,19 @@
+[Event "New Mexico"]
+[Site "New Mexico"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Holder"]
+[Black "Barry"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "2d650a42"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nf6 6. Bc4 Nc6 7. Nb3 e6 8.
+O-O Be7 9. Bd3 b5 10. Qf3 Ne5 11. Qe2 O-O 12. f4 Nxd3 13. cxd3 Bb7 14. e5
+Ne8 15. f5 exf5 16. Rxf5 Qd7 17. e6 fxe6 18. Rxf8+ Bxf8 19. Nd4 e5 20. Nf3
+Nf6 21. Ne4 Nd5 22. Qf2 Rc8 23. Qg3 Be7 24. Bg5 Bxg5 25. Qxg5 Kh8 26. Rc1
+Rf8 27. Rf1 Nf4 28. Nxe5 Ne2+ 0-1
+

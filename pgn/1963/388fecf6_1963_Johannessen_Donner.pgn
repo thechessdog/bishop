@@ -1,0 +1,22 @@
+[Event "Halle zt"]
+[Site "Halle zt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Johannessen, Svein"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "388fecf6"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "NOR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 Nc6 7. g4 d5 8. Bg2
+dxe4 9. Nxc6 Qxd1+ 10. Nxd1 bxc6 11. Nc3 Bb7 12. Nxe4 Nxe4 13. Bxe4 O-O-O 14.
+Be3 g6 15. Ke2 Bg7 16. c3 Kc7 17. Rad1 Bc8 18. f3 Be6 19. Bc5 Bd5 20. Bd3 Rd7
+21. c4 Be6 22. b3 Rhd8 23. Bc2 Bd4 24. Bxd4 Rxd4 25. Rxd4 Rxd4 26. Rd1 Rxd1 27.
+Bxd1 Kd6 28. Ke3 g5 29. Bc2 h6 30. Kd4 c5+ 31. Ke3 Ke5 32. Be4 a5 33. Bd3 f5
+34. Bc2 Bd7 35. Bb1 e6 36. Bc2 Be8 37. Bd3 f4+ 38. Kd2 Bc6 39. Be2 Kd4 40. Bd1
+e5 0-1

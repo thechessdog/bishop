@@ -1,0 +1,23 @@
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Clarke"]
+[Black "O'Kelly"]
+[Result "0-1"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical, Metger unpin"]
+[HashCode "08bc2981"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3
+8. bxc3 Qe7 9. Bxc6 bxc6 10. h3 h6 11. Be3 Re8 12. Re1 Nd7 13. Nd2 Nf8 14.
+Qf3 Ng6 15. Nf1 Bd7 16. Ng3 Rab8 17. Rab1 c5 18. Rec1 Qe6 19. c4 Ba4 20.
+Qd1 Nh4 21. Rxb8 Rxb8 22. Rb1 Rb6 23. Bd2 f5 24. Rxb6 axb6 25. Qh5 f4 26.
+Qxh4 g5 27. Qh5 fxg3 28. fxg3 Bxc2 29. Qe2 Ba4 30. Kh2 Kg7 31. Bc3 Kf8 32.
+Bd2 Ke7 33. Be3 Kd7 34. Qd2 Kc8 35. Kg1 g4 36. Bxh6 gxh3 37. Bg5 Qg4 38.
+Bh4 Qd1+ 39. Qxd1 h2+ 40. Kxh2 Bxd1 41. Kg1 Be2 42. Kf2 Bxd3 43. Ke3 Bxc4
+44. a3 Be6 45. Bg5 b5 46. Kd2 b4 47. a4 c4 48. a5 Bf7 49. a6 Bg6 50. Kc2
+Bxe4+ 51. Kd2 Bxg2 0-1
+

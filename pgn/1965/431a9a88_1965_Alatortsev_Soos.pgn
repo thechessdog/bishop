@@ -1,0 +1,28 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Alatortsev, Vladimir Alexeyevich"]
+[Black "Soos, Bela"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "431a9a88"]
+[Epoch "Bishop"]
+[WhiteID "34280375"]
+[WhiteCountry "RUS"]
+[BlackID "4601670"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. h3 a6 12. a4 Rb8 13. a5 b5 14. axb6 Nxb6 15. Qc2
+Qc7 16. Nb3 c4 17. Na5 Bd7 18. Be3 Bb5 19. Ra2 Nfd7 20. Nxb5 axb5 21. Nc6 Rb7
+22. b3 cxb3 23. Qxb3 Na4 24. f3 Nc3 25. Rc2 Nxe2+ 26. Rxe2 Ne5 27. Rc2 Nc4 28.
+Bf2 Qd7 29. Rb1 Rc7 30. Qa2 Ne5 31. Qa6 Rec8 32. Rbc1 Nd3 33. Rb1 Ne5 34. Bb6
+Nxc6 35. Qxb5 Na7 36. Qxd7 Rxd7 37. Rxc8+ Nxc8 38. Be3 Rd8 39. Rb8 Re8 40. Kf2
+Kf8 41. Ke2 f5 42. Kd3 fxe4+ 43. fxe4 Be5 44. Bh6+ Kf7 45. Bg5 Bf6 46. Bf4 g5
+47. Be3 Ne7 48. Rb7 Kg6 49. Rd7 Be5 50. Bd2 Ng8 51. Bb4 Nf6 52. Rb7 Bf4 53. Bc3
+Rxe4 54. Bxf6 Re3+ 55. Kd4 Kxf6 56. Rxh7 Rg3 57. Ke4 Re3+ 58. Kd4 Kg6 59. Rc7
+Re2 60. g4 Be5+ 61. Kd3 Rh2 62. Re7 Rxh3+ 63. Ke4 Rh1 64. Re6+ Kf7 65. Kf5 Rf1+
+66. Kxg5 Bf6+ 0-1

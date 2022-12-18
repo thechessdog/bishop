@@ -1,0 +1,19 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Tolush, Alexander"]
+[Black "Mititelu, Gheorghe"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "0dc017e8"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bd2 O-O 6. e3 d5 7. Nf3 c6 8. Bd3
+Nbd7 9. Qc2 Bd6 10. cxd5 exd5 11. h3 c5 12. O-O-O Re8 13. g4 c4 14. Bf5 Nf8 15.
+g5 hxg5 16. Nxg5 Bxf5 17. Qxf5 Qd7 18. Qf3 Bc7 19. Rdg1 b5 20. Qxf6 gxf6 21.
+Nge4+ 1-0

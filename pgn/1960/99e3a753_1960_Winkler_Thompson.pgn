@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Winkler, Bernard"]
+[Black "Thompson, Mark"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Tartakower variation"]
+[HashCode "99e3a753"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Nxe4 Bxg5 7. Nxg5 Qxg5
+8. Nf3 Qe7 9. Bd3 Qb4+ 10. Qd2 Qxb2 11. O-O h6 12. a3 Qb6 13. Rfb1 Qc6 14.
+Bb5 1-0
+

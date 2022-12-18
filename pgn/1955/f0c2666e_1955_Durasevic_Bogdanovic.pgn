@@ -1,0 +1,21 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1955.01.01"]
+[Round "7"]
+[White "Durasevic, Bozidar"]
+[Black "Bogdanovic, Rajko"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "f0c2666e"]
+[Epoch "Bishop"]
+[BlackID "14400316"]
+[BlackCountry "BIH"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Nbd7 9. O-O O-O 10. a4 b6 11. Bc4 Bb7 12. Qd3 Qc7 13. Rfd1 Rfc8 14. Nd2 Nc5 15.
+Bxc5 Qxc5 16. Bb3 Rd8 17. Nf1 b5 18. axb5 axb5 19. Ne3 b4 20. Ncd5 Bxd5 21.
+Bxd5 Rxa1 22. Rxa1 Rb8 23. g3 g6 24. Qa6 Bd8 25. Qa7 Qxa7 26. Rxa7 Bb6 27. Ra6
+Bxe3 28. fxe3 Rc8 29. Bc6 Ng4 30. Bd7 1-0

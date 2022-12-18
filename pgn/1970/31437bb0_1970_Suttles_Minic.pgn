@@ -1,0 +1,29 @@
+[Event "FIDE (28) 1970-1972"]
+[Site "Palma de Mallorca izt"]
+[Date "1970.11.01"]
+[Round "1"]
+[White "Suttles, Duncan"]
+[Black "Minic, Dragoljub"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "31437bb0"]
+[Epoch "Bishop"]
+[WhiteID "2600056"]
+[WhiteCountry "CAN"]
+
+1. g3 g6 2. Bg2 Bg7 3. d3 c5 4. Nc3 Nc6 5. e4 d6 6. Be3 e5 7. Qd2 Rb8 8. Nge2
+Nge7 9. O-O O-O 10. Rae1 b5 11. Kh1 b4 12. Nd1 Nd4 13. f4 Be6 14. Nc1 Qc7 15.
+fxe5 dxe5 16. c3 bxc3 17. bxc3 Nb5 18. Nb3 c4 19. Nc5 Bc8 20. dxc4 Na3 21. Qe2
+Rb6 22. Nb2 Bg4 23. Qf2 Rf6 24. Qg1 Nc2 25. Rxf6 Nxe1 26. Rf2 Nxg2 27. Qxg2 Bc8
+28. Nbd3 a5 29. Rb2 f5 30. exf5 gxf5 31. Rb1 Kh8 32. Bf2 Ng6 33. Rg1 Rd8 34.
+Rd1 Bf8 35. Qf1 Qc6+ 36. Qg2 e4 37. Bd4+ Kg8 38. Nb3 a4 39. Nd2 Bb7 40. Ne1 Bg7
+41. Nf1 f4 42. gxf4 Rxd4 43. cxd4 Nxf4 44. Qg4 Qxc4 45. Ne3 Qf7 46. Rd2 h5 47.
+Qg3 Nd3 48. Kg1 Kh7 49. Nxd3 exd3 50. d5 Bd4 51. Rxd3 Qxd5 52. Qc7+ Kh8 53.
+Rxd4 Qh1+ 54. Kf2 Qf3+ 55. Ke1 Qxe3+ 56. Kf1 Qf3+ 57. Ke1 Qe3+ 58. Kf1 Ba6+ 59.
+Rd3 Qxd3+ 60. Kf2 Qc4 61. Qe5+ Kg8 62. Qg5+ Kf8 63. Qd8+ Kf7 64. Qd7+ Kf6 65.
+Qd8+ Kf5 66. Qf8+ Ke5 67. Qh8+ Kd6 68. Qf8+ Kc7 69. Qe7+ Kb6 70. Qd8+ Ka7 71.
+Qe7+ Bb7 72. Qe3+ Ka6 73. Qh6+ Bc6 74. Qxh5 Qxa2+ 75. Ke1 a3 76. Qc5 Qe6+ 77.
+Kd2 a2 78. Qa3+ Kb7 79. Qb4+ Kc8 80. Qc3 Kd7 81. Kc1 Bd5 82. Qg7+ Kc6 83. Qc3+
+Kb5 84. h4 Qe4 85. Qb2+ Ka4 86. Kd2 Qb4+ 87. Kc2 Be4+ 0-1

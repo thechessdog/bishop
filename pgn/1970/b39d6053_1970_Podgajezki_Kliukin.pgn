@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Podgajezki"]
+[Black "Kliukin, B."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "b39d6053"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Bc4 d6 6. Nf3 e6 7. O-O Nge7
+8. Ng5 Ng6 9. f4 Be7 10. Nf3 Nh4 11. Be3 Nxf3+ 12. Qxf3 a6 13. Rad1 Qc7 14.
+Qg3 Bf6 15. e5 dxe5 16. Ne4 Bd7 17. Nd6+ Kf8 18. Bc5 Nd4 19. b4 Be7 20.
+fxe5 Nf5 21. Qf2 b5 22. Nxf7 Rg8 23. Rxd7 Qxd7 24. Ng5 g6 25. Bxe6 Bxc5 26.
+Qxc5+ Qe7 27. Rxf5+ gxf5 28. Nxh7+ Ke8 29. Nf6+ Kf8 30. Bxg8 1-0
+

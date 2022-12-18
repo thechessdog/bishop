@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Zagni, Eduardo"]
+[Black "Green, Daniel P."]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "2de5b15d"]
+[Epoch "Bishop"]
+[WhiteID "102725"]
+[BlackID "102032"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 Bxc3+ 7. bxc3 d6 8.
+O-O Nc6 9. e4 e5 10. d5 Ne7 11. Bg5 Ng6 12. Qd2 h6 13. Bxf6 Qxf6 14. Rab1 b6
+15. a4 Nf4 16. Bc2 Bh3 17. Ne1 Bxg2 18. Nxg2 Qg5 0-1

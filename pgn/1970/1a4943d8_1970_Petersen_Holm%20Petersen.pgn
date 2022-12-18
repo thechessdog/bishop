@@ -1,0 +1,18 @@
+[Event "Rasmus mem"]
+[Site "Randers"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "Petersen, Bent Wester"]
+[Black "Holm Petersen, Sejer"]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "1a4943d8"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Be2 Re8 10. e5 Nfd7 11. exd6 a6 12. a4 Nf6 13. O-O Qxd6 14. Ne5 Qd8 15.
+a5 Nbd7 16. Nc4 Ne4 17. Nxe4 Rxe4 18. Qc2 Bd4+ 19. Kh1 Nf6 20. Bd3 Re8 21. Nb6
+Ng4 22. Nxa8 Nxh2 23. Rg1 Ng4 24. g3 Qxd5+ 0-1

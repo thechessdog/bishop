@@ -1,0 +1,19 @@
+[Event "Pan American"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "10"]
+[White "Juarez, Carlos Eleodoro"]
+[Black "Hernandez, Roman"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "36f79a14"]
+[Epoch "Bishop"]
+[WhiteID "100293"]
+[WhiteCountry "ARG"]
+[BlackCountry "CUB"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d6 5. f4 c5 6. d4 Qc7 7. Nf3 Bg4 8. h3
+Bxf3 9. Qxf3 e6 10. Bb5+ Nc6 11. O-O a6 12. Bxc6+ bxc6 13. f5 cxd4 14. fxe6
+fxe6 15. Qg4 Qd7 16. cxd4 d5 17. Bg5 Be7 18. Rab1 g6 19. Bxe7 Qxe7 20. Rf6 1-0

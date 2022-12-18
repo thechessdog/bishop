@@ -1,0 +1,17 @@
+[Event "Tacoma,WA"]
+[Site "Tacoma,WA"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Wall, W."]
+[Result "1-0"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[HashCode "4510a790"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. Nf3 Nf6 2. g3 e6 3. Bg2 d5 4. O-O Be7 5. c4 O-O 6. b3 dxc4 7. bxc4 c5 8. Bb2
+Bd7 9. Nc3 Nc6 10. a3 Qc7 11. Qc2 b6 12. Ng5 h6 13. Nb5 Qb7 14. Bxf6 hxg5 15.
+Bxe7 Rfb8 16. Be4 a6 17. Nd6 Qc7 18. Bh7+ Kh8 19. Nxf7# 1-0

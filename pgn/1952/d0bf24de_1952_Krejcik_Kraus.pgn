@@ -1,0 +1,16 @@
+[Event "unknown"]
+[Site "unknown"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Krejcik"]
+[Black "Kraus"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "d0bf24de"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 exf4 4. e5 Qe7 5. Qe2 Ng8 6. Nf3 d6 7. Nd5 Qd7 8.
+exd6+ Kd8 9. dxc7+ 1-0
+

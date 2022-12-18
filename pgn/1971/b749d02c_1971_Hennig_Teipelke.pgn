@@ -1,0 +1,18 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Hennig, K."]
+[Black "Teipelke, H."]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "b749d02c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 c5 7. dxc5 Qa5 8.
+cxd5 Nxd5 9. Qxd5 Bxc3+ 10. Bd2 Rd8 11. Qxd8+ Qxd8 12. Bxc3 Nd7 13. b4 a5
+14. O-O axb4 15. Bxb4 Qc7 16. Rfc1 Nf6 17. Bc3 Ne4 18. Be5 Qa5 19. Nd4 Nxc5
+20. Nb3 Nxb3 21. axb3 Qd2 22. Bf1 1-0
+

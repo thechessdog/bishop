@@ -1,0 +1,25 @@
+[Event "Caracas"]
+[Site "Caracas"]
+[Date "1970.06.01"]
+[Round "16"]
+[White "Yepez, Olavo"]
+[Black "Caro, Alberto N"]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "b867b8e7"]
+[Epoch "Bishop"]
+[WhiteID "3600033"]
+[WhiteCountry "ECU"]
+[BlackID "3900134"]
+[BlackCountry "VEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. dxe5 dxe5 14. Nh2 Bf8
+15. Qf3 c5 16. Ndf1 Qb6 17. g4 h6 18. Ne3 g6 19. h4 h5 20. g5 Nh7 21. Rd1 Rad8
+22. Nd5 Bxd5 23. Rxd5 Qe6 24. Be3 Nb6 25. Rxd8 Rxd8 26. b3 Be7 27. Kg2 Kg7 28.
+Qh3 Qc6 29. Nf3 f6 30. gxf6+ Bxf6 31. Kh2 Rd6 32. Rg1 Nd7 33. Qf5 Bg5 34. Rxg5
+Rf6 35. Qh3 Nxg5 36. Bxg5 Re6 37. Nd2 Nf6 38. f3 Re8 39. Nf1 Nh7 40. Bc1 Nf8
+41. Qg3 Qd6 42. Ne3 Kf7 43. Nd5 Ne6 44. f4 exf4 45. Nxf4 Nxf4 46. Bxf4 Qf6 47.
+Bd6 1-0

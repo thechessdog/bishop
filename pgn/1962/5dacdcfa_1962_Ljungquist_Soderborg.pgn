@@ -1,0 +1,23 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Ljungquist, Lennart"]
+[Black "Soderborg, Berndt"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "5dacdcfa"]
+[Epoch "Bishop"]
+[BlackID "1705539"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. c4 Nf6 2. d4 g6 3. Nf3 Bg7 4. Nc3 d5 5. e3 O-O 6. b3 c5 7. Be2 Ne4 8. Nxd5
+e6 9. Nf4 cxd4 10. exd4 Nc6 11. Bb2 Qa5+ 12. Kf1 Qf5 13. Nd3 Rd8 14. Nh4 Qf6
+15. Nf3 Nxd4 16. Bxd4 Rxd4 17. Nxd4 Qxd4 18. Rc1 Bh6 19. Rc2 e5 20. f3 Nc3 21.
+Qe1 Nxe2 22. Qxe2 Bf5 23. Ne1 Rd8 24. Rb2 Bc1 25. g4 Bxg4 26. fxg4 Bxb2 27. Rg1
+Qf4+ 28. Qf3 Qxf3+ 29. Nxf3 Rd1+ 30. Ke2 Rxg1 31. Nxg1 f5 32. gxf5 gxf5 33. Nf3
+Kg7 34. Ng5 Ba3 35. Ne6+ Kf6 36. Nc7 e4 37. b4 Ke5 38. b5 f4 39. Kf1 f3 40. h3
+e3 0-1

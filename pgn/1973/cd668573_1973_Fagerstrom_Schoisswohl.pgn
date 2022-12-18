@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Fagerstrom, R."]
+[Black "Schoisswohl, A."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Sokolsky variation"]
+[HashCode "cd668573"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Nbd2 Nc5 6. Nc4 d5 7. Bg5 Qd7
+8. Ne3 c6 9. Be2 Ne4 10. O-O h6 11. Bf4 g5 12. Bg3 h5 13. Nd4 h4 14. e6
+fxe6 15. Be5 Bg7 16. Bh5+ Kd8 17. Nxe6+ Qxe6 18. Bxg7 Rh7 19. Bg4 Qd6 20.
+f3 Rxg7 21. fxe4 Qc5 22. Kh1 Nd7 23. Nf5 Rg8 24. Nd4 Ne5 25. Be6 Re8 26.
+exd5 cxd5 27. Qd2 Kc7 28. Rf6 Ng4 29. Rf7+ Kb8 30. Bxg4 Bxg4 31. Nb3 Qe3
+32. Qb4 1-0
+

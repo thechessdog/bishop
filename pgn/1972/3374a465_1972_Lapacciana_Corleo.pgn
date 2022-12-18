@@ -1,0 +1,20 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Lapacciana"]
+[Black "Corleo"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "3374a465"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bxf6 Bxc3+ 6. bxc3 Qxf6 7. e3 c5
+8. Bd3 Nc6 9. Ne2 d6 10. Ng3 O-O 11. O-O e5 12. d5 Na5 13. f4 exf4 14. Qc2
+Qe7 15. exf4 f5 16. Nxf5 Bxf5 17. Bxf5 Nxc4 18. Be6+ Kh8 19. Rae1 Qf6 20.
+Re4 b5 21. Bd7 Rab8 22. Re6 Qd8 23. Bc6 Na5 24. Qe4 Nc4 25. Re1 Qa5 26. Qf3
+b4 27. cxb4 cxb4 28. Qf2 b3 29. axb3 Ne5 30. Rb1 Ng4 31. Qd4 Rb4 32. Qa1
+Qc5+ 0-1
+

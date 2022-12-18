@@ -1,0 +1,17 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Rosenbaum"]
+[Black "Gold"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "20b59655"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. d3 Bg4 10. Qd2 Be2+ 11. Kxf2 Ng4+ 12. Kg1 Qc5 13. g3 Nf3+
+14. Kg2 Qf2+ 15. Kh3 h5 16. Nc3 Bf1+ 17. Rxf1 Qxf1+ 18. Qg2 Nf2# 0-1
+

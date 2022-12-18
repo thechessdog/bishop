@@ -1,0 +1,19 @@
+[Event "corr EU/FSM"]
+[Site "corr EU/FSM"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Enigk, G."]
+[Black "Grzeskowiak, F."]
+[Result "0-1"]
+[ECO "C59"]
+[Opening "Two knights defence"]
+[HashCode "a768d98e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 Bd6 11. d4 exd3 12. Nxd3 Qc7 13. b3 O-O
+14. f4 Bf5 15. O-O Rad8 16. Nc3 Rfe8 17. Bd2 Nb7 18. g4 Be4 19. Nxe4 Nxe4
+20. Bf3 Bc5+ 21. Kg2 Bd4 22. c3 Bb6 23. Re1 Nbc5 24. Bxe4 Nxe4 25. Be3 Nxc3
+26. Bxb6 Qxb6 27. Qf3 Rxe1 28. Rxe1 Nxa2 29. Ne5 Rd2+ 30. Kg3 Rc2 31. Nd7
+Qd8 32. Rd1 Nc3 33. g5 Nxd1 0-1
+

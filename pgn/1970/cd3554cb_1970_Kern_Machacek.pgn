@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kern, M."]
+[Black "Machacek, H."]
+[Result "1-0"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "cd3554cb"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Bxc5 7. e3 Nc6
+8. Nf3 d5 9. Rd1 Qa5 10. a3 dxc4 11. Bxc4 Be7 12. O-O Nh5 13. Bd6 Bxd6 14.
+Rxd6 Qc7 15. Rfd1 a6 16. Ng5 g6 17. Qe4 Qe7 18. Nf3 e5 19. Rxg6+ Ng7 20.
+Nd5 hxg6 21. Nxe7+ Nxe7 22. Nxe5 1-0
+

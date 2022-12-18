@@ -1,0 +1,16 @@
+[Event "corr ICCF/WT"]
+[Site "corr ICCF/WT"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Schade"]
+[Result "1-0"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "7234c8d5"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Nxd4 8.
+Qxd4 Qa5 9. Bxf6 e5 10. Qd5 b6 11. Qxa8+ Bc8 12. Qxc8# 1-0

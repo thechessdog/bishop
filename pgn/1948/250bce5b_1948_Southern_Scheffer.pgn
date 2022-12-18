@@ -1,0 +1,20 @@
+[Event "US op"]
+[Site "Baltimore"]
+[Date "1948.??.??"]
+[Round "9"]
+[White "Southern, M."]
+[Black "Scheffer, D."]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "250bce5b"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Bg4 10. Rc1 Bxf3 11. gxf3 Be7 12. Be2 Bh4+ 13. Kf1 f6 14. f4
+fxe5 15. dxe5 Qe7 16. Kg2 Rd8 17. Qc2 Qf7 18. Qe4 Ne7 19. Rhf1 Nf5 20. Bc5
+Qg6+ 21. Kh1 Na4 22. Bh5 Qxh5 23. Nxa4 Ng3+ 24. hxg3 Bxg3+ 25. Kg2 Rd2+ 26.
+Bf2 Qh2+ 27. Kf3 Rxf2+ 28. Rxf2 Qxf2+ 29. Kg4 h5+ 30. Kg5 Bh4+ 31. Kg6 Qg3#
+0-1
+

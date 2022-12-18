@@ -1,0 +1,20 @@
+[Event "ACM Minneapolis"]
+[Site "ACM Minneapolis"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Chute 1 2"]
+[Black "Treefrog"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian defence"]
+[HashCode "9e938d83"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 c6 6. dxc6 Nxc6 7. Nc3
+Ne5 8. Qe2 Nd3+ 9. Kf1 O-O-O 10. Nb5 a6 11. Na7+ Kb8 12. Qe3 Ng4 13. Qb6
+Ngxf2 14. Nc6+ Qxc6 15. Qxd8+ Qc8 16. Qxc8+ Kxc8 17. Ke2 Nxh1 18. Kxd3 e6
+19. Nf3 Bd6 20. b3 Nf2+ 21. Ke2 Ng4 22. h3 Nf6 23. Bb2 Re8 24. Rf1 e5 25.
+a3 h6 26. Kd1 Ne4 27. Re1 Nf2+ 28. Kc2 e4 29. Ng1 Nd3 30. Rf1 Nxb2 31. Kxb2
+Be5+ 32. Ka2 Rd8 33. Rf2 Bh2 34. Nf3 exf3 35. gxf3 Bf4 36. Rg2 Rxd2+ 37.
+Rxd2 Bxd2 38. Kb2 a5 39. Kc2 Be3 40. Kd3 Bc5 41. a4 f5 42. h4 0-1
+

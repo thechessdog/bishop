@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Farago"]
+[Black "Dory"]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "45e92e5a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Nc6 6. Nf3 Bxc5 7. Bf4 O-O
+8. e3 d5 9. Rd1 Qa5 10. a3 Rd8 11. Nd2 dxc4 12. Nxc4 Rxd1+ 13. Qxd1 Qd8 14.
+Qxd8+ Nxd8 15. Na4 Bf8 16. Nab6 axb6 17. Nxb6 Ra5 18. Nxc8 Rc5 19. Nb6 Rc2
+20. Na4 Ne4 21. f3 Rc1+ 22. Ke2 g5 23. fxe4 gxf4 24. Kd2 Rb1 25. exf4 b5
+26. Kc2 Rxf1 27. Rxf1 bxa4 28. Kd3 Nb7 29. e5 Kg7 30. Kc4 Nc5 31. Rd1 f6
+32. Rd8 fxe5 33. Rxf8 Kxf8 34. Kxc5 exf4 35. Kd6 Kf7 36. Ke5 f3 37. gxf3
+Ke7 38. Kd4 Kf6 39. Kc4 Kf5 40. b4 axb3 41. Kxb3 1-0
+

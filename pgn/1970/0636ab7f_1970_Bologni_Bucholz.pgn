@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Bologni"]
+[Black "Bucholz"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "0636ab7f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Na5 8.
+Bc2 c5 9. h3 h6 10. Re1 Be7 11. d4 Qc7 12. Nbd2 O-O 13. Nf1 Nd7 14. d5 Nb6
+15. b3 f5 16. exf5 Bxf5 17. Bxf5 Rxf5 18. Ne3 Rf7 19. Nd2 Raf8 20. Ne4 Qd7
+21. c4 bxc4 22. Bd2 c3 23. Bxc3 Nb7 24. a4 Qc8 25. a5 Nd7 26. Qd3 Qa8 27.
+Re2 Bd8 28. Nc4 Bc7 29. Nb6 Qa7 30. Bd2 Nb8 31. Nc4 Nd7 32. Ne3 Bd8 33. g4
+Rf3 34. Kg2 Bh4 35. Qc2 g6 36. Ng3 e4 37. Qxe4 Ne5 38. Nc4 Kh7 39. Nxe5
+dxe5 40. Nf5 Rxf2+ 41. Rxf2 Bxf2 42. Qxe5 Nd8 43. Kxf2 gxf5 44. g5 hxg5 45.
+Bxg5 Qg7 46. Qxg7+ 1-0
+

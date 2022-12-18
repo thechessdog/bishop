@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Rathmann, H."]
+[Black "Franke, Claus"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Smyslov variation"]
+[HashCode "0ae0e72c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Qe7 9. a3 Ba5 10. Qc2 Bd7 11. Bd2 Bc6 12. Be2 cxd4 13. Nxd4 Rc8 14.
+Rac1 Nbd7 15. Nxc6 Rxc6 16. b4 Bb6 17. Qb3 Rd8 18. Na4 Ne4 19. Bc3 Bc7 20.
+Bf3 Rxc3 21. Rxc3 Nd2 22. Qc2 Bxh2+ 23. Kxh2 Qh4+ 24. Kg1 Nxf3+ 25. gxf3
+Qg5+ 1/2-1/2
+

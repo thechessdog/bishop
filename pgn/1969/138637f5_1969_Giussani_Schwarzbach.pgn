@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Giussani"]
+[Black "Schwarzbach"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "138637f5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 g6 3. Nf3 Bg7 4. e4 d6 5. Be3 O-O 6. Be2 e5 7. d5 Nbd7 8.
+Bg5 h6 9. Bh4 g5 10. Bg3 Nh5 11. Qd2 f5 12. exf5 Rxf5 13. h4 g4 14. Nh2
+Nxg3 15. fxg3 h5 16. Nf1 Qf8 17. Ne3 Bh6 18. Rf1 Nc5 19. b4 Na6 20. a3 c5
+21. b5 Nb8 22. Qd3 Bxe3 23. Qxe3 Nd7 24. O-O-O Rxf1 25. Rxf1 Qg7 26. Rf5
+Qe7 27. Qh6 Qh7 28. Qe6+ Kh8 29. Qe8+ 1-0
+

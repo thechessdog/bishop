@@ -1,0 +1,17 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Goebel, Wolfgang"]
+[Black "Gudat, A."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "5193031a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 e6 8. O-O
+Be7 9. Qe2 O-O 10. Rd1 a6 11. a3 b5 12. Ba2 Bb7 13. Qe4 Na5 14. Qg4 Re8 15.
+Nbd2 Nb6 16. Ne4 dxe5 17. Bh6 g6 18. Bxe6 Bxe4 19. Bxf7+ Kxf7 20. Nxe5+ Kf6 21.
+Qxe4 1-0

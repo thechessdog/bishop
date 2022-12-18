@@ -1,0 +1,21 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1955.01.01"]
+[Round "3"]
+[White "Smederevac, Petar"]
+[Black "Bogdanovic, Rajko"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "e881c279"]
+[Epoch "Bishop"]
+[BlackID "14400316"]
+[BlackCountry "BIH"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. Be3 e5 7. Qd2 Be6 8. f4 Nd4
+9. fxe5 dxe5 10. Nd5 Bxd5 11. exd5 Rc8 12. c4 Ne7 13. Nf3 Nef5 14. Nxd4 exd4
+15. Bf4 Ne3 16. Kf2 g5 17. Bxe3 dxe3+ 18. Qxe3+ Qe7 19. Qxe7+ Kxe7 20. Rae1+
+Kd6 21. Re2 Rce8 22. Rhe1 Re5 23. Rxe5 Bxe5 24. b3 f5 25. Kf1 b6 26. Re2 Rf8
+27. Rf2 Bd4 28. Re2 Be5 29. Rf2 Bd4 30. Re2 Be5 1/2-1/2

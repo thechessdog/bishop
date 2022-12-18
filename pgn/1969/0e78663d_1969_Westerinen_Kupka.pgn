@@ -1,0 +1,21 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1969.01.01"]
+[Round "6"]
+[White "Westerinen, Heikki M.J."]
+[Black "Kupka, Slavoj"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "0e78663d"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 cxd4 5. Nxd4 Nc6 6. Be3 d6 7. Qd2 Nf6 8. f3
+O-O 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 Qa5 12. O-O-O Ne5 13. g4 b5 14. h5 b4 15.
+hxg6 bxc3 16. gxf7+ Rxf7 17. Qe2 cxb2+ 18. Kb1 Qc3 19. g5 Ne8 20. Rxh7 Nc4 21.
+Bxc4 Rxc4 22. g6 Rf6 23. Rh5 Ra4 24. Rb5 Bxb5 25. Qxb5 Qc4 26. Qxc4+ Rxc4 27.
+Nf5 e6 0-1

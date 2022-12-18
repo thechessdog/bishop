@@ -1,0 +1,17 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1971.07.01"]
+[Round "1"]
+[White "Van Geet, Dirk Daniel"]
+[Black "Minic, Dragoljub"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "8540abb0"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+
+1. Nf3 g6 2. g3 Bg7 3. d4 Nf6 4. Bg2 O-O 5. b3 c5 6. Bb2 cxd4 7. Nxd4 d5 8. O-O
+Re8 9. c4 e5 10. Nb5 a6 11. N5c3 d4 12. Nd5 Nxd5 13. cxd5 b5 14. e3 dxe3 15.
+fxe3 Qb6 16. Qf3 f5 17. Nc3 Nd7 18. Qf2 e4 19. d6 Ne5 20. Bxe4 fxe4 21. Nd5
+Qxd6 22. Bxe5 Qxe5 23. Qf7+ Kh8 0-1

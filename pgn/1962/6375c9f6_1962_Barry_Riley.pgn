@@ -1,0 +1,20 @@
+[Event "Rhode Island"]
+[Site "Rhode Island"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Barry"]
+[Black "Riley"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "6375c9f6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Nc6 9. O-O-O Qc7 10. Be2 Bd7 11. g4 b5 12. e5 dxe5 13. fxe5 Nd5 14.
+Bxe7 Ncxe7 15. Rhf1 O-O 16. Ne4 Qxe5 17. h4 Nc6 18. Nb3 Nce7 19. Kb1 Bc6
+20. Bd3 Nb6 21. Qe3 Nc4 22. Bxc4 bxc4 23. Nf6+ gxf6 24. Qxe5 fxe5 25. Na5
+Bd5 26. Rf6 Rab8 27. a3 Rb5 28. b4 cxb3 29. Nxb3 Bxb3 30. cxb3 Rxb3+ 31.
+Ka2 Rfb8 32. Rdf1 Nd5 33. R6f3 Nc3+ 34. Ka1 Rxa3# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Oxford"]
+[Site "Oxford"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Ripley, J."]
+[Black "Scholes, J."]
+[Result "0-1"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "11161a8f"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8.
+Qe2 cxd4 9. Rd1 Be7 10. exd4 O-O 11. Bg5 Nd5 12. Bxe7 Ncxe7 13. Ra3 Bd7 14.
+Nbd2 Bc6 15. Ne4 Ng6 16. Ba2 Ndf4 17. Qe3 Qc7 18. Ne5 Rac8 19. Rc1 Qb6 20.
+Nc4 Qxd4 21. Qxd4 Ne2+ 22. Kf1 Nxd4 23. Nc3 b5 24. axb5 axb5 25. Nb6 b4 26.
+Nxc8 Rxc8 27. Ra7 bxc3 28. Rxc3 Nb5 0-1
+

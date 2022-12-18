@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Klompus, G."]
+[Black "Molnar, J."]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Katalimov variation"]
+[HashCode "d0928831"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 b6 3. c4 Bb7 4. Nc3 Nc6 5. d4 cxd4 6. Nxd4 e6 7. Ndb5 Qb8
+8. Nd5 exd5 9. exd5 Bb4+ 10. Bd2 Qe5+ 11. Be2 Qxb2 12. dxc6 dxc6 13. Nc7+
+Ke7 14. Nxa8 Bxd2+ 15. Kf1 Nf6 16. Nxb6 axb6 17. Rb1 Qd4 18. Qb3 b5 19. Qd3
+Qxd3 20. Bxd3 b4 21. Ke2 Bc3 22. Rhc1 Bc8 23. Bc2 Be6 24. Bb3 Ne4 25. Rc2
+Bf5 26. g4 Nd2 27. Rxd2 Bxb1 0-1
+

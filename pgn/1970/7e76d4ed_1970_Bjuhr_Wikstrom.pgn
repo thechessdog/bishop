@@ -1,0 +1,23 @@
+[Event "corr ch-SWE"]
+[Site "corr ch-SWE"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Bjuhr, Arne"]
+[Black "Wikstrom, Bertil"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "7e76d4ed"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8.
+Nf3 cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. Bf4 Bxf4 13. Nxf4 O-O 14.
+Qd2 Qb4 15. Qxb4 Nxb4 16. Be2 Bd7 17. a3 Nc6 18. Nd3 Ne4 19. Nde5 Nxe5 20.
+Nxe5 Ba4 21. Bg4 Rfe8 22. Rfc1 Re7 23. Nd3 b6 24. Re1 Kf7 25. Rac1 Rae8 26.
+Re3 Nd2 27. Rce1 Kf6 28. Nf4 Bd7 29. h4 g6 30. Bh3 Nc4 31. R3e2 Nd6 32. g4
+Nb5 33. g5+ Kg7 34. Rd2 Rf7 35. Ng2 h5 36. Re3 Nd6 37. b3 Rc8 38. f3 Rc1+
+39. Kh2 b5 40. Ne1 Ra1 41. Nd3 Rxa3 42. Ne5 Nc4 43. bxc4 Rxe3 44. cxd5 exd5
+45. Nxf7 Bxh3 46. Ne5 Bf1 47. Rd1 Bc4 48. Ra1 Re2+ 49. Kg3 Ra2 50. Re1 b4
+51. Nc6 b3 52. Re7+ Kf8 53. Rb7 Ra6 54. Nb8 Rd6 55. Nd7+ Rxd7 0-1
+

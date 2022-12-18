@@ -1,0 +1,20 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kupreichik, Viktor D"]
+[Black "Mukhin"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "5448ebd5"]
+[Epoch "Bishop"]
+[WhiteCountry "BLR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Bxf6 gxf6 11. Be2 Nc6 12. Nb3 h5 13. O-O Bd7 14. Rf3 O-O-O
+15. Kh1 h4 16. Qe1 h3 17. gxh3 Be7 18. Nd2 Qc5 19. Na4 Qa5 20. Nb6+ Kc7 21.
+Rfb3 Rb8 22. Bf1 Be8 23. c3 Na7 24. Bg2 Rg8 25. Bf3 Qc5 26. Rb4 Bb5 27. Na4 Qc6
+28. Nb3 Qe8 29. Na5 Nc6 30. c4 Bxa4 31. Rxb7+ Rxb7 32. Rxb7+ Kc8 33. Qb1 Bb5
+34. cxb5 Nxa5 35. bxa6 Qc6 36. Rb8+ Kd7 37. Rxg8 Qxa6 38. Rb8 1-0

@@ -1,0 +1,18 @@
+[Event "Brno KOLT"]
+[Site "Brno"]
+[Date "1968.??.??"]
+[Round "12"]
+[White "Kalendovsky, Jan"]
+[Black "Kopecek, I."]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "1c5c92dd"]
+[Epoch "Bishop"]
+[WhiteID "321095"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qf6 5. c3 Nge7 6. d4 exd4 7. Bg5 Qg6 8.
+cxd4 Nxd4 9. Nxd4 Qxg5 10. Nc3 O-O 11. Bxd7 Bxd7 12. Qg4 Bxg4 13. h3 Bxh3 14.
+Nf3 Qxg2# 0-1

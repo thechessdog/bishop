@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Stern, W."]
+[Black "Lungmuss, M."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "29b126b0"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 Bb6 6. Nxe5 Nxe5 7. dxe5
+Nxe4 8. Qg4 Bxf2+ 9. Kd1 Qh4 10. Qxg7 Rf8 11. Nd2 Bc5 12. Nxe4 Qxe4 13. Bh6
+c6 14. Re1 Qd5+ 15. Kc2 cxb5 16. Rad1 Qe6 17. Rd6 Qe7 18. b4 Bb6 19. Bg5 f6
+20. exf6 Qxe1 21. Bh6 Qe2+ 22. Kb1 Kd8 23. Qxf8+ Kc7 24. Qe7 Qf1+ 25. Kb2
+Bc5 26. bxc5 b6 27. c6 1-0
+

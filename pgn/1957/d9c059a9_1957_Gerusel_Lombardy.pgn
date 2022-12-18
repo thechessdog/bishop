@@ -1,0 +1,19 @@
+[Event "Toronto wch-jr"]
+[Site "Toronto wch-jr"]
+[Date "1957.01.01"]
+[Round "3"]
+[White "Gerusel, Mathias"]
+[Black "Lombardy, William James"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "d9c059a9"]
+[Epoch "Bishop"]
+[WhiteID "4601122"]
+[WhiteCountry "GER"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d5 6. a3 Bxc3+ 7. Qxc3 Ne4 8.
+Qc2 e5 9. dxe5 Bf5 10. Qa4 O-O 11. Be3 d4 12. Rd1 dxe3 13. Rxd8 exf2+ 14. Kd1
+Rfxd8+ 15. Kc1 a6 16. Qb3 Nc5 17. Qc3 Na5 18. e4 Nab3+ 0-1

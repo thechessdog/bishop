@@ -1,0 +1,18 @@
+[Event "corr Czerniakow"]
+[Site "corr Czerniakow"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pioch"]
+[Black "Braczko, M."]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "193164a4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. f4 Be7 8.
+Be3 Qc7 9. g4 b5 10. g5 Nfd7 11. a3 Nc6 12. Nxc6 Qxc6 13. Qd4 O-O 14. O-O-O
+Nc5 15. Rhf1 Rb8 16. f5 Rd8 17. h4 a5 18. f6 Bf8 19. h5 b4 20. g6 Rd7 21.
+h6 1-0
+

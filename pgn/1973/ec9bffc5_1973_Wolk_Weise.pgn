@@ -1,0 +1,17 @@
+[Event "Kiel"]
+[Site "Kiel"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Wolk"]
+[Black "Weise"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "ec9bffc5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. Nxd5 Nxd5 6. e4 f6 7. Bd2 e5
+8. dxe5 Bxe4 9. fxe4 fxe5 10. exd5 Qh4+ 11. g3 Qe4+ 12. Qe2 Qxh1 13. Nf3
+O-O-O 14. O-O-O e4 15. Qxe4 Ba3 16. Re1 Rhf8 17. Bf4 Bb4 18. c3 Nf6 19.
+Bh3+ Kb8 20. Qe2 Rfe8 21. Qxe8 Rxe8 22. Rxh1 1-0
+

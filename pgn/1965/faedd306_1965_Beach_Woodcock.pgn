@@ -1,0 +1,17 @@
+[Event "Hastings ch-BCF"]
+[Site "Hastings ch-BCF"]
+[Date "1965.08.01"]
+[Round "2"]
+[White "Beach, TJ."]
+[Black "Woodcock, CF."]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "faedd306"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Bd7 8. Be2
+Nc6 9. Bf3 Be7 10. Nb3 Qb6 11. Qd2 h6 12. Bxf6 Bxf6 13. O-O-O Be7 14. e5 d5 15.
+Rhe1 O-O-O 16. Kb1 Rhe8 17. g3 Kb8 18. h4 Bc8 19. a3 Ka7 20. Na4 Qb5 21. Qf2+
+Kb8 22. Nc3 1-0

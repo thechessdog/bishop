@@ -1,0 +1,20 @@
+[Event "Mar del Plata KIM"]
+[Site "Mar del Plata"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Wexler, Bernardo"]
+[Black "Serra Olives, Tomas"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "60bde2d4"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Bc5 10. Be3 Qe7 11. Rd1 Rd8 12. a4 Bxe3 13. Qxe3 b4 14. Nbd2 Qc5 15.
+Qe2 Nxd2 16. Rxd2 Ra8 17. Ng5 Ne7 18. Nxe6 fxe6 19. Qg4 Kd7 20. Bxd5 Nxd5 21.
+Rxd5+ Qxd5 22. Rd1 Qxd1+ 23. Qxd1+ Kc6 24. Qg4 Kd5 25. Qxb4 Rhd8 26. f4 Rab8
+27. Qc3 Rd7 28. Qd3+ Kc6 29. Qc4+ Kb7 30. Qxe6 Rd1+ 31. Kf2 Ka7 32. Qc6 Rxb2
+33. Qxc7+ Ka8 34. e6 Rd2+ 35. Ke3 Rbxc2 36. Qb6 Re2+ 37. Kf3 Re1 38. e7 1-0

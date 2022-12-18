@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kirwald, F."]
+[Black "Bantleon, J."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "3be5a980"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Bg6 5. Nh3 h6 6. Bh4 e6 7. e4 dxe4 8.
+fxe4 Be7 9. Nf2 Nxe4 10. Bxe7 Nxf2 11. Bxd8 Nxd1 12. Bxc7 Ne3 13. Bb5+ Nc6
+14. Kf2 Nxc2 15. Rad1 O-O 16. Bxc6 bxc6 17. a3 Rfc8 18. Bd6 Rd8 19. Bc5
+Rab8 20. b4 Nxa3 0-1
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Atars, P."]
+[Black "Keffler, P."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "f98218a8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+
+Kd8 8. Bxg6 Qxh1+ 9. Ke2 Qxc1 10. Nc3 Qxc2+ 11. Ke1 hxg6 12. Qxh8 Qxb2 13.
+Qxg8 Qxc3+ 14. Ke2 Qb2+ 15. Ke3 Qa3+ 16. Kxe4 d5+ 17. Qxd5+ Nd7 18. Nxg6 c6
+19. Qg5+ Be7 0-1
+

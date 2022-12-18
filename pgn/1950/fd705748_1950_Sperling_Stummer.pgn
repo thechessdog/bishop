@@ -1,0 +1,17 @@
+[Event "corr Germany"]
+[Site "corr Germany"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Sperling"]
+[Black "Stummer, Kurt"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "fd705748"]
+[Epoch "Bishop"]
+
+1. d4 e5 2. dxe5 f6 3. e4 Nc6 4. Nf3 fxe5 5. Bc4 Nf6 6. Ng5 Bc5 7. Nf7
+Bxf2+ 8. Kxf2 Qe7 9. Qe2 Nd4 10. Qd3 d5 11. Nxh8 dxc4 12. Qxc4 Be6 13. Qd3
+O-O-O 14. Rd1 Qc5 15. Na3 Ng4+ 0-1
+

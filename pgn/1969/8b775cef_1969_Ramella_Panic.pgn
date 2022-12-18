@@ -1,0 +1,23 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ramella"]
+[Black "Panic"]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "8b775cef"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Bg5 Nge7 6. e3 Bg4 7. exd4 Bxf3
+8. Qxf3 Qxd4 9. Qc3 Qg4 10. Be3 Ng6 11. h3 Qe6 12. a3 Ngxe5 13. Be2 Be7 14.
+O-O Bf6 15. Qc2 O-O 16. Nd2 Ng6 17. Rab1 Nd4 18. Bxd4 Bxd4 19. Bg4 f5 20.
+Bf3 c6 21. Rbe1 Qf6 22. b4 Rad8 23. Nb3 Bb6 24. c5 Bc7 25. Qc4+ Kh8 26. Re6
+Qg5 27. g3 Nf4 28. h4 Nxe6 29. hxg5 Nxg5 30. Bg2 f4 31. gxf4 Rxf4 32. Qc2
+Rh4 33. Re1 Rf8 34. Qf5 Bh2+ 35. Kf1 Rf4 36. Qc2 h5 37. Nc1 h4 38. Nd3 R4f6
+39. Ne5 Rxf2+ 40. Qxf2 Rxf2+ 41. Kxf2 Bg3+ 42. Kf1 Bxe1 43. Kxe1 Kh7 44.
+Nc4 Ne6 45. Nd6 b6 46. cxb6 axb6 47. Bxc6 Nd4 48. Be4+ g6 49. Kf2 Kg7 50.
+Nc8 Nb5 51. a4 Nc3 52. Bc6 Na2 53. b5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Nezhmetdinov, Rashid"]
+[Black "Abramovich Furman, Semyon"]
+[Result "0-1"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed (with ...d6)"]
+[HashCode "762a35bb"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. a4 b4 10. d4 bxc3 11. bxc3 Bg4 12. a5 exd4 13. cxd4 d5 14. e5 Ne4 15.
+Ba3 Bxa3 16. Rxa3 Ng5 17. Bc2 Bxf3 18. gxf3 Nh3+ 19. Kg2 Qh4 20. f4 Nxf4+ 21.
+Kh1 Qxf2 22. Rg1 Nxd4 23. Ra2 Nde2 0-1

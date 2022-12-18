@@ -1,0 +1,17 @@
+[Event "corr Golden Knights"]
+[Site "corr Golden Knights"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Tappert"]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "13b48dd4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f3 Nxd4 10. Qxd4 Qa5 11. h4 Bd7 12. g4 Rfd8 13. Be2 b5 14. a3 Rab8
+15. Na2 Qb6 16. h5 h6 17. Be3 Qxd4 18. Bxd4 a5 19. e5 Nd5 20. exd6 Bxd6 21. Nc3
+Bc6 22. Ne4 Bf4+ 23. Kb1 Ne3 24. Rd3 Nxg4 0-1

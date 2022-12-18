@@ -1,0 +1,18 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1965.03.01"]
+[Round "3"]
+[White "Mihaljcisin, Mihajlo"]
+[Black "Lengyel, Levente"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "83e8feea"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O Ne7 8. Kh1
+Nbc6 9. Nxc6 Nxc6 10. f4 Be7 11. Qg4 O-O 12. Be3 d6 13. Rab1 Qc7 14. e5 dxe5
+15. f5 exf5 16. Bxf5 Nd4 1/2-1/2

@@ -1,0 +1,27 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Putzbach, Gerd"]
+[Black "Striebich, Rudolf"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "b62ae961"]
+[Epoch "Bishop"]
+[BlackID "4629744"]
+[BlackCountry "GER"]
+[WhiteID "4611128"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qe2 Be7 8. f4
+h6 9. Bxf6 Bxf6 10. O-O-O Qa5 11. g4 Bd7 12. Bg2 Nc6 13. Nxc6 Bxc6 14. e5 dxe5
+15. Bxc6+ bxc6 16. Qc4 O-O 17. Ne4 Be7 18. Rd7 Rfe8 19. f5 Qb5 20. Qc3 exf5 21.
+gxf5 Rad8 22. Rxd8 Rxd8 23. f6 Bxf6 24. Nxf6+ gxf6 25. Rg1+ Kf8 26. Qa3+ c5 27.
+Qe3 Ke7 28. b3 c4 29. Rg4 Qb4 30. bxc4 Rb8 31. Kd1 Qb1+ 32. Ke2 Qxc2+ 33. Kf3
+Qd1+ 34. Kg3 Rd8 35. Kh4 Rd4 36. Qa3+ Kd7 37. h3 Rxg4+ 38. hxg4 Qh1+ 39. Kg3
+Qg1+ 40. Kh3 Qh1+ 41. Kg3 Qg1+ 42. Kh3 Qf1+ 43. Kh4 Qxc4 44. Qb2 Qe4 45. Qb3
+Ke8 46. Qb8+ Ke7 47. Qa7+ Kf8 48. Qxa6 Qg2 49. Qa3+ Kg7 50. Qb3 Qh2+ 51. Qh3
+Qxa2 52. Qg3 Qb1 53. Qg2 Qd3 54. Qh1 Qe3 55. Qb1 Qf3 56. Qb2 e4 57. Qb7 Qg2 58.
+Qb2 Qxb2 0-1

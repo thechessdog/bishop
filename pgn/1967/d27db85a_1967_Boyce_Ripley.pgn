@@ -1,0 +1,15 @@
+[Event "Oxford"]
+[Site "Oxford"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Boyce, J."]
+[Black "Ripley, J."]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld with e3    Bd3"]
+[HashCode "d27db85a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd3 c5 7. O-O Nc6 8.
+dxc5 e5 9. cxd5 Nxd5 10. Ne4 Ndb4 0-1
+

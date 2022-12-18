@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Selevinski"]
+[Black "Goldberg, Alexander, Dr."]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "1f879829"]
+[Epoch "Bishop"]
+[BlackID "4611560"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Qc2 Re8+ 9. Ne2 g6 10. h4 c5 11. h5 f5 12. hxg6 hxg6 13. Be3 f4 14. Bxg6 fxe3
+15. Bxf7+ Kxf7 16. Rh7+ Kf6 17. Rh6+ Ke7 18. Qh7+ Kf8 19. Rg6 exf2+ 20. Kf1 1-0

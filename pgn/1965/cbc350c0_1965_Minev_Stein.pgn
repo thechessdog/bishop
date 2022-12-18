@@ -1,0 +1,18 @@
+[Event "Bulgaria-Ukraine"]
+[Site "Bulgaria-Ukraine"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Minev, Nikolay Nikolaev"]
+[Black "Stein, Leonid"]
+[Result "1-0"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "cbc350c0"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "BGR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 a6 8.
+Be2 e6 9. Rd1 h6 10. Bh4 Nxe4 11. Bxd8 Nxd2 12. Bb6 Rc8 13. Rxd2 Ne5 14. Nb3
+Nc4 15. Bxc4 Rxc4 16. O-O Be7 17. Re1 Kf8 18. Bc5 1-0

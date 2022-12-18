@@ -1,0 +1,18 @@
+[Event "Seattle"]
+[Site "Seattle"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Berry, Jonathan"]
+[Black "Eggers, Paul S"]
+[Result "1-0"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "b38b6f51"]
+[Epoch "Bishop"]
+[BlackID "2087154"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O a6 9. f4 Bd7 10. Be2 b5 11. Bxf6 Bxf6 12. Nxc6 Bxc6 13. Qxd6 Qxd6 14.
+Rxd6 Bxc3 15. Rxc6 Bd4 16. Rxa6 Rb8 17. Bxb5+ Ke7 18. a4 Be3+ 19. Kb1 Bxf4 20.
+Ra7+ 1-0

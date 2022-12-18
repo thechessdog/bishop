@@ -1,0 +1,23 @@
+[Event "Oslo CI"]
+[Site "Oslo"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Lundin, Erik"]
+[Black "Ogaard, Leif"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "7460ec2a"]
+[Epoch "Bishop"]
+[BlackID "1500074"]
+[WhiteCountry "SWE"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bb5+ Nbd7 8. Nf3
+Bg7 9. Bf4 a6 10. Bxd7+ Qxd7 11. O-O O-O 12. h3 b5 13. Qc2 Bb7 14. Rad1 Rfe8
+15. Rfe1 Rad8 16. Bh2 Qc7 17. a4 Qb6 18. axb5 axb5 19. Qb3 Ba6 20. e5 c4 21.
+Qc2 dxe5 22. Bxe5 b4 23. Na4 Qb5 24. d6 b3 25. Qc3 Rxe5 26. Nxe5 Qxa4 27. Qf3
+Qb5 28. Qc6 Qb7 29. Ra1 Nd7 30. Rxa6 Qb4 31. Qe4 Nxe5 32. Rd1 Nd3 33. Rxd3 Qb5
+34. Ra8 Rxa8 35. Qxa8+ Bf8 36. d7 cxd3 37. d8=Q Qc5 38. Qxd3 Qc1+ 39. Kh2 Qxb2
+40. Qaf3 1-0

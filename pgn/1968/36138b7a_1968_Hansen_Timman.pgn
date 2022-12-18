@@ -1,0 +1,18 @@
+[Event "Biel open"]
+[Site "Biel open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Hansen, P."]
+[Black "Timman, Jan H"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "36138b7a"]
+[Epoch "Bishop"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Ne7 8. Qxg7
+Rg8 9. Qxh7 Bc7 10. Nb5 Bxe5 11. Nf3 Bg7 12. Bf4 Kf8 13. Bc7 Qe8 14. Be5 f6 15.
+Nc7 Qc6 16. Bb5 Qc3+ 17. Kd1 Rh8 0-1

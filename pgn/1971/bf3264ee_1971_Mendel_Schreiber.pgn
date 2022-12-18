@@ -1,0 +1,17 @@
+[Event "corr ch-BRD"]
+[Site "corr ch-BRD"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Mendel, G."]
+[Black "Schreiber, K."]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[Opening "English"]
+[Variation "closed system"]
+[HashCode "bf3264ee"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Rb1 Be6 7. Nh3 f6 8. f4
+h5 9. Nf2 h4 10. e3 hxg3 11. hxg3 Rxh1+ 12. Bxh1 exf4 13. gxf4 f5 14. Nd5
+Nh6 15. Bd2 Ng4 16. Nxg4 fxg4 17. Bc3 Bxc3+ 18. Nxc3 Qh4+ 1/2-1/2
+

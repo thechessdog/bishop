@@ -1,0 +1,22 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Saidy, Anthony"]
+[Black "Wilkerson, Max B"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "7076caca"]
+[Epoch "Bishop"]
+[WhiteID "2000903"]
+[WhiteCountry "USA"]
+[BlackID "2014130"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 O-O 6. a3 cxd4 7. axb4 dxc3 8.
+Nxc3 Nc6 9. b5 Ne7 10. Be2 d5 11. cxd5 Nexd5 12. O-O Qc7 13. Nxd5 Nxd5 14. Qb3
+b6 15. Bd2 Bb7 16. Ra4 f5 17. Rfa1 Qe5 18. Bf3 Rfd8 19. e4 fxe4 20. Rxe4 Qd6
+21. Rae1 Re8 22. Bh5 g6 23. Bg4 Bc8 24. Re5 Bd7 25. h4 Rac8 26. h5 Rc5 27. hxg6
+hxg6 28. Qd3 Kg7 29. Rg5 e5 30. Bxd7 e4 31. Qd4+ Qf6 32. Qxf6+ 1-0

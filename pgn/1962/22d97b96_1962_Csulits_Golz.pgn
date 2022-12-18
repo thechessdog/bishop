@@ -1,0 +1,18 @@
+[Event "DDR-12ch"]
+[Site "Gera"]
+[Date "1962.??.??"]
+[Round "16"]
+[White "Csulits, Anton"]
+[Black "Golz, Werner"]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "22d97b96"]
+[Epoch "Bishop"]
+[WhiteID "4611705"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxb4 7. Nb5 Nc6 8. Nf3 h6
+9. Bd3 Nge7 10. O-O Nf5 11. axb4 Bxb4 12. c4 Nfe7 13. c5 Kf8 1/2-1/2

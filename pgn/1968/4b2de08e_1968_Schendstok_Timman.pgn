@@ -1,0 +1,21 @@
+[Event "Nederland tt"]
+[Site "Nederland tt"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Schendstok, R."]
+[Black "Timman, Jan H"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "4b2de08e"]
+[Epoch "Bishop"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Bg4 10. Qd2 Be7 11. O-O-O f6 12. exf6 Bxf6 13. Ne4 O-O 14. Be2 Qe8
+15. Nfg5 Bf5 16. g4 Bxg5 17. Nxg5 Bg6 18. h4 h5 19. gxh5 Bf5 20. Rhg1 a5 21. h6
+Nb4 22. b3 Rf6 23. hxg7 Qe7 24. Rdf1 a4 25. Ne4 Bxe4 26. Rxf6 Nxa2+ 27. Qxa2
+Qxf6 28. b4 a3 29. h5 Qh4 30. h6 Qh2 31. Rf1 Bd3 32. Qxa3 Bf5 33. Rxf5 exf5 34.
+Qb3 Qxe2 35. c5+ Nc4 0-1

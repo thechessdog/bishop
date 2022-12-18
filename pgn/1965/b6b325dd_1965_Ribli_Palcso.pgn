@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Ribli, Zoltan"]
+[Black "Palcso"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "b6b325dd"]
+[Epoch "Bishop"]
+[WhiteID "700010"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qe7 5. c3 a6 6. Ba4 b5 7. Bb3 Nf6 8. d4
+Bb6 9. Bg5 d6 10. h3 h6 11. dxe5 hxg5 12. exf6 gxf6 13. Bd5 Bd7 14. Nd4 Nxd4
+15. cxd4 c6 16. Bb3 Kf8 17. Bc2 Kg7 18. f3 Qe5 19. f4 Bxd4+ 20. Kh1 gxf4 21.
+Nc3 Bxh3 0-1

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Squarcialupi"]
+[Black "Galli"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "06e032e5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8.
+Bh4 Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Bd3 g5 12. fxg5 Ne5 13. Qe2 Nfg4 14.
+Kb1 hxg5 15. Bg3 Nxd3 16. cxd3 Ne5 17. Rc1 Qb8 18. Nf3 Nxf3 19. Qxf3 Bd7
+20. d4 b5 21. e5 d5 22. Nxd5 1-0
+

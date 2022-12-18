@@ -1,0 +1,18 @@
+[Event "Castlebar op"]
+[Site "Castlebar"]
+[Date "1969.08.??"]
+[Round "6"]
+[White "Brennan, J."]
+[Black "McCurdy, Gerald"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "93fe4cba"]
+[Epoch "Bishop"]
+[BlackID "26060558"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Qc7 7. Qd2 Nbd7 8.
+Bd3 e6 9. O-O Be7 10. f4 Ng4 11. f5 Nxe3 12. Qxe3 Ne5 13. fxe6 fxe6 14. Nb3 Bd7
+15. Kh1 Bf6 16. Nd1 O-O 17. Qe2 Rac8 18. c3 Nxd3 19. Qxd3 Bb5 0-1

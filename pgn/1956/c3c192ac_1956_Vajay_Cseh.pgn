@@ -1,0 +1,21 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Vajay"]
+[Black "Cseh, Andor"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "c3c192ac"]
+[Epoch "Bishop"]
+[BlackID "702633"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Bg4 8. fxe5
+Bxf3 9. gxf3 dxe5 10. Qxd8+ Kxd8 11. Be3 Bb4 12. O-O-O+ Ke7 13. Na4 Nbd7 14.
+Bh3 h6 15. Nb6 Rad8 16. Bxd7 Rxd7 17. Rxd7+ Nxd7 18. Nd5+ Ke6 19. Nxb4 Rc8 20.
+Nd5 b5 21. Rg1 g5 22. Bf2 f6 23. Ne3 Rg8 24. Nf5 Rh8 25. Rd1 Nb8 26. Rd6+ Kf7
+27. Ba7 Kg6 28. Bxb8 Rxb8 29. Rxa6 b4 30. Ra7 Rh8 31. Kd2 Kh5 32. Ke3 g4 33.
+Rg7 gxf3 34. Kxf3 Rc8 35. Rg4 1-0

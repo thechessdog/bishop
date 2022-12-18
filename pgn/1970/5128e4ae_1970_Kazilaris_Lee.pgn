@@ -1,0 +1,20 @@
+[Event "Siegen olm"]
+[Site "Siegen"]
+[Date "1970.??.??"]
+[Round "12"]
+[White "Kazilaris, Nikolaos"]
+[Black "Lee, Graham D"]
+[Result "1/2-1/2"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "5128e4ae"]
+[Epoch "Bishop"]
+[WhiteID "4200314"]
+[BlackID "400750"]
+[WhiteCountry "GRE"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Bg5 c5 7. d5 a6 8. a4 Qa5
+9. Bd2 e6 10. Nf3 exd5 11. exd5 Bg4 12. O-O Qc7 13. Ng5 Bxe2 14. Qxe2 Re8 15.
+Qd3 h6 16. Nf3 Nbd7 17. h3 Re7 18. Rae1 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Axelsson, Rolf"]
+[Black "Mattsson, Bertil"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "92021313"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8.
+O-O Qxc5+ 9. Kh1 Nc6 10. Qe1 Nb4 11. Bd1 Bd7 12. a3 Nc6 13. Be3 Qa5 14. Nd2
+a6 15. Qh4 Be6 16. g4 d5 17. Nb3 Qd8 18. f5 d4 19. fxe6 fxe6 20. Nxd4 Nxd4
+21. Rf2 Qd6 22. Qh3 Qc6 23. Qg2 Nd7 24. Rd2 Qc4 25. Ne2 Nf3 26. Ng3 Nxd2
+27. Qxd2 Ne5 28. Be2 Qc6 29. Qb4 Rad8 30. Kg2 Rf7 31. Qb3 b5 32. Rd1 Rxd1
+33. Bxd1 Qc4 34. c3 Nxg4 35. Bg1 Ne5 36. a4 Qxb3 37. Bxb3 Nc4 38. Ne2 Rf8
+39. Bd4 e5 40. Be3 Bf6 41. Bc1 Kg7 42. Ng1 Nb6 43. axb5 axb5 44. Nf3 Ra8
+45. Ne1 Ra1 46. Nd3 Nc4 47. Kf3 Bh4 48. Kg4 Bf6 49. h3 h5+ 50. Kg3 e6 51.
+Kf3 Bh4 52. Bc2 Kf6 53. Bb3 Bg5 54. Bxg5+ Kxg5 55. Bxc4 bxc4 56. Nxe5 Rf1+
+57. Ke3 Rh1 58. Kd4 Rxh3 59. Kxc4 Kf6 60. Nc6 g5 61. b4 g4 62. b5 g3 63.
+e5+ Kf7 0-1
+

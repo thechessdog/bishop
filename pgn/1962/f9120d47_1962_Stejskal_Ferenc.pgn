@@ -1,0 +1,18 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Stejskal"]
+[Black "Ferenc"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "f9120d47"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 Qb6 6. Bb5 Bd7 7. Bxc6 bxc6
+8. Nc3 g6 9. Rb1 Bg7 10. Be3 c5 11. Nde2 Bg4 12. Nd5 Qb7 13. Qd3 Bxe2 14.
+Kxe2 Rb8 15. Bd2 Nf6 16. Qc3 Nxe4 17. Qxg7 Qxd5 18. Qxh8+ Kd7 19. Qxb8
+Qxd2+ 0-1
+

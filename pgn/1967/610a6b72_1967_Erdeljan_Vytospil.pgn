@@ -1,0 +1,19 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Erdeljan, M."]
+[Black "Vytospil"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "610a6b72"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Bb4 7. Ne2 Nf6
+8. a3 Ba5 9. Qd3 b5 10. b4 Bb6 11. Bxb6 Qxb6 12. e5 Ng8 13. Ne4 Nc6 14. Rd1
+Nh6 15. Nd6+ Ke7 16. Qg3 Kf8 17. Nc3 Ne7 18. Bd3 Bb7 19. Nxb7 Qxb7 20. Be4
+Nc6 21. O-O Ng8 22. Rd6 Nge7 23. Rfd1 Ra7 24. Qe3 Ke8 25. Qc5 Qb8 26. Bxc6
+Nxc6 27. Rxc6 dxc6 28. Ne4 1-0
+

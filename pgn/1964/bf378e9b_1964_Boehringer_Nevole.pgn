@@ -1,0 +1,17 @@
+[Event "corr Eberhardt-Wilhelm"]
+[Site "corr Eberhardt-Wilhelm"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Boehringer, W."]
+[Black "Nevole, V."]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "bf378e9b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qc7 Nge7 9. Nc3 Qe6 10. Bd3 b5 11. a3 Rb8 12. Nd5 O-O 13. f4 Rb7 14.
+f5 Nxf5 0-1
+

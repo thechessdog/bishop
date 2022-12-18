@@ -1,0 +1,19 @@
+[Event "HUN-ch06"]
+[Site "Budapest"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Monostori, Lajos"]
+[Black "Florian, Tibor"]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "bcb98945"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qa4+ Bd7 6. Qxd4 exd5 7. Qxd5 Nc6
+8. Bg5 Nf6 9. Qd2 h6 10. Bh4 Bb4 11. a3 Ba5 12. Bxf6 Qxf6 13. e3 O-O 14. Bd3
+Rfd8 15. Qc2 Ne5 16. Ne2 Bc6 17. O-O-O Bxg2 18. Rhg1 Qxf2 19. Bh7+ Kh8 20.
+Rxd8+ Rxd8 21. Nd1 Bd2+ 22. Qxd2 Rxd2 23. Nxf2 Rxe2 24. Be4 Bxe4 25. Nxe4 Rxh2
+26. Rd1 Nc4 27. Rd8+ Kh7 28. b3 Rh1+ 29. Kc2 Nxe3+ 30. Kd2 Rd1+ 0-1

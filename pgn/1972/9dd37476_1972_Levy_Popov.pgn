@@ -1,0 +1,21 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Levy"]
+[Black "Popov, Luben"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9dd37476"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Qb3 e6 8. Bb5
+Bd7 9. Nc3 Nxc3 10. bxc3 dxe5 11. Bxc6 Bxc6 12. Nxe5 Qd5 13. Nxc6 Qxc6 14. O-O
+Rc8 15. Rb1 b6 16. Rd1 Be7 17. d5 exd5 18. Re1 Kf8 19. Ba3 Bc5 20. Rbd1 g6 21.
+Rxd5 Bxa3 22. Qxa3+ Kg7 23. Rd3 Rhe8 24. Rde3 Rxe3 25. Rxe3 Rd8 26. Qe7 Qxc3
+27. g3 Rd1+ 28. Kg2 Qc6+ 29. Rf3 Qd5 30. Qf6+ Kg8 31. Qc3 Qb7 32. g4 h6 33. Qe3
+Qd7 34. h3 Qb5 35. Kh2 g5 36. Qc3 Qd5 37. Kg2 b5 38. Qc8+ Kg7 39. Qc3+ Rd4 40.
+a3 a5 41. Kg1 b4 42. axb4 axb4 43. Qb2 Kg8 44. Qe2 b3 45. Rxb3 Rd1+ 46. Kh2
+Qh1+ 0-1

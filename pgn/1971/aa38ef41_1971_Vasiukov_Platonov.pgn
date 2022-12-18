@@ -1,0 +1,28 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Vasiukov, Evgeni"]
+[Black "Platonov, Igor"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "aa38ef41"]
+[Epoch "Bishop"]
+[BlackID "24197190"]
+[WhiteID "4100522"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Re1 O-O 10. Bg5 h6 11. Bh4 Bb7 12. a3 Nc6 13. Nxc6 Bxc6 14. Qd4 Qc7 15.
+Rad1 Rfd8 16. Rd3 a5 17. Rf3 Qa7 18. Qd2 b4 19. axb4 axb4 20. Bxf6 Bxf6 21. Na2
+Bxb2 22. Nxb4 Be8 23. Nd3 Qd4 24. Qf4 Bc3 25. Rf1 Ra7 26. Rg3 Kh8 27. Qg4 Rda8
+28. h3 Bc6 29. Re3 Ra1 30. Rxa1 Rxa1+ 31. Kh2 Bd2 32. Re2 Bg5 33. f4 Bf6 34. e5
+dxe5 35. Nxe5 Be8 36. Nf3 Qb6 37. Rd2 Kg8 38. Qg3 Bc6 39. Qf2 Qc7 40. Nd4 Bb7
+41. Nb5 Qc6 42. Nd6 Ba8 43. Nc4 g5 44. Ne5 Qe4 45. Ng4 Bg7 46. Rd8+ Kh7 47. Rd7
+h5 48. c3 Qxf4+ 49. Qxf4 gxf4 50. Bc2+ f5 51. Nf6+ Kg6 52. Rxg7+ Kxg7 53. Nxh5+
+Kh6 54. Nxf4 e5 55. Ne2 Ra2 56. Bd3 f4 57. Bc4 Rb2 58. Kg1 Kg5 59. Kf1 Kf5 60.
+Bd3+ Kg5 61. Bc4 Bb7 62. Kg1 Rb1+ 63. Kf2 e4 64. h4+ Kf5 65. Nd4+ Ke5 66. g4
+e3+ 0-1

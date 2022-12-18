@@ -1,0 +1,20 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "From, Sigfred"]
+[Black "Jakobsen, Ole"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "bd6d8c42"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. Nc3 c5 3. d5 g6 4. e4 d6 5. Be2 Bg7 6. f4 O-O 7. Nf3 b5 8. e5 dxe5
+9. fxe5 Ng4 10. Bf4 Nd7 11. e6 fxe6 12. Ng5 Rxf4 13. Bxg4 Nf8 14. g3 Rxg4 15.
+Qxg4 b4 16. Ne2 exd5 17. Qf3 Bf6 18. h4 h6 19. Nf4 hxg5 20. Nxd5 Bxb2 21. Rd1
+Bd4 22. hxg5 Bb7 23. Nf6+ exf6 24. Qxb7 Rb8 25. Qf3 fxg5 26. Rd3 Qe8+ 27. Kd1
+Qf7 28. Qg2 Qxa2 29. Rb3 Rd8 30. Qe4 Bc3+ 31. Ke2 Qa6+ 32. Kf3 Qf6+ 33. Kg2
+Rd2+ 34. Kh3 0-1

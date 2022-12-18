@@ -1,0 +1,16 @@
+[Event "Portland"]
+[Site "Portland"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Dalbergs, I."]
+[Black "Johnston"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "9fc9846c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 Nxe4 4. Nxe4 dxe4 5. Bc4 Nd7 6. f3 exf3 7. Nxf3
+e6 8. O-O Be7 9. Qe1 Nb6 10. Bd3 Bf6 11. c3 Qe7 12. Qg3 O-O 13. Bg5 Nd5 14.
+c4 Bxg5 15. Bxh7+ Kh8 16. Nxg5 f6 17. Bg6 fxg5 18. Qh3+ Kg8 19. Qh7# 1-0
+

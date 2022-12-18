@@ -1,0 +1,18 @@
+[Event "Varna olm"]
+[Site "Varna olm"]
+[Date "1962.09.01"]
+[Round "5"]
+[White "Nilsson, Nils Specht"]
+[Black "Pietzsch, Wolfgang"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "58222503"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O b6 8. a3
+Bxc3 9. bxc3 cxd4 10. cxd4 Ba6 11. Nd2 Nc6 12. Bb2 Na5 13. Rc1 Rc8 14. Qe2 dxc4
+15. Nxc4 Nxc4 16. Bxc4 Rxc4 17. Rxc4 Ne4 18. Qc2 Bxc4 0-1

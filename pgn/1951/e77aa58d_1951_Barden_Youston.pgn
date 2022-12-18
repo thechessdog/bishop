@@ -1,0 +1,18 @@
+[Event "Oxford"]
+[Site "Oxford"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Barden, Leonhard William"]
+[Black "Youston"]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 9.Nb3"]
+[HashCode "e77aa58d"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7 8.
+O-O O-O 9. Nb3 Be6 10. f4 Na5 11. Qe1 Nc4 12. Bd4 Rc8 13. f5 Bd7 14. g4 Nxb2
+15. g5 Ne8 16. Nd5 Bxd4+ 17. Nxd4 e6 18. fxe6 fxe6 19. Rxf8+ Kxf8 20. Qf2+ Kg8
+21. Rf1 Qxg5+ 22. Kh1 1-0

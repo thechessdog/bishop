@@ -1,0 +1,18 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Sturm, M."]
+[Black "Schmid, Lothar Maximilian Lorenz"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "e8edbb09"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Bd3 cxd4 6. cxd4 Nc6 7. Nf3 Bd7 8. O-O
+Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 Nc6 12. Be3 Qxe5 13. f4 Qd6 14. Nb5 Qb8
+15. f5 e5 16. Qh5 a6 17. f6 g6 18. Bxg6 Be6 19. Nd4 fxg6 20. f7+ Kd7 21. Nxc6
+gxh5 0-1

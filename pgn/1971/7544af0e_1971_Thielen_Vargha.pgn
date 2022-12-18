@@ -1,0 +1,16 @@
+[Event "corr Behting mem"]
+[Site "corr Behting mem"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Thielen, Dieter"]
+[Black "Vargha, Istvan"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "7544af0e"]
+[Epoch "Bishop"]
+[WhiteID "4624211"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. Bf7+ Ke7 6. d4 Qxg2 7. Qh5 Qxh1+
+8. Ke2 Nf6 9. Bg5 Nc6 10. Nxc6+ dxc6 11. Nd2 Qg2 12. h3 Qxh3 13. Bxf6+ gxf6 0-1

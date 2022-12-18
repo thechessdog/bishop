@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Konarkowska, H."]
+[Black "Karabegovic, Mina"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "6c19ecd7"]
+[Epoch "Bishop"]
+[BlackID "14411873"]
+[BlackCountry "BIH"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 b5 7. f4 Bb7 8. Qe2
+d6 9. Nb3 Nd7 10. Bd2 Be7 11. O-O Ngf6 12. Rae1 O-O 13. e5 dxe5 14. fxe5 Nd5
+15. Nxd5 Bxd5 16. Qh5 g6 17. Qh6 Rfc8 18. Rxf7 Kxf7 19. Qxh7+ Ke8 20. Bxg6+ Kd8
+21. Qg8+ Nf8 22. Ba5 Bc5+ 23. Nxc5 Qxa5 24. Qxf8+ Kc7 25. Qd6# 1-0

@@ -1,0 +1,19 @@
+[Event "Stockholm Interzonal"]
+[Site "Stockholm izt"]
+[Date "1962.02.01"]
+[Round "12"]
+[White "Cuellar Gacharna, Miguel"]
+[Black "Barcza, Gedeon"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "bba34699"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "COL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 cxd4 7. exd4 O-O 8. O-O
+b6 9. cxd5 exd5 10. h3 Bb7 11. Bg5 Nbd7 12. Ne5 h6 13. Nxd7 Qxd7 14. Bxf6 gxf6
+15. Qh5 Kg7 16. Ne2 Bd6 17. Ng3 Bxg3 18. fxg3 Rh8 19. Rxf6 Rae8 20. Raf1 Re7
+21. Rg6+ Kf8 22. Rxh6 Rg8 23. Rh8 Re6 24. Rxg8+ Kxg8 25. Qh7+ Kf8 26. Bf5 1-0

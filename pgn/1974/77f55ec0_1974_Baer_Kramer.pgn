@@ -1,0 +1,21 @@
+[Event "corr WER/M"]
+[Site "corr WER/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Baer, H."]
+[Black "Kramer, S."]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "77f55ec0"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Bg4 7. Qb3 Qc8
+8. Nd2 e6 9. Ngf3 Be7 10. Ne5 Nxe5 11. Bxe5 O-O 12. Qc2 Bf5 13. Bxf5 exf5
+14. Qb3 Re8 15. O-O Qc6 16. f3 Nh5 17. c4 Rad8 18. cxd5 Qxd5 19. Qxd5 Rxd5
+20. Nb3 a5 21. a4 Bb4 22. Rad1 f6 23. Bc7 Re7 24. Bb6 Re3 25. Nc1 Nf4 26.
+Kf2 Re7 27. h3 Kf7 28. Nd3 Re2+ 29. Kg1 Nxd3 30. Rxd3 Rxb2 31. Rc1 f4 32.
+Bc7 Bd2 33. Rc5 Be3+ 34. Kh1 Rb1+ 35. Kh2 Bg1+ 36. Kh1 Bf2+ 37. Kh2 Bg3#
+0-1
+

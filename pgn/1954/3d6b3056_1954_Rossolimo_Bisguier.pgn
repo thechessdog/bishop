@@ -1,0 +1,19 @@
+[Event "New Orleans"]
+[Site "New Orleans"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Rossolimo, Nicolas"]
+[Black "Bisguier, Arthur Bernard"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "3d6b3056"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. g3 dxc4 5. Bg2 Nbd7 6. O-O c5 7. Qc2 a6 8. a4
+cxd4 9. Nxd4 Bc5 10. Qxc4 Qb6 11. Nb3 Qb4 12. Na3 Qxc4 13. Nxc4 Bb4 14. Rd1 O-O
+15. Bf4 Nc5 16. Nxc5 Bxc5 17. b4 Ba7 18. Nd6 Ng4 19. e3 e5 20. Bg5 f6 21. Bd5+
+Kh8 22. Nf7+ Rxf7 23. Bxf7 Bf5 24. h3 Nxf2 25. Kxf2 fxg5 26. g4 1-0

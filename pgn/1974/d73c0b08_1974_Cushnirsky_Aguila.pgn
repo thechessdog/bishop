@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Cushnirsky, Pablo"]
+[Black "Aguila, Gustavo"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "d73c0b08"]
+[Epoch "Bishop"]
+[BlackID "101044"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 Bb4 7. f3 d5 8. Bb5
+Qc7 9. exd5 Nxd5 10. Bxc6+ bxc6 11. Bd2 Ba6 12. Nxd5 Bxd2+ 13. Qxd2 cxd5 14.
+O-O-O O-O 15. Rhe1 Rfc8 16. f4 Rab8 17. c3 Qa5 18. a3 Rc7 19. Re3 Rcb7 20. f5
+Qxa3 21. c4 Qa1+ 22. Kc2 Qxb2+ 0-1

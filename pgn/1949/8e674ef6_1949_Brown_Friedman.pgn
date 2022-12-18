@@ -1,0 +1,15 @@
+[Event "London"]
+[Site "London"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Brown, H."]
+[Black "Friedman, O."]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "8e674ef6"]
+[Epoch "Bishop"]
+
+1. f4 Nf6 2. Nf3 g6 3. e3 Bg7 4. d4 O-O 5. Nbd2 d5 6. Bd3 c5 7. c3 Qc7 8.
+O-O cxd4 9. exd4 Qxf4 10. Ne5 Qe3+ 11. Kh1 Bg4 12. Ndf3 1-0
+

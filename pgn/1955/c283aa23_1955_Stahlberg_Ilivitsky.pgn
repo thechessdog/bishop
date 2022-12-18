@@ -1,0 +1,18 @@
+[Event "FIDE (21) 1955-1957"]
+[Site "Goteborg izt"]
+[Date "1955.08.01"]
+[Round "1"]
+[White "Stahlberg, Gideon"]
+[Black "Ilivitsky, Georgy"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "c283aa23"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nc3 Bg7 7. Nf3 O-O 8. O-O
+e6 9. Ne5 Nfd7 10. Nxd7 Bxd7 11. e3 Qb6 12. Na4 Qd6 13. Qb3 Na6 14. Bd2 Rfc8
+15. Rfc1 1/2-1/2

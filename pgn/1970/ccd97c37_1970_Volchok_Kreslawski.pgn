@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Volchok"]
+[Black "Kreslawski"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "ccd97c37"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 exd4
+8. cxd4 Bxf3 9. Qxf3 Qxd4 10. Rd1 Qc4 11. Bf4 Qf7 12. Qg3 Bd6 13. Bxd6
+O-O-O 14. e5 fxe5 15. Qg4+ Qd7 16. Be7 Qxg4 17. Rxd8# 1-0
+

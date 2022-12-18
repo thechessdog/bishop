@@ -1,0 +1,16 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Waserski"]
+[Black "Godes"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "e4b86188"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Be2 h6
+8. Bh4 b5 9. Nd5 Bb7 10. Ne6 1-0
+

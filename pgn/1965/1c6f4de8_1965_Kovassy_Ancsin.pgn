@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Kovassy"]
+[Black "Ancsin"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "1c6f4de8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Ne4 7. Qg4 Nxc3
+8. Qxg7 Rf8 9. a3 Qa5 10. Nb3 Nd5+ 11. axb4 Qxb4+ 12. Kd1 d6 13. Bh6 Nd7
+14. Qxh7 Qg4+ 15. Kc1 Rg8 16. exd6 N7f6 17. Qd3 Kd7 18. Ra4 Qh5 19. Bd2 Ne8
+20. c4 Nb6 21. Ra5 f5 22. Nc5+ 1-0
+

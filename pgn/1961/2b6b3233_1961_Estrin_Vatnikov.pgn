@@ -1,0 +1,16 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Vatnikov, Joseph"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit, Panov variation"]
+[HashCode "2b6b3233"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 d5 5. exd5 Bb4+ 6. c3 Qe7+ 7. Kf1 dxc3 8.
+Nxc3 O-O 9. Bg5 h6 10. Bh4 Bf5 11. Qd4 Nbd7 1/2-1/2

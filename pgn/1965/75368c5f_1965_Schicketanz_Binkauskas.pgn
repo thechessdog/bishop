@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Schicketanz"]
+[Black "Binkauskas"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "75368c5f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Bd3 Nc6
+8. Qf4 Be7 9. Nc3 Be6 10. Bd2 h6 11. h4 Qd7 12. O-O-O O-O-O 13. Qa4 a6 14.
+Bxa6 bxa6 15. Qxa6+ Kb8 16. Be3 Nc4 17. Rxd7 1-0
+

@@ -1,0 +1,26 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kristjansson, Olafur"]
+[Black "Thorfasson"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "cad72d5c"]
+[Epoch "Bishop"]
+[WhiteID "2300656"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Bxc3+ 6. bxc3 d6 7. Nf3 Nc6 8.
+O-O e5 9. Nd2 Qe7 10. Qc2 Bd7 11. Ba3 Rae8 12. c5 d5 13. Rab1 e4 14. Be2 Nd8
+15. c4 c6 16. Qa4 a6 17. cxd5 Nxd5 18. Qc2 Qg5 19. Nxe4 Nxe3 20. fxe3 Qxe3+ 21.
+Kh1 Rxe4 22. Bd3 Rh4 23. Rf3 Qh6 24. g3 Bg4 25. Rf2 Rh3 26. Bc1 Qh5 27. Kg1 Ne6
+28. Be3 Bf3 29. Rff1 Qd5 30. Qf2 Bg4 31. Rxb7 f5 32. Rc1 f4 33. gxf4 Rf3 34.
+Qh4 Qh5 35. Qxh5 Bxh5 36. Re1 Nxf4 37. Be4 Ne2+ 38. Rxe2 Rf1+ 39. Kg2 Bxe2 40.
+Bxc6 Bf3+ 41. Bxf3 R1xf3 42. Re7 R3f5 43. Rb7 Re8 44. Rb3 Re6 45. h3 Kf7 46.
+Rb7+ Ke8 47. Rb3 Kd7 48. Rb7+ Ke8 49. Rb3 Rg6+ 50. Kh2 Rf3 51. Bg1 Rxb3 52.
+axb3 Rg5 53. Be3 Rf5 54. Kg3 Kd7 55. Bf4 Kc6 56. Be5 g6 57. Bf4 Kd5 58. h4 Kxd4
+59. c6 Rc5 60. c7 Rc6 61. b4 Kc4 62. Bd6 Kd5 63. Bf4 Ke6 64. Kg4 Kd7 65. Kg5
+Rc4 66. Bd2 Kxc7 67. Be1 Re4 0-1

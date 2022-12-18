@@ -1,0 +1,20 @@
+[Event "DDR-CSR"]
+[Site "Dresden"]
+[Date "1957.??.??"]
+[Round "1"]
+[White "Liebert, Heinz"]
+[Black "Dolezal, Jiri"]
+[Result "1/2-1/2"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "91fe6e09"]
+[Epoch "Bishop"]
+[WhiteID "4611438"]
+[BlackID "310263"]
+[WhiteCountry "GER"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. e5 Ne4 8. Qg4
+Nxc3 9. a3 Bf8 10. bxc3 Qa5 11. Qg3 Nc6 12. Nxc6 dxc6 13. Be2 g6 14. O-O Bg7
+15. Bf4 O-O 16. Rfe1 Qc5 17. Bd3 b5 1/2-1/2

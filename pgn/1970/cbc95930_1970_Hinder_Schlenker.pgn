@@ -1,0 +1,16 @@
+[Event "unknown"]
+[Site "unknown"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hinder, H."]
+[Black "Schlenker, R."]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "cbc95930"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. fxe5 Qh4+ 5. Ke2 Qe4+ 6. Kf2 Bc5+ 7. d4
+Bxd4+ 8. Kg3 Bxe5+ 9. Kf2 Bd4+ 10. Kg3 Qg6+ 11. Kf4 Qf5+ 12. Kg3 Qf2# 0-1
+

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schutt"]
+[Black "Carlson, Curtis"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "33b598f0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bxf6 Qxf6 8.
+Qd2 Nc6 9. O-O-O Bd7 10. f3 Be7 11. Na4 Qe5 12. Nb6 Bg5 13. Nxc6 Bxd2+ 14. Rxd2
+Bxc6 15. Nxa8 Qa5 16. Rxd6 Ke7 17. Rd3 Rd8 18. Rc3 Rxa8 19. a3 Rc8 20. Bd3 Bd7
+21. Rxc8 Bxc8 22. h3 Bd7 23. Rd1 Bb5 24. Bxb5 Qxb5 25. c3 Qe2 26. Rd2 Qe3 27.
+Kc2 h5 28. Kd1 h4 29. Re2 Qg5 30. Kc2 Kf6 31. Rd2 Qb5 32. Rd3 Kg5 33. Rd1 Kf4
+34. Rd4 0-1

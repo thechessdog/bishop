@@ -1,0 +1,24 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Holm, Sejer"]
+[Black "Kolvig, Bent"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "cfa1a76d"]
+[Epoch "Bishop"]
+[WhiteID "1400304"]
+[BlackID "1400746"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 O-O 8. Nf3
+Qc7 9. Qc2 b6 10. Bb2 Ba6 11. cxd5 Bxd3 12. Qxd3 exd5 13. c4 cxd4 14. cxd5 Qd6
+15. O-O dxe3 16. Rad1 exf2+ 17. Rxf2 Nbd7 18. Ng5 Rfe8 19. Qf5 Re3 20. Nxh7
+Rae8 21. Rff1 Rb3 22. Ba1 Qe7 23. Nxf6+ Nxf6 24. d6 Qe4 25. d7 Rd8 26. Qg5 Qe3+
+27. Qxe3 Rxe3 28. Rxf6 Rxd7 29. Rxd7 gxf6 30. Bxf6 Rxa3 31. h4 Kh7 32. Rxf7+
+Kg6 33. Rf8 b5 34. Be7 Ra1+ 35. Kh2 a5 36. g4 Ra2+ 37. Kg3 b4 38. h5+ Kg7 39.
+Rb8 Ra3+ 40. Kh4 1-0

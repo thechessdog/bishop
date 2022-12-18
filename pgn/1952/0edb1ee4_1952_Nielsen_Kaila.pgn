@@ -1,0 +1,16 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Nielsen, Poul Erik"]
+[Black "Kaila, O."]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "0edb1ee4"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. O-O-O Nf6 7. Qxg7 Rg8
+8. Qh6 Bf8 9. Qh4 Rg4 10. Qh3 Qxf2 11. Be2 Rg6 12. g4 Qc5 13. Be3 Qa5 14. g5
+Rxg5 1-0

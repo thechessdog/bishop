@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gerasimova, Natalia"]
+[Black "Khavsky, Sergey"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "6cc78fe8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8.
+Qe2 Nbd7 9. O-O-O b5 10. g4 Bb7 11. a3 Rc8 12. Bh4 Nb6 13. g5 Nfd7 14. Bh3
+Nc4 15. Nd5 Qb8 16. Rhe1 Ncb6 17. Bxe6 fxe6 18. Nxe6 Kf7 19. Qg4 Re8 20.
+Nec7 Bxd5 21. exd5 Qxc7 22. g6+ hxg6 23. Rxe8 Nc5 24. Re2 Qd7 25. Qxd7+
+Ncxd7 26. Bg5 Nf6 27. Red2 Be7 28. h4 Rc8 29. Kb1 Rc5 30. Rd4 Nbxd5 0-1
+

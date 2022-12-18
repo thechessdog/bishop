@@ -1,0 +1,19 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1960.01.01"]
+[Round "11"]
+[White "Schweber, Samuel"]
+[Black "Foguelman, Alberto"]
+[Result "1/2-1/2"]
+[ECO "E22"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann variation"]
+[HashCode "006fbedb"]
+[Epoch "Bishop"]
+[BlackID "101435"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. Qb3 c5 5. a3 Bxc3+ 6. Qxc3 cxd4 7. Qxd4 Nc6 8.
+Qc3 Ne4 9. Qxg7 Qa5+ 10. b4 Nxb4 11. Qxh8+ Ke7 12. Bg5+ Qxg5 13. Qb2 Nc2+ 14.
+Qxc2 Qf6 15. O-O-O 1/2-1/2

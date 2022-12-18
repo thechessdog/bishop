@@ -1,0 +1,16 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wolff, Patrick"]
+[Black "Mueller"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "3e875ed8"]
+[Epoch "Bishop"]
+
+1. g3 d5 2. Bg2 Nf6 3. d3 g6 4. e3 Bg7 5. Nd2 O-O 6. h3 e5 7. g4 Re8 8. Nf1 c6
+9. f3 h5 10. c3 Qc7 11. Qe2 e4 12. d4 exf3 13. Bxf3 hxg4 14. hxg4 c5 15. dxc5
+Qxc5 16. Bd2 Bd7 17. Nh3 Nc6 18. Nf2 Ne5 19. Rg1 Bb5 20. Qd1 Ne4 21. Be2 Ng5
+22. Nh2 Rac8 23. b4 Bxe2 24. Qxe2 Qc7 25. Rg2 Nc4 26. Nd1 Ne4 0-1

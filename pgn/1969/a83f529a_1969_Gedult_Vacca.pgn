@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Vacca, G."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "a83f529a"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qe5 7. O-O-O Nc6
+8. Bb5 Bd7 9. Bf4 Qh5 10. Qd3 O-O-O 11. Bxc6 bxc6 12. Qa6+ Kb8 13. Bxc7+ Kxc7
+14. Qxa7+ Kc8 15. Na4 Nd5 16. Rxd5 1-0

@@ -1,0 +1,25 @@
+[Event "Malaga"]
+[Site "Malaga"]
+[Date "1970.01.01"]
+[Round "15"]
+[White "Huguet, Bernard"]
+[Black "Tatai, Stefano"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "d48d5b44"]
+[Epoch "Bishop"]
+[WhiteID "601462"]
+[WhiteCountry "FRA"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. a3
+Nbd7 9. Qf3 Bb7 10. O-O-O Qb6 11. f5 e5 12. Nb3 Rc8 13. Bd3 Be7 14. Rhe1 O-O
+15. Bd2 Nc5 16. Nxc5 dxc5 17. Nd5 Bxd5 18. exd5 c4 19. Be4 a5 20. Be3 Qd6 21.
+c3 b4 22. axb4 axb4 23. Kd2 Rb8 24. Ke2 bxc3 25. bxc3 Rb3 26. Rc1 Bd8 27. Red1
+Ba5 28. Bd2 Rfb8 29. Kf1 h6 30. Be1 Rb2 31. Rc2 Rxc2 32. Bxc2 Rb2 33. Be4 Bb6
+34. Rd2 Rxd2 35. Bxd2 Qc5 36. Ke2 Kf8 37. g4 Qg1 38. h3 Ke7 39. Be1 Ne8 40. f6+
+gxf6 41. Bd2 Nd6 42. Bc2 Qh2+ 43. Kd1 Bf2 44. Kc1 Bg3 45. Qf1 Bf4 46. Bxf4
+Qxf4+ 47. Qxf4 exf4 48. Kd2 Nb5 49. Ba4 Nc7 50. Bc6 Kd6 51. Ke2 Nxd5 52. Bxd5
+Kxd5 53. Kf3 Ke5 0-1

@@ -1,0 +1,19 @@
+[Event "Bad Pyrmont ch-BRD"]
+[Site "Bad Pyrmont ch-BRD"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Rautenberg"]
+[Black "Carls"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "f8b623f1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Bg6 5. e4 dxe4 6. Bxf6 exf6 7. fxe4
+Bd6 8. Qf3 O-O 9. O-O-O Nd7 10. Bc4 c6 11. h4 h6 12. g4 b5 13. Bd3 b4 14.
+Nce2 c5 15. e5 Bxd3 16. Qxd3 Be7 17. Nf3 cxd4 18. exf6 Bxf6 19. g5 hxg5 20.
+hxg5 Bxg5+ 21. Kb1 Bh6 22. Qf5 Qf6 23. Qxd7 Qxf3 24. Nxd4 Qf6 25. Nf5 Rad8
+26. Nxh6+ gxh6 27. Rdg1+ Kh7 28. Qxa7 Qd4 29. Qe7 Qd6 30. Qe4+ f5 31. Qb7+
+Rd7 32. Rxh6+ Qxh6 33. Qxd7+ Kh8 34. Qb7 1-0
+

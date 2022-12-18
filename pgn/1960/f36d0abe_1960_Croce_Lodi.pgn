@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Croce, Francesco"]
+[Black "Lodi, Geremia"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "f36d0abe"]
+[Epoch "Bishop"]
+[WhiteID "831948"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Bxc3 10. bxc3 Qc7 11. Ba2 e5 12. h3 e4 13. Nh2 Na5 14. f4 c4 15. Bb2
+Nd5 16. Qe2 f5 17. g4 g5 18. fxg5 Qg3+ 19. Kh1 Nxe3 20. Rg1 Qxh3 21. gxf5 Bxf5
+22. Rae1 Nd5 23. Bxc4 Nxc4 24. Qxc4 Be6 25. Qe2 e3 26. Qg2 Nf4 27. Qxh3 Nxh3
+28. Rxe3 Bd5+ 0-1

@@ -1,0 +1,23 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Essegern, K."]
+[Black "Neubert"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Bird variation"]
+[HashCode "f7dd8bd9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5
+8. Bg5 a6 9. Na3 Be6 10. Nc4 Nd4 11. Bxf6 Qxf6 12. Nb6 Rb8 13. Ncd5 Qd8 14.
+c3 Bxd5 15. Nxd5 Ne6 16. g3 Be7 17. Bg2 O-O 18. O-O Nc7 19. Ne3 Qd7 20. f4
+exf4 21. gxf4 Rfd8 22. Qd4 Qb5 23. b4 Bf6 24. Qd2 Qd7 25. Rad1 Qe6 26. c4
+b5 27. Nd5 Nxd5 28. cxd5 Qe8 29. Rc1 Rdc8 30. Qe3 Rc4 31. Qa3 Qc8 32. Rb1
+Qg4 33. h3 Qe2 34. Rbe1 Bd4+ 35. Kh1 Qd2 36. Qg3 Qxb4 37. e5 Qc5 38. e6 f6
+39. Qg4 Qc8 40. Be4 Qe8 41. e7 Rc7 42. Qe6+ Kh8 43. Bd3 Bc3 44. Qxd6 Rcb7
+45. Re2 g6 46. Rc1 Rb6 47. Qc5 b4 48. d6 Kg7 49. Qd5 Qd7 50. Bc4 Re8 51.
+Qf7+ Kh6 52. Qf8+ Kh5 53. Rg2 1-0
+

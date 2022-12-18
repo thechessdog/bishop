@@ -1,0 +1,18 @@
+[Event "New Zealand ch"]
+[Site "New Zealand ch"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Sarapu, Ortvin"]
+[Black "Haight, FA."]
+[Result "1-0"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "4...e6"]
+[HashCode "758007c7"]
+[Epoch "Bishop"]
+[WhiteCountry "NZL"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 Bd6 6. O-O Qe7 7. Nc3 c6 8. e4
+e5 9. Bg5 Bg4 10. dxe5 Bxe5 11. Bxf7+ Kxf7 12. Nxe5+ Qxe5 13. Bxf6 Qe6 14. f3
+Bxf3 15. Bd4 Rd8 16. Qxf3+ Kg8 17. Rad1 Nd7 18. Qg3 Qh6 19. Be3 Qe6 20. Bg5 Re8
+21. Rd6 1-0

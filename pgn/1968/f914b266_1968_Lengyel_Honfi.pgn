@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Lengyel, L."]
+[Black "Honfi, Karoly"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "f914b266"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6 7. O-O Qa5 8. e4
+Bg4 9. h3 Bxf3 10. Bxf3 Nfd7 11. Be3 c5 12. dxc5 Nxc5 13. e5 Nc6 14. exd6 Rfd8
+15. Nd5 e6 16. Nc7 Rac8 17. a3 Bxb2 18. Rb1 Na4 19. Bd2 Nc3 20. Bxc6 Rxd6 21.
+Bxc3 Qxc7 22. Qf3 Bxc3 23. Rxb7 Rxc6 24. Rxc7 R8xc7 25. Qxc3 Rxc4 26. Qf6 a5
+27. Kg2 1-0

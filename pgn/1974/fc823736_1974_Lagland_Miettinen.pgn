@@ -1,0 +1,19 @@
+[Event "corr FIN jub10"]
+[Site "corr FIN jub10"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Lagland, G."]
+[Black "Miettinen, R."]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "fc823736"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d3 Nge7 7. a3 O-O 8.
+b4 b6 9. Be3 d6 10. Nbd2 h6 11. Qb3 Be6 12. Bc4 d5 13. exd5 Nxd5 14. Qa4
+Nxc3 15. Qb3 Bxc4 16. Qxc4 Nd4 17. bxc5 b5 18. Qb4 a5 19. Qb2 Nxf3+ 20.
+Nxf3 Qxd3 21. Rae1 e4 22. Nh4 Kh7 23. g3 b4 24. axb4 axb4 25. c6 b3 26. Kh1
+Nd5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Strasbourg"]
+[Site "Strasbourg"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Zinser"]
+[Black "Gereben, Erno"]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Capablanca-Duras variation"]
+[HashCode "1ab9cb22"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 c6 7. e4 dxe4 8.
+Nxe4 Bb4+ 9. Ned2 Nd7 10. Bd3 O-O 11. O-O e5 12. Ne4 Qe7 13. Ng3 exd4 14. Nxd4
+Ne5 15. a3 Ba5 16. Qc2 Rd8 17. Nb3 Bc7 18. Bh7+ Kh8 19. Bf5 Qh4 20. Nd2 Bxf5
+21. Nxf5 Rxd2 0-1

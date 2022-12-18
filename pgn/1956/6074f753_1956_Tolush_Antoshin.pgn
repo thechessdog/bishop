@@ -1,0 +1,21 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Tolush, Alexander"]
+[Black "Antoshin, Vladimir S"]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "6074f753"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. e3 O-O 6. Bd3 b6 7. O-O Bb7 8. cxd5
+exd5 9. Ne5 Nbd7 10. f4 c5 11. Rf3 Ne4 12. Rh3 Nxe5 13. Qh5 h6 14. dxe5 Bxc3
+15. bxc3 f6 16. c4 d4 17. Bb2 fxe5 18. Qxe5 Re8 19. Qh5 Qf6 20. Rf1 Re7 21. Rh4
+Qc6 22. exd4 cxd4 23. Qg4 Nf6 24. Qg6 Re3 25. Rd1 Rae8 26. Bxd4 Rxd3 27. Rxd3
+Re1+ 28. Kf2 Ne4+ 29. Kxe1 Qxg6 30. h3 Nf6 31. Rd2 Qg3+ 32. Bf2 Qxg2 33. f5
+Qh1+ 34. Ke2 Qf3+ 35. Ke1 Ne4 36. Rg4 Nxd2 0-1

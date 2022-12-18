@@ -1,0 +1,17 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Dreyer, K."]
+[Black "Gonzales, Eliseo"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "3c5a82c1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 Be7 5. Nbd2 Nbd7 6. Bd3 c5 7. c3 Qc7 8. O-O
+e5 9. dxe5 Nxe5 10. Nxe5 Qxe5 11. Nf3 Qe6 12. Bb5+ Bd7 13. Bxd7+ Nxd7 14. Bxe7
+Kxe7 15. e4 dxe4 16. Ng5 Qg6 17. Nxe4 Rhd8 18. Qd5 b6 19. f4 Kf8 20. f5 Qh6 21.
+Nd6 Ne5 22. f6 gxf6 23. Rae1 f5 24. Qxe5 1-0

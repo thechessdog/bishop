@@ -1,0 +1,19 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Pfleger, Helmut, Dr."]
+[Black "Zuidema, Coen"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "4b50ce70"]
+[Epoch "Bishop"]
+[WhiteID "4600100"]
+[BlackID "1000101"]
+[WhiteCountry "GER"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nc6 5. Ng5 Ne5 6. Qxd4 Nxc4 7. Qxc4 d5 8.
+exd5 h6 9. Ne4 Nxd5 10. O-O Nb6 11. Qe2 Be7 12. Re1 Bd7 13. c4 O-O 14. c5 Nc8
+15. Nbc3 1-0

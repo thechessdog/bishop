@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "8"]
+[White "Wheeler, W."]
+[Black "Batchelder, Wiliam"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "96fd27e6"]
+[Epoch "Bishop"]
+[BlackID "2003457"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. Nf3
+Nc6 9. O-O Bg7 10. Kh1 O-O 11. Qe1 b5 12. Qh4 b4 13. Ne2 e6 14. f5 exf5 15.
+exf5 gxf5 16. Ng3 Ne7 17. Nd4 Ng6 18. Qg5 h6 19. Qd2 f4 20. Ngf5 Qc5 21. Rxf4
+Nxf4 22. Qxf4 Qe5 23. Qh4 Bxf5 24. Nxf5 Rfe8 25. Bf4 Qxb2 26. Rf1 Nd7 27. Bxh6
+Be5 28. Bc1 Qxa2 29. Nh6+ Kf8 30. Bc4 1-0

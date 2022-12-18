@@ -1,0 +1,18 @@
+[Event "London open"]
+[Site "London open"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Yeo, M."]
+[Black "O'Donnell, I."]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "b0861662"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Ne7 5. a3 Ba5 6. b4 Bb6 7. Na4 dxe4 8.
+c4 a6 9. Bb2 O-O 10. Ng3 f5 11. Nh5 Rf7 12. Nxb6 cxb6 13. Qd2 Ng6 14. d5
+exd5 15. cxd5 e3 16. Qd4 exf2+ 17. Kxf2 Qh4+ 18. Qxh4 Nxh4 19. Bc4 Rd7 20.
+d6+ Kf8 21. Be6 Rd8 22. Bxg7+ Ke8 23. Nf6# 1-0
+

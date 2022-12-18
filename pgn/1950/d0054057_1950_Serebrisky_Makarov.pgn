@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Serebrisky"]
+[Black "Makarov, Marat"]
+[Result "1-0"]
+[ECO "A83"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Chigorin variation"]
+[HashCode "d0054057"]
+[Epoch "Bishop"]
+[BlackID "4101103"]
+[BlackCountry "RUS"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 c6 5. f3 Qa5 6. Qd2 exf3 7. Nxf3 d6 8.
+Bd3 Bg4 9. O-O Nbd7 10. b4 Qc7 11. Rae1 O-O-O 12. b5 c5 13. b6 Qxb6 14. Rb1 Qa5
+15. Rb5 Qc7 16. Rfb1 Bxf3 17. gxf3 cxd4 18. Rxb7 Qxb7 19. Qe2 dxc3 20. Ba6 Nb6
+21. a4 Rd7 22. a5 Na4 23. Rxb7 Rxb7 24. Bxb7+ Kxb7 25. Qb5+ Kc7 26. Qxa4 e5 27.
+Qc4+ Kd7 28. Qa6 Be7 29. Qxa7+ Ke6 30. a6 d5 31. Qb6+ Kf5 32. Bxf6 gxf6 33. a7
+d4 34. Qc6 d3 35. cxd3 1-0

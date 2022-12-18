@@ -1,0 +1,24 @@
+[Event "Hungary"]
+[Site "Budapest"]
+[Date "1962.01.01"]
+[Round "11"]
+[White "Liptay, Laszlo"]
+[Black "Forintos, Gyozo V"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "c884f48f"]
+[Epoch "Bishop"]
+[BlackID "700690"]
+[BlackCountry "HUN"]
+[WhiteID "700320"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Nh5 10. e4 Nxg3 11. hxg3 Bg7 12. Nd2 Na6 13. Bd3 O-O 14. O-O Rb8 15.
+a4 Nb4 16. Nc4 f5 17. exf5 Nxd3 18. Qxd3 Bxf5 19. Qd2 a6 20. a5 Qf6 21. Rfe1
+Qg6 22. Ra3 Bd4 23. Nd1 Be4 24. Nde3 Rbd8 25. Rb3 Rd7 26. Rf1 g4 27. Rb6 Rf6
+28. Qe2 Bd3 29. Qxg4 Qxg4 30. Nxg4 Bxc4 31. Nxf6+ Bxf6 32. Rd1 Bd4 33. b4 Bb5
+34. g4 Kg7 35. g3 Ba4 36. Rd3 Bb5 37. Rd1 Kf6 38. Kg2 Ke5 39. f4+ Kxd5 40. f5
+c4 0-1

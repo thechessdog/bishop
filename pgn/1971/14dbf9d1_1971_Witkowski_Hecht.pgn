@@ -1,0 +1,19 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Witkowski, Stefan"]
+[Black "Hecht, Hans-Joachim"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "14dbf9d1"]
+[Epoch "Bishop"]
+[BlackID "4600320"]
+[BlackCountry "DEU"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 Ne7 8.
+Be3 Ng6 9. Nd2 Bd6 10. c3 O-O 11. f4 Re8 12. Qh5 Bd7 13. Rae1 c5 14. Nf5 Kh8
+15. Rf3 Bxf5 16. exf5 Nf8 17. Qf7 1/2-1/2

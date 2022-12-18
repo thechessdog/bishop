@@ -1,0 +1,26 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Kupper, Josef"]
+[Black "Paoli, Enrico"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "f7c725d1"]
+[Epoch "Bishop"]
+[WhiteID "1300121"]
+[WhiteCountry "SUI"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Ne4 7. O-O d5 8. exd6
+O-O 9. dxc7 Qxc7 10. cxd4 Bd6 11. Nc3 Bf5 12. Re1 Nf6 13. Bg5 Ng4 14. h3 Bh2+
+15. Kf1 Nxf2 16. Kxf2 Qg3+ 17. Kf1 Bxh3 18. Qe2 Bg4 19. Bxc6 Bxf3 20. Qxf3 Qxg5
+21. Bd5 Rad8 22. Re3 Bf4 23. Re4 Bg3 24. Rg4 Qh6 25. Rd1 Bc7 26. Qh3 Qb6 27.
+Bb3 Rd6 28. Ne4 Rh6 29. Rh4 Rxh4 30. Qxh4 Kh8 31. Qe7 Kg8 32. Ng5 Bd6 33. Qe3
+Qd8 34. Kg1 Be7 35. Ne4 Kh8 36. Nc3 Bg5 37. Qf3 Bf6 38. Nd5 Bg5 39. Qf5 h6 40.
+Rf1 Qd6 41. Qe5 Qd8 42. Qf5 g6 43. Qe5+ Kh7 44. Nf6+ Kh8 45. Bc2 Bxf6 46. Qxf6+
+Qxf6 47. Rxf6 Kg7 48. Rd6 Rc8 49. Bb3 Rc7 50. Kf2 h5 51. d5 g5 52. Rd8 a6 53.
+d6 Rc6 54. Rd7 Kh6 55. Bd5 Rb6 56. b3 f5 57. Rd8 Kh7 58. Be6 f4 59. Bf5+ Kg7
+60. d7 1-0

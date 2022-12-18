@@ -1,0 +1,20 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Palmiotto, Fiorenti"]
+[Black "Primavera, Roberto"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "12025aa4"]
+[Epoch "Bishop"]
+[BlackID "800643"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bc4 Be7 8. Qd2
+b5 9. Bxf6 gxf6 10. Bb3 Qb6 11. O-O-O Bd7 12. Rhe1 Nc6 13. Nf5 exf5 14. Nd5 Qd8
+15. exf5 O-O 16. Rxe7 Nxe7 17. Nxf6+ Kg7 18. Qc3 Nxf5 19. Nxd7+ Kg8 20. Nxf8
+Qxf8 21. Qf3 Ng7 22. Bxf7+ Kh8 23. Rxd6 Ra7 24. Rf6 Qe7 25. Bd5 Qe1+ 26. Qd1
+Qb4 27. c3 Qe7 28. Qf3 1-0

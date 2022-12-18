@@ -1,0 +1,17 @@
+[Event "Illinois Open"]
+[Site "Illinois Open"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Tennant, S."]
+[Black "McGuire, R."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "ca8278da"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. d4 d5 6. Bxd5 Nxd4 7. Nxf7 Qe7
+8. Nxh8 Bg4 9. f3 Nxd5 10. fxg4 Nb4 11. Na3 O-O-O 12. Bd2 Qh4+ 13. g3 Qh3
+14. Bg5 Ndxc2+ 15. Nxc2 Nd3+ 16. Ke2 Qg2# 0-1
+

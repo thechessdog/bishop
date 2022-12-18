@@ -1,0 +1,18 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Barendregt, Johan Teunis"]
+[Black "Oosterwijk"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "07fff1aa"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. O-O-O Nf6 7. Qxg7 Rg8
+8. Qh6 Bf8 9. Qh4 Rg4 10. Qh3 Qxf2 11. Be2 Rg6 12. g4 Bc5 13. g5 Nfd7 14. Nxe4
+Qf5 15. Bd3 Qxh3 16. Nxh3 Bd4 17. Nf4 Rg8 18. Nh5 Ke7 19. Nef6 Nxf6 20. gxf6+
+Ke8 21. Bh6 Bd7 22. Be4 1-0

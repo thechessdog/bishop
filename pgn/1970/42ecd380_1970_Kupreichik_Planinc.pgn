@@ -1,0 +1,18 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kupreichik, Viktor D"]
+[Black "Planinc, Albin"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Lucena defence"]
+[HashCode "42ecd380"]
+[Epoch "Bishop"]
+[WhiteCountry "BLR"]
+[BlackCountry "SVN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Be7 4. O-O Nf6 5. Re1 d6 6. c3 O-O 7. d4 Bd7 8. h3
+Re8 9. Nbd2 Bf8 10. Bc4 exd4 11. cxd4 d5 12. Bb3 dxe4 13. Bxf7+ Kxf7 14. Qb3+
+Kg6 15. Nh4+ Kh5 16. Nxe4 Rxe4 17. Rxe4 g5 18. Qf7+ Kh6 19. Nf5+ 1-0

@@ -1,0 +1,21 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Filep, Tibor"]
+[Black "Osnos, Vyacheslav"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "58871f7d"]
+[Epoch "Bishop"]
+[WhiteID "701092"]
+[WhiteCountry "HUN"]
+[BlackCountry "RUS"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 g6 5. d3 Bg7 6. Bd2 d6 7. Rb1 a5 8. a3 Nf6
+9. b4 axb4 10. axb4 O-O 11. Qc1 Ne7 12. Nh3 c6 13. O-O d5 14. c5 d4 15. Nd1
+Nfd5 16. e4 dxe3 17. fxe3 Nc7 18. Nb2 h6 19. Nf2 Be6 20. Nc4 Nb5 21. Kh1 Kh7
+22. Nb6 Ra2 23. Ra1 Rxa1 24. Qxa1 f4 25. exf4 exf4 26. Qe1 fxg3 27. hxg3 Nf5
+28. Qxe6 Nbd4 29. Qe1 Nxg3+ 30. Kh2 Qh4+ 0-1

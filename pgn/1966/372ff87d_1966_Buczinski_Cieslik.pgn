@@ -1,0 +1,17 @@
+[Event "Chorzow"]
+[Site "Chorzow"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Buczinski, Henryk"]
+[Black "Cieslik, Mariusz"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "372ff87d"]
+[Epoch "Bishop"]
+[WhiteID "1129570"]
+[WhiteCountry "POL"]
+
+1. b4 e5 2. Bb2 d6 3. c4 Nf6 4. e3 Bf5 5. Nf3 Be7 6. d4 exd4 7. Nxd4 Bg6 8. Nc3
+O-O 9. Bd3 Bxd3 10. Qxd3 Nbd7 11. Nf5 Ne5 12. Qd4 g6 13. Nxe7+ Qxe7 14. f4 Nc6
+15. Nd5 Nxd4 16. Nxe7+ Kg7 17. Bxd4 c6 18. g4 Rfe8 19. g5 Kf8 20. gxf6 1-0

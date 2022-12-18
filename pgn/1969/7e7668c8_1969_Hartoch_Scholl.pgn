@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Hartoch, Robert G"]
+[Black "Scholl, Eddie C"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "7e7668c8"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackID "1000390"]
+[BlackCountry "NLD"]
+
+1. g3 g6 2. Bg2 Bg7 3. d3 c5 4. e4 Nc6 5. Nc3 d6 6. f4 e6 7. Nh3 Nge7 8. O-O
+O-O 9. Bd2 Rb8 10. Qe1 b5 11. Nd1 b4 12. Rb1 Nd4 13. Ne3 a5 14. g4 f5 15. Qd1
+Bd7 16. Rf2 Bc6 17. Be1 Qc7 18. exf5 exf5 19. g5 Rfe8 20. c3 Bxg2 21. Rxg2 bxc3
+22. Bxc3 Nec6 23. Rg3 Qf7 24. Ra1 Nb4 25. a3 Nd5 26. Nxd5 Qxd5 0-1

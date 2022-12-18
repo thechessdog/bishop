@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Svendsen"]
+[Black "Svendsen"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, Maroczy attack"]
+[HashCode "924a0df8"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. f4 e6 7. Nf3 Nd7 8.
+Be2 Ngf6 9. O-O Ne4 10. Nxe4 Bxe4 11. Ng5 Nf6 12. Nxe4 Nxe4 13. f5 exf5 14.
+Rxf5 Bd6 15. Bc4 O-O 16. c3 Qh4 17. h3 Qg3 18. Rf3 Qh2+ 19. Kf1 Rae8 0-1
+

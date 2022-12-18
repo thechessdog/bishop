@@ -1,0 +1,19 @@
+[Event "Halle"]
+[Site "Halle"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Domsgen, C."]
+[Black "Just, Gabriele, Dr."]
+[Result "0-1"]
+[ECO "A96"]
+[Opening "Dutch"]
+[Variation "classical variation"]
+[HashCode "baa7083f"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. g3 f5 3. Bg2 Nf6 4. Nf3 Be7 5. O-O d6 6. c4 O-O 7. Nc3 a5 8. b3 Qe8
+9. Bb2 Na6 10. a3 c6 11. b4 Bd8 12. Re1 e5 13. e4 f4 14. b5 Nb8 15. bxc6 Nxc6
+16. Nb5 fxg3 17. hxg3 Qh5 18. Nxd6 Ng4 19. dxe5 Be6 20. Rc1 Be7 21. Rc2 Rad8
+22. Qa1 Bxd6 23. exd6 Rxf3 24. Ree2 Rf7 25. c5 Qh2+ 26. Kf1 Qxg3 27. Bf6 Nh2+
+28. Kg1 Nf3+ 29. Kf1 Qh2 30. Bxf3 Rxf6 31. Bg2 Bh3 32. Qa2+ Kh8 33. Bxh3 Qh1#
+0-1

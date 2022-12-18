@@ -1,0 +1,19 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Strelis, V."]
+[Black "Alberts, L."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "ce377111"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+
+Kd8 8. Bxg6 Qxh1+ 9. Ke2 c6 10. Nc3 e3 11. Nf7+ Kc7 12. Qh4 Be7 13. Qg3+ d6
+14. Be4 Bg4+ 15. Qxg4 Nf6 16. Qe6 Nxe4 17. Qxe7+ Nd7 18. Qxe4 Qxh2 19. Nxh8
+Qxf2+ 20. Kd3 Qf1+ 21. Kxe3 Rxh8 22. b3 Rf8 23. Kd2 d5 24. Nxd5+ cxd5 25.
+Qxd5 b5 26. Kc3 Qe2 27. Ba3 Rf3+ 28. Kb2 Rf6 29. Rg1 Rc6 30. Bc5 a5 31. Rg7
+Qe6 32. Qxe6 Rxe6 33. Rxh7 1-0
+

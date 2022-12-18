@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Sakharov, Yuri G."]
+[Black "Krogius, Nikolai V"]
+[Result "0-1"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Simagin variation"]
+[HashCode "2026895a"]
+[Epoch "Bishop"]
+[WhiteID "34113743"]
+[WhiteCountry "RUS"]
+[BlackID "4100565"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Nb8 10. d4 Nbd7 11. Nh4 Nxe4 12. Nf5 Ndf6 13. Qf3 Bxf5 14. Qxf5 exd4
+15. Rxe4 Nxe4 16. Qxe4 Bg5 17. Bd2 Bxd2 18. Nxd2 dxc3 19. bxc3 Qg5 20. Nf3 Qc5
+21. Re1 c6 22. Re3 d5 23. Qe5 g6 24. Qf6 Rae8 25. Ne5 Re6 26. Qf4 Qd6 27. Qd4
+c5 28. Qxd5 c4 29. Qxd6 Rxd6 30. Bc2 Rd2 31. Be4 Rxa2 32. g4 Kg7 33. Bc6 Rd2
+34. g5 Rd6 35. Bb7 a5 36. Kg2 a4 37. Bc6 f6 38. gxf6+ Rdxf6 39. f3 a3 40. Re2
+Re6 41. Bxb5 Rf5 0-1

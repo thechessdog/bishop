@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Sarink, Hendrik"]
+[Black "Sitshev, Anatoly"]
+[Result "0-1"]
+[ECO "B55"]
+[Opening "Sicilian"]
+[Variation "Prins variation, Venice attack"]
+[HashCode "16001434"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Bb5+ Nbd7 7. Nf5 d5
+8. exd5 a6 9. Ba4 b5 10. Bb3 Nb6 11. Ne3 Bb7 12. Nc3 Bc5 13. Qd3 Rc8 14.
+Nf5 g6 15. Bg5 gxf5 16. Qxf5 Nbd7 17. O-O-O h6 18. Bh4 b4 19. Ne4 Nxe4 20.
+Bxd8 Nd6 21. Qg4 Kxd8 22. Ba4 Nb6 23. Bc6 Bxc6 24. dxc6 Kc7 25. Qg7 Bd4 26.
+Rhe1 Rhg8 27. Qxh6 Rxg2 28. Kb1 Nbc4 29. f4 Rb8 30. Rd3 Rbg8 31. a4 bxa3
+32. fxe5 Bxe5 33. Qh3 Rg1 34. Qd7+ Kb6 35. Rb3+ Ka5 36. Ka2 Rxe1 37. Qa7
+Rgg1 38. Qc5+ Nb5 39. Rxb5+ axb5 40. c3 Bxc3 41. Kb3 Nd2+ 42. Kc2 Rc1+ 43.
+Kd3 axb2 0-1
+

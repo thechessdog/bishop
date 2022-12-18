@@ -1,0 +1,21 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Fridh, Anton"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "26f0e3cd"]
+[Epoch "Bishop"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nc6 8. e4
+Nb6 9. d5 Na5 10. Nc3 c6 11. Re1 Nbc4 12. Qc2 cxd5 13. Nxd5 Bg4 14. h3 Bxf3 15.
+Bxf3 e6 16. Nf4 Rc8 17. Qe2 Bd4 18. Rb1 Qb6 19. b3 Ne5 20. Bg2 Nac4 21. h4 Ng4
+22. Nh3 Nce5 23. Rf1 Rc3 24. Kh1 Rfc8 25. f4 Rc2 26. Qd1 Qa6 27. Qxd4 Qe2 28.
+Qg1 Nd3 29. f5 Ndf2+ 30. Nxf2 Nxf2+ 31. Rxf2 Qxf2 32. Qxf2 Rxf2 33. fxe6 fxe6
+34. Be3 Rxa2 35. e5 Rcc2 36. Bxb7 Rh2+ 37. Kg1 0-1

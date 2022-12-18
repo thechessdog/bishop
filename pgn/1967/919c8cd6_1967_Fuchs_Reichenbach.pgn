@@ -1,0 +1,21 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Fuchs, Bruce"]
+[Black "Reichenbach, Werner"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich variation"]
+[HashCode "919c8cd6"]
+[Epoch "Bishop"]
+[WhiteID "2003805"]
+[BlackID "4604903"]
+[WhiteCountry "USA"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Bc4 c6 6. exd6 Bxd6 7. O-O O-O 8.
+Qd4 Bf5 9. Nc3 Nxc3 10. bxc3 Qc7 11. Rd1 Be7 12. Bf4 Qa5 13. Re1 Bc5 14. Bc7 b6
+15. Qf4 Nd7 16. Rad1 Nf6 17. Be5 Bg6 18. Bxf6 gxf6 19. Qxf6 b5 20. Bb3 Rad8 21.
+Nh4 1-0

@@ -1,0 +1,16 @@
+[Event "Villa Gesell tt"]
+[Site "Villa Gesell tt"]
+[Date "1969.01.01"]
+[Round "7"]
+[White "Gruszka, M."]
+[Black "Cordero, Alfredo"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "70fbfb7e"]
+[Epoch "Bishop"]
+[BlackID "104280"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 0-1

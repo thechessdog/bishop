@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Ushkevich"]
+[Black "Ruban"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "fe8debff"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bd3 e6
+8. O-O b5 9. Re1 Bb7 10. a4 b4 11. Nd5 exd5 12. exd5+ Ne5 13. f4 Qb6 14.
+Bf5 Nd7 15. Bxd7+ Kxd7 16. fxe5 dxe5 17. Rxe5 Bc5 18. c3 Rae8 19. Qg4+ Kc7
+20. a5 Qg6 21. Rxe8 Rxe8 22. Bf4+ Kd8 23. Qh4+ f6 24. Qf2 Bxd5 25. Rd1 Kc8
+26. Bg3 b3 27. Qf4 Re5 28. Qf1 Kb7 29. Kh1 Rh5 30. Qf4 Re5 31. Nf3 Qc2 32.
+Re1 Qxb2 33. Rxe5 fxe5 34. Qxe5 Qb1+ 35. Ne1 Kc6 36. Qe8+ 1-0
+

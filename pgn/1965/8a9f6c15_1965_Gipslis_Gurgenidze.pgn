@@ -1,0 +1,23 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Gipslis, Aivars"]
+[Black "Gurgenidze, Bukhuti"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "8a9f6c15"]
+[Epoch "Bishop"]
+[BlackCountry "GEO"]
+[WhiteCountry "LVA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. hxg6 hxg6 10. Qxd4 Nc6 11. Qf2 e6 12. exd6 Nf6 13. Bd2 Qxd6 14. O-O-O
+Re8 15. Qh4 Qc5 16. Ng5 Nb4 17. a3 Nbd5 18. g4 Bd7 19. Rh3 Rac8 20. Bd3 Qb6 21.
+Rdh1 Nxc3 22. Bxc3 Rxc3 23. bxc3 Qd6 24. Kb2 Bc6 25. R1h2 Qxf4 26. Rf2 Qxg4 27.
+Qxg4 Nxg4 28. Rxf7 Ne5 29. Rf4 Bd5 30. Ne4 Rf8 31. Rxf8+ Kxf8 32. Rg3 Ke7 33.
+Nd2 Bh6 34. c4 Bf4 35. Rg1 Bc6 36. Nb3 g5 37. Nd4 Nxd3+ 38. cxd3 Be5 39. Kc3
+Bf6 40. Re1 Kf7 41. c5 a5 42. a4 Bg7 43. Re3 Bd5 44. Re1 Kg6 45. Rg1 Kh5 46.
+Rf1 g4 0-1

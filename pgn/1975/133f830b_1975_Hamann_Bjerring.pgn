@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hamann, Svend"]
+[Black "Bjerring, Kai"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "133f830b"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Bd7 11. a4 Na6 12. f3 Nh5 13. Nc4 Bd4+ 14. Kh1 Qh4 15.
+Qe1 Qf6 16. Qd2 Nc7 17. g4 Ng7 18. Qh6 Qe7 19. Bf4 Bxc3 20. Bxd6 Qd8 21. bxc3
+Nxd5 22. exd5 Rxe2 23. Rae1 Rxe1 24. Rxe1 b5 25. Be7 Qb8 26. Ne5 1-0

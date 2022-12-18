@@ -1,0 +1,17 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schurr"]
+[Black "Ljubisavljevic, Ziv"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "1dcf9311"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. c3 e6 3. Nf3 Nc6 4. d4 cxd4 5. cxd4 d5 6. exd5 Qxd5 7. Be2 Nf6
+8. O-O Be7 9. Nc3 Qd8 10. Be3 O-O 11. Rc1 Nb4 12. Ne5 Bd7 13. Bf3 Qb6 14.
+Nxd7 Nxd7 15. d5 Bc5 16. Na4 1-0
+

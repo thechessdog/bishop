@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Solovbev"]
+[Black "Boleslavsky, Isaac"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "2a68dc9f"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+O-O 9. g4 Be6 10. g5 Ne8 11. Qd2 a5 12. a4 Nc6 13. Nd5 f5 14. exf5 Bxf5 15. Rg1
+Nb4 16. Nxb4 axb4 17. f4 Rc8 18. fxe5 Rxc2 19. Qd5+ Kh8 20. Nd4 Rc5 21. Qxb7
+Bc8 22. Qb8 Nc7 23. Qb6 Nd5 24. Qxd8 Rxd8 25. Bf2 dxe5 26. Nf3 Rc2 27. Nxe5 Re8
+28. Bb5 Bc5 29. Kd1 Rxe5 30. Kxc2 Bxf2 31. Rgf1 Ne3+ 32. Kb3 Nxf1 33. Rxf1 Bc5
+34. a5 Be6+ 35. Ka4 b3 36. a6 g6 37. Rd1 Kg7 38. Bd7 Bc4 39. Bc8 Bb6 40. h4 Kf8
+41. Rd7 Bb5+ 0-1

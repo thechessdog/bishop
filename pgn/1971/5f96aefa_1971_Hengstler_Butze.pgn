@@ -1,0 +1,17 @@
+[Event "corr EU/I/GT"]
+[Site "corr EU/I/GT"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Hengstler, G."]
+[Black "Butze, Roland"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "5f96aefa"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. Be3
+e6 9. c3 Bd6 10. Bd3 Bxg3 11. fxg3 Bxd3 12. Qxd3 Ngf6 13. O-O-O Ng4 14. Rhe1
+O-O 15. Rf1 Qa5 16. Kb1 b5 17. Qe4 Ndf6 18. Qd3 Rad8 19. Qc2 Nxe3 0-1

@@ -1,0 +1,20 @@
+[Event "Palma de Mallorca Interzonal"]
+[Site "Palma de Mallorca izt"]
+[Date "1970.11.01"]
+[Round "3"]
+[White "Rubinetti, Jorge"]
+[Black "Matulovic, Milan"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack, Gurgenidze variation"]
+[HashCode "95b9af4a"]
+[Epoch "Bishop"]
+[WhiteID "100161"]
+[WhiteCountry "ARG"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. b4 Nxb4 7. c3 Nc6 8. d4
+exd4 9. e5 Nge7 10. cxd4 a6 11. Bxc6 dxc6 12. Nbd2 O-O 13. Ne4 Bg4 14. Bg5 h6
+15. Nf6+ Bxf6 16. Bxf6 Bxf3 17. Qxf3 Qd7 18. Qf4 Kh7 19. Re4 Ng8 20. dxc5 Nxf6
+21. exf6 Rfe8 22. Rae1 1/2-1/2

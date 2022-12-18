@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Giselbrecht"]
+[Black "Reisinger"]
+[Result "0-1"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "e7c7a062"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. a3 Bxc3+ 7. bxc3 Ne4
+8. Qc2 Nd7 9. Bd3 f5 10. O-O Rf6 11. Ne5 Nxe5 12. dxe5 Rh6 13. f3 Qh4 14.
+g3 Nxg3 15. Rf2 dxc4 16. Qa4 b5 17. Qxb5 Ba6 18. Qxa6 cxd3 19. Qxd3 Rd8 20.
+Qc2 Ne4 21. fxe4 Qg4+ 22. Rg2 Rd1+ 23. Kf2 Rxh2 24. Rxh2 Qg1+ 25. Kf3 Rf1+
+26. Ke2 Qxh2+ 27. Kxf1 Qxc2 28. Kg1 h5 29. exf5 h4 0-1
+

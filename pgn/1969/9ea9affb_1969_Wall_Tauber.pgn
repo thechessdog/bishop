@@ -1,0 +1,15 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Tauber, Andre"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "9ea9affb"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 d6 5. O-O d5 6. exd5 Nxd5 7. Nxe5 Nxe5 8.
+dxe5 Nb4 9. Bxf7+ Ke7 10. Bg5+ 1-0

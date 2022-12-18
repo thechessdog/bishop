@@ -1,0 +1,19 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "13"]
+[White "Eriksson, Henrik"]
+[Black "Clement"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "63a6805e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. d3 Bb4 4. f4 exf4 5. Bxf4 d6 6. Qf3 c6 7. Bg5 Nbd7
+8. Ne2 h6 9. Bf4 Ne5 10. Bxe5 dxe5 11. Qg3 O-O 12. Qxe5 Bd6 13. Qd4 Qe7 14.
+Qg1 Bc5 15. d4 Bb6 16. Qe3 Ba5 17. O-O-O Bg4 18. e5 Nd7 19. h3 Bh5 20. g4
+Bg6 21. Nf4 Bh7 22. Bc4 Kh8 23. Ne4 f5 24. Nd6 fxg4 25. hxg4 b5 26. Bb3 Bc7
+27. Nf5 Qe8 28. Ne6 Bd8 29. Nexg7 Bg5 30. Qxg5 hxg5 31. Rxh7+ 1-0
+

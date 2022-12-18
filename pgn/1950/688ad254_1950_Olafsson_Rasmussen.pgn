@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Olafsson, Fridrik"]
+[Black "Rasmussen, Karsten"]
+[Result "1-0"]
+[ECO "E28"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "688ad254"]
+[Epoch "Bishop"]
+[WhiteID "2300052"]
+[WhiteCountry "ISL"]
+[BlackID "1400088"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. e3 c5 7. Bd3 d6 8. Ne2
+e5 9. f3 Qe7 10. e4 Ne8 11. Qc2 Nc6 12. O-O b6 13. f4 f6 14. Be3 Ba6 15. Ng3
+cxd4 16. cxd4 g6 17. dxe5 dxe5 18. c5 Bxd3 19. Qxd3 Kg7 20. Qd5 Qb7 21. fxe5
+Rd8 22. exf6+ Nxf6 23. Qg5 Ng8 24. cxb6 axb6 25. Rac1 Rxf1+ 26. Rxf1 Rd3 27.
+Bc1 h6 28. Nf5+ Kh7 29. Nxh6 Rd7 30. Nxg8 Kxg8 31. Qxg6+ Rg7 32. Qe6+ Kh7 33.
+Rf6 1-0

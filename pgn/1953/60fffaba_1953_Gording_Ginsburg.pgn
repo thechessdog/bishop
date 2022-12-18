@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Gording, J."]
+[Black "Ginsburg, Mark"]
+[Result "1-0"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "60fffaba"]
+[Epoch "Bishop"]
+[BlackID "2000563"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. h3 g6 7. Be3 Bg7 8. Qd2
+O-O 9. g4 a6 10. Be2 e5 11. Nf5 gxf5 12. gxf5 Na5 13. Rg1 Kh8 14. Rxg7 Kxg7 15.
+Bg5 Kh8 16. Nd5 Nxe4 17. Bxd8 Nxd2 18. Bf6+ Kg8 19. Ne7# 1-0

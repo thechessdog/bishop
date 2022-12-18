@@ -1,0 +1,25 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "2"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Stull, Norbert"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "994f5f72"]
+[Epoch "Bishop"]
+[BlackID "4000137"]
+[BlackCountry "LUX"]
+[WhiteCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 h6 8. h3
+Be7 9. Be3 b5 10. a4 bxa4 11. Rxa4 Bb7 12. Nd2 O-O 13. Bf3 Nbd7 14. O-O Nc5 15.
+Bxc5 dxc5 16. Nc4 Qc7 17. Ne3 Bc6 18. Ra2 Rfd8 19. Qe2 Qb7 20. Nc4 Bd6 21. Na5
+Qb6 22. Nxc6 Qxc6 23. Qc4 Rdb8 24. Rfa1 Rb6 25. Nd1 Qb7 26. c3 g6 27. Qe2 Bc7
+28. Qe3 Kg7 29. Qxc5 Rc6 30. Qe3 Qb5 31. Be2 Qb7 32. b4 Bb6 33. Qf3 Rd6 34.
+Bxa6 Bxf2+ 35. Nxf2 Rdxa6 36. Rxa6 Rxa6 37. Rxa6 Qxa6 38. Ng4 Nxg4 39. hxg4 Qc4
+40. Kf2 f6 41. Qe3 Kf7 42. Kg3 Kg7 43. Kh2 Kf7 44. Qa7+ Ke6 45. Qb6+ Kf7 46.
+Qb7+ Kf8 47. b5 Qxc3 48. b6 Qe3 49. Qc8+ Ke7 50. Qc7+ Ke6 51. Qc4+ Ke7 52. b7
+Qf4+ 53. Kh1 Qg3 54. Qb4+ Ke6 55. b8=Q Qh4+ 56. Kg1 1-0

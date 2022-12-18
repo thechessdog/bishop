@@ -1,0 +1,23 @@
+[Event "Halle zt"]
+[Site "Halle zt"]
+[Date "1967.01.01"]
+[Round "9"]
+[White "Kristinsson, Jon"]
+[Black "Zwaig, Arne"]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "0211ae7b"]
+[Epoch "Bishop"]
+[WhiteID "2300141"]
+[WhiteCountry "ISL"]
+[BlackID "1500040"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. cxd5 exd5 8. Ne5
+Bb7 9. O-O a6 10. f4 c5 11. a3 Ba5 12. Na4 c4 13. Bc2 Nbd7 14. b4 cxb3 15. Bxb3
+Ne4 16. Bc2 Ndf6 17. g4 Rc8 18. g5 Ne8 19. Bxe4 dxe4 20. Ra2 Bc6 21. Nxc6 Rxc6
+22. Rg2 Qd5 23. f5 Nd6 24. f6 Rfc8 25. Bd2 Nf5 26. Rgf2 Bxd2 27. Qxd2 Nh4 28.
+Kh1 Nf3 29. Qb2 Qb5 30. Qb4 Rc1 31. Qxb5 axb5 32. Nxb6 Rxf1+ 33. Rxf1 Rc2 34.
+Rxf3 exf3 35. d5 Rc1# 0-1

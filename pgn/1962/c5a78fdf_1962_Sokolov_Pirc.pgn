@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Sokolov, Vladimir"]
+[Black "Pirc, Vasja"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "c5a78fdf"]
+[Epoch "Bishop"]
+[WhiteID "904031"]
+[WhiteCountry "SRB"]
+[BlackCountry "SVN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+Qxc5+ 9. Kh1 Nc6 10. Nd2 Be6 11. Nb3 Bxb3 12. axb3 Nb4 13. Bf3 a5 14. Qe2 Nd7
+15. Be3 Qc7 16. Qd2 Rfc8 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Tolush, Alexander"]
+[Black "Rovner, Dmitry"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "dc0f0680"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Be7 8.
+O-O-O Qc7 9. Qg3 Bd7 10. f4 h6 11. Bh4 Nc6 12. Nf3 O-O-O 13. Bd3 Rdg8 14. Qe1
+Nb4 15. Kb1 Bc6 16. Rc1 Qa5 17. Bc4 g5 18. fxg5 hxg5 19. Bg3 Bd7 20. e5 Ne8 21.
+Bb3 Nc6 22. exd6 Bxd6 23. Bxd6 Nxd6 24. Rd1 g4 25. Rxd6 gxf3 26. gxf3 Ne5 27.
+Bd5 Qc5 28. Qxe5 Qg1+ 29. Nd1 Qxh1 30. Bxb7+ Kd8 31. Bc6 1-0

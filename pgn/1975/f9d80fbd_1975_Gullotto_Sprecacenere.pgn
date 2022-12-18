@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gullotto"]
+[Black "Sprecacenere"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "f9d80fbd"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 b4 12. Nd5 exd5 13. Nf5 Kf8 14.
+Nxe7 Bb7 15. Nxd5 Nxd5 16. exd5 f6 17. Qh5 fxg5 18. fxg5 Ne5 19. Bxh7 Ke7
+20. Rxe5+ Kd8 21. Re2 g6 22. Qxg6 Qxh7 23. Qxd6+ Kc8 24. Re7 1-0
+

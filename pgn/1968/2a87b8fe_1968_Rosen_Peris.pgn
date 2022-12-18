@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Rosen, W."]
+[Black "Peris, S."]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "2a87b8fe"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 b5 7. Bg2 Bb7 8.
+O-O Nf6 9. Re1 d6 10. a4 bxa4 11. Rxa4 Be7 12. Rb4 Ra7 13. Be3 Ba8 14. Ndb5
+axb5 15. Nxb5 Qa5 16. Nxd6+ Bxd6 17. Qxd6 Rb7 18. Rxb7 Qxe1+ 19. Bf1 1-0
+

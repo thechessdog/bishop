@@ -1,0 +1,19 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1957.01.01"]
+[Round "3"]
+[White "Vukovic, Sava"]
+[Black "Tot, Bora"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "e8043ffc"]
+[Epoch "Bishop"]
+[WhiteID "941387"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 5. c4 Nb6 6. Be3 e6 7. Nc3 Nc6 8.
+Be2 Bxf3 9. Bxf3 Nxc4 10. Bxc6+ bxc6 11. Qa4 Nb6 12. Qxc6+ Qd7 13. Qxd7+ Kxd7
+14. Ke2 Be7 15. Rac1 c6 16. Rhd1 Rab8 17. Ne4 Nd5 18. Rd2 Rb6 1/2-1/2

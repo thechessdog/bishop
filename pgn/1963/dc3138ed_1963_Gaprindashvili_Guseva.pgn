@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Gaprindashvili, Nona"]
+[Black "Guseva"]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "dc3138ed"]
+[Epoch "Bishop"]
+[WhiteID "13600125"]
+[WhiteCountry "GEO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Bc4
+Bd7 9. Qd2 Nc6 10. O-O-O Rb8 11. h4 Nxd4 12. Bxd4 b5 13. Be2 Qa5 14. h5 b4 15.
+Nd5 Nxd5 16. Bxg7 Nc3 17. Qh6 Nxe2+ 18. Kd2 b3+ 19. Kxe2 Rfc8 20. hxg6 Rxc2+
+21. Ke3 1-0

@@ -1,0 +1,21 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Lee"]
+[Result "1-0"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "fd028f50"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Be7 7. d5 d6 8. e4 e5
+9. Ng3 h5 10. Nf5 Bf8 11. c5 bxc5 12. Bg5 a6 13. f4 exf4 14. Bd3 Be7 15. Nxg7+
+Kf8 16. Nf5 Nxd5 17. Bh6+ Rxh6 18. Nxh6 Bh4+ 19. g3 fxg3 20. O-O gxh2+ 21. Kh1
+Nf6 22. Qb3 c4 23. Qxb7 Nbd7 24. Bxc4 Ne5 25. Ba2 Rb8 26. Qxa6 Rxb2 27. Rf5 Kg7
+28. Rxe5 Kxh6 29. Rf5 Ng4 30. Nd1 Qe8 31. Qd3 Qb8 32. Bxf7 Qb6 33. Nxb2 Qxb2
+34. Raf1 Nf2+ 35. R5xf2 Bxf2 36. Qf3 1-0

@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Barendregt, Johan Teunis"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "bfdc7f71"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 Nf6 6. O-O e6 7. Bg5 Be7 8.
+Nc3 O-O 9. Rad1 Qa5 10. Bxd7 Bxd7 11. Bxf6 gxf6 12. e5 fxe5 13. Nxe5 Bc8 14.
+Nc4 Qc5 15. Nxd6 Qxd4 16. Rxd4 Rd8 17. Rfd1 Bf6 18. Rg4+ Kf8 19. Rc4 b5 20. Rc7
+Be7 21. Ndxb5 a6 22. Rxd8+ Bxd8 23. Ra7 Rxa7 24. Nxa7 Bd7 25. a4 Bb6 26. Nab5
+axb5 27. Nxb5 0-1

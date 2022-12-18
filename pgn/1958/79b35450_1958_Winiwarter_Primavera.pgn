@@ -1,0 +1,21 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Winiwarter, Felix"]
+[Black "Primavera, Giuseppe"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "79b35450"]
+[Epoch "Bishop"]
+[WhiteID "1601890"]
+[WhiteCountry "AUT"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+Be7 9. O-O O-O 10. Kh1 Be6 11. Qe2 Rc8 12. fxe5 dxe5 13. Nh4 Nbd7 14. Nf5 Bf8
+15. Bg5 b5 16. a3 Rab8 17. Ne3 Bc4 18. Bxc4 bxc4 19. Bxf6 Nxf6 20. Rxf6 gxf6
+21. Ncd5 Qd8 22. Nf5 Kh8 23. Rd1 Qe8 24. Qg4 Rd8 25. Re1 Qe6 26. Re3 Rxb2 27.
+h3 Rxd5 28. Rg3 1-0

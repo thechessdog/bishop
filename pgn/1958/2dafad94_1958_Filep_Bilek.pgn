@@ -1,0 +1,18 @@
+[Event "Bajnoksag"]
+[Site "Bajnoksag"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Filep"]
+[Black "Bilek, Istvan"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "2dafad94"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 b6 6. Qf3 d5 7. cxd5 exd5 8. h3
+Bb7 9. Ne2 Re8 10. O-O Ne4 11. a3 Bf8 12. Ng3 Qe7 13. Bb5 c6 14. Bd3 c5 15. Bb5
+Rd8 16. Bd3 Nxc3 17. bxc3 Nc6 18. Bb2 g6 19. Rfe1 f5 20. c4 cxd4 21. exd4 Qf7
+0-1

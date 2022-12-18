@@ -1,0 +1,19 @@
+[Event "Berg en Dal B"]
+[Site "Berg en Dal B"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Bertok, Mario"]
+[Black "Matanovic, Aleksandar"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "32e01a29"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[BlackCountry "SRB"]
+[WhiteCountry "HRV"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Ne2 d5 7. a3 cxd4 8. exd4
+dxc4 9. Bxc4 Be7 10. O-O Nbd7 11. Nf4 Nb6 12. Bb3 Nbd5 13. Nfxd5 exd5 14. h3 h6
+15. Qf3 Be6 1/2-1/2

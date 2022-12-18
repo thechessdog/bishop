@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "August, A."]
+[Black "Lehmann, E."]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "96d1f25a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. a3 Bb7 8.
+O-O Nf6 9. Bf3 Nc6 10. Nxc6 dxc6 11. Qe2 e5 12. Bg5 Be7 13. Rfd1 h6 14. Bh4
+O-O 15. g4 g5 16. Bg3 Rfd8 17. Kg2 Ne8 18. Rxd8 Rxd8 19. Nd1 Ng7 20. Ne3
+Ne6 21. Nf5 Bf8 22. Rh1 f6 23. h4 Nf4+ 24. Bxf4 gxf4 25. g5 fxg5 26. hxg5
+hxg5 27. Bg4 c5 28. Rh5 Be7 29. Nxe7+ Qxe7 30. Bf5 Bc8 31. Bxc8 Rxc8 32.
+Qg4 Rc7 33. Kf3 Qd6 34. Rxg5+ 1-0
+

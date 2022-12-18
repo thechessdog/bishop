@@ -1,0 +1,19 @@
+[Event "Zierikzee ch-NED"]
+[Site "Zierikzee ch-NED"]
+[Date "1967.07.01"]
+[Round "6"]
+[White "Bouwmeester, Hans"]
+[Black "Donner, Jan Hein"]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "ed06ca97"]
+[Epoch "Bishop"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O Nc6 8. a3
+cxd4 9. exd4 dxc4 10. Bxc4 Be7 11. Be3 a6 12. Ba2 b5 13. d5 exd5 14. Nxd5
+1/2-1/2

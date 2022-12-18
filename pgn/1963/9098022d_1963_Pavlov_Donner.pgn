@@ -1,0 +1,18 @@
+[Event "Halle zt"]
+[Site "Halle zt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Pavlov, S."]
+[Black "Donner, Jan Hein"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "9098022d"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 gxf6 12. a3 Nb6 13. h4 Bd7 14. g5 O-O-O
+15. a4 Nxa4 16. Nxa4 bxa4 17. Bxa6+ Kb8 18. Bb5 Bxb5 19. Nxb5 Qb7 20. Qe2 d5
+21. exd5 exd5 22. Rhe1 Rd7 23. Rd4 Bc5 24. Rdd1 Qb6 25. gxf6 Rb7 26. Qe8+ 1-0

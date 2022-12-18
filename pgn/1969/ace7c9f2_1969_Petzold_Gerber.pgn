@@ -1,0 +1,18 @@
+[Event "corr ch5-DDR"]
+[Site "corr ch5-DDR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Petzold, J."]
+[Black "Gerber, K."]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "ace7c9f2"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. cxd5 Re8 10. Nd2 a6 11. a4 Qe7 12. O-O Nbd7 13. Bf3 Rb8 14. a5 b5
+15. axb6 Nxb6 16. Ra2 c4 17. b3 Ng4 18. Ndb1 cxb3 19. Qxb3 Bd4+ 20. Kh1
+Nxh2 21. Rd1 Qh4 0-1
+

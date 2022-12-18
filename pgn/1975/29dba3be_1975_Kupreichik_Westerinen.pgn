@@ -1,0 +1,19 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kupreichik, Viktor D"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "29dba3be"]
+[Epoch "Bishop"]
+[BlackID "500020"]
+[WhiteCountry "BLR"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 gxf6 5. e3 e6 6. Nge2 c5 7. Ng3 Bg6 8.
+h4 h6 9. e4 cxd4 10. Bb5+ Nc6 11. exd5 a6 12. dxc6 axb5 13. cxb7 Rb8 14. Nce2
+Bb4+ 15. Kf1 e5 16. f4 Qd7 17. c3 Bc5 18. cxd4 exd4 19. Rc1 Bb6 20. f5 Bxf5 21.
+Nxd4 Bxd4 22. Rc8+ Ke7 23. Qe1+ Kd6 24. Qd1 Ke7 25. Qe1+ 1/2-1/2

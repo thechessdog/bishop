@@ -1,0 +1,23 @@
+[Event "Quebec"]
+[Site "Quebec"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Pageau, Roger"]
+[Black "Spraggett, Kevin"]
+[Result "0-1"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "cb558c28"]
+[Epoch "Bishop"]
+[BlackID "2600013"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. h3 c5 7. d5 e6 8. Bg5 exd5
+9. cxd5 h6 10. Bh4 Qa5 11. Qd2 a6 12. Bf3 Nbd7 13. Nge2 b5 14. O-O Re8 15. Bg3
+Qc7 16. Rac1 b4 17. Nb1 Nxe4 18. Qxb4 Nxg3 19. Nxg3 Rb8 20. Qa4 Bxb2 21. Rc2
+Bg7 22. Nd2 Re7 23. Nc4 Ne5 24. Nxe5 Rxe5 25. Qc6 Qd8 26. Rd1 Rb6 27. Qa8 Re8
+28. Re2 Be5 29. Ne4 Kg7 30. a4 Qc7 31. a5 Bd7 32. axb6 Qxb6 33. Nxc5 Rxa8 34.
+Nxd7 Qb3 35. Rxe5 dxe5 36. Nxe5 Re8 37. Nc6 Qxd1+ 38. Bxd1 Re1+ 39. Kh2 Rxd1
+40. Kg3 Rxd5 41. Kf3 Rc5 42. Nb4 a5 43. Nd3 Rc3 44. Ke4 f5+ 45. Kd4 Rc2 46. g3
+a4 47. f3 a3 48. Nb4 Rb2 0-1

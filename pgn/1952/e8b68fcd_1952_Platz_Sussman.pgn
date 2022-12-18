@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Sussman, H."]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "e8b68fcd"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8. Be2
+h6 9. Be3 d5 10. exd5 Nxd5 11. Nxd5 exd5 12. O-O Bd6 13. c4 dxc4 14. Nxc6 bxc6
+15. Rad1 Bc7 16. Qc3 Qh4 17. g3 Qe4 18. Bf3 Qxf3 19. Qxg7 Bh3 20. Qxh8+ Ke7 21.
+Bc5+ Bd6 22. Rfe1+ Be6 23. Qxa8 Kf6 24. Rxd6 Kg6 25. Qg8+ Kh5 26. Re5+ 1-0

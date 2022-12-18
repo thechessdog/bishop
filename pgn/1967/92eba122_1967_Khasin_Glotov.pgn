@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Khasin, Abram"]
+[Black "Glotov, Vladimir G"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "92eba122"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 c5 7. dxc5 Qa5 8. Qd2
+dxc5 9. Ne5 Rd8 10. Bd3 Be6 11. Nb5 Qb6 12. b4 Na6 13. O-O Nxe4 14. Qe2 Nd6 15.
+bxc5 Nxc5 16. Rfb1 Rac8 17. a4 Nxb5 18. Rxb5 Qd6 19. a5 a6 20. Rb6 Qc7 21. Bf2
+Nxd3 22. cxd3 Rd6 23. Re1 Rxb6 24. Bxb6 Qc3 25. h3 Bd5 26. Kh2 Qb3 27. Qe3 Rc2
+28. Re2 e6 29. Rxc2 Qxc2 30. Qf2 Qc1 31. Kg3 g5 32. Be3 Qc7 33. d4 f6 34. Nd3
+h6 35. Bd2 0-1

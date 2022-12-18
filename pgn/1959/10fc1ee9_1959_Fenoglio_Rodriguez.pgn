@@ -1,0 +1,21 @@
+[Event "Argentina"]
+[Site "Buenos Aires"]
+[Date "1959.01.01"]
+[Round "15"]
+[White "Fenoglio, Virgilio"]
+[Black "Rodriguez, Ad"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "10fc1ee9"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. O-O d5 8. cxd5
+exd5 9. Ne5 Nbd7 10. f4 c5 11. e3 Rc8 12. Bd2 a6 13. a4 Re8 14. Rc1 Nf8 15. Be1
+b5 16. axb5 axb5 17. Nxb5 Qb6 18. Nc3 cxd4 19. exd4 Ba6 20. Rf2 Red8 21. Rfc2
+Bc4 22. Nxc4 dxc4 23. Bf2 Ne6 24. Qe2 Bd6 25. d5 Nc5 26. Na4 Qb4 27. Rxc4 Qb5
+28. Nxc5 Bxc5 29. Bxc5 Rxc5 30. Qe7 Rcxd5 31. Bxd5 Qxd5 32. Qxd8+ Qxd8 33. Rc8
+Qf8 34. b4 Ne8 35. Re1 Nd6 36. Rxf8+ Kxf8 37. Re5 Nc4 38. Rc5 Nd6 39. b5 Ke7
+40. b6 1-0

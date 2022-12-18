@@ -1,0 +1,22 @@
+[Event "Sofia-Budapest"]
+[Site "Sofia-Budapest"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Honfi"]
+[Black "Radulov, Ivan"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "45d3a8a6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 c6 8. a4
+Qc7 9. b3 Nb6 10. Bf1 Bg4 11. Re3 Rad8 12. a5 Nbd7 13. h3 Bxf3 14. Rxf3 d5 15.
+exd5 e4 16. Bf4 Bd6 17. Bxd6 Qxd6 18. Rg3 cxd5 19. Nb5 Qb8 20. a6 b6 21. Qd2 g6
+22. Be2 Ne8 23. Rc3 f5 24. Rc6 Rf6 25. Qc3 Kg7 26. f3 Rxc6 27. Qxc6 Ndf6 28.
+Qb7+ Qxb7 29. axb7 a5 30. Na7 Rb8 31. Ba6 Nc7 32. Nc6 Nxa6 33. Nxb8 Nxb8 34. c4
+Kf7 35. c5 bxc5 36. dxc5 Ke7 37. Rxa5 Kd7 38. b4 Kc6 39. Kf2 d4 40. fxe4 fxe4
+41. Ra1 Nd5 42. b5+ Kxb5 43. Ra8 Nc6 44. Rc8 Ndb4 45. b8=Q+ Nxb8 46. Rxb8+ Kxc5
+47. Ke2 d3+ 48. Kd2 Kc4 49. Ra8 Kd4 50. Ra4 e3+ 51. Kc1 Kc3 52. Ra3+ Kc4 53.
+Ra8 Nc2 0-1

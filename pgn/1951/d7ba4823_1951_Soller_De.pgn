@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Soller, Carl"]
+[Black "De Claparede"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "d7ba4823"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. Qe2 exf3 6. Qb5+ Bd7 7. Qxb7
+Bc6 8. Bb5 1-0
+

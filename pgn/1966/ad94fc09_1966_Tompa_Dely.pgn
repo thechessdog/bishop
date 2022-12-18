@@ -1,0 +1,21 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Tompa, Janos"]
+[Black "Dely, Peter"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "ad94fc09"]
+[Epoch "Bishop"]
+[WhiteID "700193"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. Bb5+ Nc6 7. g4 Bg6 8.
+Ne5 Qd6 9. d4 f6 10. Nxg6 hxg6 11. Qd3 O-O-O 12. Bxc6 Qxc6 13. Nb5 Qe6+ 14. Kd1
+a6 15. Re1 Qb6 16. Nc3 e6 17. a4 Bb4 18. Bd2 Ne7 19. a5 Qd6 20. Qe3 Nc6 21. Na4
+Bxd2 22. Kxd2 e5 23. Nb6+ Kb8 24. c3 exd4 25. cxd4 Nxa5 26. Rxa5 Qxb6 27. Qc3
+Rxh3 0-1

@@ -1,0 +1,23 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "6"]
+[White "Sursock, Sameer"]
+[Black "Tatai, Stefano"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "49fa6c36"]
+[Epoch "Bishop"]
+[WhiteID "5300010"]
+[WhiteCountry "LBN"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. Nge2 Nc6 6. O-O e5 7. d3 Nge7 8. h3
+Be6 9. Nd5 O-O 10. Be3 Qd7 11. Kh2 f5 12. f4 Kh8 13. Nec3 Rae8 14. Qd2 Bg8 15.
+Rae1 Nxd5 16. Nxd5 exf4 17. Bxf4 Bxd5 18. exd5 Ne5 19. c3 Nf7 20. Rxe8 Rxe8 21.
+Re1 b6 22. Re2 Bf6 23. Qe1 Rxe2 24. Qxe2 Qe7 25. Qe6 Kg7 26. h4 Bxh4 27. Bxd6
+Qxd6 28. Qxd6 Nxd6 29. gxh4 Kf6 30. Kg3 Ke5 31. d4+ cxd4 32. cxd4+ Kxd4 33. Kf4
+Nf7 34. h5 Kc5 35. hxg6 hxg6 36. b3 Kd6 37. Bh1 Ke7 38. Ke3 Kf6 39. Kd4 g5 40.
+b4 g4 41. d6 Nxd6 42. Kd5 Nb5 43. Kc6 Nc3 44. a3 f4 45. Kb7 g3 46. Kxa7 b5 0-1

@@ -1,0 +1,20 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Johannessen, Svein"]
+[Black "Teschner, Rudolf"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Botvinnik variation"]
+[HashCode "1b568d39"]
+[Epoch "Bishop"]
+[WhiteCountry "NOR"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. e3 O-O 8. cxd5
+Nxd5 9. Qd2 cxd4 10. cxd4 f5 11. g3 Nc6 12. Bc4 Na5 13. Ba2 Bd7 14. Ne2 Rc8 15.
+e4 fxe4 16. fxe4 Qf6 17. Nf4 Nxf4 18. gxf4 Qg6 19. Qe3 Qg2 20. Rg1 Rxc1+ 21.
+Rxc1 Qxa2 22. Rc7 Rf7 23. d5 Nc4 24. Qd4 Qb1+ 25. Ke2 Qc2+ 26. Ke1 exd5 27.
+Rxb7 Qc1+ 28. Ke2 Qxf4 0-1

@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Berzins"]
+[Black "Rubin"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "552e7fba"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3
+Bxc3+ 8. Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O h6 12. Bf4 d4 13. Nb5 Bg4
+14. Qd2 Qd7 15. Bxh6 gxh6 16. Qxh6 Qd8 17. Rae1 Bh5 18. f4 Bg6 19. f5 Bh7
+20. Nc7 Qxc7 21. Qg5+ Kh8 22. Qxf6+ Kg8 23. Rf3 Qd8 24. Rg3+ Bg6 25. Rxg6+
+fxg6 26. Bc4+ 1-0
+

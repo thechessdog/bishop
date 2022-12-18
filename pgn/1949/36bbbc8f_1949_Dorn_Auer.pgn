@@ -1,0 +1,19 @@
+[Event "Eferding"]
+[Site "Eferding"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Dorn"]
+[Black "Auer"]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "36bbbc8f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7
+8. Be3 O-O 9. O-O a5 10. Bf3 a4 11. Nc1 a3 12. b3 Qa5 13. N1e2 Nb4 14. Ng3
+Be6 15. Nce2 Rac8 16. c3 Na6 17. c4 Nb4 18. Nc3 Rfd8 19. Qd2 Bd7 20. Rac1
+b5 21. Nd5 Nfxd5 22. cxd5 Rxc1 23. Rxc1 Rc8 24. Rxc8+ Bxc8 25. Qc3 Bd8 26.
+Bd2 Nxa2 27. Qc6 1-0
+

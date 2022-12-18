@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Nad"]
+[Black "Faibisovich, Vadim Z"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "911dff86"]
+[Epoch "Bishop"]
+[BlackID "4102703"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. a4 Ba7 8. axb5
+axb5 9. d4 O-O 10. Bg5 exd4 11. Nbd2 d6 12. Qxb5 Bd7 13. Qe2 Qe7 14. O-O Ne5
+15. h3 Rfe8 16. Ne1 h6 17. Bxf6 Qxf6 18. Nd3 Nxd3 19. Qxd3 Bc5 20. Rxa8 Rxa8
+21. Bc4 Be6 22. Nb3 Bxc4 23. Qxc4 Qe6 24. Qd3 Ra4 25. Nxc5 dxc5 26. Qb5 Rb4 27.
+Qxc5 Rc4 28. Qa5 Qxe4 29. c3 d3 30. b3 Rc6 31. c4 Rb6 32. Re1 Qf4 33. Qc3 Rd6
+34. Rd1 d2 35. Qc2 c5 36. g3 Qd4 37. Kf1 Kh8 38. Ke2 Rf6 39. f3 Re6+ 40. Kf1
+Qe3 41. Qxd2 Qxf3+ 42. Kg1 Qxg3+ 43. Qg2 Qxb3 0-1

@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Asaturian"]
+[Black "Hodos, German"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "4ecdca83"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2 e6 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8. Bd3
+Bxd3 9. cxd3 Qb6 10. Be3 Qxb2 11. Nd2 Qb6 12. O-O Ne7 13. f4 Nf5 14. Nxf5
+exf5 15. g4 fxg4 16. Qxg4 Nd7 17. e6 Nf6 18. exf7+ Kxf7 19. Qg6+ Kg8 20.
+Nf3 Qd8 21. Ne5 Qe8 22. Rab1 b6 23. Rfc1 Rc8 24. Rxc6 Rxc6 25. Qxe8 Nxe8
+26. Nxc6 Nf6 27. Nxa7 Nxh5 28. Rxb6 Kh7 29. Rb8 Ba3 30. Rxh8+ Kxh8 31. Bd2
+Nf6 32. Nb5 Be7 33. a4 Nd7 34. a5 Nb8 35. Nc7 Bd6 36. a6 Nc6 37. Nb5 Bb8
+38. f5 Kg8 39. Bc1 Na7 40. Bf4 1-0
+

@@ -1,0 +1,19 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1969.??.??"]
+[Round "8"]
+[White "Matanovic, Aleksandar"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "6ee2113d"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[WhiteID "900230"]
+[BlackCountry "HRV"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c4 O-O 7. d3 d6 8. Nc3
+Bd7 9. Bxc6 Bxc6 10. Nd5 Re8 11. Bd2 b5 12. Bc3 Bxd5 13. exd5 b4 14. Bd2 Nd7
+15. d4 1/2-1/2

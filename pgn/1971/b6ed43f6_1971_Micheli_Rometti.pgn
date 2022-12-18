@@ -1,0 +1,19 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Micheli, Carlo"]
+[Black "Rometti, B."]
+[Result "1-0"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "b6ed43f6"]
+[Epoch "Bishop"]
+[WhiteID "800414"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Qa5 8.
+Nb3 Qd8 9. O-O-O a6 10. f4 Rc8 11. Be2 Na5 12. Nxa5 Qxa5 13. e5 Ng8 14. exd6
+exd6 15. Rhe1 f6 16. Bf3+ Kd8 17. Bh4 b5 18. Kb1 Nh6 19. Bf2 Bf5 20. Qe2 Rxc3
+21. bxc3 Qxc3 22. Bb6+ 1-0

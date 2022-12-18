@@ -1,0 +1,16 @@
+[Event "Ventura,CA"]
+[Site "Ventura,CA"]
+[Date "1971.01.01"]
+[Round "10"]
+[White "Birkel, Jeffrey"]
+[Black "Keckhut, John"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "c99e4471"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O b5 10. Bxf6 Bxf6 11. Ndxb5 axb5 12. Nxb5 Qa5 13. Nxd6+ Ke7 14. e5
+Qxa2 15. exf6+ gxf6 16. Nxc8+ Ke8 17. Bb5+ 1-0

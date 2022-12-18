@@ -1,0 +1,23 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Slizek"]
+[Black "Sojka"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "9819a9f6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Bc4 Nc6 9. Qd2 Nxd4 10. Bxd4 Qa5 11. O-O-O Be6 12. Bb3 b5 13. Kb1 b4 14.
+Nd5 Bxd5 15. exd5 Qb5 16. Rhe1 a5 17. Qe2 Qxe2 18. Rxe2 a4 19. Bc4 Rfc8 20.
+b3 Rc7 21. Bb5 axb3 22. cxb3 Ra5 23. Bc4 Rb7 24. g3 Ne8 25. Bf2 Kf8 26. Rc2
+Nf6 27. g4 Rb8 28. h4 Nd7 29. Be1 Ra3 30. Bb5 Ne5 31. Rdc1 Raa8 32. Be2 f5
+33. gxf5 gxf5 34. Bd2 f4 35. Bxf4 Kf7 36. Rc7 Ra5 37. Bg5 Bf6 38. f4 Ng6
+39. h5 Nh4 40. R1c6 Nf5 41. Bd3 h6 42. Bxf5 hxg5 43. Bg6+ Kg7 44. fxg5 Bxg5
+45. Rxd6 Rba8 46. Be4 Bf6 47. h6+ Kf7 48. a4 bxa3 49. Ka2 Be5 50. Rxe7+
+Kxe7 51. Re6+ Kf7 52. Rxe5 Kg8 53. Rg5+ Kh8 54. h7 Re8 55. Rg4 Rf8 0-1
+

@@ -1,0 +1,21 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Burgalat"]
+[Black "Juarez, Carlos Eleodoro"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto with ...Nc6"]
+[HashCode "6e228307"]
+[Epoch "Bishop"]
+[BlackID "100293"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O Nd7 8. e4
+e5 9. Bg5 Bf6 10. Be3 exd4 11. Nxd4 Nde5 12. Nd5 Bg7 13. Nb5 Nxc4 14. Bc1 a6
+15. Nbxc7 Rb8 16. Rb1 N4e5 17. b4 b5 18. a4 Nc4 19. Qb3 Nd4 20. Qa2 Bd7 21. e5
+dxe5 22. Nxa6 Ra8 23. Ndc7 Ra7 24. Nxb5 Bxb5 25. axb5 Nd6 26. Qd5 N4xb5 27. Qc6
+Nd4 28. Qa4 N6b5 29. Be3 Nc3 30. Qa1 Nxb1 31. Rxb1 Nc2 32. Bxa7 Nxa1 33. Rxa1
+e4 34. Ra5 Qd1+ 35. Bf1 Bd4 36. Bxd4 Qxd4 37. Ra3 Rc8 38. Re3 Rc1 0-1

@@ -1,0 +1,24 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Quinones, Oscar Carillo"]
+[Black "Lim Kok, A."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "dc53fed1"]
+[Epoch "Bishop"]
+[WhiteCountry "PER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. dxe5
+Nd5 9. Nxd5 Qxd5 10. Qe2 Bg4 11. Be4 Qc5 12. c3 e6 13. Be3 Qe7 14. O-O Bf5 15.
+Bxc6 bxc6 16. Nd4 Be4 17. Bf2 c5 18. Nb3 c4 19. Qxe4 cxb3 20. Qc4 Rfd8 21. Bc5
+Qd7 22. axb3 Qc6 23. Bxa7 Qxc4 24. bxc4 Bf8 25. Bf2 Rab8 26. b4 Rd3 27. Rfc1
+Bh6 28. g3 g5 29. fxg5 Bxg5 30. Rc2 f6 31. Bd4 fxe5 32. Bxe5 Rc8 33. c5 h5 34.
+Ra7 Rd7 35. Kg2 h4 36. gxh4 Bxh4 37. Kf3 Rf8+ 38. Ke4 Bd8 39. Rg2+ Kh7 40. c4
+Rf5 41. Ra3 Rh5 42. Rag3 Rh4+ 43. Rg4 Rd1 44. Rxh4+ Bxh4 45. Bxc7 Bf6 46. b5
+Rd4+ 47. Kf3 Rxc4 48. b6 Rc3+ 49. Ke4 Rc4+ 50. Kd3 Rc3+ 51. Kd2 Rb3 52. Rg3
+Rb2+ 53. Kc1 Rb5 54. c6 Bd4 55. b7 Ba7 56. Ra3 Rc5+ 57. Kb2 Rb5+ 58. Ka2 Bd4
+59. b8=Q Rb2+ 60. Qxb2 1-0

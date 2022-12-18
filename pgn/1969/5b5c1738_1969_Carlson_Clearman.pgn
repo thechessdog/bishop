@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Clearman"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "5b5c1738"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nd7 5. Nf3 Ne7 6. Bd3 Nc6 7. O-O Qb6 8. Bc2
+cxd4 9. cxd4 Be7 10. b3 f6 11. Re1 fxe5 12. dxe5 Bc5 13. Be3 d4 14. b4 dxe3 15.
+bxc5 exf2+ 16. Kxf2 Qxc5+ 17. Kf1 O-O 18. Qd3 g6 19. Bb3 Ndxe5 20. Qe3 Qxe3 21.
+Rxe3 Ng4 22. Bxe6+ Bxe6 23. Rxe6 Nxh2+ 0-1

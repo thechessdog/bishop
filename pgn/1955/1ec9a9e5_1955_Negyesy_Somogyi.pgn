@@ -1,0 +1,21 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Negyesy"]
+[Black "Somogyi, Istvan"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "1ec9a9e5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 Na5 9. Bc2 c5 10. d4 cxd4 11. cxd4 Qc7 12. Bd2 Nc6 13. d5 Nd8 14. a4 Rb8
+15. axb5 axb5 16. b4 O-O 17. Bd3 Bd7 18. Nc3 Qb6 19. Ra5 Ng4 20. Qe2 Nb7
+21. Ra3 f5 22. exf5 Bxf5 23. Bxf5 Rxf5 24. h3 Nh6 25. Qxb5 Qxb5 26. Nxb5
+Nd8 27. Na7 Rf7 28. Nc6 Rb6 29. Ra8 Bf6 30. Nxd8 Rf8 31. Bg5 Nf7 32. Be3
+Rb5 33. Nxf7 Rxa8 34. Nxd6 Rxd5 35. Bc5 Be7 36. Ne4 Bxc5 37. bxc5 Ra4 38.
+Nc3 1-0
+

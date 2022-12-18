@@ -1,0 +1,21 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Giselbrecht, J."]
+[Black "Batik, F."]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "69cccfca"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. Qc2 Nbd7 10. Bd2 c5 11. Nb5 Bxd2 12. Nxd2 Qe7 13. Nf3 Rfc8 14.
+Qe2 a6 15. Nc3 g6 16. dxc5 bxc5 17. Rac1 Ne4 18. Rfd1 Nxc3 19. Rxc3 Rc6 20.
+Bc2 Rf6 21. Qd2 Rxf3 22. gxf3 Ne5 23. e4 d4 24. Ra3 Nc4 25. Qd3 Nxb2 26.
+Qb3 Nxd1 27. Bxd1 c4 28. Qb2 Qg5+ 29. Kh1 Bc8 30. f4 Qxf4 31. Qxd4 Bb7 32.
+f3 Qh4 33. Qe3 Re8 34. Ra5 Bxe4 35. fxe4 Rxe4 36. Qf3 Qe1+ 37. Kg2 Qd2+ 38.
+Kg3 Re3 0-1
+

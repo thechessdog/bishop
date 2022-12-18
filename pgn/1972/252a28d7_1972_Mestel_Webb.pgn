@@ -1,0 +1,20 @@
+[Event "Islington op"]
+[Site "Islington"]
+[Date "1972.12.16"]
+[Round "3"]
+[White "Mestel, A Jonathan"]
+[Black "Webb, Simon"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "252a28d7"]
+[Epoch "Bishop"]
+[WhiteID "400122"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 bxc6 7. c3 Ne7 8. d4
+cxd4 9. cxd4 exd4 10. Nxd4 O-O 11. Nc3 Rb8 12. Nb3 d5 13. exd5 Nxd5 14. Nxd5
+cxd5 15. Bf4 Rb6 16. Be5 d4 17. Bxg7 Kxg7 18. Re4 Be6 19. Qxd4+ Qf6 20. Qxf6+
+Kxf6 21. f3 Bxb3 1/2-1/2

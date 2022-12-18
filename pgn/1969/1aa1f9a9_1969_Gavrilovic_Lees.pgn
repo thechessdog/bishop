@@ -1,0 +1,25 @@
+[Event "Rhyl ch-BCF"]
+[Site "Rhyl ch-BCF"]
+[Date "1969.08.01"]
+[Round "2"]
+[White "Gavrilovic, Mikhail"]
+[Black "Lees, David"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "1aa1f9a9"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. a3 Bxc3+ 8. bxc3
+dxc4 9. Bxc4 Qc7 10. Be2 Nbd7 11. O-O e5 12. Bb2 e4 13. Nd2 Re8 14. Re1 Nb6 15.
+c4 Bd7 16. a4 cxd4 17. Bxd4 Bc6 18. a5 Nbd7 19. Qc2 Ne5 20. h3 Qd7 21. a6 b6
+22. c5 b5 23. Reb1 Rab8 24. Qc3 Qf5 25. Bxe5 Rxe5 26. Nb3 b4 27. Nd4 Qg5 28.
+Rxb4 Rxb4 29. Qxb4 Bd7 30. c6 Bxh3 31. g3 h5 32. c7 h4 33. Qb8+ Re8 34. g4 Bxg4
+35. Bxg4 Qxg4+ 36. Kf1 h3 37. Ke1 h2 38. Kd2 Qd7 39. Rc1 Rc8 40. Rh1 Ng4 41.
+Ke2 Qxc7 42. Qxc7 Rxc7 43. f3 exf3+ 44. Kxf3 Ne5+ 45. Ke4 Nc6 46. Rxh2 Nb4 47.
+Ke5 Re7+ 48. Kd6 Rxe3 49. Nf5 Rd3+ 50. Kc7 Nxa6+ 51. Kb7 Nc5+ 52. Kxa7 Rb3 53.
+Rc2 Ne6 54. Ne7+ Kf8 55. Nf5 f6 56. Re2 Nf4 57. Rc2 g5 58. Rc7 Ne6 59. Rd7 Nc5
+60. Rc7 Ne6 61. Rd7 Nc5 62. Rc7 Ne4 63. Nd4 Rb4 64. Nf5 g4 65. Rc8+ Kf7 66.
+Nh6+ Kg7 67. Nxg4 Nd6 68. Rc6 Rxg4 0-1

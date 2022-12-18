@@ -1,0 +1,29 @@
+[Event "Munich olm fin-A"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "9"]
+[White "Blau, Max"]
+[Black "Stoeckl, Ernst"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "224e7184"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 Be6 8.
+d3 Nd7 9. b3 c5 10. Bb2 f6 11. Nbd2 Nf8 12. Qe3 Bg4 13. c3 Ne6 14. Rfd1 O-O 15.
+h3 Bh5 16. Nf1 Qd7 17. Ng3 Bf7 18. Nf5 Rfd8 19. Rd2 Bf8 20. Rad1 Qe8 21. d4
+cxd4 22. cxd4 exd4 23. N3xd4 c5 24. Nf3 Rxd2 25. Rxd2 Rd8 26. e5 fxe5 27. Qxe5
+Bg6 28. Nd6 Qe7 29. Nxb7 Rxd2 30. Nxd2 Qd7 31. Ne4 Qxb7 32. Qxe6+ Bf7 33. Qg4
+Bg6 34. Nxc5 Qb5 35. Ne6 Bf5 36. Nd4 Bxg4 37. Nxb5 Bd7 38. Nd4 Kf7 39. Nf3 Bf5
+40. Kf1 Bd3+ 41. Ke1 Bb4+ 42. Kd1 Bb5 43. a4 Bf1 44. g3 h6 45. h4 Bh3 46. Ne5+
+Ke6 47. Ke2 g5 48. hxg5 hxg5 49. Ke3 Bf5 50. Nd3 Be7 51. f3 Kd5 52. g4 Be6 53.
+Bd4 Kc6 54. Ne5+ Kd5 55. Nd3 Kc6 56. Ne5+ Kd5 57. Nc4 Bd8 58. Kd3 Bd7 59. Ne3+
+Ke6 60. Bc5 Bc6 61. Ke2 Bf6 62. Nf5 Bd5 63. b4 Bb3 64. a5 Ba4 65. Nd6 Be5 66.
+Ne4 Bb5+ 67. Kf2 Bf6 68. Be3 Be7 69. Bd2 Ke5 70. Nxg5 Kd4 71. Ne6+ Kd3 72. Bf4
+Bxb4 73. Bc7 Bd7 74. Nf4+ Kc4 75. Ng6 Be8 76. Nh4 Bd2 77. Ke2 Bg5 78. Nf5 Kd5
+79. f4 Bf6 80. Kf3 Ke6 81. Ng3 Bc6+ 82. Ke3 Bb2 83. f5+ Kf7 84. Ne2 Bb5 85. g5
+Bf6 86. g6+ Kg7 87. Ng3 Bb2 88. Kf4 Bc1+ 89. Kg4 Bb2 90. Nh5+ Kg8 91. Kg5 Be2
+92. f6 Bc4 93. Ng3 Ba3 94. Nf5 1-0

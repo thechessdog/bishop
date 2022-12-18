@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Katona, A."]
+[Black "Balogh"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, Benelux variation  "]
+[HashCode "e68e6057"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 O-O 6. d4 Bb6 7. Re1 d6 8.
+Bxc6 bxc6 9. dxe5 Ng4 10. Re2 Ba6 11. Rd2 f5 12. Nd4 dxe5 13. Qb3+ Kh8 14.
+Nxf5 Bxf2+ 15. Kh1 Qg5 16. Rd1 Qh5 17. h3 Be2 18. Rd2 Qxh3+ 19. gxh3 Bf3#
+0-1
+

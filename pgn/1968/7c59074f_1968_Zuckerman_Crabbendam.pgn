@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Zuckerman, Bernard"]
+[Black "Crabbendam, H."]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "7c59074f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. Bb5+ Bd7 5. e5 d4 6. exf6 dxc3 7. fxg7 cxd2+
+8. Qxd2 Bxg7 9. Bd3 Qb6 10. O-O Nc6 11. Qg5 Bf6 12. Qh5 Be6 13. Bf5 O-O-O 14.
+Bxe6+ fxe6 15. c3 e5 16. Nd2 Qc7 17. Ne4 b6 18. Nxf6 exf6 19. Qf5+ Qd7 20. Qxf6
+Rhg8 21. Be3 Rg6 22. Qf3 Rdg8 23. g3 Qe6 24. Qe4 Rg4 25. Qxh7 e4 26. Rfd1 R8g7
+27. Qh6 Qxh6 28. Bxh6 R7g6 29. Be3 Ne5 30. Kf1 Rg8 31. Ke2 R4g6 32. Rd5 Nd3 33.
+b3 Rh8 34. h4 1-0

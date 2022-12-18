@@ -1,0 +1,18 @@
+[Event "Teeside"]
+[Site "Teeside"]
+[Date "1975.01.01"]
+[Round "13"]
+[White "Stean, Michael F"]
+[Black "Bronstein, David Ionovich"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "836d6e5a"]
+[Epoch "Bishop"]
+[WhiteID "400130"]
+[WhiteCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Bb5+ Nbd7 8.
+d6 O-O 9. dxe7 Qxe7+ 10. Nge2 a6 11. Bxd7 Qxd7 12. O-O b5 13. Bf4 Bb7 14. Be5
+Rad8 15. Qb3 1/2-1/2

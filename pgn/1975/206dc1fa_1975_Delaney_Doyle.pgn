@@ -1,0 +1,19 @@
+[Event "Ireland"]
+[Site "Ireland"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Delaney, P."]
+[Black "Doyle"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, main line, 7...Bf5"]
+[HashCode "206dc1fa"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7. Qe2 Bf5
+8. Nc3 Qe7 9. Be3 Nd7 10. Nxe4 Bxe4 11. Bxc5 Nxc5 12. O-O-O O-O-O 13. g3
+Rhe8 14. Bh3+ Kb8 15. Rhe1 Na4 16. Qb5 Nc3 17. bxc3 Qa3+ 18. Kb1 a6 19. Qe2
+Qxc3 20. Nd4 c5 21. Nb3 c4 22. Qd2 Qf6 23. Nd4 Rxd5 24. Qc3 Qb6+ 25. Kc1
+Ra5 26. Bf5 1-0
+

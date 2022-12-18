@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Priego, C."]
+[Black "Lugo, F."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "4ae5bbc6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+
+Ke7 8. d4 Qd6 9. Bg5+ Nf6 10. Bxd5 Rh6 11. Qf7+ Kd8 12. Nc3 Qe7 13. O-O-O
+Qxf7 14. Bxf7 Rh7 15. Bxf6+ Be7 16. Bxe7+ 1-0
+

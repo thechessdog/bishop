@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Simagin, Vladimir"]
+[Black "Goldberg, Grigory"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "1df508de"]
+[Epoch "Bishop"]
+[BlackID "2808927"]
+[WhiteCountry "RUS"]
+[BlackCountry "ISR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 b6 6. Nh3 c5 7. c3 Ba6 8. Bxa6
+Nxa6 9. O-O Be7 10. Qg4 g6 11. Nf3 h6 12. Nf4 Nf8 13. b3 Qd7 14. Be3 O-O-O 15.
+a4 Kb7 16. a5 h5 17. Qg3 Nh7 18. c4 Nb4 19. axb6 axb6 20. cxd5 Nxd5 21. dxc5 h4
+22. Qg4 Nxe3 23. fxe3 Bxc5 24. Nd4 b5 25. Nfe2 Kb6 26. b4 Bxd4 27. Nxd4 Ra8 28.
+Qxh4 Rxa1 29. Rxa1 f6 30. Ra5 Rc8 31. Rxb5+ Ka6 32. Qe1 1-0

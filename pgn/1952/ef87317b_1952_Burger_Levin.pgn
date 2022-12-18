@@ -1,0 +1,18 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Burger, Robert"]
+[Black "Levin"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "ef87317b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 d5 4. exd5 e4 5. Ne5 Nxd5 6. Bc4 Be6 7. O-O Be7
+8. Nd2 e3 9. Ne4 exf2+ 10. Rxf2 O-O 11. Qh5 f6 12. Bd3 fxe5 13. Ng5 Nf6 14.
+Bxh7+ Kh8 15. Rxf6 Qxd4+ 16. Kh1 Qg4 17. Rxf8+ Bxf8 18. Nf7+ Bxf7 19. Qxg4
+Kxh7 20. Qc8 1-0
+

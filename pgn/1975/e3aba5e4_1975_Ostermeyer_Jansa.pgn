@@ -1,0 +1,22 @@
+[Event "Reykjavik zt"]
+[Site "Reykjavik"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Ostermeyer, Peter, Dr."]
+[Black "Jansa, Vlastimil"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "e3aba5e4"]
+[Epoch "Bishop"]
+[WhiteID "4600355"]
+[BlackID "300128"]
+[WhiteCountry "GER"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Nbd7 7. f4 e6 8. Bf3
+Be7 9. O-O Qc7 10. a4 Nb6 11. Kh1 e5 12. Nde2 O-O 13. b3 Bd7 14. a5 Nc8 15. f5
+Bb5 16. Nd5 Nxd5 17. exd5 Bf6 18. Be4 Bxe2 19. Qxe2 b5 20. Bd2 Qe7 21. Qh5 Rd8
+22. Rf3 h6 23. g4 Kf8 24. h4 Bxh4 25. f6 Bxf6 26. g5 Bxg5 27. Bxg5 Qxg5 28.
+Qxf7# 1-0

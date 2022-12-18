@@ -1,0 +1,15 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Keller, Martina"]
+[Black "Bettendorf, H."]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "bd832ba4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 e5 8. d6
+O-O 9. e3 Re8 10. Be2 Nc6 11. Nh3 1-0

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Delaune"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "ab9bdc2a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 h6 8. Bh4
+Nxe4 9. Qe3 Qxh4 10. Nxe4 d5 11. Nc3 Bc5 12. Nf5 Bxe3 13. Nxh4 Ba7 14. Be2 O-O
+15. Bd3 Nc6 16. a3 f5 17. Ng6 Rd8 18. f4 b5 19. O-O-O Kf7 20. Ne5+ Nxe5 21.
+fxe5 Bb8 22. Rhe1 d4 23. Na2 Rd5 24. Nb4 Rxe5 0-1

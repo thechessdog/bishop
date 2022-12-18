@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Moscon"]
+[Black "Negri"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "2d4e3ab2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8.
+Bb3 b4 9. Na4 Nxe4 10. Re1 Bb7 11. f3 Nc5 12. Nxc5 dxc5 13. Ba4+ Nc6 14.
+Nxc6 Qc7 15. Nd8+ 1-0
+

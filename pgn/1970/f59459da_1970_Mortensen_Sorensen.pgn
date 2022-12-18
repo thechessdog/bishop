@@ -1,0 +1,19 @@
+[Event "Rasmus mem"]
+[Site "Randers"]
+[Date "1970.??.??"]
+[Round "5"]
+[White "Mortensen, Steen Juul"]
+[Black "Sorensen, Jorn Bach"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "f59459da"]
+[Epoch "Bishop"]
+[WhiteID "1408143"]
+[BlackID "1412035"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. b4 Bg4 7. h3 Bxf3 8. Qxf3
+c6 9. Bd2 Qd6 10. c5 Qc7 11. Qf4 Qxf4 12. exf4 1/2-1/2

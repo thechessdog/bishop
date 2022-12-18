@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Taimanov, Mark"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "8a53d3e9"]
+[Epoch "Bishop"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. dxc5 Qxc5 6. Na3 e5 7. Nb5 Qe7 8.
+Be3 b6 9. Qf3 Bb7 10. O-O-O Rd8 11. Rxd8+ Nxd8 12. Qd1 Nc6 13. Qa4 a6 14. Nf3
+f6 15. Bxb6 axb5 16. Bxb5 Qe6 17. Re1 Ne7 18. Bc4 Nd5 19. Qb5 Nxc3 20. bxc3
+Ba3+ 21. Kc2 Qf5+ 22. Kb3 Be7 23. Nd4 Qd7 24. Ne6 Nb8 25. Nxg7+ Kf8 26. Ne6+
+Ke8 27. Nc7+ Kf8 28. Qxd7 1-0

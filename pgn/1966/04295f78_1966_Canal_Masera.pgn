@@ -1,0 +1,20 @@
+[Event "San Benedetto"]
+[Site "San Benedetto"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Canal"]
+[Black "Masera"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "04295f78"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qe2 O-O 6. O-O-O c6 7. e5 dxe5
+8. dxe5 Nd5 9. Nxd5 cxd5 10. Qb5 Be6 11. Bc4 Qc7 12. Bxd5 Bxd5 13. Qxd5
+Bxe5 14. Nf3 Bf4+ 15. Bxf4 Qxf4+ 16. Qd2 Qf6 17. Qd4 Qa6 18. a3 Nc6 19. Qf4
+Kg7 20. Ne5 Qb5 21. Rhe1 Rac8 22. Nd7 g5 23. Qf3 Rfd8 24. Rd5 Nd4 25. Rxb5
+Nxf3 26. Rxe7 Rxc2+ 27. Kb1 Rc7 28. Rf5 Ne5 29. Rexe5 Rdxd7 30. Rxg5+ Kh6
+31. Rg8 Rd1+ 32. Ka2 Rcd7 33. Rf5 Rd8 34. Rf6+ 1-0
+

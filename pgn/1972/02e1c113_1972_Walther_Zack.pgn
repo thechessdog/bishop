@@ -1,0 +1,18 @@
+[Event "corr BdF/PZ"]
+[Site "corr BdF/PZ"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Zack"]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "02e1c113"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O cxd4 8.
+Nb3 Ne7 9. Nbxd4 O-O 10. b3 Bg4 11. Bb2 f6 12. Nxc6 bxc6 13. Bd3 Qd7 14. c4
+Rad8 15. Kh1 Qe8 16. c5 Bb8 17. Be2 Qh5 18. g3 Nf5 19. Qd3 Rfe8 20. Bd1 Bxg3
+21. fxg3 Re3 0-1

@@ -1,0 +1,24 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "14"]
+[White "Hamilton, Douglas G"]
+[Black "Ree, Hans"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "da140ae1"]
+[Epoch "Bishop"]
+[WhiteID "3200191"]
+[WhiteCountry "AUS"]
+[BlackID "1000098"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. Bb3 b5 8. a3
+Bb7 9. Qe2 Nbd7 10. f3 Nc5 11. Ba2 Be7 12. Be3 O-O 13. O-O Qc7 14. Qf2 Rfd8 15.
+Qg3 Rac8 16. Rae1 d5 17. e5 Nh5 18. Qh3 g6 19. f4 Ng7 20. g4 h5 21. gxh5 Nxh5
+22. Qg4 Ng7 23. Rf3 Nf5 24. b4 Nd7 25. Nce2 Kg7 26. Bf2 Rh8 27. Qg2 Nh4 28.
+Bxh4 Rxh4 29. Rg3 Rch8 30. Rxg6+ Kf8 31. Rg3 Rxh2 32. Qxh2 Rxh2 33. Kxh2 Nxe5
+34. Rf1 Bf6 35. fxe5 Qxe5 36. Kh3 Qh5+ 37. Kg2 Qh4 38. Nf3 Qe4 39. Kf2 d4 40.
+Bb1 Qe3+ 0-1

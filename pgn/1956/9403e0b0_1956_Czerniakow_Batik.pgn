@@ -1,0 +1,18 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Czerniakow"]
+[Black "Batik"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "9403e0b0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8.
+cxd5 Bxf1 9. dxe6 Ba6 10. exf7+ Kxf7 11. Qb3+ Ke8 12. Ne6 Qd7 13. Nxg7+ Kd8
+14. Ne6+ Kc8 15. Bd2 Nc6 16. Nf4 Na5 17. Qc2 Bd6 18. Nce2 Nc4 19. Bc3 Re8
+20. O-O-O Ng4 21. Nd3 Nxf2 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr FRG-PK"]
+[Site "corr FRG-PK"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Doering, U."]
+[Black "Lidl, C."]
+[Result "1-0"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Petrosian system"]
+[HashCode "b1e9142a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 Ne8 8.
+O-O f5 9. Bg5 Nf6 10. c5 dxc5 11. Bc4 Kh8 12. exf5 Qe8 13. Re1 Nbd7 14. Nb5
+Qd8 15. d6 Nb6 16. Be6 cxd6 17. Nxd6 Qc7 18. Nxe5 Bxe6 19. fxe6 Nfd5 20.
+Nef7+ Kg8 21. e7 1-0
+

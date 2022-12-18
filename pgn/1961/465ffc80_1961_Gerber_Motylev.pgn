@@ -1,0 +1,14 @@
+[Event "South Africa"]
+[Site "South Africa"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Gerber, W."]
+[Black "Motyliov, Anatoly"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "465ffc80"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. f3 Bf5 4. g4 Bg6 5. g5 Nh5 6. e4 e6 7. f4 h6 8. f5 exf5
+9. exf5 Qe7+ 10. Kf2 Bxf5 11. Qxh5 1-0

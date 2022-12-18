@@ -1,0 +1,17 @@
+[Event "Sombathej"]
+[Site "Sombathej"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Portisch, Lajos"]
+[Black "Oravez"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "ac376e70"]
+[Epoch "Bishop"]
+[WhiteID "700037"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Be2 Bc5 7. Be3 Qf6 8.
+Nxe6 Bxe3 9. Nc7+ Kd8 10. fxe3 1-0

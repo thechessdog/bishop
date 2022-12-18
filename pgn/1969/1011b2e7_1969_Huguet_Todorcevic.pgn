@@ -1,0 +1,23 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "7"]
+[White "Huguet, Bernard"]
+[Black "Todorcevic, Miodrag"]
+[Result "1/2-1/2"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "1011b2e7"]
+[Epoch "Bishop"]
+[WhiteID "601462"]
+[WhiteCountry "FRA"]
+[BlackCountry "SRB"]
+
+1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nf6 5. Be2 O-O 6. Bg5 c5 7. d5 a6 8. a4 Qa5
+9. Bd2 Qc7 10. f4 e6 11. Nf3 exd5 12. cxd5 Re8 13. e5 dxe5 14. fxe5 Ng4 15. O-O
+Nxe5 16. Nxe5 Qxe5 17. Kh1 Bf5 18. Bd3 Nd7 19. Bxf5 gxf5 20. Qc2 Qf6 21. Rf2
+Qg6 22. Ne2 f4 23. Qb3 c4 24. Qh3 Ne5 25. Nxf4 Qg4 26. Bc3 Qxh3 27. gxh3 Ng6
+28. Bxg7 Kxg7 29. Nh5+ Kh8 30. Rxf7 Rf8 31. Raf1 b5 32. axb5 axb5 33. Kg1 Rxf7
+34. Rxf7 Kg8 35. Rb7 Ra1+ 36. Kf2 Ra2 37. Rxb5 c3 38. Ke3 Rxb2 39. Rc5 Rxh2 40.
+d6 Rxh3+ 41. Kd4 Kf7 42. d7 Ke7 43. Nf6 Rh1 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Freiberg ch19-DDR"]
+[Site "Freiberg ch19-DDR"]
+[Date "1970.01.01"]
+[Round "13"]
+[White "Baumbach, Friedrich, Dr."]
+[Black "Brameyer, Hermann"]
+[Result "1/2-1/2"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "e7a2c1da"]
+[Epoch "Bishop"]
+[WhiteID "4611721"]
+[WhiteCountry "GER"]
+[BlackID "4612019"]
+[BlackCountry "GER"]
+
+1. c4 f5 2. Nf3 Nf6 3. g3 d6 4. Bg2 g6 5. d4 Bg7 6. O-O O-O 7. Nc3 Nc6 8. d5
+Ne5 9. Nxe5 dxe5 10. e4 f4 11. gxf4 exf4 12. Bxf4 1/2-1/2

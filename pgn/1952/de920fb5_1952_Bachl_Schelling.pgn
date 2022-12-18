@@ -1,0 +1,20 @@
+[Event "Worms"]
+[Site "Worms"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Bachl"]
+[Black "Schelling"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "de920fb5"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. Bg5 Nbd7 6. d5 h6 7. Bh4 a6 8.
+Bc4 g5 9. Bf2 Bg7 10. Bd4 O-O 11. fxe4 Nxe4 12. Bxg7 Kxg7 13. Nxe4 Bxe4 14.
+Qd4+ Nf6 15. Ne2 Bxd5 16. O-O-O c6 17. Qc3 Qc8 18. Ng3 Kg8 19. h4 g4 20.
+Bd3 Qc7 21. Rhf1 Nd7 22. Nf5 Qe5 23. Qd2 f6 24. Qxh6 Rf7 25. Rde1 Bxg2 26.
+Rxe5 Nxe5 27. Re1 Rd8 28. Rxe5 fxe5 29. Qg6+ Kf8 30. Nh6 Rg7 31. Qf5+ Ke8
+32. Qxe5 Kf8 33. Nf5 Rh7 34. Nd4 Rxh4 35. Ne6+ Ke8 36. Bg6+ Kd7 37. Nc5+
+Kc8 38. Bf5+ Rd7 39. Bxd7+ Kd8 40. Qb8# 1-0
+

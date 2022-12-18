@@ -1,0 +1,20 @@
+[Event "Graz"]
+[Site "Graz"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Hulak, Krunoslav"]
+[Black "Hjertenes, Oystein"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "a5801cdd"]
+[Epoch "Bishop"]
+[BlackID "1500449"]
+[WhiteCountry "HRV"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Be7 7. Bd3 Nc6 8. Nf3
+Qc7 9. O-O a6 10. Qe1 Nb4 11. Kh1 Nxd3 12. cxd3 O-O 13. Be3 b5 14. Rc1 Qd7 15.
+Qg3 Kh8 16. Qh3 Ng8 17. g4 Bb7 18. g5 Rac8 19. a3 Ba8 20. Rg1 f5 21. gxf6 Bxf6
+22. Ng5 Bxg5 23. Rxg5 Nf6 24. Rcg1 Rf7 25. Bd4 a5 26. Rxg7 Rxg7 27. Bxf6 1-0

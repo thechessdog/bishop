@@ -1,0 +1,20 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1970.07.01"]
+[Round "7"]
+[White "Langeweg, Kick"]
+[Black "Janosevic, Dragoljub"]
+[Result "1/2-1/2"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "ab788dff"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 b6 13. Kh1 Rb8 14. Bb5 Nxb5 15.
+axb5 Qc7 16. Nc4 Nd7 17. Bf4 Ne5 18. Bxe5 dxe5 19. d6 Qb7 20. Qa4 Be6 21. Rfd1
+Bxc4 22. Qxc4 Red8 1/2-1/2

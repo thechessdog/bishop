@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Merle, W."]
+[Black "Rickers, R."]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "5cfe1773"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. Bxc6+
+bxc6 8. O-O Bd6 9. Nc3 O-O 10. d4 Bg4 11. h3 Bh5 12. Qd3 Re8 13. Qc4 Bxf3
+14. gxf3 Nd5 15. Nxd5 Qg5+ 16. Kh1 cxd5 17. Qd3 Qg3 18. Qd2 Qxh3+ 19. Kg1
+Re6 20. Rf2 Rae8 0-1
+

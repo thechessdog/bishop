@@ -1,0 +1,20 @@
+[Event "corr ch4-POL"]
+[Site "corr ch4-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Cieplak, T."]
+[Black "Bialoskorski, E."]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "e5e6387e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Be7 5. dxe5 dxe5 6. Qd5 Bb4+ 7. c3 Qe7
+8. cxb4 Ngf6 9. Qd3 Qxb4+ 10. Qc3 Qe7 11. Qc2 O-O 12. Nc3 c6 13. O-O Nc5
+14. Bg5 Bg4 15. Nd2 Ne6 16. Bxe6 Qxe6 17. f3 Bh5 18. Nb3 b6 19. Rad1 h6 20.
+Bh4 g5 21. Bg3 Bg6 22. Qc1 Nh5 23. Ne2 Kh7 24. Qc3 Nf4 25. Nxf4 gxf4 26.
+Bh4 f5 27. exf5 Bxf5 28. Rd2 Rg8 29. Rfd1 Rg7 30. Rd6 Qg8 31. Qxe5 Rxg2+
+32. Kh1 Rf8 33. Nd4 Bh3 34. Ne6 Rxh2+ 35. Kxh2 Qg2# 0-1
+

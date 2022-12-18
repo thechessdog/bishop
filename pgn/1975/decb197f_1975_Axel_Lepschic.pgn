@@ -1,0 +1,16 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Axel"]
+[Black "Lepschic"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian gambit"]
+[HashCode "decb197f"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. dxc6 Nxc6 5. Nc3 e5 6. g3 Bc5 7. Bg2 Ng4
+8. Ne4 Qb6 9. Nxc5 Qxc5 10. Qe2 Nd4 11. Qe4 Bf5 12. Qxb7 Nc2+ 13. Kd1 Nxf2+
+14. Ke2 Bd3+ 15. Kf3 Ne1# 0-1
+

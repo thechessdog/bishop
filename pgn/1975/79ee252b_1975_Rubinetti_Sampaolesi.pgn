@@ -1,0 +1,21 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Rubinetti, Jorge"]
+[Black "Sampaolesi, Nestor"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "79ee252b"]
+[Epoch "Bishop"]
+[WhiteID "100161"]
+[WhiteCountry "ARG"]
+[BlackID "173622"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nc6 10. Nxc6 bxc6 11. e5 Nd5 12. Bxe7 Qxe7 13. Ne4 dxe5 14. fxe5
+O-O 15. Bd3 Rb8 16. c4 Qb4 17. Rd2 Ne7 18. Qh5 Rd8 19. Nf6+ gxf6 20. Bxh7+ Kg7
+21. exf6+ Kxf6 22. Qh6+ Ng6 23. Rf1+ Ke7 24. Qg5+ Kf8 25. Rxf7+ 1-0

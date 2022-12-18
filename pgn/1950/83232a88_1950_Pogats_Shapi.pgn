@@ -1,0 +1,27 @@
+[Event "Schiavno Zdroj"]
+[Site "Schiavno Zdroj"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Pogats, Jozsef Jr."]
+[Black "Sapi, Laszlo"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "83232a88"]
+[Epoch "Bishop"]
+[WhiteID "744450"]
+[WhiteCountry "HUN"]
+[BlackID "701513"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Ne2 Qc7
+8. Be3 Nd7 9. Bb3 O-O 10. Qd3 Re8 11. O-O-O b5 12. g4 Nf8 13. Rhg1 a5 14. c3 a4
+15. Bc2 Be6 16. Kb1 Bc4 17. Qd2 b4 18. cxb4 Bxb4 19. Qxb4 Bxe2 20. Rde1 Bf3 21.
+h4 Qd7 22. Qc4 Bd5 23. Qd3 Be4 24. Qc3 Bxc2+ 25. Qxc2 Ng6 26. h5 Ne7 27. g5 f5
+28. Qc4 Qd5 29. Rc1 f4 30. Bd2 Qf5+ 31. Qc2 Rac8 32. Qxf5 Nxf5 33. Bxf4 Nxd4
+34. Be3 Ne2 35. Rgd1 Nxc1 36. Rxc1 Re4 37. h6 f6 38. gxf6 gxh6 39. Rh1 Rg4 40.
+Rxh6 Rg6 41. f7+ Kxf7 42. Rxh7+ Ke6 43. Ra7 Rg4 44. f4 Rg3 45. Bc1 a3 46. b3
+Rh8 47. Ra5 Rh1 48. Rc5 Kd6 49. b4 Rgg1 50. Rc2 Rf1 51. Rc4 Rhg1 52. Rd4+ Kc7
+53. Rc4 Kb6 54. f5 Rxf5 55. Kc2 Kb5 56. Re4 Rf2+ 57. Bd2 Ra1 58. Kc3 Rf3+ 59.
+Be3 Rxa2 60. Re5+ Ka6 61. Kd4 Rc2 62. Ra5+ Kb7 63. Bg1 Rf1 64. Be3 a2 0-1

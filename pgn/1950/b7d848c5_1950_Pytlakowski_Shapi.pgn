@@ -1,0 +1,21 @@
+[Event "Schiavno Zdroj"]
+[Site "Schiavno Zdroj"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Pytlakowski, Andrzej"]
+[Black "Sapi, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "b7d848c5"]
+[Epoch "Bishop"]
+[BlackID "701513"]
+[WhiteCountry "POL"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. d4 Bd6 7. Bd3 O-O
+8. O-O Bg4 9. h3 Bh5 10. c4 a5 11. Qb3 Bxf3 12. Qxb7 Na6 13. gxf3 Nb4 14. Bf5
+Bc7 15. c5 Re8 16. a3 Rb8 17. Qa7 Re7 18. Kg2 Be5 19. Qxe7 Qxe7 20. axb4 Bxd4
+21. Rxa5 g6 22. Be4 Rxb4 23. Bh6 Rb8 24. b4 f5 25. Bxc6 Qh4 26. Bd2 f4 27. Bd7
+f5 28. c6 Qg5+ 29. Kh1 Qh4 30. Kg2 Qg5+ 31. Kh1 Qh4 32. Kg2 Qg5+ 1/2-1/2

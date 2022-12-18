@@ -1,0 +1,20 @@
+[Event "Rotterdam"]
+[Site "Rotterdam"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Vos, WJ."]
+[Black "Patton, NE."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "f3700ff6"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 Nbd7 6. fxe4 e5 7. Bc4 exd4
+8. Bxd4 Nb6 9. Bxb6 axb6 10. Ngf3 Bc5 11. Qe2 O-O 12. h3 c6 13. O-O-O Qe7
+14. g4 Be6 15. g5 Bxc4 16. Qxc4 Nd7 17. Kb1 Bd6 18. Nb3 Ne5 19. Nxe5 Bxe5
+20. h4 Rad8 21. Nd4 Bxd4 22. Rxd4 Rxd4 23. Qxd4 b5 24. e5 Rd8 25. Qf4 Rd5
+26. Re1 Qd7 27. b3 Rd1+ 28. Rxd1 Qxd1+ 29. Kb2 Qe1 30. e6 fxe6 31. h5 Qg1
+32. Qb8+ Kf7 33. Qxb7+ Kf8 34. Qc8+ Ke7 35. Qc7+ Ke8 36. Qxc6+ 1-0
+

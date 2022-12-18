@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Strugach"]
+[Black "Ljuboschiz"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "c38e59ab"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. Nc4 Bf6 10. b3 Re8 11. Bb2 c5 12. a4 Qe7 13. Qd2 g6 14. h3
+Bg7 15. Nh2 Qh4 16. f4 Bh6 17. Ng4 Bxf4 18. Rxf4 exf4 19. Qxf4 Qe7 20. Nh6+
+Kf8 21. Nf5 g5 22. Bg7+ 1-0
+

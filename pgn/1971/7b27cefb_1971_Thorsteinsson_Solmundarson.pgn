@@ -1,0 +1,22 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1971.??.??"]
+[Round "1"]
+[White "Thorsteinsson, Bjorn"]
+[Black "Solmundarson, Magnus"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "7b27cefb"]
+[Epoch "Bishop"]
+[WhiteID "2300184"]
+[BlackID "2300850"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. d4 e6 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6 8. Qd2
+cxd4 9. Nxd4 Bc5 10. Na4 Bb4 11. c3 Qa5 12. cxb4 Qxa4 13. Nc2 Ne7 14. b3 Qc6
+15. Nd4 Qc7 16. Nb5 Qd8 17. Rc1 Nc6 18. Nd6+ Kf8 19. b5 Ne7 20. Bd3 g6 21. O-O
+h5 22. f5 exf5 23. Qc3 Rh7 24. Bg5 Nb6 25. a4 Be6 26. Nxb7 Qb8 27. Nd6 Nec8 28.
+a5 Nxd6 29. exd6 Nc8 30. Qc6 f6 31. d7 Bxd7 32. Qxf6+ Rf7 33. Qh8# 1-0

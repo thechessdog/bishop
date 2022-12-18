@@ -1,0 +1,18 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Kaplan, Julio"]
+[Black "Canoromi"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "93a25978"]
+[Epoch "Bishop"]
+[WhiteID "2000326"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8 d5
+8. exd5 Nd4 9. Be2 Qf8 10. d3 Be3 11. Bxe3 Ng4+ 12. Ke1 Nxe3 13. Qc1 Nxg2+ 14.
+Kd1 Qf2 15. Nc3 Ne3+ 16. Kd2 Nf3# 0-1

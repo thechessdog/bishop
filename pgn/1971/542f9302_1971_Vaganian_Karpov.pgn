@@ -1,0 +1,19 @@
+[Event "Daugavpils"]
+[Site "Daugavpils"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Vaganian, Rafael A"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "542f9302"]
+[Epoch "Bishop"]
+[BlackID "4100026"]
+[WhiteID "13300016"]
+[WhiteCountry "ARM"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Ne2 d5 7. a3 cxd4 8. exd4
+dxc4 9. Bxc4 Be7 10. O-O b6 11. Bg5 Bb7 12. Qd3 Nc6 1/2-1/2

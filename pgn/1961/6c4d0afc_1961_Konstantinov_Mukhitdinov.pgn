@@ -1,0 +1,16 @@
+[Event "URS-ch30 sf"]
+[Site "Novosibirsk"]
+[Date "1961.12.31"]
+[Round "1"]
+[White "Konstantinov, Alexander I"]
+[Black "Muhutdinov, Marat"]
+[Result "1/2-1/2"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "6c4d0afc"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. c4 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Nc2 Bc5 7. Nc3 d6 8. Be2
+Nge7 9. O-O O-O 10. Nd5 Nxd5 11. cxd5 Nd4 12. Nxd4 Bxd4 13. Qb3 Qh4 14. Bf3 f5
+15. g3 Qe7 16. Be3 Bxe3 17. Qxe3 f4 18. Qe2 Bh3 19. Rfc1 fxg3 20. hxg3 1/2-1/2

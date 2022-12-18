@@ -1,0 +1,17 @@
+[Event "Johannesburg"]
+[Site "Johannesburg"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Rabinowitz, Bernard"]
+[Black "Muhring, W."]
+[Result "1/2-1/2"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "66949c33"]
+[Epoch "Bishop"]
+[WhiteCountry "ZAF"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 d6 7. Qd2 Be7 8.
+O-O-O Nxd4 9. Qxd4 O-O 10. e5 dxe5 11. Qxe5 Qb6 12. Be3 Ng4 13. Nd5 exd5 14.
+Qxe7 Nxe3 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "FIDE (21) 1955-1957"]
+[Site "Goteborg izt"]
+[Date "1955.08.01"]
+[Round "1"]
+[White "Keres, Paul"]
+[Black "Ilivitsky, Georgy"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "1d47a1d8"]
+[Epoch "Bishop"]
+[WhiteCountry "EST"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 Nxc3 5. bxc3 g6 6. Bg2 Bg7 7. Nf3 O-O 8.
+h4 h6 9. Rb1 c5 10. c4 Nc6 11. Rb5 Qd6 12. d3 Rb8 13. Be3 b6 14. Qc1 Kh7 15.
+O-O e5 16. Bd2 Bg4 1/2-1/2

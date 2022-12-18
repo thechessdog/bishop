@@ -1,0 +1,25 @@
+[Event "Dubrovnik olm"]
+[Site "Dubrovnik olm"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Flores Alvarez, Rodrigo"]
+[Black "Pirc, Vasja"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "74d0ab51"]
+[Epoch "Bishop"]
+[BlackCountry "SVN"]
+[WhiteCountry "CHL"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. Nde2 Nc5 11. f3 a5 12. b3 Nfd7 13. Rb1 Ne5 14. Be3 Bd7 15.
+Qd2 Ne6 16. Kh1 Bc6 17. Nd5 f6 18. Nd4 Nf8 19. Nb5 Bxb5 20. cxb5 Ned7 21. Rbc1
+Ne6 22. Bh3 Ndc5 23. Qc2 Ng5 24. Bg2 c6 25. bxc6 bxc6 26. Nf4 Qe7 27. Bxc5 dxc5
+28. Qxc5 Qxc5 29. Rxc5 Ne6 30. Rxc6 Nxf4 31. gxf4 Rec8 32. Rfc1 Rxc6 33. Rxc6
+Rd8 34. Bf1 Rd1 35. Kg2 Rd2+ 36. Kg3 h5 37. Rc5 Rxa2 38. Bc4+ Kh7 39. b4 Ra4
+40. bxa5 Bf8 41. Rc7+ Kh6 42. a6 Bd6 43. Rc6 Bb8 44. Bd3 g5 45. Rxf6+ Kg7 46.
+Rf5 Bxf4+ 47. Rxf4 gxf4+ 48. Kxf4 h4 49. h3 Kf6 50. Bb5 Ra5 51. e5+ Ke7 52. Bd3
+Ra4+ 53. Kf5 Kf7 54. Bb5 Ra5 55. Bc4+ Ke7 56. Ke4 Ra3 57. f4 Rxh3 58. f5 Ra3
+59. f6+ Kf8 60. e6 Ra5 61. e7+ Ke8 62. a7 Rxa7 63. Bb5+ Rd7 64. Kf5 1-0

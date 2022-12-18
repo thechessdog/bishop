@@ -1,0 +1,18 @@
+[Event "Milwaukee"]
+[Site "Milwaukee"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Mengarini, Ariel"]
+[Black "Byland, W."]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "5fdc5130"]
+[Epoch "Bishop"]
+[WhiteID "2006685"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 a5 6. Nbd2 Bg4 7. h3 Bxf3 8. Nxf3
+Bc5 9. g3 Nge7 10. Bg2 Ng6 11. h4 Rb8 12. Bg5 Be7 13. Bxe7 Qxe7 14. Nxd4 Rd8
+15. Bxc6+ bxc6 16. Nxc6 1-0

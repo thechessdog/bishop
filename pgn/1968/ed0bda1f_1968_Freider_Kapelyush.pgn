@@ -1,0 +1,19 @@
+[Event "Russia"]
+[Site "Russia"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Freider, Petr"]
+[Black "Kapelyush"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[HashCode "ed0bda1f"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Kd1 dxc3 11. Nf3 Nbc6 12. Bd3 Bd7 13. Bg5 O-O-O
+14. h4 Rde8 15. Re1 Qb6 16. Ke2 Nd4+ 17. Nxd4 Qxd4 18. Kf1 Ng6 19. Rab1
+Nxe5 20. Bf6 Rxg2 21. Kxg2 Qg4+ 22. Kf1 Qh3+ 23. Ke2 Qf3+ 24. Kf1 Qxf6 25.
+Qh5 Nf3 0-1
+

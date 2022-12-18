@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Celli"]
+[Black "Incelli"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "0dd5bab3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Ndb5 Qb8 7. Be3 a6
+8. Bb6 axb5 9. Nxb5 Ra4 10. Nc7+ Ke7 11. c4 Rb4 12. Bc5+ Kd8 13. Bxf8 Rxb2
+14. Bxg7 f6 15. Nxe6+ 1-0
+

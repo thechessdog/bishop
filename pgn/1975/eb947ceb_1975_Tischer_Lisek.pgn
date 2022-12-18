@@ -1,0 +1,19 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Tischer"]
+[Black "Lisek"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "eb947ceb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Qf3 Qa5 9. O-O-O Be7 10. Nb3 Qc7 11. Bd3 b5 12. a3 Bb7 13. Rhe1 O-O 14. Qh3
+Rfc8 15. Nd4 Nc5 16. e5 Nxd3+ 17. Rxd3 dxe5 18. fxe5 Nd5 19. Bd2 Nxc3 20.
+Bxc3 Qb6 21. Nf3 Rc4 22. Rd7 Re8 23. Rd4 Rc7 24. Nd2 Rec8 25. Nb1 a5 26.
+Qd3 b4 27. axb4 axb4 28. Bd2 Rxc2+ 29. Kd1 Ba6 30. Qe4 Qc5 31. Qf4 Bg5 0-1
+

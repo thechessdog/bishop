@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Pinzon Solis, Felipe"]
+[Black "Cuellar Gacharna, Miguel"]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Szabo (Boleslavsky) variation"]
+[HashCode "f4148c30"]
+[Epoch "Bishop"]
+[BlackCountry "COL"]
+[WhiteCountry "PER"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 c6 8. Qb3
+a5 9. Be2 a4 10. Qc2 Bg4 11. Be3 Qa5 12. O-O Nbd7 13. Rfd1 Rfc8 14. h3 Bxf3 15.
+Bxf3 e5 16. d5 cxd5 17. exd5 a3 18. Bd2 e4 19. Be2 axb2 20. Qxb2 Nxd5 21. Qxb7
+Nxc3 22. Bxc3 Bxc3 23. Rac1 Nc5 0-1

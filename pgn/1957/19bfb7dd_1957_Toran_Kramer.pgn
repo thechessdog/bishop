@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Toran, Roman"]
+[Black "Kramer, Haije"]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "19bfb7dd"]
+[Epoch "Bishop"]
+[WhiteCountry "EST"]
+[BlackCountry "NLD"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 Bd6 7. dxc5 Bxc5
+8. O-O Ne7 9. Nb3 Bd6 10. Re1 O-O 11. Bg5 Qc7 12. h3 h6 13. Bd2 Bf5 14. Nbd4
+Be4 15. Bc3 Rad8 16. Bd3 Nxd4 17. Nxd4 Bxd3 18. Qxd3 Qd7 19. Rad1 Rfe8 20. Re2
+Bb8 21. Rde1 Ng6 22. Qf5 Rxe2 23. Rxe2 Qd6 24. g3 Ne7 25. Qg4 Qd7 26. Qxd7 Rxd7
+27. Bb4 Nc6 28. Nxc6 1-0

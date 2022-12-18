@@ -1,0 +1,17 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Sassen, P."]
+[Black "Meyer, Holger"]
+[Result "0-1"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "2642aa44"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+cxd5 exd5 9. dxc5 Nc6 10. Nf3 Bf5 11. b4 O-O 12. Bb2 b6 13. b5 bxc5 14. bxc6 d4
+15. Nd2 Rb8 16. g4 Bg6 17. Rc1 Nc3 18. c7 Qxc7 19. e4 dxe3 20. Qxc3 exd2+ 21.
+Qxd2 Qb7 0-1

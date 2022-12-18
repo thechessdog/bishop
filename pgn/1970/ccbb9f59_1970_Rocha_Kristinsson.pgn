@@ -1,0 +1,29 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "10"]
+[White "Rocha, Antonio"]
+[Black "Kristinsson, S."]
+[Result "0-1"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "ccbb9f59"]
+[Epoch "Bishop"]
+[WhiteID "1901869"]
+[WhiteCountry "POR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+Bd7 9. Bc4 Rc8 10. Bb3 Ne5 11. O-O-O O-O 12. h4 h5 13. g4 Qa5 14. Bh6 Bxh6 15.
+Qxh6 Rxc3 16. bxc3 Qxc3 17. Kb1 a5 18. a3 a4 19. Ba2 Qxa3 20. gxh5 Qb4+ 21. Ka1
+a3 22. Qc1 Qc3+ 23. Kb1 Nxh5 24. Rhe1 Qb4+ 25. Ka1 Rc8 26. Bb3 Nc4 27. Ka2 Ba4
+28. Nf5 Rc7 29. Rd4 b5 30. Red1 Qc3 31. Bxa4 bxa4 32. R1d3 Qb4 33. Ne3 Nf4 34.
+Rd2 Qc3 35. Nxc4 Rxc4 36. Qxa3 Qxa3+ 37. Kxa3 Rc3+ 38. Kb2 Rxf3 39. Rxa4 Rh3
+40. Ra7 Kf8 41. e5 d5 42. Ra4 Rxh4 43. Rxd5 g5 44. Rd8+ Kg7 45. Raa8 Ng6 46.
+Rg8+ Kh7 47. Rxg6 Kxg6 48. Rg8+ Kf5 49. Rg7 Ke6 50. Rxg5 Re4 51. Rg7 Rxe5 52.
+c4 f5 53. Kc3 Kd6 54. Rg8 Re1 55. Rd8+ Ke5 56. Rd5+ Ke6 57. Rd3 Rc1+ 58. Kd4
+Kd6 59. Ra3 e5+ 60. Kd3 Re1 61. Ra6+ Kc5 62. Ra5+ Kd6 63. Ra6+ Kc7 64. Rf6 f4
+65. Kd2 Re3 66. c5 Kd7 67. c6+ Kc7 68. Re6 e4 69. Rf6 Rd3+ 70. Ke1 f3 71. Kf2
+Rd2+ 72. Ke1 Rd6 73. Rf4 Re6 74. Kf2 e3+ 75. Ke1 f2+ 76. Ke2 Kxc6 77. Rf8 Kd5
+78. Rf4 Re4 79. Rf8 Ke5 80. Re8+ Kf4 81. Rg8 Ra4 82. Rf8+ Kg3 83. Kxe3 Ra3+ 84.
+Ke2 Ra2+ 85. Ke3 Kg2 86. Rg8+ Kf1 0-1

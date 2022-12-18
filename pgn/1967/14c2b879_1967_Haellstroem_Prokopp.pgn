@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Haellstroem, L."]
+[Black "Prokopp, H."]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "14c2b879"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Nf6 6. Qxg7 Rg8 7. Qh6 Nc6
+8. O-O-O Rg6 9. Qh4 Bxc3 10. Bxc3 Qd5 11. b3 Ne7 12. Ne2 Qc6 13. Bd2 e5 14.
+dxe5 Nf5 15. Qh3 e3 16. Bxe3 Nd5 17. Qxh7 Nfe7 18. Nf4 Nb4 19. Bc4 Be6 20.
+Nxg6 Nxg6 21. Qg8+ 1-0
+

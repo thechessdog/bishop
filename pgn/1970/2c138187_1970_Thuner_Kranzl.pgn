@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Thuner"]
+[Black "Kranzl"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "2c138187"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Nbd7 9. Qd2 Qc7 10. a4 b5 11. Bd3 Bb7 12. O-O Be7 13. Rae1 O-O 14. Qe2
+Rfc8 15. e5 dxe5 16. fxe5 Qxe5 17. Qxe5 Nxe5 18. Rxe5 Nd7 19. Rxe6 Bxg5 20.
+Re2 Re8 21. Rfe1 Rxe2 22. Rxe2 Bf6 23. Nd1 g6 24. c3 Bd5 25. Nd2 Nc5 26.
+Bc2 Rd8 27. Nf2 Ne6 28. Nde4 Be7 29. b3 f5 30. Nd2 Bf6 0-1
+

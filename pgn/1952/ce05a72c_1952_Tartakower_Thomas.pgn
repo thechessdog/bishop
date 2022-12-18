@@ -1,0 +1,17 @@
+[Event "Southsea"]
+[Site "Southsea"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "Thomas, Andrew Rowland Benedick"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "ce05a72c"]
+[Epoch "Bishop"]
+[WhiteCountry "FRA"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 c5 5. O-O Nc6 6. c4 dxc4 7. Qa4 Bd7 8. dxc5
+Bxc5 9. Qxc4 Be7 10. Nc3 Rc8 11. Qh4 O-O 12. e4 e5 13. Bh3 Nd4 14. Nxe5 Ng4 15.
+Bxg4 Bxh4 16. Nxd7 f5 17. Nxf8 fxg4 18. Be3 Nf3+ 19. Kh1 Qxf8 20. gxh4 Qd6 0-1

@@ -1,0 +1,18 @@
+[Event "Melbourne"]
+[Site "Melbourne"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Jumiper"]
+[Black "Learner, A."]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "cd04684f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Bf4 g5 11. Bg3 h5 12. h3 g4 13. hxg4 hxg4 14. Nd4
+Nxd4 15. cxd4 Bh4 16. Qd3 Bf5 17. Qe3 Bg5 18. Qe1 Bf4 19. Nc3 Qg5 20. Nxe4
+Bxe4 21. Qc3 Qh6 22. Bh4 Qxh4 23. Qc6+ Kf8 24. Qxa8+ Kg7 0-1
+

@@ -1,0 +1,20 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Barle, Imre"]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine, Abonyi variation"]
+[HashCode "c2fdce11"]
+[Epoch "Bishop"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. Nf3 Bc5 7. Nc3 O-O 8.
+Bd3 d6 9. Na4 Na6 10. a3 f5 11. exf5 Nd4 12. Nxc5 Nxf3+ 13. Qxf3 Nxc5 14. O-O
+Qf6 15. Rd1 Nxd3 16. Qxd3 Bxf5 17. Qd4 Qg6 18. b4 Rae8 19. Ra2 Re4 20. Qd5+ Kh8
+21. Qxb7 Rfe8 22. Qxc7 Bg4 23. Rxd6 Re1+ 24. Kf2 Qb1 25. Bb2 R8e2+ 26. Kg3
+Rxg2+ 27. Kh4 Rxh2+ 28. Kg5 Qf5# 0-1

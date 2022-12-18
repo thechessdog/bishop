@@ -1,0 +1,19 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1971.09.01"]
+[Round "1"]
+[White "Grigorian, Karen Ashotovich"]
+[Black "Savon, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "ccd43e5a"]
+[Epoch "Bishop"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+[WhiteCountry "ARM"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. Bf4 O-O 6. Rc1 dxc4 7. e3 Be6 8. Ng5
+Bd5 9. e4 h6 10. exd5 hxg5 11. Bxg5 Nxd5 12. Bxc4 Nb6 13. Bb3 Nc6 14. Ne2 a5
+15. a4 Rc8 16. O-O Nxd4 1/2-1/2

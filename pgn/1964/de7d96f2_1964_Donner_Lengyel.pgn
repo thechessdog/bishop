@@ -1,0 +1,21 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Lengyel, L."]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "de7d96f2"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O a6 8. Qe2
+dxc4 9. Bxc4 Bd6 10. Rd1 Qe8 11. Ng5 e5 12. Nge4 Nxe4 13. Nxe4 Bf5 14. Nxd6
+cxd6 15. dxe5 dxe5 16. Bd2 Be6 17. Bc3 Qe7 18. Bd5 Bxd5 19. Rxd5 Rfd8 20. Rad1
+Rxd5 21. Rxd5 Rd8 22. Qc4 Rxd5 23. Qxd5 h6 24. Kf1 Qh4 25. h3 Qa4 26. Kg1 Qb5
+27. Qd7 f6 28. g4 b6 29. Kg2 a5 30. Kg3 Qc5 31. h4 Ne7 32. Qe6+ Kf8 33. Kf3 Nd5
+34. g5 Nxc3 35. gxh6 e4+ 36. Kg2 Qh5 37. bxc3 Qf3+ 38. Kg1 gxh6 1/2-1/2

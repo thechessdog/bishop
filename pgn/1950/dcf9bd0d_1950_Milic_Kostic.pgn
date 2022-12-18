@@ -1,0 +1,20 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Milic, Borislav"]
+[Black "Kostic, Boris"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "dcf9bd0d"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. b3 Qd7 7. Bg2 Nge7 8. Na3
+Ng6 9. Nc2 Rd8 10. Bb2 Bc5 11. O-O O-O 12. Rc1 Bh3 13. b4 Bxg2 14. Kxg2 Nxb4
+15. Nxb4 Bxb4 16. Qxd4 Qc6 17. Qg4 Rd2 18. Ba1 Rxe2 19. Kg1 Re4 20. Qh5 Rxc4
+21. Nd4 Qd5 22. Nf5 Rxc1 23. Rxc1 Bc5 24. Nxg7 Bxf2+ 25. Kxf2 Qd2+ 26. Qe2 Qxc1
+27. Bd4 Kxg7 28. h4 h5 29. e6+ Kg8 0-1

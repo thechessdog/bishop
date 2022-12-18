@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Itkis, Boris"]
+[Black "Podgaets, Mikhail"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "bf499087"]
+[Epoch "Bishop"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. Nf3 cxd4 7. Nxd4 Nc6 8. Be3
+Ng4 9. Nxc6 bxc6 10. Bg1 e5 11. Be2 h5 12. h3 Qh4+ 13. Kf1 exf4 14. hxg4 Qxh1
+15. Qxd6 Bd7 16. Rd1 Rd8 17. e5 Bf8 18. Qd4 Bg7 19. Ne4 O-O 20. gxh5 Bg4 0-1

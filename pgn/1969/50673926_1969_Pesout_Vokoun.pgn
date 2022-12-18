@@ -1,0 +1,20 @@
+[Event "CSR-J U26"]
+[Site "Cihak"]
+[Date "1969.01.01"]
+[Round "7"]
+[White "Pesout, Jan"]
+[Black "Vokoun, Jan"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "50673926"]
+[Epoch "Bishop"]
+[WhiteID "306347"]
+[BlackID "301647"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. a3 Bxc3+ 7. bxc3 d5 8. Bd3
+dxc4 9. Bxc4 Nc6 10. O-O Qc7 11. Bd3 e5 12. Qc2 h6 13. Bb2 cxd4 14. exd4 exd4
+15. Nxd4 Nxd4 16. cxd4 Qxc2 17. Bxc2 Be6 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Zuerich"]
+[Site "Zuerich"]
+[Date "1962.01.01"]
+[Round "9"]
+[White "Bernhardt, Rolf"]
+[Black "Zuidema, Coen"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, Benelux variation  "]
+[HashCode "a0359905"]
+[Epoch "Bishop"]
+[WhiteID "4600800"]
+[WhiteCountry "GER"]
+[BlackID "1000101"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. O-O O-O 6. d4 Bb6 7. Bg5 h6 8. Bh4
+exd4 9. e5 g5 10. Bxc6 dxc6 11. Nxg5 dxc3 12. Qxd8 Rxd8 13. Nxc3 Ng4 14. Nf3
+Re8 15. Rfe1 h5 16. h3 Nh6 17. Ne4 1-0

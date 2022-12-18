@@ -1,0 +1,24 @@
+[Event "Dravograd"]
+[Site "Dravograd"]
+[Date "1963.01.01"]
+[Round "3"]
+[White "Ivanovic, Bozidar"]
+[Black "Ostojic, Predrag"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "37e017eb"]
+[Epoch "Bishop"]
+[WhiteID "900095"]
+[WhiteCountry "MNE"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Qc2 O-O 6. Nf3 b6 7. a3 Bxc3+ 8. bxc3
+d5 9. Bd3 Nc6 10. O-O Ba6 11. dxc5 Bxc4 12. Bxc4 dxc4 13. Rd1 Qc7 14. cxb6 axb6
+15. a4 Rfd8 16. Nd4 Ne5 17. Ba3 Nd3 18. h3 Rd5 19. Nf3 Ne4 20. Rf1 Rf5 21. Bb4
+g5 22. Qe2 Rf6 23. Ra2 e5 24. Raa1 Kh8 25. Nd2 Nexf2 26. e4 g4 27. hxg4 Rg8 28.
+g5 Rxg5 29. Qe3 Rh5 30. g3 Qc8 31. Rxf2 Nxf2 32. Nf3 Rh1+ 33. Kxf2 Rxa1 34. Qg5
+Qe6 35. Bf8 Rg6 36. Qd8 Ra2+ 37. Ke3 Rg8 38. Ng5 Qg6 39. Nf3 Rc2 40. Nxe5 Qxg3+
+41. Kd4 Rd2+ 42. Kxc4 Qxe5 43. Qxd2 Rxf8 44. Qd4 Qxd4+ 45. cxd4 h5 46. Kb5 h4
+47. d5 h3 48. Kxb6 h2 0-1

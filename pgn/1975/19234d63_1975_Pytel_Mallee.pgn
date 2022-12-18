@@ -1,0 +1,19 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pytel"]
+[Black "Mallee"]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "19234d63"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 cxd4 10. cxd4 b5 11. Bd5 Bd7 12. Rc1 Rc8 13. O-O a5 14.
+Bxc6 Rxc6 15. Rxc6 Bxc6 16. d5 Bb7 17. Qd3 Qd7 18. Nd4 b4 19. Rc1 O-O 20.
+Nc6 Bxc6 21. Rxc6 Rb8 22. Qc4 a4 23. Rc7 Qd8 24. Ba7 Ra8 25. g3 b3 26. Bb6
+b2 27. Qb5 Rb8 28. Rc6 Bd4 29. d6 exd6 0-1
+

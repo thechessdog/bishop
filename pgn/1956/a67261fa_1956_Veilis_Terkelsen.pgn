@@ -1,0 +1,17 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Veilis, CB."]
+[Black "Terkelsen, Frode"]
+[Result "0-1"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "a67261fa"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. Bg5 c5 7. e4 Qa5
+8. Qd3 Nxe4 9. Bf4 cxd4 10. Qxd4 Nc6 11. Qd3 d5 12. Ne2 Nc5 13. Qg3 Kh8 14.
+Nd4 Nxd4 0-1
+

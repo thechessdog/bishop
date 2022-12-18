@@ -1,0 +1,18 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Pinsker"]
+[Black "Schwarz"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "afe91a0b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 Nf6 12. Qe1 Bd6 13. Re2 Bxh2+ 14.
+Kxh2 Ng4+ 15. Kg3 Qd6+ 16. f4 Qg6 17. d4 Bb7 18. Bc2 f5 19. Bb3+ Kh8 20.
+Qg1 Rae8 21. Rxe8 Rxe8 22. Na3 Ne5+ 23. Kf2 Nd3+ 24. Kf1 Re1# 0-1
+

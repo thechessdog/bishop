@@ -1,0 +1,19 @@
+[Event "corr ch9-CSSR"]
+[Site "corr ch9-CSSR"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Snjdr"]
+[Black "Sladek"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "2231cc3e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 Ng4 6. O-O d6 7. exd6 Bxd6
+8. Re1+ Kf8 9. c3 dxc3 10. h3 Nh6 11. Nxc3 Bf5 12. Bxh6 gxh6 13. Qd5 Qf6
+14. Ne4 Bxe4 15. Rxe4 Rg8 16. Kf1 Rg7 17. Qb5 Rb8 18. Rae1 Ne7 19. Qd7 Re8
+20. Nd4 Rg5 21. R1e3 Rg3 22. Rxe7 Bxe7 23. Rxg3 Rd8 24. Ne6+ fxe6 25. Bxe6
+Qf7 26. Bxf7 1-0
+

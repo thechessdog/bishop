@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Kerner"]
+[Black "Brinckmann, Alfred"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "7bed27c8"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8 d5
+8. exd5 Nd4 9. h3 Ng4 10. hxg4 Bg3 11. Be2 Qf6+ 12. Bf3 Bxg4 13. Kg1 Nxf3+ 14.
+gxf3 Bxf3 15. Qf1 Qb6+ 0-1

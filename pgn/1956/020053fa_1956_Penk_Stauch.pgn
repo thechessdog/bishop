@@ -1,0 +1,15 @@
+[Event "Worms"]
+[Site "Worms"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Penk"]
+[Black "Stauch, H."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "020053fa"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 c6 6. Bc4 Bg4 7. Ne5 Bh5
+8. Qxh5 Nxh5 9. Bxf7# 1-0
+

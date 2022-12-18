@@ -1,0 +1,20 @@
+[Event "FRG-ch"]
+[Site "Voelklingen"]
+[Date "1970.??.??"]
+[Round "4"]
+[White "Radtke"]
+[Black "Westermeier, Arnulf"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "53d9a742"]
+[Epoch "Bishop"]
+[BlackID "4604288"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. Bd3
+Bb7 9. Qf3 Nbd7 10. O-O-O Be7 11. a3 Qb6 12. Nb3 Rc8 13. Rhe1 b4 14. axb4 Qxb4
+15. Qe2 h6 16. Bh4 Nxe4 17. Bxe7 Nxc3 18. bxc3 Qxf4+ 19. Kb1 Kxe7 20. Rf1 Qe5
+21. Qf2 Rhf8 22. Nd4 Nc5 23. Nf5+ exf5 24. Bxf5 Ne6 25. Qb6 Qb5+ 26. Qxb5 axb5
+27. Rfe1 Rxc3 0-1

@@ -1,0 +1,20 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Ekstroem, F."]
+[Black "Schroeder, C."]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "8af0b241"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Be2 b5 11. a3 Bb7 12. Qe3 O-O 13. Bf3 Nb6 14.
+Rhe1 Nc4 15. Qd3 Rfc8 16. e5 dxe5 17. fxe5 Ng4 18. Bxg4 Bxg5+ 19. Kb1 Nxe5
+20. Nxe6 Nxd3 21. Nxc7 Nxe1 22. Bxc8 Rxc8 23. Rxe1 Bd2 24. Re7 Bxc3 25.
+Nxb5 axb5 26. Rxb7 Be5 27. Rxb5 Bxh2 28. a4 f6 29. c3 g5 30. a5 h5 31. a6
+Kf7 32. Kc2 h4 33. b4 g4 34. a7 Ra8 0-1
+

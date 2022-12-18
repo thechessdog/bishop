@@ -1,0 +1,21 @@
+[Event "Zupthen"]
+[Site "Zupthen"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Wiersma"]
+[Black "Longwitz"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "d7ceba97"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5
+8. cxd5 Bxf1 9. Kxf1 Qxd5 10. Qd3 O-O 11. e4 Qa5 12. Kg1 c5 13. e5 Nd5 14.
+Bd2 Qa6 15. Qe4 cxd4 16. cxd4 Nc6 17. Be3 Rac8 18. h4 Ncb4 19. Kh2 Nc2 20.
+Rac1 Qxa2 21. Bg5 Qb3 22. Nh5 Ncb4 23. Nxg7 Qd3 24. Qg4 Qg6 25. Nh5 h6 26.
+Nf6+ Nxf6 27. exf6 hxg5 28. hxg5 Qf5 29. Qxf5 exf5 30. Rb1 Nd5 31. Kg3 Rc3+
+32. f3 Rfc8 33. Rb5 Ne3 34. Re5 a5 35. Re7 f4+ 36. Kxf4 Nd5+ 37. Kf5 Nxe7+
+38. fxe7 Re3 39. Rh6 0-1
+

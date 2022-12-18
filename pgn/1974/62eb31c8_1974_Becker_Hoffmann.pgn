@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Becker"]
+[Black "Hoffmann, Hans"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Nimzovich variation"]
+[HashCode "62eb31c8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Bb5+ c6 5. dxc6 Nxc6 6. Bxc6+ bxc6 7. Qe2 Nf6
+8. Nc3 Bc5 9. Nxe4 O-O 10. Kd1 Nxe4 11. Qxe4 Re8 12. Qd3 Qe7 13. Qf1 Bxg1 14.
+h3 Bd4 15. c3 Bf6 16. g4 g6 17. d3 Ba6 18. Qf3 Rad8 19. Bd2 Rxd3 20. Qxc6 Qe2+
+21. Kc1 Qxd2+ 0-1

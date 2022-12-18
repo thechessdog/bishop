@@ -1,0 +1,17 @@
+[Event "corr GB-ARG"]
+[Site "corr GB-ARG"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Adams, J."]
+[Black "Pereyra, M."]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "19e01236"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 Nf6 5. e3 d5 6. Nxd5 Nxd5 7. cxd5 Nb4
+8. Qb3 c6 9. dxc6 bxc6 10. d4 exd4 11. exd4 Bf5 12. Bxc6+ Kf8 13. Kf1 Nxc6
+14. dxc5 Nd4 15. Qd1 Bc2 16. Qd2 Qd5 17. f3 Re8 18. b4 Re2 0-1
+

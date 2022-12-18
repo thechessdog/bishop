@@ -1,0 +1,19 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Guellue, A."]
+[Black "Wesche, J."]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "c60faace"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 b6 4. Ngf3 dxe4 5. Nxe4 Bb7 6. Bb5+ c6 7. Bd3 Be7
+8. Qe2 Nf6 9. Neg5 O-O 10. Bd2 c5 11. dxc5 Bxc5 12. O-O-O Nbd7 13. Bc3 Bd5
+14. h4 Qe7 15. Nxh7 Nxh7 16. Bxh7+ Kxh7 17. Ng5+ Kg6 18. Rh3 f5 19. Rg3 Kh6
+20. Bd2 f4 21. Qd3 g6 22. Nh3 Ne5 23. Qe2 Bd6 24. Nxf4 Kg7 25. h5 Rxf4 26.
+Bc3 Re4 0-1
+

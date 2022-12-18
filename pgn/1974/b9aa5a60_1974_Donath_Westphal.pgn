@@ -1,0 +1,20 @@
+[Event "corr ch7-DDR"]
+[Site "corr ch7-DDR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Donath, R."]
+[Black "Westphal, N."]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "b9aa5a60"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5
+8. Ba3 dxc4 9. Be2 Bb7 10. O-O Qd7 11. Qc2 h5 12. d5 exd5 13. e4 Na6 14.
+exd5 O-O-O 15. Rfd1 Nxd5 16. Rd4 c5 17. Rxc4 g6 18. Rb1 f5 19. Rh4 f4 20.
+Nf1 Qf7 21. Rh3 Rde8 22. Bc4 Qe7 23. Qd2 Nac7 24. Bxd5 Nxd5 25. c4 Nc3 26.
+Qxc3 Qe4 27. Rf3 Qxb1 28. Rxf4 Rh7 29. Bc1 Rd7 30. Ne3 Rd1+ 31. Nf1 Rxc1
+32. Qh3+ Kb8 33. g4 Rxf1+ 34. Qxf1 Re1 0-1
+

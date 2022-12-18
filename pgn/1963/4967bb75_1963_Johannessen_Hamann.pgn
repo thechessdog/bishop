@@ -1,0 +1,21 @@
+[Event "Halle zt"]
+[Site "Halle zt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Johannessen, Svein"]
+[Black "Hamann, Svend"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "4967bb75"]
+[Epoch "Bishop"]
+[BlackID "1400193"]
+[BlackCountry "DEN"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 exd5 7. Bg5 Be7 8. e3
+O-O 9. Be2 Nbd7 10. O-O c5 11. Rc1 a6 12. Qc2 Rc8 13. Qf5 g6 14. Qb1 c4 15. Ne5
+b5 16. f4 Ne4 17. Nxe4 dxe4 18. Bxe7 Qxe7 19. Nxd7 Qxd7 20. Qc2 Bd5 21. Qd2 f5
+22. h3 h5 23. Qb4 Rf6 24. Rc2 Qd6 25. Qe1 Kg7 26. Qg3 Rh8 27. Rfc1 Rf7 28. Rf1
+Rc7 29. Rfc1 Rf7 30. Rf1 Rc7 31. Rfc1 h4 32. Qe1 Rf7 33. Bf1 1/2-1/2

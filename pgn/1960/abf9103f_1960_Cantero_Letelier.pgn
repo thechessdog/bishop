@@ -1,0 +1,18 @@
+[Event "Asuncion"]
+[Site "Asuncion"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Cantero, Ronaldo"]
+[Black "Letelier, Rene"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "abf9103f"]
+[Epoch "Bishop"]
+[BlackCountry "CHL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Bd3 Nc6 7. Nxc6 dxc6 8.
+O-O e5 9. h3 Be6 10. Be3 Nd7 11. Qe2 Bc5 12. Nc3 O-O 13. Rfd1 Bd4 14. Bxd4 exd4
+15. Nd5 Ne5 16. Nf4 Qg5 17. g3 Rad8 18. b3 Bc8 19. Kg2 Rfe8 20. c5 Qh6 21. Rh1
+g5 22. Qh5 Re6 0-1

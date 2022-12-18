@@ -1,0 +1,19 @@
+[Event "Book"]
+[Site "Book"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kristol"]
+[Black "Zalagovski"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "66de8318"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 g6 6. c5 Nd5 7. Bc4 c6 8.
+Qb3 e6 9. Nf3 Bg7 10. O-O O-O 11. Re1 b6 12. Bxd5 cxd5 13. Bf4 Nc6 14. Nb5
+bxc5 15. Bd6 cxd4 16. Bxf8 Qxf8 17. Qa4 Bd7 18. Rac1 Qd8 19. Qd1 Qb6 20.
+Qe2 e5 21. a4 e4 22. Ng5 f5 23. Qd2 a6 24. Nd6 Ne5 25. Ndxe4 dxe4 26. a5
+Qd6 27. b4 h6 28. Qa2+ Kh8 29. Nf7+ Nxf7 30. Qxf7 Rf8 31. Qb3 d3 0-1
+

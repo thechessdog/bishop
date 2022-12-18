@@ -1,0 +1,21 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Anton, V."]
+[Black "Franke, Heribert"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "66d58a6c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nbd7 8. a3
+Ba5 9. Qc2 dxc4 10. Bxc4 cxd4 11. exd4 Bxc3 12. bxc3 b6 13. Bd3 Bb7 14. Qe2 Qc7
+15. c4 Bxf3 16. Qxf3 e5 17. Qg3 Rfe8 18. Bb2 Rac8 19. dxe5 Nxe5 20. Bf5 Ra8 21.
+Rfe1 Nh5 22. Qh4 g6 23. Re3 Qxc4 24. g4 Qf4 25. Kg2 Ng7 26. Rxe5 Rxe5 27. Qf6
+Rae8 28. Re1 Nxf5 29. Rxe5 Rxe5 30. Bxe5 Qxg4+ 31. Kf1 Qd1+ 32. Kg2 Qd5+ 33.
+Kf1 Kf8 34. Qh8+ Ke7 35. Bf6+ Ke6 36. Bc3 h5 37. Ke1 Kd7 38. Qb8 Qe6+ 39. Kd2
+Qd6+ 40. Qxd6+ Kxd6 41. Kd3 Kd5 42. Bf6 Nd6 43. f3 Nc4 44. Be7 Ne5+ 45. Ke3 Nc6
+46. Bf6 b5 47. Kf4 a5 48. Kg5 b4 49. axb4 axb4 50. Ba1 Ke6 51. f4 Na5 0-1

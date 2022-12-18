@@ -1,0 +1,25 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Astrologo"]
+[Black "Graziani"]
+[Result "0-1"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "befb5356"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8.
+Bg2 O-O 9. O-O Nbd7 10. Nd2 a6 11. a4 Rb8 12. Nc4 Ne8 13. a5 Ne5 14. Nb6
+Nc7 15. h3 f5 16. Bd2 Bd7 17. Rc1 Na8 18. Nca4 Qe8 19. b4 Bxa4 20. Qxa4
+Nxb6 21. Qxe8 Rfxe8 22. axb6 c4 23. Rc2 Bf6 24. Rfc1 Bd8 25. Kf1 Bxb6 26.
+f4 Nd7 27. Rxc4 Nf6 28. R1c3 Kf7 29. Bc1 Re7 30. Rc2 Rbe8 31. Bf3 Ne4 32.
+Kg2 h5 33. Bb2 Be3 34. Bxe4 Rxe4 35. Rc7+ R4e7 36. Kf1 Bb6 37. Rxe7+ Kxe7
+38. Rc4 Kd7 39. Bc3 Re3 40. Be1 Rb3 41. e4 Rf3+ 42. Ke2 Re3+ 43. Kf1 Rd3
+44. Rc3 Rd4 45. b5 Ba5 46. Ra3 Bxe1 47. bxa6 bxa6 48. Kxe1 fxe4 49. Ra5 Rd3
+50. Kf2 Rf3+ 51. Kg2 h4 52. gxh4 Rxf4 53. Rxa6 Ke7 54. Kg3 Rf5 55. Ra4 e3
+56. Ra1 e2 57. Re1 Re5 58. Kf3 Kf6 59. Rxe2 Rxe2 60. Kxe2 Ke5 61. Kf3 Kxd5
+62. Kg4 Ke6 0-1
+

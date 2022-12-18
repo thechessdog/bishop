@@ -1,0 +1,20 @@
+[Event "British CCC"]
+[Site "British CCC"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Milan, S."]
+[Black "Borwell, A."]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "713e7839"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 O-O 8.
+b3 d5 9. Qf3 c6 10. g4 c5 11. g5 Nfd7 12. cxd5 Bb7 13. Rg1 cxd4 14. exd4 e5
+15. Nfe2 Re8 16. Be3 exd4 17. Nxd4 Bc5 18. Nc2 Ne5 19. Qe4 Nbd7 20. O-O-O
+Rc8 21. Kb2 Bxe3 22. Nxe3 Nc4+ 23. Nxc4 Rxe4 24. Nxe4 Nc5 25. Nc3 Qd7 26.
+Rg3 Re8 27. Bh3 Qd8 28. d6 b5 29. d7 Re7 30. Na5 Ba8 31. b4 Ne4 32. Nxe4
+Rxe4 33. Rc3 1-0
+

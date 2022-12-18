@@ -1,0 +1,17 @@
+[Event "Lindau"]
+[Site "Lindau"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Portz"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "1919e268"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qg4 7. Qf2 Ne4 8.
+Nxe4 Qxe4 9. O-O-O a6 10. Nf3 f6 11. Bd3 Qa4 12. a3 Nc6 13. Qd2 Be6 14. Rhe1
+O-O-O 15. Bf2 Bf7 16. Bf5+ e6 17. Rxe6 Bxe6 18. Bxe6+ Kb8 19. Qxd8+ Nxd8 20.
+Rxd8# 1-0

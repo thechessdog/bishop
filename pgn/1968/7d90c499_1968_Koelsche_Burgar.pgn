@@ -1,0 +1,23 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Koelsche, G."]
+[Black "Burgar, W."]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Pirc-Lisitsin gambit"]
+[HashCode "7d90c499"]
+[Epoch "Bishop"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 Nf6 4. d3 e3 5. Bxe3 e5 6. d4 exd4 7. Qxd4 Nc6
+8. Qh4 d6 9. Bd3 Ne5 10. Bxh7 Nxh7 11. Nc3 Bf5 12. O-O-O Nxg5 13. Qxh8 Ngf7
+14. Qh5 Bg4 15. Qh7 Bxd1 16. Rxd1 Qd7 17. f4 Nc6 18. Qe4+ Qe7 19. Qf3 O-O-O
+20. Rd3 Re8 21. Bf2 Qd7 22. Nb5 a6 23. Ra3 d5 24. Ra4 Re4 25. Qb3 Qf5 26.
+g3 Rxa4 27. Qxa4 axb5 28. Qa8+ Kd7 29. Qxf8 g6 30. Bc5 b6 31. Ba3 Nfd8 32.
+Qxf5+ gxf5 33. b3 Ke6 34. Kd2 Nf7 35. Bb2 d4 36. a3 Kd5 37. Kd3 b4 38. a4
+Nd6 39. Bc1 Ne7 40. Bd2 c5 41. h4 Ng8 42. Be1 Nf6 43. Bd2 Nde4 44. Be1 Nh5
+45. Ke2 Nexg3+ 46. Kf3 Ne4 47. Ke2 Nxf4+ 48. Kf3 Nh5 49. Ke2 Ke6 50. Kd3
+Nf4+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Teeside"]
+[Site "Teeside"]
+[Date "1975.01.01"]
+[Round "9"]
+[White "Kavalek, Lubomir"]
+[Black "Smyslov, Vasily"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "db69c2b9"]
+[Epoch "Bishop"]
+[WhiteID "2000121"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5
+8. Rxe5 O-O 9. d4 Bf6 10. Re1 Nf5 11. c3 d5 12. Bf4 c6 13. Nd2 Nh4 1/2-1/2

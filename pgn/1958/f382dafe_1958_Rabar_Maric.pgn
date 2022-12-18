@@ -1,0 +1,18 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1958.03.01"]
+[Round "1"]
+[White "Rabar, Braslav"]
+[Black "Marić, Rudolf"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "f382dafe"]
+[Epoch "Bishop"]
+[WhiteCountry "HRV"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Qe7 7. Bxd7+ Nxd7
+8. dxc5 Nxc5 9. Ndf3 Qxe2+ 10. Nxe2 Nf6 11. Bg5 Nce4 12. Bxf6 Nxf6 13. O-O-O
+Bc5 14. Nfd4 O-O-O 15. f3 Rhe8 16. c3 a6 17. Kc2 1/2-1/2

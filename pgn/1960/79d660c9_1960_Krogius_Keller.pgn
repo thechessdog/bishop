@@ -1,0 +1,17 @@
+[Event "corr USSR-BRD"]
+[Site "corr USSR-BRD"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Krogius, Nikolai V"]
+[Black "Keller, E."]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[HashCode "79d660c9"]
+[Epoch "Bishop"]
+[WhiteID "4100565"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d3 d5 4. Nbd2 Nf6 5. g3 Be7 6. Bg2 O-O 7. O-O Nc6 8. Re1
+b5 9. e5 Nd7 10. Nf1 a5 11. Bf4 b4 12. h4 Re8 1/2-1/2

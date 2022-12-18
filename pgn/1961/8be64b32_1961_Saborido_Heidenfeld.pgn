@@ -1,0 +1,17 @@
+[Event "Torremolinos"]
+[Site "Torremolinos"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Saborido"]
+[Black "Heidenfeld, Wolfgang"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "8be64b32"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Bb4+ 5. Nd2 f6 6. e3 Bxd2+ 7. Qxd2 fxe5
+8. Bg3 Nc6 9. Nf3 Qe7 10. Be2 d6 11. O-O Nf6 12. Bh4 Bf5 13. Rac1 Ne4 14. Qe1
+g5 15. Nxg5 Nxg5 16. f4 exf4 17. exf4 Qe3+ 18. Kh1 Nf7 19. Bg4 Qxe1 20. Rcxe1+
+Kf8 21. Bxf5 Kg7 22. Re6 Rhe8 23. Bf6+ Kg8 24. Rf3 Rxe6 25. Bxe6 Re8 26. f5 1-0

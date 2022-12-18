@@ -1,0 +1,23 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "2"]
+[White "Conan, Claude"]
+[Black "Gereben, Erno"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "78b9bc39"]
+[Epoch "Bishop"]
+[WhiteID "26077272"]
+[WhiteCountry "FRA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Bxc3+ 7. Nxc3 d5 8.
+cxd5 exd5 9. Bd3 O-O 10. O-O Nbd7 11. b3 Re8 12. Ra2 Nf8 13. Rc2 Ne6 14. Bb2
+Ng5 15. Re1 a6 16. Ne2 g6 17. Nf4 Ne6 18. Rce2 Qd6 19. Nxe6 Rxe6 20. f3 Rae8
+21. Qc1 Nh5 22. a4 f5 23. Ba3 Qd8 24. Rc2 c6 25. Bb4 a5 26. Bc3 Qg5 27. Rce2
+Nf6 28. Bd2 Qh4 29. Rf1 Qh5 30. Be1 Qh6 31. Bf2 Qf8 32. Be1 Qe7 33. Bd2 Kg7 34.
+Rfe1 h5 35. Qb2 Kh7 36. b4 axb4 37. Bxb4 Qc7 38. Bd2 c5 39. dxc5 bxc5 40. Rb1
+Bc6 41. Bb5 d4 42. Bc4 Bd5 43. Qb3 Qd6 44. Kf2 dxe3+ 45. Bxe3 f4 0-1

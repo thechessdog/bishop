@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Friedrich, E."]
+[Black "Osterwald, K."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "b7fd358a"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. e5 Nfd7 6. d4 Ba6 7. Bxa6 Nxa6
+8. Qe2 Nb4 9. Nf1 c5 10. c3 Nc6 11. Bg5 Be7 12. h4 h6 13. Bxe7 Qxe7 14. g4
+Rc8 15. Qd2 f6 16. exf6 Nxf6 17. Ne3 Ne4 18. Qd3 O-O 19. Nc2 cxd4 20. cxd4
+Nb4 21. Nxb4 Qxb4+ 22. Kf1 Rxf3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Korchnoi, Viktor"]
+[Black "Spassky, Boris V."]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "7f070a34"]
+[Epoch "Bishop"]
+[BlackID "600024"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg4 7. Bb5+ Nbd7 8.
+Bxd7+ Qxd7 9. Qd3 e5 10. Nf3 Bxf3 11. Qxf3 Qg4 12. Nd5 1-0

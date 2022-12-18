@@ -1,0 +1,20 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Bukic"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "91ae813e"]
+[Epoch "Bishop"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 d5 8. exd5
+Nxd5 9. Nde2 Nxc3 10. Qxd8+ Kxd8 11. Nxc3 Bd7 12. Bg2 Bc6 13. O-O Bxg2 14. Kxg2
+Nd7 15. Bf4 Rc8 16. Rad1 Ke8 17. Rd3 Be7 18. Re1 Bb4 19. Bd2 Nc5 20. Rd4 Bxc3
+21. Bxc3 Ke7 22. Ba5 Kf6 23. Re3 Kg6 24. Rd6 h5 25. Rd4 f6 26. f4 hxg4 27. hxg4
+Rc6 28. Bc3 b5 1/2-1/2

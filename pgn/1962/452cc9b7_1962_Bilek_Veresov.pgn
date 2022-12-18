@@ -1,0 +1,15 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Veresov, Gavril"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "452cc9b7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d3 Nc6 4. c3 Nf6 5. Nbd2 g6 6. a3 Bg7 7. b4 Nh5 8. Qc2
+cxb4 9. axb4 Qc7 10. Nc4 Be6 11. Ne3 Nxb4 12. cxb4 Qc3+ 13. Qxc3 Bxc3+ 14. Bd2
+Bxa1 15. d4 Rc8 16. Nd1 O-O 17. h3 Bb3 18. b5 Bc2 0-1

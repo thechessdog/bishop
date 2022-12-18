@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Friedman"]
+[Black "Antal"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "fd9e8c68"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O b4 9. Na4 Nxe4 10. f4 Be7 11. f5 d5 12. fxe6 Bxe6 13. Nxe6 fxe6 14.
+Qh5+ Kd7 15. Bxd5 exd5 16. Qxd5+ Kc8 17. Qxe4 Ra7 18. Be3 Rb7 19. Rad1 Nd7
+20. Bf4 1-0
+

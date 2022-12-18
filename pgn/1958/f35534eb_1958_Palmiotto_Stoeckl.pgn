@@ -1,0 +1,18 @@
+[Event "Munich olm prel"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "6"]
+[White "Palmiotto, Fiorentino"]
+[Black "Stoeckl, Ernst"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "f35534eb"]
+[Epoch "Bishop"]
+[WhiteID "803146"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Qd4 Qe7
+8. f3 Bc5 9. Qa4 Rb8 10. a3 O-O 11. Be2 d5 12. Bg5 Rxb2 13. Qxc6 Bb7 14. Bxf6
+gxf6 15. Qa4 Qe5 16. Nd1 Rb6 17. Qa5 dxe4 18. Kf1 exf3 19. gxf3 Re8 0-1

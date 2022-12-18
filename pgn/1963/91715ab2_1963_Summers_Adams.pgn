@@ -1,0 +1,16 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Summers, LA."]
+[Black "Adams, J."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "91715ab2"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. d4 c5 3. c4 Nf6 4. cxd5 cxd4 5. Qa4+ Qd7 6. Qxd4 Qxd5 7. Nc3
+Qa5 8. Ne5 e6 9. e3 Nbd7 10. Bb5 a6 11. Nc4 Qc7 12. Nb6 axb5 13. Nxa8 Qa5
+14. Bd2 Qxa8 15. Nxb5 Qb8 16. Rc1 Be7 17. Bb4 e5 18. Nd6+ Bxd6 19. Qxd6 1-0
+

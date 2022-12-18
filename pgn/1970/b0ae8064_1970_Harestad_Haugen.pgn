@@ -1,0 +1,19 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Harestad, Ove Henning"]
+[Black "Haugen, Arild"]
+[Result "0-1"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "b0ae8064"]
+[Epoch "Bishop"]
+[WhiteID "1507540"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Bc5 6. Be3 Qb6 7. Nxc6 Bxe3 8.
+Qf3 Qxb2 9. Qxe3 Qxa1+ 10. Kd2 dxc6 11. Nb5 Qe5 12. Nd4 Qd6 13. c3 e5 14. Qg3
+Qh6+ 15. Kd3 exd4 16. Qe5+ Be6 0-1

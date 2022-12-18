@@ -1,0 +1,21 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gotzhein"]
+[Black "Kuehn"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "30c31ac5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Ne2 Bb7 8.
+Ng3 O-O 9. Bd3 Qc7 10. e4 d5 11. e5 Ne4 12. cxd5 Nxc3 13. Bxh7+ Kxh7 14.
+Qc2+ Kg8 15. Qxc3 Bxd5 16. O-O Nc6 17. Be3 Rfc8 18. dxc5 Qxe5 19. Qxe5 Nxe5
+20. cxb6 axb6 21. Bxb6 Nc4 22. Bd4 Rxa3 23. Rxa3 Nxa3 24. Nh5 f6 25. Nf4
+Kf7 26. Be3 Nc4 27. Rc1 Rb8 28. h3 g5 29. Nd3 Nxe3 30. fxe3 Rb3 31. e4 Rxd3
+32. exd5 exd5 33. Kf2 Ke6 34. Ke2 Ra3 35. Re1 Ke5 36. Kf2+ Kf4 37. Re2 d4
+38. Rd2 Ke4 39. g3 Rf3+ 40. Kg2 d3 41. h4 g4 42. h5 Rf5 43. Rf2 Rxh5 0-1
+

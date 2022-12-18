@@ -1,0 +1,20 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "15"]
+[White "Bulon"]
+[Black "Clement"]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "e744ff43"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d4 Bg4 10. h3 Bxf3 11. Qxf3 exd4 12. cxd4 Nxd4 13. Qd3 Nxb3 14.
+Qxb3 Re8 15. Bg5 d5 16. exd5 Qxd5 17. Qxd5 Nxd5 18. Bxe7 Rxe7 19. Rxe7 Nxe7
+20. Nc3 Rd8 21. Rc1 f5 22. a3 c6 23. Kf1 Kf7 24. Ke2 Rd6 25. Rc2 Ke6 26. b4
+g6 27. Na2 Nd5 28. g3 Nb6 29. Nc1 Nc4 30. Ra2 a5 31. Nd3 a4 32. Nc5+ Ke5
+33. h4 Kd4 34. Ra1 Kc3 35. Kf1 Kb2 0-1
+

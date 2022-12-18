@@ -1,0 +1,18 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Tarve, Udo"]
+[Black "Popov, Luben"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "4840257b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O d6 8. Re1
+Nf6 9. a4 b4 10. Na2 Be7 11. Bg5 a5 12. c3 bxc3 13. Nxc3 O-O 14. Ndb5 Na6 15.
+Qf3 Nb4 16. Rad1 Nd7 17. Bxe7 Qxe7 18. Bb1 Ra6 19. Qf4 g5 20. Qd2 Nc5 21. Nxd6
+Nb3 22. Qe3 Rxd6 23. Rxd6 Qxd6 24. Qxg5+ Kh8 25. Qf6+ Kg8 26. e5 Qd8 27. Qh6 f5
+28. exf6 Rf7 29. Rxe6 Bc6 30. Bxh7+ Rxh7 31. Qg6+ Kh8 32. f7 1-0

@@ -1,0 +1,18 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kampfhenkel, U."]
+[Black "Engel"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "ab2c195e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Qc7 10. Bb3 Bd7 11. h4 Ne5 12. h5 Nxh5 13. Nd5 Qd8 14. Bg5
+Re8 15. O-O-O h6 16. Bxh6 e6 17. Bxg7 Kxg7 18. g4 exd5 19. gxh5 Rh8 20.
+hxg6 fxg6 21. Bxd5 Qf6 22. f4 Nc6 23. Bxc6 bxc6 24. e5 dxe5 25. fxe5 1-0
+

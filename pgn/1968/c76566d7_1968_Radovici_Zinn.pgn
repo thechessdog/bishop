@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Radovici, Corvin"]
+[Black "Zinn, Lothar"]
+[Result "1/2-1/2"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[Variation "Venice attack"]
+[HashCode "c76566d7"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Bb5+ Bd7 7. Bxd7+ Qxd7
+8. Nde2 h6 9. O-O Nc6 10. Ng3 Rd8 11. Be3 d5 12. exd5 Nxd5 13. Nxd5 Qxd5 14.
+Qg4 Qd7 15. Qc4 Be7 16. f4 Qd5 17. Qe2 exf4 18. Rxf4 O-O 19. Qf2 1/2-1/2

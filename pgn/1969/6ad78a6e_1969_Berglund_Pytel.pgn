@@ -1,0 +1,17 @@
+[Event "POL-SVE"]
+[Site "Lodz"]
+[Date "1969.??.??"]
+[Round "2.9"]
+[White "Berglund, Martin"]
+[Black "Pytel, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "6ad78a6e"]
+[Epoch "Bishop"]
+[BlackID "600199"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d3 c5 3. g3 g6 4. Bg2 Bg7 5. c3 Nc6 6. Nf3 d5 7. O-O Nge7 8. Nbd2
+O-O 9. Re1 b6 10. Nf1 dxe4 11. dxe4 Qxd1 12. Rxd1 Ba6 1/2-1/2

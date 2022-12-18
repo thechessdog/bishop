@@ -1,0 +1,17 @@
+[Event "Arlington,VA"]
+[Site "Arlington,VA"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Tejler, Anders"]
+[Black "Harris"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "7b484b16"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. d5 Nf6 5. Bg5 Be7 6. Bxf6 Bxf6 7. Nxe4 O-O
+8. Nf3 Bg4 9. h3 Bxf3 10. Qxf3 Be7 11. Bd3 f5 12. d6 cxd6 13. Ng3 e4 14.
+Bc4+ d5 15. Qb3 dxc4 16. Qxb7 Nd7 17. O-O-O c3 18. Rxd7 cxb2+ 19. Kb1 Qe8
+20. Rxe7 Qg6 21. Nxf5 Qxf5 22. Rxg7+ Kh8 23. Qxb2 Rf6 24. Rf7 1-0
+

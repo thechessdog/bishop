@@ -1,0 +1,18 @@
+[Event "Lugano ol (Men)"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Dunkelblum, Arthur"]
+[Black "Csom, Istvan"]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[HashCode "f5c32812"]
+[Epoch "Bishop"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+[WhiteCountry "BEL"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O g6 5. c4 c5 6. b3 Bg7 7. Bb2 d6 8. d4
+cxd4 9. Nxd4 Bxg2 10. Kxg2 Qc8 11. f3 h5 12. h4 d5 13. cxd5 Nxd5 14. Qd3 O-O
+15. e4 Nb4 16. Qd2 Rd8 17. Qxb4 Bxd4 18. Rc1 Bxb2 19. Rxc8 Rxc8 0-1

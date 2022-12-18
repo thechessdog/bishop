@@ -1,0 +1,31 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Faibisovich, Vadim Z"]
+[Black "Zakharov, Alexander V"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "b2a80d18"]
+[Epoch "Bishop"]
+[WhiteID "4102703"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+Nbd7 9. h3 b5 10. g4 Nb6 11. Ng3 b4 12. Nd5 Nfxd5 13. exd5 O-O 14. a3 bxa3 15.
+Rxa3 Bg5 16. O-O Rb8 17. Qe2 Bf4 18. c4 a5 19. c5 dxc5 20. Rxa5 Nxd5 21. Rxc5
+Nb4 22. Bxf4 exf4 23. Nf5 Ba6 24. Qe5 f6 25. Qxf4 Bxf1 26. Rc7 Rf7 27. Rxf7
+Kxf7 28. Bxf1 Rb6 29. Bc4+ Kf8 30. Nd4 Qd6 31. Ne6+ Ke7 32. Qe3 Nc2 33. Qe4
+Rxb2 34. Nd4+ Kd8 35. Nxc2 Qd1+ 36. Ne1 Qd2 37. Qd3+ Ke7 38. Qxd2 Rxd2 39. Nf3
+Rc2 40. Bg8 h6 41. Bh7 Rb2 42. Bg6 Ra2 43. Kg2 Rb2 44. Nd4 Kf8 45. Nf5 Ra2 46.
+Kg3 Kg8 47. f3 Ra3 48. h4 Ra6 49. h5 Ra5 50. Ne3 Kh8 51. Kf4 Re5 52. Bf7 Kh7
+53. Nc4 Rb5 54. Ke4 Rc5 55. Bd5 Rb5 56. Ne3 Rc5 57. Kf5 Rc8 58. Ng2 Re8 59. Be6
+Ra8 60. Bf7 Ra6 61. Nh4 Rb6 62. Ng6 Ra6 63. Bc4 Ra3 64. Bd5 Ra6 65. Nf8+ Kh8
+66. Be6 Ra3 67. Bd5 Ra6 68. Ng6+ Kh7 69. Ne7 Rd6 70. Be4 Ra6 71. Nc6 Rb6 72.
+Ke6+ Kg8 73. Ke7 Rb7+ 74. Ke8 Rb5 75. Ne7+ Kh8 76. Kf7 Rb8 77. Nf5 Rd8 78. Kg6
+Rd7 79. Bc6 Rd8 80. Bb5 Rc8 81. Bd7 Rc3 82. Be8 Rc7 83. Bf7 Rc5 84. f4 Rc6 85.
+Bd5 Rc5 86. Be6 Rc7 87. Nd6 Re7 88. f5 Ra7 89. Nf7+ Kg8 90. Nxh6+ Kf8 91. Nf7
+Ra4 92. g5 Rg4 93. h6 gxh6 94. Kxf6 h5 95. g6 h4 96. Ng5 1-0

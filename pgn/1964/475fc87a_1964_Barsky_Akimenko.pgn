@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Barsky"]
+[Black "Akimenko"]
+[Result "1/2-1/2"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "475fc87a"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 Ne4 6. Nxe4 dxe4 7. Qa4+
+Nc6 8. Qxe4 Qd4 9. Qxd4 Nxd4 10. Bd3 Be6 11. Ne2 O-O-O 12. Nf4 g5 13. Nxe6
+fxe6 14. Be4 Bg7 15. Rb1 Bxe5 16. d3 Bf4 17. Be3 Bxe3 18. fxe3 Nf5 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Heinrich, H."]
+[Black "Mohaupt, H."]
+[Result "0-1"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "4d954e11"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 Qa5
+8. O-O O-O 9. Nb3 Qc7 10. f4 d6 11. Be2 a5 12. a4 Nb4 13. Rc1 Bd7 14. Nd4
+Qc8 15. h3 Bc6 16. Bd3 Nd7 17. Nde2 Nc5 18. b3 b6 19. f5 Qb7 20. fxg6 hxg6
+21. Re1 Rab8 22. Bd4 Bh6 23. Rb1 Nxe4 24. Nxe4 Bxe4 25. Bxe4 Qxe4 26. Ng3
+Qh4 27. Bf2 Qf6 28. Ne4 Qf5 29. Bh4 Nc6 30. Qe2 Rb7 31. Rbd1 Bg7 32. Bf2
+Rfb8 33. Rd3 b5 34. Nc3 bxa4 35. Nxa4 Nb4 36. Rd2 Bh6 37. g4 Qc8 0-1
+

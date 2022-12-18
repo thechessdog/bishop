@@ -1,0 +1,18 @@
+[Event "Lucerne ch"]
+[Site "Lucerne ch"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Schaufelberger"]
+[Black "Maschian"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "c7e3223e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Nc6
+8. Qe2 d6 9. Be3 Bb8 10. c4 Nge7 11. Nc3 O-O 12. f4 Nb4 13. Rad1 Nxd3 14.
+Rxd3 Bd7 15. f5 Nc6 16. f6 Ne5 17. Qh5 Re8 18. Bd4 Ng6 19. Rh3 h6 20. Rg3
+Kh7 21. fxg7 e5 22. Rxf7 Kg8 23. Qxg6 1-0
+

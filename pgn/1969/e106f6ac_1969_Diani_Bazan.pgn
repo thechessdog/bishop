@@ -1,0 +1,18 @@
+[Event "Cordoba"]
+[Site "Cordoba"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Diani, J."]
+[Black "Bazan, G."]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "e106f6ac"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Qe2 Be7 10. c3 O-O 11. Rd1 Qd7 12. Bxd5 Bxd5 13. Qxe4 Rad8 14.
+Qe3 Qg4 15. Re1 Bc5 16. Qf4 Bxf3 17. Qxf3 Nxe5 18. Qg3 Rd1 19. Qxe5 Qf5 20.
+Qe2 Qxf2+ 0-1
+

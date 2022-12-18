@@ -1,0 +1,19 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Bobotsov, Milko G"]
+[Black "Kolarov, Atanas S."]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "ecd25302"]
+[Epoch "Bishop"]
+[BlackID "2900246"]
+[WhiteCountry "BGR"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Be7 6. Qc2 c5 7. Rd1 Nc6 8. e3
+O-O 9. Be2 cxd4 10. Nxd4 Nxd4 11. Rxd4 Bxg2 12. Rg1 Bc6 13. Bd3 Re8 14. Rh4 g6
+15. Bxg6 hxg6 16. Rh6 Kg7 17. Rxg6+ fxg6 18. Bh6+ 1-0

@@ -1,0 +1,19 @@
+[Event "Essen"]
+[Site "Essen"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Rautenberg, Wilhelm"]
+[Black "Herrmann"]
+[Result "1-0"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical variation with ...Qc7 and ...Nc6"]
+[HashCode "b8bd599c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 e6 6. Be2 a6 7. O-O Qc7 8. f4
+Nc6 9. Kh1 Be7 10. Bf3 Bd7 11. Nde2 Rc8 12. b3 b5 13. Bb2 O-O 14. Ng3 Rfd8 15.
+Qd2 Bf8 16. Nce2 e5 17. Nh5 Nxh5 18. Bxh5 Be6 19. f5 Bd7 20. Nc3 Nd4 21. Rf2
+Bc6 22. Re1 Re8 23. Nd1 Bb7 24. c3 Nc6 25. Ne3 Nd8 26. Ng4 Kh8 27. Rf3 g6 28.
+fxg6 fxg6 29. Nf6 Ne6 30. Bxg6 hxg6 31. Rh3+ Kg7 32. Rh7+ Kxf6 33. Rf1+ Nf4 34.
+Rxf4+ exf4 35. c4+ Ke6 36. Qd5+ Bxd5 37. cxd5# 1-0

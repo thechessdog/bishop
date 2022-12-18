@@ -1,0 +1,23 @@
+[Event "Mar del Plata zt"]
+[Site "Mar del Plata zt"]
+[Date "1951.01.01"]
+[Round "2"]
+[White "Luckis, Marcos"]
+[Black "Pinzon Solis, Felipe"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "e7b0021c"]
+[Epoch "Bishop"]
+[WhiteCountry "LTU"]
+[BlackCountry "PER"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. f3 Nb6 11. b3 c6 12. Re1 d5 13. cxd5 Nfxd5 14. Nxd5 Nxd5
+15. Bb2 Nb4 16. a3 c5 17. axb4 cxd4 18. f4 Qb6 19. e5 Rd8 20. Qd3 Qxb4 21. Re4
+Be6 22. Rxd4 Rxd4 23. Qxd4 Qxb3 24. Ra3 Qb5 25. Bf1 Qc6 26. Bg2 Qb5 27. Bf1 Qd5
+28. Rxa7 Rxa7 29. Qxa7 Bf8 30. Bd4 b5 31. Bf2 Qd1 32. Qd4 Qxd4 33. Bxd4 b4 34.
+Kf2 b3 35. Bb2 Bc5+ 36. Ke1 h5 37. h4 Kf8 38. Bd3 Ke7 39. Ke2 Kd7 40. f5 Bxf5
+41. Bxf5+ gxf5 42. Kf3 Ke6 43. Kf4 Be7 44. Bc3 f6 45. Bb2 fxe5+ 46. Bxe5 Bd6
+0-1

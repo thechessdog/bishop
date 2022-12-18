@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bronstein, David Ionovich"]
+[Black "Zaitsev, Igor"]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "705fa1b1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bc4 Nxd5 6. O-O Be6 7. Bb3 Bd6 8.
+c4 Ne7 9. d4 Ng6 10. c5 Be7 11. Bxe6 fxe6 12. Re1 O-O 13. Rxe6 Bxc5 14. Qb3
+Bxd4+ 15. Nxd4 Qxd4+ 16. Be3 1-0

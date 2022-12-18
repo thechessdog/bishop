@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Ravinsky, Grigory Ionovich"]
+[Black "Tarasov, Vitaly Georgievich"]
+[Result "1/2-1/2"]
+[ECO "D95"]
+[Opening "Gruenfeld"]
+[Variation "Botvinnik variation"]
+[HashCode "8a94cfd1"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "MDA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e3 d5 6. Qb3 e6 7. Bd2 c6 8. Be2
+Nbd7 9. O-O Ne4 10. Be1 f5 11. Nd2 Kh8 12. Ncxe4 fxe4 13. f3 c5 14. cxd5 cxd4
+15. exd4 Bxd4+ 16. Bf2 Bxf2+ 17. Rxf2 exd5 18. Qc3+ Qf6 19. Qxf6+ Nxf6 20. fxe4
+Be6 21. exd5 Bxd5 22. Raf1 Kg7 23. Bc4 1/2-1/2

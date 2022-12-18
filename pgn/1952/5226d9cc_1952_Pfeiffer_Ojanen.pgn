@@ -1,0 +1,27 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Pfeiffer, Gerhard"]
+[Black "Ojanen, Kaarle Sakari"]
+[Result "0-1"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Pilnik variation"]
+[HashCode "5226d9cc"]
+[Epoch "Bishop"]
+[WhiteID "1649027"]
+[WhiteCountry "AUT"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d3 Na5 10. Bc2 c5 11. Nbd2 Qc7 12. Nf1 Nc6 13. Ne3 Re8 14. h3 Be6 15. d4
+cxd4 16. cxd4 exd4 17. Nxd4 Nxd4 18. Qxd4 Rad8 19. Qd3 g6 20. Bb3 Bf8 21. Bd2
+Qb7 22. Ba5 Rc8 23. f3 Nd7 24. Bd5 Qa7 25. Kh1 Bg7 26. Bc3 Bxc3 27. bxc3 Qc5
+28. Rac1 Nf6 29. Bb3 Qe5 30. Red1 Rc6 31. Qd4 Rec8 32. Bxe6 fxe6 33. Qxe5 dxe5
+34. Rd3 Kf7 35. Kg1 Ke7 36. Kf2 h5 37. a3 Nd7 38. Nd1 Nc5 39. Re3 Rd6 40. Rb1
+Rcd8 41. Nb2 Nb3 42. Rbe1 Nc5 43. h4 Rd2+ 44. R1e2 a5 45. Ke1 R2d7 46. Rc2 Kf6
+47. Ree2 g5 48. hxg5+ Kxg5 49. Kf2 h4 50. Rc1 Nb3 51. Rce1 Rc7 52. Re3 Rdc8 53.
+Nd1 Nc1 54. Rh1 Rd7 55. g3 Rcd8 56. f4+ exf4 57. gxf4+ Kxf4 58. Rf3+ Ke5 59.
+Ne3 Rd2+ 60. Ke1 Kxe4 61. Rhh3 Re2+ 62. Kf1 Rd3 63. Rf6 Rexe3 64. Rxe6+ Kf4 65.
+Rxh4+ Kg5 66. Reh6 Rd1+ 0-1

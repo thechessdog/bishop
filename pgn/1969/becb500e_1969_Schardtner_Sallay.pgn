@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Schardtner"]
+[Black "Sallay"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Reifir (Spielmann) variation"]
+[HashCode "becb500e"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 Nc6 6. Bg5 Qb6 7. cxd5 Nxd4
+8. Be3 e5 9. dxe6 Bc5 10. exf7+ Ke7 11. Bc4 Bg4 12. Qc1 Bf5 13. Bxd4 Bxd4
+14. Qd2 Rhc8 15. Qe2+ Kf8 16. Nf3 Rxc4 17. Qxc4 Bxf2+ 18. Kf1 Qxb2 19. Rd1
+Bb6 20. Ne2 Ng4 21. Qb3 Ne3+ 22. Ke1 Nxg2+ 23. Kf1 Ne3+ 24. Ke1 Nc2+ 0-1
+

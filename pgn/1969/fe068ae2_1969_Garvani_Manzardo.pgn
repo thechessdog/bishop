@@ -1,0 +1,19 @@
+[Event "La Spezia"]
+[Site "La Spezia"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Garvani, V."]
+[Black "Manzardo"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "fe068ae2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O Nf6 6. e5 d5 7. exf6 dxc4
+8. Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 O-O-O 12. g4 Qe5 13. f4 d3+ 14.
+Nxc5 Qxc5+ 15. Be3 Qf8 16. Ne4 gxf6 17. Nxf6 Qg7 18. g5 h6 19. c3 hxg5 20.
+fxg5 Qxf6 21. gxf6 Rdg8+ 22. Kf2 Rxh2+ 23. Kf3 Bd5+ 24. Kf4 Rh4+ 25. Kf5
+Be4# 0-1
+

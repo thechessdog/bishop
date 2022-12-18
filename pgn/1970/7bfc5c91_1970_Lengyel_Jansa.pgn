@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Lengyel, L."]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "7bfc5c91"]
+[Epoch "Bishop"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 Re8 10. Ne1 e5 11. d5 Na5 12. e4 Nac4 13. b3 Nd6 14. Bb2 f5 15.
+f3 a5 16. Nd3 Nd7 17. Qc2 b6 18. Rfe1 Ba6 19. Bf1 1/2-1/2

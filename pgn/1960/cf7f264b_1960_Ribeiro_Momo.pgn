@@ -1,0 +1,18 @@
+[Event "Leipzig olm fin-C"]
+[Site "Leipzig"]
+[Date "1960.??.??"]
+[Round "6"]
+[White "Ribeiro, Joao Mario"]
+[Black "Momo, Suren"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "cf7f264b"]
+[Epoch "Bishop"]
+[WhiteID "1900129"]
+[WhiteCountry "POR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 e5 7. O-O cxd4 8. exd4
+exd4 9. Nd5 Nxd5 10. cxd5 Ne5 11. Nxd4 Nxd3 12. Qxd3 O-O 13. Nf5 Qf6 14. d6 g6
+15. Ne7+ Kh8 16. Nd5 Qxd6 17. Qd4+ Kg8 18. Bh6 f6 19. Bxf8 Kxf8 20. Qxb4 1-0

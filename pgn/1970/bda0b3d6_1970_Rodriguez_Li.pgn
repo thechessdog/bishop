@@ -1,0 +1,22 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Leon Rodriguez, Orlando"]
+[Black "Li Chen"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "bda0b3d6"]
+[Epoch "Bishop"]
+[WhiteID "2210665"]
+[WhiteCountry "ESP"]
+
+1. e4 Nc6 2. Nf3 e6 3. d4 d5 4. e5 Nge7 5. c3 Ng6 6. h4 Be7 7. h5 Nf8 8. Bd3 b6
+9. b4 h6 10. Qc2 Qd7 11. O-O Bb7 12. a4 a6 13. Nbd2 Na7 14. Nb3 Qd8 15. Be3 Nd7
+16. Qe2 Qc8 17. Rac1 Nc6 18. Nfd2 a5 19. b5 Nd8 20. Qg4 Kf8 21. f4 f5 22. Qh3
+Ke8 23. g4 Nf8 24. gxf5 Rg8 25. fxe6 Ndxe6 26. Qg3 Kd8 27. Nf3 Qd7 28. f5 Ng5
+29. Nxg5 hxg5 30. Bxg5 Kc8 31. Bxe7 Qxe7 32. f6 Qf7 33. fxg7 Qxg7 34. Qxg7
+Rxg7+ 35. Kh2 Ne6 36. Rf6 Kd7 37. Bf5 Re8 38. Rg1 Rxg1 39. Kxg1 Bc8 40. Rxe6
+Rxe6 41. h6 1-0

@@ -1,0 +1,20 @@
+[Event "Haifa"]
+[Site "Haifa"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kuski"]
+[Black "Weichert, Hannelore"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "8771a9dc"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. exd5 Re8 10. O-O Ng4 11. Bd3 Nh6 12. Bd2 Nf5 13. Qc2 Na6 14. a3 Nd4
+15. Nxd4 Bxd4+ 16. Kh1 f5 17. Nb5 Bg7 18. Rae1 Nc7 19. Nxc7 Rxe1 20. Nxa8
+Rxf1+ 21. Bxf1 Bd7 22. b4 Qxa8 23. bxc5 dxc5 24. Bc3 b5 25. Be5 Qe8 26. Qb2
+Bxe5 27. fxe5 bxc4 28. Bxc4 h5 29. e6 Bc8 30. d6 Bxe6 31. Qe5 Kf7 32. Qxc5
+Qa4 33. Qc7+ 1-0
+

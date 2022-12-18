@@ -1,0 +1,17 @@
+[Event "Yakima"]
+[Site "Yakima"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "LeCompte, George"]
+[Black "Berry, Jonathan"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "b176c73d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 Nge7 7. O-O Ng6 8.
+Qe2 Be7 9. Be3 O-O 10. Rad1 a6 11. Nd4 Nxd4 12. Bxd4 b5 13. Bb3 Qc7 14. Qe3 d6
+15. f4 Bb7 16. f5 exf5 17. exf5 Ne5 18. f6 Bxf6 19. Rxf6 gxf6 20. Qh6 Rfe8 21.
+Rf1 Qd7 22. Rxf6 Qg4 23. Ne4 Bxe4 0-1

@@ -1,0 +1,16 @@
+[Event "Tula"]
+[Site "Tula"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Reschko"]
+[Black "Koz"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "55cc4f4b"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 d4 6. exf6 dxc3 7. Bb5+ Nc6
+8. Qe2+ Be6 9. Nf3 cxd2+ 10. Bxd2 Qxf6 11. Rc1 Bd6 12. Rxc6 1-0
+

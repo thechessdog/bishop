@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Krabbe, W."]
+[Black "Wehmeyer, H."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "e63498f7"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4
+Nc6 9. Nf3 Bd7 10. Nbxd4 a6 11. Bb2 Nge7 12. Bd3 Bb8 13. O-O Ba7 14. Qe2
+Rc8 15. Kh1 Nxd4 16. Nxd4 Nc6 17. Nf3 O-O 18. Bxh7+ Kh8 19. Bd3 g6 20. Ng5
+Kg7 21. Qg4 Rh8 22. f5 1-0
+

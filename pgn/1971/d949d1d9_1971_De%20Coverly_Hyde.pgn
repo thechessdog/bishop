@@ -1,0 +1,19 @@
+[Event "Marlow"]
+[Site "Marlow"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "De Coverly, Roger D"]
+[Black "Hyde, K."]
+[Result "1-0"]
+[ECO "D50"]
+[Opening "QGD"]
+[Variation "4.Bg5"]
+[HashCode "d949d1d9"]
+[Epoch "Bishop"]
+[WhiteID "405213"]
+[WhiteCountry "END"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Bb4 5. e3 c5 6. cxd5 exd5 7. Bd3 Nc6 8. a3
+Bxc3+ 9. bxc3 Qa5 10. Bxf6 Qxc3+ 11. Kf1 c4 12. Bxg7 Rg8 13. Bxh7 Rxg7 14. Ne2
+Qa5 15. Bc2 Be6 16. h4 O-O-O 17. h5 Rh8 18. h6 Qd8 19. Nf4 Qf6 20. hxg7 Rxh1+
+21. Ke2 Bg4+ 22. f3 1-0

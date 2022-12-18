@@ -1,0 +1,17 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Steiner, Lajos"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "18f19d7c"]
+[Epoch "Bishop"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 b5 8. Be2
+Bb7 9. Bf3 Qc7 10. Qe2 e6 11. O-O-O b4 12. Nd5 exd5 13. exd5+ Kd8 14. Rhe1 Qb6
+15. Qe8+ Kc7 16. Qxf7 Bc8 17. Bxf6 gxf6 18. Re8 1-0

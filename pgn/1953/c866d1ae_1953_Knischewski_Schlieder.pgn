@@ -1,0 +1,19 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Knischewski, H."]
+[Black "Schlieder, R."]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "c866d1ae"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Nbd7
+8. O-O-O Qc7 9. Be2 b5 10. e5 Bb7 11. Qh3 dxe5 12. Nxe6 fxe6 13. Qxe6+ Be7
+14. Bxb5 axb5 15. Nxb5 Qb6 16. Nd6+ Kd8 17. Bxf6 Bxf6 18. Nf7+ Kc8 19.
+Qxd7+ Kb8 20. Rd6 Qa5 21. Nxh8 Bg5+ 22. f4 Bxf4+ 23. Kd1 Ka7 24. Rd3 Qb6
+25. Ra3+ Kb8 26. Qe8+ Kc7 27. Rc3+ Bc6 28. Qe7+ Kc8 29. Nf7 1-0
+

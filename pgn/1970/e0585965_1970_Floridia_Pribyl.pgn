@@ -1,0 +1,21 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "3"]
+[White "Floridia, P."]
+[Black "Pribyl, Josef"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "e0585965"]
+[Epoch "Bishop"]
+[BlackID "300187"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Nc3 e6 9. Bg5 Be7 10. a3 O-O 11. Re1 Rfd8 12. f4 h6 13. Bxf6 Bxf6 14. Nf3
+Bxc3 15. bxc3 d5 16. Qe2 dxe4 17. Qxe4 Qd5 18. Qe3 Rac8 19. h3 b6 20. Kh2 Qc4
+21. Nd2 Qa4 22. Nb3 Ne7 23. Red1 Nd5 24. Qd4 Qxd4 25. Nxd4 Nxf4 26. Nb5 Rxd1
+27. Rxd1 a6 28. Rf1 e5 29. g3 axb5 30. gxf4 Rxc3 31. fxe5 Rxc2+ 32. Kg3 Rc3+
+33. Rf3 Rxf3+ 34. Kxf3 Kf8 35. Ke4 Ke7 0-1

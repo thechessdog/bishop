@@ -1,0 +1,16 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Fidlow"]
+[Black "Busic"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "27acc151"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Nf6 6. Nc3 Bb4 7. Ne2
+Nxe4 8. O-O Nxc3 9. Nxc3 O-O 10. Nd5 Bc5 11. Nf6+ gxf6 12. Qg4+ Kh8 13. Qh4
+Be7 14. Bd3 1-0
+

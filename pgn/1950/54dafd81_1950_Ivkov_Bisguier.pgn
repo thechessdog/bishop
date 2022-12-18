@@ -1,0 +1,24 @@
+[Event "radio"]
+[Site "radio"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Ivkov"]
+[Black "Bisguier, Arthur Bernard"]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[HashCode "54dafd81"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Re1
+Kh8 9. d4 b5 10. Bc2 Bg4 11. d5 Na5 12. Nbd2 c5 13. Nf1 Nb7 14. h3 Bd7 15. g4
+Qc8 16. Ng3 g6 17. Kg2 Ne8 18. Bh6 Ng7 19. Qe2 f6 20. Nd2 Nd8 21. Ndf1 Nf7 22.
+Bxg7+ Kxg7 23. Ne3 c4 24. Rh1 Bd8 25. a4 Bb6 26. Ra2 Rb8 27. axb5 axb5 28. Rha1
+Rh8 29. Rg1 h5 30. f3 hxg4 31. hxg4 Qc5 32. Ngf1 Ng5 33. Rh1 Rxh1 34. Kxh1 Rh8+
+35. Kg2 Rh3 36. Ra1 Qc8 37. Nh2 Rxh2+ 38. Kxh2 Qh8+ 39. Kg2 Nh3 40. Kg3 Nf4 41.
+Qh2 Qxh2+ 42. Kxh2 Bxe3 43. Ra6 Bc5 44. Ra8 Kf7 45. Ra1 Ke7 46. Kh1 f5 47. gxf5
+gxf5 48. Kh2 fxe4 49. fxe4 Be8 50. Kg3 Bg6 51. Ra5 Nxd5 52. Rxb5 Ne3 53. Bb1
+Nf1+ 54. Kg4 Nd2 55. Bc2 Nxe4 56. Ba4 Kf6 57. Rb8 Bf5+ 58. Kf3 Ng5+ 59. Kg3 d5
+60. Bd1 0-1

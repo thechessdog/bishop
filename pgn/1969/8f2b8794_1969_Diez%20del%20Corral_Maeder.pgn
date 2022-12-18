@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "11"]
+[White "Diez del Corral, Jesus"]
+[Black "Maeder, Karl Heinz"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "8f2b8794"]
+[Epoch "Bishop"]
+[WhiteCountry "ESP"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. a3 Rb8 14. Qh3 g6 15.
+f5 Bxg5+ 16. Kb1 Nc5 17. b4 Na4 18. Nxa4 bxa4 19. fxg6 h6 20. gxf7+ Kxf7 21.
+Be2 Ke7 22. Rhf1 Bd7 23. Qd3 e5 24. Nf5+ Bxf5 25. Rxf5 a5 26. Qd5 Rhf8 27. Bc4
+Rxf5 28. exf5 Qd7 29. h4 Bxh4 30. f6+ Kd8 31. Qxa5+ Ke8 32. Qa6 Qc7 33. Rxd6
+Kf8 34. Rd3 1-0

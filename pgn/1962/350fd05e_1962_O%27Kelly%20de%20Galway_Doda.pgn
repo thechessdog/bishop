@@ -1,0 +1,18 @@
+[Event "Lasker mem"]
+[Site "Berlin-Ost"]
+[Date "1962.??.??"]
+[Round "4"]
+[White "O'Kelly, Albéric de Galway"]
+[Black "Doda, Zbigniew"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, Donner variation"]
+[HashCode "350fd05e"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O c6 8. Re1
+exd4 9. Nxd4 Re8 10. Bf1 Ng4 11. h3 Qf6 12. hxg4 Qxd4 13. g5 Nd7 14. Be3 Qxd1
+15. Raxd1 Be5 16. f4 Bxc3 17. bxc3 Rxe4 18. Rxd6 Re8 19. Bf2 Kf8 20. Red1 Nb6
+21. R6d4 1/2-1/2

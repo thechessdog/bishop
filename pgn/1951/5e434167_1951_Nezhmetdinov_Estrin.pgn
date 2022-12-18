@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Nezhmetdinov, Rashid"]
+[Black "Estrin, Yakov Borisovich"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Kholmov variation"]
+[HashCode "5e434167"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Be7 8. Re1
+O-O 9. h3 Be6 10. d4 Bxb3 11. Qxb3 Qd7 12. Nbd2 Rfe8 13. Nf1 exd4 14. cxd4 Na5
+15. Qc3 Nc4 16. Ng3 c5 17. b3 Nb6 18. Bb2 b4 19. Qd2 a5 20. dxc5 dxc5 21. Qg5
+h6 22. Qf4 c4 23. Bd4 Ra6 24. Nf5 Qe6 25. Bxb6 Rxb6 26. Nxg7 Kxg7 27. Nd4 Qc8
+28. Nf5+ Kg8 29. Qg3+ Ng4 30. Qxg4+ 1-0

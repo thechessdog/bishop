@@ -1,0 +1,24 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sorensen, Arne"]
+[Black "Rosell, Kaj"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "31d1147a"]
+[Epoch "Bishop"]
+[WhiteID "1419382"]
+[BlackID "1400380"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O g6 6. e5 d5 7. d4 cxd4 8.
+Qxd4 e6 9. Nc3 Nc6 10. Qh4 Bg7 11. Re1 h6 12. a4 Nge7 13. Ra3 a6 14. Qf4 g5 15.
+Qg3 Ng6 16. Nd1 Qc7 17. Rae3 Rc8 18. b3 Nb4 19. Rc3 Qd7 20. Nd4 Rxc3 21. Nxc3
+Qc7 22. Ba3 Qb6 23. Ndb5 axb5 24. Bxb4 bxa4 25. Bd6 axb3 26. cxb3 Bf8 27. Bxf8
+Kxf8 28. Qf3 Qd8 29. Nb5 Kg7 30. g3 Qe7 31. Qc3 Kh7 32. Rc1 Rd8 33. Qd4 Qd7 34.
+Qd3 Rc8 35. Rxc8 Qxc8 36. Nd6 Qc7 37. Kg2 Kg8 38. Qd4 f6 39. Ne8 Qxe5 40. Nxf6+
+Kf7 0-1

@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gerusel, Mathias"]
+[Black "Bialas, Wolfram"]
+[Result "1-0"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, 8...Bb7"]
+[HashCode "87c627b5"]
+[Epoch "Bishop"]
+[BlackID "4601041"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3
+Bb7 9. Rd1 Nbd7 10. Nc3 Qc7 11. e4 cxd4 12. Nxd4 b4 13. Nd5 exd5 14. exd5+ Qe5
+15. Qxe5+ Nxe5 16. Re1 Ng4 17. h3 Bc5 18. hxg4 Bxd4 19. Re4 a5 20. Ba4+ Ke7 21.
+Rxd4 Rhd8 22. Bf4 f6 23. Rad1 Kd6 24. g5 Rac8 25. Bg3 Rc5 26. Bb3 Rf8 27. Rh4
+Rc7 28. Rxh7 fxg5 29. Re1 Rf5 30. Rh5 Bxd5 31. Rxe5 Rxe5 32. Rxg5 1-0

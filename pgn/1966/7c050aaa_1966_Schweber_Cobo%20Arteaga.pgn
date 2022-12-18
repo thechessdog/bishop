@@ -1,0 +1,18 @@
+[Event "Panamerican"]
+[Site "Havana"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Schweber, Samuel"]
+[Black "Cobo Arteaga, Eldis"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Smyslov variation"]
+[HashCode "7c050aaa"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "CUB"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Qe7 9. Qe2 Bd7 10. Rd1 Bc6 11. Ne5 Rd8 12. a3 Ba5 13. dxc5 Qxc5 14. Rxd8+ Bxd8
+15. Nxc6 Nxc6 1/2-1/2

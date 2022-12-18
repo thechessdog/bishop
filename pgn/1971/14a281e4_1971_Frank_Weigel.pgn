@@ -1,0 +1,23 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Frank"]
+[Black "Weigel"]
+[Result "0-1"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Keres variation"]
+[HashCode "14a281e4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nd2 exd3 6. Bxd3 Nxd5 7. Qe2+ Be7
+8. Ne4 O-O 9. Bd2 Nb4 10. Bxb4 Bxb4+ 11. c3 Bd6 12. Qf3 Bxf4 13. Ne2 Bh6
+14. Rd1 Nc6 15. Qh5 Qe7 16. O-O f5 17. N4g3 Be3+ 18. Kh1 g6 19. Qf3 f4 20.
+Qd5+ Kh8 21. Ne4 Be6 22. Qb5 a6 23. Qg5 Qxg5 24. Nxg5 Bxa2 25. Nc1 Bg8 26.
+Be4 Bc4 27. Bd3 Bxd3 28. Nxd3 Rae8 29. Nh3 Rd8 30. Ng5 Rf5 31. h4 Rd7 32.
+Ne6 Rd6 33. Ng5 Kg8 34. Ne4 Re6 35. Ng5 Re7 36. Kh2 h6 37. Nf3 Rd5 38. Kh3
+Kg7 39. Kg4 Red7 40. Nf2 Rxd1 41. Nxd1 Bc1 42. g3 Rf7 43. Ng1 Ne5+ 44. Kh3
+fxg3 45. Rxf7+ Kxf7 46. Ne2 Nd3 47. Nxc1 Nxc1 48. Kg2 a5 49. Kxg3 a4 50.
+Kf4 Nd3+ 0-1
+

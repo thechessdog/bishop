@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Terrazas"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "6518f7f3"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 d6 2. d4 Nf6 3. f3 g6 4. Bc4 Bg7 5. Ne2 O-O 6. Be3 d5 7. exd5 Nxd5 8. Bf2
+c6 9. Qd2 Nd7 10. Nbc3 N7b6 11. Bb3 a5 12. a3 Bf5 13. Rd1 Re8 14. O-O Qd7 15.
+Ne4 e5 16. Nc5 Qe7 17. Ng3 Be6 18. c4 Nf4 19. dxe5 Bxe5 20. Nxe6 1-0

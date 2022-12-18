@@ -1,0 +1,15 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Robatsch, Karl"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1-0"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "e322f61d"]
+[Epoch "Bishop"]
+
+1. c4 c5 2. Nf3 g6 3. d4 Bg7 4. e4 Qa5+ 5. Nc3 Nc6 6. d5 Nd4 7. Bd2 Qb6 8. Nxd4
+Bxd4 9. Rb1 d6 10. Nb5 Bg7 11. Qa4 Bd7 12. Ba5 Qa6 13. Nc7+ Kf8 14. Qa3 1-0

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Klein"]
+[Black "Mahler"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "24b5e9eb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. Bb3 Na5 11. Bh6 Bxh6 12. Qxh6 Rc8 13. h4 Nc4 14.
+O-O-O Qa5 15. Bxc4 Rxc4 16. Nb3 Qc5 17. Qe3 a5 18. f4 Qh5 19. Nd5 Re8 20.
+Rd4 1-0
+

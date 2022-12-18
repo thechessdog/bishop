@@ -1,0 +1,19 @@
+[Event "US op"]
+[Site "Omaha"]
+[Date "1949.??.??"]
+[Round "1"]
+[White "Bernstein, N."]
+[Black "Fleischer, M."]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "f6a8718c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. Nf3 Bg4 4. Be2 exf4 5. exd5 Nf6 6. c4 c6 7. dxc6 Nxc6
+8. d4 Bb4+ 9. Kf1 O-O 10. d5 Ne7 11. Bxf4 Ng6 12. Be3 Re8 13. Bc1 Nh4 14.
+Nc3 Nxf3 15. Bxf3 Bxf3 16. Qxf3 Qd7 17. Bd2 Re5 18. Bf4 Bxc3 19. bxc3 Re4
+20. Re1 Rxe1+ 21. Kxe1 Re8+ 22. Kf2 Ne4+ 23. Kg1 Qa4 24. Qd3 Nc5 25. Qf1
+Qc2 26. Bd6 Nd3 0-1
+

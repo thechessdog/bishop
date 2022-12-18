@@ -1,0 +1,20 @@
+[Event "Odense op"]
+[Site "Odense"]
+[Date "1975.01.01"]
+[Round "3"]
+[White "Eriksen, Soren"]
+[Black "Brondum, Eric"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "c85c177a"]
+[Epoch "Bishop"]
+[BlackID "1400894"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Kh1 Rb8 11. g4 b5 12. Rb1 b4 13. Ne2 Nxf3 14. Bxf3 Qa5 15.
+Qe1 Bb7 16. f5 exf5 17. gxf5 Rbe8 18. Bf4 d5 19. Bd6 Qb6 20. Qg3 dxe4 21. dxe4
+Nxf5 22. exf5 Rxe2 23. fxg6 hxg6 24. h4 Rfe8 25. h5 Be5 26. Bxe5 R8xe5 27. hxg6
+Rh5+ 28. Kg1 c4+ 29. Rf2 Rg5 30. gxf7+ Kf8 0-1

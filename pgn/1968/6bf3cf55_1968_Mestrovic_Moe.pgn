@@ -1,0 +1,21 @@
+[Event "Ybbs"]
+[Site "Ybbs"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Mestrovic, Zvonimir"]
+[Black "Moe, Mogens"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "6bf3cf55"]
+[Epoch "Bishop"]
+[BlackID "1400550"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Bxf6 exf6 6. e4 dxe4 7. fxe4 Bg6 8.
+Nf3 Qb6 9. a3 Nd7 10. Qd2 Qxb2 11. Rb1 Qxa3 12. Rb3 Qa5 13. Bd3 Bb4 14. O-O O-O
+15. Rfb1 c5 16. Nh4 Bxc3 17. Qxc3 Qxc3 18. Rxc3 b6 19. Nxg6 hxg6 20. d5 a6 21.
+Ra3 b5 22. c4 b4 23. Ra5 Rfb8 24. Bc2 Kf8 25. Ba4 Ke7 26. d6+ Ke6 27. Rd1 Rb6
+28. Bxd7+ Kxd7 29. Rxc5 Rxd6 30. Rb1 a5 31. Kf2 Rc6 32. Rd5+ Ke6 33. c5 Rac8
+34. Rc1 a4 35. Rc4 Rb8 36. Rdd4 b3 37. Rd1 a3 38. Ra4 a2 39. Ra7 b2 40. Rad7
+Re8 0-1

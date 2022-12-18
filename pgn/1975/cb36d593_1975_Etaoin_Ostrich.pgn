@@ -1,0 +1,21 @@
+[Event "ACM Minneapolis"]
+[Site "ACM Minneapolis"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Etaoin Shrdlu"]
+[Black "Ostrich"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Italian variation"]
+[HashCode "cb36d593"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nxe4 4. Nxe5 d5 5. Be2 f6 6. Bb5+ Ke7 7. Nf3 c6
+8. Be2 Bg4 9. O-O Kf7 10. d4 Be7 11. Nbd2 Bxf3 12. Nxf3 Qd6 13. Nh4 g5 14.
+Nf5 Qe6 15. Bg4 Kf8 16. Nxe7 Qxe7 17. f4 h6 18. fxg5 hxg5 19. Re1 Rh4 20.
+g3 Rh6 21. Bd2 c5 22. dxc5 Qxc5+ 23. Be3 Qb5 24. Rc1 Qxb2 25. Qxd5 Nxg3 26.
+Bc5+ Kg7 27. hxg3 Na6 28. Rb1 Qxc2 29. Qxb7+ Kg6 30. Qxa8 Qxc5+ 31. Kg2 Rh7
+32. Qg8+ Rg7 33. Qe8+ Rf7 34. Bh5+ Kxh5 35. Qxf7+ Kg4 36. Qe6+ Kh5 37. g4+
+Kh6 38. Qxf6+ Kh7 39. Rh1+ Kg8 40. Rh8# 1-0
+

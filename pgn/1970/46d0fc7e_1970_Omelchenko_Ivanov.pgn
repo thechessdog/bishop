@@ -1,0 +1,18 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Omelchenko"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "46d0fc7e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. a3 Qb6 11. e5 dxe5 12. Ndxb5 axb5 13. Bxf6 Ra7 14. Ne4
+b4 15. a4 b3 16. c3 Nb4 17. Bxe5 Nd5 18. Qd4 Rxa4 19. Qxb6 Nxb6 20. Bd3 f6 21.
+Bd4 Nd5 22. g3 Kf7 23. Kd2 Ra2 24. Rb1 Bc6 25. Rhe1 Be7 26. Nc5 Bxc5 27. Bxc5
+Ra5 28. Bd4 Ra2 29. c4 Nb4 30. Be4 Ra4 31. Bxc6 Nxc6 32. Bb6 Rxc4 1/2-1/2

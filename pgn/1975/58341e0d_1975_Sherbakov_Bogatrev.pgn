@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Sherbakov, Vitaly S"]
+[Black "Bogatrev, G."]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "58341e0d"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 O-O 6. a3 Bxc3+ 7. Nxc3 d6 8. b4
+Qe7 9. Be2 Rd8 10. O-O Nbd7 11. e4 cxd4 12. Qxd4 h6 13. Nb5 Ne5 14. Nxa7 Nc6
+15. Nxc6 bxc6 16. e5 1-0

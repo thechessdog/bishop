@@ -1,0 +1,23 @@
+[Event "Athene zt"]
+[Site "Athene zt"]
+[Date "1969.01.01"]
+[Round "13"]
+[White "Jansa, Vlastimil"]
+[Black "Stoppel, Franz"]
+[Result "1-0"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Janowski variation"]
+[HashCode "62d7c7ea"]
+[Epoch "Bishop"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackID "1601288"]
+[BlackCountry "AUT"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Be3 Ne4 7. Qg4 Kf8 8. a3
+Bxc3+ 9. bxc3 c5 10. Bd3 Qa5 11. Ne2 cxd4 12. Bxd4 Nc6 13. O-O Nc5 14. Nf4 Nxd3
+15. cxd3 b6 16. Rfe1 Bd7 17. Re3 Ne7 18. Rf3 Kg8 19. Nh5 Ng6 20. h4 Rh7 21. Qg3
+Be8 22. Qg4 Bd7 23. Rg3 Rf8 24. Re1 Qxa3 25. Ree3 Kh8 26. Ref3 Be8 27. Nxg7
+Rxg7 28. h5 Rfg8 29. hxg6 Rxg6 30. Qf4 Qf8 31. Rh3 Rxg2+ 32. Kf1 Rg1+ 33. Ke2
+R8g6 34. Be3 Kg8 35. Qh2 R1g2 36. Qh1 Rg1 37. Qh2 R1g2 38. Qf4 1-0

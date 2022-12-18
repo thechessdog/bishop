@@ -1,0 +1,19 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Mohrlok, Dieter"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "d9eb41e7"]
+[Epoch "Bishop"]
+[BlackID "4600339"]
+[BlackCountry "GER"]
+[WhiteCountry "ROU"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d6 5. h3 Nf6 6. Bg5 O-O 7. Qd2 Qc7 8. O-O-O
+b5 9. Qe3 b4 10. Ne2 Nbd7 11. Ng3 Bb7 12. Nd2 Nb6 13. Bh6 Rac8 14. Bxg7 Kxg7
+1/2-1/2

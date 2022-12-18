@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Donner, Jan Hein"]
+[Black "Planinec, Albin"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "6f54c89e"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "SVN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 b6 10. Bxd6 Re8 11. Bg3 Ne4 12. Nxe4 Rxe4 13. e3 b5 14. Nd6 Rb4 15.
+Bxb5 Bf8 16. Bc6 Ba6 17. Bxa8 Rxb2 18. Qa4 Qf6 19. Rc1 Bxd6 20. f4 Qf5 21. e4
+Re2+ 22. Kd1 Qh5 0-1

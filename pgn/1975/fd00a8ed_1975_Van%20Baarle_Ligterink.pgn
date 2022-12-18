@@ -1,0 +1,23 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1975.07.01"]
+[Round "1"]
+[White "Van Baarle, John"]
+[Black "Ligterink, Gert"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto with ...Nc6"]
+[HashCode "fd00a8ed"]
+[Epoch "Bishop"]
+[WhiteID "1000691"]
+[BlackID "1000179"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. d5 Na5 8. Nd2
+c5 9. O-O a6 10. Qc2 Rb8 11. b3 b5 12. Bb2 e6 13. dxe6 fxe6 14. cxb5 axb5 15.
+Nde4 Qe7 16. Rad1 d5 17. Nxf6+ Bxf6 18. Nb1 Bxb2 19. Qxb2 Bb7 20. Nd2 e5 21. e3
+b4 22. a3 bxa3 23. Qxa3 Ra8 24. Qb2 e4 25. Qc3 Nc6 26. Rc1 Ra5 27. Ra1 Rfa8 28.
+Rxa5 Rxa5 29. Rc1 Qe5 30. Qc2 Nb4 31. Qb1 Ra2 32. Rd1 Qc3 33. Nxe4 dxe4 34.
+Bxe4 Qf6 35. f3 Rb2 36. Rd8+ Qxd8 37. Qxb2 Bxe4 38. fxe4 Qd1+ 0-1

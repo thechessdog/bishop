@@ -1,0 +1,22 @@
+[Event "Buenos Aires"]
+[Site "Mar del Plata"]
+[Date "1968.01.01"]
+[Round "2"]
+[White "Guimard, Carlos E"]
+[Black "Benko, Francisco"]
+[Result "1-0"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Yates variation"]
+[HashCode "111b5e05"]
+[Epoch "Bishop"]
+[BlackID "101753"]
+[BlackCountry "HUN"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 Bb7 4. g3 e6 5. Bg2 Bb4+ 6. Bd2 a5 7. O-O O-O 8. Nc3
+Ne4 9. Rc1 Nxd2 10. Qxd2 d5 11. Ne5 c6 12. a3 Bd6 13. Rfd1 f6 14. Ng4 h5 15.
+Ne3 Nd7 16. cxd5 exd5 17. Nf5 Bc7 18. e4 dxe4 19. Bxe4 Re8 20. Qe2 g6 21. Qc4+
+Kh8 22. Nh4 Rxe4 23. Nxe4 Kg7 24. Re1 Rc8 25. Nc3 Nf8 26. Re3 Bd6 27. Rce1 b5
+28. Qe2 Rc7 29. Ne4 Kf7 30. Nc5 Bxc5 31. dxc5 Bc8 32. Re8 Qd7 33. Qe4 f5 34.
+Qe5 Ne6 35. Rxe6 1-0

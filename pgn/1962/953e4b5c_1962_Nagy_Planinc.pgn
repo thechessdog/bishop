@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Nagy, Ervin"]
+[Black "Planinc, Albin"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "953e4b5c"]
+[Epoch "Bishop"]
+[BlackCountry "SVN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 g6 6. Nf3 d6 7. Bg5 h6 8. Bh4
+Bg7 9. Nd2 g5 10. Bg3 Nh5 11. Nc4 Nxg3 12. hxg3 O-O 13. e4 Na6 14. Be2 Nc7 15.
+Ne3 f5 16. exf5 Bxf5 17. Bd3 Bxd3 18. Qxd3 Qd7 19. Ne4 Rae8 20. f3 b5 21. O-O-O
+c4 22. Qc2 Na6 23. Nxg5 Bxb2+ 24. Qxb2 c3 25. Qc2 Rxe3 26. Rxh6 Qg7 27. Rg6 1-0

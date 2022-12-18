@@ -1,0 +1,16 @@
+[Event "corr BDGW1"]
+[Site "corr BDGW1"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Laksman, G."]
+[Black "Alvarez del Monte, Jose Luis"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "47f740e5"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. g4 Bg6 6. g5 Nd5 7. fxe4 Nxc3 8.
+bxc3 Bxe4 9. Nf3 e5 10. Bc4 Nc6 11. Qe2 Bxf3 12. Qxf3 Qd7 13. Bb5 exd4 14. Bxc6
+bxc6 15. cxd4 Qd5 16. Qe2+ Qe6 17. Qxe6+ fxe6 18. Kf2 Bb4 19. Rb1 c5 20. a3
+Rf8+ 21. Ke3 cxd4+ 22. Kxd4 O-O-O+ 23. Ke3 Bc5+ 24. Ke2 Rf2+ 25. Ke1 Rxc2 0-1

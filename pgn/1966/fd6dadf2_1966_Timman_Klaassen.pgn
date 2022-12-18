@@ -1,0 +1,20 @@
+[Event "Delft"]
+[Site "Delft"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Klaassen, C."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "fd6dadf2"]
+[Epoch "Bishop"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 Nbd7 10. Nge2 a5 11. g4 h5 12. h3 Nh7 13. h4 hxg4 14. fxg4 Nb6 15. Ng3
+Bxg4 16. h5 g5 17. Be2 Bd7 18. Nb5 Nc8 19. h6 Bh8 20. Rg1 Bxb5 21. Bxb5 f6 22.
+Qe2 Ne7 23. Qg4 Rf7 24. Bd7 Nf8 25. Be6 Nxe6 26. dxe6 Rh7 27. Bxg5 Kf8 28. Rf1
+Ng8 29. Qf5 Qe7 30. Qg6 Rc8 31. Nf5 1-0

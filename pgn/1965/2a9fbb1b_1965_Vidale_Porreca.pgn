@@ -1,0 +1,24 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Vidale"]
+[Black "Porreca"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "2a9fbb1b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nc6 8.
+Nxc6 bxc6 9. O-O Be7 10. f4 d5 11. e5 Nd7 12. Be3 O-O 13. Ne2 c5 14. c3 Rb8
+15. Rb1 Nb6 16. Bc2 Nc4 17. Qd3 g6 18. Bc1 Qa5 19. a3 Qb5 20. b3 Nb6 21. c4
+Qc6 22. Ng3 Bb7 23. Qe2 f5 24. exf6 Bxf6 25. Bd2 Rbe8 26. Kh1 Nc8 27. Qg4
+Bg7 28. Rbe1 Nd6 29. cxd5 exd5 30. Rxe8 Rxe8 31. Re1 Rxe1+ 32. Bxe1 Qe8 33.
+Qe2 Qxe2 34. Nxe2 Bb2 35. a4 d4 36. Kg1 Be4 37. Bd1 Bb1 38. Ng3 Bc1 39. Ne2
+Be3+ 40. Kf1 d3 41. Nc3 Bc2 42. g3 Bd4 43. Bxc2 dxc2 44. Ne2 Be3 45. Bf2
+c1=Q+ 46. Nxc1 Bxc1 47. Bxc5 Ne4 48. Bb4 Kf7 49. Ke2 Ke6 50. Kd3 Kd5 51.
+Be1 Nc5+ 52. Kc2 Be3 53. a5 Ke4 54. Kc3 Nd3 55. Bd2 Bxd2+ 56. Kxd2 Kd4 57.
+h3 Nb4 0-1
+

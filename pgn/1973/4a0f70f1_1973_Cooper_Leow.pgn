@@ -1,0 +1,20 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Cooper, John G"]
+[Black "Leow, Leslie M"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "4a0f70f1"]
+[Epoch "Bishop"]
+
+1. b3 e5 2. Bb2 d6 3. g3 f5 4. Bg2 Nf6 5. c4 g6 6. e3 Bg7 7. Ne2 e4 8. d3 exd3
+9. Qxd3 O-O 10. O-O Nbd7 11. Nbc3 Rb8 12. Qc2 Ne5 13. Rad1 Qe7 14. Nd5 Qf7 15.
+h3 Re8 16. Nxf6+ Qxf6 17. Kh1 Qe7 18. Nf4 b6 19. Nd5 Qf7 20. Rd2 Bb7 21. Qd1
+Ba8 22. f4 Nc6 23. Qa1 Bxb2 24. Qxb2 Rf8 25. g4 Rbc8 26. g5 Qg7 27. Nf6+ Kh8
+28. b4 Ne7 29. Bxa8 Rxa8 30. c5 bxc5 31. bxc5 d5 32. Qb7 c6 33. Rb1 h6 34. h4
+Rac8 35. Nd7 Qc3 36. Qb2 Qxb2 37. Rdxb2 Rfe8 38. Rb7 hxg5 39. hxg5 Kg7 40. Ne5
+Kf8 41. Kg2 1-0

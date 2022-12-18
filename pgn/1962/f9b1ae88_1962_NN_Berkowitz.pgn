@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Berkowitz"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "f9b1ae88"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e4 Nc6 5. f4 Nxe5 6. fxe5 Qh4+ 7. Kd2 Qxe4
+8. Bd3 Qxg2+ 9. Ne2 Bb4+ 10. Kc2 Bd7 11. Qg1 Qh3 12. Qxg7 O-O-O 13. Qxh8
+Qxd3+ 14. Kxd3 Bf5# 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kaminski"]
+[Black "Mueller"]
+[Result "1-0"]
+[ECO "B39"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Breyer variation"]
+[HashCode "fe4eadb1"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nf3 c5 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 g6 6. e4 Bg7 7. Be3 Ng4
+8. Qxg4 Nxd4 9. Qd1 Nc6 10. Be2 d6 11. O-O O-O 12. Qd2 Be6 13. Rac1 b6 14.
+Rfd1 Rc8 15. b3 Qd7 16. f3 Rfd8 17. Nd5 Qb7 18. f4 Nb8 19. Bf3 Bxd5 20.
+exd5 Nd7 21. Qf2 Nc5 22. g4 Rf8 23. Rc2 Qb8 24. Qh4 Nd7 25. Rg2 Rfe8 26.
+Rg3 Nf8 27. f5 Qc7 28. Be4 Qd8 29. fxg6 fxg6 30. Rf1 e5 31. Bg5 Qd7 32. Bf5
+gxf5 33. gxf5 Qf7 34. Bh6 1-0
+

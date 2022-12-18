@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Coffi"]
+[Black "Cavalcanti"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "27096f93"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h6 7. hxg4 h5
+8. gxh5 Rxh5 9. d4 Qf6 10. Nc3 Qg6 11. Nxe5 Qh7 12. f4 Bb4 13. Qf3 Nf6 14.
+f5 Bxc3 15. bxc3 Rh1+ 16. Kf2 Qh4+ 17. Ke2 Rxf1 18. Kxf1 Nxe4 19. Ke2 O-O-O
+20. Bb2 Re8 21. Kd3 Nf2+ 22. Ke3 Ng4+ 23. Kd2 Qh6+ 24. Kd1 Nxe5 25. dxe5
+Rxe5 26. c4 1/2-1/2
+

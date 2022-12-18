@@ -1,0 +1,22 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1969.09.01"]
+[Round "1"]
+[White "Zaitsev, Igor A"]
+[Black "Savon, Vladimir"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "8e5e6cdb"]
+[Epoch "Bishop"]
+[WhiteID "4103017"]
+[WhiteCountry "RUS"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. a4 Na5 10. axb5 axb5 11. Nd4 Bc5 12. c3 Bb6 13. Bc2 Nc4 14. Rxa8 Qxa8
+15. f3 Nc5 16. f4 Ne4 17. b3 Na5 18. f5 Bc8 19. Qg4 Kf8 20. Bxe4 dxe4 21. Ba3+
+b4 22. Bxb4+ c5 23. Bxa5 Qxa5 24. Ne6+ Bxe6 25. fxe6 c4+ 26. Kh1 Qxe5 27. exf7
+Ke7 28. Rf5 Qe6 29. Qxg7 1-0

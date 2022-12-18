@@ -1,0 +1,24 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Filipowicz, Andrzej"]
+[Black "Savon, Vladimir"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind - Bronstein variation"]
+[HashCode "e3028053"]
+[Epoch "Bishop"]
+[WhiteID "1100491"]
+[WhiteCountry "POL"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8. Bc2
+Qc7 9. O-O Be7 10. Be3 d6 11. f4 Bd7 12. Rc1 Rc8 13. Bb1 Qb8 14. Kh1 Nxd4 15.
+Qxd4 e5 16. Qd3 b5 17. cxb5 axb5 18. Nd5 Rxc1 19. Rxc1 Nxd5 20. Qxd5 O-O 21. f5
+Rc8 22. Rxc8+ Qxc8 23. Bd3 Bc6 24. Qb3 Qb7 25. Qc2 g6 26. fxg6 hxg6 27. Kg1 Kg7
+28. g4 Qd7 29. Qg2 d5 30. g5 dxe4 31. Bxe4 Qd1+ 32. Kf2 Bb4 33. Bxc6 Be1+ 34.
+Kg1 Bd2+ 35. Kf2 Qe1+ 36. Kf3 Qxe3+ 37. Kg4 Qxg5+ 38. Kf3 Qe3+ 39. Kg4 f5+ 40.
+Kh4 0-1

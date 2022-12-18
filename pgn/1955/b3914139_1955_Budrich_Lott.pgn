@@ -1,0 +1,20 @@
+[Event "FRG Tch"]
+[Site "FRG Tch"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Budrich"]
+[Black "Lott"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "b3914139"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O
+8. Nf3 c5 9. dxc5 Nxc5 10. Bd3 Nxd3+ 11. Qxd3 Nd7 12. O-O-O Nc5 13. Qd4 Bd7
+14. f5 Rfc8 15. f6 Qf8 16. Ng5 b5 17. Nxh7 Kxh7 18. Qh4+ Kg8 19. Rd4 g6 20.
+Qh3 Ne4 21. Nxe4 dxe4 22. Rxe4 Rc4 23. Rxc4 bxc4 24. Rd1 c3 25. Rd4 Qb8 26.
+Qh6 Qxb2+ 27. Kd1 Qb1+ 28. Ke2 Qxc2+ 29. Ke1 Qb1+ 30. Rd1 Qe4+ 31. Kf2 Qc2+
+32. Kg3 1-0
+

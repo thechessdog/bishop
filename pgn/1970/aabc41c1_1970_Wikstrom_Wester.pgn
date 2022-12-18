@@ -1,0 +1,18 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Wikstrom, Bertil"]
+[Black "Wester, Eric"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "aabc41c1"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O
+8. Nf3 f6 9. exf6 Qxf6 10. g3 c5 11. dxc5 Nxc5 12. Qd2 Nc6 13. O-O-O a6 14.
+Bg2 Rd8 15. Nd4 Bd7 16. Rhe1 g6 17. Qe3 Nxd4 18. Qxd4 Qxd4 19. Rxd4 Rac8
+20. g4 Kf7 21. Re3 Kf6 22. f5 gxf5 23. gxf5 1-0
+

@@ -1,0 +1,21 @@
+[Event "Providence"]
+[Site "Providence"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Barry"]
+[Black "Hirons"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "b1a4ab6f"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. Nf3
+Bg4 8. Bxf7+ Kxf7 9. Ne5+ Ke8 10. Nxg4 Qd6 11. Nxf6+ exf6 12. O-O Rd8 13.
+Be3 Be7 14. Qe2 h5 15. Rad1 g5 16. f4 g4 17. f5 Kf7 18. Bf4 Qd7 19. c4 Rhe8
+20. Qd3 Bc5 21. Be3 Rxe3 22. Qxe3 Bxd4 23. Rxd4 Qxd4 24. Qxd4 Rxd4 25. b3
+Rd2 26. Rf2 Rd1+ 27. Rf1 Rd4 28. g3 Re4 29. Rd1 Ke7 30. Rd2 Re5 31. Rf2 Kd6
+32. h3 Re3 33. Kg2 Ke5 34. h4 Kd4 35. Rd2+ Ke4 36. Rf2 Kd4 37. Rd2+ Ke4 38.
+Rf2 Kd3 39. Rb2 Kc3 40. Rf2 Rd3 0-1
+

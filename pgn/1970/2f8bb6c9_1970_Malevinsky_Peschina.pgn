@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Malevinsky, A."]
+[Black "Peschina, A."]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "2f8bb6c9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. Nc3 d6 7. O-O Be7 8.
+Kh1 Nbd7 9. f4 O-O 10. Qe2 Qc7 11. Bd2 b5 12. Rae1 Bb7 13. e5 dxe5 14. fxe5
+Nd5 15. Qh5 g6 16. Nxe6 gxh5 17. Nxd5 Qb8 18. Nxe7+ Kh8 19. Nxf8 Qxf8 20.
+e6 Qg7 21. Rf2 fxe6 22. Rxe6 Qxb2 23. Rf7 Nf8 24. Ref6 Ng6 25. Bxg6 1-0
+

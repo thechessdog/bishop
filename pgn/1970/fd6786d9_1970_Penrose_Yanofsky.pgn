@@ -1,0 +1,17 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Penrose, Jonathan"]
+[Black "Yanofsky, Daniel Abraham"]
+[Result "1/2-1/2"]
+[ECO "C93"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Smyslov defence"]
+[HashCode "fd6786d9"]
+[Epoch "Bishop"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 h6 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 Bb7 13. a4 Rb8 14. axb5 axb5 15.
+Bd3 Bc8 16. Nb3 Bd7 17. Bd2 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Lugano II"]
+[Site "Lugano II"]
+[Date "1970.03.01"]
+[Round "1"]
+[White "Mariotti, Sergio"]
+[Black "Medina Garcia, Antonio Angel"]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "Harrwitz attack"]
+[HashCode "f4dfa7eb"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bf4 c5 5. dxc5 Bxc5 6. e3 O-O 7. a3 Nc6 8. Nf3
+a6 9. b4 Be7 10. Qc2 dxc4 11. Bxc4 b5 12. Be2 Bb7 13. O-O Rc8 14. Rac1 Qb6 15.
+Qb1 Rfd8 16. e4 Nd4 17. Nxd4 Qxd4 18. Be3 Qe5 19. f4 Qb8 20. h3 h6 21. Kh2 e5
+22. g3 exf4 23. gxf4 Rxc3 24. Rxc3 Nxe4 25. Rd3 Re8 26. Qb3 Bd6 27. Bh5 Ng5 28.
+Bc1 g6 29. Bg4 h5 30. Bd1 Re4 31. Rxd6 Qxd6 32. Qg3 Rc4 33. fxg5 Qxg3+ 34. Kxg3
+Rxc1 35. Be2 Rc3+ 36. Kf4 Rxh3 37. Rc1 Rh4+ 38. Kg3 Re4 39. Bd3 0-1

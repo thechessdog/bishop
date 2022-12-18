@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Abramovich Furman, Semyon"]
+[Black "Kopylov, Nikolai G"]
+[Result "0-1"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Ragozin variation"]
+[HashCode "e02d037d"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O dxc4 8.
+Bxc4 Bd6 9. Bb5 e5 10. Bxc6 exd4 11. exd4 bxc6 12. Bg5 h6 13. Bh4 Rb8 14. Qc2
+Rb6 15. Rfe1 Bf4 16. Ne5 Bxh2+ 17. Kxh2 Ng4+ 18. Kg3 g5 19. Nxg4 gxh4+ 20. Kf3
+Qg5 21. Ne5 c5 22. Re4 cxd4 23. Nd5 Qh5+ 24. g4 hxg3+ 25. Kxg3 Kh8 26. Ng4 Rg8
+27. f3 Qxd5 28. Qxc7 f5 29. Re5 Qd6 0-1

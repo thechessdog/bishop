@@ -1,0 +1,25 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1952.01.01"]
+[Round "16"]
+[White "Lasker, Edward"]
+[Black "Guimard, Carlos E"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "4bb1c7d4"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. h3 c6 8. a4
+Qc7 9. Ba2 h6 10. Be3 Re8 11. Qd2 Bf8 12. Qd3 exd4 13. Bxd4 Ne5 14. Qe2 Be6 15.
+Nd2 Bxa2 16. Rxa2 Ned7 17. Qc4 Ne5 18. Qb3 c5 19. Be3 Nc6 20. Qc4 Nb4 21. Raa1
+Qc6 22. Rac1 Nxe4 23. Ndxe4 d5 24. Qb5 dxe4 25. Qxc6 Nxc6 26. Nd5 Rac8 27. c4
+Ne5 28. b3 f6 29. Rcd1 Kf7 30. Bf4 Nc6 31. Be3 Rcd8 32. Rfe1 Bd6 33. Rf1 b6 34.
+Nc3 Na5 35. Rb1 Bb8 36. Nd5 Be5 37. Rfd1 Nc6 38. Kf1 g5 39. g4 Kg6 40. a5 Nxa5
+41. Ne7+ Kf7 42. Nf5 Nc6 43. Nxh6+ Ke6 44. Nf5 Rxd1+ 45. Rxd1 Rd8 46. Rxd8 Nxd8
+47. h4 gxh4 48. Nxh4 Nc6 49. Bd2 Nd4 50. Ng6 Nxb3 51. Ke2 Nxd2 52. Kxd2 Bd4 53.
+Nf4+ Ke5 54. Ng6+ Kd6 55. Nf4 Bxf2 56. Kc3 Bd4+ 57. Kc2 a6 58. Nd5 b5 59. Kb3
+b4 60. Nf4 e3 61. Kc2 Ke5 0-1

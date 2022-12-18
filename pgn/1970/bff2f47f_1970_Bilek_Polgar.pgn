@@ -1,0 +1,18 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Polgar, Istvan"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "bff2f47f"]
+[Epoch "Bishop"]
+[BlackID "700215"]
+[BlackCountry "HUN"]
+
+1. g3 e5 2. Bg2 d5 3. c4 d4 4. d3 c5 5. Nf3 Nc6 6. O-O Bd6 7. e3 Nge7 8. Nbd2
+dxe3 9. fxe3 Nf5 10. Ne4 Be7 11. Nc3 O-O 12. Nd5 Re8 13. Nd2 Bf8 14. Ne4 Nh6
+15. h3 f5 16. Nec3 Re6 17. e4 Nd4 18. Kh2 Rg6 19. Qh5 Bd7 20. exf5 Nhxf5 21.
+Ne4 Rc8 22. Bg5 Qe8 23. g4 Ne7 1-0

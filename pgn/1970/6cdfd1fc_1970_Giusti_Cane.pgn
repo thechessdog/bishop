@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Giusti"]
+[Black "Cane"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "6cdfd1fc"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 e6 4. d3 Nf6 5. Bg5 Be7 6. Nge2 O-O 7. O-O Nxe4
+8. Bxe7 Nxc3 9. Bxd8 Nxd1 10. Bc7 Nxb2 11. Bd6 Nxc4 12. Bxf8 Kxf8 13. dxc4
+Ne5 14. Nf4 Nxc4 15. Rfe1 d5 16. Rad1 b6 17. f3 Ba6 18. h4 d4 19. Nd3 Ne3
+20. Rc1 Nxc2 21. Rxc2 Bxd3 0-1
+

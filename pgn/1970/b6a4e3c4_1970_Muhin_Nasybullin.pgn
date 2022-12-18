@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Muhin"]
+[Black "Nasybullin"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "b6a4e3c4"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Bd7 5. c4 e6 6. Nc3 c5 7. cxd5 cxd4 8.
+Qxd4 exd5 9. Qxd5 Nc6 10. Bc4 Qe7 11. Bg5 Qxe5+ 12. Nge2 Qxd5 13. Nxd5 Bb4+
+14. Nec3 Bxc3+ 15. bxc3 Kf8 16. Be3 Nce7 17. O-O-O Bxg4 18. Rd4 Bf3 19. Re1
+Rc8 20. Nxe7 Nxe7 21. Bf4 Nc6 22. Rd7 Bh5 23. Rxb7 h6 24. Bd5 Kg8 25. Rc7
+Rxc7 26. Bxc7 Kh7 27. Bxc6 Rc8 28. Re7 Kg6 29. Bb7 1-0
+

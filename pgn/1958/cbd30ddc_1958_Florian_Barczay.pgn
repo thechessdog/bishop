@@ -1,0 +1,18 @@
+[Event "HUN-ch"]
+[Site "Budapest"]
+[Date "1958.??.??"]
+[Round "1"]
+[White "Florian, Tibor"]
+[Black "Barczay, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, 6...Ne7"]
+[HashCode "cbd30ddc"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Nbc6 8. h5
+cxd4 9. cxd4 Qa5+ 10. Bd2 Qa4 11. Bc3 b6 12. h6 g6 13. Nf3 Ba6 14. Bxa6 Qxa6
+15. Qd3 1/2-1/2

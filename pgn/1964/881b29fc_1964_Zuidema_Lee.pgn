@@ -1,0 +1,18 @@
+[Event "Zuerich-J"]
+[Site "Zuerich"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Zuidema, Coen"]
+[Black "Lee"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "881b29fc"]
+[Epoch "Bishop"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 Ne5 12. Bh6 Nc4 13. Bxc4 Bxh6 14. Bxf7+ Kg7
+0-1

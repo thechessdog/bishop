@@ -1,0 +1,23 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Freise, Helmut"]
+[Black "Hunold, Rolf"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "687a3210"]
+[Epoch "Bishop"]
+[WhiteID "4641426"]
+[WhiteCountry "GER"]
+[BlackID "4678516"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 Nc6 6. a3 Bxc3+ 7. Nxc3 d6 8. d5
+exd5 9. cxd5 Ne7 10. Be2 O-O 11. O-O Ng6 12. e4 Re8 13. f3 Bd7 14. a4 b6 15.
+Re1 a6 16. Qc2 Qc8 17. b3 Qb7 18. Be3 b5 19. Bf2 Nh5 20. g3 Nf6 21. Bf1 Ne5 22.
+Bg2 Rac8 23. axb5 axb5 24. f4 Neg4 25. h3 Nxf2 26. Qxf2 b4 27. Nd1 Bb5 28. e5
+dxe5 29. fxe5 Nxd5 30. Ne3 Bc6 31. Nc4 Red8 32. Nd6 Rxd6 33. exd6 Qd7 34. Rad1
+Nc3 35. Re7 Qxe7 36. dxe7 Nxd1 37. Qxc5 1-0

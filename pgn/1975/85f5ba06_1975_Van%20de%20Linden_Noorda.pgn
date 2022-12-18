@@ -1,0 +1,17 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Van de Linden, R."]
+[Black "Noorda, S."]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "85f5ba06"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. e3 b6 7. Bd3 Bb7 8.
+Qc2 Nbd7 9. cxd5 exd5 10. Ne5 Nxe5 11. dxe5 Ne4 12. Bxe7 Qxe7 13. f4 f6 14.
+Bxe4 dxe4 15. exf6 Qxf6 16. O-O-O Rfd8 17. Rxd8+ 1/2-1/2
+

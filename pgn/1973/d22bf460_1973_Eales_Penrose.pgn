@@ -1,0 +1,21 @@
+[Event "Eastborne ch-BCF"]
+[Site "Eastborne ch-BCF"]
+[Date "1973.08.01"]
+[Round "9"]
+[White "Eales, Richard G"]
+[Black "Penrose, Jonathan"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "d22bf460"]
+[Epoch "Bishop"]
+[BlackID "400360"]
+[BlackCountry "ENG"]
+[WhiteID "400556"]
+[WhiteCountry "ENG"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Nf6 5. Bxc4 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 exd4
+8. O-O O-O 9. e5 Nd5 10. Nb3 Nb6 11. Rc1 Nxc4 12. Rxc4 Be6 13. Rxd4 Qe7 14. Qc2
+Nc6 15. Rh4 h6 16. Re1 Bd5 17. Nbd2 Rad8 18. a3 Rd7 19. Ne4 Nxe5 20. Nxe5 Qxe5
+21. Re3 Bc6 22. h3 Rfd8 23. Ng3 Qd5 24. Ne4 f5 0-1

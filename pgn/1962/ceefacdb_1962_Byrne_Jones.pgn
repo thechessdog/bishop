@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Byrne, Robert E"]
+[Black "Jones, Steve"]
+[Result "0-1"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran variation"]
+[HashCode "ceefacdb"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bb3
+b4 9. Ne2 Bd6 10. O-O O-O 11. Ng3 c5 12. Re1 Bb7 13. Bc2 Qb6 14. e4 cxd4 15.
+Bg5 Bxg3 16. hxg3 e5 17. Qd2 a5 18. Rac1 Ng4 19. Qe2 h5 20. Nh4 Nc5 21. Be7
+Rfc8 22. Qf3 Rc7 23. Bg5 Rac8 24. Rcd1 Ne6 0-1

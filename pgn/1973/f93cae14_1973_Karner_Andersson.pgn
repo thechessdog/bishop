@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1973.02.01"]
+[Round "1"]
+[White "Karner, Hillar"]
+[Black "Andersson, Ulf"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "f93cae14"]
+[Epoch "Bishop"]
+[WhiteID "4500202"]
+[WhiteCountry "EST"]
+[BlackID "1700014"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. g3
+d5 9. cxd5 Nxd5 10. Bg2 Nxc3 11. bxc3 Nc6 12. O-O Bd7 13. Nf4 Rc8 1/2-1/2

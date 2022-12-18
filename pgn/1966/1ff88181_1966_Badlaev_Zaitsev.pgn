@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Badlaev"]
+[Black "Zaitsev"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "1ff88181"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4 4. Nxe4 dxe4 5. e3 c5 6. dxc5 Qa5+ 7. Qd2
+Qxc5 8. O-O-O Nc6 9. Qd5 Qxd5 10. Rxd5 e5 11. a3 Be6 12. Rd2 h6 13. Bh4 g5
+14. Bg3 f5 15. h4 f4 16. Bh2 Bc5 17. Re2 fxe3 18. fxe3 Rf8 19. Re1 Bxe3+
+20. Kb1 Bd2 21. Rd1 O-O-O 22. Be2 g4 23. Bb5 Bf4 24. Rxd8+ Kxd8 25. Ne2 0-1
+

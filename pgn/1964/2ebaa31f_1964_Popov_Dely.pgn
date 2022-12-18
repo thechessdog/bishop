@@ -1,0 +1,19 @@
+[Event "Zinnowitz"]
+[Site "Zinnowitz"]
+[Date "1964.??.??"]
+[Round "1"]
+[White "Popov, Luben"]
+[Black "Dely, Peter"]
+[Result "1/2-1/2"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[HashCode "2ebaa31f"]
+[Epoch "Bishop"]
+[WhiteID "2900173"]
+[WhiteCountry "FID"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 Be7 8. O-O
+O-O 9. Re1 b6 10. Nxd5 exd5 11. dxc5 Bxc5 12. Bd2 Bg4 13. Bc3 d4 14. exd4 Nxd4
+15. Be4 Nxf3+ 16. Bxf3 Qxd1 17. Bxd1 1/2-1/2

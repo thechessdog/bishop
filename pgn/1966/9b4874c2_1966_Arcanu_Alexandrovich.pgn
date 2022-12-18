@@ -1,0 +1,18 @@
+[Event "corr Rumania"]
+[Site "corr Rumania"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Arcanu, B."]
+[Black "Alexandrovich"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "9b4874c2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+Bb6 8. Bf7+ Kd8 9. Bb3 d5 10. d3 Bg4 11. Qd2 Kd7 12. exd5 Nd4 13. Ba4+ c6
+14. dxc6+ bxc6 15. c3 Nh5 16. Qg5 Rf8+ 17. Ke1 Nc2+ 18. Bxc2 Bf2+ 19. Kf1
+Be3+ 0-1
+

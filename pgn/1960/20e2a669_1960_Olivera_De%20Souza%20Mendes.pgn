@@ -1,0 +1,20 @@
+[Event "Atlantida"]
+[Site "Atlantida"]
+[Date "1960.??.??"]
+[Round "6"]
+[White "Olivera, Alfredo"]
+[Black "De Souza Mendes, Joao"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "20e2a669"]
+[Epoch "Bishop"]
+[WhiteCountry "URY"]
+[BlackCountry "BRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 Ne8 10. a4 a6 11. a5 Qe7 12. Nb6 Nc7 13. Nxa8 Nxa8 14. Qd2 Re8 15.
+Ra4 Nd7 16. g3 Nc7 17. Bg2 Nb5 18. Bg5 Bxc3 19. bxc3 Qxe2+ 20. Qxe2 Rxe2+ 21.
+Kxe2 Nxc3+ 22. Kd2 Nxa4 23. Re1 Ne5 24. f4 Nc4+ 25. Kc1 Kg7 26. Bf1 Nxa5 27.
+Be7 Bf5 28. Bxd6 Nb3+ 0-1

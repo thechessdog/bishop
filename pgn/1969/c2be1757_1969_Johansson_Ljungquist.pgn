@@ -1,0 +1,19 @@
+[Event "SWE-ch"]
+[Site "Sweden"]
+[Date "1969.01.01"]
+[Round "?"]
+[White "Johansson, Martin"]
+[Black "Ljungquist, Lennart"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "c2be1757"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bg5 Nbd7 6. Nxf6+ Nxf6 7. Nf3 c5
+8. Bd3 Bd7 9. Qe2 cxd4 10. O-O-O Be7 11. Kb1 Qb6 12. Bc4 Rc8 13. Ne5 Rd8 14.
+Rhe1 O-O 15. Bb3 Bb5 16. Qf3 a5 17. Ng4 a4 18. Nxf6+ Bxf6 19. Bxf6 gxf6 20.
+Qxf6 axb3 1/2-1/2

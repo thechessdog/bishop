@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Kocsis"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "863277a6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 d6 7. O-O Be6 8.
+Bxe6 fxe6 9. Qb3 Qd7 10. Ng5 Nd8 11. f4 Nf6 12. f5 e5 13. Nc3 h6 14. Ne6 c6 15.
+Rad1 Nxe6 16. fxe6 Qc7 17. Kh1 Be7 18. Qc4 Qa5 19. a4 Qc5 20. Qb3 Qb6 21. Qa2
+Ng4 22. Bc1 Rf8 23. Rxf8+ Kxf8 24. Rf1+ Kg8 25. h3 Nf6 26. Rxf6 Bxf6 27. e7+
+Kh7 28. Qf7 Qf2 29. e8=Q Rxe8 30. Qxe8 Bh4 0-1

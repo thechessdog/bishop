@@ -1,0 +1,16 @@
+[Event "Ludwigshafen"]
+[Site "Ludwigshafen"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Seidel, Norbert"]
+[Black "Moeser, Otto"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "198e85d5"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 c6 6. Bd3 Bg4 7. Be3 e6
+8. h3 Bh5 9. O-O h6 10. g4 Bg6 11. Bxg6 fxg6 12. Qd3 Kf7 13. Ne5+ Kg8 14.
+Qxg6 Qc7 15. Rxf6 Nd7 16. Qf7+ Kh7 17. Rxh6# 1-0
+

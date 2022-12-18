@@ -1,0 +1,20 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Boch, W."]
+[Black "Stern, D."]
+[Result "0-1"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "d790a8fb"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Qb3 Nc6 7. Nxd5 Nd4
+8. Nxf6+ gxf6 9. Qd3 Bf5 10. Be4 Bxe4 11. Qxe4 Qc7 12. Kf1 f5 13. Qd3 Bg7
+14. Qc3 Qd7 15. d3 Rc8 16. Qd2 Rc2 17. Qd1 Qc6 18. f3 Nxe2 19. Bd2 Nxg1 20.
+Rxg1 Rxb2 21. Rg2 O-O 22. Rc1 Qd5 23. Be3 Rxg2 24. Kxg2 Qxa2+ 25. Rc2 Qa4
+26. Qc1 e4 27. fxe4 fxe4 28. Rc4 Qa2+ 29. Rc2 Qd5 30. dxe4 Qxe4+ 31. Kh3
+Re8 32. Bxa7 b6 33. Qd1 Qe7 0-1
+

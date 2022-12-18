@@ -1,0 +1,19 @@
+[Event "Univ Massachusetts"]
+[Site "Univ Massachusetts"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Barry"]
+[Black "Salk"]
+[Result "1-0"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, 6...e6"]
+[HashCode "95c9bdab"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Be2 Be7
+8. Qd2 Qb6 9. Be3 Nxd4 10. Bxd4 Qd8 11. Rd1 e5 12. Be3 a6 13. h3 b5 14. a3
+Bb7 15. Bd3 h6 16. O-O O-O 17. f4 d5 18. exd5 Nxd5 19. Nxd5 Qxd5 20. Qf2 e4
+21. Be2 Qc6 22. f5 Rac8 23. c3 Bc5 24. f6 Bxe3 25. Qxe3 Qc5 26. Rd4 g5 27.
+Bg4 Rcd8 28. Rf5 Qb6 29. Rxg5+ Kh8 30. Rg8+ Kh7 31. Bf5+ Kxg8 32. Qxh6 1-0
+

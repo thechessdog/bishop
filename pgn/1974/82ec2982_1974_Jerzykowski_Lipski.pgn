@@ -1,0 +1,18 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Jerzykowski"]
+[Black "Lipski, Tadeusz"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "82ec2982"]
+[Epoch "Bishop"]
+[BlackID "1104101"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. f4 d5 3. Nf3 Bc5 4. Nc3 d4 5. Na4 Bd6 6. fxe5 Bxe5 7. Nxe5 Qh4+ 8.
+g3 Qxe4+ 9. Qe2 Qxh1 10. Ng6+ Be6 11. Nxh8 Nd7 12. Nxf7 Kxf7 13. Qh5+ Kf8 14.
+b3 Ngf6 15. Ba3+ Kg8 16. Qh4 Bg4 17. d3 Qf3 0-1

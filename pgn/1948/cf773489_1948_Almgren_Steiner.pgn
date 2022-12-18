@@ -1,0 +1,24 @@
+[Event "South Fallsburg ch-USA"]
+[Site "South Fallsburg ch-USA"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Almgren, Sven"]
+[Black "Steiner, Herman"]
+[Result "0-1"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...Nc6"]
+[HashCode "cf773489"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Nd8 14. Nf1 Ne8 15. a4
+b4 16. cxb4 cxb4 17. Ne3 g6 18. Bd2 a5 19. g4 Ng7 20. Kh2 f6 21. Rg1 Kh8 22.
+Rc1 Nb7 23. Qe2 Nc5 24. b3 Ba6 25. Nc4 Rac8 26. Qe3 Bxc4 27. bxc4 Bd8 28. Nh4
+Kg8 29. Rg3 Rf7 30. Qe2 Qd7 31. Nf5 Kh8 32. Nh6 Rf8 33. f4 Ne8 34. fxe5 dxe5
+35. Ra1 Nd6 36. Rf3 Be7 37. Raf1 Kg7 38. g5 fxg5 39. Rxf8 Rxf8 40. Rxf8 Bxf8
+41. Bxg5 Nf7 42. Nxf7 Qxf7 43. Kg2 Qd7 44. Qf2 Be7 45. Bxe7 Qxe7 46. Qe3 Kf7
+47. Kf1 Ke8 48. Ke2 Kd7 49. Kd1 Qf8 50. Ke2 Kd6 51. Qg5 b3 52. Bb1 Nxa4 53. Qd2
+Qd8 54. Ke1 Qh4+ 55. Kd1 Qh5+ 56. Kc1 Qxh3 57. Qxa5 Qc3+ 58. Qxc3 Nxc3 59. Bd3
+Na4 60. Be2 h5 61. Bf3 Kc5 62. Be2 b2+ 63. Kc2 b1=Q+ 64. Kxb1 Nc3+ 0-1

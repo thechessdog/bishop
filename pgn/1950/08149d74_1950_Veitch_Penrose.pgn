@@ -1,0 +1,16 @@
+[Event "Buxton"]
+[Site "Buxton"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Veitch, T."]
+[Black "Penrose, Jonathan"]
+[Result "0-1"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "08149d74"]
+[Epoch "Bishop"]
+[BlackID "400360"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Nbd2 c5 6. dxc5 Bxc5 7. Bg2 Bxf2+ 8.
+Kxf2 Ng4+ 9. Ke1 Ne3 10. Qa4+ Bd7 0-1

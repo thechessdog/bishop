@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Joksic"]
+[Black "Nagy, E."]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "cc426d6e"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+
+8. Kxd1 Nh5 9. Ke1 Nc6 10. Be3 f6 11. Bc4+ Kh8 12. exf6 Bxf6 13. Nd5 Bg4
+14. Nxc7 Rac8 15. Nd5 Bxb2 16. Rb1 Bg7 17. Kf2 e6 18. Nb4 Bxf3 19. gxf3 Nd4
+20. c3 Rxc4 21. Bxd4 Bxd4+ 22. cxd4 Nxf4 23. Rhd1 a5 24. Nd3 Rc2+ 25. Kf1
+Nd5 26. Rdc1 Rxf3+ 0-1
+

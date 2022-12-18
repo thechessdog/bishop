@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Vaskan"]
+[Black "Klovans, Janis"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "c45f5b40"]
+[Epoch "Bishop"]
+[BlackCountry "LVA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Bg4 8.
+h3 Bh5 9. g4 Bg6 10. Nxe5 Bxe4 11. g5 Rg8 12. Re1 Bf5 13. Qf3 Be6 14. Nd3 Nd5
+15. Rxe6 fxe6 16. Ne5 Nf6 17. Kf1 Qd4 18. gxf6 Bxf6 19. Ng4 O-O-O 20. Qe4 Qb6
+21. Nxf6 gxf6 22. Qxe6+ Kb8 23. d3 Rg6 24. Rb1 Rdg8 25. Be3 Qa5 26. Ke2 Qh5+
+27. Kd2 f5 28. Qf7 Qxh3 29. Ne2 R6g7 30. Qe6 Rg6 31. Qe5 Rf8 32. Nf4 1-0

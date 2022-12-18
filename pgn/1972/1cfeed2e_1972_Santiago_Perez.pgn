@@ -1,0 +1,18 @@
+[Event "corr Cuba"]
+[Site "corr Cuba"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Santiago, LS."]
+[Black "Perez, O."]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "1cfeed2e"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Be2 Qd7 10. Nf3 O-O-O 11. O-O f6 12. d5 exd5 13. Bxb6 axb6 14.
+cxd5 Bc5+ 15. Kh1 Nb4 16. e6 Qe8 17. Nd4 Nxd5 18. Ncb5 Bxd4 19. Rxf5 Bxb2
+20. Qa4 Qxe6 21. Bg4 Nc3 22. Nxc3 1-0
+

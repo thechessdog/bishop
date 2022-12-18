@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1949.01.01"]
+[Round "7"]
+[White "Randviir, Y."]
+[Black "Tarasov, Vitaly Georgievich"]
+[Result "1/2-1/2"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "4cc8b78a"]
+[Epoch "Bishop"]
+[BlackCountry "MDA"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Nf6 5. Bc4 Be6 6. Bxe6 fxe6 7. d4 exd3 8.
+Nxd3 Bd6 9. Qe2 Qe7 10. Nd2 O-O 11. O-O Nc6 12. Nf3 Rae8 13. Bd2 e5 14. fxe5
+Nxe5 15. Nfxe5 Bxe5 16. Qxe5 Qxe5 17. Nxe5 Rxe5 18. Rae1 1/2-1/2

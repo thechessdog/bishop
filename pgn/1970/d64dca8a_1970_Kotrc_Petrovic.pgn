@@ -1,0 +1,17 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kotrc, Josef"]
+[Black "Petrovic, Vojislav"]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Schlechter defence"]
+[HashCode "d64dca8a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d5 6. Bxd5 Nf6 7. Nc3 Nxd5
+8. Nxd5 Nc6 9. Nf3 Bg4 10. h3 Bh5 11. O-O Qd7 12. Rb1 O-O-O 13. Qb3 Bxf3 14.
+Bxg7 Na5 15. Qe3 Rg8 16. Qxa7 Qxh3 17. Nb6+ cxb6 18. Rfc1+ Nc6 19. gxh3 Rxg7+
+20. Kf1 Rd1+ 21. Rxd1 Nxa7 0-1

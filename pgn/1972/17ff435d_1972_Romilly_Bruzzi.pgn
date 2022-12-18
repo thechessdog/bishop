@@ -1,0 +1,23 @@
+[Event "Islington op"]
+[Site "Islington"]
+[Date "1972.12.15"]
+[Round "1"]
+[White "Romilly, PJ."]
+[Black "Bruzzi, Stefano"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "17ff435d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Nbd7
+8. O-O-O Qc7 9. Rg1 b5 10. Bxf6 Nxf6 11. e5 Bb7 12. Ndxb5 axb5 13. Bxb5+
+Nd7 14. Qh3 Bc6 15. exd6 Bxd6 16. Kb1 O-O 17. Qd3 Bxh2 18. Bxc6 Qxc6 19.
+Rh1 Nc5 20. Qh3 h6 21. Rxh2 Rfb8 22. Qg3 Na4 23. Nxa4 Qxa4 24. a3 Qb5 25.
+Qc3 Rc8 26. Qd3 Qe5 27. Rh3 Rab8 28. Qd4 Qe2 29. Qd2 Qe4 30. Rg3 e5 31. Re1
+Rxc2 32. Qxc2 Qxe1+ 33. Ka2 Rd8 34. Rc3 g6 35. Re3 Qa5 36. Qc3 Qd5+ 37. Qb3
+Qxg2 38. Rxe5 Qxf2 39. a4 h5 40. Rb5 h4 41. a5 Qf4 42. a6 Rd4 43. Ra5 Rd8
+44. a7 Ra8 45. Qa4 Qxa4+ 46. Rxa4 g5 47. b4 h3 48. Kb3 h2 49. Ra1 g4 50. b5
+Rxa7 0-1
+

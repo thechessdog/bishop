@@ -1,0 +1,19 @@
+[Event "Cardenas"]
+[Site "Cardenas"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Boudy Bueno, Julio Leonardo"]
+[Black "Cobo, Eldis"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "5c21b42d"]
+[Epoch "Bishop"]
+[WhiteID "3510557"]
+[WhiteCountry "CUB"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 f6 8. Nf4
+Qe7 9. exf6 Qxf6 10. Nf3 Bd6 11. Nh5 Qe7 12. O-O g6 13. Ng3 O-O 14. Re1 cxd4
+15. cxd4 Nb6 16. Bh6 Rf7 17. Ng5 Rf4 18. Nf3 Rf7 19. Ng5 1/2-1/2

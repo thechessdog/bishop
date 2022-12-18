@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Mukhin, Mikhail A"]
+[Black "Zaichik, Gennadi"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "89ae381a"]
+[Epoch "Bishop"]
+[BlackID "13600109"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. f4
+Bb7 9. O-O Nbd7 10. f5 e5 11. Nde2 Be7 12. Bg5 Rc8 13. Kh1 O-O 14. Bxf6 Nxf6
+15. Qd3 Rc5 16. Rad1 Qa8 17. Ng3 Rfc8 18. Qe2 a5 19. Nh5 Rxc3 20. bxc3 Bxe4 21.
+Nxf6+ Bxf6 22. Qd2 Rc5 23. Qxd6 Bxg2+ 24. Kg1 Bh1 25. Rd2 Rxc3 26. Re1 Bf3 27.
+Rxe5 Rc8 28. Re7 Bxe7 29. Qxe7 Rf8 30. Bxf7+ Rxf7 31. Rd8+ Qxd8 32. Qxd8+ Rf8
+33. Qd7 1-0

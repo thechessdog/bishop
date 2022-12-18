@@ -1,0 +1,23 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Foss, Sverre"]
+[Black "Ahman, Ernst"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "616c3841"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O Nbd7 6. b3 c5 7. e3 b6 8.
+Bb2 Ne4 9. Nbd2 O-O 10. Nxe4 dxe4 11. Nd2 f5 12. f3 exf3 13. Qxf3 Rb8 14.
+Qc6 Nf6 15. Rad1 Nd5 16. Bxd5 Qxd5 17. Qxd5 exd5 18. dxc5 bxc5 19. Nf3 Bb7
+20. Ba3 Rfe8 21. Ne1 g6 22. Nd3 c4 23. Bxe7 cxd3 24. Bc5 dxc2 25. Rd2 Rbc8
+26. Rxc2 Rxe3 27. Rfc1 Rd3 28. Bxa7 Rxc2 29. Rxc2 d4 30. Rc7 Be4 31. Rd7
+Rd1+ 32. Kf2 d3 33. Ke3 g5 34. Kd4 Re1 35. Kc3 Re2 36. a4 f4 37. gxf4 gxf4
+38. a5 f3 39. b4 Rc2+ 40. Kb3 f2 41. Bxf2 Rxf2 42. a6 Rxh2 43. a7 d2 44. b5
+Kf8 45. Rd4 Bf3 46. Kc3 Ke7 47. b6 h5 48. Rd3 h4 49. Kb4 Bb7 50. Re3+ Kd7
+51. Rd3+ Kc6 52. Ka5 Kc5 53. Rc3+ Kd4 54. Rc7 d1=Q 55. Rd7+ Kc5 56. Rc7+
+Kd6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Tula"]
+[Site "Tula"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Suetin, Alexey S"]
+[Black "Ilivitsky, Georgy"]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "58c4e282"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. Nb3 Qb6 10. f3 Rd8 11. Nb5 Rd7 12. c4 d5 13. Be3 Qa6 14. cxd5 Qxa2
+15. Qc2 Nb4 16. Nc3 Nxc2 17. Kxc2 Rc7 18. Ra1 Rxc3+ 19. Kxc3 Nxd5+ 0-1

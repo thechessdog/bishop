@@ -1,0 +1,28 @@
+[Event "Buenos Aires CA"]
+[Site "Buenos Aires"]
+[Date "1955.01.01"]
+[Round "2"]
+[White "Esposito, Alfredo"]
+[Black "Benko, Francisco"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "51cc8e36"]
+[Epoch "Bishop"]
+[BlackID "101753"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 Nbd7 4. Nf3 e5 5. Bc4 Be7 6. O-O c6 7. a4 O-O 8. Ba2
+Qc7 9. Qe2 a5 10. Rd1 Nb8 11. h3 Na6 12. Be3 Nb4 13. Bb3 Bd7 14. Nd2 Be8 15.
+Nf1 Kh8 16. Ng3 Bd7 17. dxe5 dxe5 18. Qf3 Be6 19. Bxe6 fxe6 20. Qe2 Nd7 21. Rd2
+Na6 22. Rad1 Ndc5 23. Qh5 Rab8 24. Bg5 g6 25. Qh6 Bxg5 26. Qxg5 Qg7 27. Rd8 h6
+28. Rxf8+ Rxf8 29. Qd2 Kh7 30. Nf1 b5 31. axb5 cxb5 32. f3 Rb8 33. Ne3 Qa7 34.
+Kh2 Qf7 35. Ne2 Rb7 36. Qxa5 Qc7 37. Qd2 Qf7 38. Ng4 Qg7 39. Ne3 Rd7 40. Qe1
+Rb7 41. Rd6 Qe7 42. Qd2 h5 43. Rd3 Rd7 44. Rxd7 Qxd7 45. Qxd7+ Nxd7 46. h4 Kg7
+47. Kg3 b4 48. Kf2 Kf6 49. Nc4 Nac5 50. Nc1 Nb8 51. Na5 Ke7 52. Ke3 Kf6 53. Nd3
+Nca6 54. b3 g5 55. hxg5+ Kxg5 56. Nxe5 Nc7 57. Nac6 Nba6 58. f4+ Kf6 59. Nd3
+Nb5 60. Ncxb4 Nac7 61. c4 Nc3 62. Nc6 h4 63. b4 Kg6 64. b5 Na4 65. Nd4 Kh5 66.
+c5 Kg4 67. b6 Na6 68. Nxe6 Kg3 69. f5 N6xc5 70. Nexc5 Nxb6 71. f6 Nc4+ 72. Ke2
+Nd6 73. e5 1-0

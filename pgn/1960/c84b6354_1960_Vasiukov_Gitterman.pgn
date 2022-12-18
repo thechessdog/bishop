@@ -1,0 +1,17 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Vasiukov, Evgeni"]
+[Black "Gitterman, S."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "c84b6354"]
+[Epoch "Bishop"]
+[WhiteID "4100522"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Ng5 Be7 7. dxe5 Nxe5 8.
+Ne6 1-0

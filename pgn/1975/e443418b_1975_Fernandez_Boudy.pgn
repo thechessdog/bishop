@@ -1,0 +1,22 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos B"]
+[Date "1975.01.01"]
+[Round "16"]
+[White "Fernandez, Juan"]
+[Black "Boudy Bueno, Julio Leonardo"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "e443418b"]
+[Epoch "Bishop"]
+[WhiteID "216291"]
+[WhiteCountry "BEL"]
+[BlackID "3510557"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. Qe2 d6 8. c4
+Be7 9. b3 Nc6 10. Bb2 O-O 11. Nxc6 bxc6 12. e5 dxe5 13. Bxe5 Qb6 14. Re1 Bb7
+15. Qf3 c5 16. Qh3 g6 17. Re3 Qd8 18. Nc3 Nd7 19. f4 Nxe5 20. fxe5 Bg5 21. Ne4
+Bxe3+ 22. Qxe3 Bxe4 23. Bxe4 Rc8 24. Bb7 Rc7 25. Bxa6 Rd7 26. Qxc5 Rd1+ 27.
+Rxd1 Qxd1+ 28. Kf2 Qd2+ 29. Kg3 Rd8 30. Bb7 Rd4 0-1

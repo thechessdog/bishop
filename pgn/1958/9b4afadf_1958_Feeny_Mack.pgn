@@ -1,0 +1,22 @@
+[Event "match"]
+[Site "match"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Feeny, T."]
+[Black "Mack, A."]
+[Result "0-1"]
+[ECO "A84"]
+[Opening "Dutch defence, Rubinstein variation"]
+[HashCode "9b4afadf"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 d5 6. e3 c6 7. c5 Nbd7 8.
+Nh4 O-O 9. g3 Qe8 10. Bg2 h6 11. Bxf6 Bxf6 12. Nf3 e5 13. O-O Qg6 14. Ne1
+h5 15. h4 exd4 16. exd4 Bd8 17. Nd3 Bc7 18. Ne2 Nf6 19. f4 Ng4 20. Qd2 Bd7
+21. Ne5 Nxe5 22. fxe5 f4 23. gxf4 Bh3 24. Rf2 Bd8 25. Nc3 Bxh4 26. Rf3 Bg4
+27. Rff1 Rf5 28. Rac1 Raf8 29. Qe3 Qh6 30. Ne2 Bxe2 31. Qxe2 Rxf4 32. Rxf4
+Qxf4 33. Rf1 Qxd4+ 34. Kh1 Rxf1+ 35. Bxf1 Qe4+ 36. Qxe4 dxe4 37. Bc4+ Kf8
+38. e6 Bf2 39. b4 g5 40. Kg2 e3 41. Kf3 Ke7 42. a3 g4+ 43. Kg2 h4 44. a4
+Be1 45. b5 Bb4 46. bxc6 bxc6 47. Be2 g3 48. Bf3 Kxe6 49. Bxc6 e2 50. Bb7
+e1=Q 51. c6 Kf5 52. c7 Qf2+ 53. Kh3 Qh2# 0-1
+

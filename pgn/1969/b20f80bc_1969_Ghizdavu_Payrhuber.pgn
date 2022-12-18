@@ -1,0 +1,18 @@
+[Event "EU-ch U20 prel"]
+[Site "Groningen"]
+[Date "1969.??.??"]
+[Round "4"]
+[White "Ghizdavu, Dumitru"]
+[Black "Payrhuber, Klaus"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "b20f80bc"]
+[Epoch "Bishop"]
+[WhiteID "2000610"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+Be7 9. O-O b5 10. Qe2 Bb7 11. Kh1 Nbd7 12. fxe5 dxe5 13. Bg5 O-O 14. Nh4 h6 15.
+Nf5 Rae8 16. Bxh6 gxh6 17. Qe3 Ng4 18. Qg3 h5 19. h3 1-0

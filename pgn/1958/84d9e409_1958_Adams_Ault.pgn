@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Adams, Weaver Warren"]
+[Black "Ault, Robin"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "84d9e409"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3
+h5 9. Qh3 Qa5 10. Bd2 Qa4 11. Nf3 cxd4 12. cxd4 Nxd4 13. Qg3 Nxf3+ 14. gxf3 g6
+15. Qg5 Nc6 16. Qf6 Rg8 17. O-O b6 18. Rfb1 Ba6 19. Rb4 Qa5 20. Rf4 Qxd2 21.
+Qxf7+ 1-0

@@ -1,0 +1,20 @@
+[Event "Moscow ch"]
+[Site "Moscow ch"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Chasin"]
+[Black "Szczerbakow"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "fca5fdaa"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. Nc4 Bf6 10. b3 c5 11. Bb2 Re8 12. a4 Rb8 13. a5 Re6 14. Ne3
+Nf8 15. Nd5 Ng6 16. Qc1 Qd6 17. Qe3 Bd8 18. Nd2 b5 19. axb6 cxb6 20. Nc4
+Qf8 21. Qg3 Bh4 22. Qf3 Bd8 23. g3 f6 24. Qh5 Re8 25. f4 exf4 26. Nxf4 Nxf4
+27. Rxf4 Bc7 28. Rh4 h6 29. Bxf6 Qxf6 30. Qxe8+ Kh7 31. e5 Qf3 32. Rf4 Qd5
+33. Qf7 Qd8 34. Re1 b5 35. Nd6 Bxd6 36. exd6 Qxd6 37. Re7 1-0
+

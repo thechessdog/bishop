@@ -1,0 +1,16 @@
+[Event "Morecambe ch-BCF"]
+[Site "Morecambe ch-BCF"]
+[Date "1975.08.01"]
+[Round "1"]
+[White "Nicholson, John G"]
+[Black "Sully, D."]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "ef815ef6"]
+[Epoch "Bishop"]
+
+1. e4 g6 2. d4 c6 3. Nf3 Bg7 4. Nc3 d5 5. h3 Nf6 6. e5 Ne4 7. Nxe4 dxe4 8. Ng5
+c5 9. Bc4 O-O 10. c3 cxd4 11. cxd4 b5 12. Bb3 Bb7 13. h4 Bd5 14. h5 h6 15. hxg6
+Bxb3 16. Qxb3 hxg5 17. Qh3 fxg6 18. e6 Rxf2 19. Kxf2 Qxd4+ 20. Ke1 Nd7 21. exd7
+Qb4+ 22. Bd2 1-0

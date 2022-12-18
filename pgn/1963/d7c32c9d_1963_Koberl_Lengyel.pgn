@@ -1,0 +1,21 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1963.12.01"]
+[Round "1"]
+[White "Koberl, Ferenc"]
+[Black "Lengyel, Levente"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "d7c32c9d"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. d3 Nge7 7. Bg5 h6 8. Be3
+Nd4 9. Bc4 O-O 10. c3 Nxf3+ 11. Qxf3 d6 12. Qd1 Kh7 13. Qb3 f5 14. f3 b6 15. a4
+Bb7 16. Bd5 Nxd5 17. exd5 Qc7 18. Nd2 Rab8 19. c4 Bc8 20. Qc2 Bd7 21. Rab1 a5
+22. Kh1 g5 23. Rg1 Bf6 24. g4 Qc8 25. Qd1 Be7 26. b3 Qe8 27. Qe2 Qg6 28. Rg2
+Rf7 29. Rbg1 Rh8 30. h3 Kg8 31. Rh2 Kf8 32. Rgg2 Ke8 33. Bf2 h5 34. Bg1 Kd8 35.
+Bf2 hxg4 36. hxg4 Rxh2+ 37. Rxh2 fxg4 38. fxg4 Rf4 39. Rg2 Rxg4 0-1

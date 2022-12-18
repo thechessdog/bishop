@@ -1,0 +1,20 @@
+[Event "Dubrovnik olm"]
+[Site "Dubrovnik olm"]
+[Date "1950.01.01"]
+[Round "2"]
+[White "Johansson, Ingi"]
+[Black "Pfeiffer, Gerhard"]
+[Result "0-1"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "3bc46faa"]
+[Epoch "Bishop"]
+[BlackID "1649027"]
+[BlackCountry "AUT"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. b3 g6 5. Bb2 Bg7 6. O-O O-O 7. d3 Nbd7 8. Nbd2
+Re8 9. Rb1 e5 10. e4 Qc7 11. Re1 d4 12. Nh4 b5 13. Nf1 Nf8 14. Qd2 Ne6 15. c3
+dxc3 16. Bxc3 a5 17. Rbc1 b4 18. Ba1 Ba6 19. Ne3 Rad8 20. Qc2 Bxd3 21. Qxc6
+Qxc6 22. Rxc6 Nxe4 23. Nc4 Nc3 24. Nxa5 Nd4 25. Bxc3 bxc3 26. Rxc3 Ne2+ 27.
+Rxe2 Bxe2 28. Bc6 Rd1+ 29. Kg2 e4 0-1

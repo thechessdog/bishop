@@ -1,0 +1,16 @@
+[Event "England"]
+[Site "England"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Burnell, C."]
+[Black "Bailey, W."]
+[Result "1-0"]
+[ECO "C58"]
+[Opening "Two knights defence"]
+[HashCode "918b42dd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ Bd7 7. Qe2
+Bxb5 8. Qxb5+ c6 9. dxc6 Nxc6 10. Qxb7 Ne7 11. Qb5+ Nd7 12. Qc4 Qc8 13.
+Qxf7+ Kd8 14. Ne6# 1-0
+

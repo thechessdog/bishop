@@ -1,0 +1,19 @@
+[Event "Spartakiade"]
+[Site "Spartakiade"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Kotkov, J."]
+[Black "Schaposchnikow, J."]
+[Result "0-1"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, siesta variation"]
+[HashCode "42cec6d6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. d4 e4 8.
+Ng5 d5 9. f3 h6 10. fxe4 hxg5 11. exf5 Bd6 12. Qg4 Qe7+ 13. Kd1 Nf6 14.
+Qxg5 O-O-O 15. Re1 Qd7 16. h3 Rde8 17. Rxe8+ Rxe8 18. Nd2 Qe7 19. Bxc6 bxc6
+20. Kc2 Kb8 21. b4 Qe2 22. Qxg7 Re3 23. Qxf6 Qd3+ 24. Kb2 Qxc3+ 25. Kb1
+Qd3+ 26. Kb2 Bxb4 27. Nb3 Re2+ 28. Bd2 Rxd2+ 29. Nxd2 Ba3# 0-1
+

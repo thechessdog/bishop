@@ -1,0 +1,18 @@
+[Event "Titograd"]
+[Site "Titograd"]
+[Date "1965.01.01"]
+[Round "15"]
+[White "Knezevic, Milorad"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "fb2e4f01"]
+[Epoch "Bishop"]
+[BlackID "900141"]
+[BlackCountry "SRB"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 Nf6 4. Nd2 c5 5. Bxf6 gxf6 6. dxc5 Na6 7. e4 Nxc5 8.
+Qh5 f5 9. exd5 Qxd5 10. Bb5+ Bd7 11. Bxd7+ 1/2-1/2

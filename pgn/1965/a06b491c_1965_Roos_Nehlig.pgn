@@ -1,0 +1,17 @@
+[Event "Scheveningen"]
+[Site "Scheveningen"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Roos, Beppo"]
+[Black "Nehlig"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "a06b491c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Nxf3 Nc6 6. Bc4 e6 7. O-O Bd6
+8. Bg5 O-O 9. Qd2 Be7 10. Rad1 Na5 11. Bd3 Nd5 12. Nxd5 Bxg5 13. Nxg5 h6
+14. Nh7 Qxd5 15. Nf6+ gxf6 16. Qxh6 f5 17. Rf3 Qxd4+ 18. Kh1 f4 19. Qh7#
+1-0
+

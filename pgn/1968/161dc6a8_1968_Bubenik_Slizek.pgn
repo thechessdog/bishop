@@ -1,0 +1,24 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Bubenik"]
+[Black "Slizek"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "161dc6a8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5
+8. Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 Rc8 12. Bxf6 gxf6 13. Kb1 b4 14.
+Nce2 Nc5 15. Ng3 Ba8 16. f4 h5 17. h4 Be7 18. e5 fxe5 19. fxe5 d5 20. Qf4
+Qc7 21. Rf1 Kd7 22. Ngf5 Rcf8 23. Nxe7 Kxe7 24. Qf6+ Ke8 25. Rf3 Qe7 26.
+Qf4 Rfg8 27. Rdf1 Rh7 28. Nf5 Rg4 29. Nxe7 Rxf4 30. Rxf4 Kxe7 31. Rxb4 Rg7
+32. Rb8 Bc6 33. Rc8 Kd7 34. Rh8 Ne4 35. Rf4 Ke7 36. Rxh5 Rxg2 37. a3 a5 38.
+Rh7 Be8 39. Ka2 Nc5 40. a4 Rg3 41. h5 Rh3 42. Rg4 Nd7 43. Rg5 Re3 44. h6
+Rh3 45. Rh8 f5 46. exf6+ Kxf6 47. Rxe8 Kxg5 48. Rxe6 Rxh6 49. Rxh6 Kxh6 50.
+Bxd5 Nb6 51. Bc6 Kg5 52. c3 Kf6 53. b4 axb4 54. cxb4 Ke7 55. Kb3 Kd6 56.
+Bg2 Kc7 57. a5 Nc8 58. b5 1-0
+

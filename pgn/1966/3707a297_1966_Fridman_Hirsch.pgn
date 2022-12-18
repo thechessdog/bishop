@@ -1,0 +1,17 @@
+[Event "Tel Aviv"]
+[Site "Tel Aviv"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Fridman, Daniel Sr"]
+[Black "Hirsch"]
+[Result "1-0"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "4...e6"]
+[HashCode "3707a297"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 Be7 6. O-O O-O 7. Nc3 b6 8. Qe2
+Bb7 9. e4 c6 10. Rd1 Qc7 11. Bg5 b5 12. Bd3 b4 13. Na4 Nbd7 14. Rac1 Qa5 15. b3
+Rfe8 16. e5 Nd5 17. Qe4 f5 18. exf6 N7xf6 19. Qxe6+ Kh8 20. Ne5 Bc8 21. Nf7+
+Kg8 22. Nh6+ Kh8 23. Qg8+ 1-0

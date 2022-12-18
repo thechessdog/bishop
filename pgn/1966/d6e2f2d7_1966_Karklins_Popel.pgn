@@ -1,0 +1,15 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Karklins, Andrew"]
+[Black "Popel, S."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "d6e2f2d7"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 f6 6. Bd3 Qc7 7. Qe2 cxd4 8. cxd4
+Nxd4 0-1

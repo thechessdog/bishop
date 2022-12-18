@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Munisic, M."]
+[Black "Lovric, D."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "b11b4b25"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 a6 5. Ba4 f5 6. d4 exd4 7. e5 dxc3 8.
+Nxc3 Nge7 9. O-O d5 10. Bg5 Be6 11. Rc1 O-O 12. Nxd5 Bxf2+ 13. Rxf2 Qxd5
+14. Qxd5 Bxd5 15. Bxe7 Nxe7 16. Rxc7 Nc6 17. Rd2 Bxf3 18. Rdd7 Rfc8 19.
+Rxg7+ 1-0
+

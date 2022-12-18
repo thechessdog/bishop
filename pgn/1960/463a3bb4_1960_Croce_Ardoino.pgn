@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Croce"]
+[Black "Ardoino"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "463a3bb4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bf4 Bd6 11. Nbd2 Nbd7 12. Nb3 Be4 13. Qc1 Rc8 14. a4
+Qe7 15. axb5 axb5 16. Ra7 Bxf4 17. Qxf4 Qb4 18. Nbd2 Bxf3 19. Bxf3 c5 20.
+dxc5 Qxc5 21. Ra6 g5 22. Qd6 Qxd6 23. Rxd6 Rc2 24. Rb1 Ne5 25. Nb3 g4 26.
+Bg2 Nc4 27. Rdd1 Rxe2 28. Nd4 Rxb2 29. Nxb5 Rb8 30. Nc3 Nd2 31. Rxb2 Rxb2
+32. h3 gxh3 33. Bxh3 Nde4 34. Nxe4 Nxe4 35. Rf1 Kg7 36. Bg2 Nd2 37. Rd1 e5
+38. Re1 Rb1 39. Rxb1 Nxb1 40. g4 Nc3 41. Bb7 Kg6 42. Kg2 Kg5 43. Kg3 Ne2+
+44. Kf3 Nd4+ 45. Kg3 Nb5 46. Be4 h6 47. Bd3 Nc3 48. f3 Nd1 49. Bc2 Ne3 50.
+Bd3 f6 51. Ba6 f5 52. gxf5 Nxf5+ 53. Kf2 h5 54. Bb7 h4 55. Bc8 Ne7 56. Bb7
+Ng6 57. Be4 Nf4 58. Bb7 Kf6 1/2-1/2
+

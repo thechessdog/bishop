@@ -1,0 +1,21 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Smith, Olle"]
+[Black "Malmdin, Nils"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "9da8bea1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O Nbd7 9. Be3 O-O 10. a4 b6 11. f3 Bb7 12. Qd2 Rc8 13. Rfd1 Qc7 14. Rac1
+Rfd8 15. Qe1 Ra8 16. Qf1 Rdc8 17. Rd2 h6 18. Rcd1 Bf8 19. Nc1 Nc5 20. N1a2
+Qd7 21. b3 Rc7 22. Bc4 Qc8 23. Nb4 Ncd7 24. g4 a5 25. Nbd5 Bxd5 26. Nxd5
+Nxd5 27. Bxd5 Rb8 28. c4 Nc5 29. Rb1 Be7 30. Qh3 Qd8 31. Qh5 Bg5 32. Bxg5
+Qxg5 33. Qxg5 hxg5 34. b4 Nxa4 35. bxa5 Rc5 36. a6 Ra5 37. Ra2 Rxd5 38.
+cxd5 1-0
+

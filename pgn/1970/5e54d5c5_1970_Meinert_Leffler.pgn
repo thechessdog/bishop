@@ -1,0 +1,16 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Meinert, Larry"]
+[Black "Leffler, S."]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "5e54d5c5"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Nf3 Be6 6. Bb5+ Nc6 7. Ne5 Qd6
+8. O-O Be7 9. Bf4 Qb4 10. Nxc6 Bd7 11. Nxb4 1-0
+

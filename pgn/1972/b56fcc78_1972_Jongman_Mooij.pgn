@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Jongman, R."]
+[Black "Mooij, W."]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "b56fcc78"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Nc6 8.
+Be3 Qc7 9. Bb3 Na5 10. f4 Be7 11. Qf3 b5 12. e5 Bb7 13. Qg3 dxe5 14. fxe5
+Nh5 15. Qf2 O-O 16. g4 Nxb3 17. axb3 Qxe5 18. gxh5 Qxh5 19. Nce2 f5 20. Ng3
+Qh3 21. Nxe6 f4 22. Nxf8 Rxf8 23. Qe2 fxg3 24. Rxf8+ Bxf8 25. Ba7 gxh2+ 26.
+Qxh2 Qf3 27. Re1 Bd6 28. Qe2 1/2-1/2
+

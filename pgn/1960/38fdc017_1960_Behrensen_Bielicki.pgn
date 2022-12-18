@@ -1,0 +1,26 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1960.01.01"]
+[Round "17"]
+[White "Behrensen, Jorge"]
+[Black "Bielicki, Carlos"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "38fdc017"]
+[Epoch "Bishop"]
+[BlackID "100684"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. a3
+Bb7 9. Bd3 Nbd7 10. Nf3 Be7 11. O-O h6 12. Bh4 g5 13. fxg5 Ng4 14. Qe2 hxg5 15.
+Bg3 Qb6+ 16. Kh1 Qe3 17. Rae1 Qxe2 18. Rxe2 Nge5 19. Nxe5 Nxe5 20. Nd1 Rg8 21.
+Ne3 f6 22. Bxe5 fxe5 23. c4 Bc6 24. Ng4 Rf8 25. Rxf8+ Bxf8 26. g3 Be7 27. Kg2
+Rc8 28. Rc2 bxc4 29. Rxc4 Kd7 30. Rc3 Bd8 31. Rc2 a5 32. b4 axb4 33. axb4 Rb8
+34. Rb2 Bb6 35. b5 Bb7 36. h4 gxh4 37. gxh4 Ke7 38. h5 Kf7 39. Rb1 Kg7 40. Rf1
+Bd8 41. h6+ Kg8 42. Nf6+ Bxf6 43. Rxf6 Bc8 44. Bc4 Bd7 45. Kf3 Bxb5 46. Bxe6+
+Kh8 47. Kg4 Rd8 48. Bd5 Bd7+ 49. Kg5 Bb5 50. Rg6 Bd3 51. Rg7 Bxe4 52. Bxe4 d5
+53. Bf5 e4 54. Be6 Rd6 55. Rg8+ Kh7 56. Rg7+ Kh8 57. Re7 Rd8 58. Kg6 e3 59.
+Rh7# 1-0

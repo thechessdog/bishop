@@ -1,0 +1,16 @@
+[Event "Brooklyn"]
+[Site "Brooklyn"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Stuppler"]
+[Black "Farkas"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "b0e8b59f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 Nc6 6. a3 cxd4 7. exd4 Be7 8.
+b4 b6 9. d5 Ne5 10. d6 Bf8 11. Nb5 1-0
+

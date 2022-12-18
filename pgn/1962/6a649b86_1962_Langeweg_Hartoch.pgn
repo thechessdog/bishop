@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Hartoch, Robert G"]
+[Result "1-0"]
+[ECO "E61"]
+[Opening "King's Indian defence, 3.Nc3"]
+[HashCode "6a649b86"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e3 d6 6. Be2 Nbd7 7. O-O e5 8. Qc2
+Re8 9. a4 c6 10. a5 Qe7 11. b4 h5 12. Ba3 e4 13. Nd2 Nf8 14. b5 N8h7 15. a6 Ng5
+16. Rfb1 h4 17. axb7 Bxb7 18. bxc6 Bxc6 19. Nb5 Bxb5 20. Rxb5 Bh6 21. Rab1 h3
+22. g3 Rac8 23. Ra5 Rb8 24. Rab5 Qc7 25. Qb3 Rxb5 26. Qxb5 Ne6 27. Nxe4 1-0

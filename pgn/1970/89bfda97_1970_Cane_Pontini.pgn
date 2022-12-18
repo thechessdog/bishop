@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Cane"]
+[Black "Pontini"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "89bfda97"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nd2 c5 3. c3 cxd4 4. cxd4 Qa5 5. e3 Nc6 6. Nf3 d5 7. Bd3 Bd7
+8. O-O Nb4 9. Bb1 Ba4 10. Nb3 Qb6 11. Ne5 e6 12. Bd2 Rc8 13. Bxb4 Bxb4 14.
+f4 Bd6 15. Bc2 O-O 16. g4 Ne4 17. g5 Rc7 18. Rf3 f6 19. gxf6 gxf6 20. Bxe4
+dxe4 21. Rg3+ Kh8 22. Ng4 a6 23. Nh6 Rg7 24. Kf2 Rxg3 25. hxg3 Qc7 26. Rc1
+Qg7 27. Qh5 f5 28. Nd2 Rf6 29. Ng4 fxg4 30. Nxe4 Rf5 31. Rc8+ Bf8 32. Ng5
+h6 33. e4 Rxg5 34. fxg5 Qxd4+ 35. Kg2 Qxe4+ 36. Kh2 Qe2+ 37. Kg1 Qe3+ 38.
+Kh1 Bc6+ 39. Rxc6 Qf3+ 40. Kh2 bxc6 0-1
+

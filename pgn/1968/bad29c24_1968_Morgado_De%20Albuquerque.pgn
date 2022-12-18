@@ -1,0 +1,17 @@
+[Event "corr Argentina"]
+[Site "corr Argentina"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Morgado, Juan Sebastian"]
+[Black "De Albuquerque, Mar"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "bad29c24"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 dxe4 4. Nxe4 e6 5. Bc4 Nf6 6. d3 Be7 7. Bd2 Nbd7 8.
+Qg3 Nxe4 9. dxe4 Bf6 10. Nf3 Bxb2 11. Rb1 Qf6 12. O-O Ne5 13. Bg5 Nxf3+ 14.
+gxf3 Qe5 15. Bf4 Qd4 16. Bd6 Bc3 17. e5 Bd7 18. Rxb7 Rg8 19. Qg5 f6 20. Qh5+
+Kd8 21. Qf7 1-0

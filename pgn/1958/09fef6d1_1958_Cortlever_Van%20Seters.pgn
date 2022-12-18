@@ -1,0 +1,18 @@
+[Event "Beverwijk"]
+[Site "Beverwijk"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Cortlever, Nicolaas"]
+[Black "Van Seters, Frits"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "09fef6d1"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 a5 7. b3 Bd7 8. Be2 cxd4
+9. cxd4 Nge7 10. O-O Nf5 11. Be3 Be7 12. Nc3 O-O 13. Bd3 Nxe3 14. fxe3 f6 15.
+Ng5 f5 16. Na4 Qd8 17. Nh3 Be8 18. Nf4 Bf7 19. g4 g5 20. Nxe6 Bxe6 21. gxf5 b5
+22. fxe6 1-0

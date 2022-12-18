@@ -1,0 +1,18 @@
+[Event "Kiruna"]
+[Site "Kiruna"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Horberg"]
+[Black "Svendenborg"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "90091afd"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Bc4 Nf6 6. Nf3 d6 7. e5 Ng4
+8. e6 f6 9. O-O Nge5 10. Nxe5 Nxe5 11. Bd5 Qa5 12. a3 a6 13. Be3 Rb8 14. f4
+Nd7 15. Qh5+ Kd8 16. b4 g6 17. Qf3 Qc7 18. Rac1 Ke8 19. Nb5 Qd8 20. Nc7+
+1-0
+

@@ -1,0 +1,19 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Purser, T."]
+[Black "Mack, Arthur"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Goering attack"]
+[HashCode "fdf3e5a4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Bb6
+8. cxd4 d6 9. Nc3 Na5 10. Bg5 f6 11. Bh4 Nxc4 12. Qa4+ Qd7 13. Qxc4 Qf7 14.
+Nd5 Be6 15. Qa4+ Bd7 16. Qc2 Bc6 17. Nxb6 axb6 18. Rfc1 d5 19. e5 g5 20.
+Bg3 g4 21. e6 Qe7 22. Nh4 O-O-O 23. Qe2 b5 24. a4 b4 25. Rxc6 bxc6 26. Nf5
+Qe8 27. Qa6+ Kb8 28. Qb6+ Ka8 29. Bxc7 1-0
+

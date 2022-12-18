@@ -1,0 +1,21 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Kieninger, Georg"]
+[Black "Czerniak, Moshe"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "ac982681"]
+[Epoch "Bishop"]
+[BlackCountry "ISR"]
+[WhiteCountry "DEU"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bc4 c6 7. e5 Ne8 8. Be3 b5
+9. Bb3 Nc7 10. O-O Nd7 11. Re1 d5 12. Ne2 Nb6 13. c3 Nc4 14. Bc1 a5 15. a4 b4
+16. cxb4 axb4 17. Bc2 Bg4 18. Rf1 Ne6 19. b3 Na5 20. Be3 f5 21. Rc1 Qd7 22. Qd2
+Qb7 23. h3 Bh5 24. Bd1 Rfd8 25. Qb2 Bh6 26. Ne1 c5 27. dxc5 d4 28. Nxd4 Qe4 29.
+Nec2 Nxf4 30. Bxf4 Bxf4 31. Rxf4 Qxf4 32. Bxh5 gxh5 33. Rf1 Qxe5 34. Rxf5 Qg7
+35. Qa1 Ra6 36. Qf1 Rg6 37. Nf3 e6 38. Rxh5 Qc3 39. Nce1 Qe3+ 40. Kh1 Rf8 0-1

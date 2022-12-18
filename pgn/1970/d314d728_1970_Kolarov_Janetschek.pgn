@@ -1,0 +1,21 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "8"]
+[White "Kolarov, Atanas S."]
+[Black "Janetschek, Karl"]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "d314d728"]
+[Epoch "Bishop"]
+[WhiteID "2900246"]
+[WhiteCountry "BGR"]
+[BlackID "1600257"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Bxc3 10. bxc3 Qc7 11. Bb5 Bd7 12. a4 Rfd8 13. Ba3 a6 14. Bd3 e5 15.
+Qc2 cxd4 16. cxd4 Rac8 17. Nxe5 Nxe5 18. Qxc7 Rxc7 19. dxe5 Bxa4 20. Bd6 Rc3
+21. Rxa4 Rxd3 22. Be7 1-0

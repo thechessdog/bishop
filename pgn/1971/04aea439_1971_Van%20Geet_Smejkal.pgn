@@ -1,0 +1,27 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1971.07.01"]
+[Round "8"]
+[White "Van Geet, Dirk Daniel"]
+[Black "Smejkal, Jan"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "04aea439"]
+[Epoch "Bishop"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+[WhiteCountry "NLD"]
+
+1. b3 e5 2. Bb2 Nc6 3. Nf3 e4 4. Nd4 Nxd4 5. Bxd4 d5 6. e3 Ne7 7. Qh5 Nf5 8.
+Bb2 Be7 9. c4 d4 10. exd4 Bf6 11. Nc3 Bxd4 12. O-O-O O-O 13. Re1 Re8 14. g3 c6
+15. Bg2 Nd6 16. c5 g6 17. Qe2 Bxc5 18. Na4 Bb4 19. h4 h5 20. a3 Bg4 21. Qf1 Ba5
+22. Nc3 Nb5 23. Rxe4 Bf5 24. Rxe8+ Qxe8 25. Nxb5 cxb5 26. b4 Bb6 27. Bxb7 Rd8
+28. Qe1 Qd7 29. Be4 Bxe4 30. Qxe4 Qxd2+ 31. Kb1 Qxf2 32. Re1 Bd4 33. Re2 Qf1+
+34. Re1 Qf2 35. Re2 Qf1+ 36. Re1 Qf5 37. Bxd4 Rxd4 38. Qxf5 gxf5 39. Re5 Rd3
+40. Rxf5 Rxa3 41. Rg5+ Kf8 42. Kb2 Rf3 43. Rxh5 a6 44. Rg5 Ke7 45. h5 Ke6 46.
+g4 Rh3 47. Rc5 Rh4 48. Rg5 f6 49. Rg6 Ke5 50. Kc2 Kd4 51. Rxf6 Rxg4 52. h6 Kc4
+53. Rxa6 Rg2+ 54. Kc1 Kxb4 55. h7 Rh2 56. Ra7 Kb3 57. Rg7 Rh1+ 58. Kd2 b4 59.
+Rb7 Ka3 60. Kc2 Rh2+ 61. Kd3 b3 62. Kc3 Rc2+ 63. Kd3 Rc8 64. Ke4 Rf8 65. Ra7+
+Kb4 66. Rb7+ Kc3 67. Rc7+ Kd2 68. Rd7+ Kc2 69. Rc7+ Kb1 70. Rf7 Rh8 1/2-1/2

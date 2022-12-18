@@ -1,0 +1,17 @@
+[Event "Stockholm tt"]
+[Site "Stockholm tt"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Unzicker, Wolfgang"]
+[Black "Stahlberg, Gideon"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Teichmann variation"]
+[HashCode "d8d73c60"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+[WhiteCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 f6 7. Qh5+ Kf8 8. exf6
+Nxf6 9. Qf3 c5 10. dxc5 b6 11. h5 bxc5 12. h6 g6 13. O-O-O 1-0

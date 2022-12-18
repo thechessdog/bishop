@@ -1,0 +1,20 @@
+[Event "Freiberg ch19-DDR"]
+[Site "Freiberg ch19-DDR"]
+[Date "1970.01.01"]
+[Round "6"]
+[White "Brueggemann, Joachim"]
+[Black "Hennings, Artur"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system"]
+[HashCode "9f7a2361"]
+[Epoch "Bishop"]
+[WhiteID "4611861"]
+[WhiteCountry "GER"]
+[BlackID "4611594"]
+[BlackCountry "GER"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nc6 5. Nf3 Nf6 6. Bf4 Qb6 7. Na4 Qa5+ 8.
+Bd2 Qd8 9. e3 e6 10. Bd3 Bd6 11. O-O O-O 12. Rc1 Qe7 13. Nc3 Bd7 14. e4 dxe4
+15. Nxe4 1/2-1/2

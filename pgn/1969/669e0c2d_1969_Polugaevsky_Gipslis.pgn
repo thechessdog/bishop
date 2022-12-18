@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Polugaevsky, Lev"]
+[Black "Gipslis, Aivars"]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "669e0c2d"]
+[Epoch "Bishop"]
+[WhiteCountry "BLR"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8. a3
+dxc4 9. axb4 cxd4 10. Bxc4 dxc3 11. Qxd8 Rxd8 12. bxc3 Ne4 13. b5 Ne7 14. Bb2
+Kf8 15. Be2 f6 16. Rfd1 Bd7 17. c4 e5 18. Ne1 Ke8 19. Bh5+ g6 20. Bf3 Nc5 21.
+Ba3 Rac8 22. Bb4 Be6 23. Rxd8+ Kxd8 24. Rxa7 Nd7 25. Bxb7 Rxc4 26. Ba5+ Ke8 27.
+h3 e4 28. b6 Rc1 29. Bxe4 Nxb6 30. Bxb6 Nc8 31. Ra8 Rxe1+ 32. Kh2 Kf7 33. Bd4
+Rc1 34. g4 Rc7 35. Ra6 Ne7 36. Kg3 Rd7 37. Bc2 Rc7 38. Ba4 h5 39. Be8+ Kxe8 40.
+Rxe6 Rc6 41. Rxc6 Nxc6 42. Bxf6 hxg4 43. hxg4 1-0

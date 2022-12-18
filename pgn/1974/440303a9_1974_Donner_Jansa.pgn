@@ -1,0 +1,20 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1974.07.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "440303a9"]
+[Epoch "Bishop"]
+[BlackID "300128"]
+[WhiteCountry "NLD"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6 7. O-O Qa5 8. Nd2
+Qh5 9. e4 Qxd1 10. Rxd1 Nfd7 11. Nf3 a6 12. Bg5 Re8 13. Rac1 b5 14. b3 Nb6 15.
+a4 b4 16. Ne2 a5 17. Be3 N6d7 18. Ne1 e5 19. dxe5 dxe5 20. Bh3 Nf8 21. Bxc8
+Rxc8 22. Rc2 Ne6 23. Bb6 c5 0-1

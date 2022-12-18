@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Giusti"]
+[Black "Caprifichi"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, Svenonius variation"]
+[HashCode "510444fa"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bc5 4. d3 d6 5. f4 Bg4 6. Nf3 Nc6 7. h3 Bxf3 8.
+Qxf3 exf4 9. Bxf4 Nd4 10. Qd1 c6 11. Na4 b5 12. Nxc5 dxc5 13. Bb3 Nxb3 14.
+axb3 O-O 15. O-O a5 16. Be5 Ne8 17. Qg4 Qe7 18. Rf5 f6 19. Raf1 Kh8 20. Qg3
+b4 21. Qf2 a4 22. bxa4 Rxa4 23. b3 Ra8 24. Bg3 c4 25. dxc4 Rg8 26. e5 fxe5
+27. Bxe5 Nd6 28. Bxd6 Qxd6 29. Qc5 Qxc5+ 30. Rxc5 Rgc8 31. Rf7 Kg8 32. Rb7
+Ra2 33. Rxb4 Rxc2 34. Rb6 Rb2 35. b4 Re8 36. Rcxc6 h5 37. Rg6 Kf7 38. Rg5
+Re1+ 39. Kh2 h4 40. Rb7+ 1-0
+

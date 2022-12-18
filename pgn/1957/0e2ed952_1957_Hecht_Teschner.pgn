@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Hecht, Hans-Joachim"]
+[Black "Teschner, Rudolf"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "0e2ed952"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+[BlackCountry "SRB"]
+
+1. b4 d5 2. Bb2 Nf6 3. e3 e6 4. b5 a6 5. a4 axb5 6. axb5 Rxa1 7. Bxa1 c5 8. Nf3
+Nbd7 9. c4 Bd6 10. Qb3 O-O 11. Na3 Qe7 12. d3 d4 13. Nc2 e5 14. e4 Bc7 0-1

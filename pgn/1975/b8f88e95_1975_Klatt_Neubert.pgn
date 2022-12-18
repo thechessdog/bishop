@@ -1,0 +1,24 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Klatt, O."]
+[Black "Neubert"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "b8f88e95"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5
+8. Bg5 a6 9. Bxf6 gxf6 10. Na3 d5 11. Nxd5 Bxa3 12. bxa3 Be6 13. Bc4 Qa5+
+14. Qd2 Qxd2+ 15. Kxd2 O-O-O 16. Rad1 b5 17. Bb3 Rhg8 18. Rhg1 Bxd5 19.
+Bxd5 Ne7 20. Ke3 Nxd5+ 21. exd5 Rg4 22. Rd3 Rc4 23. Rgd1 Rg8 24. g3 Rxc2
+25. f3 Kd7 26. R1d2 Rgc8 27. Ke4 Kd6 28. Rxc2 Rxc2 29. h4 Rxa2 30. Kf5 Rf2
+31. Kg4 Rb2 32. Kh5 a5 33. Kh6 a4 34. Kxh7 Rb3 35. Rd1 Rxf3 36. Rg1 e4 37.
+h5 e3 38. h6 e2 39. Kg7 Rf1 40. h7 Rxg1 41. h8=Q e1=Q 42. Qb8+ Kc5 43. Qc7+
+Kxd5 44. Qb7+ Kd4 45. Qb6+ Ke4 46. Qc6+ Ke3 47. Qb6+ Kf3 48. Qxf6+ Kxg3 49.
+Kf8 Kh3 50. Qf5+ Rg4 51. Qf3+ Rg3 52. Qf5+ Kg2 53. Qc2+ Kg1 54. Qb2 f5 55.
+Qd4+ Kg2 56. Qb2+ Qf2 57. Qxb5 f4 58. Qc6+ f3 59. Qd5 Qb2 0-1
+

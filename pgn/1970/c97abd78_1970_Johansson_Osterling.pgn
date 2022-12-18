@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Johansson, Martin"]
+[Black "Osterling, Gosta"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "c97abd78"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+
+1. c4 Nf6 2. Nf3 c5 3. Nc3 Nc6 4. g3 d6 5. Bg2 Bg4 6. h3 Bd7 7. O-O Qc8 8. Kh2
+h6 9. d4 cxd4 10. Nxd4 g5 11. Be3 Nxd4 12. Bxd4 e5 13. Be3 Qxc4 14. Rc1 Qa6 15.
+b4 Rc8 16. a4 Be7 17. Qd2 Kf8 18. b5 Qa5 19. Bxb7 Rc7 20. Ba6 d5 21. Ne4 Qxd2
+22. Nxd2 Rxc1 23. Rxc1 d4 24. Bxd4 exd4 25. Rc7 Be6 26. Rxa7 Bb4 27. Nf3 Bd5
+28. b6 Bc5 29. a5 Kg7 30. Rc7 Bd6 31. Nxd4 Kg6 32. Bd3+ Be4 33. Bxe4+ Nxe4 34.
+Rc6 f6 35. Nb5 Be5 36. a6 h5 37. Kg2 h4 38. g4 1-0

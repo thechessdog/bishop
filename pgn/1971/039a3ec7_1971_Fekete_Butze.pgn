@@ -1,0 +1,18 @@
+[Event "corr EU/I/GT"]
+[Site "corr EU/I/GT"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Fekete, L."]
+[Black "Butze, Roland"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "039a3ec7"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. Be3 exf3 5. Nxf3 Bg4 6. Bd3 e6 7. O-O Nf6 8.
+Nbd2 Bd6 9. Bg5 h6 10. Bh4 Nbd7 11. Ne4 Be7 12. Qe2 Nxe4 13. Bxe7 Qxe7 14. Qxe4
+Bf5 15. Qe3 Bxd3 16. Qxd3 O-O 17. Rae1 Qd6 18. Ne5 Nxe5 19. Rxe5 Rad8 20. c3
+Qxe5 21. dxe5 Rxd3 0-1

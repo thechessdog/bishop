@@ -1,0 +1,21 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Rose, J."]
+[Black "Jackson, Oliver A"]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "a331742c"]
+[Epoch "Bishop"]
+[BlackID "403156"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. Bd2 Bb7 6. f3 O-O 7. e4 d6 8. a3
+Bxc3 9. Bxc3 Nbd7 10. O-O-O Qe7 11. e5 dxe5 12. dxe5 Ne8 13. Nh3 Rd8 14. Be2 g6
+15. Rhe1 Nc5 16. Bf1 h6 17. b4 Nd7 18. Bd3 Ng7 19. Bd2 Kh7 20. Nf4 Nf5 21. Bxf5
+gxf5 22. Re3 a5 23. g4 axb4 24. gxf5 b3 25. Rxb3 exf5 26. Qxf5+ Kh8 27. e6 Nf6
+28. exf7 Qd6 29. Qg6 Ne4 30. fxe4 Qxg6 31. Nxg6+ Kh7 32. Nxf8+ Rxf8 33. Rf3
+Bxe4 34. Rf4 Bg6 35. Rdf1 Bd3 36. R1f2 Bg6 37. Bc3 h5 38. Be5 1-0

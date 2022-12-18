@@ -1,0 +1,15 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Reza, R."]
+[Black "Endzelis, U."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "1a5d221f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. d4 fxe4 4. Nxe5 Nf6 5. Be2 d5 6. O-O Be6 7. c4 dxc4
+8. Bxc4 Bxc4 9. Nxc4 Nc6 10. Be3 Qd5 11. Qa4 b5 0-1
+

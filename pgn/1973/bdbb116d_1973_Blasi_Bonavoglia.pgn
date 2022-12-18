@@ -1,0 +1,18 @@
+[Event "Cava de Tirreni"]
+[Site "Cava de Tirreni"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Blasi"]
+[Black "Bonavoglia"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "bdbb116d"]
+[Epoch "Bishop"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Nf3 Ng6 5. h4 h5 6. Bg5 Be7 7. d6 cxd6 8.
+Nc3 Nxh4 9. Bxh4 g5 10. Bg3 h4 11. Nd5 Bf6 12. Bh2 g4 13. Nd2 g3 14. Bg1
+Bg7 15. Qg4 Kf8 16. fxg3 hxg3 17. Rxh8 Bxh8 18. O-O-O Nf6 19. Qh4 Bg7 20.
+Be3 1-0
+

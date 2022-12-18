@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Dziltsov, Y."]
+[Black "Melnikov, Y."]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Benima defence"]
+[HashCode "9a261b8d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Be7 5. c3 dxc3 6. Qd5 Nh6 7. Bxh6 O-O
+8. Bc1 Nb4 9. Qh5 Nc2+ 10. Kd1 Nxa1 11. Nxc3 c6 12. Bg5 b5 13. Bd3 Bxg5 14.
+Nxg5 h6 15. h4 b4 16. Ne2 d5 17. e5 b3 18. Nf4 bxa2 19. Bh7+ Kh8 20. Qxf7
+Rxf7 21. Ng6# 1-0
+

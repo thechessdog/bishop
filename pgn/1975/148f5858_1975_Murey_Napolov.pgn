@@ -1,0 +1,21 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Murey, Jacob"]
+[Black "Napolov, V."]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Spike gambit"]
+[HashCode "148f5858"]
+[Epoch "Bishop"]
+[WhiteID "2803585"]
+[WhiteCountry "ISR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. g4 dxc4 5. g5 Nd5 6. Bg2 Nb6 7. Bf4 Bg7 8. Nf3
+Nc6 9. d5 Nb4 10. Ne5 O-O 11. a3 Na6 12. Qd4 Nd7 13. Rd1 Qe8 14. h4 b5 15. Qe3
+Nxe5 16. Bxe5 Bxe5 17. Qxe5 Rb8 18. h5 Rb6 19. Be4 f6 20. gxf6 exf6 21. Qxe8
+Rxe8 22. hxg6 f5 23. d6 cxd6 24. Nd5 hxg6 25. Nxb6 axb6 26. Bc6 Rd8 27. Bxb5 d5
+28. Bxc4 Nc7 29. Rh3 Kg7 30. a4 g5 31. Rc3 Bb7 32. Rb3 Bc6 33. Rxb6 Bxa4 34. b3
+Rc8 35. bxa4 dxc4 36. Rc6 1-0

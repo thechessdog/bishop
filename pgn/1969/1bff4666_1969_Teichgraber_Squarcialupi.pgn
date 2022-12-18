@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Teichgraber"]
+[Black "Squarcialupi"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "1bff4666"]
+[Epoch "Bishop"]
+
+1. b4 a5 2. b5 Nf6 3. Bb2 d6 4. c4 b6 5. Nf3 Bb7 6. e3 e6 7. Nc3 Be7 8. Be2
+O-O 9. O-O Nbd7 10. d4 e5 11. Qc2 exd4 12. Nxd4 Nc5 13. Bf3 Qd7 14. Nc6
+Rfe8 15. Nd5 Nxd5 16. Bxd5 Bf6 17. Bxf6 gxf6 18. a4 Qg4 19. Ra3 Rac8 20. e4
+Kh8 21. Bxf7 Bxc6 22. bxc6 Re7 23. Bd5 Rce8 24. Rg3 Qf4 25. Rf3 Qh6 26. Rh3
+Qf8 27. Re1 f5 28. Rf3 Qf6 29. g4 Qg7 30. Rxf5 Qxg4+ 31. Kh1 Rg7 32. e5
+Reg8 33. Qd1 Qxf5 34. Bxg8 Nd3 35. Rf1 Rxg8 36. f4 dxe5 37. Rf3 Nxf4 38. c5
+Qe4 0-1
+

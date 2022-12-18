@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Hofmann"]
+[Black "Schwammenhofer"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "ec5ef3d2"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O c6 7. b3 b6 8. Nc3
+Bb7 9. Ne5 Nbd7 10. Bb2 Rc8 11. Rc1 Nxe5 12. dxe5 Nd7 13. cxd5 cxd5 14. e4
+dxe4 15. Nxe4 Rxc1 16. Qxc1 Qa8 17. Re1 Nc5 18. Nf6+ Kh8 19. Bxb7 Qxb7 20.
+b4 Nd3 21. Qc2 Qg2+ 22. Kxg2 Nxe1+ 23. Kf1 Nxc2 0-1
+

@@ -1,0 +1,27 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Kolarov, Atanas S."]
+[Black "Spassky, Boris V."]
+[Result "1/2-1/2"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed (with ...d6)"]
+[HashCode "38ad07a4"]
+[Epoch "Bishop"]
+[WhiteID "2900246"]
+[BlackID "600024"]
+[WhiteCountry "FID"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. a4 b4 10. d4 bxc3 11. bxc3 Bg4 12. Be3 exd4 13. cxd4 d5 14. e5 Ne4 15.
+Nbd2 Nxd2 16. Qxd2 Bb4 17. Qc2 Bxf3 18. gxf3 Bxe1 19. Qxc6 Rb8 20. Bxd5 Bc3 21.
+Rd1 Bb2 22. Be4 Kh8 23. Qc2 Qd7 24. Bf5 Qd5 25. f4 Qf3 26. Be4 Qg4+ 27. Kh1
+Rfd8 28. Rg1 Qe6 29. f5 Qb3 30. Qxb3 Rxb3 31. Bc6 Rb6 32. d5 Bxe5 33. Bxb6 cxb6
+34. Re1 f6 35. Re4 Kg8 36. f4 Bd6 37. Bb7 a5 38. Kg2 Kf7 39. Bc6 g6 40. Kf3
+gxf5 41. Re1 Rc8 42. Rb1 Bb4 43. Rc1 Rd8 44. Rc2 Kf8 45. Bb7 Bc5 46. Bc6 Bb4
+47. h4 Rc8 48. Re2 Kf7 49. Re6 Rd8 50. h5 Bc5 51. Re2 Bd6 52. Bb5 Rc8 53. Re6
+Rd8 54. Bd3 Bc5 55. Rc6 Ke7 56. Rc7+ Rd7 57. Rxd7+ Kxd7 58. Bxf5+ Kd6 59. Bxh7
+Kxd5 60. h6 Bf8 61. Bg8+ Kd6 62. h7 Bg7 63. f5 Bh8 64. Ke4 Bg7 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Groningen jr"]
+[Site "Groningen jr"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Ribli, Zoltan"]
+[Black "Lehikoinen"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "d389e642"]
+[Epoch "Bishop"]
+[WhiteID "700010"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d3 c5 3. g3 Nc6 4. Bg2 d5 5. Nd2 Nf6 6. Ngf3 Qc7 7. O-O Be7 8. Re1
+O-O 9. e5 Nd7 10. Qe2 b5 11. h4 a5 12. Nf1 c4 13. d4 b4 14. c3 Ba6 15. N1h2
+Rfb8 16. Ng5 Nf8 17. Qh5 Nd8 18. Ng4 a4 19. Re3 Ra7 20. Rf3 bxc3 21. bxc3 Rab7
+22. Kh2 Rb1 23. Rxb1 Rxb1 24. Rxf7 Rxc1 25. Nf6+ gxf6 26. exf6 1-0

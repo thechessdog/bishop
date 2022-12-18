@@ -1,0 +1,16 @@
+[Event "Candidats Tournament"]
+[Site "Zurich ct"]
+[Date "1953.01.01"]
+[Round "14"]
+[White "Petrosian, Tigran"]
+[Black "Geller, Efim P"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[HashCode "bb799ee4"]
+[Epoch "Bishop"]
+[WhiteCountry "GEO"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 c5 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4
+O-O 9. Rd1 Nc6 10. Qf4 Qb8 11. b3 Rd8 12. Qxb8 Raxb8 13. Bb2 a6 14. Nd2 1/2-1/2

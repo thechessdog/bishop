@@ -1,0 +1,17 @@
+[Event "Bognor Regis"]
+[Site "Bognor Regis"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Hecht, Hans-Joachim"]
+[Black "Karaklajic, Nikola"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "9af31f09"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Bf4 Nbd7 9. Bc4 Nb6 10. Nge2 Bf5 11. Rd1 Rc8 12. Bd3 Bxd3 13. Rxd3 Nfxd5 14.
+Bg3 Nxc3 15. Rxc3 Qd5 16. O-O Qxb3 17. Rxb3 Rfd8 18. Ra3 Rc2 19. Re1 e5 20.
+Rxa7 exd4 21. Rxb7 d3 22. Rxb6 dxe2 23. Rd6 Rxd6 24. Bxd6 Rxb2 25. Ba3 Bc3 0-1

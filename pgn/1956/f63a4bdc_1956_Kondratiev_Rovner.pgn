@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Kondratiev"]
+[Black "Rovner"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "f63a4bdc"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 e5 11. Nf5 Bxf5 12. exf5 exf4 13. Kb1 Ne5 14.
+Be2 Rc8 15. Rhf1 f3 16. gxf3 Nc4 17. Qd4 Qc7 18. Rg1 Ne5 19. f4 Ned7 20.
+Bb5 Kh7 21. Bxd7 Qxd7 22. Nd5 Rg8 23. Bxf6 gxf6 24. Qxf6 1-0
+

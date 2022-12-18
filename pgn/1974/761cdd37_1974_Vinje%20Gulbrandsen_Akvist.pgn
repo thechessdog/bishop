@@ -1,0 +1,23 @@
+[Event "Oslo CI"]
+[Site "Oslo"]
+[Date "1974.??.??"]
+[Round "2"]
+[White "Vinje Gulbrandsen, Arne"]
+[Black "Akvist, Hakan"]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "761cdd37"]
+[Epoch "Bishop"]
+[BlackID "1700901"]
+[BlackCountry "SWE"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. Ne2
+dxc4 9. Bxc4 Na5 10. Bd3 c4 11. Bc2 b5 12. e4 Be7 13. Ng3 Bb7 14. Bf4 Qb6 15.
+Bg5 Qc7 16. Qe2 Rfd8 17. Rad1 Ne8 18. Qe3 f6 19. Bf4 Qb6 20. h4 Rac8 21. Ne2 b4
+22. Nd2 Ba6 23. Rfe1 Nc6 24. Nf3 e5 25. Bg3 exd4 26. Nexd4 Bc5 27. Nxc6 Bxe3
+28. Ne7+ Kf7 29. Nxc8 Rxd1 30. Nxb6 Rxe1+ 31. Nxe1 Bxb6 32. b3 c3 33. Nd3 Bxd3
+34. Bxd3 Bc7 35. f4 h6 36. h5 Nd6 37. Kf2 Nb7 38. Bc2 Nc5 39. Ke2 Ne6 40. Bf2
+Nxf4+ 41. Kf3 a5 0-1

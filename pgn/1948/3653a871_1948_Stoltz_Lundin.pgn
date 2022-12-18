@@ -1,0 +1,19 @@
+[Event "FIDE (19) 1948-1951"]
+[Site "Saltsjobaden izt"]
+[Date "1948.07.01"]
+[Round "1"]
+[White "Stoltz, Gösta"]
+[Black "Lundin, Erik"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "3653a871"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e3 a6 6. a4 c5 7. Bxc4 Nc6 8. O-O
+Be7 9. d5 exd5 10. Nxd5 Nxd5 11. Bxd5 Nb4 12. Bc4 Qxd1 13. Rxd1 O-O 14. Bd2 Bg4
+15. Bc3 Bxf3 16. gxf3 Rad8 17. Kf1 Rxd1+ 18. Rxd1 Rd8 19. Rxd8+ Bxd8 20. Ke2
+Kf8 1/2-1/2

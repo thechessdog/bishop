@@ -1,0 +1,24 @@
+[Event "Malaga"]
+[Site "Malaga"]
+[Date "1970.??.??"]
+[Round "13"]
+[White "Lehmann, Heinz Dr"]
+[Black "Cordovil, Joao"]
+[Result "0-1"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "bb31f002"]
+[Epoch "Bishop"]
+[BlackID "1900102"]
+[BlackCountry "POR"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 Ne4 6. Qc2 f5 7. Bd3 d5 8. O-O
+c6 9. Ne5 Nd7 10. cxd5 Nxe5 11. dxe5 cxd5 12. Nb5 Bd7 13. Nd4 Rc8 14. Qd1 Qb6
+15. Bxe4 fxe4 16. Bd2 Bc5 17. Bc3 Bb5 18. Nxb5 Qxb5 19. a4 Qd7 20. Qd2 a6 21.
+Rfc1 Rf5 22. Bd4 Bf8 23. Rxc8 Qxc8 24. Rc1 Qd7 25. b3 g6 26. Qa5 Rf7 27. Qc3
+Bg7 28. h3 h5 29. Rc2 Rf5 30. Qa1 Kh7 31. Qc1 Rf7 32. Rc8 Qe7 33. Qc2 Qb4 34.
+Qc3 Qe7 35. b4 Qh4 36. Qc2 Qe7 37. Rc5 b6 38. Rc6 Qxb4 39. Qd1 b5 40. Rxa6 bxa4
+41. Rxa4 Qb8 42. Qa1 Rb7 43. Ra8 Rb1+ 44. Kh2 Qb5 45. Qa6 Qb4 46. Qxe6 Qe1 47.
+Ra6 Qg1+ 48. Kg3 h4+ 49. Kxh4 Qxg2 50. Ra2 Kh6 0-1

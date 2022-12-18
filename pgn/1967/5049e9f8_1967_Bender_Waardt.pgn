@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Bender"]
+[Black "Waardt"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "5049e9f8"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qh3 cxd4 10. Nf3 Qc7 11. Rb1 dxc3 12. g4 Ne7 13. gxh5 Nbc6 14.
+Kd1 Bd7 15. Qg3 O-O-O 16. Qxg7 Rdg8 17. Qf6 Rxh5 18. Qxf7 Rhh8 19. Qf4 Rf8
+20. Qe3 Rh3 21. Be2 d4 22. Qe4 d3 0-1
+

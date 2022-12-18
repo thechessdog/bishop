@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Rubinstein"]
+[Black "Estrada Degrandi, Walter"]
+[Result "1-0"]
+[ECO "C96"]
+[Opening "Ruy Lopez"]
+[Variation "closed (10...c5)"]
+[HashCode "93b06011"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 O-O 8. h3
+b5 9. Bb3 Na5 10. Bc2 c5 11. d4 Bb7 12. Nbd2 Qc7 13. Nf1 Rac8 14. d5 Rfe8 15.
+g4 g6 16. Ng3 Kg7 17. g5 Ng8 18. h4 Qd7 19. h5 Qg4 20. Kg2 f6 21. Rh1 fxg5 22.
+hxg6 h6 23. Nxg5 Qxd1 24. Ne6+ Kf6 25. Bxd1 Bf8 26. g7 Rxe6 27. gxf8=Q+ Rxf8
+28. dxe6 1-0

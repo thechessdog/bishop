@@ -1,0 +1,26 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kristiansen, Jens"]
+[Black "Jakobsen, Ole"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "9199b8fb"]
+[Epoch "Bishop"]
+[WhiteID "1400061"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 Qb6 7. Qd2 Bxf3 8. gxf3
+Nd7 9. b4 Ngf6 10. Na4 Qc7 11. c4 O-O 12. Rc1 Nh5 13. Bd3 a5 14. b5 c5 15. d5
+e6 16. Nc3 Nb6 17. Ne2 exd5 18. cxd5 Qe7 19. O-O Rfe8 20. Bb1 Nf6 21. Kf2 Nfxd5
+22. exd5 Nxd5 23. Be4 Nxe3 24. Qxe3 d5 25. Qxc5 Qh4+ 26. Kg2 dxe4 27. fxe4 Rxe4
+28. Ng3 Ra4 29. Rc2 Rxf4 30. Rxf4 Qxf4 31. Qd5 Rb8 32. Rf2 Qc7 33. Ne4 Rd8 34.
+b6 Qxb6 35. Qxf7+ Kh8 36. Qe7 Rc8 37. Nd6 Qc6+ 38. Kg3 Qc7 39. Rf7 Qxe7 40.
+Rxe7 Rc3+ 41. Kg4 Bf8 42. Nf7+ Kg7 43. Rxb7 Kf6 44. h4 h5+ 45. Kf4 Rh3 46. Nh8
+Bh6+ 47. Ke4 Rxh4+ 48. Kd5 Be3 49. Rf7+ Kg5 50. Rg7 Rd4+ 51. Ke5 Ra4 52. Rxg6+
+Kh4 53. Rg8 Bd4+ 54. Kf5 Bxh8 55. Rxh8 Rxa2 56. Rc8 a4 57. Rc3 a3 58. Rc4+ Kg3
+59. Rc3+ Kg2 60. Kg5 Ra1 61. Rc2+ Kf3 62. Rc3+ Ke4 0-1

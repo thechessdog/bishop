@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Buljovcic, Ivan"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "cd9be43c"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Qh5 Nc6 13. Nxc6 Qb6+ 14. Be3 Qxc6
+15. Rae1 Bc5 16. Rf3 Bb7 17. Kh1 Bxe3 18. Rexe3 Nc5 19. Nd5 exd5 20. Rf6 Qc8
+21. c3 Ne4 22. Bc2 g6 23. Qh4 Qe8 24. Bxe4 dxe4 25. Rh3 h5 26. Qf4 Rd8 27. Kg1
+Qd7 0-1

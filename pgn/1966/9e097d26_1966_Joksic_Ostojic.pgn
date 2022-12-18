@@ -1,0 +1,18 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Joksic, Sinisa"]
+[Black "Ostojic, Predrag"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "9e097d26"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8.
+Kh1 d6 9. f4 Bd7 10. Nb3 b5 11. Bf3 Be7 12. e5 dxe5 13. fxe5 Qxe5 14. Bf4 Qf5
+15. Bd6 Bxd6 16. Qxd6 Rc8 17. Rae1 b4 18. Nd5 Nxd5 19. Bxd5 Qg5 20. Rxf7 1-0

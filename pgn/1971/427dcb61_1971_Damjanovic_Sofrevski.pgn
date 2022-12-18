@@ -1,0 +1,20 @@
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Damjanovic, Mato"]
+[Black "Sofrevski, Jovan"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "427dcb61"]
+[Epoch "Bishop"]
+[WhiteCountry "HRV"]
+[BlackCountry "MKD"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bg4 5. h3 Bh5 6. Re1 Qb6 7. Nc3 e6 8. a4
+a6 9. a5 Qc7 10. Bxc6+ Qxc6 11. Nd5 Ne7 12. Nb6 Rd8 13. d3 Nc8 14. Nxc8 Rxc8
+15. b3 Be7 16. Bb2 O-O 17. Qe2 Qc7 18. Qe3 Qd8 19. Nd2 e5 20. f4 exf4 21. Qxf4
+Bg5 22. Qg3 Bg6 23. Nf3 Be7 24. Rf1 d5 25. exd5 Qxd5 26. Rae1 Bd8 27. Bc3 Bc7
+28. Qg4 f6 29. Re7 Bd6 30. Rd7 Rc7 31. Rxc7 Bxc7 32. Nh4 Bh5 33. Nf5 1-0

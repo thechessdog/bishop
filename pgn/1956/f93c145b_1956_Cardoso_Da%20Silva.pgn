@@ -1,0 +1,16 @@
+[Event "Lisbon"]
+[Site "Lisbon"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Cardoso, Rodolfo Tan"]
+[Black "Da Silva, R."]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "f93c145b"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd3 Bxd3 6. Qxd3 c5 7. c3 cxd4 8. cxd4
+Bb4+ 9. Nc3 Bxc3+ 10. bxc3 Ne7 11. Ba3 O-O 12. Ng5 g6 13. Qh3 h5 14. g4 Kg7 15.
+gxh5 Rh8 16. h6+ Rxh6 17. Qxh6+ Kxh6 18. Nxf7+ 1-0

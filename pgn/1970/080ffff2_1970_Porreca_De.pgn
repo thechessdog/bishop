@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Porreca"]
+[Black "De Sortis"]
+[Result "1-0"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "080ffff2"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Nc3 b6 8.
+cxd5 exd5 9. Ne5 Bb7 10. Qa4 Nb8 11. Bg5 c6 12. Rad1 Ne4 13. Bc1 Nxc3 14.
+bxc3 Bd6 15. c4 Qe7 16. cxd5 cxd5 17. Qb3 Bxe5 18. dxe5 Qxe5 19. Bb2 Qe6
+20. Rxd5 f6 21. Bxf6 1-0
+

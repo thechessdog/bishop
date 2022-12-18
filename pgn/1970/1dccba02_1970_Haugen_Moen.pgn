@@ -1,0 +1,17 @@
+[Event "Stavanger"]
+[Site "Stavanger"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Haugen, Arild"]
+[Black "Moen, Frits"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Modern defence"]
+[HashCode "1dccba02"]
+[Epoch "Bishop"]
+[WhiteID "1505076"]
+[WhiteCountry "NOR"]
+
+1. d4 g6 2. c4 d5 3. Nc3 dxc4 4. e4 Be6 5. d5 Bd7 6. Qd4 f6 7. Bxc4 e5 8. dxe6
+c5 9. exd7+ Nxd7 10. Qd5 Qe7 11. Qxb7 Rb8 12. Qxa7 Bg7 13. f4 f5 14. e5 g5 15.
+Nd5 Qd8 16. e6 Ndf6 17. Qf7# 1-0

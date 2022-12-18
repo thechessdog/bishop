@@ -1,0 +1,24 @@
+[Event "CSR-ch sf"]
+[Site "Bratislava"]
+[Date "1956.??.??"]
+[Round "9"]
+[White "Weiner, Milan"]
+[Black "Zobel, Leo"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "b1ae9867"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c4 e5 7. Nc3 Nf6
+8. d3 Be7 9. Bg5 h6 10. Bxf6 Bxf6 11. Nd5 Be7 12. Qa4 Rc8 13. a3 O-O 14. b4
+b6 15. bxc5 bxc5 16. Rab1 Bd8 17. Qa6 f5 18. Rb7 Qe6 19. Re1 fxe4 20. Rxe4
+Rxf3 21. gxf3 Nd4 22. Rxd4 exd4 23. Qxa7 Qg6+ 24. Kh1 Bf6 25. Rb8 Rxb8 26.
+Qxb8+ Kf7 27. Qb7+ Kg8 28. Nf4 Qf5 29. Qd5+ Qxd5 30. Nxd5 Kf7 31. Kg2 Ke6
+32. Kg3 Bd8 33. Kf4 Ba5 34. Ke4 Bd2 35. a4 g6 36. f4 Ba5 37. h4 h5 38. f5+
+gxf5+ 39. Kf3 Bd8 40. Nf4+ Ke5 41. Nxh5 d5 42. Nf4 dxc4 43. dxc4 d3 44. Ke3
+d2 45. Nd3+ Kd6 46. Kxd2 Bxh4 47. Ke3 Bg5+ 48. Kf3 Kc6 49. Ne5+ Kb6 50. Nf7
+Bc1 51. Nd6 Ka5 52. Nxf5 Kxa4 53. Ke4 Kb4 54. Nd6 Bg5 55. f4 Be7 56. Nc8
+Bf8 57. Kd5 Kc3 58. f5 1-0
+

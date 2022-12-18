@@ -1,0 +1,21 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Olafsson, Fridrik"]
+[Black "Poulsen, Christian"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "2ef81430"]
+[Epoch "Bishop"]
+[WhiteID "2300052"]
+[WhiteCountry "ISL"]
+[BlackCountry "DNK"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Qc2 Nf6 5. g3 Bd6 6. Bg2 O-O 7. O-O Nbd7 8. Nbd2
+Re8 9. b3 e5 10. cxd5 cxd5 11. dxe5 Nxe5 12. Bb2 Nc6 13. Rfe1 Bg4 14. e4 Rc8
+15. Qb1 Bb4 16. exd5 Qxd5 17. Bxf6 gxf6 18. Ne4 Kg7 19. Nxf6 Kxf6 20. Qb2+ Nd4
+21. Nxd4 Qc5 22. Rxe8 Rxe8 23. Ne2+ Re5 24. a3 Bxa3 25. Rxa3 Bxe2 26. b4 Qb6
+27. Re3 1-0

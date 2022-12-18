@@ -1,0 +1,16 @@
+[Event "Dnepropetrovsk"]
+[Site "Dnepropetrovsk"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Dementiev, Oleg"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "41c9cd17"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Nbd7 7. f4 Qb6 8. g4
+h6 9. g5 hxg5 10. fxg5 Ng8 11. Nd5 Qa5+ 12. b4 Qa4 13. Nc7+ Kd8 14. Nde6+ fxe6
+15. Nxe6+ Ke8 16. Bh5+ Rxh5 17. Qxh5+ g6 18. Qxg6# 1-0

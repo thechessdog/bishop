@@ -1,0 +1,18 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Davius"]
+[Black "Mobius"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "789acf8d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 a6 6. Bc4 e6 7. Bb3 b5 8.
+Be3 Be7 9. f3 O-O 10. Qd2 Bb7 11. g4 Nfd7 12. g5 Nc5 13. h4 Nxb3 14. axb3
+Nc6 15. Nce2 Re8 16. h5 Bf8 17. g6 fxg6 18. hxg6 h6 19. Nxc6 Bxc6 20. Nd4
+Bd7 21. O-O-O a5 22. Rdg1 a4 23. Bxh6 axb3 24. Nxb3 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Kotek, J."]
+[Black "Kampars, N."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Morphy variation"]
+[HashCode "d843ed02"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Nf6 5. Nc3 Bb4 6. Nge2 Bxc3 7. Nxc3
+Bg4 8. Ne2 Nxd5 9. exd5 Qh4+ 10. Kf1 f3 11. gxf3 Qh3+ 12. Ke1 Bxf3 13. Rg1
+Qxh2 14. Rxg7 Qh1+ 15. Rg1 Qxg1+ 16. Nxg1 Bxd1 17. Kxd1 Nd7 18. c4 h5 19.
+b3 h4 0-1
+

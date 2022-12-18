@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1973.07.01"]
+[Round "10"]
+[White "Bellin, Robert"]
+[Black "Jakobsen, Ole"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "0efb874f"]
+[Epoch "Bishop"]
+[WhiteID "400343"]
+[WhiteCountry "ENG"]
+[BlackCountry "DNK"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 Nf6 6. Be2 O-O 7. Nf3 e6 8. Qd2
+b6 9. O-O-O Bb7 10. h3 Ne7 11. Bd3 c5 12. dxc5 bxc5 13. e5 Nfd5 14. Ne4 Nxe3
+15. Qxe3 Nf5 16. Qe1 c4 17. Nf6+ Bxf6 18. Bxf5 Bxf3 19. Rxd6 Qe7 0-1

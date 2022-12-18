@@ -1,0 +1,18 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Puc, Stojan"]
+[Black "Matulovic, Milan"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "39b45ee6"]
+[Epoch "Bishop"]
+[WhiteCountry "SVN"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 c5 7. d5 e6 8. O-O
+exd5 9. exd5 Re8 10. Bg5 Nbd7 11. Ne4 Qc7 12. Nxf6+ Nxf6 13. Nc3 h6 14. Bf4 a6
+15. h3 Nd7 16. Qa4 Rb8 17. Rae1 Rxe1 18. Rxe1 Ne5 1/2-1/2

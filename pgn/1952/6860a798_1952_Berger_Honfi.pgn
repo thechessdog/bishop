@@ -1,0 +1,20 @@
+[Event "Sztalinvaros"]
+[Site "Sztalinvaros"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Berger"]
+[Black "Honfi"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Schlechter defence"]
+[HashCode "6860a798"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d5 6. Bxd5 Nf6 7. Bxf7+
+Kxf7 8. Qxd8 Bb4+ 9. Qd2 Bxd2+ 10. Nxd2 c5 11. e5 Nd5 12. Ne4 Nf4 13. O-O-O
+Be6 14. g3 Nd5 15. Ng5+ Ke7 16. Nxe6 Kxe6 17. f4 Ne3 18. Rd6+ Ke7 19. Nf3
+Nc4 20. Rhd1 Nxd6 21. exd6+ Kf8 22. d7 Nc6 23. Ng5 Nd4 24. Ba3 b6 25. Rxd4
+Ke7 26. Nf3 Rad8 27. Ne5 Ke6 28. Rd1 g5 29. Bb2 gxf4 30. Nc6 fxg3 31. Bxh8
+Rxd7 32. hxg3 1-0
+

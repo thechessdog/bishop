@@ -1,0 +1,16 @@
+[Event "Germany tt"]
+[Site "Germany tt"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Paulisch"]
+[Black "Boeschke"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "75d30aa3"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. f3 Bf5 4. Nc3 exf3 5. Qxf3 Bd7 6. Bf4 e6 7. Qxb7 Bc6
+8. Bb5 Qd7 9. Bxc6 Qxc6 10. Qc8+ Ke7 11. d5 Na6 12. d6+ Kf6 13. d7 Rxc8 14.
+dxc8=Q Qxg2 15. Qd8+ 1-0
+

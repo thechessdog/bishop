@@ -1,0 +1,16 @@
+[Event "Atlantic City"]
+[Site "Atlantic City"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Burger, Karl"]
+[Black "McCormick"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "a55ae459"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 e5 4. Nxe5 Nxe5 5. dxe5 d4 6. Nd2 Ne7 7. f3 Nc6 8. f4
+Bg4 9. g3 Bh5 10. Qa4 f5 11. Bg2 Qd7 12. Qb5 O-O-O 13. a3 g5 14. Bxc6 bxc6 15.
+Qa6+ Kb8 16. Nb3 d3 17. Be3 c5 18. Na5 d2+ 19. Kf2 1-0

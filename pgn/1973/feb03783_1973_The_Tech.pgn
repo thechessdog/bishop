@@ -1,0 +1,19 @@
+[Event "ACM Atlanta"]
+[Site "ACM Atlanta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "The Fox"]
+[Black "Tech II"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bogolyubov variation"]
+[HashCode "feb03783"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 Nc6 5. Nf3 Nxe4 6. O-O Bc5+ 7. d4
+Nxc3 8. bxc3 Bd6 9. Qe2+ Qe7 10. Bd2 O-O 11. Qxe7 Nxe7 12. Rfe1 Nc6 13. Bd3
+f6 14. Rab1 Rd8 15. Rb5 g5 16. Rf5 Be7 17. Rb5 d5 18. Rbb1 Bd6 19. h3 Kg7
+20. Re2 Rb8 21. Kf2 g4 22. Ng1 Bd7 23. hxg4 Bxg4 24. Nf3 Rd7 25. Rh1 f5 26.
+Re6 1-0
+

@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Jacobsen, Gotfred"]
+[Black "Moller, Per"]
+[Result "0-1"]
+[ECO "E82"]
+[Opening "King's Indian"]
+[Variation "Saemisch, double fianchetto variation"]
+[HashCode "da3521d1"]
+[Epoch "Bishop"]
+[BlackID "1421840"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 b6 7. Qd2 c5 8. d5 Nbd7
+9. g4 Ne5 10. h4 e6 11. h5 exd5 12. cxd5 b5 13. hxg6 fxg6 14. Qh2 Bxg4 15. Be2
+Bh5 16. Nxb5 Rb8 17. Bxc5 Rxb5 18. Bxb5 Qa5+ 19. b4 Qxb5 20. Bxd6 Nd3+ 21. Kf1
+Nf4+ 22. Ne2 Ng4 23. fxg4 Nxe2+ 24. Bxf8 Nf4+ 25. Ke1 Bc3+ 26. Kd1 Qd3+ 27. Kc1
+Ne2+ 0-1

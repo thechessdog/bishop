@@ -1,0 +1,18 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1962.01.01"]
+[Round "15"]
+[White "Lopez Bahamonde"]
+[Black "Garcia, Raimundo"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "60b68de4"]
+[Epoch "Bishop"]
+[BlackID "100420"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 c5 5. c3 dxe4 6. Nxe4 cxd4 7. Nxf6+ Qxf6 8.
+Nf3 Qd8 9. Ne5 Nd7 10. Qa4 Bd6 11. Nxd7 Bxd7 12. Qxd4 Qc7 13. Qh4 Be7 14. Bg5
+Qe5+ 15. Qe4 Qxe4+ 16. Bxe4 Bxg5 17. Bxb7 Rb8 0-1

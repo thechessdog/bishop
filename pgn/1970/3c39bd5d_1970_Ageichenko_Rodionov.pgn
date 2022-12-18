@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ageichenko, Genadi A"]
+[Black "Rodionov"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "3c39bd5d"]
+[Epoch "Bishop"]
+[WhiteID "4105222"]
+[BlackID "13705440"]
+[WhiteCountry "RUS"]
+[BlackCountry "KAZ"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. g3 g6 5. d4 cxd4 6. Nxd4 a6 7. Bg2 Bg7 8. Be3
+Nge7 9. O-O O-O 10. Nxc6 bxc6 11. Qd6 f5 12. Bg5 Rf7 13. Rad1 Qf8 14. Na4 Bf6
+15. Bxf6 Rxf6 16. Qc7 Rf7 17. Nb6 fxe4 18. Nxa8 Nd5 19. Rxd5 1-0

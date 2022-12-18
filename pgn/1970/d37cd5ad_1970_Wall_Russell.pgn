@@ -1,0 +1,16 @@
+[Event "North Augusta,SC"]
+[Site "North Augusta,SC"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Russell, Charles"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "d37cd5ad"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Ne7 5. dxe5 Nxe5 6. Nxe5 dxe5 7. Bxf7+ Kxf7
+8. Qxd8 1-0

@@ -1,0 +1,25 @@
+[Event "Freiberg ch19-DDR"]
+[Site "Freiberg ch19-DDR"]
+[Date "1970.01.01"]
+[Round "12"]
+[White "Schmitz, Bernd"]
+[Black "Kuettner, Uwe"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "dc3ab751"]
+[Epoch "Bishop"]
+[BlackID "24670839"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e6 4. Nxd4 a6 5. Bd3 Nc6 6. Be3 Nf6 7. O-O d6 8. Nd2
+Qc7 9. f4 Nxd4 10. Bxd4 e5 11. Bc3 b5 12. Kh1 Be7 13. a4 Rb8 14. axb5 axb5 15.
+Ba5 Qc5 16. Nb3 Qc6 17. Bb4 Qc7 18. Ra5 O-O 19. Qe2 Bg4 20. Qe1 Be6 21. fxe5
+dxe5 22. Bxe7 Qxe7 23. Bxb5 Rfc8 24. Rf2 Ng4 25. Re2 Qg5 26. Ba6 Rc7 27. Ra1
+Qf4 28. Qg1 Bxb3 29. cxb3 Ra8 30. Rf1 Qh6 31. Bc4 Rca7 32. g3 Rd7 33. Bd5 Rb8
+34. Qc5 Nf6 35. Qc6 Rbd8 36. Qc4 Qh5 37. Rd2 h6 38. b4 Kh8 39. b5 Qg5 40. Rfd1
+Qg4 41. Qe2 Qxe2 42. Rxe2 Nxd5 43. exd5 Rxd5 44. Rxd5 Rxd5 45. b6 Rb5 46. Kg2
+f6 47. Kf3 Kg8 48. Ke4 Kf7 49. Kd3 Ke6 50. Kc4 Rxb6 51. b4 f5 52. Kc5 Rb8 53.
+b5 g5 54. Ra2 f4 55. gxf4 gxf4 56. Ra6+ Kf5 57. Rxh6 f3 58. Rh7 Rf8 59. Rd7 f2
+60. Rd1 e4 0-1

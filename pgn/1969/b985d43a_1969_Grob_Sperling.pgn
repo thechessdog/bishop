@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Grob, Henri"]
+[Black "Sperling, H."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "spike attack"]
+[HashCode "b985d43a"]
+[Epoch "Bishop"]
+
+1. g4 d5 2. Bg2 c6 3. g5 e5 4. h4 Bc5 5. d3 d4 6. Nf3 Qd6 7. Nbd2 Be6 8. Ne4
+Qd5 9. Nfd2 Ke7 10. Kf1 Bb6 11. Nc4 Nd7 12. Ned6 0-1

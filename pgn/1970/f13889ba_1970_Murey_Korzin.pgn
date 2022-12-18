@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Murey, Jacob"]
+[Black "Korzin, Vitaly"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "f13889ba"]
+[Epoch "Bishop"]
+[WhiteID "2803585"]
+[WhiteCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. Qe2
+Qc7 9. O-O-O Nc6 10. Bxf6 gxf6 11. Nd5 exd5 12. Nxc6 Bg4 13. Qxg4 Qxc6 14. exd5
+Qd7 15. Re1+ Kd8 16. Qh5 Rg8 17. g3 1-0

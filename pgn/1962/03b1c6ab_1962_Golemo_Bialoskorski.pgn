@@ -1,0 +1,19 @@
+[Event "corr ch4-POL"]
+[Site "corr ch4-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Golemo, E."]
+[Black "Bialoskorski, E."]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "03b1c6ab"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 c6 6. Nf3 Nbd7 7. Qc2 O-O 8.
+Bd3 a6 9. O-O dxc4 10. Bxc4 b5 11. Bd3 h6 12. Bxf6 Nxf6 13. Ne4 Bb7 14. Nc5
+Bxc5 15. Qxc5 Nd7 16. Qc2 Qb6 17. Rfc1 Rac8 18. b4 a5 19. a3 axb4 20. axb4
+Ra8 21. Nd2 Ra4 22. Rxa4 bxa4 23. Qxa4 Ra8 24. Qb3 Nf6 25. Nc4 Qc7 26. h3
+Nd5 27. Ne5 Qd6 28. Be4 Rb8 29. Rc5 Ba8 30. Bxd5 exd5 31. Qa4 1-0
+

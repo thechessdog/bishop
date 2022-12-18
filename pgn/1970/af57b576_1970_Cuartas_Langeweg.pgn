@@ -1,0 +1,23 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "17"]
+[White "Cuartas, Carlos Enrique"]
+[Black "Langeweg, Kick"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "af57b576"]
+[Epoch "Bishop"]
+[WhiteID "4428161"]
+[WhiteCountry "COL"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. c3 Nf6 3. Qe2 Nc6 4. g3 d6 5. Bg2 g6 6. f4 Bg7 7. Nf3 O-O 8. O-O
+Bd7 9. d3 Rb8 10. Nh4 b5 11. Nd2 b4 12. Nc4 bxc3 13. bxc3 Na5 14. Ne3 Ne8 15.
+Bd2 Nc7 16. Rfb1 Nb5 17. Qe1 Nc6 18. Rb3 Na5 19. Rxb5 Rxb5 20. c4 Rb4 21. Bxb4
+cxb4 22. Rb1 Nc6 23. Nc2 a5 24. Qf2 Qc7 25. d4 e5 26. fxe5 dxe5 27. d5 Nd4 28.
+Nxd4 exd4 29. Qc2 Qc5 30. Kh1 f5 31. exf5 g5 32. Nf3 Bxf5 33. Qb3 Bxb1 34. Qxb1
+Qxc4 35. Nxg5 d3 36. Qe1 d2 0-1

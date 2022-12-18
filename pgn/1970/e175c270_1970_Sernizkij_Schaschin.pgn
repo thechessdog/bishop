@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Sernizkij"]
+[Black "Schaschin"]
+[Result "0-1"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "e175c270"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. Nd2 Nd7 10. b4 f5 11. c5 Nf6 12. f3 f4 13. Nc4 g5 14. Bd2 Ng6 15.
+Rc1 Rf7 16. Be1 Bf8 17. cxd6 cxd6 18. Bf2 h5 19. Nb5 b6 20. a4 g4 21. a5 g3
+22. hxg3 fxg3 23. Bxg3 h4 24. Bf2 bxa5 25. bxa5 Nh5 26. Nbxd6 Bxd6 27. Nxd6
+Rg7 28. Rxc8 Rxc8 29. Nxc8 Ngf4 30. d6 Rxg2+ 31. Kh1 Ng3+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Hendriks, Willy"]
+[Black "Mondria, H."]
+[Result "0-1"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Reti-Tartakower variation"]
+[HashCode "06df960b"]
+[Epoch "Bishop"]
+[WhiteID "1000713"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. O-O Bg7 8.
+Be3 O-O 9. Nb3 Be6 10. f4 Qc8 11. h3 Rd8 12. Bd3 d5 13. e5 d4 14. exf6 Bxf6 15.
+Ne4 dxe3 16. Nxf6+ exf6 17. Re1 Nb4 18. Rxe3 Bxb3 19. axb3 Qc5 20. Qf3 Rxd3 21.
+cxd3 Nc2 0-1

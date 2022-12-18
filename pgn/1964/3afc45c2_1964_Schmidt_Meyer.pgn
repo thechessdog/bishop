@@ -1,0 +1,16 @@
+[Event "corr Eberhardt-Wilhelm"]
+[Site "corr Eberhardt-Wilhelm"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Schmidt, O."]
+[Black "Meyer, Holger"]
+[Result "0-1"]
+[ECO "B55"]
+[Opening "Sicilian"]
+[Variation "Prins variation, Venice attack"]
+[HashCode "3afc45c2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Bb5+ Nbd7 7. Nf5 d5 8.
+exd5 a6 9. Bxd7+ Qxd7 10. Ne3 b5 11. c4 Bc5 12. Nc3 O-O 13. b3 Bd4 14. Bd2 b4
+15. Na4 e4 16. Rc1 Qa7 17. Qe2 exf3 18. gxf3 Re8 19. Kf2 Qc7 0-1

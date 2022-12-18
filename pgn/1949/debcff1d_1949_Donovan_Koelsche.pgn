@@ -1,0 +1,19 @@
+[Event "US op"]
+[Site "Omaha"]
+[Date "1949.??.??"]
+[Round "4"]
+[White "Donovan, Jeremiah"]
+[Black "Koelsche, G."]
+[Result "1-0"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "debcff1d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 Nbd7 7. Bd2
+Bxc3 8. Bxc3 Ne4 9. Bb4 c5 10. dxc5 Nexc5 11. Rd1 Qe4 12. Qc3 Na4 13. Qd2
+Nab6 14. Qd6 Nd5 15. Rd4 Qb1+ 16. Rd1 Qe4 17. Ba3 N7b6 18. e3 Bd7 19. Bd3
+Qa4 20. O-O Rd8 21. e4 Bc6 22. Qg3 Ne7 23. Qxg7 Rg8 24. Qf6 Ned5 25. exd5
+Nxd5 26. Qh4 Rxg2+ 27. Kxg2 Qxh4 28. Nxh4 Nf4+ 29. Kg3 Nxd3 1-0
+

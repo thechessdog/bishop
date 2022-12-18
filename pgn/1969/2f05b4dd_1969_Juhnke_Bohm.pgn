@@ -1,0 +1,21 @@
+[Event "EU-ch U20 prel"]
+[Site "Groningen"]
+[Date "1969.??.??"]
+[Round "5"]
+[White "Juhnke, Juergen"]
+[Black "Bohm, Hans"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "2f05b4dd"]
+[Epoch "Bishop"]
+[WhiteID "4623029"]
+[BlackID "1000306"]
+[WhiteCountry "GER"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Be7 5. dxe5 Nxe5 6. Nxe5 dxe5 7. Qh5 g6 8.
+Qxe5 Nf6 9. Bh6 Rg8 10. Nc3 Ng4 11. Qf4 Nxh6 12. Qxh6 Bg5 13. Qxh7 Qd2+ 14. Kf1
+Rf8 15. Rd1 Qxc2 16. Qg7 c6 17. h4 Be7 18. Bb3 Qxb2 19. Nd5 Ba3 20. Nc7+ Ke7
+21. e5 1-0

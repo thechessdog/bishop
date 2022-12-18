@@ -1,0 +1,17 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Bennsdorf"]
+[Black "Krepp"]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "Ekstrom variation"]
+[HashCode "b4184690"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. exf6 gxh4 10. Ne5 Qxf6 11. Be2 Nd7 12. O-O Nxe5 13. dxe5 Qxe5 14. Bf3
+Bb7 15. Re1 Qf5 16. Qd4 f6 17. Rad1 e5 18. Bh5+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "British CCC"]
+[Site "British CCC"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Fazekas, Stefan"]
+[Black "Cafferty, Bernard"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "81f58cff"]
+[Epoch "Bishop"]
+[BlackID "401005"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d6 5. exd6 cxd6 6. d4 g6 7. Nf3 Bg7 8.
+Bd3 Qc7 9. c4 Be6 10. Qe2 Nc6 11. c3 Na5 12. Nd2 Rc8 13. d5 Bxd5 14. cxd5 Qxc3
+15. Bb5+ Kf8 16. Rb1 Qxc1+ 17. Rxc1 Rxc1+ 18. Qd1 Rxd1+ 19. Kxd1 a6 20. Bd3 e6
+21. Nc4 Nxc4 22. Bxc4 Ke7 23. Re1 e5 24. Ke2 Rc8 25. Rb1 Rxc4 0-1

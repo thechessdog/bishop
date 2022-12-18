@@ -1,0 +1,20 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Li Chen"]
+[Black "Jimenez Zerquera, Eleazar"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "79e77cfc"]
+[Epoch "Bishop"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+h4 exd5 9. e3 O-O 10. Qf3 c6 11. Bd3 h6 12. Nh3 Qxh4 13. g3 Qf6 14. Qg2 h5 15.
+Kd2 Na6 16. a3 Nc7 17. f3 c5 18. Nf4 cxd4 19. exd4 Qxd4 20. Kc2 Qf6 21. Nxh5
+gxh5 22. Rxh5 Re8 23. f4 Bd7 24. Rah1 Re3 25. Rg5 Rxd3 26. Kxd3 Bf5+ 27. Ke2
+Ne6 28. Rxg7+ Qxg7 29. Rh4 Rd8 30. Ke1 d4 31. Nd1 d3 32. Kd2 Nc5 33. g4 Nb3+
+34. Ke1 d2+ 35. Kf1 Bd3+ 36. Kf2 Bc2 0-1

@@ -1,0 +1,21 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1969.??.??"]
+[Round "10"]
+[White "Todorcevic, Miodrag"]
+[Black "Conan, C."]
+[Result "1-0"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "d3e600f1"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Be3 Na5 11. Bc2 Nc4 12. Bc1 c5 13. b3 Nb6 14. dxe5 Bxf3 15.
+Qxf3 dxe5 16. Nd2 c4 17. Nf1 Qc7 18. Bg5 Rad8 19. b4 h6 20. Be3 Nh7 21. Ng3 Ng5
+22. Qg4 Nd7 23. Nf5 Nf6 24. Qh4 Nfh7 25. Qg3 Rfe8 26. h4 Ne6 27. Nxh6+ Kf8 28.
+Nf5 Bf6 29. a4 Nf4 30. axb5 axb5 31. Ra7 Qb8 32. Bc5+ Kg8 33. Nh6+ Kh8 34.
+Nxf7+ Kg8 35. Nh6+ Kh8 36. Ng4 Rg8 37. Be3 Rd2 38. Bxd2 Qxa7 39. Qf3 Bxh4 40.
+Nxe5 Rf8 41. Bxf4 1-0

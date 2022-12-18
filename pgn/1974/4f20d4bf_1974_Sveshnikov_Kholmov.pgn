@@ -1,0 +1,18 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Kholmov, Ratmir D"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Hungarian defence"]
+[HashCode "4f20d4bf"]
+[Epoch "Bishop"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 5. Nc3 Nf6 6. h3 O-O 7. O-O a6 8. a4 h6
+9. Re1 Re8 10. b3 exd4 11. Nxd4 Bf8 12. Bb2 Nxd4 13. Qxd4 Be6 14. Bxe6 Rxe6 15.
+Nd5 c6 16. Nxf6+ Rxf6 17. Qb4 d5 18. Qxb7 Rg6 19. Re3 Bc5 20. Rf3 Ra7 0-1

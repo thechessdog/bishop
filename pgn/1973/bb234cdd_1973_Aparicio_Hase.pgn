@@ -1,0 +1,23 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1973.01.01"]
+[Round "6"]
+[White "Aparicio, Anibal"]
+[Black "Hase, Juan Carlos"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "bb234cdd"]
+[Epoch "Bishop"]
+[BlackID "100722"]
+[BlackCountry "ARG"]
+[WhiteID "101133"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Be2
+Be7 9. O-O Nc6 10. Nb3 O-O 11. Qe1 h6 12. Bh4 b5 13. Bf3 Bb7 14. Kh1 b4 15. Ne2
+e5 16. f5 a5 17. c3 a4 18. Nd2 a3 19. bxa3 bxa3 20. Nc4 Na5 21. Ne3 Nc4 22. Ng3
+Ra4 23. Bxf6 Bxf6 24. Nd5 Bxd5 25. exd5 Bh4 26. Bd1 Ra5 27. Bb3 Bxg3 28. Qxg3
+f6 29. Rad1 Nb6 30. Rfe1 Rc5 31. Rc1 Kh8 32. h3 Rc8 33. Re3 Nd7 34. Kh2 Rb5 35.
+Qg6 Nc5 36. Ba4 0-1

@@ -1,0 +1,18 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Kyzlink"]
+[Black "Stepan"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack"]
+[HashCode "9cb62dc5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 h6 8.
+Bxf6 gxf6 9. O-O-O a6 10. f4 Bd7 11. Be2 Qc7 12. Bh5 Rh7 13. Nf5 exf5 14.
+Nd5 Qd8 15. Rhe1 Be6 16. exf5 Kd7 17. fxe6+ fxe6 18. Bg4 f5 19. Qe3 Ne5 20.
+fxe5 1-0
+

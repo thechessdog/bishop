@@ -1,0 +1,18 @@
+[Event "Lugano ol (Men)"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Asmundsson, Ingvar"]
+[Black "Levy, David N L"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "f6ea1591"]
+[Epoch "Bishop"]
+[BlackID "2400120"]
+[BlackCountry "ENG"]
+[WhiteCountry "ISL"]
+
+1. b3 d5 2. e3 e6 3. Bb2 Nf6 4. f4 c5 5. Nf3 g6 6. Be2 Bg7 7. O-O O-O 8. d3 Nc6
+9. Ne5 Nxe5 10. Bxe5 Ne8 11. Bxg7 Nxg7 12. e4 Bd7 13. Nd2 Bc6 1/2-1/2

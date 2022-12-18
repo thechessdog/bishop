@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Honan"]
+[Black "Mardle"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "693d2270"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+Nxe5 Nxe5 9. dxe5 Bb7 10. Be3 Bc5 11. Qg4 Bxe3 12. Qxg7 Qg5 13. Qxh8+ Ke7
+14. Qxh7 Bxf2+ 15. Kh1 Rg8 16. Qh3 d4 17. Na3 Qxg2+ 18. Qxg2 Ng3+ 19. hxg3
+Rh8# 0-1
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Di Martino"]
+[Black "Scalisi"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "234ec49e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Qb6 8.
+O-O-O Nc6 9. f4 h6 10. Bh4 Be7 11. Nf3 Qc7 12. g4 Nxg4 13. Bxe7 Qxe7 14.
+Rg1 Nf6 15. Rxg7 Kf8 16. Rg3 Ne8 17. Bh3 b5 18. e5 d5 19. f5 b4 20. Rdg1
+bxc3 21. Qxh6+ 1-0
+

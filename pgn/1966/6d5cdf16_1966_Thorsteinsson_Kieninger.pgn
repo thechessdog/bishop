@@ -1,0 +1,27 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1966.01.01"]
+[Round "3"]
+[White "Thorsteinsson, Bjorn"]
+[Black "Kieninger, Georg"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "6d5cdf16"]
+[Epoch "Bishop"]
+[WhiteID "2300184"]
+[WhiteCountry "ISL"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. O-O Qc7 8. f4
+Nbd7 9. Bf3 Rb8 10. Kh1 b5 11. Qe2 Bb7 12. Bd2 h6 13. Rae1 e5 14. Nf5 g6 15.
+fxe5 dxe5 16. Ne3 Bg7 17. Qf2 O-O 18. Qh4 Qd8 19. Rd1 b4 20. Ncd5 Nxd5 21. Qxd8
+Rfxd8 22. Nxd5 Bxd5 23. exd5 f5 24. Be2 a5 25. c4 Bf8 26. b3 Kh7 27. g3 Nc5 28.
+Bc1 Bd6 29. Bb2 Rf8 30. Bd3 Rbe8 31. Bc2 h5 32. Kg2 Rf7 33. Rde1 Kh6 34. Re2 e4
+35. Bd4 Rc7 36. Bxc5 Bxc5 37. Rd1 Rd7 38. Rf1 Rd6 39. Rd1 Kg5 40. Rf1 h4 41.
+Rf4 hxg3 42. hxg3 Rdd8 43. Rh4 Rh8 44. Rxh8 Rxh8 45. Re1 Kf6 46. Rd1 Bd6 47.
+Re1 Ke5 48. Re2 Rh5 49. Rd2 Rg5 50. Kh2 Kf6 51. c5 Bxc5 52. d6 Rh5+ 53. Kg2 Rh8
+54. d7 Rd8 55. Rd5 Be7 56. Rxa5 Rxd7 57. Ra6+ Rd6 58. Rxd6+ Bxd6 59. g4 Ke5 60.
+gxf5 gxf5 61. Kf2 Kd4 62. Bd1 f4 63. Be2 Be7 64. Ba6 Bh4+ 65. Kf1 f3 66. Bb7
+Ke3 67. Bd5 Kf4 68. Bc6 e3 69. Bb5 Ke5 70. Ba6 Kd4 71. Bb5 Kc3 0-1

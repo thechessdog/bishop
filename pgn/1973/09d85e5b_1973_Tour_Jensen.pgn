@@ -1,0 +1,17 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Tour"]
+[Black "Jensen, Jacob"]
+[Result "0-1"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "09d85e5b"]
+[Epoch "Bishop"]
+
+1. Nf3 e6 2. c4 Nf6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. d4 Nbd7 7. Qc2 c6 8. b3
+Ne4 9. Nbd2 f5 10. cxd5 exd5 11. Ne5 Nxe5 12. dxe5 Qc7 13. Bb2 g5 14. Nxe4 fxe4
+15. Rad1 Bf5 16. Qc1 Qa5 17. a3 Qb5 18. Qe3 h6 19. b4 a5 20. Rb1 axb4 21. axb4
+Ra2 22. Qc3 Qxb4 0-1

@@ -1,0 +1,21 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Bonham, R."]
+[Black "O'Kelly"]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's lesser variation"]
+[HashCode "fd0cbb96"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 b6 9. Be3 Bb7 10. f3 Nc6 11. h4 Na5 12. Bd3 c5 13. h5 cxd4 14. cxd4
+Nc6 15. hxg6 hxg6 16. e5 Nb4 17. Nf4 Nd5 18. Nxd5 Qxd5 19. Qe2 Rac8 20. Qf2
+Qa5+ 21. Bd2 Qa3 22. Qh4 Rfd8 23. Rd1 Qxd3 24. Qh7+ Kf8 25. Bh6 Qc3+ 26.
+Kf2 Ke8 27. Qxg7 Qb2+ 28. Kg3 Rc2 29. Rh2 Bd5 30. Bg5 Kd7 31. Rd3 Qa1 32.
+e6+ Bxe6 33. Qe5 Re8 34. Qb5+ Kd8 35. Qb4 f6 36. Bd2 g5 37. Re3 Qd1 38.
+Rxe6 Qxd2 39. Qxd2 Rxd2 0-1
+

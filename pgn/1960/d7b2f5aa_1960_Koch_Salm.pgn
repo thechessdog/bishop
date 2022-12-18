@@ -1,0 +1,19 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Koch, Berthold"]
+[Black "Salm, M."]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "d7b2f5aa"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8. b4
+c6 9. Ng3 Re8 10. Bd3 b5 11. Bd2 Nbd7 12. a4 Bxb4 13. axb5 c5 14. O-O c4 15.
+Bc2 Nb6 16. Qb1 Bf8 17. e4 g6 18. e5 Nfd7 19. f4 Bh6 20. Qd1 f5 21. Nxf5 gxf5
+22. Qh5 Bg7 23. Bxf5 Nf8 24. Bxc8 Qxc8 25. f5 Bxe5 26. dxe5 Qc5+ 27. Kh1 Rxe5
+28. Qg4+ Kh8 29. Bh6 Qc7 30. Qd4 1-0

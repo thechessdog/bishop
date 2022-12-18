@@ -1,0 +1,20 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Just, J."]
+[Black "Hunger, H."]
+[Result "1-0"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, reverse dragon"]
+[HashCode "51df5c5e"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Be6 6. Nf3 Nc6 7. O-O Nb6
+8. a4 a5 9. d3 Be7 10. Be3 O-O 11. Bxb6 cxb6 12. Nb5 Bc5 13. Nd2 Qe7 14.
+Ne4 Nd4 15. Nxc5 bxc5 16. Nxd4 cxd4 17. Qd2 Ra7 18. Rfc1 f5 19. f4 Qd6 20.
+e3 Bd5 21. fxe5 Qxe5 22. Rc5 Qxe3+ 23. Qxe3 dxe3 24. Bxd5+ Kh8 25. Re1 b6
+26. Rc6 Re7 27. Re6 Rxe6 28. Bxe6 g5 29. Rxe3 f4 30. Re5 fxg3 31. Rxg5
+gxh2+ 32. Kxh2 h6 33. Rb5 Kg7 34. Rxb6 Kf6 35. d4 Kg5 36. d5 1-0
+

@@ -1,0 +1,24 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1973.07.01"]
+[Round "5"]
+[White "Langeweg, Kick"]
+[Black "Radulov, Ivan"]
+[Result "0-1"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "ae06f5bb"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+
+1. Nf3 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. d4 c5 6. O-O a6 7. Bb3 Qc7 8. Qe2
+Nc6 9. Nc3 Bd6 10. Bd2 O-O 11. Rac1 b6 12. dxc5 Bxc5 13. Bc2 Bb7 14. Ne4 Be7
+15. Nxf6+ Bxf6 16. Bc3 Bxc3 17. Qd3 g6 18. Qxc3 Rac8 19. Be4 Qe7 20. a3 Na5 21.
+Qd3 b5 22. Bxb7 Qxb7 23. Rxc8 Rxc8 24. h3 Qc7 25. Rd1 Qc4 26. Qd7 Qc7 27. Qd4
+Nc6 28. Qf6 Ne7 29. e4 Nc6 30. h4 Qe7 31. Qxe7 Nxe7 32. Rd7 Nc6 33. Ng5 Ne5 34.
+Ra7 h6 35. Nf3 Ng4 36. g3 Rc1+ 37. Kg2 Rc2 38. Nd4 Rxf2+ 39. Kg1 Rxb2 40. Rxa6
+b4 41. axb4 Rxb4 0-1

@@ -1,0 +1,20 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Balcerowski, Witold"]
+[Black "Ziembinski, Marian"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "92cd085b"]
+[Epoch "Bishop"]
+[BlackID "1103881"]
+[BlackCountry "POL"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bd3
+O-O 9. O-O Re8 10. h3 Na6 11. Re1 Nc7 12. a4 a6 13. Bg5 b6 14. Qd2 Rb8 15. e5
+dxe5 16. Nxe5 Bb7 17. Bc4 Qd6 18. Nxf7 Kxf7 19. Bf4 Qd7 20. Bxc7 Rbc8 21. d6+
+Kf8 22. Qf4 h6 23. Bd5 1-0

@@ -1,0 +1,17 @@
+[Event "Oxford ch-BCF"]
+[Site "Oxford ch-BCF"]
+[Date "1967.08.01"]
+[Round "2"]
+[White "Haygarth, Michael J"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "3c2f0874"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 Nc6 7. O-O O-O 8. a3
+dxc4 9. Bxc4 Ba5 10. Ne2 cxd4 11. Nexd4 Nxd4 12. Qxd4 Qxd4 13. Nxd4 Bd7 1/2-1/2

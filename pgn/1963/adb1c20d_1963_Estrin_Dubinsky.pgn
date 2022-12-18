@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Dubinsky"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "adb1c20d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. a3 Bb7 11. Bxf6 Nxf6 12. g4 d5 13. Ndxb5 axb5 14. Bxb5+ Nd7
+15. Bxd7+ Qxd7 16. exd5 O-O-O 17. Rd2 exd5 18. Rhd1 d4 19. Qf2 Bc5 20. Ne2 Qd5
+21. Qg3 Qc4 22. Kb1 Rhe8 23. b3 Qe6 24. Nxd4 Qe3 25. Qxe3 Rxe3 26. Nf5 Rxd2 27.
+Rxd2 Re4 28. b4 Bf8 29. Rd4 g6 30. Rxe4 Bxe4 31. Ng3 Bf3 32. g5 Bd6 33. f5 gxf5
+34. Nxf5 Bxh2 35. Nh6 Bh5 0-1

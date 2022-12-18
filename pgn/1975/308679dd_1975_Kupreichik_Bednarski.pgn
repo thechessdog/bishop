@@ -1,0 +1,32 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1975.01.01"]
+[Round "7"]
+[White "Kupreichik, Viktor D"]
+[Black "Bednarski, Jacek B"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "308679dd"]
+[Epoch "Bishop"]
+[WhiteCountry "BLR"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 O-O
+8. Qd2 Bg4 9. Be2 Nd7 10. h3 Bh5 11. g4 Bg6 12. O-O-O Nc5 13. h4 Be4 14. Rh2
+Ne6 15. Be3 Bxf3 16. Bxf3 c6 17. g5 Qa5 18. Kb1 f5 19. gxf6 Rxf6 20. Bg4 Bf8
+21. Bg5 Rg6 22. f4 h6 23. h5 Nxf4 24. hxg6 Qxg5 25. Rg1 Kh8 26. Rh5 Nxh5 27.
+Qxg5 hxg5 28. Rh1 Re8 29. a4 Kg8 30. Rxh5 d5 31. Rxg5 Be7 32. Re5 Kf8 33. a5
+Bf6 34. Rh5 Ke7 35. a6 b6 36. Be2 b5 37. Kc1 Kd6 38. Kd2 Kc7 39. Bg4 Kb6 40. b3
+Rd8 41. Be6 Re8 42. Bf7 Rd8 43. Rh1 Kxa6 44. Re1 Kb6 45. Re6 Bg5+ 46. Kd3 a5
+47. c4 dxc4+ 48. Kc3 b4+ 49. Kxc4 Rd2 50. Re8 Bf6 51. Re4 Rxc2+ 52. Kd3 Rc3+
+53. Ke2 Kc5 54. Kd2 Bg5+ 55. Kd1 Rc1+ 56. Ke2 Rc2+ 57. Kd1 Rg2 58. Re5+ Kb6 59.
+Re2 Rg3 60. Ra2 Rg1+ 61. Kc2 Rg2+ 62. Kb1 Bd2 63. Be8 Rg1+ 64. Kc2 Bc3 65. Kd3
+Rd1+ 66. Kc2 Rd4 67. Bf7 Rg4 68. Kd3 Rg3+ 69. Kc2 Bf6 70. Kd1 Rg1+ 71. Kc2 Rf1
+72. Bc4 Rf3 73. Bf7 Rc3+ 74. Kb1 Rg3 75. Kc2 c5 76. Kd1 c4 77. Bxc4 Rg1+ 78.
+Kc2 Rg2+ 79. Kb1 Rg1+ 80. Kc2 Rxg6 81. Kd3 Rg3+ 82. Ke4 Rg4+ 83. Kd3 Rf4 84.
+Ke3 Bg5 85. Kd3 Rf3+ 86. Ke4 Re3+ 87. Kd4 Rg3 88. Kd5 Bf6 89. Ke4 Rh3 90. Be6
+Rh4+ 91. Ke3 Bd4+ 92. Kd3 Bc3 93. Ke3 Rd4 94. Rg2 Rd6 95. Bc4 Bf6 96. Re2 Rd4
+97. Bf7 Rd8 98. Kf3 a4 99. bxa4 Ka5 100. Bb3 Rd3+ 101. Re3 Rxb3 102. Rxb3 Kxa4
+103. Rb1 b3 104. Ke3 b2 105. Kd2 Kb3 106. Rg1 Be5 107. Ke3 Ka2 0-1

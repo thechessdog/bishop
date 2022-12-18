@@ -1,0 +1,29 @@
+[Event "Skopje ol (Men) fin-B"]
+[Site "Skopje olm"]
+[Date "1972.10.01"]
+[Round "6"]
+[White "Myagmarsuren, Lhamsuren"]
+[Black "Kraidman, Yair"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "0cdb7bdb"]
+[Epoch "Bishop"]
+[WhiteID "4900081"]
+[WhiteCountry "MGL"]
+[BlackID "2800187"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. Nc3 O-O 7. d3 Nd4 8. Bc4
+d6 9. e5 dxe5 10. Nxe5 b6 11. Bg5 Bb7 12. Qd2 a6 13. a4 Ra7 14. h3 Nd5 15. Ng4
+Nxc3 16. bxc3 Nf5 17. Ne3 Nd6 18. Bb3 Bc6 19. Nc4 Nf5 20. Ne3 Nxe3 21. Bxe3 Qa8
+22. f3 a5 23. Bh6 Rd7 24. Bxg7 Kxg7 25. Bc4 Qd8 26. Reb1 Rd6 27. Bb5 Bd5 28. c4
+Bb7 29. Re1 Rd4 30. Qe3 e6 31. Qe5+ Kg8 32. Re3 Qd6 33. Qxd6 Rxd6 34. Rae1 Kg7
+35. R1e2 Kf6 36. Kf2 g5 37. Re5 Rd4 38. R2e3 h5 39. Kg3 Rg8 40. Kf2 h4 41. Re2
+Ke7 42. Re1 Rd6 43. Kg1 Rg7 44. Kh2 f6 45. R5e2 Rg8 46. Rf1 f5 47. Rfe1 Bc8 48.
+Re5 Kf6 49. R5e2 Rg7 50. Rd1 Bb7 51. Rf1 Ke7 52. Rfe1 Kf6 53. Rf1 e5 54. Rfe1
+Re7 55. Rf1 Rd4 56. Ref2 Re6 57. Kg1 Red6 58. Re2 Rf4 59. Ref2 Rdd4 60. Kh2 Ke6
+61. Kg1 e4 62. Re2 Kf6 63. Rfe1 Rd6 64. fxe4 fxe4 65. Re3 Rd4 66. R1e2 g4 67.
+hxg4 Kg5 68. dxe4 Rd1+ 69. Re1 Rxe1+ 70. Rxe1 Rxe4 71. Rxe4 Bxe4 72. c3 Kxg4
+73. Kf2 Kf4 74. Bd7 Bc2 75. Bb5 Bb3 76. Ke2 Kg3 0-1

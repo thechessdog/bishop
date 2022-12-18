@@ -1,0 +1,19 @@
+[Event "corr ch-YUG"]
+[Site "corr ch-YUG"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Letic"]
+[Black "Kazic"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "a9c28b32"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8.
+Bd3 Be7 9. O-O O-O 10. Kh1 b5 11. a3 Bb7 12. Qe1 Re8 13. fxe5 dxe5 14. Bd2
+Nc5 15. Rd1 Nxd3 16. cxd3 Qxd3 17. Bf4 Qc2 18. Rd2 Qb3 19. Bxe5 Qe6 20. Nd5
+Nxd5 21. exd5 Bxd5 22. Nd4 Qg6 23. Nf5 Bc4 24. Rf3 Bf6 25. Qe4 Rac8 26. b3
+Be6 27. g4 Bxf5 28. Rxf5 Bxe5 29. Rd7 Qh6 30. Rxe5 Qc1+ 31. Kg2 Qb2+ 0-1
+

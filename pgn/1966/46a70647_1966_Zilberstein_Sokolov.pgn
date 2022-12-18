@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Zilberstein, B."]
+[Black "Sokolov, Vladimir"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "46a70647"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 O-O 8. a3
+Ba5 9. Bf4 Nc6 10. g3 Bc7 11. Bxc7 Qxc7 12. Bg2 e5 13. O-O Bg4 14. f3 Be6 15.
+b4 a6 16. f4 exd4 17. Nxd4 Rad8 18. Qd3 Nxd4 19. Qxd4 Bf5 20. Qe5 Qd7 21. Rad1
+d4 22. Nd5 Nxd5 23. Rxd4 Rfe8 24. Rxd5 Rxe5 25. Rxd7 Bxd7 26. fxe5 Bc6 27. Re1
+Kf8 28. e6 Re8 29. Bh3 Bd5 30. Bg2 fxe6 31. Bxd5 exd5 32. Rxe8+ Kxe8 33. Kf2
+Kd7 34. Ke3 Kc6 35. Kd4 Kb5 36. Kxd5 Ka4 37. c6 bxc6+ 38. Kxc6 Kxa3 39. b5 axb5
+40. Kxb5 Kb3 41. Kc5 Kc3 42. Kd5 Kd3 43. Ke6 Ke4 44. Kf7 Kf3 45. Kxg7 Kg2 46.
+Kxh7 1-0

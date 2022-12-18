@@ -1,0 +1,17 @@
+[Event "Russia"]
+[Site "Russia"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Roizman, Abram"]
+[Black "Fuchs, Reinhart"]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "5c7574f4"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Ba5 9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3 Bg4 12. Be2 Qa5 13. Qc2 Qxc5 14. Rb1
+Na5 15. Rb4 Rac8 16. Bb2 Rfe8 17. Rd1 Nc4 18. Bc1 Nd6 19. Rf4 Nde4 20. c4 dxc4
+21. Rd4 Bxf3 22. Rxc4 Bxe2 23. Rxc5 Rxc5 0-1

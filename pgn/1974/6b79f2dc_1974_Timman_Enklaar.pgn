@@ -1,0 +1,19 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1974.03.01"]
+[Round "4"]
+[White "Timman, Jan H"]
+[Black "Enklaar, Bertus F"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "6b79f2dc"]
+[Epoch "Bishop"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 Nc6 4. Bg2 g6 5. a3 Bg7 6. Rb1 a5 7. Nf3 d5 8. cxd5
+Nxd5 9. Ng5 e6 10. Nge4 b6 11. Qa4 Qd7 12. Nxd5 exd5 13. Nc3 Bxc3 14. bxc3 Rb8
+15. d3 Ba6 16. c4 b5 17. cxb5 Nd4 18. Qxa5 Qg4 19. O-O 1-0

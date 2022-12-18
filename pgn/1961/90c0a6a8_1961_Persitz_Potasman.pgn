@@ -1,0 +1,20 @@
+[Event "Netanya"]
+[Site "Netanya"]
+[Date "1961.01.01"]
+[Round "10"]
+[White "Persitz, Raaphi"]
+[Black "Potasman, William"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "90c0a6a8"]
+[Epoch "Bishop"]
+[WhiteID "1300199"]
+[WhiteCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+b4 9. Na4 Be7 10. f4 Qc7 11. e5 Ne4 12. f5 dxe5 13. fxe6 exd4 14. Qg4 Qe5 15.
+Nb6 Bb7 16. exf7+ Kd8 17. Nxa8 Bxa8 18. Bf4 Qb5 19. Qxg7 Rf8 20. Rad1 Nd7 21.
+Qxh7 Qe2 22. Rde1 d3 23. Rxe2 dxe2 24. Be3 exf1=Q+ 25. Kxf1 Nef6 26. Qd3 Ng4
+27. Bb6+ Kc8 28. Qc4+ Bc5 29. Bxc5 Nde5 30. Qxb4 Nc6 31. Bxf8 1-0

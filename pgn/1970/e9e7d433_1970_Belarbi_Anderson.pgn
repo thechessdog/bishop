@@ -1,0 +1,18 @@
+[Event "Siegen olm"]
+[Site "Siegen"]
+[Date "1970.??.??"]
+[Round "13"]
+[White "Belarbi"]
+[Black "Anderson, Bruce R"]
+[Result "1-0"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "e9e7d433"]
+[Epoch "Bishop"]
+[BlackID "4300173"]
+[BlackCountry "NZL"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. g4 Nbd7 7. g5 Ne8 8. h4 e5
+9. d5 f5 10. gxf6 Qxf6 11. Be3 Nc5 12. Qd2 a5 13. Nh3 Bd7 14. O-O-O a4 15. h5
+gxh5 16. Bxh5 Qh4 17. Ng5 1-0

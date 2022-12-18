@@ -1,0 +1,19 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1970.??.??"]
+[Round "14"]
+[White "Gasic, Bozidar"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "50e0bc19"]
+[Epoch "Bishop"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Qc1 Nc6 6. c3 d5 7. Nbd2 Bd7 8. Rb1
+Rc8 9. Qd1 Qc7 10. Bd3 Be7 11. O-O e5 12. dxe5 Nxe5 13. Nxe5 Qxe5 14. Nf3 Qc7
+15. Qe2 O-O 16. h3 Bc6 17. Bb5 Bxb5 18. Qxb5 a6 19. Qe2 1/2-1/2

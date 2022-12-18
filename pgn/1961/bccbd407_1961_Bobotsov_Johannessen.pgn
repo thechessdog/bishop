@@ -1,0 +1,18 @@
+[Event "Zevenaar"]
+[Site "Zevenaar"]
+[Date "1961.01.01"]
+[Round "6"]
+[White "Bobotsov, Milko G"]
+[Black "Johannessen, Svein"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "bccbd407"]
+[Epoch "Bishop"]
+[WhiteCountry "BGR"]
+[BlackCountry "NOR"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Be7 5. Bg5 O-O 6. e3 a6 7. Qc2 h6 8. Bh4
+dxc4 9. Bxc4 b5 10. Bd3 c5 11. dxc5 Bxc5 12. Rd1 Qb6 13. O-O Bb7 14. e4 Nc6 15.
+Qc1 Ng4 16. Qf4 Ne3 17. fxe3 1-0

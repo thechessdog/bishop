@@ -1,0 +1,22 @@
+[Event "Stockholm Wch jr"]
+[Site "Stockholm Wch jr"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Torre, Eugenio"]
+[Black "Rogoff, Kenneth"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "f708f3fa"]
+[Epoch "Bishop"]
+[BlackID "2000237"]
+[WhiteID "5200016"]
+[WhiteCountry "PHI"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5 8.
+Bd3 O-O 9. O-O Nc6 10. Re1 Nf6 11. Bg5 b6 12. a3 Bb7 13. Bc2 Ba6 14. Rc1 Rc8
+15. Qd2 Re8 16. Qf4 Bb7 17. d5 Nxd5 18. Nxd5 exd5 19. Bxe7 Rxe7 20. Bxh7+ Kxh7
+21. Qh4+ Kg8 22. Ng5 Rxe1+ 23. Rxe1 Ne5 24. Qh7+ Kf8 25. Qh8+ Ke7 26. Qxg7 Kd7
+27. Qxe5 Qf8 28. Nh7 1-0

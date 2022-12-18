@@ -1,0 +1,20 @@
+[Event "USSR tt"]
+[Site "USSR tt"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Lipnitsky, Isaak"]
+[Black "Shyshov, M."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "8901b7c5"]
+[Epoch "Bishop"]
+[WhiteCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 e5 8. e3
+d6 9. Bd3 e4 10. Bc2 O-O 11. Ne2 Re8 12. O-O Bg4 13. Rb1 g5 14. Bg3 Qe7 15. Qd2
+b6 16. f4 exf3 17. gxf3 Bh5 18. Kf2 Nbd7 19. Rbe1 Nf8 20. Rg1 Ng6 21. Nf4 Kh8
+22. Nxh5 Nxh5 23. Qd3 Qf6 24. h4 gxh4 25. Bh2 Rg8 26. Rg4 Rg7 27. Reg1 Rag8 28.
+Bb1 Nf8 29. Rxg7 Rxg7 30. Rxg7 Nxg7 31. Kg2 Ng6 32. f4 Kg8 33. Kh3 Kf8 34. a4
+Qe7 35. Bc2 h5 36. Qe4 Qd7+ 37. f5 Ne7 38. Kxh4 Nexf5+ 39. Kg5 Qd8+ 0-1

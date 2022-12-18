@@ -1,0 +1,23 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Padevsky, Nikola"]
+[Black "Sakharov, Yuri G."]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "d76c6a29"]
+[Epoch "Bishop"]
+[BlackID "34113743"]
+[BlackCountry "RUS"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 d6 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 b5 10. e5 dxe5 11. fxe5 Ng4 12. O-O Nxe5 13. Bf4 Nbd7 14. Bxb5 Qb6 15.
+Nxe5 Nxe5 16. Qd2 a6 17. Be2 Re8 18. Kh1 Bf5 19. Rad1 Rad8 20. Na4 Qa7 21. Bg5
+Rc8 22. d6 Nd7 23. Nc3 Rb8 24. Bc4 Ne5 25. Bb3 c4 26. Ba4 Nd7 27. Bh6 Be5 28.
+Rxf5 gxf5 29. Qg5+ Kh8 30. Qxf5 Re6 31. Bxd7 Qxd7 32. Ne4 Bxb2 33. Be3 Qa4 34.
+Re1 Qc2 0-1

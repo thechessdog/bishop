@@ -1,0 +1,24 @@
+[Event "Lidkoping"]
+[Site "Lidkoping"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Hoen, Ragnar"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "b9db38a0"]
+[Epoch "Bishop"]
+[WhiteID "1500147"]
+[BlackID "500020"]
+[WhiteCountry "NOR"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Be7 7. d3 O-O 8. Nd5
+Bb7 9. O-O Na5 10. Nxe7+ Qxe7 11. Nh4 d5 12. Nf5 Qe6 13. f3 c5 14. Qe1 Nxb3 15.
+axb3 Kh8 16. Bg5 g6 17. Qh4 Ng8 18. Ne7 f5 19. exd5 Bxd5 20. Nxd5 Qxd5 21. Rfe1
+Qd6 22. f4 Qd4+ 23. Kh1 e4 24. dxe4 Qxb2 25. e5 Qxc2 26. Rad1 Qxb3 27. Rd7 h5
+28. Rd6 Kh7 29. h3 b4 30. Rd7+ Kh8 31. e6 Qc3 32. Re5 b3 33. Bh6 Nxh6 34. Qg5
+Nf7 35. exf7 Kh7 36. Rd6 Rxf7 37. Qxg6+ Kh8 38. Qh6+ Rh7 39. Qf6+ Rg7 40. Re8+
+Rxe8 41. Qxc3 c4 42. Rh6+ Kg8 43. Qxc4+ 1-0

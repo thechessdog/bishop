@@ -1,0 +1,18 @@
+[Event "BL7475"]
+[Site "BL7475"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Krieger, Hermann"]
+[Black "Degenhardt, N."]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "f2c17607"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+Bb4+ 9. Kf2 f5 10. Bd3 O-O 11. Ne2 Nb6 12. h3 Be7 13. g4 g6 14. Qg1 Kh8 15. h4
+Rg8 16. h5 gxh5 17. g5 Bd7 18. Rxh5 Be8 19. Rxh7+ Kxh7 20. Qh2+ Kg7 21. Qh6+
+Kf7 22. Bxf5 Bd7 23. g6+ Ke8 24. Qh7 Rf8 25. g7 Qc8 26. g8=Q exf5 27. Qhf7+ Kd8
+28. Qgxf8+ Bxf8 29. Qxf8+ Be8 30. Ng5 Ne7 31. Bd2 Nd7 32. Ne6# 1-0

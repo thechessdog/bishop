@@ -1,0 +1,17 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Hunter, C."]
+[Black "Bonner, D."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Maroczy variation"]
+[HashCode "3fbc1e0e"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. d3 e5 3. f4 Nc6 4. fxe5 Nxe5 5. Nc3 Bb4 6. Nf3 Nxf3+ 7. Qxf3
+d5 8. Bg5 d4 9. a3 dxc3 10. axb4 Qd4 11. Bxf6 gxf6 12. b3 Rg8 13. Qf2 Qe5
+14. Ra5 b5 15. Be2 Rg5 16. O-O Bh3 17. Bf3 Kd7 18. Kh1 1-0
+

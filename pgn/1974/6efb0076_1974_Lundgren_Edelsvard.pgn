@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Lundgren, Bernt"]
+[Black "Edelsvard, Olle"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "6efb0076"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nc6 6. Bd3 cxd4 7. cxd4 Nf6
+8. O-O Be7 9. Nc3 Qd8 10. a3 O-O 11. Bc2 b6 12. Qd3 a5 13. Ne4 g6 14. Rd1
+Nd5 15. Ba4 Ba6 16. Qd2 Rc8 17. Qe1 b5 18. Bb3 a4 19. Bxd5 exd5 20. Nc5
+Bxc5 21. dxc5 Re8 22. Be3 Na5 23. Qc3 Nb3 24. Rab1 Bb7 25. Bd4 Re4 26. Bf6
+Qa5 27. Qxa5 Nxa5 28. Nd2 1/2-1/2
+

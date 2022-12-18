@@ -1,0 +1,20 @@
+[Event "Vidmar mem"]
+[Site "Ljubljana/Portoroz"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Parma, Bruno"]
+[Black "Quinteros, Miguel A."]
+[Result "1/2-1/2"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "4d9bc3a7"]
+[Epoch "Bishop"]
+[WhiteID "14600706"]
+[WhiteCountry "SLO"]
+[BlackCountry "ARG"]
+[BlackID "100021"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Qc7 10. Bxf6 gxf6 11. Kb1 h5 12. Bc4 Rc8 13. Bb3 Na5 14. Qd3
+Nxb3 15. Nxb3 b5 1/2-1/2

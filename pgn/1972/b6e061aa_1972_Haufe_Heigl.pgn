@@ -1,0 +1,21 @@
+[Event "corr ch13-FRG"]
+[Site "corr ch13-FRG"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Haufe, W."]
+[Black "Heigl, R."]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "b6e061aa"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 Nge7 8.
+O-O exf4 9. gxf4 f5 10. Ng5 h6 11. Nf3 O-O 12. Nd5 Nd4 13. Nxe7+ Qxe7 14.
+c3 Nc6 15. Re1 Qf7 16. Be3 Re8 17. Nh4 Be6 18. Kh1 Bf6 19. Bf2 Kh7 20. Qd2
+Rg8 21. exf5 gxf5 22. h3 Rae8 23. Kh2 Qd7 24. Nf3 Ne7 25. Bh4 Bxh4 26. Nxh4
+Nd5 27. d4 Qg7 28. Qf2 Nf6 29. dxc5 dxc5 30. Re5 b6 31. Bc6 Bd7 32. Nxf5
+Qf8 33. Bxd7 Rxe5 34. fxe5 Nxd7 35. e6 Nf6 36. Rg1 Ne4 37. Rxg8 Qxg8 38.
+Qg2 Qxg2+ 39. Kxg2 Kg6 40. e7 Kf7 41. Kf3 Nf6 42. Kf4 1-0
+

@@ -1,0 +1,28 @@
+[Event "Freiberg ch19-DDR"]
+[Site "Freiberg ch19-DDR"]
+[Date "1970.01.01"]
+[Round "15"]
+[White "Kuettner, Uwe"]
+[Black "Postler, Reinhard"]
+[Result "1-0"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "268a384f"]
+[Epoch "Bishop"]
+[WhiteID "24670839"]
+[WhiteCountry "GER"]
+[BlackID "4611608"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 b6 13. Nc4 Ba6 14. Bg5 Qd7 15. Qd2
+Bxc4 16. Bxc4 a6 17. Qd3 h6 18. Bd2 Qe7 19. Rae1 Nd7 20. f4 b5 21. axb5 axb5
+22. Bxb5 Nxb5 23. Nxb5 Ra4 24. Bc3 Bxc3 25. bxc3 c4 26. Qh3 Nc5 27. Qxh6 Nd3
+28. Re3 Qf6 29. e5 dxe5 30. fxe5 Qg7 31. Qxg7+ Kxg7 32. e6 fxe6 33. dxe6 Re7
+34. Nd6 Ra6 35. Nxc4 Nc5 36. Rf7+ Rxf7 37. exf7 Kxf7 38. Kf2 Ra2+ 39. Kf3 Rc2
+40. Nb6 Ne6 41. Nd5 Rd2 42. Nb4 Ng5+ 43. Kg3 Kf6 44. h4 Ne6 45. Kf3 g5 46.
+hxg5+ Nxg5+ 47. Kg3 Kf5 48. Nc6 Ne4+ 49. Kh2 Nf2 50. Re8 Ng4+ 51. Kg3 Rd3+ 52.
+Kh4 Nf6 53. Rc8 Ne4 54. Rf8+ Ke6 55. Re8+ Kf5 56. Rf8+ Ke6 57. Re8+ Kf5 58.
+Nd4+ Kf4 59. Ne2+ Ke3 60. Ng3 Rxc3 61. Nxe4 Rc2 62. Ng5+ Kf2 63. g3 Rc6 64.
+Rf8+ Kg2 65. Ra8 Rc4+ 66. g4 Rb4 67. Ra2+ Kh1 68. Ne6 1-0

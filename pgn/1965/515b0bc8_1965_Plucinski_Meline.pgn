@@ -1,0 +1,17 @@
+[Event "Iowa"]
+[Site "Iowa"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Plucinski, C."]
+[Black "Meline, B."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "515b0bc8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. d3
+Rf8 8. Kxf2 d5 9. h3 Rxf7 10. Ke1 dxc4 11. Be3 Bd7 12. a3 O-O-O 13. Qd2 h6
+14. Qc3 cxd3 15. cxd3 Nxe4 16. dxe4 Qh4+ 17. Ke2 Qxe4 18. Nd2 Qxg2+ 0-1
+

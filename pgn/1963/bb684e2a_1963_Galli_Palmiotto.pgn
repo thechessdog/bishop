@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Galli"]
+[Black "Palmiotto"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "bb684e2a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 d5 6. Bd3 Nc6 7. O-O cxd4 8.
+exd4 dxc4 9. Bxc4 O-O 10. a3 Be7 11. h3 Qc7 12. Qe2 Rd8 13. Be3 a6 14. Rac1
+Bd7 15. b4 Rac8 16. Bd3 Nd5 17. Ne4 Nf4 18. Bxf4 Qxf4 19. Rfd1 Nxd4 0-1
+

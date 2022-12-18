@@ -1,0 +1,20 @@
+[Event "corr ch-POL"]
+[Site "corr ch-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Jerszow"]
+[Black "Niewiadomski"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "a7e0a8bb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Be7 8.
+O-O-O Nbd7 9. Qh3 Qc7 10. f4 b5 11. a3 Nc5 12. Re1 Bb7 13. Bd3 Rc8 14. Kb1
+Nxd3 15. Qxd3 h6 16. Qh3 Nh7 17. Bxe7 Kxe7 18. Qh4+ Kf8 19. Re2 Qe7 20. Qh3
+Nf6 21. Rd1 Kg8 22. g4 g5 23. fxg5 hxg5 24. Qg3 Ne8 25. e5 d5 26. Rf2 Rh7
+27. Rdf1 Rc5 28. Qe3 Rc7 29. Nce2 Bc8 30. Ng3 Rh4 31. Rxf7 Qxf7 32. Rxf7
+Rxf7 33. Qxg5+ Kf8 34. Qxh4 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rovinj / Zagreb"]
+[Site "Rovinj / Zagreb"]
+[Date "1970.04.01"]
+[Round "1"]
+[White "Bertok, Mario"]
+[Black "Kurajica, Bojan"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "0d534fa7"]
+[Epoch "Bishop"]
+[BlackID "14400057"]
+[WhiteCountry "HRV"]
+[BlackCountry "BIH"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c3 Nc6 5. Bf4 Nf6 6. Bd3 Bg4 7. Qb3 Qc8 8.
+Nd2 e6 9. Ngf3 Be7 10. O-O O-O 11. Rfe1 Bh5 12. Ne5 Nd7 13. Nxd7 Qxd7 14. h3
+Bd6 15. Bxd6 1/2-1/2

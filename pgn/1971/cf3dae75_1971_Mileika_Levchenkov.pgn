@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Mileika"]
+[Black "Levchenkov, Vitaly"]
+[Result "0-1"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "cf3dae75"]
+[Epoch "Bishop"]
+[BlackID "11600411"]
+[BlackCountry "LAT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 8.
+dxc5 f5 9. Qc2 O-O 10. e4 fxe4 11. fxe4 Qh4+ 12. g3 Qf6 13. Bd3 Qxc3+ 14. Qxc3
+Nxc3 15. Bf4 Rd8 16. Bc2 Bd7 17. a4 Bc6 18. Nf3 Bxe4 19. Bxe4 Nxe4 20. Rc1 Rc8
+21. Ng5 Nxc5 22. O-O Nbd7 23. Bd6 h6 0-1

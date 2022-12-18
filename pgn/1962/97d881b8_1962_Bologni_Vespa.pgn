@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Bologni"]
+[Black "Vespa"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "97d881b8"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Nf3 Qe7 7. Bd2 e5 8.
+dxe5 dxe5 9. Ne4 Nc6 10. a3 Bxd2+ 11. Nfxd2 Rd8 12. Qc2 h6 13. Nxf6+ Qxf6
+14. Ne4 Qe7 15. Ng3 a5 16. O-O Be6 17. Be4 Qc5 18. Rac1 Rd6 19. Bh7+ Kh8
+20. Ne4 Qa7 21. Nxd6 cxd6 22. Be4 Ne7 23. Rcd1 Qc5 24. Rd2 Qc7 25. Rfd1 Rd8
+26. Qc3 f5 27. Bd5 Bxd5 28. cxd5 Qb6 29. Qd3 Rf8 30. Rc2 Ng8 31. Rdc1 Qd8
+32. Rc7 Qg5 33. Rc8 Rxc8 34. Rxc8 Kh7 35. Qf1 e4 36. f4 Qf6 37. Qc1 Ne7 38.
+Rb8 Nxd5 39. Rxb7 Qd8 40. Qd2 Nf6 41. Rb5 a4 42. h3 d5 43. Qd4 Qc8 44. Rc5
+Qa6 45. Qd2 Qb7 46. Qc3 Qf7 47. Ra5 Qh5 48. Qd2 Qe8 49. Qc2 d4 50. exd4 Qe6
+51. Qc5 1-0
+

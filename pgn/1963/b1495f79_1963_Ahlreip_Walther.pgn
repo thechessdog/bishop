@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Ahlreip"]
+[Black "Walther, Edgar"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "b1495f79"]
+[Epoch "Bishop"]
+[BlackCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 Bb6 6. Bxc6 bxc6 7. Nxe5 O-O 8.
+Bg5 Qe8 9. Nd2 Nxe4 10. Nxe4 f6 11. O-O fxe5 12. Re1 Qg6 13. Qd2 d6 14. Re2 Ba6
+15. Ree1 h6 16. Bh4 Rf4 17. Bg3 Rxe4 18. Rxe4 Qxe4 0-1

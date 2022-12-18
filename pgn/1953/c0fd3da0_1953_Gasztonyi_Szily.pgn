@@ -1,0 +1,26 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Gasztonyi, Endre"]
+[Black "Szily, Jozsef"]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "c0fd3da0"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Qc2 b6 8. cxd5
+Nxd5 9. Nxd5 exd5 10. Bxe7 Qxe7 11. Rc1 c5 12. dxc5 d4 13. Nf3 dxe3 14. Be2 Na6
+15. cxb6 axb6 16. Qb3 exf2+ 17. Kxf2 Nc5 18. Qxb6 Ne4+ 19. Kf1 Rxa2 20. Bd3 Bg4
+21. Bxe4 Qxe4 22. Re1 Qc2 23. Re2 Qc1+ 24. Kf2 Qf4 25. Qb3 Bxf3 26. gxf3 Ra6
+27. Re4 Qd6 28. Re2 Rb8 29. Qc3 Rc6 30. Qe3 Rcb6 31. Qc3 Rb3 32. Qe5 Qc6 33.
+Qe4 Qc5+ 34. Kg2 Qg5+ 35. Qg4 Rxb2 36. Re1 Qa5 37. Kf1 Qa6 38. Qe4 R2b4 39. Qe7
+Rf4 40. Qe3 Qf6 41. Rf2 Rc8 42. Kg1 Rc3 43. Qe8+ Kh7 44. Ref1 Qb6 45. Kg2 Re3
+46. Qd7 Qg6+ 47. Kh1 Qf6 48. Qd5 g6 49. Kg2 Re5 50. Qd2 h5 51. Re1 Rg5+ 52. Kh1
+Rxf3 53. Qxg5 Rxf2 54. Qxf6 Rxf6 55. Kg2 Ra6 56. Re7 Kg7 57. Rb7 g5 58. Rb5 Kg6
+59. Kg3 Ra2 60. Rb8 h4+ 61. Kh3 Ra3+ 62. Kg2 g4 63. Rb2 Kg5 64. Rc2 f5 65. Rb2
+h3+ 66. Kf2 f4 0-1

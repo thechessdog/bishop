@@ -1,0 +1,17 @@
+[Event "POL-DDR"]
+[Site "POL-DDR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pokojowczyk"]
+[Black "Muller, Hans P"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "93858a19"]
+[Epoch "Bishop"]
+[BlackID "3223167"]
+[BlackCountry "AUS"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. f4 Nf6 5. Bd3 O-O 6. Nf3 Bg4 7. O-O e5 8. Qb3
+exd4 9. Qxb7 Nbd7 10. cxd4 Bxf3 11. Rxf3 Ng4 12. e5 dxe5 13. h3 e4 14. Bxe4
+Bxd4+ 15. Kh1 Nc5 0-1

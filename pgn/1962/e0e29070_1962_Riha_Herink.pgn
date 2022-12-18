@@ -1,0 +1,17 @@
+[Event "CSA"]
+[Site "CSA"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Riha"]
+[Black "Herink"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "e0e29070"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Nf6 6. Nc3 Nc6 7. Nf3
+Bb4 8. Qc2 d6 9. O-O-O O-O 10. e5 Ng4 11. h4 Ngxe5 12. Nd5 Ba5 13. Ng5 g6
+14. f4 Ng4 15. h5 Bf5 16. hxg6 Bxc2 17. gxh7+ Bxh7 18. Nxh7 Nce5 19. fxe5
+Nxe5 20. Rdf1 Nxc4 21. Ndf6+ Kg7 22. Ne8+ Kg6 23. Nxf8+ Kg5 24. Bf6+ 1-0
+

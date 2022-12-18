@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Woloschin"]
+[Black "Kirillov"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Tartakower variation"]
+[HashCode "7b9f08a1"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Bxe7 Qxe7 7. Nxe4 dxe4
+8. c3 O-O 9. Qc2 f5 10. exf6 Qxf6 11. f3 e5 12. Qxe4 exd4 13. Bc4+ Kh8 14.
+Bd3 Qh6 15. Qxd4 Nc6 16. Qf2 Ne5 17. Be4 Bf5 18. Bxf5 Rxf5 19. Qd2 Qh4+ 20.
+g3 Qa4 21. Kf2 Qc6 22. Kg2 Rxf3 23. Nxf3 Nxf3 24. Qf2 Ng5+ 25. Kf1 Qxh1+
+26. Qg1 Rf8+ 0-1
+

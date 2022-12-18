@@ -1,0 +1,21 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Nielsen, Hartvig"]
+[Black "Pedersen, Eigil"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "99482f6e"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+[WhiteCountry "DNK"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 h5 6. Bg5 c6 7. Qd2 b5 8. a3 Nbd7
+9. Nf3 Qb6 10. Rd1 Ng4 11. O-O a6 12. Ne1 Nf8 13. d5 c5 14. Bxg4 Bxg4 15. f3
+Bd7 16. Be3 Qc7 17. Rb1 Bf6 18. g3 Nh7 19. Nd3 a5 20. e5 Bg7 21. Ne4 dxe5 22.
+Bxc5 f5 23. Ng5 Nf6 24. Ne6 Bxe6 25. dxe6 e4 26. Qg5 O-O-O 27. Bf2 Bh6 28. Qxg6
+Rdg8 29. Qxf5 Rxg3+ 30. Kh1 Rxf3 31. Qe5 exd3 32. Qxc7+ Kxc7 33. cxd3 Rxd3 34.
+Rbd1 Rhd8 35. Rde1 Rg8 0-1

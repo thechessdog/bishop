@@ -1,0 +1,17 @@
+[Event "Lasker mem"]
+[Site "Berlin-Ost"]
+[Date "1962.??.??"]
+[Round "15"]
+[White "O'Kelly, Albéric de Galway"]
+[Black "Fichtl, Jiri"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Chigorin defence"]
+[HashCode "e7bc32a8"]
+[Epoch "Bishop"]
+[BlackCountry "CZE"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 Bd6 7. e4 dxe4 8. Nxe4
+Nxe4 9. Bxe4 O-O 10. O-O h6 11. b3 e5 12. dxe5 Nxe5 13. Bb2 Qf6 14. Bxe5 Bxe5
+15. Nxe5 Qxe5 16. Re1 1/2-1/2

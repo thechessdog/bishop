@@ -1,0 +1,18 @@
+[Event "Colonia"]
+[Site "Colonia"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Maugg"]
+[Black "Kalker"]
+[Result "1-0"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "f0dd312e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4
+8. Bxc4 c5 9. Nf3 Qc7 10. Bd3 cxd4 11. O-O Qxc3 12. Rb1 dxe3 13. Bb2 exf2+
+14. Rxf2 Qc5 15. Bxf6 gxf6 16. Rb5 Qe3 17. Bxh7+ Kxh7 18. Ng5+ Kg6 19. Nh7
+Kxh7 20. Rh5+ Kg6 21. Qg4+ Qg5 22. Rxf6+ Kxf6 23. Qxg5# 1-0
+

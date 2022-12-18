@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Lutikov, Anatoly S"]
+[Black "Hamerman"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Keres variation"]
+[HashCode "7ae47114"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nd2 Bf5 6. dxe4 Nxe4 7. Ngf3 Qxd5 8.
+Bc4 Qa5 9. Qe2 Bc5 10. c3 Kd8 11. Nxe4 Re8 12. Ne5 Bxe4 13. Qxe4 f6 14. Qd5+
+Ke7 15. Qe6+ Kd8 16. Nf7# 1-0

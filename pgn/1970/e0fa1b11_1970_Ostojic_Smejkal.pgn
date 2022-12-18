@@ -1,0 +1,23 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1970.08.01"]
+[Round "10"]
+[White "Ostojic, Predrag"]
+[Black "Smejkal, Jan"]
+[Result "0-1"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "e0fa1b11"]
+[Epoch "Bishop"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Nb8 10. d4 Nbd7 11. Bg5 Bb7 12. Nbd2 h6 13. Bh4 Re8 14. a4 c5 15. dxe5
+Nxe5 16. Nxe5 dxe5 17. Bxf6 Bxf6 18. axb5 axb5 19. Qe2 c4 20. Bc2 Re6 21. b3
+Rea6 22. Rxa6 Rxa6 23. Rd1 Qa5 24. bxc4 Qxc3 25. cxb5 Ra2 26. Bd3 Bg5 27. Nb1
+Qb3 28. Qf1 Rb2 29. Qe1 Be7 30. Rd2 Bc5 31. Rxb2 Qxb2 32. Qd2 Qa1 33. Qc3 Qa7
+34. Qxe5 Bxf2+ 35. Kf1 Qe3 36. Be2 Bg3 37. Qe8+ Kh7 38. Qxf7 Qc1+ 39. Bd1 Qxd1#
+0-1

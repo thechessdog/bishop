@@ -1,0 +1,16 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Belkadi, Ridha"]
+[Black "Martinez, F."]
+[Result "1-0"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "b4ee7aa4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 O-O 9. Be3 cxd4 10. cxd4 Nc6 11. O-O Na5 12. Bd3 Be6 13. d5 Bxa1 14. Qxa1
+f6 15. Bh6 Re8 16. Nf4 Bd7 17. e5 a6 18. Qb1 fxe5 19. Bxg6 1-0

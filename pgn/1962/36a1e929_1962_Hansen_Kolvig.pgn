@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Hansen, Victor"]
+[Black "Kolvig, Bent"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti v Dutch"]
+[HashCode "36a1e929"]
+[Epoch "Bishop"]
+[WhiteID "1502638"]
+[BlackID "1400746"]
+[WhiteCountry "NOR"]
+[BlackCountry "DEN"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 g6 4. b3 Bg7 5. Bb2 d6 6. d4 O-O 7. O-O e5 8. dxe5
+Ng4 9. Qc1 Nxe5 10. Nbd2 Nbc6 11. Rd1 Qe7 12. Nxe5 Nxe5 13. Nf3 Re8 14. h4 f4
+15. Nxe5 dxe5 16. e3 Bg4 17. Bxb7 Rab8 18. Bd5+ Kh8 19. f3 Be6 20. exf4 Qc5+
+0-1

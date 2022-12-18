@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1971.07.01"]
+[Round "11"]
+[White "Van der Weide, Piet"]
+[Black "Malich, Burkhard, Dr."]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "c94ce109"]
+[Epoch "Bishop"]
+[WhiteID "1001370"]
+[WhiteCountry "NED"]
+[BlackID "4611330"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. f4 b5 8. e5
+dxe5 9. fxe5 Nd5 10. Nxd5 Qxd5 11. Be2 Bb7 12. Qd2 Qxe5 13. Bf4 Qc5 14. O-O-O
+Be7 15. Nb3 Qc8 16. Na5 Bd5 17. Qe3 Nc6 18. Bg4 Nxa5 19. Rxd5 Qc4 20. Re5 Qxa2
+21. Bxe6 fxe6 22. Rxe6 Qa1+ 23. Kd2 Nc4+ 24. Ke2 Nxe3 25. Rxa1 Nxc2 26. Rd1 Kf7
+27. Re4 Rhd8 0-1

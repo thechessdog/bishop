@@ -1,0 +1,22 @@
+[Event "Esbjerg op"]
+[Site "Esbjerg"]
+[Date "1972.01.01"]
+[Round "3"]
+[White "Moe, Mogens"]
+[Black "Poulsen, Allan"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "b9a799cc"]
+[Epoch "Bishop"]
+[WhiteID "1400550"]
+[BlackID "1400533"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 e5 8. Nf3
+b5 9. O-O Nbd7 10. Qe1 Bb7 11. Bd2 Be7 12. Kh1 Nc5 13. b4 Ncd7 14. a4 bxa4 15.
+Nxa4 O-O 16. c4 exf4 17. Bxf4 Ne5 18. Nxe5 dxe5 19. Bg5 Rad8 20. Rd1 Nxe4 21.
+Bxe7 Qxe7 22. Bxe4 Rxd1 23. Bxh7+ Kxh7 24. Qxd1 Qxb4 25. Qc2+ f5 26. Rxf5 g6
+27. Rh5+ Kg7 28. Qc1 Qd2 0-1

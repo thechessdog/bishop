@@ -1,0 +1,19 @@
+[Event "DDR-12ch"]
+[Site "Gera"]
+[Date "1962.??.??"]
+[Round "16"]
+[White "Pietzsch, Wolfgang"]
+[Black "Malich, Burkhard, Dr."]
+[Result "1/2-1/2"]
+[ECO "D13"]
+[Opening "QGD Slav"]
+[Variation "exchange variation"]
+[HashCode "4f2b25f4"]
+[Epoch "Bishop"]
+[BlackID "4611330"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 e6 7. e3 Be7 8. Bd3
+O-O 9. O-O Nh5 10. Bg3 Nxg3 11. hxg3 f5 12. Rc1 Bd7 13. Bb5 Rc8 14. Bxc6 Bxc6
+15. Ne5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Petersen, Lars"]
+[Black "Norman Hansen, Holger"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "748d5921"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Bc5 6. Nd6+ Bxd6 7. Qxd6 Qf6
+8. Qd1 Qg6 9. Nc3 Nge7 10. Be3 d6 11. Qd2 O-O 12. O-O-O Rd8 13. Bc4 Be6 14. Bb3
+Na5 15. f4 Nxb3+ 16. axb3 exf4 17. Bxf4 Rac8 18. h4 Bg4 19. Rde1 h5 20. Re3 d5
+21. exd5 Rxd5 22. Qf2 Qa6 23. Na4 Nf5 24. Rc3 Rcd8 25. Rf3 Bxf3 26. Qxf3 Nd4
+27. Qe4 Ne2+ 28. Kb1 Rd4 0-1

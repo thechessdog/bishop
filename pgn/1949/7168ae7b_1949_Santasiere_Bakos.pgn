@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Santasiere, Anthony"]
+[Black "Bakos, N."]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Reti variation"]
+[HashCode "7168ae7b"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Qe2 Qxd5 6. Nc3 Bb4 7. Bd2 Bxc3 8.
+Bxc3 O-O 9. Bxf6 exd3 10. Qe5 d2+ 11. Kd1 Bg4+ 12. Ne2 Bxe2+ 13. Bxe2 Qxg2 14.
+Qg5 Qxh1+ 15. Kxd2 1-0

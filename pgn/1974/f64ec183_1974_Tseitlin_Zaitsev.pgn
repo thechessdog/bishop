@@ -1,0 +1,27 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Tseitlin, Mikhail S"]
+[Black "Zaitsev, Igor"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "f64ec183"]
+[Epoch "Bishop"]
+[WhiteCountry "BLR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Ne7 6. Nxe5 Qd4 7. Qh5 g6 8.
+Qg5 Bg7 9. Nf3 Qxe4 10. Re1 Qb4 11. d4 Be6 12. c3 h6 13. Qg3 Qa5 14. b4 Qa4 15.
+Qxc7 Nd5 16. Qg3 O-O 17. Bf4 Bf5 18. Be5 Rfe8 19. Nbd2 Nxc3 20. Nh4 Qc2 21.
+Nxf5 Bxe5 22. Nxh6+ Kg7 23. dxe5 Qxd2 24. Nf5+ Kf8 25. Nd6 Ne2+ 26. Rxe2 Qxe2
+27. Nxe8 Rxe8 28. f4 Rd8 29. h3 Rd3 30. Re1 Qxe5 31. Qh4 Qd4+ 32. Kh2 Re3 33.
+Rxe3 Qxe3 34. Qh8+ Ke7 35. Qb8 b6 36. a4 Kf6 37. Qd6+ Kg7 38. h4 c5 39. a5 Qe1
+40. Qd8 bxa5 41. bxc5 Qc3 42. Qd6 Qf6 43. Qe5 Qxe5 44. fxe5 Kf8 45. c6 Ke7 46.
+g4 a4 47. h5 gxh5 48. gxh5 a3 49. h6 a2 50. h7 a1=Q 51. h8=Q Qb2+ 52. Kg3 Qc3+
+53. Kf4 Qc1+ 54. Kf5 Qxc6 55. Qh4+ Ke8 56. Qh8+ Kd7 57. Qb8 Qe6+ 58. Kf4 Kc6
+59. Qa8+ Kc5 60. Qa7+ Kc4 61. Qc7+ Kd3 62. Qd6+ Ke2 63. Qc5 Qb3 64. Qa5 Qd3 65.
+Qa4 Qf3+ 66. Kg5 Qg3+ 67. Kf5 Qg6+ 68. Kf4 Qd3 69. Kg5 Qg3+ 70. Kf5 Qh3+ 71.
+Kg5 Qg2+ 72. Kf4 Qf1+ 73. Kg5 Ke3 74. e6 Qg2+ 75. Kh4 Qf2+ 76. Kh3 Qf5+ 77. Kh2
+Qxe6 0-1

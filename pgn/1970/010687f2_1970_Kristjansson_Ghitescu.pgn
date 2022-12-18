@@ -1,0 +1,21 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kristjansson, Olafur"]
+[Black "Ghitescu, Theodor"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "010687f2"]
+[Epoch "Bishop"]
+[WhiteID "2300656"]
+[WhiteCountry "ISL"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 b5 8. Qe2
+Nbd7 9. Bd2 Bb7 10. O-O g6 11. Rae1 Bg7 12. Nf3 e5 13. Kh1 O-O 14. fxe5 dxe5
+15. a4 b4 16. Nb1 a5 17. c3 Qd6 18. Bc2 Ba6 19. c4 Nc5 20. Rd1 Qc7 21. Bg5 b3
+22. Bd3 Nxd3 23. Rxd3 Bxc4 24. Rc1 Bxd3 25. Qxd3 Qd7 26. Qxb3 Nxe4 27. Be3 Rab8
+0-1

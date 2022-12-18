@@ -1,0 +1,21 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1974.??.??"]
+[Round "10"]
+[White "Commons, Kim S"]
+[Black "Kaufman, Larry C"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "262561ef"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. Nf3 Nc6 7. cxd5 Nxd5 8.
+Bd3 Be7 9. O-O O-O 10. Re1 Ncb4 11. Bb1 Nf6 12. Bg5 Bd7 13. Ne5 Bc6 14. Re3
+Nbd5 15. Rg3 g6 16. Bh6 Nxc3 17. bxc3 Re8 18. Qe2 Qd5 19. Bd3 Rf8 20. Bg5 Ne4
+21. Rg4 Nxg5 22. Rxg5 f6 23. Bxg6 fxg5 24. Bxh7+ Kg7 25. Nxc6 Qxc6 26. Be4 Qxc3
+27. Rb1 Rac8 28. h4 Bd6 29. g3 Qxd4 30. Rxb7+ Rf7 31. Rb5 Rc5 32. Rb3 Rc3 33.
+Rxc3 Qxc3 34. Qh5 Qe1+ 35. Kh2 Qxf2+ 36. Kh1 Qe1+ 37. Kh2 Qxg3+ 38. Kh1 Qh2#
+0-1

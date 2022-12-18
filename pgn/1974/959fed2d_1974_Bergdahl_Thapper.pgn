@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Bergdahl, Assar"]
+[Black "Thapper, Roland"]
+[Result "0-1"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "959fed2d"]
+[Epoch "Bishop"]
+[BlackID "1735934"]
+[BlackCountry "SWE"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 c5 4. d5 d6 5. e4 Bg7 6. Be2 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 Na6 11. Kh1 Nc7 12. a4 b6 13. f3 Rb8 14. Nc4 Ba6 15.
+Ne3 Bxe2 16. Nxe2 Nd7 17. g4 a6 18. Ng3 b5 19. axb5 axb5 20. Qc2 b4 21. f4 Nb5
+22. g5 Nd4 23. Qd1 f6 24. h4 b3 25. Rf2 Ra8 26. Rxa8 Qxa8 27. h5 fxg5 28. hxg6
+hxg6 29. f5 Rf8 30. Rh2 Nf6 31. fxg6 Qe8 32. Qd3 Nf3 0-1

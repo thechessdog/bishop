@@ -1,0 +1,20 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Essegern, K."]
+[Black "Stabenow, J."]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "202822d4"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bb3 c5 9. Be3 Qc7 10. dxc5 Bxc5 11. Qb5+ Nbd7 12. Bxe6 Bxe3 13. Bxf7+
+Ke7 14. fxe3 h6 15. Bb3 hxg5 16. Qxg5 Kf8 17. Nf3 Ne4 18. Qd5 Ndf6 19. Qd4
+Bg4 20. Ne5 Bh5 21. O-O Ke7 22. Rf4 Rad8 23. Rxe4 Rxd4 24. Ng6+ Kd8 25.
+Rxd4+ Ke8 26. Nxh8 Qe5 27. Re1 Qg5 28. c3 Qh6 29. e4 Qg5 30. e5 Ng4 31. g3
+b5 32. e6 Qf5 33. Rf1 Qe5 34. Bd1 Qe3+ 35. Kg2 Qxe6 36. Rff4 1-0
+

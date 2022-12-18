@@ -1,0 +1,20 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Ungureanu, Emil"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "f40fb408"]
+[Epoch "Bishop"]
+[WhiteCountry "ROU"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Qb6 6. Na3 a6 7. Ba4 Qc7 8. d4
+b5 9. Bb3 d6 10. Re1 c4 11. Bc2 e5 12. h3 Bb7 13. d5 Nb8 14. Bd2 Nd7 15. b3 Qc5
+16. Qc1 cxb3 17. axb3 Ngf6 18. Bd3 O-O 19. b4 Qc7 20. c4 bxc4 21. Nxc4 Rfc8 22.
+Qa3 Nxe4 23. Rxe4 f5 24. Ree1 e4 25. Rac1 exf3 26. Na5 Qb8 27. Re7 Rxc1+ 28.
+Qxc1 Qc8 29. Nxb7 Qxb7 30. Bxf5 gxf5 31. Bc3 1-0

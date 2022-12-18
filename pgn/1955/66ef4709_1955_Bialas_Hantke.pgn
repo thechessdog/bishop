@@ -1,0 +1,28 @@
+[Event "Hoechst ch-GER"]
+[Site "Hoechst ch-GER"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Bialas, Wolfram"]
+[Black "Hantke, R."]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "66ef4709"]
+[Epoch "Bishop"]
+[WhiteID "4601041"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Ne2 Nf6 3. Nbc3 e5 4. g3 d6 5. Bg2 Be7 6. d3 a6 7. O-O b5 8. f4 Bb7
+9. Nd5 Bxd5 10. exd5 Ra7 11. c4 Nbd7 12. Nc3 b4 13. Ne4 exf4 14. Bxf4 Nxe4 15.
+Bxe4 O-O 16. Kh1 a5 17. Qe2 Ra6 18. Qg2 Bf6 19. Qh3 g6 20. Rf2 Bd4 21. Re2 f5
+22. Bf3 g5 23. Be3 g4 24. Bxg4 fxg4 25. Qxg4+ Bg7 26. d4 Kh8 27. Bg5 Nf6 28.
+Qh4 cxd4 29. Re6 Ra7 30. Qxd4 Raf7 31. Rf1 Ng8 32. Rxf7 Bxd4 33. Bxd8 Rxf7 34.
+Bxa5 Rf1+ 35. Kg2 Rf2+ 36. Kh3 Bc5 37. a3 Rxb2 38. axb4 Bxb4 39. Bb6 Rd2 40.
+Be3 Rd3 41. Bf4 Rd4 42. Bxd6 Bxd6 43. Rxd6 Rxc4 44. Rc6 Rd4 45. Rc2 Nf6 46. Kg2
+Nxd5 47. Ra2 Kg7 48. Kf3 Kg6 49. Kg2 Rc4 50. Ra6+ Nf6 51. Ra2 Ng4 52. Kf3 Kf5
+53. Ra5+ Ne5+ 54. Ke3 Rc3+ 55. Kd2 Rb3 56. Kc2 Rf3 57. Kd2 Rf2+ 58. Ke3 Rxh2
+59. g4+ Kf6 60. Ra6+ Kg7 61. Kf4 Ng6+ 62. Kg3 Re2 63. Kf3 Re5 64. Ra7+ Re7 65.
+Ra5 Ne5+ 66. Kf4 Nf7 67. Ra4 Re6 68. Rb4 Rf6+ 69. Kg3 Ne5 70. Re4 Nf7 71. Ra4
+Kg6 72. Ra5 Ng5 73. Ra3 Ne4+ 74. Kh4 Rf4 75. Ra6+ Nf6 76. Kh3 Rd4 77. Re6 Kf7
+78. Ra6 Nxg4 79. Kh4 Nf6+ 80. Kg5 Rd5+ 81. Kf4 Kg6 82. Rb6 Rc5 0-1

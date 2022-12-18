@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Friederich, E."]
+[Black "Dahlhaus, F."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "330b4445"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. d3 d6 8.
+c3 O-O 9. Bg5 h6 10. Bh4 g5 11. Nxg5 hxg5 12. Bxg5 Kg7 13. Qf3 Nb8 14. h4
+Be6 15. h5 Nbd7 16. h6+ Kh7 17. Bc2 Rg8 18. Qg3 Bxf2+ 19. Kxf2 Rxg5 0-1
+

@@ -1,0 +1,17 @@
+[Event "BRD"]
+[Site "BRD"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Haubt"]
+[Black "Zunker"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "fd5660e5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c6 5. e4 dxe4 6. fxe4 h6 7. Bh4 Qa5
+8. Qd2 e5 9. dxe5 Nxe5 10. Bxf6 gxf6 11. Bd3 Be6 12. Nf3 O-O-O 13. O-O Ng4
+14. Nd1 Bb4 15. Qe2 h5 16. c3 Be7 17. b4 Qb6+ 18. Kh1 h4 19. a4 Qc7 20. Ne3
+Ne5 21. Bc4 Ng6 22. Bxe6+ fxe6 23. Nd4 1/2-1/2
+

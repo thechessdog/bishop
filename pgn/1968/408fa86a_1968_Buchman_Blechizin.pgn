@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Buchman"]
+[Black "Blechizin"]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "408fa86a"]
+[Epoch "Bishop"]
+
+1. c4 f5 2. d4 Nf6 3. g3 g6 4. Nc3 Bg7 5. Bg2 O-O 6. Nf3 d6 7. O-O c6 8. d5
+e5 9. dxe6 Bxe6 10. b3 Ne4 11. Nxe4 Bxa1 12. Bh6 Bg7 13. Bxg7 Kxg7 14. Qd4+
+Kg8 15. Nxd6 Qe7 16. e4 fxe4 17. Nxe4 Nd7 18. Re1 h6 19. Nd6 Rf6 20. Nxb7
+c5 21. Qe3 g5 22. Ne5 Nxe5 23. Qxe5 1-0
+

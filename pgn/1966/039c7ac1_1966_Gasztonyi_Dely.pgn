@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Gasztonyi, Endre"]
+[Black "Dely, Peter"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "039c7ac1"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 c5 6. Bd3 d5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Ba5 10. Ne2 Bb6 11. dxc5 Bxc5 12. b4 Bd6 13. Bb2 e5 14. Ng3 Qe7 15.
+Qc2 Bg4 16. Rad1 g6 17. Be2 Rac8 18. Qb1 Nh5 19. Ne4 Bb8 20. h3 Bf5 21. b5 Na5
+22. g4 Bxe4 23. Qxe4 Nf6 24. Qa4 b6 25. g5 Nh5 26. Rd5 Rfd8 27. Rfd1 Rxd5 28.
+Rxd5 Qe6 29. Qd1 Ng7 30. Nxe5 Qe7 31. Ng4 1-0

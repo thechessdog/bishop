@@ -1,0 +1,19 @@
+[Event "Olot"]
+[Site "Olot"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Pomar Salamanca, Arturo"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "1784c987"]
+[Epoch "Bishop"]
+[WhiteID "900010"]
+[WhiteCountry "SRB"]
+[BlackCountry "EST"]
+
+1. b3 d5 2. Bb2 Nf6 3. f4 c5 4. e3 Nc6 5. Nf3 g6 6. Bb5 Bd7 7. Nc3 d4 8. Na4
+Qa5 9. Qe2 Nb4 10. Bxd7+ Nxd7 11. O-O Bg7 12. exd4 Nxc2 13. Rac1 Nxd4 14. Nxd4
+cxd4 15. Ba3 Bf6 16. Qe4 O-O 17. Qxb7 1/2-1/2

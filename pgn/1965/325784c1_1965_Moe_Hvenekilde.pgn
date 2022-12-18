@@ -1,0 +1,21 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Moe, Mogens"]
+[Black "Hvenekilde, Jorgen"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "325784c1"]
+[Epoch "Bishop"]
+[WhiteID "1400550"]
+[BlackID "1400649"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Qxe7 8. Nb5
+O-O 9. Nc7 Nc6 10. Nxa8 cxd4 11. Ne2 f6 12. Nxd4 fxe5 13. Nxe6 Qb4+ 14. c3 Qxb2
+15. Be2 Qxc3+ 16. Kf1 Rf6 17. Nac7 Nb6 18. Rc1 Qa5 19. Nc5 d4 20. Qb3+ Kh8 21.
+Ne8 Rf8 22. Nd6 Nd8 23. Nxc8 Nxc8 24. Nd7 Rf7 25. Rxc8 Rxd7 26. Qe6 1-0

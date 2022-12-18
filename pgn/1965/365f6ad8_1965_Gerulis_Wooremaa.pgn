@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Gerulis"]
+[Black "Wooremaa"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "365f6ad8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. a3 Nxd4
+8. Qxd4 Ne7 9. Be3 Nc6 10. Qd2 Be7 11. O-O O-O 12. f4 d6 13. Rad1 Na5 14.
+f5 Nc4 15. Bxc4 Qxc4 16. f6 Bxf6 17. Rxf6 gxf6 18. Qxd6 Qc6 19. Qg3+ Kh8
+20. Qh4 e5 21. Nd5 Rd8 22. Rf1 1-0
+

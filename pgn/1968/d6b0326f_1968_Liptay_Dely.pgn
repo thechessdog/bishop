@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Liptay, Laszlo"]
+[Black "Dely, Peter"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "d6b0326f"]
+[Epoch "Bishop"]
+[WhiteID "700320"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 Nc6 6. Bg2 Ne4 7. Bd2 Bxc3 8.
+bxc3 Nxd2 9. Qxd2 d6 10. O-O O-O 11. e4 b6 1/2-1/2

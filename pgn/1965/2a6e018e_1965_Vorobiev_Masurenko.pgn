@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Vorobiev"]
+[Black "Masurenko"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "2a6e018e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Nc6 8.
+O-O-O Bd7 9. f4 b5 10. Bxb5 axb5 11. Ndxb5 Nb4 12. a3 Bxb5 13. Nxb5 d5 14.
+Nc3 Qb6 15. Bxf6 gxf6 16. exd5 Rxa3 17. Qe2 Ra1+ 18. Kd2 Qd4+ 19. Ke1 Rxd1+
+20. Nxd1 Nxd5 0-1
+

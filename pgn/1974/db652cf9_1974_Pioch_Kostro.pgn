@@ -1,0 +1,24 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pioch, Zygmunt"]
+[Black "Kostro, Jerzy"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "db652cf9"]
+[Epoch "Bishop"]
+[WhiteID "1102664"]
+[BlackID "1101188"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Bf4 Be7 7. c5 O-O 8. Nf3
+Ne4 9. Bd3 Nxc3 10. bxc3 b6 11. Rb1 Nc6 12. cxb6 axb6 13. Qc2 h6 14. O-O Ba6
+15. Rb2 Na5 16. Bxa6 Rxa6 17. Nd2 Qa8 18. Rfb1 Qa7 19. Qd3 Rc8 20. Qg3 Kh8 21.
+Be5 Bf8 22. h4 Nc6 23. Nf3 Kg8 24. Bd6 Ne7 25. Bxe7 Bxe7 26. Ne5 Bd6 27. Qd3
+Bxe5 28. dxe5 Rc6 29. Qe3 Qc7 30. Rc2 Ra4 31. Rcb2 Re4 32. Qd2 Qxe5 33. g3 Qc7
+34. Rb4 Rxb4 35. cxb4 Rc2 36. Qe3 Rxa2 37. Rc1 d4 38. Qxh6 Rc2 39. Rxc2 Qxc2
+40. Qg5 d3 0-1

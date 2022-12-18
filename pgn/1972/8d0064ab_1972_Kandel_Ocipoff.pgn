@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1972.01.01"]
+[Round "12"]
+[White "Kandel, I."]
+[Black "Ocipoff, Nicholas"]
+[Result "1-0"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "8d0064ab"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Bh4 e6
+9. Nf3 exd5 10. cxd5 Re8 11. Nd2 b6 12. O-O Ba6 13. f4 Qd7 14. h3 b5 15. e5 b4
+16. Bxf6 bxc3 17. Ne4 cxb2 18. Rb1 Bxe2 19. Qxe2 dxe5 20. fxe5 Qxd5 21. Rfd1
+Qxa2 22. Rxb2 Qa6 23. Qf3 Nc6 24. Bxg7 Kxg7 25. Qf6+ Kg8 26. Nd6 Rf8 27. e6 Qa4
+28. Rbd2 Qb3 29. Nxf7 Kh7 30. Ng5+ hxg5 31. Rd7+ Kh6 32. Qg7+ Kh5 33. Qh7# 1-0

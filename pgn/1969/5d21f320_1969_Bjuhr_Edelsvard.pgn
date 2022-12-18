@@ -1,0 +1,21 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bjuhr, Arne"]
+[Black "Edelsvard, Olle"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "5d21f320"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. Bb3 Nxd4 11. Bxd4 b5 12. h4 a5 13. a4 bxa4 14. Nxa4
+Be6 15. Bxe6 fxe6 16. g4 Qc7 17. Qc3 Qb7 18. h5 Nxe4 19. Qc4 Ng5 20. O-O-O
+Qb4 21. Nb6 Qxc4 22. Nxc4 Nxf3 23. Be3 Ne5 24. Nxe5 Bxe5 25. hxg6 hxg6 26.
+Rh6 Bg7 27. Rh3 Rab8 28. b3 Rb5 29. Rdh1 g5 30. Rh5 Bf6 31. Bd2 Rc8 32.
+R1h3 Rbc5 33. Kd1 Kf7 34. c3 Ke8 35. Kc2 Kd7 36. Rf3 e5 37. c4 a4 38. Bxg5
+axb3+ 39. Kxb3 Bxg5 40. Rxg5 Rxc4 41. Rg7 R4c7 42. Rh7 e4 0-1
+

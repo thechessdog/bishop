@@ -1,0 +1,22 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gibson, J."]
+[Black "Formanek, Edward"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "5160bd4c"]
+[Epoch "Bishop"]
+[BlackID "2001640"]
+[BlackCountry "USA"]
+
+1. b3 d5 2. Bb2 Bf5 3. Nf3 Nf6 4. g3 e6 5. Bg2 Bd6 6. O-O O-O 7. d3 Re8 8. Nc3
+c6 9. Re1 e5 10. e4 Bg4 11. Qd2 d4 12. Ne2 c5 13. Nh4 g6 14. f4 exf4 15. e5
+fxg3 16. Nxg3 Bxe5 17. Bxb7 Nbd7 18. Bxa8 Qxa8 19. Qg2 Qxg2+ 20. Nxg2 Nd5 21.
+Ne4 Bc7 22. Nxc5 Ne5 23. Kh1 Bf3 24. Ne4 f5 25. Nd2 Bxg2+ 26. Kxg2 Ne3+ 27. Kh1
+Nxc2 28. Rec1 Nxa1 29. Rxc7 Nxd3 30. Bxd4 Re1+ 31. Kg2 Re2+ 32. Kg3 f4+ 33. Kf3
+Rxd2 34. Bxa1 Rxa2 35. Bd4 Rxh2 36. Rxa7 Rh3+ 37. Ke4 Nb4 38. Rb7 Rxb3 39. Rg7+
+Kf8 40. Rxh7 1/2-1/2

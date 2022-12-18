@@ -1,0 +1,16 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Koolmeister"]
+[Black "Zolotonos, Leonid"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "7edf7f73"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Nc3 d5 6. Bg2 O-O 7. O-O dxc4 8. Ne5
+Be6 9. e4 Nfd7 10. Nxd7 Qxd7 11. e5 Na6 12. a3 Nc7 13. f4 Rfd8 14. Be3 Bf5 15.
+Kf2 Bd3 16. Rh1 Ne6 17. d5 cxd5 18. Nxd5 Qb5 19. Nb4 Nc5 20. Ra2 a5 21. Nxd3
+Nxd3+ 22. Kf1 Nxf4 23. Qc2 c3+ 0-1

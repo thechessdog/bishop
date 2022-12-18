@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1960.03.01"]
+[Round "10"]
+[White "Bazan, Osvaldo"]
+[Black "Saadi, Julio"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "fff678ba"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. Nf3 c5 2. e4 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 Bd6 8.
+Kh1 b5 9. a4 b4 10. Bg5 Be5 11. c3 bxc3 12. bxc3 h6 13. Bd2 g5 14. Na3 Bb7 15.
+Nc4 Nc6 16. Rab1 Rb8 17. f4 Bxf4 18. Bxf4 gxf4 19. e5 Nxd4 20. cxd4 f3 21. gxf3
+Nd5 22. Nd6+ Ke7 23. Qe4 Bc6 24. Qh4+ f6 25. Be4 Rbf8 26. Rg1 Kd8 27. Rg6 Qa7
+28. exf6 Qxd4 29. f7+ Ne7 30. Ne8 d5 31. Rxe6 Rxf7 32. Rb8+ Kd7 33. Rd6# 1-0

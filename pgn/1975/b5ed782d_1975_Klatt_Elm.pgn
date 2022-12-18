@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Klatt, O."]
+[Black "Elm, W."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "b5ed782d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Nc6
+8. Nxc6 bxc6 9. c5 Be7 10. Nd2 Bf6 11. Nxe4 dxe4 12. Bxe4 Bxd4 13. Qc2 Ba6
+14. Rd1 Qf6 15. Bxh7+ Kh8 16. Bd3 Bxd3 17. Rxd3 Rfd8 18. Rh3+ Kg8 19. Qh7+
+Kf8 20. Be3 Bxb2 21. Re1 1-0
+

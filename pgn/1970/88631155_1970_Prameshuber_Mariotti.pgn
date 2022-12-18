@@ -1,0 +1,23 @@
+[Event "Lugano II"]
+[Site "Lugano II"]
+[Date "1970.03.01"]
+[Round "1"]
+[White "Prameshuber, Aleksander"]
+[Black "Mariotti, Sergio"]
+[Result "0-1"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "88631155"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+
+1. Nf3 e6 2. g3 f5 3. Bg2 Nf6 4. O-O Be7 5. b3 O-O 6. c4 d6 7. d4 Qe8 8. Nc3
+Qh5 9. Qc2 Nc6 10. Ba3 g5 11. d5 g4 12. dxc6 gxf3 13. exf3 bxc6 14. f4 Bd7 15.
+Rfe1 Kf7 16. Qe2 Qxe2 17. Nxe2 Rab8 18. Nc3 c5 19. Re2 a6 20. Rae1 Rfe8 21. Bf3
+h5 22. h4 Ng4 23. Nd1 Bf6 24. Ne3 a5 25. Nxg4 hxg4 26. Bg2 Bd4 27. Rd1 Kf6 28.
+Kh2 Re7 29. Bb2 e5 30. fxe5+ dxe5 31. Ba3 Rh7 32. Red2 Be8 33. Kg1 Rb6 34. Kf1
+a4 35. Rb1 Bf7 36. Rdd1 axb3 37. axb3 Rh8 38. Bd5 Rhb8 39. Bxf7 Kxf7 40. Bc1
+Rxb3 41. Rxb3 Rxb3 42. Bd2 Rf3 43. Be1 f4 44. Ke2 Kg6 45. Rb1 Ra3 46. gxf4 exf4
+47. Rb8 f3+ 48. Kd1 Ra1+ 49. Kd2 Ra2+ 50. Kd3 Bxf2 51. Bxf2 Rxf2 52. Rg8+ Kf5
+53. Rg5+ Kf4 54. Rxc5 g3 55. Rxc7 g2 56. Rf7+ Ke5 0-1

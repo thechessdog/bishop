@@ -1,0 +1,19 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Walsh, Peter"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "e9d441c0"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Bd7 9. e5 Nh5 10. g4 Qh4+ 11. Kf1 Ng3+ 12. hxg3 Qxh1 13. exd6 Bd4 14. Qe2+ Kf8
+15. Be3 Bxg4 16. Qxg4 Bxe3 17. Ke2 Bxg1 18. Qc8+ Kg7 19. Qxb7 Qg2+ 20. Kd3 c4+
+21. Kxc4 a6 22. Qxa8 axb5+ 23. Kb3 Nd7 24. Qc6 Nc5+ 25. Ka3 b4+ 26. Kxb4 Qxb2+
+27. Kc4 Qxa1 28. d7 Qf1+ 29. Kb4 Rb8+ 30. Ka5 Qc4 0-1

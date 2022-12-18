@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Farley, T."]
+[Black "Holms, W."]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "f027d75e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 exd4 6. Re1 f5 7. Nxd4 Ne7
+8. Ne6 c6 9. Nxd8 cxb5 10. Nxb7 Bxb7 11. f3 Nf6 12. Qd3 g6 13. Qxb5 Rb8 14.
+Qe5 1-0
+

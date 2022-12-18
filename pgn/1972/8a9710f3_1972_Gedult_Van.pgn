@@ -1,0 +1,15 @@
+[Event "Villars"]
+[Site "Villars"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Van Dijk"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "8a9710f3"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Bd7 6. Qxb7 Bc6 7. Bb5 Qd7 8.
+Bxc6 Qxc6 9. Qc8# 1-0

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Rosen, W."]
+[Black "Schoisswohl, A."]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "2588c1f8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. dxe5 dxe5 7. Bxf7+
+Kxf7 8. Ng5+ Kg6 9. h4 h5 10. f4 exf4 11. Ne6 Qg8 12. Nxc7 Ne5 13. Nxa8 Bg4
+14. Qd4 Nc6 15. Qa4 Qb8 16. Qb5 f3 0-1
+

@@ -1,0 +1,17 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Iglesias"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "26139344"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nc6 8. Bc4
+b5 9. Bb3 Bg4 10. O-O Be7 11. Be3 O-O 12. Qe1 Bxf3 13. gxf3 Nh5 14. Nd5 Bh4 15.
+Qd2 Na5 16. Bb6 Nxb3 17. axb3 Qd7 18. Be3 Bd8 19. Rad1 f5 20. Nc3 Nxf4 21. Qxd6
+Qxd6 22. Rxd6 1/2-1/2

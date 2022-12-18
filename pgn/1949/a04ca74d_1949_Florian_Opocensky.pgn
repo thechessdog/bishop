@@ -1,0 +1,18 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Florian"]
+[Black "Opocensky"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "a04ca74d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 d5 7. exd5
+Qxd5 8. d4 Nf6 9. Bf4 e6 10. Qa4 Be7 11. dxc5 O-O 12. b4 Qe4 13. Bd2 a5 14.
+Qb5 axb4 15. cxb4 Nd5 16. a3 Bf6 17. Ra2 Ndxb4 18. Bxb4 Nxb4 19. Re1 Qf4
+20. Rae2 Nd5 21. Qxb7 Qc4 22. c6 Rfb8 23. Nfd2 Qg4 24. f3 Qd4+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Leningrad-ch"]
+[Site "Leningrad"]
+[Date "1957.??.??"]
+[Round "4"]
+[White "Nikitin, Aleksander S"]
+[Black "Antoshin, Vladimir S"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "18de1d72"]
+[Epoch "Bishop"]
+[WhiteID "4103173"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+b3 O-O 9. Bb2 f6 10. Nbd2 Nc5 11. d4 exd4 12. Nxd4 Bd6 13. f4 Ne6 14. Nxe6 Bxe6
+15. Qe2 Qe7 16. Rad1 Rfd8 17. Kh1 1/2-1/2

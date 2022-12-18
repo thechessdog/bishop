@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Oliosi"]
+[Black "Salani"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "da3e4ecc"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. d3 d6 5. Nbd2 Bd7 6. Nc4 a6 7. Bxc6 Bxc6
+8. Be3 Bxe3 9. fxe3 b5 10. Na5 Ne7 11. Nxc6 Nxc6 12. d4 exd4 13. exd4 d5
+14. O-O O-O 15. e5 f6 16. c3 fxe5 17. dxe5 Rf7 18. e6 Rf6 19. Re1 Qd6 20.
+a4 Re8 21. axb5 axb5 22. Qd3 Rexe6 23. Rxe6 Qxe6 24. Ng5 1-0
+

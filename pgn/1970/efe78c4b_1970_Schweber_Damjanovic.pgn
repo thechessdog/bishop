@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1970.07.01"]
+[Round "3"]
+[White "Schweber, Samuel"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "efe78c4b"]
+[Epoch "Bishop"]
+[BlackCountry "HRV"]
+[WhiteCountry "ARG"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O dxc4 8. Bxc4
+Bd7 9. a3 Ba5 10. Qe2 Bc6 11. Rd1 Qe7 12. Ne5 Nbd7 13. Nxc6 bxc6 14. Na4 Bc7
+1/2-1/2

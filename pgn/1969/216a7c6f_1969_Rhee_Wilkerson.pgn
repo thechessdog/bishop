@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "3"]
+[White "Rhee, P."]
+[Black "Wilkerson, Max B"]
+[Result "1-0"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Magnus Smith trap"]
+[HashCode "216a7c6f"]
+[Epoch "Bishop"]
+[BlackID "2014130"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 g6 7. Nxc6 bxc6 8.
+e5 Nd7 9. exd6 exd6 10. O-O Nc5 11. Qf3 Ne6 12. Qxc6+ Bd7 13. Qd5 Rc8 14. Re1
+Rc5 15. Qd4 Rg8 16. Ne4 Re5 17. Nxd6+ Bxd6 18. Rxe5 Qc7 19. Re4 Kd8 20. Bxe6
+Bxe6 21. Bf4 1-0

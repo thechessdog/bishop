@@ -1,0 +1,20 @@
+[Event "Graz"]
+[Site "Graz"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Robatsch, Karl"]
+[Black "Pachman, Ludek"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "0bbfc508"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Ne2 O-O 8. Ng3
+Nc6 9. Bd3 Ba6 10. O-O Na5 11. e4 Bxc4 12. Bxc4 Nxc4 13. f4 d5 14. f5 Nxe4 15.
+f6 gxf6 16. Bh6 f5 17. Rxf5 exf5 18. Nxf5 f6 19. Qg4+ Kf7 20. Qh5+ Ke6 21. Ng7+
+Kd6 22. dxc5+ Nxc5 23. Nf5+ Kc7 24. Bxf8 Qxf8 25. Qxh7+ Nd7 26. Ne7 Re8 27.
+Nxd5+ Kc8 28. Rd1 Qc5+ 29. Kf1 Re5 0-1

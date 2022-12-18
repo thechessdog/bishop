@@ -1,0 +1,16 @@
+[Event "Ann Arbor"]
+[Site "Ann Arbor"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Bassin, C."]
+[Black "Browne, Walter S"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "8fbd767d"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. f4 c5 4. c3 cxd4 5. cxd4 Qb6 6. Nf3 d6 7. Nc3 Bg4 8. Nd5
+Qd8 9. Qb3 b6 10. Qc3 Nd7 11. Nc7+ Kf8 12. Nxa8 1-0

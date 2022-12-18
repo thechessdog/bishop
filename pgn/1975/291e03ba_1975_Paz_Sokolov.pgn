@@ -1,0 +1,17 @@
+[Event "corr ol8"]
+[Site "corr ol8"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Paz"]
+[Black "Sokolov, Vladimir"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O"]
+[HashCode "291e03ba"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. d4 exd4 6. Bxc6 dxc6 7. Nxd4 Nxe4
+8. Re1 f5 9. f3 Nf6 10. Qd3 O-O 11. Nxf5 Bc5+ 12. Ne3 Qxd3 13. cxd3 Bf5 14. Nc3
+Bxd3 15. Bd2 Rfe8 16. Kh1 Rad8 17. Ned1 Bd4 18. g3 b5 19. Be3 b4 20. Ne4 Nxe4
+21. fxe4 Rxe4 0-1

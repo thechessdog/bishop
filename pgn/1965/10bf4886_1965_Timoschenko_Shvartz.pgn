@@ -1,0 +1,19 @@
+[Event "Kharkov"]
+[Site "Kharkov"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Timoschenko"]
+[Black "Shvartz"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "10bf4886"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Nbd7
+8. f4 b5 9. Bf3 Bb7 10. e5 Bxf3 11. Nxf3 b4 12. exf6 bxc3 13. fxg7 Bxg7 14.
+b3 Qb6+ 15. Kh1 O-O 16. f5 e5 17. Ba3 e4 18. Ng5 Nf6 19. Qe1 Qc6 20. Qg3
+Rfd8 21. Rad1 h6 22. Ne6 fxe6 23. fxe6 Kh7 24. Qh4 e3 25. Rxf6 Bxf6 26.
+Qxf6 Rg8 27. Qf5+ Rg6 28. Rg1 0-1
+

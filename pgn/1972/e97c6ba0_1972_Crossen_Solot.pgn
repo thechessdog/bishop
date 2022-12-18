@@ -1,0 +1,23 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1972.01.01"]
+[Round "3"]
+[White "Crossen, Stephen"]
+[Black "Solot, E."]
+[Result "1-0"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "e97c6ba0"]
+[Epoch "Bishop"]
+[WhiteID "2017741"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 e6 7. e3 c5 8. dxc5
+Qa5 9. Bd6 Rd8 10. Nd2 Ne4 11. Ndxe4 dxe4 12. Qc2 Na6 13. a3 Nxc5 14. Bxc5 Qxc5
+15. Qxe4 Bd7 16. b4 Qc7 17. Qc2 Rac8 18. Be2 a5 19. O-O axb4 20. axb4 Qb6 21.
+Rb1 Bc6 22. c5 Qc7 23. Rfd1 Qe5 24. Rxd8+ Rxd8 25. Rd1 Rxd1+ 26. Nxd1 Qe4 27.
+Qxe4 Bxe4 28. Bf3 Bxf3 29. gxf3 Kf8 30. Kf1 Ke7 31. Ke2 Kd7 32. Kd3 Kc6 33. Kc4
+Be5 34. b5+ Kd7 35. f4 Bc7 36. Kd4 f6 37. h3 h6 38. f3 g5 39. fxg5 hxg5 40. Nf2
+Ke7 41. Nd3 Bg3 42. Nb4 Kd7 43. Kc4 Kc7 44. b6+ Kd7 45. Kb5 Be5 46. c6+ bxc6+
+47. Nxc6 1-0

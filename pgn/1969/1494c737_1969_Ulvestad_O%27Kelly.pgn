@@ -1,0 +1,18 @@
+[Event "Olot"]
+[Site "Olot"]
+[Date "1969.01.01"]
+[Round "7"]
+[White "Ulvestad, Olaf"]
+[Black "O'Kelly, Albéric de Galway"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "1494c737"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. a3 Bxc3 6. dxc3 d6 7. h3 e4 8. Nh2
+h5 9. b4 Qe7 10. a4 Ne5 11. b5 Be6 12. Qb3 Nfd7 13. Ba3 Nb6 14. Qc2 f5 15. c5
+dxc5 16. Be2 Nbc4 17. Bc1 Nd3+ 18. Kf1 O-O-O 19. Kg1 Rh6 20. Nf1 Rg8 21. h4 Ne1
+0-1

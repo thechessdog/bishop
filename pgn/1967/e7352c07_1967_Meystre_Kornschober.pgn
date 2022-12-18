@@ -1,0 +1,17 @@
+[Event "corr BRD-cup7"]
+[Site "corr BRD-cup7"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Meystre, G."]
+[Black "Kornschober, R."]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Hamppe-Muzio gambit"]
+[HashCode "e7352c07"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. Bc4 g4 6. O-O gxf3 7. Qxf3 Bh6
+8. d4 Qf6 9. e5 Qg7 10. Nb5 Nxd4 11. Nxd4 Qxe5 12. Qf2 Nf6 13. Bxf4 Bxf4
+14. Rae1 1-0
+

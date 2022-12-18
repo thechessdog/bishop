@@ -1,0 +1,16 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Scalia"]
+[Black "Roselli Mailhe, Bernardo"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "535b899c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8 d5
+8. exd5 Nd4 9. d6 Qxd6 10. h3 Bh4 11. Nf7 Qc5 12. b3 Ne4 13. Ba3 Ng3+ 14. Kf2
+Qb6 15. Nc3 Nge2+ 0-1

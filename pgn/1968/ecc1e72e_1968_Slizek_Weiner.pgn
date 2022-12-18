@@ -1,0 +1,21 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Slizek"]
+[Black "Weiner"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "ecc1e72e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Bg4
+8. h3 Bxf3 9. Qxf3 Qd6 10. Nd2 Qe6 11. Nc4 Nd7 12. Qg3 g6 13. f4 f6 14.
+fxe5 fxe5 15. Bd2 O-O-O 16. b4 Rhf8 17. Rfb1 b5 18. Nb2 c5 19. c3 Kb7 20.
+a4 cxb4 21. axb5 axb5 22. cxb4 Ra8 23. Qe3 Qb6 24. Qxb6+ Nxb6 25. Bc3 Bd6
+26. Nd1 Rxa1 27. Bxa1 Ra8 28. Bc3 Ra3 29. d4 exd4 30. Bxd4 Nc4 31. Nc3 Nd2
+32. Rb2 Nc4 33. Rb1 c6 34. Bg7 Ne5 35. Nd1 Nd3 36. Bc3 Ra4 37. Nb2 Nxb2 38.
+Rxb2 Ra3 39. Bd2 Be5 40. Rb1 Rd3 0-1
+

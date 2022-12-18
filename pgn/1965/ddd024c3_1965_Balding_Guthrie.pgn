@@ -1,0 +1,16 @@
+[Event "Bognor Regis-B"]
+[Site "Bognor Regis"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Balding, C."]
+[Black "Guthrie, Y."]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "ddd024c3"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Bd2 Nd7 6. a3 Bxc3 7. Bxc3 O-O 8. Bd3
+f6 9. Nf3 c5 10. exf6 Rxf6 11. dxc5 Rf7 12. Bxh7+ Kxh7 13. Ng5+ Kg8 14. Qh5 Nf6
+15. Bxf6 1-0

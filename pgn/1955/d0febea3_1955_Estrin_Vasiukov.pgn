@@ -1,0 +1,22 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1955.01.01"]
+[Round "14"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Vasiukov, Evgeni"]
+[Result "0-1"]
+[ECO "B37"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 5...Bg7"]
+[HashCode "d0febea3"]
+[Epoch "Bishop"]
+[BlackID "4100522"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Nc2 d6 7. Bd3 Nf6 8. Nc3
+O-O 9. O-O a6 10. Ne3 Nd7 11. Ncd5 Nc5 12. Rb1 e6 13. Nc3 b6 14. Qd2 Bb7 15. f3
+Nxd3 16. Qxd3 Ne5 17. Qe2 b5 18. cxb5 axb5 19. Nxb5 Rxa2 20. Nc3 Ra8 21. Rd1
+Ba6 22. Qc2 Qb6 23. Kh1 f5 24. f4 Nf7 25. Nf1 fxe4 26. Nxe4 Rac8 27. Qf2 Qc6
+28. Nc3 g5 29. Qg3 d5 30. Re1 d4 31. Nd1 gxf4 32. Bxf4 e5 33. Rc1 Qf6 34. Rxc8
+Rxc8 35. Qa3 exf4 0-1

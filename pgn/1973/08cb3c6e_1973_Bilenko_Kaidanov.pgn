@@ -1,0 +1,19 @@
+[Event "Voronezh"]
+[Site "Voronezh"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Bilenko"]
+[Black "Kaidanov, Gregory"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "08cb3c6e"]
+[Epoch "Bishop"]
+[BlackID "2008564"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Qf3 Qe7+ 6. Ne2 Nc6 7. Qd3 Bg4 8.
+f3 Bh5 9. Be3 Bg6 10. Qd2 Nf6 11. O-O-O O-O-O 12. Nf4 Bxc3 13. bxc3 Qa3+ 14.
+Kb1 Rhe8 15. Nxg6 hxg6 16. Qd3 Rxe3 17. Qxe3 Nb4 18. Qf2 Nxa2 19. Rd3 Rd6 20.
+c4 Rb6+ 21. Rb3 Nc3# 0-1

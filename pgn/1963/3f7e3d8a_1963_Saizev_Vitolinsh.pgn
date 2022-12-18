@@ -1,0 +1,20 @@
+[Event "USSR tt"]
+[Site "USSR tt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Saizev, A."]
+[Black "Vitolinsh"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "3f7e3d8a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. cxd5 Na6 10. O-O Nc7 11. a4 b6 12. Nd2 Re8 13. Re1 Rb8 14. Rb1 a6
+15. Qc2 b5 16. axb5 axb5 17. b4 Nfxd5 18. exd5 Bf5 19. Nce4 Nxd5 20. g4 Qh4
+21. Ba3 Ne3 22. Qd3 Qh3 23. Bf3 Nxg4 24. Re2 Bd4+ 25. Kh1 Rxe4 26. Nxe4 Bf2
+27. Rxf2 Bxe4 28. Qxd6 Nxf2+ 29. Kg1 Qxf3 30. Qxb8+ Kg7 31. Bb2+ Kh6 32.
+Bg7+ Kh5 0-1
+

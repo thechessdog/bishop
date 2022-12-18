@@ -1,0 +1,20 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1960.03.01"]
+[Round "5"]
+[White "Wexler, Bernardo"]
+[Black "Foguelman, Alberto"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "6059f24b"]
+[Epoch "Bishop"]
+[BlackID "101435"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. c3 Nf6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Bd6 12. N1e2 Qc7 13. Qf3 Bxf4 14. Qxf4 Qxf4
+15. Nxf4 Nbd7 16. f3 e5 17. dxe5 Nxe5 18. O-O-O O-O 19. Rhe1 Rfe8 20. Re2 Kf8
+21. Rde1 Nc4 22. Nf5 Rxe2 23. Rxe2 Re8 24. Rxe8+ 1/2-1/2

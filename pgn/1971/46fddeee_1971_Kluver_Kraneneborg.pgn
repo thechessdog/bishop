@@ -1,0 +1,15 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Kluver, Hans"]
+[Black "Kraneneborg, P."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "46fddeee"]
+[Epoch "Bishop"]
+
+1. Nc3 f5 2. e4 fxe4 3. d3 e6 4. dxe4 d6 5. Nf3 Be7 6. Bd3 Nd7 7. Be3 b6 8.
+Nd4 Kf7 9. Nxe6 Kxe6 10. Bc4+ Kf6 11. Qf3+ Kg6 12. Qf5# 1-0
+

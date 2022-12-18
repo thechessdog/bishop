@@ -1,0 +1,22 @@
+[Event "Harrachov"]
+[Site "Harrachov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Hartston, William R"]
+[Black "Moe, Mogens"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "e7642b20"]
+[Epoch "Bishop"]
+[WhiteID "400262"]
+[WhiteCountry "ENG"]
+[BlackID "1400550"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. Nxc6 bxc6 12. fxe6 fxe6 13. e5 Nd5 14. Nxd5 cxd5
+15. Be2 dxe5 16. O-O Bd6 17. c4 Qc5+ 18. Kh1 d4 19. Qd3 g6 20. Qf3 Rf8 21. Qxa8
+Rxf1+ 22. Rxf1 e4 23. Qxe4 Qxg5 24. Qc6+ Ke7 25. Qxc8 Qe5 26. Qf8+ Kd7 27. Qf7+
+Kc8 28. Qg8+ Kc7 29. Qxh7+ 1-0

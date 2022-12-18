@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Zagorovsky, Mikhail"]
+[Black "Mezgailis"]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "Ekstrom variation"]
+[HashCode "cd7b2349"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. exf6 gxh4 10. Ne5 Qxf6 11. g3 Nd7 12. f4 hxg3 13. Qf3 Rb8 14. O-O-O
+Bb7 15. Ne4 Qf5 16. Bh3 Qxh3 17. hxg3 Qxh1 18. Qxh1 c5 19. Qh5 1-0
+

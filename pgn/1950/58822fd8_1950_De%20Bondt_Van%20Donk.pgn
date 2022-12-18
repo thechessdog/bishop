@@ -1,0 +1,20 @@
+[Event "The Hague ch"]
+[Site "The Hague ch"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "De Bondt, L."]
+[Black "Van Donk, H."]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "58822fd8"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6
+8. Qb3 c5 9. d5 e6 10. Bg5 Qa5 11. Bd2 Nb4 12. d6 e5 13. Bc4 Ne8 14. Nd5
+Nxd6 15. Nxb4 Nxc4 16. Qxc4 cxb4 17. Bxb4 Be6 18. Qc3 Qb5 19. Bxf8 Bxf8 20.
+a4 Qa6 21. b4 Rc8 22. b5 Qb6 23. Qd2 Bc4 24. Rc1 a5 25. Qe3 Bb4+ 26. Nd2
+Qd6 27. h4 Rd8 28. Rc2 f5 29. exf5 gxf5 30. g3 f4 31. gxf4 exf4 32. Rg1+
+Kh8 0-1
+

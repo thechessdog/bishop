@@ -1,0 +1,21 @@
+[Event "Bad Aibling"]
+[Site "Bad Aibling"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "Kottnauer, Cenek"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "f3e0ed4a"]
+[Epoch "Bishop"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. h3 d5 8. e5
+Ne8 9. d4 cxd4 10. cxd4 Bf5 11. Bxc6 bxc6 12. Nc3 Nc7 13. Na4 Na6 14. Bd2 Rb8
+15. a3 Qc8 16. b4 Qb7 17. Rc1 Rbc8 18. Nc5 Nxc5 19. Rxc5 Rfd8 20. Bf4 Rd7 21.
+g4 Be6 22. Ng5 Qa6 23. Re3 Rb7 24. Ra5 Qc4 25. Qd2 c5 26. Nxe6 cxb4 27. Nc5 b3
+28. Nxb7 Qc1+ 29. Qxc1 Rxc1+ 30. Kg2 b2 31. Rb3 1-0

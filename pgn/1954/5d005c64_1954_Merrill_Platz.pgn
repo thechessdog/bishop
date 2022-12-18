@@ -1,0 +1,17 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Merrill, R."]
+[Black "Platz, Joseph"]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[HashCode "5d005c64"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c6 5. Nf3 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. Qd2 b4 12. exf6 bxc3 13. bxc3 Nxf6 14. Bxc4 Ne4
+15. Bxd8 Nxd2 16. Kxd2 Kxd8 0-1

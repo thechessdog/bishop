@@ -1,0 +1,22 @@
+[Event "corr BdF/I"]
+[Site "corr BdF/I"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "9bc711bb"]
+[Epoch "Bishop"]
+[BlackID "4611284"]
+[WhiteCountry "CHE"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 Be6 6. c3 Nf6 7. Bd3 Nbd7 8. O-O
+Bd6 9. Nbd2 b5 10. Kh1 Ng4 11. Qe2 O-O 12. h3 Ngf6 13. Ng5 Qe7 14. Ndf3 Nh5 15.
+Qe1 exd4 16. e5 dxc3 17. Bxh7+ Kh8 18. Qh4 g6 19. exd6 Qxd6 20. Ne4 Qd3 21. Bg5
+Qxe4 22. Qxh5 gxh5 23. Bxe4 cxb2 24. Rad1 Nc5 25. Bf6+ Kg8 26. Bb1 Bc4 27. Ng5
+Rfe8 28. Rf3 Be2 29. Rg3 Bxd1 30. Nf3+ Kf8 31. Bh7 Re1+ 32. Nxe1 Bg4 33. hxg4
+h4 34. Re3 1-0

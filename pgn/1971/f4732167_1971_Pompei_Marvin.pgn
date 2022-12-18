@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Pompei"]
+[Black "Marvin"]
+[Result "0-1"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "f4732167"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Nf3 Nf6 5. Qa4+ Nc6 6. Ne5 Bxc3+ 7. bxc3
+O-O 8. e3 Nxe5 9. dxe5 Ne4 10. Bd3 Nc5 11. Qc2 dxc4 12. Bxh7+ Kh8 13. Ba3
+Nd3+ 14. Ke2 Kxh7 15. Bxf8 b5 16. Ba3 Bb7 17. f3 Qg5 18. Rag1 g6 19. Qb1
+Qxe5 20. Kd2 Rd8 21. Kc2 a6 22. Be7 Qxe3 23. Qf1 Rd7 24. Bf6 e5 25. g4 Nb4+
+26. cxb4 Rd2+ 27. Kb1 Be4+ 28. fxe4 Qxe4+ 29. Ka1 Qd4+ 30. Kb1 Qb2# 0-1
+

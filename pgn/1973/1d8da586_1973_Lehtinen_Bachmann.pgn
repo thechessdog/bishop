@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Lehtinen, A."]
+[Black "Bachmann, M."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "1d8da586"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 cxd4 5. Bb5+ Bd7 6. dxe6 dxc3 7. exf7+
+Kxf7 8. Qd5+ Ke8 9. Bg5 Be7 10. Bc4 Bc6 11. Qf7+ Kd7 12. O-O-O+ Kc7 13.
+Rxd8 Bxg2 14. Bxe7 1-0
+

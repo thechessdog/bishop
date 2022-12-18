@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Smolensky"]
+[Black "Epelman"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Teichmann variation"]
+[HashCode "5c28b8da"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 f6 7. Qh5+ Kf8 8.
+exf6 Nxf6 9. Qe2 c5 10. dxc5 Na6 11. O-O-O Nxc5 12. Nf3 b5 13. Qe3 b4 14.
+Bxf6 gxf6 15. Qh6+ Kf7 16. Nb5 Qa5 17. Kb1 Ne4 18. Be2 Bd7 19. Nd2 Nxf2 20.
+Bh5+ Kg8 21. Rh3 Nxh3 22. gxh3 Qb6 23. Nd6 1-0
+

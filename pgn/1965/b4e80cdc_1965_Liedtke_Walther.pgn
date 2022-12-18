@@ -1,0 +1,16 @@
+[Event "corr BdF/PZ"]
+[Site "corr BdF/PZ"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Liedtke"]
+[Black "Walther, Edgar"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "b4e80cdc"]
+[Epoch "Bishop"]
+[BlackCountry "CHE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bg7 7. Qh5 e6 8.
+Nf3 Qd6 9. O-O Nd7 10. Bxe6 Qxe6 11. Re1 Ne5 12. dxe5 0-1

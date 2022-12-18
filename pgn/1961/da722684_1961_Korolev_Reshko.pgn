@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Korolev"]
+[Black "Reshko"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "da722684"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 Bg4 6. Nc3 e6 7. c5 Nd5 8.
+Qa4+ c6 9. Ne5 Bf5 10. g4 Bg6 11. Qb3 b6 12. Bg2 f6 13. Nxg6 hxg6 14. Qc2
+Kf7 15. Nxd5 cxd5 16. Be3 bxc5 17. dxc5 Qa5+ 18. Qc3 Qxc3+ 19. bxc3 Nd7 20.
+c4 Bxc5 21. cxd5 Bxe3 22. dxe6+ Kxe6 23. Bxa8 Bd4 24. O-O-O Rc8+ 25. Kb1
+Rb8+ 26. Kc2 Rc8+ 27. Kb1 Rb8+ 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "van Scheltinga, Theo Daniel"]
+[Black "Barendregt, Johan Teunis"]
+[Result "1/2-1/2"]
+[ECO "A41"]
+[Opening "Old Indian"]
+[Variation "Tartakower (Wade) variation"]
+[HashCode "664d418a"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "NLD"]
+
+1. d4 d6 2. Nf3 Bg4 3. g3 Bxf3 4. exf3 d5 5. f4 e6 6. Nd2 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Qe2 a6 10. Nb3 Nbd7 11. Be3 Rc8 12. c4 c5 13. Rac1 dxc4 14. Nxc5 b5 15.
+b4 a5 16. a3 axb4 17. axb4 Nd5 18. f5 Nxc5 19. bxc5 exf5 20. Qf3 Nxe3 21. fxe3
+Bg5 22. h4 Bh6 23. Rb1 Rb8 24. Rfe1 Re8 25. Kh2 b4 26. Qxf5 Bxe3 27. Bd5 Qc7
+28. Bxc4 Bxd4 29. Rxb4 Bxc5 1/2-1/2

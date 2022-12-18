@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Ivkov, Borislav"]
+[Black "Shteinberg"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "591fc1f2"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Qe2 Bb7 11. Bg5 Nbd7 12. Rac1 Bxc3 13. Rxc3 Qb8 14. Nd2 h6
+15. Be3 Nd5 16. Bxd5 Bxd5 17. Qg4 f5 18. Qf4 Qe8 19. Qh4 Nf6 20. Bxh6 gxh6 21.
+Qxh6 Qh5 22. Qf4 Rf7 23. Rg3+ Rg7 24. Rc1 Rxg3 25. fxg3 Qg4 26. Qe3 Rf8 27. Nf3
+f4 28. gxf4 Bxf3 29. Qxf3 Qxf3 30. gxf3 Nd5 0-1

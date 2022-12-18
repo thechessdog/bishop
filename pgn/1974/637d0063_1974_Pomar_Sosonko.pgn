@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pomar Salamanca, Arturo"]
+[Black "Sosonko, Gennadi"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[Opening "Queen's Indian"]
+[Variation "Marienbad system"]
+[HashCode "637d0063"]
+[Epoch "Bishop"]
+[BlackID "1000039"]
+[WhiteCountry "EST"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. e3 e6 6. c4 cxd4 7. exd4 Bb4+ 8. Bd2
+Bxd2+ 9. Qxd2 O-O 10. Nc3 d5 11. Ne5 Nc6 12. O-O Rc8 13. cxd5 Nxd5 14. Nxd5
+Nxe5 15. dxe5 Bxd5 16. Rfd1 Bxg2 17. Kxg2 Qxd2 1/2-1/2

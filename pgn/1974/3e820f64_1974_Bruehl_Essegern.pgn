@@ -1,0 +1,19 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Bruehl, G."]
+[Black "Essegern, K."]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "3e820f64"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. e4 c5 8. d5
+Bxc3+ 9. bxc3 Ne8 10. Bd3 Qh4 11. O-O Nd6 12. Qe2 f5 13. f4 Qg4 14. Rf3 Bb7
+15. e5 Ne8 16. Nf1 Qh5 17. Ne3 Na6 18. Qf2 d6 19. Rh3 Qf7 20. Qh4 h6 21.
+Bd2 Nac7 22. Rf1 Qd7 23. Rff3 exd5 24. Rfg3 dxe5 25. Qxh6 e4 26. Qh7+ Kf7
+27. Nxf5 1-0
+

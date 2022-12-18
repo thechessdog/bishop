@@ -1,0 +1,21 @@
+[Event "USSR tt"]
+[Site "USSR tt"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Nikolaevsky"]
+[Black "Lysenko"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "d4d30a79"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Nf6 5. Nc3 Bg7 6. e5 Ng4 7. Bxc6 dxc6
+8. Re1 Qc7 9. Qe2 O-O 10. d3 Nh6 11. Bf4 Bg4 12. Qd2 Bxf3 13. Bxh6 Bg4 14.
+Qf4 Qd7 15. Ne4 b6 16. h3 Bf5 17. Ng3 Be6 18. Re4 f5 19. Ree1 Qd4 20. Qg5
+Bxh6 21. Qxh6 Qxb2 22. c4 Rad8 23. Ne2 Rxd3 24. Nf4 Bxc4 25. Nxg6 Rf7 26.
+Nf4 Rd2 27. Rad1 Qd4 28. Rxd2 Qxd2 29. Re3 Rg7 30. Qxc6 Qd8 31. a4 Kh8 32.
+e6 Qd4 33. Qe8+ Rg8 34. Qxe7 Qa1+ 35. Kh2 Qd4 36. Qh4 Bd5 37. Rg3 Bxe6 38.
+Rd3 Rg4 39. hxg4 Qxf4+ 40. Rg3 1-0
+

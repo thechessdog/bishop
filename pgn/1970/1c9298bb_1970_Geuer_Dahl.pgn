@@ -1,0 +1,18 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Geuer, H."]
+[Black "Dahl, H."]
+[Result "1-0"]
+[ECO "D48"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Reynolds' variation"]
+[HashCode "1c9298bb"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 a6 9. e4 c5 10. d5 c4 11. dxe6 fxe6 12. Bc2 Qc7 13. O-O Bd6 14. Ng5 Nb6
+15. f4 e5 16. Nd5 Nbxd5 17. exd5 Bg4 18. Qe1 O-O 19. f5 Bc5+ 20. Kh1 Qd6
+21. h3 Bh5 22. Ne6 Bf7 23. Bg5 Nxd5 24. Nxg7 Nf6 25. Qh4 1-0
+

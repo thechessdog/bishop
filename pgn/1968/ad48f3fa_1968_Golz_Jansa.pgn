@@ -1,0 +1,23 @@
+[Event "Rubinstein mem"]
+[Site "Polanica Zdroj"]
+[Date "1968.??.??"]
+[Round "7"]
+[White "Golz, Werner"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, Benko attack"]
+[HashCode "ad48f3fa"]
+[Epoch "Bishop"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+[WhiteCountry "DEU"]
+
+1. c4 g6 2. d4 Bg7 3. Nc3 Nf6 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 Nf6 12. Nd3 c6 13. Be3 cxd5 14. cxd5 f4 15. Bf2
+g5 16. a4 h5 17. h3 Ng6 18. a5 Rf7 19. Kg2 Bf8 20. Rh1 Nh4+ 21. Bxh4 gxh4 22.
+Nf2 Nh7 23. Ra3 hxg4 24. hxg4 Ng5 25. Kf1 Bd7 26. Qe1 Rc8 27. Nh3 Nxh3 28. Rxh3
+Be7 29. Qf2 a6 30. Rb3 Rc7 31. Rb6 Bc8 32. Qe1 Qf8 33. Na4 Bd7 34. Rb4 Bxa4 35.
+Rxa4 Qc8 36. Rb4 Rc1 37. Bd1 Bd8 38. Rb6 Qc4+ 39. Kg2 Qc5 40. Qd2 Bxb6 41. axb6
+Rh7 0-1

@@ -1,0 +1,22 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Ricci"]
+[Black "Meo"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "9653383d"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 e5 4. dxe5 dxe5 5. h3 Bc5 6. Qe2 Nc6 7. Nf3 O-O
+8. O-O Qe7 9. Nc3 Be6 10. a3 Rad8 11. Bg5 h6 12. Bh4 Nd4 13. Nxd4 Bxd4 14.
+Nd1 Rd6 15. c3 Bb6 16. Ne3 Rfd8 17. Rad1 g5 18. Bg3 Bxe3 19. fxe3 Bb3 20.
+Bc2 Rxd1 21. Rxd1 Rxd1+ 22. Qxd1 Bxc2 23. Qxc2 Qd6 24. Kf2 Nd7 25. Ke2 b5
+26. a4 a6 27. b4 Nb6 28. axb5 axb5 29. Qd3 Qxd3+ 30. Kxd3 Nc4 31. Be1 h5
+32. h4 g4 33. g3 Kg7 34. Ke2 Kf6 35. Kd3 Ke6 36. Bf2 Kd6 37. Be1 Kc6 38.
+Bf2 Nd6 39. Be1 f5 40. exf5 Kd5 41. f6 e4+ 42. Kc2 Ke6 43. Bf2 Nc4 44. Kd1
+Kxf6 45. Kc2 Ke6 46. Kc1 Kd5 47. Kc2 Nd6 48. Kb3 Nf5 49. Kc2 Kc4 50. Kd2
+Kb3 51. Be1 Nd6 52. Ke2 Kc2 53. Bd2 Nc4 54. Be1 Nb2 55. Bd2 Nd3 0-1
+

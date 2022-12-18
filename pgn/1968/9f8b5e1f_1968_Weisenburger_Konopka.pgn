@@ -1,0 +1,18 @@
+[Event "corr FRG-PK"]
+[Site "corr FRG-PK"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Weisenburger, H."]
+[Black "Konopka, E."]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "9f8b5e1f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6
+bxc6 8. dxe5 Nb7 9. Nc3 O-O 10. Rd1 Bc5 11. Ng5 d5 12. exd6 cxd6 13. b4 Bb6
+14. Qd3 g6 15. Nce4 d5 16. Qc3 f6 17. Bb2 Kg7 18. Qxc6 Qe7 19. Rxd5 h6 20.
+Nxf6 Qxb4 21. Ne8+ Kg8 22. Qxg6# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Hvenekilde, Jorgen"]
+[Black "Christensen, Rudolf"]
+[Result "1-0"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "b384e922"]
+[Epoch "Bishop"]
+[WhiteID "1400649"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nbd7 7. O-O e5 8. b3
+exd4 9. Nxd4 a6 10. Bb2 Re8 11. e4 Rb8 12. Qd2 Nc5 13. Rae1 Nfd7 14. f4 Nf8 15.
+f5 Ncd7 16. Nd5 Be5 17. Qh6 c5 18. f6 Nxf6 19. Nxf6+ Bxf6 20. Nc6 1-0

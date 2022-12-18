@@ -1,0 +1,16 @@
+[Event "Krems"]
+[Site "Krems"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Unzicker, Wolfgang"]
+[Black "Patzl"]
+[Result "1-0"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "5ae54349"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. d3 Bb4+ 6. c3 dxc3 7. Nxc3 Qf6
+8. O-O Bxc3 9. bxc3 Qxc3 10. Rb1 Qf6 11. Bb2 Qg6 12. f4 Nf6 13. f5 Qh6 14. Ba3
+a6 15. Bc4 b5 16. e5 Qe3+ 17. Kh1 Ne4 18. Bxf7+ Kd8 19. Bc1 1-0

@@ -1,0 +1,18 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Litsberger"]
+[Black "Larsson"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "72469ab6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 a6 10. Bb3 Qc7 11. O-O-O Bd7 12. h4 Rac8 13. h5 Nxh5 14. g4
+Nf6 15. Nxc6 bxc6 16. Bh6 Be6 17. Bxg7 Kxg7 18. Qh6+ Kg8 19. e5 dxe5 20.
+Ne4 1-0
+

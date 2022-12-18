@@ -1,0 +1,20 @@
+[Event "FRG-ch"]
+[Site "Voelklingen"]
+[Date "1970.??.??"]
+[Round "4"]
+[White "Ungnad, Rainer"]
+[Black "Longwitz, Andreas"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "92c9f73a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O g6 6. c3 Bg7 7. Re1 Nf6
+8. e5 Nd5 9. d4 cxd4 10. cxd4 Nc6 11. exd6 Qxd6 12. Nc3 O-O 13. Be3 Rfd8
+14. Qb3 b6 15. Rac1 Nxc3 16. bxc3 e5 17. dxe5 Nxe5 18. Nxe5 Bxe5 19. h3
+Rac8 20. c4 Qf6 21. Qa4 Bb8 22. Qb5 Qd6 23. g3 Qd7 24. Kh2 Bd6 25. Bg5 Qxb5
+26. cxb5 Rxc1 27. Rxc1 Re8 28. Rc2 Kg7 29. Kg2 Bc5 30. Bf4 Re4 31. Bb8 Ra4
+32. Kf3 Kf6 1/2-1/2
+

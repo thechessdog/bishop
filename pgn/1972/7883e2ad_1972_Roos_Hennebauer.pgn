@@ -1,0 +1,18 @@
+[Event "corr WER"]
+[Site "corr WER"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Roos"]
+[Black "Hennebauer"]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "7883e2ad"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. Ne2
+c4 8. Nf4 Ngf6 9. O-O Be7 10. Qf3 Nb6 11. Re1 O-O 12. Nf1 Bd6 13. Ng3 Qd7
+14. Nfh5 Nxh5 15. Nxh5 Rfe8 16. Bh6 Rxe1+ 17. Rxe1 Re8 18. Rxe8+ Qxe8 19.
+Nf6+ 1-0
+

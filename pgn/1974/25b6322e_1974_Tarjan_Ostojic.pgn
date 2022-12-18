@@ -1,0 +1,23 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Tarjan, James"]
+[Black "Ostojic, Predrag"]
+[Result "0-1"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer"]
+[HashCode "25b6322e"]
+[Epoch "Bishop"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Qb6 7. Nb3 e6 8.
+Bxf6 gxf6 9. Be2 a6 10. O-O Be7 11. Kh1 O-O 12. f4 Kh8 13. Bh5 Bd7 14. Rf3 Rad8
+15. Qd2 Be8 16. Rh3 Rg8 17. Rf1 Rg7 18. f5 Bd7 19. Be2 Rg5 20. e5 dxe5 21. Ne4
+exf5 22. Nxg5 fxg5 23. Bc4 f4 24. Rd3 Bf5 25. Rxd8+ Nxd8 26. Qd5 Qe3 27. Nd2 g4
+28. Bb3 b5 29. a4 Qe2 30. axb5 axb5 31. c4 Be6 32. Qxb5 Bf6 33. Qb4 Kg7 34. Bd1
+Qd3 35. Qc3 Qxc3 36. bxc3 Be7 37. Re1 f6 38. Bc2 Nf7 39. Be4 Ng5 40. Bd5 Bf5
+41. Ne4 Bxe4 0-1

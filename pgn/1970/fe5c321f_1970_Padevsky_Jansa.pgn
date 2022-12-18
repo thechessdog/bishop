@@ -1,0 +1,24 @@
+[Event "Kapfenberg etc"]
+[Site "Kapfenberg etc"]
+[Date "1970.05.01"]
+[Round "1"]
+[White "Padevsky, Nikola"]
+[Black "Jansa, Vlastimil"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "fe5c321f"]
+[Epoch "Bishop"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 c5 6. d5 d6 7. Nf3 e6 8. Be2 exd5
+9. cxd5 Bg4 10. O-O Nbd7 11. Nd2 Bxe2 12. Qxe2 Re8 13. Qd3 a6 14. a4 c4 15.
+Qxc4 b5 16. Qc6 b4 17. Nd1 Nc5 18. e5 Rc8 19. Qxd6 Nfd7 20. e6 Bf8 21. exd7
+Bxd6 22. dxc8=Q Qxc8 23. Nc4 Nb3 24. Nxd6 Qc5+ 25. Nf2 Qxd6 26. Rb1 f5 27. Rd1
+a5 28. Bd2 Re2 29. Be1 Rc2 30. Kh1 Rc5 31. Rd3 Nc1 32. Rd2 Kf7 33. Nh3 h6 34.
+Ng1 Qxf4 35. d6 Ke8 36. d7+ Kd8 37. Nf3 Nb3 38. Rd3 Qe4 39. Rbd1 Rc1 40. Rd6
+Rxd1 41. Rxd1 Nc5 42. Bh4+ g5 43. Nxg5 1-0

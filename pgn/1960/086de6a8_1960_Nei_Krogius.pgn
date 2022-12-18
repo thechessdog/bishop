@@ -1,0 +1,20 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1960.01.01"]
+[Round "11"]
+[White "Nei, Iivo"]
+[Black "Krogius, Nikolai V"]
+[Result "1/2-1/2"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence"]
+[HashCode "086de6a8"]
+[Epoch "Bishop"]
+[WhiteID "4500059"]
+[WhiteCountry "EST"]
+[BlackID "4100565"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c5 5. dxc5 Bxc5 6. e3 O-O 7. a3 dxc4 8.
+Bxc4 Qxd1+ 9. Kxd1 a6 10. b4 Be7 11. Ke2 b5 12. Bd3 Bb7 13. Bb2 Nbd7 14. Rhg1
+Rfd8 1/2-1/2

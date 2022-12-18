@@ -1,0 +1,17 @@
+[Event "Freiberg ch19-DDR"]
+[Site "Freiberg ch19-DDR"]
+[Date "1970.01.01"]
+[Round "7"]
+[White "Dietze, Wolfgang, Dr."]
+[Black "Walter, Guenter"]
+[Result "1/2-1/2"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "eae826f9"]
+[Epoch "Bishop"]
+[WhiteID "4611802"]
+[WhiteCountry "GER"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O a6 7. a3 Rb8 8. Rb1
+b5 9. cxb5 axb5 10. b4 cxb4 11. axb4 O-O 12. d3 d6 13. Be3 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Burg, L."]
+[Black "Sillars, R."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich variation"]
+[HashCode "d593d402"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 f5 5. Qg3 Nc6 6. Nf3 cxd4 7. Bd3 Bd7 8.
+O-O Qe7 9. Re1 Qf7 10. c3 dxc3 11. Nxc3 Be7 12. a3 h6 13. Nb5 Rc8 14. Be3
+a6 15. Nbd4 g5 16. Bd2 Qh5 17. Bxf5 exf5 18. e6 f4 19. exd7+ Kxd7 20. Bxf4
+gxf4 21. Qg7 Nf6 22. Nxc6 Kxc6 23. Rxe7 Rhf8 24. Re6+ 1-0
+

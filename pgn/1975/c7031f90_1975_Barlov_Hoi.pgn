@@ -1,0 +1,18 @@
+[Event "Tjentiste"]
+[Site "Tjentiste"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Barlov, Dragan"]
+[Black "Hoi"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "c7031f90"]
+[Epoch "Bishop"]
+[WhiteID "900214"]
+[WhiteCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Nf3 f6 8. Nf4
+Qe7 9. Bd3 cxd4 10. cxd4 fxe5 11. dxe5 Nc5 12. O-O Nxd3 13. Qxd3 Bd7 14. Be3 g6
+15. Rac1 b6 16. Nxd5 exd5 17. e6 Qxe6 18. Bd4 Nxd4 19. Qxd4 1-0

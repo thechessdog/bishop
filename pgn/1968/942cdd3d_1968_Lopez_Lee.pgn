@@ -1,0 +1,24 @@
+[Event "Hayward"]
+[Site "Hayward"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Lopez Pereyra, Migu"]
+[Black "Lee"]
+[Result "1-0"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer"]
+[HashCode "942cdd3d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 Nf6 6. Bg5 e5 7. Nb3 Be7 8.
+Bb5 O-O 9. O-O a6 10. Be2 Be6 11. f4 exf4 12. Bxf4 Qb6+ 13. Kh1 Ne5 14. Nd5
+Bxd5 15. exd5 Rac8 16. c3 Nc4 17. Bxc4 Rxc4 18. Qe2 Re4 19. Qf3 h6 20. Nd2 Ra4
+21. b3 Ra5 22. Nc4 Qc5 23. Nxa5 Qxa5 24. c4 Qc5 25. Qe3 Qc7 26. Rae1 Re8 27.
+Qg3 Kf8 28. Qh3 Qd7 29. Qxd7 Nxd7 30. Rf3 Nf6 31. h3 Rc8 32. Rfe3 Nh5 33. Bxh6
+gxh6 34. Rxe7 Ng3+ 35. Kh2 Nf1+ 36. Kg1 Ng3 37. Rxb7 Ra8 38. Re3 Nf5 39. Rf3
+Nd4 40. Rfxf7+ Kg8 41. Rg7+ Kf8 42. Rbf7+ Ke8 43. Ra7 Rxa7 44. Rxa7 h5 45. Rxa6
+Kd7 46. Ra7+ Kc8 47. Rh7 Kb8 48. Rxh5 Kc7 49. Kf2 Nc2 50. g4 Nb4 51. g5 Nd3+
+52. Ke3 Ne5 53. Rh6 Kd7 54. g6 Ke7 55. a4 Kf8 56. g7+ Kxg7 57. Rxd6 Kf7 58. a5
+Ke7 59. Re6+ Kd7 60. Rxe5 Kc7 61. h4 Kd6 62. Re6+ Kd7 63. h5 Kc7 64. h6 Kb7 65.
+h7 Ka7 66. h8=Q Kb7 67. Qh7+ Kc8 68. Re8# 1-0

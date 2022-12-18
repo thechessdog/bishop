@@ -1,0 +1,27 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1960.01.01"]
+[Round "13"]
+[White "Simagin, Vladimir"]
+[Black "Krogius, Nikolai V"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "6d3579b6"]
+[Epoch "Bishop"]
+[BlackID "4100565"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Nge7 7. d3 O-O 8. Nbd2
+a6 9. Ba4 b5 10. Bb3 Bb7 11. Nf1 Na5 12. Bc2 Qc7 13. Ne3 d5 14. Ng4 dxe4 15.
+dxe4 Rad8 16. Qe2 Bc8 17. h3 f6 18. a4 Be6 19. axb5 Bc4 20. Qe3 axb5 21. b4
+cxb4 22. cxb4 Nac6 23. Qa3 Nd4 24. Nxd4 exd4 25. Bd1 h5 26. Nh2 Nc6 27. Nf3 Ne5
+28. Nxe5 fxe5 29. Qg3 Kh7 30. Bg5 Ra8 31. Rxa8 Rxa8 32. f4 exf4 33. Bxf4 Qe7
+34. Bf3 h4 35. Qg5 Qxg5 36. Bxg5 Be5 37. Bxh4 d3 38. Bg5 Ra2 39. Rd1 Bc3 40. e5
+Bxe5 41. Be4 Bg3 42. Bf3 Bd6 43. Be4 Bg3 44. Bf3 Rb2 45. h4 Rxb4 46. Be4 Kg7
+47. Rf1 Be5 48. Rd1 Rb3 49. g4 Rb2 50. h5 Bd4+ 51. Kh1 Re2 52. Bf3 Ra2 53. Bd2
+Bb3 54. Rb1 Ba4 55. Bg5 Rf2 56. h6+ Kh7 57. Rb4 Bc3 58. Rf4 d2 59. Rf7+ Kg8 60.
+Bxd2 Bxd2 61. Rg7+ Kh8 62. Be4 Rf4 63. Bxg6 Rf6 64. Bh5 Rxh6 65. Rb7 b4 66. Kg1
+Rb6 67. Ra7 Bc2 0-1

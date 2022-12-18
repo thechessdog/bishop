@@ -1,0 +1,17 @@
+[Event "Bognor Regis"]
+[Site "Bognor Regis"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Fazekas, Stefan"]
+[Black "Gligorić, Svetozar"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Breyer gambit"]
+[HashCode "bc9e689f"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Qf3 Nc6 4. Ne2 d5 5. exd5 Ne5 6. Qe4 Bd6 7. Nxf4 Nf6 8.
+Qa4+ Bd7 9. Qb3 O-O 10. d4 Ng6 11. Ne2 Re8 0-1

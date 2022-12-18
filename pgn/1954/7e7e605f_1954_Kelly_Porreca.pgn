@@ -1,0 +1,24 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Kelly, T."]
+[Black "Porreca, G."]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "7e7e605f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. Be2 dxc4 7. Bxc4 c5 8.
+O-O Bg4 9. Be2 cxd4 10. exd4 Nc6 11. Be3 Nd5 12. Nxd5 Qxd5 13. Qd2 Rfd8 14.
+h3 Bxf3 15. Bxf3 Qd7 16. Bxc6 Qxc6 17. Rfd1 Rd5 18. Rac1 Qd7 19. Rc5 Rc8
+20. Rxc8+ Qxc8 21. Rc1 Qd7 22. Qc3 Bxd4 23. Qc8+ Qxc8 24. Rxc8+ Kg7 25.
+Bxd4+ Rxd4 26. Rc7 Rb4 27. Rxe7 Rxb2 28. g3 Kf6 29. Rc7 h5 30. Kg2 a5 31.
+a4 Rb4 32. Kf3 Ke6 33. h4 f6 34. Rg7 b6 35. Rxg6 Rxa4 36. Rh6 Rb4 37. Rxh5
+a4 38. Rh8 a3 39. Ra8 Rb3+ 40. Ke4 b5 41. Kd4 b4 42. h5 Kf7 43. g4 Rb2 44.
+f4 a2 45. g5 fxg5 46. fxg5 b3 47. Ra7+ Ke6 48. g6 Rg2 49. h6 b2 50. Rxa2
+Rg4+ 51. Kc3 b1=Q 52. Ra6+ Kf5 53. h7 Qc1+ 54. Kb3 Qc4+ 55. Kb2 Rg2+ 56.
+Kb1 Qf1# 0-1
+

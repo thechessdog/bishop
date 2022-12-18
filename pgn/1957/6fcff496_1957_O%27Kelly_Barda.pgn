@@ -1,0 +1,19 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "O'Kelly"]
+[Black "Barda, Olaf"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "6fcff496"]
+[Epoch "Bishop"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c6 7. e3 b6 8. cxd5
+cxd5 9. Bd3 O-O 10. Ne2 Nc6 11. e4 Nh5 12. e5 f5 13. h4 Qc7 14. Qc2 Qf7 15. Be3
+Na5 16. g4 fxg4 17. Bxh7+ Kh8 18. f4 Qe7 19. Bg6 Rf5 20. Bxh5 Rxh5 21. Ng3 Rf5
+22. h5 Bd7 23. Qd1 Rc8 24. Bd2 Rcf8 25. Qxg4 Nb3 26. Ra2 Be8 27. Nxf5 Rxf5 28.
+Be3 Qc7 29. Rg1 Bxh5 30. Rh1 Qf7 31. c4 1-0

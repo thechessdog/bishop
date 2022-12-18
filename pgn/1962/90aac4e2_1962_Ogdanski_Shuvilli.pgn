@@ -1,0 +1,19 @@
+[Event "Earley"]
+[Site "Earley"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Ogdanski"]
+[Black "Shuvilli"]
+[Result "1-0"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Botvinnik variation"]
+[HashCode "90aac4e2"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. e3 O-O 8.
+cxd5 Nxd5 9. Bd2 cxd4 10. cxd4 Nc6 11. e4 Nde7 12. Bc3 a6 13. Bc4 b5 14.
+Ba2 Na5 15. Ne2 Bb7 16. O-O Re8 17. Qd2 Nac6 18. Ng3 Ng6 19. f4 Qh4 20. f5
+Nf8 21. fxe6 fxe6 22. Nf5 Qd8 23. d5 Qb6+ 24. Kh1 Ne5 25. Bxe5 exf5 26. d6+
+Kh8 27. Bxg7+ Kxg7 28. Qc3+ Kh6 29. Qf6+ 1-0
+

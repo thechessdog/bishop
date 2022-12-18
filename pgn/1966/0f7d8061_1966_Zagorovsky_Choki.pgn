@@ -1,0 +1,22 @@
+[Event "match"]
+[Site "match"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Zagorovsky, Vladimi"]
+[Black "Choki"]
+[Result "1-0"]
+[ECO "E02"]
+[Opening "Catalan"]
+[Variation "open, 5.Qa4"]
+[HashCode "0f7d8061"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Nd2 c5 7. Nxc4 a6
+8. Bf4 b5 9. Qa3 bxc4 10. Bxa8 cxd4 11. Qa4 Nd5 12. Qxc4 N5b6 13. Qc6 Bb4+
+14. Kf1 Nxa8 15. Qxa8 O-O 16. Rc1 Nf6 17. Nf3 Nd5 18. Bg5 f6 19. Bd2 Qd7
+20. Qc6 Qxc6 21. Rxc6 Bxd2 22. Nxd2 Bb7 23. Rc1 Ne3+ 24. fxe3 Bxh1 25. exd4
+Rd8 26. Kf2 Bd5 27. e4 Bxa2 28. Ke3 Rb8 29. b3 a5 30. Rc3 g6 31. Kd3 f5 32.
+exf5 gxf5 33. Kc2 a4 34. bxa4 Bd5 35. Kd3 Kg7 36. a5 h5 37. a6 Ra8 38. Rc7+
+Kf6 39. a7 h4 40. gxh4 Rh8 41. Rc5 Bb7 42. Ra5 Rxh4 43. a8=Q Bxa8 44. Rxa8
+Rh3+ 45. Kc4 Rxh2 46. Nf3 Rc2+ 47. Kd3 Rc1 48. Ra6 Rb1 49. d5 1-0
+

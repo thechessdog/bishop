@@ -1,0 +1,22 @@
+[Event "Zuerich"]
+[Site "Zuerich"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "Lombardy, William James"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "e6ba84aa"]
+[Epoch "Bishop"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Qe2 e6 5. O-O Nf6 6. e5 Nd5 7. c4 Nc7 8. Bxc6
+Qxc6 9. Nc3 b6 10. Ne4 Bb7 11. d3 d5 12. exd6 Bxd6 13. Nfg5 Be7 14. Qh5 g6 15.
+Qh6 Bf8 16. Qh4 Bg7 17. Nf3 f6 18. Bh6 O-O 19. Bxg7 Kxg7 20. Rfe1 e5 21. b4
+Rad8 22. bxc5 bxc5 23. Rab1 Ba8 24. Qg3 Ne6 25. Nxf6 Rxf6 26. Nxe5 Qd6 27. Ng4
+Rf5 28. Qh4 Rdf8 29. Qh6+ Kg8 30. Re3 Rh5 31. Rbe1 Rxh6 32. Nxh6+ Kg7 33. Rxe6
+Qf4 34. Re7+ Kxh6 0-1

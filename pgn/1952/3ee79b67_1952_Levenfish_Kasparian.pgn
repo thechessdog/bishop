@@ -1,0 +1,23 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Levenfish, Grigory"]
+[Black "Kasparian, Genrikh"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "3ee79b67"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "ARM"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nh3 Nf6 8. Nf4
+Bh7 9. Bd3 Nd5 10. Nxd5 Qxd5 11. Be2 Nd7 12. O-O e6 13. c4 Qd6 14. d5 exd5 15.
+cxd5 Qxd5 16. Qxd5 cxd5 17. Rd1 Bd6 18. Nh5 Be5 19. Bb5 a6 20. Bxd7+ Kxd7 21.
+Bf4 Kd6 22. Rd2 Rad8 23. Rad1 Ke6 24. Re2 f6 25. Rde1 Kd6 26. Bxe5+ fxe5 27.
+Rxe5 Be4 28. f4 Rhf8 29. g3 Rd7 30. Rd1 Kc7 31. Rc1+ Kd8 32. f5 Rxf5 33. Rxf5
+Bxf5 34. Nf4 g5 35. hxg5 hxg5 36. Ng2 Be4 37. Ne3 Rh7 38. Rd1 Kd7 39. Nf1 Kd6
+40. Rd2 Ke5 41. Kf2 Rf7+ 42. Ke1 Rf3 43. Rd1 Bc2 44. Rd2 Bd3 45. Nh2 Rxg3 46.
+Rf2 Be4 0-1

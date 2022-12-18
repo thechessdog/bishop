@@ -1,0 +1,17 @@
+[Event "corr BdF/I"]
+[Site "corr BdF/I"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hoennl"]
+[Black "Walther, Edgar"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "dbfd5d61"]
+[Epoch "Bishop"]
+[BlackCountry "CHE"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Nc3 Nf6 5. e5 Ng4 6. d4 Bh4+ 7. Nxh4 Qxh4+ 8.
+Ke2 Nc6 9. Ne4 d5 10. exd6 Bf5 11. g3 fxg3 12. Nxg3 O-O-O 13. Bf4 Rhe8+ 14. Kd2
+Nf2 15. Qh5 Qxf4+ 16. Kc3 Qxd4+ 17. Kb3 Qb4# 0-1

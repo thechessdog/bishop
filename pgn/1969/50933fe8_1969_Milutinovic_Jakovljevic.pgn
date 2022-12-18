@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Milutinovic"]
+[Black "Jakovljevic"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "50933fe8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Kf8 6. Bb3 d5 7. exd5
+Nd4 8. Ne6+ Nxe6 9. dxe6 Bxf2+ 10. Kxf2 Qd4+ 11. Kf1 Ke7 12. c3 Qh4 13. Qe1
+Qf4+ 14. Qf2 Qg4 15. Qc5+ Ke8 16. Qxe5 b6 17. Qb5+ Ke7 18. Qb4+ c5 19. Qxg4
+1-0
+

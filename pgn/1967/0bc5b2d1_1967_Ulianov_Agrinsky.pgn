@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Ulianov, Y."]
+[Black "Agrinsky"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "0bc5b2d1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O
+8. e5 Ne8 9. c3 dxc3 10. Nxc3 f6 11. Bb3+ Kh8 12. Nd5 fxe5 13. Nxe5 Nxe5
+14. Rxe5 Bf6 15. Bc2 g6 16. Rh5 Rg8 17. Rxh7+ Kxh7 18. Qh5+ Kg7 19. Qxg6+
+Kf8 20. Bh6+ Rg7 21. Re1 Bxb2 22. Nf6 Bxf6 23. Rxe8+ Qxe8 24. Qxf6+ Qf7 25.
+Bxg7+ Kg8 26. Bh7+ Kxh7 27. Qh6+ Kg8 28. Qh8# 1-0
+

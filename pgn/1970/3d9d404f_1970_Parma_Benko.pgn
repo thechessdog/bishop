@@ -1,0 +1,19 @@
+[Event "Caracas"]
+[Site "Caracas"]
+[Date "1970.06.01"]
+[Round "15"]
+[White "Parma, Bruno"]
+[Black "Benko, Pal"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "3d9d404f"]
+[Epoch "Bishop"]
+[WhiteID "14600706"]
+[WhiteCountry "SLO"]
+[BlackID "2000687"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 Ne7 6. Qd3 a6 7. Ba4 b5 8. Bb3
+Na5 9. O-O Nxb3 10. axb3 Nc6 11. Nc3 1/2-1/2

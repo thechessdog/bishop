@@ -1,0 +1,20 @@
+[Event "corr DFFM"]
+[Site "corr DFFM"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Schuh, R."]
+[Black "Pollak, A."]
+[Result "0-1"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Botvinnik variation"]
+[HashCode "231caa6a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Nc6 7. Nf3 Ne4
+8. Qb3 O-O 9. cxd5 exd5 10. e3 Na5 11. Qc2 Bf5 12. Bd3 c5 13. dxc5 Nb3 14.
+Rb1 Nbxc5 15. O-O Nxd3 16. Qxd3 Nd6 17. Qxd5 Bxb1 18. Bd2 Be4 19. Qb3 Nf5
+20. Rd1 Qd5 21. Qxd5 Bxd5 22. Bc3 Bxf3 23. gxf3 Rfd8 24. Rc1 Rac8 25. Kh1
+Rc6 26. Rg1 Rg6 27. Rg4 h5 28. Rxg6 fxg6 29. Kg2 Kf7 30. e4 Nd4 31. e5 Ke6
+32. f4 Ne2 0-1
+

@@ -1,0 +1,21 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Franq"]
+[Black "Boutteville"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "fd25442e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Qe7 5. fxe5 dxe5 6. d4 exd4 7. cxd4 Bb4+
+8. Bd2 Nf6 9. Bd3 Bxd2+ 10. Nbxd2 Bf5 11. O-O Bg6 12. Qb3 c6 13. Rae1 O-O
+14. Nh4 Qd8 15. Ndf3 Qb6 16. Nxg6 hxg6 17. Bc4 Na6 18. Ng5 Qxb3 19. Bxb3
+Rad8 20. e5 Nd5 21. e6 fxe6 22. Rxf8+ Rxf8 23. Rxe6 Nac7 24. Rd6 a5 25. Rd7
+Rc8 26. a4 b6 27. Rd6 Kf8 28. Rxc6 Re8 29. Kf2 Re7 30. Rd6 Nf6 31. Rxb6 Rd7
+32. Rb7 Ke7 33. Bc2 Kd6 34. Nf3 Kc6 35. Rb3 Kd5 36. Ne5 Rd6 37. Rc3 Na6 38.
+Ke3 Ke6 39. Rc6 Nd5+ 40. Kf3 Nab4 41. Rxd6+ Kxd6 42. Bb3 Nc6 43. Ke4 1-0
+

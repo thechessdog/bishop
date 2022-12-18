@@ -1,0 +1,19 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1969.09.01"]
+[Round "1"]
+[White "Balashov, Yuri S"]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "91f93760"]
+[Epoch "Bishop"]
+[WhiteID "4100263"]
+[WhiteCountry "RUS"]
+[BlackCountry "LVA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Be2 Bb7 7. O-O Nc6 8. Re1
+Nge7 9. Bf4 Ng6 10. Bg3 Be7 11. Bf1 O-O 12. Nb3 Rc8 13. Qh5 Na5 14. Nxa5 Qxa5
+15. a3 Qb6 16. Bd3 Qc5 17. Qxc5 1/2-1/2

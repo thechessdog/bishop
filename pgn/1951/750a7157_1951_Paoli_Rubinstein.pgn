@@ -1,0 +1,25 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Paoli, Enrico"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "750a7157"]
+[Epoch "Bishop"]
+[WhiteCountry "ITA"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nbd2 Nbd7 7. e4 e5 8. c3
+Re8 9. Re1 Nb6 10. h3 a5 11. Qc2 c6 12. Kh2 Qc7 13. dxe5 dxe5 14. Bf1 h6 15.
+Nb3 Be6 16. Nc5 Bc4 17. Nd3 Ba6 18. b3 Bf8 19. c4 Nfd7 20. Qc3 Bg7 21. Bb2 Nc8
+22. a4 c5 23. Nf4 Na7 24. Nd5 Qd8 25. h4 Nc6 26. Bh3 Nf8 27. Rad1 b6 28. Qd3
+Bc8 29. Ng1 Bxh3 30. Nxh3 Ne6 31. Ng1 Ncd4 32. Bxd4 cxd4 33. Qb1 Nc5 34. Ne2
+Rb8 35. Nc1 Qd7 36. Nd3 Ne6 37. f4 exf4 38. gxf4 Nc5 39. Nf2 Qd8 40. Kg3 g5 41.
+hxg5 hxg5 42. e5 gxf4+ 43. Kf3 Qg5 44. Nf6+ Bxf6 45. Rg1 Rxe5 46. Rxg5+ Rxg5
+47. Ng4 Bg7 48. Rh1 Re8 49. Re1 Rd8 50. Kxf4 Rg6 51. Re7 d3 52. Kf3 d2 53. Ne3
+Bf8 54. Ra7 Rd3 55. Ke2 Re6 56. Qg1+ Bg7 57. Ra8+ Kh7 58. Qh1+ Bh6 59. Kd1
+Rdxe3 0-1

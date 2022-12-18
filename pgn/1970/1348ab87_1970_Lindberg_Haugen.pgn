@@ -1,0 +1,24 @@
+[Event "Stavanger"]
+[Site "Stavanger"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Lindberg, Rolf"]
+[Black "Haugen, Arild"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "1348ab87"]
+[Epoch "Bishop"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Bc4 a6 5. a3 b5 6. Ba2 Bb7 7. d3 Nf6 8. Be3 d5
+9. exd5 exd5 10. d4 c4 11. O-O Bd6 12. Re1 O-O 13. Qd2 Re8 14. Bg5 Be7 15. Re2
+Bc8 16. Rae1 Be6 17. h3 b4 18. Nb1 Ne4 19. Qe3 Nxg5 20. Nxg5 Bxg5 21. f4 Bh4
+22. g3 Be7 23. Kh2 a5 24. Nd2 Qb6 25. Nf3 bxa3 26. bxa3 Qb2 27. c3 Qxa3 28. Bb1
+Qd6 29. Qf2 Bf6 30. Ne5 Bxe5 31. fxe5 Qe7 32. Qf4 a4 33. Qd2 Qd7 34. Qc2 g6 35.
+g4 Ne7 36. Rf1 Kg7 37. Qd2 Ng8 38. Qg5 Qe7 39. Qf4 f6 40. exf6+ Qxf6 41. Qc7+
+Qe7 42. Qe5+ Kh6 43. Rg2 Qg5 44. Qg3 Bxg4 45. hxg4 Re3 46. Rf3 Rxf3 47. Qxf3
+Qh4+ 48. Qh3 Qxh3+ 49. Kxh3 Kg5 50. Rf2 Nf6 51. Re2 Nxg4 52. Rg2 h5 53. Bc2 a3
+54. Bb1 Re8 55. Rg3 Re3 0-1

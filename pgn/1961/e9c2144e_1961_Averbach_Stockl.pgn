@@ -1,0 +1,18 @@
+[Event "Baden-Vienna"]
+[Site "Baden-Vienna"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Averbakh, Yuri L"]
+[Black "Stockl"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "e9c2144e"]
+[Epoch "Bishop"]
+[WhiteID "4101529"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Nf3 O-O 6. Be2 c5 7. O-O b6 8. dxc5
+bxc5 9. Na4 Nbd7 10. a3 Ba5 11. cxd5 exd5 12. b3 Bb7 13. Bb2 Ne4 14. b4 Bc7 15.
+Nxc5 Ndxc5 16. bxc5 Nxc5 1/2-1/2

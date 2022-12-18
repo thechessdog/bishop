@@ -1,0 +1,16 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Humburg"]
+[Black "Bryjak"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "2ebd4c35"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. g3 d5 4. exd5 exd5 5. d4 Nc6 6. Bg2 Bg4 7. O-O Nxd4
+8. Qe1+ Ne6 9. Ne5 Bf5 10. c4 Be4 11. cxd5 Bxd5 12. Bxd5 Qxd5 13. Nc3 Qd8
+14. Qe4 Qc8 15. Qa4+ Ke7 16. Nd5+ Kd6 17. Nxf7+ Kxd5 18. Re1 1-0
+

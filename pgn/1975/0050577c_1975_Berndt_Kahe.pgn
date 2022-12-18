@@ -1,0 +1,24 @@
+[Event "corr DDR-JFSM"]
+[Site "corr DDR-JFSM"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Berndt, K."]
+[Black "Kahe"]
+[Result "1-0"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "0050577c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 O-O 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Na5 12. Bd3 b6 13. Rc1 e6 14.
+Qd2 Bb7 15. Bh6 Qe7 16. Bxg7 Kxg7 17. f4 Rfe8 18. g4 Kg8 19. Qe3 Qa3 20.
+Rc2 Rac8 21. Rfc1 Rxc2 22. Rxc2 Rc8 23. Qd2 Rxc2 24. Qxc2 Qd6 25. Qc3 Nc6
+26. a3 Qd8 27. g5 a6 28. Kf2 h6 29. h4 hxg5 30. hxg5 b5 31. Ke3 Qb6 32. Qc5
+Qxc5 33. dxc5 Kf8 34. Nd4 Ke7 35. Nb3 Bc8 36. e5 Kd7 37. Be4 Nd8 38. Nd4
+Kc7 39. c6 Kb6 40. Kd3 Kc7 41. Kc3 Kb6 42. Bf3 a5 43. c7 b4+ 44. axb4 axb4+
+45. Kxb4 Kxc7 46. Kc5 Bb7 47. Nb5+ Kd7 48. Bxb7 Nxb7+ 49. Kb6 Nd8 50. Na7
+Ke8 51. Kc7 Ke7 52. Nc8+ Ke8 53. Nd6+ Ke7 54. Ne4 Ke8 55. Nf6+ Ke7 56. Kb6
+Kf8 57. Kc5 Nb7+ 58. Kb5 Ke7 59. Kb6 Nd6 60. exd6+ Kxd6 61. Kb7 1-0
+

@@ -1,0 +1,21 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Steinberg, M."]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "0df39987"]
+[Epoch "Bishop"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Na5 8. Be2 Ne7
+9. O-O Ng6 10. g3 h6 11. Rb1 Bd7 12. b3 cxb3 13. c4 dxc4 14. Nxc4 Nxc4 15. Bxc4
+Bc6 16. d5 Rd8 17. Be3 Qa5 18. Bd2 Rxd5 19. Bxa5 Rxd1 20. Rfxd1 Bxf3 21. Bb5+
+Bc6 22. Bxc6+ bxc6 23. Rd8+ Ke7 24. Rbd1 Nxe5 25. Bb4+ Kf6 26. Rxf8 Rxf8 27.
+Bxf8 a5 28. a4 Nc4 29. Kf1 e5 30. Ke2 Ke6 31. Rb1 b2 32. Kd3 Kd5 33. Bxg7 h5
+34. Kc3 1-0

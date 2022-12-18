@@ -1,0 +1,18 @@
+[Event "Haifa"]
+[Site "Haifa"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Maeder, L."]
+[Black "Levy, David N L"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "eb56ddb9"]
+[Epoch "Bishop"]
+[BlackID "2400120"]
+[BlackCountry "SCO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. exd5 Nb4 11. Bc4 Nfxd5 12. Nb3 Nxc3 13. bxc3 Nxa2+ 14. Kb2
+Nxc3 15. Qxd8 Nxd1+ 0-1

@@ -1,0 +1,19 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Johner, Hans"]
+[Black "Weiss, H."]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "3cd3e281"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nc6 10. Nxc6 Qxc6 11. e5 Qxf3 12. gxf3 dxe5 13. fxe5 Nd5 14. Bxe7
+Nxe7 15. f4 Bd7 16. Bg2 Bc6 17. Bxc6+ Nxc6 18. Ne4 Ke7 19. Nc5 b6 20. Rd7+ Ke8
+21. Rc7 Nd4 22. Ne4 Ne2+ 23. Kb1 Nxf4 24. Nd6+ Kd8 25. Rxf7 Nd5 26. Rd1 b5 27.
+Rxd5 exd5 28. e6 1-0

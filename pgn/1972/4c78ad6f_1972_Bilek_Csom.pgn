@@ -1,0 +1,17 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Csom, Istvan"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "4c78ad6f"]
+[Epoch "Bishop"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. c4 Nf6 2. g3 e5 3. d3 c6 4. Nf3 g6 5. Bg2 Bg7 6. O-O Qe7 7. Nc3 O-O 8. e4 d6
+9. h3 a6 10. Be3 b5 11. Qd2 Bb7 12. b4 1/2-1/2

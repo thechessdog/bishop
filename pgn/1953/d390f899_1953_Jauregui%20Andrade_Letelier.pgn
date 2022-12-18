@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1953.03.01"]
+[Round "12"]
+[White "Jauregui Andrade, Carlos"]
+[Black "Letelier, Rene"]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "d390f899"]
+[Epoch "Bishop"]
+[BlackCountry "CHL"]
+[WhiteCountry "CHL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. e3 b6 8. Be2
+Bb7 9. Bf3 Nc6 10. Nge2 d5 11. b4 Be7 12. cxd5 Ne5 13. Nd4 Nxf3+ 14. Nxf3 Nxd5
+15. Bb2 Rc8 16. Rc1 a5 17. bxa5 bxa5 18. Qd2 Nb6 19. Qe2 Nc4 20. Nb5 Nxb2 21.
+Qxb2 Rxc1+ 22. Qxc1 Qd3 23. Nfd4 Rc8 24. Qd1 Qc4 25. Qe2 Qd5 26. e4 Rc1+ 0-1

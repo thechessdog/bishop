@@ -1,0 +1,19 @@
+[Event "Munich olm fin-B"]
+[Site "Munchen olm"]
+[Date "1958.01.01"]
+[Round "3"]
+[White "Rantanen, Matti"]
+[Black "Andersen, Borge"]
+[Result "0-1"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "8ccfc9ee"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. Nf4 c6 8. Bd3
+dxc4 9. Bxc4 Nbd7 10. Nd3 Qc7 11. O-O e5 12. d5 Nb6 13. Qb3 cxd5 14. Bxd5 Nbxd5
+15. Nxd5 Nxd5 16. Qxd5 Bd6 17. Rd1 Be6 18. Qf3 Bb3 19. Rd2 f5 20. e4 Qc4 21.
+Nb4 fxe4 22. Qc3 Qxc3 23. bxc3 Bc5 24. Rb2 Rxf2 25. Rxf2 Rf8 26. Bg5 Rxf2 0-1

@@ -1,0 +1,25 @@
+[Event "corr USSR-BRD"]
+[Site "corr USSR-BRD"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Aronin, Lev Solomonovich"]
+[Black "Heemsoth, Hermann"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "bcd24f9a"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. Re1 Be7 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. Nf1 Rac8 15.
+Bd3 d5 16. dxe5 Nxe4 17. Ng3 f5 18. exf6 Bxf6 19. Bxe4 dxe4 20. Nxe4 Rcd8 21.
+Qe2 h6 22. Rb1 Kh8 23. Nxf6 Rxf6 24. Ne5 Nc6 25. Qc2 Qa5 26. b4 Nxb4 27. Bd2
+Nxc2 28. Bxa5 Rd5 29. Ng4 Nxe1 30. Nxf6 Nf3+ 31. gxf3 gxf6 32. Re1 Rg5+ 33. Kf1
+Bd5 34. Re8+ Kg7 35. a3 Bxf3 36. Re3 Bg2+ 37. Ke2 Kf7 38. Bb4 Rh5 39. Re7+ Kg6
+40. Re6 Rxh3 41. Rxa6 Bf3+ 42. Kd2 Bd5 43. Bd6 Rf3 44. Bg3 Kg5 45. Ra5 Bc4 46.
+Ra7 f5 47. Bc7 Rxf2+ 48. Ke3 Rf1 49. Bd8+ Kh5 50. Rg7 f4+ 51. Ke4 f3 52. Bb6 f2
+53. Kf3 Ra1 54. Kxf2 Rxa3 55. Bc5 Rb3 56. Be3 Rb2+ 57. Kg3 Bd5 58. Rd7 Rg2+ 59.
+Kf4 Rg4+ 60. Kf5 Be4+ 61. Ke5 b4 62. Rd6 Bg6 63. Bf4 Rg1 64. Rb6 Re1+ 65. Kd5
+b3 66. Kc5 Rb1 67. Kb4 Rf1 68. Be5 Bc2 69. Bg7 0-1

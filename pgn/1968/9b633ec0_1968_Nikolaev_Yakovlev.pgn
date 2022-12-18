@@ -1,0 +1,16 @@
+[Event "Kharkov"]
+[Site "Kharkov"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Nikolaev"]
+[Black "Yakovlev"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "9b633ec0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 c5 3. dxc5 e6 4. e4 Bxc5 5. e5 Qb6 6. exf6 Bxf2+ 7. Ke2
+Bxg1 8. Rxg1 Qxg1 9. Qd6 gxf6 10. Be3 Qh1 11. Ne4 h6 12. Nxf6+ Kd8 13. Rd1
+b6 14. Kf2 e5 15. Nd5 1-0
+

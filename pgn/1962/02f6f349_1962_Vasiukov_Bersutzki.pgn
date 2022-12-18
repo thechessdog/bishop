@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Vasiukov, Evgeni"]
+[Black "Bersutzki, Gregory"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "02f6f349"]
+[Epoch "Bishop"]
+[WhiteID "4100522"]
+[WhiteCountry "RUS"]
+[BlackID "2801124"]
+[BlackCountry "ISR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. Bd2 cxd4 7. Nb5 Bc7 8. f4
+Ne7 9. Qg4 Nf5 10. Nf3 Nc6 11. Bd3 g6 12. O-O-O a6 13. Nxc7+ Qxc7 14. Qh3 Bd7
+15. Ng5 h6 16. Rde1 Rf8 17. Nh7 O-O-O 18. Nxf8 Rxf8 19. g4 Ne3 20. Qxh6 Rd8 21.
+Bxe3 dxe3 22. Rxe3 d4 23. Rh3 Na5 24. Kb1 Kb8 25. Qh4 Bc6 26. Rg1 Bd5 27. Qe1
+Nc4 28. Bxc4 Qxc4 29. b3 Qc6 30. Qd2 Be4 31. Rc1 Rd5 32. Kb2 a5 33. a4 b6 34.
+Rg3 Rc5 35. c4 d3 36. Re1 g5 37. Rge3 Bg6 38. f5 exf5 39. Rxd3 1-0

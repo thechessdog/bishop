@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Budapest"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Lengyel, Levente"]
+[Black "Tompa, Janos"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "2344f2d9"]
+[Epoch "Bishop"]
+[BlackID "700193"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 Be7 7. O-O O-O 8. b3
+b6 9. Bb2 Bb7 10. Qe2 c5 11. Rad1 Qc7 12. Ne5 Rad8 13. Nxd7 Rxd7 14. cxd5 Nxd5
+15. dxc5 Nxc3 16. Bxc3 Bxc5 1/2-1/2

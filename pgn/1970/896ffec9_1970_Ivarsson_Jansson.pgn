@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ivarsson, Johnny"]
+[Black "Jansson, Joran"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "896ffec9"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8.
+fxe5 Ng4 9. Be4 f6 10. exf6 exf6 11. O-O Ne7 12. h3 Nh6 13. Bf4 Nhf5 14.
+Nb5 c6 15. Nc7 g5 16. Bh2 Ne3 17. Qd3 Nxf1 18. Bxh7+ Kh8 19. Rxf1 Rb8 20.
+d5 cxd5 21. Kh1 b5 22. Nd4 Rb6 23. Nf5 Rf7 24. Re1 Bf8 25. Bg6 Nxg6 26. Nh6
+Kg7 27. Nxf7 Kxf7 28. Nxd5 Rc6 29. Qxb5 Rc5 0-1
+

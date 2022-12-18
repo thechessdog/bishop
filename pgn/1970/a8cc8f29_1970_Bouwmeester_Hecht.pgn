@@ -1,0 +1,20 @@
+[Event "Hengelo NLD-FRG"]
+[Site "Hengelo NLD-FRG"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Bouwmeester, Hans"]
+[Black "Hecht, Hans-Joachim"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "a8cc8f29"]
+[Epoch "Bishop"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 h5 7. h4 Bxc3+ 8. bxc3
+d5 9. Qf3 c6 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 Bb7 13. Be2 Nd7 14. Bf3 Nf6 15.
+Qe5 Qb8 16. Qg5 Kf8 17. Bf4 Qd8 18. c5 Nd5 19. Bd6+ Kg8 20. c4 Nf6 21. O-O Qd7
+22. Qe3 b5 23. Rfc1 bxc4 24. Rxc4 Nd5 25. Qa3 Bc8 26. Rb1 g6 27. Rc2 f6 28.
+Bxd5 exd5 29. Re1 Qf5 30. Rc3 1-0

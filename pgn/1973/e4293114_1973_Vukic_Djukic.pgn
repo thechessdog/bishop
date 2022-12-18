@@ -1,0 +1,20 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Vukic, Milan"]
+[Black "Djukic"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "e4293114"]
+[Epoch "Bishop"]
+[WhiteID "900273"]
+[WhiteCountry "BIH"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. g3
+Bg7 9. Bg2 O-O 10. O-O Nbd7 11. Qc2 Qb6 12. Rd1 Rfb8 13. Rb1 Ng4 14. Bd2 Nge5
+15. Nxe5 Nxe5 16. b3 Bc8 17. h3 Qa6 18. f4 Nd7 19. e3 Qa3 20. Na4 Nb6 21. Bc1
+Qb4 22. a3 Qa5 23. Bd2 Qa6 24. Nxb6 Rxb6 25. a4 Bf5 26. e4 Bd4+ 27. Kh2 Bxh3
+28. Kxh3 Qe2 29. Bf1 Qf3 30. Bc4 1-0

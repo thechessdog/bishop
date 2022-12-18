@@ -1,0 +1,17 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Farrell, W."]
+[Black "Beck, H."]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "bd5e4043"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. Nc3 Be7 5. Bc4 Ng4 6. O-O Bc5+ 7. d4 Bd6
+8. e5 Bb4 9. Bxf4 Bxc3 10. Bxf7+ Kxf7 11. Ng5+ Kg8 12. Qxg4 Bxd4+ 13. Kh1
+d6 14. Ne6 Bxe6 15. Qxe6+ Kf8 16. Bg5+ 1-0
+

@@ -1,0 +1,23 @@
+[Event "Buenos Aires VC"]
+[Site "Buenos Aires"]
+[Date "1959.01.01"]
+[Round "3"]
+[White "Palermo, Vicente"]
+[Black "Garcia, Raimundo"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[HashCode "184923b6"]
+[Epoch "Bishop"]
+[BlackID "100420"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. g3 d5 6. e5 Nc6 7. f4 Nxd4 8. Qxd4
+Qc7 9. Be3 Ne7 10. Nc3 Nf5 11. Qb6 Qc6 12. Bf2 Bd7 13. Bd3 d4 14. Qxc6 Bxc6 15.
+Ne4 Bb4+ 16. Ke2 O-O-O 17. g4 Nh6 18. Bh4 Rd7 19. Rhg1 Re8 20. a3 Bf8 21. Rae1
+Ng8 22. Kd1 Ne7 23. Nd6+ Rxd6 24. Bxe7 Bf3+ 25. Kd2 Bxe7 26. exd6 Bxd6 27. Be4
+Bxf4+ 28. Kd3 Bxe4+ 29. Rxe4 e5 30. Re2 Re6 31. Rf1 Kd7 32. Rf3 Rc6 33. Ke4 Rb6
+34. c3 Rd6 35. Rc2 Ke6 36. h4 h5 37. g5 f5+ 38. gxf6 dxc3 39. Rxf4 Rd4+ 40. Ke3
+Rxf4 41. fxg7 Rg4 42. Rxc3 Rxg7 43. Kf3 Kf5 44. Rc5 Rd7 0-1

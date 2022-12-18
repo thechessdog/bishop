@@ -1,0 +1,21 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Petzold"]
+[Black "Kreideweiss"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "e2ebf2fd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Bd3 Nc6
+8. Qf4 g6 9. Nc3 Qe7+ 10. Be3 Bg7 11. Nd5 Qd8 12. Bc5 Be6 13. Nxc7+ Qxc7
+14. Bxd6 Qa5+ 15. c3 O-O-O 16. Rd1 g5 17. Qg3 g4 18. Nh4 Bf6 19. Be4 Qh5
+20. Bxc6 Bxh4 21. Qd3 Qa5 22. Qb5 Qxb5 23. Bxb5 Bxa2 24. Bg3 Rxd1+ 25. Kxd1
+Bb3+ 26. Ke2 Bg5 27. Ra1 a6 28. Bd3 Re8+ 29. Kf1 h5 30. Ra5 f6 31. f4 gxf3
+32. gxf3 h4 33. Rc5+ Kd7 34. Bf5+ Be6 35. Bf2 Bxf5 36. Rxf5 Ke6 37. Rc5 Bf4
+38. h3 Rh8 39. Rc4 Kf5 40. Rc5+ 1/2-1/2
+

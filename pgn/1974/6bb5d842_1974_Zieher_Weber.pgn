@@ -1,0 +1,17 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Zieher"]
+[Black "Weber"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "6bb5d842"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. c4 Nc6 3. Ne2 Nf6 4. Nbc3 e6 5. d4 cxd4 6. Nxd4 Bb4 7. Nxc6
+bxc6 8. Bd3 Bxc3+ 9. bxc3 Qa5 10. Qc2 Ba6 11. O-O d5 12. cxd5 cxd5 13. exd5
+Nxd5 14. c4 Nf6 15. Bd2 Qa3 16. Rab1 Rd8 17. Bb4 Qxd3 18. Qa4+ Qd7 19. Qxa6
+Rc8 20. Ba3 1-0
+

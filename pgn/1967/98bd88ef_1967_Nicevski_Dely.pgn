@@ -1,0 +1,20 @@
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1967.08.01"]
+[Round "10"]
+[White "Nicevski, Risto"]
+[Black "Dely, Peter"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "98bd88ef"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "MKD"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. Nge2 dxc4 8.
+Nf4 Qxd4 9. Nxe6 Qe5+ 10. Be3 Qxe6 11. Qa4 Qc8 12. Bxc4 e6 13. O-O Be7 14. Bd3
+O-O 15. Rac1 Rd8 16. Rfd1 Qb8 17. Bf4 Bd6 18. Bg5 Bxh2+ 19. Kh1 Be5 20. Qh4 h6
+21. Be3 Ne7 22. Nb5 Ned5 23. Rc4 Nxe3 24. fxe3 Bg3 25. Qh3 Rd5 26. Rc8+ Qxc8
+27. Qxg3 Qc5 28. Nd4 Rxd4 29. exd4 Qh5+ 0-1

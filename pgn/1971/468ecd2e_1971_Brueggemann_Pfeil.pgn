@@ -1,0 +1,18 @@
+[Event "Strasbourg ch20-DDR"]
+[Site "Strasbourg ch20-DDR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Brueggemann, Joachim"]
+[Black "Pfeil, H."]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "468ecd2e"]
+[Epoch "Bishop"]
+
+1. g3 g6 2. Bg2 Bg7 3. e4 c5 4. Nc3 Nc6 5. f4 d6 6. d3 e6 7. Nf3 Nge7 8. O-O a6
+9. Be3 Nd4 10. Qd2 O-O 11. Rae1 Nec6 12. Nh4 Rb8 13. Nd1 Ne7 14. c3 Ndc6 15.
+Nf2 b5 16. f5 exf5 17. exf5 Ne5 18. fxg6 fxg6 19. Bg5 Bf6 20. Bxf6 Rxf6 21. d4
+cxd4 22. cxd4 Nc4 23. Qg5 Nf5 24. Bd5+ Kg7 25. Ng4 Rf8 26. Rxf5 Bxf5 27. Re7+
+Kh8 28. Rxh7+ Kxh7 29. Qh6# 1-0

@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Ljungberg"]
+[Black "Kolvig, Bent"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical counter-gambit"]
+[HashCode "5b963563"]
+[Epoch "Bishop"]
+[BlackID "1400746"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 f5 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 fxe4 8.
+Ng5 d5 9. Qa4+ Nc6 10. Bb5 Ne7 11. Qxb4 1-0

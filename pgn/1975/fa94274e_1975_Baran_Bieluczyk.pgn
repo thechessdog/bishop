@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Baran"]
+[Black "Bieluczyk"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "fa94274e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne8 10. h3 Bd7 11. Nc3 Nc7 12. Bf1 b5 13. Be3 Na5 14. Nd2 Nc4
+15. Nxc4 dxc4 16. Qf3 Be6 17. g4 Bd5 18. Qg3 Qd7 19. Rad1 Rac8 20. a3 a6
+21. Bc1 a5 22. Ne4 Bxe4 23. Rxe4 Nd5 24. h4 b4 25. h5 Rfe8 26. hxg6 fxg6
+27. g5 Qa4 28. Rde1 c3 29. axb4 axb4 30. Rh4 Qa2 31. Bd3 cxb2 32. Be3 Rc3
+33. Bb1 Qa1 34. Kg2 Nxe3+ 35. fxe3 Rc1 36. Rhh1 Qxb1 0-1
+

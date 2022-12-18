@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Morgulev"]
+[Black "Kogan"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "bd0e0b02"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. c3 c5 5. exd5 Qxd5 6. Ngf3 cxd4 7. Bc4 Qd8
+8. Nxd4 Nf6 9. O-O Bd6 10. Qe2 O-O 11. N2f3 h6 12. Bb3 Qc7 13. Re1 Nbd7 14.
+Nxe6 fxe6 15. Qxe6+ Kh8 16. Nh4 Re8 17. Qxe8+ Nxe8 18. Rxe8+ Nf8 19. Bf4
+Qc6 20. Rae1 Bc5 21. Bf7 Be6 22. Ng6+ Kh7 23. Nxf8+ Bxf8 24. Rxa8 Bxf7 25.
+Rxf8 Bd5 26. Be5 Qe6 27. a3 Qe7 28. Rf4 b5 29. h4 h5 30. Re3 Bb3 31. Bd4
+Qd6 32. Rf5 g6 33. Rfe5 Bf7 34. Re7 1-0
+

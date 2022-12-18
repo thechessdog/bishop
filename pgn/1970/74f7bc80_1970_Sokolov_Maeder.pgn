@@ -1,0 +1,23 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1970.01.01"]
+[Round "10"]
+[White "Sokolov, Vladimir"]
+[Black "Maeder, Karl Heinz"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "74f7bc80"]
+[Epoch "Bishop"]
+[WhiteID "904031"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Bd3 Nbd7 8. Qf3
+Qc7 9. f5 e5 10. Nb3 h5 11. Bg5 b5 12. Bxf6 Nxf6 13. Nd5 Nxd5 14. exd5 Be7 15.
+O-O-O Bd7 16. Nd2 Bg5 17. h4 Bxd2+ 18. Rxd2 Qa5 19. a3 b4 20. Be4 bxa3 21. Qxa3
+Qxa3 22. bxa3 Ke7 23. Rh3 Rhc8 24. Rb3 Rab8 25. Rxb8 Rxb8 26. Bd3 a5 27. Rf2
+Kf6 28. Rf3 Rc8 29. Rg3 Rc5 30. Rg5 Bb5 31. Bxb5 Rxb5 32. Rxh5 Rxd5 33. Rh8
+Kxf5 34. Rf8 f6 35. Rg8 Rd4 36. Rxg7 Rxh4 37. Rd7 Rd4 38. c3 Rd5 39. Kc2 Ke4
+40. Ra7 f5 41. Rb7 Ke3 42. Rg7 f4 43. Rg6 a4 44. c4 Rc5 45. Rxd6 Rxc4+ 46. Kb2
+e4 0-1

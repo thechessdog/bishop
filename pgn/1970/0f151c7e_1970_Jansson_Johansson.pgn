@@ -1,0 +1,15 @@
+[Event "Naessjoe"]
+[Site "Naessjoe"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Jansson, Borje"]
+[Black "Johannessen, Svein"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "0f151c7e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 c5 4. Bg2 cxd4 5. Nxd4 d5 6. O-O e5 7. Nb3 Nc6 8. Bg5
+Be6 9. Nc3 d4 10. Ne4 Be7 11. Nec5 Bc8 12. e3 dxe3 13. Bxe3 Qc7 14. h3 b6 15.
+Qf3 Nd8 16. Qxa8 bxc5 17. Bd2 O-O 18. Ba5 Qd7 19. Rad1 1-0

@@ -1,0 +1,18 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Burger, Robert"]
+[Black "Pruser, E."]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "7d4e99ce"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nc6 6. Nxc6 bxc6 7. e5 Qa5
+8. f4 Rb8 9. a3 Ne7 10. b4 Rxb4 11. Bd2 Rxf4 12. Ne2 Rxf1+ 13. Rxf1 Qxe5
+14. Bf4 Qa5+ 15. Bd2 Qc7 16. Ng3 Qe5+ 17. Ne2 Nd5 18. Qc1 Bc5 19. g3 Ne3
+20. Bc3 Ng2+ 0-1
+

@@ -1,0 +1,22 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos B"]
+[Date "1975.01.01"]
+[Round "15"]
+[White "Fernandez, Juan"]
+[Black "Camps, R."]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "9686efde"]
+[Epoch "Bishop"]
+[WhiteID "216291"]
+[WhiteCountry "BEL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 b6 10. Re1 Bb7 11. Bb3 Nbd7 12. a3 Be7 13. Qe2 Bxf3 14. Qxf3 Re8
+15. Bf4 a6 16. Rac1 Ra7 17. Bg3 Nf8 18. Red1 Bd6 19. d5 exd5 20. Nxd5 Bxg3 21.
+hxg3 Nxd5 22. Bxd5 Qb8 23. Rc4 Rae7 24. Rg4 Ng6 25. Kh2 Ne5 26. Qf4 Nxg4+ 27.
+Qxg4 Qe5 28. b3 Qf6 29. Bf3 Re1 30. Rd4 Qh6+ 31. Qh5 Qc1 32. Bd1 g6 33. Qd5
+R1e5 34. Qd6 R5e6 35. Qd7 Qxa3 36. f4 Qe7 37. Qd5 Re4 38. Rd2 Qe6 39. Qd3 a5
+40. Bf3 Re3 41. Qd4 Qxb3 42. Bd5 Qc3 0-1

@@ -1,0 +1,21 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Spassov, Liuben"]
+[Black "Bonchev, Stoiko"]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "cc3d19fc"]
+[Epoch "Bishop"]
+[WhiteID "2900220"]
+[WhiteCountry "FID"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. b4 b6 7. Bb2 Bb7 8. Qb3 c6
+9. cxd5 cxd5 10. b5 Nbd7 11. Be2 Ne4 12. O-O e6 13. Rfc1 Qf6 14. a4 g5 15. Nd1
+Rfc8 16. Rxc8+ Rxc8 17. a5 Bf8 18. a6 Ba8 19. Rc1 Qd8 20. Rc2 Bd6 21. Ne1 Kg7
+22. f3 Nef6 23. Ba3 Rxc2 24. Nxc2 Bb8 25. Qc3 Ne8 26. g3 h5 27. Nf2 f5 28. Nb4
+Nd6 29. Nh3 Kf6 30. Nc6 Qc8 31. e4 dxe4 32. d5+ e5 33. f4 gxf4 34. gxf4 Qg8+
+35. Kf1 Nf7 36. Bxh5 Bxc6 37. Qxc6+ 1-0

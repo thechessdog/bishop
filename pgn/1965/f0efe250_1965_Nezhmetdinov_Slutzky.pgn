@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Nezhmetdinov, Rashid"]
+[Black "Slutzky, Leonid"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "f0efe250"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Nc3 e6 5. O-O Nd4 6. Bc4 Ne7 7. Nxd4 cxd4 8.
+Ne2 Ng6 9. d3 Be7 10. c3 dxc3 11. Nxc3 O-O 12. Be3 Qxb2 13. Nb5 Qe5 14. f4 Qb8
+15. f5 exf5 16. exf5 d5 17. fxg6 dxc4 18. Bf4 1-0

@@ -1,0 +1,22 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Jongsma, Alexander Kornelis Pieter (Lex)"]
+[Black "Westerinen, Heikki M.J."]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz variation"]
+[HashCode "aa83359b"]
+[Epoch "Bishop"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nxd4 Bg7 6. Be3 Nge7 7. Qd2 O-O 8.
+O-O-O d6 9. h4 h5 10. Be2 Ne5 11. Bh6 N7c6 12. Bxg7 Kxg7 13. Nd5 Be6 14. Nb5
+Bxd5 15. exd5 Ne7 16. f4 Nd7 17. g4 hxg4 18. h5 Rh8 19. Qc3+ Kg8 20. Bxg4 a6
+21. h6 Rh7 22. Na3 Nb6 23. Qg3 Nexd5 24. c4 Nb4 25. c5 N6d5 26. Bf3 Ne3 27.
+Bxb7 Nxd1 28. Bxa8 Qxa8 29. Rxd1 Rxh6 30. cxd6 cxd6 31. Kb1 Rh1 32. Rg1 Qe4+
+33. Ka1 Qd5 34. Qf2 Qxa2# 0-1

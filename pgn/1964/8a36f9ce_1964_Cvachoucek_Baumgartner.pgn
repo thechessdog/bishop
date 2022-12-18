@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Cvachoucek, F."]
+[Black "Baumgartner, W."]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "8a36f9ce"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. O-O Nbd7
+8. f4 b5 9. Bf3 Bb7 10. a3 Qc7 11. Qe1 Be7 12. Kh1 O-O 13. e5 dxe5 14. fxe5
+Nxe5 15. Bxb7 Neg4 16. Qg3 Qxb7 17. h3 Rfd8 18. Nf3 Bd6 19. Qe1 Nh6 20.
+Bxh6 gxh6 21. Ne5 Bxe5 22. Qxe5 Nd5 23. Rf3 Nxc3 24. Rxc3 Rd7 25. Rg3+ Kf8
+26. Rf1 Ke7 27. Qf6+ Kd6 28. Rc3 1-0
+

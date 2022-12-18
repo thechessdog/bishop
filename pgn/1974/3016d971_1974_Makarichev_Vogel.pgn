@@ -1,0 +1,27 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1974.07.01"]
+[Round "7"]
+[White "Makarichev, Sergey"]
+[Black "Vogel, Jaap"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "3016d971"]
+[Epoch "Bishop"]
+[WhiteID "4100468"]
+[WhiteCountry "RUS"]
+[BlackID "1000764"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. d4 c5 6. dxc5 Bxc5 7. Bd3 Nc6 8.
+Bf4 h6 9. Bg3 b6 10. a3 Be7 11. O-O Nc5 12. Bb5 Bd7 13. Re1 a5 14. Bf1 O-O 15.
+Nd4 Nxd4 16. Qxd4 a4 17. Rad1 Bc8 18. Qg4 Ba6 19. Bxa6 Rxa6 20. Rd4 Qe8 21. Re3
+Ra7 22. Bh4 Bxh4 23. Qxh4 Qd8 24. Qg4 f5 25. exf6 Qxf6 26. Rf3 Qe5 27. Rxf8+
+Kxf8 28. Qd1 Kg8 29. Qd2 Rf7 30. Rb4 Rc7 31. h3 Rc6 32. Rg4 Qf6 33. Qe3 Kh8 34.
+Rf4 Qg6 35. Qe2 Rc8 36. h4 Rd8 37. Nxa4 Nxa4 38. Rxa4 Qf6 39. c3 e5 40. Rg4 d4
+41. cxd4 exd4 42. Qd3 Qe5 43. g3 Qe1+ 44. Kg2 Qe5 45. Rf4 Qd5+ 46. Kg1 b5 47.
+Re4 Qc5 48. Kg2 Qd5 49. Kf1 Qc5 50. Kg2 Qd5 51. g4 Re8 52. f3 Rd8 53. Re7 Qc5
+54. Qe4 Kg8 55. Qe6+ Kh8 56. Qf7 Rg8 57. g5 Qc2+ 58. Kg3 Qc1 59. Re8 Qg1+ 60.
+Kh3 Rxe8 61. Qxe8+ Kh7 62. Qe4+ Kg8 63. g6 Kf8 64. Qf5+ Ke7 65. Qe5+ 1-0

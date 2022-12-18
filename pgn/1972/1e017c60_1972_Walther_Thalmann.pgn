@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Thalmann"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "1e017c60"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nc3 d5 6. exd6 Bf5 7. Bd2 Nxd6 8.
+e4 Bxc3 9. Bxc3 Bxe4 10. Qd2 O-O 11. O-O-O Nd7 12. f3 Bc6 13. h4 Re8 14. h5 h6
+15. Qf2 Qg5+ 16. Kb1 Nf5 17. Bd3 Ne3 0-1

@@ -1,0 +1,25 @@
+[Event "Berlijn"]
+[Site "Berlijn"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Hug, Werner"]
+[Black "Capelan, Guenter"]
+[Result "1-0"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[HashCode "3d782c5b"]
+[Epoch "Bishop"]
+[WhiteID "1300040"]
+[WhiteCountry "SUI"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 Nf6 6. Bg2 Be7 7. O-O O-O 8. Re1
+Qc7 9. e5 Nd7 10. Qe2 b6 11. Nf1 Bb7 12. Bf4 Rac8 13. c3 Rfe8 14. h4 Nf8 15. h5
+Qd8 16. N1h2 b5 17. Ng4 d4 18. h6 Ng6 19. hxg7 Nxf4 20. gxf4 h5 21. Ngh2 Kxg7
+22. Nf1 Rh8 23. f5 exf5 24. Ng3 Qd7 25. Bh3 Rcg8 26. Kh2 Kf8 27. Nxf5 Qc7 28.
+cxd4 Nxd4 29. N3xd4 cxd4 30. f4 Qd8 31. Rac1 Bb4 32. Rg1 Rxg1 33. Rxg1 Qd5 34.
+Qg2 Qxg2+ 35. Bxg2 Bc8 36. Nxd4 Bc5 37. Rc1 Bxd4 38. Rxc8+ Kg7 39. Rc7 Rf8 40.
+Kg3 a5 41. b3 Kh6 42. Kf3 h4 43. Ke4 Bf2 44. Bh3 a4 45. d4 axb3 46. axb3 Be1
+47. d5 Kg6 48. Bf5+ Kg7 49. d6 Bb4 50. Rb7 Re8 51. Bd7 Rd8 52. Be6 Rf8 53. Bh3
+Re8 54. Kd5 Kf8 55. Rxb5 Bd2 56. f5 Bg5 57. Rb7 Ra8 58. e6 fxe6+ 59. fxe6 Ra5+
+60. Kc6 Re5 61. e7+ Kf7 62. Bf1 h3 63. Bxh3 Re1 64. Bg4 Rc1+ 65. Kd7 1-0

@@ -1,0 +1,25 @@
+[Event "Rhyl ch-BCF"]
+[Site "Rhyl ch-BCF"]
+[Date "1969.08.01"]
+[Round "7"]
+[White "Wade, Robert Graham"]
+[Black "Franklin, Michael J"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "fc9cbe5f"]
+[Epoch "Bishop"]
+[BlackID "400793"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Bd3 O-O 6. Ne2 e5 7. d5 Ne7 8. O-O
+d6 9. Qc2 Bd7 10. Ng3 a5 11. a3 Bc5 12. b3 h6 13. Rb1 Bb6 14. b4 axb4 15. axb4
+c6 16. dxc6 bxc6 17. Rd1 d5 18. c5 Bc7 19. e4 d4 20. Nce2 g5 21. Bd2 Ng6 22.
+Nf5 Bxf5 23. exf5 Nf4 24. Ng3 Nxd3 25. Qxd3 Qd5 26. f3 Qa2 27. Ne4 Nd5 28. Rb3
+Nc3 29. Rxc3 dxc3 30. Bxc3 f6 31. Rd2 Qf7 32. h4 Rfd8 33. Qe3 Rxd2 34. Qxd2 Rd8
+35. Qe1 Kg7 36. hxg5 hxg5 37. Qa1 Qd5 38. Qa7 Rd7 39. Qa6 g4 40. Kf2 gxf3 41.
+gxf3 Rd8 42. b5 Qd3 43. Qxc6 Qc2+ 44. Kg3 Rg8 45. Bd2 Bd8 46. b6 Qd1 47. Kf2
+Kh8 48. Qd7 Qg1+ 49. Ke2 Rg2+ 50. Kd3 Qb1+ 51. Kc4 Qa2+ 52. Kb5 Qb3+ 53. Bb4
+Rg8 54. Nc3 Rf8 55. b7 1-0

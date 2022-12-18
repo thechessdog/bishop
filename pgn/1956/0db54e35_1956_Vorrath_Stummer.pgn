@@ -1,0 +1,17 @@
+[Event "corr BdF-cup3"]
+[Site "corr BdF-cup3"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Vorrath, H."]
+[Black "Stummer, K."]
+[Result "0-1"]
+[ECO "B37"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 5...Bg7"]
+[HashCode "0db54e35"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Nb3 a5 7. a4 Nh6 8.
+Be2 d6 9. O-O f5 10. N1d2 Nb4 11. c5 fxe4 12. Nxe4 Bf5 13. Ng3 Bc2 14. Bb5+
+Kf8 15. Qf3+ Nf5 16. Nxf5 gxf5 17. Bc4 h5 18. Re1 Bf6 19. cxd6 Be4 0-1
+

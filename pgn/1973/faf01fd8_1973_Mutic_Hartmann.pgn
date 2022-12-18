@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Mutic"]
+[Black "Hartmann, Wolfram"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "faf01fd8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nh3 Nf6 6. e5 d5 7. Bb5+ Nfd7 8.
+e6 fxe6 9. Qh5+ g6 10. Qe5 Kf7 11. Qxh8 Nf6 12. Bh6 d4 13. Qxf8+ Qxf8 14. Bxf8
+dxc3 15. O-O-O cxb2+ 16. Kxb2 a6 17. Rd8 axb5 18. Ng5+ Kg8 19. Bh6+ 1-0

@@ -1,0 +1,19 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1969.12.01"]
+[Round "1"]
+[White "Flesch, János"]
+[Black "Forintos, Gyozo V"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "094011ce"]
+[Epoch "Bishop"]
+[BlackID "700690"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. Rc1 h6 7. Bh4 c6 8. e3
+Ne4 9. Bxe7 Qxe7 10. Bd3 Nxc3 11. Rxc3 dxc4 12. Rxc4 Nd7 13. O-O e5 14. dxe5
+Nxe5 15. Re4 Nxf3+ 16. Qxf3 Be6 17. Bc4 Rad8 1/2-1/2

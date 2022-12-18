@@ -1,0 +1,16 @@
+[Event "corr Germany"]
+[Site "corr Germany"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Grunke, Gunter"]
+[Black "Nathe, E."]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit, Wurzburger trap"]
+[HashCode "28b6d79d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Qh4+ 6. g3 Nxg3 7. Nf3 Qh5
+8. Nxd5 Nxh1 9. Nxc7+ Kd8 10. Nxa8 Be7 11. Bg2 Re8 12. Be3 Bg4 13. Kd2 Nf2
+14. Bxf2 Bg5+ 15. Be3 Bxe3+ 16. Kxe3 Rxe5+ 17. Kf2 Bxf3 0-1
+

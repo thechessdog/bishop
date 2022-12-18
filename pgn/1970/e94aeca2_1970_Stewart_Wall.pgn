@@ -1,0 +1,18 @@
+[Event "San Antonio"]
+[Site "San Antonio"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Stewart, Ron"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "e94aeca2"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Bf5 7. Nc3 e6 8. Nf3
+Bb4 9. Bd2 O-O 10. Rc1 a6 11. a3 Be7 12. b4 Bh4+ 13. g3 Be7 14. h3 Nc6 15. Bf4
+g5 16. Be3 f6 17. c5 Nd5 18. Nxd5 Qxd5 19. g4 Be4 20. Bg2 Qa2 21. Rg1 Qxa3 22.
+Qe2 Qxb4+ 23. Kf2 fxe5 0-1

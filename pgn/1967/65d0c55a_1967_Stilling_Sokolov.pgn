@@ -1,0 +1,19 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Stilling, W."]
+[Black "Sokolov, E."]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "exchange variation"]
+[HashCode "65d0c55a"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nc3 Nc6 7. Be3 Be7
+8. Bd3 O-O 9. Nge2 Bg4 10. O-O Nb4 11. Rc1 Nxd3 12. Qxd3 Qd7 13. Ng3 f5 14.
+f4 Bh4 15. Nce2 Rae8 16. Rfe1 Bxe2 17. Rxe2 Bxg3 18. hxg3 Re4 19. Rce1 d5
+20. b3 Qe6 21. Bd2 Re8 22. cxd5 Nxd5 23. Rxe4 fxe4 24. Qc4 c6 25. a4 Kh8
+26. Be3 Qg6 27. Kf2 a5 28. Bd2 Nf6 29. Qc1 Ng4+ 30. Kf1 e3 0-1
+

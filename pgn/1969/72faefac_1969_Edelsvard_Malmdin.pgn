@@ -1,0 +1,21 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Edelsvard, Olle"]
+[Black "Malmdin, Nils"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "72faefac"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. Bd3 O-O 10. Nf3 Nf6 11. O-O Bg4 12. h3 Bxf3 13. Qxf3 Nbd7 14.
+a4 a6 15. a5 Qc7 16. Bc4 h6 17. Bd2 Rfe8 18. g4 Qc8 19. Rae1 b5 20. axb6
+Nxb6 21. b3 Nfd7 22. e5 Nxc4 23. bxc4 Nb6 24. Ne4 Nxc4 25. Bc3 a5 26. e6
+Bd4+ 27. Bxd4 cxd4 28. Nf6+ Kf8 29. Nxe8 Kxe8 30. exf7+ Kxf7 31. Re6 Ne3
+32. f5 g5 33. Qe4 Qc2 34. Rb1 Qxe4 35. Rb7+ Kg8 36. Rxe4 Nc2 37. Ree7 d3
+38. Rg7+ Kf8 39. Rh7 1-0
+

@@ -1,0 +1,17 @@
+[Event "DDR-ch 14th"]
+[Site "Magdeburg"]
+[Date "1964.??.??"]
+[Round "5"]
+[White "Zinn, Lothar"]
+[Black "Bruemmer, Ullrich"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "1990f87c"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 b6 9. Bf3 Bb7 10. Nge2 Qd7 11. Bg5 Na6 12. O-O Rfd8 13. Rfe1 Nxd5 14. Bxd5
+Bxd5 15. Qa3 Nc7 16. Nf4 Qf5 17. Qxe7 Rd7 18. Ncxd5 Nxd5 19. Qe8+ 1-0

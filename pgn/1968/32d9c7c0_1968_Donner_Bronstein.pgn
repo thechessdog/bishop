@@ -1,0 +1,16 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1968.01.01"]
+[Round "14"]
+[White "Donner, Jan Hein"]
+[Black "Bronstein, David Ionovich"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "32d9c7c0"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. Nd2 Bg7 6. Ngf3 O-O 7. O-O Na6 8. b3
+c5 9. Bb2 cxd4 10. Bxd4 Nb4 1/2-1/2

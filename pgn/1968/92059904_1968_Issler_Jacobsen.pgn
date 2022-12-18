@@ -1,0 +1,18 @@
+[Event "Basel"]
+[Site "Basel"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Issler"]
+[Black "Jacobsen, Bo"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "92059904"]
+[Epoch "Bishop"]
+[BlackID "1400738"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. Re1 Qf6 8.
+hxg4 hxg4 9. Nxe5 Qxe5 10. Qxg4 Nf6 11. Qf3 Bd6 12. g3 O-O-O 13. c3 c5 14. Na3
+Rh5 15. Nc4 Qe6 16. Nxd6+ cxd6 17. Kf1 Ng4 18. Ke2 d5 19. Kd1 dxe4 0-1

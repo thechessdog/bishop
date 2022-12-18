@@ -1,0 +1,22 @@
+[Event "ACM Atlanta"]
+[Site "ACM Atlanta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "The Fox"]
+[Black "Chaos"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "25e31c72"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Nc3 Nd6 6. d3 Nxb5 7. Nxb5 d6
+8. Qe2 Bg4 9. Bf4 e5 10. Bg5 f6 11. Bh4 Be7 12. Nc3 O-O 13. Nd5 Nd4 14. Qd1
+Nxf3+ 15. gxf3 Be6 16. Nxe7+ Qxe7 17. Qe2 Qf7 18. Bg3 b6 19. Qe3 Bxa2 20.
+b3 Bxb3 21. cxb3 Qxb3 22. Ra6 Qb5 23. Ra2 a5 24. Qe4 Qb3 25. Rd2 Rae8 26.
+Rc1 d5 27. Qe3 a4 28. f4 exf4 29. Qxf4 d4 30. Qd6 Re6 31. Qd7 a3 32. Qb7
+Rfe8 33. Qd7 Re1+ 34. Rxe1 Rxe1+ 35. Kg2 a2 36. Bb8 a1=Q 37. Bd6 Qd5+ 38.
+Kh3 Qe6+ 39. Qxe6+ Rxe6 40. Bc7 Qe1 41. Ra2 Qf1+ 42. Kg4 Qxd3 43. Ra8+ Kf7
+44. Rd8 f5+ 45. Kh4 Qf3 46. Rd7+ Kg6 0-1
+

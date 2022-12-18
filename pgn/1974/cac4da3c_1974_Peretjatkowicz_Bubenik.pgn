@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Peretjatkowicz, T."]
+[Black "Bubenik, J."]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "cac4da3c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qc7 Nge7 9. Nc3 O-O 10. Be3 b5 11. Bc5 d6 12. Qxd6 Qh4 13. g3 Qh5
+14. Nd5 Qf3 15. Nxe7+ Nxe7 16. Qxe7 Bg4 17. Rg1 Rfd8 18. Bd3 Rxd3 0-1
+

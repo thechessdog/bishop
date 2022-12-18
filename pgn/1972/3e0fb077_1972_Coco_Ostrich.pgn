@@ -1,0 +1,19 @@
+[Event "ACM Boston"]
+[Site "ACM Boston"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Coco III"]
+[Black "Ostrich"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "3e0fb077"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 d5 3. Nc3 Nc6 4. Ne5 e6 5. Nxc6 bxc6 6. Bg5 Bb4 7. Qd2 O-O
+8. Bxf6 gxf6 9. a3 Bxc3 10. Qxc3 Qd6 11. Qf3 e5 12. dxe5 fxe5 13. e4 f5 14.
+exf5 Bxf5 15. Qg3+ Qg6 16. c4 Rab8 17. Qxe5 Rfe8 18. Qxe8+ Qxe8+ 19. Be2
+Rxb2 20. O-O Qxe2 21. cxd5 cxd5 22. h4 c5 23. Rae1 Qh5 24. Re3 Qxh4 25.
+Re8+ Kf7 26. g3 Qd4 27. Re3 c4 28. Rf3 Kg6 29. Rc1 Qd2 30. Ra1 c3 31. Rf4
+c2 32. Kg2 Rb1 33. Ra2 c1=Q 34. Rh4 Qg1+ 35. Kf3 Rb3# 0-1
+

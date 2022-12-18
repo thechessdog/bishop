@@ -1,0 +1,18 @@
+[Event "corr ICCF/M"]
+[Site "corr ICCF/M"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Wason, P."]
+[Black "Peskov, BG."]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "76b83ae2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. Be2 e5 8.
+Nb3 Bd7 9. O-O Bc6 10. f4 Nxe4 11. Nxe4 Bxe4 12. fxe5 d5 13. e6 fxe6 14.
+Bh5+ g6 15. Qd4 Rg8 16. Qe5 Qd7 17. Nc5 Bxc5 18. Bxc5 gxh5 19. Rf2 Nc6 20.
+Qf6 Ne7 21. Qf7+ Kd8 22. Bb6+ Kc8 23. Qxg8+ Nxg8 24. Rf8+ 1-0
+

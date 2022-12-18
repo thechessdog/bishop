@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Negyesy"]
+[Black "Berta"]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "5df7fe8e"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qa4+ Bd7 6. Qxd4 exd5 7. Qxd5
+Nc6 8. e3 Nf6 9. Qd1 Bc5 10. Nf3 Qe7 11. Be2 O-O-O 12. O-O g5 13. b4 Bxb4
+14. Qb3 Rhg8 15. Rb1 Bf5 16. Rb2 g4 17. Nd4 Nxd4 18. exd4 Bxc3 19. Qxc3+
+Kb8 20. Ba6 Be4 21. Re1 Qd6 22. Bf4 Qxf4 23. Bxb7 Rd6 24. Bc6+ Kc8 25.
+Bxe4+ 1-0
+

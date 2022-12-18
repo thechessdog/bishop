@@ -1,0 +1,21 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Hamann, Svend"]
+[Black "Moe, Mogens"]
+[Result "1-0"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "9079dd1b"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[BlackID "1400550"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nf3 O-O 5. O-O d6 6. Nc3 e5 7. d3 Ne8 8. Bg5
+f6 9. Bd2 Nc6 10. Rb1 Qe7 11. b4 g5 12. b5 Nd8 13. Ne1 g4 14. f4 f5 15. Nd5 Qd7
+16. a4 Ne6 17. e3 a5 18. Qc2 Nc5 19. Bc3 Kh8 20. d4 exd4 21. exd4 Ne6 22. Qd2
+Rb8 23. Nc2 b6 24. Rbe1 Rf7 25. Re2 Bf8 26. Rfe1 N8g7 27. Nf6 Qd8 28. d5 Nc5
+29. Re8 Nxe8 30. Rxe8 Qxf6 31. Bxf6+ Rxf6 32. Qd4 Kg7 33. Rxf8 1-0

@@ -1,0 +1,17 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Pietzsch, Wolfgang"]
+[Black "Schroeder, C."]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein; Rubinstein counter-gambit"]
+[HashCode "eecda9e9"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 Nc6 7. Bd3 d6 8.
+exd6 cxd4 9. O-O Bxd6 10. Re1+ Be7 11. Ng5 h6 12. Qh5 O-O 13. Nh7 Re8 14. Bxh6
+Be6 15. Bxg7 1-0

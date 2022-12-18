@@ -1,0 +1,19 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Grabczewski, Romuald"]
+[Black "Kostro, Jerzy"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Delmar variation"]
+[HashCode "35141664"]
+[Epoch "Bishop"]
+[BlackID "1101188"]
+[BlackCountry "POL"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. c3 Be7 6. dxe5 Nxe5 7. Nxe5 dxe5 8.
+Qh5 g6 9. Qxe5 Nf6 10. O-O O-O 11. Bg5 Re8 12. Qf4 b5 13. Bb3 c5 14. Rd1 Bd7
+15. e5 Nd5 16. Bxd5 1-0

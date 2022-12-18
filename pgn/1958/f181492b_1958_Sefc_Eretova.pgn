@@ -1,0 +1,22 @@
+[Event "Luhacovice"]
+[Site "Luhacovice"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Sefc, Jan"]
+[Black "Eretova, Kveta"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "f181492b"]
+[Epoch "Bishop"]
+[BlackID "302538"]
+[BlackCountry "CZE"]
+[WhiteCountry "SVK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. Nxe5
+Nxe5 9. dxe5 Be6 10. c3 Bc5 11. Qe2 O-O 12. Be3 Bxe3 13. Qxe3 f5 14. f4 Qe7 15.
+Rd1 Rfd8 16. Nd2 Rd7 17. Nf3 c5 18. a4 b4 19. cxb4 c4 20. Bc2 Qxb4 21. Nd4 Qe7
+22. Bxe4 dxe4 23. Nc6 Qe8 24. Qb6 Rd3 25. Nd4 Bd7 26. e6 Rxd1+ 27. Rxd1 Bxa4
+28. Rc1 Rb8 29. Qc7 Rc8 30. Qe5 Bb5 31. Nxf5 Qf8 32. e7 Qf6 33. Qd5+ Kh8 34.
+Rd1 1-0

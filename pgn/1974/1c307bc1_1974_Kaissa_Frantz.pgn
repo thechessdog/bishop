@@ -1,0 +1,20 @@
+[Event "Stockholm tt"]
+[Site "Stockholm tt"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kaissa"]
+[Black "Frantz"]
+[Result "1-0"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "1c307bc1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Qxd4 Ne7 6. O-O f6 7. Bf4 Be6
+8. Nc3 Qc8 9. Rad1 Bf7 10. Qb4 a6 11. Bxc6+ Nxc6 12. Qa4 b5 13. Qa3 d5 14.
+b4 Bxb4 15. Qb2 dxe4 16. Rfe1 f5 17. Ne5 Nxe5 18. Bxe5 Bxc3 19. Bxc3 Rg8
+20. f3 Qb7 21. Bxg7 Qb6+ 22. Bd4 Qg6 23. g3 O-O-O 24. fxe4 fxe4 25. Bf6 Rd5
+26. Rxd5 Bxd5 27. Qe5 Qf7 28. Rd1 Bxa2 29. Qxe4 Kb8 30. Be5 Re8 31. Qc6 Qg6
+32. Qxc7+ Ka8 33. Rd7 Qf5 34. Qc6# 1-0
+

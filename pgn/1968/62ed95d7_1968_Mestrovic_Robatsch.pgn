@@ -1,0 +1,15 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1968.03.01"]
+[Round "1"]
+[White "Mestrovic, Zvonimir"]
+[Black "Robatsch, Karl"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "62ed95d7"]
+[Epoch "Bishop"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 h6 4. Bxf6 exf6 5. g3 c6 6. Bg2 f5 7. e3 Nd7 8. Nge2
+Nf6 9. O-O Bd6 10. Nb1 O-O 1/2-1/2

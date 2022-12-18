@@ -1,0 +1,17 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1969.04.01"]
+[Round "10"]
+[White "Piket, Joop"]
+[Black "De Ruiter, Ton"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Ne2 e5 (Botvinnik)"]
+[HashCode "a350000f"]
+[Epoch "Bishop"]
+[WhiteID "1001256"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 e5 4. d3 g6 5. g3 Bg7 6. Bg2 d6 7. O-O h5 8. f4
+Nge7 9. Be3 Nd4 10. Qd2 1/2-1/2

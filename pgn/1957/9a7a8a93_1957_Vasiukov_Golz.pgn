@@ -1,0 +1,23 @@
+[Event "Gotha"]
+[Site "Gotha"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Vasiukov, Evgeni"]
+[Black "Golz, Werner"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "9a7a8a93"]
+[Epoch "Bishop"]
+[WhiteID "4100522"]
+[WhiteCountry "RUS"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 c5 6. Ne2 Nf6 7. Bf3 Nc6 8. a3
+Bxc3+ 9. bxc3 e5 10. Bxc6+ bxc6 11. Be3 cxd4 12. cxd4 O-O 13. O-O exd4 14. Nxd4
+Qd5 15. Re1 Re8 16. Rb1 Ba6 17. Nb3 Qf5 18. Qd2 Bc4 19. f3 Rad8 20. Qf2 Bxb3
+21. cxb3 a6 22. Rbc1 Qb5 23. b4 Re6 24. Bd4 Rxe1+ 25. Rxe1 Qg5 26. Bb6 Rd5 27.
+Qg3 Qxg3 28. hxg3 h6 29. Rc1 Rd6 30. Bc7 Re6 31. Kf2 Nd5 32. Bf4 Kf8 33. Rc5 g5
+34. Bd2 Ke8 35. Ra5 Nc7 36. Be3 Rd6 37. Bb6 Nb5 38. Rxa6 Rd2+ 39. Kg1 Ra2 40.
+a4 Nc3 41. a5 g4 42. Ra8+ Ke7 43. Bc5+ Kd7 44. a6 f5 45. a7 f4 46. Rf8 1-0

@@ -1,0 +1,23 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Herzel, A."]
+[Black "Sielaff, R."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "eaa64d25"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+g3 O-O 9. Bg2 Nbd7 10. O-O a6 11. a4 Rb8 12. Nc4 Ne8 13. a5 Ne5 14. Nb6 Nc7
+15. Bd2 Bd7 16. Rc1 Nb5 17. b4 cxb4 18. Nxb5 Bxb5 19. Bxb4 f5 20. f3 Rf7
+21. Qd2 Re7 22. Rfe1 Nf7 23. Bc3 Ne5 24. Bb4 Nf7 25. f4 Qe8 26. Kf2 Rd8 27.
+Bc3 Nh6 28. h3 Kf8 29. e4 Bxc3 30. Rxc3 fxe4 31. Rce3 Bd3 32. Bxe4 Bxe4 33.
+Qb4 Qf7 34. Rxe4 Rxe4 35. Rxe4 Nf5 36. g4 Ne7 37. Qc3 Ng8 38. Kf3 h5 39.
+Re6 hxg4+ 40. hxg4 Re8 41. Rxe8+ Qxe8 42. Qc8 Nf6 43. g5 Qxc8 44. Nxc8 Ne8
+45. f5 gxf5 46. Kf4 Nc7 47. Nb6 Kg7 48. Kxf5 Kf7 49. g6+ Kg7 50. Kg5 Ne8
+51. Nd7 1-0
+

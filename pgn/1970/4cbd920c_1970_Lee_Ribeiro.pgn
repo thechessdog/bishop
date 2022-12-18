@@ -1,0 +1,17 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Lee, Chee Kian"]
+[Black "Ribeiro, J."]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[HashCode "4cbd920c"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c6 5. cxd5 exd5 6. e3 Be7 7. Bd3 O-O 8. Qc2
+Nbd7 9. Nf3 Re8 10. O-O h6 11. Bf4 Nf8 12. Ne5 Ng4 13. Rad1 Bd6 14. e4 Ne6 15.
+Nxg4 Bxf4 16. exd5 Ng5 17. Ne5 Rxe5 18. dxe5 Nf3+ 19. Kh1 Qh4 20. h3 Bxh3 21.
+g3 Qh5 0-1

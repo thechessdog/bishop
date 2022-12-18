@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Wood, Baruch Harold"]
+[Black "Cuadrado, A."]
+[Result "0-1"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "902f419f"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 O-O 8.
+g3 e5 9. dxe5 Bf5 10. Bh3 Bg6 11. Qb3 Nc6 12. Qxb7 Nd4 13. Kf1 dxc4 14. Nf3 Nc2
+15. Ra2 Qd1+ 16. Kg2 Qxe2 17. Rf1 Nc5 18. Qxc7 Be4 19. Bg4 Nd3 0-1

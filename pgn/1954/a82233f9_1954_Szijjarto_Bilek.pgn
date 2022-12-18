@@ -1,0 +1,25 @@
+[Event "Pecs"]
+[Site "Pecs"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Szijjarto, Beni"]
+[Black "Bilek, Istvan"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "a82233f9"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Rc8 10. Kb1 Be7 11. Be2 O-O 12. Nxc6 Bxc6 13. Be3 Qc7 14. g4 b5
+15. Rc1 b4 16. Nd1 d5 17. g5 Nd7 18. Nf2 Rfd8 19. exd5 Bxd5 20. c4 bxc3 21.
+Qxc3 Qb7 22. Qa5 Rb8 23. Rc2 Bxf3 24. Rd1 Bxe2 25. Rxe2 Bb4 26. Qa4 Nc5 27.
+Bxc5 Bxc5 28. Ne4 Rxd1+ 29. Qxd1 Be7 30. h4 Ba3 31. Qb3 Qxb3 32. axb3 Be7 33.
+Rc2 h6 34. Rc7 Rb4 35. Nd2 Bf8 36. Rc4 hxg5 37. hxg5 Rb5 38. Ra4 Bb4 39. Ne4 a5
+40. Kc2 Re5 41. Kd3 Rd5+ 42. Ke3 Rd1 43. Nf2 Rg1 44. Nd3 Rg3+ 45. Ke2 Rxg5 46.
+Nxb4 axb4 47. Rxb4 Rg2+ 48. Kd3 Rxb2 49. Kc3 Rb1 50. Kc2 Rf1 51. Rb8+ Kh7 52.
+b4 g5 53. Rc8 Kg6 54. b5 Rf5 55. b6 Rb5 56. Rb8 Kf5 57. Kc3 g4 58. Kc4 Rb1 59.
+Kc5 g3 60. Rg8 Kf4 61. Kc6 Kf3 62. b7 g2 63. Kc7 Kf2 64. b8=Q Rxb8 65. Kxb8
+g1=Q 0-1

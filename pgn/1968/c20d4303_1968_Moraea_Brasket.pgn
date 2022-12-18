@@ -1,0 +1,18 @@
+[Event "Puerto Rico"]
+[Site "Puerto Rico"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Moraea"]
+[Black "Brasket, Curt"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "c20d4303"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Bc4 Qc7 9. Bb3 b5 10. Qe2 Bb7 11. O-O-O b4 12. Nd5 exd5 13. exd5+ Kd8 14.
+Rhe1 Kc8 15. Qe8+ Qd8 16. Qxf7 Nc5 17. Bxf6 gxf6 18. Re8 Be7 19. Rxd8+ Kxd8
+20. Re1 Re8 21. Nf5 Rc8 22. Rxe7 1-0
+

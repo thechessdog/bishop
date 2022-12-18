@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "5"]
+[White "Ujtelky, Maximilián Samuel Rudolf"]
+[Black "Zuidema, Coen"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "132687ec"]
+[Epoch "Bishop"]
+[BlackID "1000101"]
+[WhiteCountry "SVK"]
+[BlackCountry "NED"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 e6 4. g3 Be7 5. c4 O-O 6. Bg2 c5 7. O-O Nc6 8. cxd5
+Nxd5 9. Nc3 Bf6 10. Qc1 Nde7 11. Na4 Nd4 12. Re1 Qa5 13. Rb1 Rb8 14. Qxc5 Nxf3+
+15. Bxf3 Qxc5 16. Nxc5 Bxb2 17. Rxb2 b6 18. Nd3 Ba6 19. Nb4 Bb5 20. a4 Bd7 21.
+Rc1 Rbc8 22. Rbc2 a5 23. Nc6 1-0

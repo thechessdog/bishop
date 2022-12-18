@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "4"]
+[White "Williams, L."]
+[Black "Grefe, John Alan"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "9a571fe9"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. b3 e5 2. e3 Nf6 3. Bb2 Nc6 4. Bb5 d6 5. Bxc6+ bxc6 6. d4 e4 7. Ne2 g6 8. O-O
+Bh6 9. d5 c5 10. f4 O-O 11. h3 Bb7 12. c4 Bg7 13. g4 c6 14. dxc6 Bxc6 15. Ng3
+Nxg4 16. Qe2 Nxe3 17. Re1 Qh4 18. Kh2 Bxb2 19. Qxb2 Ng4+ 20. Kg2 e3+ 21. Kf1
+Qxh3+ 22. Ke2 Qg2+ 23. Kd3 Qxb2 0-1

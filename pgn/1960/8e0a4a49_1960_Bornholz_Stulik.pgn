@@ -1,0 +1,18 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Bornholz, R."]
+[Black "Stulik, Vlastimil"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "8e0a4a49"]
+[Epoch "Bishop"]
+[BlackCountry "CZE"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 Nbd7 5. g3 g6 6. Bg2 Bg7 7. O-O O-O 8. e4
+c6 9. dxe5 dxe5 10. Qe2 Qc7 11. Rd1 Nc5 12. b4 Ne6 13. Bb2 Nd7 14. Rac1 a6 15.
+Qe3 Qb6 16. Qxb6 Nxb6 17. Bf1 f5 18. c5 Nd7 19. Bc4 Re8 20. Rd6 Nf8 21. exf5
+gxf5 22. Re1 e4 23. Nh4 1-0

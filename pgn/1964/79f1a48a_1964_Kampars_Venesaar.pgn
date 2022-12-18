@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Kampars, N."]
+[Black "Venesaar, K."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "79f1a48a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 b6 9. Qh4 Ng4 10. h3 Bxd4+ 11. Kh1 h5 12. hxg4 Bxg4 13. Nxd4 Qxd4
+14. Rf4 Qd8 15. Rxg4 hxg4 16. Nd5 Nc6 17. Bg5 Kg7 18. Qh6+ Kg8 19. Nf6+
+exf6 20. Qxg6+ Kh8 21. Bxf6+ 1-0
+

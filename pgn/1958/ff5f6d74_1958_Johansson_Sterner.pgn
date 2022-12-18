@@ -1,0 +1,22 @@
+[Event "Munchen olm"]
+[Site "Munchen olm"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Johansson, Ingi"]
+[Black "Sterner, Olof"]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "ff5f6d74"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8. Ng3
+c5 9. dxc5 Bxc5 10. b4 d4 11. bxc5 dxc3 12. Qc2 Qa5 13. Ne2 Na6 14. Qxc3 Qxc5
+15. Bb2 Qg5 16. Nf4 Bd7 17. Bxa6 bxa6 18. O-O Rac8 19. Qe5 Qxe5 20. Bxe5 Ne4
+21. Rfd1 Ba4 22. Rdc1 f6 23. Bd4 Nd2 24. Rxc8 Rxc8 25. Nd5 Kf7 26. Bxa7 Rc2 27.
+f3 Bb3 28. Nb4 Rc7 29. Bb6 Rb7 30. Bd4 a5 31. Nc6 Rb5 32. Rc1 Nc4 33. a4 Rd5
+34. Rc3 Ba2 35. Rc2 Bb3 36. Rc3 Ba2 37. Kf2 Ke6 38. Rc2 Bb3 39. Rc3 Ba2 40. Rc2
+Bb3 41. Rc3 Ba2 42. Na7 Rd7 43. g4 g6 44. Nb5 f5 45. h3 fxg4 46. hxg4 h5 47. g5
+Kf5 48. Bf6 Ke6 49. Nd4+ Kd5 50. Rc2 Bb1 51. Rc1 Rb7 52. Nb5 Ba2 53. Nc3+ Kc5
+54. Nxa2 1-0

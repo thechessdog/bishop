@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Veresov, Gavriil"]
+[Black "Bronstein, David Ionovich"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "a2e69a58"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 Bb4 6. Bd3 Bxd3 7. Qxd3 Nc6
+8. Ne2 Qd7 9. O-O-O O-O-O 10. g3 Bxc3 11. Qxc3 Ne7 12. Nf4 f5 13. Kb1 Ng8 14.
+Qa5 Kb8 15. Rd3 g5 16. Ne2 Nf6 17. f3 Rhe8 18. h4 h6 19. hxg5 hxg5 20. Rb3 b6
+21. Qd2 Rh8 1/2-1/2

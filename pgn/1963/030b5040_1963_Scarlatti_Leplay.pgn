@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Scarlatti"]
+[Black "Leplay, J."]
+[Result "0-1"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "030b5040"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 b5 7. Bg2 Bb7 8.
+O-O e6 9. Qe2 Nbd7 10. a3 Qc7 11. f4 Rc8 12. h3 Be7 13. g4 Qc4 14. Qf2 d5
+15. e5 Ne4 16. Nxe4 dxe4 17. Be3 O-O 18. Rad1 Bd5 19. Qg3 Qc7 20. Rf2 Nb6
+21. c3 Nd7 22. Re2 Rfd8 23. Bf2 Qb7 24. Qe3 Nc5 25. f5 exf5 26. gxf5 f6 27.
+e6 Nd3 28. Bg3 Rc4 29. Bh1 Rdc8 30. Rdd2 Nxb2 31. Rxb2 Rxc3 32. Qf4 Rxa3
+33. Nc2 Ra4 34. Ne3 Bc6 35. Kh2 Rd4 36. Ng4 a5 37. Rbd2 Rxd2 38. Rxd2 Rd8
+39. Rxd8+ Bxd8 40. Qd2 Bc7 41. Bd6 Qb8 42. Bxc7 Qxc7+ 43. Kg1 b4 44. Ne3
+Kf8 45. Nd5 Qg3+ 46. Bg2 Qd3 47. e7+ Kf7 48. Qxd3 exd3 49. Nc7 d2 0-1
+

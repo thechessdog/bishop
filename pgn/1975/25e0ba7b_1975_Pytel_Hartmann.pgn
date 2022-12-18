@@ -1,0 +1,17 @@
+[Event "Istres"]
+[Site "Istres"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pytel"]
+[Black "Hartmann, Wolfram"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "25e0ba7b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Bd3 O-O 10. Nf3 b6 11. a4 Ba6 12. Nb5 c4 13. Bxc4 Nc5 14. e5 dxe5 15.
+fxe5 Nbd7 16. Bg5 Nxe5 17. Bxd8 Nxc4 18. Be7 Rfe8 19. d6 Nxb2 20. Qd5 Bb7 21.
+Qa2 Nbd3+ 22. Kf1 Nb4 23. Qc4 a5 24. Rd1 Rac8 25. Ng5 1-0

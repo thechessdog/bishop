@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Sigmund"]
+[Black "Eret"]
+[Result "0-1"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "5bf5c0a1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5
+8. dxc5 Nc6 9. cxd5 exd5 10. Nf3 Bf5 11. b4 O-O 12. Bb2 d4 13. Qc4 Qf6 14.
+Bxd4 Nxd4 15. Qxd4 Qe6 16. e3 Rad8 17. Qb2 Rfe8 18. Nd4 Qg6 19. Nxf5 Qxf5
+20. Bb5 Re6 21. O-O Rg6 22. g3 Rd2 23. Rad1 Qd5 24. Bc4 Nxg3 0-1
+

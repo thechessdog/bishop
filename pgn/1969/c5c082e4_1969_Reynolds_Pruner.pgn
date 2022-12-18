@@ -1,0 +1,23 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Reynolds, R."]
+[Black "Pruner, E."]
+[Result "0-1"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "c5c082e4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 g6 6. Nc3 Bg7 7. g3 d6 8.
+Bg2 O-O 9. O-O Na6 10. Nd2 Nc7 11. a4 b6 12. Nc4 Ba6 13. Qb3 Qd7 14. Bf4
+Bxc4 15. Qxc4 a6 16. Bg5 h6 17. Bxf6 Bxf6 18. Qf4 Kg7 19. Qd2 Kh7 20. Ne4
+Be7 21. f4 f5 22. Nf2 Bf6 23. e4 fxe4 24. Bxe4 Bd4 25. Qc2 Qf7 26. Rad1
+Rab8 27. f5 gxf5 28. Rxd4 cxd4 29. Nh3 Kg8 30. Rxf5 Qg7 31. Nf4 Rxf5 32.
+Bxf5 b5 33. Qc6 Qe7 34. Ng6 Qf7 35. Qxd6 Re8 36. Bd3 Re1+ 37. Kg2 Qxd5+ 38.
+Qxd5+ Nxd5 39. axb5 axb5 40. Bxb5 Rb1 41. Bc4 Rxb2+ 42. Kf3 Kg7 43. Bxd5
+Kxg6 44. g4 Rxh2 45. Be6 Kg5 46. Ke4 Rh4 47. Kxd4 Rxg4+ 48. Bxg4 Kxg4 49.
+Ke3 Kg3 0-1
+

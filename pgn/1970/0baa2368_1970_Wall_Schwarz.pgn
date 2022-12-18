@@ -1,0 +1,16 @@
+[Event "Wichita Falls"]
+[Site "Wichita Falls"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Schwarz, Jerry"]
+[Result "1-0"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "0baa2368"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O a6 6. Bc4 b5 7. Bxf7+ Kxf7
+8. Qh5+ Ke7 9. Qe5+ Kf7 10. Qd5+ Ke7 11. Qxa8 1-0

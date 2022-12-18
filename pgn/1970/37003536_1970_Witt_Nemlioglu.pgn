@@ -1,0 +1,24 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Witt"]
+[Black "Nemlioglu"]
+[Result "1-0"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "37003536"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 a5 8. Bd3
+Ne8 9. Qd2 f5 10. Nge2 f4 11. Bf2 Na6 12. O-O-O Bd7 13. Kb1 Nb4 14. Nc1
+Nxd3 15. Nxd3 b6 16. b3 Nf6 17. Kc2 Be8 18. Ra1 Nd7 19. a3 Nc5 20. b4 Nxd3
+21. Kxd3 Rf7 22. Rhb1 Bf8 23. Ke2 Rg7 24. Qd3 g5 25. h3 h5 26. c5 bxc5 27.
+bxc5 dxc5 28. Qc4 Qd6 29. Na4 Bxa4 30. Qxa4 Qa6+ 31. Qb5 Rg6 32. Qxa6 Raxa6
+33. Rb8 Rab6 34. Rc8 Rb2+ 35. Kf1 c4 36. Rc1 Rf6 37. Bc5 c3 38. Bxf8 Rxf8
+39. Rxc7 Rfb8 40. R1xc3 Rb1+ 41. Kf2 R8b2+ 42. Rc2 Rxc2+ 43. Rxc2 Rb3 44.
+d6 Kf7 45. Rc5 Rxa3 46. Rd5 Ke8 47. Rxe5+ Kd7 48. Rxg5 Ra2+ 49. Kg1 Kxd6
+50. Rxh5 a4 51. Rf5 a3 52. Rxf4 Rb2 53. Rf6+ Ke5 54. Rf5+ Ke6 55. Ra5 a2
+56. Kh2 Kf6 57. f4 Re2 58. Ra6+ Ke7 59. e5 Kf7 60. Kg3 Re3+ 61. Kg4 1-0
+

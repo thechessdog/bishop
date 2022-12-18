@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Veresov, Gavriil"]
+[Black "Suetin, Alexey S"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "6fc96eef"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6 5. e3 Bg7 6. Bd3 O-O 7. O-O c5 8. Re1
+b6 9. e4 dxe4 10. Nxe4 Bb7 11. c3 cxd4 12. Nxd4 Ne5 13. Bc2 Nc4 14. Qe2 Rc8 15.
+Rad1 Qc7 16. Nb5 Qb8 17. Bxf6 Bxf6 18. Nxf6+ exf6 19. Bb3 Rfe8 20. Qg4 Rxe1+
+21. Rxe1 Ne5 22. Qh4 Re8 23. Rd1 Kg7 24. f4 Nc6 25. Rd6 Nd8 26. Qxf6+ Kg8 27.
+Rd7 Rf8 28. Rxd8 Qxd8 29. Bxf7+ Rxf7 30. Qxd8+ 1-0

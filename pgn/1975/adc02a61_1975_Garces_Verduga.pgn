@@ -1,0 +1,17 @@
+[Event "Quito"]
+[Site "Quito"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Verduga, Denis Homero"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "adc02a61"]
+[Epoch "Bishop"]
+[BlackCountry "ECU"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c5 7. e3 Nc6 8. Nc3
+Rb8 9. Qe2 a6 10. Rd1 Bd7 11. dxc5 dxc5 12. e4 e5 13. Bg5 h6 14. Bxf6 Bxf6 15.
+Qe3 Nd4 16. Qd3 Be6 17. Nxd4 cxd4 18. Nd5 Bxd5 19. cxd5 1/2-1/2

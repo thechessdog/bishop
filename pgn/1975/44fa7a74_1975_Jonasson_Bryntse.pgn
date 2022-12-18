@@ -1,0 +1,18 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Jonasson, Allan"]
+[Black "Bryntse, Arne"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "44fa7a74"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 Kf8
+8. Bd3 d6 9. Nf3 Nc6 10. O-O dxe5 11. Qh5 f6 12. Nh4 Kg8 13. Ne4 Bd7 14. a3
+Be7 15. Bc4 Be8 16. Qd1 Bf7 17. Nf3 Qc7 18. Bd2 Rd8 19. Ba2 Bh5 20. Ng3 Bg4
+21. h3 Bxf3 22. Qxf3 Nd4 23. Qd1 Nxc2 24. Rc1 1-0
+

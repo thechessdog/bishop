@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Krueger, D."]
+[Black "Kruetzfeldt, HL."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "b03474a7"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 Bb6 6. Nxe5 Nxe5 7. dxe5
+Nxe4 8. Qg4 Bxf2+ 9. Kd1 Qh4 10. Qxg7 Rf8 11. Nd2 c6 12. Nxe4 Qxe4 13. Bh6
+Bc5 14. Re1 Qd5+ 15. Kc2 cxb5 16. Rad1 Qe6 17. Rd6 Qe7 18. b4 Bf2 19. Re2
+Bg1 20. Kd3 b6 21. Bg5 1-0
+

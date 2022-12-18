@@ -1,0 +1,25 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1974.07.01"]
+[Round "11"]
+[White "Bohm, Hans"]
+[Black "Enklaar, Bertus F"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "9bda7cf3"]
+[Epoch "Bishop"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Be2 Nf6 5. Nf3 O-O 6. O-O c6 7. a4 Qc7 8. h3
+Nbd7 9. Re1 e5 10. Bf1 a5 11. dxe5 dxe5 12. Be3 Rd8 13. Qe2 Nh5 14. Qc4 Ndf6
+15. Qb3 Be6 16. Bc4 Bxc4 17. Qxc4 Ne8 18. Qb3 Qe7 19. Bb6 Rd7 20. Rad1 Rxd1 21.
+Rxd1 Nf4 22. Kf1 h5 23. Qc4 Ne6 24. b3 Bf8 25. Nxe5 Nd6 26. Qd3 Nf4 27. Qg3
+Qxe5 28. Bd4 Nxe4 29. Bxe5 Nxg3+ 30. fxg3 Ne6 31. Ne4 Bg7 32. Bxg7 Kxg7 33. Rd7
+Rd8 34. Rxd8 Nxd8 35. Ke2 Kf8 36. Nd6 c5 37. Kd3 Ke7 38. Ne4 b6 39. Kc4 Kd7 40.
+Kb5 Kc7 41. Nf6 Ne6 42. Nd5+ Kd6 43. Nxb6 Nd4+ 44. Kxa5 Kc6 45. c4 Nxb3+ 46.
+Ka6 Nd2 47. a5 Nb3 48. Nd5 Nd2 49. Ne3 Nb3 50. g4 hxg4 51. Nxg4 Nd2 52. Ne3 Nb3
+53. h4 f5 54. Nxf5 1-0

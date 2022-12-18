@@ -1,0 +1,25 @@
+[Event "corr ch-California"]
+[Site "corr ch-California"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Osbun"]
+[Black "Rivise"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "dc8facc6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 Bb7 9. d3 d6 10. Nc3 b4 11. Nd5 Nxd5 12. Bxd5 Na5 13. Bxb7 Nxb7 14. c3
+c5 15. d4 Qc7 16. Be3 bxc3 17. bxc3 Bf6 18. Rb1 Na5 19. dxc5 dxc5 20. Qd5
+Rac8 21. Red1 Rfd8 22. Qa2 Rxd1+ 23. Rxd1 Rd8 24. Rd5 c4 25. Qd2 Rb8 26. h3
+Nb3 27. Qd1 h6 28. Rd7 Qc6 29. Qd5 Qxd5 30. Rxd5 Re8 31. Kf1 Re6 32. Ke2 g5
+33. Kd1 Bg7 34. Rd8+ Kh7 35. Rc8 Na5 36. Rc5 Nc6 37. Nd2 Kg6 38. Nxc4 f5
+39. f3 h5 40. Rd5 g4 41. Rd6 Rxd6+ 42. Nxd6 fxe4 43. fxe4 Bf8 44. Nf5 gxh3
+45. gxh3 Na5 46. Kc2 Kf7 47. Kd3 Ba3 48. Bb6 Nb3 49. Be3 Na5 50. c4 Nb7 51.
+Bb6 Bf8 52. Ne3 Bd6 53. Nd5 Kg6 54. Nc7 a5 55. Ne6 Kf6 56. Nd8 Bc5 57. Nxb7
+Bxb6 58. c5 Bc7 59. h4 Ke6 60. Kc4 Kd7 61. Kd5 Kc8 62. Nd6+ Kd7 63. Nf7 Kc8
+64. Nxe5 1-0
+

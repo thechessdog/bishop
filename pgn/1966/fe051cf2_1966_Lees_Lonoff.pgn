@@ -1,0 +1,21 @@
+[Event "New York Manhattan C"]
+[Site "New York Manhattan C"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Lees, David"]
+[Black "Lonoff, Marc"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "fe051cf2"]
+[Epoch "Bishop"]
+[BlackID "2001349"]
+[BlackCountry "USA"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4
+Nxd4 9. Nxd4 Qxd4 10. Nc3 Qxe5 11. Re1 Qd6 12. Nb5 Qb8 13. Qf3 Bd6 14. Nxd6+
+Qxd6 15. Bf4 Qe7 16. Rac1 Bc6 17. Qg3 Nf6 18. Qxg7 Rg8 19. Qh6 d4 20. Bg3 Ng4
+21. Qxh7 Nf6 22. Qh6 O-O-O 23. Ba6 Rd6 24. Bxd6 Rxg2+ 25. Kf1 Qxd6 26. Rxc6+
+Qxc6 27. Rc1 Rxf2+ 28. Kxf2 1-0

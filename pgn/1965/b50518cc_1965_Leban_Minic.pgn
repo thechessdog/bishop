@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1965.01.01"]
+[Round "17"]
+[White "Leban, Slavko"]
+[Black "Minic, Dragoljub"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "b50518cc"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 9. a3 Nbd7 10. Bf2 Qc7 11. Qf3 Be7 12. O-O-O b5 13. Bxb5 axb5 14. Ndxb5 Qb8
+15. e5 Bb7 16. Qe2 dxe5 17. fxe5 Nd5 18. Nxd5 Bxd5 19. Rxd5 exd5 20. e6 fxe6
+21. Qxe6 Qxb5 22. Re1 O-O-O 23. c4 Bg5+ 24. Kb1 Qxc4 25. Qd6 Rhe8 26. Rd1 Re2
+27. Bd4 Rde8 28. Bc3 R8e6 0-1

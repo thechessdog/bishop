@@ -1,0 +1,18 @@
+[Event "Wichita"]
+[Site "Wichita"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Bechstein"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "bdcdea72"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Nc3 Nxd5 6. Bc4 Nxc3 7. bxc3 Bd6
+8. O-O O-O 9. d4 a6 10. Qd3 Qf6 11. Bxf4 Qxf4 12. Ne5 Qh6 13. Bxf7+ Rxf7 14.
+Nxf7 Qxh2+ 15. Kf2 Bg3+ 16. Ke2 Bg4+ 17. Kd2 Qxg2+ 18. Kc1 Be2 19. Qe3 Qxf1+
+20. Kb2 Qxf7 21. Qxe2 Nc6 0-1

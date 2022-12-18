@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Rossi"]
+[Black "Cavallero"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "18402c7d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 f5 12. Nxe4 fxe4 13. Ng5 Bf5 14. b4
+Bb6 15. Bb3 Ne7 16. Qe2 Kh8 17. Be3 c6 18. f3 h6 19. fxe4 Bg4 20. Qxg4
+Bxe3+ 21. Kh1 Bxg5 22. exd5 Rxf1+ 0-1
+

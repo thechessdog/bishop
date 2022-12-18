@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Horton"]
+[Black "Clarke"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Bardeleben variation"]
+[HashCode "5066feec"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qe2 Nc5 6. Nxd4 Nc6 7. Be3 b6
+8. Nxc6 dxc6 9. Nc3 Qe7 10. f4 h5 11. Qf3 Bb7 12. O-O-O Qh4 13. Bxc5 Bxc5
+14. Ba6 1-0
+

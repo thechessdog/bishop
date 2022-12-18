@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Shaposhnikov, Yuri"]
+[Black "Bonch_Osmolovsky, M"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "feb39a8d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Nxc6 bxc6
+8. e5 Nd7 9. Qf3 Bg7 10. Be3 O-O 11. Qxc6 Rb8 12. O-O-O dxe5 13. Bxa7 Rb7
+14. Qa4 exf4 15. Nb5 Nb6 16. Qb3 Qe8 17. Be2 Be6 18. Qb4 Nd5 19. Qc5 f3 20.
+gxf3 Nf4 21. Bf1 Qa8 22. a4 Rc8 23. Qg5 Bf5 24. c3 Be5 25. Qg1 Bb8 26. Bxb8
+Qxa4 27. Qd4 Qc2# 0-1
+

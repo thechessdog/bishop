@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Jenik, J."]
+[Black "Hannemann, H."]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "2eb18448"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Qe2 e5 12. d5 e4 13. dxc6 Ng4 14. g3
+exf3 15. Qxf3 Ne5 16. Qf4 Bh3 17. Rd1 Rad8 18. Be2 Qxc6 19. e4 Rxd1+ 0-1
+

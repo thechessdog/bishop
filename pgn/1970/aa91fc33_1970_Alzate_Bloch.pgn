@@ -1,0 +1,23 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "2"]
+[White "Alzate, Dario"]
+[Black "Bloch, Nigel"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "aa91fc33"]
+[Epoch "Bishop"]
+[WhiteID "4400046"]
+[WhiteCountry "COL"]
+[BlackID "1001221"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+e5 Ng4 9. O-O O-O 10. Bf4 f6 11. exf6 Qxf6 12. Bg3 Bc5 13. Qd2 Rb8 14. Nd1 Rf7
+15. c4 Bf5 16. cxd5 cxd5 17. Rc1 Bb6 18. Bxf5 Qxf5 19. h3 Nf6 20. Ne3 Qd7 21.
+Be5 Rd8 22. Rcd1 c6 23. Qd3 Ne4 24. b4 Rdf8 25. f3 Ng5 26. Bd4 Bc7 27. Ng4 Rf4
+28. Kh1 Bb8 29. Rde1 h5 30. Ne5 Bxe5 31. Rxe5 Ne6 32. Be3 Rh4 33. Qg6 Nf4 34.
+Bxf4 Rhxf4 35. Rxh5 Rxb4 36. Qh7+ Kf7 37. Rf5+ Ke7 38. Qxg7+ Ke6 39. Qe5# 1-0

@@ -1,0 +1,17 @@
+[Event "corr BdF-cup3"]
+[Site "corr BdF-cup3"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Karker, N."]
+[Black "Nees, W."]
+[Result "1-0"]
+[ECO "B53"]
+[Opening "Sicilian, Chekhover variation"]
+[HashCode "e04d1fd3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 a6 6. Bxc6+ bxc6 7. O-O e5
+8. Qc4 Qc7 9. Ng5 a5 10. Re1 h6 11. Nxf7 d5 12. exd5 Ba6 13. Qf4 Qxf7 14.
+Qxe5+ Kd7 15. Bf4 Rc8 16. dxc6+ Kxc6 17. Qxa5 Qxf4 18. Qxa6+ Kd7 19. Qe6+
+Kc7 20. Nc3 Nf6 21. Re4 1-0
+

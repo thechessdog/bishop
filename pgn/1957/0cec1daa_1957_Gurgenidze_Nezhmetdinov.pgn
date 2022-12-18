@@ -1,0 +1,20 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Gurgenidze, Bukhuti"]
+[Black "Nezhmetdinov, Rashid"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "0cec1daa"]
+[Epoch "Bishop"]
+[WhiteCountry "GEO"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. c3 d6 8. O-O
+O-O 9. Rd1 Qe7 10. h3 Bb6 11. d4 Bb7 12. d5 Na5 13. Bc2 c6 14. dxc6 Nxc6 15.
+Bg5 h6 16. Bxf6 Qxf6 17. Nbd2 Ne7 18. Nf1 Ng6 19. g3 Qe6 20. Ne3 Qxh3 21. Rxd6
+Bc5 22. Rxg6 fxg6 23. Nxe5 Kh7 24. Rd1 Rxf2 25. Kxf2 Qh2+ 26. Ke1 Qxg3+ 27. Kd2
+Qxe5 28. Nd5 Qg5+ 0-1

@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Florian, Tibor"]
+[Black "Szily, Jozsef"]
+[Result "1/2-1/2"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "1250d165"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. f3 a5 10. Be3 a4 11. Nd2 Nd4 12. Nc4 b5 13. Bxd4 bxc4 14. Be3 Qc7
+15. Qe1 Be6 16. Rd1 Rfb8 17. Bc1 Rd8 18. f4 exf4 19. Rxf4 d5 20. exd5 Nxd5 21.
+Rxc4 1/2-1/2

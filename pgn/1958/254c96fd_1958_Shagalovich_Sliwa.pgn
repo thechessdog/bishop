@@ -1,0 +1,15 @@
+[Event "Polanica Zdroj"]
+[Site "Polanica Zdroj"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Shagalovich, Abo"]
+[Black "Sliwa"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "254c96fd"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 Nc6 6. Bd3 Be6 7. Nge2
+Qd7 8. Nf4 O-O-O 9. Qf3 Nb4 10. Nxe6 fxe6 11. O-O-O f5 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Radnoti, Bela"]
+[Black "Farago, Ivan"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "c8999731"]
+[Epoch "Bishop"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+
+1. d4 e6 2. Nf3 f5 3. Bg5 Nf6 4. e3 Be7 5. Nbd2 O-O 6. Bd3 b6 7. Qe2 Bb7 8. e4
+fxe4 9. Nxe4 c5 10. c3 cxd4 11. Nxd4 Nd5 12. h4 Nf4 13. Bxf4 Rxf4 14. g3 Rf8
+15. O-O-O Nc6 16. Nxc6 Bxc6 17. f4 Qc7 18. Rh2 h6 19. Qg4 e5 20. Qg6 exf4 21.
+Ng5 Bxg5 22. hxg5 1-0

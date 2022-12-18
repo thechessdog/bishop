@@ -1,0 +1,19 @@
+[Event "Varna olm"]
+[Site "Varna olm"]
+[Date "1962.09.01"]
+[Round "10"]
+[White "Roth, Rolf"]
+[Black "From, Sigfred"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "f4550627"]
+[Epoch "Bishop"]
+[WhiteID "1300458"]
+[WhiteCountry "SUI"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Qd4 Bxc3+
+8. bxc3 f6 9. Ba3 Ne7 10. Qc5 d5 11. Bd3 Bd7 12. O-O Ng6 13. exd5 cxd5 14. Rab1
+Kf7 15. Rb7 Re8 16. Bxg6+ Kxg6 17. Qd6 e5 18. Rxd7 1-0

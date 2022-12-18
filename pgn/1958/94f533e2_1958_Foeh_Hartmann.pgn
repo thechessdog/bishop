@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Foeh, G."]
+[Black "Hartmann, H."]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "94f533e2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Nxc3 Bb4 5. Bc4 Bxc3+ 6. bxc3 d6 7. Nf3
+Qe7 8. O-O Bg4 9. Qb3 b6 10. Bg5 Nf6 11. e5 dxe5 12. Nxe5 Be6 13. Rfe1 O-O
+14. Ng4 Nbd7 15. Bxf6 Nxf6 16. Bxe6 fxe6 17. Rxe6 Qf7 18. Ne5 1-0
+

@@ -1,0 +1,27 @@
+[Event "Oslo CI"]
+[Site "Oslo"]
+[Date "1974.??.??"]
+[Round "4"]
+[White "Hoen, Ragnar"]
+[Black "Ogaard, Leif"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "d241bd6f"]
+[Epoch "Bishop"]
+[WhiteID "1500147"]
+[BlackID "1500074"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 d6 7. Bg2 Bd7 8. O-O
+Nf6 9. Be3 Be7 10. h3 O-O 11. f4 Rc8 12. Nb3 b5 13. a3 Be8 14. Qd2 Nd7 15. Qf2
+Qc7 16. Rfd1 Rb8 17. Na2 a5 18. Bf1 b4 19. axb4 axb4 20. Nac1 Nf6 21. Bg2 Bd7
+22. Nd3 Rfc8 23. e5 Nd5 24. exd6 Bxd6 25. Bc5 Nce7 26. Bxd6 Qxd6 27. Ndc5 Bc6
+28. Rac1 Ra8 29. c4 bxc3 30. bxc3 Qc7 31. Nd3 Nf5 32. Nd4 Nfe3 33. Rd2 Nxg2 34.
+Qxg2 Bb7 35. Qf2 Nf6 36. Re2 Qd7 37. Nb4 Nd5 38. Nxd5 Qxd5 39. Kh2 Ra3 40. Re5
+Qc4 41. f5 Ra2 42. Re2 Rxe2 43. Qxe2 Qxe2+ 44. Nxe2 exf5 45. Nd4 Ra8 46. Nxf5
+Ra2+ 47. Kg1 Rg2+ 48. Kf1 g6 49. Ne7+ Kf8 50. Rb1 Bf3 51. Nc8 Rxg3 52. Kf2 Rxh3
+53. c4 Bg4 54. Nd6 Rc3 55. Rb8+ Ke7 56. Ne4 Rxc4 57. Rb7+ Bd7 58. Ng5 h6 59.
+Nf3 Re4 60. Nd2 Ra4 61. Nb3 Rc4 0-1

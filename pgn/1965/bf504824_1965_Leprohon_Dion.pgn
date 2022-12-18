@@ -1,0 +1,18 @@
+[Event "Quebec"]
+[Site "Quebec"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Leprohon, R."]
+[Black "Dion, M."]
+[Result "0-1"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "bf504824"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 a6 6. Ba4 b5 7. Bb3 Na5 8.
+c3 Nxb3 9. axb3 Nxe4 10. dxe5 Bb7 11. Be3 g5 12. exd6 Bxd6 13. Bd4 Rg8 14.
+b4 g4 15. Ne5 Qh4 16. g3 Ng5 17. f3 Nxf3+ 18. Nxf3 gxf3 19. Re1+ Kd7 20.
+Qd3 Rxg3+ 0-1
+

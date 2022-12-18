@@ -1,0 +1,17 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Roethgen, R."]
+[Black "Weimer, H."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann defence"]
+[HashCode "daab8c31"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Ne2 d5 3. e5 c5 4. d4 Nc6 5. c3 Bf5 6. Nd2 Bd3 7. Nf3 c4 8. g3
+e6 9. Bg2 Be7 10. Nf4 Be4 11. O-O h5 12. Ne1 Bxg2 13. Nexg2 h4 14. Qg4 Kf8
+15. Ng6+ fxg6 16. Nf4 Ke8 17. Nxe6 Qc8 18. Qxg6+ Kd7 19. Bf4 Qe8 20. Qg4
+Nxe5 21. Bxe5 Nh6 22. Nc5+ Kc6 23. Qe6+ Kb5 24. a4+ Ka5 25. Nxb7# 1-0
+

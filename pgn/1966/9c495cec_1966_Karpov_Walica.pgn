@@ -1,0 +1,19 @@
+[Event "Trinec"]
+[Site "Trinec"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Karpov, Anatoly"]
+[Black "Walica"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "9c495cec"]
+[Epoch "Bishop"]
+[WhiteID "4100026"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. Ne2 Bg7 5. O-O d6 6. c3 e5 7. Na3 Nge7 8. Nc2
+O-O 9. d4 exd4 10. cxd4 f5 11. Be3 fxe4 12. dxc5 dxc5 13. Bxc5 Bg4 14. Qxd8
+Rfxd8 15. Nc3 Nd5 16. Nxe4 Be2 17. Rfe1 Bd3 18. Nd6 Nf6 19. Nxb7 Bxc2 20. Nxd8
+Rxd8 21. Rac1 Rc8 22. Bxc6 Rxc6 23. Rxc2 1-0

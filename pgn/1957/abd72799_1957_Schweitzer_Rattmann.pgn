@@ -1,0 +1,16 @@
+[Event "Halle"]
+[Site "Halle"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Schweitzer"]
+[Black "Rattmann"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer"]
+[Variation "Euwe defence"]
+[HashCode "abd72799"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 e6 6. Bg5 c5 7. d5 exd5
+8. Bxf6 Qxf6 9. Nxd5 Qe6+ 10. Kf2 Bd6 11. Bb5+ Kf8 12. Re1 1-0
+

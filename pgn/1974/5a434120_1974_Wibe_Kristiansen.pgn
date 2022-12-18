@@ -1,0 +1,24 @@
+[Event "Oslo CI"]
+[Site "Oslo"]
+[Date "1974.??.??"]
+[Round "11"]
+[White "Wibe, Terje"]
+[Black "Kristiansen, Erling"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "5a434120"]
+[Epoch "Bishop"]
+[WhiteID "1500236"]
+[BlackID "1500244"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8. Re1
+Bc5 9. Be3 Bxf3 10. Qxf3 Qxf3 11. gxf3 Bd6 12. Kf1 Ne7 13. Ke2 f6 14. Nd2 g5
+15. c3 Ng6 16. Nf1 Kf7 17. Ng3 Nh4 18. Nf5 Nxf5 19. exf5 h4 20. c4 Rhd8 21. c5
+Be7 22. Rec1 Rd5 23. Rc3 Ke8 24. Rac1 Kd7 25. Rb3 Rb8 26. Rc2 Bd8 27. Rbc3 Be7
+28. Rb3 Kc8 29. Rc4 Kd7 30. Rc2 Bf8 31. a4 b5 32. cxb6 c5 33. b7 Kc6 34. Rc4
+Rxb7 35. Rxb7 Kxb7 36. Bd2 Kc6 37. Bc3 Rd8 38. Kd2 Kd5 39. Kc2 Rb8 40. b3 Be7
+41. Bd2 Bd6 42. Bc3 1/2-1/2

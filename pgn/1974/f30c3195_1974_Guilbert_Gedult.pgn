@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Guilbert, Jean"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Morphy gambit"]
+[HashCode "f30c3195"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nc3 Bb4 6. Bd2 e3 7. Bc1 Nxd5 8. Ne2
+Bg4 9. h3 Bxc3+ 0-1

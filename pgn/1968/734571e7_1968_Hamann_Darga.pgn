@@ -1,0 +1,20 @@
+[Event "Lugano ol (Men)"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Hamann, Svend"]
+[Black "Darga, Klaus"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "734571e7"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+[BlackID "4600150"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8. g3
+Nbd7 9. Bg2 Nb6 10. O-O Re8 11. h3 c6 12. b3 Bd6 13. Nf4 a5 14. a4 Qe7 15. Nce2
+Nbd7 16. Qc2 Nf8 17. Qa2 1/2-1/2

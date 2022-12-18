@@ -1,0 +1,18 @@
+[Event "Dubrovnik olm"]
+[Site "Dubrovnik olm"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Ojanen, Kaarle Sakari"]
+[Black "Dunkelblum, Arthur"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[HashCode "e9a20e0e"]
+[Epoch "Bishop"]
+[BlackCountry "BEL"]
+[WhiteCountry "FIN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 g6 5. Nc3 Bg7 6. Bd3 O-O 7. O-O e6 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 Qc7 11. Qc2 Nd7 12. Be3 e5 13. dxe5 Nxe5 14. Nxe5
+Qxe5 1/2-1/2

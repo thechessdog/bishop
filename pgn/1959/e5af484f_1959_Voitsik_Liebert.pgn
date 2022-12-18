@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Voitsik, Nina"]
+[Black "Liebert, H."]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "e5af484f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. O-O d6 6. h3 e5 7. d3 Qb6 8.
+Nbd2 g6 9. Nc4 Qc7 10. Bd2 Rb8 11. Nh2 Be6 12. Bc3 Bg7 13. f4 f6 14. fxe5
+fxe5 15. Nf3 Qe7 16. Qe2 Nh6 17. Rae1 O-O 1/2-1/2
+

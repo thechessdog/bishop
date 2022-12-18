@@ -1,0 +1,21 @@
+[Event "Chigorin mem"]
+[Site "Leningrad"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Lutikov, Anatoly S"]
+[Black "Estrin, Yakov Borisovich"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "3691cc5f"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 6. d4 d5 7. Bd3 Bh4+ 8. Ke2
+Nf2 9. Qe1 Nxd3 10. Qxh4 Nxc1+ 11. Rxc1 Qxh4 12. Nxh4 Nc6 13. c3 O-O 14. Kf2 f6
+15. Re1 g5 16. Nf3 g4 17. Ng1 fxe5 18. dxe5 Bf5 19. h3 g3+ 20. Kf3 Rae8 21. Nd2
+Be4+ 22. Rxe4 dxe4+ 23. Kxe4 Rxe5+ 24. Kd3 Re3+ 25. Kc2 b5 26. Rf1 Ne5 27. Ra1
+Nd3 28. Ngf3 Rd8 29. Rf1 c5 30. a4 Re2 31. axb5 Ne5 32. Kc1 Nxf3 33. Nxf3 Rxg2
+0-1

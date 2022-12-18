@@ -1,0 +1,18 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Contos"]
+[Black "Salgado"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "6cd02b92"]
+[Epoch "Bishop"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nf6 6. Qb3 e6 7. Qxb7
+Nbd7 8. Nf3 Rb8 9. Qxa7 Bc5 10. Qa4 O-O 11. a3 e5 12. Nxd5 Nxd5 13. Qxg4
+N7f6 14. Qh4 Nf4 15. Rg1 Ng6 16. Qa4 e4 17. Ng5 Bxf2+ 18. Kxf2 Ng4+ 19. Kf1
+Qxg5 20. Bxe4 Qf4+ 0-1
+

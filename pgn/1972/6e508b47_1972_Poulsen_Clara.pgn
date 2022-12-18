@@ -1,0 +1,19 @@
+[Event "Graz tt"]
+[Site "Graz tt"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Poulsen, Allan"]
+[Black "Clara, H."]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "6e508b47"]
+[Epoch "Bishop"]
+[WhiteID "1400533"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. e5 dxe5 11. fxe5 Nfd7 12. Bc4 Bb4 13. Rb3 Qa5 14. Bxe6 O-O
+15. Bxd7 Nxd7 16. e6 fxe6 17. Nxe6 Re8 18. O-O Rxe6 19. Qf4 Bc5+ 20. Kh1 Nf6
+21. Qc4 Kh8 22. Nd5 Re4 23. Qd3 Rd4 24. Qc3 Qxc3 25. Nxc3 b5 26. h3 Be6 0-1

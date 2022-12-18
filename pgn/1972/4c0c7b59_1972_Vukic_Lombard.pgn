@@ -1,0 +1,26 @@
+[Event "Arosa"]
+[Site "Arosa"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Vukic"]
+[Black "Lombard, Andre"]
+[Result "1-0"]
+[ECO "A12"]
+[Opening "English"]
+[Variation "Bled variation"]
+[HashCode "4c0c7b59"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. c4 c6 3. b3 Nf6 4. Bb2 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O Bg4 8. d3
+Re8 9. Qc2 Nbd7 10. Ne5 Nxe5 11. Bxe5 Qd7 12. Qb2 Bh3 13. Nd2 Red8 14. Nf3 Bxg2
+15. Kxg2 Ne8 16. Bxg7 Nxg7 17. Rac1 c5 18. b4 Rac8 19. bxc5 Rxc5 20. cxd5 Rxd5
+21. Rc4 Ne6 22. Rfc1 Rb5 23. Qc3 Qd6 24. h4 Qb6 25. Rc2 Qa5 26. Qa1 Rb4 27. Rc8
+f6 28. Rxd8+ Qxd8 29. Qc1 Qd7 30. Qa3 Ra4 31. Qb3 Ra6 32. Rc4 Rb6 33. Qc2 Kg7
+34. Qc3 Ra6 35. a3 b5 36. Re4 Qc6 37. Qb4 Kf7 38. Qb3 Kf8 39. Qb2 Qd5 40. Kg1
+Kf7 41. Nd4 Nxd4 42. Rxd4 Qe5 43. Qb3+ Kg7 44. e3 Rb6 45. Rd7 a6 46. d4 Qe4 47.
+Qc3 Rc6 48. Rxe7+ Qxe7 49. Qxc6 Qxa3 50. d5 b4 51. d6 b3 52. Qc7+ Kh6 53. d7 b2
+54. Qf4+ Kg7 55. d8=Q b1=Q+ 56. Kh2 Qf5 57. Qdc7+ Kg8 58. Qb8+ Qf8 59. Qxf5
+gxf5 60. Qb6 Qc8 61. Qxf6 Qc2 62. Qg5+ Kf7 63. Qf4 Qe4 64. Qh6 f4 65. Qh5+ Kg7
+66. Qg4+ Kf6 67. gxf4 Qf5 68. Qf3 a5 69. e4 Qb5 70. e5+ Kf5 71. Kg3 a4 72. Qh5+
+Ke4 73. Qxh7+ Kd4 74. Qa7+ Kd5 75. Qf7+ Ke4 76. Qg6+ Kd5 77. h5 Qb3+ 78. f3 Qb4
+79. Qe4+ Kc5 80. e6 a3 1-0

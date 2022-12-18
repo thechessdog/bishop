@@ -1,0 +1,22 @@
+[Event "Budapest-Leningrad"]
+[Site "Budapest-Leningrad"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Spassky, Boris V."]
+[Black "Szabo, Laszlo"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[HashCode "2565d6ad"]
+[Epoch "Bishop"]
+[WhiteID "600024"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d6 10. c3 Na5 11. Bc2 c5 12. Nbd2 Qc7 13. Nf1 Rfe8 14. Ne3 g6 15. b4
+cxb4 16. cxb4 Nc6 17. Bb3 d5 18. a3 dxe4 19. dxe4 Nd4 20. Nxd4 exd4 21. Qxd4
+Rad8 22. Bd5 Bxd5 23. exd5 Bd6 24. Qxf6 Be5 25. Ng4 Bxa1 26. Rxe8+ Rxe8 27. Bf4
+Re1+ 28. Kh2 Bxf6 29. Bxc7 Bb2 30. Ne3 Re2 31. Kg3 Rd2 32. Kf4 Rxf2+ 33. Ke4
+Rd2 34. g4 Kf8 35. g5 Ke7 36. Bb6 Rh2 37. Bc5+ Kd7 38. Ng4 Rxh3 39. Bf2 Rxa3
+40. Ne3 Bc3 0-1

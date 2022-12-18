@@ -1,0 +1,20 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Danov, Kiril"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "98a055ca"]
+[Epoch "Bishop"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. dxc5 Qa5 8. Bd3
+Nfd7 9. Bd2 Nxc5 10. Be2 Nc6 11. Nd5 Qd8 12. Qc2 Bg4 13. Bc3 Bxc3+ 14. bxc3 Na5
+15. Ne3 Bxf3 16. Bxf3 Rc8 17. h4 Nd7 18. h5 Nxc4 19. Nxc4 Rxc4 20. hxg6 hxg6
+21. f5 Qa5 22. Rc1 Rfc8 23. Kd2 Ra4 24. Ra1 Rd4+ 25. Ke2 Rxc3 26. Qb2 Rdc4 27.
+Rac1 Qc5 28. Rxc3 Rxc3 29. Kd1 Qd4+ 0-1

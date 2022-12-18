@@ -1,0 +1,20 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Rizzo, Robert"]
+[Black "Evans, Larry D."]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "0aaceecd"]
+[Epoch "Bishop"]
+[BlackID "2001713"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 h5 8. O-O
+Be7 9. Be3 Be6 10. Nd5 Nxd5 11. exd5 Bf5 12. Rc1 O-O 13. c4 Nd7 14. b4 Rc8 15.
+Qb3 Bg6 16. Nd2 Bg5 17. f4 exf4 18. Bxf4 Ne5 19. Bxg5 Qxg5 20. Nf3 Qf4 21. Nxe5
+Qxe5 22. Rfe1 Qd4+ 23. Kh1 Rfe8 24. Bf1 Qf2 25. Qg3 Rxe1 26. Rxe1 Qxg3 27. hxg3
+Kf8 28. Kg1 1/2-1/2

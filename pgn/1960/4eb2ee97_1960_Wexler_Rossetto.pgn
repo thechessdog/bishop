@@ -1,0 +1,18 @@
+[Event "Bariloche"]
+[Site "Bariloche"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Wexler, Bernardo"]
+[Black "Rossetto, Hector"]
+[Result "1/2-1/2"]
+[ECO "A72"]
+[Opening "Benoni"]
+[Variation "classical without 9.O-O"]
+[HashCode "4eb2ee97"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 e6 2. c4 c5 3. d5 Nf6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. Bf4 a6 10. a4 Ne8 11. O-O Nd7 12. Qd2 Ne5 13. Nxe5 Bxe5 14. Bxe5 dxe5
+15. f4 Qd6 16. f5 Bd7 17. Kh1 Kg7 18. Rf3 f6 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Santa Cruz"]
+[Black "Gadia, Olicio"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "87f16810"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qc7
+8. Qf3 h6 9. Bh4 Nb6 10. f5 Bd7 11. O-O-O O-O-O 12. Nd5 Nbxd5 13. exd5 g5
+14. Bg3 g4 15. Qb3 Ne4 16. Nc6 Nxg3 17. Rd4 Bxc6 18. dxc6 d5 19. cxb7+ Kb8
+20. Bxa6 Nxh1 21. Ra4 e6 22. Bd3 Qxb7 23. Qc3 Nf2 24. Ba6 Be7 25. f6 Ne4
+0-1
+

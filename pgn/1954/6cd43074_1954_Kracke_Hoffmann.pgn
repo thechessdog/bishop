@@ -1,0 +1,18 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Kracke"]
+[Black "Hoffmann, J."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "6cd43074"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qf3 Nc6 10. Bxf5 exf5 11. Qg3 g6 12. Nf3 Qa5 13. Bd2 Qb5 14. dxc5
+b6 15. Kd1 bxc5 16. Qh4 Nd8 17. Qf6 Rg8 18. Bg5 Qd7 19. e6 fxe6 20. Ne5 Qd6
+21. Re1 a5 22. Rb1 Ra7 23. Qxd8+ 1-0
+

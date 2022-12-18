@@ -1,0 +1,22 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Cobo Arteaga, Eldis"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "9f0a835e"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Re1
+Re8 9. Bf1 c6 10. Rb1 a5 11. d5 Nc5 12. Qc2 Nh5 13. Be3 Na6 14. a3 c5 15. Na2
+f5 16. b4 axb4 17. axb4 cxb4 18. Nxb4 Nc5 19. Nd2 Nf6 20. Bxc5 dxc5 21. Nd3 Qd6
+22. f3 Bh6 23. Nf2 Rf8 24. exf5 gxf5 25. Bd3 Ne8 26. Nf1 Bg7 27. Ne3 Qg6 28. g4
+e4 29. fxe4 fxg4 30. e5 Qg5 31. Bxh7+ Kh8 32. Ng2 Bxe5 33. Qg6 Qxg6 34. Bxg6
+Bd4 35. Rxe8 Bxf2+ 36. Kf1 Rxe8 37. Bxe8 Bd4 38. Bg6 Ra2 39. Nh4 Rxh2 40. Be4
+Rxh4 0-1

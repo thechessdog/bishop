@@ -1,0 +1,22 @@
+[Event "Bari"]
+[Site "Bari"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Calapso, R."]
+[Black "Mariotti"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz variation"]
+[HashCode "5d541580"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. Bb5 Bg7 5. a3 Nd4 6. Bc4 d6 7. Nxd4 exd4
+8. Qf3 Nf6 9. Nd5 Ng4 10. Be2 c6 11. Nf4 Qe7 12. O-O Be5 13. g3 h5 14. Nd3
+h4 15. h3 Nh2 16. Kxh2 hxg3+ 17. Kg1 g2 18. Re1 Bh2+ 19. Kxh2 Rxh3+ 20.
+Qxh3 Bxh3 21. Kxh3 Qg5 22. Bg4 Ke7 23. f3 g1=Q 24. Rxg1 f5 25. Nf2 d3 26.
+Kg2 Rf8 27. cxd3 fxg4 28. Nxg4 Qb5 29. Rf1 Qxd3 30. a4 Qc2 31. Ra3 Rh8 32.
+Re3 Qxa4 33. Rfe1 Qb5 34. e5 d5 35. e6 d4 36. Re4 Qh5 37. d3 Qh3+ 38. Kf2
+Rh5 39. Bf4 c5 40. Bg3 Rf5 41. b4 b6 42. Ra1 a5 43. bxa5 bxa5 44. Rxa5 Qh1
+45. Ra7+ 1-0
+

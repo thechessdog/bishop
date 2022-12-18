@@ -1,0 +1,21 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Paroulek"]
+[Black "Svancer"]
+[Result "1-0"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "77c06255"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O Na6
+8. Nc3 c5 9. Nxd5 Qxd5 10. Be3 Qh5 11. Qb3 cxd4 12. Nxd4 Nc5 13. Qa3 Bf6
+14. Rac1 Nd7 15. Rfd1 Ne5 16. Rc5 Bf5 17. Bf4 Nc6 18. Bf3 Qh3 19. Nxc6 bxc6
+20. Rxc6 Rad8 21. Rcc1 e5 22. Be3 e4 23. Bg2 Qh5 24. f3 Be6 25. b3 Qb5 26.
+Kf2 exf3 27. Bxf3 Rxd1 28. Rxd1 a6 29. Bh6 Re8 30. Be3 Rc8 31. Rc1 Rxc1 32.
+Qxc1 h5 33. Qc5 h4 34. Qxb5 axb5 35. a4 hxg3+ 36. hxg3 bxa4 37. bxa4 Bd8
+38. Bd2 Kf8 39. Bb7 Ke7 40. a5 Kd6 41. a6 Bb6+ 42. Kf3 Bd4 43. Bf4+ Kd7 44.
+Bb8 1-0
+

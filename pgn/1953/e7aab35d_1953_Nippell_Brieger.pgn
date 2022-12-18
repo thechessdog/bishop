@@ -1,0 +1,16 @@
+[Event "Texas"]
+[Site "Texas"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Nippell, N."]
+[Black "Brieger, Robert"]
+[Result "0-1"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "e7aab35d"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. Nf3 Nf6 5. Qb3 Nc6 6. Qxb7 Nb4 7. Nb5 Ng4
+8. Nxc7+ Qxc7 9. Qxc7 Nc2+ 10. Kd1 Nxf2+ 11. Kd2 Bb4# 0-1
+

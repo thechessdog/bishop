@@ -1,0 +1,18 @@
+[Event "Opatija"]
+[Site "Opatija"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Wade, Robert Graham"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "E31"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, main line"]
+[HashCode "7f1bf8b6"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 d6 7. f3 exd5 8. cxd5
+O-O 9. e4 Nbd7 10. Qd2 Ne5 11. a3 Bxc3 12. Qxc3 Nxe4 13. Bxd8 Nxc3 14. Bc7 Nxd5
+15. Bxd6 Re8 16. Kf2 b6 17. Re1 f6 0-1

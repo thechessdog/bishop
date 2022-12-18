@@ -1,0 +1,15 @@
+[Event "Umkirch"]
+[Site "Umkirch"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Diemer, Emil Josef"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "e0498c7d"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Qh5 Nc6 5. dxe5 Nd4 6. Qd1 Bg4 7. Qxg4 Nxc2+
+8. Ke2 Qd3# 0-1

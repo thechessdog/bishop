@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Gataldi"]
+[Black "Giusti"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "9e637c02"]
+[Epoch "Bishop"]
+
+1. Nc3 d5 2. d4 Bf5 3. f3 e6 4. e4 Bg6 5. Be3 Bb4 6. Bd3 dxe4 7. fxe4 Bxc3+
+8. bxc3 Bxe4 9. Nf3 Nf6 10. O-O Nbd7 11. Bg5 Bc6 12. Ne5 Nxe5 13. dxe5 Qd5
+14. Qe2 Nd7 15. Qf2 f5 16. c4 Qc5 17. Be3 Qe7 18. Bd4 O-O 19. c3 b6 20. Qb2
+Nc5 21. Qa3 Qg5 0-1
+

@@ -1,0 +1,20 @@
+[Event "Groningen jr"]
+[Site "Groningen jr"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Holt"]
+[Black "Baljon"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "35f40166"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8.
+Bb3 Be7 9. f4 Bb7 10. e5 dxe5 11. fxe5 Bc5 12. Be3 Nc6 13. exf6 Bxd4 14.
+fxg7 Bxe3+ 15. Kh1 Rg8 16. Bxe6 Rxg7 17. Qh5 Qe7 18. Bxf7+ Kd8 19. Nd5 Nd4
+20. Nxe3 Qxe3 21. Bd5 Ra7 22. Bxb7 Raxb7 23. Rf8+ Kd7 24. Qd5+ Kc7 25. Qd8+
+Kc6 26. Rf6+ Kc5 27. Qd6+ Kc4 28. b3+ Kc3 29. Qc5+ Kd2 30. Rff1 Rbc7 31.
+Rad1+ Ke2 32. Qh5+ 1-0
+

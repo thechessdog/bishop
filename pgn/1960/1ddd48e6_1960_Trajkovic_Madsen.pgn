@@ -1,0 +1,21 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Trajkovic, M."]
+[Black "Madsen, E."]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "1ddd48e6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3
+d5 8. exd5 Qe7+ 9. Qe2 Qxe2+ 10. Kxe2 cxd5 11. Nb5 Kd8 12. Bf4 Ne8 13. Rhd1
+Bd7 14. c3 Be7 15. Rd2 c6 16. Nd4 Bd6 17. Kf3 Kc7 18. Re1 g6 19. Nb3 Bxf4
+20. Kxf4 Kd6 21. c4 Ng7 22. c5+ Kc7 23. Nd4 Ne6+ 24. Nxe6+ Bxe6 25. Ke5
+Rab8 26. a3 Rb3 27. Kf6 a5 28. f4 Kd7 29. g4 Bxg4 30. Re7+ Kd8 31. Rxf7 Bd7
+32. Kg7 Be6 33. Ra7 Re8 34. Rxa5 Re7+ 35. Kh6 Bd7 36. Ra8+ Kc7 37. h4 Re3
+38. Ra7+ Kd8 39. Bc4 1-0
+

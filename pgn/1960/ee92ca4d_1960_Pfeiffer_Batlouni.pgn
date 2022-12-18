@@ -1,0 +1,15 @@
+[Event "Leipzig olm"]
+[Site "Leipzig olm"]
+[Date "1960.10.01"]
+[Round "1"]
+[White "Pfeiffer, Gerhard"]
+[Black "Batlouni"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav"]
+[HashCode "ee92ca4d"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. e3 f5 5. Nf3 Bd6 6. Ne5 Nd7 7. Qh5+ Kf8 8. Qf7#
+1-0

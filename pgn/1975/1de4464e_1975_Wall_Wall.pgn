@@ -1,0 +1,17 @@
+[Event "Stony Point,NC"]
+[Site "Stony Point,NC"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wall, Jerry"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "1de4464e"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. c4 Ng6 5. Nc3 Bc5 6. Nf3 d6 7. Bd3 Nf6 8. O-O
+O-O 9. Re1 Ng4 10. Be3 Bxe3 11. fxe3 f5 12. h3 fxe4 13. Nxe4 Nf6 14. Rf1 Bf5
+15. Nxf6+ Qxf6 16. Bxf5 Qxf5 17. Nh4 Qxf1+ 18. Qxf1 Rxf1+ 19. Rxf1 Nxh4 0-1

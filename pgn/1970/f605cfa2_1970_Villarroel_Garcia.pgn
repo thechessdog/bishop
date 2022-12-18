@@ -1,0 +1,18 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Villarroel, Geber"]
+[Black "Garces, Napoleon"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "f605cfa2"]
+[Epoch "Bishop"]
+[WhiteID "3900061"]
+[WhiteCountry "VEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. f4 b5 8. Bd3
+Bb7 9. Qf3 Nbd7 10. O-O Nc5 11. a3 Be7 12. Rae1 Rc8 13. Bf2 d5 14. e5 Nfe4 15.
+Bxe4 Nxe4 16. Nxe4 dxe4 1/2-1/2

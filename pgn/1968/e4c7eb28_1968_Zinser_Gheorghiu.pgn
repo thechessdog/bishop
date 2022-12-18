@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1968.01.01"]
+[Round "12"]
+[White "Zinser, Sylvain"]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "e4c7eb28"]
+[Epoch "Bishop"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+[WhiteID "600687"]
+[WhiteCountry "FRA"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 c5 4. d5 d6 5. e4 Nf6 6. Nf3 O-O 7. Be2 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 Na6 11. Qc2 Nc7 12. Re1 b6 13. a4 Rb8 14. Nc4 Ba6 15.
+Rb1 Bxc4 16. Bxc4 a6 17. b4 b5 18. axb5 axb5 19. Be2 c4 20. f4 Qe7 21. Bd2 Nxe4
+22. Bf3 Bd4+ 23. Kf1 Qh4 0-1

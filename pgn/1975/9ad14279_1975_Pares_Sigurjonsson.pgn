@@ -1,0 +1,16 @@
+[Event "Costa Brava"]
+[Site "Costa Brava"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pares"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "9ad14279"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Nbd7 8. f4
+b5 9. Bf3 Bb7 10. Re1 Nb6 11. Kh1 h5 12. e5 Ng4 13. Bxg4 hxg4 14. Qxg4 dxe5 15.
+Nxe6 fxe6 16. Qxe6+ Qe7 17. Qg6+ Kd7 18. Qxb6 Rxh2+ 19. Kg1 Rh1+ 0-1

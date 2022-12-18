@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Mohaupt"]
+[Black "Hammerling"]
+[Result "1/2-1/2"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "f5c72ad1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. Bb3 Qc7 10. O-O-O a6 11. Rhg1 b5 12. g4 b4 13. Nxc6 Qxc6 14.
+Nd5 Nxd5 15. exd5 Qb7 16. g5 g6 17. h4 e5 18. Ba4 Bd7 19. Bxd7 Qxd7 20. h5
+Qf5 1/2-1/2
+

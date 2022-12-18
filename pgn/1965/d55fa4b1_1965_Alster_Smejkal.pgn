@@ -1,0 +1,22 @@
+[Event "Pardubice"]
+[Site "Pardubice"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Alster, Ladislav"]
+[Black "Smejkal, Jan"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "d55fa4b1"]
+[Epoch "Bishop"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 dxc4 7. Bxc4 c5 8. d5
+e6 9. dxe6 Qxd1+ 10. Kxd1 Bxe6 11. Bxe6 fxe6 12. Ke2 Nc6 13. Ng5 Rfe8 14. Rd1
+b6 15. Rd6 Nd8 16. e4 Bf8 17. Rd1 Nc6 18. Nf3 h6 19. Be3 Red8 20. Rxd8 Rxd8 21.
+h3 Nd4+ 22. Bxd4 cxd4 23. Rd1 e5 24. Nb1 Nxe4 25. Nxe5 g5 26. Nc6 Re8 27. Kf1
+Bg7 28. Na3 Rf8 29. f3 Ng3+ 30. Kf2 Nf5 31. Nxa7 Be5 32. Nc6 Bg3+ 33. Kg1 Rc8
+34. Nb4 Re8 35. Nd5 Kf7 36. Kf1 Re5 0-1

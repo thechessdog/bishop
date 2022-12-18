@@ -1,0 +1,17 @@
+[Event "corr RSFSR-Tch"]
+[Site "corr RSFSR-Tch"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Murawlew, L."]
+[Black "Tanin, S."]
+[Result "0-1"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[HashCode "10408a56"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Nge7
+8. cxd4 d5 9. exd5 Nxd5 10. Ba3 Be6 11. Bb5 Bb4 12. Qa4 Qd6 13. Ne5 O-O 14.
+Nxc6 bxc6 15. Bxc6 Rab8 16. Bxd5 Bxd5 17. Bxb4 Rxb4 18. Qa5 Rxd4 19. Qxa7
+Rh4 20. f4 Bxg2 0-1
+

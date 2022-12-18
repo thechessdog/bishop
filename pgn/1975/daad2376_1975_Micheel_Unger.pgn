@@ -1,0 +1,24 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Micheel, P."]
+[Black "Unger, G."]
+[Result "0-1"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence, Nimzovich attack"]
+[HashCode "daad2376"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. Bb5 Bd7 5. d4 Nf6 6. Bxc6 Bxc6 7. Qd3 exd4
+8. Nxd4 Bd7 9. Bg5 c6 10. O-O-O Qa5 11. Bh4 O-O-O 12. f3 Be6 13. Nxe6 fxe6
+14. Rhe1 g5 15. Bf2 Bg7 16. Qe3 Kb8 17. Bg3 Nh5 18. Bxd6+ Rxd6 19. Rxd6 Be5
+20. Qd3 Nf4 21. Qd1 Nxg2 22. Rg1 Ne3 23. Qd3 Nc4 24. Qxc4 Bxd6 25. Qxe6
+Bxh2 26. Qf6 Qe5 27. Qxe5+ Bxe5 28. Ne2 h6 29. Rh1 Kc7 30. c3 Kd6 31. Kd2
+h5 32. Ke3 h4 33. f4 Bxf4+ 34. Nxf4 gxf4+ 35. Kxf4 h3 36. Rh2 Ke6 37. Kf3
+Ke5 38. Ke3 a5 39. Kf3 b5 40. a3 a4 41. Ke3 Rh4 42. Kf3 Rf4+ 43. Kg3 Rxe4
+44. Kxh3 Re3+ 45. Kg4 Ke4 46. Rh6 Kd5 47. Rh2 Kc4 48. Kf4 Re1 49. Rh6 c5
+50. Rh2 Rb1 51. Ke3 Kb3 52. Rh5 Rxb2 53. Rxc5 Kxa3 54. Kd3 Ka2 55. Rh5 a3
+56. Rg5 Ka1 57. Rh5 Ka2 58. Rg5 b4 59. cxb4 Kb3 60. Ra5 a2 61. b5 Rb1 0-1
+

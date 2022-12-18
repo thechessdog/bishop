@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Tiemeyer"]
+[Black "Keller, Dieter"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "8f5fd65a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Bd7 9. Qe2 Bc6 10. Rd1 Qe7 11. Ne5 Rd8 12. Bd3 Ba5 13. a3 Bc7 14. Bc2 a6 15. b3
+b5 16. Bb2 Bb7 17. Rac1 Bd6 18. Ng4 Nbd7 19. dxc5 Bxc5 20. b4 Bb6 21. Nxf6+
+1/2-1/2

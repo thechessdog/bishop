@@ -1,0 +1,22 @@
+[Event "Tonder"]
+[Site "Tonder"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Larsen, Bent Ravn"]
+[Black "Hansen, Bjarne"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "11bda3e4"]
+[Epoch "Bishop"]
+[WhiteID "1430670"]
+[BlackID "1403176"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. d3 d6 6. c3 h6 7. h3 O-O 8. Nh2
+Nh7 9. Kh1 f5 10. exf5 Bxf5 11. f4 exf4 12. Bxf4 Bd7 13. d4 Bb6 14. Nd2 a6 15.
+Bd3 Ne7 16. Qf3 d5 17. Qg3 Kh8 18. Be5 Rg8 19. Rf7 Ng5 20. Raf1 Be6 21. Qh4
+Nxf7 22. Rf6 Nf5 23. Bxf5 Bxf5 24. Rxh6+ Nxh6 25. Qxh6+ Bh7 26. Nhf3 Qe8 27.
+Ng5 Qg6 28. Qxh7+ Qxh7 29. Nf7# 1-0

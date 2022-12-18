@@ -1,0 +1,18 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ek, Hans"]
+[Black "Johansson, Martin"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "0d6d3fb0"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. h3 d6 6. Be2 c5 7. c3 Nc6 8. dxc5
+dxc5 9. Qxd8 Rxd8 10. Nbd2 b6 11. O-O Bf5 12. Nc4 Bd3 13. Bxd3 Rxd3 14. Rfd1
+Rad8 15. Rxd3 Rxd3 16. Nce5 Nxe5 17. Bxe5 1/2-1/2

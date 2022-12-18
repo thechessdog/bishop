@@ -1,0 +1,19 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1961.03.01"]
+[Round "8"]
+[White "Matulovic, Milan"]
+[Black "Pirc, Vasja"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "1912349c"]
+[Epoch "Bishop"]
+[BlackCountry "SVN"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qe2
+h6 9. Bh4 Be7 10. O-O-O Qc7 11. Bg3 g6 12. h3 b5 13. e5 Nh5 14. Bh2 dxe5 15. f5
+Nf4 16. Bxf4 exf4 17. fxg6 Qe5 18. gxf7+ Kxf7 19. Nc6 Qg5 20. Qf3 Nc5 21. h4
+Qg3 22. Qh5+ Kf8 23. Nxe7 Qe3+ 24. Kb1 Kxe7 25. Rh3 1-0

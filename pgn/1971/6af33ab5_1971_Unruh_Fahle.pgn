@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Unruh"]
+[Black "Fahle"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "6af33ab5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nf3 e6 6. Bc4 Nf6 7. O-O Be7
+8. Qe2 Nc6 9. Rd1 O-O 10. e5 Ne8 11. exd6 Nxd6 12. Bf4 Na5 13. Bxd6 Bxd6
+14. Nb5 1-0
+

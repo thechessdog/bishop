@@ -1,0 +1,15 @@
+[Event "Santa Barbara"]
+[Site "Santa Barbara"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Chamness, H."]
+[Black "Almgren, Sven"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Tennison (Lemberg, Zukertort) gambit"]
+[HashCode "3607814c"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Bf5 4. Nc3 Nf6 5. Qe2 Nc6 6. Ngxe4 Nd4 7. Nxf6+
+gxf6 8. Qd1 Nxc2+ 0-1
+

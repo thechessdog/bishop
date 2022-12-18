@@ -1,0 +1,18 @@
+[Event "Palma de Mallorca"]
+[Site "Palma de Mallorca"]
+[Date "1969.01.01"]
+[Round "15"]
+[White "Pomar Salamanca, Arturo"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "252a0d45"]
+[Epoch "Bishop"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 Qc7 10. Qc2 Na5 11. Ne5 b6 12. cxd5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Khavsky, Sergey"]
+[Black "Derviz"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "2346f38f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. Bf4
+Nxe4 8. Nc7+ Ke7 9. Qf3 d5 10. O-O-O Bxc3 11. bxc3 g5 12. Bg3 f5 13. c4 f4
+14. Nxd5+ exd5 15. cxd5 Bf5 16. dxc6 Qa5 17. Qb3 fxg3 18. Bd3 Nc5 19. Qb2
+Nxd3+ 20. Rxd3 Bxd3 21. Qg7+ Kd6 22. Rd1 Qa3+ 23. Kb1 Qb4+ 24. Ka1 Kxc6 25.
+Rxd3 gxh2 26. Qh6+ Kc5 0-1
+

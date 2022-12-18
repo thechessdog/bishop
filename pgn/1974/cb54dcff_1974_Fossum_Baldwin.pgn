@@ -1,0 +1,17 @@
+[Event "Santa Monica"]
+[Site "Santa Monica"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Fossum, Andre"]
+[Black "Baldwin, James"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "cb54dcff"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d3 g6 3. g3 Bg7 4. f4 c5 5. Bg2 Nd7 6. Nf3 Rb8 7. f5 b5 8. O-O
+a5 9. Ng5 Ngf6 10. fxg6 hxg6 11. c3 Ne5 12. d4 cxd4 13. cxd4 Qb6 14. Kh1
+Neg4 15. h3 Bb7 16. Qb3 e6 17. Nxe6 fxe6 18. Qxe6+ Kd8 19. Qf7 Qxd4 20.
+Qxg7 Rxh3+ 0-1
+

@@ -1,0 +1,17 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Fuchs, Reinhart"]
+[Black "Honfi, Karoly"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "16722111"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 d6 7. Qd2 Nf6 8. f3
+O-O 9. Bc4 Nd7 10. O-O-O Nb6 11. Bb3 Na5 12. Bh6 Nbc4 13. Qg5 e5 14. Nde2 Bf6
+0-1

@@ -1,0 +1,22 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "Taborov, Boris"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "7dc46225"]
+[Epoch "Bishop"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4 c6 8.
+Ba4 d6 9. d5 Ne7 10. Nd2 O-O 11. Nc4 Bc7 12. Bc2 cxd5 13. exd5 f5 14. a4 Qe8
+15. Nxe5 dxe5 16. d6 Bb8 17. Bb3+ Kh8 18. dxe7 Qxe7 19. Qd5 f4 20. Re1 Qf6 21.
+Bc2 a5 22. b3 Be6 23. Qe4 Qh4 24. Bd1 Bf5 25. Qxb7 Ba7 26. Ra2 e4 27. Rae2 f3
+28. gxf3 exf3 29. Qxf3 Rad8 30. Qg2 Bg4 31. Bg5 Qxg5 32. h3 Qc1 33. Bc2 Rxf2
+34. Rxc1 Rxe2+ 35. Kh2 Bb8+ 36. Kh1 Rxg2 37. Kxg2 Rd2+ 38. Kg1 Ba7+ 39. Kf1
+Bxh3+ 0-1

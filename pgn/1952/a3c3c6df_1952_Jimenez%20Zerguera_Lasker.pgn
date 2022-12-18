@@ -1,0 +1,19 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Jimenez Zerquera, Eleazar"]
+[Black "Lasker, Emanuel"]
+[Result "1-0"]
+[ECO "E02"]
+[Opening "Catalan"]
+[Variation "open, 5.Qa4"]
+[HashCode "a3c3c6df"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Bd7 6. Qxc4 Nc6 7. Nf3 Na5 8.
+Qd3 c5 9. O-O Rc8 10. Nc3 Bc6 11. Rd1 Qb6 12. Bg5 Be7 13. e4 cxd4 14. Nxd4 Rd8
+15. e5 Bxg2 16. Kxg2 Nd5 17. Nxd5 Rxd5 18. Bxe7 Nc6 19. Ba3 Nxd4 20. Rac1 Nc6
+21. Qe4 Rxe5 22. Qxe5 1-0

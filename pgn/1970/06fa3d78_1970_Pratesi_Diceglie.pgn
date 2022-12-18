@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Pratesi"]
+[Black "Diceglie"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "06fa3d78"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 cxd4 9. cxd4 Nc6 10. Be3 b5 11. Bd5 Bb7 12. Qb3 e6 13. Qxb5 Qd7 14.
+Rb1 exd5 15. Qxb7 Rb8 16. Qxd7+ Kxd7 17. Kd2 dxe4 18. d5 Ne5 19. Rhc1 Nc4+
+20. Ke1 Nxe3 21. fxe3 Rhc8 22. Rxb8 Rxb8 23. Rc2 Rb2 24. Kd2 Kd6 25. Rxb2
+Bxb2 26. Nc3 Bxc3+ 27. Kxc3 Kxd5 0-1
+

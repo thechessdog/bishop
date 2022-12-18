@@ -1,0 +1,17 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ekenberg, Bengt"]
+[Black "Ahman, Ernst"]
+[Result "0-1"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "5babfb8b"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+
+1. f4 d5 2. Nf3 g6 3. e3 Bg7 4. c4 e6 5. Nc3 Ne7 6. d4 O-O 7. Bd2 c5 8. dxc5
+Nbc6 9. cxd5 exd5 10. Qb3 d4 11. exd4 Nf5 12. O-O-O Nfxd4 13. Nxd4 Nxd4 14. Qd5
+Qc7 15. Nb5 Nxb5 16. Bxb5 Bg4 17. Rde1 Rad8 18. Qb3 Qxc5+ 19. Bc3 a6 20. Bc4
+Bxc3 21. Qxc3 Rc8 22. b3 b5 23. h3 Bd7 24. Rd1 Be6 25. f5 Qxf5 0-1

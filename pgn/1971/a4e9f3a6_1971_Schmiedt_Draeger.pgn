@@ -1,0 +1,18 @@
+[Event "corr FRG jub"]
+[Site "corr FRG jub"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Schmiedt, K."]
+[Black "Draeger, H."]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "a4e9f3a6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 g6 7. Bxf6 exf6
+8. Bc4 Bg7 9. h4 Qc7 10. Bb3 O-O 11. h5 Nc6 12. Nd5 Qa5+ 13. c3 Re8 14.
+hxg6 Rxe4+ 15. Kf1 hxg6 16. Qf3 Rxd4 17. Nxf6+ Kf8 18. Nh7+ Ke7 19. Qxf7+
+Kd8 20. Qg8+ Kc7 21. Qxg7+ 1-0
+

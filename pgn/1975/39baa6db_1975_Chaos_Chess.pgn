@@ -1,0 +1,30 @@
+[Event "ACM Minneapolis"]
+[Site "ACM Minneapolis"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Chaos"]
+[Black "Chess 4 4"]
+[Result "0-1"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "39baa6db"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Be2 Bg7 8.
+Nf3 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 b6 13. Nc4 Ba6 14. Bg5 h6
+15. Bh4 g5 16. Bf2 Nh5 17. a5 Nf4 18. axb6 axb6 19. Be3 Bxc3 20. bxc3 Bxc4
+21. Bxc4 Rxa1 22. Qxa1 Ncxd5 23. Bxd5 Nxd5 24. Bxc5 Nxc3 25. Bb4 Ne2+ 26.
+Kh1 Nf4 27. Rd1 Qa8 28. Bxd6 Qxa1 29. Rxa1 Ne2 30. Rb1 Rc8 31. h3 Rc6 32.
+Be5 Kh7 33. Re1 Rc2 34. Kh2 b5 35. Rb1 Rc5 36. Bd6 Rc6 37. Bf8 Rc2 38. Ra1
+Nf4 39. Rg1 Kg6 40. Bb4 f5 41. exf5+ Kxf5 42. Bd6 Rb2 43. Kh1 Kf6 44. Bxf4
+gxf4 45. Kh2 b4 46. Rc1 b3 47. Rc6+ Kg5 48. Rc5+ Kg6 49. Rc6+ Kh5 50. Rc5+
+Kg6 51. Rc6+ Kg5 52. Rc5+ Kf6 53. Rb5 Kg6 54. Kg1 Rb1+ 55. Kh2 Kg7 56. Rb4
+b2 57. Rb6 Kf7 58. h4 Kg7 59. h5 Kf7 60. Rb8 Ke6 61. Rb7 Kf5 62. Rb5+ Kf6
+63. g3 fxg3+ 64. Kg2 Ke6 65. Rb3 Kf5 66. Rb6 Kg5 67. Rb5+ Kh4 68. Rb8 Kxh5
+69. Rb5+ Kg6 70. Rb6+ Kf5 71. Rb5+ Ke6 72. Rb6+ Kd5 73. Rb5+ Kc6 74. Rb3 h5
+75. f4 h4 76. Rb8 Kd5 77. Rb5+ Ke4 78. Rb6 Kf5 79. Rb5+ Kg4 80. Rg5+ Kxf4
+81. Rg4+ Ke3 82. Rb4 Kd3 83. Rb5 Kc3 84. Rc5+ Kb4 85. Rc6 Rg1+ 86. Kh3 Rh1+
+87. Kg2 Ka5 88. Rc5+ Ka6 89. Rc6+ Kb7 90. Re6 b1=Q 91. Re7+ Kc6 92. Kf3
+Qf5+ 93. Ke2 0-1
+

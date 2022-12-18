@@ -1,0 +1,23 @@
+[Event "Londen"]
+[Site "Londen"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Keene, Raymond D"]
+[Black "Vujacic, Borivoje"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "363c9acc"]
+[Epoch "Bishop"]
+[WhiteID "400211"]
+[WhiteCountry "ENG"]
+[BlackID "903000"]
+[BlackCountry "SRB"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nbd7 7. Nc3 e5 8. e4
+Re8 9. h3 exd4 10. Nxd4 Nc5 11. Re1 a5 12. Qc2 c6 13. Bf4 a4 14. Rad1 Nh5 15.
+Be3 Qa5 16. a3 Bd7 17. Kh2 h6 18. f4 Kh7 19. Bf2 Rad8 20. Re2 Bc8 21. Red2 Qa6
+22. Ndb5 cxb5 23. Bxc5 Qc6 24. Bxd6 Qxc4 25. Bf1 Qe6 26. e5 Bf8 27. Nxb5 Bxd6
+28. Rxd6 Rxd6 29. Rxd6 Qb3 30. Qxb3 axb3 31. Bc4 Be6 32. Bxe6 fxe6 33. Rd7+ Kg8
+34. Nd6 Rf8 35. Rxb7 g5 36. f5 exf5 37. e6 Nf6 38. Nxf5 1-0

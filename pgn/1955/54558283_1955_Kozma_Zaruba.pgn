@@ -1,0 +1,24 @@
+[Event "CSR-ch"]
+[Site "Prague"]
+[Date "1955.??.??"]
+[Round "5"]
+[White "Kozma, Julius"]
+[Black "Zaruba, Antonin"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "54558283"]
+[Epoch "Bishop"]
+[WhiteID "14934019"]
+[BlackID "354309"]
+[WhiteCountry "SVK"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+a6 9. a4 Bg7 10. Nc4 Nb6 11. Ne3 O-O 12. Bd3 Qe7 13. O-O Ne8 14. a5 Nd7 15. Nc4
+Ne5 16. Nb6 Rb8 17. f4 Nxd3 18. Qxd3 f5 19. Re1 Bd4+ 20. Be3 Bxc3 21. Qxc3 fxe4
+22. b4 cxb4 23. Nxc8 Qd8 24. Qxb4 Qxc8 25. Qxe4 Nf6 26. Qb4 Qd7 27. Rad1 Rbe8
+28. Bf2 Rxe1+ 29. Bxe1 Nh5 30. Bd2 Qf5 31. Qxd6 Nxf4 32. Bxf4 Qxf4 33. Qxf4
+Rxf4 34. Rd2 Rf7 35. g3 Kf8 36. Kg2 Ke7 37. g4 Kd6 38. Kg3 g5 39. h4 h6 40. Rb2
+Kxd5 41. Rb6 Rc7 1/2-1/2

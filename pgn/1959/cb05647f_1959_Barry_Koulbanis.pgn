@@ -1,0 +1,18 @@
+[Event "Providence"]
+[Site "Providence"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Barry"]
+[Black "Koulbanis"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "cb05647f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 Bd6 4. fxe5 Bxe5 5. d4 Bxd4 6. Qxd4 O-O 7. Nf3
+Nc6 8. Qf2 Re8 9. Bd3 h6 10. O-O d5 11. exd5 g6 12. dxc6 Ng4 13. Qg3 Bf5
+14. cxb7 Rb8 15. Bxf5 gxf5 16. h3 c6 17. hxg4 Kf8 18. Bxh6+ Ke7 19. Rfe1+
+Kf6 20. Bg5+ 1-0
+

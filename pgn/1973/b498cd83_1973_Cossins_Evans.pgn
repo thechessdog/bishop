@@ -1,0 +1,17 @@
+[Event "British ch"]
+[Site "British ch"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Cossins"]
+[Black "Evans, A."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Icelandic gambit"]
+[HashCode "b498cd83"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. d4 Bb4+ 6. Bd2 Qe7 7. Qe2 Nc6
+8. Nf3 O-O-O 9. d5 Rhe8 10. dxc6 Qc5 11. cxb7+ Kxb7 12. Ne5 Bg4 13. Nxg4
+Nxg4 14. Qxe8 Qxf2+ 15. Kd1 Ne3+ 16. Kc1 Qe1+ 17. Bxe1 Rd1# 0-1
+

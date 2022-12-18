@@ -1,0 +1,18 @@
+[Event "Lasker mem"]
+[Site "Berlin-Ost"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Minic, Dragoljub"]
+[Black "Radovici, Corvin"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "d247ad4c"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "ROU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Nf5 Bxf5 12. exf5 Qd7 13. Qh5 b5 14. Nd2 Na4
+15. Ne4 1/2-1/2

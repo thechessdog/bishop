@@ -1,0 +1,20 @@
+[Event "Strasbourg"]
+[Site "Strasbourg"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Silva, Fernando"]
+[Black "Macles, Jacques"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "103ab9c8"]
+[Epoch "Bishop"]
+[WhiteID "1900188"]
+[BlackID "600334"]
+[WhiteCountry "POR"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. O-O
+b5 9. f4 Bb7 10. e5 dxe5 11. fxe5 Nfd7 12. Be3 Nxe5 13. Qh5 Ng6 14. Rxf7 Qd6
+15. Nxe6 Nd7 16. Nxg7+ Kd8 17. Rd1 Qe5 18. Qxe5 Nxe5 19. Bb6+ 1-0

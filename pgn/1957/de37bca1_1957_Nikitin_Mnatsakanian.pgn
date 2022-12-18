@@ -1,0 +1,23 @@
+[Event "Leningrad-ch"]
+[Site "Leningrad"]
+[Date "1957.??.??"]
+[Round "1"]
+[White "Nikitin, Aleksander S"]
+[Black "Mnatsakanian, Eduard A"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "de37bca1"]
+[Epoch "Bishop"]
+[WhiteID "4103173"]
+[WhiteCountry "RUS"]
+[BlackCountry "ARM"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 Bd6 9. Nc4 Qe7 10. b3 f6 11. Bb2 Nb6 12. Nxd6+ cxd6 13. Nd2 g5 14. d4 Be6
+15. Qe2 O-O-O 16. a4 Qf7 17. Bc3 exd4 18. Ba5 Nd7 19. Bxd8 Rxd8 20. f4 gxf4 21.
+Rxf4 Rg8 22. Raf1 Qg6 23. Nf3 Bg4 24. Qf2 c5 25. Nh4 Qg5 26. Nf5 Kc7 27. h4 Qh5
+28. Ne7 Rg7 29. Nd5+ Kb8 30. Nxf6 Nxf6 31. Rxf6 Bh3 32. Qf4 Rxg2+ 33. Kh1 Rg8
+34. Qxd6+ Ka7 35. Qb6+ Kb8 36. Rf8+ Rxf8 37. Rxf8+ Bc8 38. Qf6 Qd1+ 39. Qf1
+Qxc2 40. Qf4+ Ka7 41. Rxc8 Qd1+ 42. Kg2 Qc2+ 1-0

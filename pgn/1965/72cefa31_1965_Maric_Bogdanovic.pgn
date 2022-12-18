@@ -1,0 +1,32 @@
+[Event "Titograd"]
+[Site "Titograd"]
+[Date "1965.01.01"]
+[Round "7"]
+[White "Marić, Rudolf"]
+[Black "Bogdanovic, Rajko"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "72cefa31"]
+[Epoch "Bishop"]
+[BlackID "14400316"]
+[BlackCountry "BIH"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg5
+Nbd7 9. Bh3 O-O 10. a4 h6 11. Bxf6 Nxf6 12. Bxc8 Qxc8 13. O-O Qc4 14. b3 Qc5
+15. Qd3 Rfd8 16. Rfd1 Rac8 17. Ra2 Qb4 18. a5 Rc6 19. Ra4 Qc5 20. h3 Rd7 21. b4
+Qa7 22. Ra2 Bd8 23. Kg2 Qb8 24. Nd5 Nxd5 25. exd5 Rc8 26. c4 Rdc7 27. Rc1 f5
+28. c5 Bg5 29. f4 e4 30. Qb3 Bf6 31. Rac2 Kh7 32. g4 Qa7 33. gxf5 dxc5 34. Qe3
+Rd7 35. Qxe4 c4 36. Rxc4 Re7 37. Qf3 Rxc4 38. Rxc4 Re3 39. Qg4 Qb8 40. Ng3 Qe8
+41. Qg6+ Qxg6 42. fxg6+ Kxg6 43. f5+ Kh7 44. Ne4 Be5 45. d6 Rd3 46. Rc7 Re3 47.
+Nc5 Bxd6 48. Rxb7 Rg3+ 49. Kf2 Rg5 50. Nxa6 Rxf5+ 51. Ke2 Re5+ 52. Kf3 Rh5 53.
+Kg2 Rg5+ 54. Kf2 Rf5+ 55. Ke2 Re5+ 56. Kd1 Rd5+ 57. Ke1 Re5+ 58. Kd2 Bxb4+ 59.
+Nxb4 Rxa5 60. Nd3 Rh5 61. Nf2 Re5 62. Rb3 h5 63. Re3 Rf5 64. Ke2 g5 65. Ne4 Ra5
+66. Kf2 Kg6 67. Ng3 Ra2+ 68. Re2 Ra5 69. Kg2 Rb5 70. Rd2 Rb6 71. Rc2 Ra6 72.
+Rb2 Rc6 73. Ra2 Rb6 74. Rc2 Ra6 75. Ne2 Rd6 76. Kf2 Rf6+ 77. Ke3 Ra6 78. Nc3
+Ra1 79. Ne4 Re1+ 80. Re2 Rh1 81. Nf2 Rg1 82. Rd2 Re1+ 83. Re2 Rg1 84. Rc2 Re1+
+85. Kd2 Re6 86. Rc5 Ra6 87. Ne4 Ra2+ 88. Ke3 Ra3+ 89. Rc3 Ra6 90. Rd3 Ra5 91.
+Rd6+ Kf7 92. Rc6 Kg7 93. Kd4 Ra3 94. Rc3 Ra4+ 95. Ke5 g4 96. h4 Ra2 97. Kf4 Rh2
+98. Kg5 1-0

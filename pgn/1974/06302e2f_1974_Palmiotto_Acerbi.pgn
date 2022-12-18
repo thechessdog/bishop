@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Palmiotto"]
+[Black "Acerbi"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "06302e2f"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6
+8. Nf4 Bd6 9. h4 Qc7 10. h5 Bxc2 11. Nxe6 Bxd1 12. Nxc7+ Bxc7 13. Kxd1 O-O
+14. Nf5 Nbd7 15. g4 Nb6 16. Bb3 Rae8 17. f3 Nfd5 18. Bd2 Nf4 19. Bb4 Nd3
+20. Bxf8 Nf2+ 21. Kd2 Bf4+ 22. Kc3 Re2 23. Bd1 Rd2 24. Bc2 Ne4+ 25. Kb3 g6
+26. hxg6 1-0
+

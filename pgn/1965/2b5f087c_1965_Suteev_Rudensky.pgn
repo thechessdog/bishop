@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Suteev"]
+[Black "Rudensky"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "2b5f087c"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 c5 3. Bf4 cxd4 4. Qxd4 Nf6 5. Bxb8 Rxb8 6. e4 dxe4 7. Qxa7
+Bd7 8. O-O-O g6 9. Bb5 Bh6+ 10. Kb1 O-O 11. Bxd7 Nxd7 12. Qa4 b5 13. Qa7 b4
+14. Nxe4 Ra8 15. Qxd7 Qa5 16. a3 bxa3 17. b3 a2+ 18. Ka1 Bg7+ 0-1
+

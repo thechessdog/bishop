@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Clement, P."]
+[Black "Villup, H."]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "ddde91a9"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1 exd5 7. Qxd5
+Bd7 8. Nf3 Nf6 9. Qd1 Bc5 10. e3 Qe7 11. Bb5 O-O-O 12. Qe2 g5 13. Bd2 g4
+14. Nd4 Bxd4 15. exd4 Qd6 16. O-O-O Rde8 17. Be3 Nd5 18. Nxd5 Qxd5 19. Qc4
+Be6 20. b3 Rd8 21. Qxd5 Bxd5 22. Rhg1 f5 23. Kb2 a6 24. Bc4 b5 25. Bxd5
+Rxd5 26. Rd2 Rhd8 27. Rc1 Kb7 28. Rc5 R8d7 29. a3 Ne7 30. Rdc2 Ng6 31. Rxd5
+Rxd5 32. Rc5 Rxc5 33. dxc5 Nh4 34. Kc3 Nxg2 35. Kd4 Kc6 36. b4 h5 37. Bg5
+Ne1 38. Ke5 Nf3+ 39. Kxf5 Nxh2 40. Kg6 Nf1 41. Bh4 Nd2 42. Kxh5 Nc4 43. Bd8
+Nxa3 44. Kxg4 Nc4 45. Kf5 Kd7 46. Bb6 Kc6 47. f4 Kd5 48. Bd8 Ne3+ 49. Kg5
+Nc2 50. Ba5 1-0
+

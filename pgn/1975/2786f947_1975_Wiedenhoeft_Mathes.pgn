@@ -1,0 +1,21 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wiedenhoeft"]
+[Black "Mathes"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "2786f947"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Nbd7 10. a4 b6 11. Qd2 Bb7 12. f3 Qc7 13. Rfd1 Nc5 14. Nxc5
+dxc5 15. Bc4 Rad8 16. Qe2 Qc8 17. Bg5 Rd4 18. Bxf6 Bxf6 19. Bd5 Rd8 20.
+Bxb7 Qxb7 21. Nd5 Bg5 22. c3 Rxd1+ 23. Rxd1 b5 24. a5 Kf8 25. b3 Rd6 26.
+Nb6 Qc6 27. Rd5 Bd8 28. Qd3 Rxd5 29. exd5 Qg6 30. Nd7+ Ke7 31. Qxg6 hxg6
+32. Nxe5 Bc7 33. Nc6+ Kf6 34. c4 bxc4 35. bxc4 Kf5 36. Kf2 g5 37. h3 Kg6
+38. g4 f6 39. Ke3 Kf7 40. Ke4 g6 41. d6 1-0
+

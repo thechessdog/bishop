@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Kirilov"]
+[Black "Fasciglione, M."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "61720974"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 dxc3 5. Nxc3 Nc6 6. Bc4 Bb4 7. O-O Nf6
+8. Nd5 Be7 9. Ng5 O-O 10. Nxf6+ Bxf6 11. Qh5 Bxg5 12. Bxg5 Qe8 13. Rad1 Kh8
+14. Rd6 b6 15. Rh6 1-0
+

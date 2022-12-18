@@ -1,0 +1,21 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1965.12.01"]
+[Round "1"]
+[White "Burger, Karl"]
+[Black "Suttles, Duncan"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "5099a9fc"]
+[Epoch "Bishop"]
+[BlackID "2600056"]
+[BlackCountry "CAN"]
+[WhiteCountry "USA"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. Ng5
+Bxb5 9. Qxg4 Bd7 10. e6 fxe6 11. Nxh7 Kf7 12. Ng5+ Kg8 13. Nxe6 cxd4 14. Qxg6
+Bxe6 15. Qxe6+ Kf8 16. Ne4 Nc6 17. Ng5 Qe8 18. Qf5+ Bf6 19. Ne6+ Kf7 20. O-O
+Qc8 21. Re1 Nd8 22. Nxd8+ Rxd8 23. Qh5+ Kg8 24. Qg6+ Kh8 25. f5 Qxc2 26. Bg5
+Rf8 27. Rac1 Qd3 28. Rcd1 Qc2 29. Rd2 Qc6 30. Rd3 1-0

@@ -1,0 +1,26 @@
+[Event "corr Spain-BRD"]
+[Site "corr Spain-BRD"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Mocete, M."]
+[Black "Krebs, H."]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "9b9cfc62"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Bxc3+
+8. Nxc3 dxc4 9. Bxc4 O-O 10. O-O Nc6 11. Be3 b6 12. Qd3 Bb7 13. Rad1 Ne7
+14. Bg5 Ned5 15. Rfe1 Rc8 16. Bxd5 Rxc3 17. Qxc3 Qxd5 18. Qf3 Qxf3 19. gxf3
+Nd5 20. Rc1 Rc8 21. Rxc8+ Bxc8 22. Rc1 Bb7 23. Be7 f6 24. Bd6 Kf7 25. f4
+Ke8 26. f3 Kd7 27. Bb8 Bc6 28. h4 a6 29. h5 Ne7 30. Kf2 Nf5 31. b4 b5 32.
+Ba7 Kc7 33. Bc5 Be8 34. Bf8+ Kd7 35. Rg1 Bxh5 36. Bxg7 Ke7 37. Bh8 Nxd4 38.
+Rg7+ Bf7 39. Rxh7 Nf5 40. Rh1 Nd6 41. Rh6 f5 42. Bd4 Nc4 43. Bc5+ Kd8 44.
+Rh7 Ke8 45. Rh8+ Kd7 46. Ra8 Kc6 47. Rxa6+ Kd5 48. Ra8 e5 49. Kg3 e4 50.
+Rf8 Be6 51. Rd8+ Kc6 52. fxe4 fxe4 53. Kh4 Bd7 54. Kg5 e3 55. f5 Ne5 56.
+Kf4 e2 57. Bf2 Nf7 58. Rf8 Nd6 59. Ke5 Nc4+ 60. Kd4 Nd6 61. Rf6 Kc7 62. Bg3
+e1=Q 63. Bxe1 Nxf5+ 64. Kc5 Ne3 65. Rf8 Nc2 66. Bg3+ Kb7 67. Rf7 Kc8 68.
+Kd6 1-0
+

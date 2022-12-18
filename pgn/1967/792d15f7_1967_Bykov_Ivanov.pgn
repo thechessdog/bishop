@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Bykov, Valery"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "792d15f7"]
+[Epoch "Bishop"]
+[WhiteID "4105460"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Nbd7 7. f4 a6 8. Qf3
+Qc7 9. g4 h6 10. Bg2 Rb8 11. O-O-O b5 12. Rhe1 b4 13. Nd5 Qb7 14. Nb3 Qc6 15.
+Kb1 a5 16. Nxa5 Qa4 17. Nxf6+ Nxf6 18. Nb3 Bb7 19. Bd4 Ra8 20. Nc1 d5 21. Bxf6
+dxe4 22. Rxe4 Rb8 23. Be5 Rc8 24. b3 Qc6 1-0

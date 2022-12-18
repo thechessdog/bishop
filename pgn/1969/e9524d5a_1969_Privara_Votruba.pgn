@@ -1,0 +1,20 @@
+[Event "CSR-ch U26"]
+[Site "Cihak"]
+[Date "1969.04.07"]
+[Round "6"]
+[White "Privara, Igor"]
+[Black "Votruba, Pavel"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "e9524d5a"]
+[Epoch "Bishop"]
+[WhiteID "14901340"]
+[BlackID "301019"]
+[WhiteCountry "SVK"]
+[BlackCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 c4 8. g4 h5
+9. gxh5 Rxh5 10. Ne2 g6 11. Ng3 Rh8 12. h4 Ne7 13. h5 Bg7 14. hxg6 fxg6 15.
+Rxh8+ Bxh8 16. Ng5 Nf8 1/2-1/2

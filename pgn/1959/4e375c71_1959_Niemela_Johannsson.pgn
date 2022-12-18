@@ -1,0 +1,22 @@
+[Event "Orebro"]
+[Site "Orebro"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Niemela, Ilmari"]
+[Black "Johannsson, Ingi Randver"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "4e375c71"]
+[Epoch "Bishop"]
+[WhiteCountry "FIN"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 a6 10. g4 h5 11. h3 Nbd7 12. Nge2 Nh7 13. gxh5 Qh4+ 14. Kd1 Qxh5 15.
+Bg2 Qh4 16. Kc2 f5 17. Raf1 f4 18. Bf2 Qd8 19. Rfg1 Rf7 20. h4 Nb6 21. Bf1 Nf8
+22. h5 gxh5 23. Rxh5 Nc4 24. Qd3 b5 25. Rhg5 Qc7 26. b3 Nb6 27. Nxf4 Nh7 28.
+Ne6 Bxe6 29. dxe6 Nxg5 30. Rxg5 Re7 31. Kb2 Rc8 32. Be3 b4 33. Nd5 Nxd5 34.
+exd5 e4+ 35. Rxg7+ Rxg7 36. fxe4 Rg3 37. e5 Rxe3 38. Qg6+ Qg7 39. Qxg7+ Kxg7
+40. exd6 Rf8 41. Kc2 Rxf1 42. d7 Rh3 43. Kd2 Rf2+ 44. Ke1 Rxa2 0-1

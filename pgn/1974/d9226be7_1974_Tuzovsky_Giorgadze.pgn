@@ -1,0 +1,19 @@
+[Event "Goglidze mem"]
+[Site "Tbilisi"]
+[Date "1974.??.??"]
+[Round "12"]
+[White "Tuzovsky, Alexander I"]
+[Black "Giorgadze, Tamaz"]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "d9226be7"]
+[Epoch "Bishop"]
+[BlackID "13600028"]
+[BlackCountry "GEO"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Be3 e6
+9. Qd2 exd5 10. exd5 Kh7 11. f3 Re8 12. Bd3 b5 13. cxb5 a6 14. bxa6 Nxa6 15.
+Nge2 Nb4 16. Bb1 Bb7 17. Nf4 Ba6 18. a3 Bc4 19. b3 Bxb3 20. axb4 Rxa1 21. O-O
+cxb4 0-1

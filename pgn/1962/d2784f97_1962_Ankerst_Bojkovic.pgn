@@ -1,0 +1,29 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1962.01.01"]
+[Round "11"]
+[White "Ankerst, Marjan"]
+[Black "Bojkovic, Slobodan"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "d2784f97"]
+[Epoch "Bishop"]
+[WhiteID "14601265"]
+[WhiteCountry "SLO"]
+[BlackID "902829"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. f4 e5 8. f5
+Nf6 9. Nd2 a5 10. Qf3 a4 11. O-O Qc7 12. Nc4 Nd7 13. Bg5 Bc5+ 14. Kh1 f6 15.
+Qh5+ Kf8 16. Be3 Bxe3 17. Nxe3 Nb6 18. Rad1 Bd7 19. Nc4 Be8 20. Qe2 Nd7 21. b4
+axb3 22. cxb3 Bf7 23. Bb1 Bxc4 24. Qxc4 Nb6 25. Qc5+ Kf7 26. Bd3 Rhd8 27. a4
+Kg8 28. a5 Nc8 29. b4 Qe7 30. Qc3 Nd6 31. h3 Rac8 32. Qc5 Rc7 33. Kh2 Kf8 34.
+Bc2 Ke8 35. Bd3 Nc8 36. Qc4 Qf7 37. Qc3 Rd4 38. Rc1 Nd6 39. b5 Nxe4 40. Bxe4
+Rxe4 41. a6 bxa6 42. bxc6 Re2 43. Qf3 Rd2 44. Rb1 Qd5 45. Rb8+ Ke7 46. Qg4 g6
+47. fxg6 hxg6 48. Qxg6 Qf7 49. Qb1 Qc4 50. Qh7+ Qf7 51. Qb1 Qc4 52. Qh7+ Qf7
+53. Qh6 Rc2 54. Rh8 Ke6 55. Rf8 Qg7 56. R8xf6+ Kd5 57. Qxg7 Rxg7 58. R1f2 Rxf2
+59. Rxf2 Kxc6 60. g4 Kd5 61. Kg3 Re7 62. h4 e4 63. h5 e3 64. Re2 Ke4 65. h6 a5
+66. Ra2 Kd3 67. g5 e2 68. Rxe2 Rxe2 69. h7 Re8 70. g6 Rh8 71. g7 Rxh7 72. g8=Q
+1-0

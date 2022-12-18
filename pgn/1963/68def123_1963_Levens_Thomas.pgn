@@ -1,0 +1,16 @@
+[Event "Bath ch-BCF"]
+[Site "Bath ch-BCF"]
+[Date "1963.08.01"]
+[Round "4"]
+[White "Levens, DG."]
+[Black "Thomas, Andrew Rowland Benedick"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "68def123"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 fxe4 8.
+Ng5 Nf6 9. d5 Ne7 10. Ne6 1-0

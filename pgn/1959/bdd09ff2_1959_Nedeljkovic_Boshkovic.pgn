@@ -1,0 +1,19 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Nedeljkovic, Streck"]
+[Black "Boskovic, Milorad"]
+[Result "1/2-1/2"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "bdd09ff2"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+O-O 9. Be2 h6 10. Bh4 g5 11. Bg3 Nh5 12. O-O f5 13. exf5 Bxf5 14. Nd2 Nxg3 15.
+fxg3 Qe7 16. Bg4 Bxg4 17. Qxg4 Nd7 18. Qe6+ Qxe6 19. dxe6 Bd4+ 20. Kh1 Rxf1+
+21. Rxf1 Bxc3 22. bxc3 Nf8 23. e7 Ng6 24. Rf6 Kg7 25. Rxd6 Re8 26. Kg1 Rxe7 27.
+Kf1 Ne5 28. h3 1/2-1/2

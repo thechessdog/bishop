@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Collins"]
+[Black "Hearst"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "5ff04e03"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 e6 3. c4 f5 4. Nc3 Nf6 5. g3 c6 6. Bg2 Bd6 7. Bf4 O-O 8.
+O-O Ne4 9. Qc2 Bxf4 10. gxf4 Nd7 11. Kh1 Rf6 12. e3 Rh6 13. Rg1 Ndf6 14.
+Ne5 Ng4 15. Nxg4 fxg4 16. Bxe4 Rxh2+ 17. Kxh2 Qh4+ 18. Kg2 Qh3# 0-1
+

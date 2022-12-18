@@ -1,0 +1,19 @@
+[Event "Asztalos Mem"]
+[Site "Asztalos Mem"]
+[Date "1958.01.01"]
+[Round "7"]
+[White "Forintos, Gyozo V"]
+[Black "Bilek, Istvan"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "6c0af1d1"]
+[Epoch "Bishop"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 e6 4. Nc3 cxd4 5. Nxd4 Bb4 6. Qb3 Na6 7. Nc2 Be7 8.
+Nb5 O-O 9. Bg5 d5 10. cxd5 Nxd5 11. Bd2 e5 12. e4 Nf6 13. f3 Be6 14. Qe3 Rc8
+15. Bc3 Bc5 16. Qg5 Bf2+ 17. Kxf2 Nxe4+ 18. fxe4 Qxg5 0-1

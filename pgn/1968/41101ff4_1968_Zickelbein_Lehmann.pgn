@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Zickelbein, Evi"]
+[Black "Lehmann, Heinz Dr"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "41101ff4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nf3 Nc6 6. Bc4 e6 7. O-O a6 8. Qe2
+Be7 9. Rd1 Qc7 10. Bf4 Ne5 11. Bxe5 dxe5 12. Rac1 Qb8 13. Bb5+ Kf8 14. Na4 b6
+15. Rxc8+ Qxc8 16. Nxb6 Qb7 17. Nd7+ Ke8 18. Ba4 Qa7 19. Nfxe5 Rd8 20. Qf3 Nh6
+21. Nf6+ Kf8 22. Rxd8+ Bxd8 23. Ned7+ 1-0

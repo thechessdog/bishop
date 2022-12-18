@@ -1,0 +1,18 @@
+[Event "Dublin zt"]
+[Site "Dublin zt"]
+[Date "1957.01.01"]
+[Round "10"]
+[White "Conrady, Alphonse"]
+[Black "O'Sullivan, Donal"]
+[Result "1-0"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer"]
+[HashCode "01e23f91"]
+[Epoch "Bishop"]
+[WhiteID "4000846"]
+[WhiteCountry "LUX"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Qb6 7. Bxf6 gxf6 8.
+Nb3 Bg7 9. Nd5 Qd8 10. c3 O-O 11. Bd3 Ne5 12. O-O Kh8 13. Bc2 Nc4 14. Qh5 e6
+15. Ne3 Nxe3 16. fxe3 Qe7 17. Qh4 h6 18. Rad1 b6 19. e5 dxe5 20. Qe4 1-0

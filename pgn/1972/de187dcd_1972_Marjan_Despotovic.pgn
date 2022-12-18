@@ -1,0 +1,17 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Marjan, D."]
+[Black "Despotovic, M."]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "de187dcd"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. Bc4 e6 8.
+Be3 a6 9. h4 b5 10. Bd3 c5 11. exd6 cxd4 12. Nxd4 Bb7 13. Be4 Bxe4 14. Nxe4
+Re8 15. Ng5 h6 16. Qf3 hxg5 17. Qxa8 e5 18. fxe5 Rxe5 19. Kd2 Nb6 0-1
+

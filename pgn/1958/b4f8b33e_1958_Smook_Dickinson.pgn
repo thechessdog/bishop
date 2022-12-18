@@ -1,0 +1,17 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Smook"]
+[Black "Dickinson, Roger"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "b4f8b33e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Bb5 Bb4+ 6. Kf1 Nc6 7. Qe2 Nc5
+8. Bg5 Ne7 9. a3 d3 10. cxd3 Nb3 11. axb4 Nxa1 12. Nbd2 h6 13. Bh4 c6 14.
+Bc4 d5 15. exd6 Qxd6 16. Ne4 Qc7 17. Bg3 Qb6 18. Nd6+ Kf8 19. Nxf7 1-0
+

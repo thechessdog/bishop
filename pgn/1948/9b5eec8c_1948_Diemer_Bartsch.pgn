@@ -1,0 +1,17 @@
+[Event "Ried"]
+[Site "Ried"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Bartsch, Berthold"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn game"]
+[HashCode "9b5eec8c"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+[BlackID "4604660"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. a3 a6 3. Nc3 e6 4. e3 c5 5. dxc5 Bxc5 6. b4 Be7 7. Bb2 Bf6 8. Nf3
+b5 9. e4 Qc7 10. e5 Bxe5 11. Nxb5 1-0

@@ -1,0 +1,30 @@
+[Event "Canada"]
+[Site "Toronto"]
+[Date "1972.01.01"]
+[Round "8"]
+[White "Vranesic, Zvonko"]
+[Black "Allan, Denis"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "b99d0fdb"]
+[Epoch "Bishop"]
+[WhiteID "2600390"]
+[BlackID "2600471"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Nf3 Nc6 6. Bd3 Bxc3+ 7. bxc3 d6 8.
+O-O e5 9. d5 Ne7 10. Nd2 O-O 11. f4 exf4 12. exf4 Bf5 13. Nf3 Qd7 14. h3 Rfe8
+15. Rb1 Ne4 16. Qc2 Ng3 17. Re1 b6 18. Kh2 Bxd3 19. Qxd3 Qf5 20. Qxf5 Nexf5 21.
+Bd2 Ne4 22. Rbd1 h5 23. Kg1 f6 24. Rc1 Re7 25. Be3 Rae8 26. Bf2 Nxf2 27. Kxf2
+h4 28. Rxe7 Rxe7 29. Re1 Rxe1 30. Nxe1 Kf7 31. Kf3 Kg6 32. Nc2 Kh5 33. Na3 a6
+34. Nc2 Ne7 35. a4 f5 36. Ne1 g5 37. fxg5 Ng6 38. Nd3 Kxg5 39. Ke3 Kf6 40. Kf3
+Ne5+ 41. Nxe5 Kxe5 42. g3 hxg3 43. Kxg3 Ke4 44. h4 Ke3 45. h5 f4+ 46. Kh2 f3
+47. h6 f2 48. h7 f1=Q 49. h8=Q Qf4+ 50. Kg2 Qg4+ 51. Kh2 Qf4+ 52. Kg2 Qxc4 53.
+Qh3+ Kd2 54. Qh6+ Kxc3 55. Qxd6 Kd4 56. Qxb6 Qxd5+ 57. Kg3 Qc4 58. a5 Kc3 59.
+Kf2 Kc2 60. Ke3 Qd4+ 61. Kf3 Qd5+ 62. Kg3 Qg8+ 63. Kf3 Qc8 64. Ke3 c4 65. Qg6+
+Kc1 66. Qg1+ Kb2 67. Qf2+ Kb3 68. Kd2 Qd8+ 69. Kc1 Qg5+ 70. Kb1 Qg6+ 71. Ka1
+Qg7+ 72. Kb1 Qh7+ 73. Kc1 Qh1+ 74. Kd2 c3+ 75. Ke2 Qe4+ 76. Kf1 Qb1+ 77. Kg2
+Qc2 0-1

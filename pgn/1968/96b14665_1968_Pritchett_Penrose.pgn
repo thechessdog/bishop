@@ -1,0 +1,22 @@
+[Event "Bristol ch-BCF"]
+[Site "Bristol ch-BCF"]
+[Date "1968.08.01"]
+[Round "10"]
+[White "Pritchett, Craig W"]
+[Black "Penrose, Jonathan"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "96b14665"]
+[Epoch "Bishop"]
+[WhiteID "2400065"]
+[WhiteCountry "SCO"]
+[BlackID "400360"]
+[BlackCountry "ENG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Qd2 Nbd7 6. f4 Qa5 7. e5 dxe5 8. dxe5
+Nd5 9. Nxd5 Qxd2+ 10. Kxd2 cxd5 11. Bb5 a6 12. Bxd7+ Bxd7 13. Nf3 Bf5 14. Nd4
+Be4 15. Rhg1 h6 16. Bh4 g5 17. Bg3 e6 18. c3 Bc5 19. Rad1 b5 20. Ke3 Rb8 21. a3
+a5 22. b4 Bb6 23. Be1 gxf4+ 24. Kxf4 f6 25. Bg3 fxe5+ 26. Kxe5 Bc7+ 27. Kf6
+Rf8+ 28. Kg7 Bxg3 29. hxg3 Rb7+ 0-1

@@ -1,0 +1,18 @@
+[Event "CSR-ch"]
+[Site "Podebrady"]
+[Date "1956.??.??"]
+[Round "10"]
+[White "Alster, Ladislav"]
+[Black "Sajtar, Jaroslav"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "3c245860"]
+[Epoch "Bishop"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. Bc4 d6 6. e5 dxe5 7. Nxe5 e6 8.
+O-O Bd6 9. Nf3 O-O 10. d3 h6 11. h3 a6 12. a4 Rb8 13. Nxd4 cxd4 14. Ne4 b5 15.
+axb5 axb5 16. Bb3 Bb7 17. Qe2 Ra8 18. Rxa8 Bxa8 19. Bd2 1/2-1/2

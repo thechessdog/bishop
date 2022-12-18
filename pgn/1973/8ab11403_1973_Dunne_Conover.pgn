@@ -1,0 +1,22 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Dunne, A."]
+[Black "Conover, W."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "8ab11403"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. f4 Bb7 10. e5 dxe5 11. fxe5 Bc5 12. Be3 Nc6 13. exf6 Bxd4 14.
+Bxd4 Qxd4+ 15. Kh1 gxf6 16. Qh5 Qe5 17. Nd5 Qxh5 18. Nxf6+ Ke7 19. Nxh5
+Rhg8 20. Rf2 Nd4 21. Raf1 f5 22. Nf4 Nxb3 23. axb3 Rg4 24. Re1 Be4 25. c4
+Rc8 26. Kg1 bxc4 27. Rc1 e5 28. Ne2 Bd3 29. Rc3 Re4 30. Ng3 Re1+ 31. Nf1 e4
+32. bxc4 Bxc4 33. Re3 Rxf1+ 34. Rxf1 Bxf1 35. Kxf1 Rc1+ 36. Kf2 Rc2+ 37.
+Kg1 Kf6 38. Ra3 Rxb2 39. Rxa6+ Kg5 40. Ra7 h5 41. g3 Kg4 42. Rf7 h4 43. Rf8
+e3 44. Rf7 Rb1+ 0-1
+

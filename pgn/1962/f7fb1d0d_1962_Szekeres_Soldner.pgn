@@ -1,0 +1,17 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Szekeres"]
+[Black "Soldner"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "f7fb1d0d"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 e6 7. Bg5 Bg7 8.
+cxd5 exd5 9. Bb5+ Nc6 10. Qa3 Be6 11. Nf3 Qb6 12. O-O Rc8 13. Rfe1 Ng8 14.
+Rxe6+ fxe6 15. Qd6 Kf7 16. Re1 Nce7 17. Bxe7 h6 18. Qd7 Nxe7 19. Nxd5 1-0
+

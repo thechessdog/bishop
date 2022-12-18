@@ -1,0 +1,17 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Kolba"]
+[Black "Rohlicek"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "3dce9446"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 exd4
+8. Re1 d5 9. Nc3 dxc3 10. Bxd5 Bb7 11. Ng5 f5 12. Nf7 Qf6 13. Nxh8 O-O-O
+14. f3 Bc5+ 15. Be3 cxb2 16. Rb1 Nc3 17. Qd2 Bxe3+ 18. Qxe3 Nxd5 0-1
+

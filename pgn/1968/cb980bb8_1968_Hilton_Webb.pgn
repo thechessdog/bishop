@@ -1,0 +1,26 @@
+[Event "Bristol ch-BCF"]
+[Site "Bristol ch-BCF"]
+[Date "1968.08.01"]
+[Round "5"]
+[White "Hilton, CG."]
+[Black "Webb, Simon"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "cb980bb8"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. e5 Nd5 7. d4 cxd4 8. cxd4
+O-O 9. Nc3 Nxc3 10. bxc3 d6 11. exd6 Qxd6 12. Re1 Bd7 13. a4 Rfe8 14. Ba3 Qc7
+15. Rc1 Rad8 16. Bd3 Qa5 17. Qb3 Qc7 18. Ng5 Qf4 19. Ne4 b6 20. g3 Qg4 21. Bc4
+Qf5 22. Qd1 Na5 23. Bd3 Qd5 24. Nd2 Be6 25. Bb4 Nc6 26. Bc4 Qf5 27. Bxe6 fxe6
+28. Ba3 e5 29. Qf3 Qd7 30. d5 Qxd5 31. Qxd5+ Rxd5 32. Ne4 Ra5 33. Ra1 Rxa4 34.
+Bb4 Rxa1 35. Rxa1 Rd8 36. f3 Bf6 37. Kf2 Kf7 38. Ke2 e6 39. Ba3 Be7 40. Bc1 Rd7
+41. Be3 Na5 42. Ra4 Rc7 43. Kd3 Ke8 44. Bg5 Bxg5 45. Nxg5 h6 46. Ne4 Rd7+ 47.
+Kc2 Kf7 48. Rb4 g5 49. Nd2 Nb7 50. Re4 Nc5 51. Rxe5 Kf6 52. Re1 h5 53. h3 Rd5
+54. Nc4 Kg6 55. Ra1 b5 56. Na3 a6 57. c4 Rf5 58. cxb5 axb5 59. Rf1 b4 60. Nc4
+Rf8 61. Re1 b3+ 62. Kb1 Kf6 63. Re3 Rd8 64. Kb2 Rd3 65. Rxd3 Nxd3+ 66. Kxb3 h4
+67. gxh4 gxh4 68. Ne3 Kg5 69. Kc4 Ne1 70. Kd4 Kf4 71. Nf1 Nxf3+ 72. Kd3 Ng1 73.
+Ne3 Nxh3 74. Ng2+ Kg3 0-1

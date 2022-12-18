@@ -1,0 +1,20 @@
+[Event "Hungary ch"]
+[Site "Hungary ch"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Szilagyi, Gyorgy"]
+[Black "Pogats, Jozsef Jr."]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "e43eb636"]
+[Epoch "Bishop"]
+[BlackID "744450"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. a3 Bxc3+ 8. bxc3
+dxc4 9. Bxc4 Qc7 10. Ba2 Nbd7 11. O-O e5 12. c4 e4 13. Nd2 Re8 14. Bb2 Nf8 15.
+Re1 Ng6 16. Nf1 b6 17. a4 Bd7 18. a5 Rad8 19. Qb3 Nh4 20. Rab1 Qc8 21. axb6 Bh3
+22. g3 Nf3+ 23. Kh1 Bxf1 0-1

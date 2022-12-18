@@ -1,0 +1,26 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Bely, Miklos"]
+[Black "Tolush, Alexander"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "ed9593c0"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Qf6 7. Qd3 Bg7 8.
+Nc3 Ne7 9. O-O c6 10. Bc4 O-O 11. Qg3 h6 12. Rd1 d5 13. exd5 Bf5 14. d6 Nc8 15.
+Be3 Rd8 16. d7 Rxd7 17. Rxd7 Bxd7 18. Qc7 Qd6 19. Qd8+ Bf8 20. Rd1 Nb6 21. Qh4
+Nxc4 22. Rxd6 Nxd6 23. Qf4 Re8 24. g4 b6 25. h3 f5 26. Qd4 c5 27. Qd2 Bc6 28.
+b3 fxg4 29. hxg4 Nf7 30. f4 Bg7 31. Bf2 g5 32. Nd5 gxf4 33. c4 Ng5 34. Qd3 Re5
+35. Kf1 f3 36. a4 Be8 37. Bh4 Ne4 38. Ne7+ Kf7 39. Qxf3+ Bf6 40. Be1 Kxe7 41.
+Qf4 Bg7 42. a5 b5 43. Bh4+ Ke6 44. Qe3 bxc4 45. bxc4 Bc6 46. Qd3 Bd7 47. Bd8
+Nf6 48. Bc7 Rg5 49. a6 Kf7 50. Bb8 Be6 51. Qb3 Rxg4 52. Qb7+ Kg6 53. Qxa7 Bxc4+
+54. Kf2 Bd5 55. Qb6 Kf5 56. Qd8 Ra4 57. Qc8+ Kg6 58. Ke1 Ra1+ 59. Ke2 Bc4+ 60.
+Kf3 Ra3+ 61. Kg2 Rxa6 62. Qxc5 Ra2+ 63. Kg1 Ra1+ 64. Kh2 Bd5 65. Qb6 Kh5 66.
+Qb5 Ng4+ 67. Kg3 Ra3+ 0-1

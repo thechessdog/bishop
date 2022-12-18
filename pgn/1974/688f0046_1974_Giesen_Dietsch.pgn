@@ -1,0 +1,17 @@
+[Event "DM Menden"]
+[Site "DM Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Giesen, Dieter"]
+[Black "Dietsch"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "688f0046"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8. g3
+e6 9. Bg2 Nxd5 10. Nge2 Nc6 11. Nxd5 exd5 12. O-O Bg4 13. Nc3 Nxd4 14. Qxd5
+Qxd5 15. Bxd5 Be2 16. Nxe2 Nxe2+ 17. Kg2 Nxc1 18. Raxc1 Rad8 19. Rfd1 Rd7
+1/2-1/2

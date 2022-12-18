@@ -1,0 +1,16 @@
+[Event "corr ch13-FRG"]
+[Site "corr ch13-FRG"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Rupp, Claus"]
+[Black "Schreiber, W."]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "9c2180e0"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3 8.
+bxc3 Re8 9. d3 exd3 10. exd3 d6 11. h3 h6 12. Nf3 Be6 13. Be3 Qd7 14. Kh2 d5
+15. c5 Bf5 0-1

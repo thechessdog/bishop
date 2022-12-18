@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Wiese, W."]
+[Black "Sanmartin, F."]
+[Result "1-0"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[HashCode "dbc23223"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ 5. Nc3 dxc4 6. e4 c5 7. Bxc4 cxd4
+8. Nxd4 e5 9. Qa4+ Bd7 10. Qxb4 exd4 11. Bxf6 Qxf6 12. Nd5 Qe5 13. Qxb7
+Qxe4+ 14. Kf1 Bc8 15. Qxc8# 1-0
+

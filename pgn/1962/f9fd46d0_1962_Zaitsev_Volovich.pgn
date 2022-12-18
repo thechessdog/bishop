@@ -1,0 +1,24 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Zaitsev, Alexander"]
+[Black "Volovich, Anatoly A"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "f9fd46d0"]
+[Epoch "Bishop"]
+[WhiteID "4164490"]
+[BlackID "2000911"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Bg4 10. O-O a6 11. e5 Ne8 12. Be3 Qe7 13. h3 Bxf3 14. Bxf3 Nd7 15. Ne4
+Rc8 16. e6 fxe6 17. dxe6 Ndf6 18. Qb3 b5 19. Rad1 Nxe4 20. Bxe4 Nf6 21. Bf3 d5
+22. Bxd5 c4 23. Qc2 Nxd5 24. Rxd5 Qxe6 25. Qd2 Rfe8 26. Rf3 c3 27. bxc3 Rxc3
+28. Rd8 Rxd8 29. Qxd8+ Kf7 30. Qd2 Bf6 31. Kh2 Ra3 32. Qc1 Rxa2 33. Bf2 Qd6 34.
+Bg3 Ra1 35. Qc8 Qd1 36. Qb7+ Be7 37. Bf2 h5 38. Re3 Qh1+ 39. Kg3 h4+ 40. Kg4
+Qd1+ 0-1

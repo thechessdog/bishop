@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Stetsko, O."]
+[Black "Bangiev, Alexander"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "0f7d0dbc"]
+[Epoch "Bishop"]
+[BlackID "4621646"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Re8 12. Nc4 Ne5 13. Na3 Nh5 14. h3 f5 15. e4
+b5 16. Ne2 fxe4 17. Bxe4 Bxh3 18. Bg2 Bg4 19. f3 Bd7 20. g4 Nxg4 21. fxg4 Bxg4
+22. Bf3 Qh4 23. Nc2 Be5 24. Rf2 Bxf3 25. Rxf3 Rf8 26. Raa3 b4 27. Rae3 Qh2+ 28.
+Kf1 Qh1+ 29. Ng1 Ng3+ 30. Kf2 Qh2+ 0-1

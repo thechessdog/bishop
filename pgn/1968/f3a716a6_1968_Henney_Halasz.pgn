@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Henney"]
+[Black "Halasz"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "f3a716a6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. Nc3 f5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. d3
+Ngf6 8. Ng5 Nf8 9. Qf3 Qd7 10. Bd2 h6 11. Ne6 Nxe6 12. dxe6 Qxe6 13. Qxb7
+O-O 14. Qb3 Rae8 15. f3 e4 16. dxe4 fxe4 17. fxe4 Nxe4 18. Qxe6+ Rxe6 19.
+O-O-O Nxd2 20. Kxd2 Bf4+ 21. Kd3 Rd8+ 0-1
+

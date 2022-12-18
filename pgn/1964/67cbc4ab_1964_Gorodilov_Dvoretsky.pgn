@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1964.01.01"]
+[Round "?"]
+[White "Gorodilov"]
+[Black "Dvoretsky, Mark Izrailovich"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "67cbc4ab"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. Nf3 g6 5. Bg2 Bg7 6. O-O Nge7 7. d3 O-O 8. c3
+d6 9. Ne1 Rb8 10. f4 b5 11. Nf3 b4 12. Be3 bxc3 13. bxc3 Ba6 14. Qc2 Nb4 15.
+cxb4 Bxa1 0-1

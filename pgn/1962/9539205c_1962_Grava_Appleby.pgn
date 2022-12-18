@@ -1,0 +1,17 @@
+[Event "Albany"]
+[Site "Albany"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Grava, A."]
+[Black "Appleby, G."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "9539205c"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. Be3 cxd4 5. Bxd4 Nc6 6. Bb5 Bd7 7. exd5 exd5
+8. Nxd5 Nxd4 9. Bxd7+ Qxd7 10. Qxd4 Rd8 11. O-O-O Ne7 12. Qe3 Qc6 13. Qe5
+Rxd5 14. Qb8+ Nc8 15. Rxd5 Qxd5 16. Qxc8+ Qd8 17. Qxb7 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Rijn, P."]
+[Black "Laisaari, M."]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "40da271a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Qa5 10. O-O-O Bd7 11. Bb3 Rfc8 12. Kb1 Ne5 13. g4 b5 14. h4
+b4 15. Nd5 Nxd5 16. Bxd5 Nc4 17. Bxc4 Rxc4 18. Nb3 Qc7 19. Bd4 e5 20. Be3
+Rc8 21. Qxd6 Rxc2 22. Bc5 Rxc5 23. Nxc5 Bxg4 24. Qxc7 Rxc7 25. fxg4 Rxc5
+26. Rd8+ Bf8 27. Ra8 Rc4 28. Rd1 Kg7 29. g5 Rxe4 30. Rdd8 b3 31. axb3 1-0
+

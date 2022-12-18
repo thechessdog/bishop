@@ -1,0 +1,18 @@
+[Event "Moscow olm fin-B"]
+[Site "Moskou olm"]
+[Date "1956.09.01"]
+[Round "5"]
+[White "Skold, Kristian"]
+[Black "Johannsson, Ingi Randver"]
+[Result "1-0"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Keres variation"]
+[HashCode "aeba401a"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd3 a6 8. Be2
+Be7 9. Rd1 Bd7 10. Nb3 Qc7 11. f4 b5 12. Bf3 Rc8 13. O-O O-O 14. Kh1 b4 15. Ne2
+Na5 16. Nxa5 Bb5 17. c4 bxc3 18. Qxc3 1-0

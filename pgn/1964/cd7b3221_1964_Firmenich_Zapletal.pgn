@@ -1,0 +1,22 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Firmenich, P."]
+[Black "Zapletal"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "cd7b3221"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. O-O-O Nf6 7. Qxg7
+Rg8 8. Qh6 Bf8 9. Qh4 Rg4 10. Qh3 Qxf2 11. Be2 Qxg2 12. Bxg4 Qxg4 13. Qxg4
+Nxg4 14. Nxe4 Nd7 15. h3 Nge5 16. Rh2 b6 17. Bf4 Bb7 18. Nc3 Bc5 19. Nb5
+Ke7 20. Re2 Nf3 21. Be3 Rg8 22. Nxf3 Bxf3 23. Ree1 Bxd1 24. Bxc5+ Nxc5 25.
+Rxd1 a6 26. Na7 f5 27. Nc6+ Kf6 28. b4 Ne4 29. Rd7 Rg1+ 30. Kb2 Rg7 31. Rd8
+f4 32. Rf8+ Rf7 33. Rxf7+ Kxf7 34. c4 Kf6 35. Kc2 e5 36. a4 Nd6 37. Kd3 e4+
+38. Kd4 e3 39. Ne5 c5+ 40. bxc5 bxc5+ 41. Kd5 e2 42. Nf3 Nf7 43. Ne1 Kf5
+44. Kxc5 Ke4 0-1
+

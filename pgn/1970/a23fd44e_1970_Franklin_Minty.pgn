@@ -1,0 +1,18 @@
+[Event "Swansea ch-WLS"]
+[Site "Swansea ch-WLS"]
+[Date "1970.03.26"]
+[Round "2"]
+[White "Franklin, Chris E"]
+[Black "Minty, WD."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8.de"]
+[HashCode "a23fd44e"]
+[Epoch "Bishop"]
+[WhiteID "401439"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be7 9. Bxd5 Bd7 10. Bxe4 O-O 11. Be3 Rc8 12. c3 Qe8 13. Qc2 h6 14. Qc1 f5 15.
+Bd5+ Kh7 16. e6 1-0

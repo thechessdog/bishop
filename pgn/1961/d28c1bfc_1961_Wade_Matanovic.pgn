@@ -1,0 +1,18 @@
+[Event "Zevenaar"]
+[Site "Zevenaar"]
+[Date "1961.01.01"]
+[Round "13"]
+[White "Wade, Robert Graham"]
+[Black "Matanovic, Aleksandar"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "d28c1bfc"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[BlackCountry "SRB"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 cxd4 7. exd4 Be7 8. Nf4
+dxc4 9. Bxc4 O-O 10. O-O Nbd7 11. Be3 Nb6 12. Ba2 1/2-1/2

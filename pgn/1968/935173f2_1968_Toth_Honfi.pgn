@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Toth, Bela"]
+[Black "Honfi, Karoly"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "935173f2"]
+[Epoch "Bishop"]
+[WhiteID "736112"]
+[WhiteCountry "ITA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+Re8 9. d5 Nc5 10. Qc2 a5 11. Nd2 c6 12. Nb3 cxd5 13. Nxc5 d4 14. N5a4 dxc3 15.
+Nxc3 Qc7 16. Nb5 Qc6 17. Rd1 Be6 18. b3 a4 19. Ba3 Bf8 20. Rd2 Rec8 21. Qd3
+axb3 22. axb3 Nd7 23. Rad1 Nc5 24. Qc2 Nxb3 25. Qxb3 Bxc4 26. Qe3 Qxb5 27. Bxd6
+Rd8 28. h4 Qe8 29. Bxf8 Qxf8 30. Qb6 Rxd2 31. Rxd2 Qe7 32. Bh3 Ra6 33. Qb1 b5
+34. Bf1 Rd6 35. Rb2 Kg7 36. Bxc4 bxc4 37. Rc2 Rd4 38. Qc1 Qc5 39. Qe3 Qc6 40.
+Rc3 Qxe4 41. Qxe4 Rxe4 42. Kg2 Rd4 43. Kf1 0-1

@@ -1,0 +1,18 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Lehikoinen"]
+[Black "Cappello, R."]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "00d5b91f"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 Bd6 7. dxc5
+Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Nfd4 O-O 11. Re1 Ng6 12. Nxc6 bxc6 13. Bxc6
+Bxh2+ 14. Kh1 Qh4 15. Bg5 Qxg5 16. Bxa8 Qh4 17. Qd4 Bf4+ 18. Kg1 Qh2+ 19.
+Kf1 Ba6+ 0-1
+

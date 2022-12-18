@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Panczyk"]
+[Black "Duske"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "4f7c94ca"]
+[Epoch "Bishop"]
+
+1. b4 c6 2. c4 Qb6 3. a3 a5 4. c5 Qc7 5. Bb2 b6 6. cxb6 Qxb6 7. bxa5 Qxb2
+0-1
+

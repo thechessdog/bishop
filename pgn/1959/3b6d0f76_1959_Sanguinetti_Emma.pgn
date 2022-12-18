@@ -1,0 +1,19 @@
+[Event "Quilmes"]
+[Site "Quilmes"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Sanguinetti, Raul"]
+[Black "Emma, Jaime"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "3b6d0f76"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. dxc5 Nc6 10. Bd3 Qxc5 11. Qd2 b5 12. Ne2 Bb7 13. c3 Nb6 14. Ned4 Nc4 15.
+Qf2 Nxd4 16. Nxd4 b4 17. O-O Rc8 18. b3 Na5 19. f5 O-O 20. f6 g6 21. Bxg6 Rfd8
+22. Bxh7+ Kf8 23. cxb4 Qxb4 24. Nxe6+ fxe6 25. Qg3 Ke8 26. Qg7 1-0

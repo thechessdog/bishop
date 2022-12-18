@@ -1,0 +1,24 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1961.03.01"]
+[Round "2"]
+[White "Quinones, Oscar Carillo"]
+[Black "Matanovic, Aleksandar"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "3c3f16ba"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[BlackCountry "SRB"]
+[WhiteCountry "PER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 Be7 8. Ba2
+b5 9. f4 Qc7 10. Qf3 O-O 11. Be3 Bb7 12. f5 e5 13. Nde2 Nbd7 14. O-O Nb6 15. g4
+d5 16. exd5 e4 17. Qg3 Qxg3+ 18. Nxg3 Nbxd5 19. Nxd5 Nxd5 20. Bxd5 Bxd5 21.
+Rad1 Bc6 22. Nh5 Rfd8 23. Bb6 Rxd1 24. Rxd1 f6 25. Nf4 Kf7 26. Kf2 g6 27. Nd5
+Bf8 28. Nc7 Rb8 29. Be3 a5 30. Ne6 Be7 31. Bf4 Rc8 32. Bc7 Be8 33. c3 b4 34.
+axb4 axb4 35. Ke3 bxc3 36. bxc3 Ba4 37. Rd4 Bc6 38. Ba5 h5 39. h3 hxg4 40. hxg4
+Rh8 41. Rd2 Rh3+ 42. Kd4 gxf5 43. gxf5 Rf3 44. Bc7 Rxf5 45. Nf4 Bc5+ 46. Kc4
+Be3 47. Rd5 Rxf4 0-1

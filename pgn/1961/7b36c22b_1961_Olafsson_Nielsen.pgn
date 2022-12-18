@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Olafsson, Fridrik"]
+[Black "Nielsen, Poul Erik"]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "7b36c22b"]
+[Epoch "Bishop"]
+[WhiteID "2300052"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 c5 6. Nf3 O-O 7. Rc1 Nc6 8. Bd3
+Re8 9. O-O dxc4 10. Bxc4 cxd4 11. exd4 a6 12. Re1 b5 13. Bb3 Bb7 14. d5 Nxd5
+15. Nxd5 Bxg5 16. Nxg5 Qxg5 17. h4 Qxh4 18. Nc7 Red8 19. Qc2 Nd4 20. Qc3 Nxb3
+21. Qxb3 Rac8 22. Qe3 Re8 23. Qb6 Rb8 24. Qe3 Rec8 25. Qe5 Qf6 26. Qxf6 gxf6
+27. Red1 Rd8 28. f3 Rbc8 29. Rxd8+ Rxd8 30. Rc2 Rc8 31. Rc5 Kf8 32. b4 Ke7 33.
+Kf2 Kd7 34. Nxb5 Rxc5 0-1

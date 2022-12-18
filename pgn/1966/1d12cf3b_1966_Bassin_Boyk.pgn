@@ -1,0 +1,17 @@
+[Event "Toledo,OH"]
+[Site "Toledo,OH"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Bassin, C."]
+[Black "Boyk, Daniel"]
+[Result "0-1"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "1d12cf3b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bb5+ Bd7 6. Ne5 Bxb5 7. Qf3
+f6 8. Qh5+ g6 9. Nxg6 hxg6 10. Qxh8 Nxc3 11. dxc3 Qd5 12. Bh6 Nd7 13. Rd1
+Qh5 0-1
+

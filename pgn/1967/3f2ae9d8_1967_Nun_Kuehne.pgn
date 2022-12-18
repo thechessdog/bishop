@@ -1,0 +1,20 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Nun, Jiri"]
+[Black "Kuehne, P."]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "3f2ae9d8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 Be6 8.
+b3 Nd7 9. Bb2 Bd6 10. d4 f6 11. Nc3 Qe7 12. Qe3 O-O 13. Ne2 Rae8 14. Rae1 Bf7
+15. Nh4 exd4 16. Nxd4 Qe5 17. f4 Qh5 18. Nhf5 Nc5 19. e5 fxe5 20. fxe5 Bg6 21.
+Nxg7 Kxg7 22. exd6 Kg8 23. Rxf8+ Kxf8 24. Qf2+ Kg8 25. dxc7 Ne4 26. Qf4 Qa5 27.
+Rxe4 Bxe4 28. Qxe4 Rxe4 29. c8=Q+ Kf7 30. Qxb7+ Kg8 31. Qc8+ Kf7 32. Qf5+ Qxf5
+33. Nxf5 Re2 34. Nd4 Rd2 35. Bc3 Rd1+ 36. Kf2 Rc1 37. Bd2 Rd1 38. Be3 c5 39.
+Nf3 c4 40. Ne5+ Ke6 41. Nxc4 Ra1 42. Ke2 Rxa2 43. Kd3 Ra1 44. Nd2 1-0

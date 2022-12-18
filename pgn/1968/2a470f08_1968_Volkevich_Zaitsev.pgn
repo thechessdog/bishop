@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Volkevich"]
+[Black "Zaitsev, Igor"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Treybal (Bayreuth) variation (exchange var. deferred)"]
+[HashCode "2a470f08"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. d3 Bc5 7. Nbd2 Qe7 8.
+Nc4 Ng4 9. O-O f6 10. h3 h5 11. Nh4 Qf7 12. Qe2 g5 13. Nf5 Bxf5 14. exf5 O-O-O
+15. g3 h4 16. Kg2 Nxf2 17. g4 Qd5+ 18. Kh2 e4 19. Rxf2 exd3 20. cxd3 Rhe8 21.
+Qf3 Bxf2 22. Qxf2 Qxd3 23. Ne3 Rd4 24. a4 Rc4 25. Qd2 Rxe3 0-1

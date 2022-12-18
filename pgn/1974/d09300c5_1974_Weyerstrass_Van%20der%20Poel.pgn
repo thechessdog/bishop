@@ -1,0 +1,24 @@
+[Event "Blaricum"]
+[Site "Blaricum"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Van der Poel, Henk"]
+[Result "1-0"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "d09300c5"]
+[Epoch "Bishop"]
+[BlackID "1002449"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Re8 11. Nd2 Nbd7 12. Nc4 Ne5 13. Na3 Bf5 14. e4 Bg4 15. f3
+Bc8 16. f4 Bg4 17. Qc2 Ned7 18. h3 Bh5 19. Nc4 Nb6 20. Nxb6 Qxb6 21. g4 Bxg4
+22. hxg4 Nxg4 23. Qe2 c4+ 24. Kh1 f5 25. Bh3 Qd8 26. Bxg4 Qh4+ 27. Qh2 Qxg4 28.
+Qg2 Qh5+ 29. Qh2 Qg4 30. Qg2 Qh4+ 31. Qh2 Qxh2+ 32. Kxh2 Bxc3 33. bxc3 Rxe4 34.
+Ba3 Re2+ 35. Kg1 b5 36. Rfe1 Rae8 37. Rxe2 Rxe2 38. axb5 axb5 39. Bxd6 Rd2 40.
+Ra8+ Kf7 41. Ra7+ Kg8 42. Be5 Rxd5 43. Rg7+ Kf8 44. Rxh7 g5 45. Rh5 Kf7 46.
+Rxg5 Ke6 47. Rg6+ Kf7 48. Rf6+ Ke7 49. Rxf5 Ke6 50. Rf6+ Ke7 51. Rb6 Kf7 52.
+Kf2 Ke7 53. Ke3 Kf7 54. Ke4 Rc5 55. Rb7+ Ke8 56. Kd4 Rc6 57. f5 1-0

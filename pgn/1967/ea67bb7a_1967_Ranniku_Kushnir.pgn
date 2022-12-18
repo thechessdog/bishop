@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Ranniku, Maaja"]
+[Black "Kushnir, Alla"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "ea67bb7a"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c5 5. e4 cxd4 6. Bxf6 gxf6 7. Qxd4 dxe4
+8. O-O-O a6 9. Bc4 Bg7 10. Qxe4 e6 11. g4 Qe7 12. Nge2 Nc5 13. Qe3 b5 14. Nd4
+Bb7 15. Rhe1 O-O 16. Bd5 b4 17. Bxb7 Qxb7 18. Nce2 a5 19. Ng3 a4 20. Nh5 b3 21.
+cxb3 a3 22. Nxg7 axb2+ 23. Kxb2 Qa6 24. a4 Rfc8 25. Nb5 Nxa4+ 26. bxa4 Rc4 27.
+Rd4 Qxa4 28. Rxc4 Qxc4 29. Qb3 Qc5 30. Nc3 Kxg7 31. Re2 Qg1 32. Qd1 Qb6+ 33.
+Kc2 Ra3 34. Qb1 Rxc3+ 0-1

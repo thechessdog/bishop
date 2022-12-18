@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Lazzaroni"]
+[Black "Corleo"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "9f9c18c0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. e5 Qa5+ 6. Nc3 Qxe5+ 7. Be3
+Qc7 8. Bd3 e5 9. Nf5 d5 10. Bg5 e4 11. O-O Bxf5 12. Bxf6 exd3 13. Re1+ Be6
+14. Nxd5 Qc5 15. Qh5 Kd7 16. Rad1 Qxd5 17. Rxd3 Qxd3 18. cxd3 gxf6 19. Qf3
+Nc6 20. Qxf6 Be7 21. Qf3 Rad8 22. a3 Kc8 23. Rc1 Bd5 24. Qf5+ Kb8 25. b4
+Bd6 26. Qf6 Rhg8 27. g3 Be5 28. Qh6 Nd4 29. Qe3 Nf3+ 30. Kh1 Rg5 31. Qb6
+Nxh2+ 32. Kg1 Rxg3+ 0-1
+

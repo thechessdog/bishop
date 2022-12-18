@@ -1,0 +1,21 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Ude"]
+[Black "Palmiotto"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "b7b145ec"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Bb7 9. Re1 Nc6 10. Bg5 Be7 11. a4 b4 12. Nxc6 Bxc6 13. Bxf6 Bxf6 14.
+Nd5 Bxb2 15. Rb1 Be5 16. f4 Bf6 17. Nxf6+ gxf6 18. Qd4 Rb8 19. Rbd1 Ke7 20.
+e5 fxe5 21. fxe5 Qb6 22. Qxb6 Rxb6 23. Rxd6 Rc8 24. Re3 Rb7 25. c3 a5 26.
+Kf2 bxc3 27. Rxc3 Bd7 28. Rxc8 Bxc8 29. Bc2 Rb4 30. Rc6 Bd7 31. Rc7 Kd8 32.
+Rc5 h6 33. Ke3 Bxa4 34. Bd3 Rh4 35. h3 Bb3 36. Be4 a4 37. Ra5 Kc7 38. Ra6
+Rxe4+ 0-1
+

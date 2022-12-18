@@ -1,0 +1,17 @@
+[Event "URS-chT"]
+[Site "Riga"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gorniak, Yury Yurievich"]
+[Black "Siniavsky, Alexande"]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "efcd23e4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 O-O 6. Bd3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Be2 e5 12. Qc2 Rd8 13. Bb2 h6 14. Nxe5 Nxe5
+15. dxe5 Ng4 16. c4 Nxe5 17. f4 Nc6 18. Rf3 Bf5 19. Qxf5 Rd2 20. Rg3 Rxb2 21.
+Qf6 1-0

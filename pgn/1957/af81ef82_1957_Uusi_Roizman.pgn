@@ -1,0 +1,21 @@
+[Event "Minsk zt"]
+[Site "Minsk zt"]
+[Date "1957.01.01"]
+[Round "6"]
+[White "Uusi, Gunnar"]
+[Black "Roizman, Michael"]
+[Result "1-0"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "af81ef82"]
+[Epoch "Bishop"]
+[WhiteCountry "EST"]
+[BlackID "2802953"]
+[BlackCountry "ISR"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 O-O 6. Bd3 d5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qb3 b6 10. Rd1 Bb7 11. Ne2 a5 12. a3 a4 13. Qc2 Ba5 14. Qxa4 Qc7 15.
+Qb3 Bc6 16. Bb5 Bd5 17. Bc4 Bc6 18. Ng3 Qb7 19. Be2 cxd4 20. Rxd4 e5 21. Rh4
+Bd5 22. Qd1 Rfd8 23. Qf1 e4 24. Nd4 Ne5 25. Nh5 Nxh5 26. Rxh5 Qe7 27. b4 Bxb4
+28. Bb2 Bd6 29. Nf5 Qe6 30. Nxd6 Nf3+ 31. Bxf3 exf3 32. Qd3 1-0

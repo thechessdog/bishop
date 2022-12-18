@@ -1,0 +1,21 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Bednarski, Jacek B"]
+[Black "Sakharov, Yuri Nikolaevich"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "338ee7e8"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 Nd5 14. Nxd5 cxd5
+15. Be2 dxe5 16. O-O Ra7 17. Kh1 Qc5 18. c4 d4 19. Qc2 Be7 20. Qa4+ Rd7 21. Bd2
+Rf8 22. Bh5+ g6 23. Bf3 Rxf3 24. Rxf3 e4 25. Rff1 e3 26. Bb4 Qc7 27. Ba5 Qe5
+28. Qc6 Qxa5 29. Rb8 Bd6 30. Rxc8+ Ke7 31. Qf3 Qf5 32. Qd1 Qe5 33. Rff8 Qxh2#
+0-1

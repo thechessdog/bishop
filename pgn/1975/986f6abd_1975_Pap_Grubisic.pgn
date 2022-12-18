@@ -1,0 +1,18 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pap, L."]
+[Black "Grubisic, D."]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "986f6abd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Qxd4
+Qxd4 8. Nxd4 Bd7 9. Be3 O-O-O 10. O-O-O Ne7 11. h3 c5 12. Nde2 Nc6 13. f3
+b5 14. a3 Ne5 15. Na2 Nc4 16. Bf2 Bd6 17. Rhe1 h5 18. Bg3 Ne3 19. Bxd6 Be6
+20. Rd3 Nxg2 21. Rg1 Bxa2 22. Bg3 1-0
+

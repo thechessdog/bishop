@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Krause"]
+[Black "Schreiber"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "6a047cce"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Bg4 5. e4 f5 6. Nc3 Qe7 7. d3 Nc6
+8. Be2 Nf6 9. Bg5 O-O-O 10. Nh4 Bxe2 11. Qxe2 fxe4 1-0
+

@@ -1,0 +1,16 @@
+[Event "Zagreb-B"]
+[Site "Zagreb"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Gerter"]
+[Black "Kapic, Ibrahim"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "0fa7801c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. d4 g5 5. g3 d6 6. Bc4 g4 7. Nh4 f3 8. Bf4 Nd7
+9. Qd3 Qf6 10. Nc3 c6 11. O-O-O Nb6 12. e5 dxe5 13. dxe5 Qe7 14. Bxf7+ Kxf7 15.
+Qg6# 1-0

@@ -1,0 +1,21 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Sanguinetti, J."]
+[Black "Dodero, Emilio"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "f4048d9e"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. Nf3 O-O 6. d5 d6 7. O-O Na6 8. Nc3
+Nc7 9. h3 Rb8 10. a4 a6 11. a5 Nd7 12. Qc2 b5 13. axb6 Nxb6 14. b3 Bf5 15. Qd2
+Qc8 16. Kh2 e6 17. dxe6 Bxe6 18. Bb2 d5 19. Nxd5 Ncxd5 20. Bxg7 Kxg7 21. cxd5
+Nxd5 22. Ng5 Rd8 23. Rfd1 Nc7 24. Qc3+ Kg8 25. Ne4 Ne8 26. Rxd8 Qxd8 27. Nxc5
+Nc7 28. Nxe6 fxe6 29. Qc6 Qe7 30. Rc1 Ne8 31. Qxa6 Rxb3 32. Rc8 Kf7 33. Bc6 Nf6
+34. Ra8 Nd7 35. Bxd7 1-0

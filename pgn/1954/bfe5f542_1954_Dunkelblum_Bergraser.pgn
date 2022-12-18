@@ -1,0 +1,18 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Dunkelblum, Arthur"]
+[Black "Bergraser, Volf"]
+[Result "1/2-1/2"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "bfe5f542"]
+[Epoch "Bishop"]
+[WhiteCountry "BEL"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Nbd7 5. Nf3 Be7 6. O-O O-O 7. Nbd2 Re8 8.
+Qc2 b6 9. b3 Bb7 10. Bb2 c5 11. Rfd1 Rc8 12. Ne5 cxd4 13. Bxd4 Nxe5 14. Bxe5
+Nd7 15. Bb2 Bf6 16. Rac1 Qe7 17. Qb1 Bxb2 18. Qxb2 Nf6 1/2-1/2

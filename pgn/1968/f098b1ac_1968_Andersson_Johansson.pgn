@@ -1,0 +1,17 @@
+[Event "corr ch-SWE"]
+[Site "corr ch-SWE"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Andersson, Arne"]
+[Black "Johansson, Martin"]
+[Result "1-0"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "f098b1ac"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. O-O a6 8. a3
+Qc7 9. Ba2 b5 10. Be3 Bb7 11. Qe2 Na5 12. f3 Nc4 13. Ndxb5 axb5 14. Nxb5 Qa5
+15. Bxc4 Be7 16. Rfd1 1-0

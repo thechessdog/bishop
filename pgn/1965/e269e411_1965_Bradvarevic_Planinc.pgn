@@ -1,0 +1,18 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Bradvarevic, Aleksandar"]
+[Black "Planinc, Albin"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "e269e411"]
+[Epoch "Bishop"]
+[BlackCountry "SVN"]
+[WhiteCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Ng8 5. Bd3 c5 6. c3 Nc6 7. Ne2 Bd7 8. O-O
+Qc7 9. f4 Nh6 10. Nf3 c4 11. Bc2 O-O-O 12. b3 Na5 13. f5 Nxf5 14. Ng5 Be8 15.
+b4 Nc6 1/2-1/2

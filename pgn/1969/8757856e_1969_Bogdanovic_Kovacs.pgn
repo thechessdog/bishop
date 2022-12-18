@@ -1,0 +1,25 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1969.03.01"]
+[Round "4"]
+[White "Bogdanovic, Rajko"]
+[Black "Kovacs, Laszlo M"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "8757856e"]
+[Epoch "Bishop"]
+[WhiteID "14400316"]
+[WhiteCountry "BIH"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 f6 9. Nh4 g6 10. f4 exf4 11. Rxf4 Ne5 12. Rf1 Qd4+ 13. Kh1 Ng4 14. Qe1 Be6
+15. Nhf3 Qd7 16. d4 O-O-O 17. c4 h5 18. a3 c5 19. d5 Bf7 20. Rb1 Bd6 21. b4
+Rhe8 22. bxc5 Bxc5 23. Nb3 Bb6 24. h3 f5 25. e5 Bxd5 26. cxd5 Qxd5 27. Bg5 Rd7
+28. Bf4 Nf6 29. Nbd2 Ne4 30. Nxe4 fxe4 31. Ng5 Ba5 32. Qxe4 Qxe4 33. Nxe4 Rd4
+34. Nf6 Re6 35. Rbd1 Ra4 36. Rd3 b5 37. Nd7 Re8 38. g3 Rc4 39. h4 Bc3 40. Rfd1
+Bb2 41. Re1 Re6 42. Re2 Bxa3 43. Rxa3 Kxd7 44. Rea2 Rcc6 45. Kg2 Kc8 46. Kf3
+Kb7 47. Ke4 Re8 48. Rd3 Rc4+ 49. Rd4 Rc3 50. Rd7 b4 51. Rd3 Rc5 52. Rd5 Rc3 53.
+Rd3 Rc5 54. Rd5 Rc3 55. Ra4 c5 56. Rd7+ Kc6 57. Rd6+ Kb5 58. Raxa6 Rb8 59. e6
+b3 60. e7 Re8 61. Rdb6+ Kc4 62. Ra4# 1-0

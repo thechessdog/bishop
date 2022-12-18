@@ -1,0 +1,18 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Mnatsakanian, Eduard A"]
+[Black "Simagin, Vladimir"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "c6e9e62e"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "ARM"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Be7 7. Qh5 O-O
+8. Ne2 g6 9. Qh6 Bf5 10. Bb3 c5 11. Be3 Nc6 12. O-O-O c4 13. Bxc4 Nb4 14. Bb3
+Rc8 15. Nc3 Qa5 16. Kb1 Rxc3 17. bxc3 Bxc2+ 0-1

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Kotek"]
+[Black "Giselbrecht"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "dfd6659b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Ng5 O-O 6. c3 d5 7. exd5 Nxd5
+8. Nxh7 Bh4+ 9. g3 fxg3 10. hxg3 Bxg3+ 11. Kf1 Ne3+ 0-1
+

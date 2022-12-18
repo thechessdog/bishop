@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Voelklingen"]
+[Date "1970.01.01"]
+[Round "5"]
+[White "Schmid, Lothar Maximilian Lorenz"]
+[Black "Bever, A."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "4600d864"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 Bg4 7. Be2 e6 8.
+Nc3 Qa5 9. O-O Nf6 10. h3 Bh5 11. Ne5 Bxe2 12. Nxc6 Qxc3 13. bxc3 Bxd1 14. Na5
+Be2 15. Re1 Ba6 16. Rb1 b6 17. Nc6 Bd6 0-1

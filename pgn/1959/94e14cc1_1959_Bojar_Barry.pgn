@@ -1,0 +1,20 @@
+[Event "Providence"]
+[Site "Providence"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Bojar"]
+[Black "Barry"]
+[Result "0-1"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "94e14cc1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Qa4+ Qxa4
+8. Nxa4 dxc4 9. Bxc4 O-O 10. Ne2 Bd7 11. Nac3 Bc6 12. f3 Nbd7 13. b4 Nd5
+14. Nxd5 Bxa1 15. Nxe7+ Kh8 16. b5 Bxb5 17. Bxb5 Nxc5 18. Bd6 Ne6 19. Kf2
+Bf6 20. Nd5 Bh4+ 21. g3 Rad8 22. Be5+ Kg8 23. Nf6+ Bxf6 24. Bxf6 Rd2 25.
+Bc4 Rc8 26. Bb3 Nc5 27. Rc1 Nd3+ 28. Kf1 Nxc1 29. Nd4 Nxb3 30. Nxb3 Rxa2
+0-1
+

@@ -1,0 +1,22 @@
+[Event "Mladenovac"]
+[Site "Mladenovac"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Forintos, Gyozo V"]
+[Black "Martinovic, Slobodan"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "a3e88318"]
+[Epoch "Bishop"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. a3 Bxc3+ 7. Qxc3 a5 8. b3
+Qe7 9. Bb2 O-O 10. e3 Re8 11. Be2 e5 12. d5 Nb8 13. Qc2 Nbd7 14. O-O e4 15. Nd4
+Ne5 16. Rae1 Bd7 17. Kh1 c5 18. dxc6 bxc6 19. f4 Nd3 20. Bxd3 exd3 21. Qxd3 Ne4
+22. f5 f6 23. Rf4 c5 24. Nc2 Bc6 25. b4 axb4 26. axb4 Reb8 27. b5 Bb7 28. Rd1
+Ra4 29. Kg1 Rba8 30. h3 h6 31. Kh2 Kh7 32. Ra1 Rxa1 33. Nxa1 Ra2 34. Qb1 Nc3
+35. Qc2 Na4 36. Rg4 Rxb2 37. Qxa4 Qe5+ 38. Kg1 Qxe3+ 39. Kh2 Qe5+ 0-1

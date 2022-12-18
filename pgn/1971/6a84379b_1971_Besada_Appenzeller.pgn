@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Besada, J."]
+[Black "Appenzeller, P."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "6a84379b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nd4 7. c3 Nxd5
+8. Nxf7 Kxf7 9. cxd4 exd4 10. Qf3+ Nf6 11. Qxa8 Bc5 12. Qf3 Re8+ 13. Be2 d3
+14. h3 Rxe2+ 15. Kd1 Bb7 16. Qxb7 Ne4 17. Rf1 Nxf2+ 18. Rxf2+ Rxf2 0-1
+

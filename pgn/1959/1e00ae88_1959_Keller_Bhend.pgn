@@ -1,0 +1,22 @@
+[Event "Zuerich"]
+[Site "Zuerich"]
+[Date "1959.05.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "Bhend, Edwin"]
+[Result "0-1"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Keres variation"]
+[HashCode "1e00ae88"]
+[Epoch "Bishop"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+[BlackID "1300288"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Ne2 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd3 Be7 8.
+O-O-O a6 9. f4 Bd7 10. Nxc6 Bxc6 11. f5 exf5 12. exf5 O-O 13. Kb1 Re8 14. Qd4
+Qa5 15. Bd3 b5 16. Rhe1 b4 17. Ne4 Nxe4 18. Bxe4 Bxg5 19. Bxc6 Rxe1 20. Bxa8
+Qe5 21. Qd3 Bf6 22. c3 bxc3 23. bxc3 Rxd1+ 24. Qxd1 Qxc3 25. Qb3 Qe1+ 26. Kc2
+Qe2+ 27. Kc1 Bg5+ 28. Kb1 Qe1+ 0-1

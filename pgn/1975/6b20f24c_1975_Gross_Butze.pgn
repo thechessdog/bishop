@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gross, Stefan"]
+[Black "Butze, Roland"]
+[Result "0-1"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Classical variation"]
+[HashCode "6b20f24c"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Bc4 Bc5 3. Qf3 Qf6 4. Qg3 d6 5. Nf3 Be6 6. Bb5+ Nd7 7. Bxd7+ Bxd7
+8. d3 Ne7 9. Bg5 Qg6 10. Nh4 Qh5 11. Bxe7 Kxe7 12. f4 Bd4 13. c3 exf4 14. Qxf4
+Be5 15. Nf5+ Bxf5 16. Qxf5 Qh4+ 17. Qf2 Qh6 18. g3 Qc1+ 19. Ke2 Qxh1 20. a3 h5
+21. Kd2 h4 22. gxh4 Qxh2 23. Qxh2 Bxh2 24. Kc2 Bf4 25. Kb3 Rxh4 0-1

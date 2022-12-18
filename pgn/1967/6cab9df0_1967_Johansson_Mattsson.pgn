@@ -1,0 +1,18 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Johansson, Martin"]
+[Black "Mattsson, Bertil"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "6cab9df0"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. Qxd4 Nc6 10. Qf2 Nb6 11. hxg6 fxg6 12. Bd3 Nb4 13. Be4 Qe8 14. a3 Nc6
+15. e6 Bxe6 16. Ng5 Bf5 17. Rxh7 e5 18. Qh4 Rf6 19. Bd5+ Be6 20. Rxg7+ Kxg7 21.
+Qh7+ Kf8 22. Nxe6+ Rxe6 23. f5 1-0

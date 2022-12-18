@@ -1,0 +1,17 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Shneider, Aleksandr"]
+[Black "Eitel, Harald"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "c2556278"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8. c3
+d6 9. d4 Bb6 10. Bg5 h6 11. Bh4 O-O 12. a4 Qe7 13. axb5 axb5 14. Rxa8 Bxa8 15.
+Na3 b4 16. Nc4 Ba7 17. Ne3 exd4 18. Nd5 Qd8 19. Bxf6 gxf6 20. Nh4 Kh7 21. Nf5
+Rg8 22. cxd4 Na5 23. Nde7 1-0

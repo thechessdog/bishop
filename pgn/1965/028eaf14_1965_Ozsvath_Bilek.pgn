@@ -1,0 +1,19 @@
+[Event "HUN-ch20"]
+[Site "Hungary"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Ozsvath, Andras"]
+[Black "Bilek, Istvan"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "028eaf14"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 Nf6 5. Qe2 a6 6. Ba4 e5 7. O-O Be7 8. d4
+O-O 9. dxe5 Nxe5 10. Nxe5 dxe5 11. c4 Qd4 12. Nc3 Bg4 13. Qc2 Be6 14. a3 Rad8
+15. Rd1 Qxc4 16. Bf4 exf4 17. b3 Qd4 18. Rxd4 cxd4 19. e5 dxc3 20. exf6 Bxf6
+21. b4 b5 22. Bb3 Rd2 0-1

@@ -1,0 +1,19 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Klein"]
+[Black "Hillebrand"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "c946cb59"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 O-O 7. Be2 e6 8. Nf3
+exd5 9. e5 dxe5 10. fxe5 Ng4 11. Bg5 Qd7 12. Nxd5 Nxe5 13. Nxe5 Bxe5 14.
+Bf6 Bd6 15. Qd2 Re8 16. Bc3 Re6 17. Nf6+ Rxf6 18. Bxf6 Qe6 19. O-O Nd7 20.
+Bc3 Ne5 21. Rad1 Bc7 22. Bf3 Qe7 23. Qh6 Nxf3+ 24. Rxf3 Qf8 25. Qg5 f5 26.
+Re3 Bd6 27. Rxd6 1-0
+

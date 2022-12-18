@@ -1,0 +1,19 @@
+[Event "Stockholm SWE-FRG"]
+[Site "Stockholm SWE-FRG"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Darga"]
+[Black "Horberg"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "c3095edf"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Be6 10. a4 Nc6 11. f4 exf4 12. Bxf4 Qb6+ 13. Kh1 Bxb3 14.
+cxb3 Na5 15. Nd5 Nxd5 16. Qxd5 Qc5 17. b4 Qxd5 18. exd5 Nb3 19. Rad1 b5 20.
+a5 Rfe8 21. Bg4 Bf6 22. Bxd6 Re4 23. Bf3 Rd4 24. Bc5 Nxc5 25. bxc5 Rxd1 26.
+Rxd1 1-0
+

@@ -1,0 +1,17 @@
+[Event "Trouville"]
+[Site "Trouville"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Roterman"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Keres variation"]
+[HashCode "ab708e0a"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nd2 exd3 6. Bxd3 Qxd5 7. Qe2+ Be7 8.
+Ngf3 O-O 9. O-O Re8 10. Ne5 Nc6 11. c3 Bg4 12. Ndf3 Bc5+ 13. Kh1 Bxf3 14. Rxf3
+Kf8 15. Bc4 Nxe5 16. Bxd5 Nxf3 17. Bxf3 Rxe2 18. Bxe2 Re8 0-1

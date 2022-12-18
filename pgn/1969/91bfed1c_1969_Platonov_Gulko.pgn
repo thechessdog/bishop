@@ -1,0 +1,24 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Platonov, Igor"]
+[Black "Gulko, Boris"]
+[Result "1-0"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "91bfed1c"]
+[Epoch "Bishop"]
+[WhiteID "24197190"]
+[WhiteCountry "UKR"]
+[BlackID "2000040"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2 f5
+9. O-O-O f4 10. Bf2 Bf6 11. Nge2 Bh4 12. Bg1 Na6 13. Kb1 g5 14. Nc1 g4 15. Nd3
+gxf3 16. gxf3 Qe7 17. b4 Kh8 18. Rc1 Rg8 19. c5 Nf6 20. Nb5 Bd7 21. Nxc7 Nxc7
+22. cxd6 Qxd6 23. Bc5 Nxe4 24. fxe4 Qg6 25. Nxf4 exf4 26. Bd4+ Rg7 27. Rxc7 Bf6
+28. Bxf6 Qxf6 29. Qb2 Qxb2+ 30. Kxb2 Re8 31. Rxd7 Rxd7 32. Bb5 Rdd8 33. Bxe8
+Rxe8 34. Re1 f3 35. Kc3 f2 36. Rf1 Rxe4 37. Rxf2 Kg7 38. d6 Re6 39. Rd2 Re8 40.
+Kd4 Rc8 41. Kd5 Kf7 42. d7 1-0

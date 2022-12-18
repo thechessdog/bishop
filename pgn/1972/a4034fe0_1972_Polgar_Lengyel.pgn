@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Polgar, Istvan"]
+[Black "Lengyel, Levente"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "a4034fe0"]
+[Epoch "Bishop"]
+[WhiteID "700215"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 Bd6 8.
+Qh5+ g6 9. Qf3 Bd7 10. Bf4 Qe7 11. Nc3 O-O-O 12. Rad1 h5 13. Qe3 Bxf4 14. Qxf4
+Nh6 15. Qe3 b6 16. f3 Kb7 17. Rd3 Nf7 18. f4 Nd6 1/2-1/2

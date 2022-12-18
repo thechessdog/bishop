@@ -1,0 +1,22 @@
+[Event "Pardubice"]
+[Site "Pardubice"]
+[Date "1965.01.01"]
+[Round "10"]
+[White "Nowak, Erwin"]
+[Black "Smejkal, Jan"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "6bd7e2da"]
+[Epoch "Bishop"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Be7 9. Qf3 Nbd7 10. O-O-O Qc7 11. g4 h6 12. Bh4 b5 13. a3 Bb7 14. Bg3 Rc8 15.
+Bd3 d5 16. exd5 Bxa3 17. Ne4 Bxd5 18. Kb1 Be7 19. Qe2 Qb7 20. Nbd2 Nxe4 21.
+Bxe4 Nf6 22. Bxd5 Nxd5 23. h4 Qb6 24. Rhe1 O-O 25. g5 h5 26. f5 Qc6 27. Nb3 Bb4
+28. Rf1 exf5 29. Nd4 Qc4 30. c3 Bxc3 31. Qxc4 Rxc4 32. Nxf5 Rb4 33. Rxd5 Rxb2+
+34. Kc1 Ra2 35. Ne7+ Kh7 36. g6+ fxg6 37. Rxf8 b4 38. Rdd8 1-0

@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Vitolinsh, Alvis"]
+[Black "Faibisovich, Vadim Z"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "aae9311b"]
+[Epoch "Bishop"]
+[BlackID "4102703"]
+[BlackCountry "RUS"]
+[WhiteCountry "LVA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. O-O O-O 8. c3
+d6 9. h3 h6 10. Rd1 Re8 11. d4 exd4 12. cxd4 Rxe4 13. Be3 Bb6 14. Qc2 Bb7 15.
+Nc3 Nb4 16. Qd2 Re8 17. Bxh6 Bxf3 18. Qg5 Nh5 19. gxf3 Qxg5+ 20. Bxg5 Rab8 21.
+Rd2 c5 22. dxc5 dxc5 23. a3 Nc6 24. Kf1 Nd4 25. Bd1 Ne6 26. Be3 Nf6 27. Nd5
+Nxd5 28. Rxd5 Red8 29. Rxd8+ Bxd8 30. Rc1 Bf6 31. Bxc5 Bxb2 32. Rc2 Rd8 33. Be2
+Rc8 34. Rxb2 Rxc5 35. Kg2 Rc3 36. a4 Nf4+ 37. Kg3 Nxe2+ 38. Rxe2 b4 39. Kf4 Ra3
+40. Ke5 Rxa4 41. Kd4 Ra3 42. Kc4 a5 43. Re5 Rxf3 44. Rxa5 Rxf2 45. Kxb4 0-1

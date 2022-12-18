@@ -1,0 +1,22 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "f2b92f1e"]
+[Epoch "Bishop"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. d3
+Qd7 9. Nbd2 g5 10. Nf1 Rg8 11. d4 b5 12. Bb3 Nh5 13. h3 Bxf3 14. Qxf3 Nf4 15.
+Bxf4 gxf4 16. Bd5 Rg5 17. Rad1 Rb8 18. dxe5 Nxe5 19. Qxf4 Qxh3 20. Qxg5 Nf3+
+21. gxf3 Bxg5 22. e5 Kf8 23. Re4 dxe5 24. Rxe5 Bf4 25. Re4 Rb6 26. Bxf7 Rh6 27.
+Rd8+ Kg7 0-1

@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Marovic, Drazen"]
+[Black "Tatai, Stefano"]
+[Result "1/2-1/2"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "d1ad7663"]
+[Epoch "Bishop"]
+[BlackCountry "ITA"]
+[WhiteID "14500183"]
+[WhiteCountry "CRO"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. Nc3 Nbd7 7. O-O e5 8. e4
+c6 9. h3 Qb6 10. Re1 Re8 11. d5 Nc5 12. Rb1 cxd5 13. cxd5 a5 14. Be3 Bd7 15.
+Nd2 Qc7 16. Qe2 Rec8 17. Rec1 Ne8 1/2-1/2

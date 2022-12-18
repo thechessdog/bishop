@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bogomolov, E."]
+[Black "Yudovich, Mikhail"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "9e15a10f"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. d3 d6 8. c3
+Be6 9. Nbd2 O-O 10. Nf1 Ne7 11. Ng3 Ng6 12. h3 Nf4 13. Bxf4 exf4 14. Nf1 Bxb3
+15. axb3 d5 16. e5 d4 17. N1d2 Re8 18. O-O dxc3 19. bxc3 Nd5 20. Ne4 Be7 21. c4
+Nb4 22. d4 bxc4 23. bxc4 Qd7 24. d5 a5 25. Qd2 Qf5 26. Rfe1 Red8 27. Qc3 Na6
+28. Nd4 Qh5 29. Qd2 Bb4 30. Qxf4 Bxe1 31. Rxe1 Nb4 32. Re3 a4 33. Rg3 Kh8 34.
+Nf5 Rg8 35. Rg5 Qd1+ 36. Kh2 Ra6 37. e6 fxe6 38. Nh6 Re8 39. Nf7+ Kg8 40. Rxg7+
+Kxg7 41. Qf6+ 1-0

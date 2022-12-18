@@ -1,0 +1,17 @@
+[Event "corr Switzerland"]
+[Site "corr Switzerland"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Borsdorff, F."]
+[Black "Heuberger"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "acbb43b9"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 Nc6 3. Nc3 dxe4 4. d5 Nb8 5. Bg5 h6 6. Bh4 g5 7. Qd4 Nf6 8.
+Bg3 Bg7 9. Be5 Bf5 10. Nb5 O-O 11. Nxc7 Nbd7 12. Nxa8 Nxe5 13. Qxe5 Nxd5
+14. Qxf5 Qa5+ 0-1
+

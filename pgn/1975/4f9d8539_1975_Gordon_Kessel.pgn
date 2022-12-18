@@ -1,0 +1,18 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gordon"]
+[Black "Kessel"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "4f9d8539"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 e6 4. Nf3 g6 5. d3 Bg7 6. Bf4 Nge7 7. Bd6 b6 8.
+O-O O-O 9. Nb5 a6 10. Bc7 axb5 11. Bxd8 Rxd8 12. Bxb5 Bxb2 13. a4 Bxa1 14.
+Qxa1 Kf8 15. Qh8+ Ng8 16. Qxh7 Nf6 17. Qh4 Ke7 18. Bxc6 dxc6 19. e5 g5 20.
+Qxg5 1-0
+

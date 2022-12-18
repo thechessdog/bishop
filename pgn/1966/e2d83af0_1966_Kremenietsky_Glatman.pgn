@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Kremenietsky, Anato"]
+[Black "Glatman"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "e2d83af0"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Nge2 Nbd7 9. g3 Nb6 10. Bg2 Bf5 11. O-O Qd7 12. Re1 Rfd8 13. Nf4 g5 14.
+d6 Qxd6 15. Nfe2 h6 16. Nb5 Qd7 17. Nxa7 Nfd5 18. Nb5 Be6 19. Na3 Nf4 20.
+Qxb6 Nxg2 21. Rf1 Bd5 22. Qb5 Qh3 23. f3 Ne1 24. Kf2 Nxf3 25. Nc2 Nxh2 26.
+Rg1 Qf5+ 0-1
+

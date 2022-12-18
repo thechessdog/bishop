@@ -1,0 +1,16 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Lapienis, Donatas"]
+[Black "Koblents, Alexander"]
+[Result "0-1"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "cfd7e4d1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. cxd5 Nxd5 7. O-O Na6
+8. e4 Nb6 9. a4 c5 10. d5 e6 11. Nc3 exd5 12. exd5 Nc4 13. Qb3 Nd6 14. Bf4
+Nb4 15. Rfd1 Bf5 16. Rd2 a5 17. Be3 Rc8 18. Nh4 Bc2 0-1
+

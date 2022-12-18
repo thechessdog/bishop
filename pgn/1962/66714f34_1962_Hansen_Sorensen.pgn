@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Hansen, Poul Martin"]
+[Black "Sorensen, Jens"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "66714f34"]
+[Epoch "Bishop"]
+[WhiteID "1412388"]
+[BlackID "1412817"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d6 7. O-O Bxc3 8. bxc3
+Nc6 9. Qc2 e5 10. h3 Qe7 11. Be2 Ne8 12. d5 Na5 13. e4 f5 14. Bg5 Qf7 15. Bd8
+fxe4 16. Ng5 Qg6 17. h4 h6 18. h5 Qf5 19. g4 Qf4 20. Nh3 Qf7 21. Bh4 Nxc4 22.
+Bxc4 Qf3 23. Kh2 Qxg4 24. Bg3 Qxh3+ 25. Kg1 Bg4 0-1

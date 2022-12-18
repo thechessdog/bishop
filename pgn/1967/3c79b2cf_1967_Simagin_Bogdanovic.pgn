@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1967.01.01"]
+[Round "12"]
+[White "Simagin, Vladimir"]
+[Black "Bogdanovic, Rajko"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[HashCode "3c79b2cf"]
+[Epoch "Bishop"]
+[BlackID "14400316"]
+[BlackCountry "BIH"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bc1 Nc6 10. d5 Ne7 11. O-O Kh8 12. Ne1 Nh6 13. Nc2 f5 14. f4 exf4 15.
+Bxf4 Nf7 16. exf5 Nxf5 1/2-1/2

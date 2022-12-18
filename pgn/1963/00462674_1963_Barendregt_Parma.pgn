@@ -1,0 +1,22 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1963.08.01"]
+[Round "4"]
+[White "Barendregt, Johan Teunis"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "00462674"]
+[Epoch "Bishop"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Qe2 Bxb5 5. Qxb5+ Qd7 6. Qxd7+ Nxd7 7. c4 g6
+8. Nc3 Ngf6 9. d3 Bg7 10. h3 O-O 11. Be3 Rfc8 12. Ke2 Nb8 13. Rab1 Nc6 14. a3
+Nd7 15. Rhc1 a6 16. b4 Nd4+ 17. Bxd4 cxd4 18. Nd1 e6 19. a4 a5 20. b5 Nc5 21.
+Nb2 f5 22. exf5 gxf5 23. g4 fxg4 24. hxg4 Rf8 25. Rg1 d5 26. Rbc1 Rac8 27. Rg3
+e5 28. Nh4 Bf6 29. Nf5 Bg5 30. Rh1 dxc4 31. Nxc4 e4 32. Ncd6 Nxd3 33. Nxc8 Nf4+
+34. Kd1 Rxc8 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Suetin, Alexey S"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "ec53519a"]
+[Epoch "Bishop"]
+[BlackID "4611284"]
+[WhiteCountry "RUS"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Nbc6 8. Nf3
+Qa5 9. Bd2 Bd7 10. Be2 c4 11. O-O f6 12. Re1 fxe5 13. Nxe5 Nxe5 14. dxe5 O-O
+15. Qc1 1/2-1/2

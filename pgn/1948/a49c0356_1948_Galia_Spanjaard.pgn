@@ -1,0 +1,19 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Galia"]
+[Black "Spanjaard"]
+[Result "0-1"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "classical"]
+[HashCode "a49c0356"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. O-O Bg7
+8. Nb3 O-O 9. f4 b5 10. Bf3 Qb6+ 11. Kh1 b4 12. Nd5 Nxd5 13. exd5 Na5 14.
+Nxa5 Qxa5 15. Re1 Qc7 16. a3 Bf5 17. Be4 Bxe4 18. Rxe4 Rfc8 19. axb4 Qxc2
+20. Qxc2 Rxc2 21. Rxe7 Kf8 22. Rb7 Re8 23. h4 Bd4 24. f5 Re1+ 25. Kh2 Rexc1
+26. f6 Bxf6 27. Raxa7 Be5+ 28. Kh3 h5 0-1
+

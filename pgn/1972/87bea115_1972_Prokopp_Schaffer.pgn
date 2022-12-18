@@ -1,0 +1,24 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Prokopp, H."]
+[Black "Schaffer, H."]
+[Result "0-1"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "87bea115"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 Be7 7. c3 O-O 8.
+h3 Nd7 9. d3 Nc5 10. Bc2 f5 11. Nbd2 f4 12. d4 Nd7 13. a4 Qe8 14. b4 Bf6
+15. d5 Ne7 16. c4 g5 17. Nh2 h5 18. Ra3 a5 19. b5 Nc5 20. Bd3 Kg7 21. Be2
+Rh8 22. Rc3 b6 23. Ba3 Nb7 24. Nb3 Bd7 25. f3 Qf7 26. Nd2 Rag8 27. Nb3 Kf8
+28. Qc2 Rg6 29. Rc1 Qh7 30. Qd1 Ng8 31. c5 bxc5 32. Nxc5 dxc5 33. Bxc5+
+Nxc5 34. Rxc5 Bd8 35. Rxc7 Bxc7 36. Rxc7 Qe7 37. Qd2 Qd6 38. Qxa5 Ke7 39.
+Qa7 Qb6+ 40. Qxb6 Rxb6 41. a5 Rb8 42. b6 Kd6 43. Nf1 Rc8 44. Rxc8 Bxc8 45.
+Nd2 Kc5 46. Nc4 Nf6 47. Nxe5 Re8 48. Nd3+ Kb5 49. Nb2+ Kxa5 50. Nc4+ Kb4
+51. Nd6 Rd8 52. b7 Bd7 53. Ba6 Rb8 54. Nf7 Bb5 55. Bxb5 Kxb5 56. Nxg5 h4
+57. Ne6 Nh5 58. d6 Rxb7 59. e5 Kc4 0-1
+

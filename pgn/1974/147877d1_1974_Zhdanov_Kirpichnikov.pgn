@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Zhdanov, Igor"]
+[Black "Kirpichnikov, Vladi"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "147877d1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d3 f6 7. Be3 Bg4
+8. Nbd2 O-O-O 9. Rb1 Ne7 10. b4 Ng6 11. a4 Qd7 12. Qc1 Nf4 13. Bxf4 exf4
+14. d4 g5 15. c3 h5 16. Qc2 b6 17. Qd3 Kb7 18. Nb3 Be7 19. Nfd2 f5 20. e5
+h4 21. f3 Bh5 22. Nc4 h3 23. b5 axb5 24. axb5 cxb5 25. Nba5+ Ka7 26. Nxb6
+cxb6 27. Rxb5 Rh6 28. Rfb1 Be8 29. Nc4 Qxb5 30. Rxb5 Bxb5 31. Qc2 Bxc4 0-1
+

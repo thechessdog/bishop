@@ -1,0 +1,23 @@
+[Event "LAT-ch"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Klovans, Janis"]
+[Black "Petkevich, Jusefs"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "e4be436e"]
+[Epoch "Bishop"]
+[BlackID "11600110"]
+[WhiteCountry "LVA"]
+[BlackCountry "LAT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. Nf1 Rac8 15.
+Bb1 Nc6 16. d5 Nb4 17. Ne3 a5 18. Nf5 Bd8 19. Qe2 g6 20. Nh6+ Kg7 21. Ng4 Ng8
+22. Ne3 f5 23. exf5 Nxd5 24. Nxd5 Bxd5 25. fxg6 hxg6 26. Qxb5 Bxf3 27. gxf3
+Rxf3 28. Be4 Rxh3 29. Be3 Qe7 30. Rad1 Rh4 31. Bg2 Rcc4 32. Qa6 Bc7 33. Rc1
+Rcg4 34. Kf1 Qf7 35. Qc8 Rc4 36. b3 Ne7 37. Qd7 Rxc1 38. Rxc1 Bb8 39. Bg5 Nf5
+40. Qxf7+ Kxf7 41. Bxh4 Nxh4 42. Rc8 Ba7 43. Rc7+ 1-0

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Schlieder, R."]
+[Black "Rittner, H."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "f990a519"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 a5 7. Bd3 Bd7 8. Bc2
+f5 9. O-O cxd4 10. cxd4 Nge7 11. Nc3 Ng6 12. Re1 Be7 13. Bxf5 exf5 14. Nxd5
+Qd8 15. Nxe7 Ncxe7 16. d5 Nc8 17. Bg5 Qb6 18. Be3 Qa6 19. e6 Bb5 20. Ng5 h6
+21. Qh5 1-0
+

@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Yim, Tynu"]
+[Black "Shereshevsky, Mikha"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "92a87578"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Nge2 Re8 9. g3 e6 10. dxe6 Bxe6 11. Qxb7 Nbd7 12. Bg2 Rb8 13. Qxa7 Bc4
+14. Bf3 Nd5 15. Qa4 N7b6 16. Qc2 Qf6 17. Bxd5 Nxd5 18. Nxd5 Bxd5 19. Rf1
+Qxd4 20. Be3 Qg4 21. Nc3 Bc4 22. Nd1 Bxf1 23. Kxf1 Qf3 24. Kg1 h5 25. Qc4
+Rbd8 26. Qf1 h4 27. a4 hxg3 28. hxg3 Rd5 29. Nc3 Bxc3 30. bxc3 Rxe3 31.
+fxe3 Qxg3+ 32. Qg2 Qxe3+ 33. Kf1 Rf5+ 0-1
+

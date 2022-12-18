@@ -1,0 +1,15 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Lorinczi, P."]
+[Black "Kadiri, Mokhtar"]
+[Result "1/2-1/2"]
+[ECO "A86"]
+[Opening "Dutch with c4 & g3"]
+[HashCode "43c2c43a"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. g3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg2 d6 6. Nf3 c6 7. O-O O-O 8. Re1
+Ne4 9. Nd2 Nxc3 10. bxc3 Nd7 11. e4 e5 12. exf5 Rxf5 13. Bh3 Rf8 14. Be6+ Kh8
+15. Qe2 Bf6 1/2-1/2

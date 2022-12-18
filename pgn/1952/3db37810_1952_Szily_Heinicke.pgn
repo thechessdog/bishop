@@ -1,0 +1,21 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Szily, Jozsef"]
+[Black "Heinicke, Herbert"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "3db37810"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "DEU"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bg5 h6 6. Be3 c6 7. h3 O-O 8. Qd2
+Kh7 9. Bd3 Qa5 10. a3 e5 11. g4 Ng8 12. O-O-O Na6 13. dxe5 dxe5 14. Nb1 Qxd2+
+15. Nbxd2 b5 16. c4 Rd8 17. Be2 b4 18. a4 f6 19. Nb3 Rxd1+ 20. Rxd1 Bf8 21. c5
+Nc7 22. Bc4 Ne6 23. Na5 g5 24. Nxc6 Ne7 25. Nxb4 Kg7 26. Nd5 Nc6 27. b4 Rb8 28.
+Bb5 Ned8 29. Bxc6 Nxc6 30. b5 Na5 31. c6 a6 32. Nc7 Ba3+ 33. Kc2 Nxc6 34. bxc6
+Rb2+ 35. Kc3 1-0

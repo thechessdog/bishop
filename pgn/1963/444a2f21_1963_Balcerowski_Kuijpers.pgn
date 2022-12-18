@@ -1,0 +1,26 @@
+[Event "Alekhine mem"]
+[Site "Moscow"]
+[Date "1963.01.01"]
+[Round "3"]
+[White "Balcerowski, Witold"]
+[Black "Kuijpers, Frans"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "444a2f21"]
+[Epoch "Bishop"]
+[BlackID "1000349"]
+[BlackCountry "NED"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 a6 10. O-O-O Nbd7 11. Kb1 b5 12. Rc1 Nc5 13. b4 Nb7 14. Rc2 Bd7 15. Bd3
+Qe7 16. Nge2 Rfb8 17. Rhc1 Ne8 18. Rb2 f5 19. Qd1 Qh4 20. h3 Bh6 21. Bxh6 Qxh6
+22. a4 Nd8 23. axb5 axb5 24. exf5 gxf5 25. Qc2 Ng7 26. g4 Qxh3 27. Ng1 Qh6 28.
+gxf5 Rc8 29. Nge2 Kh8 30. f6 Ne8 31. Bf5 Bxf5 32. Qxf5 Qxf6 33. Qd3 Ra3 34.
+Qxb5 Qg6+ 35. Ne4 Rca8 36. Rc3 Ra1+ 37. Kc2 Nf6 38. Qd3 Re1 39. Kb3 Qe8 40. b5
+Nxe4 41. fxe4 Nb7 42. Rc6 Nc5+ 43. Rxc5 dxc5 44. Nc3 Rc1 45. Rc2 Rca1 46. Ra2
+R1xa2 47. Nxa2 Qe7 48. Nc3 Qf6 49. Qh3 Rf8 50. Qh5 Rc8 51. Kc4 h6 52. Qh3 Rc7
+53. Qh5 Kh7 54. Qe8 Qf4 55. Kb3 c4+ 56. Kb4 Qf2 57. Qc6 Rxc6 58. dxc6 Qd4 59.
+Nd5 c3+ 60. Kb3 c2 0-1

@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Vidale"]
+[Black "Szafarczyk"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "fabeca99"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8.
+Bc2 Nb4 9. Ba4 Bxa4 10. Qxa4+ Qc6 11. Qxc6+ Nxc6 12. a3 Be7 13. Nc3 Bd8 14.
+Nb5 Rb8 15. Nd6+ Kf8 16. Be3 a6 17. Rc1 Nge7 18. Ng5 h6 19. Ngxf7 Rh7 20.
+Nxd8 Nxd8 21. Rc7 g5 22. g4 Rg7 23. h4 1-0
+

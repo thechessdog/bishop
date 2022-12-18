@@ -1,0 +1,23 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Sydor, Andrzej"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "105915df"]
+[Epoch "Bishop"]
+[BlackID "1100475"]
+[BlackCountry "POL"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Nc3 Ng6 5. d4 exd4 6. Nxd4 Bc5 7. Be3 Bxd4
+8. Bxd4 O-O 9. Be3 d6 10. O-O Kh8 11. Qd2 f5 12. f4 fxe4 13. Nxe4 Qe7 14. Ng3
+Nh4 15. Rae1 Nf5 16. Bxc6 bxc6 17. Nxf5 Bxf5 18. Bxa7 Qd7 19. Bd4 Rxa2 20. Rf3
+Raa8 21. Rg3 Rg8 22. Qe2 c5 23. Bc3 d5 24. Be5 c4 25. c3 Be4 26. h3 Qe7 27. Qf2
+c5 28. Rge3 Ra6 29. Rxe4 dxe4 30. Rxe4 Qb7 31. Rxc4 Ra2 32. Rxc5 Rxb2 33. Qg3
+Qa7 34. Bd4 Qf7 35. Qh4 Qb7 36. Rg5 Rb5 37. Rxg7 Qxg7 38. Bxg7+ Rxg7 39. Qd8+
+Rg8 40. Qd4+ Rg7 1-0

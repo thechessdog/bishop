@@ -1,0 +1,18 @@
+[Event "corr ch-NOR"]
+[Site "corr ch-NOR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pettersen, H."]
+[Black "Stoere, T."]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "a70a23e2"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bb3 a5 9. a3 h6 10. N5f3 a4 11. Ba2 c5 12. Bf4 c4 13. Bxc4 Nxc4 14. Qxc4
+Qb6 15. O-O-O Nd5 16. Be5 Bd7 17. Rd2 f6 18. Bg3 Rc8 19. Qa2 Bb5 20. Ne2 g5
+21. Re1 Bc4 22. Qa1 h5 23. h3 g4 24. hxg4 hxg4 25. Nfg1 Bh6 0-1
+

@@ -1,0 +1,22 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Szabo, Janos"]
+[Black "Buza, A."]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "773e9f66"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 d5 11. e5 Nd7 12. Bxe7 Qxe7 13. g3 Nb6 14.
+Nf3 Bd7 15. Kb1 Rfc8 16. Nb5 a6 17. Nd6 Rc7 18. c4 dxc4 19. Qf2 Na4 20.
+Bxc4 Na5 21. Bb3 Bb5 22. Rc1 Qd8 23. Bxa4 Bxa4 24. Rxc7 Qxc7 25. Rc1 Qd8
+26. Qc5 Nc6 27. Ka1 Rb8 28. Nd2 Ne7 29. N2c4 Bc6 30. Nb6 Nd5 31. Nxd5 Bxd5
+32. h4 b5 33. Qa7 Kh7 34. Rc7 Ra8 35. Qc5 f6 36. Qc2+ f5 37. Qc5 Rb8 38.
+Qa7 Qf8 39. Rf7 Qg8 40. Qe7 Ra8 41. b3 Rb8 42. b4 Ra8 43. Kb2 a5 44. bxa5
+Rxa5 45. Rf8 Rxa2+ 46. Kb1 Qxf8 47. Qxf8 1-0
+

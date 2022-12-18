@@ -1,0 +1,21 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Persitz, Raphael"]
+[Black "Lombardy, William James"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "96cc6e9c"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Bd7 8. Qf3
+Nc6 9. O-O-O Nxd4 10. Rxd4 Bc6 11. Bc4 h6 12. Bh4 Be7 13. Rhd1 Qa5 14. f5 exf5
+15. Qxf5 Qxf5 16. exf5 O-O 17. g4 Rfe8 18. h3 d5 19. Bb3 Bc5 20. Bxf6 gxf6 21.
+R4d3 Be3+ 22. Kb1 d4 23. Nd5 Re5 24. Nxf6+ Kg7 25. Nh5+ Kf8 26. a4 b5 27. Rxd4
+Bxd4 28. Rxd4 bxa4 29. Bxa4 Bd5 30. b4 Bg2 31. h4 Re4 32. Rxe4 Bxe4 33. Nf6 Bf3
+34. Nd7+ Ke7 35. Ne5 Bd5 36. Kb2 Rg8 37. Kc3 Kd6 38. Kd4 f6 39. Ng6 Rc8 40. Bb3
+Bxb3 41. cxb3 Rc1 0-1

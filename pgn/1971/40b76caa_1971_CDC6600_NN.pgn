@@ -1,0 +1,20 @@
+[Event "London Islington"]
+[Site "London Islington"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "CDC6600"]
+[Black "NN"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "40b76caa"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 e6 4. Nc3 cxd4 5. Qxd4 Nc6 6. Qd3 Bc5 7. Be3 Nb4
+8. Qd2 Bxe3 9. fxe3 O-O 10. e4 Qb6 11. O-O-O Ng4 12. Qd4 Nf2 13. c5 e5 14.
+Qxf2 Qa5 15. Nxe5 Nxa2+ 16. Nxa2 Qxa2 17. Qd4 b5 18. cxb6 axb6 19. Qxb6 Bb7
+20. Qxb7 Rab8 21. Rxd7 Rxb7 22. Rxb7 Rc8+ 23. Kd1 Qa4+ 24. Kd2 Qa5+ 25. Ke3
+Qxe5 26. g3 f5 27. Bg2 Qc5+ 28. Kf3 Rf8 29. Rd1 fxe4+ 30. Kxe4 Qc2+ 31. Rd3
+Qxe2+ 0-1
+

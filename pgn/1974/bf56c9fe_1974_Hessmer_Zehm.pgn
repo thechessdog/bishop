@@ -1,0 +1,17 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hessmer, D."]
+[Black "Zehm, W."]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "bf56c9fe"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 a5 7. Nc3 Qf6
+8. Qe2 Nge7 9. Nd5 Nxd5 10. exd5+ Ne7 11. h4 h6 12. Bg5 hxg5 13. O-O-O d6
+14. g3 Qxf2 0-1
+

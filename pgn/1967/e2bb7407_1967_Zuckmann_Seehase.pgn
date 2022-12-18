@@ -1,0 +1,17 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Zuckmann, V."]
+[Black "Seehase, R."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "e2bb7407"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nd2 d5 6. exd6 Bf5 7. Nf3
+Qxd6 8. Qb3 Nc6 9. a3 Nd4 10. Qa4+ b5 11. cxb5 Nxf3+ 12. exf3 Bxd2+ 13. Kd1
+Nc3+ 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kunzelmann"]
+[Black "Mueller"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "8bbedb6e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8.
+Be3 b5 9. a3 Nb6 10. f4 h6 11. g6 Be7 12. gxf7+ Kxf7 13. Qf3 Bh4+ 14. Bf2
+Bxf2+ 15. Qxf2 N8d7 16. O-O-O Rf8 17. Rg1 Nc5 18. b4 Nca4 19. Qg3 g5 20.
+Nxa4 Nxa4 21. fxg5 Qxg5+ 22. Qxg5 hxg5 23. Bh3 Nc3 24. Rdf1+ Ke8 25. Rxf8+
+Kxf8 26. Rxg5 Nxe4 27. Rh5 Ke7 28. Rh7+ Kf6 29. Nxe6 Bxe6 30. Rh6+ Ke5 31.
+Rxe6+ 1-0
+

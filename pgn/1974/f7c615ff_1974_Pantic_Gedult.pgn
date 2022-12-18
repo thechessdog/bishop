@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pantic, M."]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "f7c615ff"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 dxe4 4. f4 Nc6 5. Bb5 Nf6 6. Nxc6 bxc6 7. Bxc6+ Bd7
+8. Bxa8 Bg4 0-1

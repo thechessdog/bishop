@@ -1,0 +1,17 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Schaposchnikow, J."]
+[Black "Aronin, Lev Solomonovich"]
+[Result "1/2-1/2"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "fda4cc98"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 e5 6. d5 Nfd7 7. h4 a5 8. Bg5 Bf6
+9. Qd2 h6 10. Bxf6 Nxf6 11. g4 Na6 12. O-O-O Nc5 13. h5 g5 14. Bd3 Nxd3+ 15.
+Qxd3 Nd7 16. Nge2 Nc5 17. Qc2 Bd7 1/2-1/2

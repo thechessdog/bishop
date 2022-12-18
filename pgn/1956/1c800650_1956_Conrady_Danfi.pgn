@@ -1,0 +1,18 @@
+[Event "Moskou olm"]
+[Site "Moskou olm"]
+[Date "1956.09.01"]
+[Round "1"]
+[White "Conrady, Alphonse"]
+[Black "Danfi, V."]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "1c800650"]
+[Epoch "Bishop"]
+[WhiteID "4000846"]
+[WhiteCountry "LUX"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 d6 6. c3 Be7 7. O-O O-O 8. d4
+b5 9. Bc2 Bg4 10. Rd1 Qc8 11. d5 Nd8 12. a4 Rb8 13. Nbd2 c5 14. Nf1 b4 15. Bd3
+a5 16. Bd2 Ne8 17. Ne3 Nc7 18. Nc4 Nb7 19. Rdc1 Qd8 1/2-1/2

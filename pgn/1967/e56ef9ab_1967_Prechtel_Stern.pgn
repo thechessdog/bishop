@@ -1,0 +1,21 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Prechtel, H."]
+[Black "Stern, D."]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[HashCode "e56ef9ab"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. Bxc6+ bxc6
+8. c3 Bg4 9. Qa4 Qd7 10. Nbd2 c5 11. Qc2 Nh5 12. d4 f6 13. dxc5 dxc5 14.
+Kh1 Nf4 15. Ng1 Be6 16. b3 Rd8 17. Nc4 Qd3 18. Qxd3 Rxd3 19. Bxf4 exf4 20.
+Rac1 Bxc4 21. bxc4 Kf7 22. Rfd1 Rxd1 23. Rxd1 Rb8 24. Rd2 Rb1 25. Rc2 Bd6
+26. g3 f3 27. Rd2 g5 28. h3 Bxg3 29. e5 fxe5 30. fxg3 Rf1 31. Kh2 f2 32.
+Nf3 Rh1+ 33. Kxh1 f1=Q+ 34. Ng1 Qxc4 35. Ne2 Qe4+ 36. Kh2 Qe3 37. Rc2 Qf2+
+38. Kh1 e4 0-1
+

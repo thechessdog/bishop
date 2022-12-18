@@ -1,0 +1,23 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Szereszewski, M."]
+[Black "Litvinov, W."]
+[Result "1-0"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, main line"]
+[HashCode "3b01f691"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. a3 Bxc3+ 6. bxc3 O-O 7. Bd3 Nc6
+8. Ne2 b6 9. e4 e5 10. O-O exd4 11. cxd4 cxd4 12. Bb2 Re8 13. Nxd4 Nxd4 14.
+Bxd4 Nxe4 15. Re1 Bb7 16. Qg4 Nf6 17. Rxe8+ Nxe8 18. Re1 g6 19. Bc3 Ng7 20.
+Qf4 f6 21. Qh4 Qf8 22. Bxf6 Re8 23. Rxe8 Qxe8 24. Bc3 Bc6 25. Qd4 Qf7 26.
+Bc2 Kf8 27. Qd6+ Kg8 28. Bb3 Qf5 29. c5+ Ne6 30. Bxe6+ Qxe6 31. Qd4 Kf7 32.
+cxb6 axb6 33. Qg7+ Ke8 34. Qh8+ Ke7 35. Bb4+ d6 36. Qxh7+ Ke8 37. Qh8+ Kd7
+38. Qd4 Qe5 39. Qg4+ Kc7 40. h4 Qa1+ 41. Kh2 Qe5+ 42. Qg3 Kd7 43. f3 Ke6
+44. Bd2 Qxg3+ 45. Kxg3 Ba4 46. Kf4 Bd1 47. Kg5 Kf7 48. Bf4 d5 49. Be3 b5
+50. Bd4 Be2 51. f4 Bd1 52. g4 1-0
+

@@ -1,0 +1,20 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kaczkus"]
+[Black "Borysiak, Boguslaw"]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "c09b6c78"]
+[Epoch "Bishop"]
+[BlackID "1103202"]
+[BlackCountry "POL"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Bf4 e5
+9. dxe6 Bxe6 10. Bxd6 Re8 11. e5 Nfd7 12. f4 g5 13. Nf3 Nc6 14. Qd2 g4 15. Ng1
+f6 16. exf6 Nxf6 17. O-O-O Qa5 18. Bd3 Rad8 19. Bg6 Nd4 20. Bxe8 Rxd6 21. Qe1
+Nb3+ 22. axb3 Qa1+ 23. Nb1 Bf5 24. Rxd6 Qxb1+ 25. Kd2 Qxb2+ 26. Ke3 Nd5+ 27.
+Rxd5 Bd4+ 28. Rxd4 cxd4# 0-1

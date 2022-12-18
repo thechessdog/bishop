@@ -1,0 +1,18 @@
+[Event "corr ch4-POL"]
+[Site "corr ch4-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Gorkiewicz, S."]
+[Black "Kowalczyk, R."]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "1bcea971"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 d5 7. cxd5 Nxd5
+8. e4 Nb4 9. Bb5+ Bd7 10. Qe2 O-O 11. O-O Qb6 12. a3 Bxb5 13. Nxb5 N4c6 14.
+b4 a6 15. Nc3 Nd7 16. bxc5 Qxc5 17. Bb2 Rac8 18. Rac1 Qb6 19. Ba1 Rc7 20.
+Qd2 Nc5 21. Qe3 Na5 22. Rb1 Qd6 23. Rfd1 Qe7 24. Ne2 f6 25. Nf4 1-0
+

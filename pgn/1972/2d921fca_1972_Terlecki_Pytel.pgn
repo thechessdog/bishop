@@ -1,0 +1,20 @@
+[Event "Wroclaw"]
+[Site "Wroclaw"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Terlecki"]
+[Black "Pytel"]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line with Nb3"]
+[HashCode "2d921fca"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Nc6 7. O-O Be7
+8. Be3 O-O 9. f4 Bd7 10. Nb3 a6 11. a4 Na5 12. e5 Ne8 13. Bd3 Nxb3 14. cxb3
+g6 15. Rf3 Bc6 16. Rh3 Ng7 17. Qe2 f6 18. Rd1 fxe5 19. fxe5 d5 20. Qg4 Nf5
+21. Kh1 d4 22. Bxf5 Rxf5 23. Qxd4 Qxd4 24. Bxd4 Rd8 25. Rhd3 Rg5 26. R1d2
+b5 27. Kg1 b4 28. Nd1 Be4 29. Re3 Bxg2 30. Rxg2 Rxd4 31. Nf2 Rf5 32. h3 Bc5
+33. Kh2 Rd2 34. Ng4 Rxg2+ 35. Kxg2 Bxe3 36. Nxe3 Rxe5 37. Kf3 Rxe3+ 0-1
+

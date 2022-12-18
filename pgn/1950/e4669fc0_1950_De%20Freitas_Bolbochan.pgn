@@ -1,0 +1,17 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "De Freitas, M."]
+[Black "Bolbochan, Jacobo"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "e4669fc0"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qc2 b5 8.
+Bg2 Bb7 9. O-O Bd6 10. Nbd2 c5 11. a4 O-O 12. Rd1 Rc8 13. axb5 axb5 14. Qd3 Qb6
+15. e4 cxd4 16. Nxd4 Ne5 17. Qxb5 Qxd4 18. Qxb7 Nfg4 19. Rf1 Nxf2 20. Nf3 Nxf3+
+21. Bxf3 Rc2 0-1

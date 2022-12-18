@@ -1,0 +1,20 @@
+[Event "Vrnjacka Banja zt"]
+[Site "Vrnjacka Banja zt"]
+[Date "1967.01.01"]
+[Round "17"]
+[White "Zuidema, Coen"]
+[Black "Kostro, Jerzy"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "30db4c94"]
+[Epoch "Bishop"]
+[BlackID "1101188"]
+[BlackCountry "POL"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Qxd4 Qxd4
+8. Nxd4 Bd7 9. Nc3 O-O-O 10. Bf4 Ne7 11. Rad1 Ng6 12. Be3 Bb4 13. Nce2 Rhe8 14.
+a3 Bd6 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "URS-ch otbor"]
+[Site "Cheliabinsk"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Nikolaevsky, Yuri V"]
+[Black "Kaiumov, Dmitry D"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "7490e6aa"]
+[Epoch "Bishop"]
+[WhiteID "4102231"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. Nf4
+d5 9. cxd5 Nxd5 10. Ncxd5 exd5 11. Bd3 g6 12. O-O Nc6 13. Be3 Bf6 14. Rc1 Bg7
+15. Rc5 Ne7 16. Qb3 b6 17. Rc3 Qd6 18. Rfc1 Rd8 19. Ne2 Nf5 20. Bg5 Re8 21. Bf4
+Qd8 22. Bc7 Qg5 23. Bb5 Rxe2 24. Qxd5 Rxf2 25. Kxf2 Bxd4+ 26. Ke1 Qh4+ 27. g3
+Qe7+ 28. Kd1 Bxc3 29. Rxc3 Bb7 30. Qxb7 Rd8+ 31. Rd3 Ne3+ 32. Kc1 Qc5+ 33. Kb1
+Qc2+ 34. Ka2 Rxd3 35. Qc8+ Kg7 36. Be5+ f6 37. Qxc2 Nxc2 38. Bxd3 Ne1 39. Be4
+fxe5 40. Kb3 1-0

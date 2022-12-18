@@ -1,0 +1,25 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kaiser"]
+[Black "Schwarz"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Haberditz variation"]
+[HashCode "a4c05f3a"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 f5 4. exf5 exf5 5. Bd3 Nf6 6. Ne2 Bd6 7. Nf3 Nc6
+8. c3 O-O 9. O-O Ne4 10. Bf4 Bxf4 11. Nxf4 g5 12. Ne2 f4 13. Nd2 Bf5 14.
+Qc2 Qf6 15. Nxe4 dxe4 16. Bxe4 f3 17. gxf3 Ne7 18. Ng3 Bg6 19. Rae1 h5 20.
+Bxg6 Nxg6 21. Nxh5 Qf7 22. Re3 Nh4 23. Qb3 Kh8 24. Qxf7 Rxf7 25. f4 g4 26.
+h3 Nf5 27. hxg4 Nxe3 28. fxe3 Rg8 29. g5 Kh7 30. Kf2 Rxg5 31. Ng3 Rg6 32.
+Kf3 Ra6 33. a3 Rh6 34. e4 Rh2 35. Rh1 Rxh1 36. Nxh1 Kg6 37. Nf2 Rh7 38. Kg4
+Rh2 39. f5+ Kf7 40. Kf3 Rh5 41. Kf4 Rh4+ 42. Ke3 Kf6 43. d5 b6 44. c4 Ke5
+45. Nd3+ Kf6 46. Kd4 Rh2 47. a4 Rd2 48. b3 a5 49. c5 bxc5+ 50. Kc3 Re2 51.
+Nxc5 Ke5 52. Kd3 Re1 53. Kc4 Rc1+ 54. Kb5 Kd6 55. Ne6 Rc3 56. b4 axb4 57.
+Kxb4 Rc1 58. a5 c5+ 59. dxc6 Rxc6 60. Kb5 Rc1 61. a6 Rb1+ 62. Kc4 Rc1+ 63.
+Kd4 Rd1+ 64. Ke3 Ra1 65. Kf4 Rf1+ 66. Kg5 Ra1 67. Ng7 1/2-1/2
+

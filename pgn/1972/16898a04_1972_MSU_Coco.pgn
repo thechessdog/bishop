@@ -1,0 +1,20 @@
+[Event "ACM Boston"]
+[Site "ACM Boston"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "MSU CP"]
+[Black "Coco III"]
+[Result "0-1"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor counter-attack"]
+[HashCode "16898a04"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bb5 c6 3. Bc4 d5 4. exd5 cxd5 5. Bb5+ Bd7 6. a4 Bc5 7. Nf3 Bxb5
+8. axb5 e4 9. d4 exf3 10. O-O fxg2 11. Kxg2 Bd6 12. Qg4 Nd7 13. Qxg7 Qf6
+14. Re1+ Ne7 15. Bh6 Qg6+ 16. Qxg6 hxg6 17. Bg7 Rxh2+ 18. Kg1 Rh7 19. Bf8
+Bh2+ 20. Kg2 Nxf8 21. b6 a6 22. Ra4 Ne6 23. Rxe6 fxe6 24. c4 dxc4 25. Rxc4
+Nd5 26. Na3 Nxb6 27. Rb4 Nd5 28. Rc4 Rh4 29. b4 b5 30. Rc6 Kd7 31. Rc5 Rg4+
+32. Kh3 Rg5 33. Rxd5+ exd5 34. Kxh2 Rh8# 0-1
+

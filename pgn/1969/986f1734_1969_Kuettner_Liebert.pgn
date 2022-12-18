@@ -1,0 +1,19 @@
+[Event "DDR-ch 18th"]
+[Site "Schwerin"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Kuettner, Uwe"]
+[Black "Liebert, Heinz"]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "986f1734"]
+[Epoch "Bishop"]
+[WhiteID "24670839"]
+[WhiteCountry "GER"]
+[BlackID "4611438"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+cxd4 9. exd4 dxc4 10. Bxc4 Be7 11. Re1 a6 12. Ba2 Nd5 13. Nxd5 1/2-1/2

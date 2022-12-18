@@ -1,0 +1,24 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "8"]
+[White "Ojanen, Kaarle Sakari"]
+[Black "Bilyap, Siracettin"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "fe741822"]
+[Epoch "Bishop"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 a6 7. O-O Nc6 8. a3
+dxc4 9. Bxc4 Bd6 10. e4 e5 11. d5 Ne7 12. Be2 Ng6 13. g3 h6 14. Nd2 Bh3 15. Re1
+Qd7 16. Nc4 Nh7 17. Be3 b5 18. Na5 Ng5 19. Qd2 f6 20. f3 Qf7 21. Nb7 Bc8 22.
+Nxd6 cxd6 23. Bxg5 hxg5 24. Qe3 Qa7 25. Qxa7 Rxa7 26. a4 b4 27. Na2 a5 28. Bb5
+Ne7 29. Nc1 Bd7 30. Bxd7 Rxd7 31. Nb3 Ra8 32. Rac1 Kf8 33. Rc4 Ke8 34. Rec1 Kd8
+35. Kf2 Rda7 36. Nd2 Kd7 37. b3 Rh8 38. Kg2 g6 39. Nf1 f5 40. Ne3 Rf8 41. R4c2
+Rb8 42. Rc4 Rf8 43. g4 fxe4 44. fxe4 Rf4 45. Kg3 Ng8 46. Ng2 Rf8 47. Ne1 Rf4
+48. Nd3 Rf8 49. Nf2 Ne7 50. Nh3 Rc8 51. Nxg5 Rxc4 52. Rxc4 Rc7 53. Rxc7+ Kxc7
+54. h4 Kd7 55. h5 gxh5 56. gxh5 Ke8 57. Kg4 Kf8 58. Ne6+ Kg8 59. Nc7 Kf7 60.
+Nb5 1-0

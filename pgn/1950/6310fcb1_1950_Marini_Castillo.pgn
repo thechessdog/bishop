@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1950.01.01"]
+[Round "9"]
+[White "Marini, Luis"]
+[Black "Castillo, Manuel"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "6310fcb1"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. a3 Bxc3+ 7. bxc3 d6 8. Ne2
+O-O 9. O-O b6 10. e4 Ne8 11. e5 dxe5 12. dxe5 Ba6 13. f4 Na5 14. Qc2 g6 15. Rd1
+Qh4 16. Be3 Rd8 17. Ng3 f5 18. Qa4 Nc7 19. Be2 Qe7 20. Nf1 Bb7 21. Rxd8 Rxd8
+22. Rd1 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Alekhine mem"]
+[Site "Moscow"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Padevsky, Nikola"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "0286756f"]
+[Epoch "Bishop"]
+[BlackID "2900190"]
+[BlackCountry "FID"]
+[WhiteID "710741"]
+[WhiteCountry "HUN"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 O-O 7. O-O d5 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bb5 Bd7 12. Qe2 a6 13. Bd3 e5 14. Nxe5 Nxe5
+15. dxe5 Qxe5 16. f4 Qe7 17. e4 c4 18. Bc2 Bf5 1/2-1/2

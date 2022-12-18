@@ -1,0 +1,21 @@
+[Event "FRG-ch"]
+[Site "Bad Pyrmont"]
+[Date "1963.10.27"]
+[Round "9"]
+[White "Gerusel, Mathias"]
+[Black "Lohse, Steffen"]
+[Result "1-0"]
+[ECO "D23"]
+[Opening "QGA"]
+[Variation "Mannheim variation"]
+[HashCode "ad00b70d"]
+[Epoch "Bishop"]
+[WhiteID "4601122"]
+[BlackID "4690621"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Qa4+ Nc6 5. e3 Nd7 6. Qxc4 e5 7. dxe5 Ndxe5
+8. Nxe5 Nxe5 9. Qe4 Bd6 10. f4 f5 11. Qd4 Qh4+ 12. Ke2 Qg4+ 13. Kf2 Nc6 14. Qc4
+Bd7 15. Nc3 O-O-O 16. Be2 Qh4+ 17. g3 Qe7 18. Bf3 g5 19. Nd5 Qg7 20. Bd2 gxf4
+21. gxf4 Qh6 22. Bc3 Qh4+ 23. Ke2 Ne5 24. Bxe5 Bxe5 25. Qb4 1-0

@@ -1,0 +1,18 @@
+[Event "Leipzig olm fin-B"]
+[Site "Leipzig"]
+[Date "1960.??.??"]
+[Round "11"]
+[White "Lundin, Erik"]
+[Black "Czerniak, Moshe"]
+[Result "1/2-1/2"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "5f32edb9"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bf4
+O-O 9. Nd2 Re8 10. Be2 b6 11. O-O Ba6 12. h3 Qe7 13. Bb5 Rd8 14. Re1 Nh5 15.
+Bxa6 Nxa6 16. Bh2 Be5 17. Bxe5 dxe5 18. Nc4 Nc7 19. a4 Ne8 1/2-1/2

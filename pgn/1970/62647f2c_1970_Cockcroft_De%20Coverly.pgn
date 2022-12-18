@@ -1,0 +1,23 @@
+[Event "Whitby"]
+[Site "Whitby"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Cockcroft, JG."]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "62647f2c"]
+[Epoch "Bishop"]
+[BlackID "405213"]
+[BlackCountry "END"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Be2 Nxc3 11. bxc3 Bb7 12. O-O Nd7 13. Qc2 c5 14. Rac1 Nf6
+15. Ne5 cxd4 16. cxd4 Rac8 17. Qa4 a6 18. Bf3 Bxf3 19. Nxf3 Qb7 20. Ne5 b5 21.
+Qa5 Ne4 22. Nd3 Rc4 23. f3 Ra4 24. Qe1 Ra3 25. Qe2 Nd6 26. e4 Nc4 27. Rfd1 Rd8
+28. Nc5 Qa7 29. Qf2 a5 30. Rxc4 bxc4 31. Qb2 Qxc5 32. dxc5 Rxd1+ 33. Kf2 Rad3
+34. Qb8+ Rd8 35. Qe5 Rc8 36. Ke2 Rd7 37. c6 Rxc6 38. Qxa5 Rcc7 39. Qc3 Rd3 40.
+Qc1 Rd8 41. Qc3 Ra8 42. a3 Ra4 43. Qb2 Rc8 44. Qb7 Raa8 45. Kd2 c3+ 46. Kc2
+Rab8 47. Qa6 Rb2+ 48. Kc1 Rcb8 49. Qc4 Rb1+ 0-1

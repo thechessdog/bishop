@@ -1,0 +1,18 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Zhukhovitsky, Samuel"]
+[Black "Zagorovsky, Vladimir Pavlovich"]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[HashCode "f30f67ce"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 exd4 6. e5 Bc5 7. O-O Nge7 8. c3
+dxc3 9. Nxc3 d5 10. exd6 cxd6 11. Bg5 b5 12. Bb3 h6 13. Bxe7 Nxe7 14. Re1 Kf8
+15. Nh4 g5 16. Rxe7 Kxe7 17. Qd5 Kd7 18. Ng6 Ra7 19. Nxh8 Qxh8 20. Qxf5+ Kc7
+21. Qc2 Kb8 22. Re1 Rc7 23. h3 h5 24. Qg6 Qd4 25. Re2 g4 26. h4 Rg7 27. Qe8 g3
+28. Ne4 gxf2+ 29. Kf1 Rxg2 30. Kxg2 f1=Q+ 31. Kxf1 Qg1# 0-1

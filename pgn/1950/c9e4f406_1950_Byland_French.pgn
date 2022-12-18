@@ -1,0 +1,17 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Byland, W."]
+[Black "French"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, Marshall attack"]
+[HashCode "c9e4f406"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4 5. fxe5 dxe5 6. Qa4+ Bd7 7. Qc2 Nc6
+8. b4 Bd6 9. Bc4 Nf6 10. d3 h6 11. O-O O-O 12. a4 Ne7 13. Nh4 a6 14. Bxh6
+c5 15. Rxf6 gxf6 16. Qf2 Ng6 17. Qg3 Kh7 18. Bxf7 1-0
+

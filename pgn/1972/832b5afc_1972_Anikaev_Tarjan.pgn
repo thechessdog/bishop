@@ -1,0 +1,20 @@
+[Event "WchT U26"]
+[Site "Graz"]
+[Date "1972.??.??"]
+[Round "7"]
+[White "Anikaev, Yuri N"]
+[Black "Tarjan, James"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "832b5afc"]
+[Epoch "Bishop"]
+[WhiteID "4101650"]
+[WhiteCountry "RUS"]
+[BlackID "2000180"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. g3 b6 10. Bg2 Ba6 11. Qb3 Bxc4 12. Qxc4 a6 13. O-O b5 14. Qh4 Nbd7 15.
+Bg5 Re8 16. Rfe1 1/2-1/2

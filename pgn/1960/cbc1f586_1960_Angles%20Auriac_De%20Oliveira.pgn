@@ -1,0 +1,17 @@
+[Event "Leipzig olm"]
+[Site "Leipzig olm"]
+[Date "1960.10.01"]
+[Round "1"]
+[White "Angles Auriac, B."]
+[Black "De Oliveira, Daniel"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "cbc1f586"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Nbd7 9. O-O-O Qc7 10. Bd3 h6 11. Bh4 b5 12. a3 Bb7 13. Rhf1 Rc8 14. Qg3 O-O 15.
+Qh3 Nc5 16. Bxf6 Bxf6 17. Nde2 Qa5 18. Qg3 b4 19. axb4 Qxb4 20. e5 dxe5 21.
+fxe5 Bg5+ 22. Nf4 Nxd3+ 23. Rxd3 Rc4 0-1

@@ -1,0 +1,26 @@
+[Event "Glasgow"]
+[Site "Glasgow"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sinclair, Ian"]
+[Black "Hindle, Owen M"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "05d9bfa0"]
+[Epoch "Bishop"]
+[BlackID "400564"]
+[BlackCountry "ENG"]
+[WhiteID "2400154"]
+[WhiteCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3
+d6 9. d3 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. Re1 Re8 13. Nf1 Bf8 14. Bg5 h6 15. Bh4
+Be7 16. Ne3 Ng4 17. Nf5 Bxf5 18. Bxe7 Qxe7 19. exf5 Nf6 20. a4 b4 21. a5 Qc7
+22. Ba4 bxc3 23. bxc3 Reb8 24. Bxc6 Qxc6 25. Qa2 Ra7 26. Rab1 Rab7 27. h3 Qd5
+28. Qc2 Rxb1 29. Rxb1 Rxb1+ 30. Qxb1 e4 31. dxe4 Nxe4 32. Qf1 c4 33. Qe1 Qxf5
+34. Qb1 d5 35. Qb7 Qe6 36. Nd4 Qf6 37. Qxd5 Qxf2+ 38. Kh2 Qf4+ 39. Kh1 Qf1+ 40.
+Kh2 Qf4+ 41. Kh1 Qf1+ 42. Kh2 Nxc3 43. Qa8+ Kh7 44. Nf3 Qe2 45. Qxa6 Nd1 46.
+Qb7 c3 47. Qxf7 Ne3 48. Nh4 Qd3 49. Qb3 Qd6+ 50. Kh1 Qf6 51. a6 c2 52. Qxe3
+Qf1+ 53. Kh2 c1=Q 54. Qe4+ Kg8 0-1

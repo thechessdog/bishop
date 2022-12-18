@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Sarkistan"]
+[Black "Shahtahtinsky, A."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "a1ac56ed"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. Nc3 Bg4 10. Be2 Nxe2 11. Nxe2 Qf8 12. c3 Nd7 13. Qa4 Bd4+
+14. Ke1 Qf2+ 15. Kd1 Bxe2+ 16. Kc2 Qf5+ 17. Kb3 b5 18. Qa5 Bc4+ 0-1
+

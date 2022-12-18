@@ -1,0 +1,33 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1975.07.01"]
+[Round "7"]
+[White "Dieks, Dennis"]
+[Black "Eising, Johannes"]
+[Result "1-0"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system"]
+[HashCode "4cccca64"]
+[Epoch "Bishop"]
+[WhiteID "1001337"]
+[WhiteCountry "NED"]
+[BlackID "4602510"]
+[BlackCountry "GER"]
+
+1. c4 g6 2. d4 Bg7 3. e4 d6 4. Nc3 Nd7 5. Nf3 e5 6. Be2 Ne7 7. O-O O-O 8. Be3
+h6 9. Qd2 Kh7 10. Rad1 f5 11. dxe5 dxe5 12. Bc5 Rf7 13. exf5 Nxf5 14. Rfe1 Qh8
+15. Ba3 Nf8 16. Qd5 Rd7 17. Qe4 Nd4 18. Nh4 Bf6 19. Bd3 Bxh4 20. Qxh4 Rf7 21.
+Qg3 Bf5 22. Qxe5 Bxd3 23. Rxd3 Nc2 24. Qxh8+ Kxh8 25. Re7 Rxe7 26. Bxe7 Re8 27.
+Bf6+ Kg8 28. f4 Ne3 29. b3 Nf5 30. Be5 Ne6 31. Nd5 Kf7 32. Nxc7 Nxc7 33. Bxc7
+Re2 34. a4 Ne3 35. g3 Rg2+ 36. Kh1 Re2 37. Ba5 Ke6 38. h3 h5 39. Bd2 Nf1 40.
+Bc3 Ne3 41. Bd4 Ng2 42. Bxa7 h4 43. g4 Rb2 44. Bb8 Re2 45. Rd6+ Kf7 46. Rd7+
+Ke6 47. Rxb7 Ne3 48. a5 Re1+ 49. Kh2 Rf1 50. f5+ gxf5 51. gxf5+ Kf6 52. Bg3
+hxg3+ 53. Kxg3 Nxf5+ 54. Kh2 Rf2+ 55. Kg1 Rd2 56. Kf1 Nh4 57. Rb8 Ke5 58. a6
+Ra2 59. Ra8 Kd4 60. a7 Kc3 61. Rh8 Rxa7 62. Rxh4 Ra2 63. c5 Kxb3 64. c6 Rc2 65.
+Rh6 Kb4 66. h4 Rc4 67. Kf2 Kb5 68. Kg3 Rc3+ 69. Kf4 Rc4+ 70. Ke5 Kb6 71. h5
+Rc5+ 72. Kf4 Kc7 73. Kg4 Rc4+ 74. Kg5 Rc5+ 75. Kg6 Rxc6+ 76. Kg7 Rc5 77. Rh8
+Kb7 78. h6 Rc7+ 79. Kf6 Rc6+ 80. Ke5 Rc5+ 81. Kd4 Rc6 82. Kd5 Ra6 83. Ke4 Rc6
+84. Rh7+ Kc8 85. Kd5 Ra6 86. Ke5 Ra5+ 87. Kf6 Ra6+ 88. Kf7 Kd7 89. Kg7 Ra1 90.
+Kg8+ Ke6 91. Rf7 Ra8+ 92. Kg7 Ra1 93. h7 Rg1+ 94. Kf8 Rh1 95. Kg8 Ra1 96. h8=Q
+Ra8+ 97. Rf8 1-0

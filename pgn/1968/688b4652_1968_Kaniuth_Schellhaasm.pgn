@@ -1,0 +1,20 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kaniuth"]
+[Black "Schellhaasm"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "688b4652"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Rb1 O-O-O
+14. Be3 Nf5 15. Nd4 Ncxd4 16. Bxd4 Kb8 17. g3 f6 18. Kf2 Nxd4 19. Qxd4 fxe5
+20. fxe5 Rg5 21. Ba6 Bc6 22. Rhe1 Qh7 23. h4 Qxc2+ 24. Be2 Qf5+ 25. Bf3
+Qc2+ 26. Be2 Rf8+ 27. Kg2 Rgf5 28. Kg1 Rf2 29. Rf1 Rxf1+ 30. Rxf1 Rxf1+ 31.
+Bxf1 Qb3 0-1
+

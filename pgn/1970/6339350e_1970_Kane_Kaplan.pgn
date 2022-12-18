@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kane, George Francis"]
+[Black "Kaplan, Julio"]
+[Result "0-1"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "6339350e"]
+[Epoch "Bishop"]
+[WhiteID "2001659"]
+[WhiteCountry "USA"]
+[BlackID "2000326"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 b6 6. Bd3 Bb7 7. O-O c5 8. Na4
+cxd4 9. exd4 Be7 10. Re1 d6 11. b4 Nbd7 12. Bb2 a5 13. a3 axb4 14. axb4 b5 15.
+cxb5 Nb6 16. Nxb6 Qxb6 17. Nd2 Nd5 18. Rxa8 Rxa8 19. Nc4 Qxb5 20. Nxd6 Qxb4 21.
+Bxh7+ Kf8 22. Nxb7 Qxb2 23. Nc5 Bxc5 24. dxc5 g6 0-1

@@ -1,0 +1,21 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Gundersen"]
+[Black "Ivarsson"]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "c1c81a4c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Bg2 Be6 6. Nge2 Nc6 7. O-O Be7
+8. d3 O-O 9. h3 Qd7 10. Kh2 Rad8 11. f4 exf4 12. Nxf4 Nxf4 13. Bxf4 Nd4 14.
+Qd2 c5 15. Ne4 Bd5 16. Rae1 b6 17. Nc3 Bxg2 18. Qxg2 Bd6 19. Bxd6 Qxd6 20.
+Re3 f5 21. Qf2 g5 22. Rfe1 f4 23. gxf4 Rxf4 24. Qg3 Nf3+ 25. Kh1 Nxe1 26.
+Qxe1 Rdf8 27. Kg1 Qd4 28. Kg2 Rf1 29. Qg3 R8f2+ 30. Qxf2 Rxf2+ 31. Kxf2 Qb4
+32. Nd5 Qxb2 33. Re8+ Kf7 34. Re7+ Kg6 35. Rxa7 Qxc2+ 36. Ke3 Qc1+ 37. Ke2
+Qb2+ 38. Kf3 Qe5 39. Ne7+ Kh5 40. Rb7 Qf4+ 0-1
+

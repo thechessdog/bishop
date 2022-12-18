@@ -1,0 +1,16 @@
+[Event "Lausanne"]
+[Site "Lausanne"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Bex, Pierre"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "1bf07c64"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Ne4 8. h4
+Be7 9. Bb5+ c6 10. Qf3 Bxh4+ 11. Rxh4 Qxh4+ 12. Kd1 Bxg4 13. Nxg4 Qxg4 14. Qxg4
+Nf2+ 0-1

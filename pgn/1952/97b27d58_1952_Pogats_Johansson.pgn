@@ -1,0 +1,19 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Pogats, Jozsef Jr."]
+[Black "Johansson, Ingi"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "97b27d58"]
+[Epoch "Bishop"]
+[WhiteID "744450"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. Bb3
+Qc7 9. Be3 O-O 10. f4 b5 11. a3 Bb7 12. Qf3 Nbd7 13. f5 e5 14. Nde2 Nc5 15. Bd5
+Bxd5 16. exd5 Rab8 17. Kh1 a5 18. Bxc5 Qxc5 19. Rac1 b4 20. axb4 Rxb4 21. Ng3
+Rf4 22. Qe2 Nxd5 23. Nce4 Qe3 24. Qxe3 Nxe3 25. Rxf4 1-0

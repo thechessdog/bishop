@@ -1,0 +1,20 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Uzman, N."]
+[Black "Liebert, Heinz"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "4aef5190"]
+[Epoch "Bishop"]
+[BlackID "4611438"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. f4 c5 4. c3 cxd4 5. cxd4 d5 6. e5 Nh6 7. Nf3 O-O 8. Bd3
+Nc6 9. Nc3 Bg4 10. Be3 f6 11. O-O e6 12. Qd2 Bxf3 13. Rxf3 Ng4 14. Raf1 Nxe3
+15. Qxe3 fxe5 16. fxe5 Qb6 17. Rxf8+ Rxf8 18. Rxf8+ Bxf8 19. Nb5 a6 20. Nd6
+Qxb2 21. h4 Bxd6 22. exd6 Qxd4 23. Qxd4 Nxd4 24. g4 Kf7 25. Kf2 e5 26. g5 Ke6
+27. h5 e4 28. hxg6 hxg6 29. Bf1 Kxd6 0-1

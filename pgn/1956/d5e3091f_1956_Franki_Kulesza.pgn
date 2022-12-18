@@ -1,0 +1,17 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Franki"]
+[Black "Kulesza"]
+[Result "1-0"]
+[ECO "D16"]
+[Opening "QGD Slav accepted"]
+[Variation "Alapin variation"]
+[HashCode "d5e3091f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 dxc4 5. a4 Bd7 6. e3 b5 7. axb5 cxb5 8.
+Ne5 a6 9. Qf3 Ra7 10. b3 Rc7 11. bxc4 bxc4 12. Nd5 Ra7 13. Bxc4 g6 14.
+Nxf6+ 1-0
+

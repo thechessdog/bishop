@@ -1,0 +1,17 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Albano"]
+[Black "Matulovic, Milan"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "51d6cc18"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 a6 7. Bf4 d6 8. O-O
+Be7 9. Rc1 Nf6 10. Qe2 e5 11. Rfd1 Bg4 12. Bg5 Nd4 13. Qe3 Bxf3 14. gxf3 Ng4
+15. fxg4 Bxg5 0-1

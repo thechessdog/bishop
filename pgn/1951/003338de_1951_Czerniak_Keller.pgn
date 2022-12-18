@@ -1,0 +1,18 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1951.01.01"]
+[Round "5"]
+[White "Czerniak, Moshe"]
+[Black "Keller, Hans"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "003338de"]
+[Epoch "Bishop"]
+[WhiteCountry "ISR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 Nfd7 7. Qd2 Re8 8.
+O-O-O Nc6 9. Bh6 Bh8 10. Bc4 e6 11. h4 Nb6 12. Bb3 Na5 13. h5 Nxb3+ 14. axb3
+Nd7 15. e5 Qe7 16. Qf4 d5 17. Bg5 f6 18. hxg6 fxg5 19. gxh7+ Qxh7 20. Qxg5+ Qg7
+21. Rxh8+ Kxh8 22. Qh5+ Kg8 23. Qxe8+ Nf8 24. Rh1 Qg6 25. Qd8 1-0

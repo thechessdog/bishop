@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Moehring, G."]
+[Black "Juettler"]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "13ee1a78"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+Nfd7 9. Ne4 dxe5 10. Nd6+ Kf8 11. Nf3 exf4 12. Bxf4 Nf6 13. Bc4 Qe7+ 14.
+Ne5 Bg4 15. Qb3 Nfd7 16. O-O 1-0
+

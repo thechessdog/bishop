@@ -1,0 +1,20 @@
+[Event "Dundee"]
+[Site "Dundee"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Wade, Robert Graham"]
+[Black "Pritchett, Craig W"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[HashCode "91ac1f15"]
+[Epoch "Bishop"]
+[BlackID "2400065"]
+[BlackCountry "SCO"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Kd1 Nd7 11. Nf3 d3 12. Bxd3 Nf8 13. Qh5 Bd7 14. Rb1
+d4 15. Ng5 O-O-O 16. cxd4 Nd5 17. Bd2 Ba4 18. Ne4 Ng6 19. Nd6+ Rxd6 20. exd6
+Qc6 21. Qh7 Rd8 22. Qxf7 1-0

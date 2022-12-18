@@ -1,0 +1,18 @@
+[Event "SWE-ch"]
+[Site "Bollnas"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Stenborg, Ake"]
+[Black "Liljedahl, Lennart"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "31f5171a"]
+[Epoch "Bishop"]
+[BlackID "1700758"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Bxc3+ 6. bxc3 d6 7. e4 e5 8. Ne2
+c5 9. d5 Nbd7 10. f3 Ne8 11. g4 f6 12. Ng3 g6 13. h4 Ng7 14. Bh6 Rf7 15. h5 Nf8
+16. Qd2 g5 17. Kf2 Rb8 18. Rhb1 b6 19. a4 a5 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "McKinney"]
+[Black "Brown"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "146d960c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nxc6 bxc6 6. Nc3 d6 7. Bd3 Be6
+8. Be3 Rb8 9. Rb1 Qa5 10. O-O Nf6 11. h3 d5 12. exd5 cxd5 13. Bg5 h6 14.
+Bxf6 gxf6 15. a3 d4 16. Ne4 Be7 17. Qf3 f5 18. Ng3 e4 0-1
+

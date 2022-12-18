@@ -1,0 +1,21 @@
+[Event "Bariloche"]
+[Site "Bariloche"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Reinhardt, Enrique Heinrich"]
+[Black "Gonzalez, Gerardo"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "b8cfacd8"]
+[Epoch "Bishop"]
+[BlackID "2017784"]
+[BlackCountry "USA"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nc3 O-O 5. Nf3 d6 6. Bg5 Be6 7. Qd2 c6 8. Bb3
+a5 9. O-O-O Bxb3 10. axb3 Bb4 11. Qe2 Nbd7 12. d4 exd4 13. Nxd4 Bxc3 14. bxc3
+a4 15. b4 Qe7 16. Rhe1 Rfe8 17. Qc4 d5 18. exd5 Qxe1 19. Rxe1 Rxe1+ 20. Kd2
+cxd5 21. Qb5 Ree8 22. Bxf6 Nxf6 23. f3 a3 24. Nb3 a2 25. g4 a1=Q 26. Nxa1 Rxa1
+27. g5 Ree1 28. c4 Rad1+ 29. Kc3 d4+ 0-1

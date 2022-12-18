@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1967.01.01"]
+[Round "10"]
+[White "Prelovszky, Laszlo"]
+[Black "Tipary, Lajos"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "171b6370"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 dxc4 6. Bxc4 e6 7. Nf3 Be7 8.
+O-O O-O 9. Qe2 Nc6 10. Rd1 Nb4 11. Ne5 Nbd5 12. Rd3 Bd7 13. Rg3 g6 14. Bh6 Re8
+15. h4 Bf8 16. Bg5 Be7 17. h5 Nxc3 18. bxc3 Nd5 19. Qf3 f6 20. hxg6 1-0

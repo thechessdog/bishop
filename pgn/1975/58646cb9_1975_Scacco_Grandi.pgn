@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Scacco"]
+[Black "Grandi"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "58646cb9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5 7. Nb3 Be7 8.
+h3 Be6 9. g4 d5 10. g5 Nxe4 11. Bxe4 dxe4 12. Qe2 Bxg5 13. Bxg5 Qxg5 14.
+Nxe4 Qe7 15. O-O-O O-O 16. Nbc5 b5 17. Qf3 Nd7 18. Nxd7 Bxd7 19. Rxd7 Qxd7
+20. Nf6+ 1-0
+

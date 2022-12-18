@@ -1,0 +1,20 @@
+[Event "Trencianske-Teplice"]
+[Site "Trencianske-Teplice"]
+[Date "1949.08.01"]
+[Round "1"]
+[White "Prins, Lodewijk"]
+[Black "Wade, Robert Graham"]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "931dd9eb"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. e5 Ne4 8.
+Nxd4 O-O 9. c3 Nxe5 10. Re1 d5 11. f3 c5 12. fxe4 cxd4 13. exd5 Qxd5 14. cxd4
+Ng6 15. Nc3 Qa5 16. Bb3 Bf6 17. Be3 Bg5 18. Qf3 Be6 19. Qxb7 Bxe3+ 20. Rxe3
+Rab8 21. Qe4 Rxb3 22. h4 Rxb2 23. Rd1 Bf5 24. Qf3 Nxh4 25. Qh5 Rxg2+ 26. Kh1
+Rg6 0-1

@@ -1,0 +1,16 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Zilber, Israel"]
+[Black "Mileika"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "682f8113"]
+[Epoch "Bishop"]
+[WhiteID "2000776"]
+[WhiteCountry "USA"]
+
+1. d4 c5 2. e4 cxd4 3. Nf3 e5 4. c3 dxc3 5. Nxc3 Nc6 6. Bc4 Be7 7. Qd5 1-0

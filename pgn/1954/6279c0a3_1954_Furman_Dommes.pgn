@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Furman, Semyon"]
+[Black "Dommes"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "6279c0a3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 a6 8. a4
+Nbd7 9. e4 Bg7 10. Be2 O-O 11. O-O Re8 12. f4 Qc7 13. Qc2 Nf8 14. Kh1 Rb8 15.
+a5 Bg4 16. Bd3 Rbd8 17. Nc4 Bc8 18. Bd2 N6d7 19. Na4 f6 20. Rac1 Nb8 21. b4
+cxb4 22. Bxb4 Qe7 23. Nab6 g5 24. Nxd6 1-0

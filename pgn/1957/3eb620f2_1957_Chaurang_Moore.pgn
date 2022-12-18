@@ -1,0 +1,20 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Chaurang"]
+[Black "Moore"]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "3eb620f2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 e5 10. Nxc6 bxc6 11. Bxe5 Bg4 12. Bxf6 Qxf6 13. Be2 Be6 14.
+f4 Be7 15. Rhe1 O-O 16. Bf3 Rab8 17. e5 dxe5 18. fxe5 Qh4 19. Ne4 Bd5 20.
+Kb1 Qxh2 21. Re2 Qxe5 22. Nc3 Rxb2+ 23. Kxb2 Rb8+ 24. Ka1 Ba3 25. Rxe5 Bb2+
+26. Kb1 Bxc3+ 27. Kc1 Bb2+ 28. Kb1 Bxe5+ 29. Kc1 Bb2+ 30. Kb1 Bc3+ 31. Kc1
+Bxd2+ 0-1
+

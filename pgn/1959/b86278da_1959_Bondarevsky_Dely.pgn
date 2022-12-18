@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Bondarevsky, Igor"]
+[Black "Dely"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "b86278da"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 c5 4. Bg2 cxd4 5. Nxd4 d5 6. c4 e5 7. Nc2 d4 8. f4
+Nc6 9. Bxc6+ bxc6 10. fxe5 Qa5+ 11. Qd2 Qxe5 12. Qxd4 Qh5 13. Bf4 Be6 14. Nd2
+Bc5 15. Qc3 O-O 16. Be3 Ng4 17. Bxc5 Qxc5 18. Qd4 Qa5 19. b4 Qf5 20. e4 Qh5 21.
+Nf3 Rfd8 22. Qc3 a5 23. O-O axb4 24. Qxb4 Rd3 25. Nce1 Rda3 26. Rb1 h6 27. Rb2
+Ne3 28. Rb3 R3a4 29. Qxa4 Rxa4 30. Rxe3 Qc5 31. Ng2 Bh3 32. Re1 Ra3 33. Nfh4 g5
+34. Nf5 Rxa2 0-1

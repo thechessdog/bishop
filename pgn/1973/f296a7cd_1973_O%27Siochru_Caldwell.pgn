@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "O'Siochru, D."]
+[Black "Caldwell, Susan L"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "f296a7cd"]
+[Epoch "Bishop"]
+[BlackID "402567"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 h6 11. Bxf6 Bxf6 12. h4 Qb6 13. Nb3 Nc5 14. Nxc5 Qxc5
+15. Bg2 Bxc3 16. Qxc3 Qxc3 17. bxc3 Ke7 18. Rd4 e5 19. fxe5 dxe5 20. Rb4 Rb8
+21. Bf3 Bd7 22. Be2 Bc6 23. Bc4 b5 24. Bd5 Bxd5 25. exd5 Kd6 26. c4 Kc5 27. Rb3
+bxc4 28. Ra3 Rb6 29. Ra5+ Kb4 0-1

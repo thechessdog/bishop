@@ -1,0 +1,18 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Rocha, Antonio"]
+[Black "Reddick, B."]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "fe39ba27"]
+[Epoch "Bishop"]
+[WhiteID "1901869"]
+[WhiteCountry "POR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. O-O Nxe4 7. d4 Bd6 8.
+dxe5 Nxe5 9. Nxe5 Bxe5 10. Qd5 Bxh2+ 11. Kxh2 Qh4+ 12. Kg1 O-O 13. Qxa8 c6 14.
+Qa7 d5 15. Qe3 Re8 16. Qf4 Bg4 17. f3 Ng3 18. fxg4 Ne2# 0-1

@@ -1,0 +1,21 @@
+[Event "Hoogovens-B"]
+[Site "Beverwijk"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Enevoldsen, Jens"]
+[Black "Karaklajic, Nikola"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "1c25f806"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "DNK"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. Bg5 Bg7 7. Nf3 Ne4 8.
+cxd5 Nxg5 9. Nxg5 O-O 10. Qd2 Nd7 11. Bc4 a6 12. a4 Qb6 13. Nf3 Qb4 14. Be2 Nb6
+15. a5 Nc4 16. Bxc4 Qxc4 17. Na4 Qxd5 18. Nb6 Qe6+ 19. Qe3 Rb8 20. O-O Qd6 21.
+Rfe1 Bg4 22. Ne5 Bf5 23. d5 Rfe8 24. h3 h5 25. Ra4 Rbd8 26. f4 h4 27. Qf2 Bf6
+28. Nec4 Qc7 29. Rd1 Kg7 30. b3 Bd7 31. Ra2 Bb5 32. Rc2 Bxc4 33. Rxc4 Qd6 34.
+f5 Qa3 35. fxg6 Qxb3 36. gxf7 Qxd1+ 0-1

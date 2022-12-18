@@ -1,0 +1,17 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Fricker"]
+[Black "Burgener"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "193b00a9"]
+[Epoch "Bishop"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nc6 7. Nc3 e5 8.
+d5 Ne7 9. c5 dxc5 10. Nxe5 Nfxd5 11. Nxd5 Bxe5 12. Bg5 Bd6 13. Qa4 c6 14.
+Nf6+ Kg7 15. Qh4 h5 16. Nxh5+ gxh5 17. Bf6+ Kg8 18. Qg5+ Ng6 19. Bxd8 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Smith, Olle"]
+[Black "Nordstrom, Eric"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "111d3dc4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. a4 b6 10. Be3 Bb7 11. f3 Nbd7 12. Qd2 Qc7 13. Rfd1 Rfc8 14. Nc1
+Bc6 15. N1a2 a5 16. Rac1 Qb7 17. Bb5 Nc5 18. b3 Rd8 19. Bxc6 Qxc6 20. Nd5
+Nxd5 21. Qxd5 Qxd5 22. Rxd5 Rac8 23. Nc3 f6 24. Nb5 Rc6 25. Rcd1 Kf7 26.
+Kf2 1/2-1/2
+

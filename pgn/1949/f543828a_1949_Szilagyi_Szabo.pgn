@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Szilagyi, Gyorgy"]
+[Black "Szabo, Laszlo"]
+[Result "0-1"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[HashCode "f543828a"]
+[Epoch "Bishop"]
+[BlackID "710741"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Nf3 c5 7. e3 Nc6 8.
+dxc5 O-O 9. Be2 Bxc5 10. O-O Qe7 11. Bd2 Bg4 12. Rac1 Bb6 13. Na4 Bc7 14. Nc5
+Rac8 15. h3 Bxf3 16. Bxf3 Ne5 17. Qb3 Qd6 18. Rfd1 Nxf3+ 19. gxf3 Qh2+ 20. Kf1
+Nh5 21. Qxd5 Qxh3+ 22. Ke2 Rcd8 0-1

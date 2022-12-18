@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Nilsson, Mogens"]
+[Black "Andersen, Henrik"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack orthodox attack"]
+[HashCode "f1b83412"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. dxe5 Bb4 6. Nf3 Nc6 7. Bd2 Bg4
+8. Bb5 O-O-O 9. Bxc6 bxc6 10. Qe2 Nf6 11. O-O Rhe8 12. a3 Bxf3 13. Qxf3
+Rxd2 14. axb4 Qxe5 15. Rxa7 Re6 16. Na4 Nd7 17. Qxf7 Kb8 18. Ra5 Qe2 19.
+Nc5 Qxf1+ 0-1
+

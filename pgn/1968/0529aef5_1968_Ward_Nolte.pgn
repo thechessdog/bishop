@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Ward, W."]
+[Black "Nolte, J."]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "0529aef5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. Nf3 Be7 5. e3 O-O 6. Bd3 d5 7. cxd5 Nxd5 8.
+Qc2 g6 9. h4 Nb4 10. Qe2 Nxd3+ 11. Qxd3 cxd4 12. exd4 Nc6 13. Be3 e5 14.
+O-O-O Bf5 15. Qd2 Qc7 16. d5 Nb4 17. b3 Nxa2+ 18. Kb2 Nxc3 19. Rc1 Ba3+ 20.
+Kxa3 Qa5+ 21. Kb2 Qa2+ 22. Kxc3 Rfc8+ 23. Kb4 a5+ 24. Kb5 Qxb3+ 25. Qb4
+Qxb4# 0-1
+

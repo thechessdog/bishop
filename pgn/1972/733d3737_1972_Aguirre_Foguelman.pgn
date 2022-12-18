@@ -1,0 +1,21 @@
+[Event "Mar del Plata op"]
+[Site "Mar del Plata"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Aguirre, Alb"]
+[Black "Foguelman, Alberto"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "733d3737"]
+[Epoch "Bishop"]
+[BlackID "101435"]
+[BlackCountry "ARG"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 Ngf6 8.
+h4 Qc7 9. h5 Bxd3 10. Qxd3 O-O-O 11. Ng5 e6 12. Qf3 Nb6 13. Bf4 Bd6 14. Bxd6
+Rxd6 15. h6 Rxd4 16. hxg7 Rg8 17. Qxf6 Rf4 18. Qh6 Qe5+ 19. Kf1 Rxg7 20. Nf3
+Qxb2 21. Qxf4 Qxa1+ 22. Ne1 Nd5 23. Qe4 Nf6 24. Qb4 Nd5 25. Qf8+ Kc7 26. Nh5
+Rg5 27. Qxf7+ Kb6 28. Rh3 Re5 29. Rb3+ Ka5 30. Ra3+ Kb6 31. Rb3+ Kc5 32. Re3
+Rxe3 0-1

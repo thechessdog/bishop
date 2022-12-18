@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Toth, Bela"]
+[Black "Strautins, U."]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "c32c91ef"]
+[Epoch "Bishop"]
+[WhiteID "736112"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 a6 5. a4 d5 6. Qe2 Nge7 7. d3 b6 8. g3 Bb7
+9. Bg2 Nd4 10. Qf2 Nec6 11. Nxd4 cxd4 12. Nb1 Nb4 13. exd5 Rc8 0-1

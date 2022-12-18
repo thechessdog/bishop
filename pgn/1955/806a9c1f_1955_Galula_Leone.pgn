@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Galula"]
+[Black "Leone"]
+[Result "1-0"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Richter variation"]
+[HashCode "806a9c1f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 g6 7. Be3 Bg7
+8. O-O O-O 9. Qd2 a6 10. f4 Bd7 11. Bf3 Rc8 12. Rad1 Na5 13. Qf2 Nc4 14.
+Bc1 Qb6 15. b3 Na5 16. Bb2 Ng4 17. Bxg4 Bxg4 18. Nd5 Qd8 19. Qh4 Bxd1 20.
+Nxe7+ Kh8 21. f5 g5 22. f6 Qxe7 23. fxg7+ Kg8 24. Nf5 1-0
+

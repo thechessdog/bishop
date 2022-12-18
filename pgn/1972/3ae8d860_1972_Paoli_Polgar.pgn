@@ -1,0 +1,28 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Paoli, Enrico"]
+[Black "Polgar, Istvan"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "3ae8d860"]
+[Epoch "Bishop"]
+[BlackID "700215"]
+[BlackCountry "HUN"]
+[WhiteCountry "ITA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Ng4 9. Be4 f6 10. exf6 Bxf6 11. Bxc6 bxc6 12. O-O c5 13. dxc5 Bb7 14. Qxd8
+Rfxd8 15. h3 Ne5 16. Nxe5 Bxe5 17. Be3 Rab8 18. Rad1 Ba6 19. Rxd8+ Rxd8 20. Rf2
+c6 21. g4 Bc4 22. b3 Bxc3 23. bxc4 Bd4 24. Rf3 Bxe3+ 25. Rxe3 Kf7 26. Rd3 Rb8
+27. Ra3 Rb4 28. Rc3 Ra4 29. a3 Ra5 30. Kf2 Rxc5 31. Ke3 Ra5 32. Kd4 e5+ 33. Ke4
+Ke6 34. g5 Ra4 35. h4 c5 36. Ke3 Kf5 37. Kf3 e4+ 38. Ke3 Ke5 39. Kd2 Kd4 40.
+Rh3 Ra6 41. h5 Ke5 42. hxg6 hxg6 43. Rh7 Rxa3 44. Rc7 Kf4 45. Rf7+ Kxg5 46. Re7
+Kf4 47. Rf7+ Ke5 48. Rg7 Rg3 49. Rxa7 Kd4 50. Rd7+ Kxc4 51. Re7 Kd5 52. Rd7+
+Ke6 53. Rc7 Rg5 54. Ke3 Re5 55. c4 g5 56. Rc8 Kf6 57. Rc6+ Kf5 58. Rc8 Kg4 59.
+Rc7 Kg3 60. Rd7 g4 61. Rd5 Re8 62. Rxc5 Kh3 63. Rh5+ Kg2 64. c5 g3 65. c6 Kg1
+66. c7 g2 67. Rh7 Rg8 68. Ke2 Rf8 69. Ke1 Rf1+ 70. Ke2 Rc1 71. Rg7 Rc2+ 72. Ke3
+Rc4 73. Rf7 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kovacs, Laszlo M"]
+[Black "Keres, Paul"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "0c75bef3"]
+[Epoch "Bishop"]
+[BlackCountry "EST"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 d6 5. h3 Be6 6. Nd5 Bxd5 7. exd5 Ne7 8.
+d4 exd4 9. Nxd4 Nfxd5 10. Bxd5 Nxd5 11. Nf5 c6 12. Qe2+ Kd7 13. O-O 0-1

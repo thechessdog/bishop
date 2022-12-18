@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Terentiev, A."]
+[Black "Stirberg"]
+[Result "0-1"]
+[ECO "B79"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 12.h4"]
+[HashCode "15af95f7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O
+8. f3 Nc6 9. Bb3 Qa5 10. Qd2 Bd7 11. O-O-O Rfc8 12. h4 Ne5 13. h5 Nxh5 14.
+Bh6 Nd3+ 15. Kb1 Nxb2 16. Kxb2 Bxh6 17. Qxh6 Rxc3 18. g4 Nf6 19. g5 Nh5 20.
+f4 Bg4 21. f5 Rxb3+ 22. axb3 Qe5 23. Rd3 Be2 24. Rd2 Bf3 25. Rh4 Rc8 26.
+Kb1 Bxe4 27. Rxh5 gxh5 28. f6 exf6 29. gxf6 Qg3 30. Re2 Qg6 31. Qf4 Qg1+
+32. Ka2 Qxd4 33. Rg2+ Kf8 34. Qh6+ Ke8 35. Rg8+ Kd7 36. Rxc8 Kxc8 37. Qf8+
+Kc7 38. Qxf7+ Kb6 39. Qe7 Bg6 40. f7 Bxf7 41. Qxf7 Qe4 42. Kb2 h4 43. Qd7
+Qe5+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Szilagyi"]
+[Black "Spassov, Liuben"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "6d02503d"]
+[Epoch "Bishop"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. dxc5 Bxc5 5. e3 O-O 6. a3 b6 7. Nc3 Bb7 8. Bd3
+d5 9. O-O Be7 10. Re1 Nbd7 11. Qe2 Nc5 12. Rad1 Rc8 13. e4 Nfxe4 14. Nxe4 Nxe4
+0-1

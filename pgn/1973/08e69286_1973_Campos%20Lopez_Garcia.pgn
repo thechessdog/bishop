@@ -1,0 +1,23 @@
+[Event "Buenos Aires CA"]
+[Site "Buenos Aires"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Campos Lopez, Mario"]
+[Black "Garcia, Raimundo"]
+[Result "1/2-1/2"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "08e69286"]
+[Epoch "Bishop"]
+[BlackID "100420"]
+[BlackCountry "ARG"]
+[WhiteID "5100100"]
+[WhiteCountry "MEX"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. Be2 Bd7 10. O-O-O a6 11. Rhe1 b5 12. Bf3 b4 13. Nce2 e5 14. Nxc6 Bxc6
+15. Ng3 Qc7 16. Kb1 a5 17. Qf2 Bd7 18. Rc1 Rfb8 19. Qd2 a4 20. c3 bxc3 21. Qxc3
+Qb7 22. Re2 Rc8 23. Qd2 Be6 24. Ree1 Nd7 25. Rxc8+ Rxc8 26. Rc1 Rxc1+ 27. Qxc1
+exf4 28. Bxf4 Ne5 29. Be2 g6 30. Bxe5 dxe5 31. Bc4 Qc6 32. Bxe6 Qxe6 33. Qc2
+Qa6 34. a3 Qb5 1/2-1/2

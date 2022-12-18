@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Sommovigo"]
+[Black "Landini"]
+[Result "1-0"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "4...e6"]
+[HashCode "707ab113"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. e3 e6 5. Bxc4 Bb4+ 6. Nc3 O-O 7. O-O a6
+8. Qe2 c6 9. e4 Nbd7 10. Bg5 Be7 11. e5 Nd5 12. Ne4 f5 13. exf6 N7xf6 14.
+Rfe1 Kh8 15. Rad1 b5 16. Bd3 Bb4 17. Nxf6 gxf6 18. Qe4 Ra7 19. Bd2 Bxd2 20.
+Rxd2 f5 21. Qe2 Rg7 22. g3 Nc7 23. Rc1 Qf6 24. Qe5 Qxe5 25. Nxe5 Bb7 26.
+Nxc6 h5 27. Rdc2 h4 28. Na5 1-0
+

@@ -1,0 +1,20 @@
+[Event "Jonkoping"]
+[Site "Jonkoping"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Stedt, Harry"]
+[Black "Nielsen, Axel"]
+[Result "0-1"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "32c54f99"]
+[Epoch "Bishop"]
+[BlackID "1421905"]
+[BlackCountry "DEN"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. e3 b5 6. a4 b4 7. Na2 a5 8. Bxc4
+Bf5 9. b3 e6 10. Bb2 Nbd7 11. Nc1 Bd6 12. O-O O-O 13. Bd3 Bg6 14. Qc2 Rc8 15.
+Ne2 c5 16. Rac1 cxd4 17. Qxc8 Qxc8 18. Rxc8 Rxc8 19. Bxg6 hxg6 20. Nexd4 e5 21.
+Nb5 Rc2 22. Ba1 Bb8 23. Rd1 Kf8 24. Ne1 Ra2 25. f3 Nc5 26. Rd8+ Ke7 27. Rxb8
+Rxa1 28. Kf2 Nxb3 0-1

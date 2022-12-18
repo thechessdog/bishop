@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Johannessen, Svein"]
+[Black "Asmundsson, Ingvar"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "c4684b86"]
+[Epoch "Bishop"]
+[WhiteCountry "NOR"]
+[BlackCountry "ISL"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. c3
+Qc7 9. Re1 b6 10. e5 Nd7 11. Qe2 a5 12. Nf1 Ba6 13. h4 d4 14. c4 b5 15. Bf4
+bxc4 16. dxc4 Rfb8 17. b3 a4 18. N3d2 Bb7 19. Nh2 Nb4 20. Bxb7 Qxb7 21. Rf1
+axb3 22. axb3 Ra6 23. Rxa6 Qxa6 24. Ng4 Nd5 25. Nh6+ Kh8 26. Qh5 g6 27. Qf3 Nc3
+28. Re1 Qb7 29. Qg4 Ra8 30. Bg5 Nxe5 31. Qf4 Ne2+ 0-1

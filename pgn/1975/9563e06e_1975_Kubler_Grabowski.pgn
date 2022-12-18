@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kubler"]
+[Black "Grabowski"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "9563e06e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Nbd7 9. Qf3 Be7 10. Bd3 h6 11. Qh3 Ng4 12. Bxe7 Qf2+ 13. Kd1 Ne3+ 14.
+Kc1 Kxe7 15. g3 g5 16. Nd1 Nxd1 17. Kxd1 Nf6 18. Rf1 Qe3 19. Re1 Qf3+ 20.
+Kd2 gxf4 21. Qh4 e5 22. gxf4 Qxf4+ 23. Qxf4 exf4 24. Rf1 Ng4 25. Rxf4 Nxh2
+26. Rg1 h5 27. Rg7 Bd7 28. Rfxf7+ 1-0
+

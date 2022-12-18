@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Novopashin, Arkady"]
+[Black "Sakharov, Yuri G."]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "68cdc966"]
+[Epoch "Bishop"]
+[WhiteID "4103670"]
+[BlackID "34113743"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. g3 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Be2 Nc6 6. h3 Bd7 7. Nc3 Qe6 8. d3
+Nd4 9. Nxd4 cxd4 10. Ne4 Nf6 11. Ng5 Qb6 12. Nf3 g6 13. c4 dxc3 14. bxc3 Qc6
+15. c4 Bg7 16. Rb1 O-O 17. g4 e5 18. O-O Qc7 19. Bb2 Rfe8 20. Ne1 Rad8 21. g5
+Nh5 22. Bxh5 gxh5 23. Qxh5 Bc6 24. Bc3 Re6 25. h4 h6 26. f3 Rg6 27. Qg4 hxg5
+28. h5 Rh6 29. Rb2 f6 30. Rff2 Bf8 31. Kf1 Bc5 32. Rh2 Kf7 33. Qf5 Bd4 34. Bxd4
+Rxd4 0-1

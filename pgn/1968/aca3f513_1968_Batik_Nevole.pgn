@@ -1,0 +1,21 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Batik"]
+[Black "Nevole"]
+[Result "0-1"]
+[ECO "D05"]
+[Opening "Queen's pawn game, Zukertort variation"]
+[HashCode "aca3f513"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 c5 4. Nbd2 e6 5. b3 Nc6 6. Bb2 Rb8 7. dxc5 Bxc5
+8. Ne5 O-O 9. Bb5 Nxe5 10. Bxe5 Bd6 11. Bxd6 Qxd6 12. Bd3 b5 13. Qe2 b4 14.
+O-O Bb7 15. a3 a5 16. axb4 axb4 17. Ra7 Rfd8 18. e4 Qc5 19. Rfa1 dxe4 20.
+Bc4 h6 21. h3 Qd4 22. Nf1 Nd5 23. R7a5 Rd6 24. Re1 Qb6 25. Raa1 f5 26. Qh5
+Rf8 27. Rad1 Kh7 28. Rd2 Nc3 29. Rxd6 Qxd6 30. Ne3 Qe7 31. g3 Bc6 32. f4
+exf3 33. Kh2 g6 34. Qh4 Qxh4 35. gxh4 e5 36. h5 gxh5 37. Ra1 f4 38. Nf1 e4
+39. Ra7+ Kg6 40. Kg1 e3 41. Nh2 f2+ 42. Kf1 Ra8 43. Rxa8 Bxa8 44. h4 f3 45.
+Bd3+ Kf6 46. Bc4 Nb1 0-1
+

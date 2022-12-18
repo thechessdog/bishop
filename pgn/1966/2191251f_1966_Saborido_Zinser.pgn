@@ -1,0 +1,19 @@
+[Event "Malaga"]
+[Site "Malaga"]
+[Date "1966.??.??"]
+[Round "6"]
+[White "Saborido, Rafael"]
+[Black "Zinser, Sylvain"]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "2191251f"]
+[Epoch "Bishop"]
+[BlackID "600687"]
+[BlackCountry "FRA"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8. a3
+Ba5 9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3 Bg4 12. c4 Ne5 13. Bb2 Nxf3+ 14. gxf3
+Bh3 15. cxd5 Qxd5 16. Bxf6 gxf6 17. Kh1 Rfd8 18. Rg1+ Kh8 19. Be2 Qxc5 20. Qa4
+Rg8 21. Qh4 Qf5 22. e4 Qe6 23. Bc4 Bg4 24. Rxg4 Rxg4 25. Qxg4 1-0

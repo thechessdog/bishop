@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1974.07.01"]
+[Round "10"]
+[White "Popov, Luben"]
+[Black "Hartoch, Robert G"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system reversed"]
+[HashCode "58b4b055"]
+[Epoch "Bishop"]
+[WhiteID "2900173"]
+[WhiteCountry "FID"]
+[BlackCountry "NLD"]
+
+1. c4 g6 2. Nc3 c5 3. g3 Bg7 4. Bg2 Nc6 5. e3 e5 6. Nge2 Nge7 7. a3 a5 8. d3
+O-O 9. O-O d6 10. Rb1 Be6 11. Nd5 Rb8 12. Nec3 Kh8 13. Bd2 f5 14. f4 Bg8 15.
+Qc2 Re8 16. Rfe1 h6 17. b3 1/2-1/2

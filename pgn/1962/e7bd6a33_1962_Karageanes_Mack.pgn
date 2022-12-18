@@ -1,0 +1,19 @@
+[Event "match"]
+[Site "match"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Karageanes, J."]
+[Black "Mack, A."]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "e7bd6a33"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bg5 Be7 8.
+Nf3 O-O 9. Be2 Bg4 10. O-O Nbd7 11. Bh6 Re8 12. Ng5 Bxe2 13. Qxe2 Nb6 14.
+Rad1 Qd7 15. f3 Na4 16. Qb5 Nxc3 17. Qxd7 Nxd7 18. bxc3 b5 19. Rb1 a6 20.
+f4 Bf6 21. e5 dxe5 22. fxe5 Rxe5 23. Rbe1 Rae8 24. Nf3 Rxe1 25. Nxe1 Bxc3
+26. Nf3 Ne5 27. Nxe5 Rxe5 28. Rd1 Bd4+ 29. Kf1 Rxd5 0-1
+

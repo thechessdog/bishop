@@ -1,0 +1,19 @@
+[Event "Essex"]
+[Site "Essex"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Sales"]
+[Black "Patterson"]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "0671c407"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1 exd5 7. Qxd5
+Bd7 8. Nf3 Nf6 9. Qd1 Bc5 10. e3 Qe7 11. Be2 O-O-O 12. O-O g5 13. b4 Nxb4
+14. Bb2 h5 15. Qb3 g4 16. Nd4 h4 17. Rac1 Kb8 18. Na4 Bd6 19. a3 Nbd5 20.
+Bb5 h3 21. g3 Bxb5 22. Nxb5 Qe4 23. f3 gxf3 24. Nxd6 Rxd6 25. Qxb7+ Kxb7
+26. Nc5+ Ka8 27. Nxe4 Nxe4 28. Bxh8 f2+ 29. Rxf2 Nxf2 30. Kxf2 1-0
+

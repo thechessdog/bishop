@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Beyen"]
+[Black "Ventura"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "0e3656fe"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. e5 dxe5 10. fxe5 Ng4 11. Bg5 Qa5 12. cxd5 Nxe5 13. O-O Nxf3+ 14.
+Bxf3 Qb4 15. Qe2 Bd7 16. a3 Qb6 17. Be7 Re8 18. d6 Nc6 19. Bd5 Nd4 20.
+Bxf7+ Kh8 21. Qc4 Nf5 22. Bxe8 Rxe8 23. Ne4 Qxb2 24. Rad1 Ne3 25. Rd2 Nxc4
+0-1
+

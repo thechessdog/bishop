@@ -1,0 +1,17 @@
+[Event "India"]
+[Site "India"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Subramanian, S."]
+[Black "Prabakaran"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "27b1a3a4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Bxc3
+8. bxc3 Qc7 9. f4 Nxc3 10. Qf3 Nd5 11. Nb5 Qd8 12. Nd6+ Kf8 13. f5 Nc6 14.
+fxe6 Nxe5 15. Qxd5 f6 16. Bb4 1-0
+

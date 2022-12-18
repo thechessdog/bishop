@@ -1,0 +1,21 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Janosevic, Dragoljub"]
+[Black "Martinovic, Slobodan"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "34c7c6b9"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+b5 9. O-O Bb7 10. Qe1 Nbd7 11. a3 Be7 12. Kh1 O-O 13. fxe5 dxe5 14. Nh4 g6 15.
+Bh6 Rfe8 16. Nf5 Bf8 17. Bxf8 Rxf8 18. Ne3 Qb6 19. Rd1 Rae8 20. b4 Rc8 21. Nb1
+Qe6 22. Nd2 Nh5 23. Qh4 Rce8 24. c4 Bc6 25. Nd5 bxc4 26. Bxc4 Bxd5 27. exd5 Qb6
+28. Ne4 Rc8 29. Bb3 f5 30. d6+ Kh8 31. Ng5 Nhf6 32. Qh6 a5 33. Be6 Rcd8 34.
+Bxd7 1-0

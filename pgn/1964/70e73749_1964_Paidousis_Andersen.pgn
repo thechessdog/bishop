@@ -1,0 +1,19 @@
+[Event "Tel Aviv olm prel"]
+[Site "Tel Aviv olm"]
+[Date "1964.11.01"]
+[Round "1"]
+[White "Paidousis, Aristidis"]
+[Black "Andersen, Borge"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "70e73749"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. e3 Bb7 5. Bd3 Bb4+ 6. Bd2 a5 7. Nc3 O-O 8. O-O
+d6 9. a3 Bxc3 10. Bxc3 Ne4 11. Bxe4 Bxe4 12. Nd2 Bd3 13. Qf3 Nd7 14. Rfc1 f5
+15. b4 Nf6 16. Bb2 Ne4 17. Nxe4 fxe4 18. Qg3 Rf6 19. d5 Rg6 20. Qh3 Be2 21. f4
+exf3 22. Kf2 Rxg2+ 23. Qxg2 fxg2 24. Kxe2 Qh4 25. c5 Qh5+ 26. Kf2 Rf8+ 27. Kg1
+Qe2 0-1

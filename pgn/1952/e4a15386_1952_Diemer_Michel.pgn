@@ -1,0 +1,17 @@
+[Event "Tubingen"]
+[Site "Tubingen"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Michel, Paul"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "e4a15386"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Nxe4 exd4 5. Bb5+ c6 6. Bc4 Bb4+ 7. c3 dxc3 8.
+Bxf7+ Ke7 9. Qxd8+ Kxd8 10. bxc3 Bf5 11. Bg5+ Kc8 12. Rd1 Bxe4 13. Be6+ Kc7 14.
+Bd8# 1-0

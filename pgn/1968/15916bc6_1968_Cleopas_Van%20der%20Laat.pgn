@@ -1,0 +1,25 @@
+[Event "Lugano olm"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Cleopas, G."]
+[Black "Van der Laat, J."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "15916bc6"]
+[Epoch "Bishop"]
+
+1. g3 e5 2. Bg2 d5 3. d3 Be6 4. Nf3 Nd7 5. O-O Ngf6 6. Ng5 Bc5 7. Nxe6 fxe6
+8. Nc3 c6 9. Na4 Bd6 10. b3 O-O 11. c4 Qe8 12. Nc3 Qf7 13. e4 Bc5 14. a3
+Bd4 15. Bb2 Rad8 16. Qe2 Rfe8 17. Rab1 Nf8 18. Nd1 dxe4 19. dxe4 Ng6 20.
+Ne3 c5 21. Bc1 b6 22. b4 Rb8 23. Bd2 h6 24. Ng4 Nxg4 25. Qxg4 Rf8 26. b5
+Kh7 27. h4 Rbd8 28. Be1 Qf6 29. h5 Nh8 30. Bh3 Rd6 31. Kg2 Nf7 32. Bd2 Ng5
+33. f4 exf4 34. Rxf4 Qe7 35. Rxf8 Qxf8 36. Rf1 Qe7 37. Bf4 Rd8 38. Bxg5
+Qxg5 39. Qxg5 hxg5 40. Bxe6 Be5 41. Bd5 Bf6 42. g4 Re8 43. a4 Kh6 44. Re1
+Re7 45. Rf1 Be5 46. Rf3 g6 47. hxg6 Kxg6 48. Rf5 Bf4 49. Rf8 Kg7 50. Rc8
+Rc7 51. Re8 Rd7 52. e5 Rc7 53. Kf3 Kg6 54. Ke4 Kg7 55. Kf5 Rd7 56. Ke6 Rf7
+57. Kd6 Rf8 58. Re7+ Kh8 59. Rxa7 Rf6+ 60. Be6 Rf8 61. a5 bxa5 62. Rxa5 Rb8
+63. Ra6 Rd8+ 64. Kxc5 Bxe5 65. Bd5 Bf4 66. b6 Kg7 67. b7 Bb8 68. Rc6 Kf8
+69. Be6 Ke7 70. Bc8 Rd2 71. Rg6 Ba7+ 72. Kb4 Be3 73. Re6+ 1-0
+

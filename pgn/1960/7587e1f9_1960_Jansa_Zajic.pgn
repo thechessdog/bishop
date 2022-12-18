@@ -1,0 +1,18 @@
+[Event "CSR-ch"]
+[Site "Ostrava"]
+[Date "1960.??.??"]
+[Round "15"]
+[White "Jansa, Vlastimil"]
+[Black "Zajic, Jiri"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "7587e1f9"]
+[Epoch "Bishop"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 h6 10. Ne2 g5 11. g4 Ng7 12. h3 Be7 13. Ng3 h5 14. Nxg5
+hxg4 15. Nxf7+ 1-0

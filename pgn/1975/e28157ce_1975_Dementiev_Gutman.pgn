@@ -1,0 +1,18 @@
+[Event "URS-ch otbor"]
+[Site "Cheliabinsk"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Dementiev, Oleg I"]
+[Black "Gutman, Lev"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "e28157ce"]
+[Epoch "Bishop"]
+[BlackID "4600177"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qe2
+Qc7 9. O-O-O b5 10. a3 Bb7 11. g4 d5 12. exd5 Bxa3 13. bxa3 Qxc3 14. Rd3 Qa1+
+15. Kd2 Nb6 16. Ke3 Nbxd5+ 17. Kf2 Nc3 0-1

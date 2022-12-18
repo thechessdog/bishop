@@ -1,0 +1,17 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Kristensen, Jorgen"]
+[Black "Floe, Anton"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "44a862cb"]
+[Epoch "Bishop"]
+[WhiteID "1429086"]
+[WhiteCountry "DEN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 Bg7 5. Be3 Nbd7 6. Qd2 O-O 7. O-O-O c6 8. g4
+b5 9. Nb1 Nb6 10. h4 h5 11. gxh5 Nxh5 12. Bd3 Be6 13. a3 a5 14. b3 Rb8 15. Qxa5
+c5 16. dxc5 Nc4 0-1

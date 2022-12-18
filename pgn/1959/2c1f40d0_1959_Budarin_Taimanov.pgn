@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Budarin"]
+[Black "Taimanov, Mark"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "2c1f40d0"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. a3 b5 7. Bd3 Bb7 8. Qe2
+Bd6 9. Be3 Ne7 10. Qd2 b4 11. axb4 Bxb4 12. O-O Nbc6 13. f4 O-O 14. Qf2 f5 15.
+exf5 Nxd4 16. Bxd4 Nxf5 17. Bb6 Qc6 18. Rad1 Bxc3 19. bxc3 Nh4 20. Rd2 Nxg2 21.
+Bd4 Nxf4 22. Bxh7+ Kxh7 0-1

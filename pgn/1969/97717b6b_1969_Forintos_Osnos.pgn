@@ -1,0 +1,22 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Forintos, Gyozo V"]
+[Black "Osnos, Vyacheslav"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "97717b6b"]
+[Epoch "Bishop"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 d6 8. e4
+Bd7 9. a4 Nc6 10. d5 Ne5 11. f4 Ng6 12. Bd3 e5 13. f5 Nf4 14. Bf1 Nxe4 15. g3
+Qd8 16. Qg4 Nxd2 17. Kxd2 Qb6 18. Kc1 Ng6 19. Bd3 O-O-O 20. Qe4 Ne7 21. Qf3 f6
+22. Ne2 g6 23. a5 Qc7 24. g4 h5 25. fxg6 Bxg4 26. Qxf6 e4 27. g7 Rhe8 28. h3
+Ng8 29. Qg6 exd3 30. Nf4 Qe7 31. Nxd3 Qe3+ 32. Kc2 Ne7 33. Qf7 Bf5 34. Rad1
+Qe2+ 35. Rd2 Bxd3+ 36. Kc1 Qe3 37. Qxh5 Bg6 38. Qh4 Qxc3+ 39. Kd1 Qb3+ 0-1

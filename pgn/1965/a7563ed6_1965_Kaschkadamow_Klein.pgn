@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Kaschkadamow"]
+[Black "Klein"]
+[Result "0-1"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "a7563ed6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. f5 Qc7 13. g3 Na5 14. fxe6
+fxe6 15. e5 dxe5 16. Qh6 O-O-O 17. Bh3 Kb8 18. Rhe1 b4 19. Nb1 Rc8 20. c3
+bxc3 21. Nxc3 Bb4 22. Kb1 Bxc3 23. bxc3 Qb7+ 24. Ka1 Qxf3 25. Rb1+ Ka8 26.
+Re3 Qc6 27. Qg7 Rb8 28. Rbe1 Qb5 29. R3e2 Qd3 0-1
+

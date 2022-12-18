@@ -1,0 +1,24 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1975.07.10"]
+[Round "6"]
+[White "Rosenlund, Thorbjorn"]
+[Black "Rath, Ulrik"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Opovcensky variation"]
+[HashCode "fd7eb0f4"]
+[Epoch "Bishop"]
+[WhiteID "1400614"]
+[BlackID "1400223"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2 c5 7. dxc5 Na6 8. cxd5
+Nxc5 9. Bc4 a6 10. b4 Nce4 11. Rc1 Bg4 12. h3 Nxd2 13. Qxd2 Bxf3 14. gxf3 Rc8
+15. Bb3 Qd6 16. a3 a5 17. Ne2 Rxc1+ 18. Nxc1 Rd8 19. O-O Qd7 20. Kh2 axb4 21.
+axb4 Qf5 22. f4 e6 23. Ne2 exd5 24. Nd4 Qd7 25. Kg2 Ne4 26. Qb2 Qd6 27. Bc2 Rc8
+28. Rd1 Rc4 29. b5 Nc3 30. Rd3 Bxd4 31. Rxd4 Rxd4 32. exd4 Ne2 33. f5 Qf4 34.
+fxg6 hxg6 35. Bb3 Qg5+ 36. Kf1 Nf4 37. f3 Nxh3 38. Qa3 Qe3 39. Qa2 Qxf3+ 40.
+Ke1 Nf4 41. Bd1 Qh1+ 0-1

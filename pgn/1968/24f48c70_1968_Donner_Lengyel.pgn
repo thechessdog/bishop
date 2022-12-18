@@ -1,0 +1,22 @@
+[Event "Solingen"]
+[Site "Solingen"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Lengyel, Laszlo"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "24f48c70"]
+[Epoch "Bishop"]
+[BlackID "701998"]
+[BlackCountry "HUN"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nbd7 8. a3
+Ba5 9. cxd5 exd5 10. Bd2 Bc7 11. Qc2 a6 12. Rfe1 c4 13. Bf5 g6 14. Bh3 Re8 15.
+e4 dxe4 16. Nxe4 Nxe4 17. Rxe4 Rxe4 18. Qxe4 Nf6 19. Qh4 Nh5 20. Bg5 f6 21. Bd2
+Bxh3 22. Qxh3 Qc8 23. Qh4 Qf5 24. Re1 Bd6 25. Bc3 Nf4 26. g4 Qd5 27. Re3 Rf8
+28. Kf1 Qc6 29. Bd2 g5 30. Qh6 Rf7 31. d5 Qxd5 32. Re8+ Rf8 33. Rxf8+ Bxf8 34.
+Qxf6 Qxf3 35. Qxg5+ Ng6 36. Bc3 Be7 0-1

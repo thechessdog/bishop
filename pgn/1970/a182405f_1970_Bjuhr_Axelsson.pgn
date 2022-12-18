@@ -1,0 +1,21 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Bjuhr, Arne"]
+[Black "Axelsson, Rolf"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, Malkin variation"]
+[HashCode "a182405f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Qe2 Be7 10. c3 O-O 11. Nbd2 Nc5 12. Nd4 Nxb3 13. N2xb3 Qd7 14.
+Nxc6 Qxc6 15. Be3 Bf5 16. Rfd1 Rfd8 17. f3 Bf8 18. Qf2 a5 19. Rac1 a4 20.
+Nd4 Qd7 21. g4 Be6 22. b4 axb3 23. axb3 Ra6 24. b4 Rda8 25. Nb3 Ra3 26. Ra1
+Qc8 27. Qb2 Rxb3 28. Qxb3 Rxa1 29. Rxa1 d4 30. Qc2 dxe3 31. Qe4 Qd7 32.
+Qxe3 Qd5 33. Qe2 Qc6 34. Qe3 Bd5 35. Kf2 h6 36. f4 Qc4 37. Kg3 c5 38. Rc1
+Qa2 39. h3 Qg2+ 0-1
+

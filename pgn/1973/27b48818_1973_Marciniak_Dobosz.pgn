@@ -1,0 +1,18 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Marciniak"]
+[Black "Dobosz, Henryk"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "27b48818"]
+[Epoch "Bishop"]
+[BlackID "1100114"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. f4 e6 3. Nf3 d5 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. exd5 exd5 7. O-O Nc6
+8. d4 Nf6 9. b3 cxd4 10. Bb2 Bc5 11. Kh1 O-O 12. Nxd4 Ng4 13. Nxc6 bxc6 14. Qf3
+Rfe8 15. Qc3 Nf2+ 16. Rxf2 Bd4 17. Qxd4 Re1+ 0-1

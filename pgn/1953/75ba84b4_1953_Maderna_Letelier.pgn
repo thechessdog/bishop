@@ -1,0 +1,25 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1953.03.01"]
+[Round "10"]
+[White "Maderna, Carlos Hugo"]
+[Black "Letelier, Rene"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "75ba84b4"]
+[Epoch "Bishop"]
+[BlackCountry "CHL"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nc6 7. Be3 e5 8. Nf3
+Ng4 9. Bg1 exf4 10. Nd5 Ne3 11. Nxe3 fxe3 12. Bxe3 Qe7 13. Bc4 Be6 14. Bxe6
+Qxe6 15. Ng5 Qe5 16. O-O f6 17. Nh3 Qxe4 18. Re1 Ne5 19. Nf4 Kf7 20. c3 Qc4 21.
+Nd5 Re8 22. Rf1 Be7 23. Rf4 Qc8 24. Qb3 Qe6 25. Raf1 b5 26. Qd1 Ng6 27. Qh5 Bd8
+28. Bd4 Qe2 29. Nxf6 Qxh5 30. Nxh5+ Nxf4 31. Rxf4+ Bf6 32. Nxg7 Re5 33. Nf5 Re6
+34. Bxf6 Rxf6 35. Nxd6+ Ke6 36. Rd4 Rhf8 37. h3 Rf1+ 38. Kh2 R8f2 39. Ne4 Rxb2
+40. Nc5+ Kf7 41. Rd7+ Kg8 42. Nxa6 Rff2 43. Kg3 Rxg2+ 44. Kf4 Rxa2 45. Nb4
+Raf2+ 46. Ke5 Rg3 47. Nd5 Rxh3 48. Rb7 Rh5+ 49. Ke4 Rh4+ 50. Ke5 Rf7 51. Rxb5
+Kg7 52. Rc5 h5 53. c4 Rg4 54. Rc8 h4 55. Nc7 h3 56. Ne8+ Kh7 57. Ke6 Rf8 58.
+Rc7+ Kh6 59. Nf6 Rxf6+ 60. Kxf6 h2 61. Rc8 Rg7 0-1

@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Foguelman, Alberto"]
+[Black "Bronstein, Luis Marcos"]
+[Result "1/2-1/2"]
+[ECO "D75"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O c5, 8.Nc3"]
+[HashCode "6e16c410"]
+[Epoch "Bishop"]
+[BlackID "100463"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 O-O 5. g3 d5 6. cxd5 Nxd5 7. Bg2 c5 8. O-O
+cxd4 9. Nxd4 Nxc3 10. bxc3 Qa5 11. Qb3 Nc6 12. Nxc6 bxc6 13. Bxc6 Be6 14. Qa3
+Qxc3 15. Qxc3 Bxc3 16. Bxa8 Bxa1 17. Be3 Be5 18. Be4 a5 19. Rc1 a4 20. Rc5 Bd6
+21. Ra5 a3 22. Bc1 1/2-1/2

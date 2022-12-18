@@ -1,0 +1,19 @@
+[Event "San Benedetto"]
+[Site "San Benedetto"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Mariotti"]
+[Black "Hershman"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "c975186d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Be2 c5 7. d5 e6 8. Nf3
+exd5 9. e5 Ng4 10. cxd5 dxe5 11. fxe5 Nxe5 12. O-O Re8 13. Kh1 Nxf3 14.
+Bxf3 Nd7 15. d6 Ne5 16. Nb5 Re6 17. Bd5 Rxd6 18. Nxd6 Qxd6 19. Rxf7 Be6 20.
+Bxe6 Qxe6 21. Rf1 c4 22. Qe2 Qc6 23. Bh6 Bxh6 24. Qxe5 Bg7 25. Qe2 Re8 26.
+Qc2 Qe4 27. Qf2 Rf8 28. Qxa7 Bxb2 29. Rxf8+ Kxf8 30. Qf2+ 1-0
+

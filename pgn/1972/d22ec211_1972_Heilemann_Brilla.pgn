@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Heilemann"]
+[Black "Brilla Banfalvi"]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "d22ec211"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. Ne5 c5 10. Bd2 cxd4 11. exd4 Nc6 12. Be3 Nxe5 13. dxe5 Ne4 14.
+Rc1 Nc5 15. Bb1 Ne6 16. Qg4 Qe7 17. Rfd1 Bxc3 18. bxc3 f6 19. Qh4 g6 20. f4
+Rae8 21. Qg4 f5 22. Qg3 Rc8 23. Bc2 Rxc3 24. Bxf5 Nxf4 25. Re1 Rxe3 0-1
+

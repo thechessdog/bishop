@@ -1,0 +1,21 @@
+[Event "Santiago"]
+[Site "Santiago"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Letelier, Rene"]
+[Black "Flores Alvarez, Rodrigo"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "af969755"]
+[Epoch "Bishop"]
+[WhiteCountry "CHL"]
+[BlackCountry "CHL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 c5 7. O-O O-O 8. Na4
+cxd4 9. exd4 Be7 10. Re1 Nc6 11. a3 Rc8 12. b4 Re8 13. Bf4 d6 14. Nc3 Nxd4 15.
+Nxd4 e5 16. Nde2 exf4 17. Nxf4 a5 18. Qb3 Qd7 19. h3 g5 20. Nfe2 g4 21. Nd4 Ba8
+22. Bf5 Qb7 23. Nd5 Rcd8 24. Rxe7 Rxe7 25. Nxf6+ Kf8 26. Qg3 Re5 27. Nxh7+ Ke8
+28. Qxg4 Qc7 29. Nb5 Qc6 30. Qg8+ Ke7 31. Qg5+ Ke8 32. Nf6+ Kf8 33. Nd5 Rxf5
+34. Qxf5 Qxc4 35. Nbc7 1-0

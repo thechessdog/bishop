@@ -1,0 +1,26 @@
+[Event "BCF-ch op"]
+[Site "Rhyl"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Eley, Brian"]
+[Black "Sugden, John N"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "cf9eafa2"]
+[Epoch "Bishop"]
+[BlackID "402001"]
+[BlackCountry "ENG"]
+[WhiteID "400718"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 h6 8. Bh4
+Qb6 9. a3 e5 10. Nf5 g6 11. Bf2 Qc6 12. fxe5 dxe5 13. Ng3 Nb6 14. Qd2 Bg7 15.
+O-O-O Bg4 16. Re1 O-O 17. h3 Be6 18. Rd1 Rfc8 19. Qd6 Nc4 20. Qxc6 Rxc6 21. Nd5
+Re8 22. Be1 h5 23. Bd3 Nd6 24. Bb4 Bxd5 25. exd5 Nxd5 26. Bxd6 Rxd6 27. Bc4
+Red8 28. Ne4 R6d7 29. Rhe1 Bh6+ 30. Kb1 Kg7 31. g4 hxg4 32. hxg4 Bf4 33. Rd3
+Nc7 34. Rxd7 Rxd7 35. Nc5 Rd4 36. Bd3 b6 37. Nxa6 Rxd3 38. Nxc7 Rg3 39. Nd5
+Rxg4 40. Nxb6 Bg3 41. Re2 f5 42. Nd7 e4 43. c4 f4 44. Rxe4 f3 45. Re7+ Kh6 46.
+Nf6 Rf4 47. Nd5 f2 48. Ne3 Rh4 49. Re8 Bf4 50. Rh8+ Kg5 51. Rxh4 Kxh4 52. Nf1
+Kh3 53. c5 Kg2 54. Kc2 Kxf1 0-1

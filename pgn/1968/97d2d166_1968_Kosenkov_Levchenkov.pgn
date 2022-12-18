@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kosenkov, Vsevolod"]
+[Black "Levchenkov, Vitaly"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "97d2d166"]
+[Epoch "Bishop"]
+[BlackID "11600411"]
+[BlackCountry "LAT"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 b6 5. Bg2 Bb7 6. O-O Be7 7. Nc3 cxd4 8. Qxd4
+O-O 9. e4 Nc6 10. Qd3 d6 11. b3 Ne5 12. Qe2 Nxf3+ 13. Bxf3 Rc8 14. Bb2 Qc7 15.
+Rfd1 Qb8 16. Bg2 Bc6 17. Re1 a6 18. g4 b5 19. e5 dxe5 20. Bxc6 Rxc6 21. cxb5
+axb5 22. Nxb5 Nxg4 23. Qxg4 f5 24. Qe2 Rf6 25. Bxe5 Rg6+ 26. Kf1 Qb7 27. Nd4
+Rc3 28. f3 Bc5 29. Rad1 Bxd4 30. Bxd4 Rxf3+ 31. Bf2 Rf4 32. Rd8+ Kf7 33. Qd3
+Qg2+ 34. Ke2 Rxf2+ 35. Kd1 Rf6 36. a4 Ra2 37. Rd7+ Kg6 38. Qg3+ Qxg3 39. hxg3
+h5 40. Re7 Rb2 41. Re3 h4 42. gxh4 f4 43. R3xe6 f3 44. Rxf6+ Kxf6 45. Re3 f2
+46. Rf3+ Ke5 47. a5 Ke4 48. Rf7 Ke3 49. Re7+ Kd3 50. Rd7+ Kc3 51. Rf7 Rd2+ 52.
+Kc1 Re2 53. Rf3+ Kb4 0-1

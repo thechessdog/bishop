@@ -1,0 +1,24 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1960.01.01"]
+[Round "3"]
+[White "Enevoldsen, Jens"]
+[Black "Petersen, Finn"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "c4e29a84"]
+[Epoch "Bishop"]
+[BlackID "1400754"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. f4 Qb6 8. Nf3
+Be7 9. a3 f5 10. b4 cxb4 11. cxb4 O-O 12. Nc3 Nd8 13. Bd3 Nf7 14. Ne2 Kh8 15.
+O-O Rg8 16. Kh1 Nf8 17. Be3 Bd7 18. Nc3 Rc8 19. Qd2 Qd8 20. Rfc1 h6 21. Ne2 Rb8
+22. b5 g5 23. a4 Ng6 24. fxg5 hxg5 25. g3 Kg7 26. Ra2 Rh8 27. Rac2 Ba3 28. Nxg5
+Bxc1 29. Rxc1 Rh5 30. Nxf7 Kxf7 31. g4 Rh7 32. Bg5 Qh8 33. Ng3 Ne7 34. gxf5
+Nxf5 35. Nxf5 exf5 36. Rc7 Ke8 37. Bf6 Qg8 38. Qf4 Be6 39. Rc1 Qg6 40. h4 Kd7
+41. b6 a6 42. Be2 Rg8 43. Bg5 Ke8 44. Kg1 Kd7 45. Kf2 Rc8 46. Rxc8 Kxc8 47.
+Qc1+ Kb8 48. Qc5 Rf7 49. Qd6+ Kc8 50. Qd8# 1-0

@@ -1,0 +1,22 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hort, Vlastimil"]
+[Black "Gipslis, Aivars"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "eca5298b"]
+[Epoch "Bishop"]
+[WhiteID "4600029"]
+[WhiteCountry "GER"]
+[BlackCountry "LVA"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. d4 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bg4 11. Bxg4 Nxg4 12. a4 Nf6 13. Nf4 Qd7 14. a5
+Nc8 15. O-O Nd6 16. Re1 Rfe8 17. h3 Rad8 18. Ra4 Nf5 19. Rb4 g5 20. Nfe2 Nxd5
+21. Rxb7 Qc6 22. Qb5 Qe6 23. Nxd5 Qxd5 24. Qxd5 Rxd5 25. Rxa7 Nxd4 26. Nc3 Rc5
+27. a6 Nc6 28. Rc7 Ra8 29. Be3 Rc4 30. Nd5 Rxa6 31. Nxe7+ Kf8 32. Nf5 Ra8 33.
+Bxg5 Ne5 34. Rb7 Ng6 35. Rxf7+ 1-0

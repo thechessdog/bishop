@@ -1,0 +1,20 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Heinrich, H."]
+[Black "Arnold, H."]
+[Result "0-1"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit"]
+[HashCode "169a831f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Qb3 c6 7. Nf3 Qa5 8.
+Be2 dxc4 9. Bxc4 b5 10. Bd3 Be6 11. Qc2 Nd5 12. Bg3 Nb4 13. Qb1 Nxd3+ 14.
+Qxd3 b4 15. Ne2 c5 16. b3 Rd8 17. O-O Na6 18. Rfc1 Rac8 19. Be5 Bxe5 20.
+Nxe5 cxd4 21. Nxd4 Nc5 22. Qe2 Nxb3 23. Nxb3 Qxe5 24. Qa6 Rxc1+ 25. Rxc1
+Bxb3 26. axb3 Qb2 27. Ra1 Qxb3 28. g3 Rd1+ 29. Rxd1 Qxd1+ 30. Kg2 Qd7 31.
+h4 h5 32. f4 b3 0-1
+

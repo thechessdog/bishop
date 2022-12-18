@@ -1,0 +1,18 @@
+[Event "Bognor Regis-A"]
+[Site "Bognor Regis"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Hindle, Owen M"]
+[Black "Sorensen, Pia"]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "fc5e2de4"]
+[Epoch "Bishop"]
+[WhiteID "400564"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Qb8 11. h4 a5 12. h5 Nxh5 13. g4 Nf6 14. Bh6 Bxh6 15.
+Qxh6 Nxd4 16. Nd5 Nh5 17. Rxh5 1-0

@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1972.01.01"]
+[Round "4"]
+[White "Langeweg, Kick"]
+[Black "Smejkal, Jan"]
+[Result "1/2-1/2"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "d6a6d93e"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. Bd2 O-O 7. Rc1 Nc6 8.
+e4 Nxc3 9. Bxc3 Bg4 10. d5 Ne5 11. Be2 Nxf3+ 12. Bxf3 Bxc3+ 13. Rxc3 Bxf3 14.
+Qxf3 Rc8 15. O-O c6 16. Rfc1 1/2-1/2

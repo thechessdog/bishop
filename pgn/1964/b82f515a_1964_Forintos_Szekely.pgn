@@ -1,0 +1,20 @@
+[Event "Budapest-ch"]
+[Site "Budapest"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Forintos, Gyozo V"]
+[Black "Szekely, Mihaly"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "b82f515a"]
+[Epoch "Bishop"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+[BlackID "785539"]
+[BlackCountry "HUN"]
+
+1. c4 Nf6 2. d4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bg5
+h6 9. Bh4 O-O 10. Nd2 Na6 11. Be2 Rb8 12. O-O Nc7 13. a4 b6 14. f4 Qd7 15. Nc4
+Nce8 16. e5 Ba6 17. Bg4 1-0

@@ -1,0 +1,18 @@
+[Event "Halle"]
+[Site "Halle"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Jaschke, R."]
+[Black "Keller, Edith"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "c76a0804"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Be7 7. f4 Nc6 8.
+Qd2 O-O 9. O-O-O d5 10. exd5 exd5 11. Nf3 Qa5 12. Bxf6 Bxf6 13. Nxd5 Qxa2
+14. Nxf6+ gxf6 15. Qc3 Bf5 16. Bc4 Qa1+ 17. Kd2 Qa5 18. Qxa5 Nxa5 19. Bd5
+Rfd8 20. Kc1 Rac8 21. c3 Be6 22. Be4 Nb3+ 23. Kc2 Nc5 24. Bd3 Bb3+ 0-1
+

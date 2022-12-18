@@ -1,0 +1,18 @@
+[Event "Vienna tt"]
+[Site "Vienna tt"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Zuidema, Coen"]
+[Black "Lombard, Andre"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "93467e9b"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. Nf3 Bg7 5. e5 Bg4 6. h3 Bxf3 7. Qxf3 Qb6 8. Ne2
+e6 9. b3 Nd7 10. Bb2 Ne7 11. h4 h5 12. g3 c5 13. c3 Rc8 14. Qd3 Nc6 15. f4 Bf8
+16. Bh3 cxd4 17. Nxd4 Nc5 18. Qb5 Qxb5 19. Nxb5 Nd3+ 20. Kd2 Nxb2 21. Kc2 a6
+22. Nd6+ Bxd6 23. exd6 Nb4+ 24. Kxb2 Nd3+ 25. Kc2 Nf2 26. Rh2 Ne4 27. Kb2 Rxc3
+28. Bg2 Rc6 0-1

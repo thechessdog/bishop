@@ -1,0 +1,26 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Polugaevsky, Lev"]
+[Black "Borisenko, Georgy K"]
+[Result "1-0"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "4e5c56e5"]
+[Epoch "Bishop"]
+[WhiteCountry "BLR"]
+[BlackCountry "UZB"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Bb4 5. e3 O-O 6. Bd3 Nc6 7. O-O a6 8. Qe2
+dxc4 9. Bxc4 Bd6 10. Rd1 Qe8 11. Ng5 e5 12. Nge4 Nxe4 13. Nxe4 exd4 14. exd4
+Bf5 15. Nxd6 cxd6 16. Qxe8 Rfxe8 17. Bf4 Red8 18. Rac1 d5 19. Bf1 Rac8 20. Rc5
+f6 21. h4 h6 22. a3 g5 23. hxg5 hxg5 24. Be3 Kf7 25. f3 g4 26. fxg4 Bxg4 27.
+Rdc1 Ne7 28. Kf2 Be6 29. Be2 Rxc5 30. Rxc5 Nf5 31. Bf3 Rd7 32. Ke2 Nh4 33. Bh5+
+Kg7 34. Bf2 Nf5 35. Bf3 Kf7 36. Kd3 Ke7 37. a4 Ng7 38. a5 Bf5+ 39. Ke3 Be6 40.
+Be1 Kf7 41. Bb4 Nf5+ 42. Kd3 Ne7 43. Bh5+ Ng6 44. Rc8 Kg7 45. Kd2 Bf5 46. Rb8
+Kh6 47. Bd1 Nf4 48. g4 Bg6 49. Ba4 Rh7 50. Rg8 Ne6 51. Bd6 Rg7 52. Rxg7 Nxg7
+53. Bf8 Kh7 54. Bxg7 Kxg7 55. Bd7 Kf8 56. Bc8 Be8 57. Bxb7 Bb5 58. Bxd5 Ke7 59.
+Kc3 Bd7 60. Bb7 Bb5 61. Be4 Bd7 62. Bf5 Bc6 63. Bc8 Bb5 64. d5 Kd6 65. Kd4 Bf1
+66. b4 Bb5 67. Bf5 Be2 68. Bd3 Bxg4 69. Bxa6 1-0

@@ -1,0 +1,20 @@
+[Event "FRG-ch"]
+[Site "Bad Prymont"]
+[Date "1961.10.27"]
+[Round "12"]
+[White "Bialas, Wolfram"]
+[Black "Weise, Dieter"]
+[Result "0-1"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "d15547d7"]
+[Epoch "Bishop"]
+[WhiteID "4601041"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Bb4 5. e3 O-O 6. a3 Bxc3+ 7. bxc3 c5 8.
+cxd5 exd5 9. Bd3 Bg4 10. O-O c4 11. Bc2 Ne4 12. Qe1 Bxf3 13. gxf3 Ng5 14. Qe2
+f5 15. h4 Ne6 16. Kg2 Qe8 17. Re1 Qg6+ 18. Kf1 Nd7 19. e4 fxe4 20. fxe4 Nf4 21.
+Bxf4 Rxf4 22. exd5 Qg3 23. Be4 Raf8 24. Ra2 Nf6 25. Bf5 Qxh4 26. Qe6+ Kh8 27.
+Re5 Ng4 28. Bxg4 Rxf2+ 29. Rxf2 Qxf2# 0-1

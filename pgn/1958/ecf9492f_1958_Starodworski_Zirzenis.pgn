@@ -1,0 +1,18 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Starodworski, W."]
+[Black "Zirzenis, F."]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "ecf9492f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. h4 hxg5 11. hxg5 Ng4 12. Nf3 g6 13. Rh4 f5 14.
+exf5 gxf5 15. Bc4 Qe8 16. Nd5 exd5 17. Bxd5+ Kg7 18. Rdh1 Bf6 19. Rh7+ Kg6
+20. R1h5 1-0
+

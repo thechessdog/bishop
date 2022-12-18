@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Strogovich"]
+[Black "Reshko"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "eb40b5b8"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 e5 6. dxe5 Qxd1+ 7. Nxd1
+Nc6 8. f4 Be6 9. Ne3 O-O-O 10. Nf3 h6 11. Be2 Bc5 12. b3 Nb4 13. g3 g5 14.
+fxg5 hxg5 15. Ba3 g4 16. Nh4 Rh5 17. Rd1 Re8 18. Bxb4 Bxb4+ 19. Kf2 Rxe5
+20. Rd3 Bc5 21. Re1 Nd7 22. Bd1 Nf6 23. Kf1 Bxe3 24. Rexe3 Bxc4 25. Rxe5
+Bxd3+ 26. Be2 Rxe5 27. Bxd3 Kd7 28. Bf5+ Ke7 29. Bc8 b6 30. Ng2 Kd8 31. Bb7
+Rc5 32. Ne3 c6 33. b4 Rc1+ 34. Kg2 0-1
+

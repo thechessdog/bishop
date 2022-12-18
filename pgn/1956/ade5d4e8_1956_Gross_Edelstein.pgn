@@ -1,0 +1,18 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Gross, Henry"]
+[Black "Edelstein, H."]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "ade5d4e8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 a6 9. Bh6 Nc6 10. Bxg7 Kxg7 11. O-O-O Bd7 12. h4 h5 13. Be2 b5 14. g4
+hxg4 15. fxg4 b4 16. Nd5 Nxd5 17. Nxc6 Bxc6 18. exd5 Bb5 19. h5 Bxe2 20.
+hxg6 fxg6 21. Qh6+ Kf7 22. Rdf1+ 1-0
+

@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Roth, A."]
+[Black "Schwengers, A."]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "ed359696"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 c5
+8. Nxe5 Qd4 9. Nd3 c4 10. Nf4 Nxe4 11. d3 cxd3 12. Nxd3 Be6 13. Be3 Qd7 14.
+f3 Nf6 15. Nc3 Bd6 16. Qh4 O-O 17. Rad1 Qc6 18. Bd4 Nd7 19. Ne4 f6 20. b3
+Rae8 21. c4 Bf5 22. Nxd6 Qxd6 23. c5 Qc6 24. Nb4 Qb5 25. Nd5 Qc6 26. Ne3
+Bg6 27. Rf2 Ne5 28. Qg3 Re7 29. Rfd2 Rfe8 30. h4 Qe6 31. Qf4 h6 32. Nf1 Bh7
+33. Bf2 Qf7 34. Qb4 c6 35. Rd6 Bf5 36. Ng3 Qg6 37. Qf4 Be6 38. Kh2 h5 39.
+R6d2 Qh7 40. Ne4 Bd5 41. Nd6 Rf8 42. Rd4 g5 43. hxg5 Qg6 44. gxf6 Rxf6 45.
+Qg3 Rg7 46. Rxd5 cxd5 47. Rxd5 Qc2 48. Qxe5 Qxf2 49. Qe8+ Rf8 50. Qe6+ Rff7
+51. Qh3 Rc7 52. Rxh5 Rh7 53. Qe6+ Kg7 54. Nf5+ Kf8 55. Qf6+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Cleveland,OH"]
+[Site "Cleveland,OH"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Nagel"]
+[Black "Roach, Philip"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Carlsbad variation"]
+[HashCode "a7cf6e2f"]
+[Epoch "Bishop"]
+[BlackID "11100052"]
+[BlackCountry "BAR"]
+
+1. e4 c5 2. b4 cxb4 3. a3 bxa3 4. Nxa3 d5 5. exd5 Qxd5 6. Nf3 Nc6 7. Bc4 Qe4+
+8. Be2 Qg6 9. O-O Nf6 10. Nb5 Kd8 11. d4 Bf5 12. Ne5 Nxe5 13. dxe5+ Kc8 14.
+Nxa7+ Rxa7 15. Rxa7 Bxc2 16. Ra8+ Kc7 17. Qd8+ Kc6 18. Rc8# 1-0

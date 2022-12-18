@@ -1,0 +1,16 @@
+[Event "Hefei"]
+[Site "Hefei"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "U Wei wen"]
+[Black "Lu Sin Fa"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "d131155d"]
+[Epoch "Bishop"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Ne7 5. Qh5+ Ng6 6. f4 exf4 7. Nf3 Qe7
+8. e5 fxe5 9. Ng5 Qf6 10. O-O Be7 11. Nxh7 Qb6+ 12. Kh1 Kd8 13. Bd3 Qxb2
+14. Qxg6 e4 15. Nc3 exd3 16. Qxg7 Re8 17. Nf6 Qb4 18. Nxe8 1-0
+

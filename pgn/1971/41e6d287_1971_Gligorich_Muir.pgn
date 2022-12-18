@@ -1,0 +1,18 @@
+[Event "corr NAICCC I"]
+[Site "corr NAICCC I"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Gligorich, Dragan"]
+[Black "Muir, Walter"]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "41e6d287"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. b4 b6 7. Ba3 c5 8. b5 Bb7
+9. Rc1 Nbd7 10. cxd5 Nxd5 11. Nxd5 Bxd5 12. dxc5 Nxc5 13. Bc4 Bxc4 14. Rxc4
+Qxd1+ 15. Kxd1 a6 16. bxa6 Rfd8+ 17. Nd2 Rxa6 18. Bxc5 bxc5 19. Rc2 Rda8 20.
+Rxc5 Rxa2 21. Re1 Rb2 22. Rc2 Ra1+ 23. Rc1 Raa2 24. Re2 Bd4 25. exd4 1-0

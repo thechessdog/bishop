@@ -1,0 +1,24 @@
+[Event "Dubrovnik olm"]
+[Site "Dubrovnik olm"]
+[Date "1950.01.01"]
+[Round "10"]
+[White "Giustolisi, Alberto"]
+[Black "Kongshavn, Harry"]
+[Result "0-1"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "accelerated Meran (Alekhine variation)"]
+[HashCode "2f01dcd2"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 a6 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+c5 9. O-O Bb7 10. Qe2 Nbd7 11. Rd1 Qc7 12. Bd2 cxd4 13. exd4 Bd6 14. Rac1 Qb8
+15. h3 O-O 16. Re1 Bf4 17. Ne5 Bxd2 18. Qxd2 Qd6 19. Re3 Rfd8 20. Rce1 Nf8 21.
+Rg3 Ng6 22. Qg5 Qf8 23. Ne2 Be4 24. f3 Bxd3 25. Nxd3 h6 26. Qe3 Nh4 27. Qxh6
+Nf5 28. Qg5 Nxg3 29. Qxg3 Qd6 30. Qf2 Rac8 31. g4 Rc2 32. g5 Nh5 33. Qh4 g6 34.
+Nc5 Qd5 35. Ne4 Kg7 36. Kf1 Qf5 37. Qg4 e5 38. dxe5 Qxe5 39. N2g3 Nf4 40. h4
+Qd4 41. Qxf4 Rf2+ 42. Nxf2 Qxf4 43. Kg2 Qxh4 44. Nfe4 Rc8 45. Re2 Qf4 46. Rd2
+Qe3 47. b3 b4 48. Rd7 Rc3 49. Nxc3 bxc3 50. Rc7 Qd2+ 51. Kf1 Qxa2 52. Ne2 Qb1+
+53. Kf2 c2 54. b4 Kf8 55. Ke3 Qd1 56. f4 Ke8 57. Rc6 Kd7 58. Rc5 Qb1 59. Rc4
+Qb3+ 60. Kd4 Kd6 61. Rc3 Qxb4+ 62. Kd3 a5 63. Rxc2 a4 64. Rc4 Qb1+ 65. Rc2 a3
+66. Nc3 Qf1+ 67. Ke3 Ke6 68. Ne4 Qb1 69. Rc6+ Kd7 70. Ra6 a2 0-1

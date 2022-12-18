@@ -1,0 +1,19 @@
+[Event "Dubrovnik olm"]
+[Site "Dubrovnik olm"]
+[Date "1950.01.01"]
+[Round "12"]
+[White "Enevoldsen, Harald"]
+[Black "Vestol, Aage"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "5b8cc87b"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. Nf3 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O e5 8. e4
+exd4 9. Nxd4 Nc5 10. f3 Nfd7 11. Be3 Ne5 12. b3 a5 13. Qd2 Ne6 14. Rad1 a4 15.
+Nxe6 fxe6 16. Bd4 axb3 17. axb3 Qe7 18. f4 c5 19. fxe5 Rxf1+ 20. Bxf1 cxd4 21.
+exd6 Qxd6 22. Nb5 Qb6 23. e5 Bxe5 24. Qg5 Bg7 25. c5 Qa5 26. Qe7 Bf8 27. Qe8
+Qb4 28. Nd6 Bd7 29. Qxd7 Qxc5 30. Qxe6+ Kh8 31. Bc4 Kg7 32. Qg8+ 1-0

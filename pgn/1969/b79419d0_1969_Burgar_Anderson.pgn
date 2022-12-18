@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "12"]
+[White "Burgar, Wesley"]
+[Black "Anderson, Renard"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "b79419d0"]
+[Epoch "Bishop"]
+[BlackID "2002841"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bc4 Bf5
+8. Bf4 e6 9. O-O Be7 10. c3 O-O 11. Ne5 c5 12. dxc5 Qxd1 13. Raxd1 Bxc5 14. Nd7
+Nxd7 15. Rxd7 e5 16. Rd5 Be6 17. Rxc5 Bxc4 18. Rxc4 exf4 19. Rxf4 Rfe8 20. Rd1
+Re2 21. Rfd4 g6 22. Rb4 Rae8 23. g3 b6 24. Rd7 Rc2 25. Rxa7 Ree2 26. Rf4 Rxb2
+27. Rfxf7 Rxa2 28. Rg7+ Kf8 29. Raf7+ Ke8 30. Rxh7 Rec2 31. Rb7 1-0

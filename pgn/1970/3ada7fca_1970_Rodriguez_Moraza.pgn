@@ -1,0 +1,23 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Leon Rodriguez, Orlando"]
+[Black "Moraza, Manuel"]
+[Result "1-0"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "3ada7fca"]
+[Epoch "Bishop"]
+[WhiteID "2210665"]
+[WhiteCountry "ESP"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O cxd4 10. cxd4 Nc6 11. Be3 Bg4 12. f3 Na5 13. Bb5 Be6 14. d5 Bxa1
+15. Qxa1 Bd7 16. Bxd7 Qxd7 17. Bh6 f6 18. Bxf8 Rxf8 19. Qc3 Qa4 20. Nf4 Nc4 21.
+Ne6 Rc8 22. Rc1 Qxa2 23. Ra1 Qe2 24. Nd4 Qe3+ 25. Qxe3 Nxe3 26. Rxa7 Rb8 27.
+Ra4 Rc8 28. Ra1 Kf7 29. Kf2 Nc4 30. Rb1 Nd6 31. Kg3 Rc3 32. Nb5 Nxb5 33. Rxb5
+Rc7 34. Rb6 g5 35. h4 Kg6 36. hxg5 Kxg5 37. Rb5 Rd7 38. f4+ Kg6 39. Kf3 Rc7 40.
+g4 Rc3+ 41. Ke2 Rc7 42. Kd3 Rd7 43. Kd4 Kf7 44. e5 fxe5+ 45. fxe5 Rc7 46. Rc5
+Rxc5 47. Kxc5 Ke8 48. Kb6 Kd8 49. Kxb7 Kd7 50. g5 Kd8 51. e6 1-0

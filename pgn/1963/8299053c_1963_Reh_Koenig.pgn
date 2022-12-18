@@ -1,0 +1,17 @@
+[Event "Seattle"]
+[Site "Seattle"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Reh"]
+[Black "Koenig, P."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "8299053c"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. fxe4 Bxe4 6. Nxe4 Nxe4 7. Bc4
+e6 8. Nf3 c5 9. d5 a6 10. dxe6 Qxd1+ 11. Kxd1 Nf2+ 12. Ke2 Nxh1 13. exf7+
+Kd8 14. Bg5+ Be7 15. Rd1+ Nd7 16. Be6 Rf8 17. Rxd7+ Kc8 18. Rxe7+ Kb8 19.
+Re8+ Ka7 20. Rxa8+ Rxa8 21. Be7 1-0
+

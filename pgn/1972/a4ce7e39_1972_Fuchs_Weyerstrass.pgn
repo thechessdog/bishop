@@ -1,0 +1,16 @@
+[Event "Soest"]
+[Site "Soest"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Fuchs, Reinhart"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "a4ce7e39"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Be3 Nc6 6. f4 Qa5 7. Qd2 Nge7 8. Nf3
+Nf5 9. Bf2 Bd7 10. Be2 Rc8 11. Kf1 cxd4 12. Nxd4 Ncxd4 13. Be1 Nxe2 14. Qxe2 d4
+15. g4 dxc3 0-1

@@ -1,0 +1,20 @@
+[Event "Rovigo"]
+[Site "Rovigo"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Shaw"]
+[Black "Milazzo"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "b99bcdd0"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Bg2 Be6 6. Nf3 Nc6 7. d3 Be7
+8. O-O Qd7 9. Re1 Bf6 10. Ne4 Bg4 11. Bg5 Bxg5 12. Nexg5 f6 13. h3 Bf5 14.
+Nh4 Bg6 15. Nxg6 hxg6 16. Ne4 O-O-O 17. c3 f5 18. Ng5 Qe7 19. h4 Rd7 20.
+Qa4 Nb6 21. Qc2 Rhd8 22. Rad1 Qd6 23. Bf3 Re7 24. b4 Rdd7 25. b5 Nd8 26. c4
+Qc5 27. a4 Ne6 28. Nxe6 Rxe6 29. a5 Na8 30. a6 Nb6 31. axb7+ Kb8 32. Qa2 e4
+33. dxe4 Rxd1 34. Rxd1 Rd6 35. Ra1 Nd7 36. exf5 gxf5 37. b6 Qxb6 38. c5 1-0
+

@@ -1,0 +1,20 @@
+[Event "Dubna"]
+[Site "Dubna"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kapengut, Albert Z"]
+[Black "Vaganian, Rafael A"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "63e62870"]
+[Epoch "Bishop"]
+[BlackID "13300016"]
+[BlackCountry "ARM"]
+[WhiteID "13500058"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 g6 4. Qd2 h6 5. Bf4 Bg7 6. O-O-O c6 7. f3 b5 8. e4
+b4 9. Na4 Qa5 10. Nc5 Nbd7 11. a3 Nxc5 12. dxc5 Nh5 13. Ne2 Nxf4 14. Nxf4 Rb8
+15. Nd3 dxe4 16. Nxb4 O-O 17. c3 Qxc5 18. fxe4 a5 19. Nc2 Bg4 20. Be2 Bxe2 21.
+Qxe2 Rxb2 22. Kxb2 Qxc3+ 23. Kc1 Rb8 0-1

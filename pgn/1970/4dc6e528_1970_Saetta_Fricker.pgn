@@ -1,0 +1,19 @@
+[Event "San Benedetto"]
+[Site "San Benedetto"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Saetta"]
+[Black "Fricker"]
+[Result "1-0"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "4dc6e528"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 e5 7. d5 Nbd7 8.
+Qd2 Nc5 9. Bxc5 dxc5 10. Be2 Ne8 11. O-O-O Nd6 12. h4 f5 13. f3 fxe4 14.
+fxe4 Rf4 15. Qd3 Bh6 16. Kb1 Nxe4 17. Nxe4 Rxe4 18. Qc2 Re3 19. g4 Bf4 20.
+Nh3 Qxh4 21. Nxf4 Qg3 22. Nxg6 e4 23. Ne7+ Kg7 24. Qa4 b5 25. Qxb5 Rxe2 26.
+Nxc8 1-0
+

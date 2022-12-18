@@ -1,0 +1,17 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Terrazas, F."]
+[Black "Castro, Fidel"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "King's knight's gambit"]
+[HashCode "3383b515"]
+[Epoch "Bishop"]
+[BlackID "3806162"]
+[BlackCountry "PER"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Bd6 4. d4 h6 5. e5 Bb4+ 6. c3 Ba5 7. Bxf4 g5 8. Bg3
+Qe7 9. Be2 d6 10. exd6 cxd6 11. Qa4+ Nc6 12. d5 Bd8 13. dxc6 b5 14. Qxb5 a6 15.
+Qa4 g4 16. c7+ Bd7 17. cxd8=Q+ Rxd8 18. Qd4 gxf3 19. Qxh8 Qxe2# 0-1

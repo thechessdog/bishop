@@ -1,0 +1,19 @@
+[Event "Bari"]
+[Site "Bari"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Vuruna"]
+[Black "Sahovic"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "7f7d6ae1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Qa5 8. f4
+Nge7 9. Nge2 Nd4 10. Nc1 O-O 11. O-O f5 12. Nb3 Qb6 13. Qf2 Nec6 14. Kh1
+Bd7 15. h3 a5 16. Nd1 a4 17. Nd2 a3 18. Nc4 axb2 19. Ndxb2 Qc7 20. a4 b5
+21. axb5 Nxb5 22. Rxa8 Rxa8 23. Nd1 Ra2 24. e5 dxe5 25. Bxc5 exf4 26. gxf4
+Ncd4 27. Bxd4 Nxd4 28. Nde3 Ba4 29. Rc1 Qb8 30. h4 Bxc2 0-1
+

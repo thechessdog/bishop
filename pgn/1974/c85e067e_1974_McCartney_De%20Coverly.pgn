@@ -1,0 +1,20 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "McCartney, W."]
+[Black "De Coverly, Roger D"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[HashCode "c85e067e"]
+[Epoch "Bishop"]
+[BlackID "405213"]
+[BlackCountry "ENG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Nf3 O-O 6. Bg5 c6 7. Qd2 b5 8. Bd3
+Nbd7 9. Bh6 Nb6 10. b3 Bb7 11. Bxg7 Kxg7 12. h4 h5 13. Ng5 e5 14. Ne2 Qe7 15.
+f3 d5 16. O-O-O Qa3+ 17. Kb1 exd4 18. e5 Nfd7 19. e6 Ne5 20. exf7 Qd6 21. Nxd4
+Bc8 22. f4 Nxf7 23. f5 Nxg5 24. Qxg5 Rf6 25. fxg6 Bg4 26. Rde1 Raf8 27. Nxc6
+Nc8 28. Ne5 Rf4 29. Nf7 1-0

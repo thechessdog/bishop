@@ -1,0 +1,22 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Dely, Peter"]
+[Black "Zaitsev, Alexander"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "92cebfef"]
+[Epoch "Bishop"]
+[BlackID "4164490"]
+[WhiteCountry "HUN"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Bg5 Nbd7 9. Be2 Nb6 10. Bf3 a5 11. a4 Qd6 12. Nge2 Qb4 13. Qa2 Bf5 14. O-O Bc2
+15. d6 Bb3 16. Qa3 exd6 17. Bxb7 Rab8 18. Ba6 Nc4 19. Qxb4 axb4 20. Bxf6 Bxf6
+21. Nd5 Kg7 22. Nc1 Na5 23. Nxf6 Kxf6 24. Nxb3 Nxb3 25. Rad1 Rb6 26. Bc4 Na5
+27. Bd5 b3 28. Rfe1 Rc8 29. h4 Rb4 30. Rd3 Rc7 31. Re8 Rxa4 32. Rg8 Kf5 33. Kh2
+Kg4 34. Rg7 h5 35. g3 Nc6 36. Rxf7 1-0

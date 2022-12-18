@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gurevich"]
+[Black "Muratov"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "9135fffa"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 c6 5. Qd3 b5 6. a3 a5 7. e4 Ba6 8.
+b4 h6 9. Bxf6 exf6 10. exd5 axb4 11. dxc6 bxc3 12. Qe4+ Qe7 13. cxd7+ Kxd7
+14. Ne5+ fxe5 15. Qxa8 exd4+ 16. Be2 Qe6 17. Qa7+ Kc8 18. O-O Bb7 19. Rfe1
+Qg6 20. Bf3 Bc6 21. Rad1 Qd6 22. Rxd4 Qc5 23. Re8+ 1-0
+

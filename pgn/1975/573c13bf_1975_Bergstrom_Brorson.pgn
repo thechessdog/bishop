@@ -1,0 +1,18 @@
+[Event "Hallsberg opJ"]
+[Site "Hallsberg"]
+[Date "1975.??.??"]
+[Round "5"]
+[White "Bergstrom, Mats"]
+[Black "Brorson, CH."]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "573c13bf"]
+[Epoch "Bishop"]
+
+1. b3 e5 2. Bb2 d6 3. e3 Nf6 4. Nf3 g6 5. d4 e4 6. Nfd2 Bg7 7. c4 O-O 8.
+Nc3 Re8 9. Qc2 Bf5 10. Be2 Nbd7 11. h3 h5 12. g4 hxg4 13. hxg4 Nxg4 14.
+Ndxe4 Qe7 15. Bd3 c6 16. Ba3 Bxe4 17. Nxe4 c5 18. O-O Ngf6 19. Nxf6+ Nxf6
+20. dxc5 1/2-1/2
+

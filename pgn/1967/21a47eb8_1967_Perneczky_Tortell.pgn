@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Perneczky, B."]
+[Black "Tortell, I."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "21a47eb8"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Ne5 Bh7
+8. Qh5 g6 9. Qf3 f6 10. Bc4 fxe5 11. Qf7+ Kd7 12. Qe6+ Ke8 13. Ne4 Qd4 14.
+Qc8+ 1-0
+

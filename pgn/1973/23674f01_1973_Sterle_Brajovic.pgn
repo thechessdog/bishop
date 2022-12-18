@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sterle, V."]
+[Black "Brajovic, S."]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "23674f01"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Bd3 Nc6 7. Nc2 d5 8.
+exd5 exd5 9. O-O Be6 10. Qe2 Be7 11. b3 O-O 12. Bb2 Rc8 13. Nd2 Re8 14. Qf3
+dxc4 15. Nxc4 b5 16. Ne5 Nxe5 17. Bxe5 Ng4 18. Bb2 Rxc2 19. Bxc2 Qc7 20.
+Rfc1 Qxh2+ 21. Kf1 Ba3 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Leoni"]
+[Black "Flammiger"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Marshall gambit"]
+[HashCode "13748a56"]
+[Epoch "Bishop"]
+
+1. c4 e6 2. d4 d5 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4
+Qxe4+ 8. Be2 Na6 9. Bd6 e5 10. Qb3 f6 11. Nf3 c5 12. O-O Qc6 13. Rad1 Nh6
+14. Nxe5 fxe5 15. Qg3 Kf7 16. Qxe5 Re8 17. Qh5+ Kg8 18. Bf3 Qd7 19. Bd5+
+Nf7 20. Rde1 g6 21. Qf3 Rf8 22. Qf6 1-0
+

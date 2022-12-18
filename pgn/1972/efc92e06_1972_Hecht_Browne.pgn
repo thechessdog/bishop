@@ -1,0 +1,23 @@
+[Event "Malaga"]
+[Site "Malaga"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Hecht, Hans-Joachim"]
+[Black "Browne, Walter S"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "efc92e06"]
+[Epoch "Bishop"]
+[WhiteID "4600320"]
+[WhiteCountry "DEU"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 Nf6 6. Nc3 a6 7. Bxd7+ Bxd7
+8. Bg5 h6 9. Bxf6 gxf6 10. Nd5 Rg8 11. O-O-O Rxg2 12. Rhg1 Rxg1 13. Rxg1 Bc6
+14. Nd2 Bxd5 15. exd5 Qc7 16. Rg8 O-O-O 17. Rg3 Kb8 18. Rc3 Qa5 19. Nb3 Qb5 20.
+Rc4 Rc8 21. Rxc8+ Kxc8 22. c4 Qa4 23. Kb1 h5 24. Qd3 Kd8 25. Nd4 Bh6 26. b3 Qa5
+27. Nc2 Qd2 28. Qxd2 Bxd2 29. Nd4 Kd7 30. Kc2 Bf4 31. h3 e6 32. Ne2 Bh6 33. Kd3
+f5 34. b4 h4 35. a4 e5 36. f3 b6 37. Nc3 Bc1 38. a5 bxa5 39. b5 axb5 40. cxb5
+Kc7 41. Na4 Kb7 42. Kc2 Ba3 0-1

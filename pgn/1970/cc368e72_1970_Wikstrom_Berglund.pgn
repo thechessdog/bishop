@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Wikstrom, B."]
+[Black "Berglund, M."]
+[Result "1-0"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "cc368e72"]
+[Epoch "Bishop"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. c4 Nd7 5. Nc3 e5 6. Be2 Ngf6 7. O-O O-O 8.
+Re1 exd4 9. Nxd4 Re8 10. f3 c6 11. Kh1 Nc5 12. Be3 Nh5 13. g4 Be5 14. gxh5
+Bxh2 15. Qd2 Qh4 16. Bg5 Qg3 17. Bd1 Re5 18. f4 Nd3 19. Rf1 Qh3 20. Qg2
+Bxf4+ 21. Qxh3 Bxh3 22. Bxf4 Bxf1 23. Bxe5 dxe5 24. Nf3 Nxb2 25. Bc2 Bh3
+26. c5 Nc4 27. Ng5 Bg4 28. h6 Nd2 29. Bd1 Bd7 30. Be2 f6 31. Rd1 fxg5 32.
+Rxd2 Be6 33. Rb2 Rb8 34. Ba6 b6 35. Rd2 Kf7 36. Rd6 g4 37. Rxc6 bxc5 38.
+Rxc5 Rb6 39. Bc8 Bxc8 40. Rc7+ Ke6 41. Rxc8 Ra6 42. Nd5 Kf7 43. Rc7+ Kg8
+44. Rg7+ Kf8 45. Rxh7 1-0
+

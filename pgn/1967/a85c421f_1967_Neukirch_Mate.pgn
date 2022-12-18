@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Neukirch, W."]
+[Black "Mate, Z."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "a85c421f"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. Bg2 Be7 5. Nc3 Nd4 6. Qd1 d6 7. Nce2 Qb6 8.
+c3 Nc6 9. d3 Nf6 10. h3 d5 11. Qc2 O-O 12. f4 dxe4 13. dxe4 e5 14. f5 c4
+15. Bd2 Rd8 16. Bf3 Rd3 17. g4 Bxf5 18. gxf5 Rad8 19. Bc1 Nxe4 20. Bxe4
+Bh4+ 0-1
+

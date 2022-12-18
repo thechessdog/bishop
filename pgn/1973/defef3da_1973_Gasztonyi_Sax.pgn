@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Gasztonyi, Endre"]
+[Black "Sax, Gyula"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, 6.Be2"]
+[HashCode "defef3da"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 g6 2. c4 Nf6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. f4 c5 7. d5 b5 8. cxb5 a6
+9. bxa6 Qa5 10. Bd2 Bxa6 11. e5 Nfd7 12. e6 Nb6 13. exf7+ Rxf7 14. Bg4 Nc4 15.
+Qc2 Qb4 16. Be6 Nxb2 17. Nge2 Bd3 18. Qc1 Bxe2 19. Nxe2 Nd3+ 20. Kf1 Nxc1 21.
+Bxb4 Bxa1 0-1

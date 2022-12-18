@@ -1,0 +1,17 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Bondarevsky, Igor"]
+[Black "Tarasov, Vitaly"]
+[Result "1/2-1/2"]
+[ECO "D56"]
+[Opening "QGD"]
+[Variation "Lasker defence, Teichmann variation"]
+[HashCode "cc39a1eb"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 Ne4 8. Bxe7
+Qxe7 9. Qc2 Nxc3 10. Qxc3 dxc4 11. Bxc4 b6 12. Be2 Bb7 13. Ne5 c5 14. Bf3 Rc8
+15. Rc1 Bxf3 16. Nxf3 Qb7 1/2-1/2

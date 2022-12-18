@@ -1,0 +1,18 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "8"]
+[White "Vasquez, E."]
+[Black "Scharff, Klaus"]
+[Result "1-0"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "9272775a"]
+[Epoch "Bishop"]
+[BlackID "24613851"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. d4 b5 6. Bb3 exd4 7. Bd5 Bb7 8. Nxd4
+Qd7 9. O-O Nf6 10. Nxc6 Bxc6 11. Bxc6 Qxc6 12. Nc3 Be7 13. Re1 O-O 14. Bg5 Qd7
+15. e5 Ne8 16. Bxe7 Qxe7 17. Qf3 dxe5 18. Qxa8 1-0

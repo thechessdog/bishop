@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Franke, K."]
+[Black "Hund, H."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "636c8067"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 exd4 5. e5 Nd5 6. cxd4 Bb4+ 7. Bd2 O-O
+8. Qb3 Bxd2+ 9. Nbxd2 Nb6 10. Bd3 d6 11. O-O dxe5 12. dxe5 Qe7 13. Rfe1 Bg4
+14. Re4 Bf5 15. Rh4 Bxd3 16. Qxd3 h6 17. Re1 Rad8 18. Qf5 Rxd2 19. Rxh6
+gxh6 20. Nxd2 Qg5 0-1
+

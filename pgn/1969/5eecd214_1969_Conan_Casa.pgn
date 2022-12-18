@@ -1,0 +1,24 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "4"]
+[White "Conan, Claude"]
+[Black "Casa, Alex"]
+[Result "1/2-1/2"]
+[ECO "E65"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav, 7.O-O"]
+[HashCode "5eecd214"]
+[Epoch "Bishop"]
+[WhiteID "26077272"]
+[WhiteCountry "FRA"]
+[BlackID "602515"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nf3 O-O 6. O-O c5 7. Nc3 Nc6 8. dxc5
+dxc5 9. Be3 Qa5 10. Qa4 Qxa4 11. Nxa4 b6 12. Rad1 Bb7 13. Ng5 Na5 14. Bxb7 Nxb7
+15. Nc3 Nd6 16. b3 h6 17. Nf3 Rfd8 18. Bf4 Nde4 19. Na4 Ng4 20. Rxd8+ Rxd8 21.
+h3 e5 22. Bc1 Ngf6 23. Nxe5 Nh5 24. Nd3 f5 25. Kg2 Nhf6 26. f3 Ng5 27. Nf4 Kf7
+28. Nc3 Ne6 29. Nfd5 Nd7 30. Rd1 Ne5 31. Nf4 Rxd1 32. Nxd1 Nd4 33. Kf2 g5 34.
+Nd5 Ndxf3 35. exf3 Nd3+ 36. Ke3 Nxc1 37. N1c3 b5 38. cxb5 Ke6 39. b6 axb6 40.
+Nc7+ Kd7 1/2-1/2

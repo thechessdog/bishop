@@ -1,0 +1,18 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "10"]
+[White "Ciocaltea, Victor"]
+[Black "Marić, Rudolf"]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "eeee6566"]
+[Epoch "Bishop"]
+[WhiteCountry "ROU"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. a3 Bf8 6. Nf3 b6 7. b4 Ne7 8. Bd3 c5
+9. bxc5 bxc5 10. Nb5 Nf5 11. dxc5 Bxc5 12. c3 Nc6 13. O-O a6 14. g4 Nfe7 15.
+Nbd4 Qc7 16. Re1 Bd7 17. Qe2 Qa7 18. Nb3 Bb6 19. Rb1 Ng6 20. a4 O-O 1/2-1/2

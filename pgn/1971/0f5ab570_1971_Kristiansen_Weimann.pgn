@@ -1,0 +1,19 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Kristiansen, Jens"]
+[Black "Weimann, Jan"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Tolush-Geller gambit"]
+[HashCode "0f5ab570"]
+[Epoch "Bishop"]
+[WhiteID "1400061"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e4 b5 6. e5 Nd5 7. a4 e6 8. axb5
+Nxc3 9. bxc3 cxb5 10. Ng5 Qc7 11. Qh5 h6 12. Be2 g6 13. Qf3 Bb7 14. Qf6 hxg5
+15. Qxh8 Bxg2 16. Rg1 Be4 17. Bxg5 Nd7 18. Rg4 Bf5 19. Rh4 Qb7 20. f3 b4 21.
+Rh7 bxc3 22. Qg8 Nb6 23. Qxf8+ Kxf8 24. Rh8+ Kg7 25. Bf6# 1-0

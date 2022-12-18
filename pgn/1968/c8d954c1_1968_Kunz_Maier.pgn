@@ -1,0 +1,19 @@
+[Event "corr ol6"]
+[Site "corr ol6"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kunz"]
+[Black "Maier"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "c8d954c1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Bg5 c5 3. dxc5 e6 4. Nc3 Bxc5 5. e3 Nc6 6. Bd3 d5 7. Nge2 h6
+8. Bh4 Be7 9. O-O O-O 10. Nd4 Bd7 11. Be2 e5 12. Nb3 Be6 13. f4 Nd7 14. Bg3
+d4 15. exd4 exd4 16. Ne4 f5 17. Nf2 Nb6 18. Nd3 Nd5 19. Bf2 Ne3 20. Bxe3
+dxe3 21. c3 Qb6 22. Qc2 a5 23. Rae1 a4 24. Nbc1 a3 25. b4 Rfc8 26. Qb1 Na7
+27. Nb3 Nb5 28. Ndc5 Nxc3 29. Qd3 Nxa2 30. Qxe3 Bxc5 31. Nxc5 Bf7 32. Bf3
+Nxb4 33. Bxb7 Re8 34. Qc3 Rxe1 35. Bxa8 Rxf1+ 36. Kxf1 a2 0-1
+

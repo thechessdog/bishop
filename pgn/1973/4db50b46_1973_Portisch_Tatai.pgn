@@ -1,0 +1,19 @@
+[Event "Ljubljana"]
+[Site "Ljubljana"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Portisch, Lajos"]
+[Black "Tatai, Stefano"]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "4db50b46"]
+[Epoch "Bishop"]
+[WhiteID "700037"]
+[WhiteCountry "HUN"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. h3 c6 7. d5 e6 8. Bd3 exd5
+9. exd5 Re8+ 10. Be3 Bf5 11. Bxf5 gxf5 12. O-O Ne4 13. Ne2 Nd7 14. Qc2 Rb8 15.
+Rab1 b5 16. b3 Qe7 17. cxb5 Rxb5 18. Rbe1 Ndf6 19. Nh4 1-0

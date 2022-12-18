@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Osnos, Vyacheslav"]
+[Black "Zhukhovitsky, Samuel"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "c40c6889"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Qe2 Nc6 8. Be3
+Na5 9. Bb3 b5 10. O-O-O Qc7 11. g4 Nxb3+ 12. axb3 Bb7 13. f3 Be7 14. g5 Nd7 15.
+h4 O-O-O 16. b4 Ne5 17. f4 Nc6 18. f5 Nxd4 19. Bxd4 exf5 20. Bxg7 Rhe8 21. Nd5
+Bxd5 22. Rxd5 fxe4 23. Kb1 Kb8 24. Qxe4 Bxg5 25. Qxh7 Bf4 26. h5 Be5 27. Bxe5
+dxe5 28. Rxd8+ Qxd8 29. Qxf7 e4 30. Qf4+ Kb7 31. Rg1 Re7 32. Qe3 Qb6 33. Qxb6+
+Kxb6 34. h6 e3 35. Kc1 e2 36. Kd2 Re4 37. Rh1 e1=Q+ 38. Rxe1 Rd4+ 39. Kc3 Rh4
+40. Re6+ Kb7 41. Re7+ 1-0

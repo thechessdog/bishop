@@ -1,0 +1,19 @@
+[Event "JUG-22ch"]
+[Site "Kraljevo"]
+[Date "1967.??.??"]
+[Round "2"]
+[White "Bradvarevic, Aleksandar"]
+[Black "Vukic, Milan"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "76aa0178"]
+[Epoch "Bishop"]
+[BlackID "900273"]
+[BlackCountry "BIH"]
+[WhiteCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Nge2 Nbd7 9. g3 Nb6 10. Bg2 Bf5 11. O-O Bd3 12. Rd1 Bc4 13. Qa3 Nbxd5 14. Nf4
+e6 15. Ncxd5 Nxd5 16. Qc5 Nxf4 17. Bxf4 Bd5 1/2-1/2

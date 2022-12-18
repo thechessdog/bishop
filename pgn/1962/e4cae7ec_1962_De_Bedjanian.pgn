@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "De Mayo"]
+[Black "Bedjanian, V."]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "e4cae7ec"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e3 d5 6. Bd3 dxc4 7. Bxc4 c5 8.
+dxc5 Qa5 9. Ne2 Qxc5 10. b3 b5 11. Bd3 Bb7 12. O-O Rc8 13. Bb2 Bxc3 14.
+Bxc3 Qg5 15. g3 Qh5 16. Qd2 Qf3 17. e4 Nxe4 18. Qe3 Qh1+ 19. Kxh1 Nxf2+ 20.
+Kg1 Nh3# 0-1
+

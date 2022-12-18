@@ -1,0 +1,19 @@
+[Event "corr FIN jub10"]
+[Site "corr FIN jub10"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Jantunen, O."]
+[Black "Peraelae, B."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "62de698e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O Qc7 10. Rhg1 a6 11. Bb3 b5 12. g4 b4 13. Nxc6 Qxc6 14.
+Nd5 exd5 15. g5 dxe4 16. gxf6 Bxf6 17. Bd5 Qa4 18. Qh5 Be6 19. Rxg7+ Bxg7
+20. Rg1 Rfc8 21. Bxe4 Kf8 22. Rxg7 Rxc2+ 23. Bxc2 Rc8 24. Rg8+ Kxg8 25.
+Qxh7+ Kf8 26. Qh8+ Ke7 27. Qxc8 1-0
+

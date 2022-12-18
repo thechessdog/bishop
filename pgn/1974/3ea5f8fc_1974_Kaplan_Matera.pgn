@@ -1,0 +1,20 @@
+[Event "Houston"]
+[Site "Houston"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kaplan, Julio"]
+[Black "Matera, Salvatore"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "3ea5f8fc"]
+[Epoch "Bishop"]
+[WhiteID "2000326"]
+[WhiteCountry "USA"]
+[BlackID "2000580"]
+[BlackCountry "USA"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Nf3 Nf6 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. a4
+e5 9. d5 Ne7 10. a5 a6 11. Nd2 Bc8 12. Na4 Nh5 13. Bxh5 gxh5 14. Qxh5 f5 15.
+Bg5 Qd7 16. Bxe7 Qxe7 17. c4 Rf6 18. Qe2 f4 19. f3 1/2-1/2

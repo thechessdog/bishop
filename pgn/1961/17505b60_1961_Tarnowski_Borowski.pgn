@@ -1,0 +1,19 @@
+[Event "Katowice ch18-POL"]
+[Site "Katowice ch18-POL"]
+[Date "1961.01.01"]
+[Round "8"]
+[White "Tarnowski, Alfred"]
+[Black "Borowski, Natan"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "17505b60"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Ne2 e6 3. d4 d5 4. exd5 exd5 5. Nbc3 c4 6. g3 Bb4 7. Bg2 Ne7 8. O-O
+O-O 9. Nf4 Bxc3 10. bxc3 Nbc6 11. Ba3 g5 12. Nh3 f6 13. f4 g4 14. Nf2 f5 15.
+Re1 Re8 16. Re3 b5 17. Qe2 a5 18. Bc5 Rb8 19. Re1 Rb7 20. a3 Kf7 21. Nd1 Qd7
+22. Kf2 Rc7 23. h3 h5 24. hxg4 hxg4 25. Rh1 Kg7 26. Qe1 Rh8 27. Rxh8 Kxh8 28.
+Qh1+ Kg7 29. Re1 Qd8 30. Ne3 Rd7 31. Qh5 Rb7 32. Qg5+ Kf7 33. Nxd5 1-0

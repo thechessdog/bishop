@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Roizman, Michael"]
+[Black "Antoshin, Vladimir S"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "d041b216"]
+[Epoch "Bishop"]
+[WhiteID "2802953"]
+[WhiteCountry "ISR"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qb3 a6 10. a4 Ba5 11. Rd1 Qe7 12. Bd2 Bc7 13. a5 b5 14. axb6 Nxb6 15.
+Na4 Nxa4 16. Rxa4 Bb7 17. Be2 Be4 18. Be1 Bd5 19. Bc4 Rfb8 20. Qc2 Bb7 21. Be2
+Bd5 22. Bc4 1/2-1/2

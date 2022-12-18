@@ -1,0 +1,17 @@
+[Event "Reggio Emilia 6364"]
+[Site "Reggio Emilia"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Barcza, Gedeon"]
+[Black "Bonfioli, Marco"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "3e2d0d81"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 e6 4. c4 c6 5. e3 g6 6. d3 Bg7 7. Nbd2 O-O 8. Rc1
+Nbd7 9. Be2 Re8 10. d4 Qe7 11. O-O e5 12. Nxe5 Nxe5 13. dxe5 Nd7 14. cxd5 cxd5
+15. f4 f6 16. Nf3 Qf7 17. Rc7 fxe5 18. Ng5 1-0

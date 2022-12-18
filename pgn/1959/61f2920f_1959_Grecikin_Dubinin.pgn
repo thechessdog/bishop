@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Grecikin"]
+[Black "Dubinin, Peter Vasilievich"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "61f2920f"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 h6 8. Bh4
+Bd7 9. O-O-O Nc6 10. e5 Nxd4 11. Rxd4 dxe5 12. Rd1 Qc7 13. Bxf6 Bc6 14. Ne4
+gxf6 15. g4 h5 16. h3 Bh6+ 17. Kb1 Kf8 18. Bd3 Bf4 0-1

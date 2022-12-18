@@ -1,0 +1,17 @@
+[Event "CsB"]
+[Site "CsB"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Ott"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "2cda2434"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. O-O
+O-O 9. f4 Qc7 10. f5 e5 11. Nde2 b5 12. Ng3 Bb7 13. Nh5 Nbd7 14. Bg5 b4 15. Nd5
+Bxd5 16. Bxf6 Nxf6 17. Nxf6+ Bxf6 18. Qxd5 Qc5+ 19. Qxc5 dxc5 20. Rfd1 Rad8 21.
+Bd5 Rd7 22. a3 a5 23. axb4 axb4 24. Ra5 Rc8 25. Rda1 Kf8 26. Ra8 1-0

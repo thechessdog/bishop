@@ -1,0 +1,19 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Andric"]
+[Black "O'Kelly"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "9231dbf3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. O-O Nc6 8.
+dxc5 Bxc5 9. cxd5 exd5 10. Ng3 Bg4 11. Nce2 Bd6 12. Nf5 Bc7 13. h3 Bxf5 14.
+Bxf5 Qe7 15. Bc2 Rad8 16. Nd4 Ne4 17. Qg4 Nxd4 18. exd4 f5 19. Qd1 Qd6 20.
+f4 Rfe8 21. Qd3 Bb6 22. Be3 Qb4 23. Bb3 Ng3 24. Rf2 h5 25. a3 Qd6 26. Rf3
+h4 27. Bd1 Re4 28. Qd2 Qf6 29. Bb3 Bxd4 30. Rd1 Bxe3+ 31. Rxe3 Qb6 0-1
+

@@ -1,0 +1,21 @@
+[Event "Netherlands tt"]
+[Site "Netherlands tt"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Van Dop, Arend"]
+[Black "Ooiman"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "695895e2"]
+[Epoch "Bishop"]
+[WhiteID "1000810"]
+[WhiteCountry "NED"]
+
+1. b3 Nf6 2. Bb2 g6 3. e4 d6 4. g3 Bg7 5. Bg2 e5 6. Ne2 O-O 7. O-O Nc6 8. d4
+Bg4 9. f3 Bd7 10. dxe5 dxe5 11. Na3 Qc8 12. Nc4 Re8 13. a4 Bh3 14. Qe1 Bxg2 15.
+Kxg2 Qe6 16. Rd1 Rad8 17. Qf2 Bf8 18. Nc1 b6 19. Nd3 Nd7 20. Ne3 Nf6 21. Rfe1
+Rd7 22. Nd5 Red8 23. N3f4 Qd6 24. Ba3 Nxd5 25. Bxd6 Nc3 26. Rd3 Rxd6 27. Rxd6
+Rxd6 28. Nd3 Bh6 29. f4 exf4 30. gxf4 Bg7 31. e5 Rd4 32. e6 Nd5 33. exf7+ Kxf7
+34. Qe2 1-0

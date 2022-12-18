@@ -1,0 +1,18 @@
+[Event "Bad Pyrmont"]
+[Site "Bad Pyrmont"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "De Moura"]
+[Black "Prins, Lodewijk"]
+[Result "0-1"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "213265e1"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Bd7 7. Re1 h6 8. d4 b5
+9. Bc2 g5 10. d5 Ne7 11. Nbd2 Ng6 12. Nf1 Bg4 13. Ne3 Bh5 14. Nf5 g4 15. N3h4
+Nxh4 16. Nxh4 g3 17. Nf3 gxf2+ 18. Kxf2 Ng4+ 19. Kg1 Nxh2 20. Be3 Bxf3 21. gxf3
+Qh4 0-1

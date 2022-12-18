@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Bengtsson, Bo"]
+[Black "Schussler, Harry"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "4633da25"]
+[Epoch "Bishop"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+[WhiteID "1700804"]
+[WhiteCountry "SWE"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. e5
+dxe5 9. dxe5 Nd5 10. h3 Nxc3 11. bxc3 Be6 12. Ng5 Qd5 13. Be3 Rad8 14. Qe2 Na5
+15. Rad1 Qc6 16. Bd4 Bc4 17. Qf2 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Mar del Plata zt"]
+[Site "Mar del Plata zt"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Rubinetti, Jorge"]
+[Black "Mendivil, Ismael"]
+[Result "1-0"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[HashCode "83409095"]
+[Epoch "Bishop"]
+[WhiteID "100161"]
+[WhiteCountry "ARG"]
+
+1. e4 g6 2. d4 d6 3. c4 Bg7 4. Nc3 Nf6 5. Be2 O-O 6. Nf3 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bh4 Nd7 10. O-O c6 11. Qc2 Qe8 12. Rad1 g5 13. Bg3 h5 14. h3 Nh6 15. dxe5
+dxe5 16. b4 Qg6 17. c5 Re8 18. Bc4+ Kh8 19. Qb3 h4 20. Bh2 Nf8 21. Rd6 Qh5 22.
+Nd2 g4 23. hxg4 Bxg4 24. f3 Bc8 25. Nd1 Nh7 26. Ne3 Ng5 27. Kh1 Nhf7 28. Bxf7
+Nxf7 29. Rd3 Be6 30. Ndc4 Bh6 31. Qc2 Rg8 32. Nd6 Ng5 33. Ndf5 h3 34. g4 Qg6
+35. Qf2 Rgd8 36. Rd6 Bf8 37. Nh4 Qh7 38. Rxd8 Rxd8 39. Nef5 Bc4 40. Rc1 Be6 41.
+Qe3 Qd7 42. Bxe5 Bg7 43. Bd4 Bxa2 44. Qc3 Qe6 45. Re1 Qc4 46. Qxc4 Bxc4 47. Nd6
+Bg8 48. Kh2 Kh7 49. Kg3 b6 50. Nhf5 Rb8 51. f4 bxc5 52. Bxc5 Ne6 53. Rh1 Nxc5
+54. Rxh3+ Kg6 55. Ne7# 1-0

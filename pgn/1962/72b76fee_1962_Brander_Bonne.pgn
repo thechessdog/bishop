@@ -1,0 +1,18 @@
+[Event "Marianske Lazne"]
+[Site "Marianske Lazne"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Brander, Ilmari"]
+[Black "Bonne, Mark"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "72b76fee"]
+[Epoch "Bishop"]
+[WhiteID "511706"]
+[WhiteCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Ne7 8. Qxg7
+Rg8 9. Qxh7 dxc3 10. bxa5 Nbc6 11. Nf3 Qxa5 12. h4 Bd7 13. Rb1 O-O-O 14. Qxf7
+Rdf8 15. Qh7 Nf5 16. Ng5 Rh8 17. Qg6 Nxe5 0-1

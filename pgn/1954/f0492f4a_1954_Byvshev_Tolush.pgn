@@ -1,0 +1,18 @@
+[Event "URS-ch sf"]
+[Site "Leningrad"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Byvshev, Vasily Mikhailovich"]
+[Black "Tolush, Alexander"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "f0492f4a"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 g6 8. h4
+Bg7 9. Qd2 O-O 10. O-O-O Ne5 11. Bb3 Nc6 12. Nxc6 bxc6 13. h5 Nxh5 14. g4 Nf6
+15. Bh6 Bh8 16. g5 Nd7 17. Bxf8 Qxf8 0-1

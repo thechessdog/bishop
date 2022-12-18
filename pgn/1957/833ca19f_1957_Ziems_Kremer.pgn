@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Ziems"]
+[Black "Kremer"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "833ca19f"]
+[Epoch "Bishop"]
+
+1. b4 a5 2. b5 Nf6 3. Bb2 d6 4. f4 e5 5. fxe5 dxe5 6. Bxe5 Ng4 7. Bb2 Bd6
+8. Nf3 Nxh2 9. d3 Qe7 10. Nc3 Bg3+ 11. Kd2 Bf4+ 12. Ke1 Bg4 13. Rxh2 Bg3+
+14. Kd2 Bxf3 0-1
+

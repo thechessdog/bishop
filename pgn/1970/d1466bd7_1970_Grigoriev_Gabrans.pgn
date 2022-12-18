@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Grigoriev, Nikolai"]
+[Black "Gabrans, Harijs"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani opening"]
+[HashCode "d1466bd7"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Bb5 dxe4 5. Nxe5 Qd5 6. Qa4 Ne7 7. f4 Bd7
+8. Nxd7 Kxd7 9. O-O Nf5 10. b4 a5 0-1
+

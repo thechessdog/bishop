@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Zaitsev, Alexander"]
+[Black "Antoshin, Vladimir S"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "98ce1cd3"]
+[Epoch "Bishop"]
+[WhiteID "4164490"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bg5 Ne4 4. Bh4 c5 5. e3 Qb6 6. Qc1 Nc6 7. Be2 Bg4 8.
+dxc5 Qxc5 9. O-O g5 10. Bg3 h5 11. c4 h4 12. cxd5 Qxc1 13. Rxc1 hxg3 14. dxc6
+gxf2+ 15. Kf1 Ng3+ 16. Kxf2 Nxe2 17. cxb7 Rb8 18. Rc2 Rxb7 19. Rxe2 1/2-1/2

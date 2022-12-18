@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Hodurski"]
+[Black "Ruckert"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "5861eb16"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Nxc3 d6 5. Bc4 Nc6 6. Nf3 Be6 7. Bxe6
+fxe6 8. Qb3 Qc8 9. Ng5 Nd8 10. f4 c6 11. O-O d5 12. f5 Bc5+ 13. Kh1 exf5
+14. exd5 cxd5 15. Nxd5 Qc6 16. Bf4 Rc8 17. Rfe1+ Kf8 18. Rad1 h6 19. Ne7
+Qf6 20. Nh7+ Rxh7 21. Qxg8# 1-0
+

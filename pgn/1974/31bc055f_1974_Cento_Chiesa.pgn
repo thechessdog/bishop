@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Cento"]
+[Black "Chiesa"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "31bc055f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7.
+Ke3 Qh4 8. Rf1 d5 9. Bxd5 Nf6 10. Bxc6+ bxc6 11. Nxe5 Qe4+ 12. Kf2 Ng4+ 13.
+Nxg4 Bxg4 14. Qe1 O-O+ 15. Kg3 Be2 0-1
+

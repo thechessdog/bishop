@@ -1,0 +1,24 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1975.01.01"]
+[Round "6"]
+[White "Ornstein, Axel"]
+[Black "Langeweg, Kick"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "c46e6873"]
+[Epoch "Bishop"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Nf6 7. Be2 d6 8. O-O
+Be7 9. f4 O-O 10. Qe1 Bd7 11. Qg3 Nxd4 12. Bxd4 Bc6 13. Bd3 b5 14. a3 Qd7 15.
+Rae1 a5 16. Nd1 Rfe8 17. Nf2 b4 18. axb4 axb4 19. c3 g6 20. cxb4 Rab8 21. f5
+Nh5 22. Qe3 exf5 23. Bc4 d5 24. exd5 Bxd5 25. Qe5 Bf6 26. Qxd5 Qxd5 27. Bxd5
+Bxd4 28. Rd1 Rxb4 29. Kh1 Nf6 30. Nd3 Rb6 31. Bf3 Bxb2 32. Rb1 Bd4 33. Rxb6
+Bxb6 34. g3 h5 35. Kg2 Rd8 36. Rd1 Ng4 37. Bxg4 fxg4 38. Nf2 Rxd1 39. Nxd1 Bd4
+0-1

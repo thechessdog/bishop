@@ -1,0 +1,20 @@
+[Event "CSR-ch"]
+[Site "Jablonec"]
+[Date "1962.??.??"]
+[Round "5"]
+[White "Blatny, Frantisek"]
+[Black "Vesely, Jiri"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "084f9900"]
+[Epoch "Bishop"]
+[WhiteID "300764"]
+[BlackID "353280"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Rb8 7. a4 Qa5 8. Bd2
+Qd8 9. Nge2 Nd4 10. h3 e6 11. O-O Ne7 12. Nf4 Nec6 13. Nb5 a6 14. Na3 b5 15. c3
+b4 16. Nc4 Nb3 17. e5 1/2-1/2

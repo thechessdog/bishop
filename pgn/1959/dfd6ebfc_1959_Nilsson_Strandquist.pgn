@@ -1,0 +1,16 @@
+[Event "Helsingborg"]
+[Site "Helsingborg"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Strandquist, E."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "dfd6ebfc"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qg4 7. Qf2 e5 8.
+Bd3 e4 9. Bc4 Qf5 10. Qg3 c6 11. O-O-O Nbd7 12. Nh3 Nh5 13. Qc7 Qe5 14. Rxd7
+Qxc7 15. Rxc7 Be7 16. Rf1 Kd8 17. Rxe7 Kxe7 18. Rxf7+ Ke8 19. Bc5 Bd7 20. Nxe4
+b5 21. Be7 bxc4 22. Nd6# 1-0

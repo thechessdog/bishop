@@ -1,0 +1,21 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1969.01.01"]
+[Round "7"]
+[White "Donner, Jan Hein"]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "9f68c975"]
+[Epoch "Bishop"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. Bxb8 Rxb8 7. Qa4+ Bd7 8.
+Qxa7 cxd4 9. Qxd4 O-O 10. cxd5 Qa5 11. Qd2 b5 12. Bd3 b4 13. Nce2 Qxd5 14. Nf3
+Rfd8 15. O-O e5 16. e4 Nxe4 17. Bxe4 Qxe4 18. Ng3 Qf4 19. Rfd1 Qxd2 20. Rxd2
+Bc6 21. Re2 f5 22. Nxe5 Bb5 23. Ree1 f4 24. Nf1 Rd5 25. Nf3 Bxb2 26. Rab1 Bc3
+27. Re7 Rbd8 28. Rb7 Bc4 29. R1xb4 Bxb4 30. Rxb4 Be2 31. h4 Rd1 32. Nh2 Ra1 0-1

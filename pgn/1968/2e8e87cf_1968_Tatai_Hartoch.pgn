@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1968.01.01"]
+[Round "9"]
+[White "Tatai, Stefano"]
+[Black "Hartoch, Robert G"]
+[Result "1/2-1/2"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "2e8e87cf"]
+[Epoch "Bishop"]
+[WhiteCountry "ITA"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Bg5 Bb7 12. Nbd2 Ne8 13. Be3 c5 14. Bc2 g6 15. a4
+Bf6 16. Qe2 cxd4 17. cxd4 Rc8 18. Nb3 bxa4 19. Rxa4 exd4 20. Nfxd4 Nc5 21. Nxc5
+Rxc5 22. b4 Re5 23. Nf3 Re7 24. Bh6 Ng7 25. Qd2 Qc7 26. Rd1 1/2-1/2

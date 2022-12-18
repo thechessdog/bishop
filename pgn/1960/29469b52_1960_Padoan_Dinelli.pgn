@@ -1,0 +1,16 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Padoan"]
+[Black "Dinelli"]
+[Result "1-0"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "29469b52"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5 Bd7 7. Nd5 Nxe4
+8. O-O a6 9. Re1 Nc5 10. Bc4 Ne5 11. Rxe5 dxe5 12. Qh5 g6 13. Qxe5 Rg8 14.
+Nf6# 1-0
+

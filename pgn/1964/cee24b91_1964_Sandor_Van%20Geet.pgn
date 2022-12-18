@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Beverwijk II"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Sandor, Bela"]
+[Black "Van Geet, Dirk Daniel"]
+[Result "1-0"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "cee24b91"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "NLD"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 a6 6. a4 c5 7. O-O Nc6 8. Qe2
+Be7 9. Rd1 O-O 10. Nc3 cxd4 11. exd4 Nb4 12. Bg5 Qa5 13. d5 exd5 14. Qxe7 Re8
+15. Bxf6 Rxe7 16. Bxe7 Nc6 17. Nxd5 Nxe7 18. b4 1-0

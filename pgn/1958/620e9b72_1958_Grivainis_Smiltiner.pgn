@@ -1,0 +1,20 @@
+[Event "Munich olm prel"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "1"]
+[White "Grivainis, Konstantin"]
+[Black "Smiltiner, Shlomo"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "620e9b72"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 Bg4 7. Be2 e6
+8. O-O Nf6 9. Nc3 Qd7 10. Qa4 Bd6 11. Bg5 Nd5 12. Ne4 O-O 13. Rfd1 h6 14.
+Be3 Rad8 15. a3 Bb8 16. Rac1 Qc7 17. g3 f5 18. Nc3 f4 19. Nxd5 Rxd5 20.
+gxf4 Qf7 21. Rxc6 bxc6 22. Ne5 Rxe5 23. Bxg4 Rxe3 24. fxe3 Qg6 25. h3 h5
+26. Kf2 hxg4 27. Rg1 Bxf4 28. Rxg4 Bh6+ 29. Ke2 Qf5 30. Qxc6 Qf2+ 31. Kd1
+Qxe3 0-1
+

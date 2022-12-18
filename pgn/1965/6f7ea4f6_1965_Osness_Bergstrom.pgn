@@ -1,0 +1,17 @@
+[Event "Waterloo"]
+[Site "Waterloo"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Osness, J."]
+[Black "Bergstrom, J."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "6f7ea4f6"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. f3 exf3 4. Nxf3 Nf6 5. Bc4 Bg4 6. O-O e5 7. Be3 e4
+8. Bxf7+ Kxf7 9. Ne5+ Ke7 10. Nxg4 Nd5 11. Bg5+ Nf6 12. Nxf6 gxf6 13. Bxf6+
+Ke6 14. Bxd8 Nc6 15. Qg4+ Kd5 16. Rf5+ Kc4 17. c3 Kd3 18. Qd1+ Ke3 19. Bg5#
+1-0
+

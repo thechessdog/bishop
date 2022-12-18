@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1961.01.01"]
+[Round "3"]
+[White "De Rooi, Paul"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "f09ac258"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. Kh1 Nbd7 8. f4
+Qc7 9. f5 e5 10. Nf3 b5 11. Bg5 Bb7 12. Qe2 Be7 13. Nbd2 O-O 14. Rae1 Nc5 15.
+Qf2 h6 16. Qh4 Rfe8 17. Bxh6 gxh6 18. Qxh6 Nh7 19. g4 Bf8 20. Qh5 f6 21. g5
+fxg5 22. Nxg5 Nf6 23. Qh4 Bg7 24. Re3 d5 25. Rh3 dxe4 26. Ndxe4 Rad8 27. Ne6
+Rxe6 28. Rg1 Kf8 29. fxe6 0-1

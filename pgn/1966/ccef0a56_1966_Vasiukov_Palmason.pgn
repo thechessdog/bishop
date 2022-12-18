@@ -1,0 +1,18 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1966.01.01"]
+[Round "11"]
+[White "Vasiukov, Evgeni"]
+[Black "Palmason, Gundmundur"]
+[Result "1/2-1/2"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, not Scheveningen"]
+[HashCode "ccef0a56"]
+[Epoch "Bishop"]
+[WhiteID "4100522"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Bd7 7. Be3 a6 8. f3
+e6 9. Qd2 b5 10. Bb3 Na5 11. O-O-O Nc4 12. Bxc4 bxc4 13. Kb1 Rb8 14. Ka1 Be7
+15. g4 O-O 16. h4 Ne8 17. Bg5 f6 18. Be3 Qa5 1/2-1/2

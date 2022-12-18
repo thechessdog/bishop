@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Buzzoni"]
+[Black "Bagnoli"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "abc5414a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O a6 10. a4 Bg4 11. h3 Bxf3 12. Bxf3 Nbd7 13. Bf4 Qc7 14. Qd2
+Rfe8 15. Rad1 c4 16. Rfe1 Nc5 17. e5 dxe5 18. Rxe5 Qd7 19. Qd4 Nd3 20.
+Rxe8+ Nxe8 21. Qe3 Nxb2 22. Rb1 Nd3 23. Ne4 Nxf4 24. Qxf4 Rc8 25. d6 b5 26.
+g4 c3 27. g5 Rc4 28. Bg4 Qxd6 29. Nxd6 Rxf4 30. Nxe8 c2 31. Rc1 Rc4 32.
+Nxg7 b4 33. Bd1 b3 34. Bxc2 Rxc2 35. Rb1 b2 0-1
+

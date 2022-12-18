@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Bely, Miklos"]
+[Black "Kluger, Gyula"]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "a0236e64"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7 8. f3
+O-O 9. Be3 Be6 10. Nd5 Bxd5 11. exd5 Nb4 12. c4 Nd7 13. Qd2 Na6 14. Na5 Qc7 15.
+O-O Bd8 16. Nb3 Qc8 17. f4 Bb6 18. fxe5 Bxe3+ 19. Qxe3 Nxe5 20. Rac1 Re8 21.
+Qg3 Qc7 22. Qf2 Nb4 23. Rc3 Nxa2 24. Rh3 b5 25. cxb5 Nb4 26. Qh4 Nxd5 27. Qxh7+
+Kf8 28. Rg3 g6 29. Kh1 Ke7 30. Qh4+ f6 31. Qe4 Nb6 32. Rxg6 Kd8 33. Bh5 Rc8 1-0

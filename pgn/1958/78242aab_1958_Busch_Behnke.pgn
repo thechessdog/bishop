@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Busch, H."]
+[Black "Behnke, H."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "78242aab"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. Ng5 d5 5. exd5 b5 6. Bxb5 Qxd5 7. Bxc6+
+Qxc6 8. Qf3 e4 9. Qb3 Bc5 10. Qxf7+ Kd8 11. Nc3 Rf8 12. Qxg7 Rg8 13. Qh6
+Bxf2+ 14. Kf1 Ba6+ 15. Ne2 Bxe2+ 16. Kxe2 Qb5+ 17. d3 exd3+ 18. cxd3 Re8+
+19. Kd1 Qxd3+ 20. Bd2 Qe2+ 21. Kc1 Qc4+ 22. Bc3 Be3+ 23. Kc2 Qe2+ 24. Kb3
+Rb8+ 25. Bb4 Qd3+ 26. Ka4 Qb5+ 27. Kb3 Qxb4+ 28. Kc2 Qd2+ 29. Kb1 Qxb2# 0-1
+

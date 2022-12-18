@@ -1,0 +1,21 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Book, Eero"]
+[Black "Tarnowski, Alfred"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[HashCode "9a2ec0f0"]
+[Epoch "Bishop"]
+[WhiteCountry "FIN"]
+[BlackCountry "POL"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. e3 e6 5. Bd3 Nbd7 6. Nbd2 Bd6 7. O-O O-O 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 h6 11. Bc2 e5 12. Re1 exd4 13. Nxd4 Nf6 14. h3 Re8
+15. Be3 Be5 16. Rb1 Qa5 17. b4 Qc7 18. Qd2 Rd8 19. f4 Bd6 20. c5 Be7 21. Bf2
+Nh5 22. Qd3 g6 23. f5 Nf4 24. Qe4 Bf6 25. fxg6 Nxg6 26. b5 Bxd4 27. Bxd4 Be6
+28. bxc6 bxc6 29. Bf6 Rd5 30. Qf3 Ne7 31. Rxe6 fxe6 32. Qg4+ Kf7 33. Qg7+ Ke8
+34. Bg6+ Kd8 35. Qf8+ Kd7 36. Qxe7+ 1-0

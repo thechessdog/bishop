@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Cherepkov, Alexander V"]
+[Black "Kondratiev, Pavel"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "ff448c54"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Nf3 O-O 6. Bd3 c5 7. O-O dxc4 8. Bxc4
+Bd7 9. Qe2 Bc6 10. a3 Ba5 11. Rd1 Nbd7 12. Bd2 Bxf3 13. Qxf3 cxd4 14. exd4 Nb6
+15. Ba2 Nbd5 16. Rac1 Bb6 17. Bg5 Qd7 18. Bb1 Rfc8 19. Qh3 g6 20. Ba2 Bd8 21.
+Re1 Nxc3 22. bxc3 Nd5 23. Bh6 Bf6 24. c4 Nb6 25. c5 Nd5 26. Qf3 Bxd4 27. Red1
+Bg7 28. Bxd5 1/2-1/2

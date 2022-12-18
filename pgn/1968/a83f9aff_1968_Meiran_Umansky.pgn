@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Meiran"]
+[Black "Umansky, Mikhail"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "a83f9aff"]
+[Epoch "Bishop"]
+[BlackID "4680812"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Bxf6 gxf6 9. Na3 f5 10. Qh5 d5 11. exd5 Bxa3 12. bxa3 Qa5 13. Kd2 Ne7 14. Bc4
+Be6 15. dxe6 O-O-O+ 16. Bd3 Nd5 17. Qxf5 Qxc3+ 18. Ke2 Nf4+ 19. Ke3 fxe6 20.
+Qe4 Rd4 0-1

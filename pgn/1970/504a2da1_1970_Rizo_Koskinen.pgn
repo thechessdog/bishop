@@ -1,0 +1,20 @@
+[Event "Siegen ol prel"]
+[Site "Siegen ol prel"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Rizo"]
+[Black "Koskinen"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "504a2da1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nc6 7. Nc3 e5 8.
+d5 Na5 9. Nd2 c5 10. e4 Bd7 11. b3 a6 12. Qc2 b5 13. Bb2 bxc4 14. bxc4 Rb8
+15. Ba3 Bh6 16. f4 Ng4 17. Rae1 exf4 18. gxf4 Bg7 19. e5 dxe5 20. h3 exf4
+21. Bxc5 Ne3 22. Rxe3 fxe3 23. Bxe3 Re8 24. Nd1 Rc8 25. Kh1 Bb5 26. Rf4 Qc7
+27. Ne4 Nxc4 28. d6 Qd7 29. Qb3 Nxd6 30. Nxd6 Qxd6 31. Qxf7+ Kh8 32. Bd5
+Qxd5+ 33. Qxd5 Bc6 0-1
+

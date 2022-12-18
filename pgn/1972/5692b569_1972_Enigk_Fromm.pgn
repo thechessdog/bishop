@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Enigk, G."]
+[Black "Fromm, M."]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "5692b569"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. c4 e5 4. Nc3 f5 5. Qc2 fxe4 6. Nxe4 Nf6 7. Bd3 Nc6 8.
+a3 g6 9. Neg5 Ne7 10. b4 b6 11. Nh4 Bh6 12. Ne4 Nf5 13. Nxf5 Bxf5 14. O-O
+O-O 15. Bb2 Rc8 16. Rae1 cxb4 17. axb4 Nd5 18. c5 Nf4 19. Qb3+ Be6 20. Qc3
+bxc5 21. bxc5 Nxd3 22. Qxd3 dxc5 23. Qc2 Qd5 24. Ra1 Bf5 25. Rfe1 Rf7 26.
+d3 c4 27. dxc4 Rxc4 28. Nc3 Qxg2+ 29. Kxg2 Bxc2 30. Rxe5 Rg4+ 31. Kh1 Rxf2
+32. Re8+ Bf8 33. Rg1 Be4+ 34. Nxe4 Rxg1+ 35. Kxg1 Rxb2 36. Rc8 Rb7 37. Nc5
+Rb1+ 0-1
+

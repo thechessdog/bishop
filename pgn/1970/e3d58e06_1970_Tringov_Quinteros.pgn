@@ -1,0 +1,25 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Tringov, Georgi P"]
+[Black "Quinteros, Miguel A."]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Quinteros variation"]
+[HashCode "e3d58e06"]
+[Epoch "Bishop"]
+[BlackID "100021"]
+[WhiteCountry "BGR"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 Qc7 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 b5 7. e5 b4 8. Ncb5
+axb5 9. exf6 gxf6 10. Nxb5 Qc6 11. Qd5 Na6 12. Qxc6 dxc6 13. Nd4 Bd7 14. Bd2 e5
+15. fxe5 fxe5 16. Nf3 f6 17. Bc4 Nc7 18. O-O-O Be6 19. Bxe6 Nxe6 20. Kb1 Rg8
+21. Nh4 Rg7 22. c3 Rga7 23. cxb4 Rxa2 24. Bc3 Nf4 25. Kc2 Nd5 26. Kb3 Nxc3 27.
+bxc3 R8a3+ 28. Kc4 Rc2 29. Rd3 Re2 30. Rh3 Re4+ 31. Kd3 Rxb4 32. Rc1 e4+ 33.
+Ke2 Rb2+ 34. Kf1 Bc5 35. Re1 Rf2+ 36. Kg1 Rf4+ 37. Kh1 Bf2 38. g3 Bxe1 39. gxf4
+Rxc3 40. Rxc3 Bxc3 41. Nf5 Kd7 42. Ng3 f5 43. Nxf5 Ke6 44. Ng3 Kd5 45. Kg2 Bd2
+46. f5 Bg5 47. Kh3 c5 48. Kg4 Bf6 49. Nh5 Ke5 50. Nxf6 Kxf6 51. Kf4 e3 52. Kxe3
+Kxf5 53. Kd3 Kg4 54. Kc4 Kh3 55. Kxc5 Kxh2 56. Kd4 Kg3 0-1

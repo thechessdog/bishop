@@ -1,0 +1,19 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Sigurjonsson, Bjorn"]
+[Black "Matulovic, Milan"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Flohr variation"]
+[HashCode "ee13b788"]
+[Epoch "Bishop"]
+[WhiteID "2302187"]
+[WhiteCountry "ISL"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. c4 Nf6 6. Nc3 Nxe4 7. Nxe4 Qe5 8.
+Nb5 Qxe4+ 9. Be2 Qe5 10. f4 Qb8 11. Be3 g6 12. O-O d6 13. c5 dxc5 14. Bxc5 Bg7
+15. Nd6+ exd6 0-1

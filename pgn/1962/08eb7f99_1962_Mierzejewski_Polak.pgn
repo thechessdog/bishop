@@ -1,0 +1,18 @@
+[Event "corr ch4-POL"]
+[Site "corr ch4-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Mierzejewski, S."]
+[Black "Polak, R."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "08eb7f99"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. e4 g5 8. Bg3
+Nxe4 9. Be5 O-O 10. Bd3 exd5 11. Bxe4 dxe4 12. Bd6 Re8 13. Qd5 Qf6 14. Ne2
+Nc6 15. cxb5 Bxc3+ 16. bxc3 Nb4 17. Qxa8 Nd3+ 18. Kd2 Qxd6 19. Kc2 Nxf2 20.
+Rhe1 Qd3+ 21. Kb3 Qxb5+ 22. Ka3 Qa6+ 23. Kb3 d6 0-1
+

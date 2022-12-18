@@ -1,0 +1,22 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1969.01.01"]
+[Round "12"]
+[White "Donner, Jan Hein"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "8183476f"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "NLD"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nc6 9. Bd3 a6 10. Bc2 cxd4 11. exd4 Be7 12. a3 b5 13. Qd3 Bb7 14. Bg5 g6 15.
+Rad1 b4 16. Na4 bxa3 17. bxa3 Na5 18. Nc5 Bc6 19. Rfe1 Bxc5 20. dxc5 Qxd3 21.
+Bxd3 Nd5 22. Rb1 Rfc8 23. Bd2 Nb7 24. Rec1 Ne7 25. Ne5 Ra7 26. Rb6 Bd5 27. c6
+Nd6 28. Rxa6 Rxa6 29. Bxa6 Ra8 30. Bf1 f6 31. Nd7 Ne4 32. Nb6 Nxd2 33. Nxa8
+Nxc6 34. Nc7 Nb3 35. Rd1 Ne7 36. Nxd5 exd5 37. Rb1 Nd2 38. Rb7 Kf8 39. a4 Ne4
+40. a5 Nc5 1-0

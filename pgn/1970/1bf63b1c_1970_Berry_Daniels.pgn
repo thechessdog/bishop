@@ -1,0 +1,17 @@
+[Event "Boston US op"]
+[Site "Boston US op"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Berry, Jonathan"]
+[Black "Daniels"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "1bf63b1c"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Be7 4. g3 Nf6 5. Bg2 Nc6 6. Ngf3 e5 7. O-O Bg4 8. h3
+Be6 9. Ng5 Qd7 10. c3 O-O-O 11. b4 a6 12. a4 dxe4 13. Nxe6 fxe6 14. dxe4 Rhf8
+15. Qb3 Ne8 16. Nc4 Kb8 17. b5 axb5 18. axb5 Na7 19. Be3 b6 20. Rxa7 Kxa7 21.
+Qa4+ Kb8 22. Ra1 1-0

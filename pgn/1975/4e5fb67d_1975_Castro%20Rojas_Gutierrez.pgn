@@ -1,0 +1,23 @@
+[Event "Quito"]
+[Site "Quito"]
+[Date "1975.01.01"]
+[Round "2"]
+[White "Castro, Oscar H."]
+[Black "Gutierrez, Jose Antonio"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "4e5fb67d"]
+[Epoch "Bishop"]
+[WhiteCountry "COL"]
+[BlackCountry "COL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. a4
+b6 9. Bd3 Bb7 10. O-O Nbd7 11. Qe2 Be7 12. Nh4 Nxe4 13. Nxe4 Bxh4 14. fxe5 Nxe5
+15. Qh5 Be7 16. Ra3 g6 17. Qe2 f5 18. Ng5 Bxg5 19. Bxg5 O-O 20. Rc3 Qf7 21. Bf4
+Rfe8 22. Qf2 Rac8 23. Rxc8 Rxc8 24. Qxb6 Qd5 25. Rf2 Nxd3 26. cxd3 Re8 27. h4
+Qc6 28. Qd4 Qc5 29. Qc3 Qxc3 30. bxc3 Bc6 31. Rb2 Bxa4 32. Ra2 Bd7 33. Rxa6 d5
+34. Ra7 Be6 35. Be5 Bf7 36. Bd4 h6 37. Kf2 Re6 38. Be3 h5 39. Kf3 Re8 40. Kf4
+Re6 41. Bc5 Re2 42. Be3 Rxg2 43. Ra8+ Kh7 44. Bd4 Rg4+ 45. Ke5 Rxh4 46. Kf6 Bg8
+47. Ra7+ Kh8 48. Be5 Rg4 49. Rg7 d4 50. c4 f4 51. Ke7 Bxc4 52. Kf8 1-0

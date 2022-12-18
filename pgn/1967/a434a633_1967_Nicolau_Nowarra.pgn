@@ -1,0 +1,17 @@
+[Event "Subotica"]
+[Site "Subotica"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Nicolau, A."]
+[Black "Nowarra, Waltraud"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "a434a633"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Qf3 Nbd7 8.
+O-O-O Qc7 9. Be2 Ne5 10. Qg3 b5 11. f4 Nc4 12. e5 dxe5 13. fxe5 Nxe3 14. Qxe3
+Nd7 15. Rhf1 Nxe5 16. Ncxb5 axb5 17. Bxb5+ Bd7 18. Bxd7+ Nxd7 19. Qf3 Nb6 20.
+Nb5 1-0

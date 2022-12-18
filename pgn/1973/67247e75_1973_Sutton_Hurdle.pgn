@@ -1,0 +1,18 @@
+[Event "British CCC"]
+[Site "British CCC"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sutton, J."]
+[Black "Hurdle, A."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "67247e75"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8.
+a4 Be7 9. Bd3 O-O 10. O-O b6 11. Qe1 Bb7 12. fxe5 dxe5 13. Qg3 Re8 14. Kh1
+Rc8 15. Bh6 Nh5 16. Qh3 g6 17. Rad1 Qc7 18. Bb5 axb5 19. Rxd7 Qb8 20. Ng5
+Nf4 21. Qf3 f6 22. Nxb5 fxg5 1-0
+

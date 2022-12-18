@@ -1,0 +1,20 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Krebs, H."]
+[Black "Strand, R."]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "6e6276f6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 Nd7
+8. b3 O-O 9. Bb2 Bd6 10. d4 Re8 11. dxe5 Nxe5 12. Nxe5 Bxe5 13. Bxe5 Rxe5
+14. Nc3 Bf5 15. Qe3 Qe7 16. f3 Re6 17. Qf2 Bg6 18. Ne2 Rd6 19. Nf4 Rad8 20.
+Qc5 Qd7 21. Nd3 f6 22. Rae1 Rd4 23. Nf4 Qd6 24. Qxd6 R4xd6 25. Nxg6 hxg6
+26. Re2 Kf7 27. f4 c5 28. c4 a5 29. Rfe1 a4 30. Kf2 Rd2 31. Rxd2 Rxd2+ 32.
+Re2 Rd3 33. Rb2 a3 34. Rc2 1/2-1/2
+

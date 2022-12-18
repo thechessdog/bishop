@@ -1,0 +1,23 @@
+[Event "Solingen"]
+[Site "Solingen"]
+[Date "1974.07.01"]
+[Round "2"]
+[White "Westerinen, Heikki M.J."]
+[Black "Honfi, Karoly"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "17e6fa3e"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 a6 6. Bf1 e5 7. c3 Nf6 8. h3
+Be7 9. d4 Qc7 10. Bg5 h6 11. Bh4 O-O 12. Nbd2 Rfe8 13. Rc1 b5 14. Bd3 cxd4 15.
+cxd4 Qb6 16. dxe5 dxe5 17. Bg3 Rad8 18. Qe2 Nh5 19. Bxe5 Nxe5 20. Nxe5 Nf4 21.
+Qf3 Bg5 22. Nxf7 Rf8 23. Nxg5 hxg5 24. Qe3 Qxe3 25. Rxe3 Be6 26. Rc6 Nxd3 27.
+Nf3 Bxa2 28. Rxa6 Bc4 29. Nxg5 Nxf2 30. b3 Rd1+ 31. Kh2 Rd3 32. Rxd3 Bxd3 33.
+e5 Ne4 34. Ne6 Re8 35. Rb6 g5 36. h4 Kf7 37. Nxg5+ Nxg5 38. Rd6 Bc2 39. hxg5
+Rxe5 40. b4 Rxg5 0-1

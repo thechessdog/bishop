@@ -1,0 +1,18 @@
+[Event "corr Baltic"]
+[Site "corr Baltic"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Bakulin"]
+[Black "Peltonten"]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "c386ab11"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 Nd7
+8. Na3 Be7 9. Nc4 exd4 10. Nxd4 Nb8 11. Qf3 Be6 12. Nxe6 fxe6 13. Qg4 Kf7
+14. Qh5+ g6 15. Qh3 h5 16. f4 Qg8 17. Qb3 Qc8 18. f5 c5 19. fxg6+ Ke8 20.
+Na5 Rg8 21. Qf3 1-0
+

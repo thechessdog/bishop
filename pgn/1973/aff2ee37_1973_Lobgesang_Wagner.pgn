@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Lobgesang, K."]
+[Black "Wagner, H."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "aff2ee37"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+f4 Bb7 9. O-O Nbd7 10. f5 e5 11. Nde2 Be7 12. Ng3 h5 13. Re1 Nb6 14. a3 Rc8
+15. Qf3 Nc4 16. Nd5 Bxd5 17. exd5 Qb6+ 18. Kh1 Ng4 19. Ne4 Qd4 20. Qd3 Nf2+
+21. Nxf2 Qxf2 22. Rf1 Qh4 23. c3 Bf6 24. Bd1 e4 25. Qg3 Qxg3 26. hxg3 Rc5
+27. Re1 Rxd5 28. Bf3 Kd7 29. Bxe4 Re8 30. Bf4 Rxe4 0-1
+

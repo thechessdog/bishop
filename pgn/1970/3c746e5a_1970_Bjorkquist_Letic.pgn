@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Bjorkquist, A."]
+[Black "Letic, Stevan"]
+[Result "0-1"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "3c746e5a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. a3 cxd4 10. Nb5 Be7 11. Nbxd4 e5 12. Ne2 e4 13. Nfd4 Ne5 14.
+Ba2 Nd3 15. Ng3 Bg4 16. Qd2 Nxc1 17. Raxc1 Bd6 18. h3 Bd7 19. Nde2 Be5 20.
+b4 Qe7 21. Nd4 Qd6 22. Nge2 Rad8 23. Rfd1 Nh5 24. Qc2 Qg6 25. Kh1 Bb8 26.
+g4 Bxg4 27. Rg1 Qd6 28. Ng3 Nxg3+ 29. fxg3 Qh6 30. Qh2 Qxe3 31. hxg4 Qxd4
+32. Rgf1 e3 0-1
+

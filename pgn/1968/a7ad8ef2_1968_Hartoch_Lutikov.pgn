@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1968.01.01"]
+[Round "8"]
+[White "Hartoch, Robert G"]
+[Black "Lutikov, Anatoly S"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "a7ad8ef2"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. e5 Nfd7 6. Qe2 c5 7. c4 Nc6 8. g3
+Nb4 9. Kd1 dxc4 10. Nxc4 Bb7 11. Bf4 Nxd3 12. Bd2 Nb4 13. Bg2 b5 14. Na3 a6 15.
+Nh4 Bxg2 16. Nxg2 c4 17. Nf4 Nc6 18. Nc2 Ndxe5 19. Kc1 Nd3+ 20. Kb1 Nxf4 21.
+Bxf4 Qd3 0-1

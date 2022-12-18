@@ -1,0 +1,17 @@
+[Event "Halle"]
+[Site "Halle"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Kuettner, Uwe"]
+[Black "Fuchs, Reinhart"]
+[Result "0-1"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "d00ea172"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+e5 9. O-O e4 10. Nd2 Re8 11. cxd5 cxd5 12. Nb5 Bb8 13. Ba3 Nf8 14. Rfc1 Bg4 15.
+Bxg4 Bxh2+ 16. Kxh2 Nxg4+ 17. Kg1 Qh4 18. Nf1 Re6 19. Qe2 Rh6 20. Ng3 Qh2+ 21.
+Kf1 Qh1+ 22. Nxh1 Rxh1# 0-1

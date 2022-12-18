@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Pavlovic, Milos"]
+[Black "Stankovic, M."]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "386fd4bd"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 g5 7. Bg3 Qa5 8. Be5
+Qd8 9. dxe6 fxe6 10. Qd3 Rg8 11. O-O-O Nc6 12. Bd6 Nd4 13. e4 Rg7 14. Nge2
+Nxe2+ 15. Bxe2 Kf7 16. e5 Nh7 17. Nd5 exd5 18. Qxd5+ Kg6 19. Bd3+ Kh5 20. g4+
+Kxg4 21. Qg2+ 1-0

@@ -1,0 +1,17 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Ortega, Lexy"]
+[Black "Bergara"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "14c4e105"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. O-O Qe5 13. Kh1 gxf6 14. Bh5
+Bc5 15. Nxe6 Bd6 16. Nf4 O-O 17. Ncd5 Ra7 18. Qd2 Nc6 19. c3 Kh8 20. h4 f5 21.
+Bf3 Bb8 22. g3 Rd7 23. Nh5 Qd6 24. Rae1 Ne5 25. Rxe5 Qxe5 26. Qh6 1-0

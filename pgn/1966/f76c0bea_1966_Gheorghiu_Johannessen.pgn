@@ -1,0 +1,23 @@
+[Event "La Habana olm fin-A"]
+[Site "Havana olm"]
+[Date "1966.10.01"]
+[Round "2"]
+[White "Gheorghiu, Florin"]
+[Black "Johannessen, Svein"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "f76c0bea"]
+[Epoch "Bishop"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+[BlackCountry "NOR"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8. g3
+e6 9. dxe6 Nc6 10. exf7+ Kh8 11. Nge2 Qe7 12. Be3 Ng4 13. Kd2 Be6 14. d5 Bxf7
+15. Bh3 Nge5 16. Rad1 b5 17. Qxb5 Rab8 18. Qc5 Nf3+ 19. Kc1 Qb7 20. b3 Nb4 21.
+Qxa7 Nxa2+ 22. Qxa2 Ra8 23. Qc2 Qb4 24. Na2 Qa3+ 25. Kb1 Qe7 26. Nec1 Rfb8 27.
+Rd3 g5 28. Bf5 Qf6 29. Rc3 Bxd5 30. Rd1 Bg8 31. Be4 Rxa2 32. Kxa2 Qa6+ 33. Kb1
+Qa5 34. Rdd3 Ne1 35. Qa2 Qe5 36. Rd4 Qe6 37. Qd2 Qb6 38. Rd7 Qf6 39. Rxg7 Qe6
+40. Rxg8+ 1-0

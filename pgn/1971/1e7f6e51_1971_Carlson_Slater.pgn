@@ -1,0 +1,15 @@
+[Event "corr Golden Knights"]
+[Site "corr Golden Knights"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Slater"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "1e7f6e51"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bc5 7. Bc4 d5 8.
+exd5 e4 9. dxc6 Qxd1+ 10. Nxd1 exf3 11. gxf3 bxc6 0-1

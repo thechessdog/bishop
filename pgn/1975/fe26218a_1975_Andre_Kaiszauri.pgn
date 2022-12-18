@@ -1,0 +1,22 @@
+[Event "Bad Meinberg"]
+[Site "Bad Meinberg"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Andre, Wolfgang"]
+[Black "Kaiszauri, Konstanty"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "fe26218a"]
+[Epoch "Bishop"]
+[WhiteID "4607260"]
+[WhiteCountry "GER"]
+[BlackID "1700510"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 Qc7 8. Bf4
+Nbd7 9. e5 Nh5 10. exd6 exd6 11. Be3 f5 12. d5 Ndf6 13. Bc4 Kh8 14. Re1 Bd7 15.
+Qd2 Ng4 16. Bd4 Ne5 17. Bxe5 dxe5 18. d6 Qa5 19. Rab1 Qc5 20. Ba2 e4 21. Ng5 h6
+22. Nf7+ Kh7 23. g4 fxg4 24. Rxe4 Qf5 25. Re7 Nf4 26. Kh1 Be6 27. Nxh6 Qh5 28.
+Bxe6 Qh3 29. Qxf4 Rxf4 30. Nf7 Qf3+ 31. Kg1 Qxf2+ 32. Kh1 Qf3+ 33. Kg1 Bd4# 0-1

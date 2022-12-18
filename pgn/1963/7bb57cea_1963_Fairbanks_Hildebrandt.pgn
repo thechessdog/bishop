@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Fairbanks, R."]
+[Black "Hildebrandt, P."]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "7bb57cea"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. Bd3 O-O 10. Nf3 b6 11. O-O Ba6 12. Bxa6 Nxa6 13. g4 Re8 14. f5
+Bxc3 15. bxc3 Rxe4 16. Ng5 Rc4 17. fxg6 fxg6 18. Nf7 Qh4 19. Nh6+ Kh8 20.
+Bg5 Qh3 21. Rf7 Rxc3 22. Qf1 1-0
+

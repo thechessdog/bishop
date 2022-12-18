@@ -1,0 +1,16 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Macchi, J."]
+[Black "Etienne, J."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "74ec9f01"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. d4 fxe4 4. Nxe5 Qf6 5. Bc4 Nh6 6. Bxh6 gxh6 7. Qh5+
+Ke7 8. Nc3 c6 9. Nxe4 Qf4 10. f3 d5 11. g3 Qe3+ 12. Kf1 dxe4 13. f4 b5 14.
+Qh4+ Kd6 15. Qd8+ Nd7 16. Nf7# 1-0
+

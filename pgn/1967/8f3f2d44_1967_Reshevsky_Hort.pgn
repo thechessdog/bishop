@@ -1,0 +1,18 @@
+[Event "FIDE (27) 1967-1969"]
+[Site "Sousse izt"]
+[Date "1967.10.01"]
+[Round "12"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "8f3f2d44"]
+[Epoch "Bishop"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. d5 d6 5. Bg2 Bg7 6. Nc3 O-O 7. Nf3 e5 8. O-O Qe7
+9. Ne1 cxd5 10. cxd5 Na6 11. Nc2 Bd7 12. a4 Ng4 13. h3 Nh6 14. Ne4 1/2-1/2

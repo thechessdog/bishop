@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Behnke, H."]
+[Black "Hubeny, V."]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[HashCode "34ce54e1"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 g6 7. Bd3 Bg7 8.
+Qc2 O-O 9. Nge2 Nbd7 10. O-O Qa5 11. a3 c5 12. b4 cxb4 13. axb4 Qxb4 14.
+Rfb1 Qd6 15. Nb5 Qc6 16. Nc7 Rb8 17. Bf4 Nh5 18. Qxc6 bxc6 19. Bd6 1-0
+

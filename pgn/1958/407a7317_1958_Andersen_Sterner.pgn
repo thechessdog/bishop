@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Andersen, Borge"]
+[Black "Sterner, Olof"]
+[Result "1-0"]
+[ECO "A19"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Sicilian variation"]
+[HashCode "407a7317"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. e5 Ng8 5. Nf3 Nc6 6. Be2 d6 7. exd6 Bxd6 8. d4
+cxd4 9. Nxd4 Be5 10. Nxc6 Qxd1+ 11. Bxd1 bxc6 12. f4 Bxc3+ 13. bxc3 Ba6 14. Be2
+Nf6 15. Be3 O-O 16. O-O-O Rfc8 17. Bd4 Rc7 18. Be5 Rb7 19. Bf3 Rc8 20. Rd4 Ne8
+21. Rhd1 f6 22. Rd8 Rxd8 23. Rxd8 Kf7 24. Bxc6 Rb6 25. Bxe8+ Ke7 1-0

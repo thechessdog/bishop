@@ -1,0 +1,19 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos B"]
+[Date "1975.01.01"]
+[Round "5"]
+[White "Boudy Bueno, Julio Leonardo"]
+[Black "Andres, Miguel"]
+[Result "1/2-1/2"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind"]
+[HashCode "59c93b06"]
+[Epoch "Bishop"]
+[WhiteID "3510557"]
+[WhiteCountry "CUB"]
+[BlackCountry "EST"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Nc2 Bg7 8. Be2
+O-O 9. O-O Nd7 10. Bd2 Nc5 11. f3 f5 12. b4 Ne6 13. exf5 gxf5 14. Rc1 Ned4
+1/2-1/2

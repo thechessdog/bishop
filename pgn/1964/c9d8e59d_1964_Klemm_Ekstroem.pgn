@@ -1,0 +1,20 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Klemm, W."]
+[Black "Ekstroem, F."]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "c9d8e59d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Qc7 10. f3 Be6 11. Nd5 Bxd5 12. exd5 a5 13. c4 Na6 14. Qd2
+b6 15. Rac1 Nc5 16. Na1 Nh5 17. Nc2 f5 18. Na3 Rae8 19. Nb5 Qd8 20. Na7 Bf6
+21. Nc6 Qc7 22. b3 Nf4 23. Rfe1 Nxe2+ 24. Rxe2 e4 25. fxe4 Rxe4 26. Nd4 g6
+27. Nb5 Qe7 28. Rce1 Re8 29. Kf1 Be5 30. Bxc5 bxc5 31. g3 Rxe2 32. Rxe2 Rf8
+33. Qe3 f4 34. gxf4 Qh4 35. Rf2 Bxf4 36. Qe6+ Kg7 37. h3 Rf5 0-1
+

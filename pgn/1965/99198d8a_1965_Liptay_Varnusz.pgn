@@ -1,0 +1,19 @@
+[Event "HUN-ch21"]
+[Site "Budapest"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Liptay, Laszlo"]
+[Black "Varnusz, Egon"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "99198d8a"]
+[Epoch "Bishop"]
+[WhiteID "700320"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. e3 Bb4 6. Bd3 O-O 7. O-O d5 8. cxd5
+exd5 9. Ne5 Nbd7 10. f4 Ne4 11. Nxe4 dxe4 12. Bc4 Nxe5 13. fxe5 Bd5 14. Qb3
+Bxc4 15. Qxc4 Be7 16. Qc6 f5 17. exf6 Bxf6 18. Rf4 Re8 19. Bd2 1/2-1/2

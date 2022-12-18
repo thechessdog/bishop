@@ -1,0 +1,18 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Franck"]
+[Black "Broekmans"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "03356ea4"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. e5 dxe5 6. fxe5 Ng4 7. Bb5+ c6 8.
+Bc4 O-O 9. h3 Nh6 10. Nf3 Nd7 11. Bg5 Kh8 12. Qd2 Ng8 13. h4 f6 14. h5 fxg5
+15. hxg6 h6 16. Nxg5 Nxe5 17. dxe5 Qc7 18. Nf7+ Rxf7 19. gxf7 Qxe5+ 20. Ne2
+Nf6 21. Qxh6+ Bxh6 22. f8=Q+ Kh7 23. Qxh6# 1-0
+

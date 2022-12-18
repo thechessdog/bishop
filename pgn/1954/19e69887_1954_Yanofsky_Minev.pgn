@@ -1,0 +1,25 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Minev, Nikolay Nikolaev"]
+[Result "0-1"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation"]
+[HashCode "19e69887"]
+[Epoch "Bishop"]
+[WhiteCountry "CAN"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nf3 h6 8. O-O
+Be7 9. h3 O-O 10. Re1 a6 11. Bf1 b5 12. a3 Bb7 13. g3 Re8 14. Bg2 Rc8 15. Be3
+Bf8 16. Nh4 Ne7 17. f4 d5 18. fxe5 Nxe4 19. Bxe4 dxe4 20. Qg4 Ng6 21. Nxg6 fxg6
+22. Rad1 Qc7 23. Rd7 Qc6 24. Red1 Rxe5 25. Nd5 Bc5 26. Qe2 Rf8 27. Kg2 Bxe3 28.
+Nxe3 Re6 29. Qd2 Ref6 30. Qd4 Bc8 31. Re7 R6f7 32. Rxf7 Rxf7 33. Qd5 Qxd5 34.
+Rxd5 Bb7 35. Rd2 Rf3 36. Re2 g5 37. g4 g6 38. Nd1 h5 39. Re3 Rf4 40. Kg3 Kf7
+41. Nf2 Bd5 42. h4 hxg4 43. Nxg4 Ke6 44. hxg5 Kf5 45. Nf2 Rf3+ 46. Rxf3+ exf3
+47. Nd3 Kxg5 48. Nc5 a5 49. b3 Kf5 50. c4 bxc4 51. bxc4 Ba8 52. a4 g5 53. Kf2
+g4 54. Kg3 Ke5 55. Nb3 Ke4 56. Nxa5 Ke3 57. Nb3 f2 58. Nd2 Ke2 59. a5 Bb7 60.
+c5 Bd5 61. a6 Ba8 62. a7 Bd5 0-1

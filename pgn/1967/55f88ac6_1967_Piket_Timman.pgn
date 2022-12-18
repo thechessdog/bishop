@@ -1,0 +1,21 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Piket, Jeroen"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich variation"]
+[HashCode "55f88ac6"]
+[Epoch "Bishop"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+
+1. d4 e6 2. e4 d5 3. e5 c5 4. Qg4 cxd4 5. Nf3 Nc6 6. Bd3 f5 7. Qh5+ g6 8. Qh3
+Bg7 9. O-O Bd7 10. Re1 Qc7 11. Bf4 h6 12. Na3 a6 13. c4 dxc3 14. bxc3 Nge7 15.
+c4 d4 16. c5 g5 17. Qg3 Ng6 18. Bxg5 hxg5 19. Qxg5 Ngxe5 20. Qxg7 Nxf3+ 21.
+gxf3 O-O-O 22. Kf1 Rdg8 23. Qf7 Nd8 24. Qf6 Rxh2 25. Qxd4 Rgg2 26. Rec1 e5 27.
+Qb2 e4 28. fxe4 fxe4 29. Bxe4 Rxf2+ 30. Qxf2 Rxf2+ 31. Kxf2 Qf4+ 32. Bf3 Bc6
+33. Rc3 Qd2+ 1-0

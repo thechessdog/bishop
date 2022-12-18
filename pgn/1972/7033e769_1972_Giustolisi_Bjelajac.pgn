@@ -1,0 +1,19 @@
+[Event "Catanzaro"]
+[Site "Catanzaro"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Giustolisi"]
+[Black "Bjelajac, Milan"]
+[Result "1-0"]
+[ECO "A98"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with Qc2"]
+[HashCode "7033e769"]
+[Epoch "Bishop"]
+[BlackID "901261"]
+[BlackCountry "SRB"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. g3 d6 5. Nf3 Be7 6. Bg2 O-O 7. O-O Qe8 8. Qc2
+Qh5 9. b4 Nbd7 10. c5 e5 11. Nb5 Ne8 12. dxe5 dxe5 13. c6 bxc6 14. Qxc6 Nb6 15.
+Nxe5 Ba6 16. Bf3 Rf6 17. Bxh5 Rxc6 18. Nxc6 Bf6 19. Nbd4 Nd6 20. Bf4 Nb5 21.
+Nxb5 1-0

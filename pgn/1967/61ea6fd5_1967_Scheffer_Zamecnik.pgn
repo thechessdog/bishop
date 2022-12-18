@@ -1,0 +1,18 @@
+[Event "corr Eberhardt-Wilhelm"]
+[Site "corr Eberhardt-Wilhelm"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Scheffer, G."]
+[Black "Zamecnik, B."]
+[Result "1/2-1/2"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "61ea6fd5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bb4 7. Bc4 Qc7
+8. Qd3 b5 9. Bb3 Bb7 10. Bd2 Bxc3 11. Bxc3 d6 12. Ng5 O-O 13. O-O-O Nc6 14.
+Qxd6 Qxd6 15. Rxd6 h6 16. Nxf7 Rxf7 17. f4 Re8 18. Rf1 Nxe4 19. fxe5 Nxd6
+20. exd6 1/2-1/2
+

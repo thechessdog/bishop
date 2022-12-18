@@ -1,0 +1,18 @@
+[Event "Springfield,MA"]
+[Site "Springfield,MA"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Lees, David"]
+[Black "Bell, Gregory"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "c8c733bc"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 b5 8. Ba2
+Bb7 9. O-O Nxe4 10. Nxe4 Bxe4 11. Re1 d5 12. Nxe6 fxe6 13. Qh5+ Kd7 14. Rxe4
+dxe4 15. Bf4 Kc6 16. Rd1 g6 17. Qe2 Nd7 18. Qxe4+ Kb6 19. Qxe6+ Ka5 20. b4+
+Bxb4 21. axb4+ Kxb4 22. Rd4+ Ka5 23. Bd2+ b4 24. Rd5+ Nc5 25. Rxc5+ 1-0

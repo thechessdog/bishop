@@ -1,0 +1,19 @@
+[Event "Adelboden"]
+[Site "Adelboden"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Lehmann, Heinz Dr"]
+[Black "Kuijpers, Frans"]
+[Result "1-0"]
+[ECO "E28"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "cf32f59f"]
+[Epoch "Bishop"]
+[BlackID "1000349"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Bxc3+ 6. bxc3 b6 7. Bd3 d5 8.
+cxd5 exd5 9. Ne2 Ba6 10. O-O Qc8 11. f3 Re8 12. Ng3 c5 13. e4 Bxd3 14. Qxd3 Qa6
+15. Qe3 Nc6 16. Nf5 g6 17. Qg5 Nh5 18. g4 f6 19. Nh6+ Kh8 20. Qxd5 Ne7 21. Qf7
+1-0

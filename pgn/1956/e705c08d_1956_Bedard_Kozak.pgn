@@ -1,0 +1,16 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Bedard"]
+[Black "Kozak, C."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "e705c08d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bc4 O-O 7. O-O Re8 8.
+a4 Bf8 9. Bg5 Nbd7 10. f4 h6 11. Bh4 Be7 12. f5 Nxe4 13. Bxf7+ Kxf7 14. Ne6
+Nxc3 15. Nxd8+ Kg8 16. bxc3 Bxh4 17. Qd5+ Kh7 18. Ne6 Ne5 19. Nxc7 1-0

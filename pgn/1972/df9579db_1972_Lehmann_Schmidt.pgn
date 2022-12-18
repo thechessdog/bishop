@@ -1,0 +1,19 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Lehmann, Heinz Dr"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "df9579db"]
+[Epoch "Bishop"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. Re1 O-O 10. Nxc6 dxc6 11. e5 Rd8 12. Qe2 Nd5 13. Bd2 b5 14. a3 Bb7 15.
+Nxd5 cxd5 16. Bb4 Bxb4 17. axb4 Rac8 18. c3 d4 1/2-1/2

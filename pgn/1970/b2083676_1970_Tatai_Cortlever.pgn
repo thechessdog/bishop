@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "1"]
+[White "Tatai, Stefano"]
+[Black "Cortlever, Nicolaas"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "b2083676"]
+[Epoch "Bishop"]
+[WhiteCountry "ITA"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 Nc5 11. Nc3 Nxb3 12. cxb3 O-O 13. h3 Qd7 14. Bg5 h6 15.
+Bxe7 Nxe7 16. Ne4 Rad8 17. Nc5 Qc8 18. Nd4 Nf5 19. Rac1 Nxd4 20. Rxd4 Rfe8 21.
+Qd2 c6 22. f4 Bf5 23. b4 f6 24. exf6 gxf6 25. g4 Be4 26. f5 Qc7 27. Qh2 Qe5 28.
+Qxe5 fxe5 29. Rd2 Bf3 30. Kf2 e4 31. Ke3 Rd6 32. Nb3 Kf7 33. Nd4 Kf6 34. Rdc2
+Ke5 35. Rxc6 Bg2 36. Rxd6 Kxd6 37. Rc6+ Kd7 38. Rxh6 Rc8 39. Rh7+ Kd6 40. g5
+Rc1 1-0

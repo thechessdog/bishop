@@ -1,0 +1,18 @@
+[Event "Lucca"]
+[Site "Lucca"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Barone"]
+[Black "Coin"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "bc2b2b65"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5 e6 7. Bb5+ Bd7
+8. f4 Be7 9. O-O O-O 10. Qe2 a6 11. Bxd7 Nfxd7 12. Bxe7 Qxe7 13. f5 e5 14.
+Nd5 Qd8 15. Ne6 fxe6 16. fxe6 Nf6 17. e7 Qe8 18. exf8=Q+ Qxf8 19. Rxf6 Qd8
+20. Raf1 1-0
+

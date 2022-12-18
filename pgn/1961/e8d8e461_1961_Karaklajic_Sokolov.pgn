@@ -1,0 +1,19 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1961.01.01"]
+[Round "2"]
+[White "Karaklajic, Nikola"]
+[Black "Sokolov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "e8d8e461"]
+[Epoch "Bishop"]
+[BlackID "904031"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Nxd4 c5 8.
+Nde2 Qxd1+ 9. Nxd1 Be6 10. Nf4 Bf7 11. Ne3 O-O-O 12. Bd2 c4 13. O-O-O Bc5 14.
+Rhe1 Ne7 1/2-1/2

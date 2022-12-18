@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Dunkelblum, Arthur"]
+[Black "Darga, Klaus"]
+[Result "0-1"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "6099da84"]
+[Epoch "Bishop"]
+[BlackID "4600150"]
+[BlackCountry "GER"]
+[WhiteCountry "BEL"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 d5 4. e3 Be7 5. Nbd2 O-O 6. Bd3 c5 7. O-O cxd4 8.
+exd4 Nc6 9. b3 dxc4 10. Nxc4 Nb4 11. Bb1 b6 12. a3 Nbd5 13. Bb2 Bb7 14. Qd2 Rc8
+15. Bd3 Nh5 16. Be4 f5 17. Bc2 Ndf4 18. Ne1 Bh4 19. Ne3 Qg5 20. f3 Ba6 21. Bd3
+Bxe1 0-1

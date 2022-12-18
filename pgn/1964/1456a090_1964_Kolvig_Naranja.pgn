@@ -1,0 +1,22 @@
+[Event "Tel Aviv olm fin-B"]
+[Site "Tel Aviv olm"]
+[Date "1964.11.01"]
+[Round "2"]
+[White "Kolvig, Bent"]
+[Black "Naranja, Renato"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "1456a090"]
+[Epoch "Bishop"]
+[WhiteID "1400746"]
+[WhiteCountry "DEN"]
+[BlackID "5200148"]
+[BlackCountry "PHI"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nbd7 7. e5 Ne8 8. Qe2
+e6 9. h4 f5 10. h5 d5 11. hxg6 h6 12. Ng5 hxg5 13. fxg5 Nd6 14. exd6 Re8 15.
+Bf4 cxd6 16. O-O-O Nf8 17. Qh5 Qb6 18. Qh2 Rd8 19. Bxf5 Qc6 20. Bd3 a6 21. Rdf1
+Rd7 22. Be3 b5 23. Rf7 Rxf7 24. gxf7+ Kxf7 25. Qh5+ Ke7 26. Rf1 Kd8 27. Rf7 Qe8
+28. g6 1-0

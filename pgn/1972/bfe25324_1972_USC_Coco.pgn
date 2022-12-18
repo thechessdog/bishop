@@ -1,0 +1,19 @@
+[Event "ACM Boston"]
+[Site "ACM Boston"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "USC CP"]
+[Black "Coco III"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "bfe25324"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Bb5+ Bd7 6. a4 Bxb5 7. Nxb5
+Nd7 8. c3 Ngf6 9. b4 Qb6 10. d4 c6 11. dxe5 cxb5 12. Qd3 Ng4 13. Be3 Nxe3
+14. fxe3 bxa4 15. Rxa4 Qe6 16. Qb5 Qb3 17. Rf1 Qxc3+ 18. Ke2 Qc6 19. Qa5
+Qc4+ 20. Kf2 b5 21. Raa1 Bxb4 22. Qa6 Bc3 23. Rfc1 O-O 24. Ra3 Nc5 25. Rc2
+Nxa6 26. Rcxc3 Qe6 27. Nd4 Qxe5 28. Rxa6 Rfd8 29. g3 b4 30. Rc4 Rd6 31.
+Rac6 a5 32. Rc8+ Rd8 33. R8c5 Rd5 0-1
+

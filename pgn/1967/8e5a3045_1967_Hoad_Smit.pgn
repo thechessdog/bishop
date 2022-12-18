@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Hoad, PC."]
+[Black "Smit, D."]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "8e5a3045"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Ba5 9. h3 dxc4 10. Bxc4 a6 11. Qd3 b5 12. Ba2 Bb7 13. Rd1 Ne7 14. Qe2 cxd4 15.
+exd4 Rc8 16. Rd3 Nfd5 17. Nxd5 Bxd5 18. Bg5 Bxa2 19. Rxa2 Qd5 20. b4 Bd8 21.
+Rc2 Rxc2 22. Qxc2 Nc6 23. Be3 Bb6 24. Ne5 Ne7 25. Kf1 f6 26. Nf3 Nf5 27. Ke2
+Nd6 28. Rc3 Nc4 29. Kf1 Rc8 30. Kg1 Rc7 31. Qd3 Rd7 32. Qc2 g5 33. Kf1 Kg7 34.
+Qc1 h6 35. Qc2 Rd8 36. Qc1 f5 37. Bxg5 hxg5 38. Qxg5+ Kf7 39. Qh6 Ke7 40. Qg7+
+Kd6 41. Kg1 Rd7 42. Qg3+ Kc6 43. Ne5+ Kb7 44. Nxd7 Qxd7 45. Qf3+ Ka7 46. a4
+Bxd4 47. Rc2 Ne5 48. Qa3 bxa4 49. Ra2 Kb6 50. Qxa4 Qxa4 51. Rxa4 Nc6 52. h4 Kb5
+53. Ra3 Nxb4 54. Kf1 a5 55. h5 a4 56. h6 Nd5 57. h7 Kb4 58. Rh3 Bh8 59. Rg3 a3
+60. Rg8 a2 61. Rxh8 a1=Q+ 0-1

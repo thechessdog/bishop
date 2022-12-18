@@ -1,0 +1,19 @@
+[Event "corr ICCF/I"]
+[Site "corr ICCF/I"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Morgado, Juan Sebastian"]
+[Black "Eriksson, Ingemar"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "0fbaf3d5"]
+[Epoch "Bishop"]
+[BlackID "1755021"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd1 b5 9. a4 bxa4 10. Nc3 Nge7 11. Nxa4 Rb8 12. Be2 Rb4 13. c3 Rxe4 14. Nc5
+Rxe2+ 15. Qxe2 a5 16. O-O d5 17. Nb3 Bb7 18. Nxa5 Nxa5 19. Rxa5 O-O 20. c4 Rd8
+21. cxd5 Nxd5 22. Re1 Re8 23. Be3 1-0

@@ -1,0 +1,17 @@
+[Event "Laren"]
+[Site "Laren"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wiegers"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[HashCode "94531f85"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. g3 d5 4. Bg2 Be7 5. Nd2 O-O 6. Ngf3 c5 7. O-O Nc6 8. dxc5
+Bxc5 9. Nb3 Bb6 10. c5 Bc7 11. Nbd4 a6 12. Nxc6 bxc6 13. Nd4 Qe8 14. Bh3 e5 15.
+Bxc8 Rxc8 16. Nf5 Qe6 17. Qc2 g6 18. Nh6+ Kg7 19. Kg2 Nh5 20. f4 exf4 21. gxf4
+f5 0-1

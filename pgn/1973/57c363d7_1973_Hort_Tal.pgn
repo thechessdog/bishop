@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1973.01.01"]
+[Round "12"]
+[White "Hort, Vlastimil"]
+[Black "Tal, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "57c363d7"]
+[Epoch "Bishop"]
+[WhiteID "4600029"]
+[WhiteCountry "GER"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 c5 10. Rd1 cxd4 11. Nxd4 Bxg2 12. Kxg2 Qc8 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "10"]
+[White "Cortlever, Nicolaas"]
+[Black "Piket, Joop J"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "f94ab5c9"]
+[Epoch "Bishop"]
+[BlackID "1001256"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Nf6 8.
+Nc3 Qe7 9. Qxe7+ Nxe7 10. Bg5 b5 11. Bd3 Bb7 12. f4 h6 13. Bh4 Ng6 14. Bxf6
+gxf6 15. fxe5 fxe5 16. O-O d6 17. g3 Ke7 18. Rf2 Rh7 19. h4 Rg7 20. Kh2 Nf8 21.
+Nd1 Bc8 22. Ne3 Be6 23. a4 b4 24. a5 Nd7 25. Bc4 Nc5 26. Bd5 Rb8 27. Raf1 Rb5
+28. Nf5+ Bxf5 29. Rxf5 Ne6 30. Bxe6 fxe6 31. Rf8 Rc5 32. Ra8 Rxc2+ 33. Kh3 Rc7
+34. Rxa6 Rg8 35. Rb6 Ra8 36. a6 h5 37. Ra1 d5 38. exd5 exd5 39. Ra5 Rd7 40. Rb7
+Ke6 1-0

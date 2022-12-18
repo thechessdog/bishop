@@ -1,0 +1,21 @@
+[Event "Wroclaw"]
+[Site "Wroclaw"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Gonsior, Evzen"]
+[Black "Pytel, Krzysztof"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "cfd41d64"]
+[Epoch "Bishop"]
+[WhiteID "300977"]
+[BlackID "600199"]
+[WhiteCountry "CZE"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Bb5 Bd6 7. Qe2+ Ne7 8.
+dxc5 Bxc5 9. O-O O-O 10. Bd3 Ng6 11. h3 Re8 12. Qc2 Nce5 13. Nxe5 Rxe5 14. b4
+Bb6 15. Na3 Qh4 16. Kh2 Bxh3 17. gxh3 Rh5 18. Bf5 Nf4 19. Rg1 Qxh3+ 20. Bxh3
+Rxh3# 0-1

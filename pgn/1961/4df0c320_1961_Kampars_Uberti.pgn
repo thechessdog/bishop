@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Kampars"]
+[Black "Uberti"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "4df0c320"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 f5 3. e4 dxe4 4. f3 exf3 5. Nxf3 g6 6. h4 Bg7 7. h5 e6 8.
+Bg5 Qd6 9. Nb5 Qb6 10. Bf4 Na6 11. Ne5 Bd7 12. a4 Bxb5 13. axb5 Nb8 14. c3
+c6 15. Nc4 Qd8 16. Nd6+ Ke7 17. Bc4 Qd7 18. Qe2 Nf6 19. h6 Bf8 20. Nxb7 Nd5
+21. Bxd5 cxd5 22. Nc5 Qc8 23. b6 1-0
+

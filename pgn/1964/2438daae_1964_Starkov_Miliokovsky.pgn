@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Starkov"]
+[Black "Miliokovsky"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "2438daae"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Nc3 Nxe4 6. Ne5 Nd6 7. Bb3
+Bh4+ 8. g3 fxg3 9. O-O gxh2+ 10. Kh1 O-O 11. d4 b6 12. Qh5 Bb7+ 13. Kxh2
+Bf6 14. Ng4 Ne8 15. Bg5 g6 16. Nxf6+ Nxf6 17. Qh6 1-0
+

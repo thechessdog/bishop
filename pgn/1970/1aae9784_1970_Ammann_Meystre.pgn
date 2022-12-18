@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ammann"]
+[Black "Meystre, G."]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "1aae9784"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 g5 9. Re1 Be6 10. Kf1 g4 11. Ng1 Bc5 12. Qe2 Ne7 13. Nb3 Bb6 14. Be3
+Ng6 15. Nc5 Bxc5 16. Bxc5 Nf4 17. Qe3 Rg8 18. hxg4 Bxg4 19. g3 Ne6 20. f3
+h4 21. Ke2 Bh5 22. g4 Nf4+ 23. Kf1 Bxg4 24. fxg4 Rxg4 25. Nf3 Rg3 26. Re2
+Nxe2 27. Kxe2 Rg2+ 28. Kf1 h3 29. Bb4 Rxc2 0-1
+

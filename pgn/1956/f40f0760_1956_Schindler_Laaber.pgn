@@ -1,0 +1,18 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Schindler"]
+[Black "Laaber"]
+[Result "0-1"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Botvinnik variation"]
+[HashCode "f40f0760"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Nc6 7. Nf3 Ne4
+8. Qb3 O-O 9. e3 Qf6 10. cxd5 exd5 11. Qxd5 Bf5 12. b4 g5 13. Be2 Rfe8 14.
+O-O g4 15. Ne5 Rad8 16. Qb3 Nxe5 17. dxe5 Qxe5 18. Bc4 Be6 19. Ra2 b5 20.
+Bxe6 Rxe6 21. f4 gxf3 22. gxf3 Rg6+ 23. Kh1 Rd2 0-1
+

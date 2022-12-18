@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Tolhurst, F."]
+[Black "Collins, S."]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "62fc1c9a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O d6 6. d4 h6 7. c3 Nc6 8. g3
+g4 9. Nh4 f3 10. Qb3 Qe7 11. Bf4 Nf6 12. Nd2 b6 13. Bb5 Bd7 14. Nf5 Qf8 15.
+Qa4 Na5 16. e5 dxe5 17. dxe5 Qc5+ 18. Be3 Qxe5 19. Nxg7+ Kf8 20. Rae1 Qd5
+21. Bxd7 Nxd7 22. Qa3+ Kg8 23. Bd4 f6 24. Ne8 Qc6 25. Re7 1-0
+

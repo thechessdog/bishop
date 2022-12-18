@@ -1,0 +1,18 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Lehmann, W."]
+[Black "Hohne, P."]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "eff94d7d"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Rh4 e5 12. dxe5 O-O-O 13. Bf4 Nc5 14.
+Qf5+ Ne6 15. Ne4 Qd7 16. Bg3 g5 17. hxg6 fxg6 18. Qxg6 Bb4+ 19. c3 Ne7 20.
+Qg4 1-0
+

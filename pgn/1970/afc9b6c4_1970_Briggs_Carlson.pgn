@@ -1,0 +1,15 @@
+[Event "corr Golden Knights"]
+[Site "corr Golden Knights"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Briggs"]
+[Black "Carlson, Curtis"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "afc9b6c4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Ne4 Qc7 6. c4 Ne7 7. Nd6+ Kd8 8. Ng5
+Ng6 9. Ngxf7+ Ke7 10. d4 h6 11. Qg4 1-0

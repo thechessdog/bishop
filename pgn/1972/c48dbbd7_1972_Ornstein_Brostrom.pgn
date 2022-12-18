@@ -1,0 +1,26 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1972.01.01"]
+[Round "4"]
+[White "Ornstein, Axel"]
+[Black "Brostrom, Goran"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "c48dbbd7"]
+[Epoch "Bishop"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+[BlackID "1700197"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Nc3 e6 9. O-O Be7 10. Be3 O-O 11. Qe2 d5 12. exd5 exd5 13. Rfd1 dxc4 14.
+Qxc4 Ne5 15. Qb3 Neg4 16. Nf3 Qe6 17. Qxe6 fxe6 18. Bd4 Nd5 19. h3 Ngf6 20. Ng5
+Nxc3 21. bxc3 e5 22. Bxe5 Rfd8 23. Bd4 h6 24. Ne6 Rdc8 25. Re1 Bf8 26. Rab1 b6
+27. Rb5 Kf7 28. f4 Rc6 29. f5 Bd6 30. a4 Re8 31. a5 Bc5 32. Bxc5 Rxc5 33. Rxc5
+bxc5 34. Rb1 Ne4 35. Rb7+ Re7 36. a6 Nxc3 37. Nxc5 Kf6 38. Ne6 Nd5 39. g4 g6
+40. Nd4 gxf5 41. Nxf5 Rc7 42. Nxh6 Ke5 43. g5 Rc1+ 44. Kf2 Kf4 45. g6 Rc2+ 46.
+Ke1 Ne3 47. Rb3 Kf3 48. Rxe3+ Kxe3 49. Ng4+ Kf3 50. g7 Rc8 51. Nf6 Ke3 52. Kd1
+Rd8+ 53. Kc2 Rc8+ 54. Kb3 1-0

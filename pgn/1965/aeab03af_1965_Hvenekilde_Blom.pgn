@@ -1,0 +1,21 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Hvenekilde, Jorgen"]
+[Black "Blom, Kaj"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "aeab03af"]
+[Epoch "Bishop"]
+[WhiteID "1400649"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. Bc4 Bd7 7. Bb3 a6 8. Be3
+Nf6 9. f3 Rc8 10. g4 Nxd4 11. Bxd4 Bc6 12. Qd2 Nd7 13. O-O-O b5 14. Kb1 Ne5 15.
+Qe2 Qh4 16. Rhg1 h5 17. g5 Be7 18. g6 Nxg6 19. Rxg6 fxg6 20. Bxe6 Bd7 21. Bb3
+b4 22. Nd5 Bb5 23. Qg2 Qg5 24. Qh3 Bd7 25. Ba4 Bxa4 26. Qxc8+ Bd8 27. Qe6+ Be7
+28. Bf6 1-0

@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hatto, Frank"]
+[Black "Bowen, A."]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Rasa-Studier gambit"]
+[HashCode "932e3990"]
+[Epoch "Bishop"]
+
+1. d4 c6 2. e4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nxf3 Bg4 6. Bc4 e6 7. O-O Nd7
+8. Qe1 Bxf3 9. Rxf3 Ngf6 10. Bg5 Qb6 11. Qh4 Ne5 12. Rxf6 Nxc4 13. Rxe6+
+fxe6 14. Re1 Kd7 15. Rxe6 Re8 16. Rxe8 Kxe8 17. Qe4+ Kd7 18. Qf5+ Kc7 19.
+Qf7+ Kd6 20. Ne4# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Buenos Aires CA"]
+[Site "Buenos Aires"]
+[Date "1972.01.01"]
+[Round "11"]
+[White "Schweber, Samuel"]
+[Black "Debarnot, Roberto"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "53f6530f"]
+[Epoch "Bishop"]
+[BlackID "100595"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Bd3 b5 7. O-O Nf6 8. Qe2
+d6 9. Bd2 Bb7 10. a4 b4 11. Na2 Qb6 12. Nb3 d5 13. a5 Qc7 14. e5 Nfd7 15. c4
+Nc6 16. Kh1 Nc5 1/2-1/2

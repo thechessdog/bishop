@@ -1,0 +1,29 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "13"]
+[White "Moe, Mogens"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "5a26d2a4"]
+[Epoch "Bishop"]
+[WhiteID "1400550"]
+[WhiteCountry "DEN"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Bd3 b5 8.
+Nxc6 Qxc6 9. O-O Bb7 10. Kh1 Nf6 11. f3 Qc7 12. Qe1 Be7 13. a4 b4 14. Na2 d5
+15. exd5 Nxd5 16. Bd2 a5 17. c3 bxc3 18. Bb5+ Bc6 19. Nxc3 O-O 20. Nxd5 Bxd5
+21. Rc1 Qd8 22. Bc3 Bd6 23. f4 Qb8 24. Qg3 f6 25. Rcd1 Qb7 26. Be2 Bb4 27. Bf3
+Bxc3 28. Bxd5 exd5 29. Qxc3 Rfe8 30. Rd2 Re4 31. Qc5 Rae8 32. h3 Rxa4 33. Qxd5+
+Qxd5 34. Rxd5 Re7 35. Kh2 Rb7 36. Rf2 Ra2 37. Kg3 a4 38. Ra5 Rb3+ 39. Kg4 a3
+40. Rf3 Rxf3 41. Kxf3 axb2 42. Rb5 Kf7 43. g4 Ke6 44. Ke4 Kd6 45. Kd4 Ra4+ 46.
+Ke3 Ra3+ 47. Ke4 Ra2 48. Kd4 Kc6 49. Rb8 g6 50. h4 Ra4+ 51. Ke3 Ra3+ 52. Ke4
+Rg3 53. h5 Rg2 54. hxg6 hxg6 55. g5 fxg5 56. fxg5 Kc5 57. Kd3 Rg3+ 58. Kc2 Rxg5
+59. Kxb2 Kd4 60. Kc2 Ke3 61. Re8+ Kf3 62. Kd2 Rg2+ 63. Ke1 Rg1+ 64. Kd2 g5 65.
+Re3+ Kf4 66. Ra3 Rg3 67. Ra8 Kf3 68. Rf8+ Kg2 69. Ke2 Ra3 70. Rg8 Ra5 71. Ke3
+Kg3 72. Ke4 g4 73. Rb8 Ra3 0-1

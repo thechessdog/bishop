@@ -1,0 +1,24 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Doroshkievich, Vladimir K"]
+[Result "0-1"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "3f154bed"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. Qb3
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. Rd1 c6 12. Bd3 Nd7 13. O-O Qc7 14. Rc1 Qd6
+15. e4 dxe4 16. Nxe4 Qf4 17. Rfe1 c5 18. Qa4 Rfd8 19. dxc5 Nxc5 20. Nxc5 Qxa4
+21. Nxa4 Rxd3 22. Ne5 Rd4 23. b3 Re8 24. Nc4 Rxe1+ 25. Rxe1 b5 26. Na5 bxa4 27.
+Nxb7 Rd2 28. bxa4 Rxa2 29. a5 Bd4 30. Rf1 Kf8 31. g3 Ke7 32. Kg2 Ra1 33. Rxa1
+Bxa1 34. Kf3 Kd7 35. Ke4 Kc7 36. a6 Bf6 37. Kd5 Be7 38. g4 Kb6 39. f4 Kxa6 40.
+Kc6 f5 41. gxf5 h5 42. h3 h4 43. Nd6 Bxd6 44. Kxd6 Kb5 45. Ke7 a5 46. Kf7 a4
+47. Kxg7 a3 48. f6 a2 49. f7 a1=Q+ 50. Kg8 Qg1+ 51. Kh7 Qc5 52. Kg8 Qd5 53. Kg7
+Qg2+ 54. Kh8 Qb2+ 55. Kg8 Qb3 56. f5 Kc6 57. f6 Kd7 58. Kg7 Qg3+ 59. Kh8 Qb8+
+60. Kg7 Ke6 61. f8=Q Qxf8+ 62. Kxf8 Kxf6 63. Ke8 Kf5 0-1

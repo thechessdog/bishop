@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Penrose"]
+[Black "Regratto"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Soerensen defence"]
+[HashCode "489ad9a1"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Be2 Nf6
+8. h3 Bh5 9. O-O Bb4 10. a3 Ba5 11. Nc3 Bxc3 12. bxc3 O-O 13. Rb1 b6 14.
+Bf4 Ne4 15. Qc1 Bg6 16. c4 Qd8 17. d5 Ne7 18. Rd1 Nd6 19. Rb2 Rb8 20. Ne5
+Re8 21. Bf3 Be4 22. Bxe4 Nxe4 23. Re2 Nd6 24. Rde1 f6 25. Nf3 Ng6 26. Rxe8+
+Nxe8 27. Nd4 Nxf4 28. Nc6 Nd3 29. Nxd8 1-0
+

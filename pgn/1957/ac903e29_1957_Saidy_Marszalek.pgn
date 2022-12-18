@@ -1,0 +1,22 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Saidy, Anthony"]
+[Black "Marszalek, Rafal"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "ac903e29"]
+[Epoch "Bishop"]
+[WhiteID "2000903"]
+[BlackID "1101358"]
+[WhiteCountry "USA"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5 8.
+cxd5 Bxf1 9. Nxf1 Qxd5 10. f3 c5 11. Ng3 O-O 12. O-O Nc6 13. Qe2 cxd4 14. cxd4
+Rac8 15. Ba3 Rfd8 16. Rac1 Qa5 17. Qd3 Nb4 18. Qb3 Nbd5 19. e4 Nf4 20. Qe3 Qg5
+21. Kh1 N6h5 22. Rfe1 Nxg3+ 23. hxg3 Qxg3 24. Qd2 Qg5 25. Red1 Rxc1 26. Bxc1
+Rxd4 0-1

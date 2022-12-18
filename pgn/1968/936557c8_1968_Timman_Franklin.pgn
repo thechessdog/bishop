@@ -1,0 +1,19 @@
+[Event "Nederland tt"]
+[Site "Nederland tt"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Franklin"]
+[Result "1-0"]
+[ECO "E82"]
+[Opening "King's Indian"]
+[Variation "Saemisch, double fianchetto variation"]
+[HashCode "936557c8"]
+[Epoch "Bishop"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 O-O 5. Be3 d6 6. f3 b6 7. Bd3 Bb7 8. Nh3 c5
+9. d5 Bc8 10. Nf2 Na6 11. O-O Nc7 12. f4 Nfe8 13. f5 Nf6 14. Ng4 Nxg4 15. Qxg4
+Ne8 16. Rf3 Nf6 17. Qh4 Nd7 18. Rh3 h5 19. Bg5 Bf6 20. Rg3 Bxg5 21. Qxg5 Ne5
+22. Qh6 1-0

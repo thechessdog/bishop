@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Vooremaa, Andres"]
+[Black "Butnorius, Algimantas"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Romanishin variation"]
+[HashCode "73ffa093"]
+[Epoch "Bishop"]
+[BlackID "12800066"]
+[BlackCountry "MNC"]
+[WhiteID "4500083"]
+[WhiteCountry "EST"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb4+ 6. Bd2 Qh4 7. Qe2 Bxd2+
+8. N1xd2 d6 9. c3 Nf6 10. g3 Qh6 11. h3 O-O 12. O-O-O Re8 13. f4 Qg6 14. Bg2
+Qxg3 15. Rdf1 Nd5 16. Bf3 Nxf4 17. Qe3 Ne5 18. Nd4 Bd7 19. h4 c5 20. Nb1 Ng4
+21. Qg1 Qxg1 22. Rhxg1 Nh2 23. Nf5 Bxf5 24. exf5 Nxf1 25. Rxf1 d5 26. Bh1 Rad8
+27. Kc2 Ne2 28. h5 Ng3 29. Rg1 Nxh1 30. Rxh1 Rd6 0-1

@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Wikstrom, Birger"]
+[Black "Bjuhr, Arne"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "27075ada"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8.
+Nc2 Bxc3+ 9. bxc3 d5 10. exd5 exd5 11. cxd5 Qxd5 12. Ne3 Qc5 13. O-O O-O
+14. Nc4 Bg4 15. Qc2 Rfe8 16. Be3 Qe7 17. a4 Rad8 18. h3 Qd7 19. Nb2 Be6 20.
+Bb6 Rc8 21. Nc4 Ne7 22. Ne5 Qd6 23. Bd4 Ned5 24. Qd2 Nh5 25. Rab1 Ndf4 26.
+Bc2 Bxh3 27. g3 Rxe5 28. gxf4 Re6 29. f5 Qd5 30. f3 Bxf5 31. Bxf5 Qxf5 32.
+Kf2 Rg6 33. Rbe1 Nf4 0-1
+

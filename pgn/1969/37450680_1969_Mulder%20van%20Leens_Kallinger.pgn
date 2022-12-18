@@ -1,0 +1,25 @@
+[Event "corr ch5-EU"]
+[Site "corr ch5-EU"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Mulder van Leens, K"]
+[Black "Kallinger, O."]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "37450680"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 a6 11. a4 b6 12. f3 Nfd7 13. Nc4 Ne5 14. Ne3 f5
+15. exf5 gxf5 16. f4 Ng6 17. Kh1 Bd4 18. Nc4 Ra7 19. Bd3 Rg7 20. Qh5 Rf8
+21. Bd2 Nh4 22. g3 Ng6 23. Rae1 Ne7 24. Ne3 Bd7 25. Qd1 Qc7 26. Qb3 Qb7 27.
+Be2 Be8 28. Rd1 Nc8 29. Qc2 Ne7 30. Qb3 Nc8 31. Qc2 Ne7 32. Qd3 Bd7 33. b3
+Nc8 34. Nc2 Bf6 35. Rfe1 Re7 36. Bf1 Rxe1 37. Bxe1 Ne7 38. Be2 Bg7 39. h3
+Qc8 40. Kh2 Qe8 41. Bd2 Qg6 42. Qf3 Kh8 43. Qf1 Bc8 44. Bd3 Qh6 45. Re1 Bf6
+46. Ne3 Qg7 47. Nc4 Ng6 48. Nb1 Qc7 49. Bc3 Qd8 50. Qe2 Bg7 51. Qb2 Bxc3
+52. Nxc3 Kg8 53. Qc2 Kg7 54. Nd1 Rf7 55. Nde3 Ne7 56. Nd2 h6 57. Nf3 Bd7
+58. Nh4 Qf8 59. Qe2 Bc8 60. g4 fxg4 61. hxg4 Kg8 62. Nef5 Nxf5 63. Bxf5
+Bxf5 64. Nxf5 Rf6 65. Qe8 h5 66. Qxh5 1-0
+

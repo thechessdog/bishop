@@ -1,0 +1,20 @@
+[Event "Den Haag"]
+[Site "Den Haag"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "De Wind"]
+[Black "Timman, Jan H"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "1dc7afb4"]
+[Epoch "Bishop"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. g3 Bg7 8. Bg2
+O-O 9. Nf3 Re8 10. Nd2 b6 11. O-O Ba6 12. Re1 Nbd7 13. Qa4 Bd3 14. Re3 c4 15.
+f3 Nc5 16. Qd1 Nh5 17. Ne2 b5 18. Nb1 Qb6 19. Kh1 Bh6 20. Nbc3 b4 21. Rxd3 Nxd3
+22. Na4 Nf2+ 23. Kg1 Nxd1+ 24. Nxb6 axb6 25. Bxh6 Nxb2 26. Nd4 b3 27. a3 Nd3
+28. Nb5 b2 29. Rb1 c3 30. Nxc3 Rxa3 31. Bd2 Rc8 32. Nb5 Ra1 0-1

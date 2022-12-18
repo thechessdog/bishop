@@ -1,0 +1,28 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Marić, Rudolf"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "a756c9fe"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Bd2 Bxc3 6. Bxc3 b6 7. Qg4 f5 8. exf6
+Nxf6 9. Qh4 O-O 10. Nf3 Ba6 11. Bxa6 Nxa6 12. O-O Ne4 13. Ne5 Qd6 14. Be1 c5
+15. f3 cxd4 16. Nd3 Nf6 17. Qxd4 Nc5 18. Bg3 Qc6 19. Ne5 Qa4 20. Qd2 Rac8 21.
+Rfe1 Nh5 22. b3 Qe8 23. Bf2 Nf4 24. c4 dxc4 25. Nxc4 Rd8 26. Qc2 Ncd3 27. Re4
+Qg6 28. Be3 Nh3+ 29. Kh1 Nhf2+ 30. Bxf2 Nxf2+ 31. Qxf2 Qxe4 32. Re1 Qd4 33. Qe2
+Rfe8 34. h3 e5 35. Qc2 b5 36. Ne3 Qd2 37. Re2 Qxc2 38. Nxc2 Kf7 39. Ne3 h5 40.
+Nf5 g6 41. Ng3 Rd1+ 42. Kh2 h4 43. Ne4 Rc8 44. Nf2 Rd5 45. Ng4 Re8 46. Kg1 g5
+47. Kf2 a5 48. Ke1 Ke6 49. Rc2 Red8 50. Nf2 Kf5 51. Ke2 Kf4 52. Ne4 Rd4 53. Rc5
+R8d5 54. Rc6 Rxe4+ 55. fxe4 Kxe4 56. Rc3 Kd4 57. Rd3+ Kc5 58. Re3 Kb4 59. Kf3
+Ka3 60. Re2 a4 61. bxa4 bxa4 62. Kg4 e4 63. Rxe4 Rb5 64. Re2 Rb2 65. Re3+ Kxa2
+66. Kxg5 Rxg2+ 67. Kxh4 a3 68. Kh5 Kb2 69. Re8 a2 70. Rb8+ Kc2 71. Ra8 Kb1 72.
+Rb8+ Rb2 73. Ra8 a1=Q 74. Rxa1+ Kxa1 75. Kg5 Rg2+ 76. Kf5 Rh2 77. Kg4 Kb2 78.
+h4 Kc3 79. h5 Kd4 80. Kg5 Ke5 81. Kg6 Ke6 0-1

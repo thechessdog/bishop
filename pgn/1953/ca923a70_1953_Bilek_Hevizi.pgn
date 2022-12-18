@@ -1,0 +1,17 @@
+[Event "Charousek"]
+[Site "Charousek"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Hevizi"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "ca923a70"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O g6 6. c3 Bg7 7. Re1 Nc6 8.
+d4 cxd4 9. cxd4 Nf6 10. Nc3 O-O 11. Bg5 Rfe8 12. Qa4 a6 13. d5 Nb8 14. Qb3 Qc7
+15. e5 dxe5 16. Nxe5 Nbd7 17. d6 exd6 18. Qxf7+ Kh8 19. Bxf6 1-0

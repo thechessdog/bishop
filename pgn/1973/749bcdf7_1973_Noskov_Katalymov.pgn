@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Noskov, Anatoly"]
+[Black "Katalymov, Boris N"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "749bcdf7"]
+[Epoch "Bishop"]
+[BlackCountry "KAZ"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Nc6 7. cxd5 Na5 8.
+Qa4+ Bd7 9. Bb5 a6 10. Bxd7+ Nxd7 11. Nge2 b5 12. Qd1 Nf6 13. Nf4 Bg7 14. O-O
+Nc4 15. a4 b4 16. Qb3 bxc3 17. Qxc4 cxb2 18. Qc6+ Kf8 19. Bxb2 Bh6 20. d6 exd6
+21. d5 Kg7 22. Ne6+ fxe6 23. Qb7+ Kg8 24. dxe6 Qf8 25. Bxf6 Rb8 26. Qc7 Rc8 27.
+Qd7 Qxf6 28. Qxc8+ Bf8 29. Ra3 1-0

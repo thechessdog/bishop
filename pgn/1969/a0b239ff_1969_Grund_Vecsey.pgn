@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Grund"]
+[Black "Vecsey"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "a0b239ff"]
+[Epoch "Bishop"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Ne7 5. Qh5+ g6 6. Qh4 Nec6 7. f4 Bf8
+8. Nf3 d6 9. Qg3 Nd7 10. f5 g5 11. a3 Nb6 12. Ba2 Na4 13. Bc1 Nd4 14. Nxd4
+exd4 15. c3 dxc3 16. Nxc3 1-0
+

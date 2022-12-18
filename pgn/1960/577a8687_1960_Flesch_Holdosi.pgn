@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Flesch, János"]
+[Black "Holdosi, Lajos"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "577a8687"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nge7 8.
+Bg5 a6 9. Qe2 h6 10. Be3 Bd7 11. Rad1 Ng6 12. Nd4 Nxd4 13. Bxd4 Ne5 14. Bb3 Nc6
+15. Be3 Be7 16. Qg4 Ne5 17. Qxg7 Ng6 18. e5 d5 19. Bc2 Bf8 20. Qxg6 fxg6 21.
+Bxg6+ Ke7 22. Bc5# 1-0

@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Butze, Roland"]
+[Black "Rothgaenger, D."]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "0f079739"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Bxc3+ 5. bxc3 d5 6. f3 O-O 7. cxd5 exd5 8.
+a3 Nc6 9. Bd3 Ne4 10. fxe4 dxe4 11. Bc2 Qh4+ 12. g3 Qg5 13. Bxe4 Re8 14. Bxc6
+bxc6 15. Nf3 Qxg3+ 16. hxg3 1-0

@@ -1,0 +1,23 @@
+[Event "Basel"]
+[Site "Basel"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Techner, R."]
+[Black "Leepin, P."]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "5af2c73d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d6 7. O-O Bxc3 8.
+bxc3 Qe7 9. e4 e5 10. dxe5 dxe5 11. Qc2 Nc6 12. Re1 Ne8 13. Nd2 Nd6 14. Nf1
+f6 15. Ne3 Qf7 16. Nd5 b6 17. Qe2 Ba6 18. f4 Na5 19. fxe5 fxe5 20. Bg5 Rae8
+21. Rf1 Qd7 22. Qh5 Rxf1+ 23. Rxf1 Bxc4 24. Bxc4 Naxc4 25. Qh4 Nf7 26. Nf6+
+gxf6 27. Bxf6 Nh8 28. Qg3+ Ng6 29. h4 Qd2 30. h5 Qe3+ 31. Qxe3 Nxe3 32. Rf3
+Nc4 33. hxg6 hxg6 34. Rd3 Kf7 35. Bg5 Ke6 36. Rf3 Nd6 37. Rf6+ Kd7 38. Rxg6
+Nxe4 39. Rg7+ Ke6 40. Bh4 Nxc3 41. Rxa7 Kd5 42. a4 Rf8 43. a5 b5 44. a6 b4
+45. Rb7 Ra8 46. Rb6 Na4 47. Rb7 Rxa6 48. Bd8 Kc6 49. Rb8 Nb6 50. Bf6 Nd7
+0-1
+

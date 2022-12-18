@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Andersen, Borge"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "069ad803"]
+[Epoch "Bishop"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. e3 c6 5. Bd3 Bxd3 6. Qxd3 Nbd7 7. Nf3 h6 8.
+Bh4 Qa5 9. O-O e6 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 Bd6 13. Rfe1 g5 14. Bg3
+Bxg3 15. hxg3 O-O-O 16. c3 Qd5 17. Qxd5 cxd5 18. Ne5 Nxe5 19. Rxe5 Rd6 20. g4
+Kd7 21. f3 a5 22. Kf2 b5 23. a3 Rb6 24. Ke2 f6 25. Re3 h5 26. gxh5 Rxh5 27. Kd3
+Rh8 28. Re2 Rbb8 29. Rae1 Rbe8 30. Kd2 Kd6 31. Kd3 e5 32. dxe5+ fxe5 33. Ke3
+Rh4 34. Kd3 Re6 35. Ke3 a4 36. Kd3 Rc4 37. Rh1 g4 38. Rh8 gxf3 39. gxf3 Rf4 40.
+Re3 Rxf3 41. Rxf3 e4+ 42. Ke3 exf3+ 43. Kxf3 1/2-1/2

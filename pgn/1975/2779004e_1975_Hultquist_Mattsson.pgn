@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hultquist, Torsten"]
+[Black "Mattsson, Bertil"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "2779004e"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+
+8. Kxd1 Rd8+ 9. Ke1 Nd5 10. Nxd5 Rxd5 11. Bc4 Rd8 12. Ng5 e6 13. Be3 b6 14.
+Kf2 Bb7 15. h4 h5 16. Rhg1 Nc6 17. g4 hxg4 18. Rxg4 Ne7 19. h5 gxh5 20. Rh4
+Bd5 21. Bd3 f6 22. exf6 Bxf6 23. Rxh5 Bxg5 24. Rg1 Kf7 25. Rh7+ Kf8 26.
+Rxg5 c5 27. f5 exf5 28. Bf4 Bxa2 29. Rg3 Ng8 30. b3 Rd4 31. Be5 Rxd3 32.
+Rxd3 c4 33. Bd6+ Ke8 34. Re3+ Kd8 35. Bc7+ Kc8 36. Re8+ Kb7 37. Be5+ 1-0
+

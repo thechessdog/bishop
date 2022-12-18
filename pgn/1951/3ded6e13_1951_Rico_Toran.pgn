@@ -1,0 +1,18 @@
+[Event "Gijon"]
+[Site "Gijon"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Rico, A."]
+[Black "Toran, Roman"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "3ded6e13"]
+[Epoch "Bishop"]
+[BlackCountry "EST"]
+
+1. e4 c5 2. f4 Nc6 3. Nc3 e6 4. Nf3 a6 5. a4 d5 6. e5 Nge7 7. d3 Nf5 8. Ne2 Be7
+9. c3 O-O 10. g3 f6 11. g4 Nh4 12. Nxh4 fxe5 13. Ng2 exf4 14. Nexf4 e5 15. Nh3
+Be6 16. Be3 d4 17. Bf2 Bd5 18. Ng1 Rxf2 19. Kxf2 Bh4+ 20. Ke2 Qg5 21. Nh3 Rf8
+22. Nhf4 Rxf4 23. Nxh4 Rf2+ 0-1

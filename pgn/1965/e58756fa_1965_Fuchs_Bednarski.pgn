@@ -1,0 +1,19 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1965.08.01"]
+[Round "5"]
+[White "Fuchs, Reinhart"]
+[Black "Bednarski, Jacek B"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "e58756fa"]
+[Epoch "Bishop"]
+[WhiteID "4611357"]
+[WhiteCountry "GER"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+O-O 9. O-O Be6 10. Bxf6 Bxf6 11. Qd3 Nc6 12. Nd5 Rc8 13. c3 Bg5 14. Rad1 Kh8
+15. Ne3 b5 1/2-1/2

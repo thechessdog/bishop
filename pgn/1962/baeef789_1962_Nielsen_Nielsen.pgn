@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Nielsen, E Verner"]
+[Black "Nielsen, Thomas"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "baeef789"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nge7 5. Nc3 a6 6. Bxc6 Nxc6 7. Nxe5
+Bxf2+ 8. Rxf2 Nxe5 9. d4 Ng6 10. Qh5 c6 11. e5 d6 12. Bg5 Qc7 13. exd6 Qxd6
+14. Ne4 Qc7 15. Re1 O-O 16. Nf6+ gxf6 17. Bxf6 Nf4 18. Qg5+ 1-0
+

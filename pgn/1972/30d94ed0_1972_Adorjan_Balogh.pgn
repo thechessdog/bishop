@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Adorjan, Andras"]
+[Black "Balogh, Bela"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "30d94ed0"]
+[Epoch "Bishop"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. h3 O-O 7. c3 a6 8. Bxc6
+bxc6 9. e5 Nd5 10. Na3 a5 11. d3 Ba6 12. Nc4 Qc7 13. Nfd2 f5 14. exf6 Nxf6
+1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Munich olm prel"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "9"]
+[White "Ofstad, Per"]
+[Black "Perez Perez, Francisco Jose"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "b6882eb5"]
+[Epoch "Bishop"]
+[WhiteID "1500708"]
+[WhiteCountry "NOR"]
+[BlackCountry "EST"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Be2 e6 8.
+O-O Be7 9. Nb3 b5 10. Bd3 Bb7 11. Qe2 O-O 12. a4 b4 13. Nd1 Qc7 14. f3 Rfe8 15.
+Ne3 Ne5 16. Rac1 Ng6 17. Nc4 d5 18. Ncd2 Nxe4 19. Nxe4 dxe4 0-1

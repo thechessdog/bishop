@@ -1,0 +1,27 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1948.10.01"]
+[Round "1"]
+[White "Castaldi, Vincenzo"]
+[Black "Grob, Henri"]
+[Result "0-1"]
+[ECO "D95"]
+[Opening "Gruenfeld"]
+[Variation "Botvinnik variation"]
+[HashCode "9f5f3543"]
+[Epoch "Bishop"]
+[BlackCountry "SWI"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. Qb3 e6 7. Bd2 a6 8. cxd5
+exd5 9. Rc1 Re8 10. Be2 c6 11. O-O Nbd7 12. Na4 Ne4 13. Rfd1 b5 14. Nc3 Nxd2
+15. Rxd2 Nb6 16. Rdd1 Bf5 17. Nb1 Nc4 18. Nbd2 c5 19. Nf1 Na5 20. Qc3 c4 21.
+Ng3 Bc8 22. b3 Bb7 23. bxc4 dxc4 24. Qc2 Rc8 25. e4 Qb6 26. e5 b4 27. Nd2 b3
+28. Qb2 Bd5 29. Nge4 Red8 30. Nc5 Bxe5 31. Ncxb3 Bb8 32. Qc3 Qc7 33. Qh3 Qxh2+
+34. Qxh2 Bxh2+ 35. Kxh2 cxb3 36. Rxc8 Rxc8 37. axb3 Nxb3 38. Bxa6 Rc2 39. Nxb3
+Bxb3 40. Kg3 Rxf2 41. Rb1 Ra2 42. Rxb3 Rxa6 43. Kf4 Ra5 44. Ke4 f5+ 45. Kd3 Kg7
+46. Kc4 Kf6 47. Rb6+ Kg5 48. d5 Ra2 49. Rb7 Rxg2 50. Rxh7 Rd2 51. Kc5 f4 52. d6
+Kg4 53. d7 f3 54. Kc6 g5 55. Rh2 Rd3 56. Ra2 Kg3 57. Ra3 Rd2 58. Ra2 Rxd7 59.
+Kxd7 f2 60. Ra1 g4 61. Ke6 Kf4 62. Ra4+ Ke3 63. Rxg4 f1=Q 64. Ke5 Qb5+ 65. Kf6
+Kf3 66. Rh4 Qc6+ 67. Ke5 Qe8+ 68. Kf5 Qf7+ 69. Kg5 Qe7+ 70. Kh5 Qg7 71. Ra4
+Qh8+ 72. Kg5 Qd8+ 73. Kh6 Qb6+ 74. Kg7 Qc7+ 0-1

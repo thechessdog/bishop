@@ -1,0 +1,16 @@
+[Event "Burdeos"]
+[Site "Burdeos"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Weill, Roland"]
+[Black "Hirt"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "d66e91e1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Be7 11. fxe6 fxe6 12. Bc4 Nxe4 13. Nxe4 d5 14. Rb3 Qxa2
+15. Rxb7 Qa1+ 16. Ke2 Bxg5 17. Nd6+ Kf8 18. Qxg5 Bxb7 19. Qd8# 1-0

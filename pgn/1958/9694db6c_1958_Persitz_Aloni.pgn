@@ -1,0 +1,20 @@
+[Event "Haifa/Tel Aviv"]
+[Site "Haifa/Tel Aviv"]
+[Date "1958.01.01"]
+[Round "9"]
+[White "Persitz, Raphael"]
+[Black "Aloni, Izak"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "9694db6c"]
+[Epoch "Bishop"]
+[BlackCountry "ISR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 Be7 7. Nxf6+ Nxf6
+8. Bd3 b6 9. Qe2 Bb7 10. O-O O-O 11. Rad1 Qd6 12. Rfe1 Rfe8 13. c4 c5 14. dxc5
+Qxc5 15. Ne5 Qc7 16. Qe3 Rad8 17. Qh3 Ne4 18. Bxe7 Qxe7 19. Qe3 f5 20. f3 Nc5
+21. Bc2 g6 22. b4 Na6 23. a3 Nc7 24. Ba4 Rxd1 25. Rxd1 Rd8 26. Rd4 a6 27. Bc6
+Bc8 28. Qd2 Rxd4 29. Qxd4 b5 30. c5 Nd5 31. Bxd5 exd5 32. Qxd5+ Kg7 33. f4 g5
+34. Qd6 Qe6 35. fxg5 1-0

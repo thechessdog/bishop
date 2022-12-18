@@ -1,0 +1,20 @@
+[Event "corr Baltic"]
+[Site "corr Baltic"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Hatju"]
+[Black "Lubinski"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "15d26176"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Nxc6 bxc6
+8. e5 dxe5 9. Qxd8+ Kxd8 10. fxe5 Ng4 11. Bf4 Bh6 12. O-O-O+ Kc7 13. Bxh6
+Nxh6 14. h3 Nf5 15. Rd3 h5 16. Ne4 h4 17. Rc3 Be6 18. Be2 Nd4 19. Bd3 Bd5
+20. Re1 Rh5 21. Rc5 Rxe5 22. c4 Ne6 23. Ra5 Bxe4 24. Rxe5 Bxd3 25. b3 Bf5
+26. R1e2 Rd8 27. Kb2 Rd1 28. a3 Nd4 29. Rf2 e6 30. b4 f6 31. Re3 e5 32. Rc3
+Re1 33. Rd2 Re2 34. Kc1 Re1+ 35. Kb2 Ne2 0-1
+

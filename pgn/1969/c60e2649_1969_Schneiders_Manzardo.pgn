@@ -1,0 +1,18 @@
+[Event "Fanano tt"]
+[Site "Fanano tt"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Schneiders"]
+[Black "Manzardo"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "c60e2649"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Bb4+ 5. Nc3 Nc6 6. Nf3 Qe7 7. Qd5
+Bxc3+ 8. bxc3 Qa3 9. Rc1 f6 10. exf6 Nxf6 11. Qd1 O-O 12. Bxc7 Ne4 13. Qd5+
+Kh8 14. Rc2 d6 15. e3 Bf5 16. Bd3 Nxc3 17. Bxd6 Nb4 18. Bxf8 Ncxd5 19. Bxf5
+Nxc2+ 20. Bxc2 Qc1+ 21. Bd1 Nc3 0-1
+

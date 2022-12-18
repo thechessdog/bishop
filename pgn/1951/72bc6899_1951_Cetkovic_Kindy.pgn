@@ -1,0 +1,18 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Cetkovic, Miodrag"]
+[Black "Kindy"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "72bc6899"]
+[Epoch "Bishop"]
+[WhiteID "907588"]
+[WhiteCountry "MNE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nbd7 7. e5 Ne8 8. Ng5
+e6 9. h4 c5 10. h5 cxd4 11. hxg6 hxg6 12. Qg4 dxc3 13. Bxg6 Ndf6 14. exf6 Nxf6
+15. Bh7+ Nxh7 16. Nxh7 Re8 17. b4 Bd7 18. Rh6 f5 19. Qg6 1-0

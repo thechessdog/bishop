@@ -1,0 +1,17 @@
+[Event "corr BdF-cup3"]
+[Site "corr BdF-cup3"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Roder, M."]
+[Black "Huse, H."]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[HashCode "b33359df"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 Bg4 5. Ne5 Bh5 6. Qb3 Qc7 7. Bf4 Nbd7
+8. e3 Nxe5 9. dxe5 Ne4 10. cxd5 Nxc3 11. bxc3 Bg4 12. dxc6 bxc6 13. e6 Qb6
+14. exf7+ Kd8 15. Rd1+ Bxd1 16. Qxd1+ Kc8 17. Bc4 Qc5 18. Ba6# 1-0
+

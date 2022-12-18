@@ -1,0 +1,17 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Poliak, Evsey"]
+[Black "Tobis, J."]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "c0e4edfa"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bd7 7. e5 dxe5 8.
+fxe5 Nh5 9. e6 Bxe6 10. Nxe6 Qxd1+ 11. Kxd1 fxe6 12. Bc4 Nd7 13. Bxe6 O-O-O
+14. Ke2 Kb8 15. Rd1 Nhf6 16. Bf4+ Ka8 17. Be5 Bg7 18. Bxd7 1-0
+

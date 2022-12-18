@@ -1,0 +1,18 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Nowacki"]
+[Black "Manca, F."]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "c565b0c4"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 Nf6 6. Bc4 Qd8 7. dxc5
+Bxc5 8. O-O Nc6 9. c3 O-O 10. Qe2 Ne7 11. Ng5 h6 12. Nge4 Nxe4 13. Nxe4 Bb6
+14. Rd1 Nd5 15. Qh5 Qe7 16. Bxh6 gxh6 17. Qxh6 f5 18. Rxd5 Qg7 19. Qh5 Qh7
+20. Qg5+ Qg7 21. Rxf5 1-0
+

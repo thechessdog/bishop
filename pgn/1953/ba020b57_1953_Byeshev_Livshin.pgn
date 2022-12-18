@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Byvshev, Vasily Mikhailovich"]
+[Black "Livshin, Iosif"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack"]
+[HashCode "ba020b57"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 h6 8.
+Bxf6 gxf6 9. O-O-O a6 10. f4 Bd7 11. Be2 Qb6 12. Nb3 h5 13. Rhf1 O-O-O 14. Rf3
+Na5 15. Nd5 Nxb3+ 16. Rxb3 Qa7 17. Qa5 exd5 18. Rc3+ Bc6 19. exd5 Re8 20. dxc6
+b6 21. Qf5+ Re6 22. Bc4 1-0

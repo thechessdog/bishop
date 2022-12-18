@@ -1,0 +1,25 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Timoshchenko, Gennadi"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "00b1449b"]
+[Epoch "Bishop"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 e6 8. O-O
+Be7 9. a3 O-O 10. Qe2 Qb6 11. Rd1 Na5 12. Nbd2 Bd7 13. Ba2 Ba4 14. Re1 Bb3 15.
+Bb1 Rfc8 16. Qe4 g6 17. Qg4 Qc7 18. h4 Bc2 19. b4 Bxb1 20. Rxb1 Nc4 21. h5 Nxd2
+22. Bxd2 dxe5 23. hxg6 hxg6 24. Nxe5 Bf6 25. Rbc1 Qe7 26. Rxc8+ Rxc8 27. Nxg6
+fxg6 28. Rxe6 Qf8 29. Qxg6+ Bg7 30. Bh6 Nf4 31. Bxg7 Nxg6 32. Bxf8 Nxf8 33. Re7
+Rc3 34. a4 Rc4 35. Rxb7 Rxd4 36. a5 a6 37. Kf1 Ne6 38. b5 axb5 39. a6 Nf8 40.
+a7 Ra4 41. Ke2 Ra3 42. Kd2 b4 43. Kc2 Kh8 44. Kb2 Kg8 45. g3 Kh8 46. f4 Kg8 47.
+f5 Kh8 48. g4 Kg8 49. g5 Kh8 50. g6 Kg8 51. Rc7 Ra5 52. Kb3 Ra1 53. Kxb4 Rb1+
+54. Kc5 Rc1+ 55. Kb6 Rb1+ 56. Ka6 Ra1+ 57. Kb7 Rb1+ 58. Kc8 1-0

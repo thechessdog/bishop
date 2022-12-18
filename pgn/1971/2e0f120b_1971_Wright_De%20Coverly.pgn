@@ -1,0 +1,17 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Wright, MC."]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld with e3    Bd3"]
+[HashCode "2e0f120b"]
+[Epoch "Bishop"]
+[BlackID "405213"]
+[BlackCountry "END"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd3 c5 7. b3 cxd4 8. exd4
+Nc6 9. c5 Bg4 10. Be2 Ne4 11. Nxe4 dxe4 12. Ne5 Bxe2 13. Nxc6 Bxd1 14. Nxd8
+Bxd4 15. Kxd1 Rfxd8 16. Rb1 Bxf2+ 17. Ke2 Bxc5 0-1

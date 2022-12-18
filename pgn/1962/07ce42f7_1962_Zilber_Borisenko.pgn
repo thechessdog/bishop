@@ -1,0 +1,27 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Zilber, Israel"]
+[Black "Borisenko, Georgy K"]
+[Result "1-0"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[HashCode "07ce42f7"]
+[Epoch "Bishop"]
+[WhiteID "2000776"]
+[WhiteCountry "USA"]
+[BlackCountry "UZB"]
+
+1. Nf3 d6 2. d4 Nf6 3. c4 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 c5 10. g4 Qd7 11. f3 h5 12. g5 Nh7 13. Qa4 Qxa4 14. Nxa4 Bh3 15. Rf2
+f6 16. gxf6 Bxf6 17. Ng2 Bg5 18. Nc3 Bxc1 19. Rxc1 g5 20. a3 Ng6 21. b4 Rf6 22.
+bxc5 dxc5 23. Ne1 Nf4 24. Bf1 Bxf1 25. Rxf1 Nf8 26. Kf2 N8g6 27. Ne2 Rb6 28.
+Nxf4 Nxf4 29. Rc2 Rb3 30. Ng2 Nh3+ 31. Ke2 Rxa3 32. Ne3 Kf7 33. Nf5 Rb3 34. Ra1
+a5 35. Kd2 b6 36. Rc3 Rb2+ 37. Rc2 Rb3 38. Rc3 Rb4 39. Ne3 a4 40. Nc2 Ra5 41.
+Nxb4 cxb4 42. Rcc1 g4 43. fxg4 hxg4 44. Rcb1 b3 45. Ra3 Ng5 46. Kd3 Nf3 47.
+Rba1 b5 48. cxb5 b2 49. Rb1 Rxb5 50. Rxa4 Rb3+ 51. Kc2 Re3 52. Rxb2 Re2+ 53.
+Kb1 Rxb2+ 54. Kxb2 Nxh2 55. Ra3 Nf3 56. Kc2 Ng5 57. Kd3 Nh3 58. Ke2 Nf4+ 59.
+Kf2 Kf6 60. Ra8 Nd3+ 61. Kg3 Nc5 62. Kxg4 Nxe4 63. Ra6+ Ke7 64. Re6+ Kd7 65.
+Kf5 Nc5 66. Rc6 1-0

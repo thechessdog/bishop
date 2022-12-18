@@ -1,0 +1,17 @@
+[Event "Student Olympiad"]
+[Site "Student Olympiad"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "James, G."]
+[Black "Ornstein, Axel"]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "f11bf68f"]
+[Epoch "Bishop"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. e3 Bg7 7. Nf3 Nc6 8. Be2
+cxd4 9. exd4 Be6 10. c5 O-O 11. O-O h6 12. Qa4 f5 1-0

@@ -1,0 +1,19 @@
+[Event "Cardenas/Matanzas/Santa Clara"]
+[Site "Santa Clara"]
+[Date "1968.01.01"]
+[Round "11"]
+[White "Martinez, Jaime"]
+[Black "Letelier, Rene"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "175418b8"]
+[Epoch "Bishop"]
+[WhiteID "2206463"]
+[WhiteCountry "ESP"]
+[BlackCountry "CHL"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+exd5 9. Bd3 Bb7 10. Rc1 Nbd7 11. O-O Ne4 12. Bg3 c5 13. Bxe4 dxe4 14. Ne5 cxd4
+15. Qxd4 Nxe5 16. Qxe5 Bf6 17. Qb5 1/2-1/2

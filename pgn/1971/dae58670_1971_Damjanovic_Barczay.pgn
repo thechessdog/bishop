@@ -1,0 +1,17 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Damjanovic, Mato"]
+[Black "Barczay, Laszlo"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "dae58670"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. O-O-O Bb7 10. Bxf6 gxf6 11. Qh5 Qc5 12. f5 Ke7 13. Qh3 Nc6 14. Nxc6+ Bxc6
+15. fxe6 fxe6 16. Bd3 b4 17. Ne2 h5 18. Nf4 Bh6 19. Qxe6+ 1-0

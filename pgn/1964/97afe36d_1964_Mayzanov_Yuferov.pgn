@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Mayzanov"]
+[Black "Yuferov"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "97afe36d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Qf3 Qc7 9. O-O-O b5 10. a3 Bb7 11. g4 Rc8 12. Bd3 Qb6 13. Bxf6 gxf6 14. Nb3
+Nc5 15. Rhe1 Be7 16. Kb1 b4 17. axb4 Qxb4 18. Na2 Qb6 19. Qe3 Rb8 20. Nxc5
+dxc5 21. b3 a5 22. Nc3 Bc6 23. Nd5 Qb7 24. Nxe7 Qxe7 25. e5 a4 26. exf6 Qa7
+27. Bc4 axb3 28. cxb3 Ra8 29. Qc3 Qa2+ 30. Kc1 Qxh2 31. f5 O-O 32. fxe6
+Qf4+ 33. Kb2 Rfd8 34. exf7+ Kf8 35. Rxd8+ Rxd8 36. Qe5 Qxe5+ 37. Rxe5 Rd6
+38. Rg5 Rxf6 39. Rxc5 h6 40. Re5 Bf3 41. Re8+ Kg7 42. Rg8+ Kh7 43. f8=Q 1-0
+

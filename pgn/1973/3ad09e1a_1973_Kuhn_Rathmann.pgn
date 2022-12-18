@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kuhn"]
+[Black "Rathmann, H."]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "3ad09e1a"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. e5 Ng8 6. Bc4 f6 7. Qf3 e6 8.
+Bh4 dxe5 9. dxe5 Qd4 10. Bxf6 Nxf6 11. exf6 Bxf6 12. Rd1 Qe5+ 13. Nge2 Nc6
+14. O-O Rf8 15. Qe3 Bd7 16. Qxe5 Nxe5 17. Bb3 Nc6 18. Ne4 Be7 19. Rd2 Na5
+20. Rfd1 Rd8 21. Nd4 Nxb3 22. Nxb3 Bc6 23. Rxd8+ Bxd8 24. Nec5 Rf6 25. Na5
+Be7 26. Ncxb7 Be4 27. f3 Bxb7 28. Nxb7 e5 29. Na5 Ra6 30. Rd5 c5 31. Nc4
+Rxa2 32. Rxe5 Kd7 33. c3 Bf8 34. Kf2 Bg7 35. Re2 Kc6 36. Ke3 Ra1 37. Kf4
+Kd7 38. g4 Bf6 39. Rd2+ Kc7 40. Ke4 Re1+ 41. Kd5 Be7 42. f4 g5 43. f5 Bf8
+44. h3 h6 45. Rd3 Re7 46. Re3 Rd7+ 47. Ke6 Kd8 48. f6 Rb7 49. f7 Re7+ 50.
+Kf6 1-0
+

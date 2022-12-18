@@ -1,0 +1,18 @@
+[Event "Lasker mem"]
+[Site "Berlin-Ost"]
+[Date "1962.01.01"]
+[Round "9"]
+[White "Minev, Nikolay Nikolaev"]
+[Black "O'Kelly, Albéric de Galway"]
+[Result "0-1"]
+[ECO "E02"]
+[Opening "Catalan"]
+[Variation "open, 5.Qa4"]
+[HashCode "add42a13"]
+[Epoch "Bishop"]
+[WhiteCountry "BGR"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Nd2 c5 7. Nxc4 a6 8.
+Bf4 b5 9. Qd1 Nd5 10. Nd6+ Bxd6 11. Bxd6 Bb7 12. Nf3 c4 13. g4 N7f6 14. Bc5 Nf4
+15. Rg1 Nxg2+ 16. Rxg2 Ne4 17. b4 a5 18. a3 Nxc5 19. dxc5 axb4 20. axb4 O-O 21.
+Rg3 Qf6 22. Rxa8 Rxa8 23. Qd4 c3 24. e4 c2 0-1

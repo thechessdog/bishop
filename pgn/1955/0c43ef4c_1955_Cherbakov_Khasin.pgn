@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Cherbakov, A."]
+[Black "Khasin, Abram"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "0c43ef4c"]
+[Epoch "Bishop"]
+[BlackID "4103424"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qg4 Nf6 7. Qxg7 Rg8 8.
+Qh6 c5 9. Bb2 Bd7 10. O-O-O Bc6 11. dxc5 Nbd7 12. c4 Ng4 13. Qd2 Qh4 14. Bd4
+O-O-O 15. f3 e3 16. Bxe3 Nxc5 17. Bg5 Rxd2 18. Bxh4 Rxd1+ 19. Kxd1 Ne3+ 20. Ke2
+Nxc4 21. Nh3 Nxa3 22. Kd2 Nb1+ 23. Ke3 Nc3 24. Kd4 N3a4 25. Be7 Nd7 26. Ng5 e5+
+27. Ke3 Nc3 28. Bc4 Nb6 29. Bxf7 Ncd5+ 30. Kd2 Rg7 31. Be6+ Bd7 0-1

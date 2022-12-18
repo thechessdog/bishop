@@ -1,0 +1,25 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Reilly, Brian Patrick"]
+[Black "Doerner, Charles"]
+[Result "0-1"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "b69bd124"]
+[Epoch "Bishop"]
+[WhiteCountry "IRL"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. c4 O-O 6. O-O c6 7. Qc2 Nbd7 8. b3
+b6 9. Bb2 Bb7 10. Nbd2 Rc8 11. Rad1 Qc7 12. Rc1 Qb8 13. Rfd1 Rfd8 14. Qb1 Qa8
+15. Ne1 c5 16. e3 dxc4 17. bxc4 cxd4 18. exd4 Rc7 19. Nf1 Rdc8 20. Ne3 Be4 21.
+Bxe4 Qxe4 22. Qd3 Kf8 23. f3 Qb7 24. Kf2 Qa6 25. Qb3 Bd6 26. Nd3 Qa5 27. c5 Be7
+28. Nc4 Qa6 29. Nb4 Qb5 30. Na3 Qa5 31. Nc4 Nxc5 32. Nxa5 Nxb3 33. Nxb3 Bxb4
+34. Rxc7 Rxc7 35. Rc1 Rxc1 36. Nxc1 Nd5 37. Ke2 Ke7 38. Kd3 b5 39. Ne2 Kd6 40.
+Bc1 Kc6 41. Bd2 Bxd2 42. Kxd2 a5 43. Nc1 Nb6 44. Nb3 a4 45. Nc5 Kd5 46. Kd3 e5
+47. Na6 exd4 48. Nb4+ Kc5 49. Na6+ Kd6 50. Kxd4 Nd5 51. Nc5 Nb4 52. Ne4+ Kc6
+53. Nc3 Kb6 54. h3 Kc6 55. f4 a3 56. Nb1 Nxa2 57. Nxa3 Nc1 58. Ke4 Kc5 59. Nc2
+b4 60. g4 b3 61. Na3 Kb4 62. Nb1 Ne2 63. Ke5 b2 64. f5 Kc5 65. g5 Nd4 66. Nc3
+Nc6+ 67. Ke4 Kc4 68. Nb1 f6 69. h4 Nb4 0-1

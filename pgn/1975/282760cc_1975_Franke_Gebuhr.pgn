@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Franke, W."]
+[Black "Gebuhr, G."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "282760cc"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bxf6 Qxf6 6. e4 Bxc3+ 7. bxc3 e5
+8. Ne2 d6 9. Ng3 Nc6 10. d5 Ne7 11. Bd3 O-O 12. Qd2 Ng6 13. Nh5 Qh4 14. Ng3
+Nf4 15. O-O h5 16. Ne2 Nxg2 17. Kxg2 Bh3+ 18. Kh1 Qg4 0-1
+

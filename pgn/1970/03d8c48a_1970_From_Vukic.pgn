@@ -1,0 +1,23 @@
+[Event "Kapfenberg etc"]
+[Site "Kapfenberg etc"]
+[Date "1970.05.01"]
+[Round "1"]
+[White "From, Sigfred"]
+[Black "Vukic, Milan"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "03d8c48a"]
+[Epoch "Bishop"]
+[BlackID "900273"]
+[BlackCountry "BIH"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. g4 Bg6 7. Nh3 h6 8. Bxf6
+exf6 9. Nf4 Bh7 10. e3 f5 11. gxf5 Qh4+ 12. Qf2 Qxf2+ 13. Kxf2 Bxf5 14. Bd3
+Bxd3 15. Nxd3 Be7 16. a4 O-O-O 17. b4 Nb6 18. Ne5 Rhf8 19. a5 Nd7 20. a6 Nxe5
+21. axb7+ Kb8 22. dxe5 Bxb4 23. Ne2 Bc5 24. Nd4 Kxb7 25. Rhg1 g6 26. e6 Rd6 27.
+Rae1 Bb6 28. exf7 Rxf7 29. c3 Rdf6 30. Rg3 g5 31. Ke2 c5 32. Nb3 Kc6 33. c4
+dxc4 34. Nd2 Bc7 35. Nxc4 Bxg3 36. hxg3 Kd5 37. Nd2 c4 38. Rc1 Rc6 39. Ne4 Rb7
+40. Nc3+ Ke6 41. e4 Rd7 42. f4 Rd3 43. f5+ Ke5 44. Kf2 h5 45. Kg2 a6 46. Rc2
+Kd4 47. Nd5 Kxe4 48. Nb4 Rc8 0-1

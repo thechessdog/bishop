@@ -1,0 +1,17 @@
+[Event "North Carolina"]
+[Site "North Carolina"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Noblin"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "5c5d479d"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+O-O 9. h3 b5 10. Bf3 Bb7 11. Qd2 Nbd7 12. O-O-O Nb6 13. Bxb6 Qxb6 14. g4 h6 15.
+Rhg1 Nxe4 16. Bxe4 Bg5 0-1

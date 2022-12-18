@@ -1,0 +1,15 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Meyers"]
+[Black "Spencer"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "2312ae2d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 a6 4. Nc3 b5 5. Bd5 Ra7 6. a4 b4 7. Na2 e6 8. Bb3
+Qc7 9. c3 c4 10. Nxb4 cxb3 11. Qxb3 Qb7 12. O-O a5 13. Nc2 Qxb3 0-1
+

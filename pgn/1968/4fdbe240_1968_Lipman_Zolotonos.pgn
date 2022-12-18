@@ -1,0 +1,19 @@
+[Event "URS-chT"]
+[Site "Riga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Lipman, V."]
+[Black "Zolotonos, Leonid"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "4fdbe240"]
+[Epoch "Bishop"]
+[BlackID "11600420"]
+[BlackCountry "LAT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. Re1 b4 10. Nd5 exd5 11. Ba4+ Nbd7 12. exd5+ Be7 13. Nf5 O-O 14. Nxe7+
+Kh8 15. Bg5 Qc7 16. Bxd7 Nxd7 17. Re3 g6 18. Qd4+ f6 19. Nxg6+ hxg6 20. Re7 Kg8
+21. Qe4 1-0

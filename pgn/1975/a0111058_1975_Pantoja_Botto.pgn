@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pantoja, Abel"]
+[Black "Botto, Dardo"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "a0111058"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. O-O O-O 8. f3
+Nc6 9. Be3 Qb6 10. Bb5 Ng4 11. fxg4 Bxd4 12. Bxd4 Qxd4+ 13. Rf2 Qxd1+ 14. Rxd1
+Bxg4 15. Rdf1 Be6 16. Nd5 Bxd5 17. exd5 Ne5 18. Be2 Rac8 19. c3 Rc5 20. Rd1 b5
+21. Rf4 Rb8 22. h4 a5 23. a3 a4 24. Rb4 Nc4 25. Rd4 Ne3 26. Re4 Nc2 27. Rxb5
+Rbxb5 28. Bxb5 Rxb5 29. Rxa4 Rxb2 30. Ra8+ Kg7 31. a4 Ne3 32. a5 Rxg2+ 33. Kh1
+Ra2 34. a6 Nxd5 0-1

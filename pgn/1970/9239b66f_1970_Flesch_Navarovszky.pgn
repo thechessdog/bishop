@@ -1,0 +1,20 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Flesch, János"]
+[Black "Navarovszky, Laszlo"]
+[Result "1-0"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "9239b66f"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. g3 O-O 7. Bg2 Nc6 8.
+O-O Nb6 9. e3 Re8 10. Ne1 a5 11. Nd3 e5 12. d5 Nb4 13. e4 c6 14. Be3 Nc4 15.
+Bc5 cxd5 16. Nxb4 axb4 17. Nxd5 Nxb2 18. Qd2 Na4 19. Be7 Qa5 20. Rac1 Bg4 21.
+h3 Be6 22. Nf6+ Kh8 23. Nxe8 Rxe8 24. Bxb4 Qa6 25. Rfd1 b5 26. Bf1 Kg8 27. Qd3
+Nb2 28. Qxb5 Qa8 29. Rd6 h5 30. Ra6 1-0

@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Saigin"]
+[Black "Kljavin"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "832d3b5b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 h6 5. Bh4 c6 6. e3 Qa5 7. Bd3 g6 8.
+O-O Bg7 9. Re1 O-O 10. h3 Re8 11. e4 dxe4 12. Nxe4 Nxe4 13. Rxe4 Nf6 14.
+Re2 g5 15. Bg3 g4 16. Ne5 gxh3 17. Bc4 Nd5 18. Re4 hxg2 19. Qh5 Be6 20. Ng4
+Qd2 21. Rxe6 fxe6 22. Qg6 Rf8 23. Qxe6+ Rf7 24. Bd3 Nf4 25. Bxf4 Qxf4 26.
+Bg6 1-0
+

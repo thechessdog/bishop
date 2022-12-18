@@ -1,0 +1,26 @@
+[Event "Lugano ol (Men)"]
+[Site "Lugano"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Huguet, Bernard"]
+[Black "Tan, Lian"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "e7179143"]
+[Epoch "Bishop"]
+[WhiteID "601462"]
+[WhiteCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. g4 b5 10. a3 Bb7 11. Bxf6 gxf6 12. f5 e5 13. Nb3 Bh6 14. Be2 Qb6 15. Rd1
+Rd8 16. Kf1 Bf4 17. Kg2 Rg8 18. Nc1 h5 19. h3 Nc5 20. N1a2 Na4 21. Nxa4 bxa4
+22. Nc3 Qc5 23. Qd3 Qe3 24. Qxe3 Bxe3 25. Nd5 Bxd5 26. Rxd5 Bc5 27. c3 Ke7 28.
+Kf3 hxg4+ 29. hxg4 Rh8 30. Rxh8 Rxh8 31. Kg2 Be3 32. Rd1 Rb8 33. Kf3 Bf4 34.
+Rb1 Bd2 35. Bxa6 Bxc3 36. Rc1 Ba5 37. Rc2 Rb3+ 38. Ke2 Rg3 39. Rc4 Rg2+ 40. Kd1
+Rxb2 41. Rxa4 Bb6 42. Bc4 Rg2 43. Rb4 Bc7 44. Rb7 Kd8 45. Bxf7 Rxg4 46. Bd5 Rg3
+47. a4 Ra3 48. Rb4 Ba5 49. Rc4 Bb6 50. Rc6 Bc5 51. Ra6 Ke7 52. Ra8 Kd7 53. Rf8
+Rxa4 54. Rxf6 Ra3 55. Rg6 Rh3 56. f6 Rh8 57. Rg7+ Kd8 58. Ke2 Rh2+ 59. Kd3 Rh8
+60. Kc4 Rf8 61. Bf7 Be3 62. Kd5 Bh6 63. Kxd6 Bf4 64. Ke6 Bh2 65. Bh5 Rh8 66. f7
+Rh6+ 67. Bg6 1-0

@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Selmer"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Gedult's opening"]
+[HashCode "b0c547be"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. f3 c5 2. e4 g6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 Bg7 6. Bf4 Qa5 7. Qb3 Nc6 8.
+O-O-O Nf6 9. Nb5 d6 10. Rxd6 exd6 11. Nxd6+ Kd7 12. Qxf7+ Ne7 13. Bb5+ Kd8 14.
+Qe8+ Rxe8 15. Nf7# 1-0

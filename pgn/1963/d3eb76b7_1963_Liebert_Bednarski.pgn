@@ -1,0 +1,20 @@
+[Event "Polanica Zdroj"]
+[Site "Polanica Zdroj"]
+[Date "1963.01.01"]
+[Round "8"]
+[White "Liebert, Heinz"]
+[Black "Bednarski, Jacek B"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "d3eb76b7"]
+[Epoch "Bishop"]
+[WhiteID "4611438"]
+[WhiteCountry "GER"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Qc7 10. a4 Be6 11. a5 Nbd7 12. Nd5 Bxd5 13. exd5 b5 14. axb6 Nxb6
+15. c4 a5 16. Bd2 a4 17. Na5 Ne4 18. Nc6 Nxd2 19. Qxd2 f5 20. Qb4 Bf6 21. f3 e4
+22. fxe4 fxe4 23. Bg4 Nd7 24. Bxd7 Qxd7 25. Rxa4 Rxa4 26. Qxa4 Bd4+ 0-1

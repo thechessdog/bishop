@@ -1,0 +1,23 @@
+[Event "Beverwijk"]
+[Site "Beverwijk"]
+[Date "1950.01.01"]
+[Round "2"]
+[White "Van Seters, Frits"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "929b8145"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 dxc4 7. Bxc4 Bd6 8. Nf3
+Nbd7 9. O-O e5 10. Qc2 Qe7 11. Ba2 c6 12. Ng5 h6 13. Nge4 exd4 14. exd4 Nxe4
+15. Nxe4 Nf6 16. Nxf6+ Qxf6 17. Bb1 g6 18. Qd2 Rd8 19. Qxh6 Bf8 20. Bg5 Qxd4
+21. Qh4 Qxh4 22. Bxh4 Rd2 23. Bf6 Bg7 24. Bxg7 Kxg7 25. b4 Be6 26. Be4 Rad8 27.
+Rfc1 a6 28. Kf1 Rb2 29. Rc2 Rxc2 30. Bxc2 Rd2 31. Rc1 Bc4+ 32. Kg1 Kf6 33. h3
+g5 34. Be4 Be6 35. Rc3 Ke5 36. Bf3 Kd4 37. Rc5 f6 38. Bg4 Bd5 39. Ra5 Ra2 40.
+Bc8 c5 41. Rxc5 Rxa3 42. Kh2 Ra4 43. Bf5 Rxb4 44. Rc8 a5 45. Ra8 a4 46. Kg3
+Rb3+ 47. f3 a3 48. Kg4 b5 49. Ra6 b4 50. Bh7 Rb2 51. g3 a2 52. h4 gxh4 53. gxh4
+Rb1 0-1

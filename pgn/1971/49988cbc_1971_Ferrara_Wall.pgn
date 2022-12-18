@@ -1,0 +1,16 @@
+[Event "Marysville,CA"]
+[Site "Marysville,CA"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Ferrara, John"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "49988cbc"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. Bxc6 dxc6 5. Nxe5 Bxf2+ 6. Ke2 Qd4 7. Qf1
+Qxe4+ 8. Kd1 Qxe5 9. Qxf2 Bg4+ 0-1

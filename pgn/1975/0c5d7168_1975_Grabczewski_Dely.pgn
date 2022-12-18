@@ -1,0 +1,18 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Grabczewski, Romuald"]
+[Black "Dely, Peter"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "0c5d7168"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "POL"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bg5 a5 11. Bxf6 Bxf6 12. Nge2 a4 13. Qd1 Nc4 14. b3
+axb3 15. Qxb3 Nd6 16. O-O Bf5 17. Rfd1 Qa5 18. Ng3 1/2-1/2

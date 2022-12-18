@@ -1,0 +1,22 @@
+[Event "Quilmes"]
+[Site "Quilmes"]
+[Date "1959.01.01"]
+[Round "6"]
+[White "Luckis, Marcos"]
+[Black "Foguelman, Alberto"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "4a63c924"]
+[Epoch "Bishop"]
+[BlackID "101435"]
+[BlackCountry "ARG"]
+[WhiteCountry "LTU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Nc6 6. Ne2 e5 7. O-O Re8 8. a3
+Bxc3 9. bxc3 e4 10. Bb1 Na5 11. c5 b6 12. cxb6 cxb6 13. f3 Bb7 14. Ng3 Rc8 15.
+fxe4 Nxe4 16. Nxe4 Bxe4 17. Bxe4 Rxe4 18. Rxf7 Kxf7 19. Qf3+ Qf6 20. Qxe4 Nb3
+21. Rb1 Rxc3 22. Bb2 Nd2 23. Qd5+ Qe6 24. Qh5+ Kg8 25. Bxc3 Nxb1 26. Be1 Qxe3+
+27. Kf1 Qd3+ 28. Kg1 Qxd4+ 29. Kh1 Qe4 30. Bg3 g6 31. Qg5 Qf5 32. Qc1 Nc3 33.
+h3 Qb1 0-1

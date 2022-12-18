@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Mosete"]
+[Black "Klass"]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "Ekstrom variation"]
+[HashCode "01c584c1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 c6 5. Nc3 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. exf6 gxh4 10. Ne5 Qxf6 11. g3 Nd7 12. Qe2 c5 13. Bg2 cxd4 14. Nxd7
+Bxd7 15. Nd5 Qg7 16. Nc7+ Kd8 17. Nxa8 Bb4+ 18. Kf1 d3 19. Qe4 Qxb2 20. Rd1
+Bc5 21. Qxh4+ Ke8 0-1
+

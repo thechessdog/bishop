@@ -1,0 +1,19 @@
+[Event "Skopje ol (Men) fin-A"]
+[Site "Skopje"]
+[Date "1972.??.??"]
+[Round "1"]
+[White "Toran Albero, Roman"]
+[Black "Sydor, Andrzej"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Capablanca variation"]
+[HashCode "c0f71efc"]
+[Epoch "Bishop"]
+[BlackID "1100475"]
+[BlackCountry "POL"]
+[WhiteCountry "EST"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d3 Bb4 5. Bd2 O-O 6. e3 Re8 7. Be2 d6 8. O-O
+Bg4 9. Qc2 Ne7 10. a3 Bxc3 11. Bxc3 Qd7 12. Nh4 Bxe2 13. Qxe2 Ng6 14. Nxg6 hxg6
+15. e4 c6 16. f4 exf4 17. Bxf6 gxf6 1/2-1/2

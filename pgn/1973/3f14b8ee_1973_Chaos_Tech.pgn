@@ -1,0 +1,25 @@
+[Event "ACM Atlanta"]
+[Site "ACM Atlanta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Chaos"]
+[Black "Tech II"]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "3f14b8ee"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nc6 4. Nc3 Bd7 5. e4 Na5 6. Ne5 b5 7. Nxd7 Qxd7
+8. Qh5 c6 9. Be3 Nf6 10. Qd1 O-O-O 11. b4 Nb7 12. a4 e5 13. dxe5 Bxb4 14.
+Qxd7+ Rxd7 15. Bd2 Rxd2 16. Kxd2 Nxe4+ 17. Ke3 Bxc3 18. Rd1 Nbc5 19. f4
+bxa4 20. Bxc4 Rf8 21. Ke2 a3 22. g3 Kc7 23. Rhf1 Rb8 24. Bxf7 Rb2+ 25. Ke3
+a2 26. Ra1 Rxh2 27. Rxa2 Rxa2 28. Bxa2 Nxg3 29. Rc1 Nge4 30. Rh1 h6 31. e6
+Kd6 32. f5 Ke5 33. e7 Nd6 34. Ke2 Nce4 35. Rg1 Bd4 36. Rxg7 Nc3+ 37. Kd2
+Nxa2 38. Rg6 Nc3 39. Rxh6 Nce4+ 40. Kd3 Nf6 41. Rh8 c5 42. Ra8 c4+ 43. Kc2
+Kxf5 44. Rh8 Ke6 45. Rh4 Nf5 46. Rf4 a5 47. Kb1 Ke5 48. Rg4 c3 49. Rg2 Nxe7
+50. Kc2 a4 51. Re2+ Kd6 52. Kd3 Nc6 53. Kc4 Nd5 54. Kb5 a3 55. Ka4 Bc5 56.
+Rh2 c2 57. Rxc2 Nb6+ 58. Kb3 Nd4+ 59. Kc3 Na4+ 60. Kc4 Nxc2 61. Kb3 Nd4+
+62. Kc4 a2 63. Kd3 a1=Q 64. Ke4 Qf1 65. Ke3 Nb3+ 66. Ke4 Nd2# 0-1
+

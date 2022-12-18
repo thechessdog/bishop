@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Wood, L."]
+[Black "Mease, A."]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Marshall variation"]
+[HashCode "b1fff76f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. b4 cxb4 3. a3 d5 4. e5 Nc6 5. d4 Qb6 6. Nf3 Bg4 7. Bb2 bxa3 8.
+Bxa3 Bxf3 9. Qxf3 Qxd4 10. e6 Qxa1 11. Qxf7+ Kd8 12. Qxf8+ Kc7 13. Qxa8 Nf6
+14. Qxh8 Qxb1+ 15. Kd2 Ne4+ 16. Ke3 Qb6+ 17. Kf3 Qxf2+ 18. Kg4 Ne5+ 0-1
+

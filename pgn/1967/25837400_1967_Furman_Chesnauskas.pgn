@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Furman, Semyon"]
+[Black "Chesnauskas, A."]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "25837400"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nbd7 8. a3
+Ba5 9. Qe2 a6 10. a4 Qe7 11. Rd1 dxc4 12. Bxc4 e5 13. d5 e4 14. d6 Qd8 15. Nd2
+Bxc3 16. bxc3 Ne5 17. Ba3 b6 18. h3 Qd7 19. Bb3 Qc6 20. f4 exf3 21. Nxf3 Nxf3+
+22. Qxf3 Qxf3 23. gxf3 Bxh3 24. a5 Be6 25. Bxe6 fxe6 26. axb6 Nd7 27. Rab1 Rxf3
+28. b7 Rb8 29. Bxc5 Nxc5 30. d7 Nxd7 31. Rxd7 Rf7 32. Rxf7 Kxf7 33. c4 1/2-1/2

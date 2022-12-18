@@ -1,0 +1,18 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Roethgen, R."]
+[Black "Titjen"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "0d9495e0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
+f4 O-O 9. f5 exf5 10. Nxf5 Bxf5 11. exf5 Qb6 12. g4 d5 13. g5 Ne4 14. Nxe4
+dxe4 15. Qg4 e3 16. g6 Nc6 17. Qh3 Qb4+ 18. c3 Bh4+ 19. Ke2 Qb5+ 20. c4
+Nd4+ 21. Kd3 Qd7 0-1
+

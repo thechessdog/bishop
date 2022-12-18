@@ -1,0 +1,21 @@
+[Event "corr ch-SU"]
+[Site "corr ch-SU"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Zaitsev, Alexander"]
+[Black "Konstantinopolsky, Alexander"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "bd474835"]
+[Epoch "Bishop"]
+[WhiteID "4164490"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. d4 Bg4 7. Be2 Qc7
+8. O-O e6 9. h3 Bf5 10. c4 Nd7 11. d5 O-O-O 12. Qa4 Kb8 13. dxc6 Nc5 14. Qb4
+Rg8 15. Kh1 Qxc6 16. Bf4+ e5 17. Be3 Ne6 18. Qb5 Qc8 19. Ng1 Nd4 20. Bxd4 Rxd4
+21. Rac1 Rh4 22. Rc3 Bd7 23. Qb3 Be6 24. Rg3 Bc5 25. Rxg8 Qxg8 26. Qg3 Qxg3 27.
+fxg3 Re4 0-1

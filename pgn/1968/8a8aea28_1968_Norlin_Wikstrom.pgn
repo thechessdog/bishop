@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Norlin, Jorgen"]
+[Black "Wikstrom, Birger"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "8a8aea28"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O
+8. Nb3 Nc6 9. Kh1 Be6 10. f4 Na5 11. Bf3 Bc4 12. Rg1 Ba6 13. Nxa5 Qxa5 14.
+Be3 Rac8 15. g4 Rc4 16. Rg3 b6 17. g5 Ne8 18. Nd5 e6 19. Ne7+ Kh8 20. f5
+Bxb2 21. Rb1 Qe5 22. f6 Bb7 23. Qf1 Rxe4 24. Rh3 h5 25. Kg1 Bd4 26. Bxd4
+Qxd4+ 27. Qf2 Qxf2+ 28. Kxf2 Rf4 29. Ke3 Rxf3+ 30. Rxf3 Bxf3 31. Kxf3 d5
+32. Nc6 Nd6 0-1
+

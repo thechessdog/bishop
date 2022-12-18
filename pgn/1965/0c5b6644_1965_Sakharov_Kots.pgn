@@ -1,0 +1,20 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Sakharov, Yuri G."]
+[Black "Kots, Yuri"]
+[Result "1-0"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "0c5b6644"]
+[Epoch "Bishop"]
+[WhiteID "34113743"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Bc4 Bd7 12. Kb1 Bc6 13. Bb3 Rfe8 14. Rhf1
+h6 15. Bh4 Nxe4 16. Nxe4 Bxh4 17. f5 d5 18. Nd6 Bf6 19. Qg4 Re7 20. fxe6 Rxe6
+21. Nf5 Kf8 22. Nxg7 1-0

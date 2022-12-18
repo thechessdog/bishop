@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Hidalgo"]
+[Black "Payne"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "6fcf4d73"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Nxe5
+Nxe5 8. Rxe5+ Be7 9. Nc3 O-O 10. Nd5 Ne6 11. f4 Bc5+ 12. Kh1 d6 13. Re1 c6
+14. Nc3 d5 15. Ne2 Qf6 16. c3 d4 17. d3 Bd6 18. Rf1 c5 19. Ng3 Bc7 20. Ne4
+Qh6 21. Bb3 b6 22. Bd5 Rb8 23. Qf3 Bd7 24. Bd2 Kh8 25. Rae1 Rbe8 26. Re2 f5
+27. Nf2 Bxf4 28. Bxf4 Nxf4 29. Rxe8 Rxe8 30. cxd4 cxd4 31. Bb7 Re3 32. Qd1
+g5 33. Qc1 Qd6 34. Re1 Qe5 35. Rf1 a5 36. a3 Kg7 37. b4 axb4 38. axb4 h5
+39. b5 Bxb5 40. g3 Nxd3 41. Qc8 Re1 42. Bg2 Nxf2+ 43. Kg1 Bxf1 0-1
+

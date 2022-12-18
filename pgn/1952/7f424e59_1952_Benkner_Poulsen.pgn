@@ -1,0 +1,19 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Benkner, Otto"]
+[Black "Poulsen, Christian"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "7f424e59"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Nbd2 c5 7. cxd5 exd5 8.
+dxc5 Na6 9. O-O Nxc5 10. Nb3 Nce4 11. Be3 Bd7 12. Rc1 Ba4 13. Qd3 a6 14. Nbd4
+Ng4 15. Bf4 Qb6 16. b3 Bb5 17. Bc7 Qh6 18. Nxb5 Ngxf2 19. Qd4 axb5 20. Bf4 g5
+21. Bc7 g4 22. Bf4 Nh3+ 23. Bxh3 Qxh3 24. Nh4 Bf6 25. Qxd5 Nc3 26. Rxc3 Rad8
+27. Qh5 Bxc3 28. Qg5+ Kh8 29. Be5+ Bxe5 30. Qxe5+ Kg8 31. Nf5 1-0

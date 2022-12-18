@@ -1,0 +1,17 @@
+[Event "Tbilisi ch-URS"]
+[Site "Tbilisi ch-URS"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Krogius, Nikolai V"]
+[Black "Geller, Efim P"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "642cb46f"]
+[Epoch "Bishop"]
+[WhiteID "4100565"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 Qe7+ 9. Qe2 Qxe2+ 1/2-1/2

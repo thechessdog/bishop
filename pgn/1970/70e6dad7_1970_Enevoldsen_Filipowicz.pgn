@@ -1,0 +1,22 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "13"]
+[White "Enevoldsen, Jens"]
+[Black "Filipowicz, Andrzej"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "70e6dad7"]
+[Epoch "Bishop"]
+[BlackID "1100491"]
+[BlackCountry "POL"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nb4 12. Re1 a6 13. Bf1 Re8 14. h3 Rb8 15.
+Be3 b6 16. Qd2 Bb7 17. Bf2 Qe7 18. Bc4 Qf8 19. Bg3 Bh6 20. Qf2 Nf6 21. Bh2 Nh5
+22. Ng5 Rbd8 23. Rad1 Qe7 24. g4 Nxf4 25. Bxf4 Bxg5 26. Bg3 Qf6 27. Qg2 Rd7 28.
+Rf1 Qd8 29. Qf2 Kg7 30. e5 dxe5 31. d6 f5 32. gxf5 gxf5 33. Qxf5 Kh6 34. Bxe5
+Nc2 35. h4 Be3+ 36. Rf2 Rxe5 37. Qxe5 Bxf2+ 38. Kxf2 0-1

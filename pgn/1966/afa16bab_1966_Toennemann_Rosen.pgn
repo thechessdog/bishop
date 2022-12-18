@@ -1,0 +1,19 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Toennemann, W."]
+[Black "Rosen, W."]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "afa16bab"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. O-O Nbd7
+8. f4 b5 9. Bf3 Bb7 10. e5 Bxf3 11. Nxf3 b4 12. exf6 bxc3 13. fxg7 Bxg7 14.
+b3 Qb6+ 15. Kh1 Nf6 16. f5 O-O 17. fxe6 fxe6 18. Qe1 d5 19. Be3 Qd6 20. Ng5
+e5 21. Qxc3 d4 22. Qd3 h6 23. Rxf6 Rxf6 24. Qh7+ Kf8 25. Ne4 Qc6 26. Nxf6
+Qxf6 27. Kg1 1-0
+

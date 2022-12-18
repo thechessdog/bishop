@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kochyev, Alexander"]
+[Black "Ubilava, Elizbar"]
+[Result "1-0"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "28f4979e"]
+[Epoch "Bishop"]
+[WhiteID "4100719"]
+[BlackID "13600052"]
+[WhiteCountry "RUS"]
+[BlackCountry "ESP"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. Nc3 O-O 7. d4 Ne4 8. Qc2
+Nxc3 9. Qxc3 Be4 10. Ne1 Bxg2 11. Nxg2 Bf6 12. e4 d6 13. e5 Be7 14. Bf4 c6 15.
+h4 d5 16. h5 Na6 17. Ne3 Rc8 18. cxd5 cxd5 19. Qd2 Qd7 20. Ng4 Rc6 21. h6 g6
+22. Bg5 Rfc8 23. Rfc1 Nb8 24. Bxe7 Qxe7 25. Rxc6 Rxc6 26. Rc1 Qb7 27. Kg2 a5
+28. Qg5 Qc8 29. Nf6+ 1-0

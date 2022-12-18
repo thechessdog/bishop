@@ -1,0 +1,19 @@
+[Event "Kiev ch-URS"]
+[Site "Kiev ch-URS"]
+[Date "1964.12.01"]
+[Round "1"]
+[White "Averbakh, Yuri L"]
+[Black "Osnos, Vyacheslav"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[HashCode "c8c3278c"]
+[Epoch "Bishop"]
+[WhiteID "4101529"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 Nf6 6. Qd3 e5 7. Nb3 d5 8. exd5
+Qxd5 9. Qg3 Nc6 10. Nc3 Qe6 11. Be3 Bb4 12. Qxg7 Rg8 13. Qh6 Rxg2 14. O-O-O Ne7
+15. Nc5 1-0

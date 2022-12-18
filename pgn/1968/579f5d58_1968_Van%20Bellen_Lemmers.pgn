@@ -1,0 +1,17 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Van Bellen, Henk"]
+[Black "Lemmers, Oscar"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "579f5d58"]
+[Epoch "Bishop"]
+[WhiteID "24642428"]
+[WhiteCountry "GER"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 e5 4. Bc4 Nf6 5. Ng5 Nd5 6. Nxf7 Kxf7 7. Qf3+ Ke6
+8. d4 c6 9. dxe5 Bb4+ 10. c3 Rf8 11. Qh3+ Kf7 12. Qxh7 Bc5 13. Nf3 Rh8 14. e6+
+Bxe6 15. Ne5+ Kf6 16. Bg5+ Kxg5 17. Qg6+ Kf4 18. Nd3# 1-0

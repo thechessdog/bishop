@@ -1,0 +1,20 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Zirzienis"]
+[Black "Kirpichnikov, Vladi"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "bf16ed48"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bf4 Bg7 8.
+Bb5+ Bd7 9. Be2 Qc7 10. Nf3 O-O 11. Nd2 b5 12. Bxb5 Nh5 13. Bxd7 Nxf4 14.
+Bg4 Nxg2+ 15. Kf1 Nh4 16. Nf3 Nxf3 17. Qxf3 Nd7 18. Bxd7 Qxd7 19. Kg2 Rab8
+20. Rab1 Rb4 21. Qh3 Qxh3+ 22. Kxh3 Rfb8 23. Rbc1 Rxb2 24. f4 Bxc3 25. Rxc3
+Rxa2 26. e5 Rd2 27. Ra1 dxe5 28. Rxc5 Rb3+ 29. Kg4 Rg2+ 30. Kh4 Rxh2+ 31.
+Kg5 Kg7 32. fxe5 Rb4 0-1
+

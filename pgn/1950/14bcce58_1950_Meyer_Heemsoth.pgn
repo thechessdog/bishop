@@ -1,0 +1,21 @@
+[Event "corr Blumich mem"]
+[Site "corr Blumich mem"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Mevel, Alberic"]
+[Black "Heemsoth"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "14bcce58"]
+[Epoch "Bishop"]
+[WhiteID "602574"]
+[WhiteCountry "FRA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 Be7 11. Nb3 Qc7 12. Bxf6 gxf6 13. Be2 O-O-O 14. Qe3
+Kb8 15. Kb1 Bc8 16. g4 b5 17. a3 Bb7 18. Rhg1 Rc8 19. Rg3 Na5 20. Nxa5 Qxa5 21.
+Rh3 Rc6 22. Na2 Qc7 23. Bd3 Rb6 24. Qd2 d5 25. exd5 Bxd5 26. Rc1 Bd6 27. Rf1
+Ka7 28. f5 Rg8 29. Rxh6 Rxg4 30. Qd1 Ra4 31. fxe6 Bxe6 32. Qf3 b4 33. Rh8 Rb7
+34. b3 bxa3 35. Be2 Qc5 36. Rd1 Bf5 37. Bd3 Bg4 0-1

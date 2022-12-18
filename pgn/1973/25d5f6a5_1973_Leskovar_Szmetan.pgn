@@ -1,0 +1,20 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1973.01.01"]
+[Round "6"]
+[White "Leskovar, Mario"]
+[Black "Szmetan, Jorge"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "25d5f6a5"]
+[Epoch "Bishop"]
+[WhiteID "100617"]
+[BlackID "100366"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. c4 g6 5. Be2 Bg7 6. f4 Nge7 7. Nf3 O-O 8. fxe5
+dxe5 9. Nc3 Nf5 10. Ne4 b6 11. O-O Bb7 12. Qc2 Re8 13. c5 h6 14. a3 a6 15. g4
+Nfe7 16. Bc4 Rf8 17. b4 b5 18. Bb3 Qd7 19. h3 Rad8 20. Rf2 1/2-1/2

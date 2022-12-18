@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Titenko, Vladimir F"]
+[Black "Thorbergsson, Freysteinn"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "b6b12cef"]
+[Epoch "Bishop"]
+[WhiteID "4107306"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 O-O 7. d5 exd5 8. cxd5
+Qa5 9. dxc6 Bxc3+ 10. bxc3 Qxc3+ 11. Qd2 Qxa1 12. O-O Nd5 13. Bb2 Qxa2 14. Qc2
+Nf6 15. Bc4 Qa5 16. Ng5 h6 17. Bxf6 1-0

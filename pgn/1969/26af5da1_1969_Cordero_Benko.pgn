@@ -1,0 +1,18 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1969.01.01"]
+[Round "6"]
+[White "Cordero, Alfredo"]
+[Black "Benko, Francisco"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest defence"]
+[HashCode "26af5da1"]
+[Epoch "Bishop"]
+[WhiteID "104280"]
+[BlackID "101753"]
+[WhiteCountry "ARG"]
+[BlackCountry "HUN"]
+
+1. c4 Nf6 2. d4 e5 3. dxe5 Ng4 4. Qd4 d6 5. exd6 Nc6 6. Qd1 Bxd6 7. Nf3 Nxf2 8.
+Qb3 Nxh1 9. Qe3+ Be6 10. c5 Bxh2 0-1

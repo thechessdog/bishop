@@ -1,0 +1,18 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Adamczyk, U."]
+[Black "Felbecker"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "049a1217"]
+[Epoch "Bishop"]
+
+1. g4 d5 2. Bg2 e5 3. c4 c6 4. cxd5 cxd5 5. Qb3 Ne7 6. Nc3 Nbc6 7. Nxd5
+Nxd5 8. Bxd5 Nd4 9. Qc4 Be6 10. Bxe6 fxe6 11. Kf1 Rc8 12. Qd3 Bc5 13. Nf3
+O-O 14. Qe4 Nxf3 15. exf3 Qh4 16. d4 exd4 17. Qxe6+ Kh8 18. h3 d3 19. Rh2
+Rce8 20. Qd5 Bxf2 21. Rxf2 Qxh3+ 22. Rg2 Qh1+ 23. Rg1 Rxf3+ 24. Qxf3 Qxf3#
+0-1
+

@@ -1,0 +1,22 @@
+[Event "Oslo CI"]
+[Site "Oslo"]
+[Date "1973.01.01"]
+[Round "6"]
+[White "Zwaig, Arne"]
+[Black "Kristiansen, Erling"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Cordel variation"]
+[HashCode "7a3ccad8"]
+[Epoch "Bishop"]
+[WhiteID "1500040"]
+[WhiteCountry "NOR"]
+[BlackID "1500244"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 Na5 7. Nxe5 Nxc4 8.
+Nxc4 d5 9. exd5 Qxd5 10. Ne3 Qd8 11. O-O Nf6 12. c4 O-O 13. Bb2 b5 14. cxb5 Rb8
+15. Nc3 a6 16. a4 c6 17. Qf3 cxb5 18. axb5 axb5 19. Ra7 Bd6 20. Rfa1 Bc7 21.
+Ncd5 Nxd5 22. Nxd5 Bd6 23. Ne3 Qg5 24. Rc1 Rb6 25. d5 Bf4 26. g3 Rg6 27. h4 Qh6
+28. Rxc8 Rxg3+ 29. fxg3 Bxe3+ 30. Kh1 Bxa7 31. Rxf8+ Kxf8 32. Qa3+ 1-0

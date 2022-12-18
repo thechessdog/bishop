@@ -1,0 +1,16 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Patalano"]
+[Black "Pereyra, Manuel"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "049f289b"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nh3 Nf6 8.
+Nf4 Bh7 9. Bc4 e5 10. dxe5 Qxd1+ 11. Kxd1 Ng4 12. Nh3 Nxe5 13. Re1 0-1
+

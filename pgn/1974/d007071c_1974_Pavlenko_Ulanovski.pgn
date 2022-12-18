@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pavlenko, Oleg"]
+[Black "Ulanovski"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "d007071c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 Nc6 6. Bd3 Bxc3+ 7. bxc3 d6
+8. d5 exd5 9. cxd5 Nxd5 10. Bb2 Nf6 11. O-O d5 12. c4 dxc4 13. Bxc4 O-O 14.
+Qc2 Qe7 15. Ng5 Ne5 16. f4 Ng6 17. e4 Nh5 18. Qc3 h6 19. Nxf7 Rxf7 20. f5
+Nh8 21. e5 Kf8 22. Bxf7 Nxf7 23. Rae1 Kg8 24. Qf3 Qg5 25. e6 Nd6 26. e7 Ne8
+27. Bc1 Qxf5 28. Qb3+ 1-0
+

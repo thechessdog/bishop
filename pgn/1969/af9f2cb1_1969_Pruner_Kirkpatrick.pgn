@@ -1,0 +1,21 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Pruner, Earl"]
+[Black "Kirkpatrick, J."]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "af9f2cb1"]
+[Epoch "Bishop"]
+[WhiteID "2015102"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Bxc3+ 5. bxc3 c5 6. Bd3 O-O 7. e4 d5 8.
+cxd5 exd5 9. e5 Ne4 10. Ne2 Nc6 11. O-O c4 12. Bc2 b5 13. Qe1 Re8 14. f3 Ng5
+15. Qg3 Ne6 16. f4 b4 17. f5 Nf8 18. Bg5 Qb6 19. Bf6 g6 20. Qf4 Nxe5 21. Bxe5
+f6 22. Bc7 Qb7 23. Rae1 b3 24. axb3 cxb3 25. Bd3 a5 26. fxg6 hxg6 27. Qg3 Kg7
+28. Nf4 Rxe1 29. Rxe1 g5 30. Re7+ Kh6 31. h4 g4 32. Ng6 Nxg6 33. Qe3+ Nf4 34.
+Rh7# 1-0

@@ -1,0 +1,17 @@
+[Event "Liverpool"]
+[Site "Liverpool"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Eales, Richard G"]
+[Black "Littlewood"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "12b52f88"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. hxg6 hxg6 10. Qxd4 dxe5 11. fxe5 e6 12. Bg5 Nc6 13. Qh4 f6 14. exf6
+Nxf6 15. Bd3 Kf7 16. O-O-O Rh8 17. Qg3 Rxh1 18. Bxg6+ Kxg6 19. Bh6+ Kxh6 20.
+Rxh1+ Nh5 21. Rxh5+ Kxh5 22. Qxg7 e5 23. g4+ 1-0

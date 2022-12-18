@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Janka, H."]
+[Black "Schuster"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "1acc3a42"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 f6 9. Nf4 Nxd4 10. Qh5+ Ke7 11. exf6+ Nxf6 12. Qh4 Kf7 13. Ng6 hxg6
+14. Qxh8 e5 15. O-O e4 16. Bb1 Bf5 17. Qh4 Be7 18. Qg5 Ng4 0-1
+

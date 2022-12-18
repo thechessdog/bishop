@@ -1,0 +1,15 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Atars, Pablo"]
+[Black "Przybylski, J."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "bb1a1fb9"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ Kd8 7. Nf7+
+1-0
+

@@ -1,0 +1,25 @@
+[Event "Oslo CI"]
+[Site "Oslo"]
+[Date "1974.??.??"]
+[Round "1"]
+[White "Ogaard, Leif"]
+[Black "Enklaar, Bertus F"]
+[Result "1/2-1/2"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "9e152278"]
+[Epoch "Bishop"]
+[WhiteID "1500074"]
+[WhiteCountry "NOR"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 Ne5 12. Qc2 g5 13. Nf3 Nxf3+ 14. Bxf3 Nd7
+15. Bg4 Ne5 16. Bxc8 Rxc8 17. Ne2 c4 18. Ng3 Nd3 19. Rb1 g4 20. Bd2 Nc5 21. Bc3
+Qg5 22. Bxg7 Qxg7 23. Qxc4 Nxe4 24. Qb4 Nc5 25. Rfe1 Qg5 26. Qd4 h5 27. b4
+Rxe1+ 28. Rxe1 Nxa4 29. Qa1 Nc3 30. Qxa7 Qxd5 31. Qe3 h4 32. Nf1 Rc4 33. Qh6
+Re4 34. Ra1 Re8 35. Qxh4 Qd4 36. Qg5+ Qg7 37. Qxg7+ Kxg7 38. Ne3 Re4 39. Kf1
+Rxb4 40. Rc1 Nb5 41. Rd1 Kg6 42. g3 f6 43. Nd5 Re4 44. Rb1 Nd4 45. Nc3 Re5 46.
+Rb4 Nc6 47. Rxb7 Rc5 48. Ne2 Ne5 49. Rb1 Nf3 50. Rd1 Nxh2+ 51. Kg2 Nf3 52. Rxd6
+Ra5 53. Rd1 Ne5 54. Nf4+ Kf5 1/2-1/2

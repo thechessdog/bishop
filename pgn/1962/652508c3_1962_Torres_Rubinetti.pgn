@@ -1,0 +1,28 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Torres"]
+[Black "Rubinetti, Jorge"]
+[Result "0-1"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[HashCode "652508c3"]
+[Epoch "Bishop"]
+[BlackID "100161"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Nb3 d5 7. exd5 Qxd5 8.
+Bd2 Be7 9. Nc3 Qd8 10. Bd3 O-O 11. Qe2 Nc6 12. O-O-O Be6 13. Be3 Qc8 14. g4 Nb4
+15. h4 Nxa2+ 16. Nxa2 Bxb3 17. Nc3 Be6 18. h5 Nd7 19. g5 Nc5 20. Bxh7+ Kxh7 21.
+g6+ Kg8 22. h6 fxg6 23. hxg7 Kxg7 24. Qh2 Rh8 25. Qxe5+ Bf6 26. Qxc5 Qxc5 27.
+Bxc5 b6 28. Be3 Rhe8 29. Ne4 Bf5 30. Bh6+ Kf7 31. Nd6+ Kg8 32. Nxe8 Rxe8 33.
+Rd6 Be7 34. Rc6 Bc5 35. Rc7 a5 36. Rg7+ Kh8 37. Rc7 Kg8 38. Bg7 Re7 39. Rxe7
+Bxe7 40. Bd4 b5 41. Rh8+ Kf7 42. Rb8 Bd7 43. Bc3 a4 44. Kd2 Bc6 45. Ke3 Bd6 46.
+Rc8 Bd7 47. Ra8 Bf5 48. Kd2 Ke7 49. Bd4 Kd7 50. c3 Bf4+ 51. Be3 Bc7 52. Bg5 Kc6
+53. Ra6+ Kd5 54. Ke3 Bh2 55. Bf6 Kc4 56. f4 Bg1+ 57. Kf3 Kb3 58. Be5 Bc5 59.
+Rc6 Bg1 60. Kg3 Be3 61. Kh4 Bc1 62. Rb6 Kc4 63. Rc6+ Kb3 64. c4 b4 65. Ra6 Bc2
+66. c5 Bxb2 67. c6 a3 68. c7 Bf5 69. Rxg6 a2 70. Rg3+ Bc3 71. Rg1 Bc8 72. Kg5
+Bxe5 73. fxe5 Kc4 74. Kf6 b3 75. e6 b2 76. Rg4+ Kc5 77. Rg5+ Kd6 78. e7 b1=Q
+0-1

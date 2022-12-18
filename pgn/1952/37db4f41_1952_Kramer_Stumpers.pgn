@@ -1,0 +1,21 @@
+[Event "Enschede ch-NLD"]
+[Site "Enschede ch-NLD"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Kramer"]
+[Black "Stumpers"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "37db4f41"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8.
+c5 b6 9. b4 bxc5 10. dxc5 O-O 11. g3 a5 12. Rb1 Na6 13. Bg2 axb4 14. axb4
+Rb8 15. Ba3 e5 16. O-O Bf5 17. Rb2 d4 18. Na4 d3 19. Nec3 Qd4 20. Re1 Rfd8
+21. Qd2 e4 22. g4 Bxg4 23. Nxe4 Be2 24. Nac3 Nxe4 25. Nxe4 f5 26. Ng3 Bh4
+27. Rxe2 dxe2 28. Qxe2 Qd1+ 29. Bf1 f4 30. Qxa6 fxg3 31. Qc4+ Rd5 32. hxg3
+Bf6 33. Re2 Kh8 34. b5 Bd4 35. c6 Rg5 36. Kg2 Bb6 37. Qe4 h6 38. Rc2 Rc8
+39. Bd3 Kg8 40. Qe6+ 1-0
+

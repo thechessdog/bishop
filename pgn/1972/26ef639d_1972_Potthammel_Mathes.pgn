@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Potthammel, J."]
+[Black "Mathes, W."]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "26ef639d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Nb6
+8. Bb3 e5 9. Nf3 Be6 10. Qe2 Qc7 11. O-O-O Bxb3 12. cxb3 Nfd7 13. Kb1 Rc8
+14. g4 Qb8 15. Be3 Be7 16. g5 Rc6 17. h4 Nc5 18. h5 Qc8 19. Nh4 g6 20. Nf3
+Rf8 21. hxg6 hxg6 22. Nd2 Qe6 23. Nc4 Ncd7 24. Nxb6 Nxb6 25. Rc1 Na8 26.
+Nd5 Rxc1+ 27. Rxc1 Kd7 28. Qc4 Rb8 29. Ba7 Rh8 30. Nb6+ Nxb6 31. Qc7+ Ke8
+32. Qb8+ Bd8 33. Bxb6 Qd7 34. Bxd8 Qxd8 35. Rc8 Rh1+ 36. Kc2 1-0
+

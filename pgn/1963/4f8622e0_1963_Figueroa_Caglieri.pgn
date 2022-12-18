@@ -1,0 +1,18 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1963.01.01"]
+[Round "5"]
+[White "Figueroa, Eduardo"]
+[Black "Caglieri, O."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "4f8622e0"]
+[Epoch "Bishop"]
+[WhiteID "106852"]
+[WhiteCountry "ARG"]
+
+1. Nc3 d5 2. e4 e6 3. Nf3 Nf6 4. e5 Nfd7 5. d4 c5 6. dxc5 Bxc5 7. Bd3 Nc6 8.
+Qe2 a6 9. O-O Nd4 10. Nxd4 Bxd4 11. Bf4 Qc7 12. Rae1 Bxc3 13. bxc3 Qxc3 14. Qg4
+g6 15. Re3 Qb4 16. c3 Qe7 17. Bh6 Nc5 18. Bg7 Rg8 19. Bf6 h5 20. Bxe7 1-0

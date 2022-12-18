@@ -1,0 +1,16 @@
+[Event "Ypern"]
+[Site "Ypern"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Roos, Beppo"]
+[Black "Lamanscon"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "ac0fdb98"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 Nf6 3. e4 dxe4 4. f3 exf3 5. Nxf3 Bf5 6. Bc4 e6 7. O-O Bb4
+8. Ne2 Nc6 9. c3 Bd6 10. Kh1 Qe7 11. Bg5 h6 12. Bh4 g5 13. Bg3 Ne4 14. Ne5
+Nxg3+ 15. Nxg3 Bxe5 16. Nxf5 exf5 17. dxe5 Nxe5 18. Qd5 1-0
+

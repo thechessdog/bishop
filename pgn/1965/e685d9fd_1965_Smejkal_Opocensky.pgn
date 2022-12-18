@@ -1,0 +1,23 @@
+[Event "Pardubice"]
+[Site "Pardubice"]
+[Date "1965.01.01"]
+[Round "11"]
+[White "Smejkal, Jan"]
+[Black "Opocensky, Karel"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "e685d9fd"]
+[Epoch "Bishop"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qh5 Qe7+
+8. Ne2 Be6 9. Bd3 h6 10. O-O g6 11. Qf3 Bd5 12. Qh3 Be6 13. Qf3 Bd5 14. Qh3 Be6
+15. Qe3 Bg4 16. Nc3 Qxe3 17. fxe3 Nd7 18. h3 Be6 19. e4 Nb6 20. Rxf6 Be7 21.
+Rf1 O-O-O 22. Ne2 Bg5 23. b3 Rhe8 24. Bxg5 hxg5 25. g4 Rh8 26. Kg2 f5 27. gxf5
+gxf5 28. exf5 Bd5+ 29. Kg3 Rde8 30. Ng1 Re3+ 31. Kf2 Rxd3 32. cxd3 Nd7 33. Kg3
+Nf6 34. Nf3 Rg8 35. Ne5 Nh5+ 36. Kg4 Nf6+ 37. Kg3 Nh5+ 38. Kh2 Nf4 39. Ng6 Nxg6
+40. fxg6 Rxg6 41. Rae1 Kc7 42. Re7+ Kb6 43. Kg3 a5 44. Rff7 c5 45. Rf5 1-0

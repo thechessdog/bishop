@@ -1,0 +1,22 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Altmae, Mart"]
+[Black "Nordstrom, Eric"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "aeea3ccd"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5
+8. Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 b4 12. Nd5 exd5 13. exd5+ Kd8
+14. Nc6+ Bxc6 15. dxc6 Ne5 16. Qf4 Kc7 17. Bxf6 gxf6 18. Qxf6 Re8 19. f4
+Be7 20. Qf5 Nxc6 21. Qxa5+ Nxa5 22. Bxf7 Nc6 23. Bxe8 Rxe8 24. Rd5 Rg8 25.
+g3 Kd7 26. c4 bxc3 27. bxc3 Rg6 28. Rh5 h6 29. Kc2 Rf6 30. Kd3 Bf8 31. Rb1
+Kc7 32. Ke4 Bg7 33. Rc1 Ne7 34. Kd3 Nf5 35. Re1 Kd7 36. Rb1 Kc6 37. a4 d5
+38. a5 Nd6 39. Rb6+ Kc5 40. Re5 Rf7 41. Re6 Bf8 42. Rxa6 h5 43. Ra8 h4 44.
+a6 hxg3 45. hxg3 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Peric, Slavisa"]
+[Black "Maeder"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "4660c9d8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. a4 b4 10. Na2 Nxe4 11. Nxb4 Bb7 12. c3 O-O 13. Bc2 d5 14. Bxe4 dxe4 15.
+Be3 Bd6 16. f4 exf3 17. Nxf3 Qc7 18. h3 Nd7 19. Nd3 Rad8 20. Qe2 Qc4 21. Nd4
+Bb8 22. Ne1 Qc7 23. Ndf3 Nc5 24. Bxc5 Qxc5+ 25. Kh1 e5 26. Qf2 Qc7 27. Qg3 Qe7
+28. Qh4 f6 29. Rf2 e4 30. Nh2 Qc7 31. Nf1 Ba7 32. Re2 f5 33. Qg3 Qc4 0-1

@@ -1,0 +1,20 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Roth, P."]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "86705eb4"]
+[Epoch "Bishop"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Bd3 Na6 10. Nf3 Nc7 11. O-O a6 12. Re1 O-O 13. e5 dxe5 14. fxe5 Re8 15.
+Bg5 f6 16. Bh4 b5 17. e6 Nb6 18. Be4 Bb7 19. d6 Bxe4 20. e7 Qc8 21. Rxe4 b4 22.
+dxc7 bxc3 23. Qb3+ c4 24. Qxb6 cxb2 25. Rf1 c3 26. Qb3+ Kh8 27. Qxc3 f5 28. Bf6
+fxe4 29. Bxg7+ Kg8 30. Nd2 Qb7 31. Bf8 1-0

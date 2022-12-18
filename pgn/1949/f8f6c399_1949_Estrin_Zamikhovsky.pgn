@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1949.01.01"]
+[Round "16"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Zamikhovsky, Abram Davidovich"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "f8f6c399"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. c5 Be7 7. b4 O-O 8. Nf3
+Ne4 9. Qc2 f5 10. Bd3 Nc6 11. Rb1 Bf6 12. Ne2 a6 13. a4 e5 14. dxe5 Nxe5 15.
+Nxe5 Bxe5 16. Bf4 Qc7 17. Bxe5 Qxe5 18. O-O Bd7 19. Rfe1 Rf6 20. f4 Qc7 21. g3
+Rg6 22. Kf1 a5 23. Bxe4 fxe4 24. b5 Bh3+ 25. Kf2 Rf8 26. Ke3 Rgf6 27. Qc3 d4+
+28. Kxd4 Rd8+ 29. Kxe4 Bf5+ 30. Ke3 Rd3+ 31. Qxd3 Re6+ 32. Kd2 Bxd3 33. Kxd3
+Qxc5 34. Nc3 Rd6+ 35. Kc2 Qf5+ 36. Re4 Qh5 37. Rbe1 Qxh2+ 38. R1e2 Qxg3 39.
+Re8+ Kf7 40. R8e7+ Kg6 41. f5+ Kxf5 42. R7e3 Qf4 43. Re4 Qf1 44. Re7 Kg6 45.
+Rxb7 Qf5+ 46. Kb3 Rd4 47. Ree7 Rb4+ 48. Ka3 Qf8 49. Re6+ Kf5 50. Rbe7 Qc8 51.
+Rc6 Qg8 52. Rc5+ Kg4 53. Rd5 Qf8 54. Rde5 g5 55. Nd5 Rd4 56. Kb3 Rxd5 0-1

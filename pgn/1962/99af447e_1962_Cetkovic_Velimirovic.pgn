@@ -1,0 +1,21 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1962.01.01"]
+[Round "13"]
+[White "Cetkovic, Momcilo"]
+[Black "Velimirovic, Dragoljub"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "99af447e"]
+[Epoch "Bishop"]
+[WhiteID "913847"]
+[WhiteCountry "MNE"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. e5 Nd5 7. d4 cxd4 8. cxd4
+O-O 9. Nc3 Nc7 10. Ba4 d6 11. Bf4 Bg4 12. exd6 exd6 13. h3 Bxf3 14. Qxf3 Nxd4
+15. Qxb7 Rb8 16. Qe4 Nce6 17. Bh2 Rxb2 18. Qd5 Qh4 19. Bd1 Nf5 20. Rc1 Rc8 21.
+Ne2 Rxc1 22. Nxc1 Bd4 23. Ne2 Bc5 24. Qa8+ Kg7 25. Qd5 h5 26. Qf3 Rxa2 27. Bb3
+Ra3 28. Qb7 Qxf2+ 0-1

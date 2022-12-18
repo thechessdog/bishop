@@ -1,0 +1,16 @@
+[Event "Tula"]
+[Site "Tula"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Mazukevich"]
+[Black "Kandaurov"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "two pawns' (Lasker's) attack"]
+[HashCode "fd5ec357"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Nc3 Nxc3 6. dxc3 d6 7. Bg5 dxe5
+8. Qb3 Nd7 9. Bc4 1-0
+

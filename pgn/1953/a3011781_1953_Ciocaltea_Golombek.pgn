@@ -1,0 +1,20 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1953.01.01"]
+[Round "19"]
+[White "Ciocaltea, Victor"]
+[Black "Golombek, Harry"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "a3011781"]
+[Epoch "Bishop"]
+[WhiteCountry "ROU"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Bg4 5. h3 Bxf3 6. Qxf3 Nd7 7. Ng5 Ngf6
+8. Qb3 e6 9. Qxb7 Be7 10. Nf3 O-O 11. Qa6 e5 12. Be2 Bc5 13. O-O e4 14. Ne1 Rb8
+15. Qc4 Qe7 16. c3 Ne5 17. Qa4 Rfd8 18. Qc2 Qd6 19. b4 Bb6 20. c4 Qxb4 21. Rb1
+Bxf2+ 22. Rxf2 Qxb1 23. Qc3 e3 24. Rf1 exd2 25. Bxd2 Qb2 26. Qxb2 Rxb2 27. Ba5
+Re8 28. Bd1 Nxc4 29. Bc3 Rb1 30. Bb3 Ne3 0-1

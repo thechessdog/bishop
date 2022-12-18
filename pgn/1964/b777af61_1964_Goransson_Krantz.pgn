@@ -1,0 +1,21 @@
+[Event "SWE-ch"]
+[Site "Gothenburg"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Goransson, Bo"]
+[Black "Krantz, Kjell"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "b777af61"]
+[Epoch "Bishop"]
+[BlackID "1700782"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bg2 Bb7 12. Rhe1 O-O-O 13. Qe2 Nb6 14. e5 dxe5
+15. Bxb7+ Qxb7 16. fxe5 Nfd5 17. Ne4 Bxg5+ 18. Nxg5 Kb8 19. Rf1 Rd7 20. Rf2 h6
+21. Ne4 Qc7 22. Rdf1 Nc4 23. Nd6 Nde3 24. Nxc4 Nxc4 25. Qe4 Rc8 26. Nf3 Nxb2
+27. Kxb2 Qc3+ 28. Kb1 Rc4 29. Re2 Rb4+ 30. Qxb4 Qxb4+ 31. Ka1 Qc3+ 32. Kb1 a5
+33. Ne1 Rd1# 0-1

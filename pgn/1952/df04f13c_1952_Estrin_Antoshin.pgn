@@ -1,0 +1,29 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1952.01.01"]
+[Round "15"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Antoshin, Vladimir S"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "df04f13c"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nf6 5. e5 Qe7 6. Be2 dxe5 7. Nxe5 Nbd7 8.
+Nxd7 Bxd7 9. Nc3 Qb4 10. Qe5+ Be6 11. a3 Qc5 12. Bf4 O-O-O 13. O-O Bd6 14. Qxc5
+Bxc5 15. Bd3 a6 16. Rfe1 Bd4 17. Be5 c5 18. Bxd4 Rxd4 19. Ne2 Rd6 20. Ng3 Rb6
+21. b3 Rd8 22. Rad1 g6 23. Be2 h5 24. Rxd8+ Kxd8 25. Rd1+ Ke7 26. Bf3 a5 27.
+Ne4 Nxe4 28. Bxe4 a4 29. bxa4 Ra6 30. Rd3 Rxa4 31. Re3 b5 32. Kf1 Kd6 33. Ke1
+Bd5 34. Bxd5 Kxd5 35. Kd2 Rg4 36. g3 h4 37. Rd3+ Rd4 38. c3 Rxd3+ 39. Kxd3 h3
+40. c4+ Kc6 41. cxb5+ Kxb5 42. f4 f5 43. Kc3 Ka4 44. Kc4 Kxa3 45. Kxc5 Kb3 46.
+Kd4 Kc2 47. Ke5 Kd3 48. Kf6 Ke3 49. Kxg6 Kf3 50. Kxf5 Kg2 51. g4 Kxh2 52. g5
+Kg3 53. g6 h2 54. g7 h1=Q 55. g8=Q+ Kf2 56. Qa2+ Ke3 57. Qe6+ Kd3 58. Kg5 Qg2+
+59. Qg4 Qa8 60. Qd7+ Kc2 61. f5 Qg2+ 62. Kf6 Qh3 63. Kf7 Qh7+ 64. Ke6 Qg8+ 65.
+Kd6 Qg3+ 66. Kc6 Qc3+ 67. Kb7 Qb2+ 68. Kc6 Qc3+ 69. Kb6 Qe3+ 70. Kb7 Qb3+ 71.
+Kc7 Qg3+ 72. Qd6 Qg7+ 73. Kb6 Kb3 74. f6 Qg1+ 75. Kc7 Qa7+ 76. Kc8 Ka2 77. Qd5+
+Ka3 78. f7 Qa6+ 79. Qb7 Qe6+ 80. Kd8 Qd6+ 81. Ke8 Qg6 82. Qd5 Ka4 83. Ke7 Qh7
+84. Qd4+ Kb5 85. Qg4 Kc6 86. Ke8 Qh8+ 87. f8=Q Qe5+ 88. Kf7 1-0

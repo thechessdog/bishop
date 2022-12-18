@@ -1,0 +1,20 @@
+[Event "corr Blumich mem"]
+[Site "corr Blumich mem"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Seibold"]
+[Black "Schmid"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "92ddc4f5"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8.
+Nf3 cxd4 9. cxd4 f6 10. Nf4 fxe5 11. dxe5 Ndxe5 12. Nxe5 Nxe5 13. Qh5+ Nf7
+14. O-O Bd6 15. Bxh7 Bxf4 16. Bxf4 Qxb2 17. Rac1 Qf6 18. Bg3 Qh6 19. Qxh6
+gxh6 20. Bg6 Rg8 21. Bh5 Rg5 22. Bxf7+ Kxf7 23. Rc7+ Ke8 24. Rh7 Rf5 25.
+Rc1 Rf7 26. Rxh6 Bd7 27. Rc7 Ke7 28. Rxb7 a5 29. Rh4 Rc8 30. h3 Rc1+ 31.
+Kh2 Kf8 32. Bd6+ Kg7 33. Rg4+ 1-0
+

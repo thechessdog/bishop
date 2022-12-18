@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1970.07.01"]
+[Round "1"]
+[White "Panno, Oscar"]
+[Black "Damjanovic, Mato"]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "9620c7d2"]
+[Epoch "Bishop"]
+[WhiteID "100153"]
+[WhiteCountry "ARG"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 d6 4. d4 Bg4 5. d5 Nb8 6. e4 Nd7 7. Be2 Ngf6 8. Be3
+Be7 9. O-O O-O 10. Nd2 Bxe2 11. Qxe2 Ne8 12. b4 Bg5 13. c5 Bxe3 14. Qxe3 dxc5
+15. bxc5 b6 16. Nb3 Nxc5 17. Nxc5 bxc5 18. Qxc5 Nd6 19. f3 h5 20. Nb5 Nxb5 21.
+Qxb5 Rb8 22. Qc5 Rb6 23. Rac1 Qg5 24. Qxc7 Rb2 25. Rc2 Rfb8 26. Qc3 Rb1 1-0

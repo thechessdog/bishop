@@ -1,0 +1,20 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Pedersen, Eigil"]
+[Black "Blom, Kaj"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "a6cc2a9d"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5 8.
+Nd2 Be7 9. Qe2 O-O 10. c4 Bb7 11. Rd1 Qc7 12. e5 Nd7 13. Nf3 Nc5 14. cxd5 Nxd3
+15. d6 Nxc1 16. Raxc1 Qd7 17. dxe7 Qxe7 18. Rd6 Rad8 19. Qd2 f6 20. Rd1 Rxd6
+21. exd6 Qd7 22. Qa5 c5 23. Qxa7 Rc8 24. Ne1 Qc6 25. Qa5 Qd7 26. Qa7 Qc6 27. a4
+Ra8 28. Qxa8+ 1-0

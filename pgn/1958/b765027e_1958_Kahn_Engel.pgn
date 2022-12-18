@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Kahn, M."]
+[Black "Engel, K."]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "b765027e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. e4 g5 8. Bg3
+Nxe4 9. Be5 f6 10. Bd3 Nxc3 11. bxc3 fxe5 12. Bg6+ Ke7 13. cxb4 Bb7 14. Qf3
+exd5 15. cxd5 Qb6 16. Qf7+ Kd8 17. Qg7 Kc7 18. bxc5 Qa5+ 19. Ke2 Qc3 20.
+d6+ Kc6 21. Nf3 1-0
+

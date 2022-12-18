@@ -1,0 +1,19 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Sielaff"]
+[Black "Mittig"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "89666417"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Qd7 10. Be2 O-O-O 11. O-O f6 12. exf6 gxf6 13. d5 Ne5 14. Nd4
+Nbxc4 15. Nxf5 exf5 16. Bxa7 b6 17. Qb3 Bc5+ 18. Kh1 Kb7 19. Bxc4 Nxc4 20.
+Qxc4 Kxa7 21. a4 Kb7 22. a5 Ra8 23. b4 Bd6 24. a6+ Kc8 25. Nb5 Be5 26. Rac1
+f4 27. d6 Bxd6 28. Qd5 1-0
+

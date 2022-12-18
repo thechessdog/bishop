@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Bloodgood"]
+[Black "Carpenter, H."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "5b2c7b20"]
+[Epoch "Bishop"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 Nf6 4. cxd5 Nxd5 5. Qb3 c6 6. Qxb7 Nb6 7. Bxc6+
+Bd7 8. Bxd7+ Qxd7 9. Qxd7+ N8xd7 10. b3 e6 11. Bb2 Nf6 12. Nf3 Nbd5 13. Rg1
+Rc8 14. Nc3 Nb4 15. Rc1 a6 16. a3 Nbd5 17. Nxd5 Rxc1+ 18. Bxc1 Nxd5 19. Bb2
+f6 20. Rg4 Kf7 21. Ra4 1-0
+

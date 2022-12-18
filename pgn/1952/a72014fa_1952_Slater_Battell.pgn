@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Slater, Jemes"]
+[Black "Battell, J."]
+[Result "0-1"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "a72014fa"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Bb4 5. Qb3 c5 6. Bg5 Nc6 7. dxc5 h6 8.
+Bh4 O-O 9. O-O-O Bxc3 10. Qxc3 Ne4 11. Qc2 Qa5 12. a3 Qxc5 13. cxd5 exd5
+14. Qxc5 Nxc5 15. Rxd5 Nb3+ 16. Kc2 Be6 17. Rd1 Rac8 18. e4 f5 19. exf5
+Nb4+ 0-1
+

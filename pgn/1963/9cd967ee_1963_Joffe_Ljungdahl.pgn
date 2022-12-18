@@ -1,0 +1,19 @@
+[Event "Nordic-ch"]
+[Site "Odense"]
+[Date "1963.01.01"]
+[Round "2"]
+[White "Joffe, Manne"]
+[Black "Ljungdahl, John"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "9cd967ee"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 b6 6. a3 Ba5 7. Rb1 Bxc3+ 8. Nxc3
+d5 9. Be2 O-O 10. O-O Bb7 11. cxd5 cxd4 12. Qxd4 Nxd5 13. Rd1 Nc6 14. Qd2 Nxc3
+15. Qxc3 Qe7 16. b4 Rac8 17. Bb2 e5 18. Qb3 Rfd8 19. Bf3 e4 20. Bg4 Rxd1+ 21.
+Rxd1 Rd8 22. Qc3 f6 23. Qc4+ Kf8 24. Rxd8+ Nxd8 25. Bd1 Qf7 26. Qc3 Qd5 27. Bb3
+Qc6 28. Qd2 Ke7 29. Qe2 g6 30. Qg4 Kf8 31. Qf4 Kg7 32. b5 Qxb5 33. Bxf6+ Kf8
+34. Qd6+ Ke8 35. Qe7# 1-0

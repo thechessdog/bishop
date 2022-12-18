@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Ballbe"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "d69fa021"]
+[Epoch "Bishop"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Nxd5 6. exd5 Nb4 7. Nxd4 Nxd5
+8. Nf5 Nb6 9. Qe2+ Be7 10. Nxg7+ Kf8 11. Bh6 Kg8 12. Nf5 1-0

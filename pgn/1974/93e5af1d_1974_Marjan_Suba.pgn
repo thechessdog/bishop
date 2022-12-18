@@ -1,0 +1,22 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Marjan, Dusan"]
+[Black "Suba, Mihai"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "93e5af1d"]
+[Epoch "Bishop"]
+[WhiteID "903140"]
+[WhiteCountry "SRB"]
+[BlackID "1203363"]
+[BlackCountry "ESP"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Bf5 7. Nc3 e6 8. Be3
+Bb4 9. Nf3 c5 10. Qb3 cxd4 11. Nxd4 Qh4+ 12. g3 Qe4 13. Kf2 Bxc3 14. Bg2 Qxd4
+15. Bxd4 Bxd4+ 16. Ke2 N8d7 17. Rhd1 Bxe5 18. a4 Rc8 19. a5 Nc5 20. Qb5+ Nbd7
+21. Bxb7 a6 22. Qb4 Rb8 23. Rxd7 Nxd7 24. Ke3 Be4 25. Kxe4 Rxb7 26. Qxb7 Nc5+
+0-1

@@ -1,0 +1,18 @@
+[Event "Melbourne"]
+[Site "Melbourne"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Watson, Charles"]
+[Black "Learner, A."]
+[Result "0-1"]
+[ECO "E72"]
+[Opening "King's Indian"]
+[Variation "Pomar system"]
+[HashCode "4830b6d3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 O-O 6. Bg2 e5 7. Nge2 Nc6 8.
+d5 Nd4 9. Nxd4 exd4 10. Ne2 Re8 11. f3 c5 12. dxc6 bxc6 13. Nxd4 Qb6 14.
+Nb3 Ba6 15. Qc2 d5 16. c5 Qd8 17. Bg5 dxe4 18. fxe4 Bd3 19. Qd2 Nxe4 20.
+Bxd8 Nxd2+ 21. Kxd2 Raxd8 22. Rhg1 Bf5+ 0-1
+

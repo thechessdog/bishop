@@ -1,0 +1,19 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1966.01.01"]
+[Round "7"]
+[White "Sloth, Jorn"]
+[Black "Hamann, Svend"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "67f25809"]
+[Epoch "Bishop"]
+[WhiteID "1400240"]
+[BlackID "1400193"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bf4 Nc6 11. Qd1 Nb4 12. Nc3 c5 13. dxc5 Bxc5 14. Qxd8 1/2-1/2

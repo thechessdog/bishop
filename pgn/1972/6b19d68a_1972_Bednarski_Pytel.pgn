@@ -1,0 +1,19 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Bednarski, Jacek B"]
+[Black "Pytel, Krzysztof"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "6b19d68a"]
+[Epoch "Bishop"]
+[BlackID "600199"]
+[BlackCountry "FRA"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Qh5 Nc5 13. Be3 Bb7 14. Rxf7 Rxf7
+15. Nxe6 Nxb3 16. Nxd8 g6 17. Qd1 Nxa1 18. Nxb7 Nc6 19. Nd6 Rd8 20. Bb6 1-0

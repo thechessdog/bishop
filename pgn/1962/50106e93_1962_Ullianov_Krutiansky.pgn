@@ -1,0 +1,18 @@
+[Event "Voronezh"]
+[Site "Voronezh"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Ullianov"]
+[Black "Krutiansky"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "50106e93"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. d4 dxe4 5. Nxe4 Bxf3 6. Qxf3 Qxd4 7. Be3
+Qxb2 8. Bc4 Qb4+ 9. Nd2 e6 10. Rb1 Qe7 11. Ne4 b6 12. O-O Nd7 13. Bf4 e5
+14. Ng5 Qf6 15. Bxf7+ Ke7 16. Rfe1 Nh6 17. Bc4 Re8 18. Ne6 Nf7 19. Rbd1 Rc8
+20. Qa3+ Ke8 21. Qxa7 Bd6 22. Nxg7+ Qxg7 23. Bxf7+ Qxf7 24. Rxd6 1-0
+

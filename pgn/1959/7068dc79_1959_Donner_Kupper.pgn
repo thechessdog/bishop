@@ -1,0 +1,22 @@
+[Event "Zuerich"]
+[Site "Zuerich"]
+[Date "1959.05.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Kupper, Josef"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "7068dc79"]
+[Epoch "Bishop"]
+[BlackID "1300121"]
+[BlackCountry "SUI"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O dxc4 8. Bxc4
+b6 9. a3 cxd4 10. exd4 Bxc3 11. bxc3 Bb7 12. Bg5 Qc7 13. Bd3 Nbd7 14. Rc1 Ng4
+15. g3 Qc6 16. Be2 f6 17. Bd2 Rad8 18. c4 Qe4 19. Rc3 Nde5 20. dxe5 Nxe5 21.
+Re3 Qc6 22. Qc2 Rd4 23. Bc3 Rxc4 24. Qb3 b5 25. Bxe5 fxe5 26. Rb1 Ba8 27. Bxc4
+bxc4 28. Qb5 Rxf3 29. Rxf3 Qxb5 30. Rxb5 Bxf3 31. Kf1 Kf7 32. Ra5 Ke8 33. Rxa7
+Kd8 34. Ke1 c3 35. Ra5 c2 36. Kd2 1-0

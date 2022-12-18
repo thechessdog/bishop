@@ -1,0 +1,20 @@
+[Event "corr FSM/EU"]
+[Site "corr FSM/EU"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Sevecek, R."]
+[Black "Atabek, Fazil"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "5ff0d511"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5
+8. Qd2 e6 9. O-O Be7 10. Rad1 h6 11. Bh4 Ne5 12. Be2 g5 13. Bg3 b5 14. a3
+Bb7 15. f4 Nc4 16. Bxc4 bxc4 17. fxg5 Qxg5 18. Qf2 Qg6 19. Nf5 exf5 20.
+exf5 Qg5 21. Rfe1 Ng4 22. Qb6 O-O 23. Qxb7 Bf6 24. Ne4 Qg7 25. h3 Bd4+ 26.
+Kh1 Ne3 27. f6 Qg6 28. Rxd4 Nxc2 29. Rxc4 Nxe1 30. Bxe1 Rab8 31. Qd5 Rb5
+32. Qxd6 Re8 33. Bc3 1-0
+

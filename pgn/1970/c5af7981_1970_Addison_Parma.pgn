@@ -1,0 +1,22 @@
+[Event "Caracas"]
+[Site "Caracas"]
+[Date "1970.06.01"]
+[Round "9"]
+[White "Addison, William"]
+[Black "Parma, Bruno"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "c5af7981"]
+[Epoch "Bishop"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Ba5 10. Bd3 cxd4 11. exd4 h6 12. Be3 Bb6 13. Rc1 Ng4 14. Be4 e5 15.
+Bxc6 Nxe3 16. fxe3 exd4 17. Nxd4 bxc6 18. Na4 c5 19. Nf5 Qe8 20. Rc3 Bxf5 21.
+Rxf5 Rd8 22. Qc2 Ba5 23. Nxc5 Bxc3 24. Qxc3 Rd1+ 25. Rf1 Qd8 26. b4 Qd2 27.
+Qxd2 Rxd2 28. Rf2 Rfd8 29. a4 Rd1+ 30. Rf1 Rxf1+ 31. Kxf1 Rd2 32. b5 Kf8 33.
+Na6 Ra2 34. Nb8 Ke8 0-1

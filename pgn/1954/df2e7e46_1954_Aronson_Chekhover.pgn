@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Aronson, Lev"]
+[Black "Chekhover, Vitaly"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "df2e7e46"]
+[Epoch "Bishop"]
+[WhiteID "34310037"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 d6 7. O-O Bxc3 8. bxc3
+e5 9. d5 Ne7 10. Nd2 O-O 11. f4 exf4 12. exf4 Bf5 13. Be2 Ne4 14. Bf3 Nxd2 15.
+Qxd2 Ng6 16. g4 Bd7 17. Qf2 f5 18. g5 Qa5 19. Rb1 b6 20. h4 Rfe8 21. h5 Nf8 22.
+Rb3 Qa6 23. Be3 Re7 24. Qd2 Rae8 25. Bf2 Qxc4 26. Rbb1 Re2 27. Bxe2 Rxe2 28.
+Qc1 Qxd5 29. c4 Qe4 30. Qc3 Bc6 31. Qh3 Ne6 0-1

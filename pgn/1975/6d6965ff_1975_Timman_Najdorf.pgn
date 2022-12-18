@@ -1,0 +1,22 @@
+[Event "Netanya"]
+[Site "Netanya"]
+[Date "1975.06.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Najdorf, Miguel"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "6d6965ff"]
+[Epoch "Bishop"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 c6 8. a4
+a5 9. b3 h6 10. Bb2 Re8 11. Bf1 Bf8 12. g3 Qb6 13. Nb1 exd4 14. Bxd4 c5 15.
+Bxf6 Nxf6 16. Nbd2 Be6 17. Bb5 Red8 18. Qe2 d5 19. e5 Ne8 20. Bd3 Nc7 21. c4
+Na6 22. cxd5 Bxd5 23. Bc4 Nb4 24. Bxd5 Rxd5 25. Nc4 Qe6 26. Rad1 Rxd1 27. Rxd1
+Nc6 28. Qe4 Re8 29. Kg2 Rb8 30. h4 Be7 31. Rd3 b5 32. axb5 Rxb5 33. Rd6 Bxd6
+34. Qxc6 Rxb3 35. exd6 Qxc4 36. Ne5 Qe6 37. Qa8+ Kh7 38. d7 1-0

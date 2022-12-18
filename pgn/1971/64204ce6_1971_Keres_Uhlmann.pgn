@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1971.07.01"]
+[Round "2"]
+[White "Keres, Paul"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "64204ce6"]
+[Epoch "Bishop"]
+[BlackID "4611284"]
+[BlackCountry "GER"]
+[WhiteCountry "EST"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. Ne2 Bd6
+8. dxc5 Nxc5 9. Nb3 Nf6 10. O-O O-O 11. Nxc5 Bxc5 12. Bg5 Re8 13. Ng3 Re5 14.
+Bf4 Re6 15. c3 Ne4 1/2-1/2

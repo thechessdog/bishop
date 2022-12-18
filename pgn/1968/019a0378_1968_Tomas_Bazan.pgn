@@ -1,0 +1,17 @@
+[Event "Cordoba CR"]
+[Site "Cordoba"]
+[Date "1968.??.??"]
+[Round "2"]
+[White "Tomas, Ricardo"]
+[Black "Bazan, Osvaldo"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "019a0378"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. g3 Bc5 5. Bg2 O-O 6. e3 d5 7. cxd5 Nxd5 8. Nc3
+Ndb4 9. d4 exd4 10. Ne4 Bb6 11. a3 Nd5 12. exd4 Nf6 13. Nxf6+ Qxf6 14. Ne2 Bg4
+15. O-O Rad8 16. h3 Bxd4 17. Bxd4 Nxd4 0-1

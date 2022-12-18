@@ -1,0 +1,21 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kliesch"]
+[Black "August"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "4420d858"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Be2 Qc7 8.
+O-O Be7 9. Be3 O-O 10. Qe1 b5 11. a3 Nbd7 12. Bf3 Bb7 13. Rd1 Nb6 14. Bc1
+Rad8 15. Kh1 Rd7 16. h3 Rc8 17. g4 d5 18. e5 Ne4 19. Nxe4 dxe4 20. Bxe4
+Rcd8 21. c3 Bc5 22. Bxb7 Qxb7+ 23. Kh2 Bxd4 24. cxd4 Rxd4 25. Rxd4 Rxd4 26.
+Be3 Rd3 27. Bxb6 Qxb6 28. Qe4 Qd8 29. Rf3 Rd4 30. Qb7 h5 31. gxh5 Qh4 32.
+Qc8+ Rd8 33. Qc3 Qxh5 34. b3 Qf5 35. b4 Qb1 36. Qe3 Rd1 37. f5 exf5 38. e6
+Qa2+ 0-1
+

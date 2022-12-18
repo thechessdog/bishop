@@ -1,0 +1,18 @@
+[Event "Milan ch"]
+[Site "Milan ch"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Napolitano, Mariano"]
+[Black "Palombi, Roberto"]
+[Result "1/2-1/2"]
+[ECO "D67"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, 11.O-O"]
+[HashCode "3d0e1fb3"]
+[Epoch "Bishop"]
+[BlackID "806820"]
+[BlackCountry "ITA"]
+[WhiteCountry "ITA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Nbd7 6. e3 c6 7. Rc1 O-O 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 1/2-1/2

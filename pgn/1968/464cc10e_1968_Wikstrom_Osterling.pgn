@@ -1,0 +1,22 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Wikstrom, Bertil"]
+[Black "Osterling, Gosta"]
+[Result "0-1"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "pawn storm variation"]
+[HashCode "464cc10e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Qe7 8.
+Nf3 Bg7 9. Be2 Nxe4 10. Nxe4 Qxe4 11. O-O O-O 12. a4 Bg4 13. Ra3 Bxf3 14.
+Bxf3 Qd4+ 15. Qxd4 Bxd4+ 16. Kh1 Na6 17. Rd3 Nb4 18. Rdd1 Rfe8 19. g3 Nc2
+20. Bd2 Ne3 21. Bxe3 Rxe3 22. Rd2 Rae8 23. Bd1 a6 24. Kg2 b5 25. Rf3 Rxf3
+26. Kxf3 Re3+ 27. Kg2 Re1 28. axb5 axb5 29. Be2 Be3 30. Rc2 c4 31. Kf3 Bd4
+32. Rd2 Bg7 33. b3 cxb3 34. Rd1 Rxd1 35. Bxd1 b2 36. Bc2 Kf8 37. g4 Ke7 38.
+h4 Kd7 39. f5 Kc7 40. h5 gxh5 41. gxh5 h6 42. Bb1 Kb6 43. Ke4 Kc5 44. Ba2
+b4 45. Bb1 Bf6 46. Kd3 b3 0-1
+

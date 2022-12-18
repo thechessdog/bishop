@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Nicolini"]
+[Black "Incelli"]
+[Result "1-0"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "28e8d78e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. Qd3 a6 10. a3 Bxc3 11. Qxc3 b5 12. Be2 c4 13. b3 cxb3 14. Qxb3
+Bb7 15. a4 Bd5 16. Qb4 a5 17. Qxb5 Rb8 18. Qa6 Qc7 19. Ba3 Ra8 20. Rfc1
+Qxc1+ 21. Rxc1 Rxa6 22. Bxa6 Ra8 23. Bb5 Bxf3 24. gxf3 Nb6 25. Rc6 Nbd5 26.
+e4 Nb4 27. Rc5 h5 28. Bc1 g6 29. h4 Kg7 30. Kg2 1-0
+

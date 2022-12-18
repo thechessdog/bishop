@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Capra"]
+[Black "Molli"]
+[Result "0-1"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "aab60a60"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 Nxd4 10. Qxd4 h6 11. Bxf6 Bxf6 12. Qxd6 Qa5 13. e5 Rd8
+14. Qa3 Rxd1+ 15. Nxd1 Qxa3 16. bxa3 Be7 17. Kb2 Bc5 18. Be2 Bd7 19. Bf3
+Rc8 20. Kb3 b6 21. a4 a5 22. c4 g5 23. g3 Kg7 24. Nc3 gxf4 25. gxf4 Be3 26.
+Ne2 Rd8 27. Ng3 Be8 28. Rd1 Rxd1 29. Bxd1 f5 30. Nh5+ Bxh5 31. Bxh5 Bxf4
+32. c5 bxc5 0-1
+

@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Kupferstich, Moses"]
+[Black "Pedersen, Jens"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "b286bb3f"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Nbd7 4. f3 c6 5. Qd2 e5 6. dxe5 Nxe5 7. e4 d4 8.
+Nd1 Be7 9. Bxf6 Bxf6 10. f4 Ng6 11. Bd3 Be7 12. Nf3 Nh4 13. O-O Nxf3+ 14.
+Rxf3 Bg4 15. Rg3 h5 16. Be2 Bxe2 17. Qxe2 g5 18. fxg5 Bxg5 19. Nf2 Be3 20.
+c3 Qe7 21. Rxe3 dxe3 22. Qxe3 Rg8 23. Qh3 Qg5 24. Re1 Rd8 25. e5 Ke7 26. c4
+Rd2 27. Qa3+ Kd7 28. g3 Kc8 29. Qxa7 Rxb2 30. Ne4 Qxe5 31. Qa8+ Qb8 32. Qa3
+Rb6 33. Nd6+ Kd7 34. Rd1 Rb1 35. Rxb1 Qxd6 36. Rxb7+ Ke6 37. Qe3+ Kf5 38.
+Qf4+ Qxf4 39. Rxf7+ Ke6 40. Rxf4 1-0
+

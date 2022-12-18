@@ -1,0 +1,16 @@
+[Event "Okinawa"]
+[Site "Okinawa"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Manning"]
+[Black "Kalish, John"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "52ce559f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Ne5 Bd6 5. Nc4 Nf6 6. Nxd6+ Qxd6 7. Nc3
+O-O 8. Bc4 Nbd7 9. O-O Ne5 10. Bb3 Bg4 11. Qe1 Bf3 12. h3 Nfg4 13. g3 Qh6
+14. h4 g5 15. d4 gxh4 16. Bxh6 h3 0-1
+

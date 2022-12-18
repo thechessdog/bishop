@@ -1,0 +1,24 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Norcia"]
+[Black "Casa"]
+[Result "1-0"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "375b553f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+f5 9. Nge2 a6 10. Nc1 f4 11. Bf2 c5 12. dxc6 Nxc6 13. Nb3 a5 14. Na4 Be6
+15. Rd1 Qf6 16. Nb6 a4 17. Nxa8 axb3 18. Nb6 bxa2 19. Ra1 Nd4 20. Rxa2 g5
+21. Be2 g4 22. Kd1 Qg6 23. Rg1 g3 24. hxg3 Nxg3 25. Bxd4 exd4 26. Bd3 Qh5
+27. Kc2 Qh2 28. Rga1 h5 29. Ra8 h4 30. Rxf8+ Bxf8 31. Ra8 Nh5 32. Rb8 h3
+33. gxh3 Qxh3 34. Be2 Qg2 35. Bd1 Qg1 36. Rxb7 Bh6 37. Nd5 Bxd5 38. exd5
+Ng3 39. Qd3 Bg7 40. Kb3 Qe3 41. Be2 Nf1 42. Ka2 Qxd3 43. Bxd3 Nd2 44. Be2
+d3 45. Bxd3 Nxf3 46. b4 Bd4 47. Kb3 Kf8 48. Kc2 Ke8 49. Rb8+ Kd7 50. Rf8
+Be3 51. Be4 Ne5 52. Kb3 Ke7 53. Rf5 Nd7 54. Ka4 Nf6 55. Bf3 Nd7 56. Kb5 Ne5
+57. Rxe5+ dxe5 58. Kc6 Bd2 59. b5 1-0
+

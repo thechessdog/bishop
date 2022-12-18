@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Kubel"]
+[Black "Driksna"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "3e25e0f9"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 O-O 8.
+O-O Nc6 9. a3 Bxc3 10. bxc3 Qc7 11. Bd3 e5 12. Qc2 Re8 13. e4 c4 14. Bxc4
+exd4 15. cxd4 Na5 16. Bd3 Qxc2 17. Bxc2 1/2-1/2
+

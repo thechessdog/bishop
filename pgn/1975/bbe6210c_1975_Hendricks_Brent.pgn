@@ -1,0 +1,17 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hendricks, C."]
+[Black "Brent, M."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[HashCode "bbe6210c"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Nf3 Bxc5 6. Bb5 Qb6 7. Bxc6+ bxc6
+8. O-O Ba6 9. Nc3 Bxf1 10. Qxf1 Ne7 11. Na4 Qa5 12. Nxc5 Qxc5 13. c3 O-O
+14. Be3 Qb5 15. Qxb5 cxb5 16. Bxa7 Rxa7 0-1
+

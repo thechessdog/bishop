@@ -1,0 +1,33 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Brat, V."]
+[Black "Klass, H."]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Lundin (Kevitz-Mikenas) defence"]
+[HashCode "505da841"]
+[Epoch "Bishop"]
+
+1. d4 Nc6 2. Nf3 g6 3. e4 Bg7 4. Nc3 d6 5. Bc4 Nf6 6. Qe2 O-O 7. h3 e5 8.
+dxe5 dxe5 9. Be3 Nd4 10. Qd3 Nxf3+ 11. gxf3 Qxd3 12. Bxd3 a6 13. O-O-O Be6
+14. f4 exf4 15. Bxf4 c5 16. Bd6 Rfc8 17. e5 Nd5 18. Na4 b5 19. Be4 bxa4 20.
+Bxd5 Bxd5 21. Rxd5 c4 22. c3 Bh6+ 23. Kc2 Re8 24. Rhd1 f6 25. R1d4 fxe5 26.
+Bxe5 Rxe5 27. Rxe5 Bg7 28. Ra5 Bxd4 29. cxd4 Rf8 30. Rxa4 Rxf2+ 31. Kc3 g5
+32. Rxa6 Rf3+ 33. Kxc4 Rxh3 34. b4 Rh1 35. Ra3 g4 36. b5 Rc1+ 37. Kd5 Rb1
+38. Kc6 Rc1+ 39. Kd6 Rb1 40. Rb3 Rxb3 41. axb3 g3 42. b6 g2 43. b7 g1=Q 44.
+b8=Q+ Kg7 45. Qb7+ Kg6 46. Qe4+ Kf6 47. b4 Qa1 48. Qe5+ Kg6 49. b5 Qa5 50.
+Qc5 Qd8+ 51. Kc6 Qc8+ 52. Kb6 Qb8+ 53. Ka5 h5 54. Qc6+ Kg5 55. b6 h4 56.
+Qc5+ Kg6 57. Qd5 Kh6 58. Qe6+ Kg5 59. Qe7+ Kg4 60. Qc7 Qa8+ 61. Kb4 Qf8+
+62. Kb5 Qf1+ 63. Kc5 Qf8+ 64. Qd6 Qxd6+ 65. Kxd6 h3 66. b7 h2 67. b8=Q h1=Q
+68. Qg8+ Kf4 69. d5 Qa1 70. Qf7+ Ke4 71. Qe6+ Kf4 72. Ke7 Qg7+ 73. Ke8 Qh8+
+74. Kd7 Qh7+ 75. Qe7 Qf5+ 76. Kc6 Qc2+ 77. Qc5 Qg2 78. Qf8+ Ke5 79. Qh8+
+Kf5 80. Qh5+ Kf6 81. Qh6+ Ke7 82. Qe6+ Kf8 83. Kc7 Qg7+ 84. Kd8 Qg5+ 85.
+Kc8 Qg2 86. Qf6+ Ke8 87. Qe5+ Kf7 88. Kd7 Qf3 89. Qe8+ Kg7 90. Qe6 Kf8 91.
+Kd8 Qb3 92. Qf6+ Kg8 93. d6 Qb6+ 94. Ke7 Qc5 95. Qf4 Qa3 96. Qg4+ Kh7 97.
+Kf7 Qa7+ 98. Kf8 Qf2+ 99. Ke7 Qc5 100. Qh4+ Kg6 101. Qg3+ Kf5 102. Qg7 Ke4
+103. Qg4+ Kd3 104. Ke6 Qb6 105. Qd1+ Kc3 106. Qc1+ Kd3 107. Qa3+ Kd2 108.
+Ke7 Qb7+ 109. Kf6 Qb6 110. Qa2+ Kd1 111. Qe6 Qf2+ 112. Kg7 1-0
+

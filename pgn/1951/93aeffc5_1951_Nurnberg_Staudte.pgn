@@ -1,0 +1,17 @@
+[Event "Augsburg"]
+[Site "Augsburg"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Nurnberg, F."]
+[Black "Staudte, HH."]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "93aeffc5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Qc2 O-O 6. e3 c5 7. dxc5 Bxc5 8.
+cxd5 exd5 9. Be2 Nc6 10. O-O Qe7 11. a3 Bg4 12. b4 Bb6 13. Na4 Bc7 14. Bb2
+Rac8 15. Qb3 Ne5 16. Bxe5 Bxe5 17. Rac1 Bb8 18. Nc3 Bxf3 0-1
+

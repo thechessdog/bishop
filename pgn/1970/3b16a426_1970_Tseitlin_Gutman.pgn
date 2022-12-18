@@ -1,0 +1,21 @@
+[Event "Sevastopol"]
+[Site "Sevastopol"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Tseitlin"]
+[Black "Gutman"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "3b16a426"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8.
+Bd3 Nbd7 9. O-O g6 10. Qe1 Bg7 11. Qh4 b5 12. fxe5 dxe5 13. Bh6 O-O 14. Ng5
+Bb7 15. Kh1 Rae8 16. g4 Re7 17. Rf3 Rc8 18. Nxh7 Nxh7 19. Qxe7 Ndf6 20.
+Qxc7 Rxc7 21. Bxg7 Kxg7 22. a3 Ng5 23. Rg3 Nfxe4 24. Nxe4 Nxe4 25. Bxe4
+Bxe4+ 26. Kg1 Rxc2 27. Re1 Bb7 28. b4 Kf6 29. h4 Ke6 30. h5 gxh5 31. gxh5
+Rc8 32. Rg5 e4 33. Rf1 Rh8 34. Rgf5 Rg8+ 35. Kh2 e3 36. Rf6+ Ke5 37. Rxf7
+Rg2+ 38. Kh3 e2 39. Re1 Bd5 40. Re7+ Kf4 41. R1xe2 Rg3+ 42. Kh4 1-0
+

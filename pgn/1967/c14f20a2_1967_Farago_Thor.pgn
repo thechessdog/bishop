@@ -1,0 +1,20 @@
+[Event "WchT U26"]
+[Site "Harrachov"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Farago, Ivan"]
+[Black "Thor, Jon Th"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "c14f20a2"]
+[Epoch "Bishop"]
+[WhiteID "700134"]
+[BlackID "2300265"]
+[WhiteCountry "HUN"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. cxd5
+exd5 9. Bd2 a6 10. Ne5 Bd6 11. f4 c5 12. Be1 Nc6 13. Bh4 Be7 14. Rc1 cxd4 15.
+Nxc6 Bxc6 16. exd4 Bb7 17. Qb3 b5 18. Rfe1 Re8 1/2-1/2

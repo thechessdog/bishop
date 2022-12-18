@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Koranyi, Attila"]
+[Black "Prelovszky, Laszlo"]
+[Result "1-0"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "Moeller, bayonet attack"]
+[HashCode "58524815"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3
+Nxe4 8. O-O Bxc3 9. d5 Bf6 10. Re1 Ne7 11. Rxe4 d6 12. g4 h6 13. h4 g6 14.
+Bxh6 Rxh6 15. g5 Bxg5 16. Nxg5 Bf5 17. Qf3 Qd7 18. Rae1 Bxe4 19. Qxf7+ Kd8
+20. Ne6+ 1-0
+

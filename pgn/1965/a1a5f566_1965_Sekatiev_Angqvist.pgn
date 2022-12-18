@@ -1,0 +1,18 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Sekatiev"]
+[Black "Angqvist, T."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "a1a5f566"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Nd7 5. d4 dxe4 6. Nxe4 exd4 7. Qxd4 Qe7
+8. Bg5 f6 9. O-O-O Qb4 10. Qe3 fxg5 11. Nd6+ Kd8 12. Nf7+ Kc7 13. N3xg5 Bc5
+14. Qg3+ Kb6 15. a3 Qa4 16. Ne6 a5 17. Rxd7 Be7 18. Qe3+ c5 19. Rxe7 Qc6
+20. Rc7 1-0
+

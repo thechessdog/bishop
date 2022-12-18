@@ -1,0 +1,19 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1958.01.01"]
+[Round "3"]
+[White "Szilagyi, Gyorgy"]
+[Black "Golz, Werner"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "d69a8ef6"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. b3 b5 8. Be2
+Nbd7 9. Bb2 Bb7 10. Nbd2 Be7 11. Rc1 Rc8 12. Rc2 O-O 13. Qa1 cxd4 14. Rxc8 Qxc8
+15. Rc1 Qa8 16. Bxd4 Rc8 17. a4 bxa4 18. bxa4 Rxc1+ 19. Qxc1 Qc8 20. Qxc8+ Bxc8
+1/2-1/2

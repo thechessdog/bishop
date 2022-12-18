@@ -1,0 +1,18 @@
+[Event "corr Baltic"]
+[Site "corr Baltic"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Plunge"]
+[Black "Bottger"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "fe9dcd3f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 Be6
+8. b3 Nd7 9. Bb2 f6 10. d4 Bd6 11. c4 exd4 12. Nxd4 Qe7 13. Na3 O-O-O 14.
+Nac2 c5 15. Nxe6 Qxe6 16. Qe3 Be5 17. Bxe5 fxe5 18. Rad1 b6 19. Rd3 Nb8 20.
+Rfd1 Nc6 21. Rxd8+ Rxd8 22. Rxd8+ 1/2-1/2
+

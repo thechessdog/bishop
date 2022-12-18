@@ -1,0 +1,17 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1969.03.01"]
+[Round "1"]
+[White "Mestrovic, Zvonimir"]
+[Black "Kovacs, Laszlo M"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "9eaf4acb"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Bf5 4. e3 c6 5. Bd3 Bg6 6. f4 Ne4 7. Nxe4 Bxe4 8.
+Nf3 Qb6 9. O-O f6 10. Bh4 Nd7 11. Bxe4 dxe4 12. Nd2 f5 13. g4 e6 14. gxf5 exf5
+15. Nc4 Qc7 16. Ne5 g6 17. c4 Bg7 18. Qb3 Nxe5 19. dxe5 O-O 20. Rfd1 h6 21. Rd6
+g5 22. c5+ Kh7 23. fxg5 hxg5 24. Bxg5 Rae8 25. Rad1 Rg8 26. Kh1 Kh8 27. Rd7
+Qxe5 28. Qf7 Rgf8 29. Qh5+ Kg8 30. Rg1 Re6 31. Bh6 Rxh6 32. Rdxg7+ 1-0

@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Slepoy, I."]
+[Black "Soritz"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "81c9f777"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3
+cxd4 8. Nxd4 Nxd4 9. Qxd4 Qxd4 10. Bxd4 f6 11. Bb5+ Bd7 12. Bxd7+ Kxd7 13.
+O-O-O Kc6 14. f4 e6 15. Rhe1 Re8 16. Re3 Bd6 17. g3 e5 18. Rc3+ Kb5 19.
+Bxa7 Rd8 20. Rb3+ Ka6 21. Bb6 Rd7 22. Rd5 1-0
+

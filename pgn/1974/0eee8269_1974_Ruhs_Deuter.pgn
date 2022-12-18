@@ -1,0 +1,17 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Ruhs, G."]
+[Black "Deuter, R."]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "0eee8269"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O h6 9. Bxf6 Bxf6 10. Nf3 O-O 11. h4 Qc7 12. g4 Be7 13. g5 h5 14.
+Nd4 e5 15. Nd5 Qd7 16. Nf5 Bd8 17. Nf6+ 1-0
+

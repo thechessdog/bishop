@@ -1,0 +1,18 @@
+[Event "Felixstowe"]
+[Site "Felixstowe"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Horne"]
+[Black "Thomas, Andrew Rowland Benedick"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, 5.de"]
+[HashCode "1bd84b88"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Be3 Bf5 7. Nf3 c6 8. Bc4
+Qa5+ 9. c3 Nd7 10. dxc6 bxc6 11. O-O Rd8 12. Nd4 Nb8 13. b4 Qc7 14. Qf3 Nd6 15.
+Nxf5 Nxf5 16. Qe4+ Qe7 17. Bxf7+ Kxf7 18. Qxf5+ Kg8 19. Bd4 Qf7 20. Qxf7+ Kxf7
+21. Bxa7 1-0

@@ -1,0 +1,15 @@
+[Event "Orel"]
+[Site "Orel"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Kopylov, Nikolai G"]
+[Black "Ivlev, Valentin"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "87cc9e66"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. a4 Bb7 8. c3
+O-O 9. O-O d6 10. d4 Rb8 11. axb5 axb5 12. d5 1-0

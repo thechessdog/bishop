@@ -1,0 +1,28 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1970.07.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "Scholl, Eddie C"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Inverted Hanham"]
+[HashCode "02fb7f48"]
+[Epoch "Bishop"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackID "1000390"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d3 d5 5. Nbd2 Be7 6. O-O O-O 7. c3 a5 8. Re1
+Be6 9. b3 Nd7 10. a3 f5 11. Bb2 Bf6 12. Bf1 Kh8 13. Qc2 dxe4 14. dxe4 f4 15. h3
+g5 16. Nh2 h5 17. b4 Qe8 18. Bc4 Rg8 19. Rad1 Rg7 20. Qd3 Nb6 21. Bxe6 Qxe6 22.
+b5 Ne7 23. c4 Na4 24. Ba1 Nc5 25. Qc2 g4 26. hxg4 hxg4 27. f3 g3 28. Ng4 Ng6
+29. Kf1 Nh4 30. Nxf6 Qxf6 31. Nb3 Nxb3 32. Qxb3 Rh7 33. Rd2 Ng6 34. Ke2 Rh2 35.
+Kd1 Nh4 36. Qc3 Re8 37. Ree2 Qb6 38. Kc2 c6 39. a4 Rh1 40. c5 Qc7 41. b6 Qf7
+42. Kb2 Rg1 43. Ka3 Kh7 44. Bb2 Kg6 45. Qxa5 Nxg2 46. Rxg2 Rxg2 47. Rxg2 Qc4
+48. Qd2 Qxc5+ 49. Qb4 Qe3+ 50. Qb3 Qe1 51. Qd3 c5 52. Qd6+ Kg5 53. Rd2 Qf1 54.
+Qd7 Qxf3+ 55. Ka2 Qe3 56. Qg7+ Kh4 57. Rd6 Kh3 58. Qd7+ Kg2 59. Qxe8 f3 60. Qb5
+f2 61. Rd1 Qe1 62. Rxe1 fxe1=Q 63. Qxc5 Qxe4 64. a5 Qa4+ 65. Kb1 e4 66. Qc2+
+Qxc2+ 67. Kxc2 e3 68. a6 Kf1 69. axb7 g2 70. b8=Q g1=Q 71. Qf4+ Ke2 72. Qc4+
+Kf3 73. Qd5+ Ke2 74. Qd3+ Kf3 75. Bd4 1-0

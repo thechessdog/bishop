@@ -1,0 +1,18 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1963.01.01"]
+[Round "17"]
+[White "Herrera, Fernando"]
+[Black "Marcussi, Bartolome"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "fc090e03"]
+[Epoch "Bishop"]
+[WhiteID "101451"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. Bb3 Qb8 11. h4 Rc8 12. Nde2 b5 13. Bh6 a5 14. h5 Bh8 15.
+hxg6 hxg6 16. Qg5 Ne5 17. Nf4 e6 18. Qh4 Rxc3 19. Bg5 Re3+ 1-0

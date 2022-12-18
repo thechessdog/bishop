@@ -1,0 +1,18 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Weber"]
+[Black "Heinicke"]
+[Result "1-0"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "neo-Meran (Lundin variation)"]
+[HashCode "0e44336e"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 b4 9. Na4 Bb7 10. e4 c5 11. e5 Nd5 12. O-O cxd4 13. Re1 Qa5 14. Nxd4
+O-O-O 15. Bg5 f6 16. Bh4 Nc7 17. Rc1 Bc5 18. Nb5 Na6 19. exf6 gxf6 20. Nd6+
+Kb8 21. Nxb7 Kxb7 22. Qf3+ Kb8 23. Bxa6 1-0
+

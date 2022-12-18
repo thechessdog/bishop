@@ -1,0 +1,19 @@
+[Event "corr WER/C"]
+[Site "corr WER/C"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Hajek, J."]
+[Black "Maeder, Karl Heinz"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "20c3e89a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Nbd7 8. f4
+b5 9. Bf3 Bb7 10. a3 Qc7 11. Qe1 h5 12. b3 Rc8 13. Bb2 Qc5 14. Qf2 e5 15. Nde2
+Qxf2+ 16. Kxf2 exf4 17. Nxf4 g5 18. e5 Ng4+ 19. Bxg4 hxg4 20. Nd3 Rxh2 21. Ne1
+dxe5 22. Kg3 Rh4 23. Rf5 f6 24. Rd1 Bxa3 25. Nxb5 axb5 26. Bxa3 Rc3+ 27. Rd3
+Rxd3+ 28. Nxd3 Be4 29. Rf1 f5 30. Re1 f4+ 31. Nxf4 exf4+ 32. Kf2 g3+ 33. Kg1
+Nf6 34. Bb2 Kf7 35. Bxf6 f3 0-1

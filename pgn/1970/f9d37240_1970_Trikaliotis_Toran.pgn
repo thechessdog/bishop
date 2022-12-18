@@ -1,0 +1,19 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Trikaliotis, G."]
+[Black "Toran, Roman"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "f9d37240"]
+[Epoch "Bishop"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. c4 b5 5. cxb5 a6 6. bxa6 Bxa6 7. Nc3 d6 8. g3
+Bg7 9. Bg2 O-O 10. O-O Nbd7 11. Re1 Qc7 12. Qc2 Rfb8 13. Bf1 Qc8 14. e4 Ng4 15.
+Bxa6 Qxa6 16. Bf4 Nge5 17. Nxe5 Nxe5 18. Bxe5 Bxe5 19. Re2 Rxb2 20. Qxb2 Bxc3
+21. Qxc3 Qxe2 22. Re1 Qxa2 23. Qf3 Qb2 24. Kg2 Ra1 25. Rxa1 Qxa1 26. Qg4 Qe5
+27. Qc8+ Kg7 28. f3 Qb2+ 29. Kh3 Qe2 30. Qd8 Qf1+ 31. Kh4 Qxf3 0-1

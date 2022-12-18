@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Zhivodov, G."]
+[Black "Hodos, German"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "3f114eda"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Be7 7. Ne2
+O-O 8. O-O Bd6 9. Bf4 Re8 10. Qd2 Be6 11. Bd3 Be7 12. c4 Nd7 13. b3 Nf8 14.
+Rad1 Qd7 15. Ng3 Rad8 16. Be4 g5 17. Be3 f5 18. d5 fxe4 19. dxe6 Qxe6 20.
+Qa5 c5 21. Rxd8 Rxd8 22. Qxa7 f5 23. Bxc5 f4 24. Bxe7 Qxe7 25. Nf5 Qf6 26.
+g4 Rd7 27. Qc5 h5 28. h3 hxg4 29. hxg4 Qh8 30. Ne7+ Kf7 31. Nc8 Qh4 32.
+Qf5+ Kg8 33. Qxe4 Qxg4+ 34. Qg2 Qe6 35. c5 f3 36. Qxf3 Rf7 0-1
+

@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Bartis, G."]
+[Black "Piazzini, Luis Roberto"]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "e18c4a47"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Na5 10. Nbd2 Nxd2 11. Bxd2 c5 12. c3 Nxb3 13. axb3 Be7 14. Rxa6 O-O
+15. Qxb5 Rb8 16. Qa4 Bd7 17. Qf4 Bb5 18. Rfa1 Bxa6 19. Rxa6 Rxb3 20. Bc1 d4 21.
+cxd4 cxd4 22. Qe4 d3 23. Nd2 Rb4 24. Qc6 Qc8 25. g3 h6 26. Nf3 Rd8 27. Kg2 Rc4
+28. Qxc8 Rcxc8 29. Bd2 Rc2 30. Rb6 Bg5 31. Rd6 Rxd6 32. exd6 Bxd2 33. Nxd2 Kf8
+0-1

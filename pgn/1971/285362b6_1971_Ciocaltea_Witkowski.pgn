@@ -1,0 +1,18 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Witkowski, Stefan"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "285362b6"]
+[Epoch "Bishop"]
+[WhiteCountry "ROU"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bg4 7. Be2 Bb4+ 8.
+Nc3 Bxf3 9. Bxf3 Qc4 10. Be3 Bxc3+ 11. bxc3 Qxc3+ 12. Kf1 Qc4+ 13. Kg1 Nge7 14.
+Rc1 Qxa2 15. Ra1 Qc4 16. Rc1 Qa2 1/2-1/2

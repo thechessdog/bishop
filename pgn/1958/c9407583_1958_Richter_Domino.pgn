@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Domino"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "c9407583"]
+[Epoch "Bishop"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 g6 3. h4 h5 4. Bc4 Nc6 5. Nc3 d6 6. d4 cxd4 7. Nxd4 Bg7 8. Be3
+Nh6 9. f3 Qb6 10. Bb5 Bd7 11. Bxc6 Bxc6 12. Nf5 Qxb2 13. Nxg7+ Kf8 14. Kd2 Kxg7
+15. a3 Bd5 16. exd5 Rac8 17. Bd4+ f6 18. Ra2 1-0

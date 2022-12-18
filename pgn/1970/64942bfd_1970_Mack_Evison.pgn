@@ -1,0 +1,20 @@
+[Event "North American op"]
+[Site "North American op"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Mack, A."]
+[Black "Evison, D."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "64942bfd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Nxe4 7. d4 d5 8.
+Nxe5 Nxe5 9. dxe5 Be6 10. Nd2 Nxd2 11. Bxd2 c5 12. c3 c4 13. Bc2 Bc5 14.
+Qh5 g6 15. Qh6 Bf8 16. Qe3 Qc7 17. Qg3 Bg7 18. f4 O-O 19. f5 Bxe5 20. Bf4
+Bxf4 21. Rxf4 Bd7 22. Qh4 Rfe8 23. Raf1 Qc5+ 24. Kh1 Qe7 25. f6 Qf8 26. Qg5
+Bc6 27. Rh4 Kh8 28. Rh6 Rad8 29. Qh4 Qg8 30. Rf3 g5 31. Rxh7+ Qxh7 32.
+Qxh7# 1-0
+

@@ -1,0 +1,17 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "7"]
+[White "Uzman, N."]
+[Black "Potter, Beverley"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "d7cb24d8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Bc4 Nf6 6. Nc3 g6 7. f3 Bg7 8. Be3
+O-O 9. Qd2 e6 10. O-O-O d5 11. Bb5 Nxd4 12. Bxd4 a6 13. Be2 dxe4 14. fxe4 e5
+15. Bxe5 Qxd2+ 16. Rxd2 Nxe4 17. Bxg7 Nxd2 18. Bxf8 Kxf8 19. Kxd2 Bf5 20. a4
+Rd8+ 21. Kc1 Ra8 22. Bf3 Ra7 23. Rd1 b6 24. g4 Be6 25. Rd8+ Kg7 26. g5 1-0

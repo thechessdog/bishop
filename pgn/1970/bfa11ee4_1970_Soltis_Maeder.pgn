@@ -1,0 +1,19 @@
+[Event "Haifa"]
+[Site "Haifa"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Soltis, Andrew"]
+[Black "Maeder, Karl Heinz"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "bfa11ee4"]
+[Epoch "Bishop"]
+[WhiteID "2000741"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. a4 b4 10. Na2 O-O 11. Nxb4 Qb6 12. c3 Nxe4 13. Be3 Qc7 14. f4 Nc5 15.
+Bc2 a5 16. f5 axb4 17. f6 Bxf6 18. Rxf6 b3 19. Bb1 Qd8 20. Bg5 Nbd7 21. Qh5 g6
+22. Rxg6+ fxg6 23. Bxg6 Nf6 24. Bxf6 Qd7 25. Rf1 Ba6 26. Rf3 Bb7 27. Bxh7+ 1-0

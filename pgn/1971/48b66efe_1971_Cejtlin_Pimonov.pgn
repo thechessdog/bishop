@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Cejtlin"]
+[Black "Pimonov"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "48b66efe"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 d6 6. Bc4 Be6 7. Bxe6
+fxe6 8. Qb3 Qc8 9. Ng5 Nd8 10. f4 h6 11. Nf3 Nf6 12. Nh4 Qd7 13. Ng6 Rg8
+14. e5 dxe5 15. Nxe5 Qd4 16. Bd2 Ne4 17. O-O-O Nxd2 18. Rxd2 Qxf4 19. Qb5+
+c6 20. Qd3 1-0
+

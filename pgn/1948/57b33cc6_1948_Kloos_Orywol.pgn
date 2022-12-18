@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Kloos, M."]
+[Black "Orywol, W."]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "57b33cc6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Bd3 O-O 6. Ne2 c5 7. a3 Bxc3+ 8.
+bxc3 cxd4 9. exd4 b6 10. cxd5 Bb7 11. dxe6 Bxg2 12. Rg1 Bd5 13. Bh6 Ne8 14.
+Nf4 fxe6 15. Qh5 Qc7 16. Bxh7+ 1-0
+

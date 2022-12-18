@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Pulieri"]
+[Black "Ierco"]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7, 5.e3 O-O"]
+[HashCode "e5a6513b"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. cxd5 Nxd5 7. Bxe7 Qxe7
+8. Rc1 Nxc3 9. Rxc3 e5 10. dxe5 Nc6 11. Bd3 Nxe5 12. Bb1 c6 13. Ne2 Bg4 14.
+Qc2 g6 15. Nd4 c5 16. Nb3 c4 17. Nd4 Nd3+ 18. Kf1 Rfd8 19. Qd2 Ne5 20. h3
+Be6 21. h4 h5 22. Rc1 Rd7 23. Qc3 Rad8 24. Be4 Bd5 25. Bc2 Rd6 26. Rd1 Ng4
+27. Ne2 Be4 28. Rxd6 Rxd6 29. Kg1 Bxc2 30. Qxc2 Rd3 31. Rh3 Qd6 32. Nd4 Qb4
+0-1
+

@@ -1,0 +1,22 @@
+[Event "ACM Minneapolis"]
+[Site "ACM Minneapolis"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Black Knight"]
+[Black "Chaos"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian defence"]
+[HashCode "4687ed63"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Ke2 Bxc3
+8. bxc3 Nxe4 9. Qd3 d5 10. Qe3 Qb6 11. Kd1 Nxf2+ 12. Ke2 Qxe3+ 13. Bxe3
+Nxh1 14. Kd2 e5 15. Bb5 e4 16. Nd4 Bd7 17. Nb3 Ne5 18. Bxd7+ Kxd7 19. Bg1
+Nc4+ 20. Ke2 e3 21. Bxe3 Rhe8 22. Kf1 Nxe3+ 23. Kg1 Nxc2 24. Rd1 Re1+ 25.
+Rxe1 Nxe1 26. Nd4 Re8 27. Nf5 Nd3 28. g3 Nhf2 29. a4 g5 30. h4 Re1+ 31. Kg2
+Re7 32. Nd4 g4 33. h5 Re5 34. Nc2 Ne1+ 35. Nxe1 Rxe1 36. Kxf2 Re7 37. a5
+Re5 38. h6 a6 39. Kg2 Re6 40. Kf2 Kc6 41. Kg2 Rxh6 42. Kf2 Re6 43. Kg1 Kb5
+44. Kf2 Kxa5 45. Kg1 Re3 46. Kg2 Rxc3 47. Kf2 h5 48. Kg2 d4 49. Kh2 d3 50.
+Kh1 d2 51. Kg2 d1=Q 52. Kf2 Kb6 53. Kg2 Rc2# 0-1
+

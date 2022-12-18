@@ -1,0 +1,20 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Kunz, E."]
+[Black "Mora, J."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "0f7fb151"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 a6 4. Bc4 Nf6 5. e5 d5 6. exd6 Qxd6 7. Qxd4 Qxd4
+8. Nxd4 Nbd7 9. O-O e5 10. Re1 Bc5 11. Nb3 Ba7 12. Be3 O-O 13. Nc3 Bxe3 14.
+Rxe3 b5 15. Bf1 Ra7 16. Rd1 Rc7 17. a3 Bb7 18. Na5 Ba8 19. Rd6 Nc5 20. Rxe5
+Nfe4 21. Nxe4 Nxe4 22. Rd1 Rxc2 23. Bd3 Rc5 24. Rxe4 Bxe4 25. Bxe4 g6 26.
+Nb3 Re5 27. Bf3 Rc8 28. Kf1 Rc7 29. Rd2 h5 30. g3 h4 31. Bd1 Kg7 32. Na1 a5
+33. Nc2 g5 34. gxh4 gxh4 35. Ne3 Rc1 36. Kg2 Rg5+ 37. Kh3 Rg1 38. Bc2 1-0
+

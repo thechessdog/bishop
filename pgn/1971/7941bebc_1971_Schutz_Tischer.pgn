@@ -1,0 +1,18 @@
+[Event "corr DDR-PV"]
+[Site "corr DDR-PV"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Schutz, H."]
+[Black "Tischer, J."]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "7941bebc"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Ne2 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qd2 Nge7 9. Nc3 b5 10. a3 Bb7 11. Qg5 Qxg5 12. Bxg5 f6 13. Be3 O-O
+14. O-O-O Bc8 15. Be2 Rb8 16. f4 Rd8 17. Rd6 exf4 18. Bxf4 Ng6 19. Bg3 Nge5
+20. Rhd1 Rb7 21. Bxe5 fxe5 22. Rxc6 Rb8 23. Bg4 Kf8 24. Rc7 Ke8 25. Rd5 1-0
+

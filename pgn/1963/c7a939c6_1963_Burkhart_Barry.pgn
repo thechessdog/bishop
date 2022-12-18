@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Burkhart"]
+[Black "Barry"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "c7a939c6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Nf3 Nxg5 4. Nxg5 e5 5. Nxf7 Kxf7 6. e4 g6 7. dxe5
+Nc6 8. Bc4+ Kg7 9. f4 Bc5 10. Nc3 a6 11. a3 Rf8 12. Qg4 d5 13. e6 dxc4 14.
+Rd1 Nd4 15. f5 Nxc2+ 0-1
+

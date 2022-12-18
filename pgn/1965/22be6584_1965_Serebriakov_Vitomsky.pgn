@@ -1,0 +1,17 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Serebriakov"]
+[Black "Vitomsky"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Kevitz variation"]
+[HashCode "22be6584"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Bxd5 cxd5 13. d4 Bd6 14.
+Re3 f5 15. Rh3 f4 16. Rxh7 Qe7 17. Rh5 Bg4 18. Re5 Bxd1 19. Rxe7 Bxe7 0-1
+

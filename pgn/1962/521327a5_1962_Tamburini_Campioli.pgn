@@ -1,0 +1,17 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Tamburini"]
+[Black "Campioli, G."]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "521327a5"]
+[Epoch "Bishop"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. g3 Nxe5 5. Bg2 g6 6. Nxe5 Qxe5 7. Bd2 f6
+8. Bc3 Qf5 9. O-O h5 10. e4 Qc5 11. e5 d6 12. exf6 Rh7 13. Re1+ Kf7 14.
+Bd5+ 1-0
+

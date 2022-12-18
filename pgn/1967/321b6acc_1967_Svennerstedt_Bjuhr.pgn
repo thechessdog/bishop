@@ -1,0 +1,18 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Svennerstedt, Stig"]
+[Black "Bjuhr, Arne"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "321b6acc"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Be3 Nf6
+8. O-O b5 9. a3 Nxd4 10. Bxd4 Bc5 11. Bxc5 Qxc5 12. Re1 d6 13. Re3 O-O 14.
+e5 dxe5 15. Rh3 h6 16. Qf3 Ra7 17. Qg3 Kh8 18. Re1 e4 19. Nxe4 Nxe4 20.
+Rxe4 Re7 21. Reh4 f5 22. Qg6 Qc7 23. g4 Qf4 24. g5 1-0
+

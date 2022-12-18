@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Ribeiro"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "323f9d93"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. Be3
+O-O 9. O-O b5 10. f4 b4 11. Na4 Nxe4 12. f5 Bg5 13. Qf3 Bxe3+ 14. Qxe3 0-1

@@ -1,0 +1,17 @@
+[Event "Freiberg ch19-DDR wmn"]
+[Site "Freiberg ch19-DDR wmn"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Paehtz, Hannelore"]
+[Black "Hoelzlein, C."]
+[Result "0-1"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "a7c6fd4d"]
+[Epoch "Bishop"]
+
+1. c4 g6 2. Nf3 Bg7 3. d4 Nf6 4. Nc3 O-O 5. e4 d6 6. Be2 Nbd7 7. Bg5 e5 8. Qc2
+c6 9. O-O h6 10. Bh4 g5 11. Bg3 g4 12. Nh4 exd4 13. e5 dxe5 14. Ne4 Nxe4 15.
+Qxe4 Nc5 16. Qb1 f5 17. f3 gxf3 18. Bxf3 e4 19. Bh5 Qg5 20. Bd6 Qxh5 21. Bxf8
+Bxf8 22. Qe1 Bd6 0-1

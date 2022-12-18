@@ -1,0 +1,19 @@
+[Event "Neuhausen"]
+[Site "Neuhausen"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Capello"]
+[Black "Penrose"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "b154b02b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qc7
+8. Qf3 g6 9. O-O-O Bg7 10. h3 O-O 11. g4 Re8 12. h4 e5 13. Nde2 exf4 14.
+Qxf4 b5 15. a3 Re5 16. Bg2 a5 17. Rhf1 b4 18. Nd5 Nxd5 19. Qxf7+ Kh8 20.
+Rxd5 Ba6 21. Rxe5 Bxe5 22. Qe7 Rc8 23. c3 bxa3 24. Bd2 axb2+ 25. Kxb2 Bxe2
+0-1
+

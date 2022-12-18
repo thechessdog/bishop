@@ -1,0 +1,20 @@
+[Event "corr Wch5"]
+[Site "corr Wch5"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Ericson, A."]
+[Black "Abramson, Moisey"]
+[Result "0-1"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "a63c5744"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. Bb5 Nxe4 6. Ne5 Bd7 7. Bxc6 Bxc6
+8. Nxe4 dxe4 9. Qh5 Bd5 10. c4 g6 11. Nxg6 fxg6 12. Qe5 Bxc4 13. Qxh8 cxd4
+14. b4 Qd7 15. h3 Qa4 16. Bd2 e3 17. fxe3 dxe3 18. Bxe3 Qc2 19. Bd2 Qe4+
+20. Kd1 Bb5 21. Kc1 Rc8+ 22. Bc3 Ba4 23. Kb2 Qc2+ 24. Ka3 Rxc3+ 25. Qxc3
+Qxc3+ 26. Kxa4 e6 27. a3 Qc2+ 28. Ka5 Qc6 29. b5 Qc3+ 30. Ka4 Qc4+ 31. Ka5
+Bc5 0-1
+

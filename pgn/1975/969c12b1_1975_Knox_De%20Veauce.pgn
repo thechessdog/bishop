@@ -1,0 +1,29 @@
+[Event "Morecambe ch-BCF"]
+[Site "Morecambe ch-BCF"]
+[Date "1975.08.01"]
+[Round "11"]
+[White "Knox, Victor W"]
+[Black "De Veauce, Louis"]
+[Result "0-1"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "969c12b1"]
+[Epoch "Bishop"]
+[BlackID "401145"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. dxc5 Nc6 10. Qd2 Qxc5 11. a3 Nb6 12. Qf2 Qxf2+ 13. Kxf2 Bd7 14. Bd3 Rc8
+15. Ne2 Na4 16. Rab1 Nc5 17. Ned4 Ke7 18. Ke3 Nxd4 19. Nxd4 f6 20. Rhf1 fxe5
+21. fxe5 Be8 22. Rf4 g5 23. Rf6 Bf7 24. Rbf1 Bg8 25. Rh6 Nd7 26. Kd2 Nxe5 27.
+Re1 Ng4 28. Rh3 Nf6 29. Rhe3 Kd7 30. Nxe6 Bxe6 31. Rxe6 Ne4+ 32. R1xe4 dxe4 33.
+Rxe4 h6 34. Rb4 Rc7 35. Rb6 Kc8 36. g4 Re7 37. Rf6 Kc7 38. Kc3 h5 39. Rg6 hxg4
+40. Rxg5 Rh4 41. Bf5 Re3+ 42. Kd2 Rf3 43. Bxg4 Rxh2+ 44. Kc1 Rh1+ 45. Kd2 Rh2+
+46. Kc1 Rg3 47. b4 b6 48. Rg7+ Kd6 49. Rd7+ Kc6 50. Rd4 Rxa3 51. Kb2 Rg3 52.
+Bc8 a5 53. Bd7+ Kc7 54. b5 a4 55. Bf5 Rb3+ 56. Kc1 Rxb5 57. Bd7 Rh1+ 58. Kd2
+Rbb1 59. Kc3 b5 60. Be6 Rbd1 61. Rf4 Kb6 62. Rf8 Rh6 63. Bf5 Rc6+ 64. Kb2 Rc5
+65. Bd3 Ka5 66. Rf4 Rd2 67. Rf8 Rh2 68. Rd8 Rh4 69. Rb8 Rd4 70. Rb7 Rxd3 71.
+cxd3 Kb4 72. Rh7 a3+ 73. Kb1 Kb3 74. Rh1 a2+ 75. Ka1 Ka3 76. d4 Rc3 77. d5 b4
+78. d6 b3 79. d7 b2# 0-1

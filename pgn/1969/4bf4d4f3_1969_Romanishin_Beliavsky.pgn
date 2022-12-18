@@ -1,0 +1,23 @@
+[Event "Beltsy"]
+[Site "Beltsy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Romanishin, Oleg M"]
+[Black "Beliavsky, Alexander G"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "4bf4d4f3"]
+[Epoch "Bishop"]
+[WhiteID "14100088"]
+[BlackID "14602377"]
+[WhiteCountry "UKR"]
+[BlackCountry "SLO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 gxf6 12. f5 Ne5 13. Qh3 Bd7 14. Nce2 Nc6
+15. Kb1 Rc8 16. fxe6 fxe6 17. Qh5+ Kd8 18. c3 Nxd4 19. Nxd4 Qc5 20. Qf7 Qe5 21.
+Bd3 Rc7 22. Ka1 b4 23. Bc2 a5 24. cxb4 Rc4 25. Nf3 Qf4 26. Bb3 Rxe4 27. Ne1
+axb4 28. Nd3 Qg5 29. Rhe1 Be8 30. h4 Qh6 31. g5 Bxf7 32. gxh6 Rxe1 33. Rxe1 d5
+34. Nf4 Kd7 35. Rg1 Bf8 36. Nd3 Rg8 37. Rf1 Be7 38. Bc2 Bg6 39. Kb1 Be4 0-1

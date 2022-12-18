@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Lengyel, L."]
+[Black "Pogats, Jozsef Jr."]
+[Result "0-1"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "08ec3b59"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackID "744450"]
+[BlackCountry "HUN"]
+
+1. c4 Nf6 2. Nf3 c6 3. d4 d5 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+dxc4 9. bxc4 e5 10. O-O Re8 11. Bb2 Qe7 12. Rae1 Bc7 13. Kh1 e4 14. Nd2 Nf8 15.
+f3 Ng4 16. Ndxe4 Qh4 17. h3 Nxe3 18. Qd2 Bxh3 0-1

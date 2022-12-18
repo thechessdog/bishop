@@ -1,0 +1,19 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kristjansson, Olafur"]
+[Black "Kristjansson, Bragi"]
+[Result "1/2-1/2"]
+[ECO "D79"]
+[Opening "Neo-Gruenfeld, 6.O-O, main line"]
+[HashCode "8ff1b53b"]
+[Epoch "Bishop"]
+[WhiteID "2300656"]
+[BlackID "2300346"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. c4 c6 7. cxd5 cxd5 8. Nc3
+Nc6 9. Ne5 e6 10. Nxc6 bxc6 11. Bf4 Nd7 12. Qd2 Ba6 13. Rfd1 c5 14. dxc5 Nxc5
+15. Bh6 1/2-1/2

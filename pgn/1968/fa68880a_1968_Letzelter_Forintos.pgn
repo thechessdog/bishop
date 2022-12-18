@@ -1,0 +1,20 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1968.01.01"]
+[Round "9"]
+[White "Letzelter, Jean Claude"]
+[Black "Forintos, Gyozo V"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "fa68880a"]
+[Epoch "Bishop"]
+[BlackID "700690"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. c4 d6 5. Nc3 Nc6 6. Be3 Qb6 7. Na4 Qa5+ 8. Bd2
+Qc7 9. dxc5 dxc5 10. Bc3 Bxc3+ 11. Nxc3 Bg4 12. Be2 Bxf3 13. Bxf3 Nf6 14. g3
+O-O 15. O-O Rfd8 16. Qa4 Rd2 17. Rab1 e6 18. Rfd1 Rad8 19. Bg2 Ng4 20. Rxd2
+Rxd2 21. Nd1 Nd4 22. Qa3 Qd6 23. Ne3 Ne2+ 24. Kf1 Nxh2+ 25. Ke1 Ng1 26. Nd5
+Re2+ 0-1

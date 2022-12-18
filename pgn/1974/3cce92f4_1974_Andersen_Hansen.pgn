@@ -1,0 +1,25 @@
+[Event "Espergarde"]
+[Site "Espergarde"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Andersen, Jorgen"]
+[Black "Hansen, Jorgen"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "3cce92f4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 Kf8
+8. Bd2 Nxc3 9. Nxe6+ dxe6 10. Qxb4+ Qe7 11. Qxc3 Nc6 12. O-O-O Bd7 13. Be3
+Nb4 14. Qa3 a5 15. c3 Rc8 16. Kb1 Nd5 17. Qxe7+ Kxe7 18. Bd4 b5 19. g3 Rhd8
+20. Bd3 h6 21. Be4 Bc6 22. Rhe1 a4 23. Bc5+ Ke8 24. Bd6 f6 25. Bg6+ Kd7 26.
+f4 f5 27. h3 Ne7 28. Bh5 g6 29. Be2 Nd5 30. Bd3 Nb6 31. Bc5 Nd5 32. g4 Ke8
+33. Be3 Nxe3 34. Rxe3 Be4 35. Kc1 Bxd3 36. Rexd3 Rxd3 37. Rxd3 Rc4 38. Rd4
+Rxd4 39. cxd4 fxg4 40. hxg4 h5 41. gxh5 gxh5 42. Kd2 Kf7 43. Ke2 Kg6 44.
+Kf3 Kf5 45. Kg3 h4+ 46. Kxh4 Kxf4 47. Kh5 Ke4 48. Kg6 Kxd4 49. Kf6 Kd5 50.
+a3 Kc4 51. Kxe6 Kb3 52. Kd5 Kxb2 53. e6 Kxa3 54. e7 Kb2 55. e8=Q a3 56.
+Qxb5+ Ka1 57. Qc4 Kb2 58. Qb4+ Ka2 59. Kc4 Ka1 60. Kc3 Ka2 61. Kc2 Ka1 62.
+Qxa3# 1-0
+

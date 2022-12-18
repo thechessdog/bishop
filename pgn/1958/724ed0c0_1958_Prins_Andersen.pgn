@@ -1,0 +1,18 @@
+[Event "Munchen olm"]
+[Site "Munchen olm"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Prins, Lodewijk"]
+[Black "Andersen, Borge"]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "724ed0c0"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. dxc5 Nxe4 5. cxd6 Qb6 6. Qd4 Qxd4 7. Nxd4 Nxd6
+8. Bf4 e6 9. Nc3 f6 10. O-O-O e5 11. Ndb5 Nxb5 12. Nxb5 Na6 13. Be3 Be6 14. Be2
+Kf7 15. Bf3 Nc5 16. Nc7 e4 17. Bh5+ g6 18. Nxa8 gxh5 19. Nc7 Rg8 20. Rd8 Bh6
+21. Rxg8 Bxe3+ 22. fxe3 Kxg8 23. b4 1-0

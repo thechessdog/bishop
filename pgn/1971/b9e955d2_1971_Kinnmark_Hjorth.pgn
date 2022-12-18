@@ -1,0 +1,18 @@
+[Event "SWE-ch"]
+[Site "Eskilstuna"]
+[Date "1971.??.??"]
+[Round "2"]
+[White "Kinnmark, Ove"]
+[Black "Hjorth, Sune"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "b9e955d2"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 cxd4 7. cxd4 Nc6 8. Ndf3
+Nb6 9. Bd3 Bd7 10. a3 Na5 11. b3 a6 12. Ne2 Nc8 13. O-O Na7 14. g4 g6 15. f5
+Be7 16. Kh1 exf5 17. gxf5 Bxf5 18. Bxf5 gxf5 19. Nf4 Qd7 20. e6 fxe6 21. Ne5
+Qb5 22. Nxe6 1-0

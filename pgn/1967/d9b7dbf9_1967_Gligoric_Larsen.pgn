@@ -1,0 +1,18 @@
+[Event "FIDE (27) 1967-1969"]
+[Site "Sousse izt"]
+[Date "1967.10.01"]
+[Round "21"]
+[White "Gligorić, Svetozar"]
+[Black "Larsen, Bent Ravn"]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "d9b7dbf9"]
+[Epoch "Bishop"]
+[BlackID "1430670"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8. a3
+dxc4 9. Bxc4 Ba5 10. Qd3 a6 11. dxc5 Qxd3 12. Bxd3 Bxc3 13. bxc3 Na5 14. Rb1
+Rd8 1/2-1/2

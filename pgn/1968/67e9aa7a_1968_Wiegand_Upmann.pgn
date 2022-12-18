@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Wiegand, K."]
+[Black "Upmann, H."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "67e9aa7a"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qg4 Nf6 7. Qxg7
+Rg8 8. Qh6 Rg6 9. Qe3 Nc6 10. Bb2 Ne7 11. O-O-O Bd7 12. f3 Nf5 13. Qe1 Bc6
+14. c4 Qe7 15. d5 exd5 16. cxd5 Bxd5 17. Bxf6 Rxf6 18. Rxd5 Qxa3+ 19. Kd2
+e3+ 20. Ke2 Qa6+ 21. Kd1 Qa1+ 22. Ke2 Nd4+ 23. Rxd4 Qxd4 24. Qd1 Qc5 25.
+Qd3 Rd8 26. Qe4+ Re6 27. Qa4+ b5 28. Qb3 Red6 29. c4 Rd2+ 30. Ke1 Rd1+ 31.
+Qxd1 Qb4+ 32. Ke2 Rxd1 0-1
+

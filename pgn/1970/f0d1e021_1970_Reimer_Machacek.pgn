@@ -1,0 +1,17 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Reimer, K."]
+[Black "Machacek, H."]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "f0d1e021"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 Bb4+ 6. Bd2 Be7 7. Qc2 Bd7
+8. Qxc4 Bc6 9. Nc3 Nbd7 10. O-O Bd5 11. Nxd5 exd5 12. Qb5 Qc8 13. Bh3 c6
+14. Qd3 Qc7 15. Bf4 Bd6 16. Qe4+ 0-1
+

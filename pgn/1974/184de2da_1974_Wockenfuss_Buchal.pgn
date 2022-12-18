@@ -1,0 +1,23 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Wockenfuss, Klaus"]
+[Black "Buchal, Stephan"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "184de2da"]
+[Epoch "Bishop"]
+[BlackID "4603915"]
+[BlackCountry "GER"]
+[WhiteID "4600746"]
+[WhiteCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. h3
+cxd4 9. Qxd4 Nh6 10. g4 Bxb5 11. Nxb5 Qa5+ 12. Nc3 Nc6 13. Qe4 O-O-O 14. Bd2
+dxe5 15. fxe5 Nxe5 16. Nxe5 Rxd2 17. Kxd2 Qxe5 18. Qxe5 Bxe5 19. Rad1 f5 20.
+Rhg1 Rf8 21. Ke2 a6 22. Na4 Bd6 23. Nb6+ Kc7 24. Nd5+ Kc6 25. Rd3 Nf7 26. gxf5
+Ne5 27. Rdd1 Rxf5 28. Ne3 Rf3 29. Rh1 Rf4 30. c3 Bc5 31. b4 Ba7 32. Ng4 Re4+
+33. Kd2 Nf3+ 34. Kd3 Rf4 35. Rdf1 h5 36. Rxf3 Rxf3+ 37. Ke4 hxg4 38. hxg4 0-1

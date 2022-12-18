@@ -1,0 +1,17 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Haupold, E."]
+[Black "Butze, Roland"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "9dbaad92"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6 8.
+O-O Bd6 9. Bg5 h6 10. Bh4 Nbd7 11. f4 Qc7 12. f5 exf5 13. Nxf5 Bxh2+ 14. Kh1
+Bxf5 15. Rxf5 g5 16. Bf2 Bd6 1/2-1/2

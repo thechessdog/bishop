@@ -1,0 +1,20 @@
+[Event "Michigan Open"]
+[Site "Michigan Open"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Mack, A."]
+[Black "Evans"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "5ce611a4"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 Nc6 3. e3 Bg4 4. Be2 Qd6 5. Nbd2 O-O-O 6. c4 e5 7. dxe5
+Nxe5 8. Nxe5 Bxe2 9. Nxf7 Bxd1 10. Nxd6+ Rxd6 11. Kxd1 dxc4 12. Ke2 Rc6 13.
+Ne4 Nf6 14. Nxf6 gxf6 15. Bd2 f5 16. Rhc1 b5 17. Bc3 Rg8 18. g3 Bd6 19. Bd4
+a6 20. b3 Re8 21. Kf3 Be5 22. Bxe5 Rxe5 23. bxc4 Rxc4 24. Rxc4 bxc4 25. Rc1
+Ra5 26. Rc2 Ra3 27. Kf4 Kb7 28. Kxf5 Kb6 29. e4 Kc5 30. e5 Kc6 31. Rxc4+
+Kd7 32. e6+ Kd8 33. f4 Rxa2 34. Kf6 Re2 35. Ra4 Rxh2 36. Rxa6 Re2 37. Ra8#
+1-0
+

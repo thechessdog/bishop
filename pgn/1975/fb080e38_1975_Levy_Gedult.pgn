@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Levy"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "fb080e38"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Nc6 5. Bb5 Nf6 6. h3 Bc5 7. Nxc6 bxc6 8.
+Bxc6+ Bd7 9. Bxa8 Qxa8 10. d4 exd3 11. Qxd3 O-O 12. Qg3 Re8+ 13. Kd1 Ne4 14.
+Qf3 Nf2+ 15. Kd2 Be3+ 16. Kc3 Ne4+ 17. Kb3 Qb7+ 18. Kc4 Qb5# 0-1

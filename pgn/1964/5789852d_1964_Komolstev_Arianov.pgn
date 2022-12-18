@@ -1,0 +1,16 @@
+[Event "Alma Ata"]
+[Site "Alma Ata"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Komolstev"]
+[Black "Arianov"]
+[Result "1-0"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[HashCode "5789852d"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Qb3 Qb6 6. cxd5 Qxb3 7. axb3 Bxb1
+8. dxc6 Be4 9. Rxa7 Rxa7 10. c7 1-0
+

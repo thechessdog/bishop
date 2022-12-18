@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Cahill"]
+[Black "McIntire"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "bdf5c877"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Bc4 Nc6 6. Nf3 Qc7 7. O-O Nf6
+8. Ng5 Ne5 9. Bb3 h6 10. f4 Qc5+ 11. Kh1 hxg5 12. fxe5 Qxe5 13. g3 Qxg3 14.
+Qe2 Ng4 15. Bxf7+ Kd7 16. Be6+ Kxe6 17. Qc4+ Kd7 18. Qb5+ Kc7 19. Nd5+ Kb8
+20. Bf4 Rxh2# 0-1
+

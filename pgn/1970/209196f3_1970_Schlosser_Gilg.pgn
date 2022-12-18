@@ -1,0 +1,23 @@
+[Event "Rosenheim"]
+[Site "Rosenheim"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schloessner, Henrik"]
+[Black "Gilg, Karl"]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "209196f3"]
+[Epoch "Bishop"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Qa5 7. Bd2 Qxc5 8.
+e3 d5 9. a3 Bxc3 10. Bxc3 Rd8 11. b4 Qe7 12. Nf3 Nbd7 13. c5 e5 14. Be2 e4 15.
+Nd4 Ne5 16. h3 Bd7 17. Nb5 Nd3+ 18. Bxd3 exd3 19. Qxd3 Bxb5 20. Qxb5 d4 21. Bd2
+Ne4 22. Qe2 d3 23. Qd1 Qf6 24. O-O Qb2 25. f3 Nxd2 26. Rf2 Nxf3+ 27. Rxf3 d2
+28. Rf1 Qc3 29. Qf3 Rd7 30. e4 Qd4+ 31. Kh1 Re8 32. Rad1 Qxe4 33. Qxe4 Rxe4 34.
+Kg1 Rd3 35. Rf3 Re1+ 36. Rf1 Re2 37. Rf2 Re1+ 38. Rf1 Rxd1 39. Rxd1 Kf8 40. Kf2
+Ke7 41. Ke2 Rxa3 42. Rxd2 Rb3 43. Rd4 f5 44. h4 Rg3 45. Kf2 Rg4 46. Rxg4 fxg4
+47. Ke3 Ke6 48. Kd4 g3 49. Kc4 Ke5 50. h5 Ke4 51. b5 Ke5 52. c6 bxc6 53. bxc6
+Kd6 54. Kb5 h6 0-1

@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Perecz, Laszlo"]
+[Black "Bilek, Istvan"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "60479ff9"]
+[Epoch "Bishop"]
+[WhiteID "700746"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bf5 11. Bf4 Qd7 12. a4 Bd3 13. d6 Bc4 14. Qa3 Nfd5
+15. Bg3 a5 16. O-O Nb4 17. dxe7 Rfe8 18. Rad1 Rxe7 19. b3 Ba6 20. Nb5 N6d5 21.
+Qb2 Bxb5 22. axb5 Qxb5 23. Nc3 Nxc3 24. Qxc3 Nc6 1/2-1/2

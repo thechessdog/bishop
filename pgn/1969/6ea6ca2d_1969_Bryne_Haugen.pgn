@@ -1,0 +1,22 @@
+[Event "Stavanger"]
+[Site "Stavanger"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bryne, Jone"]
+[Black "Haugen, Arild"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[HashCode "6ea6ca2d"]
+[Epoch "Bishop"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 O-O 6. O-O h6 7. Ne2 Re8 8. Be3
+Bxe3 9. fxe3 Na5 10. Nh4 Nxc4 11. dxc4 Nxe4 12. Ng3 Qxh4 13. Qf3 Ng5 14. Qd5 c6
+15. Qd1 Qxc4 16. Qh5 d6 17. h4 Bg4 18. b3 Qxf1+ 19. Rxf1 Bxh5 20. Nxh5 Ne4 21.
+g4 Re6 22. Kg2 g6 23. Kf3 Nd2+ 24. Kf2 Nxf1 25. Kxf1 gxh5 26. gxh5 Kh7 27. Kg2
+Rg8+ 28. Kf3 d5 29. e4 Rf6+ 30. Ke3 Rg3+ 31. Kd2 Rf2+ 32. Kc1 Rg1+ 33. Kb2 Rgg2
+34. exd5 Rxc2+ 35. Ka3 cxd5 36. Kb4 e4 37. a4 e3 38. Kb5 e2 39. b4 e1=Q 40. Ka5
+Rc5# 0-1

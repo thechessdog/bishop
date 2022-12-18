@@ -1,0 +1,21 @@
+[Event "Zinnowitz"]
+[Site "Zinnowitz"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Liebert, Heinz"]
+[Black "Kuzmin, Gennadi P"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "a210e8a7"]
+[Epoch "Bishop"]
+[WhiteID "4611438"]
+[WhiteCountry "GER"]
+[BlackID "14100070"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. Nc3 Nbd7 7. O-O e5 8. e4
+exd4 9. Nxd4 Re8 10. f3 c6 11. Re1 d5 12. exd5 Rxe1+ 13. Qxe1 Nb6 14. Nc2 Nxc4
+15. dxc6 bxc6 16. Kh1 Nd5 17. Bf1 Ne5 18. Qd1 Qb6 19. Bg2 Bf5 20. Nxd5 cxd5 21.
+g4 Bd3 22. Ne3 Bc4 23. Nxd5 Rd8 24. f4 Bxd5 25. Bxd5 Qc6 26. Qf3 Rxd5 0-1

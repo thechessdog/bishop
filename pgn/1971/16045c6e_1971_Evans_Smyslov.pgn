@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1971.07.01"]
+[Round "10"]
+[White "Evans, Larry D."]
+[Black "Smyslov, Vasily"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "16045c6e"]
+[Epoch "Bishop"]
+[WhiteID "2001713"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. g3 Bg7 5. Bg2 e5 6. Ngf3 Ne7 7. O-O O-O 8. c3
+Nd7 9. d4 exd4 10. Nxd4 Ne5 11. exd5 Nxd5 12. N2f3 Bg4 13. h3 Nxf3+ 14. Nxf3
+Bd7 15. Re1 Re8 1/2-1/2

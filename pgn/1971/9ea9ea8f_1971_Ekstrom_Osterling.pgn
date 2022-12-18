@@ -1,0 +1,22 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Ekstrom, Folke"]
+[Black "Osterling, Gosta"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "9ea9ea8f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4 c6
+8. Ba4 d6 9. Na3 Ne7 10. Nc4 Bc7 11. dxe5 dxe5 12. Qxd8+ Kxd8 13. Rd1+ Bd7
+14. Bb3 b5 15. Nd6 Bxd6 16. Rxd6 Kc7 17. Rd3 f5 18. f3 f4 19. Bd2 c5 20. c4
+b4 21. Be1 Bc6 22. Bf2 Kb6 23. Rd6 Rhd8 24. Rad1 Rxd6 25. Rxd6 Rf8 26. Bh4
+Ng6 27. Bd8+ Kb7 28. h4 Nh8 29. Ba5 Nf7 30. Re6 Bd7 31. Re7 Kc8 32. a3 bxa3
+33. bxa3 g6 34. Kf2 Nd6 35. Rxe5 Nb7 36. Bd2 Rf6 37. Ke2 Ra6 38. a4 Bxa4
+39. Bxa4 Rxa4 40. Re7 Rxc4 41. Bxf4 Rb4 42. Rxh7 a5 43. g4 Rb2+ 44. Ke3 a4
+45. h5 g5 46. Be5 Rb6 47. h6 Na5 48. Rc7+ Kd8 49. Rxc5 1-0
+

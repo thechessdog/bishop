@@ -1,0 +1,16 @@
+[Event "Oregon"]
+[Site "Oregon"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hooker, C."]
+[Black "McBride, C."]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "17f29268"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. e4 b5 4. Nc3 c6 5. b4 a5 6. Ba3 e6 7. Rb1 Na6 8.
+Nce2 Nxb4 9. Nf3 Nd3+ 10. Kd2 Bxa3 0-1
+

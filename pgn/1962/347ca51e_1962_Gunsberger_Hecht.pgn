@@ -1,0 +1,23 @@
+[Event "Varna olm"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "4"]
+[White "Gunsberger, A."]
+[Black "Hecht, Hans-Joachim"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "347ca51e"]
+[Epoch "Bishop"]
+[BlackID "4600320"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+Nb6 9. a3 a5 10. b3 Bd7 11. Bb2 a4 12. b4 Na7 13. Nc3 Be7 14. O-O O-O 15. Rc1
+Rc8 16. Qe2 Qe8 17. f4 f5 18. exf6 Bxf6 19. Nf3 Nc4 20. Ne5 b5 21. Nd1 Nc6 22.
+Ne3 N6xe5 23. dxe5 Bd8 24. Bxc4 dxc4 25. Bd4 Qg6 26. Bc5 Rf7 27. Rcd1 Bc6 28.
+Rd6 Be4 29. Qd2 Be7 30. Rb6 Bxc5 31. bxc5 Bd3 32. Rf3 Qe4 33. Rxe6 Rxf4 34.
+Rxf4 Qxf4 35. c6 h6 36. g3 Qe4 37. Qf2 Rf8 38. c7 Qb7 39. Qg2 Qxc7 40. Qd5 Kh8
+41. Ra6 Qe7 42. Rd6 Qa7 43. Qd4 Qa5 44. Kg2 Qd2+ 45. Kh3 Rf2 46. Ng4 Bf1+ 47.
+Kh4 Qg5# 0-1

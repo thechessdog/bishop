@@ -1,0 +1,17 @@
+[Event "Rovigo"]
+[Site "Rovigo"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Rossi"]
+[Black "Amadesi"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "1666de46"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. b3 Qd7 7. Bg2 Nge7 8.
+O-O Ng6 9. Bb2 Rd8 10. Nbd2 Be7 11. a3 Bh3 12. b4 Bxg2 13. Kxg2 h5 14. Nb3
+Qg4 15. h3 Nf4+ 0-1
+

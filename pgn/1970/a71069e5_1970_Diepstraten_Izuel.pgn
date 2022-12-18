@@ -1,0 +1,15 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Diepstraten, L."]
+[Black "Izuel, A."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "a71069e5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Nc3 fxe4 4. Nxe5 Qf6 5. d4 Bb4 6. Qg4 Bxc3+ 7. bxc3
+Ne7 8. Bg5 d5 9. Bxf6 Bxg4 10. Bxg7 1-0
+

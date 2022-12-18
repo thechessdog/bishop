@@ -1,0 +1,19 @@
+[Event "corr Europe"]
+[Site "corr Europe"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Aksan"]
+[Black "Mate"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "1d2c908d"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Bd3 Qa5 9. Ne2 O-O 10. Bh6 Ng6 11. h4 Nc6 12. f4 f5 13. Qg3 Rf7 14. Bg5
+Nf8 15. h5 Nd7 16. O-O dxc3 17. Qh3 Nc5 18. g4 Nxd3 19. Qxd3 Qc5+ 20. Kh2
+Bd7 21. gxf5 Rxf5 22. Rg1 h6 23. Bf6 Qf2+ 24. Kh3 Rxh5+ 25. Kg4 Rh2 26. Ng3
+Qxc2 0-1
+

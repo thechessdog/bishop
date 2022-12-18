@@ -1,0 +1,19 @@
+[Event "corr ch4-POL"]
+[Site "corr ch4-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Kowalczyk, R."]
+[Black "Polak, R."]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "db67781a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3
+d5 8. exd5 cxd5 9. O-O O-O 10. Bg5 Be6 11. Ne2 Be7 12. Nd4 Qd6 13. Re1 c5
+14. Nf5 Bxf5 15. Bxf5 Rfe8 16. Qf3 Bf8 17. Bf4 Qb6 18. b3 g6 19. Bd3 Bg7
+20. Rad1 Re6 21. c4 Rae8 22. Rxe6 fxe6 23. Re1 Rf8 24. Qe3 Ng4 25. Bc7 Nxe3
+26. Bxb6 1/2-1/2
+

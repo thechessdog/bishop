@@ -1,0 +1,17 @@
+[Event "Leipzig olm"]
+[Site "Leipzig olm"]
+[Date "1960.10.01"]
+[Round "1"]
+[White "Ojanen, Kaarle Sakari"]
+[Black "Johannessen, Svein"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "c1b2aec1"]
+[Epoch "Bishop"]
+[BlackCountry "NOR"]
+
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. Nf3 Bg4 5. Nc3 Qa5 6. d5 O-O-O 7. Bd2 Bxf3
+8. gxf3 Ne5 9. e4 e6 10. a3 c6 11. dxc6 Rd4 12. cxb7+ Kb8 13. Ne2 Rxd2 14. Qxd2
+Qb6 15. Qd7 Qxb7 16. Qd8+ Qc8 17. Qxc8+ Kxc8 18. Bg2 Nf6 19. O-O 1-0

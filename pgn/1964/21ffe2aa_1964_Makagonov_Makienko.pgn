@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Makagonov"]
+[Black "Makienko"]
+[Result "1-0"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "21ffe2aa"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 c6 3. c4 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8.
+Ne5 Qb6 9. Bb5 Be7 10. g4 Bg6 11. h4 Ne4 12. h5 Nxc3 13. Bxc6+ bxc6 14.
+bxc3 Be4 15. f3 f6 16. Nd3 Bxd3 17. Qxd3 Qb5 18. Kd2 Qb2+ 19. Qc2 Qxc2+ 20.
+Kxc2 Bd8 21. Rhb1 Bb6 22. a4 Kd7 23. a5 Bc7 24. Rb7 Rhc8 25. a6 Kd8 26.
+Rab1 e5 27. dxe5 fxe5 28. Bg3 Ke8 29. e4 Kf8 30. Rd1 Bd6 31. exd5 cxd5 32.
+Rxd5 Rc6 33. Rd7 Bc7 34. Bf2 Rc8 35. Bc5+ Kg8 36. Bb4 h6 37. Re7 1-0
+

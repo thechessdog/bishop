@@ -1,0 +1,17 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1963.01.01"]
+[Round "13"]
+[White "Stahlberg, Gideon"]
+[Black "Trifunovic, Petar"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "68a3607e"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+[BlackCountry "SRB"]
+
+1. Nf3 c5 2. c3 Nf6 3. d4 cxd4 4. cxd4 d5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. Rac1 Rfc8 1/2-1/2

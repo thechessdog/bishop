@@ -1,0 +1,20 @@
+[Event "Kiel"]
+[Site "Kiel"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Hansen, Bjarne"]
+[Black "Enevoldsen, Jens"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "789ffc03"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+[WhiteID "1403176"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 a6 7. e5 dxe5 8. fxe5
+Ng4 9. Bf4 Bg7 10. Nf3 Qa5 11. Qd5 Qb4 12. Qd2 Nc6 13. O-O-O O-O 14. Re1 Rd8
+15. Bd3 Nf2 16. Qxf2 Qxf4+ 17. Kb1 Nxe5 18. Qb6 Rd6 19. Qc7 Nxd3 20. cxd3 Bxc3
+21. Qxc3 Rxd3 0-1

@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1973.01.01"]
+[Round "11"]
+[White "Winslow, Elliott"]
+[Black "Noel, Richard W"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "c3c7aa2e"]
+[Epoch "Bishop"]
+[WhiteID "2002523"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O h6 10. Bh4 b5 11. e5 Bb7 12. Qh3 dxe5 13. Nxe6 fxe6 14. Qxe6+ Be7
+15. Bxb5 axb5 16. Nxb5 Qc6 17. Nd6+ Kd8 18. fxe5 Kc7 19. Kb1 Nd5 20. Bxe7 Rxa2
+21. c4 Qa4 22. Nb5+ Kc8 23. Ba3 Rxa3 24. bxa3 Nc3+ 25. Kc1 Nxd1 26. Rxd1 Rd8
+27. Rxd7 Rxd7 28. Qe8+ 1-0

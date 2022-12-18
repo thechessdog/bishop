@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Korelov, Alexander P"]
+[Black "Zernitsky, D."]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Opovcensky variation"]
+[HashCode "52735e9f"]
+[Epoch "Bishop"]
+[WhiteID "4103858"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2 c5 7. dxc5 Na6 8. cxd5
+Nxc5 9. Bc4 Bf5 10. O-O Rc8 11. Qe2 a6 12. b4 Nce4 13. Rac1 Bg4 14. Rfd1 Qd7
+15. Be1 Ng5 16. Nb1 Nfe4 17. h3 Bxf3 18. gxf3 Qxh3 0-1

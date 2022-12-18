@@ -1,0 +1,15 @@
+[Event "ACM Chicago"]
+[Site "ACM Chicago"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Chess 3 5"]
+[Black "Mr Turk"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti opening"]
+[HashCode "1d09f7db"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bg5 Nc6 5. Bxf6 gxf6 6. e3 a5 7. Bb5 f5 8.
+Bxc6+ bxc6 9. Ne5 c5 10. Qh5 1-0
+

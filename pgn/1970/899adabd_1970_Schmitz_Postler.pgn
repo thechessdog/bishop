@@ -1,0 +1,16 @@
+[Event "Freiberg ch19-DDR"]
+[Site "Freiberg ch19-DDR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schmitz, B."]
+[Black "Postler, R."]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "899adabd"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3
+Bxc3+ 8. Nxc3 d5 9. exd5 Nxd5 10. Nxd5 exd5 11. Bd3 O-O 12. O-O Qf6 1/2-1/2
+

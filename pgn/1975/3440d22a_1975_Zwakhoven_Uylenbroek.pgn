@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Zwakhoven"]
+[Black "Uylenbroek"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "3440d22a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 h6 8.
+O-O Be7 9. Be3 Nbd7 10. Nd2 b5 11. b4 Bb7 12. f3 Rc8 13. Nxb5 axb5 14. Bxb5
+O-O 15. c4 Ne8 16. Bxd7 Qxd7 17. Qb3 Nc7 18. b5 Kh8 19. a4 f5 20. Qd3 f4
+21. Bf2 Qe8 22. a5 Ra8 23. Bb6 Ne6 24. a6 Bc8 25. Qd5 Bd7 26. Rfb1 Qg6 27.
+Qd3 Kh7 28. Bf2 Nc5 29. Bxc5 Bh3 30. Qe2 dxc5 31. Ra2 Rf6 32. Nb3 Rb6 33.
+Rd1 Bc8 34. Rd5 Bxa6 35. Nxc5 Bb7 36. Nxb7 Rxa2 37. Qxa2 Rxb7 38. Qa5 Bf6
+39. c5 Qf7 40. b6 Qe8 41. Kf2 Qb8 42. Ke2 Be7 43. Qc3 Bxc5 44. Rxc5 Rxb6
+45. Qxe5 Rb2+ 46. Kd3 Qb3+ 47. Rc3 Qd1+ 48. Kc4 Qa4+ 49. Kd3 Qa6+ 50. Rc4
+Rb3+ 51. Kd4 Qa1+ 0-1
+

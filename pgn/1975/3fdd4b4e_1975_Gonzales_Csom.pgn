@@ -1,0 +1,20 @@
+[Event "Olot"]
+[Site "Olot"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gonzalez, JA."]
+[Black "Csom, Istvan"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "3fdd4b4e"]
+[Epoch "Bishop"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+
+1. g3 g6 2. Bg2 Bg7 3. c4 Nf6 4. b3 d5 5. Bb2 c6 6. Nf3 O-O 7. O-O a5 8. cxd5
+Qxd5 9. Ne5 Qd8 10. a3 Be6 11. Qc2 Ne8 12. Nd3 Qb6 13. Bxg7 Nxg7 14. Nc5 Na6
+15. Nxe6 Nxe6 16. Nc3 Nd4 17. Qe4 Rad8 18. Rab1 Nc5 19. Qxe7 Rfe8 20. Qh4 Nxe2+
+21. Nxe2 Rxe2 22. b4 Ne6 23. bxa5 Qa7 24. Qe7 Rdxd2 25. Rb6 Qxa5 26. Rxb7 Nd8
+27. Qc7 Nxb7 28. Qxb7 Qc5 29. Qb8+ Kg7 30. Qf4 Rc2 31. h4 h5 32. g4 hxg4 33. h5
+gxh5 34. Kh1 Rxf2 0-1

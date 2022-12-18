@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Potolea"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "47843803"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 d6 7. Nf7 Qf8 8.
+Nxh8 Bxf2+ 9. Kxf2 Nxe4+ 10. Ke3 Qf4+ 11. Kd3 Nb4+ 12. Kc4 Nxd2+ 13. Kb5 a6+
+14. Ka5 b6+ 15. Ka4 Nxc2+ 16. b4 Qxb4# 0-1

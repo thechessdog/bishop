@@ -1,0 +1,17 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Svendsen"]
+[Black "Christensen, NJ."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "480af27d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nf6 5. Nc3 Nc6 6. Bb5 Bd7 7. Bxc6
+Bxc6 8. Bg5 Be7 9. O-O-O h6 10. Bh4 Qd7 11. Rhe1 Qg4 12. Bg3 b6 13. h3 Qe6
+14. e5 Nh5 15. exd6 Qg6 16. dxe7 f6 17. Re6 Bxf3 18. Qd7+ Kf7 19. e8=Q# 1-0
+

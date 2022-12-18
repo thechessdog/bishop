@@ -1,0 +1,16 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "12"]
+[White "Feller, Joseph"]
+[Black "Price, C."]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, Botvinnik variation"]
+[HashCode "e61185eb"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6 7. Ne2 Ba6 8. Bc2
+Nc6 9. Nf3 cxd4 10. cxd4 Rc8 11. a3 Qc7 12. Bd3 Bxd3 13. Qxd3 Be7 14. O-O O-O
+15. Bg5 1/2-1/2

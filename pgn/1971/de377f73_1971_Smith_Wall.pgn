@@ -1,0 +1,16 @@
+[Event "California"]
+[Site "California"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Smith, Daniel"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "de377f73"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. Nxe5 Nxe4 6. Qe1 Nxe5 7. Qxe4 Qe7
+8. d4 Nc6 9. Qg4 Bb6 10. Qxg7 Bxd4 11. Qg3 h6 12. Qxc7 Be5 0-1

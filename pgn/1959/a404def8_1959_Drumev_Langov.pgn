@@ -1,0 +1,23 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Drumev"]
+[Black "Langov"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a404def8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Be2 e6
+8. Nc3 Qd7 9. O-O Nf6 10. h3 Bh5 11. Be3 Bd6 12. Nd2 Bxe2 13. Qxe2 O-O 14.
+Nde4 Nxe4 15. Nxe4 Ne7 16. Nc5 Qc6 17. Rac1 Qd5 18. Qc4 b6 19. Qxd5 Nxd5
+20. Ne4 Be7 21. Nc3 Rfc8 22. Nxd5 exd5 23. Rfd1 Kf8 24. Kf1 Ke8 25. Ke2 Kd7
+26. Kd3 b5 27. Bd2 Rxc1 28. Rxc1 Bd6 29. a3 Rc8 30. Re1 Re8 31. Re3 Rxe3+
+32. fxe3 f5 33. Ke2 Ke6 34. Kf3 g6 35. g4 fxg4+ 36. hxg4 h5 37. Be1 Be7 38.
+gxh5 gxh5 39. Kf4 Bd6+ 40. Kg5 Bh2 41. Bf2 a5 42. Kg6 a4 43. Kg5 Bd6 44.
+Be1 h4 45. Bxh4 b4 46. axb4 Bxb4 47. Kf4 Bc3 48. e4 Bxb2 49. exd5+ Kd7 50.
+Ke3 a3 0-1
+

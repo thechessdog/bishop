@@ -1,0 +1,18 @@
+[Event "corr USSR-GER"]
+[Site "corr USSR-GER"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Zelinka, F."]
+[Black "Gavrilov, K."]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "af5948b7"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Nxe4 dxe4 6. Qd2 Bg7 7. O-O-O a5
+8. Bh6 Bf6 9. f3 exf3 10. exf3 Nc6 11. Ne2 e5 12. Qe3 Qe7 13. d5 Nb4 14.
+Nc3 Bd7 15. Ne4 O-O-O 16. Qa7 Nxa2+ 17. Kb1 Bf5 18. Kxa2 Bxe4 19. fxe4 g5
+20. c5 Kd7 21. Bb5+ c6 22. Bxc6+ Kc8 23. Qa8+ Kc7 24. Qxb7# 1-0
+

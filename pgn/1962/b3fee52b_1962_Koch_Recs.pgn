@@ -1,0 +1,19 @@
+[Event "DR/SzB"]
+[Site "DR/SzB"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Koch"]
+[Black "Recs"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "b3fee52b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Bxc3
+8. bxc3 Qc7 9. Nb5 Qxe5+ 10. Be2 a6 11. f4 Qf6 12. Nd6+ Ke7 13. Ne4 Qg6 14.
+Bf3 Nf6 15. Ng3 h5 16. f5 exf5 17. O-O Kf8 18. Bf4 Kg8 19. Bxb8 Rxb8 20.
+Qd6 Ra8 21. Rab1 Kh7 22. Nxf5 Re8 23. Ne7 Qxc2 24. Rbe1 Qxc3 25. Re5 a5 26.
+Be4+ Kh8 27. Rxf6 1-0
+

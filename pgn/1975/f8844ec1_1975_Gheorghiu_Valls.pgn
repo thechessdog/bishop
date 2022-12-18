@@ -1,0 +1,18 @@
+[Event "France"]
+[Site "France"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gheorghiu, Florin"]
+[Black "Valls"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "f8844ec1"]
+[Epoch "Bishop"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Nbd7 9. O-O-O h6 10. Bh4 g5 11. fxg5 Ne5 12. gxf6 Nxf3 13. fxe7 Qa5 14. Nxf3
+1-0

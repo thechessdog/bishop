@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schiller, Eric"]
+[Black "Heeley"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "0020b0da"]
+[Epoch "Bishop"]
+[WhiteID "2002973"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. Nc3 Nc6 3. d4 Qh4 4. g3 Qe7 5. Be3 b6 6. d5 exd5 7. exd5 Na5 8. Qe2
+Bb7 9. Bf4 Qxe2+ 10. Ngxe2 O-O-O 11. Bg2 Nc4 12. O-O-O Nh6 13. Rd4 Na5 14. b4
+Bxd5 15. Rxd5 Ng4 16. bxa5 bxa5 17. Rxa5 Nxf2 18. Rxa7 Nxh1 19. Ra8# 1-0

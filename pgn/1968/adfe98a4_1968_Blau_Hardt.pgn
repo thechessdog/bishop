@@ -1,0 +1,16 @@
+[Event "Lugano olm"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Blau, Max"]
+[Black "Hardt, G."]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "adfe98a4"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 b6 6. Bf3 c6 7. h5 h6 8. hxg6
+fxg6 9. Be3 Nbd7 10. e5 dxe5 11. Bxc6 Rb8 12. dxe5 1-0

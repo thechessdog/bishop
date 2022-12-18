@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Rakic, Tomislav"]
+[Black "Notaros, Krasoje"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "15f04777"]
+[Epoch "Bishop"]
+[WhiteID "900842"]
+[WhiteCountry "SRB"]
+[BlackID "901636"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 g6 7. Bg2 Bg7 8. O-O
+O-O 9. h3 Nbd7 10. a4 Rb8 11. Be3 Qc7 12. f4 b6 13. e5 dxe5 14. Nc6 exf4 15.
+Rxf4 Nh5 16. Nd5 Qb7 17. Rc4 b5 18. Ncxe7+ Kh8 19. Rc7 1-0

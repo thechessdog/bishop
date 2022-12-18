@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Harald, O."]
+[Black "Kruetzfeldt, HA."]
+[Result "1-0"]
+[ECO "D50"]
+[Opening "QGD"]
+[Variation "Canal (Venice) variation"]
+[HashCode "1dc1cfbf"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 d5 4. Bg5 c5 5. cxd5 Qb6 6. dxe6 cxd4 7. exf7+
+Kxf7 8. Na4 Qa5+ 9. Bd2 Bb4 10. Qb3+ Nd5 11. Bxb4 Qxb4+ 12. Qxb4 Nxb4 13.
+Kd2 Bd7 14. Nc5 Rc8 15. Nxd7 Nxd7 16. a3 Nc5 17. Rb1 Nb3+ 18. Ke1 Rc2 19.
+axb4 Rac8 20. f3 1-0
+

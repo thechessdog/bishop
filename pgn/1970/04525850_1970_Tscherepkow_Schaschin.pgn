@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Tscherepkow"]
+[Black "Schaschin"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "04525850"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. e4 O-O 6. Nc3 c5 7. d5 e5 8. Nge2
+Nh5 9. O-O f5 10. exf5 gxf5 11. f4 e4 12. Be3 Nf6 13. h3 Na6 14. a3 b6 15.
+Rb1 Bd7 16. b4 Qe7 17. Qb3 h5 18. Nb5 Kh7 19. bxc5 dxc5 20. Rbd1 Rfd8 21.
+Nec3 Be8 22. Qc2 Qf7 23. Kh1 Bf8 24. Rg1 Nc7 25. Nxc7 Qxc7 26. Bf1 Qg7 27.
+Rd2 Bd7 28. Rh2 Qg6 29. Be2 Bh6 30. Nd1 Rg8 31. Nf2 Raf8 32. g4 fxg4 33.
+hxg4 Bf5 34. g5 Rg7 35. Qd1 Rfg8 36. Bxh5 Nxh5 37. Qxh5 1-0
+

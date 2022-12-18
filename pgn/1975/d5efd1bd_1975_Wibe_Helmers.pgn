@@ -1,0 +1,22 @@
+[Event "Norway ch"]
+[Site "Norway ch"]
+[Date "1975.01.01"]
+[Round "5"]
+[White "Wibe, Terje"]
+[Black "Helmers, Knut J"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "d5efd1bd"]
+[Epoch "Bishop"]
+[WhiteID "1500236"]
+[WhiteCountry "NOR"]
+[BlackID "1500023"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+O-O 9. Be2 c5 10. O-O cxd4 11. exd4 Nc6 12. c5 Bxe2 13. Nxe2 bxc5 14. dxc5 d4
+15. b4 e5 16. b5 Ne7 17. a4 Nf5 18. Ng3 Nxg3 19. hxg3 Qd5 20. c6 e4 21. Ba3
+Rfe8 22. Rc1 e3 23. fxe3 Rxe3 24. c7 Qd7 25. a5 Rxa3 26. b6 axb6 27. axb6 Ne8
+28. Re1 Rxg3 29. b7 Rxg2+ 30. Kxg2 Qd5+ 31. Qf3 Ra2+ 32. Kg1 1-0

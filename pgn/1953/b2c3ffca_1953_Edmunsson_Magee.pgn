@@ -1,0 +1,17 @@
+[Event "Nebraska"]
+[Site "Nebraska"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Edmunsson"]
+[Black "Magee"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "b2c3ffca"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bxb5 Qxd5 7. Bxc6+
+Qxc6 8. O-O Bb7 9. Qf3 e4 10. Qb3 O-O-O 11. Qh3+ Kb8 12. Nxf7 Rd5 13. Nxh8
+Rh5 14. Qc3 Bc5 15. Kh1 e3 16. f3 Ng4 17. d4 Rxh2+ 18. Kg1 Rh1+ 0-1
+

@@ -1,0 +1,23 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Cvetkovic, Srdjan"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "ff9ca029"]
+[Epoch "Bishop"]
+[BlackID "900621"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. a4
+Nc6 9. Be3 Nde5 10. Be2 Bd7 11. Qd2 Rc8 12. O-O-O Na5 13. Qe1 Nec4 14. Bxc4
+Nxc4 15. b3 Nxe3 16. Qxe3 Be7 17. h4 Qc7 18. Kb2 Qc5 19. Qd3 O-O 20. f4 Rc7 21.
+Rd2 Rfc8 22. Nb1 d5 23. exd5 Qxd5 24. Rc1 b5 25. axb5 axb5 26. Nf3 Qa8 27. Ne5
+Ra7 28. Re1 Ra1 29. c4 Qa2+ 30. Kc3 b4+ 31. Kd4 Bc5+ 32. Ke4 Qa8+ 33. Qd5 exd5+
+34. cxd5 Re8 35. Rc1 Bd6 36. Kf3 Bxe5 37. fxe5 Rxe5 38. Rcd1 Rxd5 39. Rxd5 Rxb1
+40. Rxb1 Qxd5+ 41. Ke3 0-1

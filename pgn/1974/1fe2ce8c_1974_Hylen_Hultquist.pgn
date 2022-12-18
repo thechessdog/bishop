@@ -1,0 +1,17 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hylen, Mats"]
+[Black "Hultquist, Torsten"]
+[Result "1/2-1/2"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "1fe2ce8c"]
+[Epoch "Bishop"]
+
+1. f4 d5 2. Nf3 Nf6 3. b3 d4 4. Bb2 c5 5. e3 dxe3 6. Bb5+ Bd7 7. Bxd7+ Qxd7
+8. dxe3 Qxd1+ 9. Kxd1 Nd5 10. Ke2 Nc6 11. Nc3 Nxc3+ 12. Bxc3 f6 13. g4 e6
+14. g5 Be7 15. Rhg1 Kf7 16. Rad1 Rad8 17. h4 Rxd1 18. Kxd1 Rd8+ 19. Ke2 h6
+20. gxh6 gxh6 21. h5 Rg8 1/2-1/2
+

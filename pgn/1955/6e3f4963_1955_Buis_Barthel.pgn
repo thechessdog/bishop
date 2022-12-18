@@ -1,0 +1,15 @@
+[Event "Haarlem"]
+[Site "Haarlem"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Buis, W."]
+[Black "Barthel"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "6e3f4963"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Nxe4 Qxd4 5. Bd3 Nc6 6. f4 exf4 7. Nf3 Qb6
+8. Bxf4 Qxb2 9. Qe2 Qxa1+ 10. Kd2 Qxh1 11. Nd6+ Kd7 12. Qe8# 1-0
+

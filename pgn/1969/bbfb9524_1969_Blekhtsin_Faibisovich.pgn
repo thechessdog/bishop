@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Blechzin, Igor"]
+[Black "Faibisovich, Vadim Z"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "bbfb9524"]
+[Epoch "Bishop"]
+[BlackID "4102703"]
+[BlackCountry "RUS"]
+
+1. g3 g6 2. Bg2 Bg7 3. Nf3 c5 4. O-O Nc6 5. c4 e6 6. Nc3 Nge7 7. d3 O-O 8. Bd2
+d5 9. b3 b6 10. Qc1 Re8 11. a3 Bb7 12. Rb1 Rc8 13. Na4 Qd7 14. Bc3 Nd4 15. Qb2
+Nef5 16. Rfe1 Nxf3+ 17. Bxf3 d4 18. Bxb7 Qxb7 19. Bd2 e5 20. f3 Qd7 21. Qc2
+Nxg3 22. hxg3 Qh3 23. Rec1 Qxg3+ 24. Kf1 e4 25. dxe4 d3 26. Qxd3 Rcd8 27. Qxd8
+Rxd8 28. Be3 Be5 0-1

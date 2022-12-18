@@ -1,0 +1,25 @@
+[Event "Quito"]
+[Site "Quito"]
+[Date "1975.01.01"]
+[Round "6"]
+[White "Garces, Napoleon"]
+[Black "De Greiff, Boris"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "9ac3d1cb"]
+[Epoch "Bishop"]
+[WhiteID "3600130"]
+[WhiteCountry "ECU"]
+[BlackCountry "COL"]
+
+1. e4 Nc6 2. Nf3 g6 3. d4 d6 4. c4 Bg7 5. Nc3 Bg4 6. Be3 e5 7. d5 Nd4 8. Be2
+Bxf3 9. gxf3 c5 10. f4 f5 11. fxe5 Bxe5 12. exf5 Nxf5 13. Qa4+ Kf8 14. O-O-O
+Nxe3 15. fxe3 Bxc3 16. bxc3 Nf6 17. h4 Qe8 18. Qc2 Qxe3+ 19. Kb2 Re8 20. Rh2
+Re5 21. Rf1 Ke7 22. Rhf2 Rf8 23. h5 Nd7 24. Rh2 Qg3 25. Bd3 Rxf1 26. Bxf1 Rxh5
+27. Rxh5 gxh5 28. Qxh7+ Kd8 29. Qxh5 Qf2+ 30. Be2 Ne5 31. Kb3 Qf6 32. Qh7 Qe7
+33. Qg8+ Kc7 34. Bg4 Qd8 35. Qh7+ Kb6 36. Be2 a6 37. a4 Ka7 38. Ka3 Qa5 39. Qc2
+Qd8 40. Qh7 Qa5 41. Qc2 Qd8 42. Qb1 Qh8 43. Qe1 Qh6 44. Qd1 Qe3 45. Kb3 Kb6 46.
+Kc2 Ka5 47. Kb3 Qe4 48. Qf1 Nd7 49. Bd3 Qe3 50. Qd1 Nb6 51. Bf1 Qe8 52. Qa1
+Qxa4+ 53. Qxa4+ Nxa4 54. Bh3 Nb6 55. Be6 Na8 0-1

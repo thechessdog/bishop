@@ -1,0 +1,22 @@
+[Event "Athens"]
+[Site "Athens"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kokkoris, Hristos"]
+[Black "Ciocaltea, Victor"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "5dd50fd2"]
+[Epoch "Bishop"]
+[WhiteID "4200179"]
+[WhiteCountry "GRE"]
+[BlackCountry "ROU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 b5 7. Bf1 Nxd5 8.
+Ne4 Qh4 9. Ng3 Bb7 10. cxd4 O-O-O 11. d3 Nf4 12. Bxf4 exf4 13. Qh5 Qxh5 14.
+Nxh5 Rxd4 15. Nc3 f5 16. O-O-O f3 17. g3 b4 18. Nb1 g6 19. Nf4 Bh6 20. Nd2 g5
+21. Ne6 Rd5 22. Nb3 Re8 23. Nec5 g4+ 24. Kb1 Ba8 25. d4 a5 26. Bb5 Re7 27. Rhe1
+Rxe1 28. Rxe1 Rd8 29. Nxa5 Bd5 30. Bc6 Bd2 31. Re5 b3 32. Bxd5 Bxa5 33. Be6+
+Kb8 34. Nd7+ 1-0

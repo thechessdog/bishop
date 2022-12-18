@@ -1,0 +1,23 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "10"]
+[White "Kinnmark, Ove"]
+[Black "Geller, Uzi"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, Botvinnik variation"]
+[HashCode "4521c742"]
+[Epoch "Bishop"]
+[BlackID "2800489"]
+[BlackCountry "ISR"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6 7. Ne2 Ba6 8. Bxa6
+Nxa6 9. O-O Nc7 10. f4 f5 11. Nf3 Be7 12. Be3 c4 13. h3 h5 14. Qe1 Nf8 15. Qg3
+Kf7 16. Qe1 Ng6 17. Qb1 h4 18. Kh2 b5 19. Rg1 Qd7 20. Qe1 a5 21. Qf2 b4 22. g4
+hxg3+ 23. Rxg3 Rh6 24. Rag1 Rah8 25. Qg2 Qe8 26. Bf2 Qa4 27. Be3 Qxa2 28. Bc1
+Qb1 29. Nd2 Qc2 30. Qf1 Bh4 31. Re3 b3 32. Rg2 a4 33. Nxc4 dxc4 34. Ng3 Bxg3+
+35. Rxg3 Qb1 36. Qxc4 Nd5 37. Bd2 Qe4 38. Qxa4 Rxh3+ 39. Rxh3 Rxh3+ 40. Kg1
+Qb1+ 0-1

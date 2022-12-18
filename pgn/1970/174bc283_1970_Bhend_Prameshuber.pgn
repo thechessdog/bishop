@@ -1,0 +1,17 @@
+[Event "Lugano II"]
+[Site "Lugano II"]
+[Date "1970.03.01"]
+[Round "1"]
+[White "Bhend, Edwin"]
+[Black "Prameshuber, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Neo-orthodox variation, 7.Bxf6"]
+[HashCode "174bc283"]
+[Epoch "Bishop"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bxf6 Bxf6 8. Qd2
+c5 9. O-O-O cxd4 10. exd4 Nc6 11. h4 h5 12. Qf4 Qa5 13. Kb1 dxc4 14. Ne4 Be7
+15. Bxc4 b5 16. Bb3 Nb4 17. Nc3 Bb7 18. d5 exd5 19. Nxd5 Bxd5 20. Bxd5 1/2-1/2

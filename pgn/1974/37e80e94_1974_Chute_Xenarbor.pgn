@@ -1,0 +1,21 @@
+[Event "ACM San Diego"]
+[Site "ACM San Diego"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Chute 1"]
+[Black "Xenarbor"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "37e80e94"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. c4 Nc6 3. Nf3 e5 4. d3 Nf6 5. Be2 Be7 6. O-O O-O 7. b3 d6 8.
+Bb2 Be6 9. Ng5 Bd7 10. Nd2 h6 11. Ngf3 Be6 12. Bc3 Qb6 13. Rb1 Qa6 14. a4
+Rac8 15. Ra1 b6 16. Qe1 Rfd8 17. Qd1 Rf8 18. Rb1 Rfd8 19. Re1 Rf8 20. Kf1
+Rfd8 21. b4 Qb7 22. bxc5 dxc5 23. Bxe5 Nd7 24. Bc3 Qa6 25. Bb2 Rf8 26. Bc3
+Rfd8 27. e5 Rf8 28. Ne4 Rcd8 29. Rc1 Ra8 30. Qc2 Rad8 31. Bd1 Ra8 32. Re2
+Rad8 33. Qd2 Ra8 34. Ke1 Rad8 35. Qe3 Qc8 36. Nd6 Qa8 37. Kd2 a5 38. Qe4 g6
+39. Re3 Kg7 40. Bb2 f5 41. exf6+ Bxf6 42. d4 Bg8 43. Bc2 Ndb8 44. Qxg6+ Kh8
+45. Qxh6+ Bh7 46. Qxh7# 1-0
+

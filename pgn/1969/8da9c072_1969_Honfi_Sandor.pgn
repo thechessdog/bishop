@@ -1,0 +1,19 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1969.01.01"]
+[Round "7"]
+[White "Honfi, Karoly"]
+[Black "Sandor, Bela"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "8da9c072"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nd7 5. Nf3 a6 6. Bc4 e6 7. a4 Ne7 8. O-O O-O
+9. Be3 d5 10. Bd3 dxe4 11. Nxe4 Nf5 12. Bf2 Nb6 13. c3 Nd5 14. Qd2 b6 15. g4
+Nd6 16. Bh4 Nxe4 17. Bxe4 Qd6 18. Ne5 f5 19. gxf5 gxf5 20. Bf3 Ra7 21. Kh1 Bb7
+22. Rg1 Ba8 23. Rxg7+ Kxg7 24. Qg2+ Kh8 25. Rg1 c5 26. c4 1-0

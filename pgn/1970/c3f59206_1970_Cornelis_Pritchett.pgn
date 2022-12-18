@@ -1,0 +1,22 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Cornelis, Frans B"]
+[Black "Pritchett, Craig W"]
+[Result "1-0"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "c3f59206"]
+[Epoch "Bishop"]
+[BlackID "2400065"]
+[BlackCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 O-O 8. d4
+b5 9. Bc2 Re8 10. h3 Bb7 11. Nbd2 Bf8 12. d5 Nb8 13. b3 c6 14. c4 Nbd7 15. Nf1
+bxc4 16. bxc4 Nc5 17. Ng3 cxd5 18. cxd5 g6 19. h4 Bc8 20. Nh2 h5 21. Ngf1 Ng4
+22. Nxg4 Bxg4 23. f3 Bd7 24. g3 Kh7 25. Kh2 Bh6 26. Bxh6 Kxh6 27. Qd2+ Kh7 28.
+Rab1 Rg8 29. f4 f6 30. Rb2 Ra7 31. Qe3 Bb5 32. Nd2 g5 33. hxg5 exf4 34. gxf4
+fxg5 35. e5+ Kh8 36. f5 dxe5 37. Qxc5 g4 38. Qe3 Qh4+ 39. Kg1 g3 40. Nf3 Qg4
+41. Nxe5 Qh3 42. Qh6+ Rh7 43. Nf7# 1-0

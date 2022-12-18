@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Hausknecht, L."]
+[Black "Halasz"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "28e0d470"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. d4 e4 5. Ne5 Nf6 6. Bb5+ Bd7 7. Nxd7
+Nbxd7 8. Bg5 O-O 9. Bxd7 Qxd7 10. Bxf6 gxf6 11. O-O Kh8 12. Nc3 Rae8 13.
+Qh5 Rg8 14. Rae1 Rg5 15. Qe2 Reg8 16. Qxe4 Qh3 17. g3 Bxg3 18. fxg3 Rxg3+
+19. Kh1 Re3 0-1
+

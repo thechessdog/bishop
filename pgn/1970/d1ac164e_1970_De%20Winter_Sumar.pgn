@@ -1,0 +1,22 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "11"]
+[White "De Winter, Willy"]
+[Black "Sumar, Julio"]
+[Result "0-1"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "d1ac164e"]
+[Epoch "Bishop"]
+[BlackID "3800369"]
+[BlackCountry "PER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. O-O d6 8. Re1
+Nbd7 9. e4 e5 10. b3 Re8 11. d5 a5 12. Nh4 g6 13. Bh6 Nc5 14. h3 Bc8 15. Kh2
+Bd7 16. Qd2 Nh5 17. Nf3 f5 18. Ng5 Bf8 19. Bxf8 Rxf8 20. exf5 gxf5 21. Ne6 Nxe6
+22. dxe6 Bxe6 23. Bxa8 Qxa8 24. Nd5 Qd8 25. Rad1 Kh8 26. Qh6 Ng7 27. Rd2 Bg8
+28. f4 e4 29. g4 Bxd5 30. Rxd5 Rf6 31. Qh4 c6 32. g5 Rg6 33. Rd2 d5 34. cxd5
+cxd5 35. Red1 Rd6 36. Qh6 Rxh6 37. gxh6 Ne6 38. Rxd5 Qc7 39. Rd6 Kg8 40. Kg3
+Qc3+ 41. Kh2 Qf3 42. Rg1+ Kf7 0-1

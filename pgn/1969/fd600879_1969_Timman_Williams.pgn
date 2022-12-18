@@ -1,0 +1,20 @@
+[Event "Zutphen"]
+[Site "Zutphen"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Williams"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[HashCode "fd600879"]
+[Epoch "Bishop"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. c4 Nb6 6. exd6 cxd6 7. h3 Bg7 8. Nc3
+O-O 9. Be2 Nc6 10. O-O Bf5 11. Be3 d5 12. c5 Nc4 13. Bxc4 dxc4 14. Qa4 Bd3 15.
+Rfd1 e5 16. d5 Nd4 17. Ne1 h5 18. Nb5 Nxb5 19. Qxb5 Rb8 20. Qa4 e4 21. Nxd3
+cxd3 22. Qc4 Bxb2 23. Rab1 Re8 24. d6 a5 25. c6 Qxd6 26. c7 Rbc8 27. Rxb2 Rxc7
+28. Qa4 1-0

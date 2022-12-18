@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Tolush, Alexander"]
+[Black "Usov, A."]
+[Result "1-0"]
+[ECO "E78"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, with Be2 and Nf3"]
+[HashCode "4d4c84df"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. Be2 cxd4 8. Nxd4
+Nc6 9. Nc2 Be6 10. O-O Rc8 11. f5 Bd7 12. g4 Ne5 13. g5 Ne8 14. Nd5 Nxc4 15. f6
+exf6 16. gxf6 Bxf6 17. Rxf6 Nxf6 18. Bg5 Rc5 19. Bxc4 Rxd5 20. Bxd5 Qb6+ 21.
+Qd4 1-0

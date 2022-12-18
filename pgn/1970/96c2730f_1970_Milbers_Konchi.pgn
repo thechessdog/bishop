@@ -1,0 +1,22 @@
+[Event "Siegen olm"]
+[Site "Siegen"]
+[Date "1970.??.??"]
+[Round "19"]
+[White "Milbers, Paul"]
+[Black "Konchi"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "96c2730f"]
+[Epoch "Bishop"]
+[WhiteID "4000110"]
+[WhiteCountry "LUX"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nb3 Bb4 7. Bd2 d6 8. Bd3
+Nbd7 9. a3 Bxc3 10. Bxc3 d5 11. exd5 Nxd5 12. Qd2 Nxc3 13. Qxc3 O-O 14. O-O-O
+Qg5+ 15. Kb1 Qxg2 16. f4 Qc6 17. Qe1 exf4 18. Rg1 Nc5 19. Nxc5 Qxc5 20. Qh4 g6
+21. Qxf4 Rd8 22. Rdf1 Be6 23. h4 Rac8 24. Be4 Rd4 25. Qf3 Qc4 26. b3 Qc5 27. h5
+Rxe4 28. Qxe4 Qxh5 29. Qd3 Qc5 30. Kb2 Qe5+ 31. c3 Qh2+ 32. Qc2 Qxc2+ 33. Kxc2
+h5 34. Re1 Kg7 35. Re5 h4 36. a4 Kf6 37. Re2 g5 38. b4 h3 39. b5 axb5 40. axb5
+Rc5 0-1

@@ -1,0 +1,18 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Dahl, H."]
+[Black "Gruenke, G."]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "ac6882cf"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ Nbd7 6. O-O Nxd5 7. c4
+Nb6 8. Re1+ Be7 9. c5 c6 10. cxb6 Qxb6+ 11. d4 Qxb5 12. Nc3 Qc4 13. Bxf4
+Kd8 14. Qd2 Bb4 15. Ng5 Nf6 16. d5 Qc5+ 17. Kh1 Bxc3 18. bxc3 Rf8 19. dxc6+
+Nd5 20. c7+ Kd7 21. c4 Qxc4 22. Rad1 1-0
+

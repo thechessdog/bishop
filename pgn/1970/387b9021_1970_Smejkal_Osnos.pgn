@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Smejkal, Jan"]
+[Black "Osnos, Vyacheslav"]
+[Result "1-0"]
+[ECO "A26"]
+[Opening "English"]
+[Variation "Botvinnik system"]
+[HashCode "387b9021"]
+[Epoch "Bishop"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+[BlackCountry "RUS"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. e4 Nd4 7. Nge2 c5 8. Nxd4
+cxd4 9. Nd5 Be6 10. Qa4+ Bd7 11. Qa3 Bc6 12. O-O Nf6 13. f4 Ng4 14. Bh3 Bxd5
+15. cxd5 Ne3 16. Bxe3 dxe3 17. Qa4+ Kf8 18. fxe5 Bxe5 19. Be6 Bf6 20. Rxf6 Qxf6
+21. Rf1 Qxf1+ 22. Kxf1 fxe6 23. dxe6 Rd8 24. d4 Kg7 25. d5 1-0

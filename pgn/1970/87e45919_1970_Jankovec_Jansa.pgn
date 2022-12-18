@@ -1,0 +1,19 @@
+[Event "Havirov"]
+[Site "Havirov"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Jankovec, Ivan"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "87e45919"]
+[Epoch "Bishop"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. Nf3 g6 2. g3 Bg7 3. d4 Nf6 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+c6 9. Be3 Ng4 10. Bg5 Qb6 11. h3 exd4 12. Na4 Qa6 13. hxg4 b5 14. Be7 Re8 15.
+Bxd6 bxa4 16. e5 Qxc4 17. Rc1 Qxa2 18. Nxd4 Ba6 19. Re1 1/2-1/2

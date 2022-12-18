@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Schulze, W."]
+[Black "Jonscher, P."]
+[Result "0-1"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "304f2f8b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. c4 c6 12. c5 Qc7 13. cxd6 Bxd6 14. Bg5
+exd4 15. Nxd4 Be5 16. f4 Bxf4 17. Bxf4 Qxf4 18. Nxc6 Re8 19. Nc3 Bb7 20.
+Nd5 Nxd5 21. Qxd5 Ne5 22. Rac1 Bxc6 23. Rxc6 Rad8 24. Qc5 Rd2 25. Rf1 Qg3
+0-1
+

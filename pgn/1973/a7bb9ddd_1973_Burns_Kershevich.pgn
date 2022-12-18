@@ -1,0 +1,17 @@
+[Event "Ohio Congress"]
+[Site "Ohio Congress"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Burns, Robert Jr"]
+[Black "Kershevich, Trevor"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "a7bb9ddd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Bd3 Nc6
+8. Qf4 Be7 9. Nc3 Be6 10. Be3 Qd7 11. O-O-O O-O-O 12. Bb5 Qe8 13. Bxa7 Nxb5
+14. Nxb5 Rxd1+ 15. Rxd1 Bd8 16. Qa4 Be7 17. Be3 Bd6 18. Rxd6 1-0
+

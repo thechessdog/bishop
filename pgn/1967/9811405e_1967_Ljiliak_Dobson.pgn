@@ -1,0 +1,18 @@
+[Event "corr Europe"]
+[Site "corr Europe"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Ljiliak"]
+[Black "Dobson"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "9811405e"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Nf5 8.
+Bd3 h5 9. Qf4 cxd4 10. Nf3 Nc6 11. cxd4 Qc7 12. O-O Na5 13. Re1 Nc4 14. h3
+Kf8 15. g4 hxg4 16. hxg4 Nh4 17. Nxh4 Rxh4 18. Qg3 Qe7 19. a4 Kg8 20. Kg2
+Bd7 21. Bf4 Rc8 22. g5 Rh8 23. Rh1 1-0
+

@@ -1,0 +1,23 @@
+[Event "Bucharest ch"]
+[Site "Bucharest ch"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Zetlin"]
+[Black "Erdelyi"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "d7eef508"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nc3 Nd7 5. e4 dxe4 6. Nxe4 Ngf6 7. Bg5 Qa5+
+8. Bd2 Qc7 9. Bd3 Nxe4 10. Bxe4 Nf6 11. Bc2 Be7 12. Bc3 b6 13. Qd3 Bb7 14.
+Ne5 Rd8 15. O-O-O g6 16. Rhe1 O-O 17. Qh3 Rfe8 18. Kb1 Bf8 19. g4 Qe7 20.
+f4 Nd7 21. Nf3 Bg7 22. Ng5 Nf8 23. Ne4 f6 24. c5 Qc7 25. Nd6 Rxd6 26. cxd6
+Qxd6 27. f5 Bc8 28. Bb3 Kh8 29. d5 e5 30. dxc6 Qxc6 31. Bf7 Re7 32. fxg6
+Qc7 33. Bb4 Rxf7 34. gxf7 Be6 35. Qa3 Qxf7 36. Rd8 Kg8 37. h3 a5 38. Bd6 f5
+39. Bxf8 Bxf8 40. Rxf8+ Qxf8 41. Qxf8+ Kxf8 42. Rxe5 Kf7 43. gxf5 Bd7 44.
+Rd5 Bc8 45. Kc1 Kf6 46. Rd6+ Kxf5 47. Rxb6 Kf4 48. b4 axb4 49. Rxb4+ Kf3
+50. h4 1-0
+

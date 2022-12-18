@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Hropov"]
+[Black "Korolev"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "a01712a6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 c5 5. O-O Nc6 6. e5 d5 7. exf6 dxc4
+0-1
+

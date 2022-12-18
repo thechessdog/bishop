@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Gutman, Lev"]
+[Black "Kholmov, Ratmir D"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "12c92dfa"]
+[Epoch "Bishop"]
+[WhiteID "4600177"]
+[WhiteCountry "GER"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d6 7. e4 e5 8. Bd3
+cxd4 9. cxd4 exd4 10. Ne2 Nc6 11. O-O Be6 12. Bg5 Rc8 13. f4 h6 14. Bh4 g5 15.
+fxg5 Ng4 16. Nf4 Nce5 17. Nxe6 fxe6 18. Be2 hxg5 19. Bxg4 Rxh4 20. Bxe6 Rc7 21.
+Qxd4 Ke7 22. Rf5 Rh6 23. Bd5 Qh8 24. Qd2 Nf3+ 25. gxf3 Qxa1+ 26. Kg2 Qh8 27.
+Rf7+ Ke8 28. Rxc7 Rxh2+ 29. Kg1 Rh1+ 30. Kf2 Qh2+ 31. Ke3 Qg1+ 32. Kd3 Qb1+ 33.
+Ke3 Qb3+ 34. Kd4 Rd1 35. Qxd1 Qxd1+ 36. Ke3 Qb3+ 37. Ke2 Qb2+ 38. Kf1 Qxa3 39.
+Kg2 b6 40. Kg3 a5 0-1

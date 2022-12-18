@@ -1,0 +1,27 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1969.03.01"]
+[Round "12"]
+[White "Janosevic, Dragoljub"]
+[Black "Vukic, Milan"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "78937e7c"]
+[Epoch "Bishop"]
+[BlackID "900273"]
+[BlackCountry "BIH"]
+[WhiteCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8. g3
+Nbd7 9. Bg2 Nb6 10. Nge2 Bf5 11. O-O Qd7 12. d6 exd6 13. a4 Be6 14. d5 Bh3 15.
+a5 Bxg2 16. Kxg2 Nc8 17. Bf4 Ne7 18. a6 Rfb8 19. Bxd6 Qxd6 20. axb7 Rxb7 21.
+Qxb7 Rb8 22. Qxa7 Rxb2 23. Ra2 Rb6 24. Rd1 h5 25. Qa3 Qd7 26. Qc5 Qb7 27. Kg1
+Nf5 28. Ra8+ Kh7 29. Qc8 Qe7 30. Qd8 Qb7 31. Rc8 Rd6 32. Qc7 Qa6 33. Qc4 Qa5
+34. Rc7 Kg8 35. Nb5 Rxd5 36. Rb1 Rd7 37. Rxd7 Nxd7 38. Ned4 Nxd4 39. Nxd4 Ne5
+40. Qb3 Kh7 41. Nf3 Nxf3+ 42. Qxf3 Qa2 43. Rb7 Kg8 44. Qe4 Qa1+ 45. Kg2 Qf6 46.
+Rb8+ Bf8 47. Qd5 Qe7 48. Rb7 Qf6 49. f4 h4 50. Rc7 hxg3 51. hxg3 Qb2+ 52. Kf3
+Qf6 53. Rc6 Qg7 54. Rc8 Qa1 55. Ke2 Qa6+ 56. Qc4 Qxc4+ 57. Rxc4 f5 58. Rc7 Bg7
+59. Kd3 Bf6 60. Kc4 Ba1 61. Kd5 Bb2 62. Ke6 Bd4 63. Rc2 Kg7 64. Rg2 Be3 65. g4
+fxg4 66. Rxg4 Kh6 67. Kf6 1-0

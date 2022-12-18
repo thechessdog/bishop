@@ -1,0 +1,19 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "19"]
+[White "Filipowicz, Andrzej"]
+[Black "Janetschek, Karl"]
+[Result "1/2-1/2"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "27ab1db4"]
+[Epoch "Bishop"]
+[WhiteID "1100491"]
+[WhiteCountry "POL"]
+[BlackID "1600257"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. a4
+Bb7 9. c3 d5 10. d3 Re8 11. axb5 axb5 12. Rxa8 Bxa8 13. Nbd2 1/2-1/2

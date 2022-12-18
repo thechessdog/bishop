@@ -1,0 +1,18 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Stepanov"]
+[Black "Lahtanov"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "83408f34"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3
+cxd4 8. Nxd4 Qa5+ 9. c3 Nxd4 10. Qxd4 e5 11. Qe4 Be7 12. Bd3 f5 13. Qc4 Bd6
+14. O-O e4 15. Bd4 exd3 16. Bxg7 Rf8 17. Rfe1+ Kd8 18. Bxf8 Bxf8 19. Qf7
+1-0
+

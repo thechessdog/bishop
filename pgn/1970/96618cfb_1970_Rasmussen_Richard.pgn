@@ -1,0 +1,16 @@
+[Event "Tacoma,WA"]
+[Site "Tacoma,WA"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Rasmussen, Ernst"]
+[Black "Richard, Robert"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "96618cfb"]
+[Epoch "Bishop"]
+[BlackID "2004410"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Nxe4 f5 5. Ng5 Be7 6. h4 Qxd4 7. Bd3 Nc6 8. c3
+Qg4 9. Be2 Qxg2 10. Bf3 1-0

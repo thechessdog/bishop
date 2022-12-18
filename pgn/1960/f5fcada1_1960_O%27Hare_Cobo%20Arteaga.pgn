@@ -1,0 +1,19 @@
+[Event "Leipzig olm prel"]
+[Site "Leipzig olm"]
+[Date "1960.10.01"]
+[Round "8"]
+[White "O'Hare, E."]
+[Black "Cobo Arteaga, Eldis"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "f5fcada1"]
+[Epoch "Bishop"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. Bf3 Ra7 13. Ne4 Qe5 14. Qd3 Rd7
+15. O-O-O gxf6 16. Qc3 Bh6+ 17. Kb1 O-O 18. Rhe1 Rfd8 19. Nxb5 Rxd1+ 20. Rxd1
+Rxd1+ 21. Bxd1 Qxc3 22. Nbxc3 f5 23. Nd6 Bd7 24. Be2 Bf4 25. Nb7 Bxh2 26. Nc5
+Bc6 27. Bf3 Bxf3 28. gxf3 h5 29. Kc1 h4 30. Kd1 h3 31. Nd3 Bg3 0-1

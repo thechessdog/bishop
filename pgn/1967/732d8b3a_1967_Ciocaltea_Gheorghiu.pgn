@@ -1,0 +1,20 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "732d8b3a"]
+[Epoch "Bishop"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. f4
+Bb7 9. f5 e5 10. Nde2 Be7 11. Ng3 Nbd7 12. Bg5 Rc8 13. Bxf6 Nxf6 14. O-O h5 15.
+Nd5 h4 16. Nxf6+ gxf6 17. Ne2 Bxe4 18. Bd5 Qb6+ 19. Kh1 Bxd5 20. Qxd5 Rxc2 21.
+Qd3 Qc6 22. Rac1 h3 0-1

@@ -1,0 +1,18 @@
+[Event "Reggio Emilia 6263"]
+[Site "Reggio Emilia"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Zichichi, Alvise"]
+[Black "Fleischmann, Claus"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical counter-gambit"]
+[HashCode "9dfe5e25"]
+[Epoch "Bishop"]
+[WhiteID "800481"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 f5 5. d4 fxe4 6. Nxe5 Bb6 7. Bc4 Nh6 8. Qh5+
+Kf8 9. f5 Qe8 10. Qxe8+ Kxe8 11. f6 gxf6 12. Bxh6 dxe5 13. Bg7 Rf8 14. Bxf8
+Kxf8 15. dxe5 f5 16. Rf1 Be3 17. Nd2 Nc6 18. Nxe4 1-0

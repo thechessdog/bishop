@@ -1,0 +1,21 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Engel, K."]
+[Black "Schuett, I."]
+[Result "1-0"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "728b659d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nd7 12. Nc4 Ne5 13. Ne3 Nc7 14. a4
+Rb8 15. f4 Nd7 16. Nc4 Bd4+ 17. Kh1 Nf6 18. e5 dxe5 19. d6 Ne6 20. fxe5 Nd7
+21. Nd5 f5 22. exf6 Nxf6 23. Nxf6+ Bxf6 24. Qd5 Bd7 25. Bg4 Kg7 26. Bd2 Bc6
+27. Qxe6 Rxe6 28. Bxe6 h5 29. Rae1 Kh7 30. Rf2 b5 31. Ref1 Bd4 32. Rf7+ Kh8
+33. axb5 Be4 34. d7 h4 35. Nd6 Bd3 36. Rf8+ Qxf8 37. Rxf8+ Rxf8 38. Nf7+
+Kh7 39. Bc3 1-0
+

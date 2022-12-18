@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Golombek, Harry"]
+[Black "Platz, Hans"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "693aea4d"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. cxd5
+Nxd5 9. Bg3 Nxc3 10. bxc3 c5 11. Bd3 Bb7 12. O-O Nd7 13. Qe2 Nf6 14. e4 Rc8 15.
+Rfd1 cxd4 16. cxd4 Rc3 17. Be5 Nd7 18. Bf4 Qa8 19. Ne5 Rd8 20. Nxd7 Rxd7 21. d5
+exd5 22. Be5 Rxd3 23. Rxd3 Bf8 24. exd5 Rxd5 25. Rxd5 Bxd5 26. Qg4 Bxa2 27.
+Rxa2 Qd5 28. Qe2 1-0

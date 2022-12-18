@@ -1,0 +1,21 @@
+[Event "Grossenbrode"]
+[Site "Grossenbrode"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hecht, Hans-Joachim"]
+[Black "Jansson, Borje"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, fianchetto variation"]
+[HashCode "330bb40e"]
+[Epoch "Bishop"]
+[WhiteID "4600320"]
+[WhiteCountry "DEU"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 g6 6. Nc3 Bg7 7. Be3 O-O 8. Nf3
+dxe5 9. fxe5 Bg4 10. h3 Bxf3 11. Qxf3 Nc6 12. O-O-O Na5 13. b3 c5 14. dxc5 Nd7
+15. e6 fxe6 16. Qe4 Nxb3+ 17. axb3 Qa5 18. Na4 Qb4 19. Kc2 Qa3 20. Rb1 Rad8 21.
+Be2 Nb8 22. Rhd1 Nc6 23. Rd2 Nb4+ 24. Kd1 Na2 25. Rxd8 Rxd8+ 26. Ke1 Rf8 27.
+Bf3 Nb4 28. Bd2 Nc6 29. Qxe6+ Kh8 30. Bxc6 bxc6 31. Ke2 Qa2 32. Rd1 Qxb3 33.
+Qxc6 Qxc4+ 0-1

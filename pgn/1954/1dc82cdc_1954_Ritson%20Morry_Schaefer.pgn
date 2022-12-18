@@ -1,0 +1,22 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Ritson Morry, W."]
+[Black "Schlaugat, Michael"]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "1dc82cdc"]
+[Epoch "Bishop"]
+[BlackID "4607503"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 Nc6 8. b4
+Be7 9. g3 b6 10. Bg2 Bb7 11. O-O Rc8 12. Qd3 Ng4 13. Bf4 e5 14. Qf5 exf4 15.
+Qxg4 fxg3 16. hxg3 a5 17. b5 Na7 18. Rad1 Bxa3 19. Nb1 f5 20. Qd4 Bb4 21. Qxd7
+Qc7 22. Qe6+ Qf7 23. Qxb6 Bc5 24. Qxa5 Qxc4 25. Ne5 Qe6 26. Nd7 Bxg2 27. Kxg2
+f4 28. Nxc5 Rxc5 29. Qxa7 Qe4+ 30. Kg1 Rh5 31. f3 Qxe2 32. Qf2 Qe6 33. g4 Rh3
+34. Qd4 Qh6 35. Qd5+ Kh8 36. Rd2 Qh4 37. Qh5 Rh1+ 38. Kg2 Rh2+ 39. Kg1 Qg3+ 40.
+Rg2 Qxg2# 0-1

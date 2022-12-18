@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Buskenstrom, Sven"]
+[Black "Nilsson, Zandor"]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "a11f0d54"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. e5 Nh5 8. Bb5+
+Bd7 9. e6 Bxb5 10. exf7+ Kxf7 11. Ndxb5 Nf6 12. O-O Qd7 13. Be3 Nc6 14. Qe2
+Rhf8 15. Rae1 Kg8 16. Kh1 Kh8 17. Bg1 Nh5 18. Nd5 e5 19. f5 Rxf5 20. Rxf5 Qxf5
+21. Nbc7 Qf7 22. Nxa8 Qxd5 23. Nc7 Qxa2 24. Qb5 h6 25. Qxb7 Qc4 26. Ne8 Qxc2
+27. Rf1 Qe4 28. Qxg7+ Nxg7 29. Rf8+ Kh7 30. Nf6# 1-0

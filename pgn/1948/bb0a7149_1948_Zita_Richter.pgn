@@ -1,0 +1,26 @@
+[Event "Karlovy Vary"]
+[Site "Karlovy Vary"]
+[Date "1948.06.01"]
+[Round "4"]
+[White "Zíta, František"]
+[Black "Richter, Emil"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "bb0a7149"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 d6 7. d4 Bd7 8. O-O
+O-O 9. Bc2 Qc8 10. Nbd2 Ne8 11. Nc4 f6 12. h3 g6 13. Bh6 Ng7 14. Ne3 Bd8 15.
+Rad1 Ne7 16. Rd2 Kh8 17. Rfd1 Bc6 18. Nh2 Ng8 19. Bxg7+ Kxg7 20. g4 Be7 21.
+Nhf1 Re8 22. Ng3 Bf8 23. h4 Kh8 24. h5 Bh6 25. hxg6 hxg6 26. f3 Re7 27. Kg2 Rh7
+28. Rh1 Qf8 29. Rdd1 Re8 30. Rh3 Ree7 31. Rdh1 Reg7 32. Bb3 Bf4 33. Bd5 Ne7 34.
+Bb3 Bb5 35. Qf2 Rxh3 36. Rxh3+ Rh7 37. Rxh7+ Kxh7 38. Ne2 Bg5 39. c4 Bd7 40.
+Nf1 b6 41. Bc2 c5 42. d5 b5 43. b3 Qd8 44. Qe1 Kg7 45. Bd3 Ng8 46. Ng1 Qb6 47.
+Nh3 Bh6 48. Qc3 Kf7 49. Nf2 Bg7 50. Ng3 Nh6 51. Qd2 Qd8 52. Nh3 Kf8 53. Nf2 Nf7
+54. Qe1 Bh6 55. Nf1 Ke7 56. Ne3 Bf4 57. Nf1 Qb6 58. Qc3 Kd8 59. Nd1 Kc7 60.
+Nfe3 Kb7 61. Be2 Qd8 62. Qe1 Ng5 63. a3 Qh8 64. Qh1 Qxh1+ 65. Kxh1 Kb6 66. Kg2
+b4 67. Nc2 bxa3 68. Nxa3 f5 69. gxf5 gxf5 70. Nf2 Be3 71. Bd3 Bxf2 72. Kxf2
+fxe4 73. fxe4 Bg4 74. Ke3 Ka5 0-1

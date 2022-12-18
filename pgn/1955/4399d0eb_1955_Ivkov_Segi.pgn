@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Ivkov, Borislav"]
+[Black "Segi, Lajos"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "4399d0eb"]
+[Epoch "Bishop"]
+[WhiteID "900141"]
+[WhiteCountry "SRB"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. Nf3 c6 5. Bf4 Nf6 6. e3 Be7 7. Bd3 O-O 8. O-O
+Ne4 9. h3 Nd7 10. Ne5 Nxe5 11. Bxe5 b6 12. Rc1 Bf6 13. Bxf6 Nxf6 14. cxd5 exd5
+15. b4 Qd6 16. b5 cxb5 17. Nxb5 Qd8 18. Qc2 a6 19. Nc7 Ra7 20. Qc6 Rf7 21. Ne6
+Bxe6 22. Qxe6 1-0

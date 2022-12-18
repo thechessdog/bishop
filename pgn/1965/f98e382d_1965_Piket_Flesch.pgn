@@ -1,0 +1,17 @@
+[Event "Beverwijk II"]
+[Site "Beverwijk II"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Piket, Jeroen"]
+[Black "Flesch, János"]
+[Result "0-1"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Capablanca variation"]
+[HashCode "f98e382d"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 O-O 7. Bd3 Nc6 8.
+Ne2 b6 9. e4 Ne8 10. d5 Na5 11. Ng3 Ba6 12. Qe2 f6 13. Nf1 Nd6 14. Ne3 exd5 15.
+cxd5 Bxd3 16. Qxd3 c4 17. Qc2 Qe7 18. O-O Qxe4 0-1

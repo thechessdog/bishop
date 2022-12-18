@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Udov"]
+[Black "Glotov, Vladimir G"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "c1fed589"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. hxg6 hxg6 10. Qxd4 Nc6 11. Qf2 e6 12. Be3 dxe5 13. O-O-O Qe7 14. fxe5
+Ncxe5 15. Bg5 f6 16. Qh4 Nxf3 17. Qh7+ Kf7 18. Bd3 Nfe5 19. Bh6 Rg8 20. Ne4 Qf8
+21. Rhf1 Ke8 22. Nxf6+ Nxf6 23. Rxf6 Bxh6+ 24. Kb1 Qg7 25. Bb5+ Ke7 0-1

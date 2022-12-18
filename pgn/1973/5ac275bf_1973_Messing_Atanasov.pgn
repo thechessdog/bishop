@@ -1,0 +1,18 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Messing, Hrvoje"]
+[Black "Atanasov, Petko"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "5ac275bf"]
+[Epoch "Bishop"]
+[WhiteCountry "HRV"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Qb3 Nb6 8.
+Bb5+ Bd7 9. Nf3 Bg7 10. Ne5 O-O 11. Nxd7 N8xd7 12. Be3 Nf6 13. O-O e6 14. d5
+Nbxd5 15. Bc5 Nxc3 16. Bxf8 Nxb5 17. Bxg7 Nd4 18. Qe3 Nf5 19. Bxf6 Nxe3 20.
+Bxd8 Nxf1 21. Ba5 1-0

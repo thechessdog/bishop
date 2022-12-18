@@ -1,0 +1,19 @@
+[Event "Reggio Emilia tt"]
+[Site "Reggio Emilia tt"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Cappello, R."]
+[Black "Tatai, Stefano"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "9d1440af"]
+[Epoch "Bishop"]
+[BlackCountry "ITA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be2 Qb6 7. e5 dxe5 8. fxe5
+Nd7 9. Ng5 Bxe2 10. Qxe2 Nf8 11. O-O Nh6 12. Be3 f6 13. exf6 Bxf6 14. Nge4 Nf5
+15. Nxf6+ exf6 16. g4 Nxe3 17. Qxe3+ Kd7 18. Na4 Qd8 19. d5 Qe8 20. dxc6+ bxc6
+21. Rad1+ Kc7 22. Qf4+ Qe5 23. Qxe5+ fxe5 24. Rf7+ Kc8 25. Nc5 Rb8 26. Rd6 g5
+27. Na6 1-0

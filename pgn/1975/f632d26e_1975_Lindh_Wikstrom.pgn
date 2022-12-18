@@ -1,0 +1,21 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Lindh, Bengt"]
+[Black "Wikstrom, Birger"]
+[Result "0-1"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "f632d26e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 Nxc3 9. Qxc3 f5 10. Ne5 Qc8 11. f4 d6 12. Nf3 Nd7 13. Ng5 Bf6 14. Qd3
+Bxg2 15. Kxg2 Bxg5 16. fxg5 Qb7+ 17. Kg1 Rf7 18. g4 Raf8 19. gxf5 Rxf5 20.
+Rxf5 exf5 21. Bf4 g6 22. b4 Re8 23. c5 Qe4 24. Qxe4 Rxe4 25. cxd6 cxd6 26.
+e3 Nf8 27. Kf2 Ne6 28. Bxd6 Nxg5 29. Rc1 Nh3+ 30. Kf3 Ng5+ 31. Ke2 Re8 32.
+Kd3 Ne4 33. Be5 Kf7 34. Rc7+ Re7 35. Kc4 g5 36. a4 h5 37. a5 bxa5 38. bxa5
+h4 39. Kd3 g4 40. Ke2 Rxc7 41. Bxc7 a6 42. Be5 Ke6 43. Kf1 Nd2+ 0-1
+

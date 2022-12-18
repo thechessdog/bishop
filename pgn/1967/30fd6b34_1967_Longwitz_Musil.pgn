@@ -1,0 +1,18 @@
+[Event "Buesum"]
+[Site "Buesum"]
+[Date "1967.??.??"]
+[Round "13"]
+[White "Longwitz, Andreas"]
+[Black "Musil, Vojko"]
+[Result "0-1"]
+[ECO "B49"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "30fd6b34"]
+[Epoch "Bishop"]
+[BlackID "14600145"]
+[BlackCountry "SLO"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be2 a6 7. Be3 Nf6 8.
+O-O b5 9. a3 Bb7 10. f3 Rc8 11. Nxc6 Qxc6 12. Rc1 Bc5 13. Bxc5 Qxc5+ 14. Kh1
+O-O 15. Bd3 d5 16. e5 Nd7 17. f4 g6 18. Qg4 b4 19. axb4 Qxb4 20. Ne2 Nxe5 0-1

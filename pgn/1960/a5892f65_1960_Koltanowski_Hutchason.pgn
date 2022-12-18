@@ -1,0 +1,17 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Hutchason, C."]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "a5892f65"]
+[Epoch "Bishop"]
+[WhiteCountry "BEL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 Qe5 12. Nxe6 fxe6 13. fxg7 Rg8 14. Ng5
+O-O-O 15. Rxe5 1-0

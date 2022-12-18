@@ -1,0 +1,18 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ratsch"]
+[Black "Schwarz"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "e1049d7e"]
+[Epoch "Bishop"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 Nc6 4. Bc4 e6 5. Nf3 Be7 6. O-O Nf6 7. Ng3 O-O
+8. d4 a6 9. c3 b5 10. Bb3 Bb7 11. Re1 Na5 12. Bc2 Nc4 13. Qd3 Bxf3 14. Qxf3
+Qd5 15. Ne4 Nd6 16. Nxf6+ Bxf6 17. Qh3 g6 18. Bh6 Rfe8 19. Bb3 Nc4 20. Bf4
+Qc6 21. Bc2 Rad8 22. Be4 Qb6 23. Qf3 e5 24. dxe5 Bxe5 25. Bg5 f6 26. Bh6
+Kh8 27. Bc6 Re6 28. Rad1 Red6 29. Rxd6 Rxd6 30. Bxb5 1-0
+

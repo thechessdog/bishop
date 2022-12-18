@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Tschater, B."]
+[Black "Echte, A."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "1d2359e8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Nc3 d5 6. Bxd5 Nxd5 7. Nxd5
+Bg4 8. O-O Nc6 9. d4 g5 10. c3 Qd6 11. Qa4 Bd7 12. Qa3 Qg6 13. Nxe7 Nxe7
+14. Qc5 Rg8 15. Qxc7 Qxe4 16. Re1 Qc6 17. Qxc6 Bxc6 18. b3 f6 19. Ba3 Rg7
+20. d5 Bxd5 21. Nd4 1-0
+

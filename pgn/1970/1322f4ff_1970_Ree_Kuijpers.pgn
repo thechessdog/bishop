@@ -1,0 +1,23 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1970.01.01"]
+[Round "6"]
+[White "Ree, Hans"]
+[Black "Kuijpers, Frans"]
+[Result "1-0"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "1322f4ff"]
+[Epoch "Bishop"]
+[WhiteID "1000098"]
+[WhiteCountry "NED"]
+[BlackID "1000349"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Bb3 a6 8. f4
+Qc7 9. f5 e5 10. Nde2 Nbd7 11. Bg5 O-O 12. g4 h6 13. h4 Qc5 14. Qd3 hxg5 15.
+hxg5 Nxg4 16. Qh3 Qf2+ 17. Kd1 Qd4+ 18. Nxd4 Nf2+ 19. Ke2 Nxh3 20. Rxh3 Bxg5
+21. Nf3 Bh6 22. Rg1 Kh8 23. Ng5 Nf6 24. Nxf7+ Rxf7 25. Bxf7 Bd7 26. Rd3 Rf8 27.
+Be6 Bc6 28. Kf3 Nh7 29. Rxd6 Ng5+ 30. Ke2 Nxe6 31. Rxe6 Bf4 32. Rd1 Be8 33. Kf2
+Bc6 34. Nd5 Rd8 35. Rd3 Bb5 1-0

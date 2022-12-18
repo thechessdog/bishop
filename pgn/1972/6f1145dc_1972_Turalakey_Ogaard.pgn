@@ -1,0 +1,19 @@
+[Event "Skopje ol"]
+[Site "Skopje ol"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Turalakey"]
+[Black "Ogaard"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "6f1145dc"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. e3 Nbd7 5. Bd3 Bg6 6. Nf3 e6 7. Bxg6 hxg6
+8. e4 dxe4 9. Nxe4 Be7 10. Bxf6 gxf6 11. Qe2 c6 12. O-O-O f5 13. Ned2 Qc7
+14. Nc4 O-O-O 15. Kb1 Kb8 16. Rd3 g5 17. h3 g4 18. Nfe5 Nxe5 19. Nxe5 Bf6
+20. Rhd1 gxh3 21. gxh3 Rh4 22. c3 Rdh8 23. Rg1 Re4 24. Qd1 Bxe5 25. dxe5
+Rxe5 26. Rd7 Rd5 27. Rxd5 cxd5 28. Qd4 Rd8 29. Qf6 d4 30. cxd4 Rc8 31. a3
+Qc2+ 32. Ka2 Qxf2 33. Rg7 1/2-1/2
+

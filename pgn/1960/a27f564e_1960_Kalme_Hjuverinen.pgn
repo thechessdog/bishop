@@ -1,0 +1,17 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "11"]
+[White "Kalme, Charles I"]
+[Black "Hjuverinen"]
+[Result "1-0"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "a27f564e"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. e4 e5 6. Nge2 d6 7. O-O Nc6 8.
+Rb1 a5 9. a3 Nh5 10. b4 axb4 11. axb4 f5 12. b5 Ne7 13. d4 f4 14. gxf4 exf4
+15. Bf3 Bh3 16. Re1 Nf5 17. exf5 Qg5+ 18. Kh1 Rxf5 19. Ng3 Nxg3+ 20. fxg3
+Qh6 21. Nd5 Kh8 22. Nxf4 g5 23. Nxh3 1-0
+

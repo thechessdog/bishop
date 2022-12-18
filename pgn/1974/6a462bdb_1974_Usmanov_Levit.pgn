@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Usmanov, Y."]
+[Black "Levit, Roman"]
+[Result "1-0"]
+[ECO "A11"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system"]
+[HashCode "6a462bdb"]
+[Epoch "Bishop"]
+[BlackID "2005980"]
+[BlackCountry "USA"]
+
+1. c4 c6 2. g3 d5 3. Bg2 dxc4 4. Na3 Be6 5. Qc2 Na6 6. Nxc4 Nb4 7. Qb3 a5 8. a3
+Bd5 9. Nf3 b5 10. axb4 Bxc4 11. Ne5 Bd5 12. Nxc6 Bxb3 13. Nxd8 Rc8 14. bxa5 1-0

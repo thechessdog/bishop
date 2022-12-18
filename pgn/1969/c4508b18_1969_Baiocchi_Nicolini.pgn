@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Baiocchi"]
+[Black "Nicolini"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[HashCode "c4508b18"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Kd1 Nbc6 11. f4 Bd7 12. Nf3 O-O-O 13. cxd4 Nf5
+14. Ng5 Ncxd4 15. Bd3 Qc3 16. Ra2 Ba4 17. Bxf5 exf5 18. Bd2 Bxc2+ 19. Ke1
+Qd3 20. Rxc2+ Nxc2+ 21. Kd1 Nd4 22. Rg1 Qb1+ 23. Bc1 Qc2+ 24. Ke1 Qe2# 0-1
+

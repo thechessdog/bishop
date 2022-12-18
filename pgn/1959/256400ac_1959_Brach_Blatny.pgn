@@ -1,0 +1,18 @@
+[Event "CSR-ch"]
+[Site "Bratislava"]
+[Date "1959.??.??"]
+[Round "5"]
+[White "Brach, Julius"]
+[Black "Blatny, Frantisek"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "256400ac"]
+[Epoch "Bishop"]
+[BlackID "300764"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Be3 O-O-O 9. Nd2 Bd6 10. O-O-O b6 11. Nc4 c5 12. Nf3 Be6 13. Nxd6+ cxd6 14.
+Bf4 Nf6 15. Rhe1 1/2-1/2

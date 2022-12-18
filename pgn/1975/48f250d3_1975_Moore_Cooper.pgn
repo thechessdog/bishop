@@ -1,0 +1,19 @@
+[Event "Wiesbaden"]
+[Site "Wiesbaden"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Moore, B."]
+[Black "Cooper, T."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "48f250d3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 e5 7. Nc3 Bb4
+8. Bd2 Bxc3 9. Bxc3 exd4 10. Nxd4 Nf6 11. Bb5 O-O 12. Bxc6 bxc6 13. O-O Ba6
+14. Re1 Ne4 15. Qc2 Rfe8 16. Rad1 Nxc3 17. Qxc3 Qc4 18. Nxc6 Qxa2 19. Ne7+
+Kh8 20. Nf5 f6 21. Qc7 Qg8 22. Rxe8 Rxe8 23. Nd6 Qd5 24. Qxg7+ Kxg7 25.
+Nxe8+ Kf7 26. Rxd5 Kxe8 27. Ra5 1-0
+

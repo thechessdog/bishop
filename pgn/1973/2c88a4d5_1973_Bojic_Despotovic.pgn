@@ -1,0 +1,19 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Bojic, Z."]
+[Black "Despotovic, M."]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "2c88a4d5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8.
+e4 Bg7 9. f4 O-O 10. Bd3 Re8 11. O-O a6 12. a4 Qc7 13. Qe2 Nb6 14. Bc4 Bg4
+15. Qd3 Bd7 16. b3 Ng4 17. Nf3 Nxc4 18. bxc4 f5 19. Ra2 fxe4 20. Nxe4 Bf5
+21. Re2 Rxe4 22. Rxe4 Nf6 23. Ng5 Nxe4 24. Nxe4 Bd4+ 25. Kh1 Re8 26. Re1
+Kg7 27. g4 Bxg4 28. Qg3 Bf5 0-1
+

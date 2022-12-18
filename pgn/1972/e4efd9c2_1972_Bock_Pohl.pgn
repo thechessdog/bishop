@@ -1,0 +1,17 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Bock, O."]
+[Black "Pohl, J."]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "e4efd9c2"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Be2 Qc7 7. g3 e5
+8. dxe5 fxe5 9. Bg4 Bxg4 10. Qxg4 Na6 11. a3 Qa5+ 12. Bd2 Qd5 13. Nf3 e4
+14. O-O-O h5 15. Qh4 Nc5 16. Bc3 Qa2 17. Bxh8 Bh6+ 18. Ng5 1-0
+

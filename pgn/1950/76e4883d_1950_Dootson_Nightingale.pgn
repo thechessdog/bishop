@@ -1,0 +1,20 @@
+[Event "England"]
+[Site "England"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Dootson, H."]
+[Black "Nightingale, CA."]
+[Result "1-0"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 8.O-O"]
+[HashCode "76e4883d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7
+8. O-O O-O 9. f4 Qb6 10. Qd3 Ng4 11. Nd5 Bxd4 12. Nxb6 Bxe3+ 13. Kh1 Bxb6
+14. Bxg4 Bxg4 15. f5 Bh5 16. f6 exf6 17. Rxf6 Ne5 18. Qxd6 Ng4 19. Rf3 Ne3
+20. Rxe3 Bxe3 21. g4 Bxg4 22. Qg3 f5 23. Qxe3 fxe4 24. h4 Rae8 25. Qb3+ Rf7
+26. Rf1 Be6 27. Qb5 Rxf1+ 28. Qxf1 Bd5 29. Kh2 e3 30. Qe2 Bf3 31. Qxf3 e2
+32. Qd5+ Kf8 33. Qc5+ 1-0
+

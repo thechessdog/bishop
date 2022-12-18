@@ -1,0 +1,19 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Motyvay, T."]
+[Black "Felbecker"]
+[Result "0-1"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "8a768733"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. e4 Nb4 5. d4 Qxd4 6. Be3 Qxd1+ 7. Rxd1
+Nc2+ 8. Ke2 Nxe3 9. Kxe3 e5 10. Rd5 f6 11. Nb5 Na6 12. g3 Be6 13. Rd2 Bc5+
+14. Kf3 O-O 15. Nc3 f5 16. exf5 Rxf5+ 17. Kg2 Raf8 18. Nh3 Rh5 19. Ng1 Nb4
+20. a3 Nd5 21. Ne4 Bxf2 22. Rxd5 Bxd5 23. Bd3 Bd4 24. g4 Rf2+ 25. Kg3 Rxb2
+26. gxh5 Rb3 27. Nf3 Rxd3 28. Re1 Rxa3 29. h6 Re3 0-1
+

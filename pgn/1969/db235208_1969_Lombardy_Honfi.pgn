@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Lombardy, William James"]
+[Black "Honfi, Karoly"]
+[Result "1-0"]
+[ECO "A21"]
+[Opening "English opening"]
+[HashCode "db235208"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+[BlackCountry "HUN"]
+
+1. c4 e5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. b3 Ne7 6. e3 c5 7. Bb2 Nbc6 8. d3 O-O
+9. Qd2 Be6 10. Nd5 Bxd5 11. cxd5 Nb4 12. e4 a5 13. Nf3 Qd7 14. a3 Na6 15. h4 h6
+16. Bh3 Qb5 17. Qc2 Nc7 18. Nd2 Qa6 19. a4 b6 20. Nc4 Rad8 21. O-O Qb7 22. f4
+f6 23. fxe5 fxe5 24. Rxf8+ Bxf8 25. Qf2 b5 26. Nxe5 dxe5 27. Rf1 Nf5 28. Bxf5
+gxf5 29. Qxf5 Bg7 30. Qf7+ Kh8 31. Rf6 Rg8 32. Bxe5 1-0

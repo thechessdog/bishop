@@ -1,0 +1,20 @@
+[Event "RSFSR tt"]
+[Site "RSFSR tt"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Zaitsev, Igor"]
+[Black "Krogius, Nikolai V"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "351fc760"]
+[Epoch "Bishop"]
+[BlackID "4100565"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O Bg6 7. Nh3 Qa5 8.
+Nf4 O-O-O 9. Nxg6 hxg6 10. e4 dxe4 11. fxe4 e5 12. dxe5 Bb4 13. exf6 Nxf6 14.
+Bd3 Bxc3 15. Qxc3 Qxg5+ 16. Rd2 Rh4 17. g3 Rxe4 18. h4 Qh6 19. Rd1 Red4 20. b3
+Kb8 21. Re1 Qh5 22. Rde2 Qg4 23. Bc4 Ne4 24. Qa5 Qf5 25. Qxf5 gxf5 26. Re3 Nd6
+27. c3 Nxc4 28. cxd4 Nxe3 29. Rxe3 Kc7 30. Re7+ Rd7 31. Rxd7+ Kxd7 32. Kd2 g6
+33. Ke3 Ke6 34. Kf4 f6 35. Ke3 g5 36. Kf3 Kf7 37. Kf2 Kg6 38. Ke3 f4+ 0-1

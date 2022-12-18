@@ -1,0 +1,20 @@
+[Event "Freiberg ch19-DDR wmn"]
+[Site "Freiberg ch19-DDR wmn"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Nuenchert, Eveline"]
+[Black "Janssen, Lieselotte"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Steinitz variation"]
+[HashCode "67c50dce"]
+[Epoch "Bishop"]
+[WhiteID "4612540"]
+[WhiteCountry "GER"]
+[BlackID "4612515"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qe2 Nc5 6. Nxd4 Ne6 7. Nxe6 dxe6 8.
+Nd2 Nc6 9. c3 Bc5 10. g3 Qd5 11. Nf3 O-O 12. Bg2 Rd8 13. Bg5 Be7 14. Bxe7 Nxe7
+15. O-O Bd7 16. Ng5 Qc5 17. Qh5 Ng6 18. Qxh7+ Kf8 19. Rfe1 Bc6 20. Qxg6 1-0

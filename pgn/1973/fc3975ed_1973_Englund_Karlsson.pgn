@@ -1,0 +1,24 @@
+[Event "corr ch-SWE"]
+[Site "corr ch-SWE"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Englund, Helge"]
+[Black "Karlsson, Olof"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "fc3975ed"]
+[Epoch "Bishop"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. Qxd4 dxe5 10. Qf2 e4 11. Ng5 Nf6 12. hxg6 hxg6 13. Qh4 Qd4 14. Nb5
+Qb6 15. Nh7 Rd8 16. Nxf6+ exf6 17. b3 Nd7 18. f5 Nf8 19. fxg6 fxg6 20. Bh6
+Bxh6 21. Qxh6 Be6 22. Qf4 Kf7 23. Qc7+ Qxc7 24. Nxc7 Rac8 25. Nxe6 Kxe6 26.
+Bc4+ Ke5 27. Rd1 Rxd1+ 28. Kxd1 Rc7 29. Rh8 Nh7 30. Rg8 g5 31. g3 Re7 32.
+Rd8 Kf5 33. Be2 Ke5 34. Bc4 f5 35. Rd5+ Kf6 36. Rd6+ Kg7 37. Be6 f4 38.
+gxf4 gxf4 39. Rd7 Rxd7+ 40. Bxd7 Kf6 41. c4 Ke5 42. c5 Kd4 43. b4 Nf6 44.
+Bc8 b6 45. cxb6 axb6 46. a4 Nd5 47. a5 bxa5 48. bxa5 Nc3+ 49. Ke1 Nb5 50.
+a6 Ke3 51. Bb7 f3 52. Bc6 Na7 53. Bd5 Kf4 54. Kf2 e3+ 55. Ke1 Kg3 56. Be4
+Nb5 57. Bd3 Na7 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Montuori"]
+[Black "Calgaro"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "bfaa3e26"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. Bxf6 gxf6 11. f5 Qa5 12. Bc4 b5 13. Bb3 e5 14. Nde2
+Bb7 15. O-O Nd7 16. Bd5 Bxd5 17. Qxd5 Rc8 18. Rf3 Nb6 19. Qb7 Rd8 20. Nc1
+Nc4 21. Nd5 Qe1+ 22. Rf1 Qh4 23. Nb3 Rg8 24. Rf2 Qg5 25. Qc6+ 1-0
+

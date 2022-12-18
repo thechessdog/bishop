@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1962.01.01"]
+[Round "5"]
+[White "O'Kelly, Albéric de Galway"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "285236e6"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Be7 8. Bg5
+Be6 9. Nd2 Nbd7 10. Nc4 Qc7 11. Ne3 O-O 12. O-O Rfc8 13. Bg4 Nxg4 14. Bxe7 Nxe3
+15. fxe3 Qb6 16. Nd5 Qxb2 17. Bxd6 Rxc2 18. Qf3 Bxd5 19. exd5 Nf6 20. Be7 e4
+21. Qf4 Rxg2+ 22. Kh1 Rg4 0-1

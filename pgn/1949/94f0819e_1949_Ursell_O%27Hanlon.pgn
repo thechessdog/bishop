@@ -1,0 +1,15 @@
+[Event "Southsea"]
+[Site "Southsea"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Ursell, PA."]
+[Black "O'Hanlon, John"]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor variation"]
+[HashCode "94f0819e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Bc5 3. c3 Nf6 4. d4 exd4 5. e5 d5 6. exf6 dxc4 7. Qh5 Bf8 8.
+Qe5+ Be6 9. fxg7 1-0

@@ -1,0 +1,19 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Michalet, Guy"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "bcd85c42"]
+[Epoch "Bishop"]
+[WhiteID "603139"]
+[WhiteCountry "FRA"]
+[BlackCountry "POL"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 h5 6. d4 h4 7. Bxg5 Be7 8.
+Bxh4 Bxh4 9. Nxh4 Rxh4 10. gxh4 Qxh4+ 11. Kd2 Nf6 12. Nc3 Ne4+ 13. Kc1 Nf2 14.
+Qe1 Nd3+ 0-1

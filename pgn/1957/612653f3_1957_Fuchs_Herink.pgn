@@ -1,0 +1,21 @@
+[Event "Bratislava"]
+[Site "Bratislava"]
+[Date "1957.??.??"]
+[Round "10"]
+[White "Fuchs, Reinhart"]
+[Black "Herink, Miroslav"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "612653f3"]
+[Epoch "Bishop"]
+[WhiteID "4611357"]
+[BlackID "339784"]
+[WhiteCountry "GER"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. c3 Bd7 5. d4 Nf6 6. Qe2 a6 7. Bc4 e6 8. d5 Na5
+9. Bd3 b5 10. dxe6 Bxe6 11. Bf4 Be7 12. Nbd2 O-O 13. O-O Nc6 14. Rad1 d5 15. h3
+d4 16. cxd4 cxd4 17. Nb3 Nh5 18. Bh2 Qb6 19. g4 Nf6 20. e5 Nd7 21. Nbxd4 Nxd4
+22. Nxd4 Bxa2 23. Nf5 Bc5 24. b4 Bb3 25. bxc5 Bxd1 26. Qe4 1-0

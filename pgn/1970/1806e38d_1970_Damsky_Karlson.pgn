@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Damsky"]
+[Black "Karlson"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "1806e38d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. Nxd5 Nxd5 6. e4 h6 7. Bd2 e5
+8. Qe2 exd4 9. O-O-O Be7 10. exf5 O-O 11. Qe4 c6 12. Qxd4 Bf6 13. Qf2 a5
+14. c4 Nb4 15. a3 c5 16. Be3 Qb6 17. Rxd7 Na2+ 18. Kb1 Nc3+ 19. Kc2 a4 20.
+bxc3 Qb3+ 21. Kc1 Qxc3+ 22. Kd1 Rad8 23. Rd5 Rxd5+ 24. cxd5 Rd8 25. Qd2
+Qb3+ 26. Ke2 Rxd5 27. Qc1 Bb2 28. Qb1 Bxa3 29. Qxb3 axb3 30. Kf2 b2 31. Bd3
+Rxd3 32. Ne2 c4 33. Bd4 b5 34. Rb1 Rxd4 35. Nxd4 Bc5 36. Ke3 c3 37. Kd3
+Bxd4 38. Kc2 b4 39. Rd1 Bf6 40. g4 Bg5 41. h4 Bf4 42. Rg1 Bc1 0-1
+

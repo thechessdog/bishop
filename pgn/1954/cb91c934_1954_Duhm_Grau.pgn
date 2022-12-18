@@ -1,0 +1,17 @@
+[Event "Ueberlingen"]
+[Site "Ueberlingen"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Duhm"]
+[Black "Grau, Roberto"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "cb91c934"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. e4 d5 2. d4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qd6 7. Nb5 Qb4+
+8. c3 Qxb2 9. Nxc7+ Kd8 10. Rd1+ Kxc7 11. Bf4+ Kb6 12. Bd3 Qxc3+ 13. Kf2 Bd7
+14. Rb1+ Ka5 15. Ne2 Qc5+ 16. Kg3 Nh5+ 17. Qxh5 Qxh5 18. Bd2+ Ka4 19. Bc2+ Ka3
+20. Bb4+ Kxa2 21. Bb3# 1-0

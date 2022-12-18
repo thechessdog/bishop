@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Elm, W."]
+[Black "Fischer, J."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "62ef9bef"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. e4 dxe4 7. Qf4 Qa5
+8. O-O-O e6 9. Bxf6 Nxf6 10. fxe4 Bg6 11. Bd3 Bb4 12. Nge2 e5 13. dxe5 Nd7
+14. e6 Ne5 15. exf7+ Bxf7 16. Bb5 Ng6 17. Qf5 O-O 18. Ba4 b5 19. a3 Bxc3
+20. Nxc3 Qb6 0-1
+

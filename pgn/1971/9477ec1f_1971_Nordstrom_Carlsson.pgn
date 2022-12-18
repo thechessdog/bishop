@@ -1,0 +1,20 @@
+[Event "SWE-ch"]
+[Site "Eskilstuna"]
+[Date "1971.??.??"]
+[Round "9"]
+[White "Nordstrom, Felix"]
+[Black "Carlsson, Aake"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "9477ec1f"]
+[Epoch "Bishop"]
+[WhiteID "1701509"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O Re8 10. Ng3 Nbd7 11. h3 a6 12. a4 Qc7 13. f4 Rb8 14. Be3 h5 15. e5
+dxe5 16. f5 e4 17. Bf4 Qb6 18. Bxe4 h4 19. fxg6 hxg3 20. gxf7+ Kxf7 21. Bxb8
+Qxb2 22. Qd3 Nxb8 23. Bg6+ Kg8 24. Rab1 Qa3 25. Bxe8 Nxe8 26. Qg6 Bd7 27. Ne4
+Qe3+ 28. Kh1 Qd4 29. Ng5 Nf6 30. Rxb7 Qe5 31. Ne6 Ne4 32. Rxb8+ 1-0

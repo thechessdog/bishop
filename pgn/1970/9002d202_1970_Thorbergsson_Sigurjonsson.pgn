@@ -1,0 +1,21 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Thorbergsson, Freysteinn"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "0-1"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "9002d202"]
+[Epoch "Bishop"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 c6 6. Be3 a6 7. Qd2 b5 8. Bh6 O-O
+9. h4 e5 10. Bxg7 Kxg7 11. O-O-O Qa5 12. h5 b4 13. hxg6 fxg6 14. Nb1 Ra7 15. c5
+exd4 16. Qxd4 Qxc5+ 17. Qxc5 dxc5 18. Bc4 Nbd7 19. Rd2 Ne5 20. Rc2 Nxc4 21.
+Rxc4 Nd7 22. Kc2 a5 23. e5 Nxe5 24. Rch4 Bf5+ 25. Kd1 g5 26. Rh5 Bxb1 27. Rxg5+
+Ng6 28. Rxc5 0-1

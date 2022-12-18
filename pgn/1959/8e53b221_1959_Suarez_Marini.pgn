@@ -1,0 +1,19 @@
+[Event "Buenos Aires-ch"]
+[Site "Buenos Aires"]
+[Date "1959.01.01"]
+[Round "3"]
+[White "Suarez, JM."]
+[Black "Marini, Luis"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "8e53b221"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Qb6 6. Qe2 Nf6 7. Ba4 O-O 8. Rd1
+d6 9. d3 Bd7 10. Bc2 Rac8 11. Nbd2 Qc7 12. Nf1 b5 13. Ne3 e6 14. Bd2 d5 15. Nf1
+b4 16. e5 Ng4 17. Ng5 Nh6 18. f4 Rce8 19. Qf2 bxc3 20. bxc3 f6 21. exf6 Bxf6
+22. Qxc5 Bxg5 23. fxg5 Ng4 24. Ng3 Rf2 25. Ba4 d4 26. cxd4 Rxd2 27. Rxd2 Qf4
+28. Bxc6 Qxd2 29. d5 Bxc6 30. Nf1 Qb2 31. Qxc6 Qd4+ 32. Kh1 Nf2+ 0-1

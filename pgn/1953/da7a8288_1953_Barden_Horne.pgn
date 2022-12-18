@@ -1,0 +1,17 @@
+[Event "Hastings ch-BCF"]
+[Site "Hastings ch-BCF"]
+[Date "1953.08.01"]
+[Round "3"]
+[White "Barden, Leonhard William"]
+[Black "Horne, Dennis Morton"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "da7a8288"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. a3 Bxc3+ 7. bxc3 Ne4 8.
+Qc2 Nd6 9. cxd5 exd5 10. Bd3 f5 11. Ne5 Nd7 12. f4 Nxe5 13. fxe5 Ne4 14. O-O
+Be6 15. a4 Rf7 16. Ba3 Rc8 17. Rab1 c6 18. c4 g6 19. c5 Rcc7 1/2-1/2

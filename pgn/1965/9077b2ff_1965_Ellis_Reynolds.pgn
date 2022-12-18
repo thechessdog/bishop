@@ -1,0 +1,17 @@
+[Event "Iowa"]
+[Site "Iowa"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Ellis"]
+[Black "Reynolds"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "9077b2ff"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Bg5 c6 9. Qd2 Nbd7 10. Rae1 Nb6 11. Bb3 Nbd5 12. Ne4 Nxe4 13. Rxe4 Nf6
+14. Rh4 Bf5 15. Bh6 Ne4 16. Qe3 Bxh6 17. Qxh6 g5 18. Nxg5 Qxd4+ 19. Kh1
+Nf2+ 20. Kg1 Nh3+ 21. Kh1 Qg1+ 22. Rxg1 Nf2# 0-1
+

@@ -1,0 +1,21 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "2"]
+[White "Piket, Joop"]
+[Black "Marovic, Drazen"]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "ca2ea9db"]
+[Epoch "Bishop"]
+[WhiteID "1001256"]
+[WhiteCountry "NED"]
+[BlackID "14500183"]
+[BlackCountry "CRO"]
+
+1. c4 g6 2. d4 Bg7 3. Nc3 c5 4. d5 d6 5. e4 Nf6 6. Bd3 O-O 7. Bg5 h6 8. Bh4 e5
+9. dxe6 Bxe6 10. f4 Re8 11. Nf3 Bg4 12. O-O Qd7 13. h3 Bxf3 14. Qxf3 Nc6 15.
+Rae1 a6 16. Kh1 b5 17. cxb5 Nd4 18. Qd1 axb5 19. e5 dxe5 20. Bxf6 Bxf6 21. Bxb5
+Qb7 22. Bxe8 Rxe8 23. Ne4 Be7 24. fxe5 Qxb2 25. Qa4 Rf8 26. Rf2 Qb7 27. Qc4 Qc6
+28. Nf6+ Kg7 29. Ref1 Ne6 30. Nh7 Kxh7 31. Rxf7+ Kh8 32. Rxe7 1-0

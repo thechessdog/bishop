@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kluger, Gyula"]
+[Black "Horvath, Tamas"]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "6077b646"]
+[Epoch "Bishop"]
+[BlackID "700185"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. e3 Qa5 7. Nf3 Nc6 8. Qb3
+cxd4 9. exd4 e5 10. cxd5 Bb4 11. dxc6 Nxc3 12. bxc3 Bxc3+ 13. Kd1 Bxa1 14. cxb7
+Bxb7 15. Bb5+ Kf8 16. Nxe5 Qc7 17. Bf6 Rc8 18. Ke2 Bxd4 19. Rc1 Qxe5+ 20. Bxe5
+Bxe5 21. Rxc8+ Bxc8 22. Qe3 Bf6 23. Qxa7 Kg7 24. Bd7 Bxd7 25. Qxd7 Rd8 26. Qc7
+Ra8 27. Qc4 Ra3 28. Kd1 h5 29. g3 h4 30. Kc2 h3 31. Kb1 Ra5 32. Qe2 Rf5 33. f4
+Rd5 34. a4 1-0

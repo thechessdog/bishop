@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Krasnov"]
+[Black "Zaitsev, Igor"]
+[Result "1-0"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "00ae4946"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. d3
+Qd7 9. Nbd2 g5 10. Nf1 Rg8 11. Ne3 h5 12. d4 b5 13. Bb3 Rg7 14. a4 b4 15. a5
+exd4 16. cxd4 Bxf3 17. gxf3 Kf8 18. Ba4 g4 19. f4 Nxe4 20. Qc2 g3 21. fxg3 Nxg3
+22. Bxc6 Ne4+ 23. Ng2 1-0

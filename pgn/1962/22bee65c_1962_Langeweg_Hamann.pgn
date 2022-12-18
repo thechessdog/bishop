@@ -1,0 +1,17 @@
+[Event "Marienbad student tt"]
+[Site "Marienbad student tt"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Hamann"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "22bee65c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 d5 5. g3 Bb7 6. Bg2 Nbd7 7. Ne5 c6 8. O-O
+Nxe5 9. dxe5 Nd7 10. cxd5 exd5 11. e4 dxe4 12. Nxe4 Nxe5 13. Qh5 Ng6 14. Bg5
+Be7 15. Rad1 Qc7 16. Bxe7 Qxe7 17. Rfe1 Kf8 18. Nd6 Qc7 19. Bf1 Kg8 20. Bc4 Rf8
+21. Nxf7 1-0

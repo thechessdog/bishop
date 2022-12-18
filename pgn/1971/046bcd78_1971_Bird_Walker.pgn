@@ -1,0 +1,18 @@
+[Event "corr ch-GB distr"]
+[Site "corr ch-GB distr"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Bird, R."]
+[Black "Walker, P."]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "046bcd78"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 Kf8 8.
+Ne2 Ne7 9. Bd2 Nbc6 10. h4 h5 11. Qg5 Nf5 12. g4 hxg4 13. Qxg4 Bd7 14. h5
+cxd4 15. f4 dxc3 16. Nxc3 Ne3 17. Bxe3 Nxe5 18. fxe5 Qxc3+ 19. Kf2 Qxa1 20.
+Bc5+ Ke8 1-0
+

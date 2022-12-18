@@ -1,0 +1,20 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Bouwmeester, Hans"]
+[Black "Pirc, Vasja"]
+[Result "0-1"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[HashCode "1501ac26"]
+[Epoch "Bishop"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+[BlackCountry "SVN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Nd2 O-O 6. Qc2 Nc6 7. Nf3 Ne4 8. O-O
+f5 9. e3 Be7 10. a3 a5 11. Ne1 Bf6 12. Nd3 Qe8 13. Nf3 b6 14. cxd5 exd5 15. Nf4
+Ne7 16. Qxc7 g5 17. Nd3 Ba6 18. Nfe1 Nc6 19. Qxb6 Bc4 20. Nc5 Rb8 21. Qc7 Nxc5
+22. dxc5 Be5 0-1

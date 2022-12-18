@@ -1,0 +1,20 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Spassky, Boris V."]
+[Black "Tal, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "5ea94b41"]
+[Epoch "Bishop"]
+[WhiteID "600024"]
+[WhiteCountry "RUS"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 c5 7. O-O Nbd7 8. a3
+cxd4 9. exd4 Bxc3 10. bxc3 dxc4 11. Bxc4 Qc7 12. Qd3 e5 13. Nxe5 Nxe5 14. dxe5
+Qxe5 15. Qg3 Qxg3 16. hxg3 Be6 17. Bxe6 fxe6 18. Re1 Kf7 19. a4 Rfc8 20. Rb1 b6
+21. a5 Nd5 22. axb6 axb6 1/2-1/2

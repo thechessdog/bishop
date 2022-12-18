@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Tustikbayev"]
+[Black "Arutiunian"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "fa2940cd"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 d5 10. exd5 Bxa3 11. bxa3 Qa5 12. Qd2 Nd4 13. Bd3 Bh3
+14. Kf1 Nf3 15. Qe3 Rc8 16. Qxf3 Qxc3 17. gxh3 Qxa1+ 0-1
+

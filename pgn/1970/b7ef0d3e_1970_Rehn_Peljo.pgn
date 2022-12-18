@@ -1,0 +1,17 @@
+[Event "corr ch-YUG"]
+[Site "corr ch-YUG"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Rehn, E."]
+[Black "Peljo, Kalevi"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Yankovich variation"]
+[HashCode "b7ef0d3e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. Qe2
+Nxc4 9. dxc4 Bc5 10. Nfd2 O-O 11. Nb3 Bg4 12. Qf1 Bb4+ 13. c3 Be7 14. Nd4 Nd7
+15. f3 exf3 16. Nxf3 Bh4+ 17. g3 Re8+ 18. Kf2 Bxf3 19. Kxf3 Bg5 20. Kg2 Bxc1
+21. Qxc1 Re2+ 22. Kf3 Qe7 23. Qf4 g5 24. Qd4 f5 25. h3 Re8 0-1

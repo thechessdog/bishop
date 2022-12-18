@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Rossolimo, Nicolas"]
+[Black "Bobotsov, Milko G"]
+[Result "1/2-1/2"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[HashCode "449e8be5"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 Nc6 6. c4 Nxd4 7. Qxd4 g6 8.
+Nc3 Bg7 9. Be3 O-O 10. Qd2 Be6 11. Rc1 Qa5 12. Be2 Rfc8 13. Nd5 Qxd2+ 14. Kxd2
+Nxd5 15. cxd5 Bd7 16. Rxc8+ Rxc8 17. Rc1 Rxc1 18. Kxc1 a6 19. Kc2 1/2-1/2

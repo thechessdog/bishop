@@ -1,0 +1,24 @@
+[Event "La Serena"]
+[Site "La Serena"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Leon Rodriguez, Orlando"]
+[Black "Savon, Vladimir"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "7fafcbe2"]
+[Epoch "Bishop"]
+[WhiteID "2210665"]
+[BlackID "14138786"]
+[WhiteCountry "ESP"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qe2
+h6 9. Bxf6 Bxf6 10. O-O-O Nd7 11. e5 dxe5 12. fxe5 Bxe5 13. Nxe6 fxe6 14. Qh5+
+Ke7 15. Bc4 Bxc3 16. bxc3 Qc7 17. Bxe6 Qf4+ 18. Kb1 Ne5 19. Bxc8 Raxc8 20. Rde1
+Rc5 21. Rhf1 g6 22. Qxg6 Rb5+ 23. Ka1 Qc1+ 24. Rxc1 Nxg6 25. c4 Rc5 26. Rb1 Rb8
+27. Rb6 Rc6 28. Rfb1 Ne5 29. Rxb7+ Rxb7 30. Rxb7+ Kf6 31. Rh7 Kg6 32. Re7 Nxc4
+33. a4 Kf5 34. Ka2 Rb6 35. Re2 Rb2+ 36. Ka1 Rb4 37. c3 Rb3 38. Rf2+ Ke4 39. Rf6
+Kd3 40. Rf3+ Kc2 41. Rf2+ Nd2 0-1

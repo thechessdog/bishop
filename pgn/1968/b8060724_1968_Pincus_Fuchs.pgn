@@ -1,0 +1,18 @@
+[Event "corr WER/C"]
+[Site "corr WER/C"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Pincus, D."]
+[Black "Fuchs, H."]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "b8060724"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. Nc3 cxd4 5. Nxd4 a6 6. Ne4 Be7 7. Bxf6
+Bxf6 8. Nd6+ Kf8 9. c3 Qc7 10. Ne4 Bxd4 11. Qxd4 d5 12. O-O-O Nc6 13. Qc5+
+Kg8 14. Ng3 f5 15. e3 Kf7 16. Be2 Rd8 17. Kb1 Bd7 18. c4 b6 19. Qa3 dxc4
+20. Bxc4 Na5 21. Nxf5 Nxc4 22. Qe7+ 1-0
+

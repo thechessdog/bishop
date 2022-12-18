@@ -1,0 +1,15 @@
+[Event "Somija"]
+[Site "Somija"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Lagland, G."]
+[Black "Saari, H."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "82020b6a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 exf3 5. Qxf3 Qxd4 6. Be3 Qb4 7. O-O-O
+Bg4 8. Nb5 Nbd7 9. Qxb7 Rb8 10. Qxb8+ 1-0
+

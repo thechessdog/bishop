@@ -1,0 +1,16 @@
+[Event "Reykjavik ol stud tt"]
+[Site "Reykjavik ol stud tt"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Palmqvist, Ulf"]
+[Black "Sobel, Robert"]
+[Result "0-1"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "a57fb0f3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Nf3 c5 7. dxc5 Qa5 8. Nd4
+Ne4 9. Qc1 e5 10. Nb3 Qb4 11. f3 Nxc5 12. Nxc5 Qxc5 13. Bg3 d4 14. Nd5 Nc6 15.
+e4 Be6 16. Bd3 Bxd5 17. cxd5 Nb4 18. Qd2 Bh6 19. Qe2 Be3 20. Bf2 Nxd3+ 21. Qxd3
+Qb4+ 0-1

@@ -1,0 +1,16 @@
+[Event "Palma de Mallorca"]
+[Site "Palma de Mallorca"]
+[Date "1967.01.01"]
+[Round "15"]
+[White "Gligorić, Svetozar"]
+[Black "O'Kelly, Albéric de Galway"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "5e703088"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 b6 7. Bd2 Ba6 8. a3
+Bxc3 9. Bxc3 cxd4 10. exd4 d5 11. b3 Qc7 12. Rc1 Rc8 13. Bb2 dxc4 14. bxc4 Nbd7
+15. O-O Bb7 16. d5 exd5 17. Nd4 Re8 18. cxd5 Qe5 1/2-1/2

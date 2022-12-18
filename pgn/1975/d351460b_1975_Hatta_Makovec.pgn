@@ -1,0 +1,18 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hatta, D."]
+[Black "Makovec, S."]
+[Result "1-0"]
+[ECO "B79"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 12.h4"]
+[HashCode "d351460b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 d6 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Qa5 10. Bb3 Bd7 11. O-O-O Rfc8 12. h4 Qd8 13. g4 Nxd4 14.
+Bxd4 Bc6 15. h5 e5 16. Be3 Ne8 17. hxg6 hxg6 18. Bh6 Bf6 19. Qh2 Nc7 20.
+Be3 Qe7 21. Qh7+ Kf8 22. Rxd6 Na6 23. Bh6+ 1-0
+

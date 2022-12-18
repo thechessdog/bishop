@@ -1,0 +1,24 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Jansson, Borje"]
+[Black "Liljedahl, Lennart"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "bd7d5891"]
+[Epoch "Bishop"]
+[WhiteID "1700189"]
+[BlackID "1700758"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O a6 5. Bxc6+ bxc6 6. Re1 e6 7. d3 Ne7 8.
+Nbd2 Ng6 9. e5 d5 10. Nb3 Qc7 11. h4 f6 12. exf6 gxf6 13. h5 Nf4 14. Nh4 Kf7
+15. Qf3 Bh6 16. Bxf4 Bxf4 17. Nxc5 Rg8 18. d4 Bg5 19. h6 Qf4 20. Qh5+ Ke7 21.
+Nf3 Rg6 22. g3 Qf5 23. Nh4 Qxc2 24. Nxg6+ hxg6 25. Qh2 Bd7 26. h7 Rh8 27. f4
+Qxh2+ 28. Kxh2 Rxh7+ 29. Kg2 Bh6 30. Re2 Kd6 31. Rae1 Re7 32. Nxa6 g5 33. Kf3
+gxf4 34. gxf4 f5 35. Nc5 Bg7 36. Nb3 Bf6 37. Rh1 Bc8 38. Rh6 Rf7 39. Nc5 Ke7
+40. b4 Rg7 1-0

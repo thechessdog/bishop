@@ -1,0 +1,16 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Wagner, L."]
+[Black "Melton, R."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "2ce84d28"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+
+Kd8 8. Bg5+ Be7 9. Bxg6 Bxg5 10. Nf7+ Ke7 11. Nxg5 Qxh1+ 12. Ke2 Nc6 13.
+Bxe4 Nxd4+ 14. Kd2 Qxe4 15. Qf7+ Kd8 16. Qf8+ Qe8 17. Nf7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rovigo"]
+[Site "Rovigo"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Perini"]
+[Black "Campioli"]
+[Result "0-1"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, not Scheveningen"]
+[HashCode "aedca2f4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Bd7 7. O-O g6
+8. a3 Bg7 9. Nf3 O-O 10. Rb1 Rc8 11. Qe2 Bg4 12. Ba2 Nd4 13. Qd3 Nxf3+ 14.
+gxf3 Bh3 15. Rd1 Qa5 16. Bf4 Nh5 17. Bd2 Bxc3 18. bxc3 Qxa3 19. Bd5 e6 20.
+Bxb7 Rc7 21. Rb3 Qa4 22. Qxd6 Rd7 23. Qc6 Rxd2 24. Rdb1 Rfd8 0-1
+

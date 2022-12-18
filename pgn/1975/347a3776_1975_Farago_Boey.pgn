@@ -1,0 +1,26 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1975.07.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Boey, Josef"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "347a3776"]
+[Epoch "Bishop"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "200093"]
+[BlackCountry "BEL"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. e3 e6 5. Nbd2 Bb4 6. a3 Bxd2+ 7. Bxd2 Nf6 8.
+Be2 O-O 9. O-O dxc4 10. Rc1 Ne4 11. Rxc4 Bxf3 12. gxf3 Nxd2 13. Qxd2 e5 14. d5
+Qd6 15. Rd1 Ne7 16. Qb4 Rfc8 17. Rdc1 a5 18. Qxd6 cxd6 19. Rc7 Rxc7 20. Rxc7
+Nxd5 21. Rxb7 Nf6 22. e4 Nh5 23. Bc4 Nf4 24. Bxf7+ Kh8 25. Re7 Nd3 26. b3 Nc5
+27. Kf1 g6 28. b4 axb4 29. axb4 Nd3 30. b5 Nf4 31. Re8+ Rxe8 32. Bxe8 Ne6 33.
+b6 Nc5 34. Bc6 Kg7 35. Ke2 Kf6 36. b7 Na6 37. Bb5 Nb8 38. Kd3 Ke6 39. Kc4 g5
+40. Ba4 h5 41. h3 h4 42. Kb5 d5 43. Bb3 Kd6 44. Bxd5 Kc7 45. Ka5 Nd7 46. Ka6
+Kb8 47. Kb5 Nf8 48. Kc6 Ng6 49. Be6 Nf4 50. Bc8 Nd3 51. Kd5 g4 52. fxg4 Nf4+
+53. Kxe5 Nxh3 54. f4 Nf2 55. g5 Nd3+ 56. Kf6 Nxf4 57. g6 1-0

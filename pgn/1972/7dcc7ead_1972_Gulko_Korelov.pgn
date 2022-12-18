@@ -1,0 +1,22 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Gulko, Boris"]
+[Black "Korelov, Alexander P"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "7dcc7ead"]
+[Epoch "Bishop"]
+[BlackID "4103858"]
+[BlackCountry "RUS"]
+[WhiteID "2000040"]
+[WhiteCountry "USA"]
+
+1. b3 d5 2. Bb2 c5 3. e3 Nc6 4. Nf3 Bg4 5. h3 Bh5 6. Bb5 Rc8 7. g4 Bg6 8. h4
+Be4 9. Nc3 Bxf3 10. Qxf3 e6 11. Ne2 Ne7 12. g5 a6 13. Bxc6+ Nxc6 14. Qg4 Nb4
+15. Kd1 a5 16. h5 c4 17. Bc3 Rg8 18. Nf4 g6 19. hxg6 hxg6 20. a3 Na6 21. b4
+axb4 22. axb4 Qd7 23. Qh4 Bxb4 24. Bf6 Be7 25. Qh7 Rf8 26. Bg7 Nc5 27. Bxf8
+Bxf8 28. Qg8 Ne4 29. Nxg6 fxg6 30. Rh7 1-0

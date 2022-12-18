@@ -1,0 +1,20 @@
+[Event "Graz"]
+[Site "Graz"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Monnard, Laurent"]
+[Black "Aghili, Houtan"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "d0cf258d"]
+[Epoch "Bishop"]
+[WhiteID "600725"]
+[WhiteCountry "FRA"]
+
+1. Nf3 c5 2. e4 Nc6 3. Bb5 g6 4. c3 Nf6 5. Qe2 Bg7 6. O-O O-O 7. d4 cxd4 8.
+cxd4 d6 9. h3 a6 10. Ba4 Qb6 11. Rd1 Bd7 12. Nc3 e5 13. dxe5 dxe5 14. Bxc6 Bxc6
+15. Nxe5 Rfe8 16. Nxc6 Nxe4 17. Ne7+ Rxe7 18. Nd5 Qe6 19. Nxe7+ Qxe7 20. f3
+Qc5+ 21. Be3 Ng3 22. Bxc5 Nxe2+ 23. Kf2 Nf4 24. Be3 Ne6 25. Rd7 b5 26. Rb1 Rc8
+27. Rc1 Rc4 28. b3 Rxc1 29. Bxc1 h5 30. Be3 a5 31. Rb7 1-0

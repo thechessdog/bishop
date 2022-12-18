@@ -1,0 +1,21 @@
+[Event "Haifa"]
+[Site "Haifa"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Soltis, Andrew"]
+[Black "Halfdanarson, Jon"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "c1c89720"]
+[Epoch "Bishop"]
+[WhiteID "2000741"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Nd7 8.
+d4 exd4 9. Qxd4 O-O 10. Bf4 Nc5 11. Qe3 Ne6 12. Rad1 Qe8 13. Bg3 f6 14. Nh4 b5
+15. Nf5 Bc5 16. Qe2 Qf7 17. Rd3 Bb7 18. Rfd1 Rfd8 19. h3 Rxd3 20. Rxd3 Re8 21.
+Qg4 Kh8 22. e5 Qg6 23. exf6 gxf6 24. Ne4 Bc8 25. Bh4 Ng5 26. Bxg5 fxg5 27. Rf3
+Bd6 28. Nexd6 cxd6 29. Qd4+ Kg8 30. Nxd6 Rd8 31. Rf6 Qxc2 32. Qe5 h6 33. Qe7
+Rxd6 34. Rf8# 1-0

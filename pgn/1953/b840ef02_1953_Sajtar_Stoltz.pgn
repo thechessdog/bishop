@@ -1,0 +1,18 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1953.01.01"]
+[Round "15"]
+[White "Sajtar, Jaroslav"]
+[Black "Stoltz, Gösta"]
+[Result "1/2-1/2"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "b840ef02"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Bd3 e5 6. Ne2 exd4 7. exd4 d5 8. a3
+Be7 9. cxd5 Nxd5 10. O-O O-O 11. Qc2 h6 12. Nxd5 Qxd5 13. Rd1 Qd8 14. Bc4 Bd6
+15. Qe4 Re8 16. Qf3 Be6 17. Bxe6 Rxe6 18. Be3 1/2-1/2

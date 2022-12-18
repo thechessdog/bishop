@@ -1,0 +1,20 @@
+[Event "CSR-ch"]
+[Site "Luhacovice"]
+[Date "1968.??.??"]
+[Round "9"]
+[White "Kozma, Julius"]
+[Black "Augustin, Josef"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "0fb0cdc6"]
+[Epoch "Bishop"]
+[WhiteID "14934019"]
+[BlackID "300373"]
+[WhiteCountry "SVK"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 a6 10. a3 Ba5 11. a4 Qe7 12. Rd1 Rd8 13. Bd2 b6 14. dxc5 Nxc5 15.
+Rdb1 Bb4 16. Nd4 1/2-1/2

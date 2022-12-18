@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Settis"]
+[Black "Paolino"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "e84add58"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 Bxc3+ 5. bxc3 O-O 6. e4 d6 7. f3 Nbd7
+8. Bd3 e5 9. Ne2 c5 10. d5 Qc7 11. g4 h6 12. Be3 Nh7 13. Ng3 b5 14. cxb5 c4
+15. Bc2 Nc5 16. h4 f6 17. Qe2 a6 18. b6 Qxb6 19. Rb1 Qa5 20. Qxc4 Bd7 21.
+Bxc5 Qxc5 22. Qxc5 dxc5 23. Rb7 Rfd8 24. Kd2 Nf8 25. Rhb1 Ng6 26. h5 Nh4
+27. Ke3 Ng2+ 28. Kf2 Nf4 29. Rc7 Rac8 30. Rbb7 Rxc7 31. Rxc7 Rb8 32. Bb3
+Bc8 33. d6+ 1-0
+

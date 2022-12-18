@@ -1,0 +1,17 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1953.03.01"]
+[Round "1"]
+[White "Burgalat, F."]
+[Black "Cuellar Gacharna, Miguel"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3, counterthrust variation"]
+[HashCode "f956820e"]
+[Epoch "Bishop"]
+[BlackCountry "COL"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. Nc3 c6 6. Nf3 O-O 7. O-O dxc4 8. Qc2
+Na6 9. Rd1 Nb4 10. Qb1 Nfd5 11. e4 Nxc3 12. bxc3 Nd3 13. Be3 Qa5 14. Qc2 Qh5
+15. Nd2 b5 16. f4 Qe2 0-1

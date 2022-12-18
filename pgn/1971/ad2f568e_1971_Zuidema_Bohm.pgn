@@ -1,0 +1,18 @@
+[Event "Amersfoort"]
+[Site "Amersfoort"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Zuidema, Coen"]
+[Black "Bohm, Hans"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "ad2f568e"]
+[Epoch "Bishop"]
+[WhiteID "1000101"]
+[BlackID "1000306"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Nc6 6. d5 Nb4 7. Bd2 Nbxd5 8.
+Bb5+ Kd8 9. O-O e6 10. Ne5 Bb4 11. Nc4 1-0

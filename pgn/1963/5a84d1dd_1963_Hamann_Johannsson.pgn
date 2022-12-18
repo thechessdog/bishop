@@ -1,0 +1,23 @@
+[Event "Halle zt"]
+[Site "Halle zt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Hamann, Svend"]
+[Black "Johannsson, Ingi Randver"]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "5a84d1dd"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+[BlackCountry "ISL"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 e6 7. e3 Be7 8. h3
+O-O 9. Bd3 Nh5 10. Bh2 f5 11. O-O Nf6 12. Rc1 Bd7 13. Ne5 Nxe5 14. Bxe5 Qb6 15.
+Qb3 Rfc8 16. f3 Qxb3 17. axb3 Bc6 18. g4 g6 19. Rc2 a6 20. Rg2 fxg4 21. hxg4
+Nd7 22. Bg3 Bf6 23. f4 Re8 24. Rh2 Bg7 25. g5 Rac8 26. Kf2 Re7 27. Rfh1 Bf8 28.
+Ke2 Rg7 29. Nd1 Bd6 30. Nf2 Bb5 31. Bxb5 axb5 32. Ng4 Nf8 33. Kd3 Kh8 34. Ra1
+Rf7 35. Rc2 Rxc2 36. Kxc2 Rc7+ 37. Kd3 Kg7 38. Nf6 Rc8 39. Ra5 h6 40. Rxb5 Rb8
+41. Bh4 hxg5 42. Bxg5 b6 43. e4 Kf7 44. exd5 Rb7 45. Ne4 Bb8 46. Nc5 1-0

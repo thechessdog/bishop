@@ -1,0 +1,17 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Humerez"]
+[Black "Espinosa Flores, Rafael Emilio"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "4a3ffd1a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 e6 8.
+O-O Nb6 9. Bb3 Be7 10. f4 Qc7 11. Qd3 O-O 12. Rae1 Nbd7 13. Kh1 Nc5 14. Qg3
+Nxb3 15. cxb3 b5 16. e5 dxe5 17. fxe5 Ne8 18. Ne4 Kh8 19. Qh4 Bb4 20. Re3 Bb7
+21. Nf6 Nxf6 22. exf6 g6 23. Qh6 1-0

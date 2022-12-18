@@ -1,0 +1,22 @@
+[Event "Russia"]
+[Site "Russia"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kalinkin, B."]
+[Black "Yakovlev, Y."]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "76c6f95a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 d5 10. e5 Nd7 11. Nf3 Nb6 12. h4 f6 13. exf6 Bxf6 14.
+Qe1 Bd7 15. g3 Rc8 16. Kb1 h6 17. Bxf6 Qxf6 18. Bb5 a6 19. Bd3 Nb4 20. Ne5
+Nxd3 21. cxd3 Be8 22. Qg1 Nd7 23. Re1 Nxe5 24. Rxe5 Qg6 25. Qe3 d4 26. Qxd4
+Qxg3 27. Rg1 Rxf4 28. Ne4 Qg2 29. a3 Rf1+ 30. Rxf1 Qxf1+ 31. Ka2 Bb5 32.
+Qd6 Rc6 33. Qb8+ Kh7 34. Nc5 Bxd3 35. Nxd3 Qxd3 36. Qxb7 Qc4+ 37. Qb3 Qxb3+
+38. Kxb3 Kg6 39. Kb4 Kf6 40. Rc5 Rxc5 41. Kxc5 Kf5 42. b4 g5 43. hxg5 hxg5
+44. a4 g4 45. Kd4 e5+ 46. Ke3 Ke6 0-1
+

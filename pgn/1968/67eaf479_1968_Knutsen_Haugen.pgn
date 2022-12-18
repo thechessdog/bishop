@@ -1,0 +1,22 @@
+[Event "Stavanger"]
+[Site "Stavanger"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Knutsen, Levin"]
+[Black "Haugen, Arild"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[HashCode "67eaf479"]
+[Epoch "Bishop"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 h6 6. Nd5 O-O 7. h4 d6 8. Nxf6+
+Qxf6 9. c3 Bg4 10. Qe2 Bxf3 11. gxf3 Na5 12. Bd2 Nxc4 13. dxc4 Rfd8 14. O-O-O
+c6 15. Be3 Bxe3+ 16. fxe3 Qe6 17. Rhg1 a6 18. Rg4 b5 19. Rdg1 g6 20. h5 g5 21.
+f4 exf4 22. exf4 f6 23. fxg5 fxg5 24. b3 bxc4 25. e5 cxb3 26. Ra4 bxa2 27. Rxa2
+a5 28. c4 dxe5 29. Rg4 Qf5 30. c5 Rdb8 31. Re4 Rb7 32. Rxe5 Qb1+ 33. Kd2 Qxa2+
+34. Ke3 Rb3+ 35. Kd4 Rd8+ 36. Ke4 Qxe2+ 37. Kf5 Qf3+ 38. Kg6 Qf7+ 39. Kxh6 Qg7#
+0-1

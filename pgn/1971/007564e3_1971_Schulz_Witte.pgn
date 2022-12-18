@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Schulz, R."]
+[Black "Witte, M."]
+[Result "1-0"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "007564e3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Rc8
+8. f4 Nxd4 9. Qxd4 Qa5 10. O-O-O e6 11. e5 dxe5 12. fxe5 Bc6 13. Bb5 Bxb5
+14. exf6 Bc6 15. h4 g6 16. Rhe1 Bc5 17. Rxe6+ Kf8 18. Bh6+ Kg8 19. Qe5 Bb4
+20. Nd5 1-0
+

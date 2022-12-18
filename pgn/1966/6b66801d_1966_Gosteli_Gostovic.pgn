@@ -1,0 +1,22 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Gosteli"]
+[Black "Gostovic"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "6b66801d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bg5 Be7 7. f4 a6 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. a3 Bb7 14. Bh3
+O-O 15. Rhg1 Rac8 16. f5 e5 17. Nde2 f6 18. gxf6 Bxf6 19. Ng3 Nb6 20. Qd3
+Nc4 21. Nge2 Kh8 22. Bg2 Qc5 23. Kb1 b4 24. axb4 Qxb4 25. b3 Rfd8 26. Nc1
+Na3+ 27. Kb2 d5 28. N1a2 Qd6 29. Rd2 d4 30. Nd1 a5 31. Bf1 a4 32. h4 axb3
+33. cxb3 Ra8 34. h5 Ba6 35. Qf3 Bxf1 36. Rxf1 Nb5 37. h6 gxh6 38. Qd3 Nc3
+39. Ka1 Bg5 40. Rc2 Nxa2 41. Rxa2 Rxa2+ 42. Kxa2 Ra8+ 43. Kb1 Qa3 44. Nb2
+Qa2+ 45. Kc2 Rc8+ 0-1
+

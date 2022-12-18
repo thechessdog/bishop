@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Schutt"]
+[Black "Schreiber"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "b5c0a1dc"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7 7. d4 Nbc6
+8. Bg5 Bb4+ 9. c3 Qd5 10. Bxe7 Bxe7 11. Bg2 Qh5 12. Bxc6+ bxc6 1-0
+

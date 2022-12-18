@@ -1,0 +1,24 @@
+[Event "Strasbourg ch-RDT"]
+[Site "Strasbourg ch-RDT"]
+[Date "1971.01.01"]
+[Round "15"]
+[White "Espig, Lutz"]
+[Black "Dietze, Wolfgang, Dr."]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "c2c7081f"]
+[Epoch "Bishop"]
+[WhiteID "4611276"]
+[WhiteCountry "GER"]
+[BlackID "4611802"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Be2 Bd6 7. Nf3 O-O
+8. O-O Bf5 9. Be3 Qc7 10. Qd2 Re8 11. c4 c5 12. dxc5 Bxc5 13. Bxc5 Qxc5 14. b4
+Qc8 15. Nd4 Nc6 16. Bf3 Ne5 17. c5 Bd3 18. Be2 Bxe2 19. Qxe2 Nc6 20. Qb2 Re4
+21. Rad1 Qe8 22. Nxc6 bxc6 23. Qc3 Rb8 24. Rfe1 h6 25. a3 f5 26. Kf1 Qe7 27. f3
+Rxe1+ 28. Qxe1 Qb7 29. Qe2 Kf8 30. Qd3 g6 31. Kf2 Kg8 32. Qe3 Kg7 33. Rd6 Rc8
+34. h4 h5 35. Qd4+ Kg8 36. Qc4 Kg7 37. Qe2 Kg8 38. Kg3 Qc7 39. Qe5 a5 40. Kf4
+axb4 41. axb4 Qb8 42. Kg5 1-0

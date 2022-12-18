@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Gudat, A."]
+[Black "Felbecker, Hans"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "03ee06f7"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Ne4 7. Nxe4 dxe4
+8. d5 Ne5 9. Qd4 f6 10. Bd2 Bf5 11. Qc3 e6 12. Nh3 exd5 13. cxd5 Qb6 14.
+Be2 Rc8 15. Qa5 Qxb2 16. O-O Bxh3 17. gxh3 Rc5 18. Qa4+ b5 19. Qa6 Qxd2 20.
+Bxb5+ Kf7 0-1
+

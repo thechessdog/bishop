@@ -1,0 +1,23 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Edelsvard, Olle"]
+[Black "Osterling, Gosta"]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "pawn storm variation"]
+[HashCode "77b406a4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Qe7 8.
+Nf3 Bg7 9. Bd3 O-O 10. O-O Na6 11. Re1 Nc7 12. a4 Rb8 13. Qe2 Re8 14. h3 b6
+15. Bd2 a6 16. Kh2 Qd7 17. Qf2 b5 18. axb5 axb5 19. Ra7 Rb7 20. Ra5 b4 21.
+Na4 Qd8 22. Nxc5 dxc5 23. Rxc5 Bf8 24. Rc4 Nd7 25. Rec1 Nb6 26. Rxc7 Rxc7
+27. Qxb6 Rxc1 28. Qxd8 Rxd8 29. Bxc1 Bb7 30. Bc4 Re8 31. e5 Rc8 32. b3 Bxd5
+33. Bxd5 Rxc1 34. Ng5 Bc5 35. Nxf7 Bg1+ 36. Kg3 Rc3+ 37. Kg4 h5+ 38. Kg5
+Kg7 39. g4 Rg3 40. Nd8 Rxh3 41. Ne6+ Kf7 42. Nc5+ Ke7 43. Ne4 Rd3 44. Nf6
+Bh2 45. Bc4 Rf3 46. Nd5+ Kd7 47. gxh5 gxh5 48. Kf5 Bxf4 49. e6+ Kd6 50.
+Nxf4 h4 51. Kg4 Rf2 52. Nd3 Rg2+ 53. Kxh4 Rg7 54. Nxb4 Ke5 55. e7 1-0
+

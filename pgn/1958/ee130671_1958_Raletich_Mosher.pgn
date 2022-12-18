@@ -1,0 +1,15 @@
+[Event "Canada"]
+[Site "Canada"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Raletich, George"]
+[Black "Mosher"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest defence declined"]
+[HashCode "ee130671"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. d5 Bc5 4. h3 Bxf2+ 5. Kxf2 Ne4+ 6. Kf3 Qh4 7. Nc3
+Qg3+ 8. Kxe4 f5+ 9. Kxf5 d6+ 10. Ke4 Bf5+ 11. Kxf5 Qg6# 0-1
+

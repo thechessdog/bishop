@@ -1,0 +1,21 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Salm"]
+[Black "Fries-Nielsen, Jens Ove"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "6823a98b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Ne4 7. O-O d5 8. exd6
+O-O 9. dxc7 Qf6 10. Qc2 Bf5 11. Bd3 dxc3 12. Nxc3 Nb4 13. Nxe4 Bxe4 14. Qxc5
+Nxd3 15. Qc4 Rfe8 16. Nd4 Rac8 17. Qc3 Qb6 18. Be3 Rxc7 19. Qb3 Qxb3 20. Nxb3
+a6 21. Bd4 Rc2 22. Rab1 Nf4 23. Rfe1 Re2 24. Ra1 Bd5 25. Bc3 Rxe1+ 26. Rxe1
+Rxe1+ 27. Bxe1 Nxg2 28. Bc3 Bxb3 29. axb3 Nf4 30. Bd2 Nd5 31. Kf1 f6 32. Ke2
+Kf7 33. Kd3 Ke6 34. Kd4 Kd6 35. Bc1 Kc6 36. Bd2 Nc7 37. Kc4 b5+ 38. Kd3 Kd5 39.
+Bc3 Ne6 40. b4 f5 41. b3 Kd6 42. Ke3 Ke7 43. Be5 g5 44. Kf3 Kf7 45. Ke3 Kg6 46.
+Bd6 Kh5 47. Be5 0-1

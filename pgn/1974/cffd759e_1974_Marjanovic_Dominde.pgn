@@ -1,0 +1,18 @@
+[Event "Porec"]
+[Site "Porec"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Marjanovic, Slavoljub"]
+[Black "Dominde"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "cffd759e"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. Bb3 b5 8. O-O
+Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Qh5 Bc5 13. Be3 Bxd4 14. Bxd4 Nc6
+15. Rad1 Nxd4 16. Rxd4 Qb6 17. Rd1 Qc5 18. Bd5 exd5 19. Nxd5 a5 20. c3 Ra6 21.
+Kh1 Rh6 22. Qg5 Re8 23. b4 Qf8 24. Nc7 Rxe5 25. Qd2 Qd8 26. Nd5 Rhe6 27. bxa5
+Re2 28. Nf4 0-1

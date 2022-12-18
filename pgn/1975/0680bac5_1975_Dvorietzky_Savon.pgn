@@ -1,0 +1,19 @@
+[Event "Vilnius zt"]
+[Site "Vilnius zt"]
+[Date "1975.01.01"]
+[Round "9"]
+[White "Dvoretsky, Mark Izrailovich"]
+[Black "Savon, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "0680bac5"]
+[Epoch "Bishop"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 d5 7. exd5 Qxd5
+8. d4 e6 9. Be3 cxd4 10. Nxd4 Nxd4 11. Bxd4 Ne7 12. Qb3 Qc6 13. Nd2 Nf5 14. Nc4
+Bd6 15. Be5 O-O 16. Nxd6 1/2-1/2

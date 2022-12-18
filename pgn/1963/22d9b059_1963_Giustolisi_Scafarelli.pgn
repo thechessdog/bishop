@@ -1,0 +1,20 @@
+[Event "Imperia tt"]
+[Site "Imperia tt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Giustolisi"]
+[Black "Scafarelli"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "22d9b059"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Bf1 e5 8.
+h3 Be7 9. d4 cxd4 10. cxd4 Rc8 11. Nc3 O-O 12. Be3 b5 13. a3 Re8 14. Rc1 h6
+15. b4 Bf8 16. d5 Ne7 17. Nd2 Rb8 18. Nb3 Nh7 19. Na5 f5 20. exf5 Bxf5 21.
+a4 Qd7 22. axb5 axb5 23. f4 exf4 24. Bxf4 Ng6 25. Bg3 Rxe1 26. Qxe1 Ne5 27.
+Bxe5 dxe5 28. Nc6 Rb7 29. Nxb5 Ng5 30. Nxe5 Qe8 31. Nc6 Qg6 32. Qg3 Rxb5
+33. Bxb5 Nxh3+ 34. Kh2 Bd6 35. Ne7+ 1-0
+

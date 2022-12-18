@@ -1,0 +1,23 @@
+[Event "Buenos Aires V"]
+[Site "Buenos Aires"]
+[Date "1958.01.01"]
+[Round "13"]
+[White "Palermo, Vicente"]
+[Black "Shocron, Ruben"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "6af76f3b"]
+[Epoch "Bishop"]
+[BlackID "2002582"]
+[BlackCountry "USA"]
+[WhiteCountry "ARG"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. Qc2 Bg4 13. Nxe5 Nxe5 14. dxe5
+Qxe5 15. f3 Be6 16. e4 c4 17. Be2 Qc5+ 18. Kh1 Nd7 19. a4 Rfd8 20. Rb1 b6 21.
+f4 f6 22. Bf3 Rac8 23. Rb5 Qe7 24. a5 a6 25. Rh5 Bf7 26. Rh3 Bg6 27. axb6 Nxb6
+28. f5 Bf7 29. Qf2 Nd7 30. Qh4 Nf8 31. g4 g5 32. fxg6 Bxg6 33. g5 f5 34. exf5
+Bxf5 35. Bg4 Ng6 36. Qg3 Qe4+ 37. Bf3 Qd3 38. Rd1 Qxd1+ 39. Bxd1 Rxd1+ 40. Kg2
+Rxc1 41. Rh6 Rc2+ 42. Kg1 Rd8 0-1

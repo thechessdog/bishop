@@ -1,0 +1,19 @@
+[Event "Herning"]
+[Site "Herning"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Hansen, Victor"]
+[Black "Poulsen, Christian"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "6baa4bac"]
+[Epoch "Bishop"]
+[WhiteID "1502638"]
+[WhiteCountry "NOR"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. e3 O-O 6. Bd3 c5 7. dxc5 dxc4 8.
+Bxc4 Bxc5 9. O-O a6 10. Qe2 b5 11. Bd3 Nbd7 12. Rd1 Qe7 13. h3 Bb7 14. e4 b4
+15. Na4 Bc6 16. b3 Ba7 17. Bg5 h6 18. Bxf6 Nxf6 19. Rac1 Bb5 1/2-1/2

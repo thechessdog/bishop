@@ -1,0 +1,20 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1965.03.01"]
+[Round "1"]
+[White "Bogdanovic, Rajko"]
+[Black "Lengyel, Levente"]
+[Result "0-1"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Simagin variation"]
+[HashCode "cff47f4a"]
+[Epoch "Bishop"]
+[WhiteID "14400316"]
+[WhiteCountry "BIH"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nh4 Nxe4 12. Nf5 Ndf6 13. Nxe7+ Qxe7 14. Rxe4
+Nxe4 15. Bd5 Nxf2 16. Kxf2 Rb8 17. Be3 Be6 18. Bb3 Rbe8 19. dxe5 Qh4+ 20. Kf1
+Bxh3 21. Bf2 Qe4 22. gxh3 Rxe5 23. Qg4 Qh1+ 24. Bg1 h5 25. Qg3 Rfe8 0-1

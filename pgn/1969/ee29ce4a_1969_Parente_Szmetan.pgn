@@ -1,0 +1,19 @@
+[Event "Brasilia"]
+[Site "Brasilia"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Parente, F."]
+[Black "Szmetan, Jorge"]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit"]
+[HashCode "ee29ce4a"]
+[Epoch "Bishop"]
+[BlackID "100366"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Ba4 Bc5 6. Nxe5 O-O 7. Nd3 Bb6 8.
+e5 Ne8 9. O-O d6 10. exd6 Nxd6 11. Nd5 Qg5 12. Ne3 N6f5 13. c3 Nxe3 14. dxe3
+Bh3 15. Nf4 Bg4 16. f3 Ne6 17. Kh1 Rad8 18. Qe2 Nxf4 19. exf4 Qa5 20. Bb5 c6
+21. Bxc6 bxc6 22. fxg4 Rfe8 23. Qc2 Qd5 24. f5 Qc4 25. Rd1 Qe4 0-1

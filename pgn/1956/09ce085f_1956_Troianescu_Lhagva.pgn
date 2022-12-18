@@ -1,0 +1,17 @@
+[Event "Ulan Bator"]
+[Site "Ulan Bator"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Troianescu, Octavio"]
+[Black "Lhagva, Gambaldo"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Tolush-Geller gambit"]
+[HashCode "09ce085f"]
+[Epoch "Bishop"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 d5 3. Nf3 c6 4. Nc3 dxc4 5. e4 b5 6. e5 Nd5 7. a4 b4 8. Ne4 Bf5
+9. Ng3 Bg6 10. e6 fxe6 11. Ne5 Bf5 12. Bxc4 a5 13. Nxf5 exf5 14. Qh5+ g6 15.
+Nxg6 Nf6 16. Ne5+ 1-0

@@ -1,0 +1,19 @@
+[Event "Goteborg"]
+[Site "Gothenburg"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Lundin, Erik"]
+[Black "Jansson, Borje"]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Czech Benoni"]
+[Variation "King's Indian system"]
+[HashCode "ce76205e"]
+[Epoch "Bishop"]
+[BlackID "1700189"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 g6 6. f4 exf4 7. Bxf4 Nh5 8. Be3
+Bg7 9. Be2 Bxc3+ 10. bxc3 Qh4+ 11. Kd2 Qxe4 12. Nf3 Bg4 13. Bd3 Bxf3 14. Qa4+
+1-0

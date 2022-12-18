@@ -1,0 +1,26 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "9"]
+[White "Conan, Claude"]
+[Black "Benoit, Michel"]
+[Result "0-1"]
+[ECO "D25"]
+[Opening "QGA, Janowsky-Larsen variation"]
+[HashCode "70900bdf"]
+[Epoch "Bishop"]
+[WhiteID "26077272"]
+[WhiteCountry "FRA"]
+[BlackID "602400"]
+[BlackCountry "FRA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Bg4 5. Bxc4 e6 6. Nc3 a6 7. a4 Nc6 8. O-O
+Bd6 9. h3 Bh5 10. Be2 O-O 11. e4 Bxf3 12. Bxf3 Nxd4 13. Be3 Nc6 14. Qe2 Qe7 15.
+Rad1 h6 16. g3 Rfd8 17. Bg2 Be5 18. f4 Bxc3 19. bxc3 e5 20. Rb1 Rab8 21. Rf2
+Qd6 22. Rbf1 Qd3 23. fxe5 Nxe5 24. Bd4 Qxe2 25. Rxe2 Nfd7 26. Rb1 b5 27. Ba7
+Rb7 28. Bf2 Nb6 29. Ra2 Nbc4 30. Bd4 Rdb8 31. Bf1 Nf3+ 32. Kf2 Nfd2 33. Re1
+Nxf1 34. Kxf1 Re8 35. Ree2 Re6 36. axb5 axb5 37. e5 Kh7 38. Kf2 Kg6 39. Kf3 c6
+40. g4 Rbe7 41. Kf4 Rd7 42. h4 Rd5 43. Ra6 c5 44. Rxe6+ fxe6 45. Bf2 Kf7 46. h5
+Ke7 47. Bh4+ Kd7 48. g5 hxg5+ 49. Bxg5 b4 50. cxb4 cxb4 51. Re4 Rc5 52. Rd4+
+Ke8 53. Rd8+ Kf7 54. Rd7+ Kg8 55. Be7 Rb5 56. Rd1 b3 57. Kg5 b2 58. Kg6 b1=Q+
+0-1

@@ -1,0 +1,23 @@
+[Event "Bremen"]
+[Site "Bremen"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Brinckmann, Alfred"]
+[Black "Kupper, Josef"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "80379118"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+[BlackID "1300121"]
+[BlackCountry "SUI"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 Nc5 11. c3 O-O 12. Bc2 Qd7 13. Nd4 Bg4 14. f3 Bh5 15.
+Nd2 Rfe8 16. Nxc6 Qxc6 17. a4 bxa4 18. c4 Nb3 19. Bxb3 axb3 20. cxd5 Qc2 21.
+Kf1 Bf6 22. Ne4 Qxe2+ 23. Kxe2 Bxe5 24. Kd3 Bg6 25. h3 a5 26. Ra4 f6 27. Kc4
+Reb8 28. Bd2 Bf7 29. f4 Bxb2 30. Rb1 f5 31. Ng5 Bf6 32. Nxf7 Kxf7 33. Rxb3 Rxb3
+34. Kxb3 Ke7 35. Rxa5 Rb8+ 36. Bb4+ Kd7 37. Kc4 Re8 38. Ra7 Re4+ 39. Kb5 Bd4
+40. Bc5 1-0

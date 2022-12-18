@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Sadomsky"]
+[Black "Shaposhnikov"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Rellstab variation"]
+[HashCode "2dbe40e0"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 Nc5 6. Bg5 Be7 7. exd6
+Qxd6 8. Nc3 Qxd5 9. Nxd5 Bd6 10. O-O-O Nc6 11. Bb5 Bd7 12. Rhe1+ Ne6 13. c4
+Rc8 14. b4 a6 15. Bxc6 bxc6 16. Nb6 Bxb4 17. Rxe6+ Bxe6 18. Nxc8 f6 19. Bf4
+Bxc8 20. Bxc7 Ba3+ 21. Kc2 Kf7 22. Bd6 Bf5+ 23. Kb3 Bxd6 24. Rxd6 Be4 25.
+Nd4 Bxg2 26. Rd7+ Kg6 27. Ne6 Kf5 28. Nxg7+ Kg4 29. Rd3 Be4 30. Rg3+ Kf4
+31. Ne6+ Ke5 32. Nc5 Kd4 33. Ne6+ 1/2-1/2
+

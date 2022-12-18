@@ -1,0 +1,21 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kreideweiss"]
+[Black "Gotzhein"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "3092f96d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. dxc5 Qxc5 6. Be3 Qa5 7. b4 Qc7
+8. Na3 b6 9. Nb5 Qb7 10. Nf3 a6 11. Nbd4 Nf6 12. Bc4 e6 13. O-O Be7 14. b5
+Nxd4 15. Nxd4 axb5 16. Bxb5+ Bd7 17. c4 O-O 18. a4 e5 19. Nb3 Rfd8 20. Qe2
+Bxb5 21. cxb5 Rd5 22. Rfc1 Bd6 23. Rc6 e4 24. Rxb6 Bxh2+ 25. Kf1 Qd7 26. a5
+Bc7 27. Rb7 Rh5 28. Qc4 Rh1+ 29. Ke2 Qg4+ 30. Kd2 Rd8+ 31. Bd4 Rxa1 32.
+Rxc7 e3+ 33. Kc2 Qe4+ 34. Kb2 Qb1+ 35. Kc3 Ne4+ 36. Kb4 Nd6 37. Qe2 exf2
+38. Qxf2 Rxa5 39. Kxa5 Qxb3 40. Qe2 Rb8 0-1
+

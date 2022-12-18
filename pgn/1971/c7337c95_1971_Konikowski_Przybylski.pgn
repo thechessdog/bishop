@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Konikowski, J."]
+[Black "Przybylski"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "c7337c95"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Nbd7 9. Re1 Qc7 10. Bxe6 fxe6 11. Nxe6 Qc4 12. Nd5 Nxd5 13. exd5 Ne5
+14. b3 1-0
+

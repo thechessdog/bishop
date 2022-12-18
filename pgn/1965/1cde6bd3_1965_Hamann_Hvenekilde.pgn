@@ -1,0 +1,20 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Hamann, Svend"]
+[Black "Hvenekilde, Jorgen"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "1cde6bd3"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[BlackID "1400649"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 a6 6. e3 O-O 7. c5 b6 8. b4 Ne4
+9. Nxe4 dxe4 10. Nd2 Bb7 11. Qc2 f5 12. Bc4 Bd5 13. Bxd5 exd5 14. Nb3 Nc6 15.
+a3 b5 16. O-O Bf6 17. Bg3 1/2-1/2

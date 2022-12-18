@@ -1,0 +1,19 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1973.01.01"]
+[Round "3"]
+[White "Van der Weide, Piet"]
+[Black "Bednarski, Jacek B"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Vistaneckis (Nimzovich) variation"]
+[HashCode "3e27e65d"]
+[Epoch "Bishop"]
+[WhiteID "1001370"]
+[WhiteCountry "NED"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ng8 6. Be3 c5 7. Nf3 cxd4 8. Nxd4
+Nc6 9. f4 Nh6 10. Bd3 O-O 11. Qe2 f6 12. O-O Bd7 13. f5 Nxd4 14. Bxd4 fxe5 15.
+Qxe5 Bf6 16. Qf4 Nxf5 1/2-1/2

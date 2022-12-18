@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Sosa, G."]
+[Black "Bet, C."]
+[Result "0-1"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "bf70c6c4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c5 8. g4
+Ne8 9. h4 f5 10. exf5 gxf5 11. gxf5 Bxf5 12. Bd3 Bxd3 13. Qxd3 Nd7 14. Ne4
+h6 15. Qd2 Ndf6 16. Bxh6 Nxe4 17. Qg2 N4f6 18. Ne2 Qd7 19. Rg1 Kh8 0-1
+

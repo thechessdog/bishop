@@ -1,0 +1,18 @@
+[Event "corr FRG-YUG"]
+[Site "corr FRG-YUG"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Landwehr"]
+[Black "Reiter"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "4630ab4b"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 e6 7. a3 Nbd7 8.
+g4 g6 9. Qg3 d4 10. Ne2 Qb6 11. Bg2 e5 12. c3 c5 13. O-O Rc8 14. Rb1 h5 15.
+c4 Qb3 16. f4 Qc2 17. fxe5 Nxg4 18. hxg4 Qxe2 19. Rxf7 h4 20. Qf4 Bh6 21.
+g5 Qe1+ 22. Bf1 Bg7 23. Qg4 Rc7 24. Qe6+ Kd8 25. Qe7+ Kc8 26. Bf4 1-0
+

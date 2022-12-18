@@ -1,0 +1,22 @@
+[Event "corr ch-NOR"]
+[Site "corr ch-NOR"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Iversen, Arne"]
+[Black "Jacobsen, Jarle"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "990d489a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nc3 d5 6. exd6 Bf5 7. Bd2
+Nxd6 8. Qb3 Nc6 9. Nf3 O-O 10. e3 Re8 11. Be2 Be6 12. Rd1 a6 13. a3 Bc5 14.
+Qa4 Bg4 15. O-O Bxf3 16. Bxf3 Ne5 17. Be2 Qh4 18. b4 b5 19. cxb5 axb5 20.
+Qb3 Ba7 21. Nd5 Nf5 22. g3 Qh3 23. Nf4 Qh6 24. Kg2 g5 25. Nh3 Qc6+ 26. Kg1
+h6 27. Rc1 Nf3+ 28. Bxf3 Qxf3 29. Qd1 Nh4 30. gxh4 Qxh3 31. Qh5 Re4 32. f4
+Rxe3 33. Bxe3 Bxe3+ 34. Kh1 Bxc1 35. Rxc1 g4 36. Qd5 Rxa3 37. Qd8+ Kh7 38.
+Qxc7 Qf3+ 39. Kg1 Qe3+ 40. Kh1 Qe4+ 41. Kg1 Qd4+ 42. Kh1 Qd5+ 43. Kg1 Ra2
+0-1
+

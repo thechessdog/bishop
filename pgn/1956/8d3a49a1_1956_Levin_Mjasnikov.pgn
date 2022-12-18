@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Levin"]
+[Black "Mjasnikov"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Pirc-Lisitsin gambit"]
+[HashCode "8d3a49a1"]
+[Epoch "Bishop"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 g6 6. h4 c6 7. h5 Rg8 8.
+hxg6 hxg6 9. Nc3 Qa5 10. Bd2 Qe5+ 11. Kf1 d5 12. Ne2 Qd6 13. Nf4 Ng4 14.
+Qe2 Bh6 15. Rxh6 Nxh6 16. Nfe6 Qh2 17. Qe3 Nf7 18. Nxf7 Kxf7 19. Ng5+ Ke8
+20. Bb4 Qc7 21. Re1 c5 22. Bxc5 Nc6 23. Bb5 Bf5 24. Qxe7+ Qxe7 25. Rxe7+
+Kd8 26. Nf7+ Kc8 27. Nd6+ Kd8 28. Nxb7+ Kc8 29. Bxc6 Rb8 30. Bd6 Bxc2 31.
+Rc7# 1-0
+

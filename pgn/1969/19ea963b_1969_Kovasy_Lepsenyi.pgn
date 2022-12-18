@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Kovasy"]
+[Black "Lepsenyi"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "19ea963b"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Bc4 e6 8.
+N1e2 Bd6 9. Nf4 Bxf4 10. Bxf4 Nf6 11. h5 Bf5 12. Nxf5 Qa5+ 13. Bd2 Qxf5 14.
+Rh4 Nbd7 15. Bd3 Qd5 16. Kf1 Qd6 17. c4 c5 18. Bc3 cxd4 19. Bxd4 e5 20. Qe2
+O-O 21. Be3 Qe7 22. Rh3 e4 23. Bd2 Rfe8 24. Bc2 Rac8 25. Bc3 Qe6 26. b3 Ng4
+27. Re1 f5 28. b4 Kh8 29. Bb3 Nge5 30. c5 Qe7 31. Qb5 Rc7 32. Ba4 Rf8 33.
+Bd2 Nf6 34. Bb3 Qd7 35. Qa4 Nc6 36. Qa3 Qxd2 0-1
+

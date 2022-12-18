@@ -1,0 +1,17 @@
+[Event "corr Palau"]
+[Site "corr Palau"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Navarrete, J."]
+[Black "Berthelsen, R."]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "9ecfab22"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Nf3 b4 11. Ne2 Ne4 12. Bf4 Bc5 13. Bg3 Qb6 14. Ned4
+Nc6 15. c3 bxc3 16. bxc3 Nxd4 17. Nxd4 Nxc3 18. Qf3 Bb7 19. Qxc3 Bxd4 0-1
+

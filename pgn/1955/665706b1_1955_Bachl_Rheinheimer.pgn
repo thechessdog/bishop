@@ -1,0 +1,16 @@
+[Event "Worms"]
+[Site "Worms"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Bachl, E."]
+[Black "Rheinheimer"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Paleface attack"]
+[HashCode "665706b1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. f3 d5 3. Nc3 c5 4. e4 cxd4 5. Qxd4 e5 6. Qxe5+ Be6 7. Bg5 Nbd7
+8. Bb5 Qb6 9. exd5 Bd6 10. Bxd7+ Ke7 11. dxe6 Qxg1+ 12. Rxg1 Bxe5 13. Bxf6+
+gxf6 14. Nd5+ Kd8 15. O-O-O fxe6 16. Bxe6 1-0
+

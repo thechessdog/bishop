@@ -1,0 +1,16 @@
+[Event "Oradia"]
+[Site "Oradia"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Borbely"]
+[Black "Kovacs"]
+[Result "1-0"]
+[ECO "B53"]
+[Opening "Sicilian, Chekhover variation"]
+[HashCode "c85710f7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 bxc6 7. Nc3
+Nf6 8. Bg5 Rb8 9. e5 dxe5 10. Nxe5 Rxb2 11. Bxf6 gxf6 12. Nxd7 Qxd7 13.
+Qxd7+ Kxd7 14. O-O-O+ 1-0
+

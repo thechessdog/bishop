@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1964.01.01"]
+[Round "5"]
+[White "Solmundarson, Magnus"]
+[Black "Thorbergsson, Freysteinn"]
+[Result "1-0"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "951d0166"]
+[Epoch "Bishop"]
+[WhiteID "2300850"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+Qh4+ 9. g3 Qe7 10. O-O-O f5 11. Nge2 Nd7 12. exf5 gxf5 13. f4 Ndf6 14. h3 exf4
+15. gxf4 Ne4 16. Nxe4 fxe4 17. Rg1 Bd7 18. Ng3 Nxg3 19. Rxg3 Kh8 20. Be2 Bf6
+21. Rdg1 Rg8 22. Bg4 Rg7 23. Bxd7 Rxg3 24. Rxg3 Qxd7 25. Bd4 Qe7 26. Qc3 Rf8
+27. Kd2 c5 28. Bxf6+ Qxf6 29. Qxf6+ Rxf6 30. Ke3 Rg6 31. Rxg6 hxg6 32. Kxe4 Kg7
+33. Kf3 Kf7 34. Kg4 Kf6 35. h4 a6 36. f5 gxf5+ 37. Kf4 b5 38. b3 bxc4 39. bxc4
+Kg6 40. h5+ Kxh5 41. Kxf5 1-0

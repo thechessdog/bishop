@@ -1,0 +1,17 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Legeler"]
+[Black "Maiwald"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "b1a8bb2f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8.
+e4 c6 9. Re1 exd4 10. Nxd4 Nc5 11. h3 Re8 12. Qc2 Nfxe4 13. Nxc6 Nxc3 14.
+Nxd8 Rxe1+ 15. Bf1 Ne2+ 16. Kg2 Nd4 17. Qd2 Rxf1 18. Nxf7 Rg1+ 0-1
+

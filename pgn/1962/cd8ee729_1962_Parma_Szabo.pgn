@@ -1,0 +1,20 @@
+[Event "Torremolinos zt"]
+[Site "Torremolinos zt"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Parma, Bruno"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "cd8ee729"]
+[Epoch "Bishop"]
+[WhiteID "14600706"]
+[WhiteCountry "SLO"]
+[BlackID "710741"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bc4 Bf5
+8. Qe2 e6 9. Bg5 Be7 10. O-O-O Nd5 11. Bd2 Nb6 12. Bd3 Bxd3 13. Qxd3 Qd5 14.
+Kb1 1/2-1/2

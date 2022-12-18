@@ -1,0 +1,27 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Malich, Burkhard, Dr."]
+[Black "Kotkov, Yuri"]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "4349ebe2"]
+[Epoch "Bishop"]
+[WhiteID "4611330"]
+[BlackID "54142938"]
+[WhiteCountry "GER"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. Be2 dxc4 7. Bxc4 c5 8. O-O
+Nc6 9. h3 Nd7 10. Be2 cxd4 11. exd4 Nb6 12. Be3 Be6 13. Qd2 Nc4 14. Bxc4 Bxc4
+15. Rfd1 Bd5 16. Ne5 Rc8 17. Bh6 f6 18. Bxg7 Kxg7 19. Ng4 Bf7 20. d5 Na5 21. d6
+e5 22. Qh6+ Kh8 23. d7 Rb8 24. Rd6 Nc4 25. Nxf6 Bg8 26. Ne8 Rf7 27. Rxg6 Qxd7
+28. Rxg8+ Kxg8 29. Nf6+ Rxf6 30. Qxf6 Rf8 31. Qg5+ Qg7 32. Qxg7+ Kxg7 33. b3
+Nb6 34. Nb5 Rc8 35. Re1 Rc2 36. Rxe5 Kf6 37. Re6+ Kxe6 38. Nd4+ Kd5 39. Nxc2
+Ke4 40. Ne3 Kd3 41. g4 Nd7 42. Kg2 b5 43. b4 Kc3 44. a3 Kb3 45. f4 Kxa3 46. Nd5
+Ka4 47. Kf3 a5 48. bxa5 Kxa5 49. Ke4 b4 50. Nxb4 Kxb4 51. Kd5 Kc3 52. f5 Kd3
+53. Ke6 Nc5+ 54. Ke7 Ke4 55. f6 Ke5 56. f7 Ne6 57. g5 Nf4 58. h4 h6 59. h5 Nd5+
+60. Kd7 1-0

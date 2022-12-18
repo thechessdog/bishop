@@ -1,0 +1,15 @@
+[Event "ACM New York"]
+[Site "ACM New York"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Marsland, CP."]
+[Black "Biit, J."]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "9c964372"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. d4 e6 3. Qd3 Nc6 4. Nf3 d5 5. Ne5 dxc4 6. Qxc4 Bb4+ 7. Bd2
+Bxd2+ 8. Kxd2 Nxe5 9. Qc5 Ne4+ 0-1
+

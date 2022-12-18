@@ -1,0 +1,20 @@
+[Event "Titograd"]
+[Site "Titograd"]
+[Date "1965.01.01"]
+[Round "7"]
+[White "Matanovic, Aleksandar"]
+[Black "Knezevic, Milorad"]
+[Result "1/2-1/2"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Flohr variation"]
+[HashCode "b5005aa1"]
+[Epoch "Bishop"]
+[WhiteID "900230"]
+[WhiteCountry "SRB"]
+[BlackID "950238"]
+[BlackCountry "SRB"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. O-O Bxf3 7. Bxf3 dxe5 8.
+dxe5 e6 9. Qe2 Nd7 10. c4 Ne7 11. Bd2 Qc7 12. Bc3 g5 13. Bh5 Bg7 14. Re1 Ng6
+15. Bxg6 hxg6 16. Nd2 f5 17. Rad1 Bf8 1/2-1/2

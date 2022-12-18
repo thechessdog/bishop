@@ -1,0 +1,25 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Carlsson, Gosta"]
+[Black "Appelquist, Olle"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "Lengfellner system"]
+[HashCode "00e8b098"]
+[Epoch "Bishop"]
+
+1. d4 d6 2. e4 e6 3. Nc3 g6 4. f4 Bg7 5. Nf3 h5 6. Bc4 Nd7 7. O-O Nb6 8.
+Bd3 f5 9. Qe2 Ne7 10. Bd2 O-O 11. Rae1 Nc6 12. Be3 d5 13. e5 Qe7 14. h3 Qb4
+15. a3 Qe7 16. g4 Bd7 17. gxh5 gxh5 18. Ng5 Be8 19. Kh2 Kh8 20. Rg1 Rg8 21.
+Rg2 Bh6 22. Reg1 Bxg5 23. Rxg5 Rxg5 24. fxg5 Bg6 25. Qf3 Kh7 26. Ne2 a6 27.
+Nf4 Rh8 28. b3 Nd8 29. Rf1 Nd7 30. a4 a5 31. c4 c6 32. Bd2 c5 33. Bc3 cxd4
+34. Bxd4 dxc4 35. bxc4 Nc6 36. Bc3 Nf8 37. Rb1 Kg8 38. Be2 Rh7 39. h4 Be8
+40. Qe3 Qa3 41. Bd1 Ng6 42. Ra1 Qe7 43. Nxg6 Bxg6 44. Bf3 f4 45. Qb6 Qf8
+46. Rd1 Qf5 47. Bxc6 bxc6 48. Qd8+ Qf8 49. Qxf8+ Kxf8 50. Rd8+ Be8 51. Bxa5
+Rb7 52. g6 c5 53. Rc8 Ke7 54. g7 Bf7 55. g8=Q Bxg8 56. Rxg8 Kf7 57. Rh8 Kg7
+58. Rxh5 Rb2+ 59. Kg1 Rc2 60. Bb6 Rxc4 61. a5 Ra4 62. Bxc5 Rxa5 63. Rg5+
+Kh6 64. Bf8+ Kh7 65. Kf2 Ra8 66. Bd6 Rc8 67. Kf3 Kh6 68. Kxf4 Rc4+ 69. Kg3
+Rc8 70. Kh3 Rc3+ 71. Rg3 Rc8 72. Be7 Rc7 73. Bg5+ Kh5 74. Bf4 1-0
+

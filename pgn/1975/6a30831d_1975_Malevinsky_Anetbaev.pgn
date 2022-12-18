@@ -1,0 +1,19 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Malevinsky"]
+[Black "Anetbaev, Berik"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "6a30831d"]
+[Epoch "Bishop"]
+[BlackID "13700120"]
+[BlackCountry "KAZ"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 a6 8. Bb3
+Be7 9. f4 d5 10. e5 Nd7 11. Qe2 Qc7 12. O-O-O O-O 13. Rhe1 Na5 14. Bxd5 exd5
+15. Nxd5 Qd8 16. Nf5 Nc6 17. Qg4 g6 18. e6 fxe6 19. Nfxe7+ Nxe7 20. Qxe6+ Kg7
+21. Bd4+ 1-0

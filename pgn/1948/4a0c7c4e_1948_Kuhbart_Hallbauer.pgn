@@ -1,0 +1,16 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Kuhbart"]
+[Black "Hallbauer"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "4a0c7c4e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nc6 4. f3 Bf5 5. e4 dxe4 6. Bxf6 exf6 7. fxe4
+Qe7 8. Qe2 Nxd4 9. Qf2 c5 10. O-O-O Be6 11. Bb5+ Bd7 12. Nd5 Qe5 13. Bxd7+
+Kxd7 14. Nf3 Qxe4 15. Nxd4 cxd4 16. Nxf6+ gxf6 17. Rxd4+ 1-0
+

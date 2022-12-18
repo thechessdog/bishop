@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gereben, Erno"]
+[Black "Van Geet, Dirk Daniel"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Lundin (Kevitz-Mikenas) defence"]
+[HashCode "ad8f22cc"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "NLD"]
+
+1. d4 Nc6 2. d5 Ne5 3. e4 e6 4. Nf3 Nxf3+ 5. Qxf3 Nf6 6. dxe6 dxe6 7. Nc3 Bb4
+8. Bd3 Nd7 9. Qg3 O-O 10. e5 f5 11. exf6 Qxf6 12. O-O Bxc3 13. bxc3 Nc5 14. Ba3
+b6 15. Bxc5 bxc5 16. Qxc7 Qxc3 17. Rae1 a5 18. Re3 Qd2 19. Rg3 Qh6 20. Rh3 Rf7
+21. Qxc5 1-0

@@ -1,0 +1,19 @@
+[Event "Australia"]
+[Site "Australia"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Koshnitsky, Gregory"]
+[Black "Purdy, Cecil"]
+[Result "0-1"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "0b52719f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 Nc6
+8. Nf3 e5 9. e3 Bf5 10. Bd3 exd4 11. cxd5 Qxd5 12. O-O Bg6 13. exd4 O-O 14.
+Be3 Rfe8 15. Rfd1 Rad8 16. b4 a6 17. Qb2 Nd6 18. Be2 Nf5 19. Bg5 Rd7 20.
+Kf1 h6 21. Bf4 Re4 22. Be5 Ncxd4 23. Bxd4 Nxd4 24. Bd3 Nxf3 25. Bxe4 Qc4+
+26. Qe2 Nxh2+ 27. Ke1 Qc3+ 0-1
+

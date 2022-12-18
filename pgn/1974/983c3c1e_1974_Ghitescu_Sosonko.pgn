@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1974.01.01"]
+[Round "10"]
+[White "Ghitescu, Theodor"]
+[Black "Sosonko, Gennadi"]
+[Result "1/2-1/2"]
+[ECO "D13"]
+[Opening "QGD Slav"]
+[Variation "exchange variation"]
+[HashCode "983c3c1e"]
+[Epoch "Bishop"]
+[BlackID "1000039"]
+[BlackCountry "NED"]
+[WhiteCountry "ROU"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 e6 7. e3 Bd6 8.
+Bxd6 Qxd6 9. Bb5 Bd7 10. O-O O-O 11. Rc1 Rfc8 12. Bxc6 Bxc6 13. Ne5 Rc7 14. Qb3
+Rac8 15. Ne2 Be8 16. Rxc7 Rxc7 17. Rc1 Rxc1+ 18. Nxc1 1/2-1/2

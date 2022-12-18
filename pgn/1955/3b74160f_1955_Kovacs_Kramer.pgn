@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1955.01.01"]
+[Round "3"]
+[White "Kovacs, Z."]
+[Black "Kramer, Haije"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "3b74160f"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 dxc4 7. Bxc4 Bd6 8. Nf3
+Nc6 9. e4 e5 10. d5 Ne7 11. h3 Ng6 12. Be3 Qe7 13. g3 a6 14. Nd2 Bd7 15. Bf1
+Ne8 16. Bg2 f5 17. exf5 Nf4 18. Kf1 Nxg2 19. Kxg2 Bxf5 20. Nde4 Nf6 21. f3 Nxe4
+22. fxe4 Bd7 23. Qe2 1/2-1/2

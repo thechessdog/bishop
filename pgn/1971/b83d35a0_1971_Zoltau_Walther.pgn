@@ -1,0 +1,18 @@
+[Event "corr ICCF/WT"]
+[Site "corr ICCF/WT"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Zoltau"]
+[Black "Walther, Edgar"]
+[Result "1-0"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Rubinstein variation"]
+[HashCode "b83d35a0"]
+[Epoch "Bishop"]
+[BlackCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nge7 7. Bb3 h6 8. Be3
+Ng6 9. Nbd2 Be7 10. O-O Bg5 11. a4 Nf4 12. Nc4 Qf6 13. Qd2 Qg6 14. dxe5 Nxg2
+15. Bxg5 Qh5 16. Bd1 Bg4 17. exd6 hxg5 18. Qxg5 Bxf3 19. Qxh5 Bxh5 20. Kxg2 b5
+21. axb5 1-0

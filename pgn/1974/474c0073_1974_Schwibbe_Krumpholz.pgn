@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Schwibbe"]
+[Black "Krumpholz"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "474c0073"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 e6
+8. O-O Be7 9. Bxe6 fxe6 10. Nxe6 Qb6 11. Nxg7+ Kf7 12. Nf5 Bf8 13. Nd5 Qxb2
+14. f4 Nxd5 15. Qxd5+ Kg6 16. Nh4+ Kg7 17. Bh6+ Kf6 18. e5+ 1-0
+

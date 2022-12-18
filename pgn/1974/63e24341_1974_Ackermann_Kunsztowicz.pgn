@@ -1,0 +1,31 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Ackermann, Hans Werner"]
+[Black "Kunsztowicz, Uwe"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "63e24341"]
+[Epoch "Bishop"]
+[WhiteID "4605918"]
+[WhiteCountry "GER"]
+[BlackID "4602773"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. Na3 d6 8. h3
+Bd7 9. d4 a6 10. Bf1 e5 11. dxc5 dxc5 12. Nc4 Nh5 13. Bg5 Qc7 14. Qd6 Qxd6 15.
+Nxd6 b6 16. Rad1 Be6 17. Bc4 Bxc4 18. Nxc4 Rab8 19. Rd7 f6 20. Be3 Rfc8 21.
+Red1 Bf8 22. g4 Ng7 23. g5 Ne8 24. Bc1 Be7 25. Ne3 Rd8 26. Rxd8 Rxd8 27. Rxd8
+Bxd8 28. Nd5 f5 29. exf5 gxf5 30. h4 Kf7 31. Ne3 Ke6 32. b3 Ng7 33. Nc4 b5 34.
+Nb2 e4 35. Ne1 Ne5 36. Be3 Be7 37. a4 Ng6 38. axb5 axb5 39. Ng2 Nh5 40. c4 f4
+41. Bc1 f3 42. Ne3 Nhf4 43. Kf1 Ne2 44. Bd2 bxc4 45. bxc4 Nxh4 46. Nd5 Ng6 47.
+Be3 Nd4 48. Na4 Nb3 49. Nac3 Kf5 50. Nf6 Bxf6 51. gxf6 Ne5 52. Kg1 h5 53. Kh2
+Kxf6 54. Nxe4+ Kf5 55. Ng3+ Kg4 56. Ne4 Nxc4 57. Bxc5 Kf4 58. Nf6 Nxc5 59.
+Nxh5+ Kg4 60. Nf6+ Kf5 61. Nd5 Ne4 62. Nb4 Ne5 63. Nc2 Ng4+ 64. Kg1 Nc3 65.
+Nd4+ Ke4 66. Nxf3 Kxf3 67. Kf1 Ne5 68. Ke1 Nc4 69. Kf1 Ne4 70. Ke1 Nb2 71. Kf1
+Nd3 72. Kg1 Nd2 73. Kh2 Nf4 74. Kh1 Kg4 75. Kh2 Kf3 76. Kh1 Ne4 77. Kg1 Nf6 78.
+Kf1 Nd3 79. Kg1 Nh5 80. Kf1 Nhf4 81. Kg1 Kg4 82. Kh2 Kh4 83. Kh1 Kh3 84. Kg1
+Ng2 85. f4 Kg3 86. f5 Ne5 87. f6 0-1

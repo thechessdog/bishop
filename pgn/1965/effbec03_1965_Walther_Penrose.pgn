@@ -1,0 +1,20 @@
+[Event "Berlin tt"]
+[Site "Berlin"]
+[Date "1965.??.??"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Penrose, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "effbec03"]
+[Epoch "Bishop"]
+[BlackID "400360"]
+[WhiteCountry "CHE"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. h3 d6 10. Nb3 b5 11. f4 Bb7 12. a3 O-O 13. Qe2 Rad8 14. Be3 Nd7 15. Rad1
+Nb6 16. Bc1 Rfe8 17. Kh2 Bf6 18. Rf3 e5 19. Be3 Ne7 20. fxe5 dxe5 21. Rxd8 Rxd8
+22. Nc5 1/2-1/2

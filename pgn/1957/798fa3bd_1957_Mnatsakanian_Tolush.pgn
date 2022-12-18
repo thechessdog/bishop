@@ -1,0 +1,18 @@
+[Event "Leningrad-ch"]
+[Site "Leningrad"]
+[Date "1957.??.??"]
+[Round "18"]
+[White "Mnatsakanian, Eduard A"]
+[Black "Tolush, Alexander"]
+[Result "0-1"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch variation"]
+[HashCode "798fa3bd"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "ARM"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 Bb4 5. d5 Ne7 6. Nxe5 d6 7. Bb5+ c6 8.
+dxc6 O-O 9. cxb7 Bxb7 10. Nf3 Nxe4 11. O-O Bxc3 12. bxc3 Nxc3 13. Qd3 Nxb5 14.
+Ng5 Ng6 15. Qxb5 Qc8 16. Rb1 Ba6 0-1

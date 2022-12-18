@@ -1,0 +1,17 @@
+[Event "Zuerich"]
+[Site "Zuerich"]
+[Date "1961.01.01"]
+[Round "10"]
+[White "Christoffel, Martin"]
+[Black "Matulovic, Milan"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "fd350763"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. e5 Nef5 11. Bf2 Nxf3+ 12. Bxf3 dxe5 13. Bxc5 exf4 14. Bxf8
+Qxf8 15. Qe1 fxg3 16. hxg3 Bd4+ 17. Kh2 Qh6+ 0-1

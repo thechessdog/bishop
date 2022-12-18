@@ -1,0 +1,23 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Sherwin, James T"]
+[Black "Byrne, Donald"]
+[Result "1-0"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...Nc6"]
+[HashCode "a40c6273"]
+[Epoch "Bishop"]
+[WhiteID "2000997"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. dxe5 dxe5 14. a4 Bb7 15.
+Nf1 Rfd8 16. Qe2 c4 17. Ne3 g6 18. Ng4 Nxg4 19. hxg4 Qd7 20. g5 Qe6 21. axb5
+axb5 22. Be3 b4 23. Bb6 Rdc8 24. Ba4 bxc3 25. bxc3 Nb4 26. cxb4 Qxb6 27. Nxe5
+Bxb4 28. Nd7 Qa5 29. Nf6+ Kg7 30. Reb1 Bc3 31. Ra3 Qxg5 32. Rxc3 Qxf6 33. Rf3
+Qe7 34. Qb2+ c3 35. Qxb7 Qxb7 36. Rxb7 Rxa4 37. Rfxf7+ Kh6 38. f4 Rh8 39. Rfc7
+Rxe4 40. Kf2 Kh5 41. Kf3 Re1 42. Rxh7+ Rxh7 43. Rxh7# 1-0

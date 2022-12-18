@@ -1,0 +1,17 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Bass, R."]
+[Black "Weberg, C."]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Marshall variation"]
+[HashCode "21ab11bf"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. axb4 Bxb4 7. Ba3 Nc6
+8. Bxb4 Nxb4 9. Nc3 Qc5 10. Bb5+ Nc6 11. Qe2 f6 12. Ne4 Qe7 13. Qc4 Bd7 14.
+Nc5 Rb8 15. Rxa7 Nxa7 16. Bxd7+ Kd8 17. Qd5 Kc7 18. Ne6+ Kb6 19. Qb3+ 1-0
+

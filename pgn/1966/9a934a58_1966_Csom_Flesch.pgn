@@ -1,0 +1,19 @@
+[Event "Szombathely"]
+[Site "Szombathely"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "Flesch, János"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "9a934a58"]
+[Epoch "Bishop"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nc3 e6 3. g3 Nc6 4. Bg2 Rb8 5. Nf3 b5 6. O-O b4 7. Ne2 Nf6 8. d4
+Nxe4 9. Ne5 Nxe5 10. dxe5 f5 11. h4 Ba6 12. Nf4 Bxf1 13. Qh5+ g6 14. Nxg6 Be2
+0-1

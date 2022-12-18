@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Mortensen, Hjalmar"]
+[Black "Larsen, Bent Ravn"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "9d8ca1fd"]
+[Epoch "Bishop"]
+[BlackID "1430670"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+O-O 9. a4 Be6 10. a5 Nc6 11. Bb6 Qc8 12. f3 Nb4 13. O-O d5 14. exd5 Nfxd5 15.
+Nxd5 Nxd5 16. Bf2 Rd8 17. Bd3 Nf4 18. Nc1 Bh3 19. Re1 Bxg2 20. Rxe5 Bd6 21. Rf5
+Nxd3 22. Nxd3 Qxf5 23. Kxg2 Bb4 24. Bb6 Rd5 25. Ra4 Bxa5 26. Bxa5 Rxa5 27. Rf4
+Qg6+ 28. Rg4 Rg5 0-1

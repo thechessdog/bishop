@@ -1,0 +1,21 @@
+[Event "Gotha"]
+[Site "Gotha"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Vasiukov, Evgeni"]
+[Black "Fuchs, Reinhart"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "c96a7583"]
+[Epoch "Bishop"]
+[WhiteID "4100522"]
+[BlackID "4611357"]
+[WhiteCountry "RUS"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f5 8. Qg3
+Ne7 9. Bd2 O-O 10. Bd3 b6 11. h4 Ba6 12. Ne2 Bxd3 13. Nf4 Qd7 14. cxd3 cxd4 15.
+cxd4 Nbc6 16. Be3 Nd8 17. Rc1 Rc8 18. Rxc8 Qxc8 19. O-O Qd7 20. Rc1 Kh8 21. h5
+Nf7 22. Rc7 1-0

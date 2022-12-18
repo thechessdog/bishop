@@ -1,0 +1,17 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Veresov"]
+[Black "Sokolsky"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "6b7731e8"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 c6 4. Qd2 Nbd7 5. f3 h6 6. Bf4 Nh5 7. Be5 f6 8.
+Bg3 Nxg3 9. hxg3 e5 10. e4 exd4 11. Qxd4 Bc5 12. Qd2 Qb6 13. Na4 Qc7 14.
+O-O-O dxe4 15. Nxc5 Nxc5 16. Qd4 Qb6 17. Ne2 Kf7 18. Nf4 Ne6 19. Qxe4 Nxf4
+20. gxf4 Re8 21. Bc4+ Kf8 22. Qh7 Be6 23. Qh8+ 1-0
+

@@ -1,0 +1,15 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Kayser"]
+[Black "Wijnman, R."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "ce5bc58c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 Nxe4 4. Nxe4 dxe4 5. Bf4 Bf5 6. g4 Bg6 7. Qd2 e6
+8. O-O-O Be7 9. Bg2 1-0
+

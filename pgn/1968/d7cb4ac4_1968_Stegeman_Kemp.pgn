@@ -1,0 +1,18 @@
+[Event "Folkestone"]
+[Site "Folkestone"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Stegeman"]
+[Black "Kemp"]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "d7cb4ac4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. c3 e6 4. d4 cxd4 5. cxd4 Nf6 6. Nc3 Bb4 7. Bd3 b5 8.
+O-O Bb7 9. e5 Nd5 10. Ne4 Qb6 11. Bd2 Nc6 12. Bxb4 Ncxb4 13. Nd6+ Ke7 14.
+Be4 f5 15. Bxd5 Nxd5 16. Qd2 f4 17. Ng5 Raf8 18. Nge4 Nc7 19. Qb4 Kd8 20.
+Qa5 Qa7 21. Nxb7+ Qxb7 22. Nd6 Qa7 23. Rac1 1-0
+

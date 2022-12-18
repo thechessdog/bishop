@@ -1,0 +1,25 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Simagin, Vladimir"]
+[Black "Chistiakov, Alexander Nikolaevi"]
+[Result "1-0"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "2955f07c"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Bb4 5. e3 O-O 6. a3 Bxc3+ 7. bxc3 c5 8.
+cxd5 exd5 9. Bd3 Nc6 10. O-O c4 11. Bc2 Re8 12. Nd2 b5 13. Qe2 Rb8 14. f3 Rb7
+15. Qf2 Rbe7 16. Re1 Bb7 17. Nf1 Qa5 18. Bd2 Qb6 19. g4 g6 20. Qh4 Nd8 21. Ng3
+Nd7 22. Rab1 f6 23. e4 Nf7 24. a4 a6 25. axb5 axb5 26. Kg2 dxe4 27. Nxe4 Qc6
+28. Qg3 Kh8 29. Qf4 Ng5 30. Kg3 Nf7 31. h4 Kg7 32. Kf2 Nb6 33. Qg3 Nd5 34. h5
+Ra8 35. Ra1 Ree8 36. Rxa8 Rxa8 37. Nc5 Bc8 38. Bb1 Ra7 39. hxg6 hxg6 40. Qh2
+Qc7 41. Qh4 b4 42. Rh1 bxc3 43. Bh6+ Kg8 44. Re1 Ne5 45. dxe5 c2 46. Bxc2 Ra2
+47. Ne4 Rxc2+ 48. Kf1 fxe5 49. Rd1 Qe7 50. Qxe7 Nxe7 51. Rd8+ Kh7 52. Bg5 Bb7
+53. Rd7 Bxe4 54. Rxe7+ Kg8 55. fxe4 Rb2 56. Rc7 Rb4 57. Kf2 c3 58. Kf3 Rb3 59.
+Be3 1-0

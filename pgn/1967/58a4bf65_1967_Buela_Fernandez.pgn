@@ -1,0 +1,20 @@
+[Event "Capablanca mem-B"]
+[Site "Havana"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Buela, Danilo V"]
+[Black "Fernandez, Antonio"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "58a4bf65"]
+[Epoch "Bishop"]
+[BlackID "3900029"]
+[BlackCountry "VEN"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 e6 4. Bb5 Qc7 5. Bxc6 Qxc6 6. d3 d6 7. O-O Ne7 8. Nc3
+g6 9. a4 b6 10. Qe1 a6 11. Ng5 Bb7 12. Bd2 Bg7 13. Qh4 Nf5 14. Qh3 h6 15. Nxe6
+fxe6 16. exf5 Bd4+ 17. Kh1 gxf5 18. Rae1 Rg8 19. Rxe6+ Kd7 20. Re2 Kc7 21. Rfe1
+Rae8 22. Re7+ Rxe7 23. Rxe7+ Kb8 24. Re2 Rg7 25. Be1 Qf3 26. Qxf3 Bxf3 27. Re8+
+Kc7 28. Bg3 Bc6 29. Re2 h5 30. Rd2 Rg4 0-1

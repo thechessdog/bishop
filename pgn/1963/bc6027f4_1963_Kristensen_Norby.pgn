@@ -1,0 +1,22 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Kristensen, Jorgen"]
+[Black "Norby, Peter H."]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "bc6027f4"]
+[Epoch "Bishop"]
+[WhiteID "1429086"]
+[BlackID "1400479"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bc4 O-O 6. O-O c6 7. a4 d5 8. exd5
+cxd5 9. Bd3 Nc6 10. Be3 Ng4 11. Qd2 e5 12. Be2 Nxe3 13. fxe3 e4 14. Ne1 h5 15.
+Nd1 Qg5 16. c3 Be6 17. Bb5 Ne7 18. Rc1 Nf5 19. Qf2 Bh6 20. Nc2 a6 21. Be2 Rac8
+22. Re1 Bd7 23. b3 Rc6 24. Nb4 Rd6 25. c4 Nxe3 26. h4 Qxg2+ 27. Qxg2 Nxg2 28.
+Kxg2 Bxc1 29. Nxd5 Bd2 30. Rf1 f5 31. Ne7+ Kf7 0-1

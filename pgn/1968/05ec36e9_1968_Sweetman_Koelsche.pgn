@@ -1,0 +1,17 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Sweetman, E."]
+[Black "Koelsche, G."]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "05ec36e9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Qc7 5. g3 Nf6 6. Bg2 e6 7. O-O Nc6 8.
+Nxc6 dxc6 9. Be3 e5 10. Nc3 Be6 11. Qe2 O-O-O 12. Rfd1 Be7 13. Na4 Nd7 14. c4
+Qa5 15. Qc2 Nc5 16. b3 Nxa4 17. bxa4 Bc5 18. Bd2 Qb6 19. Rab1 Bxf2+ 20. Kf1 Qc5
+21. Rdc1 Bg1 22. Bb4 Bxc4+ 0-1

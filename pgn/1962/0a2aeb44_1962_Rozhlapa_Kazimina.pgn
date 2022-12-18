@@ -1,0 +1,18 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Rozhlapa"]
+[Black "Kazimina"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "0a2aeb44"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Bd7 8.
+Qf3 Nc6 9. O-O-O Rc8 10. e5 Nxd4 11. Rxd4 Qb6 12. Qd1 Ng4 13. Qd2 d5 14.
+Nd1 Bc5 15. Rd3 O-O 16. Rf3 d4 17. Bd3 Ne3 18. Bxh7+ Kxh7 19. Rh3+ Kg8 20.
+Nxe3 dxe3 21. Qd3 f5 22. exf6 Kf7 23. Qxd7+ Kg6 24. Qxg7+ Kf5 25. Qh7+ 1-0
+

@@ -1,0 +1,24 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Blom, Kaj"]
+[Black "Pedersen, Eigil"]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation with e4"]
+[HashCode "3edf1867"]
+[Epoch "Bishop"]
+[BlackCountry "DNK"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nfd7 8.
+Be3 Nb6 9. Qb3 Nc6 10. d5 Ne5 11. Nxe5 Bxe5 12. Bh6 Bg7 13. Bxg7 Kxg7 14. Rd1
+Qd6 15. Be2 Bd7 16. O-O a5 17. Nb5 Bxb5 18. Qc3+ Kg8 19. Bxb5 Qb4 20. Qxb4 axb4
+21. Rd4 Rxa2 22. Rxb4 Rfa8 23. f3 Ra1 24. Rb3 Rxf1+ 25. Bxf1 Kg7 26. Rc3 Rc8
+27. Kf2 e6 28. dxe6 fxe6 29. g3 Kf6 30. Ke3 Nd7 31. b4 c6 32. Ra3 c5 33. Ra7
+cxb4 34. Rxb7 Rc3+ 35. Kd2 Nc5 36. e5+ Kxe5 37. f4+ Kf6 38. Rxb4 Rf3 39. Ke2
+Ra3 40. Rb2 h5 41. Kf2 Ne4+ 42. Kg2 h4 43. gxh4 Kf5 44. h5 gxh5 45. Rb5+ Kxf4
+46. Rxh5 Ra2+ 47. Kg1 Nd2 48. Be2 e5 49. Rh3 e4 50. Kf2 Nf3 51. Rh8 e3+ 52. Kf1
+Ra1+ 53. Kg2 Rg1+ 54. Kh3 Ng5+ 55. Kh4 Ne6 56. Kh3 Rg6 57. Re8 Ng5+ 0-1

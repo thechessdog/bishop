@@ -1,0 +1,16 @@
+[Event "Marianske Lazne"]
+[Site "Marianske Lazne"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Hodos"]
+[Black "Moehring, Guenther"]
+[Result "0-1"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation, 4.Nf3"]
+[HashCode "73e98a2a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 e4 5. Ng5 Bf5 6. f3 exf3 7. gxf3 d5 8. cxd5
+h6 9. Qa4+ c6 10. Qb3 hxg5 11. Qxb7 Qb6 12. Qxa8 Bd6 13. dxc6 Qxd4 14. e4 Nxe4
+15. Nxe4 Bxe4 16. fxe4 Qxe4+ 17. Be3 Qxe3+ 18. Be2 Rh4 19. c7 Bb4+ 0-1

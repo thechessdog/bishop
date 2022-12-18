@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Becker"]
+[Black "Keroack, P."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "62723f2a"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 e6 3. Be3 dxe4 4. Nd2 Nf6 5. f3 Nd5 6. Qe2 Nc6 7. c3 exf3 8.
+Ngxf3 Be7 9. O-O-O a6 10. Ne5 Bd7 11. Bf2 Bf6 12. g4 Nf4 13. Qe1 Bxe5 14.
+dxe5 Ng6 15. Bg3 Qg5 16. h4 Qxg4 17. Be2 Qa4 18. Kb1 b5 19. Bd3 b4 20. h5
+bxc3 21. hxg6 Nb4 22. gxf7+ Kf8 23. Bc4 Qc2+ 24. Ka1 Qxb2# 0-1
+

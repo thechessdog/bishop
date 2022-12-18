@@ -1,0 +1,17 @@
+[Event "Celle"]
+[Site "Celle"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Pohl"]
+[Black "Teschner, Rudolf"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[HashCode "2181610c"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. c3 e5 5. exd5 Qxd5 6. dxe5 Nxe5 7. Ngf3 Be6 8.
+Nxe5 Qxe5+ 9. Qe2 Qxe2+ 10. Bxe2 Nf6 11. Nb3 O-O-O 12. Be3 Nd5 13. Bc5 Nf4 14.
+Bxf8 Rhxf8 15. g3 Nxe2 16. Kxe2 Rfe8 17. Rhe1 Bxb3+ 0-1

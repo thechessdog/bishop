@@ -1,0 +1,17 @@
+[Event "Moscow olm fin-B"]
+[Site "Moskou olm"]
+[Date "1956.09.01"]
+[Round "7"]
+[White "Morcken, Otto B"]
+[Black "Letelier, Rene"]
+[Result "0-1"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "c8cf6dca"]
+[Epoch "Bishop"]
+[BlackCountry "CHL"]
+
+1. d4 Nf6 2. c4 d5 3. Nc3 g6 4. Nf3 Bg7 5. g3 c5 6. dxc5 Qa5 7. Qb3 Na6 8. Bg2
+O-O 9. Nd2 d4 10. Qb5 Qb4 11. a3 Qxc5 12. Qxc5 Nxc5 13. Nce4 Nfxe4 14. Nxe4 Nb3
+15. Rb1 Be6 16. Nd2 Bf5 17. Ne4 Rac8 18. O-O Rxc4 19. Rd1 Rc2 0-1

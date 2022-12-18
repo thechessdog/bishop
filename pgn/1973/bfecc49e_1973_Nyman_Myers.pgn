@@ -1,0 +1,17 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Nyman"]
+[Black "Myers, Hugh S"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "bfecc49e"]
+[Epoch "Bishop"]
+[BlackID "2091720"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. d4 Bg4 6. Bd2 O-O-O 7. Be2 Bxf3
+8. Bxf3 Nxd4 9. Bg4+ e6 10. Ne2 Qe5 11. O-O Nf6 12. Nxd4 Qxd4 0-1

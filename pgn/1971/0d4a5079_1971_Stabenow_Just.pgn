@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Stabenow, J."]
+[Black "Just, J."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "0d4a5079"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 Qd7 4. Bd3 b6 5. c3 Ba6 6. Ne2 Bxd3 7. Qxd3 c5 8.
+O-O Nc6 9. f4 Nge7 10. Nd2 c4 11. Qf3 h5 12. b3 cxb3 13. axb3 Nf5 14. Bb2
+Rc8 15. Ng3 Nxg3 16. hxg3 g6 17. Kf2 Be7 18. Rh1 Rg8 19. g4 hxg4 20. Qxg4
+Kd8 21. Rh7 Kc7 22. Nf3 Kb8 23. Rah1 Na5 24. Nd2 Rcf8 25. Qe2 g5 26. f5
+exf5 27. e6 fxe6 28. R1h6 Qd6 29. Rxe6 Qf4+ 30. Nf3 Bd6 31. Rxd6 Qxd6 32.
+Qa6 Re8 33. Qxa7+ Kc8 34. Qa8+ Qb8 35. Qxd5 Qf4 36. Bc1 1-0
+

@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Timofeeva"]
+[Black "Jacovleva"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "ca812c94"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Qf3 Qc7 9. Be2 b5 10. Qh3 Be7 11. Bh5 Nxh5 12. Qxh5 Nf6 13. Qe2 Bb7 14. a3
+h6 15. Bh4 Nxe4 16. Nxe4 Bxh4+ 17. g3 Be7 18. O-O-O d5 19. Nf2 O-O 20. Ng4
+Kh8 21. h4 Rac8 22. Ne5 b4 23. axb4 Bxb4 24. g4 Kg8 25. g5 Bd6 26. gxh6
+Bxe5 27. fxe5 g6 28. h5 Qe7 29. hxg6 fxg6 30. Qg4 Kh7 31. Nxe6 Rf5 32. Nf4
+Rg5 33. Qh3 Rxe5 34. Rhg1 Rg8 35. Nxg6 Rxg6 36. Rxg6 Kxg6 37. h7 Qg5+ 38.
+Kb1 Qh5 39. Rg1+ Rg5 40. Qxh5+ 1-0
+

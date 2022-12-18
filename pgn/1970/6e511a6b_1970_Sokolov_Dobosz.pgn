@@ -1,0 +1,17 @@
+[Event "Primorsko"]
+[Site "Primorsko"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Sokolov, Vladimir"]
+[Black "Dobosz"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "6e511a6b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 Qb6 5. Nbd2 Qxb2 6. Nc4 Qb5 7. e4 Qc6 8. d5
+exd5 9. Nce5 Qc7 10. exd5 d6 11. Qa4+ Kd8 12. Qf4 Qe7 13. O-O-O dxe5 14. Nxe5
+Nbd7 15. Nc6+ bxc6 16. dxc6 c4 17. Bxc4 Qa3+ 18. Kb1 Qxc3 19. c7+ Ke8 20. Rhe1+
+Be7 21. Qd6 Qxc4 22. Qxe7# 1-0

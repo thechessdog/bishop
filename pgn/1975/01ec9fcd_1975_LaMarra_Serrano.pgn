@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "LaMarra"]
+[Black "Serrano"]
+[Result "1-0"]
+[ECO "D89"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 13.Bd3"]
+[HashCode "01ec9fcd"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O cxd4 11. cxd4 Bg4 12. f3 Na5 13. Bd3 Be6 14.
+Qa4 Rc8 15. Rac1 Bd7 16. Bb5 Bxb5 17. Qxb5 b6 18. d5 Rxc1 19. Rxc1 Qb8 20.
+Qd7 Bf6 21. Qc7 Nb7 22. Qxb8 Rxb8 23. Bf4 Rd8 24. Rc7 Nc5 25. Rxa7 e6 26.
+Bc7 Rc8 27. Bxb6 exd5 28. exd5 Be5 29. a4 Bb8 30. Bxc5 Rxc5 31. Ra8 Rc8 32.
+Kf1 1-0
+

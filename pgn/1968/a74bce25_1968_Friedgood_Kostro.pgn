@@ -1,0 +1,19 @@
+[Event "Lugano olm"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Friedgood, David"]
+[Black "Kostro, Jerzy"]
+[Result "0-1"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "a74bce25"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 O-O 8. d4
+Nd7 9. Nbd2 Bf6 10. Bxc6 bxc6 11. Nc4 Qe8 12. Be3 Rb8 13. Qc2 Nb6 14. dxe5 dxe5
+15. Na5 Qe6 16. c4 Re8 17. Rad1 Nd7 18. Re2 c5 19. Red2 Be7 20. Qa4 Rb4 21. Qc6
+Bd6 22. Rxd6 cxd6 23. Rxd6 Rxb2 24. h3 Qe7 25. Qc7 Nf6 26. Qxe7 Rxe7 27. Bxc5
+Re8 28. Nc6 Nxe4 29. Ne7+ Kh8 30. Rc6 Bd7 31. Nxe5 Rxe7 32. Nxd7 Re8 33. Rxa6
+Rb7 34. Ra7 Nxc5 0-1

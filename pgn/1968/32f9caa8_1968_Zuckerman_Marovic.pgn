@@ -1,0 +1,21 @@
+[Event "Malaga"]
+[Site "Malaga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Zuckerman, Bernard"]
+[Black "Marovic, Drazen"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "32f9caa8"]
+[Epoch "Bishop"]
+[WhiteID "2000423"]
+[WhiteCountry "USA"]
+[BlackID "14500183"]
+[BlackCountry "CRO"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 e6 7. Bd2 Bb4 8. a3
+Bd6 9. g4 d4 10. Ne2 Qb6 11. O-O-O Nfd7 12. Qg2 e5 13. f4 Nc5 14. fxe5 Na4 15.
+b3 Bxa3+ 16. Kb1 Nb2 17. Bc1 Nxd1 18. Bxa3 Qa5 19. Bc1 c5 20. c4 Nc6 21. Kc2
+Ne3+ 0-1

@@ -1,0 +1,16 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Nagy, Geza"]
+[Black "Kelstrup, H."]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "82bd0897"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. Nbd2 d6 5. h3 O-O 6. e3 Nbd7 7. Bc4 c5 8. c3
+b6 9. Qe2 Bb7 10. O-O-O a6 11. g4 b5 12. Bd3 Qa5 13. Kb1 Bd5 14. Nb3 Qb6 15.
+Nc1 c4 16. Bc2 b4 17. cxb4 Qxb4 18. a3 Qb7 0-1

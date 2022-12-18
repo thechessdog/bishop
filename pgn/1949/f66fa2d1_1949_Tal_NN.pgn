@@ -1,0 +1,17 @@
+[Event "exhibition"]
+[Site "exhibition"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Tal, Mikhail"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "f66fa2d1"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Kh1 d6 8. f4
+Nbd7 9. Nd2 Be7 10. N2f3 O-O 11. Qe2 Nc5 12. e5 dxe5 13. fxe5 Nfd7 14. Bg5 Nxe5
+15. Bxe7 Nxf3 16. Rxf3 Qxe7 17. Bxh7+ Kxh7 18. Rh3+ Kg8 19. Nf5 Qg5 20. Qh5 1-0

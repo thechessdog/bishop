@@ -1,0 +1,18 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Prokopp"]
+[Black "Grassia"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "7cccff34"]
+[Epoch "Bishop"]
+
+1. e4 g6 2. d4 Bg7 3. f4 d6 4. c3 Nd7 5. Nf3 c6 6. Bc4 e6 7. O-O d5 8. exd5
+cxd5 9. Bd3 Ngf6 10. Nbd2 O-O 11. Ne5 Nxe5 12. fxe5 Nd7 13. Nf3 f6 14. exf6
+Nxf6 15. Ng5 Qb6 16. Qe2 Bd7 17. Bf4 Nh5 18. Be5 Bxe5 19. Qxe5 Rae8 20.
+Rxf8+ Rxf8 21. Nxh7 Qxb2 22. Rb1 Qf2+ 23. Kh1 Nf4 24. Qg5 Kxh7 0-1
+

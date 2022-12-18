@@ -1,0 +1,18 @@
+[Event "Lasker mem"]
+[Site "Berlin-Ost"]
+[Date "1962.??.??"]
+[Round "8"]
+[White "Drimer, Dolfi"]
+[Black "Fuchs, Reinhart"]
+[Result "1/2-1/2"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "d1c7b23c"]
+[Epoch "Bishop"]
+[BlackID "4611357"]
+[BlackCountry "GER"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. f3 Nh5 7. Nh3 f5 8. e3
+d6 9. Bd3 e5 10. Nf2 Nc6 11. O-O Qh4 12. Nh1 1/2-1/2

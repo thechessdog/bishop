@@ -1,0 +1,21 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1974.07.01"]
+[Round "1"]
+[White "Bohm, Hans"]
+[Black "Boey, Josef"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "050478f5"]
+[Epoch "Bishop"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+
+1. d4 d5 2. Nf3 Nc6 3. c3 g6 4. Bg5 f6 5. Bh4 Nh6 6. Nbd2 Nf5 7. Bg3 Nxg3 8.
+hxg3 f5 9. e3 Bg7 10. Rc1 e5 11. Bb5 e4 12. Ng1 Bd7 13. Nh3 Ne7 14. Be2 O-O 15.
+Nb3 b6 16. c4 c6 17. c5 h6 18. a4 g5 19. Qd2 Rb8 20. Ra1 Ng6 21. Bh5 g4 22. Nf4
+Nxf4 23. gxf4 Bc8 24. Qe2 Kh7 25. a5 bxa5 26. Nxa5 Qc7 27. O-O Rb5 28. Nxc6
+Qxc6 29. Rxa7 Bb7 30. Rfa1 Rb8 31. R1a2 Kh8 32. Qc2 Rb4 33. Qc3 Qb5 34. Be8 Qc4
+35. c6 Qxc3 36. bxc3 Rb1+ 37. Kh2 Bc8 38. Ra8 Kh7 39. c7 R8b3 40. Rxc8 Rxc3 41.
+Rb8 Rbc1 1-0

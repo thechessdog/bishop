@@ -1,0 +1,26 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "11"]
+[White "Benoit, Michel"]
+[Black "Todorcevic, Miodrag"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "9cc13141"]
+[Epoch "Bishop"]
+[WhiteID "602400"]
+[WhiteCountry "FRA"]
+[BlackCountry "SRB"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. Qxd4 dxe5 10. Qg1 e4 11. Nxe4 Nf6 12. Nxf6+ exf6 13. hxg6 Re8+ 14. Kf2
+hxg6 15. Be3 Nc6 16. Re1 Bf5 17. Qh2 g5 18. Bc4 g4 19. Qh5 Qd7 20. Nh4 Bxc2 21.
+Ng6 Bxg6 22. Qxg6 Rxe3 23. Bxf7+ Qxf7 24. Rh8+ Kxh8 25. Qxf7 Rxe1 26. Kxe1 Rb8
+27. Kf2 a5 28. Kg3 Rf8 29. Qxb7 Nd4 30. Qd5 f5 31. Qxa5 Ne2+ 32. Kf2 Nxf4 33.
+Qd2 Ne6 34. b4 Rd8 35. Qc2 f4 36. Qg6 g3+ 37. Kf1 Nf8 38. Qg5 Rd4 39. b5 Nh7
+40. Qf5 Nf6 41. Qc8+ Kh7 42. b6 Nd7 43. b7 Be5 44. Qe8 f3 45. gxf3 Bf4 46. a4
+Ne5 47. Qe7+ Kg6 48. Qe6+ Kg7 49. Qe7+ Kg6 50. Qe6+ Kg7 51. Qe7+ Nf7 52. Qe2
+Rb4 53. Qe6 Rb1+ 54. Kg2 Rb2+ 55. Kg1 Rxb7 56. Qg4+ Bg5 57. Qxg3 Rb4 58. a5 Ra4
+1/2-1/2

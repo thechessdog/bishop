@@ -1,0 +1,16 @@
+[Event "Beverwijk"]
+[Site "Beverwijk"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Vels"]
+[Black "Visscher"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian defence"]
+[HashCode "eb83e1d7"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Qxd5 4. Nc3 Qd8 5. Nf3 c5 6. Bb5+ Bd7 7. dxc5
+Nc6 8. O-O e6 9. Bg5 h6 10. Bxc6 hxg5 11. Bxb7 Bxc5 12. Bxa8 Qxa8 13. Nxg5
+Bc6 14. Re1 Qb8 15. Nf3 Ng4 16. Ne4 Bxe4 17. Rxe4 Nxf2 18. Qe2 Nxe4+ 0-1
+

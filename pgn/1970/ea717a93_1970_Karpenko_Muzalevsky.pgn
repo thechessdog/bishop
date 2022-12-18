@@ -1,0 +1,17 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Karpenko, N."]
+[Black "Muzalevsky"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "ea717a93"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. g4 g6 6. Bg5 Be7 7. h3 c6 8.
+Qd2 O-O 9. O-O-O Ne8 10. Bh6 Ng7 11. h4 Re8 12. h5 Bf8 13. hxg6 hxg6 14.
+Bg5 Qc7 15. Bc4 b5 16. Bd8 1-0
+

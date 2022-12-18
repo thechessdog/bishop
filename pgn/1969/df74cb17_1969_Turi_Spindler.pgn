@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Turi, S."]
+[Black "Spindler, A."]
+[Result "1-0"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Smyslov variation"]
+[HashCode "df74cb17"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Na6 6. e4 Bg4 7. Bxc4 e6 8.
+O-O Bb4 9. Be3 Be7 10. Qb3 Bxf3 11. gxf3 Qa5 12. Kh1 Rd8 13. Rg1 Nh5 14.
+Rg2 Rd7 15. Rag1 h6 16. f4 Rf8 17. Be2 g6 18. f5 exf5 19. Bxh5 f4 20. Bg4
+f5 21. exf5 h5 22. fxg6 1-0
+

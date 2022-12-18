@@ -1,0 +1,20 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Auer"]
+[Black "Poller"]
+[Result "0-1"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "4a414fe2"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. Nf3 c6 6. e3 O-O 7. Qb3 dxc4 8.
+Bxc4 Nbd7 9. Ng5 Qe8 10. O-O Nb6 11. Bd3 h6 12. Nf3 Be6 13. Qc2 Nbd5 14.
+Bg3 Nb4 15. Qb1 Nxd3 16. Qxd3 Nh5 17. Nh4 f5 18. f4 b5 19. Rfd1 Rd8 20. Nf3
+Nxg3 21. hxg3 b4 22. Na4 Bd5 23. Nc5 Bxf3 24. gxf3 Qf7 25. Qb3 Rd5 26. Qxb4
+Rfd8 27. Kf2 e5 28. fxe5 Bxe5 29. Qa4 Bd6 30. Nb3 Bxg3+ 31. Kxg3 f4+ 32.
+exf4 Rf8 33. Nd2 Qxf4+ 34. Kf2 Re8 35. Qc4 Kg7 0-1
+

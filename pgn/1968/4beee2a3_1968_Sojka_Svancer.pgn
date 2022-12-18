@@ -1,0 +1,20 @@
+[Event "corr ch12-TCH"]
+[Site "corr ch12-TCH"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Sojka"]
+[Black "Svancer"]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "4beee2a3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. c4 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 e5 7. Nf5 d5 8.
+cxd5 Bxf5 9. exf5 Nd4 10. Bg5 Be7 11. Bxf6 Bxf6 12. Bd3 Qd7 13. Qb1 Rc8 14.
+Be4 b5 15. Nd1 Be7 16. Ne3 Bb4+ 17. Kd1 f6 18. Qd3 O-O 19. a3 Be7 20. Ke1
+b4 21. axb4 Bxb4+ 22. Kf1 a5 23. g3 Rc7 24. Kg2 Rfc8 25. b3 a4 26. Rhd1 Rc5
+27. d6 Qb5 28. Qxb5 Rxb5 29. d7 Rd8 30. Rxa4 Kf8 31. Rc1 Bd2 32. Rc8 Rb8
+33. Rac4 Ke7 34. Rxb8 Rxb8 35. Rc8 1-0
+

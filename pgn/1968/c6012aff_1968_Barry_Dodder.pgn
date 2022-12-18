@@ -1,0 +1,16 @@
+[Event "New Mexico"]
+[Site "New Mexico"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Barry"]
+[Black "Dodder"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "c6012aff"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 c5 8.
+Nb5 Qd8 9. Nd6+ 1-0
+

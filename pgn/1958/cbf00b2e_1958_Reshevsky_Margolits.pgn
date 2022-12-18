@@ -1,0 +1,16 @@
+[Event "Haifa simultaan"]
+[Site "Haifa simultaan"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Margolits, Z."]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "cbf00b2e"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. Bd2 Qa5 7. a3 Nc6 8. axb4
+Nxb4 9. Rxa5 Nd3# 0-1

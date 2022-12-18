@@ -1,0 +1,17 @@
+[Event "New South Wales"]
+[Site "New South Wales"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Szirti, Almos"]
+[Black "Gladhill"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "2421c981"]
+[Epoch "Bishop"]
+[WhiteID "706167"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nxe5 Nd4 6. Bc4 Nxe4 7. Nxf7 Qh4
+8. Nxh8 d5 9. Bxd5 Bg4 10. Qe1 Ne2+ 11. Kh1 Bxf2 0-1

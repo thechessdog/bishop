@@ -1,0 +1,23 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Krenzisky, Simon"]
+[Black "Tornerup, John"]
+[Result "0-1"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "c94e4ba4"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 b6 8.
+cxd5 Nxd5 9. Bxe7 Qxe7 10. Be2 Bb7 11. O-O Nd7 12. Rc1 c5 13. a3 Rfd8 14.
+Qa4 e5 15. Nxd5 Bxd5 16. e4 Bxe4 17. dxc5 Bxf3 18. Bxf3 Nxc5 19. Qc4 Rab8
+20. Bd5 Nb7 21. Rfe1 Nd6 22. Qc7 Qxc7 23. Rxc7 Nb5 24. Rb7 Rxb7 25. Bxb7
+Rd2 26. Rb1 Kf8 27. Kf1 Nd4 28. Ke1 Rc2 29. a4 Ke7 30. Ba6 f5 31. Bd3 Rc7
+32. f3 Kd6 33. Rd1 g6 34. Kd2 a5 35. Ke3 Ke6 36. g4 Nc2+ 37. Kf2 Nb4 38.
+Bb1 fxg4 39. fxg4 Rc4 40. Kg3 h5 41. h3 hxg4 42. hxg4 Nd5 43. Ba2 Rd4 44.
+Rxd4 exd4 45. Kf3 Ke5 46. Bb1 g5 47. Bd3 Nf6 48. Bc4 Kd6 49. b3 Kc5 50. Be6
+Kb4 51. Ke2 Kc3 0-1
+

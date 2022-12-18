@@ -1,0 +1,15 @@
+[Event "corr BdF/PV"]
+[Site "corr BdF/PV"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Hinz"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit"]
+[HashCode "898758d8"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. Bc4 Be7 5. dxe5 fxe4 6. Qd5 Nh6 7. Bxh6 1-0

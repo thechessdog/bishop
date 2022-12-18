@@ -1,0 +1,18 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Ivkov, Borislav"]
+[Black "Nedeljkovic, Strecko"]
+[Result "1/2-1/2"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Goteborg (Argentine) variation"]
+[HashCode "9803e5c6"]
+[Epoch "Bishop"]
+[WhiteID "900141"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bh4 g5 10. Bxg5 Nfd7 11. Nxe6 fxe6 12. Qh5+ Kf8 1/2-1/2

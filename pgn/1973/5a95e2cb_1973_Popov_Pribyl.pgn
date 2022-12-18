@@ -1,0 +1,20 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1973.02.01"]
+[Round "1"]
+[White "Popov, Luben"]
+[Black "Pribyl, Josef"]
+[Result "1/2-1/2"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence"]
+[HashCode "5a95e2cb"]
+[Epoch "Bishop"]
+[WhiteID "2900173"]
+[WhiteCountry "FID"]
+[BlackID "300187"]
+[BlackCountry "CZE"]
+
+1. c4 Nf6 2. Nc3 d5 3. d4 e6 4. Nf3 c5 5. e3 Nc6 6. a3 cxd4 7. exd4 Be7 8. cxd5
+exd5 9. Be2 O-O 10. Bg5 h6 11. Bh4 Be6 12. O-O Ne4 13. Bxe7 Qxe7 14. Rc1 Nxc3
+15. Rxc3 Qf6 16. Bb5 1/2-1/2

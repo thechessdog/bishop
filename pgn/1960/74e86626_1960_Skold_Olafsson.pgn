@@ -1,0 +1,22 @@
+[Event "Nijmegen"]
+[Site "Nijmegen"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Skold, Kristian"]
+[Black "Olafsson, Fridrik"]
+[Result "0-1"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "74e86626"]
+[Epoch "Bishop"]
+[BlackID "2300052"]
+[BlackCountry "ISL"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Nb8 10. d4 Nbd7 11. c4 c6 12. Nbd2 Qc7 13. Bc2 Re8 14. a4 bxc4 15.
+dxe5 Nxe5 16. Nxe5 dxe5 17. Nxc4 Be6 18. Qe2 Bb4 19. Rf1 a5 20. Be3 Nd7 21.
+Rad1 Nf8 22. Kh2 Ng6 23. g3 Nf4 24. Bxf4 exf4 25. e5 fxg3+ 26. fxg3 Rad8 27.
+Qe4 g6 28. Qf4 Rxd1 29. Bxd1 Rd8 30. Be2 Bc5 31. b3 Rd4 32. Qg5 Qd8 33. Qc1 Bb4
+34. Qe3 Qd5 35. Bf3 Qc5 36. Be2 Rxc4 0-1

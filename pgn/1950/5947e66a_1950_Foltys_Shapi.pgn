@@ -1,0 +1,22 @@
+[Event "Schiavno Zdroj"]
+[Site "Schiavno Zdroj"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Foltys, Jan"]
+[Black "Sapi, Laszlo"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "5947e66a"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+[BlackID "701513"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 Nc6
+8. Qd2 Bg4 9. Be2 Qd7 10. h3 Bh5 11. O-O-O O-O-O 12. Rhe1 a6 13. Qd5 Bg6 14.
+Nd4 Nxd4 15. Qxd4 Kb8 16. Bg4 f5 17. Bf3 Bf6 18. Qb4 Qb5 19. Qxb5 axb5 20. Rd5
+Rde8 21. Rxe8+ Bxe8 22. Rxf5 Bd7 23. Rd5 Rf8 24. Rxd6 Bg5 25. Rxd7 Bxf4+ 26.
+Kd1 Bg5 27. Rxg7 Rd8+ 28. Ke2 Bc1 29. Be4 Bxb2 30. Rxh7 Bxc3 31. f4 Rd2+ 32.
+Ke3 Rd1 33. g4 Ra1 34. f5 1-0

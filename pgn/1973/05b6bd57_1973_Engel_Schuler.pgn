@@ -1,0 +1,17 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Engel, H."]
+[Black "Schuler, W."]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "05b6bd57"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. cxd5 exd5 6. Bf4 O-O 7. Qc2 c6
+8. e3 Nbd7 9. Bd3 Re8 10. g4 Nf8 11. h3 Ng6 12. Bxg6 fxg6 13. Ne5 Be6 14.
+f3 Nd7 15. O-O Rc8 16. Rae1 c5 17. Kg2 g5 1/2-1/2
+

@@ -1,0 +1,21 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Malich, Burkhard, Dr."]
+[Black "Pytel, Krzysztof"]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "56cbc2c9"]
+[Epoch "Bishop"]
+[WhiteID "4611330"]
+[WhiteCountry "GER"]
+[BlackID "600199"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 dxc4 7. Bxc4 c5 8. O-O
+Nbd7 9. Qe2 cxd4 10. Nxd4 Qa5 11. Rd1 Nb6 12. Bb3 Bd7 13. e4 Qh5 14. f3 Ne8 15.
+a4 Nd6 16. a5 Nbc8 17. g4 Qh4 18. e5 Ne8 19. Bf4 Nc7 20. Ne4 Qh3 21. Qe3 Ne6
+22. Bxe6 1-0

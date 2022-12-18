@@ -1,0 +1,20 @@
+[Event "Staffordshire op"]
+[Site "Staffordshire"]
+[Date "1975.??.??"]
+[Round "1"]
+[White "Edwards, Matthew"]
+[Black "Corden, Martyn J"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "aa692bf0"]
+[Epoch "Bishop"]
+[WhiteID "2013827"]
+[BlackID "401200"]
+[WhiteCountry "USA"]
+[BlackCountry "ENG"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. g3 Bc5 5. Bg2 O-O 6. e3 d5 7. cxd5 Nxd5 8. Ne2
+Bg4 9. O-O Qd7 10. Re1 Rad8 11. a3 Nxe3 12. fxe3 Bxe3+ 13. Kh1 Bxd2 14. Rf1 Qd3
+15. Nbc3 Qe3 16. Bc1 Bxe2 0-1

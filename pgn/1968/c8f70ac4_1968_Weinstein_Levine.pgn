@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Weinstein, Norman"]
+[Black "Levine, Steve"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "c8f70ac4"]
+[Epoch "Bishop"]
+[WhiteID "2000466"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 Nf6 4. d4 cxd4 5. Nxd4 e5 6. Ndb5 a6 7. Nd6+ Bxd6
+8. Qxd6 Qe7 9. Qxe7+ Kxe7 10. Bg5 Kf8 11. O-O-O h6 12. Bxf6 gxf6 13. Nd5 Kg7
+14. Nb6 Rb8 15. Rd6 Re8 16. Bc4 Na5 17. Bb3 Nxb3+ 18. axb3 Re6 19. Rhd1 Kf8 20.
+c4 1-0

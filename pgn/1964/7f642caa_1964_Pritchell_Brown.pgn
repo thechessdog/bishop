@@ -1,0 +1,17 @@
+[Event "Glasgow"]
+[Site "Glasgow"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Pritchell"]
+[Black "Brown"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "7f642caa"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Qf3 Be7 9. Bc4 Qb6 10. O-O-O O-O 11. Qg3 Re8 12. Rhe1 Qc7 13. Bxe6 fxe6 14.
+Nxe6 Qc4 15. Nxg7 Kxg7 16. Bh6+ Kxh6 17. Qg5# 1-0
+

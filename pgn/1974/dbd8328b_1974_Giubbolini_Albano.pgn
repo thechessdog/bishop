@@ -1,0 +1,18 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Giubbolini"]
+[Black "Albano"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "dbd8328b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Nxd4 Qf6 6. Nf3 a6 7. Bc4 Ne5
+8. Nxe5 Qxe5 9. O-O Nf6 10. Qe2 b5 11. Bb3 d5 12. Nc3 dxe4 13. f3 Bc5+ 14.
+Kh1 Bd6 15. g3 Bb7 16. f4 Qe7 17. a4 b4 18. Nd1 e3+ 19. Kg1 Qe4 20. Bxe3
+Ng4 0-1
+

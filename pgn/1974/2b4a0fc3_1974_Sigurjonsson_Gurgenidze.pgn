@@ -1,0 +1,20 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Sigurjonsson, Gudmundur"]
+[Black "Gurgenidze, Bukhuti"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "2b4a0fc3"]
+[Epoch "Bishop"]
+[BlackCountry "GEO"]
+[WhiteID "2300079"]
+[WhiteCountry "ISL"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. h3 Nf6 5. e5 Nh5 6. Be2 Ng7 7. Nf3 h5 8. Bf4 Bf5
+9. Qd2 Ne6 10. Be3 h4 11. O-O-O Nd7 12. g4 hxg3 13. fxg3 Rxh3 14. Rxh3 Bxh3 15.
+Nh4 g5 16. Bxg5 Nxg5 17. Qxg5 Qb6 18. g4 c5 19. Kb1 cxd4 20. Nxd5 Qc5 21. e6
+O-O-O 22. exd7+ Rxd7 23. Qg8 Rd8 24. Nf4 d3 25. Bxd3 Qe3 26. Qxf7 1-0

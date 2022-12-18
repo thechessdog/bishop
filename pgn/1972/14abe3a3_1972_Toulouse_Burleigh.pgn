@@ -1,0 +1,17 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Toulouse"]
+[Black "Burleigh"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "14abe3a3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d6 4. cxd4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. Bc4 O-O 8.
+O-O e5 9. dxe5 dxe5 10. Qxd8 Rxd8 11. Nxe5 Nxe4 12. Nxf7 Rd4 13. Nd6+ Kf8
+14. Ncxe4 Be5 15. Be3 Rxd6 16. Bc5 Ke7 17. Nxd6 Bxd6 18. Rfe1+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Kapfenberg etc"]
+[Site "Kapfenberg etc"]
+[Date "1970.05.01"]
+[Round "1"]
+[White "Hort, Vlastimil"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical, main line with d3"]
+[HashCode "8fd750e3"]
+[Epoch "Bishop"]
+[BlackID "4611284"]
+[WhiteID "4600029"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 c5 4. Nc3 Nc6 5. d3 Nf6 6. Nf3 O-O 7. O-O d6 8. a3 a6
+9. Rb1 Rb8 10. b4 cxb4 11. axb4 b5 12. cxb5 axb5 13. Bf4 e5 14. Bg5 1/2-1/2

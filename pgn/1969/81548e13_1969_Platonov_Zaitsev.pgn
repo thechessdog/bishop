@@ -1,0 +1,24 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1969.09.01"]
+[Round "1"]
+[White "Platonov, Igor"]
+[Black "Zaitsev, Alexander"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "81548e13"]
+[Epoch "Bishop"]
+[WhiteID "24197190"]
+[WhiteCountry "UKR"]
+[BlackID "4164490"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Nf5 Be6 12. b3 a5 13. a4 Bxc4 14. bxc4 Ne6
+15. Qg4 Kh8 16. Be3 Bb4 17. Rab1 b6 18. Rb3 g6 19. Nh4 Nd4 20. Bxd4 exd4 21. f4
+Qe7 22. f5 g5 23. Nf3 b5 24. e5 bxa4 25. Rbb1 a3 26. exf6 Rxf6 27. Nxg5 Rg8 28.
+h4 h6 29. Qh5 Bc3 30. Ne4 Qg7 31. Qe2 a2 32. Rbd1 Re8 33. Qf2 Rxe4 34. dxe4 d3
+35. cxd3 a1=Q 36. Rxa1 Rd6 37. Rae1 Rxd3 38. f6 Qf7 39. Re3 Rd2 40. Rxc3 Rxf2
+41. Rxf2 Kg8 42. e5 Kf8 43. Rg3 1-0

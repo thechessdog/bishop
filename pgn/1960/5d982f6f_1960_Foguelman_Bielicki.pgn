@@ -1,0 +1,24 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1960.03.01"]
+[Round "13"]
+[White "Foguelman, Alberto"]
+[Black "Bielicki, Carlos"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "5d982f6f"]
+[Epoch "Bishop"]
+[WhiteID "101435"]
+[WhiteCountry "ARG"]
+[BlackID "100684"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg4 8. Be2
+Bxf3 9. Bxf3 Nbd7 10. Bf4 a6 11. a4 Qb8 12. Qd2 Bg7 13. Bh6 O-O 14. h4 Ne5 15.
+h5 b5 16. Bxg7 Kxg7 17. a5 Qd8 18. Ne2 Qe7 19. hxg6 fxg6 20. Nf4 Kg8 21. Ne6
+Rfc8 22. Kf1 c4 23. Re1 b4 24. Bd1 c3 25. bxc3 bxc3 26. Qe2 Nc4 27. Bc2 Rab8
+28. Rh3 Na3 29. Rc1 Qb7 30. Re3 Qb2 31. Qd1 Ng4 32. Re1 Ne5 33. f4 Nxc2 34.
+Rxc2 Qxc2 35. Qxc2 Rb2 36. fxe5 Rxc2 37. exd6 Rf8+ 38. Nxf8 Kxf8 39. e5 Rd2 40.
+Rc1 c2 41. Ke1 Rxg2 0-1

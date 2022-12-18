@@ -1,0 +1,18 @@
+[Event "Pardubice"]
+[Site "Pardubice"]
+[Date "1965.01.01"]
+[Round "15"]
+[White "Smejkal, Jan"]
+[Black "Pithart, Frantisek"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "e1893d01"]
+[Epoch "Bishop"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Nf3 c5 5. e3 O-O 6. Bd3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bb5 b6 12. Qe2 Bb7 13. Bb2 Na5 14. Nd2 Ne4
+15. Nxe4 Bxe4 16. f3 Bg6 1/2-1/2

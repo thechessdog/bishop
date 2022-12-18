@@ -1,0 +1,25 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Scholl, Eddie C"]
+[Black "Czerniak, Moshe"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "7a20fd43"]
+[Epoch "Bishop"]
+[BlackCountry "ISR"]
+[WhiteID "1000390"]
+[WhiteCountry "NLD"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 Qb6 7. Qd3 Bxf3 8. gxf3
+Nd7 9. O-O-O Qa5 10. Bh3 Ngf6 11. Kb1 Qh5 12. Qf1 Nb6 13. Rg1 Qa5 14. f5 Nfd7
+15. f4 d5 16. e5 Nc4 17. Qd3 Nxe3 18. Qxe3 Nb6 19. f6 Bh6 20. e6 exf6 21. exf7+
+Kf8 22. Rde1 Kg7 23. Qe7 Rhf8 24. Be6 Nc4 25. f5 Qb6 26. Nd1 Qxd4 27. fxg6 hxg6
+28. Bf5 g5 29. Be6 Nd2+ 30. Ka1 Nf3 31. Ne3 Qf4 32. Nf5+ Kg6 33. Nxh6 Nxe1 34.
+Bf5+ Kg7 35. Rxe1 Rad8 36. a3 Qh4 37. Ng4 Rxf7 38. Qe2 Qh5 39. Kb1 Rff8 40. Qd3
+Rde8 41. Re3 Rxe3 42. Qxe3 a6 43. Qd4 Qe8 44. Bd3 Qe1+ 45. Ka2 Qh4 46. Bf5 Qe1
+47. Bd3 Qh4 48. Qb4 b5 49. Bf5 Qh5 50. Qd6 Qe8 51. b3 Rf7 52. Be6 Re7 53. Bxd5
+cxd5 54. Qxf6+ Kg8 55. Qxg5+ Kh8 56. Qh6+ 1-0

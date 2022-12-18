@@ -1,0 +1,18 @@
+[Event "Milwaukee"]
+[Site "Milwaukee"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Kujoth"]
+[Black "Crittenden"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "stonewall attack"]
+[HashCode "5cb7439a"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 e6 4. f4 Nbd7 5. Nd2 c5 6. c3 cxd4 7. exd4 Be7 8.
+Ngf3 b6 9. Ne5 Nxe5 10. fxe5 Nd7 11. O-O a5 12. Qg4 g6 13. Bc2 Bg5 14. Nc4
+dxc4 15. Bxg5 Qc7 16. Rxf7 Kxf7 17. Rf1+ Kg7 18. Bh6+ Kxh6 19. Rf7 Qd8 20.
+Rxh7+ Kxh7 21. Qxg6# 1-0
+

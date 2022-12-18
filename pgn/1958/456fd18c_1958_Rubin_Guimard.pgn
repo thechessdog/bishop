@@ -1,0 +1,30 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Rubin"]
+[Black "Guimard, Carlos E"]
+[Result "0-1"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[HashCode "456fd18c"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. cxd5 exd5 6. Nc3 O-O 7. Bg5 c6 8. Nf3
+Ne4 9. Bxe7 Qxe7 10. Nxe4 dxe4 11. Nd2 e3 12. fxe3 Qxe3 13. Nc4 Qh6 14. O-O Nd7
+15. e4 Nf6 16. Qe2 Bg4 17. Qe3 Qxe3+ 18. Nxe3 Be2 19. Rfe1 Bd3 20. e5 Nd7 21.
+Rad1 Ba6 22. Nf5 Nb6 23. b3 Rad8 24. Nd6 Nc8 25. Ne4 b6 26. Bh3 Ne7 27. Nd6 Bc8
+28. Bg2 Bd7 29. Rc1 h6 30. Be4 f5 31. Bd3 g6 32. Bc4+ Kg7 33. Nb7 Rb8 34. Nd6
+Rbd8 35. Bf1 f4 36. Kg2 h5 37. Nb7 Rb8 38. Nd6 Bg4 39. h3 Bd7 40. Bc4 b5 41.
+Bf7 f3+ 42. Kf2 Bxh3 43. d5 Rxf7 44. Nxf7 Kxf7 45. e6+ Kf6 46. d6 Nd5 47. Rxc6
+Nb4 48. Rc3 Bxe6 49. a3 Nd5 50. Rc6 Bd7 51. Rc5 Be6 52. d7 Bxd7 53. Rxd5 Bf5
+54. Kxf3 Rb6 55. b4 a6 56. Rd2 Rc6 57. Kf2 Kg5 58. Kg2 Rf6 59. Rd4 Rc6 60. Kf2
+Bh3 61. Re5+ Bf5 62. Rc5 Re6 63. Rcd5 Re7 64. Rd6 Rf7 65. R4d5 Ra7 66. Rc6 a5
+67. bxa5 Rxa5 68. Rc3 Kg4 69. Rd4+ Kg5 70. Rd5 Kg4 71. Rb3 Kh3 72. Rb4 Bg4 73.
+Rd1 Kh2 74. Rd3 Ra6 75. Rdb3 Rf6+ 76. Rf4 Rc6 77. Rxb5 Rc2+ 78. Ke1 Kxg3 79.
+Rfb4 Re2+ 80. Kf1 Rf2+ 81. Ke1 Re2+ 82. Kf1 Ra2 83. Rb3+ Kf4 84. R5b4+ Kg5 85.
+a4 Bd7 86. Rg3+ Kh6 87. Rb6 Bf5 88. Ra6 h4 89. Re3 h3 90. Ra8 h2 91. Rh8+ Kg5
+92. a5 Kf4 93. Re7 Kf3 94. Ke1 Ra1+ 95. Kd2 h1=Q 96. Re3+ Kf4 97. Rxh1 Rxh1 98.
+Ra3 Rh7 99. Ke2 Ra7 100. Kf2 Ke4 0-1

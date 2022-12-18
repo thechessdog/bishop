@@ -1,0 +1,25 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1958.01.01"]
+[Round "8"]
+[White "Donner, Jan Hein"]
+[Black "Bouwmeester, Hans"]
+[Result "1-0"]
+[ECO "D25"]
+[Opening "QGA, Smyslov variation"]
+[HashCode "03b95c17"]
+[Epoch "Bishop"]
+[BlackID "1000187"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 g6 5. Na3 Bg7 6. Nxc4 O-O 7. Be2 c5 8. O-O
+Nc6 9. dxc5 Ne4 10. Qa4 Nxc5 11. Qa3 Na6 12. Rd1 Qc7 13. Nd4 Nxd4 14. exd4 Rd8
+15. Be3 Be6 16. Rac1 Qd7 17. Na5 Bd5 18. Nxb7 Qxb7 19. Bxa6 Qb6 20. b3 e6 21.
+Bc4 a5 22. h3 Qb7 23. Bf1 Bf8 24. Qa4 Qb4 25. Qxb4 axb4 26. Rd2 Ra5 27. Bf4
+Rda8 28. Rcc2 Be4 29. Rb2 Rc8 30. f3 g5 31. Be5 Bg6 32. Bc4 Be7 33. Kf1 Kf8 34.
+g4 Ke8 35. Ke1 Kf8 36. Rf2 Ke8 37. Rbd2 Kf8 38. Kd1 Ke8 39. Kc1 Kf8 40. Rfe2
+Ra7 41. Kd1 Ra5 42. Rh2 Ra7 43. Rhg2 Ra5 44. Rge2 Ra7 45. d5 exd5 46. Bxd5 Rd7
+47. Bc4 Rcd8 48. Rxd7 Rxd7+ 49. Rd2 Rxd2+ 50. Kxd2 f6 51. Bd4 h5 52. Bd3 Be8
+53. Ke3 h4 54. f4 Bc6 55. Bf1 Ke8 56. Bb6 Kd7 57. fxg5 fxg5 58. Kd4 Bb7 59. Ke5
+Ke8 60. Kf5 Kf7 61. Bc4+ Kg7 62. Bd4+ Kf8 63. Bf6 Be4+ 64. Kxg5 1-0

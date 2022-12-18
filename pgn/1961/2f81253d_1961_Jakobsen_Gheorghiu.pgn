@@ -1,0 +1,21 @@
+[Event "Wch U20 prel-A"]
+[Site "The Hague"]
+[Date "1961.??.??"]
+[Round "1"]
+[White "Jakobsen, Ole"]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "E86"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.Nge2 c6"]
+[HashCode "2f81253d"]
+[Epoch "Bishop"]
+[BlackID "1200011"]
+[WhiteCountry "DNK"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8. Qd2
+exd4 9. Bxd4 Nbd7 10. O-O-O Qa5 11. Kb1 Ne5 12. Nc1 Be6 13. b3 Nfd7 14. Be2 a6
+15. Na4 Qxd2 16. Rxd2 b5 17. cxb5 axb5 18. Nb6 Nxb6 19. Bxb6 d5 20. Rhd1 Rfb8
+21. Bd4 dxe4 22. fxe4 f5 23. Bf3 Nxf3 24. gxf3 Bh6 25. Rc2 fxe4 26. fxe4 Rd8
+27. Rxc6 Bg4 28. Rg1 Bf3 29. Be5 Bxe4+ 30. Rc2 Rd2 0-1

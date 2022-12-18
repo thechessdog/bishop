@@ -1,0 +1,17 @@
+[Event "USSR ch prel"]
+[Site "USSR ch prel"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Lepichin"]
+[Black "Alekseev"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "fd9ba072"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+Be3 Nbd7 9. g4 h6 10. h4 b5 11. a4 b4 12. Nd5 Nxd5 13. Qxd5 Rb8 14. Bc4 O-O
+15. g5 hxg5 16. hxg5 Nb6 17. Bxb6 Qxb6 18. g6 Be6 19. Qxe6 1-0
+

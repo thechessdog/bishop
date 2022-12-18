@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pannekoek"]
+[Black "Roos"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "Nd2 variation"]
+[HashCode "3716adf5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. Nf3 d6 8.
+Nd2 Bg7 9. e4 Bxf1 10. Nxf1 O-O 11. Ne3 Nfd7 12. O-O Nb6 13. a4 Qd7 14. a5
+Ra6 15. Ra3 Na8 16. Nc4 Rc8 17. Na4 Qd8 18. Qe2 Ra7 19. f4 Na6 20. Nab6 Rb8
+21. f5 Nb4 22. fxg6 hxg6 23. Nxa8 Raxa8 24. Kh1 Qe8 25. Qf2 Ra6 26. Rf3 e6
+27. Qg3 exd5 28. Nxd6 Qe5 29. Bf4 Qxb2 30. Nxf7 Re8 31. Ng5 dxe4 32. R3f2
+Qd4 33. Qh3 1-0
+

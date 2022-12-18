@@ -1,0 +1,18 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1969.09.01"]
+[Round "1"]
+[White "Gufeld, Eduard"]
+[Black "Abramovich Furman, Semyon"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "198154df"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bg5 h6 7. Nxf6+ Nxf6
+8. Bh4 c5 9. Bb5+ Bd7 10. Bxd7+ Qxd7 11. dxc5 Qxd1+ 12. Rxd1 Bxc5 13. Ke2 Rc8
+14. c3 Nd5 15. Bg3 1/2-1/2

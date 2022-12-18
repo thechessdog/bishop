@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Maltz"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "771209a3"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3 Qd8 7. Bd3 Be7
+8. Bf4 Nc6 9. c3 h6 10. Qe2 Bd7 11. h4 a6 12. O-O-O Bd6 13. Ne5 Qe7 14. Bg3
+O-O-O 15. f4 Bxe5 16. dxe5 Be8 17. Bf2 f6 18. h5 f5 19. Bh4 Qf7 20. Bxd8 0-1

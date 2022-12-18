@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Vladimirov, Yevgeniy"]
+[Black "Vorotnikov, Vladislav V"]
+[Result "0-1"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Alekhine defence"]
+[HashCode "1420844d"]
+[Epoch "Bishop"]
+[WhiteCountry "KAZ"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Bg4 5. h3 Bh5 6. g4 Bg6 7. Nbd2 Nd7 8. Nxc4
+e6 9. Bg2 Be4 10. Ncd2 Bb4 11. Kf1 Bxd2 12. Bxd2 Ngf6 13. Ng5 Bxg2+ 14. Kxg2
+Nf8 15. Qb3 Ng6 16. Bb4 Nh4+ 17. Kg3 Nh5+ 18. Kxh4 h6 19. f4 hxg5+ 20. fxg5
+Qxg5+ 21. Kxg5 f6+ 22. Kh4 g5# 0-1

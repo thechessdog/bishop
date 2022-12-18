@@ -1,0 +1,17 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1960.01.01"]
+[Round "7"]
+[White "Haahr, Thorkild"]
+[Black "Jensen, Erik"]
+[Result "0-1"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "exchange variation"]
+[HashCode "865d40b4"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 Bf5 4. c4 c6 5. cxd5 cxd5 6. Nc3 e6 7. Qb3 Qc8 8. Bd2
+Nc6 9. Rc1 Bd6 10. Nb5 Be7 11. Ne5 O-O 12. Nxc6 bxc6 13. Bb4 Bxb4+ 14. Qxb4 Qb7
+0-1

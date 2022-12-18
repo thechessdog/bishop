@@ -1,0 +1,18 @@
+[Event "corr EU/I"]
+[Site "corr EU/I"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Schwarzbach, H."]
+[Black "Migatsch, A."]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "4bd32a6f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. Qd3 Ra7 13. Ne4 Qe5 14.
+Nf3 Qd5 15. Qe3 Rd7 16. Rd1 Qc6 17. Nd4 Qb6 18. O-O g6 19. Bg4 h5 20. Bxe6
+fxe6 21. f7+ Rxf7 22. Rxf7 Kxf7 23. Qf2+ 1-0
+

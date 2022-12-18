@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Waisman"]
+[Black "Ahlback, Bror"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "fb585cc3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Nd7 10. h4 Nb6 11. Bb3 Na5 12. Qd3 Nxb3 13. axb3 d5 14. Ndb5
+Be6 15. O-O-O Qc8 16. Nxd5 Nxd5 17. exd5 Be5 18. Qe2 a6 19. Na3 b5 20. g4
+Bd7 21. h5 Qc7 22. hxg6 fxg6 23. d6 exd6 24. Qh2 Rxf3 25. Qxh7+ 1-0
+

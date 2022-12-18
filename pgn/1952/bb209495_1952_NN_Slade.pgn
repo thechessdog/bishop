@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Slade, R."]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, Benelux variation  "]
+[HashCode "bb209495"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 Bb6 6. O-O O-O 7. Bg5 d6 8.
+Bxc6 bxc6 9. dxe5 dxe5 10. Qxd8 Rxd8 11. Nxe5 Ba6 12. Re1 Nxe4 13. Bxd8
+Rxd8 14. Ng4 f5 15. h3 fxg4 16. Rxe4 g3 0-1
+

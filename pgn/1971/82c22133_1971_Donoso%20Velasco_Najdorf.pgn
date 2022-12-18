@@ -1,0 +1,23 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Donoso Velasco, Ped"]
+[Black "Najdorf, Miguel"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "82c22133"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Nc6 8. g5
+Nd7 9. Be3 Qc7 10. Qd2 b5 11. O-O-O Bb7 12. Kb1 b4 13. Nce2 Nxd4 14. Qxd4 e5
+15. Qd3 Nc5 16. Bxc5 Qxc5 17. f3 Be7 18. h4 h6 19. gxh6 Rxh6 20. Ng3 g6 21. h5
+O-O-O 22. Qc4 Qxc4 23. Bxc4 Rf8 24. hxg6 Rxh1 25. Rxh1 fxg6 26. Be6+ Kb8 27.
+Bg4 Bg5 28. Rd1 Kc7 29. c4 bxc3 30. b3 Bd2 31. Nf1 Rf4 32. Nxd2 cxd2 33. Rxd2
+Bxe4+ 34. fxe4 Rxg4 35. Re2 Kc6 36. Rc2+ Kd7 37. Rc4 Rf4 38. Ra4 g5 39. Kc2 g4
+40. Rxa6 Rxe4 41. Kd3 Rf4 42. Ra7+ Kc6 43. Rg7 Rf3+ 44. Ke2 Rh3 45. Rxg4 Rh2+
+46. Kd3 Rxa2 47. Rg8 Rh2 48. Rc8+ Kd5 49. b4 e4+ 50. Kc3 Rh1 51. Kc2 Kd4 52. b5
+e3 53. Re8 Rh2+ 54. Kb3 Rh5 55. Kc2 Rxb5 56. Rh8 Rc5+ 57. Kd1 Kd3 0-1

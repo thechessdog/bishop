@@ -1,0 +1,18 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gusev, Vladimir"]
+[Black "Vorobiev"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Haberditz variation"]
+[HashCode "79a510b2"]
+[Epoch "Bishop"]
+[WhiteID "4111737"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 f5 4. e5 c5 5. Bb5+ Bd7 6. Bxd7+ Qxd7 7. c3 Nc6 8. Ne2
+Nge7 9. O-O Ng6 10. Nf3 cxd4 11. Nexd4 Nxd4 12. cxd4 Be7 13. Qb3 O-O 14. Bd2
+Rac8 15. Rfc1 b5 16. a4 b4 17. Qd3 Rxc1+ 18. Bxc1 Rc8 19. Bd2 Qc6 1/2-1/2

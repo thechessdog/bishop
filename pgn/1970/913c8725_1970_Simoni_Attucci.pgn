@@ -1,0 +1,22 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Simoni"]
+[Black "Attucci"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "913c8725"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Bd7 7. b4 cxd4 8.
+cxd4 Rc8 9. Be2 Nge7 10. O-O Nf5 11. Be3 Be7 12. g4 Nxe3 13. fxe3 g5 14.
+Nbd2 h5 15. h3 f6 16. exf6 Bxf6 17. Nb3 hxg4 18. hxg4 Qc7 19. Rf2 e5 20.
+dxe5 Nxe5 21. Rc1 Qd6 22. Rxc8+ Bxc8 23. Nxe5 Qxe5 24. Bb5+ Ke7 25. Qc1
+Bxg4 26. Nd4 Rh3 27. Qc5+ Kf7 28. Rxf6+ Qxf6 29. Qxd5+ Be6 30. Qxb7+ Qe7
+31. Qe4 Rh4 32. Qf3+ Kg7 33. Bd3 Bc8 34. Nf5+ Bxf5 35. Bxf5 Qc7 36. Bh3 g4
+37. Qg2 Qc1+ 38. Kf2 Qd2+ 39. Kf1 Qd1+ 40. Kf2 Rxh3 41. Qb7+ Kf6 42. Qc6+
+Ke7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Bobekov, R."]
+[Black "Nash, W."]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "0508fa2f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. b4 a5 7. b5 c6 8. a4 dxc4
+9. Bxc4 Nbd7 10. O-O Nb6 11. Be2 Nbd5 12. Nxd5 Nxd5 13. Bb2 Bd7 14. Qb3 Qb6 15.
+Ba3 Nb4 16. Bxb4 axb4 17. Qxb4 cxb5 18. Qxe7 Bc6 19. axb5 Rxa1 20. Rxa1 Re8 21.
+Qb4 Bd7 22. Qa5 Qd6 23. Rc1 Rc8 24. Rxc8+ Bxc8 25. h3 Bf6 26. Ne5 Kg7 27. Nc4
+Qe6 28. Qc7 h5 29. Nb6 Bxd4 30. Nxc8 Be5 31. Qc4 Qd7 32. Nb6 Qd2 33. Nd5 h4 34.
+Bf1 1-0

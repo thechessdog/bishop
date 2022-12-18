@@ -1,0 +1,21 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Perecz, Laszlo"]
+[Black "Sax, Gyula"]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "0d9a072b"]
+[Epoch "Bishop"]
+[WhiteID "700746"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Bb3 Na6 8. f4
+Nc5 9. Qf3 a6 10. g4 d5 11. exd5 Nxb3 12. axb3 O-O 13. g5 Nxd5 14. Nxd5 exd5
+15. Be3 Bb4+ 16. Kf2 Re8 17. h4 Qe7 18. c3 Bg4 19. Qg3 Bd6 20. Rae1 Qd7 21. h5
+Re4 22. g6 fxg6 23. hxg6 h5 24. Rh4 Rf8 25. Reh1 Bxf4 26. Bxf4 Rfxf4+ 27. Kg2
+Qe7 0-1

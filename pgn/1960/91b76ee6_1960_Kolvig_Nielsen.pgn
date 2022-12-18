@@ -1,0 +1,18 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Kolvig, Bent"]
+[Black "Nielsen, Hartvig"]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "91b76ee6"]
+[Epoch "Bishop"]
+[WhiteID "1400746"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. d3 Nc6 5. g3 e5 6. Bg2 Be7 7. O-O O-O 8. Na3 d5
+9. exd5 Nxd5 10. Re1 Bf6 11. Nc4 Bg4 12. h3 Bxf3 13. Qxf3 Nb6 14. Be3 Nd7 15.
+Nd6 Rb8 16. Rab1 Qc7 17. Nxb7 Rxb7 18. Qxc6 Rfb8 19. Red1 Be7 20. d4 cxd4 21.
+cxd4 exd4 22. Bf4 1-0

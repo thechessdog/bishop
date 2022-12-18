@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Diesen, Mark Carl"]
+[Black "Browne, Walter S"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "a3c8b4d5"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. Bd3 e5 8. Nf3
+b5 9. O-O g6 10. Qe1 Bg7 11. Qh4 Bb7 12. fxe5 dxe5 13. Bh6 O-O 14. Ng5 Nh5 15.
+Bxg7 Qb6+ 16. Kh1 Kxg7 17. Nxh7 Kxh7 18. g4 0-1

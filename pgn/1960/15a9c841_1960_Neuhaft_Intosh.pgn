@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Neuhaft"]
+[Black "Intosh"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "15a9c841"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Kxe7 8.
+f4 Qb6 9. Nf3 cxd4 10. Nxd4 Nc6 11. Nf5+ Kf8 12. Nd6 Qxb2 13. Rh3 Qb4 14.
+Qd2 Nc5 15. Rb1 Qd4 16. Qc1 Nd7 17. Ne2 1-0
+

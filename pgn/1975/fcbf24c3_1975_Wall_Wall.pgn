@@ -1,0 +1,18 @@
+[Event "Greenville"]
+[Site "Greenville"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wall, Jerry"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "fcbf24c3"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Be2 Nf6 5. Nbd2 O-O 6. O-O Re8 7. b3 Nh5 8. Bb2
+Nf4 9. Re1 Nxe2+ 10. Qxe2 Bg4 11. Qd3 c5 12. h3 Bd7 13. e5 Bf5 14. Qb5 Qd7 15.
+Qc4 cxd4 16. Ng5 Be6 17. Nxe6 fxe6 18. exd6 exd6 19. Bxd4 Bxd4 20. Qxd4 Nc6 21.
+Qc4 Rac8 22. Qg4 Ne5 23. Qd1 Qc6 24. c4 Nd3 25. Rf1 Rf8 26. Nf3 Nf4 27. Nd4
+Qxg2# 0-1

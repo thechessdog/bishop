@@ -1,0 +1,17 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Thomas, H."]
+[Black "Kerr, P."]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "cb262b22"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Nf3 Nf6 6. Bg5 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Qd3 Bf5 10. Qb5+ Nc6 11. O-O-O Nxc3 12. bxc3 Bxc3 13. Bd3 Be6 14. Ne5
+O-O 15. Nxc6 bxc6 16. Qxc6 Ba5 17. h4 Rb8 18. Qc5 Bb6 19. Qc3 Qd7 20. hxg5 Qa4
+21. Rxh6 Ba5 22. Bh7+ Kg7 23. Be5+ f6 24. gxf6+ Kxh6 25. Rh1+ 1-0

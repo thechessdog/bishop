@@ -1,0 +1,18 @@
+[Event "Bundesliga"]
+[Site "Bundesliga"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Hamann"]
+[Black "Saemisch, Fritz"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "facff583"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Qe7 5. b4 Bb6 6. fxe5 dxe5 7. a4 a5 8. b5
+Bg4 9. Bc4 f5 10. Qe2 Nd7 11. d3 fxe4 12. dxe4 Ngf6 13. Ba3 Bc5 14. Bxc5 Nxc5
+15. Nbd2 O-O-O 16. O-O Bxf3 17. Rxf3 Qd6 18. Rf2 h5 19. Qf3 Ng4 20. Re2 Qh6 21.
+Nb3 Nxb3 22. Bxb3 Qb6+ 23. Kh1 Rhf8 24. Qg3 Nf2+ 25. Kg1 Nd1+ 0-1

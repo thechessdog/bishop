@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Matanovic, Aleksandar"]
+[Black "Milic, Borislav"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "c8e68496"]
+[Epoch "Bishop"]
+[WhiteID "900230"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 e6 5. Nf3 Ne7 6. O-O Nd7 7. c3 Bxd3 8. Qxd3
+Ng6 9. Re1 Be7 10. Be3 O-O 11. Nbd2 c5 12. c4 cxd4 13. Bxd4 dxc4 14. Qxc4 Rc8
+15. Qb3 1/2-1/2

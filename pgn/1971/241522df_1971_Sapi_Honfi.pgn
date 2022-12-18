@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Sapi, Laszlo"]
+[Black "Honfi, Karoly"]
+[Result "1-0"]
+[ECO "A73"]
+[Opening "Benoni"]
+[Variation "classical, 9.O-O"]
+[HashCode "241522df"]
+[Epoch "Bishop"]
+[WhiteID "701513"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Be2 Bg7 8. Nf3
+O-O 9. O-O Bg4 10. h3 Bxf3 11. Bxf3 Re8 12. Bf4 b5 13. Nxb5 Nxe4 14. Qa4 Bxb2
+15. Nc7 Bxa1 16. Rxa1 Nf6 17. Nxa8 Nbd7 18. Qxa7 Qxa8 19. Qxa8 Rxa8 20. Bxd6
+Ra4 21. Bc7 Kf8 22. d6 Ne5 23. Bd1 Rd4 24. a4 Nc4 25. a5 Nxa5 26. Bxa5 Rxd6 27.
+Rc1 Ke7 28. Bf3 Nd7 29. Re1+ Re6 30. Kf1 Rxe1+ 31. Kxe1 Kd6 32. Kd2 1-0

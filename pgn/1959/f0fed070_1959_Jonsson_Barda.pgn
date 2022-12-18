@@ -1,0 +1,17 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Jonsson, Johannes G"]
+[Black "Barda, Olaf"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[HashCode "f0fed070"]
+[Epoch "Bishop"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. g3 b5 6. Bg2 Bb7 7. O-O Nf6 8. Re1
+d6 9. a4 b4 10. c3 bxc3 11. Nxc3 Nbd7 12. e5 Bxg2 13. exf6 Bb7 14. fxg7 Bxg7
+15. Nxe6 fxe6 16. Rxe6+ Kf7 17. Rxd6 Ne5 18. Qb3+ 1-0

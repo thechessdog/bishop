@@ -1,0 +1,17 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1972.01.01"]
+[Round "5"]
+[White "Kelly, V."]
+[Black "Levy, Louis"]
+[Result "0-1"]
+[ECO "D50"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch"]
+[HashCode "d33a6bf7"]
+[Epoch "Bishop"]
+[BlackID "2002310"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c5 5. cxd5 cxd4 6. Qxd4 Be7 7. Rd1 exd5 8.
+Nxd5 Qxd5 9. Bxf6 Qa5+ 10. Qc3 Bb4 0-1

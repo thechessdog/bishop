@@ -1,0 +1,18 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1953.01.01"]
+[Round "4"]
+[White "Troianescu, Octavio"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "e5876dae"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 d5 8. Ne5
+c6 9. Bg5 Nbd7 10. cxd5 cxd5 11. Nxd7 Qxd7 12. Rc1 Rac8 13. Qd3 h6 14. Bd2 Ne8
+15. Rc2 Nd6 16. b3 Bf6 17. Rfc1 1/2-1/2

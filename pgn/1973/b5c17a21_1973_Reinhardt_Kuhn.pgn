@@ -1,0 +1,17 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Reinhardt, H."]
+[Black "Kuhn"]
+[Result "1/2-1/2"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "b5c17a21"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. a3 d5 4. Bg5 c5 5. cxd5 exd5 6. dxc5 Bxc5 7. e3 Nc6
+8. Nc3 Be6 9. Nf3 O-O 10. Qc2 Be7 11. Rd1 Qa5 12. Bd3 h6 13. Bh4 Rac8 14.
+O-O a6 15. Rd2 b5 16. Be2 Ne4 17. Nxe4 Nd4 18. Qd1 Nxe2+ 19. Rxe2 dxe4 20.
+Bxe7 exf3 21. gxf3 Rfe8 22. Bb4 Qb6 1/2-1/2
+

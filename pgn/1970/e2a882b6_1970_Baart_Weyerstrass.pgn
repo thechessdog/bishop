@@ -1,0 +1,18 @@
+[Event "Blaricum"]
+[Site "Blaricum"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Baart, Joan"]
+[Black "Weyerstrass, Ronald"]
+[Result "1/2-1/2"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "e2a882b6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 c5 12. Nf1 Bb7 13. Ng3 h6 14. Bc2 Qc7 15. Qd2
+Rfe8 16. Nf5 Bf8 17. a4 Rac8 18. Bd3 c4 19. Bc2 exd4 20. Qxd4 Nc5 21. axb5 axb5
+22. Nxh6+ gxh6 23. Qxf6 Re6 24. Qd4 Bxe4 25. Bxe4 Nb3 26. Qa7 Nxa1 27. Qxa1
+Rce8 28. Qb1 Kh8 29. Bf4 Qe7 1/2-1/2

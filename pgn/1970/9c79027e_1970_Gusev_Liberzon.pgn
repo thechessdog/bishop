@@ -1,0 +1,23 @@
+[Event "Sevastopol"]
+[Site "Sevastopol"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gusev, Vladimir"]
+[Black "Liberzon, Vladimir M"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "9c79027e"]
+[Epoch "Bishop"]
+[WhiteID "4111737"]
+[WhiteCountry "RUS"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd3 Nbd7 8. f4
+Qc7 9. Be2 b5 10. Bf3 Bb7 11. Bxf6 gxf6 12. O-O-O O-O-O 13. Kb1 Kb8 14. Rhe1
+Rc8 15. a3 Nb6 16. f5 e5 17. Nb3 Nc4 18. a4 Na3+ 19. bxa3 Qxc3 20. axb5 axb5
+21. Bh5 d5 22. Qxc3 Rxc3 23. exd5 Bxa3 24. Bxf7 Rd8 25. Be6 Bb4 26. Re4 Rc4 27.
+Nd2 Rxd5 28. Bxd5 Bxd5 29. Nxc4 Bxe4 30. Nd6 Bxg2 31. Nxb5 e4 32. c3 Bc5 33.
+Kc2 Bf2 34. Rd6 Bh4 35. Re6 Bg5 36. Re8+ Kb7 37. Nd6+ Kc7 38. Nxe4 Kd7 39. Re6
+Bh3 40. Nxf6+ Kd8 41. Ne4 Bxf5 42. Re5 1-0

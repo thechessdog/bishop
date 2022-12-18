@@ -1,0 +1,17 @@
+[Event "Dnepropetrovsk"]
+[Site "Dnepropetrovsk"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Karasev, Vladimir I"]
+[Black "Akopian, Vladimir"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Reti (Spielmann) variation"]
+[HashCode "ab7abfe7"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. b3 d5 3. Bb2 dxe4 4. Nc3 Nf6 5. Qe2 Bb4 6. O-O-O Bxc3 7. dxc3 Qe7
+8. g4 Qc5 9. h4 e3 10. Bg2 exf2 11. Nh3 h5 12. Nxf2 hxg4 13. Nxg4 Nbd7 14. c4
+c6 15. Kb1 Qe7 16. h5 Nxg4 17. Qxg4 f6 18. Be4 Nf8 19. Bg6+ Nxg6 20. Qxg6+ Kf8
+21. h6 1-0

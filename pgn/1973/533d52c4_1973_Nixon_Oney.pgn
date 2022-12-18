@@ -1,0 +1,21 @@
+[Event "EU-ch U20 fin-D"]
+[Site "Groningen"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Nixon, Rodney J"]
+[Black "Oney, Feridun"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "533d52c4"]
+[Epoch "Bishop"]
+[WhiteID "404500"]
+[WhiteCountry "IRL"]
+[BlackID "6300057"]
+[BlackCountry "TUR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Bxc3+ 6. bxc3 d6 7. e4 Nc6 8. Ne2
+e5 9. d5 Na5 10. Ng3 b6 11. f3 h6 12. h4 Ba6 13. h5 Qd7 14. Nf5 Kf8 15. Qe2 Ne8
+16. f4 Qa4 17. fxe5 dxe5 18. O-O Bxc4 19. Bxc4 Nxc4 20. Qg4 Qd7 21. Nxh6 Nf6
+22. Qxd7 Nxd7 23. Rxf7+ Ke8 24. Rxg7 1-0

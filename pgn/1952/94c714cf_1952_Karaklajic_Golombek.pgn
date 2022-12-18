@@ -1,0 +1,18 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Karaklajic, Nikola"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "94c714cf"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 dxc4 6. Bxc4 e6 7. Nf3 Be7 8.
+O-O O-O 9. Qe2 a6 10. a4 Nc6 11. Rd1 Nb4 12. Bg5 Bd7 13. Ne5 Rc8 14. d5 exd5
+15. Bxf6 Bxf6 16. Nxd7 Qxd7 17. Nxd5 Nxd5 18. Bxd5 1/2-1/2

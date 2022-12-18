@@ -1,0 +1,19 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Steiner, Herman"]
+[Black "Aleman Dovo, Miguel"]
+[Result "1-0"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "4f47c8e1"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 cxd4 9. cxd4 Nc6 10. Be3 O-O 11. O-O Na5 12. Bd3 Bg4 13. f3 Bd7 14. Rc1 Rc8
+15. Qd2 a6 16. d5 b5 17. Rxc8 Bxc8 18. Rc1 Bb7 19. Nd4 Bxd4 20. Bxd4 e6 21. Qe3
+f6 22. e5 exd5 23. exf6 Qe8 24. f7+ 1-0

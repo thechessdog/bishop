@@ -1,0 +1,17 @@
+[Event "Elk"]
+[Site "Elk"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Ufnal"]
+[Black "Banach"]
+[Result "1-0"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "5a20c1b2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 exd4 6. Nxd4 Nxd4 7. Qxd4
+Bxb5 8. Nxb5 a6 9. Nc3 Ne7 10. Nd5 Nc6 11. Qc3 Qd7 12. Bg5 Rc8 13. O-O-O
+Rg8 14. e5 Qf5 15. f4 dxe5 16. Nxc7+ Rxc7 17. Qxc6+ 1-0
+

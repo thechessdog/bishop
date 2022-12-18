@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Stein, Leonid"]
+[Black "Shianovsky, Vladisl"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "2325f641"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. c3 d6 8. O-O
+h6 9. a4 Bg4 10. axb5 axb5 11. Rxa8 Qxa8 12. Qxb5 Bxf3 13. gxf3 O-O 14. Rd1 Bb6
+15. Qf1 Ne7 16. d4 Ng6 17. Be3 Nh5 18. Nd2 Nhf4 19. Kh1 Qb8 20. Ba2 exd4 21.
+cxd4 c5 22. d5 Re8 23. Qb5 Qd8 24. b4 Re5 25. Rg1 Qh4 26. Rg4 Qf6 27. Qxb6 Rg5
+28. bxc5 h5 29. cxd6 hxg4 30. d7 g3 31. d8=Q+ Kh7 32. fxg3 1-0

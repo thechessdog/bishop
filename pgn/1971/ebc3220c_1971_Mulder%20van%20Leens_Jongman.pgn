@@ -1,0 +1,21 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Mulder van Leens, D"]
+[Black "Jongman, R."]
+[Result "1-0"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "ebc3220c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 Nc6
+8. Bg5 Nd4 9. Nxd4 Bxd4 10. e3 Qa5 11. exd4 Qxg5 12. g3 d5 13. f4 Qh6 14.
+c5 Nh5 15. Bg2 f5 16. Qd2 Nf6 17. b4 Bd7 18. a4 a6 19. O-O Rfd8 20. Rfb1
+Ne4 21. Qe3 Nxc3 22. Qxc3 g5 23. fxg5 Qxg5 24. Qc1 h6 25. Kf2 Kf7 26. Bf3
+Kf6 27. Qf4 Qxf4 28. gxf4 Rg8 29. Be2 Rg7 30. b5 axb5 31. axb5 Rgg8 32. Rg1
+Rxg1 33. Rxa8 Rb1 34. Rb8 Bxb5 35. Rxb7 Bd3 36. c6 Rc1 37. Bxd3 Rxc6 38.
+Be2 Rc3 39. Bh5 1-0
+

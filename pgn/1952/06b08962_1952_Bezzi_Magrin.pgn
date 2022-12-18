@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Bezzi, Ermenegildo"]
+[Black "Magrin, Antonio"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "06b08962"]
+[Epoch "Bishop"]
+[BlackID "803243"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. Bg5
+Nbd7 9. Qd2 Be7 10. f4 Qc7 11. f5 Bc4 12. O-O-O b5 13. Bxf6 Nxf6 14. Rhe1 O-O
+15. Kb1 Rfb8 16. g4 a5 17. g5 Ne8 18. h4 a4 19. Nc1 b4 20. Bxc4 bxc3 21. Qd5
+Bxg5 22. hxg5 Rxb2+ 23. Ka1 Ra5 24. Qd3 Qb6 25. Ne2 Rxa2+ 0-1

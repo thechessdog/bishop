@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Lippstreu, G."]
+[Black "Haase, J."]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "73f9482d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Be7 6. Nf3 O-O 7. Bd3 b6 8. e4
+dxe4 9. Nxe4 Bb7 10. Qc2 Nbd7 11. b4 c5 12. dxc5 Nxe4 13. Bxe4 Bxe4 14.
+Qxe4 bxc5 15. b5 e5 16. O-O f5 17. Qd5+ Kh8 18. Bb2 e4 19. Rad1 Bf6 20. Ne5
+Nxe5 21. Bxe5 Qb6 22. Bd6 Bd4 23. Bxf8 Rxf8 24. Qc6 g6 25. Rb1 e3 26. fxe3
+Bxe3+ 27. Kh1 Kg7 28. Rb3 Bd4 29. a4 Qd8 30. b6 axb6 31. Rxb6 Rf6 32. Rb7+
+1-0
+

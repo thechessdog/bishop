@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Mittag"]
+[Black "Bluemel"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "8fbe7a03"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+
+Be7 8. O-O O-O 9. d4 Bg4 10. Re1 Bd6 11. Qe4 f5 12. Qd3 Bxf3 13. Qxf3 Qh4
+14. g3 Qxd4 15. Bd3 g6 16. Bh6 Rd8 17. Rad1 Qb6 18. Bxf5 Na6 19. Bxg6 1-0
+

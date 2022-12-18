@@ -1,0 +1,18 @@
+[Event "corr Finland"]
+[Site "corr Finland"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Johansson, C."]
+[Black "Lahjo, K."]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "048a1912"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 g6
+8. Qe2 Bg7 9. O-O-O Nb6 10. Bb3 Bg4 11. f3 Bd7 12. f4 Bg4 13. Nf3 Qc7 14.
+e5 dxe5 15. fxe5 Bxf3 16. gxf3 Nh5 17. e6 f5 18. Rd7 Nxd7 19. exd7+ Qxd7
+20. Rd1 Qc7 21. Qe6 1-0
+

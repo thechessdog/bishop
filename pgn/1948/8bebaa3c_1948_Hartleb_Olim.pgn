@@ -1,0 +1,18 @@
+[Event "Pennsylvania"]
+[Site "Pennsylvania"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Hartleb, G."]
+[Black "Olim, R."]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "8bebaa3c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 Bxc3+ 5. bxc3 b6 6. g3 Ba6 7. Qa4 Qc8
+8. Bg2 Nc6 9. Ba3 Rb8 10. O-O Ne4 11. Ne5 Nxe5 12. dxe5 Nd2 13. Rfd1 Nxc4
+14. Rxd7 Bb5 15. Re7+ Kd8 16. Rd1+ Nd6 17. exd6 cxd6 18. Qxa7 d5 19. Rxf7
+Bd7 20. Rxd7+ 1-0
+

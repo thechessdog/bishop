@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Clement"]
+[Black "Sanakoev"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "6d42dbda"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nbd7 8.
+cxd5 exd5 9. Bd2 Re8 10. a3 Bxc3 11. Bxc3 c4 12. Be2 Ne4 13. Be1 Nb6 14. b3
+Bg4 15. h3 Bh5 16. g4 Bg6 17. Ne5 f6 18. Nxg6 hxg6 19. Ba5 Qd6 20. Bxb6
+Qxb6 21. bxc4 Nc3 22. Qc2 Nxe2+ 23. Qxe2 Qxd4 24. Rac1 Qc5 25. Qd3 dxc4 26.
+Rxc4 Qe7 27. Qxg6 Qxa3 28. Rc7 Re7 29. Rfc1 Rae8 30. R1c5 Kf8 31. Rxe7 Kxe7
+32. Qxg7+ Ke6 33. Rc4 Re7 34. Re4+ 1-0
+

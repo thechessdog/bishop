@@ -1,0 +1,19 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Pflumm, E."]
+[Result "1-0"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation"]
+[HashCode "bac83202"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 Bg6 10. Rd1 O-O 11. Bd3 Bh5 12. h3 Qa5 13. g4 Bg6 14. Bxg6 hxg6 15.
+Bd2 e5 16. dxe5 Nxe5 17. Nd4 Rad8 18. f4 Ned7 19. g5 Ne8 20. Nc2 Nc5 21. Nd5
+Bxd2 22. b4 Bxb4 23. Ne7+ Kh7 24. Qg4 Nf6 25. gxf6 gxf6 26. f5 Bc3 27. fxg6+
+Kg7 28. Nf5+ Kg8 29. Qh5 Rxd1+ 30. Rxd1 fxg6 31. Qxg6+ Kh8 32. Qg7# 1-0

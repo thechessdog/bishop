@@ -1,0 +1,28 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Honfi, Karoly"]
+[Black "Teschner, Rudolf"]
+[Result "0-1"]
+[ECO "C59"]
+[Opening "two knights defence"]
+[Variation "Goering variation"]
+[HashCode "f8db4d13"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Be2 h6 9. Nf3 e4 10. Ne5 Qc7 11. f4 Bd6 12. O-O O-O 13. Nc3 Bxe5 14. fxe5 Qxe5
+15. d4 exd3 16. Bxd3 Ng4 17. Rf4 Qh5 18. h3 Qc5+ 19. Kh1 Nf2+ 20. Rxf2 Qxf2 21.
+Ne4 Qh4 22. Qf3 Be6 23. Bd2 Nc4 24. Bc3 f5 25. Nd2 Nxd2 26. Qxc6 Bc4 27. Qb7
+Qg3 28. Bxc4+ Nxc4 29. Qd5+ Kh7 30. Qxc4 f4 31. Rf1 Rad8 32. Qe4+ Qg6 33. Rxf4
+Rxf4 34. Qxf4 Qxc2 35. Kh2 Qg6 36. a4 a6 37. Be5 Re8 38. b4 Qe6 39. Bd6 Qd7 40.
+a5 Qe6 41. Bc5 Qe5 42. Qxe5 Rxe5 43. g4 Kg6 44. Kg3 Kf7 45. Kf4 Rd5 46. Ke4 Ke6
+47. Bf8 Rg5 48. Kf4 Rg6 49. Ke4 Kf7 50. Bc5 Rg5 51. Be3 Rb5 52. Bc5 Ke6 53. Bf8
+g6 54. Kf4 h5 55. Bc5 hxg4 56. hxg4 Rb8 57. Kg5 Kf7 58. Kf4 Kf6 59. Bd4+ Ke6
+60. Bc5 Rd8 61. Kg5 Kf7 62. Kf4 Rd5 63. Ke4 Ke6 64. Bd4 Rd7 65. Bc5 Rd1 66. Bb6
+Rc1 67. Bc5 Rc4+ 68. Kf3 Ke5 69. Kg3 Ke4 70. Be7 Rc7 71. Bf6 Rb7 72. Kh4 Kf4
+73. Bg5+ Kf3 74. Bd2 Rd7 75. Bh6 Rd4 76. Kg5 Rxg4+ 77. Kf6 Ke4 78. Bg5 Kd5 79.
+Kxg6 Ke6 80. Kh6 Rxb4 81. Bd8 Rg4 0-1

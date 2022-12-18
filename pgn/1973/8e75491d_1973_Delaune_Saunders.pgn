@@ -1,0 +1,24 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1973.01.01"]
+[Round "2"]
+[White "Delaune, Richard K"]
+[Black "Saunders, John C"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "8e75491d"]
+[Epoch "Bishop"]
+[BlackID "1800736"]
+[BlackCountry "WLS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. O-O d6 6. a4 g6 7. c3 Bg7 8. d4
+cxd4 9. cxd4 Nf6 10. Nc3 O-O 11. h3 a5 12. Qc2 Ba6 13. Rd1 Rb8 14. Bg5 h6 15.
+Be3 Nd7 16. b3 Qb6 17. Rab1 Qb7 18. Nd2 d5 19. Nf3 Rbc8 20. Qd2 Kh7 21. e5 e6
+22. Na2 c5 23. dxc5 Nxc5 24. Bxc5 Rxc5 25. b4 axb4 26. Nxb4 Qc8 27. Nxa6 Qxa6
+28. Rb4 Rfc8 29. Qf4 R8c7 30. Nd4 Rc4 31. Rdb1 Rxb4 32. Rxb4 Qa5 33. Nb3 Qa7
+34. a5 Rc2 35. Nd4 Ra2 36. Nb5 Qc5 37. Rb1 Qc2 38. Rf1 Qf5 39. Qxf5 gxf5 40.
+Nd6 Bxe5 41. Nxf7 Bd4 42. Kh1 Rxa5 43. Re1 Ra1 44. Rxa1 Bxa1 45. Kg1 Kg6 46.
+Nd8 Kf6 47. Nc6 Bc3 48. Kf1 e5 49. Ke2 e4 50. Ke3 Ke6 51. Nd8+ Kd7 52. Nf7 d4+
+53. Ke2 d3+ 54. Kd1 Bg7 0-1

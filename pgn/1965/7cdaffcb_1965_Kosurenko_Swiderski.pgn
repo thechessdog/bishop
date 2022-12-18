@@ -1,0 +1,17 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Kosurenko"]
+[Black "Swiderski, Rudolf"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[HashCode "7cdaffcb"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 Ba7 7. d4 Nxe4 8. Qd3
+f5 9. d5 Ne7 10. Nxe5 O-O 11. d6 Nxd6 12. Bb3+ Kh8 13. Bg5 Rf6 14. Bxf6 gxf6
+15. Qxd6 1-0

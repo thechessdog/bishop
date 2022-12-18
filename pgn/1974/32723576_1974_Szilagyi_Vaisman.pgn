@@ -1,0 +1,17 @@
+[Event "Wroclaw"]
+[Site "Wroclaw"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Szilagyi, Gyorgy"]
+[Black "Vaisman, Volodia"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "32723576"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. f4 Qe7 6. Nf3 f6 7. fxe5 fxe5 8.
+Bxc6+ bxc6 9. Nxe5 Qh4+ 10. g3 Qh3 11. Qe2 Nf6 12. Na3 Ng4 13. d4 O-O 14. O-O-O
+Nf2 15. Rhf1 Bxe5 16. Rxf2 Bg4 17. Qe1 Rxf2 18. dxe5 Raf8 0-1

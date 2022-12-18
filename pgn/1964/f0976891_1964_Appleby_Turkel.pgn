@@ -1,0 +1,16 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Appleby"]
+[Black "Turkel"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "f0976891"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bg4 6. h3 Bxf3 7. Qxf3
+Nc6 8. Bb5 Qd7 9. d5 O-O-O 10. dxc6 Qe6+ 11. Be3 b6 12. O-O Nd5 13. Ba6+
+Kb8 14. Rad1 Qxc6 15. Nxd5 e6 16. Nb4 Bxb4 17. Qxc6 1-0
+

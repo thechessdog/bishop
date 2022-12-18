@@ -1,0 +1,18 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Fuchs, Reinhart"]
+[Black "Golz, Werner"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Czerniak variation"]
+[HashCode "8fd9c0ed"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Qa5 7. Nf3 Bg4 8.
+Be2 dxc4 9. d5 Bxf3 10. Bxf3 Ne5 11. O-O O-O-O 12. Rc1 e6 13. Qe2 Nxf3+ 14.
+Qxf3 exd5 15. Bxf6 gxf6 16. Rfd1 d4 17. Ne2 Qxa2 18. Nxd4 Bb4 19. Ra1 Qxb2 20.
+Rxa7 Bc3 21. Ra8+ Kc7 22. Qf4+ Kb6 23. Qxf6+ Kc5 24. Qe7+ Rd6 25. Nb3+ 1-0

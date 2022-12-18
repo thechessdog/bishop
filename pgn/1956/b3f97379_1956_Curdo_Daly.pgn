@@ -1,0 +1,25 @@
+[Event "New England"]
+[Site "New England"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Curdo"]
+[Black "Daly"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "b3f97379"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. c4 d6 6. d4 cxd4 7. Qxd4 Nf6
+8. Bg5 e5 9. Qd3 Be7 10. Nc3 h6 11. Bxf6 Bxf6 12. Rd1 Ke7 13. O-O Qc7 14.
+Ne1 Rd8 15. Nc2 Be6 16. Ne3 g6 17. b3 Kf8 18. Rd2 Bg5 19. Rfd1 Kg7 20. Na4
+Rab8 21. Qc3 f6 22. Rd3 Bxe3 23. Rxe3 Rd7 24. Red3 Rbd8 25. Qd2 Qa7 26. Nc3
+Bg4 27. Rf1 Be6 28. Kh1 f5 29. f3 f4 30. Rg1 Qc7 31. Rd1 Kf7 32. g3 g5 33.
+gxf4 gxf4 34. Qf2 Rg8 35. Qh4 Rg6 36. R3d2 Kg7 37. Rg1 Rxg1+ 38. Kxg1 Kh7
+39. Rg2 Rg7 40. Qf6 Rxg2+ 41. Kxg2 Qg7+ 42. Qxg7+ Kxg7 43. Kf2 Kf6 44. Ke1
+Ke7 45. Kd2 Kd7 46. Na4 Kc7 47. Nb2 d5 48. c5 dxe4 49. fxe4 Bh3 50. Nd3 Bg2
+51. Nxe5 Bxe4 52. Nd3 f3 53. Ke3 Bd5 54. Ne5 a5 55. Nxf3 a4 56. Nd4 axb3
+57. axb3 Kd7 58. b4 Bf7 59. Kf4 h5 60. h4 Be8 61. Kg5 Ke7 62. Nf5+ Kd7 63.
+Nd6 1-0
+

@@ -1,0 +1,30 @@
+[Event "Buenos Aires m"]
+[Site "Buenos Aires"]
+[Date "1965.01.01"]
+[Round "3"]
+[White "De Las Heras, Juan Carlos"]
+[Black "Rubinetti, Jorge"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "16cb1bec"]
+[Epoch "Bishop"]
+[WhiteID "102857"]
+[WhiteCountry "ARG"]
+[BlackID "100161"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Ne8 11. Qc2 a6 12. a4 Rb8 13. Rb1 Qe7 14. Nc4 b6 15. f4
+f5 16. exf5 gxf5 17. Bd3 Bd4+ 18. Kh1 Ng7 19. Bd2 Bb7 20. Rbe1 Qf6 21. Ne3 Rbe8
+22. Rf3 Qf7 23. Rh3 Bc8 24. Rf1 Bxe3 25. Bxe3 Nf6 26. Bc1 Ng4 27. b3 Re7 28.
+Rhf3 Rfe8 29. Nd1 Re1 30. h3 Nf6 31. Ne3 Rxf1+ 32. Bxf1 Ne4 33. Bb2 Nh5 34. Bd3
+Nhg3+ 35. Kh2 Qg6 36. Ba1 Kf7 37. b4 Rg8 38. bxc5 Nxc5 39. Nc4 Nge4 40. Nxb6
+Bb7 41. Bf1 a5 42. Bd4 Ba6 43. Bxa6 Nxa6 44. Nc4 Nb4 45. Qb2 Nxd5 46. Nxa5 h5
+47. Kg1 Ke6 48. Nc4 Qe8 49. Qa2 Qc6 50. Ne3 Ra8 51. a5 Qb5 52. Bb6 Nc3 53. Qc2
+Nxb6 54. Qxc3 Rxa5 55. Qg7 Qe8 56. Qh6+ Kd7 57. Qg6 Qe6 58. Qg7+ Kc6 59. Qh8
+Ra3 60. Nc2 Ra8 61. Qxa8+ Nxa8 62. Nd4+ Kd5 63. Nxe6 Kxe6 64. Rg3 Nc7 65. Rg5
+Nd5 66. Rxh5 Nxf4 67. Rh8 Ng6 68. Rh7 Kf6 69. Kf2 Ne5 70. Ke3 Ng6 71. h4 Ne5
+72. g3 Nf7 73. Kf4 Ne5 74. Ra7 Ng6+ 75. Kf3 Ne5+ 76. Ke3 Ng6 77. Ra6 Ke6 78. h5
+Ne5 79. Kf4 Nf7 80. Ra7 1-0

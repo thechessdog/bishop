@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Kolvig, Bent"]
+[Black "Pedersen, Jorgen"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "214aa275"]
+[Epoch "Bishop"]
+[WhiteID "1400746"]
+[WhiteCountry "DEN"]
+
+1. e4 d6 2. d4 g6 3. f4 Bg7 4. Nf3 Bg4 5. Be3 Nf6 6. Nc3 O-O 7. h3 Bd7 8. Qd2
+c6 9. e5 Nd5 10. Nxd5 cxd5 11. Bd3 Nc6 12. O-O Qb6 13. c3 Na5 14. b3 Bb5 15. f5
+Bxd3 16. Qxd3 Rac8 17. Ng5 h6 18. fxg6 hxg5 19. gxf7+ Kh8 20. e6 1-0

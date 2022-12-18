@@ -1,0 +1,16 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Larsen, Otto"]
+[Black "Nissen, Chr"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[HashCode "b20eadbf"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 Nxe4 7. Nxc6
+bxc6 8. Bxe6 fxe6 9. Nxe4 Be7 10. Qh5+ g6 11. Qe5 Rf8 12. Qg7 Rf7 13. Qh8+
+Bf8 14. Bg5 Qb6 15. Nd6# 1-0
+

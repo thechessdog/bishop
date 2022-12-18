@@ -1,0 +1,19 @@
+[Event "Sinaia student tt"]
+[Site "Sinaia student tt"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Kagan, Shimon"]
+[Black "Nordstrom, Eric"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "91725cb8"]
+[Epoch "Bishop"]
+[WhiteID "2800284"]
+[WhiteCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nc6 8. O-O
+Qc7 9. Kh1 Na5 10. f4 b5 11. f5 Nxb3 12. axb3 b4 13. Ncb5 Qb8 14. e5 dxe5 15.
+Nc6 Qb6 16. Nd6+ Bxd6 17. Qxd6 Nd5 18. Ra5 Bd7 19. fxe6 fxe6 20. Rc5 Rc8 21.
+Rf7 Kxf7 22. Nxe5+ Kg8 23. Qxd7 Rf8 24. Rc8 Qc7 25. Qxe6+ 1-0

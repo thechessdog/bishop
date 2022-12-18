@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Utiatsky"]
+[Black "Kuznetsov"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "947c3789"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Ne2 d6 3. g3 Bg4 4. Bg2 Nc6 5. h3 Bd7 6. c3 g6 7. d4 cxd4 8.
+cxd4 Bg7 9. Nbc3 Nh6 10. d5 Ne5 11. Bxh6 Bxh6 12. f4 1-0
+

@@ -1,0 +1,22 @@
+[Event "Bognor Regis"]
+[Site "Bognor Regis"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Drimer, Dolfi"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "a2983af2"]
+[Epoch "Bishop"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d3 Nge7 7. Be3 d6 8. Qc1
+O-O 9. Bh6 a6 10. Bxc6 Nxc6 11. Bxg7 Kxg7 12. Qe3 f5 13. exf5 gxf5 14. d4 e4
+15. Nfd2 cxd4 16. cxd4 Nb4 17. Na3 Nd5 18. Qb3 Be6 19. Nac4 Kh8 20. f3 b5 21.
+Ne3 Qg5 22. Rae1 Nf4 23. d5 Bxd5 24. Qc3+ Kg8 25. Qd4 Bb7 26. fxe4 fxe4 27.
+Nxe4 Bxe4 28. Qxe4 Rae8 29. Qc6 Nd3 30. Rxf8+ Rxf8 31. Re2 Nf4 32. Rc2 Nh3+ 33.
+Kh1 Qxe3 34. gxh3 Rf1+ 0-1

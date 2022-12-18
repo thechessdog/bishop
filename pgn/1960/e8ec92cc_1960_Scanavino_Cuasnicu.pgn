@@ -1,0 +1,19 @@
+[Event "Azul ch-ARG jr"]
+[Site "Azul ch-ARG jr"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Scanavino, Eduardo"]
+[Black "Cuasnicu, Oscar"]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "e8ec92cc"]
+[Epoch "Bishop"]
+[BlackID "100390"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+dxe5 9. fxe5 Ng4 10. Bb5+ Kf8 11. Nf3 Nxe5 12. O-O Bg4 13. Nxe5 Bxd1 14. Nxf7
+Qh4 15. Bg5 Qd4+ 16. Kh1 Kg8 17. Raxd1 Qg4 18. Nh6+ Bxh6 19. Bxh6 Nd7 20. h3
+Qh5 21. Bxd7 Qxh6 22. Be6+ Kg7 23. Rf7+ Kg8 24. Ne4 1-0

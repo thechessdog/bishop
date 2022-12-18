@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Levchenkov, Vitaly"]
+[Black "Sakhovich"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Herman Steiner variation"]
+[HashCode "4c2646e6"]
+[Epoch "Bishop"]
+[WhiteID "11600411"]
+[WhiteCountry "LAT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 e4 10. dxc6 exf3 11. Qxf3 Bg4 12. Qg3 Re8 13. Re3 Bd6 14. Qh4 Bf4
+15. Rxe8+ Qxe8 16. f3 Qe2 17. c4 b4 18. g3 Qe1+ 19. Kg2 Bxf3+ 0-1

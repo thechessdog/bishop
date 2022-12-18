@@ -1,0 +1,17 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Rossetto, Hector"]
+[Black "Corte, Cesar Juan"]
+[Result "1-0"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "dd3cbd77"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5 Bd7 7. f4 g6 8.
+Bxc6 Bxc6 9. Nxc6 bxc6 10. Qf3 Bg7 11. e5 Nd5 12. Nxd5 cxd5 13. Qxd5 O-O 14. e6
+Rc8 15. exf7+ Rxf7 16. O-O Qb6+ 17. Kh1 Rxc2 18. Rb1 e5 19. fxe5 1-0

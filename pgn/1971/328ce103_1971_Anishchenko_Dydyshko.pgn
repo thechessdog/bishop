@@ -1,0 +1,17 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Anishchenko"]
+[Black "Dydyshko, Viacheslav"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "328ce103"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. c3 b6 3. d4 Bb7 4. e5 e6 5. Nf3 Nc6 6. dxc5 Bxc5 7. Bd3 f6 8. exf6
+Nxf6 9. Bg5 Qc7 10. O-O Ne5 11. Be2 Neg4 12. Nbd2 O-O 13. Bh4 Bxf3 14. Nxf3 Ne4
+15. h3 g5 16. hxg4 gxh4 17. Nd4 Qf4 18. Bf3 Bd6 19. Re1 Nd2 20. g3 hxg3 21. Kg2
+gxf2 22. Kxf2 Qh2+ 0-1

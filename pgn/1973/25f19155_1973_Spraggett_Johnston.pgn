@@ -1,0 +1,22 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Johnston, M."]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, 6.Be3"]
+[HashCode "25f19155"]
+[Epoch "Bishop"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 a6 7. f3 b5 8. a4 b4
+9. Na2 e5 10. Nb3 d5 11. Bg5 d4 12. c3 Nc6 13. cxd4 exd4 14. Rc1 Bb7 15. Nc5
+Bxc5 16. Rxc5 O-O 17. Nc1 Qd6 18. Nd3 Nd7 19. Rd5 Qc7 20. Bf4 Qc8 21. Be2 Re8
+22. O-O Nb6 23. Rc5 Qe6 24. Rc1 Qf6 25. Bg3 Nd7 26. Qb3 a5 27. Nf4 Nb6 28. Bb5
+Re7 29. Rc5 Ne5 30. Nd3 Nxd3 31. Qxd3 Rd8 32. Bc7 Rc8 33. e5 Qe6 34. Qxd4 Nd5
+35. Bd6 Rxc5 36. Qxc5 Rd7 37. Bxd7 Qxd7 38. Rd1 Nf4 39. Qxa5 Bxf3 40. gxf3 Qh3
+41. Qd8+ Kg7 42. Qf8# 1-0

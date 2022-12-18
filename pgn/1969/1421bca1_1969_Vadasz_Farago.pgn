@@ -1,0 +1,21 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1969.12.01"]
+[Round "1"]
+[White "Vadasz, Laszlo"]
+[Black "Farago, Ivan"]
+[Result "0-1"]
+[ECO "E09"]
+[Opening "Catalan"]
+[Variation "closed, main line"]
+[HashCode "1421bca1"]
+[Epoch "Bishop"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. Nf3 e6 2. g3 d5 3. c4 Nf6 4. Bg2 Be7 5. O-O O-O 6. d4 c6 7. Nbd2 Nbd7 8. Qc2
+b6 9. e4 Bb7 10. Rd1 Rc8 11. e5 Ne8 12. Nf1 dxc4 13. Qxc4 Nc7 14. Qc2 Nd5 15.
+h4 c5 16. Ng5 Bxg5 17. Bxg5 cxd4 18. Qe2 Qc7 19. f4 h6 20. Bxh6 gxh6 21. Qg4+
+Kh8 22. Rac1 Qxc1 23. Rxc1 Rxc1 24. Qh5 Rfc8 25. f5 Kg7 26. Qg4+ Kf8 27. fxe6
+R8c2 28. Qxd4 Nf4 0-1

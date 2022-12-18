@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Darricau"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "29057cc9"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Nc3 Nxe5 5. Nd5 Nxf3+ 6. gxf3 Qc5 7. b4 Qc6
+8. b5 Qc4 9. c3 Bd6 10. e4 Qc5 11. a4 Be5 12. Qb3 a6 13. f4 c6 14. Ba3 Qa7 15.
+fxe5 cxd5 16. b6 Qb8 17. Bd6 1-0

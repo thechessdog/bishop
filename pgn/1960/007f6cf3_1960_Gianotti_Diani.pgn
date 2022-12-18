@@ -1,0 +1,17 @@
+[Event "Azul ch-ARG jr"]
+[Site "Azul ch-ARG jr"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Gianotti, A."]
+[Black "Diani, Jose"]
+[Result "0-1"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "007f6cf3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e3 Bg4 7. Be2 c5 8. Qb3
+Nxc3 9. bxc3 Qb6 10. h3 Qxb3 11. axb3 Bf5 12. O-O Nd7 13. Ba3 O-O 14. Rac1 Rfc8
+15. Bc4 cxd4 16. exd4 Nb6 17. Bb5 Bh6 18. Rce1 Rxc3 19. Bxe7 Rxb3 20. Be2 Re8
+21. Bd1 Rb1 22. Bg5 Rxe1 23. Rxe1 Bxg5 0-1

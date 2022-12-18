@@ -1,0 +1,17 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Prins, Lodewijk"]
+[Black "Darga"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "9df2d269"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Nf3 c6 5. Nh4 Ne4 6. Nxf5 Nxg5 7. Ng3 e5 8.
+dxe5 d4 9. f4 dxc3 10. Qxd8+ Kxd8 11. O-O-O+ Kc7 12. fxg5 cxb2+ 13. Kxb2 Nd7
+14. e3 Nxe5 15. Be2 h6 16. Ne4 Be7 17. h4 hxg5 18. hxg5 Rad8 19. Kc3 Rxd1 20.
+Rxd1 Rh4 21. Rd4 Rh1 22. Ra4 Re1 23. Bf3 Nxf3 24. gxf3 Rxe3+ 25. Kd4 Rxf3 26.
+Rxa7 Rf5 27. c4 Kb8 28. Ra4 Bxg5 29. Nd6 Rf1 0-1

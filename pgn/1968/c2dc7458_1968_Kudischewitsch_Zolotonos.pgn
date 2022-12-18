@@ -1,0 +1,20 @@
+[Event "URS-chT"]
+[Site "Riga"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Kudischewitsch, David"]
+[Black "Zolotonos, Leonid"]
+[Result "1/2-1/2"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack"]
+[HashCode "c2dc7458"]
+[Epoch "Bishop"]
+[WhiteID "4111893"]
+[WhiteCountry "RUS"]
+[BlackID "11600420"]
+[BlackCountry "LAT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Qd3 O-O 11. Be3 Qe7 12. Bc2 Rad8 13. Bxc5 Qxc5 14. Nbd2 Bf5
+15. Nb3 Qb6 16. Nbd4 Bg6 17. Nxc6 Qxc6 1/2-1/2

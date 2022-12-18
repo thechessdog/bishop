@@ -1,0 +1,17 @@
+[Event "London open"]
+[Site "London open"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sherman, David"]
+[Black "Littlewood, John Eric"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Larsen variation"]
+[HashCode "4dd0dfa2"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 g6 5. Nc3 Bg7 6. Bc4 Nc6 7. Nxc6 bxc6 8.
+O-O Rb8 9. f4 Qh4 10. Qd3 Nh6 11. h3 O-O 12. b3 d5 13. exd5 cxd5 14. Bxd5 Bf5
+15. Qf3 c6 16. Bxc6 Bg4 17. hxg4 Bd4+ 18. Be3 Nxg4 19. Qxg4 Bxe3+ 0-1

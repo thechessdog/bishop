@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Golovko"]
+[Black "Karasev"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "b6f400e8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 cxd4 5. cxd4 Nf6 6. Nc3 O-O 7. e5 Ne8 8.
+h4 d6 9. h5 Nc6 10. hxg6 hxg6 11. Bh6 dxe5 12. Bxg7 Nxg7 13. Qd2 Nf5 14. d5
+Ncd4 15. Nxe5 Qd6 16. Ng4 Bd7 17. Bd3 Kg7 18. O-O-O Rh8 19. Kb1 Rac8 20.
+Be4 f6 21. Ne3 Nxe3 22. Qxe3 Nb5 23. Nxb5 Bxb5 24. Rxh8 Rxh8 25. Qxa7 Qb4
+26. Bf3 Rc8 27. d6 Ba4 28. Qxb7 Bc2+ 29. Ka1 Bxd1 30. Qxe7+ Kh6 31. Qe3+ g5
+32. Bxd1 Qe1 0-1
+

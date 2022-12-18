@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Simagin, Vladimir"]
+[Black "Razuvaev, Yuri S"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "b34cce0f"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. e3 O-O 6. Bd3 d5 7. O-O Bb7 8. cxd5
+exd5 9. Ne5 Bd6 10. f4 c5 11. Qf3 Nc6 12. Qh3 Ne7 13. Nd7 Ng6 14. Nxf8 Nxf8 15.
+Bd2 c4 16. Bc2 a6 17. g4 b5 18. g5 Ne4 19. Nxe4 dxe4 20. a3 a5 21. Qg2 Qe8 22.
+f5 Bd5 23. Be1 Qc6 24. Bg3 Re8 25. Bxd6 Qxd6 26. Rf4 Qc6 27. h4 c3 28. b3 Qd6
+29. h5 h6 30. f6 g6 31. Raf1 Ne6 32. hxg6 1-0

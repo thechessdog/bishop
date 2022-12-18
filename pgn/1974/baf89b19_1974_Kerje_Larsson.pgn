@@ -1,0 +1,18 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kerje, A."]
+[Black "Larsson"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bogolyubov variation"]
+[HashCode "baf89b19"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 Nxe4 5. Bxf7+ Kxf7 6. Nxe4 d5 7. Qh5+
+g6 8. Qe5 dxe4 9. Qxh8 Qh4+ 10. Kf1 Bc5 11. d4 exd3 12. g3 Bh3+ 13. Ke1
+Qe7+ 14. Kd2 Qe3+ 15. Kc3 d2+ 16. Kc4 Be6+ 17. Kb5 a6+ 18. Ka5 Nc6+ 19. Ka4
+b5# 0-1
+

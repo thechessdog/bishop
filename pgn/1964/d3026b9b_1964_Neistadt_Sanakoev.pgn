@@ -1,0 +1,23 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Neistadt, J."]
+[Black "Sanakoev, G."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "d3026b9b"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. cxd4 Qc7 9. Kd1 Bd7 10. Bd2 Nbc6 11. Nf3 Nf5 12. Bd3 h5 13. Qf4 Nce7 14.
+a4 Qb6 15. Bc3 Rc8 16. a5 Qd8 17. Bb4 Ng6 18. Qd2 Ngh4 19. Nxh4 Qxh4 20.
+Bxf5 exf5 21. Bc5 Rh6 22. Ra3 b6 23. axb6 axb6 24. Rh3 Qg4+ 25. f3 Qg6 26.
+e6 Bxe6 27. Rg3 Qh7 28. Bd6 h4 29. Rh3 f4 30. Bxf4 Bxh3 31. Bxh6 Bxg2 32.
+Qxg2 Qxh6 33. Qd2 Qf6 34. Re1+ Kf8 35. Qe3 Kg8 36. Kd2 Rc4 37. c3 b5 38.
+Qe5 Qxf3 39. Re3 Qg2+ 40. Re2 Qh3 41. Re3 Qd7 42. Qe8+ Qxe8 43. Rxe8+ Kh7
+44. Rb8 Ra4 45. Rxb5 Ra2+ 46. Kd3 Rxh2 47. Rxd5 h3 48. Rh5+ Kg6 49. Rh8 Rh1
+50. Kc4 h2 51. d5 Kf5 52. Kc5 g5 53. d6 g4 54. d7 Rd1 55. Rxh2 Rxd7 0-1
+

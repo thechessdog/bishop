@@ -1,0 +1,24 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Teschner, Rudolf"]
+[Black "Ostojic, Predrag"]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Benoni defence"]
+[HashCode "6ed36b41"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. e4 Bg7 6. f3 O-O 7. Bd3 e6 8. Bg5 h6
+9. Bh4 exd5 10. exd5 Nbd7 11. Nge2 Ne5 12. O-O Qb6 13. b3 Nxd3 14. Qxd3 Nd7 15.
+Rae1 f5 16. Na4 Qa6 17. f4 Nf6 18. Nec3 Bd7 19. Nb5 Bxb5 20. cxb5 Qa5 21. Re6
+a6 22. b6 Qb5 23. Qc4 Rad8 24. Qxb5 axb5 25. Nc3 b4 26. Nb5 Rd7 27. Bxf6 Rxf6
+28. Rfe1 g5 29. g3 gxf4 30. gxf4 h5 31. Kg2 Kf7 32. Kf3 Bf8 33. Nc7 Be7 34. Ne8
+Rg6 35. Rxg6 Kxg6 36. Rg1+ Kf7 37. Ng7 Bd8 38. Nxf5 Bxb6 39. Rg7+ Ke8 40. Rg6
+Bc7 41. Rh6 b5 42. Rh8+ Kf7 43. Rh7+ Ke8 44. Ng7+ Kd8 45. Ne6+ Kc8 46. Rxh5 Bb6
+47. f5 Rf7 48. Ke4 c4 49. h4 Kd7 50. Rg5 Bf2 51. h5 c3 52. Kd3 Bh4 53. Rg4 Rxf5
+54. Rxh4 Rf3+ 55. Ke4 Rf1 56. Rh2 Re1+ 57. Kf4 Rd1 58. h6 Rd2 59. Rh1 c2 60.
+Rc1 Rxd5 61. h7 Rh5 62. Ng5 1-0

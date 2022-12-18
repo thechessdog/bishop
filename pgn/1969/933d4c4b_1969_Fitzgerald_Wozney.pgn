@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Fitzgerald, K."]
+[Black "Wozney, Tom"]
+[Result "0-1"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "933d4c4b"]
+[Epoch "Bishop"]
+
+1. Nf3 g6 2. d4 Bg7 3. c4 Nf6 4. Nc3 d5 5. g3 O-O 6. Bg2 c6 7. O-O dxc4 8.
+Ne5 Ng4 9. Nxg4 Bxg4 10. Be3 Qa5 11. Qc2 Na6 12. a3 Nc7 13. f3 Bf5 14. Qc1
+Rad8 15. Rd1 e5 16. dxe5 Bxe5 17. Bh6 Rxd1+ 18. Qxd1 Qb6+ 19. Kf1 Qxb2 20.
+Rc1 Bxc3 21. e4 Be6 22. Rb1 Qxa3 23. Bxf8 Qxf8 24. Rxb7 Nb5 25. Qc1 Qc8 26.
+Rxb5 cxb5 27. Qxc3 b4 28. Qxb4 c3 29. Qa3 c2 30. Qc1 Qc4+ 31. Ke1 Qc3+ 32.
+Kf2 Qd4+ 33. Ke1 Bb3 34. Qf4 Qc3+ 35. Kf2 c1=Q 0-1
+

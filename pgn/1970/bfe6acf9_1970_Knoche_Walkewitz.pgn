@@ -1,0 +1,20 @@
+[Event "Rerik"]
+[Site "Rerik"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Knoche"]
+[Black "Walkewitz"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Pirc-Lisitsin gambit"]
+[HashCode "bfe6acf9"]
+[Epoch "Bishop"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 Nf6 4. d3 e5 5. dxe4 Bc5 6. Bc4 Qe7 7. Nc3 c6
+8. O-O h6 9. Nf3 d6 10. Nh4 Ng4 11. Ng6 Qf6 12. Nxh8 Bxf2+ 13. Kh1 Qh4 14.
+Bf7+ Kd8 15. Qxd6+ Nd7 16. Bf4 exf4 17. Qxf4 Be3 18. Qd6 Bc5 19. Ng6 Nf2+
+20. Rxf2 Qxf2 21. Qe6 Kc7 22. Rd1 b5 23. Be8 Nb8 24. Qe5+ Kb6 25. Nf4 Qxc2
+26. Nd3 Be3 27. Qxg7 a5 28. Qf6 Bg5 29. Qd6 Kb7 30. Nc5+ Kb6 31. Qd4 Kc7
+32. Rf1 1-0
+

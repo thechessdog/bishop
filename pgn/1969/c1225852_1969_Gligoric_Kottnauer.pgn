@@ -1,0 +1,19 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gligorić, Svetozar"]
+[Black "Kottnauer, Cenek"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "c1225852"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "CZE"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 c5 7. d5 e6 8. dxe6
+fxe6 9. O-O Nc6 10. Kh1 a6 11. e5 dxe5 12. fxe5 Ng4 13. Bg5 Qc7 14. Ne4 Ngxe5
+15. Nxe5 Nxe5 16. Rxf8+ Kxf8 17. Qf1+ Kg8 18. Qf4 Qf7 19. Qg3 Nxd3 20. Qxd3 c4
+21. Qd8+ Qf8 22. Rd1 e5 23. Be7 Qxd8 24. Rxd8+ Kf7 25. Ba3 1-0

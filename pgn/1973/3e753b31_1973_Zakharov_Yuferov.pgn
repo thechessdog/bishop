@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Zakharov, Alexander V"]
+[Black "Yuferov, Sergey  N"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "3e753b31"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Bc4
+b5 9. Bxe6 fxe6 10. Nxe6 Qa5 11. O-O b4 12. Nd5 Kf7 13. f5 Bb7 14. c4 bxc3 15.
+Bxf6 Nxf6 16. Ng5+ Kg8 17. Nxf6+ gxf6 18. Qb3+ Bd5 19. exd5 fxg5 20. bxc3 h6
+21. f6 Rh7 22. f7+ Kh8 23. c4 Ra7 24. Qb2+ Rg7 25. Rf6 Raxf7 26. Rxf7 1-0

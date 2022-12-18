@@ -1,0 +1,17 @@
+[Event "Hallsberg"]
+[Site "Hallsberg"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sanghed, L."]
+[Black "Lindgren, M."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "17fa9752"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O
+8. Nf3 cxd4 9. Nbxd4 Nbc6 10. Bd3 f5 11. O-O Ng6 12. Rfe1 a6 13. c4 Qb6 14.
+Bf1 Nce7 15. Ng5 h6 16. c5 Qxc5 17. Ngxe6 1-0
+

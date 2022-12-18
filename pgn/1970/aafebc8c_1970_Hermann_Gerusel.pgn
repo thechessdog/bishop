@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Voelklingen"]
+[Date "1970.01.01"]
+[Round "9"]
+[White "Hermann, Manfred"]
+[Black "Gerusel, Mathias"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "aafebc8c"]
+[Epoch "Bishop"]
+[WhiteID "4600584"]
+[BlackID "4601122"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 Nc6 6. Nc3 Nxc3 7. bxc3 d6 8.
+Nf3 Bg4 9. Qb3 Rb8 10. e6 Bxe6 11. d5 Na5 12. dxe6 Nxb3 13. Bb5+ 1-0

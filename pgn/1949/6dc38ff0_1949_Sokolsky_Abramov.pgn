@@ -1,0 +1,20 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Sokolsky"]
+[Black "Abramov"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "6dc38ff0"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. fxg7 cxd2+ 7. Bxd2
+Bxg7 8. Qc2 Nc6 9. Nf3 Nd4 10. Nxd4 Qxd4 11. O-O-O Qxf2 12. Qa4+ c6 13. Qa3
+Bd7 14. Bd3 Bd4 15. Rhf1 Qxg2 16. Rxf7 O-O-O 17. Qd6 c5 18. Bc2 Qc6 19. Bf4
+Qxd6 20. Bxd6 Rdg8 21. Bxc5 Bxc5 22. Rdxd7 Be3+ 23. Kd1 Rd8 24. Ba4 Bg1 25.
+Kc2 Rxd7 26. Bxd7+ Kc7 27. Bxe6+ Kd6 28. Bf5 h6 29. Rxb7 Rf8 30. Rd7+ Kc6
+31. Rd5 Bxh2 32. b4 1-0
+

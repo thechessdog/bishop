@@ -1,0 +1,18 @@
+[Event "Forte dei Marmi"]
+[Site "Forte dei Marmi"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Teani"]
+[Black "Pistone"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Anderssen variation"]
+[HashCode "93df1ec9"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. Nf3 c6 7. Qd2 Nd7
+8. O-O-O a5 9. g4 h6 10. h4 a4 11. exd5 cxd5 12. a3 Nb6 13. g5 hxg5 14.
+hxg5 Rxh1 15. Bb5+ Bd7 16. Rxh1 Be7 17. Qf4 Rc8 18. Ne5 f6 19. gxf6 gxf6
+20. Qg4 Bxa3 21. Rh8+ Bf8 22. Qg6+ Ke7 23. Rh7+ Kd6 24. Nf7+ 1-0
+

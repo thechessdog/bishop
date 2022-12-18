@@ -1,0 +1,17 @@
+[Event "Oxford ch-BCF U16"]
+[Site "Oxford ch-BCF U16"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Marks, N."]
+[Black "Campbell, G."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "bb0e1c93"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. f4 e6 3. Nf3 d5 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. d3 Bd6 7. O-O Ne7
+8. Qe1 Qb6 9. e5 Bc7 10. Nc3 Nf5 11. Kh1 h5 12. b3 h4 13. a4 c4 14. bxc4
+Ng3+ 0-1
+

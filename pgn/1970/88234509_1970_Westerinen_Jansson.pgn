@@ -1,0 +1,23 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Jansson, Borje"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "88234509"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "1700189"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+ 8.
+Kxd1 Ng4 9. Ke1 Nc6 10. h3 Nh6 11. Be3 f6 12. Bc4+ Kh8 13. exf6 exf6 14. Kf2
+Na5 15. Be2 b6 16. Rad1 Nf5 17. Bc1 Nd6 18. Rhe1 Bb7 19. b4 Nc6 20. Nd5 Ne4+
+21. Kg1 Rad8 22. Bb2 Nd4 23. Rxd4 Bxd5 24. Rxd5 Rxd5 25. Bc4 Rd2 26. Bb3 f5 27.
+Bxg7+ Kxg7 28. Nxd2 Nxd2 29. Re7+ Kf6 30. Rxc7 Nxb3 31. axb3 Ra8 32. Rxh7 a5
+33. Rb7 1-0

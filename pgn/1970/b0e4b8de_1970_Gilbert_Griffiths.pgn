@@ -1,0 +1,21 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "19"]
+[White "Gilbert, Jonathan A."]
+[Black "Griffiths, Peter C"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Reti (Spielmann) variation"]
+[HashCode "b0e4b8de"]
+[Epoch "Bishop"]
+[WhiteID "1800388"]
+[WhiteCountry "WLS"]
+[BlackID "401382"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. b3 d5 3. Bb2 dxe4 4. Nc3 Nf6 5. Qe2 Be7 6. O-O-O O-O 7. g4 a5 8. h4
+Bd7 9. Bg2 Bc6 10. g5 Ne8 11. Bxe4 Bxe4 12. Nxe4 a4 13. Nf3 axb3 14. axb3 Nc6
+15. h5 Qd5 16. Rdg1 Ba3 17. Bxa3 Rxa3 18. Kb2 Ra5 19. g6 h6 20. gxf7+ Rxf7 21.
+Rg6 Nb4 22. Nc3 Qxf3 0-1

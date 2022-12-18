@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Furman, Semyon"]
+[Black "Kluger, Gyula"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "386e20c4"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O e5 8. d5
+Ne7 9. e4 Bg4 10. Bd2 Qd7 11. Qc1 Bh3 12. Ne1 Bxg2 13. Nxg2 Qh3 14. f3 Ne8 15.
+Nd1 Qd7 16. Nf2 f5 17. Qc2 c6 18. Qd3 Nc7 19. a4 cxd5 20. cxd5 Na6 21. b4 Rac8
+22. Qb5 Rfd8 23. Rfc1 Nb8 24. Qxd7 Nxd7 25. Ne3 Bh6 26. Kf1 Rxc1+ 27. Rxc1 Rc8
+28. Rxc8+ Nxc8 29. Ke2 a5 30. bxa5 Nc5 31. exf5 Bxe3 32. Bxe3 Nxa4 33. fxg6
+Nc3+ 34. Kd3 Nxd5 35. gxh7+ Kxh7 36. Bd2 Nf6 37. Ne4 Kg6 38. Nxf6 Kxf6 39. Kc4
+Ke6 40. h4 d5+ 41. Kc5 Nd6 42. Be1 d4 43. h5 Nf7 44. Bd2 e4 45. fxe4 Ke5 46. h6
+Kxe4 47. Kb6 Kd3 48. Bf4 Kc4 49. Kxb7 d3 50. h7 Nd8+ 51. Kb6 1-0

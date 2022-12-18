@@ -1,0 +1,22 @@
+[Event "Mar del Plata ch-ARG"]
+[Site "Mar del Plata ch-ARG"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Figueroa, E."]
+[Black "Najdorf, Miguel"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "fd954650"]
+[Epoch "Bishop"]
+
+1. Nc3 c5 2. e4 Nc6 3. d3 e6 4. g3 g6 5. Bg2 Bg7 6. f4 Nge7 7. Nf3 O-O 8. O-O
+d6 9. Be3 Nd4 10. Qd2 Rb8 11. Nd1 b5 12. Nh4 b4 13. c3 bxc3 14. bxc3 Nb5 15. f5
+exf5 16. Bh6 fxe4 17. dxe4 Nc6 18. Bxg7 Kxg7 19. Ne3 Ne5 20. Rad1 Bg4 21. Nxg4
+Nxg4 22. a4 Nc7 23. Qxd6 Qxd6 24. Rxd6 Rfd8 25. Rxd8 Rxd8 26. Bh3 Ne3 27. Rf3
+Nc4 28. Bf1 Rd1 29. Kg2 Ne5 30. Rf2 Ra1 31. Nf3 Nxf3 32. Kxf3 Rxa4 33. Ke3 Ra3
+34. Rc2 Na8 35. Bb5 Nb6 36. Kd3 Ra1 37. Rb2 Kf6 38. Bc6 Ke5 39. Rb5 Kd6 40. Bb7
+f6 41. Rb2 c4+ 42. Ke3 Kc5 43. Kd2 Na4 44. Rc2 Rh1 45. Ke3 Rd1 46. Ba6 Rd3+ 47.
+Kf4 Nxc3 48. g4 Rd6 49. Bb7 g5+ 50. Kf5 Nb5 51. e5 Rb6 52. exf6 Nd4+ 53. Kxg5
+Nxc2 54. f7 h6+ 55. Kf5 Nd4+ 56. Ke5 Re6+ 0-1

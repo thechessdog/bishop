@@ -1,0 +1,18 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Richter, W."]
+[Black "Franke, K."]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Pirc-Lisitsin gambit"]
+[HashCode "3b3b58ba"]
+[Epoch "Bishop"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 Nf6 4. d3 e5 5. dxe4 Bc5 6. Bc4 Qe7 7. O-O d6
+8. Nc3 Bg4 9. Qd3 Nc6 10. Be3 Nb4 11. Qd2 h6 12. Bxc5 dxc5 13. f3 Bd7 14.
+Nf7 Rf8 15. a3 Na6 16. f4 b5 17. Nxb5 Rxf7 18. fxe5 Be6 19. exf6 Rxf6 20.
+Rxf6 Qxf6 21. e5 Qe7 22. Nd6+ cxd6 23. exd6 Rd8 24. Bb5+ Kf7 25. dxe7 1-0
+

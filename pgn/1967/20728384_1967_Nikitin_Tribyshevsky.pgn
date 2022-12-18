@@ -1,0 +1,18 @@
+[Event "Russia"]
+[Site "Russia"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Nikitin, V."]
+[Black "Tribyshevsky, V."]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "20728384"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8.
+c4 Be7 9. Nc3 O-O 10. Be3 Nbd7 11. f4 Nc5 12. Bc2 b6 13. e5 dxe5 14. fxe5
+Qxe5 15. Nc6 Qc7 16. Nxe7+ Qxe7 17. Bg5 Ncd7 18. Nd5 Qc5+ 19. Be3 Qa5 20.
+b4 Qa3 21. Bc1 Qxc1 22. Nxf6+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Byrne, Robert E"]
+[Black "Byrne, Donald"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Nimzovich variation"]
+[HashCode "eb6a3f0c"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Bb5+ Bd7 5. Qe2 f5 6. Nf3 Bd6 7. d4 Ne7 8. Ng5
+Nxd5 9. Nxe4 Bxf4 10. Nbc3 Bxc1 11. Nc5+ Ne3 12. Rxc1 Qh4+ 13. g3 Qxd4 14. Nxd7
+Nxd7 15. Rd1 1-0

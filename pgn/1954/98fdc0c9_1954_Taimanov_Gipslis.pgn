@@ -1,0 +1,23 @@
+[Event "Woroschilowgrad"]
+[Site "Woroschilowgrad"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Gipslis, Aivars"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "98fdc0c9"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "LVA"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nbd7 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Qe2 e5 12. Bb2 b6 13. e4 Bb7 14. d5 Ne8 15.
+Bd3 Nd6 16. c4 Rae8 17. Nh4 Ba6 18. g3 f6 19. f4 Rf7 20. f5 b5 21. cxb5 c4 22.
+bxa6 cxd3 23. Qxd3 Qb6+ 24. Rf2 Nc5 25. Qe3 Ndxe4 26. Rc2 Rd7 27. a4 Rxd5 28.
+Ba3 Red8 29. Re1 Rd3 30. Bxc5 Rxe3 31. Bxe3 Qxa6 32. Rc7 Qa5 33. Rec1 Rd1+ 34.
+Rxd1 Qxc7 35. Kg2 Nc5 36. Rc1 Qb7+ 37. Kh3 Nxa4 38. Rd1 a5 39. Rd8+ Kf7 40. Rh8
+Qe4 41. Ba7 g5 42. fxg6+ hxg6 43. Rh7+ Kg8 44. Rc7 g5 45. Rc8+ Kf7 46. Rc7+ Ke6
+0-1

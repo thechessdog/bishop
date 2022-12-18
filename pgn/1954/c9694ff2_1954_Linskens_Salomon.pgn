@@ -1,0 +1,19 @@
+[Event "Montevideo"]
+[Site "Montevideo"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Linskens"]
+[Black "Salomon"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "c9694ff2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. Ng5 d5 8.
+exd5 Nd4 9. d6 Nxb3 10. dxc7 Qxc7 11. axb3 h6 12. Nf3 e4 13. Qe2 Be7 14.
+Nd4 O-O 15. d3 Ng4 16. g3 exd3 17. Qxd3 Ne5 18. Bf4 Bb7 19. Qe2 Bf6 20. Nd2
+Rae8 21. Rfe1 Qd7 22. Be3 Qd5 23. f3 Nxf3+ 24. N4xf3 Rxe3 25. Qxe3 Bd4 26.
+Qxd4 1-0
+

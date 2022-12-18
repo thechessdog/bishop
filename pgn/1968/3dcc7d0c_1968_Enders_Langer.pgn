@@ -1,0 +1,16 @@
+[Event "Aspen"]
+[Site "Aspen"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Enders, Peter"]
+[Black "Langer"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "3dcc7d0c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. h4 Nxd4 12. Qxd4 Ng4 13. Bxf7+ Rxf7 14. Qd2
+Nxe3 15. Qxe3 Bxc3 16. bxc3 Qa5 17. h5 g5 18. h6 Rxc3 19. Qd2 Ba4 0-1

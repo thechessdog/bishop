@@ -1,0 +1,15 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1961.03.01"]
+[Round "3"]
+[White "Camara, Ronald"]
+[Black "Dominguez, Christobal"]
+[Result "1/2-1/2"]
+[ECO "E75"]
+[Opening "King's Indian"]
+[Variation "Averbakh, main line"]
+[HashCode "0dc18e90"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 O-O 6. Be2 c5 7. d5 e6 8. Nf3
+exd5 9. cxd5 Bg4 10. Nd2 Bxe2 11. Qxe2 Nbd7 12. O-O a6 13. a4 1/2-1/2

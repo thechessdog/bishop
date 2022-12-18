@@ -1,0 +1,24 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wojciech"]
+[Black "Moczalov"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "6092214e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 a6 8.
+Qe2 Be7 9. O-O-O O-O 10. Bb3 Qc7 11. g4 Nd7 12. g5 Nc5 13. Rhg1 b5 14. Nxc6
+Nxb3+ 15. axb3 Qxc6 16. Bd4 b4 17. Bf6 Re8 18. Na4 e5 19. Bxe7 Rxe7 20. Qc4
+Rc7 21. Qxc6 Rxc6 22. c4 bxc3 23. bxc3 Be6 24. Kc2 Kf8 25. Rg3 Ke7 26. c4
+a5 27. Rgd3 Rh8 28. Nc3 h6 29. Nd5+ Bxd5 30. exd5 Rc5 31. Rh3 a4 32. gxh6
+axb3+ 33. Kxb3 gxh6 34. Ra1 Rc7 35. Kc3 Rg8 36. Rxh6 Rg4 37. Ra4 Rf4 38.
+Kd3 Rd4+ 39. Ke3 Rdxc4 40. Ra6 Rd7 41. Ra3 Rd4 42. Rd3 Rf4 43. Ra3 Rb7 44.
+h4 Rd4 45. Ra5 Rb3+ 46. Ke2 Rb2+ 47. Ke3 Rb3+ 48. Ke2 Rb2+ 49. Ke3 Rdb4 50.
+Ra7+ Rb7 51. Ra6 R7b3+ 52. Ke4 Re2+ 53. Kf5 Rxf2+ 54. Kg4 Rf4+ 55. Kh5 Rh3
+56. Ra7+ Kf8 57. Rxd6 Rhxh4+ 58. Kg5 Rh1 59. Rh6 Rg1+ 60. Kh5 Rf2 0-1
+

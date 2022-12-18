@@ -1,0 +1,16 @@
+[Event "Lecce"]
+[Site "Lecce"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Mazzotta"]
+[Black "Paiano"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn, Mason variation"]
+[HashCode "d9736aea"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. c4 Bb4+ 5. Nc3 Bxc3+ 6. bxc3 b6 7. Bd3 Bb7
+8. Qf3 a5 9. Rb1 Ra7 10. Qg3 dxc4 11. Bxc7 Qd7 12. Bxb8 cxd3 13. Bxa7 d2+
+14. Ke2 Ba6+ 15. Kd1 O-O 16. Bxb6 Ne4 17. Qc7 Qa4+ 18. Rb3 Qxa2 0-1
+

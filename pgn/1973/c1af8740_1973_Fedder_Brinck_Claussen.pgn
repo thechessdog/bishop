@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Fedder, Steen"]
+[Black "Brinck-Claussen, Bjorn"]
+[Result "0-1"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "c1af8740"]
+[Epoch "Bishop"]
+[WhiteID "1400126"]
+[BlackID "1400134"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nf3 Bg7 8. Bg2
+O-O 9. O-O Nbd7 10. Nd2 Qe7 11. Nc4 Ne5 12. Nxe5 Qxe5 13. a4 a6 14. Qb3 Qe7 15.
+a5 Rb8 16. Bf4 Nd7 17. Ne4 Ne5 18. Bg5 f6 19. Bd2 Nf7 20. Rfe1 f5 21. Nc3 g5
+22. f4 gxf4 23. gxf4 Nh6 24. h3 Kh8 25. e3 Rg8 26. Re2 Bd7 27. Rf1 Bf6 28. Kh1
+Rg6 29. Be1 Qg7 30. Rg1 Ng4 31. Qc2 Qh6 32. Qd2 Rbg8 33. Rf1 Bd8 34. Rf3 Nf6
+35. Qc1 Qh5 36. Rff2 Rg3 37. Bd2 Ng4 0-1

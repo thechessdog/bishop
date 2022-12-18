@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kohvakka, T."]
+[Black "Wikman, R."]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "54ad613b"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxb4 7. Nb5 Nc6 8.
+Qg4 Kf8 9. Ne2 Qb6 10. Nd6 b3+ 11. Bd2 bxc2 12. Qf4 Qb1+ 13. Nc1 Nh6 14.
+Ra2 Qxc1+ 15. Ke2 Qd1+ 16. Kd3 c1=N+ 17. Ke3 Qb3+ 18. Bc3 Qxc3+ 19. Bd3
+Qxd3# 0-1
+

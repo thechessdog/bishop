@@ -1,0 +1,21 @@
+[Event "corr Baltic"]
+[Site "corr Baltic"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Binkauskas"]
+[Black "Salminsch"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "ccf264b9"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bb2 e5 12. h3 Bf5 13. Nh4 Be4 14. f3
+Bd5 15. Bd3 cxd4 16. cxd4 exd4 17. e4 Be6 18. f4 Qb6 19. Rf2 Qb3 20. Qe2
+Nd7 21. Rc1 Nb6 22. e5 Na4 23. Rc2 Nxb2 24. Rxb2 Qxa3 25. f5 Bd5 26. f6 g6
+27. Qd2 Rfe8 28. Rxb7 Nxe5 29. Re7 Nxd3 30. Rf1 Nf4 31. Rxf4 Rxe7 32. fxe7
+Qxe7 33. Rxd4 Be6 34. Nf3 Qc5 35. Kh1 Rc8 36. Rd8+ Rxd8 37. Qxd8+ Kg7 38.
+Qh4 Bd5 39. Qg5 f6 0-1
+

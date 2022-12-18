@@ -1,0 +1,21 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kovacs, Laszlo M"]
+[Black "Kluger, Gyula"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "75eafef0"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Qc2 dxc4 7. O-O a6 8. Rd1
+Nbd7 9. a4 Nd5 10. Nbd2 Nb4 11. Qxc4 b5 12. Qc3 Bb7 13. Nb3 bxa4 14. Rxa4 Rb8
+15. Bd2 Be4 16. Na1 Nd5 17. Qc1 Qc8 18. Nc2 Qb7 19. Ne3 N7b6 20. Ra1 Nxe3 21.
+Bxe3 Nd5 22. Bd2 Rfc8 23. Bc3 c5 24. Qd2 cxd4 25. Qxd4 Nxc3 26. bxc3 Bf6 27.
+Qd7 Qxd7 28. Rxd7 Rxc3 29. Rad1 h6 30. h4 Bd5 31. Rd6 a5 32. Nd2 Bxg2 33. Kxg2
+Rb2 34. Ne4 Rcc2 35. Re1 Rxe2 36. Rxe2 Rxe2 37. Kf3 Rb2 38. Nxf6+ gxf6 39. Ra6
+Ra2 40. h5 f5 0-1

@@ -1,0 +1,18 @@
+[Event "CSR-ch Havirov"]
+[Site "Havirov"]
+[Date "1970.01.01"]
+[Round "4"]
+[White "Fichtl, Jiri"]
+[Black "Kupka, Slavoj"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "85293230"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 d4 4. exf6 dxc3 5. fxg7 cxd2+ 6. Qxd2 Qxd2+ 7. Bxd2
+Bxg7 8. O-O-O Nc6 9. Ne2 Bg4 10. f3 Bf5 11. Bc3 Bxc3 12. Nxc3 a6 13. Nd5 O-O-O
+14. Nf4 e5 1/2-1/2

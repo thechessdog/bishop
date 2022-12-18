@@ -1,0 +1,18 @@
+[Event "Gijon"]
+[Site "Gijon"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Moran, Pablo"]
+[Black "Rico"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Alekhine gambit"]
+[HashCode "822f804a"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Qxd4 6. Nf3 Qd8 7. Qe2 e6
+8. Nxf6+ gxf6 9. Bd2 Nd7 10. O-O-O Qc7 11. Rhe1 Be7 12. Nd4 Ne5 13. Be4 Bd7
+14. f4 Ng6 15. f5 Nf8 16. fxe6 Nxe6 17. Bf5 Qe5 18. Bxe6 Bxe6 19. Nxe6 Qxe6
+20. Qd3 Qd5 21. Qxd5 cxd5 22. Bb4 1-0
+

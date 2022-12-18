@@ -1,0 +1,17 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Forintos, Gyozo V"]
+[Black "Bilek, Istvan"]
+[Result "1/2-1/2"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "f642d9a3"]
+[Epoch "Bishop"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 f5 4. Nf3 Nf6 5. g3 O-O 6. Bg2 d6 7. O-O c6 8. d5
+cxd5 9. cxd5 Na6 10. Be3 Bd7 11. a3 Nc5 12. b4 Nce4 1/2-1/2

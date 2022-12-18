@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Taborsky"]
+[Black "Nunn, John D M"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "1a9a581e"]
+[Epoch "Bishop"]
+[BlackID "400017"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. d4 Nxd4 6. Nxf7 Qe7 7. c3 d5 8.
+Bxd5 Nxd5 9. Nxh8 Bg4 10. Ng6 Qe6 11. Qd3 Qxg6 12. cxd4 Nb4 13. Qc4 Qxe4+ 14.
+Kf1 Nc2 15. Be3 exd4 16. h3 Be6 17. Qa4+ Bd7 0-1

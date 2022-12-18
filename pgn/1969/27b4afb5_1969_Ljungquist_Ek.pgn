@@ -1,0 +1,17 @@
+[Event "SWE-ch"]
+[Site "Sweden"]
+[Date "1969.01.01"]
+[Round "?"]
+[White "Ljungquist, Lennart"]
+[Black "Ek, Hans"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Nimzovich variation"]
+[HashCode "27b4afb5"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. Bxb4 Qxb4+ 6. Qd2 Qxd2+ 7. Nbxd2
+b6 8. g3 Bb7 9. Bg2 O-O 10. O-O d6 11. Ne1 Bxg2 12. Kxg2 Nbd7 13. Nef3 e5 14.
+dxe5 Nxe5 15. Nxe5 dxe5 16. Rad1 Rfd8 17. Nb1 Kf8 18. Nc3 c6 1/2-1/2

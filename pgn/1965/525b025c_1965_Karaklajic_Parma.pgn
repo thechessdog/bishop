@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1965.07.01"]
+[Round "7"]
+[White "Karaklajic, Nikola"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "525b025c"]
+[Epoch "Bishop"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 Qc7 10. Qc2 dxc4 11. Bxc4 e5 12. Bd3 Re8 13. e4 c4 14. Bxc4 exd4
+15. cxd4 Na5 16. Bd3 Qxc2 17. Bxc2 Nxe4 1/2-1/2

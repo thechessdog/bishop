@@ -1,0 +1,21 @@
+[Event "Siegen olm"]
+[Site "Siegen"]
+[Date "1970.01.01"]
+[Round "6"]
+[White "Lombard, Andre"]
+[Black "Stull, Norbert"]
+[Result "1-0"]
+[ECO "E75"]
+[Opening "King's Indian"]
+[Variation "Averbakh, main line"]
+[HashCode "e590cb0b"]
+[Epoch "Bishop"]
+[WhiteID "1300091"]
+[BlackID "4000137"]
+[WhiteCountry "SUI"]
+[BlackCountry "LUX"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d6 4. e4 Bg7 5. Be2 O-O 6. Bg5 c5 7. d5 e6 8. Qd2
+exd5 9. exd5 Qb6 10. Nf3 Bf5 11. O-O Ne4 12. Nxe4 Bxe4 13. Rae1 Qxb2 14. Qf4
+Bxf3 15. Bxf3 Be5 16. Qh4 b6 17. Rxe5 dxe5 18. d6 Nd7 19. Bxa8 Rxa8 20. Qe4 Rb8
+21. Qc6 f6 22. Bh6 f5 23. Qxd7 e4 24. Qe6+ Kh8 25. d7 1-0

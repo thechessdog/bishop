@@ -1,0 +1,22 @@
+[Event "Bogota"]
+[Site "Bogota"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Panno, Oscar"]
+[Black "Sanchez, Luis A"]
+[Result "1-0"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "38a18d3f"]
+[Epoch "Bishop"]
+[WhiteID "100153"]
+[WhiteCountry "ARG"]
+[BlackCountry "COL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. O-O Nge7 7. Bb3 Ng6 8. d4
+Be7 9. Nbd2 O-O 10. Nc4 Bf6 11. Ne3 Nge7 12. h3 Qc8 13. Kh2 g6 14. a3 Na5 15.
+Ba2 c5 16. b4 cxd4 17. cxd4 exd4 18. Bb2 Nac6 19. Nxd4 Qe8 20. Qd2 Na7 21. f4
+Bg7 22. Rac1 Rd8 23. Nf3 Nac8 24. f5 Nc6 25. Bxg7 Kxg7 26. Ng4 f6 27. Qh6+ Kh8
+28. Ng5 Qe7 29. fxg6 Qg7 30. Qxh7+ Qxh7 31. Nxh7 Bxg4 32. Nxf8 Rxf8 33. hxg4
+Kg7 34. g5 Rh8+ 35. Kg3 fxg5 36. Rf7+ Kxg6 37. Rcf1 Ne5 38. R1f6+ 1-0

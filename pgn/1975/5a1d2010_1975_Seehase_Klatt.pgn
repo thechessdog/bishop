@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Seehase, R."]
+[Black "Klatt, O."]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "5a1d2010"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. dxe6 fxe6 8.
+cxb5 d5 9. Qc2 O-O 10. a3 Qa5 11. Rc1 Bxc3+ 12. Qxc3 Qxb5 13. e3 c4 14.
+Bxf6 gxf6 15. Nf3 Ba6 16. Be2 Nd7 17. Nd4 Qb6 18. e4 Bb7 19. O-O Ne5 20.
+Rfd1 Rac8 21. Qh3 dxe4 22. Nxe6 Rf7 23. Qf5 Qxb2 24. Bxc4 e3 25. Rc2 Qb6
+26. Ba2 Rxc2 27. Qxc2 exf2+ 28. Qxf2 Qxf2+ 29. Kxf2 Re7 30. Rd8+ Kf7 31.
+Rf8+ Kg6 32. Bb1+ Kh5 33. Nf4+ Kg5 34. Rg8+ Kxf4 35. g3# 1-0
+

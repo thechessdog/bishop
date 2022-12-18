@@ -1,0 +1,20 @@
+[Event "DEN-ch"]
+[Site "Frederiksberg"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Poulsen, Allan"]
+[Black "Ost Hansen, Jacob"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "76cd7d81"]
+[Epoch "Bishop"]
+[WhiteID "1400533"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be3 Bb4 8. Bd3
+Bxc3+ 9. bxc3 d6 10. g4 d5 11. exd5 exd5 12. Nf5 Bxf5 13. Bxf5 Qxc4 14. Bd4 O-O
+15. f3 Qc6 16. Qc2 g6 17. Rg1 Re8+ 18. Kf2 Qd6 19. c4 Nc6 20. Bb2 d4 21. Bd3
+Re3 22. Rg3 Nb4 0-1

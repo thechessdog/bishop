@@ -1,0 +1,18 @@
+[Event "CSR-ch"]
+[Site "Jablonec"]
+[Date "1962.??.??"]
+[Round "17"]
+[White "Opocensky, Karel"]
+[Black "Trapl, Jindrich"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "456cf391"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nd2 Bf5 4. e3 Nbd7 5. Bd3 Bg6 6. Ngf3 c5 7. Ne5 Qb6 8.
+Ndf3 Nxe5 9. Nxe5 e6 10. O-O c4 11. Bxg6 hxg6 12. c3 Qa6 13. b3 Ne4 14. bxc4
+Nxg5 15. cxd5 Bd6 16. f4 Bxe5 17. dxe5 Ne4 18. dxe6 Qxe6 19. Qa4+ Qc6 20. Qa3
+0-1

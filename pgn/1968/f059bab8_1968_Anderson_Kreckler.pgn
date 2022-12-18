@@ -1,0 +1,17 @@
+[Event "Peoria"]
+[Site "Peoria"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Anderson, J."]
+[Black "Kreckler, Warren"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "f059bab8"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Ne7 5. a3 Bxc3+ 6. Nxc3 Nd7 7. Be3 dxe4 8.
+Nxe4 Nf5 9. Bg5 f6 10. Bc1 O-O 11. c3 Qe7 12. b4 Rd8 13. Qf3 Nb6 14. Bd3 Bd7
+15. O-O Bc6 16. Qh3 h6 17. Re1 Nd7 18. Nc5 Nxc5 19. Bxf5 Nd7 20. Rxe6 Qf8 21.
+Qg4 1-0

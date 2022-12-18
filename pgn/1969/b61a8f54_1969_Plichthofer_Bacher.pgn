@@ -1,0 +1,17 @@
+[Event "Aalen"]
+[Site "Aalen"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Plichthofer"]
+[Black "Bacher"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "b61a8f54"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 a6 9. O-O-O Qc7 10. Bb3 Bd7 11. Rhg1 Rc8 12. g4 Nxd4 13. Bxd4 e5 14.
+g5 exd4 15. gxf6 dxc3 16. fxg7 Rg8 17. Bxf7+ Kxf7 18. Qh5+ Ke6 19. Qf5# 1-0
+

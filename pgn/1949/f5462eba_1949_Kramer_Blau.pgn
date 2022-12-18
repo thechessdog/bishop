@@ -1,0 +1,27 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Kramer, Haije"]
+[Black "Blau, Max"]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Szabo (Boleslavsky) variation"]
+[HashCode "f5462eba"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "CHE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 c6 8. Bf4
+Na6 9. Be2 Nc7 10. Be5 Bh6 11. Rd1 Nd7 12. Bg3 Nb6 13. Qb3 Ne6 14. O-O Nf4 15.
+Bxf4 Bxf4 16. Rfe1 Qc7 17. h3 Be6 18. d5 cxd5 19. exd5 Bd7 20. Bb5 Bc8 21. Qb4
+Qd6 22. Qe4 a6 23. Bf1 Re8 24. g3 Bh6 25. Qh4 Bg7 26. Ne4 Qd8 27. d6 e6 28. Nc5
+Qxh4 29. Nxh4 Rd8 30. Bg2 Rb8 31. Re3 Nc4 32. Rb3 Rxd6 33. Rxd6 Nxd6 34. Nxa6
+Ra8 35. Nc5 Rxa2 36. Nxb7 Bxb7 37. Bxb7 Rxb2 38. Rxb2 Bxb2 39. Bc6 h6 40. f3
+Kg7 41. Ng2 e5 42. g4 f5 43. gxf5 gxf5 44. Kf2 Bc3 45. Bd5 Kf6 46. Ke2 Bd4 47.
+Kd3 Bb6 48. Nh4 Bf2 49. Ng2 f4 50. Ke2 Bg3 51. Kd3 Nf7 52. Ke2 Ng5 53. h4 Nf7
+54. Kd3 Nd6 55. Bc6 Bf2 56. Ke2 Bb6 57. Kd3 Ke6 58. Ke2 Nf5 59. Kd3 Ng3 60. Bb7
+Nh1 61. Bc6 Nf2+ 62. Ke2 Kd6 63. Bb7 Bd4 64. Ne1 Nh1 65. Nd3 Ng3+ 66. Kd1 Nf5
+67. h5 Ng3 68. Ne1 Nxh5 69. Ng2 Bf2 70. Ke2 Bg3 71. Bc8 Ng7 72. Bh3 h5 73. Kf1
+Ne6 74. Bf5 Ng5 0-1

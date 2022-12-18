@@ -1,0 +1,22 @@
+[Event "Bad Meinberg"]
+[Site "Bad Meinberg"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Waagener, Ulrich"]
+[Black "Kaiszauri, Konstanty"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "e496e640"]
+[Epoch "Bishop"]
+[WhiteID "4604601"]
+[WhiteCountry "GER"]
+[BlackID "1700510"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. dxe5
+Nd5 9. Bd2 Nb6 10. Qe2 Bg4 11. O-O-O f6 12. exf6 exf6 13. Be3 Qc8 14. h3 Be6
+15. Nd4 Nb4 16. Nxe6 Qxe6 17. Bxb6 Qxb6 18. Bc4+ Kh8 19. Rhe1 f5 20. Rd7 Rad8
+21. Red1 Rde8 22. Re7 Rxe7 23. Qxe7 Nc6 24. Qe2 Nd4 25. Qe7 Nc6 26. Qe2 Nd4 27.
+Qe7 c5 28. Na4 Qc6 29. Nxc5 Re8 30. Qd7 Rc8 31. Be6 Qxd7 0-1

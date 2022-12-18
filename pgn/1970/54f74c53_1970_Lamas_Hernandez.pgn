@@ -1,0 +1,16 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Lamas, Pedro"]
+[Black "Hernandez, Alberto COL"]
+[Result "1/2-1/2"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "54f74c53"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Nbd7 5. Nf3 Be7 6. O-O O-O 7. b3 c6 8. Bb2
+b6 9. Nbd2 Bb7 10. e3 Rc8 11. Ne5 dxc4 12. Ndxc4 Qc7 13. Qf3 Ba8 14. Qe2 c5 15.
+Bxa8 Rxa8 16. Rac1 cxd4 17. Bxd4 Rac8 18. Bb2 1/2-1/2

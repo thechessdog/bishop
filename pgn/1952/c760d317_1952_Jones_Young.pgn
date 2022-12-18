@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Jones, J."]
+[Black "Young, R."]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "c760d317"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 Ne4 6. Qc2 f5 7. a3 Bxc3+ 8.
+Nxc3 Nxc3 9. Qxc3 Qf6 10. Bd2 cxd4 11. Qxd4 e5 12. Qd5 Nc6 13. Bc3 d6 14.
+Rd1 Ke7 15. c5 Rd8 16. Bb5 Bd7 17. cxd6+ Kf8 18. Bc4 Ke8 19. Qg8+ Qf8 20.
+Bf7# 1-0
+

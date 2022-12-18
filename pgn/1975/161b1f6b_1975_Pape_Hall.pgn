@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pape"]
+[Black "Hall"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "161b1f6b"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Bc4 e6 7. Bg5 Be7
+8. Qe2 c6 9. O-O-O Nbd7 10. Rhf1 O-O 11. Bxf6 Nxf6 12. Ne5 Nd5 0-1
+

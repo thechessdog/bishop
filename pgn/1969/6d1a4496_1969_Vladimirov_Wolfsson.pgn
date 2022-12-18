@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Vladimirov"]
+[Black "Wolfsson"]
+[Result "1/2-1/2"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "6d1a4496"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Bg2 Qd7 7. Nbd2 O-O-O
+8. O-O h5 9. b4 Bxb4 10. Rb1 h4 11. Qa4 hxg3 12. Rxb4 Nxb4 13. Qxb4 Bh3 14.
+e6 Qxe6 15. fxg3 Bxg2 16. Kxg2 Nf6 17. Re1 Ng4 18. Nf1 Qe4 19. Qc5 b6 20.
+Qb5 f6 21. c5 Rh5 22. Qa6+ Kb8 23. cxb6 axb6 24. Bf4 Ne5 1/2-1/2
+

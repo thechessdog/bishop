@@ -1,0 +1,19 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Shianovsky, Vladisl"]
+[Black "Spiridonov, Nikola"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "3af2d6b8"]
+[Epoch "Bishop"]
+[BlackID "2900238"]
+[BlackCountry "FID"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6 8.
+O-O Bd6 9. f4 Qc7 10. f5 exf5 11. Nxf5 Bxh2+ 12. Kh1 O-O 13. Qe1 Bd6 14. Nxg7
+Kxg7 15. Rxf6 Nd7 16. Qh4 Rfe8 17. Bh6+ Kh8 18. Raf1 Qd8 19. Bg5 Be7 20. Rxg6
+1-0

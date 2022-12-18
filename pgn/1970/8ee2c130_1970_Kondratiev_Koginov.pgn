@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kondratiev, Pavel"]
+[Black "Koginov, V."]
+[Result "1-0"]
+[ECO "B79"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 12.h4"]
+[HashCode "8ee2c130"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. O-O-O Qa5 11. Bb3 Rfc8 12. h4 Ne5 13. g4 Nc4 14.
+Bxc4 Rxc4 15. Nb3 Qd8 16. e5 Ne8 17. h5 Bxe5 18. hxg6 hxg6 19. Bd4 Rxd4 20.
+Nxd4 Bg7 21. g5 Nc7 22. Rh4 e5 23. Rdh1 exd4 24. Ne4 Ne8 25. Rh7 Bf5 26.
+Qh2 f6 27. gxf6 Bxf6 28. Rxb7 Be6 29. Qh7+ Kf8 30. Qxg6 Bd5 31. Rhh7 1-0
+

@@ -1,0 +1,17 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Payne, J."]
+[Black "Roffman, D."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "5634855f"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 exd5 5. Nf3 Be6 6. Bb5+ Nc6 7. O-O a6
+8. Be2 c4 9. a4 Nf6 10. b3 Bb4 11. Na2 c3 12. Nxb4 Nxb4 13. Ba3 a5 14. Bb5+
+Nd7 15. Ne5 O-O 16. Nd3 Qe7 17. Qe1 Qd6 18. Qxc3 Rfc8 19. Bxb4 1-0
+

@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Hvenekilde, Jorgen"]
+[Black "Pedersen, Carl"]
+[Result "0-1"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "ccae04b8"]
+[Epoch "Bishop"]
+[WhiteID "1400649"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c6 7. Nc3 a6 8. b3 Qa5
+9. Bb2 Qh5 10. Re1 Bh3 11. Bh1 Nbd7 12. Qd2 Bh6 13. Qd3 Ng4 14. d5 Nc5 15. Qd4
+e5 16. dxe6 Nxe6 17. Qxd6 Rad8 18. Qe7 Ng5 19. Qxb7 Nxf2 20. Kxf2 Rfe8 21. Red1
+Nxf3 22. Ne4 Be3+ 23. Kxe3 Rxe4+ 24. Kxe4 Qf5+ 25. Ke3 Re8+ 26. Kf2 Nd4+ 27.
+Bf3 Rxe2+ 28. Kg1 Nxf3+ 29. Kh1 Rxh2# 0-1

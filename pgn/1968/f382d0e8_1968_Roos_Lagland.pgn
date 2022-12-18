@@ -1,0 +1,21 @@
+[Event "corr BDGW"]
+[Site "corr BDGW"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Roos, B."]
+[Black "Lagland, G."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "f382d0e8"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. Bg5 O-O
+8. Qd2 c6 9. h3 Nbd7 10. O-O-O b5 11. Bb3 a5 12. a4 b4 13. Ne2 Ne4 14. Qe3
+Nxg5 15. Qxg5 Ba6 16. Rhe1 e6 17. Kb1 c5 18. dxc5 Qxg5 19. Nxg5 Nxc5 20.
+Nd4 Nxb3 21. Nxb3 Bb7 22. Nf3 Bc6 23. Nc5 Rac8 24. Nb3 Bxa4 25. Rd6 Bxb3
+26. cxb3 Rfd8 27. Red1 Rxd6 28. Rxd6 Bf6 29. Ra6 Rc5 30. Nd2 Rd5 31. Kc2
+Bxb2 32. Nc4 Bc3 33. Rxa5 Rxa5 34. Nxa5 f5 35. Nc6 Kf7 36. Na7 e5 37. Nb5
+e4 38. Kd1 Ke6 39. Ke2 Be5 40. Ke3 Kd5 41. Ke2 Kc5 42. Na7 Bb8 43. Nc8 Kd4
+44. Kd2 Bf4+ 0-1
+

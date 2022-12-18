@@ -1,0 +1,18 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "13"]
+[White "Hemmassi, N."]
+[Black "Bouaziz, Slim"]
+[Result "1/2-1/2"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "0ff9259f"]
+[Epoch "Bishop"]
+[BlackID "5500010"]
+[BlackCountry "TUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. Qf3
+Bb7 9. a3 Be7 10. O-O-O Qb6 11. f5 e5 12. Bxf6 Bxf6 13. Nb3 Nd7 14. Nd5 Bxd5
+15. Rxd5 Rc8 16. h4 1/2-1/2

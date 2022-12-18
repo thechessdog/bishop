@@ -1,0 +1,20 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1962.01.01"]
+[Round "9"]
+[White "Langeweg, Kick"]
+[Black "Donner, Jan Hein"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Swiss cheese variation"]
+[HashCode "376ebaae"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6 6. O-O Bg7 7. Ne2 Ne7 8. c4
+d5 9. cxd5 exd5 10. exd5 Qxd5 11. Nbc3 Qd8 12. Bg5 O-O 13. Bxa6 Nxa6 14. Qxd8
+Rxd8 15. Bxe7 Re8 16. Bd6 Be6 17. Rfd1 Red8 18. f3 Rd7 19. Bf4 Rxd1+ 20. Rxd1
+Nb4 21. b3 Nxa2 22. Nd5 1/2-1/2

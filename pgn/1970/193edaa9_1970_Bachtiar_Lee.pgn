@@ -1,0 +1,18 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Bachtiar, Arovah"]
+[Black "Lee, G."]
+[Result "0-1"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[HashCode "193edaa9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 g6 6. c4 Bg7 7. Be3 O-O 8. Nc3
+Nc6 9. Qd2 Nxd4 10. Bxd4 Be6 11. Be2 Qa5 12. O-O Rfc8 13. b3 b5 14. cxb5 Nxe4
+15. fxe4 Bxd4+ 16. Qxd4 Qxc3 17. Qxc3 Rxc3 18. Rac1 Rac8 19. Bc4 Rxc1 20. Rxc1
+Kg7 21. Kf2 f5 22. exf5 gxf5 23. Rc2 Kf6 24. g3 d5 25. Bd3 Rxc2+ 26. Bxc2 d4
+27. a4 Bd5 28. a5 e5 29. Bd3 Ke6 0-1

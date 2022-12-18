@@ -1,0 +1,22 @@
+[Event "Camaguey"]
+[Site "Camaguey"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Caro, Alberto N"]
+[Black "Keene, Raymond D"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "cee961b2"]
+[Epoch "Bishop"]
+[WhiteID "3900134"]
+[BlackID "400211"]
+[WhiteCountry "VEN"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. f4 c5 4. c3 cxd4 5. cxd4 Qb6 6. Nf3 Nc6 7. e5 Nh6 8. Nc3
+O-O 9. d5 Nb4 10. a3 Na6 11. Bd3 d6 12. Qe2 Nc5 13. Bc4 Bg4 14. Be3 Bxf3 15.
+gxf3 Nf5 16. Bf2 Qc7 17. h4 Rac8 18. Nb5 Qd8 19. Nd4 Nxd4 20. Bxd4 Nd7 21. b3
+Qc7 22. Bb2 h5 23. Rg1 Qc5 24. Rg2 Nb6 25. Rc1 Nxd5 26. f5 Qe3 27. fxg6 Nf4 28.
+gxf7+ Kh8 29. Rxg7 Nxe2 30. Rg8+ 0-1

@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Schmid, Lothar Maximilian Lorenz"]
+[Black "Rossolimo, Nicolas"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "32c1e681"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteCountry "DEU"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. Be2 Nf6 7. d3 Bb4 8. O-O
+dxe4 9. dxe4 Nbd7 10. Qg3 g6 11. e5 Nd5 12. Ne4 Nc5 13. Nxc5 Bxc5 14. c4 Ne7
+15. Rd1 Qb6 16. a3 O-O 17. b4 Nf5 18. Qf4 Be7 19. g4 Ng7 20. Rd7 Rfe8 21. Be3
+Qa6 22. Bc5 Kf8 23. Qf6 1-0

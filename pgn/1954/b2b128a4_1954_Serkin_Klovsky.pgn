@@ -1,0 +1,17 @@
+[Event "URS-chTJ Coop"]
+[Site "Riga"]
+[Date "1954.01.01"]
+[Round "?"]
+[White "Serkin"]
+[Black "Klovsky, Rafail"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Keres variation"]
+[HashCode "b2b128a4"]
+[Epoch "Bishop"]
+[BlackID "14101246"]
+[BlackCountry "UKR"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nd2 exd3 6. Bxd3 Nxd5 7. Ne4 Nb4 8.
+Bb5+ Bd7 9. Qe2 Nxc2+ 10. Kf1 Bxb5 11. Nf6# 1-0

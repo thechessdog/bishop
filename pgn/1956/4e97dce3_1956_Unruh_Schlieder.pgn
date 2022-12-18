@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Unruh, H."]
+[Black "Schlieder, R."]
+[Result "0-1"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "4e97dce3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. e5 b4 12. Nb1 dxe5 13. fxe5 Nd5 14. Bxe7
+Ncxe7 15. Bd3 Qb6 16. Rde1 h6 17. Be4 Rc8 18. Rhf1 Bb5 19. Rf2 O-O 20. Bxd5
+Nxd5 21. Qd4 Qa5 22. a3 Rfd8 23. Qe4 bxa3 24. Nxa3 Nb4 25. Kb1 Nd3 26. Rff1
+Nxb2 27. Ng5 hxg5 0-1
+

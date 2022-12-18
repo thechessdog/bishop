@@ -1,0 +1,23 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Platonov, Igor"]
+[Black "Radulov, Ivan"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "1a0d6028"]
+[Epoch "Bishop"]
+[WhiteID "24197190"]
+[BlackID "2900300"]
+[WhiteCountry "UKR"]
+[BlackCountry "FID"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 b6 7. cxd5 exd5 8. Bd3
+Be6 9. Rc1 c5 10. dxc5 bxc5 11. O-O Nc6 12. Qa4 Qb6 13. Qh4 h6 14. Bxh6 gxh6
+15. Qxh6 Rfc8 16. Ng5 Ne5 17. Bh7+ Kh8 18. Bf5+ Kg8 19. Bxe6 fxe6 20. f4 Bf8
+21. Qxf6 Bg7 22. Qxe6+ Qxe6 23. Nxe6 Nd3 24. Rc2 d4 25. Nd5 dxe3 26. Nxg7 Kxg7
+27. Nxe3 Re8 28. Ng4 Rab8 29. b3 Rb4 30. g3 Rd4 31. Nf2 Ne1 32. Rc1 Nf3+ 33.
+Kg2 Re3 34. Rfd1 1-0

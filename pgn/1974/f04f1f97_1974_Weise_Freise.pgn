@@ -1,0 +1,27 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Weise, Dietrich"]
+[Black "Freise, Helmut"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "f04f1f97"]
+[Epoch "Bishop"]
+[BlackID "4641426"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d6 6. a3 Ba5 7. Rb1 Nc6 8. d5 Ne5
+9. b4 Bb6 10. Ng3 exd5 11. cxd5 cxb4 12. axb4 Bd7 13. Be2 O-O 14. O-O Rc8 15.
+Qb3 h5 16. Na4 h4 17. Nxb6 Qxb6 18. Nh1 Bb5 19. Re1 Bxe2 20. Rxe2 Qb5 21. Qd1
+Nxd5 22. Bd2 Nc3 23. Bxc3 Rxc3 24. Rd2 Rfc8 25. Qh5 Rc1+ 26. Rd1 Rxb1 27. Rxb1
+Qxb4 28. Qf5 Qc5 29. h3 b6 30. Rd1 Rd8 31. Rd4 Nc6 32. Rd5 Qc1+ 33. Kh2 Ne7 34.
+Qg5 f6 35. Qh5 Nxd5 36. Qxd5+ Kf8 37. Qh5 Qc4 38. Qh8+ Qg8 39. Qxh4 Rc8 40. Qg4
+Qc4 41. Qd7 Qc7 42. Qf5 a5 43. Ng3 a4 44. Nh5 a3 45. Nf4 Re8 46. Qd5 g5 47.
+Ne6+ Rxe6 48. Qxe6 Qe7 49. Qb3 d5 50. f4 gxf4 51. exf4 Qd6 52. Kg3 d4 53. Qc4
+Ke7 54. h4 d3 55. Qe4+ Kf8 56. Qa8+ Kg7 57. Qb7+ Kh6 58. Qc8 d2 59. Qh8+ Kg6
+60. h5+ Kf5 61. Qh7+ Ke6 62. Qg8+ Ke7 63. Qg7+ Kd8 64. Qg8+ Kc7 65. Qh7+ Qd7
+66. Qc2+ Kb8 67. Qd1 a2 68. h6 a1=Q 69. Qxa1 d1=Q 70. Qxf6 Q7g4+ 71. Kh2 Qh5+
+72. Kg3 Qdg4+ 73. Kf2 Qe2+ 74. Kg3 Qhg4+ 75. Kh2 Qexg2# 0-1

@@ -1,0 +1,25 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hamann, Svend"]
+[Black "Blom, Kaj"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack"]
+[HashCode "7370d975"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. dxe5 Qxe5+ 6. Be2 Bg4 7. Qd5 Qxd5
+8. Nxd5 Bxe2 9. Nxc7+ Kd7 10. Nxa8 Bh5 11. Bf4 Bd6 12. Bxd6 Kxd6 13. Nf3 Bxf3
+14. gxf3 Nf6 15. O-O-O+ Kc6 16. Rd3 b5 17. Rc3+ Kb7 18. Rc7+ Kxa8 19. Rxf7 Nbd7
+20. Rd1 Rd8 21. Rxg7 Kb8 22. Rd6 Kc8 23. Rc6+ Kb8 24. Rf7 Nd5 25. Rd6 N5b6 26.
+Rxh7 Kc7 27. Rd3 Rf8 28. h4 Kc6 29. h5 Ne5 30. Rc3+ Nec4 31. Rd3 Nd5 32. h6 Rf5
+33. Rxa7 Rh5 34. h7 Ne5 35. Rd1 Nc7 36. f4 Nc4 37. b3 Nb6 38. Rd3 Rxh7 39. Rc3+
+Kd6 40. Rd3+ Kc6 41. Rc3+ Kd6 42. f5 Nbd5 43. Rg3 Kc5 44. Rg6 Nc3 45. b4+ Kd4
+46. Rd6+ Ke5 47. Rc6 Rh1+ 48. Kb2 Nd1+ 49. Kb3 Nd5 50. f6 Rh3+ 51. c3 Nxf6 52.
+Re7+ Kd5 53. Rc5+ Kd6 54. Re2 1-0

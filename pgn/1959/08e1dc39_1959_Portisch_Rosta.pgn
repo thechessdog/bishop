@@ -1,0 +1,19 @@
+[Event "Zalaegerszeg"]
+[Site "Zalaegerszeg"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Portisch, Ferenc"]
+[Black "Rosta, Sandor"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "08e1dc39"]
+[Epoch "Bishop"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. Ng5 d5 8. exd5
+Nd4 9. Re1 Bd6 10. c3 Nxb3 11. axb3 h6 12. d4 hxg5 13. dxe5 Ng4 14. exd6+ Kf8
+15. Qe2 cxd6 16. Bxg5 f6 17. Bf4 Bb7 18. Qxg4 Bxd5 19. Nd2 g5 20. Bg3 Bc6 21.
+Ne4 1-0

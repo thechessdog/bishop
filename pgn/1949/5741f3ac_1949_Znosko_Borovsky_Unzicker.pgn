@@ -1,0 +1,19 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Znosko_Borovsky, Eu"]
+[Black "Unzicker, Wolfgang"]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "5741f3ac"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Bc5 10. Be3 O-O 11. Rd1 Ne7 12. c3 Bxe3 13. Qxe3 Nf5 14. Qe2 c6 15.
+Nbd2 Nxd2 16. Rxd2 Qc7 17. Re1 Rad8 18. Bc2 c5 19. Red1 Qc6 20. Ng5 h6 21. g4
+Nh4 22. Ne4 Ng6 23. Ng3 Qc7 24. Re1 Rde8 25. Nh5 Qd7 26. h3 f5 27. f4 Qf7 28.
+g5 hxg5 29. fxg5 f4 30. Rf1 f3 31. Qh2 Nxe5 0-1

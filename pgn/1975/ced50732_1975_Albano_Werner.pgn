@@ -1,0 +1,19 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Albano"]
+[Black "Werner, Dimo"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "ced50732"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. Nf3 g6 5. Bg2 Bg7 6. O-O Nge7 7. d3 O-O 8. h4
+d5 9. e5 b6 10. c3 Rb8 11. Bf4 b5 12. Nh2 d4 13. Ng4 Nd5 14. Bg5 Qc7 15. c4
+bxc4 16. dxc4 Nde7 17. Nd2 Nf5 18. Ne4 d3 19. Qxd3 Rxb2 20. Rae1 h6 21. Nef6+
+Kh8 22. Qa3 Rc2 23. Qxc5 Bb7 24. Be4 Rxa2 25. Bxf5 gxf5 26. Bxh6 fxg4 27. Bxg7+
+Kxg7 28. Nh5+ Kg8 29. Nf6+ Kg7 30. Re4 Qd8 31. Rxg4+ Kh8 32. Rg5 Nd4 33. Rh5+
+Kg7 34. Rh7+ Kg6 35. h5+ Kf5 0-1

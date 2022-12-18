@@ -1,0 +1,20 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "4"]
+[White "Siaperas, Triantafyllos"]
+[Black "Bouaziz, Slim"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "c4f888e7"]
+[Epoch "Bishop"]
+[BlackID "5500010"]
+[BlackCountry "TUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 Nc6 5. O-O e6 6. Nc3 Be7 7. Re1 a6 8. Bxc6
+Bxc6 9. d4 cxd4 10. Nxd4 Qc7 11. Nxc6 bxc6 12. b3 Bf6 13. Bb2 Ne7 14. Qg4 h5
+15. Qe2 Ng6 16. Rad1 h4 17. h3 O-O 18. Qh5 d5 19. Kh1 Qf4 20. Ne2 Qxe4 21. Bxf6
+gxf6 22. Qh6 c5 23. Rd3 Rfd8 24. Re3 Qf5 25. f4 d4 26. Rd3 Rd5 27. b4 cxb4 28.
+Nxd4 Qxf4 29. Qxf4 Nxf4 30. Rdd1 Rad8 0-1

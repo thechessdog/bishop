@@ -1,0 +1,19 @@
+[Event "CSR-ch"]
+[Site "Luhacovice"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Knezevic, Milorad"]
+[Black "Pribyl, Josef"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "9affa380"]
+[Epoch "Bishop"]
+[WhiteID "950238"]
+[BlackID "300187"]
+[WhiteCountry "SRB"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. Ne2 Bg7 5. c3 e5 6. d3 Nge7 7. O-O d5 8. f4 Be6
+9. fxe5 Nxe5 10. Nf4 Bg4 11. Qa4+ 1/2-1/2

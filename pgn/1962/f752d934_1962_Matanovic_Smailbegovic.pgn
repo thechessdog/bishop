@@ -1,0 +1,22 @@
+[Event "Skopje ch17-YUG"]
+[Site "Skopje ch17-YUG"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Matanovic, Aleksandar"]
+[Black "Smailbegovic, Hasan"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "f752d934"]
+[Epoch "Bishop"]
+[WhiteID "900230"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Bd3 Nbd7 8. O-O
+Qc7 9. Kh1 Be7 10. Qe2 b5 11. a4 b4 12. Na2 d5 13. e5 Ne4 14. Bxe4 dxe4 15. c3
+bxc3 16. Nxc3 O-O 17. Nxe4 Bb7 18. Bd2 Nxe5 19. Rac1 Nc6 20. Rxc6 Bxc6 21. Rc1
+f5 22. Ng3 Bxg2+ 23. Kxg2 Qb7+ 24. Nf3 Qd5 25. Bc3 Bf6 26. Bxf6 Rxf6 27. Rc2 h6
+28. Qd2 Rd8 29. Qxd5 Rxd5 30. Ne5 g6 31. b3 Kf8 32. Kf3 Ke8 33. Rc6 a5 34. h4
+Kd8 35. Ne2 g5 36. hxg5 hxg5 37. fxg5 Rf8 38. Rxe6 Re8 39. Nc6+ Kd7 40. Rxe8
+Kxe8 41. Kf4 1-0

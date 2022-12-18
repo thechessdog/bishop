@@ -1,0 +1,17 @@
+[Event "Mar del Plata op"]
+[Site "Mar del Plata"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Munoz, R."]
+[Black "Incutto, Carlos"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "7895e78e"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. Nf3 cxd4 6. Nxd4 Nc6 7. Nxc6 bxc6 8.
+Bg5 Qa5 9. Bxf6 gxf6 10. Rc1 Qxa2 11. e4 Rb8 12. Bd3 Bxc3+ 13. bxc3 Qxc2 14.
+Rxc2 Rb1+ 0-1

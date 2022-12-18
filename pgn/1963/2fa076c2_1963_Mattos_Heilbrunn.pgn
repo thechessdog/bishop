@@ -1,0 +1,18 @@
+[Event "Sao Paulo"]
+[Site "Sao Paulo"]
+[Date "1963.??.??"]
+[Round "3"]
+[White "Mattos, JB."]
+[Black "Heilbrunn, K."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "2fa076c2"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. b3 Nd7
+8. Bb2 Ngf6 9. Ng3 Qc7 10. O-O-O O-O-O 11. Kb1 Bd6 12. d4 e5 13. Nf5 exd4
+14. Nxd6+ Qxd6 15. Rxd4 Qc7 16. Bc4 Ne5 17. Qf5+ Ned7 18. Bxf7 Rhf8 19. Be6
+g6 20. Qg5 Kb8 21. Rhd1 Nd5 22. Bxd5 Rf5 23. Qxd8+ Qxd8 24. Be6 1-0
+

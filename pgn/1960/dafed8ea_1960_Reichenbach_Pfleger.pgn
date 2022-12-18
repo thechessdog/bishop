@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Reichenbach, Werner"]
+[Black "Pfleger, Helmut, Dr."]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[HashCode "dafed8ea"]
+[Epoch "Bishop"]
+[WhiteID "4604903"]
+[WhiteCountry "GER"]
+[BlackID "4600100"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 dxc3 8.
+d4 Be6 9. Bd3 c5 10. O-O Nc6 11. Rb1 Qd7 12. Qe2 O-O-O 13. a4 Nxd4 14. Nxd4
+cxd4 15. Be4 Bc5 16. Rb5 b6 17. Rxc5+ bxc5 18. Qa6+ Kb8 19. Bf4 1-0

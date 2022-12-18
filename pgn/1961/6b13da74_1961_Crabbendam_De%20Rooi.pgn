@@ -1,0 +1,20 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1961.01.01"]
+[Round "11"]
+[White "Crabbendam, H."]
+[Black "De Rooi, Paul"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "6b13da74"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qc7 Nge7 9. Nc3 O-O 10. Be3 d6 11. O-O-O Rd8 12. Bc4 Bg4 13. f3 Rd7 14. Qb6 Nc8
+15. Qb3 Na5 16. Qa4 Nxc4 17. Qxc4 Be6 18. Qa4 Qd8 19. b3 Ne7 20. Rd2 b5 21. Qa3
+Rc8 22. Ne2 a5 23. Rhd1 b4 24. Qb2 a4 25. Kb1 Qc7 26. f4 f6 27. bxa4 Ra8 28. f5
+Bf7 29. a5 Rxa5 30. Nc1 Qc6 31. Nb3 Ra3 32. Kc1 Qxe4 33. Nc5 dxc5 34. Rxd7
+Qxe3+ 35. Kb1 Bxa2+ 36. Qxa2+ Rxa2 37. Kxa2 Nxf5 38. g4 Nd4 39. Rd3 b3+ 40. Ka3
+bxc2 0-1

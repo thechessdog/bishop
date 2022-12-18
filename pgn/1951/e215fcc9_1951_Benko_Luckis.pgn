@@ -1,0 +1,25 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Benko, Francisco"]
+[Black "Luckis, Marcos"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "e215fcc9"]
+[Epoch "Bishop"]
+[WhiteID "101753"]
+[WhiteCountry "ARG"]
+[BlackCountry "LTU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 Bg4 7. f3 Bd7 8. Bg5
+e6 9. Qd2 Nc6 10. Nce2 Qc7 11. c4 Be7 12. Nxc6 bxc6 13. Nc3 h6 14. Be3 Rb8 15.
+c5 dxc5 16. Bxa6 O-O 17. Bc4 Rfd8 18. Qf2 e5 19. O-O Be8 20. b3 Nd7 21. Na4 Qa5
+22. Rfd1 Nb6 23. Nxb6 Qxb6 24. f4 exf4 25. Bxf4 Rxd1+ 26. Rxd1 Rd8 27. Rf1 Kh8
+28. Be3 f6 29. Qf5 Bd7 30. Qh5 Be8 31. Qh4 Kh7 32. e5 Qb4 33. exf6 Bxf6 34.
+Qe4+ Bg6 35. Qxc6 Bd4 36. Bxd4 cxd4 37. Qc7 Re8 38. Qf4 Qc5 39. Qf2 Re3 40. Qf8
+Qxf8 41. Rxf8 Bc2 42. Kf2 Bb1 43. Rf3 Rc3 44. Rxc3 dxc3 45. Ke3 Bxa2 46. Kd3
+Kg6 47. Kxc3 Kg5 48. b4 Bb1 49. b5 Bf5 50. b6 Bc8 51. Kd4 h5 52. Be6 Bb7 53.
+Ke5 h4 54. Kd6 Kf6 55. Bd5 Ba6 56. Kc7 1-0

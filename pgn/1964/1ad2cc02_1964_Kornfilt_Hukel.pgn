@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Kornfilt, V."]
+[Black "Hukel, J."]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "1ad2cc02"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8.
+g3 Nbd7 9. Bg2 c6 10. O-O Re8 11. f3 Nb6 12. e4 dxe4 13. fxe4 Bg4 14. Kh1
+Qd7 15. Qc2 Bh3 16. Be3 Bxg2+ 17. Kxg2 Ng4 18. Bg1 Nc4 19. Nd1 b5 20. h3
+Nf6 21. Ndc3 Rac8 22. Rad1 Bd8 23. Nf4 Bb6 24. Rf3 a6 25. e5 Nd5 26. Ne4
+Nxf4+ 27. Rxf4 Bd8 28. Rdf1 Qd5 29. Rxf7 Be7 30. Kh2 c5 31. Qe2 cxd4 32.
+Qg4 Qxe5 33. Bxd4 Qxd4 34. Rxe7 Kh8 35. Nf6 Qxb2+ 36. Kh1 1-0
+

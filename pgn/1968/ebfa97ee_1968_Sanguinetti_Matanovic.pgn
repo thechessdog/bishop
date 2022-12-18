@@ -1,0 +1,21 @@
+[Event "Lugano olm"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Sanguinetti, Renato"]
+[Black "Matanovic, Aleksandar"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "ebfa97ee"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[BlackCountry "SRB"]
+[WhiteCountry "ARG"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O dxc4 8. Bxc4
+Bd7 9. Qe2 Bc6 10. Rd1 Qe7 11. a3 Ba5 12. Bd2 Bxf3 13. Qxf3 Nc6 14. dxc5 Qxc5
+15. Bf1 Qe7 16. Be1 Rad8 17. Rxd8 Rxd8 18. Rd1 Rxd1 19. Qxd1 Qd7 20. Qxd7 Nxd7
+21. Bb5 Kf8 22. Kf1 a6 23. Be2 Ke7 24. Bd2 Bc7 25. Na2 Be5 26. Bc3 Kd6 27. Ke1
+Bxc3+ 28. Nxc3 f5 29. f4 1/2-1/2

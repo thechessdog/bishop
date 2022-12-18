@@ -1,0 +1,21 @@
+[Event "corr ch2-BRD"]
+[Site "corr ch2-BRD"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Landgraf, S."]
+[Black "Kunz, E."]
+[Result "1-0"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "4fc003ca"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 Nxc3 9. Qxc3 d6 10. Qc2 f5 11. d5 e5 12. e4 Bc8 13. Ne1 f4 14. gxf4
+exf4 15. Kh1 Nd7 16. Nd3 g5 17. Bf3 Ne5 18. Nxe5 dxe5 19. Rg1 Bd7 20. Bd2
+Kh8 21. Bc3 Bf6 22. Bb4 Rg8 23. Qe2 Qe7 24. Bg4 Raf8 25. a4 Bxg4 26. Qxg4
+Qe8 27. f3 h5 28. Qh3 Rg7 29. a5 Rfg8 30. axb6 axb6 31. Ra7 g4 32. Rxg4
+Rxg4 33. fxg4 Rg5 34. gxh5 Qg8 35. Qf1 Qh7 36. Qe2 Qd7 37. Qf3 Kh7 38. Be1
+Rg7 39. Bf2 Qe8 40. h6 Kxh6 41. Qh3+ Qh5 42. Qxh5+ Kxh5 43. d6 1-0
+

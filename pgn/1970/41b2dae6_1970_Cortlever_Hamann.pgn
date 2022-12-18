@@ -1,0 +1,24 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "1"]
+[White "Cortlever, Nicolaas"]
+[Black "Hamann, Svend"]
+[Result "1-0"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "41b2dae6"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O c5 6. c3 b6 7. Ne5 d5 8. Be3
+Na6 9. a4 Bb7 10. Na3 Ne8 11. Nd3 cxd4 12. Bxd4 f6 13. f4 Nd6 14. Qb3 e6 15.
+Rad1 Qe7 16. Nb5 Nc4 17. e4 Na5 18. Qa2 dxe4 19. b4 Bd5 20. Qf2 Nc4 21. Rfe1 f5
+22. Ne5 Bxe5 23. Bxe5 Nxe5 24. fxe5 Nc7 25. Nd6 Bb3 26. Ra1 Qg7 27. Qd4 Ne8 28.
+Nb5 Rc8 29. Bf1 Bd5 30. c4 Bc6 31. c5 bxc5 32. Qxc5 Bb7 33. Qxa7 f4 34. gxf4
+Rxf4 35. Ra2 Rg4+ 36. Rg2 Rxg2+ 37. Bxg2 Ra8 38. Qb6 Bd5 39. a5 Qxe5 40. Qd4
+Qxd4+ 41. Nxd4 Nd6 42. Rc1 Kf7 43. Bf1 Ke8 44. a6 Kd7 45. b5 Nc8 46. Kf2 Rb8
+47. Nc6 Ra8 48. Ke3 Kd6 49. Na5 Nb6 50. Nb7+ Bxb7 51. axb7 Nd5+ 52. Kxe4 Rb8
+53. Rc6+ Kd7 54. Bh3 Nf6+ 55. Ke5 Rxb7 56. Rd6+ Kc7 57. Rc6+ Kd7 58. Kxf6 Rxb5
+59. Rxe6 Kd8 60. Rd6+ 1-0

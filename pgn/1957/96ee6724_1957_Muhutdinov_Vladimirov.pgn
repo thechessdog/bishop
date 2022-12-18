@@ -1,0 +1,19 @@
+[Event "ch-URS, semi final"]
+[Site "Sverdlovsk"]
+[Date "1957.01.01"]
+[Round "11"]
+[White "Muhutdinov, Marat"]
+[Black "Vladimirov, Boris T"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "96ee6724"]
+[Epoch "Bishop"]
+[WhiteID "4102010"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. Qd2 O-O 13. b3 Ng4 14. Ng3 e5 15.
+dxe5 Ncxe5 16. Nxe5 Nxf2 17. Rxf2 Rxf2 0-1

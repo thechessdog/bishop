@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Takavic"]
+[Black "Vukovic, Vladimir"]
+[Result "0-1"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[HashCode "fd0a1160"]
+[Epoch "Bishop"]
+[BlackID "2606593"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Nf3 c5 7. Bd2 Nc6 8.
+dxc5 Bxc5 9. e3 O-O 10. Be2 Bg4 11. O-O Rc8 12. Qd1 Qe7 13. Nd4 Bxe2 14. Ndxe2
+Rfd8 15. Rc1 Ne4 16. Nxe4 dxe4 17. Qc2 Bd6 18. Ng3 Bxg3 19. hxg3 Qe6 20. Ra1
+Ne5 21. Bc3 Nf3+ 22. gxf3 exf3 0-1

@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Kurkin"]
+[Black "Mikhailovich"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "2b516f63"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 h6 7. Nxf7 Kxf7
+8. dxc6 Bc5 9. Qf3 Rf8 10. Bxb5 Kg8 11. h3 Bxf2+ 12. Qxf2 Ne4 13. Qe3 Qh4+
+14. g3 Nxg3 15. Qb3+ Kh8 16. Rg1 Ne2+ 17. Kxe2 Qf2+ 18. Kd3 Bf5+ 0-1
+

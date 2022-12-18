@@ -1,0 +1,18 @@
+[Event "corr BdF-cup3"]
+[Site "corr BdF-cup3"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Gemende, G."]
+[Black "Mueller, Georgi"]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "3cd82b15"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nb3 Be7
+8. O-O O-O 9. f4 Be6 10. Bf3 h6 11. f5 Bxb3 12. cxb3 Rc8 13. Be3 a6 14. Nd5
+Nxd5 15. exd5 Nb4 16. Be4 a5 17. Bxh6 Bg5 18. f6 Bxh6 19. Qh5 Qb6+ 20. Kh1
+Qe3 21. fxg7 Kxg7 22. Qf5 Bf4 23. g3 Rh8 24. Qg4+ Bg5 25. Rae1 1-0
+

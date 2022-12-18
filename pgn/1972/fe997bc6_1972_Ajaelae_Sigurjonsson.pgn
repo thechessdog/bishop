@@ -1,0 +1,19 @@
+[Event "Skopje olm"]
+[Site "Skopje olm"]
+[Date "1972.10.01"]
+[Round "1"]
+[White "Ajaelae"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "fe997bc6"]
+[Epoch "Bishop"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Bf5 7. Nc3 e6 8. Be3
+Bb4 9. Nf3 c5 10. Be2 Nc6 11. O-O cxd4 12. Nxd4 Bg6 13. Nxc6 bxc6 14. Bf3 O-O
+15. Qb3 Qe7 16. Ne4 Bxe4 17. Bxe4 Bc5 18. Rac1 Rab8 19. Rf3 Nd5 20. Bxh7+ Kh8
+21. Rh3 Nf4 0-1

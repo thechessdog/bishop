@@ -1,0 +1,18 @@
+[Event "Caracas"]
+[Site "Caracas"]
+[Date "1970.06.01"]
+[Round "13"]
+[White "Parma, Bruno"]
+[Black "Slujssar"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "5da1d814"]
+[Epoch "Bishop"]
+[WhiteID "14600706"]
+[WhiteCountry "SLO"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bg5 Be7
+8. Bd3 O-O 9. O-O b6 10. Qe2 Bb7 11. Rfd1 Re8 12. c4 Qc8 13. Ne5 c5 14. Bxf6
+Bxf6 15. Bxh7+ Kxh7 16. Qh5+ Kg8 17. Qxf7+ 1-0

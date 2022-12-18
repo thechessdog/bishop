@@ -1,0 +1,17 @@
+[Event "corr FRG jub"]
+[Site "corr FRG jub"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Shamkovich, Leonid"]
+[Black "Yudovich, Mikhail Sr"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[HashCode "3aaeec37"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. g3 d5 2. Bg2 Nf6 3. c4 e6 4. Nf3 Be7 5. O-O O-O 6. d4 dxc4 7. Nc3 c5 8. dxc5
+Qxd1 9. Rxd1 Nc6 10. Nd2 Rd8 11. Nxc4 Rxd1+ 12. Nxd1 Bxc5 13. Be3 Bxe3 14.
+Ndxe3 Kf8 15. Rd1 Ke7 1/2-1/2

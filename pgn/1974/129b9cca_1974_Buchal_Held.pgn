@@ -1,0 +1,30 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Buchal, Stephan"]
+[Black "Held, Paul"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "129b9cca"]
+[Epoch "Bishop"]
+[WhiteID "4603915"]
+[WhiteCountry "GER"]
+[BlackID "4627652"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d6 5. Bf4 Nc6 6. Nf3 dxe5 7. Qxd8+ Nxd8
+8. Bxe5 c6 9. O-O-O f6 10. Bg3 e5 11. Bc4 b5 12. Bb3 Ne6 13. Rhe1 Nc5 14. Nd4
+Bd7 15. f4 e4 16. f5 g6 17. Be6 Bxe6 18. Nxe6 Nxe6 19. Rxe4 gxf5 20. Rxe6+ Kf7
+21. Rxc6 Bh6+ 22. Kb1 Rad8 23. Rf1 Rd5 24. c4 bxc4 25. Rxc4 Re8 26. Rh4 Bg5 27.
+Rxh7+ Kg6 28. Rc7 Re2 29. a4 Rd4 30. a5 a6 31. Rc5 f4 32. h4 fxg3 33. hxg5 fxg5
+34. Rf8 Ra4 35. b3 Rf4 36. Rg8+ Kf6 37. Rgxg5 Rxg2 38. Rg8 Rff2 39. b4 Rg1+ 40.
+Kb2 g2 41. Rcg5 Rf4 42. c3 Rf2+ 43. Kb3 Rb1+ 44. Kc4 Rf4+ 45. Kd3 Rc1 46. Kd2
+Rff1 47. Rxg2 Rfd1+ 48. Ke2 Rd7 49. R2g6+ Kf5 50. Rg5+ Kf4 51. Rg4+ Kf5 52.
+R8g5+ Kf6 53. Rc5 Rcd1 54. Rf4+ Kg6 55. Rcc4 R7d3 56. Rf3 R1d2+ 57. Ke1 Rd1+
+58. Kf2 R3d2+ 59. Ke3 Rd6 60. Rg4+ Kh5 61. Rd4 Re6+ 62. Kf4 Rde1 63. c4 Rf6+
+64. Kg3 Rg6+ 65. Kf2 Rge6 66. Rfd3 R6e2+ 67. Kf3 Rb2 68. c5 Kg5 69. Re3 Rf1+
+70. Ke4 Rf4+ 71. Kd5 Rxd4+ 72. Kxd4 Rxb4+ 73. Kd5 Kf6 74. Re6+ Kf7 75. Rxa6 Ke7
+76. Kc6 Kd8 77. Ra8+ Ke7 1-0

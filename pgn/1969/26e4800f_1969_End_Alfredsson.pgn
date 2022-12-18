@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "End, Reedik"]
+[Black "Alfredsson, Ove"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "26e4800f"]
+[Epoch "Bishop"]
+[BlackID "1717383"]
+[BlackCountry "SWE"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Be2 Bg4 7. h3 Bxf3 8. Bxf3
+c6 9. Be3 Qa5 10. Qd2 Na6 11. g4 Rad8 12. g5 Ne8 13. O-O-O b5 14. Kb1 b4 15.
+Ne2 Nec7 16. Nc1 Nb5 17. Nb3 Qa4 18. h4 c5 19. Be2 Rb8 20. Bxb5 Rxb5 21. h5 c4
+22. Nc1 c3 23. Qh2 cxb2 24. Nb3 Rc8 25. hxg6 hxg6 26. f5 gxf5 27. exf5 Kf8 28.
+f6 exf6 29. gxf6 Bxf6 30. Qxd6+ Be7 31. Rh8+ Kg7 32. Qh6# 1-0

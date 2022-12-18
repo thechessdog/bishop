@@ -1,0 +1,23 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "16"]
+[White "Alzate, Dario"]
+[Black "Filipowicz, Andrzej"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "89e4a6a3"]
+[Epoch "Bishop"]
+[WhiteID "4400046"]
+[WhiteCountry "COL"]
+[BlackID "1100491"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nf3
+O-O 9. O-O a6 10. a4 Bg4 11. h3 Bxf3 12. Qxf3 Nbd7 13. Qe2 Re8 14. f4 Nxe4 15.
+Nxe4 f5 16. Qf3 fxe4 17. Bxe4 Qf6 18. Bc2 Re7 19. f5 Rf8 20. Kh1 Qd4 21. Bf4
+Ne5 22. Qg3 Qxb2 23. Rac1 gxf5 24. Bh6 Kh8 25. Qg5 Bxh6 26. Qxh6 Ng6 27. Rxf5
+Rxf5 28. Bxf5 Qg7 29. Qg5 Ne5 30. Qh4 Rf7 31. Be6 Rf8 32. Rb1 b5 33. axb5 axb5
+34. Rb3 b4 35. Rg3 Ng6 36. Qg5 Qe5 37. Qg4 Qe1+ 38. Kh2 Rf1 0-1

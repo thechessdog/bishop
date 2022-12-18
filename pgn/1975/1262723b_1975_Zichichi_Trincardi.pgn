@@ -1,0 +1,21 @@
+[Event "Lucca tt"]
+[Site "Lucca tt"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Zichichi, Alvise"]
+[Black "Trincardi"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "1262723b"]
+[Epoch "Bishop"]
+[WhiteID "800481"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nc3 Nxc3 11. bxc3 Bf5 12. Bd3 Bxd3 13. Qxd3 Rc8 14. Ng5
+e6 15. Qh3 h6 16. Nf3 Ne7 17. Bxh6 Rxc3 18. Bd2 Rd3 19. Re3 Rxe3 20. fxe3 Nc6
+21. Rb1 Qe7 22. Be1 Rb8 23. Bh4 Qa3 24. Bg5 Nb4 25. Nh4 Rc8 26. Rf1 Rc1 27. g3
+Nxa2 28. Nxg6 Rxf1+ 29. Qxf1 fxg6 30. Qb5 Qc1+ 31. Kf2 Qc2+ 32. Kg1 Qc6 33. Qa5
+Qc1+ 34. Kg2 Qc2+ 35. Kg1 Nc3 36. Qd8+ Kh7 37. Qe7 Ne4 0-1

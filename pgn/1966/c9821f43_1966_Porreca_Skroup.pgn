@@ -1,0 +1,20 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Porreca"]
+[Black "Skroup"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "c9821f43"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Be7 8.
+O-O Qb6 9. Nf3 Nf8 10. dxc5 Bxc5 11. b4 Be7 12. b5 Na5 13. Nfd4 Ng6 14. f4
+Bd7 15. Kh1 O-O 16. Rf3 Rfc8 17. Rh3 Qd8 18. Qf1 Nc4 19. Qf3 Qe8 20. Qh5 h6
+21. Rg3 Bf8 22. Ng1 Bxb5 23. Rxg6 fxg6 24. Bxg6 Qd7 25. f5 Ba4 26. fxe6 Qc7
+27. Bf7+ Kh8 28. Ngf3 Bd1 29. Bxh6 gxh6 30. Rxd1 Bg7 31. Nf5 Nxe5 32. Nxh6
+Nxf7 33. exf7 Bxc3 34. Nf5# 1-0
+

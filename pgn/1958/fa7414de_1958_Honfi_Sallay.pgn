@@ -1,0 +1,18 @@
+[Event "HUN-ch"]
+[Site "Budapest"]
+[Date "1958.??.??"]
+[Round "5"]
+[White "Honfi, Karoly"]
+[Black "Sallay, Roland"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "fa7414de"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 cxd4 7. Nxd4 Nc6 8. Be3
+Bc5 9. Bb5 Nxd4 10. Bxd4 Qb6 11. Bxc5 Qxc5 12. Qd2 a6 13. Bxd7+ Bxd7 14. O-O-O
+g6 15. Ne4 Qb6 16. Nf6+ Ke7 17. Qxd5 Rad8 18. Qf3 Qb4 19. Rd4 Qc5 20. Rxd7+
+Rxd7 21. Nxd7 1-0

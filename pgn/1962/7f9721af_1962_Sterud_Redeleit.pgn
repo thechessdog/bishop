@@ -1,0 +1,19 @@
+[Event "corr Wch5 sf"]
+[Site "corr Wch5 sf"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Sterud, E."]
+[Black "Redeleit, F."]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "7f9721af"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Be2 c5 7. O-O dxc4 8.
+Bxc4 b6 9. a3 cxd4 10. axb4 dxc3 11. Qxd8 Rxd8 12. bxc3 Nc6 13. Bb2 Bb7 14.
+Be2 a5 15. b5 Ne7 16. c4 Ne4 17. Rfd1 Kf8 18. Ne5 Ke8 19. Bd4 f6 20. Nd3
+Nc8 21. f3 Ned6 22. Nb2 e5 23. Bc3 Nf7 24. Na4 Rxd1+ 25. Rxd1 Nd8 26. c5
+bxc5 27. Nxc5 a4 28. Ba5 1-0
+

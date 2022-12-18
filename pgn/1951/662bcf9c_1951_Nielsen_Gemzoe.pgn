@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Nielsen, Hartvig"]
+[Black "Gemzoe, Jacob"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "662bcf9c"]
+[Epoch "Bishop"]
+[BlackID "1412396"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. Nf3 e6 2. g3 g6 3. Bg2 Bg7 4. O-O Nf6 5. d3 d5 6. Nc3 O-O 7. e4 d4 8. Ne2 c5
+9. b4 Nc6 10. bxc5 Nxe4 11. dxe4 d3 12. cxd3 Bxa1 13. d4 Qa5 14. Bd2 Qa6 15.
+Qxa1 Qxe2 16. d5 exd5 17. exd5 Nb8 18. Bh6 1-0

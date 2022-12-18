@@ -1,0 +1,21 @@
+[Event "ACM Atlanta"]
+[Site "ACM Atlanta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "USC CP"]
+[Black "Ches"]
+[Result "1-0"]
+[ECO "C20"]
+[Opening "King's pawn game"]
+[HashCode "89f92bf4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 Bb4+ 3. c3 Bd6 4. dxe5 Bxe5 5. f4 Bd6 6. Bc4 Qh4+ 7. Kf1
+Bxf4 8. Nf3 Qg4 9. h3 Qg3 10. Bxf4 Qxf4 11. Qd4 Nf6 12. e5 Qc1+ 13. Ne1
+Qxb2 14. exf6 Nc6 15. Qe3+ Kf8 16. fxg7+ Kxg7 17. Qg5+ Kf8 18. Qc5+ d6 19.
+Qf2 Qxf2+ 20. Kxf2 Bf5 21. g4 Be4 22. Rf1 Ke7 23. Ke3 d5 24. Bb3 Ke6 25.
+Bc2 Bxc2 26. Nxc2 Ne5 27. Nba3 Nc4+ 28. Nxc4 dxc4 29. Kd4 b5 30. Kc5 a6 31.
+a4 bxa4 32. Kxc4 c5 33. Kxc5 Rhc8+ 34. Kd4 Rd8+ 35. Ke3 Rdc8 36. Kd2 Rd8+
+37. Nd4+ Rxd4+ 38. cxd4 Rd8 39. Rxa4 Rd6 40. Kc3 Rc6+ 41. Kd3 f6 42. Raa1
+Kd5 43. Rf5+ Kd6 44. Rxf6+ Kd5 45. Ra5+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Voloshin"]
+[Black "Goltsov"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "9636cd2c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6
+8. Qa4+ Bd7 9. Qb3 Qxg5 10. Qxb7 O-O 11. e3 c5 12. Qxa8 cxd4 13. exd4 Bxd4
+14. Qb7 Qe5+ 15. Ne2 Bxb2 16. Rb1 Bc3+ 17. Kd1 Ba4+ 18. Kc1 Nd7 19. Rb3 Nc5
+20. Qxa7 Nxb3+ 21. axb3 Bxb3 22. Qa3 Bb2+ 0-1
+

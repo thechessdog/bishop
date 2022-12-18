@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1974.01.01"]
+[Round "8"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Moller, Lars"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "cbfeec30"]
+[Epoch "Bishop"]
+[WhiteID "1400134"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 Na6 10. e3 Re8 11. Be2 Nc7 12. a4 b6 13. Rc1 Ba6 14. b3 Bxc4 15.
+bxc4 Qd7 16. Qc2 Na6 17. O-O Nb4 18. Qb1 h6 19. Bf4 Re7 20. Bd1 Rae8 21. a5 Rb8
+22. a6 Nxa6 23. Nb5 Ne8 24. Ba4 Qd8 25. e4 Nb4 26. Bd2 Na6 27. f4 Nac7 28. Nxa7
+Bd4+ 29. Kh1 Nf6 30. Nc6 Qf8 31. e5 Ng4 32. exd6 Re2 33. Nxd4 Rxd2 34. dxc7 Ra8
+35. Nf3 Re2 36. Bd7 Ne3 37. Rfe1 1-0

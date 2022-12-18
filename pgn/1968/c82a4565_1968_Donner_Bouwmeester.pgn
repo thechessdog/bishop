@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1968.01.01"]
+[Round "3"]
+[White "Donner, Jan Hein"]
+[Black "Bouwmeester, Hans"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Smyslov variation"]
+[HashCode "c82a4565"]
+[Epoch "Bishop"]
+[BlackID "1000187"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Qe7 9. a3 Ba5 10. Bd3 Bd7 11. Qe2 Bb6 12. dxc5 Qxc5 13. e4 Qh5 14. e5 Ng4 15.
+h3 Nh6 16. Ne4 Bc6 17. Bf4 Nd7 18. Rac1 Rfd8 19. Rxc6 bxc6 20. Ng3 1-0

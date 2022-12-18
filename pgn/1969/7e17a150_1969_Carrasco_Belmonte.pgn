@@ -1,0 +1,18 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Carrasco, D."]
+[Black "Belmonte, D."]
+[Result "1/2-1/2"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "7e17a150"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Bc4 Nc6 9. Qd2 Bd7 10. h4 Rc8 11. Bb3 Qa5 12. O-O-O Ne5 13. h5 Nc4 14. Bxc4
+Rxc4 15. Nb3 Qc7 16. hxg6 fxg6 17. Bh6 Bxh6 18. Qxh6 Be6 19. Nd4 Bf7 20. g4
+Rxc3 21. bxc3 Qxc3 22. Nf5 gxf5 23. gxf5 1/2-1/2
+

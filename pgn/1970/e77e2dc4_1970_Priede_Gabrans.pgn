@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Priede, C."]
+[Black "Gabrans, H."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "e77e2dc4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qe6 6. Ne3 c6 7. Bc4 d5
+8. Ncxd5 cxd5 9. Nxd5 Qe5 10. d4 exd3+ 11. Be3 Bd6 12. Qxd3 Nc6 13. O-O-O
+Bf5 14. Qb3 O-O-O 15. Rhe1 Qxh2 16. Bg5 Nf6 17. g3 Rhf8 18. Rh1 Qxf2 19.
+Rdf1 Qc5 20. Nxf6 Bxc2 21. Be6+ Kb8 0-1
+

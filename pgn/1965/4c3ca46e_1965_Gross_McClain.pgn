@@ -1,0 +1,21 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Gross, Henry"]
+[Black "McClain, G."]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "4c3ca46e"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8.
+Nf3 cxd4 9. cxd4 f6 10. exf6 Bb4+ 11. Bd2 Bxd2+ 12. Qxd2 Nxf6 13. O-O O-O
+14. Rac1 Kh8 15. Bb1 Bd7 16. Ne5 Ne7 17. Nxd7 Nxd7 18. Qc2 Nf6 19. Qc7 Nc6
+20. Qxb6 axb6 21. Rc3 Ra4 22. Rd1 g6 23. a3 Raa8 24. Rb3 Nd7 25. Re3 Rf6
+26. f3 Na5 27. Bd3 Nc4 28. Bxc4 dxc4 29. Nc3 Ra5 30. Ne4 Rff5 31. g3 Rf8
+32. f4 Rd5 33. Ng5 Rc8 34. Rxe6 c3 35. bxc3 Rxc3 36. Re8+ Kg7 37. Rde1 Nf6
+38. R8e7+ Kg8 39. Rxb7 h6 40. Rb8+ Kg7 41. Re7# 1-0
+

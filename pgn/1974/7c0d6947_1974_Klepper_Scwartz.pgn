@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Klepper, W."]
+[Black "Scwartz"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "7c0d6947"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Qc7 9. Bg5 Be7 10. Rac1 Bd7 11. Bxf6 Bxf6 12. Nb5 Qb8 13. Rfd1 Be5
+14. Nxe5 dxe5 15. Nd6+ Ke7 16. Qf3 f6 17. Qa3 Nd4 18. Nf5+ Kf7 19. Qe7+ Kg6
+20. Qxg7+ 1-0
+

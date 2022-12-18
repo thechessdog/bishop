@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Poschauko, Carl"]
+[Black "Palme, Rudolf"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "fdd80e04"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. d3 d5 6. exd5 Bd6 7. O-O O-O
+8. Nc3 Nbd7 9. Ng5 Nb6 10. Bxf4 Ng4 11. Qf3 Nxh2 12. Qh5 h6 13. Bxd6 Nxf1
+14. Bxf8 Qxf8 15. Rxf1 hxg5 16. Ne4 f6 17. Qg6 Kh8 18. d6 Nxc4 19. Nxg5 1-0
+

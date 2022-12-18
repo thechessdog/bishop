@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Navarovszky, Laszlo"]
+[Black "Florian"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "be6fbc51"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. e3 O-O 6. Bd3 Re8 7. Bd2 Bf8 8. a3
+a5 9. O-O-O d5 10. Nf3 Bd7 11. e4 Nb4 12. axb4 axb4 13. Nb1 b3 14. Qc3 dxe4 15.
+Be2 exf3 16. Bxf3 Ra1 17. Bf4 e5 18. dxe5 Bf5 19. Rxd8 Rxd8 20. Bd5 Rxb1+ 21.
+Kd2 Ne4+ 22. Ke3 Nxc3 0-1

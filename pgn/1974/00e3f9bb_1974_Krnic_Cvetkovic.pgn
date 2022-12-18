@@ -1,0 +1,17 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Krnic, Zdenko"]
+[Black "Cvetkovic, Srdjan"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "00e3f9bb"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. a4
+Nc6 9. Be3 Nde5 10. Nb3 Na5 11. Nxa5 Qxa5 12. f4 Nc6 13. Bg2 Be7 14. O-O O-O
+15. Ra2 1-0

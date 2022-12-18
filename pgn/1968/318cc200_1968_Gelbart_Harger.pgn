@@ -1,0 +1,16 @@
+[Event "Minneapolis"]
+[Site "Minneapolis"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gelbart, S."]
+[Black "Harger"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "318cc200"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Be2 Bd6 6. d4 e4 7. Ng5 Nf6
+8. Bd2 Qf5 9. f3 exf3 10. Nxf3 O-O 11. O-O c6 12. Ne5 Qe6 13. Bc4 Qe7 14.
+Re1 Be6 15. Nxf7 Bxh2+ 16. Kh1 1-0
+

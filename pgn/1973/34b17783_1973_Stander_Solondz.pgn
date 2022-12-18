@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Stander, J."]
+[Black "Solondz, E."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Lolli attack"]
+[HashCode "34b17783"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. d4 Be6 7. Nxe6
+fxe6 8. dxe5 Nxe5 9. Qh5+ Ng6 10. O-O Nf6 11. Qh3 e5 12. Nc3 Bd6 13. Bg5
+Qd7 14. Be6 Qc6 15. Rfe1 Nf8 16. Rad1 N8d7 17. Nd5 Rf8 18. f4 h6 19. fxe5
+Bc5+ 20. Kh1 O-O-O 21. exf6 1-0
+

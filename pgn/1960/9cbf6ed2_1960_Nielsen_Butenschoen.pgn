@@ -1,0 +1,19 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Nielsen, J."]
+[Black "Butenschoen, F."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "9cbf6ed2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3
+Bxc3+ 8. Nxc3 d5 9. exd5 exd5 10. Bd3 Qe7+ 11. Qe2 Qxe2+ 12. Nxe2 O-O 13.
+Bf4 Re8 14. O-O-O Bd7 15. Rhe1 Re6 16. f3 Rc8 17. Bf5 Re7 18. Ng3 Rxe1 19.
+Rxe1 Nd4 20. Bxd7 Nxd7 21. c3 Ne6 22. Be3 a5 23. Rd1 Nf6 24. Nf5 Kf8 25. g4
+h6 26. h4 Rc6 27. g5 hxg5 28. hxg5 Nd7 29. Rxd5 Ndc5 30. Kc2 b6 31. Rd6 1-0
+

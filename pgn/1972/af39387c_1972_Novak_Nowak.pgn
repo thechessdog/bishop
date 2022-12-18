@@ -1,0 +1,21 @@
+[Event "Trinec"]
+[Site "Trinec"]
+[Date "1972.01.01"]
+[Round "6"]
+[White "Novak, Ivan"]
+[Black "Nowak, Erwin"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Steinitz variation"]
+[HashCode "af39387c"]
+[Epoch "Bishop"]
+[WhiteID "14900246"]
+[WhiteCountry "SVK"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 f6 5. Bb5 Ne7 6. exd5 Qxd5 7. d4 Bd7 8. Be3
+Nf5 9. c4 Qf7 10. dxe5 Nxe3 11. fxe3 Bc5 12. O-O fxe5 13. Nd4 Qxf1+ 14. Kxf1
+exd4 15. b4 O-O+ 16. Kg1 Nxb4 17. Nd2 c6 18. Nb3 cxb5 19. cxb5 Be7 20. Nxd4 a6
+21. Rc1 axb5 22. Qb3+ Kh8 23. a3 Nc6 24. Nxb5 Rf6 25. Nc7 Rxa3 26. Qxb7 Ra7 27.
+Qb6 Bd8 0-1

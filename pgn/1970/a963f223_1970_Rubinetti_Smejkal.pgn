@@ -1,0 +1,19 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "8"]
+[White "Rubinetti, Jorge"]
+[Black "Smejkal, Jan"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "a963f223"]
+[Epoch "Bishop"]
+[WhiteID "100161"]
+[WhiteCountry "ARG"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+dxc4 9. Bxc4 Qxc5 10. Bb3 Nc6 11. h3 Bf5 1/2-1/2

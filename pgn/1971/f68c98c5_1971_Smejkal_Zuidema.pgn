@@ -1,0 +1,26 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1971.07.01"]
+[Round "1"]
+[White "Smejkal, Jan"]
+[Black "Zuidema, Coen"]
+[Result "1-0"]
+[ECO "A12"]
+[Opening "English"]
+[Variation "New York (London) defensive system"]
+[HashCode "f68c98c5"]
+[Epoch "Bishop"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+[BlackID "1000101"]
+[BlackCountry "NED"]
+
+1. c4 Nf6 2. Nf3 c6 3. b3 d5 4. Bb2 Bf5 5. d3 Nbd7 6. g3 h6 7. Bg2 e6 8. O-O
+Be7 9. Nbd2 O-O 10. Qc2 Bh7 11. Bc3 Qb8 12. Qb2 Bd6 13. e4 dxe4 14. Nxe4 Bxe4
+15. dxe4 e5 16. Nh4 b5 17. Qe2 b4 18. Bb2 Re8 19. Rad1 Bf8 20. f4 Qb6+ 21. Kh1
+Rad8 22. Nf5 Re6 23. Bh3 Ne8 24. Ne3 Re7 25. Nf5 Re6 26. Ne3 Re7 27. fxe5 Nxe5
+28. Nf5 Re6 29. Ne3 Re7 30. c5 Qc7 31. Nf5 Re6 32. Nd6 Re7 33. Nf5 Re6 34. Rxd8
+Qxd8 35. Nd6 Rxd6 36. cxd6 Bxd6 37. Qa6 Qc7 38. Rc1 c5 39. Bxe5 Bxe5 40. Qb5
+Qe7 41. Qxc5 Bd6 42. Qd4 Nf6 43. Rc6 Be5 44. Qc5 Qxc5 45. Rxc5 Bd6 46. Rc6 Be5
+47. Rc4 Bd6 48. Rc6 Be5 49. Rc8+ Kh7 50. Kg2 g5 51. Kf3 h5 52. Bf5+ Kg7 53. h3
+Ng8 54. Rc4 Bd6 55. Rd4 Be7 56. e5 Bf8 57. Ke4 Ne7 58. Rd7 1-0

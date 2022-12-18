@@ -1,0 +1,19 @@
+[Event "DDR-ch 18th"]
+[Site "Schwerin"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Pietzsch, Wolfgang"]
+[Black "Baumbach, Friedrich, Dr."]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "44620795"]
+[Epoch "Bishop"]
+[BlackID "4611721"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. Nd5 e4 7. Nh4 Re8 8. O-O
+Bc5 9. d3 exd3 10. Qxd3 Ne5 11. Qc2 c6 12. Nc3 Bb6 13. b3 d5 14. cxd5 Nxd5 15.
+Nxd5 cxd5 16. Bb2 d4 17. Rad1 Bg4 0-1

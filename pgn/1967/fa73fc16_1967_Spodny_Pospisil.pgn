@@ -1,0 +1,19 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Spodny, J."]
+[Black "Pospisil, L."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "fa73fc16"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Kf8 8.
+Rh3 c5 9. Rf3 Nc6 10. Qf4 Qe8 11. Bh6 f5 12. Bxg7+ Kxg7 13. Rg3+ Kf7 14.
+Qh6 Bf8 15. Qh5+ Ke7 16. Qg5+ Kf7 17. Be2 Ne7 18. Bh5+ Ng6 19. Bxg6+ hxg6
+20. Qxg6+ Ke7 21. Qg5+ Kf7 22. Nxd5 exd5 23. Qxf5+ Ke7 24. Qg5+ Ke6 25. Ne2
+Bh6 26. Nf4+ Kf7 27. Qg6+ Ke7 28. Qd6+ 1-0
+

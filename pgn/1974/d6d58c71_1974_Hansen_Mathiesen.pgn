@@ -1,0 +1,16 @@
+[Event "Bylderup"]
+[Site "Bylderup"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Mathiesen, Christia"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Damiano's defence"]
+[HashCode "d6d58c71"]
+[Epoch "Bishop"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 f6 3. Nxe5 fxe5 4. Qh5+ Ke7 5. Qxe5+ Kf7 6. Bc4+ Kg6 7. Qf5+
+Kh6 8. d4+ g5 9. h4 d6 10. hxg5+ Kg7 11. Qf7# 1-0

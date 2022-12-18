@@ -1,0 +1,19 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Thorfasson"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "c89277a1"]
+[Epoch "Bishop"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. dxc5 Bxc5 5. Nb3 Bb6 6. exd5 exd5 7. Nf3 Nf6 8.
+Bb5+ Nc6 9. Qe2+ Ne4 10. Be3 O-O 11. O-O-O Re8 12. Rhe1 Bg4 13. h3 Bh5 14. c4
+Nb4 15. Bxe8 Qxe8 16. Na1 Nxa2+ 17. Kc2 Qa4+ 18. b3 Qa3 19. Bd4 Nb4+ 20. Kb1
+Bxd4 0-1

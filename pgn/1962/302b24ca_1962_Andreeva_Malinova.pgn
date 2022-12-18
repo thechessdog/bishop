@@ -1,0 +1,20 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Andreeva"]
+[Black "Malinova"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "302b24ca"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 b5 8.
+Bd3 Bb7 9. Qe2 Qc7 10. g4 g6 11. Bh4 Bg7 12. Bf2 Nc5 13. a3 O-O 14. h4 d5
+15. e5 Nfe4 16. Bxe4 Nxe4 17. Nxe4 dxe4 18. Be3 Rfd8 19. h5 Qc4 20. Qxc4
+bxc4 21. hxg6 hxg6 22. Rh2 Bd5 23. O-O-O e6 24. Rhd2 Rdb8 25. Ne2 Rb7 26.
+Nc3 Rab8 27. Nxd5 exd5 28. Bd4 Bf8 29. Rh2 Bg7 30. Bc3 Rd8 31. Bd4 Rdb8 32.
+f5 1-0
+

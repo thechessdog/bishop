@@ -1,0 +1,18 @@
+[Event "Horsens"]
+[Site "Horsens"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Balling, Sven"]
+[Black "Pedersen, Anton"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "8aa9b872"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. Bd2 d6 6. Nc3 Nxd2 7. Qxd2
+dxe5 8. Qxd8+ Kxd8 9. O-O-O+ Bd7 10. Ng5 Ke8 11. Nxf7 Rg8 12. Ng5 h6 13.
+Nge4 Nd4 14. e3 Ne6 15. Rd5 Be7 16. Rxe5 c6 17. f4 Rf8 18. Be2 b6 19. Rd1
+Nc7 20. Nd6+ Kd8 21. Nb7+ Ke8 22. Bh5+ 1-0
+

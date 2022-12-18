@@ -1,0 +1,19 @@
+[Event "Kaliningrad"]
+[Site "Kaliningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Pavlovichev"]
+[Black "Ruban"]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "5fc099e0"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 Nf6 6. Bc4 Qc6 7. Nb3 b5
+8. Be2 c4 9. a4 a6 10. axb5 axb5 11. Ne5 Qb7 12. Bf3 Nd5 13. Rxa8 Qxa8 14.
+Nd2 Bb7 15. O-O Nf6 16. Qe2 Bxf3 17. Ndxf3 Nbd7 18. Ng5 Nxe5 19. dxe5 Nd5
+20. Qh5 g6 21. Qf3 Qb7 22. Ne4 Be7 23. Bh6 Qc7 24. Bg7 Rg8 25. Bf6 Kd7 26.
+Bxe7 Kxe7 27. Nf6 Rd8 28. Nxd5+ Rxd5 29. Qf6+ Ke8 30. Ra1 Qa5 1/2-1/2
+

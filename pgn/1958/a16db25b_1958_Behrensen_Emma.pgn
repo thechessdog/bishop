@@ -1,0 +1,17 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Behrensen, Jorge"]
+[Black "Emma, Jaime"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "a16db25b"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 Bg4 4. e3 e5 5. dxe5 dxc4 6. Qxd8+ Rxd8 7. Bxc4 Nxe5
+8. Be2 Bxf3 9. gxf3 Nd3+ 10. Bxd3 Rxd3 11. Ke2 Rd7 12. e4 Bc5 13. Nc3 Ne7 14.
+Be3 Bxe3 15. fxe3 Ng6 16. f4 f6 1/2-1/2

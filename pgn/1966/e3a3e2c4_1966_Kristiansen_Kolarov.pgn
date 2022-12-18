@@ -1,0 +1,15 @@
+[Event "Havana olm"]
+[Site "Havana olm"]
+[Date "1966.10.01"]
+[Round "1"]
+[White "Kristiansen, Erling"]
+[Black "Kolarov, Atanas S"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Berlin defence, 6.Bc4"]
+[HashCode "e3a3e2c4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. d4
+Nh5 9. Nxg4 Ng3 10. Rh2 Qe7+ 11. Kf2 h5 12. Ne5 Bxe5 13. dxe5 Qc5+ 0-1

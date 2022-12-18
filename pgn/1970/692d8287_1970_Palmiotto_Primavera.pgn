@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Palmiotto"]
+[Black "Primavera"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "692d8287"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8.
+Bh4 Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bxf6 gxf6 12. Be2 Nc6 13. Nxc6 bxc6 14.
+O-O Be7 15. Kh1 Qa5 16. Rf3 Ra7 17. Qe3 Rd7 18. f5 e5 19. Qb6 Qxb6 20. Rxb6
+d5 21. Rxc6 Bb7 22. exd5 Bxc6 23. dxc6 Ra7 24. Nd5 Bd8 25. Rb3 O-O 26. Rb7
+Ra8 27. c7 Bxc7 28. Rxc7 1-0
+

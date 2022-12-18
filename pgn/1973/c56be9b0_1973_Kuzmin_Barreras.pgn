@@ -1,0 +1,19 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kuzmin, Gennadi P"]
+[Black "Barreras, Alberto"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "c56be9b0"]
+[Epoch "Bishop"]
+[WhiteID "14100070"]
+[WhiteCountry "UKR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. h3 c6 7. O-O Qc7 8. a4 a5
+9. Be3 Na6 10. Qd2 Re8 11. Bh6 Bh8 12. Ng5 e5 13. dxe5 dxe5 14. Bc4 Re7 15.
+Rad1 Bd7 16. f4 exf4 17. Rxf4 Nc5 18. Qf2 Qe5 19. Nf3 Qh5 20. Rh4 Ncxe4 21.
+Nxe4 Nxe4 22. Rxe4 Rxe4 23. Bxf7+ 1-0

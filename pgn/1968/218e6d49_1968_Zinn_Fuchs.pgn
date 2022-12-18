@@ -1,0 +1,20 @@
+[Event "Lasker mem"]
+[Site "Berlin-Ost"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Zinn, Lothar"]
+[Black "Fuchs, Reinhart"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "218e6d49"]
+[Epoch "Bishop"]
+[BlackID "4611357"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bg5 Nbd7 7. Qf3 c5 8.
+Rd1 Qa5 9. Bxf6 Nxf6 10. Ne2 cxd4 11. Rxd4 O-O 12. a3 Bxc3+ 13. Nxc3 e5 14. Rb4
+Rb8 15. O-O Nxe4 16. Qxe4 Bd7 17. Re1 Bc6 18. Qf5 Rfe8 19. Rh4 h6 20. h3 Re6
+21. Re3 Rbe8 22. Rg4 1/2-1/2

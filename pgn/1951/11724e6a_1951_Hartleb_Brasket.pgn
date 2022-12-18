@@ -1,0 +1,18 @@
+[Event "USA-op52"]
+[Site "Forth Worth"]
+[Date "1951.??.??"]
+[Round "10"]
+[White "Hartleb, G."]
+[Black "Brasket, Curt J"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "11724e6a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 d5 7. cxd5 Nxd5
+8. Bd2 Nc6 9. Nxd5 Qxd5 10. e4 Qd6 11. O-O-O e5 12. Bg5 Bd4 13. Bb5 Bd7 14.
+Bxc6 Rc8 15. Nxd4 exd4 16. Kb1 bxc6 17. Qc4 c5 18. Qd5 Qa6 19. Qe5+ Be6 20.
+a3 f6 0-1
+

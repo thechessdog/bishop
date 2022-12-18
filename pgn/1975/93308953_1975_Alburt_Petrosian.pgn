@@ -1,0 +1,20 @@
+[Event "Erevan ch-URS"]
+[Site "Erevan ch-URS"]
+[Date "1975.12.01"]
+[Round "1"]
+[White "Alburt, Lev"]
+[Black "Petrosian, Tigran"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "classical variation"]
+[HashCode "93308953"]
+[Epoch "Bishop"]
+[WhiteID "2000156"]
+[WhiteCountry "USA"]
+[BlackID "13300849"]
+[BlackCountry "GEO"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. dxc5 Qxd1+ 7. Kxd1 Bxc5
+8. Ke2 Ke7 9. Rd1 Nc6 10. Nc3 a6 11. a3 Bd7 12. Bd2 Rhd8 13. Be1 Be8 14. Rxd8
+Rxd8 15. Rd1 Rxd1 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "USSR ch prel"]
+[Site "USSR ch prel"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Gratvol"]
+[Black "Guskov"]
+[Result "0-1"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "e0453929"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+Na6 9. O-O-O Nc5 10. Kb1 f5 11. Bxc5 dxc5 12. d6 Be6 13. dxc7 Qxc7 14. Qd6
+Qf7 15. Qxc5 Rac8 16. Qxa7 fxe4 17. fxe4 Qxf1 18. Rxf1 Rxf1+ 19. Kc2 Bh6
+20. b3 Nf4 21. h4 Nxg2 22. h5 Ne1+ 23. Kb2 Nd3+ 24. Ka3 Rff8 0-1
+

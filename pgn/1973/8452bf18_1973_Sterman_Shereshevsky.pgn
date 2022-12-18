@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sterman"]
+[Black "Shereshevsky, Mikha"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "8452bf18"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bh5 7. d3 Bd6
+8. Be3 c5 9. a4 a5 10. Nbd2 f6 11. c3 Ne7 12. Qc2 Nc6 13. g4 Bf7 14. Nh4 h5
+15. Nf5 Bf8 16. f3 hxg4 17. hxg4 g6 18. Ng3 Qd7 19. Rad1 O-O-O 20. Nc4 Be7
+21. Kg2 Be6 22. Qf2 f5 23. f4 exf4 24. Bxf4 fxg4 25. Qe3 Rh3 26. b3 Bh4 27.
+Qxc5 g5 28. Ne5 gxf4 29. Nxd7 f3+ 30. Kf2 Bxg3+ 31. Ke3 Rh2 32. d4 Re2+ 33.
+Kd3 Rxd7 34. Rd2 Bd6 35. Qh5 Bxb3 36. Rxe2 Ne5+ 37. Kd2 fxe2 38. Kxe2 Bc4+
+39. Ke3 Bxf1 40. dxe5 Bc5+ 41. Kf4 Rd8 42. Qxg4+ Kb8 43. Qg6 Bc4 44. e6 Bb3
+45. Qg5 Rf8+ 46. Kg3 b6 47. Qg6 Bxa4 48. c4 Kb7 49. e5 Bc6 0-1
+

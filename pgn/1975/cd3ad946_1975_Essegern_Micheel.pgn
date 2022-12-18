@@ -1,0 +1,24 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Essegern, K."]
+[Black "Micheel"]
+[Result "0-1"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "Moeller (Therkatz) attack"]
+[HashCode "cd3ad946"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3
+Nxe4 8. O-O Bxc3 9. d5 Bf6 10. Re1 Ne7 11. Rxe4 O-O 12. d6 cxd6 13. Bg5 Nc6
+14. Qd5 Ne5 15. Nxe5 dxe5 16. Bxf6 Qxf6 17. Rd1 d6 18. Qxd6 Bf5 19. Ree1
+Rfd8 20. Qb4 b6 21. Bd5 Rac8 22. Be4 Be6 23. b3 Rc5 24. Bf3 h6 25. Rxd8+
+Qxd8 26. Rd1 Qc7 27. Qd2 Kh7 28. Be4+ g6 29. h4 f5 30. Bb1 Rd5 31. Qe2
+Rxd1+ 32. Qxd1 a5 33. h5 e4 34. hxg6+ Kxg6 35. Bc2 Qc5 36. Qe2 Bd7 37. g4
+Qd4 38. gxf5+ Bxf5 39. Qb5 Qf6 40. Qe8+ Kg7 41. Kf1 Qd6 42. Qb5 Qf4 43. Qe8
+Bh3+ 44. Ke1 Qc1+ 45. Bd1 Qc3+ 46. Ke2 Qd3+ 47. Ke1 Qf1+ 48. Kd2 Qxf2+ 49.
+Kc1 Qf6 50. Qxe4 Bf5 51. Qg2+ Qg5+ 52. Qxg5+ hxg5 53. Kd2 Kf6 54. a4 Be4
+55. Kc3 Kf5 0-1
+

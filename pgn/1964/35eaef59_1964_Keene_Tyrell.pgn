@@ -1,0 +1,19 @@
+[Event "Whitby"]
+[Site "Whitby"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Keene, Raymond D"]
+[Black "Tyrell"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "35eaef59"]
+[Epoch "Bishop"]
+[WhiteID "400211"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 exd5 7. cxd5 O-O 8. e3
+d6 9. Bd3 g5 10. Bg3 Nxd5 11. Ne2 Qf6 12. O-O Nxc3 13. bxc3 Bxc3 14. Rc1 Ba5
+15. Bxd6 Rd8 16. Bxc5 Nc6 17. Nd4 Ne5 18. Bb1 b6 19. Ba3 Ba6 20. Qh5 Bd3 21.
+Bxd3 Nxd3 22. Rc6 1-0

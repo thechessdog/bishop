@@ -1,0 +1,17 @@
+[Event "Nijmegen"]
+[Site "Nijmegen"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Speijer, Nico Bram"]
+[Black "Soultanbeieff, Vict"]
+[Result "0-1"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Reti variation"]
+[HashCode "3e25ce15"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Qe2 Bf5 6. Nd2 Bb4 7. c3 O-O 8.
+dxe4 Nxe4 9. cxb4 Re8 10. Nxe4 Rxe4 11. Be3 Qe7 12. Kf2 Nd7 13. Qf3 Re8 14.
+Bd2 Nf6 15. h3 Rd4 16. Be3 Ne4+ 17. Ke2 Qxb4 0-1
+

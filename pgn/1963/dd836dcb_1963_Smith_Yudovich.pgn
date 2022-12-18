@@ -1,0 +1,17 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Smith, O."]
+[Black "Yudovich, Mikhail Sr"]
+[Result "1/2-1/2"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "dd836dcb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 Be7 8.
+O-O O-O 9. Be3 Nxd4 10. Bxd4 Bd7 11. Qe2 Bc6 12. Rad1 Qa5 13. f4 e5 14. fxe5
+dxe5 15. Rf5 Bc5 16. Bf2 Qb6 17. Rf1 Bxf2+ 18. R1xf2 Qd4 19. h3 Rad8 20. Kh2
+Rd6 21. R5f3 1/2-1/2

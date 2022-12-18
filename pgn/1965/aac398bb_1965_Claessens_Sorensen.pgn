@@ -1,0 +1,19 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Claessens, P."]
+[Black "Sorensen, Henrik"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "aac398bb"]
+[Epoch "Bishop"]
+[BlackID "1400827"]
+[BlackCountry "DEN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nbd7 7. Qe2 c5 8. e5
+Ne8 9. Be3 cxd4 10. Bxd4 dxe5 11. Bxe5 Nxe5 12. Nxe5 Qd4 13. Qe4 Qc5 14. O-O-O
+Nd6 15. Qe2 Qa5 16. a3 Be6 17. Nb5 Rfc8 18. Nxd6 exd6 19. Nf3 b5 20. Be4 b4 21.
+Bxa8 Bxb2+ 22. Kd2 b3+ 23. Ke3 Rxc2 24. Nd2 Qc5+ 25. Kf3 Rc3+ 26. Ke4 Bf5# 0-1

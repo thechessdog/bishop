@@ -1,0 +1,18 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kaluzny, W."]
+[Black "Spyra, Wojciech"]
+[Result "0-1"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "c741b95c"]
+[Epoch "Bishop"]
+[BlackID "1103865"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Ba6 6. Nf3 Bxc3+ 7. bxc3 d5 8.
+Ne5 dxc4 9. Bxc4 Bxc4 10. Nxc4 Qd5 11. Qf3 Qxc4 12. Qxa8 O-O 13. Bd2 Nc6 14.
+Qb7 Nd5 15. e4 Nxc3 16. Bxc3 Qxc3+ 0-1

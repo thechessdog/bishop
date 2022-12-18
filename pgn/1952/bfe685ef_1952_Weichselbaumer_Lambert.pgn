@@ -1,0 +1,17 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Weichselbaumer, E."]
+[Black "Lambert, Hans"]
+[Result "1-0"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.a3"]
+[HashCode "bfe685ef"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Be7 6. Bg5 Nbd7 7. e3 c6 8. Nf3
+h6 9. Bh4 b6 10. cxd5 exd5 11. Bd3 O-O 12. O-O Bb7 13. Rac1 c5 14. Rfd1 Bd6 15.
+Bf5 Qe8 16. dxc5 Bxc5 17. Bxd7 Qxd7 18. Bxf6 gxf6 19. b4 Be7 20. Nd4 Rfc8 21.
+Nf5 Bf8 22. e4 Rc7 23. Qe2 Kh7 24. Qg4 Rd8 25. Rd3 dxe4 26. Rg3 1-0

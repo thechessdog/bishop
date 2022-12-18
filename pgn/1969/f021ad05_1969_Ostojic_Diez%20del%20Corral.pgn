@@ -1,0 +1,21 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "3"]
+[White "Ostojic, Predrag"]
+[Black "Diez del Corral, Jesus"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "f021ad05"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "ESP"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qa5 8. Kf2
+b5 9. g4 b4 10. Ne2 Qb6 11. Kg2 cxd4 12. cxd4 Ba6 13. f5 Be7 14. Nf4 Na5 15.
+Bxa6 Qxa6 16. Qa4 Rd8 17. a3 g5 18. Nh5 Qe2+ 19. Kg3 exf5 20. Ng7+ Kf8 21. Nxf5
+h5 22. Qd1 Qxd1 23. Rxd1 hxg4 24. Kxg4 Nb3 25. Nxe7 Kxe7 26. Bxg5+ f6 27. exf6+
+Kf7 28. axb4 Nxa1 29. Rxa1 Ra8 30. Kf5 Rh3 31. Ra3 Rh7 32. h4 Kg8 33. Ne5 Rf8
+34. Rg3 Rg7 35. Nxd7 1-0

@@ -1,0 +1,18 @@
+[Event "Dubna"]
+[Site "Dubna"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Kupreichik, Viktor D"]
+[Result "0-1"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "4f190de2"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "BLR"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 e4 5. Bg5 Nf6 6. d5 exf3 7. dxc6 fxg2 8.
+cxd7+ Nxd7 9. Bxd8 gxh1=Q 10. Bxc7 Qc6 11. Bg3 Bb4 12. Qb3 Bxc3+ 13. Qxc3 O-O
+14. e3 Nf6 15. Be5 Be6 0-1

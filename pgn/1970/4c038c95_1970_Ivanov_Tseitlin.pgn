@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ivkov, Borislav"]
+[Black "Tseitlin, Mikhail S"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "4c038c95"]
+[Epoch "Bishop"]
+[BlackCountry "BLR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 c5 7. dxc5 Qa5 8. cxd5
+Nxd5 9. Qxd5 Bxc3+ 10. bxc3 Qxc3+ 11. Qd2 Qxa1 12. O-O Qf6 13. Bb2 Qc6 14. Bc4
+Nd7 15. e4 e5 16. Bd5 Qf6 17. Rb1 Re8 18. Ng5 Re7 19. Ba3 h6 20. Nf3 Kg7 21. h4
+Re8 22. Bc1 Rh8 23. Bb2 Re8 24. Rc1 Rb8 25. Qe3 Kh7 26. c6 bxc6 27. Rxc6 Rxb2
+28. Rxf6 Nxf6 29. Qxa7 Bb7 30. Bxf7 Ng4 31. Bc4 Re7 32. Qa3 Rb1+ 33. Bf1 Rf7
+34. Nd2 Re1 35. f3 Nf6 36. Kf2 Rd1 37. Ke2 Ra1 38. Qb2 Ba6+ 39. Kf2 Rd1 40. Qb3
+Rxd2+ 41. Ke3 Rfd7 42. Bxa6 Nh5 43. Bf1 Nf4 44. Qb5 g5 45. g3 R7d6 46. a4 Ra2
+47. Qb3 Rd3+ 48. Qxd3 Nxd3 49. Bxd3 gxh4 50. gxh4 Kg6 51. f4 Kf6 52. h5 Rxa4
+53. fxe5+ Kxe5 54. Kd2 Kd4 55. e5 Ra2+ 56. Bc2 Ra5 57. Bg6 Rxe5 58. Bf7 Rf5 0-1

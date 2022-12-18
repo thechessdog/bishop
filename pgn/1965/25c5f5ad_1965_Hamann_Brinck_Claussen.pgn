@@ -1,0 +1,23 @@
+[Event "radio"]
+[Site "radio"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Hamann, Svend"]
+[Black "Brinck-Claussen, Bjorn"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "25c5f5ad"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[BlackID "1400134"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 c5 2. b3 Nf6 3. Bb2 Nc6 4. Nf3 e6 5. e3 Be7 6. d4 cxd4 7. exd4 d5 8. Nbd2
+O-O 9. Bd3 b6 10. Rc1 Ba6 11. O-O Rc8 12. Qe2 Re8 13. Rfd1 g6 14. h3 Bf8 15.
+Qe3 dxc4 16. bxc4 Bg7 17. Bf1 Na5 18. Ne5 Nd7 19. Ne4 Qc7 20. c5 Bxf1 21. Kxf1
+bxc5 22. Nxc5 Nxe5 23. dxe5 Qb6 24. Bd4 Nc6 25. Nd7 Qb5+ 26. Kg1 Nxd4 27. Rxc8
+Rxc8 28. Rxd4 Rd8 29. Nf6+ Bxf6 30. exf6 Rxd4 31. Qxd4 Qb1+ 32. Kh2 Qb8+ 33. g3
+Qb6 34. Qf4 h6 35. h4 Kh7 36. Kg1 Qc5 37. Qb8 Qc1+ 38. Kh2 Qc5 1/2-1/2

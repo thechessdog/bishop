@@ -1,0 +1,19 @@
+[Event "Strasbourg ch20-DDR"]
+[Site "Strasbourg ch20-DDR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Paehtz, Hannelore"]
+[Black "Hoelzlein, C."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "0e4175db"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5 7. Nde2 Be6 8.
+Bg5 h6 9. Bxf6 Qxf6 10. O-O Nc6 11. f4 exf4 12. Nd5 Bxd5 13. exd5 Ne5 14. Nxf4
+Qd8 15. Qe2 Be7 16. Rae1 Bg5 17. Qe4 Qb6+ 18. Kh1 O-O-O 19. Rb1 g6 20. c4 Rhe8
+21. c5 dxc5 22. b4 Nxd3 23. Qxd3 cxb4 24. Qc4+ Kb8 25. Rxb4 Qd6 26. Rfb1 Re7
+27. Nd3 Rc8 28. Qb3 Be3 29. Rxb7+ Ka8 30. Rb4 Ba7 31. Rb7 Rb8 32. Rxb8+ Bxb8
+33. Qc4 Qxh2# 0-1

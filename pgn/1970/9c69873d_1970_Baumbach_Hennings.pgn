@@ -1,0 +1,20 @@
+[Event "Freiberg ch19-DDR"]
+[Site "Freiberg ch19-DDR"]
+[Date "1970.01.01"]
+[Round "2"]
+[White "Baumbach, Friedrich, Dr."]
+[Black "Hennings, Artur"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system"]
+[HashCode "9c69873d"]
+[Epoch "Bishop"]
+[WhiteID "4611721"]
+[WhiteCountry "GER"]
+[BlackID "4611594"]
+[BlackCountry "GER"]
+
+1. c4 c6 2. Nf3 Nf6 3. Nc3 d5 4. e3 g6 5. d4 Bg7 6. Qb3 O-O 7. Bd2 e6 8. Rc1
+Nbd7 9. Bd3 b6 10. O-O Bb7 11. cxd5 exd5 12. e4 dxe4 13. Nxe4 c5 14. Bg5
+1/2-1/2

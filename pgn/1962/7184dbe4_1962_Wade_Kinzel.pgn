@@ -1,0 +1,15 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Wade, Robert Graham"]
+[Black "Kinzel, Alfred"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "7184dbe4"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 c6 4. Bxf6 gxf6 5. e3 e5 6. Qh5 e4 7. f3 f5 8. fxe4
+fxe4 9. Qe5+ 1-0

@@ -1,0 +1,17 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1957.01.01"]
+[Round "12"]
+[White "Abramovich Furman, Semyon"]
+[Black "Bronstein, David Ionovich"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "a81d17e8"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Bd7 9. dxc5 Bc6 10. Nb5 a6 11. Nbd4 Bxc5 12. b3 Bd5 13. Bxd5 Qxd5 14. Bb2 Nbd7
+15. Rc1 Rac8 16. Ne2 Be7 1/2-1/2

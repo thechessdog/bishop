@@ -1,0 +1,19 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Podkrajsek"]
+[Black "Cakir"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "6addb774"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Qg3 h6 11. Bh4 g5 12. fxg5 Rg8 13. Nf3 Ne5 14.
+Be2 Nxf3 15. Bxf3 hxg5 16. Bxg5 Qc5 17. e5 Nd7 18. h4 Bxg5+ 19. hxg5 Qe3+
+20. Kb1 d5 21. Nxd5 Qc5 22. Nf6+ Nxf6 23. gxf6 Qf8 24. Bc6+ bxc6 25. Qd3
+1-0
+

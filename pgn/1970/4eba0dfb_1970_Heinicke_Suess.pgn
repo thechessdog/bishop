@@ -1,0 +1,19 @@
+[Event "FRG-ch"]
+[Site "Voelklingen"]
+[Date "1970.??.??"]
+[Round "4"]
+[White "Heinicke, Herbert"]
+[Black "Suess, Alois"]
+[Result "0-1"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "4eba0dfb"]
+[Epoch "Bishop"]
+[BlackID "4601521"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. c4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nc6 7. Nc3 a6 8. h3
+Rb8 9. Be3 Bd7 10. Rc1 Re8 11. d5 Na5 12. Nd2 c5 13. a3 b5 14. cxb5 axb5 15. b4
+cxb4 16. axb4 Nc4 17. Bd4 Qc8 18. Ncb1 Bxh3 19. Nxc4 Bxg2 20. Ne3 Qh3 0-1

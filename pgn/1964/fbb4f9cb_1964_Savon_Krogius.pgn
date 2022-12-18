@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Savon, Vladimir"]
+[Black "Krogius"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[HashCode "fbb4f9cb"]
+[Epoch "Bishop"]
+[WhiteID "14138786"]
+[WhiteCountry "UKR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nd2 Ne7 6. g3 e5 7. N4b3 d5 8. exd5
+Qxd5 9. Nc4 Qxh1 10. Nd6+ Kd7 11. Ne4+ Ke8 12. Nd6+ Kd7 13. Nxf7+ Ke8 14. Nd6+
+Kd7 15. Be3 Nd5 16. Qg4+ Kxd6 17. Qxc8 Nxe3 18. fxe3 Ke7 19. O-O-O Qc6 20. Qd8+
+Kf7 21. Na5 Qc5 22. Bc4+ Kg6 23. Bd3+ e4 24. Bxe4+ Kh6 25. Bxb7 Ra7 26. Qxb8
+Qxe3+ 27. Kb1 g6 28. Qd8 Qe5 29. Qh4+ 1-0

@@ -1,0 +1,24 @@
+[Event "DEN-ch"]
+[Site "Frederiksberg"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Jensen, Allan"]
+[Black "Fedder, Steen"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "f2e54881"]
+[Epoch "Bishop"]
+[WhiteID "1401181"]
+[BlackID "1400126"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qc7 10. Qg3 b4 11. Nce2 g6 12. Bh6 e5 13. Nf5 gxf5 14. Bxf7+ Kd8 15.
+Bg7 Nxe4 16. Qd3 Nc5 17. Qd1 Rf8 18. Bxf8 Bxf8 19. Bd5 Ra7 20. c3 bxc3 21. Nxc3
+Nc6 22. a3 Nd4 23. f4 Be6 24. fxe5 dxe5 25. Bxe6 Nxe6 26. Rxf5 Qg7 27. Rf3 Rd7
+28. Rg3 Qf7 29. Qa4 Bd6 30. Rf1 Nf4 31. Qxa6 Bc7 32. Kh1 Nf5 33. Rgf3 Nh4 34.
+R3f2 Qg6 35. Qa8+ Ke7 36. g3 Bb6 37. Rxf4 exf4 38. Rxf4 Qb1+ 39. Nxb1 Rd1+ 40.
+Rf1 Rxf1# 0-1

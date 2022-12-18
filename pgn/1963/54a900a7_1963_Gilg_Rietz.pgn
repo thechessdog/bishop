@@ -1,0 +1,18 @@
+[Event "Rosenheim"]
+[Site "Rosenheim"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Gilg, Karl"]
+[Black "Rietz, W."]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "54a900a7"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. Ng5 d5 8. exd5
+Nd4 9. d3 Nxb3 10. axb3 Nxd5 11. Qf3 f6 12. c4 bxc4 13. dxc4 Nb6 14. Rd1 Bd7
+15. c5 fxg5 16. cxb6 cxb6 17. Bxg5 Be7 18. Bxe7 Kxe7 19. Nc3 Rf8 20. Qd5 Qc7
+21. Qxa8 Rxa8 22. Nd5+ Kd8 23. Nxc7 Kxc7 24. Rac1+ Bc6 25. Rd3 1-0

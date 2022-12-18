@@ -1,0 +1,18 @@
+[Event "Albuquerque"]
+[Site "Albuquerque"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Barry"]
+[Black "Sands"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "cb244b9c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nc6 10. Be2 b5 11. e5 Bb7 12. Nxe6 fxe6 13. exf6 gxf6 14.
+Qh5+ Kd7 15. Bh4 Rac8 16. Rhe1 b4 17. Nd5 exd5 18. Bg4+ Kd8 19. Bxc8 Kxc8
+20. Qxd5 a5 21. Bxf6 Ne5 22. Qe6+ 1-0
+

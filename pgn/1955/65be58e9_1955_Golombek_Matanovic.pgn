@@ -1,0 +1,19 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1955.01.01"]
+[Round "10"]
+[White "Golombek, Harry"]
+[Black "Matanovic, Aleksandar"]
+[Result "1/2-1/2"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[HashCode "65be58e9"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[BlackCountry "SRB"]
+[WhiteCountry "ENG"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 c5 6. O-O Nc6 7. d4 d6 8. h3
+Bd7 9. Be3 Qc8 10. dxc5 dxc5 11. Bxc5 Bxh3 12. Qc2 Bxg2 13. Kxg2 Nd7 14. Ba3
+Nde5 15. Nxe5 Bxe5 16. Rac1 Rd8 17. Rfd1 Qg4 18. Qe4 Qxe4+ 19. Nxe4 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "California"]
+[Site "California"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Schmitt"]
+[Black "Capps, C."]
+[Result "0-1"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "0a935d68"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 Nc6
+8. Nf3 Re8 9. O-O e5 10. cxd5 Qxd5 11. c4 Qd6 12. d5 e4 13. dxc6 exf3 14.
+cxb7 Bxb7 15. Qb3 Ng4 16. g3 Bc6 17. Bf5 Ne5 18. Qc2 g6 19. Be4 Qe6 20. Bf5
+gxf5 0-1
+

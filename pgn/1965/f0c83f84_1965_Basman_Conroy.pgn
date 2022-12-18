@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Basman"]
+[Black "Conroy"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack, Wagner gambit"]
+[HashCode "f0c83f84"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e4 Qb6 5. Nbd2 cxd4 6. e5 Nd5 7. Bd3 Nc6
+8. O-O Qc7 9. Re1 d6 10. Nc4 dxe5 11. Nfxe5 b5 12. Nxc6 bxc4 13. Be4 Qxc6
+14. Qxd4 Bb7 15. Rad1 f6 16. Bf5 Ne3 17. Be4 Nd5 1/2-1/2
+

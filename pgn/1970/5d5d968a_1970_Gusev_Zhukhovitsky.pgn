@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gusev"]
+[Black "Zhukhovitsky, Samuel"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Berlin variation"]
+[HashCode "5d5d968a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Nc5 10. Bc2 Bg4 11. h3 Bh5 12. Qe2 Qd7 13. Rd1 Rd8 14. b4 Ne6 15. a4
+Be7 16. axb5 axb5 17. Bd3 Bxf3 18. gxf3 Bg5 19. f4 Bxf4 20. Bxb5 Bxc1 21. Ra6
+O-O 22. Rxc1 Ncd4 23. cxd4 Nxd4 24. Qd3 Qxb5 25. Qxb5 Nxb5 26. Ra5 Rb8 27. Nc3
+Nd4 28. b5 Ne2+ 0-1

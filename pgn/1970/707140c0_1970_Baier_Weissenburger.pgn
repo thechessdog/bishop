@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Baier"]
+[Black "Weissenburger"]
+[Result "0-1"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system"]
+[HashCode "707140c0"]
+[Epoch "Bishop"]
+
+1. d4 g6 2. e4 Bg7 3. c4 d6 4. Nc3 e5 5. Nf3 Bg4 6. d5 a5 7. Be2 Ne7 8. O-O
+O-O 9. Bd2 c5 10. a3 Na6 11. Ne1 Bd7 12. Nd3 f5 13. f4 exf4 14. Bxf4 Bxc3
+15. bxc3 fxe4 16. Ne1 Nf5 17. g4 Ng7 18. Qc2 Qe7 19. Rb1 g5 20. Bg3 Rxf1+
+21. Kxf1 Rf8+ 22. Kg1 Bc8 23. Rb6 Ne8 24. Ng2 Nb8 25. Ne3 Nd7 26. Rb5 Ne5
+27. h3 Nf3+ 28. Kg2 h5 29. Rb1 Nf6 30. Rb6 hxg4 31. hxg4 Nxg4 32. Nxg4 Bxg4
+33. Qc1 Qh7 0-1
+

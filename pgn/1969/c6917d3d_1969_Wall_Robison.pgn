@@ -1,0 +1,16 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Robison"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Caro variation"]
+[HashCode "c6917d3d"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nd4 6. Nxd4 exd4 7. Bxf7+ Kxf7
+8. Qh5+ Kf6 9. Qf5+ Ke7 10. Qe5+ Kf7 11. Qd5+ 1-0

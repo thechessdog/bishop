@@ -1,0 +1,23 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Marić, Rudolf"]
+[Black "Radulov, Ivan"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "03f77aea"]
+[Epoch "Bishop"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Bc4 Nb6 6. Bb3 d6 7. cxd4 dxe5 8.
+Qh5 e6 9. dxe5 Nc6 10. Nf3 Qd3 11. Nc3 Bb4 12. Bd2 Bxc3 13. Bxc3 Nd5 14. Rd1
+Qe4+ 15. Kf1 O-O 16. Ng5 Qf5 17. Bxd5 exd5 18. g4 Qg6 19. Rxd5 h6 20. Qxg6 fxg6
+21. Ne4 Bxg4 22. Nd2 Be6 23. Rd6 Bh3+ 24. Ke2 Rae8 25. Rxg6 Nxe5 26. Rg3 Ng4+
+27. Kd1 Nxf2+ 28. Kc1 g5 29. Rhg1 Bf5 30. Rf3 Bg6 31. Rxf8+ Rxf8 32. Bd4 Rc8+
+33. Bc3 b5 34. a3 a5 35. Rf1 Nd3+ 36. Kd1 b4 37. axb4 axb4 38. Bd4 Bh5+ 39. Nf3
+Rc1+ 40. Ke2 Rxf1 0-1

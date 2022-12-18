@@ -1,0 +1,18 @@
+[Event "US op"]
+[Site "Baltimore"]
+[Date "1948.??.??"]
+[Round "7"]
+[White "Donovan, Jeremiah"]
+[Black "Whitaker, Norman"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "ae0cb4c3"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Bb4 7. Qc2 Nge7
+8. Bg2 O-O 9. O-O Ng6 10. Nb3 Ngxe5 11. Nxe5 Nxe5 12. Rd1 d3 13. exd3 Bg4
+14. Rf1 Nf3+ 15. Bxf3 Bxf3 16. h3 Qd7 17. Kh2 Rae8 18. Be3 Re5 19. Nd4
+Qxh3+ 0-1
+

@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Tukmakov, Vladimir B"]
+[Black "Rashkovsky, Nukhim N"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "d4c40d8d"]
+[Epoch "Bishop"]
+[WhiteID "14100096"]
+[BlackID "4100603"]
+[WhiteCountry "UKR"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qe2
+b5 9. e5 b4 10. exf6 bxc3 11. O-O-O Qb6 12. b3 Qa5 13. Rd3 Qxa2 14. Rxc3 Qa5
+15. f5 Qa1+ 16. Kd2 Qa5 17. Qf3 Ra7 18. Bc4 d5 19. fxe6 Bxe6 20. Qf4 Rb7 21.
+Nxe6 fxe6 22. Qe5 Qb6 23. Bxd5 Rd7 24. f7+ Kxf7 25. Rf1+ Kg8 26. Rc8 Qb4+ 27.
+c3 1-0

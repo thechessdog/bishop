@@ -1,0 +1,21 @@
+[Event "Leipzig olm prel"]
+[Site "Leipzig"]
+[Date "1960.??.??"]
+[Round "2"]
+[White "Garces, Napoleon"]
+[Black "Rossolimo, Nicolas"]
+[Result "0-1"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "2b99a509"]
+[Epoch "Bishop"]
+[WhiteID "3600130"]
+[WhiteCountry "ECU"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. f4 Rb8 12. a4 Nb4 13. Bf3 b6 14. Be2 a6 15. h3
+Bd7 16. Rb1 b5 17. axb5 axb5 18. b3 Nh5 19. Bxh5 Bxc3 20. Be2 f5 21. exf5 Bd4+
+22. Kh1 Bxf5 23. Bg4 Bc2 24. Qf3 Re3 25. Be6+ Kg7 26. Qg4 h5 27. Qg5 Qxg5 28.
+fxg5 Rf8 29. Bb2 Bxb1 30. Bxd4+ cxd4 31. Rxb1 Rf2 32. Nf3 d3 0-1

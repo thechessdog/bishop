@@ -1,0 +1,16 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Dries, J."]
+[Black "Augustin, Josef"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "e31bdb6b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd1 Qg6 9. Nc3 Nge7 10. h4 h5 11. Bg5 b5 12. Bd3 f6 13. Nd5 O-O 14. Be3 Qxg2
+15. Kd2 Nxd5 16. exd5 Nb4 17. Rg1 Qxd5 18. Rxg7+ 1-0

@@ -1,0 +1,19 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Ahman, Harry"]
+[Black "Bjarre, T."]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[HashCode "ac35481f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 exd4 6. e5 Bc5 7. c3 dxc3 8.
+Nxc3 Nge7 9. Bb3 d5 10. O-O h6 11. Nxd5 Nxd5 12. Bxd5 Nb4 13. Bb3 Qe7 14.
+Bd2 c6 15. Bxb4 Bxb4 16. Qd4 b5 17. Qe3 c5 18. Bd5 Ra7 19. Rad1 Rc7 20. a3
+Ba5 21. e6 Bb7 22. Bxb7 Rxb7 23. Rd7 Rxd7 24. exd7+ Kxd7 25. Rd1+ Ke8 26.
+Qd3 Qd8 27. Qe2+ Qe7 28. Qc2 1-0
+

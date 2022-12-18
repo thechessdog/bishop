@@ -1,0 +1,18 @@
+[Event "match"]
+[Site "match"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Mack, A."]
+[Black "Feeny, T."]
+[Result "1-0"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "ed619652"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 e5 5. Nf3 Nxc3 6. bxc3 e4 7. Qa4+ c6
+8. Qxe4+ Be6 9. Nd4 Qd5 10. Bg2 Bc5 11. Nxe6 fxe6 12. O-O O-O 13. Qb1 Qf5
+14. Qxb7 Bxf2+ 15. Kh1 Qg4 16. Bf3 Qh3 17. Rxf2 e5 18. Ba3 e4 19. Bxf8 Qe6
+20. Qxg7# 1-0
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Palmiotto, Fiorenti"]
+[Black "Musolino, Paolo"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "da98539b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 Na5 9. Bc2 c5 10. d4 Qc7 11. h3 O-O 12. Nbd2 cxd4 13. cxd4 Bb7 14. Nf1
+Rac8 15. Bd3 d5 16. dxe5 Nxe4 17. Ne3 Rfd8 18. Qe2 Bc5 19. Nd1 Nc6 20. a4
+Ng3 21. Bxh7+ Kxh7 22. Qc2+ Ne4 23. Ng5+ Kg8 24. Nxe4 Nd4 25. Qxc5 Qxe5 26.
+Qb6 dxe4 27. Ne3 Qb8 28. Rb1 Rc6 29. Qa5 Rg6 30. Kh1 Rd7 31. axb5 Nf3 32.
+gxf3 Qf4 33. bxa6 Qxf3+ 34. Kh2 Qxf2+ 35. Kh1 Qf3+ 36. Kh2 Qg3+ 0-1
+

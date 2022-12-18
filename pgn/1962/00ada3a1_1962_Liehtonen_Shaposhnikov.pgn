@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Liehtonen"]
+[Black "Shaposhnikov"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "00ada3a1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+Qf3 Bb7 9. O-O-O Nbd7 10. Bd3 Be7 11. Rde1 Qb6 12. Nb3 Nc5 13. Nxc5 dxc5
+14. Qf2 Qa5 15. Bxf6 gxf6 16. Kb1 c4 17. Bf1 O-O-O 18. e5 Rhg8 19. Rg1 b4
+20. Nd1 Bc5 21. Ne3 b3 22. a3 Rd2 0-1
+

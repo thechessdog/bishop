@@ -1,0 +1,23 @@
+[Event "HUN-ch20"]
+[Site "Hungary"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Polgar, Istvan"]
+[Result "0-1"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "3db61c39"]
+[Epoch "Bishop"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "700215"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 cxd4 10. exd4 b6 11. Bg5 Bb7 12. Rac1 Rc8 13. Ne5 Qc7 14. Nb5 Qb8
+15. Bf4 Nxe5 16. Bxe5 Qa8 17. f4 Ne8 18. f5 exf5 19. Rxf5 Bd5 20. Rff1 Rd8 21.
+a3 Bxc4 22. Rxc4 Bd6 23. Nxd6 Nxd6 24. Rc7 Ne8 25. Qg4 h5 26. Qg3 f6 27. Rxf6
+Nxc7 28. Rg6 Rf7 29. Rxg7+ Kf8 30. Rxf7+ Kxf7 31. Qg7+ Ke6 32. Qf6+ Kd5 33.
+Bxc7 Rf8 34. Qe5+ Kc4 35. Qxh5 Qe4 36. h3 Qe1+ 37. Kh2 Rf1 38. b3+ Kc3 0-1

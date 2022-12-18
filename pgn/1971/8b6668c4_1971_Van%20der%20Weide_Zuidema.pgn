@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1971.07.01"]
+[Round "9"]
+[White "Van der Weide, Piet"]
+[Black "Zuidema, Coen"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Hamppe-Allgaier gambit, Alapin variation"]
+[HashCode "8b6668c4"]
+[Epoch "Bishop"]
+[WhiteID "1001370"]
+[WhiteCountry "NED"]
+[BlackID "1000101"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. h4 g4 6. Ng5 d6 7. d4 h6 8. Nxf7
+Kxf7 9. Bxf4 Nf6 10. Qd2 Qe7 11. O-O-O Nxe4 12. Nxe4 Qxe4 13. Bc4+ Kg7 14. Rhf1
+Qg6 15. Rde1 Bf5 16. d5 Ne7 17. Re6 Bxe6 18. dxe6 Kg8 19. h5 Qxh5 20. Be3 Bg7
+21. Rf7 Rh7 22. Bd3 Bxb2+ 23. Kxb2 Rxf7 24. exf7+ Kxf7 25. Qb4 Nc6 26. Qc4+ Ke7
+27. Bd2 Qc5 28. Qxg4 Qd4+ 29. Qxd4 Nxd4 30. Bxh6 Rg8 31. Bf1 Nf5 32. Bd2 Ke6
+33. Kc3 Rg3+ 34. Kb2 Ne3 35. Bd3 Nxg2 36. Be4 d5 37. Bh7 Ne3 0-1

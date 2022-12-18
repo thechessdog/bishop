@@ -1,0 +1,17 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "2"]
+[White "Joita, Paul"]
+[Black "Nikolaevsky, Yuri V"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "2f61da8b"]
+[Epoch "Bishop"]
+[BlackID "4102231"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 d5 3. Nf3 exf4 4. exd5 Nf6 5. Bc4 Nxd5 6. Bxd5 Qxd5 7. Nc3 Qf5
+8. d4 Nc6 9. Qe2+ Be7 10. Nb5 O-O 11. Nxc7 Qa5+ 12. Bd2 Qxc7 13. O-O Bg4 0-1

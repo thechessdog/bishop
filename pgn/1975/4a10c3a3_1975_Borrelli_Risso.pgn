@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Borrelli"]
+[Black "Risso"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "4a10c3a3"]
+[Epoch "Bishop"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Nf3 e4 5. Nd4 Nxd4 6. Bxd4 Be7 7. c4 O-O
+8. Qc2 c5 9. Bb2 b6 10. Nc3 Bb7 11. d3 exd3 12. Bxd3 Bxg2 13. Rg1 Bf3 14.
+Rg3 Bc6 15. Nd5 g6 16. O-O-O Nxd5 17. cxd5 Bxd5 18. Bxg6 1-0
+

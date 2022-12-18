@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Chistiakov, Alexander Nikolaevi"]
+[Black "Batiev"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "f56117db"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Nbd2 d5 6. Rb1 Nc6 7. c3 Bd7 8. Bd3
+Be7 9. O-O h6 10. Bh4 O-O 11. Ne5 Rad8 12. f4 Rfe8 13. Bxf6 Bxf6 14. Qh5 Bxe5
+15. fxe5 Rf8 16. Rf3 cxd4 17. exd4 Be8 18. Rg3 Kh8 19. Rxg7 Kxg7 20. Qg4+ Kh8
+21. Qf4 f5 22. exf6 Rd7 23. Qxh6+ Kg8 24. Qg5+ Kh8 25. Rf1 Qc7 26. Qh6+ Kg8 27.
+Rf4 Bh5 28. Qg5+ Rg7 29. fxg7 Rxf4 30. Bh7+ Kxh7 31. g8=Q# 1-0

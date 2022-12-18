@@ -1,0 +1,19 @@
+[Event "POL-ch"]
+[Site "Gdynia"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Filipowicz, Andrzej"]
+[Black "Doda, Zbigniew"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "ec91131d"]
+[Epoch "Bishop"]
+[WhiteID "1100491"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Qc7 7. Nb3 Nf6 8. a3
+b5 9. f4 b4 10. axb4 Bxb4 11. Bd3 Bb7 12. O-O Ne7 13. Na2 a5 14. c3 a4 15. cxb4
+axb3 16. Nc3 Rxa1 17. Qxa1 Qd6 18. Bb5 Qb8 19. Bd3 O-O 20. e5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Rhyl chU16-GB"]
+[Site "Rhyl chU16-GB"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Mann, SJ."]
+[Black "Dentith, J."]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "b8da1b95"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f3 Bg7 8. Nge2
+O-O 9. Be3 Nbd7 10. g4 Ne5 11. Ng3 Qa5 12. Be2 Qb4 13. Rb1 Re8 14. a3 Qa5 15.
+Qd2 a6 16. h4 b5 17. h5 b4 18. Nd1 Rb8 19. g5 Nxh5 20. Nxh5 gxh5 21. Rxh5 c4
+22. axb4 Rxb4 23. Nc3 Rb3 24. Kf2 Nd3+ 25. Bxd3 cxd3 26. Rbh1 Bxc3 27. bxc3
+Qxc3 28. Qxc3 Rxc3 29. Bd4 1-0

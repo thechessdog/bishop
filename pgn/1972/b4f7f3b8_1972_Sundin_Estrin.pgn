@@ -1,0 +1,17 @@
+[Event "corr Wch7"]
+[Site "corr Wch7"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Sundin, A."]
+[Black "Estrin, Yakov Borisovich"]
+[Result "1/2-1/2"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "b4f7f3b8"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 hxg4 10. Bxf7+ Kxf7 11. Ng5+ Ke8 12. c3 Ne6 13. Qxg4 Nxg5 14. Bxg5
+Qd7 15. Qxd7+ Kxd7 1/2-1/2

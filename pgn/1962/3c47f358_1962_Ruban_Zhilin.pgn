@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Ruban, Evgeny"]
+[Black "Zhilin, Vitaly"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "3c47f358"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 e4 10. dxc6 Bg4 11. d4 exf3 12. gxf3 Bh3 13. Re1 Re8 14. Bg5
+Nd5 15. Bd2 Bh4 16. Qxe8+ Qxe8 17. Rxe8+ Rxe8 18. Bxd5 Re2 19. a4 Rxf2 20.
+Na3 Rxd2 21. axb5 axb5 22. Nxb5 g5 23. Nxc7 Bf2+ 24. Kh1 Be3 25. f4 Bxf4
+26. Nb5 Rxh2+ 27. Kg1 Rxb2 28. c4 g4 29. c7 Be3+ 30. Kh1 g3 31. c8=Q+ Bxc8
+32. Bg2 Bh3 0-1
+

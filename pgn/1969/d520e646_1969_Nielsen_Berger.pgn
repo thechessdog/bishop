@@ -1,0 +1,15 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Nielsen, JA."]
+[Black "Berger, P."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "d520e646"]
+[Epoch "Bishop"]
+
+1. b4 d5 2. Bb2 Nf6 3. e3 e6 4. b5 Bd6 5. c4 Nbd7 6. Nf3 O-O 7. d4 dxc4 8.
+Bxc4 Qe7 9. O-O e5 10. a4 e4 11. Nfd2 Nb6 12. Ba2 Bxh2+ 13. Kh1 Ng4 0-1
+

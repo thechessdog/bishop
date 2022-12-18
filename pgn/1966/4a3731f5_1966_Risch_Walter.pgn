@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Risch"]
+[Black "Walter"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "4a3731f5"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nc6 5. e4 Nf6 6. d3 Ng4 7. g3 Bc5
+8. Qe2 Nf2 9. Rg1 Bg4 10. Be3 Nd4 0-1
+

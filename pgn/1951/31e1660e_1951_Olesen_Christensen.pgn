@@ -1,0 +1,19 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Olesen, I."]
+[Black "Christensen, Rudolf"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Steinitz attack"]
+[HashCode "31e1660e"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. e5 d6 3. Nf3 Be7 4. d4 dxe5 5. Nxe5 Nf6 6. Bb5+ Nbd7 7. O-O O-O
+8. Bd3 c5 9. Nxd7 Bxd7 10. dxc5 Bxc5 11. Be3 Bxe3 12. fxe3 Qb6 13. Rxf6
+gxf6 14. Bxh7+ Kh8 15. Qf3 Qxb2 16. c3 Rg8 17. Bxg8 Kxg8 18. Qg4+ Kf8 19.
+Qb4+ Qxb4 20. cxb4 Rc8 21. Nd2 Rc2 22. Nf3 Re2 23. a4 Rxe3 24. b5 e5 25. h4
+Re4 26. Ra3 Be6 27. Kf2 Rb4 28. g3 Bb3 0-1
+

@@ -1,0 +1,17 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Peterson"]
+[Black "Dahl"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "ca30e9cf"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8.
+Bb3 b5 9. a3 O-O 10. f4 Bb7 11. Qe2 Nbd7 12. e5 dxe5 13. fxe5 Bc5 14. Rf4
+Qb6 15. Qe3 g5 0-1
+

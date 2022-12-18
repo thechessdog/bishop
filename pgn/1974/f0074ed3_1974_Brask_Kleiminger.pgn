@@ -1,0 +1,18 @@
+[Event "Espergarde"]
+[Site "Espergarde"]
+[Date "1974.01.01"]
+[Round "2"]
+[White "Brask, Svend"]
+[Black "Kleiminger, Poul"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "f0074ed3"]
+[Epoch "Bishop"]
+[BlackID "1434764"]
+[BlackCountry "DEN"]
+
+1. Nf3 d5 2. b3 g6 3. Bb2 Nf6 4. e3 Bg7 5. c4 c6 6. Be2 O-O 7. O-O Nbd7 8. d3
+Re8 9. Nbd2 e5 10. cxd5 Nxd5 11. Qc2 N7b6 12. Rac1 Bg4 13. h3 Bxf3 14. Bxf3 Qe7
+15. d4 exd4 16. Bxd4 Bxd4 17. exd4 Ne3 1/2-1/2

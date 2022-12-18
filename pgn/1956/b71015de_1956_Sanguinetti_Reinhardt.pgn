@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Sanguinetti"]
+[Black "Reinhardt, Enrique Heinrich"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "b71015de"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 Nxc3 7. bxc3 c5 8.
+e3 Nc6 9. Ne2 Qa5 10. O-O O-O 11. Qb3 Rd8 12. h3 Qa6 13. Re1 Be6 14. Qa3 Na5
+15. Nf4 Bc4 16. Qxc5 e5 17. dxe5 Bf8 0-1

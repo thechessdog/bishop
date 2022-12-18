@@ -1,0 +1,17 @@
+[Event "Brunn"]
+[Site "Brunn"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Kopriva"]
+[Black "Brabic"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "9a87974b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Bd3 Be7 8.
+Be3 Bd7 9. O-O Nc6 10. Qf3 b5 11. e5 Nd5 12. Nxd5 exd5 13. e6 fxe6 14. Qh5+
+Kf8 15. f5 e5 16. Ne6+ 1-0
+

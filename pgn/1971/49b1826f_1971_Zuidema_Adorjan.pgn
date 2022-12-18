@@ -1,0 +1,19 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Zuidema, Coen"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "49b1826f"]
+[Epoch "Bishop"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 b5 6. Bd3 Bb7 7. Qe2 Nd7 8. e5 e6
+9. Bd2 Ne7 1/2-1/2

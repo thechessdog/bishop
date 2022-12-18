@@ -1,0 +1,18 @@
+[Event "Netanya"]
+[Site "Netanya"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Czerniak, Moshe"]
+[Black "Yanofsky, Daniel Abraham"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "5fb3d6ba"]
+[Epoch "Bishop"]
+[WhiteCountry "ISR"]
+[BlackCountry "CAN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 g6 5. Nf3 Bg7 6. O-O Nh6 7. Re1 O-O 8.
+Bg5 Nc6 9. Qc1 Nf5 10. c3 Re8 11. Bf4 Nd6 12. Nbd2 Bf5 13. Bxf5 Nxf5 14. Qc2 e6
+15. Rad1 Rc8 16. Qd3 Nd6 1/2-1/2

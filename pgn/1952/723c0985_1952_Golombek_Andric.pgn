@@ -1,0 +1,18 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Golombek, Harry"]
+[Black "Andric, Dragoslav"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "classical variation, 6.O-O"]
+[HashCode "723c0985"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O Nc6 7. Qe2 a6 8. a4
+Be7 9. dxc5 Bxc5 10. Nc3 O-O 11. e4 Qc7 12. h3 Nd4 13. Nxd4 Bxd4 14. Bd2 Bd7
+15. Qd3 Rfd8 16. Qxd4 Bb5 17. Nxb5 axb5 18. Bd5 exd5 19. e5 Ne4 20. Rfc1 Qd7
+21. axb5 1/2-1/2

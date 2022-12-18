@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Privorotsky, Oleg"]
+[Black "Osnos, Vyacheslav"]
+[Result "0-1"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "35b9cccf"]
+[Epoch "Bishop"]
+[WhiteID "24160490"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Nxd4 10. Qxd4 h6 11. Bh4 a6 12. Bd3 Rb8 13. e5 dxe5 14. Qxe5
+Bd7 15. h3 Qb6 16. Qe2 Rbc8 17. Ne4 Nxe4 18. Qxe4 f5 19. Qe1 Bc5 20. Rf1 Bd4
+21. c3 Qb4 22. Bc2 Rxc3 23. Rxd4 Rxc2+ 24. Kxc2 Qxd4 25. Kb1 Rc8 26. Be7 Kf7
+27. Ba3 Bc6 28. g4 Bg2 29. Rg1 Bxh3 30. g5 hxg5 31. fxg5 e5 32. Bb4 Bg4 33. Bc3
+Qd3+ 34. Ka1 e4 35. Qf2 e3 36. Qg3 Rxc3 37. bxc3 Qxc3+ 38. Kb1 Be2 39. g6+ Ke6
+40. a4 Qb3+ 41. Kc1 Qa3+ 0-1

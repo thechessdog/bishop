@@ -1,0 +1,17 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1971.07.01"]
+[Round "1"]
+[White "Malich, Burkhard, Dr."]
+[Black "Kort, Jacob"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "24d65011"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Qc2 Nf6 5. e3 Nbd7 6. Nc3 a6 7. b3 Bd6 8. Bd3
+O-O 9. Bb2 Re8 10. O-O b5 11. a3 Bb7 12. e4 dxc4 13. bxc4 e5 14. Rad1 Qc7 15.
+Ne2 Rad8 16. h3 exd4 17. Nexd4 bxc4 18. Bxc4 Nxe4 19. Nf5 Ndf6 20. Nxd6 Rxd6
+21. Be5 Rxe5 22. Nxe5 Rxd1 23. Rxd1 Qxe5 24. Rd8+ Ne8 25. Qb2 Qe7 26. Qxb7 1-0

@@ -1,0 +1,17 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Waligora"]
+[Black "Sahlmann"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "8bdc9f44"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7
+8. Qe2 a6 9. Rd1 Qc7 10. Bf4 Ne5 11. Bxe5 dxe5 12. Rac1 Qb8 13. Na4 b5 14.
+Bxb5+ axb5 15. Rxc8+ Qxc8 16. Qxb5+ Kf8 17. Nb6 Rb8 18. Nd7+ 1-0
+

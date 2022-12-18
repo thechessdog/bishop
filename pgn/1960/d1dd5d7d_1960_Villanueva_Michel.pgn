@@ -1,0 +1,16 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Villanueva"]
+[Black "Michel, Paul"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "d1dd5d7d"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 Nc6 7. Bg5 Qa5 8.
+O-O-O Nb4 9. Qb3 Ng4 10. a3 Nc6 11. Ne4 f5 12. Nxc5 Qxc5 13. h3 Nxf2 0-1

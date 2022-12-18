@@ -1,0 +1,25 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Krnic, Zdenko"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "exchange variation"]
+[HashCode "4a8d9bee"]
+[Epoch "Bishop"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+[WhiteCountry "SRB"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. h3 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Nc6 10. Be3 Bf5 11. Nbd2 e5 12. d5 Nd4 13. Rc1 Nxe2+ 14. Qxe2 h6 15.
+b4 a5 16. bxa5 Rxa5 17. Nb3 Ra8 18. Qd2 Ra4 19. Qe2 g5 20. Rfd1 Nd7 21. c5 dxc5
+22. Nxc5 Nxc5 23. Bxc5 Re8 24. a3 g4 25. hxg4 Bxg4 26. Qb5 Ra5 27. Qxb7 Bxf3
+28. gxf3 e4 29. fxe4 Qg5+ 30. Kf1 Rxe4 31. Qb8+ Kh7 32. Qg3 Rg4 33. Qd3+ f5 34.
+Be3 Rg1+ 35. Ke2 Qg4+ 36. Kd2 Rxd1+ 37. Rxd1 Qf3 38. Kc2 Ra8 39. Bc5 Qf4 40.
+Bb4 Rc8+ 41. Kb3 Qe5 42. Rd2 Rc1 43. f4 Qf6 44. Re2 Rf1 45. Re7 Rxf4 46. d6 Rd4
+47. Qg3 Rg4 48. Qc3 Qf8 49. Qf3 Qc8 50. Qb7 Qc4+ 51. Ka4 Rg3 52. d7 Qc2+ 53.
+Ka5 Qd3 54. Qb5 Qf3 55. d8=Q 1-0

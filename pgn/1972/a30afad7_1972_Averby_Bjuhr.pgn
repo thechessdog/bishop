@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Averby, Rune"]
+[Black "Bjuhr, Arne"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "a30afad7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Nc6 7. O-O Nf6
+8. Kh1 Nxd4 9. Qxd4 Bc5 10. Qd3 d6 11. f4 Nd7 12. a4 b6 13. Bf3 Bb7 14. Rb1
+Rc8 15. Ne2 b5 16. axb5 a5 17. c3 O-O 18. Rd1 Nf6 19. Be3 Rfd8 20. Bxc5
+Qxc5 21. b4 axb4 22. Rxb4 h5 23. Rd4 Ra8 24. h3 Ra3 25. e5 Bxf3 26. Qxf3
+Nd5 27. f5 Nxc3 28. fxe6 fxe6 29. Rf1 Ra4 30. Qf7+ Kh7 31. Qxh5+ Kg8 32.
+Qf7+ Kh7 33. Rxa4 Nxa4 34. Rf4 1-0
+

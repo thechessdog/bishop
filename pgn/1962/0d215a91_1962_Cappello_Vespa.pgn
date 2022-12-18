@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Cappello"]
+[Black "Vespa"]
+[Result "1/2-1/2"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "0d215a91"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Nc6 7. Qd2 Be7
+8. O-O-O O-O 9. Nb3 d5 10. exd5 exd5 11. Bxf6 Bxf6 12. Nxd5 Bf5 13. Ne3 Qc8
+14. Nxf5 Qxf5 15. f4 a5 16. Bd3 Qc8 17. a4 Rd8 18. Qe2 Nb4 19. Kb1 Qc7 20.
+Rhf1 Re8 21. Qh5 Nxd3 22. cxd3 Qc6 23. Qb5 Qxg2 24. Rd2 Qc6 1/2-1/2
+

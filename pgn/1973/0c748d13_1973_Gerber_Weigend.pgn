@@ -1,0 +1,19 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Gerber, K."]
+[Black "Weigend, J."]
+[Result "1/2-1/2"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "0c748d13"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 Bg7 8.
+e4 O-O 9. Bd3 a6 10. a4 Bg4 11. h3 Bxf3 12. Qxf3 Nbd7 13. Qe2 Re8 14. O-O
+Rc8 15. f4 Qc7 16. f5 h6 17. Be3 Ne5 18. fxg6 fxg6 19. Bc2 Kh7 20. Rad1 Re7
+21. g4 Rce8 22. Rf4 Rf7 23. Rdf1 Ref8 24. R1f2 Ng8 25. Qf1 Rxf4 26. Rxf4
+Rxf4 1/2-1/2
+

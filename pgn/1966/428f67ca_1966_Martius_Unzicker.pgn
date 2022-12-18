@@ -1,0 +1,17 @@
+[Event "Bamberg"]
+[Site "Bamberg"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Martius"]
+[Black "Unzicker, Wolfgang"]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "428f67ca"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Re1 O-O 8. e5
+Ne8 9. Nxd4 Nxd4 10. Qxd4 d5 11. exd6 Bxd6 12. Qe4 Nf6 13. Bg5 Nxe4 14. Bxd8
+Nc5 0-1

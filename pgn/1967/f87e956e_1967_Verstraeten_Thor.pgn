@@ -1,0 +1,20 @@
+[Event "Harrachov"]
+[Site "Harrachov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Verstraeten, Jan"]
+[Black "Thor, Jon Th"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "f87e956e"]
+[Epoch "Bishop"]
+[BlackID "2300265"]
+[BlackCountry "ISL"]
+[WhiteID "223646"]
+[WhiteCountry "BEL"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. f4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+ 8.
+Kxd1 Rd8+ 9. Ke1 Nd5 10. Nxd5 Rxd5 11. Bc4 Rd8 12. Ng5 e6 13. Be2 Nc6 14. c3 b6
+15. Be3 Bb7 16. Kf2 h6 17. Nf3 Ne7 18. Rhd1 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr BDGW1"]
+[Site "corr BDGW1"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "David, Alberto"]
+[Black "Roos"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "614d7f44"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. dxe5 Qxd1+ 5. Nxd1 Nc6 6. f4 exf3 7. Nxf3 Bg4
+8. Bb5 Ne7 9. Ne3 Bxf3 10. gxf3 O-O-O 11. f4 Nd4 12. Bd3 Ng6 13. Bxg6 hxg6 14.
+c3 Ne6 15. Ng2 Rh3 16. Be3 Bc5 17. Bxc5 Nxc5 18. Rd1 Nd3+ 19. Ke2 Nxb2 20.
+Rxd8+ Kxd8 21. Rb1 Na4 22. Rxb7 Nxc3+ 23. Kf1 Nxa2 24. Rxa7 Nb4 25. Ra8+ Ke7
+26. Kg1 Rf3 27. Ra4 Nd5 28. Rc4 Kd7 29. Rd4 Ke6 30. Rc4 Nc3 31. h4 Kf5 32. Rxc7
+Kg4 33. Kh2 Ne2 34. Ne3+ Rxe3 0-1

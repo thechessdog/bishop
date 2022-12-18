@@ -1,0 +1,23 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Banczky, J."]
+[Black "Spindler, H."]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, reverse dragon"]
+[HashCode "14b135ef"]
+[Epoch "Bishop"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nb6 6. Nf3 Nc6 7. O-O Be7
+8. a4 a5 9. d3 Be6 10. Nb5 O-O 11. e4 Nb4 12. Nxe5 c6 13. Na3 Qd4 14. Nec4
+Nxa4 15. Qxa4 b5 16. Qd1 bxc4 17. dxc4 Rfd8 18. Qxd4 Rxd4 19. Be3 Rd3 20.
+Rfd1 Bf6 21. Rxd3 Nxd3 22. Rd1 Nxb2 23. Rc1 Nd3 24. Rb1 Bb2 25. Bf1 Bxa3
+26. Bxd3 c5 27. f3 Kf8 28. Kf2 Bb4 29. Ke2 Rd8 30. g4 Ke7 31. h3 f6 32. f4
+Bf7 33. h4 Rd7 34. Bc1 a4 35. Bb2 a3 36. Ba1 h5 37. g5 a2 38. Rc1 Ra7 39.
+f5 Ra3 40. e5 fxe5 41. Bxe5 Bc3 42. Bxc3 Rxc3 43. Ra1 Ra3 44. Kd2 Kd6 45.
+Be2 Ke5 46. Kc2 Kxf5 47. Kb2 Ra7 48. Bd3+ Kg4 49. g6 Be6 50. Kc3 Kxh4 51.
+Kb2 Kg3 52. Kc3 Ra3+ 0-1
+

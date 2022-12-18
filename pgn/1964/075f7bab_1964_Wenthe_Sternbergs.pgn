@@ -1,0 +1,16 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Wenthe, W."]
+[Black "Sternbergs, E."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Delmar variation"]
+[HashCode "075f7bab"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. c3 h6 6. dxe5 dxe5 7. Bxf7+ Kxf7
+8. Nxe5+ Ke6 9. Ng6 Qe8 10. Qg4+ Kd6 11. Bf4+ Kc5 12. Be3+ Kd6 13. Qf4+ 1-0
+

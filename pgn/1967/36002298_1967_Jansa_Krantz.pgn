@@ -1,0 +1,24 @@
+[Event "Harrachov"]
+[Site "Harrachov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Jansa, Vlastimil"]
+[Black "Krantz, Kjell"]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "36002298"]
+[Epoch "Bishop"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackID "1700782"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 Na5 11. Nd4 O-O 12. f3 Nc5 13. Bd2 Ncb7 14. Bxa5 Nxa5
+15. c3 c5 16. Nxe6 fxe6 17. Bc2 Qe8 18. Nd2 Qh5 19. Re1 Nb7 20. b3 c4 21. bxc4
+bxc4 22. Rab1 Nc5 23. g3 Rfb8 24. Kg2 a5 25. Qe3 a4 26. Rxb8+ Rxb8 27. Rb1 Qe8
+28. f4 Rxb1 29. Bxb1 a3 30. f5 Na4 31. Nf3 Bc5 32. Nd4 Qb8 33. Qg5 Qxb1 34.
+Qd8+ Bf8 35. fxe6 Qe4+ 36. Nf3 Qe2+ 37. Kg1 Qe3+ 38. Kg2 Qe2+ 39. Kh3 Qxf3 40.
+e7 0-1

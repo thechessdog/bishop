@@ -1,0 +1,17 @@
+[Event "Basel"]
+[Site "Basel"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Goldberger"]
+[Black "Waldhauser, W."]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "323e432d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 g6 7. d4 cxd4
+8. cxd4 Bg7 9. d5 Na5 10. Nc3 Rc8 11. Qd3 Nc4 12. b3 Ne5 13. Nxe5 Rxc3 14.
+Qxc3 Bxe5 15. Qa5 b6 16. Qa6 Bxa1 0-1
+

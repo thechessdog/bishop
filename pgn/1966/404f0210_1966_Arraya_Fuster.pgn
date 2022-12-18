@@ -1,0 +1,22 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Arraya, Jorge"]
+[Black "Füster, Géza"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "404f0210"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. Nc3 Bf5 3. Bf4 c6 4. Nf3 e6 5. a3 Nf6 6. e3 Bd6 7. Ne5 Ne4 8. Nxe4
+Bxe4 9. f3 Bg6 10. Bd3 Qc7 11. Qd2 Nd7 12. Qc3 Bxd3 13. Nxd3 Bxf4 14. exf4 O-O
+15. O-O Rfc8 16. b4 b6 17. Rfe1 c5 18. dxc5 bxc5 19. b5 c4 20. Ne5 Qc5+ 21. Kh1
+Nxe5 22. Qxe5 Qxb5 23. Rab1 Qd7 24. Rb4 Qc7 25. Reb1 Qxe5 26. fxe5 g5 27. Kg1
+Rc5 28. c3 Rd8 29. Rd1 Kg7 30. Kf2 Rd7 31. h4 h6 32. Ke3 f6 33. Kd4 Ra5 34. a4
+Kf7 35. exf6 Kxf6 36. hxg5+ hxg5 37. Re1 Ra6 38. g4 Rb6 39. Rb5 Rxb5 40. axb5
+Rb7 41. Kc5 Ke7 42. Ra1 Rc7+ 43. Kd4 Kf6 44. Ra6 Rd7 45. Rc6 Rb7 46. Rc5 Rb6
+47. Rc7 Rxb5 48. Rxa7 Rb2 49. Ra6 Rd2+ 50. Ke3 Rd3+ 0-1

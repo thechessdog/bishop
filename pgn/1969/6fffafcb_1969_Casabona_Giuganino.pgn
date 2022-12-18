@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Casabona"]
+[Black "Giuganino"]
+[Result "0-1"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "6fffafcb"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 c5 7. d5 e6 8. Bg5
+h6 9. Bh4 exd5 10. cxd5 g5 11. Bg3 Nh5 12. Qd2 Nxg3 13. hxg3 Nd7 14. Qe3
+Re8 15. Nd2 f5 16. Bh5 Bd4 17. Qf3 Rf8 18. O-O-O fxe4 19. Qxe4 Ne5 20. Nf3
+Bf5 21. Qe2 Bxc3 22. bxc3 Qa5 23. Kb2 Nd3+ 24. Rxd3 Qb5+ 25. Kc2 c4 26. Kc1
+cxd3 27. Qd2 Rac8 28. Nxg5 Rxc3+ 29. Qxc3 Rc8 30. Bf7+ Kf8 31. Qxc8+ Bxc8
+32. Rxh6 Qc5+ 33. Kd2 Qc2+ 34. Ke3 Qc1+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Bussum"]
+[Site "Bussum"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hazenberg"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "3ab6c740"]
+[Epoch "Bishop"]
+
+1. Nf3 e6 2. d4 Nf6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+f5 9. Nd2 Nxc3 10. Bxb7 Nxe2+ 11. Kh1 Nc6 12. Bxa8 Qxa8 13. d5 exd5 14. cxd5
+Nb4 15. Qb3 Nxd5 16. Nf3 Kh8 17. Rd1 Ndc3 18. Rd3 Nxc1 19. Rxc1 Ne4 20. Kg1 Bc5
+21. Rc2 f4 22. Ne5 fxg3 23. Nf7+ Rxf7 24. Qxf7 Nxf2 25. Rf3 Nh3+ 26. Kf1 Ng5
+0-1

@@ -1,0 +1,23 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Iskov, Gert"]
+[Black "Villeneuve, Alain"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "a572ceb0"]
+[Epoch "Bishop"]
+[WhiteID "1400398"]
+[BlackID "600415"]
+[WhiteCountry "DEN"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1 8.
+Rxd1 fxe5 9. Rd3 Bxf3 10. gxf3 Rd8 11. Rxd8+ Kxd8 12. Be3 Ne7 13. Nd2 Ng6 14.
+Nc4 Be7 15. Kg2 Rf8 16. Kg3 b6 17. Rd1+ Kc8 18. Kg4 Rd8 19. Rxd8+ Kxd8 20. f4
+exf4 21. Bxf4 Nxf4 22. Kxf4 Bd6+ 23. e5 Bc5 24. Ne3 Ke7 25. Ke4 Ke6 26. f4 g6
+27. f5+ gxf5+ 28. Nxf5 Bf2 29. Ng7+ Kf7 30. Nh5 Bg1 31. h3 Kg6 32. Nf4+ Kg5 33.
+Ne6+ Kh4 34. Nd4 Kh5 35. Nf3 Bc5 36. Kf5 Be7 37. Ke6 Bc5 38. Kf7 1-0

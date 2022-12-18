@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gik, Evgeny"]
+[Black "Barhatov"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "b3a49b35"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Nd7 10. Bb3 Nb6 11. h4 Na5 12. h5 Nbc4 13. Qe2 Nxe3 14. Qxe3
+Nxb3 15. axb3 Bd7 16. O-O-O Qa5 17. Kb1 Rfc8 18. Nd5 Qd8 19. hxg6 hxg6 20.
+g4 e6 21. Nc3 a5 22. Ndb5 Bxb5 23. Nxb5 Ra6 24. f4 a4 25. b4 Rb6 26. Qe2
+Qf6 27. c3 Qxf4 28. Rhf1 Qg3 29. Rd3 Qh4 30. Nxd6 Rf8 31. b5 Be5 32. Nc4
+Rxb5 33. Rd7 Qh2 34. Rf2 Qg3 35. Ka2 Bg7 36. Rf3 Qxg4 37. Rfxf7 Rxf7 38.
+Rd8+ 1-0
+

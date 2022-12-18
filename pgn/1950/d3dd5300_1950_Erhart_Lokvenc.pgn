@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Erhart, Helmut"]
+[Black "Lokvenc, Josef"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "d3dd5300"]
+[Epoch "Bishop"]
+[WhiteID "1603353"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. c4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 h6 7. Bh4 Bxc3+ 8.
+bxc3 d6 9. Qc2 Ne5 10. e3 Ng6 11. Bg3 Nd7 12. Ne6 fxe6 13. Qxg6+ Kf8 14. Qxe6
+Nf6 0-1

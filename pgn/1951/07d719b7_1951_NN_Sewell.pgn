@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1951.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Sewell, G."]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "07d719b7"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Re1 Ng4 6. d4 exd4 7. Nxd4 Qh4
+8. Bxc6 bxc6 9. Be3 Qxh2+ 10. Kf1 Ba6+ 11. Re2 Qh1# 0-1
+

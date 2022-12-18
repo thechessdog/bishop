@@ -1,0 +1,20 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gibbs, J."]
+[Black "Tennant, S."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "db3ef3d4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 b5 8.
+Bb3 Bb7 9. f3 Nbd7 10. Qd2 b4 11. Nce2 d5 12. exd5 Nxd5 13. Bf2 N7b6 14.
+O-O Be7 15. c4 bxc3 16. Nxc3 O-O 17. f4 Nxc3 18. bxc3 Nd5 19. Bg3 Bf6 20.
+Bxd5 Qxd5 21. Rad1 Rac8 22. Qb2 Rxc3 23. Nxe6 Qc6 24. Rc1 Rxc1 25. Rxc1
+Bxb2 26. Rxc6 Bxc6 27. Nxf8 Kxf8 28. Kf2 Bd5 29. Bh4 Bxa2 30. Ke2 Bd5 31.
+g4 a5 0-1
+

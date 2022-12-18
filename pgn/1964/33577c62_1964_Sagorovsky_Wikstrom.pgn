@@ -1,0 +1,23 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Sagorovsky, V."]
+[Black "Wikstrom, B."]
+[Result "1-0"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer"]
+[HashCode "33577c62"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 a6 7. Bxf6 gxf6
+8. Be2 f5 9. Nxf5 Bxf5 10. exf5 Bg7 11. Qd2 O-O 12. O-O Qa5 13. Bd3 Ne5 14.
+Rae1 Rfc8 15. Re3 Kf8 16. Rg3 Nxd3 17. Qg5 Qe5 18. cxd3 e6 19. Rf3 h6 20.
+Qg4 exf5 21. Rxf5 Qe6 22. Qf3 Rab8 23. Rf4 Be5 24. Re1 Qg6 25. Rg4 Qf6 26.
+Qh3 Bxc3 27. bxc3 Re8 28. Rge4 b5 29. g3 d5 30. Rxe8+ Rxe8 31. Rxe8+ Kxe8
+32. Qc8+ Ke7 33. Qc5+ Ke8 34. Kg2 h5 35. Qxd5 Qxc3 36. Qxh5 Qxd3 37. h4 Qd6
+38. Qg5 b4 39. h5 Qc6+ 40. Kg1 Qe6 41. h6 Qe1+ 42. Kg2 Qe4+ 43. Kh2 Qc2 44.
+Qe5+ Kd7 45. Qf6 Ke8 46. Kg2 Qe4+ 47. Qf3 Qg6 48. Qf4 Qc6+ 49. f3 Qc5 50.
+Qd2 1-0
+

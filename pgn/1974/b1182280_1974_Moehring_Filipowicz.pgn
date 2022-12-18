@@ -1,0 +1,19 @@
+[Event "Halle"]
+[Site "Halle"]
+[Date "1974.06.01"]
+[Round "1"]
+[White "Moehring, G."]
+[Black "Filipowicz, Andrzej"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "b1182280"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. e3 cxd4 4. exd4 d5 5. Nc3 g6 6. Nf3 Bg7 7. Be2 O-O 8. O-O
+Nc6 9. Bf4 Be6 10. c5 Ne4 11. Rc1 Bg4 12. Be3 e6 13. Nd2 Nxc3 14. bxc3 Bxe2 15.
+Qxe2 b6 16. Qb5 Qc7 17. c4 Nxd4 18. Bxd4 Bxd4 19. cxd5 Bxc5 20. Ne4 exd5 21.
+Nxc5 bxc5 22. Rxc5 Rfb8 23. Qa5 Qxa5 24. Rxa5 Rd8 25. Rd1 d4 26. Kf1 Rd7 27.
+Ra4 d3 28. Ra3 Rad8 29. Rd2 Kg7 30. f3 h5 31. Kf2 g5 32. Ke3 Re8+ 33. Kf2 Rb8
+34. Ke3 Re8+ 35. Kf2 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "CSR-ch Havirov"]
+[Site "Havirov"]
+[Date "1970.??.??"]
+[Round "6"]
+[White "Fichtl, Jiri"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "81babfdb"]
+[Epoch "Bishop"]
+[BlackID "300128"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. f4 a6 7. Be3 b5 8. Nxc6
+Qxc6 9. Be2 Ba3 10. Bd4 Bxb2 11. Nxb5 Bxa1 12. Bxa1 axb5 13. Bxg7 Nf6 14. Bxh8
+Nxe4 15. Bd3 Bb7 16. Qh5 Qb6 17. Qe2 Ra4 18. Be5 f6 19. Bb2 Rxa2 20. Bxe4 Rxb2
+21. Kd2 Qa5+ 22. Ke3 Bxe4 23. Kxe4 Qc3 0-1

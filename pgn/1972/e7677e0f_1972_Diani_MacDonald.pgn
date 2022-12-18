@@ -1,0 +1,15 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Diani, J."]
+[Black "MacDonald"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "e7677e0f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 b5 4. Bxg8 Rxg8 5. Nxe5 Qf6 6. d4 d6 7. Nf3 fxe4
+8. Qe2 Qe7 9. Ng5 Bb7 10. Qxb5+ Bc6 11. Qf5 1-0
+

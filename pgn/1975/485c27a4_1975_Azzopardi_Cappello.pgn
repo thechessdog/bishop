@@ -1,0 +1,18 @@
+[Event "Malta"]
+[Site "Malta"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Azzopardi, C."]
+[Black "Cappello"]
+[Result "0-1"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "485c27a4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 Be7
+8. Bg5 Qa5 9. Nxc6 bxc6 10. Qd2 Ba6 11. f4 h6 12. Bxf6 Bxf6 13. O-O-O O-O
+14. Na4 Qxd2+ 15. Rxd2 Be7 16. h4 d5 17. exd5 exd5 18. Rd4 Rfe8 19. Rdd1
+Bd6 20. g3 Re3 21. Rhg1 Rxg3 0-1
+

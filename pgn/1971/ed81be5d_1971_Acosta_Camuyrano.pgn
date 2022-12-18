@@ -1,0 +1,20 @@
+[Event "corr LADAC jub"]
+[Site "corr LADAC jub"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Acosta"]
+[Black "Camuyrano"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "ed81be5d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8.
+Nge2 O-O 9. O-O b6 10. f4 Ba6 11. Ng3 Bxd3 12. Qxd3 a6 13. a4 Nbd7 14. Bd2
+Re8 15. Rae1 Qc7 16. Qc4 Qb7 17. e5 dxe5 18. f5 b5 19. axb5 axb5 20. Qh4 b4
+21. Nce4 Qxd5 22. Bg5 Nxe4 23. Nxe4 gxf5 24. Rxf5 Ra6 25. Ref1 Rf8 26. Be7
+Rfa8 27. Rxf7 Ra1 28. Nf6+ Nxf6 29. Rxg7+ Kh8 30. Rxh7+ Nxh7 31. Bf6+ Kg8
+32. Qg4+ 1-0
+

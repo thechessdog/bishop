@@ -1,0 +1,17 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Barcza, Gedeon"]
+[Black "Van Geet, Dirk Daniel"]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "bd9b7d6c"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "NLD"]
+
+1. c4 g5 2. d4 Bg7 3. Nc3 Nc6 4. d5 Ne5 5. Bxg5 Nxc4 6. Rc1 c6 7. e4 b5 8. dxc6
+Nxb2 9. c7 Qxc7 10. Nxb5 Qa5+ 11. Qd2 Qxd2+ 12. Bxd2 Rb8 13. Be3 Bb7 14. Bxa7
+Rd8 15. f3 f5 16. Rb1 fxe4 17. Bd4 e5 18. Bxb2 d5 19. Ba3 Bc6 20. Rc1 1-0

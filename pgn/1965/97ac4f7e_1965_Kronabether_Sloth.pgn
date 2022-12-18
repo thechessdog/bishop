@@ -1,0 +1,19 @@
+[Event "Sinaia"]
+[Site "Sinaia"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Kronabether"]
+[Black "Sloth, Jorn"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "97ac4f7e"]
+[Epoch "Bishop"]
+[BlackID "1400240"]
+[BlackCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+Qxc5+ 9. Kh1 Nc6 10. Nd2 a5 11. Nb3 Qb6 12. a4 Nb4 13. Bf3 Be6 14. Ra3 Rac8 15.
+Re1 Ng4 16. Bxg4 Bxg4 17. Qxg4 Bxc3 18. Be3 Qc7 19. bxc3 Nxc2 20. Raa1 Qxc3 21.
+Bd2 Qxb3 22. Rab1 Qxa4 23. Re2 Nd4 0-1

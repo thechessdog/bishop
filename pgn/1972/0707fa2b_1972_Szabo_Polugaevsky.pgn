@@ -1,0 +1,18 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1972.06.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "0707fa2b"]
+[Epoch "Bishop"]
+[BlackCountry "BLR"]
+[WhiteID "710741"]
+[WhiteCountry "HUN"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. Qe2
+Nbd7 9. Rd1 dxc4 10. Bxc4 Qe7 1/2-1/2

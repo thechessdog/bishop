@@ -1,0 +1,18 @@
+[Event "Djakarta"]
+[Site "Djakarta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sitanggang, S."]
+[Black "Oon Boon Chye"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "def927e2"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 c5 5. e5 Nfd7 6. c3 Nc6 7. Ne2 Qb6 8.
+Nf3 f6 9. exf6 Nxf6 10. O-O cxd4 11. cxd4 Bd6 12. a3 a5 13. Re1 O-O 14. Ng3
+Qc7 15. Bg5 e5 16. dxe5 Nxe5 17. Rc1 Nxf3+ 18. Qxf3 Qb6 19. Bxf6 Rxf6 20.
+Qxd5+ Rf7 21. Re8+ 1-0
+

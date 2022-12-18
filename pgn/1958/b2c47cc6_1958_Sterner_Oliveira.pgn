@@ -1,0 +1,18 @@
+[Event "Munich olm prel"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "8"]
+[White "Sterner, Olof"]
+[Black "Oliveira, P."]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "b2c47cc6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nc6 10. Nb3 Bd7 11. Bd3 O-O-O 12. Bh4 Rhe8 13. Rhe1 Nb4
+14. Bf2 e5 15. h3 Be6 16. Kb1 Nd7 17. f5 Bxb3 18. cxb3 Nxd3 19. Rxd3 Nc5
+20. Nd5 Nxd3 21. Nxc7 Nxe1 22. Qc3 1-0
+

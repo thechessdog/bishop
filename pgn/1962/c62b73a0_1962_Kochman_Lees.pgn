@@ -1,0 +1,17 @@
+[Event "Hartford,CT"]
+[Site "Hartford,CT"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Kochman, Carl"]
+[Black "Lees, David"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "c62b73a0"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8 d5
+8. Qe2 Bb6 9. Bb5 Bg4 10. Qe1 O-O-O 11. Bxc6 Rf8 12. d4 Nxe4+ 13. Kg1 Bxd4+ 14.
+Be3 Qc5 15. h3 Bxe3+ 16. Kh2 Bf4+ 17. g3 Bxg3+ 18. Qxg3 Rf2+ 19. Kg1 Re2+ 0-1

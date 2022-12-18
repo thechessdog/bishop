@@ -1,0 +1,17 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1962.01.01"]
+[Round "7"]
+[White "Henneberke, Franciscus"]
+[Black "Dunkelblum, Arthur"]
+[Result "1-0"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence"]
+[HashCode "82bb6d9f"]
+[Epoch "Bishop"]
+[BlackCountry "BEL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. e3 Nc6 6. a3 cxd4 7. exd4 Be7 8. Bg5
+dxc4 9. Bxc4 O-O 10. O-O b6 11. Qd3 Bb7 12. Rad1 Re8 13. Rfe1 Nd7 14. d5 Nc5
+15. Qc2 exd5 16. Nxd5 Bxg5 17. Rxe8+ Qxe8 18. Nxg5 Ne4 19. Nxe4 1-0

@@ -1,0 +1,19 @@
+[Event "Norway"]
+[Site "Norway"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kryboe"]
+[Black "Skold, Kristian"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "76353b53"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 a6 5. Nc3 d6 6. Be2 Nf6 7. O-O Be7 8. Be3
+O-O 9. f4 Qc7 10. Qe1 b5 11. a3 Bb7 12. Bf3 Nbd7 13. Nb3 d5 14. e5 Ne4 15. Bxe4
+dxe4 16. Bd4 f5 17. exf6 Nxf6 18. Be5 Bd6 19. Bxd6 Qxd6 20. Rd1 Qb6+ 21. Kh1
+Rad8 22. Qe2 Nd5 23. Nxe4 Nxf4 24. Rxd8 Qxd8 25. Qe3 Qd5 26. Nbc5 Bc6 27. g3
+Qxc5 0-1

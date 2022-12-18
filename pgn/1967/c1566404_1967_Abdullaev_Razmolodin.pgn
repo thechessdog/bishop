@@ -1,0 +1,17 @@
+[Event "Tashkent"]
+[Site "Tashkent"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Abdullaev"]
+[Black "Razmolodin"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "c1566404"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Bg4 9. d6 Qxd6 10. Nf7 Qd4 11. Be2 Bh4 12. g3 Ne4 13. Qe1 Bh3#
+0-1
+

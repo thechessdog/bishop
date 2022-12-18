@@ -1,0 +1,18 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1974.09.01"]
+[Round "6"]
+[White "Deze, Anton"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "068ebeb6"]
+[Epoch "Bishop"]
+[BlackCountry "HRV"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Ba5 10. Na4 cxd4 11. exd4 Bb6 12. Be3 Nd5 13. Nxb6 Qxb6 14. Qb3 Qxb3
+15. Bxb3 Rd8 16. Rac1 h6 17. Rfe1 Nce7 18. Ne5 Bd7 1/2-1/2

@@ -1,0 +1,26 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1965.01.01"]
+[Round "2"]
+[White "Buljovcic, Ivan"]
+[Black "Bogdanovic, Rajko"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "944934c4"]
+[Epoch "Bishop"]
+[BlackID "14400316"]
+[BlackCountry "BIH"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. a4
+Be7 9. Bd3 O-O 10. O-O b6 11. Kh1 Bb7 12. Qe1 Nbd7 13. fxe5 dxe5 14. Bg5 Rfe8
+15. Nh4 g6 16. Qf2 Rf8 17. Qf3 Kg7 18. Rae1 h6 19. Bd2 Nh7 20. Qg3 Bg5 21. Nf3
+Bxd2 22. Nxd2 Nhf6 23. Nc4 Nh5 24. Qh4 Nc5 25. Ne3 Qd8 26. Qxd8 Raxd8 27. Nc4
+Nf4 28. Nxe5 Nfxd3 29. Nxd3 Nxd3 30. cxd3 Rxd3 31. Kg1 Rd2 32. Rf2 Rfd8 33. e5
+Rxf2 34. Kxf2 Rd2+ 35. Re2 Rxe2+ 36. Nxe2 Bc6 37. Nc3 g5 38. g3 Kg6 39. a5 bxa5
+40. Ne2 f6 41. Nd4 Be8 42. exf6 Kxf6 43. Ke3 Ke5 44. Nb3 a4 45. Nc5 Bb5 46. Ne4
+Kd5 47. Nf6+ Kc4 48. Kd2 Kb3 49. Kc1 Bd3 50. h4 gxh4 51. gxh4 a3 52. bxa3 Kxa3
+53. Ng4 a5 54. Kd2 Bf5 55. Ne3 Be6 56. Kc3 Ka2 57. Nf1 a4 58. Nd2 a3 59. Kc2
+Bf5+ 60. Kc3 Be6 61. Kc2 Bd7 62. Kc3 Bb5 63. Kc2 Ba4+ 64. Kc3 1/2-1/2

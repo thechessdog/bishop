@@ -1,0 +1,21 @@
+[Event "Asztalos mem"]
+[Site "Miskolc"]
+[Date "1963.??.??"]
+[Round "4"]
+[White "Lengyel, Laszlo"]
+[Black "Fuchs, Reinhart"]
+[Result "0-1"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "cf8ec8c6"]
+[Epoch "Bishop"]
+[WhiteID "701998"]
+[BlackID "4611357"]
+[WhiteCountry "HUN"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nf3 c6 3. d4 d5 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+e5 9. cxd5 Nxd5 10. Bb2 Nxc3 11. Bxc3 Qe7 12. O-O Re8 13. Rfe1 e4 14. Nd2 Nf6
+15. Nf1 Nd5 16. Bd2 Bf5 17. f4 exf3 18. Qxf5 fxe2 19. Rxe2 Qe4 20. Qxe4 Rxe4
+21. Rc1 Nf4 0-1

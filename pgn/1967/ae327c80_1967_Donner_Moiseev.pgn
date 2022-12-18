@@ -1,0 +1,23 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1967.07.01"]
+[Round "2"]
+[White "Donner, Jan Hein"]
+[Black "Moiseev, Oleg L"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "ae327c80"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 b6 7. O-O Bb7 8. Bd2
+cxd4 9. exd4 d5 10. cxd5 Bxc3 11. bxc3 Qxd5 12. Re1 Nbd7 13. Bf1 Qh5 14. Ne5
+Qxd1 15. Raxd1 Nxe5 16. Rxe5 Rac8 17. f3 Rc7 18. a4 Bd5 19. a5 Bc4 20. axb6
+axb6 21. Bxc4 Rxc4 22. Rb5 Nd5 23. Ra1 Rfc8 24. Rb3 Kf8 25. Raa3 Ke7 26. Kf2 h6
+27. Ke2 g5 28. Kd3 R8c7 29. Ra1 Kf6 30. g4 Kg6 31. Ra8 R7c6 32. h4 gxh4 33. Rh8
+Kg7 34. Rxh6 Rxc3+ 35. Bxc3 Kxh6 36. Bd2+ Kg6 37. Rb1 Rc8 38. Rh1 Rh8 39. Ke4
+h3 40. f4 Nf6+ 41. Kf3 h2 42. Be1 Ra8 43. f5+ exf5 44. Rxh2 fxg4+ 45. Kf4 Re8
+0-1

@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Konig"]
+[Black "Heinrich"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "d1008cab"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qf4 cxd4 10. Bxf5 exf5 11. cxd4 Nc6 12. Ne2 Be6 13. O-O h4 14.
+Rb1 Qe7 15. a4 Na5 16. Bd2 Nc4 17. Bb4 Qd8 18. Nc3 g5 19. Qc1 a6 20. a5
+Nxa5 21. Bxa5 Qxa5 22. Qxg5 Qxc3 23. Rxb7 Qa3 24. Rfb1 Rc8 25. Qf6 Rg8 26.
+h3 f4 27. R1b3 Qf8 28. R3b6 Bxh3 29. e6 Rxg2+ 30. Kh1 Rg7 31. Rb8 Bxe6 32.
+Rxe6+ Kd7 33. Rb7+ Rc7 34. Re7+ 1-0
+

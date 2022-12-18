@@ -1,0 +1,20 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1963.12.01"]
+[Round "1"]
+[White "Kluger, Gyula"]
+[Black "Bilek, Istvan"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "9c3c41f4"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Nf3 O-O 6. Bd3 Re8 7. O-O e5 8. Ne4
+Bf8 9. dxe5 Ng4 10. Nfg5 Ncxe5 11. f4 d5 12. cxd5 Nxd3 13. Qxd3 h6 14. h3 hxg5
+15. hxg4 gxf4 16. Rxf4 Re5 17. Nc3 Rg5 18. Bd2 Bxg4 19. Raf1 Bh5 20. e4 Bg6 21.
+R1f3 Rh5 22. g3 Qd7 23. Qe2 Re8 24. Qg2 Bb4 25. Qf2 Qh3 26. Qg2 Qxg2+ 27. Kxg2
+Bxc3 0-1

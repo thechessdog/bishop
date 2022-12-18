@@ -1,0 +1,17 @@
+[Event "Gori"]
+[Site "Gori"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Mikadze, Zurab"]
+[Black "Bokuchava, Alexande"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "6241148a"]
+[Epoch "Bishop"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 g6 4. e3 Bg7 5. d4 cxd4 6. exd4 d6 7. h3 Nf6 8. Be2
+O-O 9. O-O Bf5 10. d5 Na5 11. Nd4 Rc8 12. b3 Bd7 13. Bb2 a6 14. Rc1 Re8 15. Qd2
+b6 16. Bf3 Qc7 17. Rfe1 Qb8 18. Ne4 Nxe4 19. Rxe4 Nb7 20. Rce1 Bf6 21. Bg4 Bxg4
+22. hxg4 Nc5 23. R4e2 Qa8 1/2-1/2

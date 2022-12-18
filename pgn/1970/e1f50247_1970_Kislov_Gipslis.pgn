@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1970.01.01"]
+[Round "12"]
+[White "Kislov, Mikhail"]
+[Black "Gipslis, Aivars"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "e1f50247"]
+[Epoch "Bishop"]
+[BlackCountry "LVA"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Ne4 4. Nce2 d4 5. d3 Nc5 6. Ng3 Nc6 7. f4 f5 8. Nf3
+g6 9. h4 h5 10. c3 a5 11. Bd2 Be6 12. c4 Bh6 13. Qb1 Rb8 14. Ne2 b5 15. cxb5
+Rxb5 16. g3 Rxb2 0-1

@@ -1,0 +1,17 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Fridstein, Grigory"]
+[Result "1/2-1/2"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, 6...e6"]
+[HashCode "13f527f0"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Be2 Be7 8.
+O-O a6 9. Qd3 O-O 10. Rad1 Ne5 11. Qg3 Nh5 12. Bxe7 Nxg3 13. Bxd8 Nxe2+ 14.
+Ndxe2 Rxd8 15. Rd4 Kf8 16. Rfd1 Ke7 17. f4 Nc6 18. R4d3 b5 19. Nd4 1/2-1/2

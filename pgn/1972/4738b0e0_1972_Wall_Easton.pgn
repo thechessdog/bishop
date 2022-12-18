@@ -1,0 +1,18 @@
+[Event "Marysville"]
+[Site "Marysville"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Easton, D."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Breyer gambit"]
+[HashCode "4738b0e0"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Qf3 Qh4+ 4. g3 fxg3 5. hxg3 Qd8 6. d4 Nc6 7. c3 d6 8.
+Bb5 Bd7 9. Ne2 Nf6 10. Bg5 Be7 11. Nd2 a6 12. Bc4 b5 13. Bb3 h6 14. O-O-O O-O
+15. Bxh6 gxh6 16. Rxh6 Kg7 17. Qf4 Rg8 18. Rh7+ Nxh7 19. Qxf7+ Kh6 20. Rh1+ Kg5
+21. Nf3+ Kg4 22. Qf4# 1-0

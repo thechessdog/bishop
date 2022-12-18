@@ -1,0 +1,17 @@
+[Event "South Africa"]
+[Site "South Africa"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Pines"]
+[Black "Lewis"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "886baf00"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 e6 5. e4 dxe4 6. fxe4 Be7 7. Nf3 O-O
+8. Bd3 h6 9. Bf4 c6 10. Qd2 Ne8 11. h4 e5 12. Bxh6 gxh6 13. Qxh6 Ndf6 14.
+Bc4 Be6 15. Bxe6 fxe6 16. dxe5 Nh7 17. Ng5 Bxg5 18. hxg5 Nxg5 19. Rh5 Qe7
+20. Rxg5+ Ng7 21. O-O-O Qf7 22. b3 Qe7 23. Kb2 Rf7 24. Rh1 1-0
+

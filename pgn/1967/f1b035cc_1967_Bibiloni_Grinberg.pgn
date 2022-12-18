@@ -1,0 +1,18 @@
+[Event "Mar del Plata ch-ARG"]
+[Site "Mar del Plata ch-ARG"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Bibiloni"]
+[Black "Grinberg, Ricardo"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "f1b035cc"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 e6 5. O-O Be7 6. e5 Nd5 7. Ne4 Qc7 8.
+Bxc6 bxc6 9. d3 d6 10. exd6 Bxd6 11. Nxd6+ Qxd6 12. Qe2 f6 13. Nd2 O-O 14. Ne4
+Qe7 15. Be3 Nxe3 16. Qxe3 Rb8 17. b3 Rb5 18. a4 Ra5 19. Qd2 Qc7 20. Qc3 c4 21.
+Qxc4 f5 22. Nc5 Rxc5 23. Qxc5 f4 24. f3 Rf5 25. Qf2 Rg5 26. d4 e5 27. Kh1 exd4
+28. Qxd4 h5 29. Rad1 1-0

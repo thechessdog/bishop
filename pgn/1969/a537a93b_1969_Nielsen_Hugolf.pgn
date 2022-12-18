@@ -1,0 +1,20 @@
+[Event "corr Wch7"]
+[Site "corr Wch7"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Nielsen, J."]
+[Black "Hugolf, E."]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "a537a93b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 gxf6 12. a3 Rb8 13. f5 Ne5 14. Qh3
+O-O 15. Qh6 Kh8 16. g5 Rg8 17. gxf6 Ng4 18. Qh5 Bxf6 19. Rg1 b4 20. axb4
+Rxb4 21. Rxg4 Rxg4 22. Qxg4 Rxd4 23. Bd3 Rb4 24. Rg1 Qd8 25. Qh5 Bxc3 26.
+bxc3 Rb1+ 27. Kxb1 Qb6+ 28. Ka2 Qa5+ 29. Kb2 Qb6+ 30. Bb5 Qxg1 31. Qxf7 Qg8
+32. Qf6+ Qg7 33. Qd8+ Qg8 34. Be8 exf5 35. Qxc8 fxe4 36. Bd7 1-0
+

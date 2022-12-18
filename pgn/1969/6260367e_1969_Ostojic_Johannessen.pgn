@@ -1,0 +1,21 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ostojic, Predrag"]
+[Black "Johannessen, Svein"]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Taimanov (chase/wing/accelerated counterthrust) variation"]
+[HashCode "6260367e"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. O-O d6 7. d4 f6 8. Bxg8
+Rxg8 9. Nh4 Qd7 10. Nc3 Qg4 11. Nf3 Bb7 12. a4 b4 13. Nd5 O-O-O 14. Re1 f5 15.
+Ne3 Qxe4 16. Ng5 Qc6 17. Ne6 Re8 18. d5 Qd7 19. Nxf5 c6 20. Ne3 cxd5 21. Nxf8
+Rgxf8 22. Nxd5 Qf7 23. Nb6+ Kc7 24. Be3 Nc4 25. Nxc4 Qxc4 26. c3 b3 27. Ra3 Rf6
+28. f3 Rg6 29. Rf1 Rf8 30. Rxb3 Bxf3 31. Bb6+ Kd7 32. Rxf3 Qg4 33. Kf2 e4 34.
+Qd5 Qxg2+ 35. Ke1 Qxf3 36. Bc5 Qf1+ 37. Kd2 Rg2+ 0-1

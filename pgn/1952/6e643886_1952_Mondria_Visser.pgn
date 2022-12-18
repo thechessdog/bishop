@@ -1,0 +1,18 @@
+[Event "Netherlands tt"]
+[Site "Netherlands tt"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Mondria, H."]
+[Black "Visser, H."]
+[Result "1-0"]
+[ECO "D50"]
+[Opening "QGD"]
+[Variation "4.Bg5"]
+[HashCode "6e643886"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Bb4 5. e3 O-O 6. a3 Bxc3+ 7. bxc3 c5 8.
+Bd3 Qa5 9. Bxf6 Qxc3+ 10. Kf1 gxf6 11. cxd5 cxd4 12. exd4 exd5 13. Rc1 Qxa3
+14. Rxc8 Nc6 15. Rxa8 Rxa8 16. Ne2 Nb4 17. Bf5 Re8 18. h4 Qa6 19. Rh3 Na2
+20. Rg3+ Kh8 21. Qd2 Nc1 22. Qh6 1-0
+

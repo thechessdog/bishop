@@ -1,0 +1,17 @@
+[Event "Whitby"]
+[Site "Whitby"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Hempson"]
+[Black "Van der Weide, Piet"]
+[Result "1-0"]
+[ECO "D28"]
+[Opening "QGA"]
+[Variation "classical, 7.Qe2"]
+[HashCode "66992649"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 e6 5. Bxc4 c5 6. O-O Nf6 7. Qe2 Nc6 8. Nc3
+cxd4 9. Rd1 Be7 10. exd4 O-O 11. Bg5 Na5 12. Bd3 b5 13. Bxf6 gxf6 14. Qe4 f5
+15. Qxa8 Qb6 16. Nd5 exd5 17. Qxd5 Bd6 18. Nh4 Qd8 19. g3 Qf6 20. Nxf5 Bb8 21.
+Qe4 Kh8 22. Ne7 Qh6 23. Nxc8 Rxc8 24. Qf5 Rc6 25. Re1 Ba7 26. Qxf7 1-0

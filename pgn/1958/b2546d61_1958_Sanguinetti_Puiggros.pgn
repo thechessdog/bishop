@@ -1,0 +1,19 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Sanguinetti, Raul"]
+[Black "Puiggros, Guillermo"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "b2546d61"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "URY"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 Be7 7. Re1 b5 8. Bb3
+d5 9. dxe5 Be6 10. c3 O-O 11. Nd4 Nxd4 12. cxd4 Bb4 13. Rf1 Qh4 14. f3 f5 15.
+fxe4 fxe4 16. g3 Qh3 17. Rf4 Rxf4 18. Bxf4 Rf8 19. Nc3 g5 20. Nxd5 Kg7 21. Bxg5
+Rf2 22. Kxf2 Qxh2+ 23. Ke3 Qxg3+ 24. Kxe4 Qf2 25. Ne3 1-0

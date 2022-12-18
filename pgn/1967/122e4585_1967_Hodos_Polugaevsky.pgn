@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Hodos, German"]
+[Black "Polugaevsky, Lev"]
+[Result "1-0"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "122e4585"]
+[Epoch "Bishop"]
+[BlackCountry "BLR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5 8.
+dxc5 f5 9. Qc2 O-O 10. e4 fxe4 11. fxe4 Nf4 12. Nf3 Qc7 13. Be3 Nd7 14. Bc4
+Nxc5 15. O-O Bd7 16. e5 b5 17. Ba2 Be8 18. Bxf4 Rxf4 19. Ng5 Bg6 20. Qe2 Rxf1+
+21. Rxf1 Re8 22. Qxb5 Qe7 23. Qc6 h6 24. Nf3 Be4 25. Bxe6+ Nxe6 26. Qxe4 Qc5+
+27. Kh1 Qxc3 28. a4 Rd8 29. h3 Qd3 30. Qxd3 Rxd3 31. Rb1 Nd4 32. Nxd4 Rxd4 33.
+e6 Re4 34. Rb7 Rxe6 35. Rxa7 Re1+ 36. Kh2 Ra1 37. Kg3 Kh7 38. Ra8 Ra2 39. Kf3
+h5 40. g3 g5 41. g4 h4 42. Ke4 Rf2 43. a5 Rf4+ 44. Ke5 Rf3 45. a6 Rxh3 46. Kf5
+Ra3 47. Kxg5 h3 48. Ra7+ Kg8 49. Kg6 Kf8 50. Ra8+ Ke7 51. a7 h2 52. Rh8 Ra6+
+53. Kg7 Rxa7 54. Rxh2 Ke6+ 55. Kg6 Ke5 56. Rf2 Ra6+ 57. Kh5 1-0

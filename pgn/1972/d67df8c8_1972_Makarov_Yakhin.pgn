@@ -1,0 +1,16 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Makarov, Gennadi"]
+[Black "Yakhin"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "d67df8c8"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Qf3 Ne7 6. Bd3 c5 7. dxc5 d4
+8. a3 Qa5 9. Rb1 dxc3 10. b3 Bxc5 11. b4 Qb6 0-1
+

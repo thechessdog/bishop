@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Berliner, H."]
+[Black "Messere, K."]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's lesser variation"]
+[HashCode "e5e3f6df"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 b6 9. h4 e5 10. h5 exd4 11. hxg6 hxg6 12. cxd4 Qe7 13. Qd3 Re8 14.
+Bh6 Nc6 15. Bxg7 Kxg7 16. Qd2 Qxe4 17. O-O-O Qe7 18. Qh6+ Kf6 19. Rd3 Bg4
+20. Rhh3 Nxd4 21. Rxd4 Bxh3 22. Rf4+ 1-0
+

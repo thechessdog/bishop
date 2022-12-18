@@ -1,0 +1,22 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Joppen, Egon"]
+[Black "Rabar, Braslav"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "bd360fdb"]
+[Epoch "Bishop"]
+[WhiteID "1324187"]
+[WhiteCountry "SUI"]
+[BlackCountry "HRV"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 g6 8. Qf3
+Bg7 9. O-O-O Qc7 10. g4 Nb6 11. h3 O-O 12. f5 Bd7 13. h4 Rac8 14. Rh2 Bc6 15.
+fxg6 hxg6 16. h5 Bd7 17. h6 Bxg4 18. hxg7 Bxf3 19. gxf8=Q+ Kxf8 20. Nxf3 Ng8
+21. Bd3 f6 22. Nd4 Qd7 23. Be3 Nc4 24. Bxc4 Rxc4 25. Rg1 e5 26. Nb3 g5 27. Nd2
+Rc8 28. Nd5 Qa4 29. c3 Qxa2 30. Rh8 Kg7 31. Rgh1 Qa1+ 32. Nb1 Qa4 33. R8h7+ Kg6
+34. Ne7+ Nxe7 35. R1h6# 1-0

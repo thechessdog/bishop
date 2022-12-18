@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1953.03.01"]
+[Round "19"]
+[White "Medina Garcia, Antonio Angel"]
+[Black "Wexler, Bernardo"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "ba9e3a26"]
+[Epoch "Bishop"]
+[WhiteCountry "EST"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. Bc4
+Be7 9. a4 O-O 10. O-O Rb8 11. Qe2 Qc7 12. Kh1 Nc5 13. f5 Bd7 14. Bg5 Bc6 15.
+Bxf6 Bxf6 16. Nd5 Bxd5 17. Bxd5 1/2-1/2

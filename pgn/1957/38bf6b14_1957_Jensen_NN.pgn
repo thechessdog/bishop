@@ -1,0 +1,14 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Jensen, Erik"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "38bf6b14"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f6 4. Bc4 Ne7 5. O-O Bg4 6. Nxe5 Bxd1 7. Bf7# 1-0
+

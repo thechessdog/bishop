@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gipslis, Aivars"]
+[Black "Nikitin, A."]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "28a9f57a"]
+[Epoch "Bishop"]
+[BlackID "4155220"]
+[WhiteCountry "LVA"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. c3 d6 10. a5 Rb8 11. Bc4 bxc3 12. dxc3 Na7 13. Bf1 Nb5 14. Nbd2 Nd7 15.
+Qc2 Nc5 16. b4 Ne6 17. Nc4 g6 18. Bh6 Ng7 19. Rad1 Qe8 20. Ne3 f5 21. exf5 gxf5
+22. Nd5 Bd8 23. c4 Na7 24. c5 Qg6 25. cxd6 cxd6 26. Be3 Nb5 27. Bxb5 axb5 28.
+Ba7 Ra8 29. Bb6 Kh8 30. Qc6 Rb8 31. Bxd8 Rxd8 32. Ne7 Qe6 33. Rxe5 1-0

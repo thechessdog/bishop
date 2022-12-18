@@ -1,0 +1,22 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1974.09.01"]
+[Round "10"]
+[White "Raicevic, Vladimir"]
+[Black "Rukavina, Josip"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "aefb137d"]
+[Epoch "Bishop"]
+[WhiteID "900605"]
+[WhiteCountry "SRB"]
+[BlackID "14500191"]
+[BlackCountry "CRO"]
+
+1. c4 c6 2. Nc3 d5 3. d4 Nf6 4. Nf3 dxc4 5. e3 b5 6. a4 Nd5 7. Ne5 Nxc3 8. bxc3
+Qd5 9. axb5 cxb5 10. Be2 Bf5 11. Ra5 a6 12. Bxc4 Qxg2 13. Bxf7+ Kd8 14. Ke2 Nd7
+15. Rg1 Qb7 16. Ba3 Kc7 17. Nxd7 Bxd7 18. Qb3 Qb6 19. Bb4 e6 20. Rg5 g6 21. Re5
+Bd6 22. Bxd6+ Qxd6 23. Bxe6 Rhe8 24. Rc5+ Kb6 25. Bxd7 Qxd7 26. Qb4 Rf8 27. h3
+Rae8 28. c4 1-0

@@ -1,0 +1,22 @@
+[Event "Siegen olm"]
+[Site "Siegen"]
+[Date "1970.??.??"]
+[Round "11"]
+[White "Olsson, Ake 1936"]
+[Black "Bednarski, Jacek B"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "ddc911cd"]
+[Epoch "Bishop"]
+[WhiteID "1732439"]
+[WhiteCountry "SWE"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. a3 Rb8 14. h4 b4 15.
+axb4 Rxb4 16. f5 Nc5 17. Bh3 Qb7 18. fxe6 fxe6 19. Rhf1 Rf8 20. Qh5+ g6 21. Qe2
+Rxf1 22. Qxf1 Rxb2 23. Qf3 Rb4 24. Bf1 Qb6 25. e5 d5 26. Bh3 Rxd4 27. Rxd4 Nb3+
+28. cxb3 Qxd4 29. Nxd5 exd5 30. Bxc8 Qc5+ 31. Kb2 Qxc8 32. Qxd5 Kf8 33. e6 Kg8
+34. b4 Qb8 35. Qd7 Qxb4+ 36. Kc2 Qc5+ 0-1

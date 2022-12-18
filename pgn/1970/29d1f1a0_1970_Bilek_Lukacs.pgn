@@ -1,0 +1,19 @@
+[Event "Budapest ch"]
+[Site "Budapest ch"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Lukacs, Peter"]
+[Result "1-0"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "29d1f1a0"]
+[Epoch "Bishop"]
+
+1. g3 f5 2. d4 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8. b3 a5
+9. Ba3 Na6 10. Nb5 Qd8 11. Bb2 c6 12. Nc3 Bd7 13. d5 cxd5 14. cxd5 e5 15. Nxe5
+dxe5 16. d6 Bc6 17. Bxc6 bxc6 18. dxe7 Qxe7 19. Qd3 Qe6 20. Rfd1 Nb4 21. Qd6
+Rfe8 22. Qxe6+ Rxe6 23. Na4 Kf7 24. Nb6 Ra7 25. Nc4 Nd7 26. Nxa5 Nb6 27. a3
+Rxa5 28. axb4 Rxa1 29. Rxa1 Ke7 30. Ra7+ Nd7 31. Kf1 Kd6 32. Ba3 Re8 33. Ke1
+Rb8 34. Kd2 Ke6 35. Kc3 e4 36. Bc1 g6 37. Be3 h5 38. Rc7 Ne5 39. Bd4 1-0

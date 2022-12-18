@@ -1,0 +1,17 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Larsen, Bent Ravn"]
+[Black "Eriksen"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Dilworth variation"]
+[HashCode "b070ef43"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Nxf2 12. Rxf2 f6 13. Nd4 Nxd4 14. cxd4 Bxd4
+15. Qh5 g6 16. Bxg6 Qe7 17. Qxh7+ Qxh7 18. Bxh7+ Kxh7 19. exf6 Rxf6 20. Nf3
+Bxf2+ 21. Kxf2 Bg4 22. h3 Bxf3 23. gxf3 Raf8 24. f4 c5 0-1

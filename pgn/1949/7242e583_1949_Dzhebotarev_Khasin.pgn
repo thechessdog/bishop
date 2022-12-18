@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Dzhebotarev"]
+[Black "Khasin, Abram"]
+[Result "0-1"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[HashCode "7242e583"]
+[Epoch "Bishop"]
+[BlackID "4103424"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Bg5 Bb4+ 5. Nc3 dxc4 6. e4 c5 7. e5 cxd4 8.
+Qa4+ Nc6 9. O-O-O Bd7 10. Ne4 Be7 11. exf6 gxf6 12. Bh4 Rc8 13. Kb1 b5 14. Qxb5
+c3 15. Nxd4 Qc7 16. Bg3 e5 17. Qe2 Nxd4 18. Rxd4 c2+ 19. Kc1 Qa5 20. Nxf6+ Bxf6
+21. a3 O-O 22. Rb4 Bg5+ 23. f4 exf4 24. Bxf4 Rfe8 25. Qxe8+ Bxe8 26. Bd3 Qxb4
+0-1

@@ -1,0 +1,23 @@
+[Event "Harrachov"]
+[Site "Harrachov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Perecz, Laszlo"]
+[Black "Marangunic, Srdjan"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "c1c45f08"]
+[Epoch "Bishop"]
+[WhiteID "700746"]
+[WhiteCountry "HUN"]
+[BlackID "14500159"]
+[BlackCountry "CRO"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. h3 Nd7 8. Be3
+e5 9. dxe5 dxe5 10. f5 Nd4 11. fxg6 hxg6 12. Qd2 Nc5 13. O-O-O Nxf3 14. gxf3
+Nxd3+ 15. cxd3 Qh4 16. Rdg1 Bd7 17. Kb1 Bf6 18. Nd1 Kg7 19. Nf2 Rh8 20. Qc1 c6
+21. Ng4 Rad8 22. Qf1 Bg5 23. Bf2 Qh5 24. Nxe5 Bf4 25. Ng4 Qa5 26. a3 Rh5 27.
+Be3 Bxe3 28. Nxe3 Rb5 29. Nc2 Qc3 30. Nb4 Qd4 31. f4 a5 32. f5 axb4 33. fxg6
+bxa3 0-1

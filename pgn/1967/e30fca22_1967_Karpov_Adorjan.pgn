@@ -1,0 +1,20 @@
+[Event "EU-ch U18 f-A 6768"]
+[Site "Groningen"]
+[Date "1967.01.01"]
+[Round "6"]
+[White "Karpov, Anatoly"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Ne2 e5 (Botvinnik)"]
+[HashCode "e30fca22"]
+[Epoch "Bishop"]
+[WhiteID "4100026"]
+[WhiteCountry "RUS"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e5 7. Nd5 Nge7 8. Bg5
+h6 9. Bf6 O-O 10. Nxe7+ Nxe7 11. Bxg7 Kxg7 12. Qd2 Be6 13. f4 Qd7 14. O-O f6
+15. Rf2 Rad8 16. Raf1 b6 1/2-1/2

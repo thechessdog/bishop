@@ -1,0 +1,22 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1973.01.01"]
+[Round "11"]
+[White "Grefe, John Alan"]
+[Black "Weinstein, Norman"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "ae5d9224"]
+[Epoch "Bishop"]
+[BlackID "2000466"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. b3 e5 2. Bb2 d6 3. c4 Nf6 4. g3 g6 5. d4 Bg7 6. dxe5 Nfd7 7. Qd2 dxe5 8. Nc3
+O-O 9. O-O-O Qe7 10. Nd5 Qc5 11. Nf3 Na6 12. e3 c6 13. Nc3 Qa5 14. Na4 Qxd2+
+15. Rxd2 Re8 16. Be2 Nac5 17. Nxc5 Nxc5 18. Rhd1 Ne4 19. Rd8 Bg4 20. Rxa8 Rxa8
+21. Ng1 Nxf2 22. Bxg4 Nxg4 23. Nf3 e4 24. Ng5 Nf2 25. Rd7 Nd3+ 26. Kb1 Nxb2 27.
+Nxe4 h6 28. Nd6 Nd1 29. Nxb7 Nc3+ 30. Kb2 Re8 31. Na5 c5 32. Kc2 Rxe3 33. Rxa7
+Re2+ 34. Kd3 Rxa2 0-1

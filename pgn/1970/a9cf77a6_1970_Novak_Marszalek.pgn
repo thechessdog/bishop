@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Novak, Ivan"]
+[Black "Marszalek, Rafal"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "a9cf77a6"]
+[Epoch "Bishop"]
+[WhiteID "14900246"]
+[BlackID "1101358"]
+[WhiteCountry "SVK"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bf3 Nc6 7. a3 Ba5 8. b4
+Bb6 9. Bxc6+ bxc6 10. Nf3 a5 11. Be3 Qd6 12. g3 a4 13. O-O Bb7 1/2-1/2

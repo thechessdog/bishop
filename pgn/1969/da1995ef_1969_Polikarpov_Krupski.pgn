@@ -1,0 +1,17 @@
+[Event "Gomel"]
+[Site "Gomel"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Polikarpov"]
+[Black "Krupski"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Tartakower variation"]
+[HashCode "da1995ef"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Bxe7 Nxc3 7. Qg4 Qxe7
+8. Qxg7 Qb4 9. Qxh8+ Kd7 10. Rd1 Nxd1+ 11. Kxd1 Qxd4+ 12. Kc1 Qf4+ 13. Kb1
+Qxf2 14. Nf3 Nc6 15. Bb5 Qxg2 16. Rf1 Qg6 17. Rg1 1-0
+

@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Klovans, Janis"]
+[Black "Shereshevsky, Mikha"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "d4a79dac"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Rd8 14. Nf1 exd4 15.
+Bf4 Nc6 16. Bb3 Be6 17. Bxe6 fxe6 18. Ng5 Qd7 19. Qb3 d5 20. exd5 Qxd5 21. Nxe6
+Qxb3 22. axb3 Rd7 23. Nc7 Rc8 24. Nxa6 Nd5 25. Bd2 Ra8 26. Nc5 Rxa1 27. Rxa1
+Bxc5 28. Rc1 Be7 29. Rxc6 Ra7 30. Rc1 Ra2 31. Rb1 Bf6 32. Ng3 d3 33. Bc1 b4 34.
+Ne4 Bd4 35. Kf1 Ra8 36. Ke1 Rc8 37. Bg5 Rc2 38. Rd1 Re2+ 39. Kf1 Rxe4 40. Rxd3
+Nf4 41. Rd2 Ne6 42. f3 Re5 43. Be7 Rb5 44. Ke2 Kf7 45. Bd6 Bf6 46. Kd1 Nd4 47.
+Rd3 Nf5 48. Kc2 Nxd6 0-1

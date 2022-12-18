@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Krogius, Nikolai V"]
+[Black "Bertok, Mario"]
+[Result "1/2-1/2"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "8221f049"]
+[Epoch "Bishop"]
+[WhiteID "4100565"]
+[WhiteCountry "RUS"]
+[BlackCountry "HRV"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. f3 Nbd7 6. Be3 c6 7. Qd2 a6 8. Bd3 b5
+9. Nge2 bxc4 10. Bxc4 a5 11. O-O Nb6 12. Bd3 Ba6 13. Bxa6 Rxa6 14. Qd3 Qa8 15.
+e5 Nfd5 16. exd6 exd6 17. Nxd5 Nxd5 18. Qe4+ Kd7 19. Bf2 Re8 20. Qc2 1/2-1/2

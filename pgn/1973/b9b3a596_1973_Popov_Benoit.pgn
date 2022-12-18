@@ -1,0 +1,18 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Popov, Luben"]
+[Black "Benoit, Michel"]
+[Result "1-0"]
+[ECO "A53"]
+[Opening "Old Indian"]
+[Variation "Janowski variation"]
+[HashCode "b9b3a596"]
+[Epoch "Bishop"]
+[BlackID "602400"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. f3 e5 5. e4 exd4 6. Qxd4 Be6 7. Be3 Nc6 8. Qd2
+Ne5 9. b3 Be7 10. Nge2 Nh5 11. O-O-O c6 12. f4 Ng4 13. Bd4 f5 14. exf5 Bxf5 15.
+h3 d5 16. c5 Ngf6 17. g4 Be6 18. Rg1 b6 19. gxh5 bxc5 20. Bxf6 1-0

@@ -1,0 +1,21 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Fromm, M."]
+[Black "Schoneberg, G."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "d5bb88ef"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+cxd5 9. cxd5 a6 10. Bd3 b5 11. Nge2 Nbd7 12. g4 Nb6 13. Ng3 Nfd7 14. h4 Nc5
+15. b3 Nxd3+ 16. Qxd3 b4 17. Nd1 Bd7 18. Qd2 a5 19. h5 Rb8 20. Rc1 Bb5 21.
+hxg6 fxg6 22. Qh2 Kf7 23. Nf5 Rh8 24. Nxg7 Kxg7 25. Qh6+ Kf7 26. Bg5 Qd7
+27. Qh4 h5 28. Bf6 Rhg8 29. gxh5 gxh5 30. Bg5 Rh8 31. Ne3 Rbc8 32. Nf5
+Rxc1+ 33. Bxc1 Qc7 34. Nh6+ Ke8 35. Qxh5+ Kd7 36. Qf5+ Kd8 37. Nf7+ Qxf7
+38. Rxh8+ 1-0
+

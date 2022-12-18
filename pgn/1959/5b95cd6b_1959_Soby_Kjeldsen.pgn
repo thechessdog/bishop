@@ -1,0 +1,24 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Soby, Frode"]
+[Black "Kjeldsen, Torben"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "5b95cd6b"]
+[Epoch "Bishop"]
+[WhiteID "1407880"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3
+d6 9. d4 Bg4 10. Rd1 Re8 11. d5 Nb8 12. a4 Nbd7 13. axb5 axb5 14. Rxa8 Qxa8 15.
+Bc2 Qb7 16. h3 Bxf3 17. Qxf3 b4 18. Ba4 Rb8 19. Bg5 Nc5 20. Bc6 Qa6 21. Nd2 Qd3
+22. Qxd3 Nxd3 23. Nc4 Nxf2 24. Bxf6 Nxd1 25. Bxe7 Nxb2 26. Nxb2 bxc3 27. Nd3 f6
+28. Kf2 Kf7 29. Bd8 Rxd8 30. Ne1 Rb8 31. Ba4 Rb4 32. Bc2 Rd4 33. Nf3 Rc4 34.
+Ke2 c6 35. Kd3 cxd5 36. exd5 Rc5 37. Ke4 g6 38. g4 Rc4+ 39. Kd3 Rc5 40. Ke4 Kg7
+41. Ne1 h5 42. gxh5 gxh5 43. Bb3 Kg6 44. Kd3 f5 45. h4 Kf6 46. Nc2 f4 47. Ke4
+Rb5 48. Ba4 Rb1 49. Be8 Rc1 50. Kd3 e4+ 51. Kxc3 f3 52. Kd2 f2 53. Ne3 f1=Q 54.
+Nxf1 Rxf1 55. Bxh5 Rh1 0-1

@@ -1,0 +1,22 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Brameyer, Hermann"]
+[Black "Franz, Joachim"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "b9495820"]
+[Epoch "Bishop"]
+[WhiteID "4612019"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 exd4 7. Bxc4 Nc6
+8. O-O Nge7 9. Ng5 Ne5 10. Bb3 Bg4 11. Bxf7+ Nxf7 12. Qxg4 Nxg5 13. Qxg5 O-O
+14. Qc5 Nc6 15. Rad1 Rf7 16. Nf3 Rd7 17. Ng5 Qf6 18. f4 Re8 19. Qc2 g6 20. Nh3
+Kg7 21. Rf3 Qd6 22. a3 Rde7 23. e5 Qd5 24. Nf2 Rf7 25. Ng4 Ref8 26. Nf6 Rxf6
+27. exf6+ Rxf6 28. h3 a5 29. Re1 Rd6 30. Rd1 b5 31. f5 Qc4 32. Qe4 d3 33. Qe3
+Nd4 34. f6+ Rxf6 35. Qe7+ Rf7 36. Rxf7+ Qxf7 37. Qxf7+ Kxf7 38. Rxd3 c5 39. Kf2
+Ke6 40. b4 axb4 41. axb4 Kd5 42. Ke3 Kc4 43. bxc5 1-0

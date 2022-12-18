@@ -1,0 +1,20 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Fuchs, Reinhart"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "1903405c"]
+[Epoch "Bishop"]
+[WhiteID "4611357"]
+[WhiteCountry "GER"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Qc7 7. Bd3 Nf6 8.
+O-O b5 9. Nxc6 Qxc6 10. a3 Bb7 11. Qe2 Be7 12. f4 O-O 13. e5 Nd5 14. Nxd5 Qxd5
+15. Rad1 Qc6 16. Rf2 g6 1/2-1/2

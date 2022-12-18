@@ -1,0 +1,16 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Fabian"]
+[Black "Fichtl, Jiri"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "20477fc8"]
+[Epoch "Bishop"]
+[BlackCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. Qg4 Bf8 6. Bg5 Qd7 7. O-O-O h6 8. Bh4
+g5 9. Bg3 h5 10. Qh3 g4 11. Qh4 Be7 0-1

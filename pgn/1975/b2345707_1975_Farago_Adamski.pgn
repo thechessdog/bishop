@@ -1,0 +1,20 @@
+[Event "Rimavska Sobota"]
+[Site "Rimavska Sobota"]
+[Date "1975.??.??"]
+[Round "4"]
+[White "Farago, Ivan"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "b2345707"]
+[Epoch "Bishop"]
+[WhiteID "700134"]
+[BlackID "1100190"]
+[WhiteCountry "HUN"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 Nc6 7. O-O Bxc3 8.
+bxc3 d6 9. e4 e5 10. h3 cxd4 11. cxd4 exd4 12. Bg5 Re8 13. Bc2 h6 14. Bh4 g5
+15. Nxg5 hxg5 16. Bxg5 Re6 17. f4 d3 1/2-1/2

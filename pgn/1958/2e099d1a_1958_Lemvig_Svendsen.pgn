@@ -1,0 +1,19 @@
+[Event "Aabenra"]
+[Site "Aabenra"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Lemvig, Mogens"]
+[Black "Svendsen"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Alapin variation"]
+[HashCode "2e099d1a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 e6 3. e4 d5 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Nb5 Nb6
+8. a4 a6 9. a5 Nc4 10. Bxc4 Qb4+ 11. c3 Qxc4 12. Na3 Qc6 13. Qg4 O-O 14.
+Nf3 Nd7 15. Nc2 b6 16. h4 Qb5 17. Rh3 f5 18. Qh5 f4 19. Ng5 h6 20. O-O-O
+Rf5 21. Na3 Qxa5 22. Rg1 hxg5 23. hxg5 Nf8 24. g4 fxg3 25. Rgxg3 g6 26.
+Qh8+ Kf7 27. Rf3 Bb7 28. Rxf5+ exf5 29. Qf6+ Ke8 30. e6 1-0
+

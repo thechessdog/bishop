@@ -1,0 +1,21 @@
+[Event "Illinois"]
+[Site "Illinois"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Fischheimer, D."]
+[Black "Mayer, H."]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "1caace40"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 h6 8.
+Be3 Ng4 9. Be2 Nxe3 10. fxe3 Nd7 11. O-O-O Be7 12. Kb1 Ne5 13. Rhf1 O-O 14.
+Nf3 b5 15. Nxe5 dxe5 16. Qxd8 Rxd8 17. Rxd8+ Bxd8 18. Nd1 Bb7 19. Bd3 h5
+20. Kc1 Bb6 21. Kd2 g5 22. Ke2 Kg7 23. Nf2 g4 24. c4 b4 25. g3 Kg6 26. Bb1
+Rd8 27. Nd3 Bc7 28. Nxb4 a5 29. Nd3 Bxe4 30. Nc5 Bxb1 31. Rxb1 Kf6 32. a3
+Ke7 33. Na6 Bb6 34. b4 axb4 35. axb4 Kd7 36. c5 Bc7 37. b5 e4 38. c6+ Kc8
+39. b6 1-0
+

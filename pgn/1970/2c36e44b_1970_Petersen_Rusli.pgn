@@ -1,0 +1,23 @@
+[Event "Siegen olm"]
+[Site "Siegen"]
+[Date "1970.??.??"]
+[Round "15"]
+[White "Petersen, Finn"]
+[Black "Rusli"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "2c36e44b"]
+[Epoch "Bishop"]
+[WhiteID "1400754"]
+[BlackID "7115342"]
+[WhiteCountry "DEN"]
+[BlackCountry "INA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 Nc6 8. Nf3
+g6 9. O-O Bg7 10. Qe1 e6 11. Qh4 O-O 12. f5 exf5 13. exf5 Qb6+ 14. Kh1 Qb4 15.
+fxg6 hxg6 16. Ne4 Nh5 17. a3 Qb6 18. g4 Bxg4 19. Qxg4 Ne5 20. Nxe5 dxe5 21. Ng5
+Qc6+ 22. Qe4 Rac8 23. Qxc6 Rxc6 24. Be4 Rc4 25. Bd5 Rxc2 26. Bxf7+ Kh8 27. Be3
+Rxb2 28. Bxg6 Nf4 29. Bxf4 exf4 30. Rad1 Bh6 31. Ne6 Rg8 32. Rg1 f3 33. Rd7 Rc8
+34. Rh7+ Kg8 35. Bc2+ 1-0

@@ -1,0 +1,17 @@
+[Event "Maspalomas"]
+[Site "Maspalomas"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Wenner, Tobias"]
+[Black "Debarnot, Roberto"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "e37d0ceb"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Bd3 Bb5 7. O-O Bxd3 8. Qxd3
+cxd4 9. Nxd4 Nc6 10. Nxc6 bxc6 11. b4 a5 12. Be3 Qa6 13. Qd4 Ne7 14. Nd2 Nf5
+15. Qf4 Be7 16. a3 Qd3 17. Nb3 axb4 18. axb4 Rxa1 19. Rxa1 Qxc3 20. Ra8+ Bd8
+21. g4 Qe1+ 22. Kg2 Nh4+ 0-1

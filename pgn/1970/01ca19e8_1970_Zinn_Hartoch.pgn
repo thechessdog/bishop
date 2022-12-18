@@ -1,0 +1,18 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "3"]
+[White "Zinn, Lothar"]
+[Black "Hartoch, Robert G"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "01ca19e8"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 Qc7 7. Bg2 Nf6 8. O-O
+Nxd4 9. Qxd4 Bc5 10. Qd3 Ng4 11. Bf4 Ne5 12. Bxe5 Qxe5 13. Kh1 O-O 14. f4 Qc7
+15. e5 d6 16. exd6 Bxd6 17. Rad1 1/2-1/2

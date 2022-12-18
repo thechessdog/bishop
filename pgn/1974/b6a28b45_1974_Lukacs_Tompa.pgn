@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Lukacs, Peter"]
+[Black "Tompa, Janos"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "b6a28b45"]
+[Epoch "Bishop"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackID "700193"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 a6 10. a4 Qc7 11. Na2 b5 1/2-1/2

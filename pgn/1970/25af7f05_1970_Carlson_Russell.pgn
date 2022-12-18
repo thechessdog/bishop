@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Russell"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Mason variation"]
+[HashCode "25af7f05"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O 8.
+Nbd2 Nd6 9. Re1 Re8 10. Nf1 Nd7 11. Bf4 Nf6 12. Ng3 Bg4 13. h3 Bxf3 14. Qxf3
+Bf8 15. Rxe8 Qxe8 16. Be5 Be7 17. Bxf6 Bxf6 18. Qxd5 Rd8 19. c3 g6 20. Nf1 Qe7
+21. Qf3 Re8 22. Ne3 Bg7 23. Nd5 Qd8 24. Rd1 c6 25. Ne3 Qf6 26. Qxf6 Bxf6 27.
+Ng4 Bg7 28. f4 b5 29. Ne5 Rc8 30. g4 f6 31. Nf3 Re8 32. Re1 Rxe1+ 33. Nxe1 Bh6
+34. Ng2 Kf7 35. Kf2 Ke6 36. Kf3 a5 37. Ne3 a4 38. Nc2 Kd7 39. h4 Bf8 40. Nb4
+Kc7 41. Na6+ Kb6 42. Nc5 Be7 43. g5 f5 44. Nd7+ Kc7 45. Ne5 Kb6 46. h5 gxh5 47.
+Kg3 Kc7 48. Kh4 h6 49. Kxh5 hxg5 50. fxg5 Ne4 51. Bxe4 fxe4 52. Kg4 Kd6 53. g6
+Bf6 54. Kf5 Bg7 55. Kxe4 c5 1-0

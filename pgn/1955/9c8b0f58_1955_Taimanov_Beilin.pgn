@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Beilin, Mikhail"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "accelerated Meran (Alekhine variation)"]
+[HashCode "9c8b0f58"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. e3 Nf6 5. Nc3 a6 6. Qc2 c5 7. cxd5 exd5 8. dxc5
+Bxc5 9. Be2 O-O 10. O-O Qe7 11. a3 Nc6 12. b4 Ba7 13. Bb2 Bg4 14. Ng5 Qd7 15.
+Rad1 Bf5 16. Bd3 Bxd3 17. Qxd3 Ne5 18. Qb1 Qg4 19. Nxd5 Qxg5 20. f4 Qh6 21.
+Nxf6+ gxf6 22. fxe5 Bxe3+ 23. Kh1 Bf4 24. h3 fxe5 25. Qe4 Rae8 26. Qxb7 Re6 27.
+Rd7 Qg5 28. Rxf7 Qg3 29. R1xf4 1-0

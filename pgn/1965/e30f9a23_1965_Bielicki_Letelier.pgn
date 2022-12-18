@@ -1,0 +1,27 @@
+[Event "Santiago"]
+[Site "Santiago de Chile"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Bielicki, Carlos"]
+[Black "Letelier, Rene"]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "e30f9a23"]
+[Epoch "Bishop"]
+[WhiteID "100684"]
+[WhiteCountry "ARG"]
+[BlackCountry "CHL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8. Nf4
+c6 9. Bd3 a5 10. f3 Re8 11. Nfe2 c5 12. O-O Nc6 13. Bc2 b6 14. Kh1 Ba6 15. Re1
+b5 16. dxc5 Bxc5 17. Nf4 d4 18. Ne4 Ba7 19. Nxf6+ Qxf6 20. Nd5 Qd8 21. e4 Bb7
+22. Bd3 b4 23. axb4 Nxb4 24. Nxb4 axb4 25. Bf4 Qf6 26. Qd2 Bc5 27. Bg3 Qb6 28.
+Bf2 Bc6 29. Bc4 Ra7 30. Qd3 Rea8 31. Rac1 Rd8 32. Red1 Ba4 33. Bb3 Bb5 34. Bc4
+Ba4 35. Re1 Bd7 36. Qb3 Ba4 37. Bxf7+ Kf8 38. Qc4 Rxf7 39. Qxc5+ Qxc5 40. Rxc5
+d3 41. Be3 d2 42. Bxd2 Rxd2 43. Rc8+ Be8 44. Rb8 Rxb2 45. h3 Rc7 46. Rd1 Ke7
+47. Rd4 b3 48. Rdb4 Bf7 49. Kh2 Rd2 50. Kg3 Be6 51. h4 h6 52. R8b6 g5 53. hxg5
+hxg5 54. Rxb3 Bxb3 55. Rxb3 Rcc2 56. Kg4 Rxg2+ 57. Kf5 Rc5+ 58. e5 Re2 59. Rb7+
+Kd8 60. Kxg5 Rexe5+ 61. Kg4 Re1 62. Rb3 Ke7 63. Ra3 Kf6 64. Ra6+ Re6 65. Ra3
+Rg5+ 66. Kf4 Rb6 67. Ra4 Kg6 68. Ra3 Rf6+ 69. Ke3 Rg2 1-0

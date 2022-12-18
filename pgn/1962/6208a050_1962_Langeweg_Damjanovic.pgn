@@ -1,0 +1,19 @@
+[Event "Reggio Emilia 6263"]
+[Site "Reggio Emilia"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Langeweg, Kick"]
+[Black "Damjanovic, Mato"]
+[Result "0-1"]
+[ECO "E66"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav Panno"]
+[HashCode "6208a050"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "HRV"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. d4 d6 6. Nf3 c5 7. O-O Nc6 8. d5
+Na5 9. Nd2 a6 10. Qc2 Rb8 11. b3 b5 12. Bb2 Re8 13. e4 e6 14. Rae1 bxc4 15.
+bxc4 exd5 16. cxd5 Bd7 17. f4 Ng4 18. e5 dxe5 19. h3 exf4 0-1

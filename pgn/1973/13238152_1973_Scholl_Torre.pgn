@@ -1,0 +1,26 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1973.07.01"]
+[Round "4"]
+[White "Scholl, Eddie C"]
+[Black "Torre, Eugenio"]
+[Result "0-1"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "13238152"]
+[Epoch "Bishop"]
+[BlackID "5200016"]
+[BlackCountry "PHI"]
+[WhiteID "1000390"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Nxd4 8.
+Qxd4 Qa5 9. Bd2 e5 10. Qd3 h6 11. f3 a6 12. g4 Bc6 13. h4 Qb6 14. O-O-O Be7 15.
+Bh3 Nh7 16. Kb1 Qc7 17. Bg2 Nf8 18. g5 h5 19. f4 Nd7 20. f5 b5 21. Be3 Rc8 22.
+Qe2 Nb6 23. Bxb6 Qxb6 24. f6 gxf6 25. gxf6 b4 26. Nd5 Bxd5 27. Rxd5 Bxf6 28.
+Bf3 Ke7 29. Bxh5 Rcg8 30. Rdd1 Rh6 31. Rdf1 Rg3 32. Qc4 Rxh5 33. Rxf6 d5 34.
+Rxb6 dxc4 35. Rxb4 Rxh4 36. Rf1 Rf4 37. Rd1 Rxe4 38. Rb7+ Kf6 39. Rb6+ Kg5 40.
+Rxa6 Rd4 41. Kc1 c3 42. Rxd4 Rg1+ 43. Rd1 cxb2+ 44. Kxb2 Rxd1 45. c4 f5 46. Re6
+Kf4 47. Kc2 Rd8 48. a4 e4 49. c5 Ke3 50. Kc3 f4 51. Rf6 f3 52. Kc4 Kf2 53. c6
+e3 54. c7 Rc8 0-1

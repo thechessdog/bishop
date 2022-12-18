@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Kogan, S."]
+[Black "Yudovich, Mikhail Sr"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "f6bf5b0d"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+c6 9. Re1 exd4 10. Nxd4 Nc5 11. Bf4 Ng4 12. Nb3 Ne5 13. Nxc5 dxc5 14. Qxd8 Rxd8
+15. Rad1 Be6 16. Bxe5 Bxe5 17. Bf1 Bg4 18. Be2 Bxc3 19. bxc3 Rxd1 20. Bxd1 Be6
+21. Be2 Rd8 22. a4 Rd2 23. a5 Ra2 24. f4 Rxa5 25. Rd1 Ra4 26. Rd8+ Kg7 27. Rb8
+b6 28. Rb7 Bxc4 29. Bxc4 Rxc4 30. e5 Kf8 31. Rxa7 Rxc3 32. Kf2 h5 33. Rc7 b5
+34. Ke2 Rc2+ 35. Ke3 Rxh2 36. Rxc6 Rg2 37. Rxc5 Rxg3+ 38. Ke4 b4 39. Rc8+ Ke7
+40. Rc7+ Ke6 41. Rb7 b3 42. Rb6+ 0-1

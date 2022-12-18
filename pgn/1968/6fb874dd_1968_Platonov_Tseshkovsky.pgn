@@ -1,0 +1,19 @@
+[Event "Alma Ata ch-URS"]
+[Site "Alma Ata ch-URS"]
+[Date "1968.12.01"]
+[Round "13"]
+[White "Platonov, Igor V"]
+[Black "Tseshkovsky, Vitaly"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "6fb874dd"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. e4 Ne8 8. Bd3
+Nc6 9. O-O Bxc3 10. bxc3 Na5 11. f4 Bxc4 12. f5 exf5 13. Nxf5 Nd6 14. Nh6+ gxh6
+15. e5 Bxd3 16. Qxd3 Ndc4 17. Rf6 Kh8 18. Bxh6 Qe7 19. Raf1 d5 20. R1f3 Nxe5
+21. dxe5 Qxe5 22. Bxf8 Rxf8 23. Rxf7 Rxf7 24. Rxf7 Qe1+ 25. Rf1 1-0

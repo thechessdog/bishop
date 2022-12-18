@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Kozlov, Vladimir N"]
+[Black "Lepeshkin, Vladimir"]
+[Result "1-0"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "1a334bff"]
+[Epoch "Bishop"]
+[BlackID "4104986"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nb3 b5 11. Bxf6 gxf6 12. Kb1 Qb6 13. Be2 h5 14. Bf3
+O-O-O 15. Qe2 Kb8 16. Nd5 exd5 17. exd5 Ne5 18. fxe5 dxe5 19. Bxh5 f5 20. Bxf7
+Rdf8 21. Be6 Be8 22. Rdf1 Bg6 23. Qe1 Rh4 24. Na5 Bg5 25. Nc6+ Kb7 26. Qg3 Rg4
+27. Qxg4 fxg4 28. Rxf8 Qc5 29. Rb8+ Kc7 30. Rc8+ Kb6 31. Nxe5 Bxc2+ 32. Ka1 Qf2
+33. Rc6+ Kb7 34. Bc8+ 1-0

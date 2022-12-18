@@ -1,0 +1,18 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Krastev, Stilian"]
+[Black "Donev, Ivo"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "b96068aa"]
+[Epoch "Bishop"]
+[BlackID "2900262"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 d5 5. exd6 Bf5 6. dxc7 Qxc7 7. Qa4+ Nc6
+8. Nf3 O-O-O 9. Bd2 Qb6 10. Qc2 Qxf2+ 11. Kd1 Bb4 12. Kc1 Nxd2 13. Nbxd2 Rxd2
+14. Nxd2 Qe1+ 15. Qd1 Bxd2# 0-1

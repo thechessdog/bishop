@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1971.07.01"]
+[Round "9"]
+[White "Enklaar, Bertus F"]
+[Black "Van Geet, Dirk Daniel"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "0ceed6c1"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "NLD"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 Nf6 4. Nf3 Bg4 5. cxd5 Nxd5 6. e4 Bxf3 7. gxf3 Nxc3
+8. bxc3 e5 9. Bb5 Bd6 10. d5 a6 11. dxc6 axb5 12. cxb7 Rb8 13. Rg1 Qf6 14. Qd5
+O-O 15. Ke2 Qe6 16. Qxb5 Rfd8 17. Qb3 Rxb7 18. Qxe6 fxe6 19. Rd1 Ra8 20. Be3
+Ba3 21. Rab1 Bb2 22. Rd2 Rxa2 23. Rc2 Bxc3 24. Rxb7 Rxc2+ 25. Kd3 Rb2 26. Rxc7
+Be1 27. Rc2 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Gastaldi"]
+[Black "Koszegi"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "31182d29"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 Bg7 4. e5 Ng8 5. Be3 d6 6. f4 dxe5 7. dxe5 Qxd1+
+8. Rxd1 Nh6 9. Nd5 1-0
+

@@ -1,0 +1,16 @@
+[Event "corr Russia"]
+[Site "corr Russia"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Muratov, Vladimir"]
+[Black "Baranoy"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "f5be0cc4"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 Ng4 6. Bxf7+ Kxf7 7. Ng5+
+Kg8 8. Qf3 Bb4+ 9. c3 Ncxe5 10. Qd5+ Kf8 11. Ne6+ 1-0
+

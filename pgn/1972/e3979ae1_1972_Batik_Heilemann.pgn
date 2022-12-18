@@ -1,0 +1,23 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Batik"]
+[Black "Heilemann"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "e3979ae1"]
+[Epoch "Bishop"]
+
+1. Nf3 Nf6 2. d4 e6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 c5 6. O-O Nc6 7. c3 Be7 8.
+dxc5 bxc5 9. e4 Qc7 10. Qe2 d6 11. Re1 O-O 12. Nf1 Rfe8 13. Ng3 a5 14. Bf4
+Nd7 15. Rad1 Nf8 16. e5 d5 17. Ng5 Bxg5 18. Bxg5 Qxe5 19. Qxe5 Nxe5 20.
+Rxe5 f6 21. Bxf6 gxf6 22. Re2 Ng6 23. Bb5 Re7 24. f3 Rb8 25. a3 Ba8 26. c4
+Nf4 27. Rf2 e5 28. Nf5 Ra7 29. a4 d4 30. Nd6 Rf8 31. Nf5 Kf7 32. Kf1 Ke6
+33. Ng3 f5 34. Ne2 Nxe2 35. Kxe2 Raf7 36. Rdf1 Ke7 37. g3 Rf6 38. Ke1 e4
+39. fxe4 fxe4 40. Rxf6 Rxf6 41. Rxf6 Kxf6 42. Bd7 Ke5 43. Ke2 e3 44. Bh3
+Bc6 45. Bg4 Bxa4 46. Bf3 Bd7 47. Kd3 Bh3 48. Ke2 Kf5 49. Bc6 Bg4+ 50. Kd3
+Ke5 0-1
+

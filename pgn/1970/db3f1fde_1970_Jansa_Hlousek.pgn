@@ -1,0 +1,33 @@
+[Event "CSR-ch Havirov"]
+[Site "Havirov"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Jansa, Vlastimil"]
+[Black "Hlousek, Zdenek"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "db3f1fde"]
+[Epoch "Bishop"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackID "343951"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nf6 7. Bg2 Nc6 8. O-O
+Be7 9. Re1 Nxd4 10. Qxd4 e5 11. Qd3 d6 12. Bg5 Be6 13. Rad1 Nd7 14. Bxe7 Kxe7
+15. Rd2 Rhd8 16. f4 Nc5 17. Qe3 f6 18. Bh3 Kf8 19. Bxe6 Nxe6 20. f5 Nd4 21. Nd5
+Qc5 22. Kf2 Rac8 23. c3 Nc6 24. Nb6 Qxe3+ 25. Kxe3 Na5 26. Nxc8 Nc4+ 27. Kd3
+Nxd2 28. Nb6 Nf3 29. Re2 Ng5 30. a4 g6 31. Rf2 gxf5 32. Rxf5 Kg7 33. Nd5 Ne6
+34. b4 Rf8 35. a5 Rf7 36. Rf2 Kg6 37. Ne3 Ng7 38. Kc4 Rc7+ 39. Kd3 Rf7 40. Nc4
+Ne8 41. g4 Nc7 42. Ne3 Ne6 43. Nd5 Nc7 44. Rf5 Ne8 45. h4 Kg7 46. Kc4 Rd7 47.
+Rf3 Kg6 48. Nb6 Rd8 49. Nd5 Rd7 50. Rf2 Kg7 51. Kd3 Kg6 52. c4 Rf7 53. b5 Nc7
+54. bxa6 Nxa6 55. Rb2 Nc5+ 56. Ke3 Rd7 57. Nb6 Rd8 58. Rf2 Nb3 59. Nd5 Nxa5 60.
+Rxf6+ Kg7 61. Kd3 Nb3 62. g5 Nc5+ 63. Ke3 Rf8 64. Rxd6 Rf1 65. Nf6 Re1+ 66. Kf3
+Rf1+ 67. Kg2 Rc1 68. Rd5 Rxc4 69. Rxe5 Kf7 70. Ne8 Kg6 71. Nd6 Rc3 72. Re7 h6
+73. gxh6 Kxh6 74. Nxb7 Nxb7 75. Rxb7 Kh5 76. Rh7+ Kg6 77. Rh8 Re3 78. Re8 Kh5
+79. Kf2 Ra3 80. Rh8+ Kg4 81. h5 Kg5 82. h6 Kg6 83. e5 Ra5 84. Re8 Kxh6 85. Ke3
+Kg6 86. Ke4 Kf7 87. Rb8 Ke6 88. Rb6+ Ke7 89. Kf5 Ra1 90. Rb7+ Ke8 91. Kf6 Rf1+
+92. Ke6 Kd8 93. Rd7+ Ke8 94. Ra7 Kd8 95. Ra8+ Kc7 96. Ke7 Rh1 97. e6 Rh7+ 98.
+Kf6 1-0

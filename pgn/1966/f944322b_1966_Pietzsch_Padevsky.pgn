@@ -1,0 +1,23 @@
+[Event "CSR-ch Int"]
+[Site "Harrachov"]
+[Date "1966.??.??"]
+[Round "6"]
+[White "Pietzsch, Wolfgang"]
+[Black "Padevsky, Nikola"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "f944322b"]
+[Epoch "Bishop"]
+[BlackID "2900190"]
+[BlackCountry "FID"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 c5 9. Nc4 Bf6 10. a4 O-O 11. Bd2 b6 12. Bc3 Qe7 13. h3 g6 14. b3 Bg7 15.
+Qd2 f6 16. Nh2 Nb8 17. Qe1 Be6 18. f4 exf4 19. Rxf4 Nc6 20. Qf2 f5 21. Bxg7
+Qxg7 22. Re1 g5 23. Rxf5 Bxf5 24. exf5 Qd4 25. g4 Qxf2+ 26. Kxf2 Rfe8 27. Rxe8+
+Rxe8 28. Nf3 h6 29. c3 Kf7 30. Ncd2 Ne5 31. Nxe5+ Rxe5 32. Ne4 c4 33. bxc4 Ra5
+34. Ke3 Rxa4 35. c5 bxc5 36. Nxc5 Ra2 37. Ne6 a5 38. Nxc7 a4 39. Nb5 a3 40. c4
+Re2+ 0-1

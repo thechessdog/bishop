@@ -1,0 +1,25 @@
+[Event "NLD-ch playoff"]
+[Site "match"]
+[Date "1970.01.01"]
+[Round "3"]
+[White "Scholl, Eddie C"]
+[Black "Zuidema, Coen"]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "2d96e067"]
+[Epoch "Bishop"]
+[BlackID "1000101"]
+[BlackCountry "NED"]
+[WhiteID "1000390"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Be3 O-O 11. Nbd2 Na5 12. Nd4 Nxd2 13. Qxd2 c5 14. Nxe6 fxe6
+15. Bc2 Rf7 16. f4 g6 17. Qe2 Qd7 18. Rad1 Nc6 19. Kh1 Rc8 20. Qg4 Bf8 21. h4
+Ne7 22. Rf3 Nf5 23. Bf2 Rg7 24. h5 Qe8 25. Rh3 Rcc7 26. Qf3 Ne7 27. Bh4 Rf7 28.
+Qg4 Bg7 29. Bxe7 Rfxe7 30. hxg6 h6 31. Qf3 b4 32. g4 bxc3 33. bxc3 Rb7 34. Rf1
+Rb2 35. Rh2 Reb7 36. g5 Rxc2 37. Rxc2 Qxg6 38. Rh2 hxg5 39. Rg1 Rb1 40. f5 Qxf5
+41. Qxf5 Rxg1+ 42. Kxg1 exf5 43. Rh5 Bxe5 44. Rxg5+ Kf7 45. Rxf5+ Ke6 46. Rf3
+c4 47. Kf1 Kd6 1/2-1/2

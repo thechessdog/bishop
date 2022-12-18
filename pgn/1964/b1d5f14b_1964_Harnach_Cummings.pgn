@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Harnach, C."]
+[Black "Cummings, R."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "b1d5f14b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qg4 7. Qf2 e5
+8. a3 c5 9. h3 Qe6 10. Bd3 b6 11. O-O-O Bb7 12. Nf3 Bxf3 13. Qxf3 Nc6 14.
+Bf5 e4 15. Nxe4 Qe7 16. Nxf6+ Qxf6 17. Bd7+ Ke7 18. Rhe1 Qxf3 19. Bg5# 1-0
+

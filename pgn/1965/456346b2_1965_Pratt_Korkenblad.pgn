@@ -1,0 +1,16 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Pratt"]
+[Black "Korkenblad"]
+[Result "1-0"]
+[ECO "C27"]
+[Opening "Vienna"]
+[Variation "Adams' gambit"]
+[HashCode "456346b2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nxe4 4. Qh5 Nd6 5. Bb3 Nc6 6. d4 exd4 7. Nd5 g6
+8. Qe2+ Be7 9. Nf6+ Kf8 10. Bh6# 1-0
+

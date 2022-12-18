@@ -1,0 +1,16 @@
+[Event "Trouville"]
+[Site "Trouville"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Roughman"]
+[Black "Gedult, Jean"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "f6eeb905"]
+[Epoch "Bishop"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 f6 4. Bf4 fxe5 5. Nxe5 Qf6 6. Nxc6 dxc6 7. Bc1
+Bg4 8. h3 Rd8 9. Nd2 Bc5 0-1
+

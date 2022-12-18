@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Andersen, Henrik"]
+[Black "Hvenekilde, Jorgen"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "c1b7d39f"]
+[Epoch "Bishop"]
+[BlackID "1400649"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. d4 Nxd4 7. Bb3 Rf8 8.
+Nc3 d6 9. Nd5+ Nxd5 10. Bxd5 Qe8 11. Nxh7 Qg6 12. Nxf8 Qxg2 13. Kd2 Qxf2+ 14.
+Kc3 Bg4 15. Bg5+ Ke8 16. Rf1 Nb5+ 17. Kb3 Nd4+ 18. Kc3 Bb4+ 19. Kxb4 a5+ 20.
+Ka3 Nb5+ 21. Ka4 Qc5 22. Bf7+ 0-1

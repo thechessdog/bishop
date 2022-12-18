@@ -1,0 +1,19 @@
+[Event "France"]
+[Site "France"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Corinthios"]
+[Black "Benoit, Michel"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "cac64c34"]
+[Epoch "Bishop"]
+[BlackID "602400"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 e6 6. Nc3 Nxd5 7. Nxd5 exd5 8.
+Qxd5 Nc6 9. Nf3 Bxa6 10. Ne5 Nxe5 11. Qxe5+ Be7 12. e4 Qb6 13. Be3 Kd8 14. Rd1
+Re8 15. Qd5 Ra7 16. Bxa6 Qxa6 17. a3 Bf6 18. Bg5 Bxg5 19. Qxg5+ f6 20. Qe3 Rb7
+21. Rd2 Qc4 22. Kd1 Rxe4 23. Rc2 Qd5+ 24. Rd2 Qc4 25. Rc2 Rd4+ 26. Rd2 Rxb2 27.
+Qxd4 Rb1# 0-1

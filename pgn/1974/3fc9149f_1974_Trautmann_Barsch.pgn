@@ -1,0 +1,17 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Trautmann"]
+[Black "Barsch"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "3fc9149f"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. c4 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Nf5 d6 7. Nc3 Bxf5 8.
+exf5 Nge7 9. Bg5 Qb6 10. f6 gxf6 11. Bxf6 Rg8 12. Qd2 Rg6 13. Bg5 Qd4 14.
+Qc1 Nb4 15. Be3 Nd3+ 16. Bxd3 Qxd3 17. Ne2 Rc8 18. b3 d5 19. Qb2 d4 0-1
+

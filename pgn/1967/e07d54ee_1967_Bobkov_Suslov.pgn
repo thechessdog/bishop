@@ -1,0 +1,18 @@
+[Event "Mogilov"]
+[Site "Mogilov"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Bobkov"]
+[Black "Suslov"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "e07d54ee"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 b6 7. Ndf3 Ba6 8.
+Bxa6 Nxa6 9. Ne2 b5 10. O-O Be7 11. Ng3 g6 12. Ng5 h6 13. Nxf7 Kxf7 14. f5
+Nf8 15. fxg6+ Kg8 16. Qg4 Bg5 17. Rxf8+ Kxf8 18. Qf3+ Bf6 19. exf6 Kg8 20.
+Nh5 1-0
+

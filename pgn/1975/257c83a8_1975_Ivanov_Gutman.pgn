@@ -1,0 +1,19 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Ivanov, Igor Vasilyevich"]
+[Black "Gutman, Lev"]
+[Result "0-1"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit"]
+[HashCode "257c83a8"]
+[Epoch "Bishop"]
+[BlackID "4600177"]
+[BlackCountry "GER"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Be5 c6 7. Nf3 Bg4 8. Qb3
+Nbd7 9. Bg3 dxc4 10. Qxb7 Bxf3 11. gxf3 c5 12. d5 Ne8 13. Bxc4 Nd6 14. Qa6 Rb8
+15. Bb3 Rb4 16. O-O c4 17. Bxd6 exd6 18. Qxd6 Rb6 0-1

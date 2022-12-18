@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Guskov"]
+[Black "Churkin"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "767e6aa2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6 6. Bc4 Bg7 7. O-O d6
+8. Qe2 Nf6 9. e5 Nxe5 10. Nxe5 dxe5 11. Rd1 Qa5 12. b4 Qxb4 13. Bb5+ Bd7
+14. Bxd7+ Nxd7 15. Nd5 Qa5 16. Rb1 e6 17. Rb5 Qd8 18. Ba3 Bf8 19. Rxb7 exd5
+20. Rxd7 Qg5 21. Qb5 Bxa3 22. Rxa7+ Kf8 23. Rxa8+ 1-0
+

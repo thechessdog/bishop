@@ -1,0 +1,20 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Batik"]
+[Black "Brilla Banfalvi"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "9b0b5641"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. Ne5 a6 10. Ne2 Bd6 11. Ng3 c5 12. Nf5 Nc6 13. f4 g6 14. Nxc6
+Bxc6 15. Nxd6 Qxd6 16. dxc5 bxc5 17. b3 Rfe8 18. Re1 d4 19. Bc4 Re7 20.
+exd4 Qxd4+ 21. Qxd4 Rxe1+ 22. Kf2 cxd4 23. Kxe1 Bxg2 24. Bb2 Ng4 25. Bxd4
+Nxh2 26. Kf2 Bc6 27. Be2 h5 28. Kg3 Ng4 29. Bxg4 hxg4 30. Kxg4 Rd8 31. Rd1
+Rd5 32. Rd2 f6 33. b4 1/2-1/2
+

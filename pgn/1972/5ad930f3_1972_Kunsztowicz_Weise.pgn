@@ -1,0 +1,18 @@
+[Event "Oberursel"]
+[Site "Oberursel"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Kunsztowicz, Uwe"]
+[Black "Weise, Dietrich"]
+[Result "1-0"]
+[ECO "E31"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, main line"]
+[HashCode "5ad930f3"]
+[Epoch "Bishop"]
+[WhiteID "4602773"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 d6 7. Rc1 e5 8. e3
+Bxc3+ 9. Rxc3 Nbd7 10. Bd3 e4 11. Bb1 Qe7 12. Ne2 O-O 13. O-O g5 14. Bg3 Ne5
+15. Bxe5 Qxe5 16. Ng3 b5 17. f4 Qe7 18. cxb5 g4 19. Rc4 1-0

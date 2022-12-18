@@ -1,0 +1,18 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1960.01.01"]
+[Round "7"]
+[White "Sherwin, James T"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "b1702d3a"]
+[Epoch "Bishop"]
+[WhiteID "2000997"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Bd7 9. Qe2 Qe7 10. a3 Bxc3 11. bxc3 Bc6 12. Ne5 Bd5 13. Bd3 Be4 14. Bc4 1/2-1/2

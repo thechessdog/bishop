@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Kapengut, Albert Z"]
+[Black "Tukmakov, Vladimir B"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "e3b362c1"]
+[Epoch "Bishop"]
+[WhiteID "13500058"]
+[WhiteCountry "USA"]
+[BlackID "14100096"]
+[BlackCountry "UKR"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be2 Nf6 5. h4 c5 6. d5 h5 7. Nh3 Na6 8. Ng5 Nc7
+9. O-O O-O 10. a4 e6 11. dxe6 Nxe6 12. Bc4 Nd4 13. Nb5 Nxe4 14. Nxe4 Qxh4 15.
+Nbxd6 Be5 16. g3 Qe7 17. Bg5 Qc7 18. Nxc8 Raxc8 19. c3 Nf5 20. Re1 1-0

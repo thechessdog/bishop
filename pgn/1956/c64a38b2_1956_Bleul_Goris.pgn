@@ -1,0 +1,20 @@
+[Event "Beverwijk-C"]
+[Site "Beverwijk-C"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Bleul"]
+[Black "Goris"]
+[Result "0-1"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "c64a38b2"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. g4 e5 7. d5 Nbd7 8. h4
+Nc5 9. Bf3 a5 10. h5 Bd7 11. g5 Ne8 12. hxg6 fxg6 13. Be3 Rb8 14. a4 Rf7
+15. Bg2 c6 16. Qc2 Nc7 17. O-O-O cxd5 18. exd5 N7a6 19. b3 Nb4 20. Qb1 e4
+21. Nxe4 Bf5 22. Ne2 b5 23. axb5 Ra8 24. N2g3 a4 25. Bxc5 a3 26. Bxb4 a2
+27. Kd2 axb1=Q 28. Rxb1 Ra2+ 29. Ke1 Qb6 30. Bxd6 Bxe4 31. Nxe4 Bc3+ 32.
+Kd1 Qd4+ 0-1
+

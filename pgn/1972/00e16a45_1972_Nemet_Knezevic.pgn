@@ -1,0 +1,14 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Nemet, Ivan"]
+[Black "Knezevic, Milorad"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "00e16a45"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. g4 d5 2. g5 e5 3. c4 dxc4 4. Na3 Bxa3 5. bxa3 Qd4 0-1

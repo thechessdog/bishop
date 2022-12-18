@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1972.01.01"]
+[Round "8"]
+[White "Diesen, Mark Carl"]
+[Black "Gruchacz, Robert"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "8a3c41c3"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bh4 Nbd7 10. O-O-O Qc7 11. h3 b5 12. Bd3 Bb7 13. a3 b4 14. axb4 Qb6 15.
+Bf2 Qxb4 16. g4 g5 17. h4 gxf4 18. g5 Ne5 19. Qxf4 Nfd7 20. Be2 hxg5 21. hxg5
+Rxh1 22. Rxh1 Ng6 23. Qd2 Nde5 24. b3 Qa3+ 25. Kb1 Rc8 26. Nf3 Qb4 27. Kb2 Nxf3
+28. Bxf3 Bxg5 29. Be3 Bf6 30. Qe2 Qxc3+ 31. Kc1 Qa1+ 32. Kd2 Bc3+ 0-1

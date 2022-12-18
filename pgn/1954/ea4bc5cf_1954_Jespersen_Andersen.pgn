@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Jespersen, A."]
+[Black "Andersen, Henrik"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "ea4bc5cf"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Rb8 9. Bxc6+ Nxc6 10. Qxc6+ Nd7 11. d3 Bc5 12. Qf3 O-O 13. O-O
+Rb6 14. Nc3 Bb7 15. Qe2 f5 16. Nf3 Rg6 17. Kh1 e4 18. dxe4 Ba6 19. Nb5 fxe4
+20. Ne1 Qh4 21. c4 Ne5 22. f3 exf3 23. gxf3 Qh3 24. Ng2 Nxf3 25. Nf4 Rxf4
+26. Bxf4 Bb7 0-1
+

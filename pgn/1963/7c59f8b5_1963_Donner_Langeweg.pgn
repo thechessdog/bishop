@@ -1,0 +1,23 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1963.01.01"]
+[Round "10"]
+[White "Donner, Jan Hein"]
+[Black "Langeweg, Kick"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "7c59f8b5"]
+[Epoch "Bishop"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bh4 a6 11. a4 g5 12. Bg3 Ne8 13. e4 f5 14. exf5 Bxf5 15. Be2
+b6 16. O-O Ra7 17. Bg4 Raf7 18. Bxf5 Rxf5 19. Qe2 Kh8 20. Rae1 Bd4 21. Qh5 R5f6
+22. Ne4 Ng7 23. Qh3 Rg6 24. Bxd6 Rf5 25. Qg3 Nd7 26. Nc3 Bxc3 27. bxc3 Rxd5 28.
+Be7 Qg8 29. Qc7 Qb8 30. Qxb8+ Nxb8 31. Rd1 Rxd1 32. Rxd1 Nc6 33. Bd6 Nf5 34.
+Bc7 b5 35. axb5 axb5 36. Nd6 Nxd6 37. Bxd6 c4 38. Kf1 Re6 39. Bc5 Kh7 40. Rd7+
+Kg6 41. Rb7 Re5 42. Be3 1-0

@@ -1,0 +1,20 @@
+[Event "corr Baltic"]
+[Site "corr Baltic"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Sliwa"]
+[Black "Ekblom"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "4a7a41fa"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 b6 4. Nc3 Bb4 5. Qb3 Qe7 6. a3 Bxc3+ 7. Qxc3 Bb7
+8. g3 O-O 9. Bg2 c5 10. O-O cxd4 11. Qxd4 Nc6 12. Qh4 Ne8 13. Qxe7 Nxe7 14.
+Rd1 d5 15. Ne5 f6 16. Nd3 Rd8 17. c5 Nc7 18. cxb6 axb6 19. Be3 Nc8 20. Rac1
+Rd7 21. a4 Ba6 22. Rc6 d4 23. Bxd4 Rxd4 24. Rxc7 Rf7 25. Rc6 Rfd7 26. Bh3
+f5 27. b4 R7d6 28. Rdc1 Ne7 29. Rxd6 Rxd6 30. b5 Bc8 31. Ne5 Rd2 32. Nc4
+Rxe2 33. Bf1 Ra2 34. Nxb6 Bb7 35. Rc7 1-0
+

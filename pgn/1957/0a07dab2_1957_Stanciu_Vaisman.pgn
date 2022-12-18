@@ -1,0 +1,17 @@
+[Event "Cracow"]
+[Site "Cracow"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Stanciu, T."]
+[Black "Vaisman, Volodia"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "0a07dab2"]
+[Epoch "Bishop"]
+[BlackID "600296"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Bd3 Nc6 8.
+Qf4 Be7 9. Nc3 Be6 10. Be3 Qc8 11. O-O-O Bf5 12. Nd5 O-O 13. Nd4 1-0

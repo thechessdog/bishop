@@ -1,0 +1,18 @@
+[Event "Islington"]
+[Site "Islington"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kottnauer, Cenek"]
+[Black "Linton"]
+[Result "1-0"]
+[ECO "E93"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, Keres variation"]
+[HashCode "78b45e9c"]
+[Epoch "Bishop"]
+[WhiteCountry "CZE"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 Nbd7 8. Bg5
+h6 9. Bh4 g5 10. Bg3 Nh5 11. h4 Nf4 12. hxg5 hxg5 13. Qc2 Nxg2+ 14. Kd2 Qf6 15.
+Rag1 Nf4 16. Nxg5 Bh6 17. Ke1 Ng6 18. Ne6 fxe6 19. Rxh6 Kf7 20. Bh5 Rg8 21. Bh4
+1-0

@@ -1,0 +1,18 @@
+[Event "Phoenix"]
+[Site "Phoenix"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Gollub, D."]
+[Black "Travis, S."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "51e331ec"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ne4 6. O-O d5 7. exd6 Nxd6
+8. Bb3 O-O 9. d4 g5 10. Nc3 c6 11. h4 h6 12. Ne5 Kg7 13. Qh5 Nf5 14. Ne2
+Ng3 15. Nxg3 Qxd4+ 16. Kh1 Qxe5 17. Bxf4 Qd4 18. Bxf7 Rxf7 19. Be5+ Qxe5
+20. Rxf7+ Kg8 21. Qg6+ 1-0
+

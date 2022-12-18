@@ -1,0 +1,20 @@
+[Event "Leipzig olm fin-C"]
+[Site "Leipzig"]
+[Date "1960.??.??"]
+[Round "7"]
+[White "Zubieta"]
+[Black "Soler, Juan"]
+[Result "1-0"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "f73f1497"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Nf3 O-O 6. Bd3 Nbd7 7. O-O c6 8.
+Qc2 h6 9. Rd1 Qe7 10. a3 Ba5 11. b4 Bb6 12. Bb2 dxc4 13. Bxc4 Rd8 14. h3
+Nf8 15. Ne5 Bd7 16. Rac1 Be8 17. Ba2 Rac8 18. Bb1 N6d7 19. Nc4 Bc7 20. Ne4
+f5 21. Nc5 Nxc5 22. dxc5 Nh7 23. Ba2 Kh8 24. e4 fxe4 25. Qxe4 Nf6 26. Qh4
+Bf7 27. Nd6 Bg8 28. Nxc8 Rxc8 29. Rd3 Rf8 30. Rcd1 Qe8 31. Rd7 Qc8 32. Bxf6
+Rxf6 33. Qg4 g6 34. Bb1 Bh7 35. Re7 Bd8 36. Re8+ Kg7 37. Rdxd8 1-0
+

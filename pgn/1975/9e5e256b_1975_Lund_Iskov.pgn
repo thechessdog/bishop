@@ -1,0 +1,21 @@
+[Event "Odense op"]
+[Site "Odense"]
+[Date "1975.01.01"]
+[Round "10"]
+[White "Lund, Jens Christian"]
+[Black "Iskov, Gert"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "9e5e256b"]
+[Epoch "Bishop"]
+[WhiteID "1409123"]
+[WhiteCountry "DEN"]
+[BlackID "1400398"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 a6 5. g3 d5 6. Bg2 e5 7. Nf3 e4 8. Nd4
+dxc4 9. O-O Bc5 10. Nc2 Qxd1 11. Rxd1 b5 12. Nc3 Bb7 13. Bg5 Nbd7 14. Ne3 O-O
+15. Ned5 Rae8 16. Nxf6+ Nxf6 17. Bxf6 gxf6 18. Rd7 Bc6 19. Rc7 Rc8 20. Rxc8
+Rxc8 21. Rd1 e3 22. f4 b4 23. Nd5 Kg7 24. Be4 a5 25. f5 Ba4 26. Rc1 Bd4 0-1

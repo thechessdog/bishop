@@ -1,0 +1,21 @@
+[Event "Subotica"]
+[Site "Subotica"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Kotkov, Yuri"]
+[Black "Belinkov, A."]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "b5f43cf0"]
+[Epoch "Bishop"]
+[WhiteID "54142938"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qc7 8.
+Qf3 e6 9. O-O-O Be7 10. g4 b5 11. Bxf6 gxf6 12. f5 Ne5 13. Qh3 O-O 14. Nce2 Kh8
+15. Nf4 Rg8 16. Be2 Bb7 17. fxe6 fxe6 18. Ndxe6 Qa5 19. Kb1 Bxe4 20. Rhf1 Rac8
+21. Bd3 Bxd3 22. cxd3 b4 23. Nh5 b3 24. axb3 Rb8 25. d4 Nc6 26. Rf5 Rb5 27. d5
+Nb4 28. Qc3 Qa2+ 29. Kc1 Nxd5 30. Ng5 Qa1+ 31. Kd2 Qxd1+ 32. Kxd1 Nxc3+ 33.
+bxc3 Rxg5 0-1

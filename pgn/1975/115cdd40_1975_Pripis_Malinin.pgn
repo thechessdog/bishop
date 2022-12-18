@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pripis, Felix"]
+[Black "Malinin"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "115cdd40"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 f5 10. Qh5 d5 11. O-O-O Bxa3 12. Nxd5 Be6 13. Bc4 Nd4
+14. Rhe1 Rc8 15. Rxd4 exd4 16. exf5 Qa5 17. Rxe6+ Kd8 18. Qh4+ Kd7 19. Nf6+
+Kc7 20. Qf4+ 1-0
+

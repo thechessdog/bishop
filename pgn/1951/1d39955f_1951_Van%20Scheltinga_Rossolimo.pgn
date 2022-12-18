@@ -1,0 +1,20 @@
+[Event "Staunton mem"]
+[Site "Birmingham"]
+[Date "1951.01.01"]
+[Round "10"]
+[White "van Scheltinga, Theo Daniel"]
+[Black "Rossolimo, Nicolas"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "1d39955f"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nf3 O-O 6. O-O Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. f3 c6 11. Nc2 Nb6 12. Ne3 Be6 13. Qd3 d5 14. cxd5 cxd5 15.
+e5 Nfd7 16. f4 Nxe5 17. fxe5 d4 18. Rd1 dxc3 19. Bxb7 Qxd3 20. Rxd3 Rab8 21.
+Bc6 cxb2 22. Bxb2 Rec8 23. Be4 Nc4 24. Bd4 Nxe5 25. Rd2 Nc4 26. Nxc4 Rxc4 27.
+Bxg7 Kxg7 28. Re1 Ra4 29. Ree2 Bg4 30. Bc6 Ra6 31. Re4 Bf3 0-1

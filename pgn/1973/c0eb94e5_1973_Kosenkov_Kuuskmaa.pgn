@@ -1,0 +1,21 @@
+[Event "corr URS/K"]
+[Site "corr URS/K"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kosenkov"]
+[Black "Kuuskmaa"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "c0eb94e5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 Nbd7 7. Bc4 Qa5
+8. Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 O-O-O 12. a3 Be7 13. Kb1 Kb8 14.
+f4 h6 15. Bxf6 Bxf6 16. f5 exf5 17. Bxf7 Bg5 18. Qe2 Ne5 19. Bb3 f4 20. Nf5
+Qc7 21. Nd5 Bxd5 22. Rxd5 Nc6 23. a4 Nb4 24. Rd4 Nc6 25. axb5 Nxd4 26. Nxd4
+axb5 27. Qxb5+ Qb7 28. Qa5 Rc8 29. Bd5 Bd8 30. Qa3 Qb6 31. Qa8+ Kc7 32.
+Nb5+ Kd7 33. Be6+ Kxe6 34. Qxc8+ Kf7 35. Qd7+ Be7 36. e5 Rd8 37. Nxd6+ Qxd6
+38. Qf5+ 1-0
+

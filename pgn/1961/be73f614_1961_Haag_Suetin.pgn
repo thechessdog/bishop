@@ -1,0 +1,19 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Haag, Ervin"]
+[Black "Suetin, Alexey S"]
+[Result "0-1"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "be73f614"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. a3 b5 8. Bd3
+Bb7 9. Nb3 Ne5 10. O-O Nf6 11. f4 Nc4 12. Bd4 Nxb2 13. Nxb5 axb5 14. Bxb2 Nxe4
+15. Qh5 Nc5 16. Bxb5 Qb6 17. Nd4 Na4 18. Rae1 Bc5 19. Bxd7+ Kxd7 20. Qxf7+ Kc8
+21. Rxe6 Bxd4+ 22. Bxd4 Qxd4+ 23. Kh1 Rd8 24. Rb1 Qd1+ 25. Re1 Qd5 26. Qxg7 Rg8
+27. Rxb7 Rxg7 28. Rxg7 Kd8 29. f5 Ra6 0-1

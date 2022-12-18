@@ -1,0 +1,19 @@
+[Event "CSFR"]
+[Site "CSFR"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Kobr"]
+[Black "Bohak, Janko"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "dbd5e09e"]
+[Epoch "Bishop"]
+[BlackID "14600536"]
+[BlackCountry "SLO"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. O-O-O Nf6 7. Qxg7 Rg8
+8. Qh6 Rg6 9. Qh4 Nbd7 10. Nf3 Qb6 11. Ng5 Nf8 12. Ncxe4 Be7 13. Bd3 Nxe4 14.
+Bxe4 f5 15. Bf3 Bf6 16. c3 Ke7 17. Bh5 Rg7 18. Be3 Qa5 19. Qa4 Qxa4 20. Bc5#
+1-0

@@ -1,0 +1,17 @@
+[Event "CSFR"]
+[Site "CSFR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Faifr"]
+[Black "Voboril, Pavel"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "b54bc7db"]
+[Epoch "Bishop"]
+[BlackID "302058"]
+[BlackCountry "CZE"]
+
+1. b4 d5 2. Bb2 Qd6 3. a3 e5 4. Nf3 f6 5. e3 Bg4 6. Be2 Nd7 7. d4 Bxf3 8. gxf3
+Ne7 9. dxe5 Nxe5 10. Nd2 g6 11. c4 dxc4 12. Nxc4 Nxc4 13. Bxc4 Qxd1+ 14. Rxd1
+Bg7 15. Be6 Rd8 16. Ke2 Nc8 17. Rc1 c6 18. Bd4 Nd6 19. a4 Ke7 20. Bb3 1-0

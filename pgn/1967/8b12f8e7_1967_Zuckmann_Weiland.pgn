@@ -1,0 +1,17 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Zuckmann, V."]
+[Black "Weiland, K."]
+[Result "0-1"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Lopez gambit"]
+[HashCode "8b12f8e7"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qe2 Nc6 4. c3 Bc5 5. f4 O-O 6. fxe5 Nxe5 7. d4 Nxc4
+8. Qxc4 d5 9. Qxc5 Nxe4 10. Qb5 Qh4+ 11. g3 Nxg3 12. hxg3 Qxg3+ 13. Kf1 Bf5
+14. Nd2 c6 15. Rh5 cxb5 0-1
+

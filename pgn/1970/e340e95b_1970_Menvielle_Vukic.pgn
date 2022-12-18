@@ -1,0 +1,24 @@
+[Event "Kapfenberg etc"]
+[Site "Kapfenberg etc"]
+[Date "1970.05.01"]
+[Round "1"]
+[White "Menvielle, A."]
+[Black "Vukic, Milan"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "e340e95b"]
+[Epoch "Bishop"]
+[BlackID "900273"]
+[BlackCountry "BIH"]
+
+1. e4 c6 2. d3 d5 3. Nd2 dxe4 4. dxe4 e5 5. Ngf3 Bc5 6. Bc4 Qe7 7. O-O Nf6 8.
+Qe2 O-O 9. Nb3 Bb6 10. a4 a5 11. Bg5 Bg4 12. h3 Bh5 13. Be3 Bxe3 14. Qxe3 Bxf3
+15. Qxf3 Nbd7 16. Qe3 Qb4 17. Bd3 Rfd8 18. Qe1 Qxe1 19. Rfxe1 b6 20. Rad1 Kf8
+21. g3 Ke7 22. Bf1 Ne8 23. f3 Nd6 24. Kf2 f6 25. h4 Rab8 26. Rd3 Nb7 27. Red1
+Nbc5 28. Nxc5 bxc5 29. Bh3 Nb6 30. b3 Rxd3 31. Rxd3 c4 32. bxc4 Rb7 33. Rb3 Kd6
+34. Bf1 Kc5 35. Bd3 Ra7 36. Ra3 Ra8 37. h5 Rb8 38. Ke2 Nd7 39. Ra1 Rb4 40. h6
+g6 41. f4 Kd6 42. Ke3 Nc5 43. Be2 Rxa4 44. Rd1+ Ke7 45. Rb1 Rb4 46. Rxb4 axb4
+47. f5 Kf7 48. g4 g5 49. Bd3 Ke7 50. Bf1 Kd6 51. Be2 Nb7 52. Kd3 Kc5 53. c3
+bxc3 54. Kxc3 Nd6 55. Bd3 Nf7 56. Bf1 Nxh6 57. Be2 Nf7 0-1

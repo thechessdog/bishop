@@ -1,0 +1,19 @@
+[Event "Springfield,MA"]
+[Site "Springfield,MA"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Lees, David"]
+[Black "Burger, H."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "bad7cb1a"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. Qb3 e6 7. Bg5 dxc4 8.
+Bxc4 Be7 9. Nf3 Nc6 10. Rd1 Na5 11. Bb5+ Nd7 12. Bxe7 Qxe7 13. Qa4 b6 14. O-O
+O-O 15. d5 a6 16. Bd3 Ra7 17. Qf4 Kg7 18. Rfe1 Nc5 19. Bb1 Nab7 20. Ne5 Qf6 21.
+Qg3 Nd8 22. Ng4 Qg5 23. f4 Qe7 24. f5 Qb7 25. f6+ Kh8 26. Qh4 Qc7 27. Qh6 Rg8
+28. d6 Qd7 29. Re5 Qe8 30. Qxh7+ Kxh7 31. Rh5# 1-0

@@ -1,0 +1,19 @@
+[Event "Rio de Janeiro zt"]
+[Site "Rio de Janeiro zt"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Perez Alcocer, Jose"]
+[Black "Letelier, Rene"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "52194cc4"]
+[Epoch "Bishop"]
+[BlackCountry "CHL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Bc5 6. c3 b5 7. Bc2 d6 8. d3
+Qe7 9. Nbd2 O-O 10. Nf1 Nd8 11. Ne3 g6 12. h3 Ne6 13. Nd5 Nxd5 14. exd5 Ng7 15.
+d4 Bb6 16. dxe5 dxe5 17. O-O Re8 18. Re1 Qd6 19. Ng5 f5 20. Rd1 h6 21. Ne6 Kh7
+22. Qd2 g5 23. g4 e4 24. Kg2 Nxe6 25. dxe6 Qxe6 26. Bb3 Qf6 27. h4 fxg4 28.
+hxg5 Qf3+ 29. Kg1 e3 30. Bc2+ Kh8 0-1

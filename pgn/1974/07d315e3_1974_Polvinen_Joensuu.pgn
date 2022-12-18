@@ -1,0 +1,18 @@
+[Event "corr Finland"]
+[Site "corr Finland"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Polvinen"]
+[Black "Joensuu"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "07d315e3"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bxf3 7. Qxf3
+Bd6 8. Qg3 Nf6 9. d4 Qe7 10. Qb3 O-O-O 11. f4 exd4 12. e5 Bc5 13. exf6 d3+
+14. Kh2 Qe2 15. Rh1 Rhe8 16. fxg7 Re6 17. Qxd3 Rxd3 18. g8=Q+ Rd8 19. Qg3
+Rg6 20. Re1 Bf2 21. Qxg6 Qxe1 22. Qf5+ Kb8 23. h4 Qg1+ 24. Kh3 Rg8 0-1
+

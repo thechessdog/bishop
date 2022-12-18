@@ -1,0 +1,24 @@
+[Event "Oslo CI"]
+[Site "Oslo"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Wibe, Terje"]
+[Black "Zwaig, Arne"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Steinitz variation"]
+[HashCode "7cc693a6"]
+[Epoch "Bishop"]
+[WhiteID "1500236"]
+[BlackID "1500040"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 f6 5. exd5 Qxd5 6. d4 e4 7. Nfd2 Bf5 8. Na3
+Ne7 9. Ndc4 Qd7 10. Bf4 Nd5 11. Bg3 h5 12. h4 Be6 13. Nb5 a6 14. Nxc7+ Nxc7 15.
+Nb6 Qd8 16. Bxc7 Qxc7 17. Nxa8 Qf4 18. Bxa6 e3 19. O-O-O exf2+ 20. Kb1 bxa6 21.
+Qxc6+ Kf7 22. Qc7+ Qxc7 23. Nxc7 Bf5+ 24. Kc1 Bd6 25. Rd2 Bxc7 26. Rxf2 Be4 27.
+b3 Bg3 28. Re2 Bd3 29. Kd2 Bxe2 30. Kxe2 g5 31. hxg5 fxg5 32. c4 g4 33. b4 Re8+
+34. Kd3 h4 35. a4 Re1 36. Rxe1 Bxe1 37. Ke4 Bxb4 38. Kf4 h3 39. gxh3 gxh3 40.
+Kg3 Kf6 41. Kxh3 Kf5 0-1

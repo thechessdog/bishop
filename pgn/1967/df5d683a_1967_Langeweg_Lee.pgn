@@ -1,0 +1,19 @@
+[Event "Leysin"]
+[Site "Leysin"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Lee"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "df5d683a"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. f3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 a6 10. O-O-O Nbd7 11. Kb1 b5 12. g4 Nc5 13. h4 Qa5 14. Bg2 Bd7 15. h5
+Rfc8 16. Nh3 Rab8 17. hxg6 hxg6 18. Ne2 b4 19. Nc1 Na4 20. Rde1 Rxc1+ 21. Kxc1
+Nc3 0-1

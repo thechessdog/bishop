@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Friis, E."]
+[Black "Andersen, Palle"]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "1707b798"]
+[Epoch "Bishop"]
+[BlackID "1442708"]
+[BlackCountry "DEN"]
+
+1. c4 Nf6 2. b3 g6 3. Bb2 Bg7 4. Nc3 d6 5. g3 O-O 6. Bg2 e5 7. d3 Nc6 8. Nf3
+Ne8 9. O-O f5 10. Qd2 Nf6 11. Rad1 Bd7 12. e3 Qc8 13. Ng5 h6 14. Nf3 Kh7 15. a3
+a5 16. Ne1 f4 17. exf4 exf4 18. Qxf4 Ng4 19. Qd2 Rxf2 20. Rxf2 Nxf2 21. Kxf2
+Bd4+ 22. Kf1 Qf8+ 23. Qf4 Qg7 24. Nf3 Rf8 25. Qd2 Bg4 26. Ke2 Qe5+ 27. Ne4 Bxb2
+28. Rf1 Nd4+ 29. Ke3 Bxf3 30. Bxf3 Nxf3 31. Rxf3 Bd4+ 32. Ke2 Qh5 0-1

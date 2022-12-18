@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Kollowa, K."]
+[Black "Pickhahn, W."]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "2226bc30"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. a3 Bxc3+
+8. bxc3 Ne4 9. Ne2 c5 10. f3 Nf6 11. O-O cxd4 12. cxd4 Nc6 13. Ng3 Re8 14.
+Bb1 Be6 15. Qd3 Rc8 16. Rd1 g6 17. Ra2 Na5 18. Rf2 h5 19. e4 dxe4 20. fxe4
+Ng4 21. Rf4 Bc4 22. Qf3 Bb3 23. Nxh5 Bxd1 24. Qxd1 Rxc1 25. Qxc1 Qxd4+ 26.
+Kh1 Nf2+ 27. Rxf2 Qxf2 28. Ng3 Rd8 29. e5 Qb2 30. Qe1 Qxe5 0-1
+

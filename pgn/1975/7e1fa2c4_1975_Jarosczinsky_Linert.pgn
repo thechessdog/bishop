@@ -1,0 +1,20 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Jarosczinsky"]
+[Black "Linert"]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "7e1fa2c4"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. dxc5 Bxc5 7. Nb3
+Bd6 8. Bd2 Bg4 9. Be2 Qc7 10. h3 Bh5 11. Bc3 f6 12. Qxd5 Bf7 13. Qe4+ Nge7
+14. Bc4 Bg6 15. Qe2 O-O-O 16. O-O-O Rhe8 17. Be6+ Kb8 18. Qc4 Bb4 19. Bxb4
+Nxb4 20. Rxd8+ Rxd8 21. Qxc7+ Kxc7 22. Nbd4 Ned5 23. Bxd5 Rxd5 24. a3 Nc6
+25. Ne6+ Kd6 26. Nxg7 Ke7 27. Re1+ Ne5 28. Nh4 Kf7 29. Ngf5 Nc6 30. g4 a6
+31. f4 a5 32. Ne3 Rd4 33. f5 Bh5 34. Nf3 Rf4 35. Rf1 Re4 36. Kd2 1-0
+

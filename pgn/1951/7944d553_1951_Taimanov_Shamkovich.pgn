@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Shamkovich, Leonid"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "7944d553"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 Bd7 8. a4
+Nc6 9. Ba3 b6 10. Bd3 Na5 11. O-O Ne7 12. Re1 f5 13. exf6 gxf6 14. Qc1 c4 15.
+Qh6 Nac6 16. Bf5 Kf7 17. Bxe6+ Bxe6 18. Ng5+ fxg5 19. Qxe6+ Kg7 20. Bxe7 Nxe7
+21. Qxe7+ Qxe7 22. Rxe7+ Kg6 23. Rae1 h6 24. R1e6+ Kh5 25. f3 1-0

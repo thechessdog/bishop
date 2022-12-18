@@ -1,0 +1,20 @@
+[Event "Berlijn"]
+[Site "Berlijn"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Gerusel, Mathias"]
+[Black "Hug, Werner"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Modern defence"]
+[HashCode "b19836b5"]
+[Epoch "Bishop"]
+[BlackID "1300040"]
+[BlackCountry "SUI"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 d6 5. e4 e6 6. h4 Nf6 7. Be2 exd5 8. cxd5
+O-O 9. h5 b5 10. hxg6 hxg6 11. Bxb5 Nxe4 12. Nge2 Qa5 13. Qa4 Qxa4 14. Bxa4
+Nxc3 15. Nxc3 Nd7 16. Bg5 Rb8 17. O-O-O Nb6 18. Be7 Nxa4 19. Nxa4 Re8 20. Bxd6
+Rb4 21. b3 Re2 22. Bxc5 Rxa4 23. Rde1 Raxa2 24. Rxe2 Rxe2 25. Bxa7 Ra2 26. Re1
+Ra1+ 27. Kd2 Bc3+ 28. Kxc3 Rxe1 29. d6 Kf8 30. Bc5 Ke8 31. Kd2 Re5 32. b4 Kd7
+33. Kd3 Bb7 34. g3 Ba6+ 35. Kd4 Re2 36. Kd5 f6 37. Be3 Rc2 38. Bd4 Bb7# 0-1

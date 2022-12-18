@@ -1,0 +1,18 @@
+[Event "Dallas"]
+[Site "Dallas"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Reid, R."]
+[Black "Helsem, M."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "7aafda98"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
+8. Re1 f5 9. c4 c6 10. Nbd2 h6 11. cxd5 cxd5 12. Qb3 Kh8 13. Nf1 Nc6 14.
+Ne3 Be6 15. Qxb7 Nxd4 16. Nxd4 Bxh2+ 17. Kh1 Qh4 18. Bxe4 Bg3+ 19. Kg1
+Bxf2+ 20. Kf1 Bxe1 21. Kg1 fxe4 22. Nxe6 Rf1+ 23. Nxf1 Bf2# 0-1
+

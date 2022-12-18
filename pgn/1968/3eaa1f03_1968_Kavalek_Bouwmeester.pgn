@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1968.01.01"]
+[Round "14"]
+[White "Kavalek, Lubomir"]
+[Black "Bouwmeester, Hans"]
+[Result "1/2-1/2"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "3eaa1f03"]
+[Epoch "Bishop"]
+[WhiteID "2000121"]
+[WhiteCountry "USA"]
+[BlackID "1000187"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 Ne7 8. a4
+b6 9. Bb5+ Bd7 10. O-O Bxb5 11. axb5 a5 1/2-1/2

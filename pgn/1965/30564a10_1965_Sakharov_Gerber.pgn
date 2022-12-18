@@ -1,0 +1,19 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Sakharov, Yuri G."]
+[Black "Gerber"]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[HashCode "30564a10"]
+[Epoch "Bishop"]
+[WhiteID "34113743"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 fxe4 6. Nxe5 Qh4 7. Bb3 d5 8. Nc3
+Bb4 9. O-O Bxc3 10. bxc3 Nxe5 11. dxe5 Be6 12. Bxd5 Rd8 13. Bxe6 Rxd1 14. Rxd1
+Nh6 15. g3 Qh5 16. Bd7+ Kf7 17. e6+ Ke7 18. Bf4 Rf8 19. Bxh6 gxh6 20. Rf1 Qe2
+21. Ba4 e3 22. f4 Qc4 23. Bb3 Qxc3 0-1

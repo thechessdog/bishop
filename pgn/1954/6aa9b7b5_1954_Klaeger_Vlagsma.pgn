@@ -1,0 +1,18 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Klaeger, L."]
+[Black "Vlagsma, Chris"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "6aa9b7b5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. a3 Bxc3+ 7. bxc3 d5 8.
+cxd5 exd5 9. Ne2 Nc6 10. O-O Be6 11. a4 c4 12. Bc2 Ne8 13. Nf4 Qd7 14. e4 Nc7
+15. Ba3 Rfd8 16. f3 Ne7 17. Qe1 Ng6 18. Nh5 Ne8 19. Qe3 Rac8 20. Rae1 f6 21.
+Ng3 Qc7 22. f4 Nf8 23. exd5 Bxd5 24. Nf5 Ng6 25. Qh3 Nxf4 26. Rxf4 Qxf4 27.
+Ne7+ Kf7 28. Nxd5 1-0

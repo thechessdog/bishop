@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Gurgenidze, Bukhuti"]
+[Black "Kotov, Alexander"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "chameleon variation"]
+[HashCode "90620c7c"]
+[Epoch "Bishop"]
+[WhiteCountry "GEO"]
+[BlackID "24145602"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 Nf6 4. g3 d5 5. exd5 Nd4 6. Bg2 Bg4 7. d3 Nxd5 8.
+Bxd5 Qxd5 9. f3 Qxf3 10. Rf1 Qg2 11. Bd2 Nf3+ 12. Rxf3 Qxf3 13. Ne4 Qh1+ 0-1

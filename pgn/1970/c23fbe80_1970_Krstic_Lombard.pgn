@@ -1,0 +1,21 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "9"]
+[White "Krstic, Slobodan"]
+[Black "Lombard, Andre"]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "c23fbe80"]
+[Epoch "Bishop"]
+[BlackID "1300091"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. Be2 Qc7 8. O-O
+Be7 9. f4 O-O 10. Qe1 b5 11. a3 Nbd7 12. Bf3 Bb7 13. f5 e5 14. Nb3 Rfe8 15. Rd1
+Rad8 16. g4 d5 17. g5 Nxe4 18. Bxe4 dxe4 19. Qf2 Bf8 20. g6 Nf6 21. Bb6 Qc6 22.
+Be3 Qc8 23. gxf7+ Kxf7 24. Rxd8 Rxd8 25. Nd1 Kg8 26. h3 Qd7 27. Qg3 Qe8 28. Nf2
+Rc8 29. c3 Rd8 30. Nc1 Nd5 31. Nxe4 Qc6 32. Bg5 Ne7 33. Re1 Rd1 34. Rxd1 Qxe4
+35. Re1 Qc6 36. Nd3 Nxf5 37. Qxe5 Qg2# 0-1

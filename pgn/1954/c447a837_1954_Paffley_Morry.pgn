@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Paffley, D."]
+[Black "Morry, WR."]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "c447a837"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. e4 d5 8. e5
+Ne8 9. cxd5 Bxf1 10. Nxf1 Qxd5 11. Ne3 Qd8 12. O-O Nc6 13. Qa4 Qd7 14. d5
+exd5 15. Nexd5 Bxc3 16. Qxc6 1-0
+

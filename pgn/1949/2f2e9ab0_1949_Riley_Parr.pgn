@@ -1,0 +1,17 @@
+[Event "Felixstowe"]
+[Site "Felixstowe"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Riley"]
+[Black "Parr"]
+[Result "0-1"]
+[ECO "E61"]
+[Opening "King's Indian defence, 3.Nc3"]
+[HashCode "2f2e9ab0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. e4 Nc6 7. Nge2 e5 8.
+O-O exd4 9. Nxd4 Nxe4 10. Nxc6 Nxc3 11. bxc3 bxc6 12. Bxc6 Bh3 13. Re1 Bxc3
+14. Bh6 Qf6 15. Bxf8 Bxe1 16. Bf3 Re8 17. Rb1 Ba5 18. Bc6 Rd8 19. Rb5 Bb6
+20. Qe1 Bxf2+ 21. Qxf2 Qa1+ 0-1
+

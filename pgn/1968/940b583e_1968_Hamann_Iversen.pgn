@@ -1,0 +1,19 @@
+[Event "Copenhagen ch-DEN"]
+[Site "Copenhagen ch-DEN"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Hamann, Svend"]
+[Black "Iversen, Ralph Kock"]
+[Result "1-0"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "940b583e"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. Bb3 Nc6 8. Be3
+Bd7 9. Qe2 Be7 10. O-O-O Qc7 11. g4 h6 12. f3 O-O-O 13. h4 Kb8 14. Qf2 Na5 15.
+g5 hxg5 16. hxg5 Nh5 17. Nf5 Nxb3+ 18. axb3 exf5 19. Nd5 Qa5 20. b4 Qb5 21.
+Ba7+ Kc8 22. Nxe7+ Kc7 23. Bb6+ 1-0

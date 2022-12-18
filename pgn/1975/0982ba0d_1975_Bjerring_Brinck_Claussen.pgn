@@ -1,0 +1,28 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Bjerring, Kai"]
+[Black "Brinck-Claussen, Bjorn"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "0982ba0d"]
+[Epoch "Bishop"]
+[BlackID "1400134"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Qg4 f5 6. Qg3 b6 7. Ne2 Nc6 8. Bd2
+Bb7 9. a3 Bf8 10. h4 O-O-O 11. O-O-O Ba6 12. Na2 Kb7 13. Nb4 Nxb4 14. axb4 Rc8
+15. Nf4 Bxf1 16. Rhxf1 Ne7 17. Qb3 Nc6 18. Bc3 Be7 19. b5 Nb8 20. g3 g5 21.
+hxg5 Bxg5 22. Bd2 c6 23. bxc6+ Nxc6 24. Qa4 Bxf4 25. Bxf4 Qe7 26. Rh1 Na5 27.
+Rh6 Rc4 28. Qa2 Rhc8 29. c3 Qd7 30. Kd2 R8c7 31. Ra1 Qb5 32. Ke1 R4c6 33. Bd2
+Qd3 34. Qb1 Qf3 35. Qd1 Qe4+ 36. Qe2 Qc2 37. b4 Nb3 38. Qd1 Nxa1 39. Qxa1 b5
+40. Qd1 Qxd1+ 41. Kxd1 Rg7 42. Kc2 Kc8 43. Kb2 Kd8 44. Kb3 Ke8 45. Kb2 Kf7 46.
+Kb3 Kg8 47. Rh1 Ra6 48. Rh6 Rg4 49. Bf4 Kg7 50. Rh1 Ra4 51. Bh6+ Kg8 52. Bf4
+Rg7 53. Rh6 Rg6 54. Rh1 a5 55. bxa5 Rg7 56. Rh6 Rg6 57. Rh1 Rg7 58. Rh6 Re7 59.
+Bg5 Re8 60. Be3 Rxa5 61. Rf6 Ra7 62. Rh6 Rc7 63. Bd2 Rc4 64. Rh4 Kg7 65. Be3
+Rd8 66. Rh1 Rdc8 67. Bd2 b4 68. cxb4 Rxd4 69. Be3 Rd3+ 70. Ka4 d4 71. Bh6+ Kg6
+72. Bf4 h5 0-1

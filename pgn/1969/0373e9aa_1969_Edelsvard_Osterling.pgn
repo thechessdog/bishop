@@ -1,0 +1,27 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Edelsvard, Olle"]
+[Black "Osterling, Gosta"]
+[Result "1/2-1/2"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "pawn storm variation"]
+[HashCode "0373e9aa"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Qe7 8.
+Nf3 Bg7 9. Bd3 O-O 10. O-O Na6 11. Re1 Nc7 12. a4 Rb8 13. Qe2 b6 14. h3 a6
+15. Bd2 Qd7 16. Kh2 Re8 17. Qf2 b5 18. axb5 axb5 19. e5 Nfxd5 20. exd6 Qxd6
+21. Rxe8+ Nxe8 22. Nxb5 Qc6 23. Rc1 Rxb5 24. Bxb5 Qxb5 25. Qxc5 Qxc5 26.
+Rxc5 Be6 27. b4 Bf8 28. Rb5 Nd6 29. Rb8 Nc4 30. g3 Nxd2 31. Nxd2 Nxb4 32.
+Ne4 Kg7 33. Nc3 Nd3 34. Rd8 Nf2 35. h4 Ng4+ 36. Kh1 Be7 37. Rb8 Bc5 38. Kg2
+Ne3+ 39. Kh2 Nf5 40. Ne4 Be3 41. Ng5 Bd5 42. Rd8 Bc6 43. Rc8 Ne7 44. Rd8 h6
+45. Nh3 Nf5 46. Rd3 Be4 47. Ra3 Bc5 48. Ra5 Bd4 49. Ra4 Bf3 50. Rb4 Kf6 51.
+Ra4 Ke6 52. Ra2 Kd5 53. Nf2 Kc4 54. g4 Nxh4 55. Kg3 g5 56. Ra4+ Kc3 57. Nh3
+f6 58. fxg5 hxg5 59. Ra5 Be2 60. Nxg5 fxg5 61. Rxg5 Nf3 62. Rg8 Be5+ 63.
+Kf2 Kd3 64. g5 Bd4+ 65. Kg3 Ke3 66. g6 Be5+ 67. Kg4 Nd4+ 68. Kg5 Bc4 69.
+Re8 Ne6+ 70. Kh6 Kf4 71. Re7 Bf6 72. Rf7 Kf5 73. g7 Ng5 74. Rf8 Nf7+ 75.
+Kh7 Ng5+ 76. Kh6 Nf7+ 1/2-1/2
+

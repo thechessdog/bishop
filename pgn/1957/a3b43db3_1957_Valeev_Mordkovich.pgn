@@ -1,0 +1,17 @@
+[Event "Ashkhabad"]
+[Site "Ashkhabad"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Valeev"]
+[Black "Mordkovich"]
+[Result "1/2-1/2"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "a3b43db3"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8.
+Bf4 O-O 9. Be2 b5 10. Nd2 a6 11. Qc2 Re8 12. O-O b4 13. Nd1 Nxd5 14. exd5
+Rxe2 15. Qd3 Re8 16. Nc4 Be5 17. Qg3 Nd7 18. Nxd6 Bxd6 19. Bxd6 Nf6 1/2-1/2
+

@@ -1,0 +1,17 @@
+[Event "Amriswil"]
+[Site "Amriswil"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Soller, Carl"]
+[Black "Thalmann"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "5fd484cf"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 Nxe4 4. Nxe4 dxe4 5. Bc4 c5 6. Qh5 e6 7. dxc5
+Qa5+ 8. Bd2 Qxc5 9. Qe2 Bd7 10. f3 exf3 11. Nxf3 Nc6 12. O-O-O Rc8 13. Be3
+Qa5 14. Qd3 Qc7 15. a3 Rd8 16. Rdf1 Be7 17. h4 a6 18. g4 Ne5 19. Nxe5 Qxe5
+20. Bd4 Bc6 21. Bxe5 Rxd3 22. Bxd3 Bxh1 23. Rxh1 1-0
+

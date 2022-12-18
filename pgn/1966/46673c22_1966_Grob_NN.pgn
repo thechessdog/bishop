@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Grob, Henri"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "spike attack"]
+[HashCode "46673c22"]
+[Epoch "Bishop"]
+[WhiteCountry "SWI"]
+
+1. g4 d5 2. Bg2 c6 3. g5 Bf5 4. d3 e6 5. Nd2 Qb6 6. b3 Nd7 7. e4 dxe4 8. dxe4
+Bg6 9. h4 Bc5 10. Qe2 f6 11. h5 Bf7 12. g6 hxg6 13. hxg6 Rxh1 14. gxf7+ 1-0

@@ -1,0 +1,19 @@
+[Event "corr Tch1-EU"]
+[Site "corr Tch1-EU"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Wickens, T."]
+[Black "Tempelhoff, W."]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "151f916b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. f4 a6 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. g4 h6 11. h4 g6 12. g5 Ng8 13. h5 Nf8 14. hxg6
+Nxg6 15. f5 exf5 16. exf5 Ne5 17. Qh5 Kf8 18. Bh3 Bd7 19. Ne6+ fxe6 20.
+fxe6 Be8 21. Rdf1+ Bf6 22. Qh4 Ng6 23. Qf2 Bc6 24. gxf6 Bxh1 25. Rxh1 Qa5
+26. Bg2 Rc8 27. e7+ N8xe7 28. fxe7+ Ke8 29. Qf6 Rg8 30. Bd5 1-0
+

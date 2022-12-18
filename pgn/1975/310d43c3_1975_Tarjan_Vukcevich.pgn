@@ -1,0 +1,25 @@
+[Event "Oberlin ch-USA"]
+[Site "Oberlin ch-USA"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Tarjan, James"]
+[Black "Vukcevich, Milan R"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Nimzovich variation"]
+[HashCode "310d43c3"]
+[Epoch "Bishop"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+[BlackID "2000458"]
+[BlackCountry "USA"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bb4 5. d3 Bxc3+ 6. bxc3 d6 7. g3 O-O 8.
+Bg2 h6 9. O-O Be6 10. Nh4 Rb8 11. a4 Na5 12. Be3 b6 13. Nf5 Bxf5 14. exf5 Re8
+15. h4 e4 16. g4 Nh7 17. g5 hxg5 18. hxg5 Nxg5 19. Qh5 Nh7 20. Kh2 Nf6 21. Qh3
+exd3 22. Bg5 Qe7 23. Rad1 d2 24. Rxd2 Qe5+ 25. f4 Qe3 26. Rd3 Qxh3+ 27. Rxh3
+Re3 28. Bf3 Rbe8 29. Kg2 Nxc4 30. Rfh1 Kf8 31. Rh8+ Ke7 32. Rxe8+ Kxe8 33. Bc6+
+Ke7 34. Rh8 d5 35. Bxd5 Rxc3 36. Bxc4 Rxc4 37. Rg8 Rc5 38. Rxg7 Rxf5 39. Kf3
+Kf8 40. Bh6 Rh5 41. Rh7+ Ke7 42. Rh8 Ke6 43. a5 Rxa5 44. Bg5 Ra3+ 45. Ke2 Nd5
+46. Re8+ Kd7 47. Rd8+ Kc6 48. f5 f6 49. Bh4 Re3+ 50. Kd2 Re5 0-1

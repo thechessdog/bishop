@@ -1,0 +1,18 @@
+[Event "USA op"]
+[Site "Chicago"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Wozney, Thomas"]
+[Black "Pyne, J."]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "a797ddf6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 12. fxg5 Ne5 13. Qe2 Nfg4 14.
+h3 hxg5 15. Bg3 Nxd3+ 16. Rxd3 Ne5 17. Rdd1 Bd7 18. Nf3 O-O-O 19. Rhf1 f6
+20. Nd4 Kb8 21. Rf2 Rc8 1/2-1/2
+

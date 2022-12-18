@@ -1,0 +1,21 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Sax, Gyula"]
+[Black "Djukic, Zeljko"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "007ae99b"]
+[Epoch "Bishop"]
+[BlackID "900737"]
+[WhiteCountry "HUN"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nbd7 9. Qf3 Be7 10. O-O-O Qc7 11. Be2 h6 12. Bh4 g5 13. fxg5 Ne5 14. Qe3 Nfg4
+15. Bxg4 Nxg4 16. Qd2 hxg5 17. Bxg5 Bxg5 18. Qxg5 Ne5 19. h4 Qe7 20. Qd2 Rxh4
+21. Rxh4 Qxh4 22. Qxd6 Qg5+ 23. Kb1 Bd7 24. Nc5 O-O-O 25. Nxa6 bxa6 26. Qxa6+
+Kc7 27. Rd5 Qe3 28. Qd6+ 1-0

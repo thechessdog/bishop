@@ -1,0 +1,16 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Keller, Martina"]
+[Black "Ronczkowski, M."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "d296a5aa"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Nf3 g6 5. Bc4 Bg7 6. O-O Nf6 7. d3 O-O 8. Qe1
+Ne8 9. f5 e6 10. Bg5 Bf6 11. Qh4 h5 12. Rae1 Na5 13. Bb5 Bxg5 14. Nxg5 exf5 15.
+exf5 Ng7 16. fxg6 fxg6 17. Bc4+ Nxc4 18. Qxc4+ d5 19. Rxf8+ Qxf8 20. Qxd5+ 1-0

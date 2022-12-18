@@ -1,0 +1,17 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Hauptova"]
+[Black "Wagnerova"]
+[Result "1-0"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[HashCode "80c15c8d"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Bb4+ 5. Nc3 dxc4 6. e4 c5 7. Bxc4 cxd4
+8. Nxd4 Qa5 9. Bxf6 Bxc3+ 10. bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Ke2 Qxh1 13.
+Nxe6 fxe6 14. Qd8+ Kf7 15. Qe7+ Kg6 16. Qxg7+ Kh5 17. Qg5# 1-0
+

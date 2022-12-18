@@ -1,0 +1,20 @@
+[Event "Busum"]
+[Site "Busum"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kolbak, Jens"]
+[Black "Altyzer"]
+[Result "1-0"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "ce206c82"]
+[Epoch "Bishop"]
+[WhiteID "1400339"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5 7. d5 Nbd7 8. Be2
+Nc5 9. Qc2 a5 10. g4 c6 11. Be3 cxd5 12. cxd5 b6 13. Nd2 Ba6 14. Bxa6 Nxa6 15.
+Nc4 Nc5 16. f3 Ne8 17. O-O-O Rb8 18. Nb5 Qd7 19. a4 f5 20. gxf5 gxf5 21. Bxc5
+bxc5 22. Kb1 fxe4 23. fxe4 Rf4 24. Qg2 Qd8 25. Rhg1 Rb7 26. Ne3 Rf6 27. Nf5 Rg6
+28. Qe2 Rf7 29. h4 Rxg1 30. Rxg1 Rxf5 31. exf5 Qxh4 32. Nc3 Qd4 33. Rg4 1-0

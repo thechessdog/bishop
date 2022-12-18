@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Spassky, Boris V."]
+[Black "Beliavsky, Alexander G"]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "d08ae575"]
+[Epoch "Bishop"]
+[WhiteID "600024"]
+[WhiteCountry "RUS"]
+[BlackID "14602377"]
+[BlackCountry "SLO"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e4 Nc6 5. f4 g5 6. f5 Nxe5 7. Nf3 Bb4+ 8. Nbd2
+Nc6 9. Bd3 g4 10. O-O gxf3 11. Nxf3 Qe7 12. e5 a5 13. a3 Bc5 14. b4 axb4 15.
+Bg5 f6 16. exf6 Qf7 17. axb4 Rxa1 18. Qxa1 Bxb4 19. Qa8 Kd8 20. Be4 Qxc4 21.
+Ne5 Nxe5 22. Bxb7 Ne7 23. fxe7+ Kd7 24. Bxc8+ Rxc8 25. Qxc8+ Kxc8 26. e8=Q+ Kb7
+27. Qxe5 1-0

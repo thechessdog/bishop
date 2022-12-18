@@ -1,0 +1,19 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Norby, Peter H."]
+[Black "Hvenekilde, Jorgen"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[Opening "English opening"]
+[HashCode "da662cb5"]
+[Epoch "Bishop"]
+[WhiteID "1400479"]
+[BlackID "1400649"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 e6 2. g3 d5 3. Bg2 c6 4. b3 f5 5. Bb2 Nf6 6. Nf3 Bd6 7. O-O O-O 8. Be5
+Bxe5 9. Nxe5 Nbd7 10. Nf3 Qe8 11. Nc3 Qh5 12. d3 g5 13. e3 g4 14. Nh4 Ne5 15.
+d4 Ng6 16. Nxg6 hxg6 17. f4 gxf3 18. Qxf3 Qxf3 19. Bxf3 Bd7 1/2-1/2

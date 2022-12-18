@@ -1,0 +1,28 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1973.02.01"]
+[Round "1"]
+[White "Karner, Hillar"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "29a30a1e"]
+[Epoch "Bishop"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+[WhiteID "4500202"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 c5 6. c3 b6 7. O-O Bb7 8. h3 d6
+9. a4 Nc6 10. Na3 Re8 11. Bh2 Rc8 12. d5 Nb8 13. Bc4 Na6 14. Nb5 Nc7 15. Nxa7
+Ra8 16. Nb5 Nxb5 17. Bxb5 Rf8 18. Bc4 Qd7 19. Re1 Ne4 20. Qd3 f5 21. Bb5 Qc7
+22. Nd2 Nf6 23. e4 f4 24. Bxf4 Nxd5 25. Bc4 Rxf4 26. Bxd5+ Kh8 27. Bxb7 Qxb7
+28. Nc4 h6 29. g3 Rf7 30. Qd5 Qxd5 31. exd5 Ra6 32. Kg2 Bf6 33. h4 Rf8 34. Ra3
+Kg8 35. Rea1 Rfa8 36. f4 Kf7 37. Kf3 Ke8 38. R1a2 Kd7 39. Ra1 e6 40. dxe6+ Kxe6
+41. Re1+ Kd7 42. Rd1 Ke7 43. Rxd6 Rxa4 44. Rxb6 Rxa3 45. Nxa3 Bxc3 46. bxc3
+Rxa3 47. Rxg6 h5 48. Rh6 Rxc3+ 49. Kg2 Rc2+ 50. Kh3 c4 51. Rxh5 Kd6 52. Rh8 Ra2
+53. Rd8+ Kc5 54. h5 c3 55. Kg4 Ra6 56. Rc8+ Rc6 57. Rxc6+ Kxc6 58. h6 c2 59. h7
+c1=Q 60. h8=Q Kd7 61. Qe5 Qc4 62. Kh4 Qg8 63. f5 Qh7+ 64. Kg5 Qg8+ 65. Kh6 Qa8
+66. g4 Qh1+ 67. Kg6 Qb1 68. g5 Kc8 69. Kh7 Qh1+ 70. Kg8 Qc1 71. f6 1-0

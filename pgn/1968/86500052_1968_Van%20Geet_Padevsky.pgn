@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1968.01.01"]
+[Round "7"]
+[White "Van Geet, Dirk Daniel"]
+[Black "Padevsky, Nikola"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "86500052"]
+[Epoch "Bishop"]
+[BlackID "2900190"]
+[BlackCountry "FID"]
+[WhiteCountry "NLD"]
+
+1. b3 e5 2. Bb2 d6 3. d4 Nd7 4. Nf3 e4 5. Nfd2 f5 6. c4 Ngf6 7. Nc3 c6 8. Rc1
+Be7 9. e3 O-O 10. Be2 a6 11. O-O d5 12. f4 Bd6 13. c5 Be7 14. b4 Kh8 1/2-1/2

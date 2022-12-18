@@ -1,0 +1,26 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Shereshevsky, Mikha"]
+[Black "Heuer, Valter"]
+[Result "1-0"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "Averbakh system"]
+[HashCode "66e90647"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 h6 7. Be3 c5 8. e5
+Nfd7 9. exd6 exd6 10. Nf3 Nc6 11. O-O Re8 12. Qd2 Kh7 13. Rad1 a6 14. Rfe1
+Bf8 15. h3 Nf6 16. Bd3 Bd7 17. d5 Ne5 18. Nxe5 Rxe5 19. f4 Re8 20. a4 Bg7
+21. f5 Bxf5 22. Bxf5 gxf5 23. Rf1 Qd7 24. Rf3 Re7 25. Rdf1 Rae8 26. Kh1 Ne4
+27. Nxe4 Rxe4 28. b3 Qe7 29. Bg1 Qg5 30. Qxg5 hxg5 31. Rxf5 f6 32. Bh2 Rd8
+33. a5 Kg6 34. g4 Rh8 35. Kg2 Rd8 36. Bg3 Re2+ 37. R1f2 Re3 38. R5f3 Re4
+39. Kf1 Kf7 40. Re2 Rxe2 41. Kxe2 Bf8 42. h4 Kg6 43. h5+ Kf7 44. Be1 Rb8
+45. Bd2 Be7 46. Kd3 b6 47. axb6 Rxb6 48. Ke4 Rb8 49. Kf5 a5 50. Bxa5 Ra8
+51. Be1 Ra2 52. Re3 Rg2 53. Bg3 Rg1 54. Ke4 Rd1 55. Kf3 Bf8 56. Re6 Rd3+
+57. Re3 Rd4 58. Re6 Rd3+ 59. Kf2 Rxb3 60. Bxd6 Rb2+ 61. Kf3 Rb3+ 62. Ke2
+Rb2+ 63. Kd3 Bxd6 64. Rxd6 Rg2 65. Rd7+ Kg8 66. Ke4 Rf2 67. d6 Rf4+ 68. Kd5
+Rxg4 69. Rc7 1-0
+

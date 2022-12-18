@@ -1,0 +1,28 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1956.01.01"]
+[Round "7"]
+[White "Szentkiralyi Toth, Vince"]
+[Black "Behrensen, Jorge"]
+[Result "0-1"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "cc49e06a"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 Nbd7 7. Qd2 c5 8. d5
+Re8 9. Nh3 a6 10. Nf2 Qa5 11. Be2 Rb8 12. a4 Nb6 13. Ncd1 Qxd2+ 14. Kxd2 e6 15.
+Nc3 Bd7 16. Bf4 e5 17. Be3 Nh5 18. b4 cxb4 19. Bxb6 bxc3+ 20. Kxc3 Rbc8 21.
+Rhb1 f5 22. g3 Nf6 23. Kd3 Re7 24. a5 Be8 25. Be3 Rec7 26. Kd2 Nd7 27. Bd3 f4
+28. Bb6 Nxb6 29. Rxb6 fxg3 30. hxg3 Bf8 31. Ng4 Rf7 32. Be2 Bd7 33. Ne3 Rc7 34.
+Kd3 Bc8 35. Rbb1 h5 36. Rh1 Bh6 37. Nd1 Bg5 38. Nb2 Rc5 39. Nd1 Bd8 40. Rf1 g5
+41. f4 gxf4 42. gxf4 Rxf4 43. Rxf4 exf4 44. Bxh5 Rxa5 45. Rxa5 Bxa5 46. Nf2 Kg7
+47. Bg4 Bxg4 48. Nxg4 Bb4 49. e5 dxe5 50. Nxe5 Bd6 51. Nd7 Kf7 52. Nb6 Bc5 53.
+Na4 b6 54. Ke4 Be3 55. Nb2 Ke7 56. Nd1 Bc1 57. Nc3 Bd2 58. Na4 Be3 59. Nb2 Kd6
+60. Na4 Kc7 61. Kf3 b5 62. cxb5 axb5 63. Nb2 b4 64. Nd1 Bc1 65. Nf2 b3 66. Nd3
+Kd6 67. Ke4 Be3 68. Nb2 Kc5 69. Nd3+ Kb5 70. Nb2 Bc1 71. Nd1 Kc5 72. Nc3 Bd2
+73. Nd1 Bc1 74. Nc3 Kc4 75. Nb1 f3 76. Kxf3 Kxd5 77. Ke2 Kd4 78. Kd1 Bg5 79.
+Ke2 b2 80. Kd1 Kd3 81. Nd2 Be7 82. Nb1 Bb4 0-1

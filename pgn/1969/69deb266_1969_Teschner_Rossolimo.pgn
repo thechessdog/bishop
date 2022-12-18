@@ -1,0 +1,22 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Teschner, Rudolf"]
+[Black "Rossolimo, Nicolas"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "69deb266"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Qc2 e5 12. Bd3 Re8 13. Nxe5 Nxe5 14. dxe5
+Qxe5 15. f3 Bd7 16. Rb1 Bc6 17. c4 Rad8 18. Re1 h6 19. Bb2 Qg5 20. e4 Nh5 21.
+Bc1 Qe5 22. Bf1 Nf4 23. Be3 Ne6 24. Qf2 b6 25. Qg3 Qxg3 26. hxg3 Ba4 27. Be2
+Nd4 28. Kf2 Nc2 29. Bd1 Nxe1 30. Bxa4 Nd3+ 31. Ke2 Re6 32. Rd1 Red6 33. f4 Nb2
+34. Rxd6 Rxd6 35. Bb5 Rd3 36. e5 Rxa3 37. f5 Kf8 38. Bc1 Rxg3 39. Bf4 Rxg2+ 40.
+Kf3 Rc2 0-1

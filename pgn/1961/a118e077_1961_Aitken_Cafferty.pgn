@@ -1,0 +1,21 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Aitken, James Macrae"]
+[Black "Cafferty, Bernard"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "a118e077"]
+[Epoch "Bishop"]
+[BlackID "401005"]
+[BlackCountry "ENG"]
+[WhiteCountry "SCO"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Be2 cxd4 7. cxd4 Bb5 8. O-O
+Bxe2 9. Qxe2 Ne7 10. Be3 Nec6 11. a3 Nd7 12. b4 Be7 13. Nc3 O-O 14. Na4 Qd8 15.
+Rfe1 Rb8 16. Bf4 Nb6 17. Nxb6 Qxb6 18. Qd3 Rbc8 19. Rac1 a6 20. h4 Qb5 21. Qxb5
+axb5 22. Bg5 Bxg5 23. hxg5 Ra8 24. Re3 Ra6 25. Rc5 Rb6 26. Kf1 h6 27. Rd3 Kh7
+28. Ke2 Kg6 29. Nh4+ Kxg5 30. Rg3+ Kxh4 31. Rc1 Nxd4+ 32. Kd3 1-0

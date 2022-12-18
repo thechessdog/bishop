@@ -1,0 +1,15 @@
+[Event "corr BRD-cup7"]
+[Site "corr BRD-cup7"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Mayer, Frank"]
+[Black "Laux, R."]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "eaa608b2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. Re1 Bc5 8. d4
+exd4 9. hxg4 hxg4 10. Nh2 Qh4 11. Bf4 d3 12. Qd2 g3 0-1

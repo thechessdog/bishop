@@ -1,0 +1,22 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1969.01.01"]
+[Round "2"]
+[White "Rohland, Michael K"]
+[Black "Shipman, Walter"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "fcd116df"]
+[Epoch "Bishop"]
+[BlackID "2001357"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. d4 Nxd4 5. Nxd4 exd4 6. Qxd4 Nc6 7. Qe3 Bb4+
+8. Nc3 a6 9. Ba4 Qf6 10. Bd2 Qd4 11. Qxd4 Nxd4 12. Nd5 Bxd2+ 13. Kxd2 Kd8 14.
+Kc3 Ne6 15. Rhe1 Re8 16. e5 b5 17. Bb3 Bb7 18. Rad1 Nc5 19. g3 Nxb3 20. Kxb3 f6
+21. f4 fxe5 22. Rxe5 Rxe5 23. fxe5 Bxd5+ 24. Rxd5 Ke7 25. Rd2 a5 26. a4 Rb8 27.
+Ka3 Ke6 28. axb5 Rxb5 29. Re2 g5 30. c3 h5 31. Ka4 c6 32. b3 g4 33. Rf2 Rxe5
+34. Rf8 Rc5 35. Rh8 Rd5 36. c4 Rd2 37. Rh6+ Ke7 38. Kxa5 Rxh2 39. Rh7+ Kd6 40.
+Kb6 Rb2 41. Rxh5 Rxb3+ 42. Ka5 Rxg3 43. Rg5 Kc7 44. c5 Rb3 0-1

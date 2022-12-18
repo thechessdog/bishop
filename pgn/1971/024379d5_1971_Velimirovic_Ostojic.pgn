@@ -1,0 +1,19 @@
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Velimirovic, Dragoljub"]
+[Black "Ostojic, Predrag"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "024379d5"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Bf2 Qc7 10. Qf3 Nbd7 11. O-O-O b5 12. Bxb5 axb5 13. Ndxb5 Qb8 14. Rhe1
+O-O 15. g4 Bb7 16. Qd3 Rd8 17. Nxd6 Nxg4 18. Bg1 Nde5 19. fxe5 Nxe5 20. Qg3
+Rxd6 21. Rxd6 Bxd6 22. Rd1 Nc4 0-1

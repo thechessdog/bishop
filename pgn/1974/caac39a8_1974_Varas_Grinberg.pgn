@@ -1,0 +1,24 @@
+[Event "Caseros ch-ARG"]
+[Site "Caseros ch-ARG"]
+[Date "1974.01.01"]
+[Round "12"]
+[White "Varas, Lauro"]
+[Black "Grinberg, Ricardo"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "caac39a8"]
+[Epoch "Bishop"]
+[WhiteID "100951"]
+[WhiteCountry "ARG"]
+[BlackID "100544"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bb5+
+Bd7 9. a4 O-O 10. O-O a6 11. Be2 Bg4 12. h3 Bxf3 13. Bxf3 Nbd7 14. Bf4 Qc7 15.
+Qc2 Rfe8 16. a5 c4 17. Be2 Nc5 18. f3 Nb3 19. Ra3 Nxa5 20. Qa4 Qc5+ 21. Kh1 b6
+22. Bh2 Nb3 23. Bg1 Qc7 24. Rd1 b5 25. Qb4 Nd7 26. Rb1 Reb8 27. Nd1 a5 28. Qe1
+Re8 29. Ra2 Rab8 30. Ne3 Ndc5 31. Qd1 h5 32. Bf1 Be5 33. Nc2 Qd8 34. Nd4 Nxd4
+35. Bxd4 Nb3 36. Bxe5 Rxe5 37. Qe1 Qe7 38. Qc3 h4 39. Bxc4 bxc4 40. Qxc4 Nd2
+41. Qd3 Nxb1 42. Qxb1 0-1

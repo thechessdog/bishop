@@ -1,0 +1,22 @@
+[Event "Hoechst ch-GER"]
+[Site "Hoechst ch-GER"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Hoenlinger, Baldur"]
+[Black "Scheipl, Ralf"]
+[Result "0-1"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "b724d998"]
+[Epoch "Bishop"]
+[BlackID "4603087"]
+[BlackCountry "GER"]
+[WhiteCountry "AUT"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. d4 O-O 6. Nc3 Nbd7 7. O-O e5 8. b3
+Re8 9. h3 c6 10. e4 exd4 11. Nxd4 Nc5 12. Re1 a5 13. Kh2 h5 14. f4 Qd7 15. e5
+dxe5 16. fxe5 Nh7 17. Ba3 Ne6 18. Nf3 Neg5 19. Nxg5 Nxg5 20. Qxd7 Bxd7 21. Bd6
+f6 22. Na4 Bf5 23. Nc5 fxe5 24. Nxb7 e4 25. Rad1 Nf3+ 26. Bxf3 exf3 27. g4 hxg4
+28. hxg4 Bxg4 29. Kg3 Bh5 30. Rxe8+ Rxe8 31. Nxa5 Re2 32. Kh3 g5 33. Nxc6 Rg2
+34. Bg3 Bf6 35. Ne5 Bxe5 36. Bxe5 Bg4# 0-1

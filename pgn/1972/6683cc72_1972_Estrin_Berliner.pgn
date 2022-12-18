@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Berliner, H."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "6683cc72"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 b5 7. Bf1 Nxd5 8.
+Ne4 Qh4 9. Ng3 Bg4 10. f3 e4 11. cxd4 Bd6 12. Bxb5+ Kd8 13. O-O exf3 14. Rxf3
+Rb8 15. Be2 Bxf3 16. Bxf3 Qxd4+ 17. Kh1 Bxg3 18. hxg3 Rb6 19. d3 Ne3 20. Bxe3
+Qxe3 21. Bg4 h5 22. Bh3 g5 23. Nd2 g4 24. Nc4 Qxg3 25. Nxb6 gxh3 26. Qf3 hxg2+
+27. Qxg2 Qxg2+ 28. Kxg2 cxb6 0-1

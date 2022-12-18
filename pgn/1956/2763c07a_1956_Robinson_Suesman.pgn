@@ -1,0 +1,20 @@
+[Event "New England"]
+[Site "New England"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Robinson"]
+[Black "Suesman"]
+[Result "0-1"]
+[ECO "C59"]
+[Opening "two knights defence"]
+[Variation "Goering variation"]
+[HashCode "2763c07a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 Qc7 11. d4 exd3 12. Nxd3 Bd6 13. Be3 Nc4
+14. Bd4 O-O 15. Nd2 Nxd2 16. Bxf6 Ne4 17. Bd4 c5 18. f3 Ng5 19. Be3 c4 20.
+Nf2 Rd8 21. c3 Bb7 22. Qa4 Bf4 23. Bxf4 Qxf4 24. O-O Rd2 25. Rfe1 Qe3 26.
+Kf1 Nxf3 27. gxf3 Bxf3 28. Qxc4 Re8 29. Qxf7+ Kxf7 30. Bc4+ Kf8 31. Rxe3
+Rxe3 32. Re1 Bg2+ 0-1
+

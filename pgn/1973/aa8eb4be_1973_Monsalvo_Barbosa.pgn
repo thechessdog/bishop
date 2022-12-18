@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Monsalvo, A."]
+[Black "Barbosa, M."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "aa8eb4be"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Qf6 4. d4 fxe4 5. Nxe5 Ne7 6. Bf7+ Kd8 7. Nc3 d6
+8. Nxe4 Qf5 9. Ng3 Qf6 10. O-O Nd7 11. Nh5 Qf5 12. g4 Qe4 13. Re1 1-0
+

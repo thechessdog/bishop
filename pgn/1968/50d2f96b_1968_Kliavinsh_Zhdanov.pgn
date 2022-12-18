@@ -1,0 +1,19 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kliavinsh, Janis"]
+[Black "Zhdanov, Igor"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "50d2f96b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Bg4
+8. h3 Bh5 9. Qe2 Nd7 10. g4 Bg6 11. d4 exd4 12. Nxd4 h5 13. Nf5 hxg4 14.
+hxg4 Bc5 15. Bf4 Bxf5 16. exf5+ Qe7 17. Qxe7+ Kxe7 18. Ne4 Bb6 19. Rfe1 Kf8
+20. Kg2 Re8 21. f3 f6 22. Rad1 Re7 23. Rd2 Ke8 24. Red1 Kd8 25. Ng3 Kc8 26.
+Nh5 Rhe8 27. Kf1 Bc5 28. Ng3 b5 29. Ne4 Bb6 30. b3 Nc5 31. Nxc5 1/2-1/2
+

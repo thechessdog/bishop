@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Johnston"]
+[Black "Coveyou, R."]
+[Result "1-0"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[HashCode "93319c14"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. f4 Nxe4 5. Nf3 Nd6 6. Bd5 exf4 7. d3 Be7
+8. Bxf4 O-O 9. Qd2 Ne8 10. g4 Bh4+ 11. Kd1 Be7 12. g5 d6 13. Qg2 Be6 14. h4
+Qd7 15. h5 Nb4 16. Be4 d5 17. Ne5 Qd8 18. Bxh7+ Kxh7 19. g6+ Kg8 20. h6
+fxg6 21. h7+ Kh8 22. Nxg6# 1-0
+

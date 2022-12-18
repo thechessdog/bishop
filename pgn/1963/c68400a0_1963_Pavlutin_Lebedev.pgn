@@ -1,0 +1,18 @@
+[Event "RSFSR"]
+[Site "RSFSR"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Pavlutin"]
+[Black "Lebedev"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "c68400a0"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 c6 6. Bd3 Bxd3 7. Qxd3
+Bb4 8. Ne2 Nd7 9. O-O g6 10. e4 dxe4 11. Nxe4 f5 12. N4g3 O-O 13. Rad1 Bd6
+14. c4 Qh4 15. Nc3 Rad8 16. Qf3 Rfe8 17. h3 h5 18. a3 Nf6 19. b4 Nh7 20.
+Qd3 Ng5 21. c5 Be5 22. Nge2 f4 23. Qc2 f3 24. dxe5 Nxh3+ 25. gxh3 Qxh3 26.
+Nf4 Qg4+ 27. Kh1 Qh4+ 28. Kg1 Qxf4 29. Ne4 Qg4+ 30. Ng3 Qh3 0-1
+

@@ -1,0 +1,21 @@
+[Event "Kienbaum"]
+[Site "Kienbaum"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Uhlmann, Wolfgang"]
+[Black "Franz, Jrma"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "30179653"]
+[Epoch "Bishop"]
+[WhiteID "4611284"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. dxc5 Bxc5 7. Qg4 Nf5 8. Bd3
+Qh4 9. Qxh4 Nxh4 10. g3 Ng6 11. f4 Bd7 12. Nf3 Nc6 13. a3 Nd4 14. Nxd4 Bxd4 15.
+Nb5 Bxb5 16. Bxb5+ Kd8 17. O-O-O Kc7 18. Ba5+ Bb6 19. Bb4 Be3+ 20. Kb1 Kb6 21.
+Be2 Bc5 22. Bc3 Rad8 23. b4 Bf8 24. f5 exf5 25. Rhf1 Ne7 26. g4 fxg4 27. Rxf7
+Nc6 28. b5 Na5 29. Rd4 Bc5 30. Rxg4 d4 31. Bb4 Rhe8 32. Rgxg7 Rxe5 33. Bd3 Re6
+34. Rxh7 Bd6 35. Bxa5+ Kxa5 36. Rxb7 Bxa3 37. Rxa7+ Kb4 38. Rhc7 1-0

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Hund, J."]
+[Black "Sauermann, W."]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "f8946f45"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Ba3 Nd7
+8. Nf3 c5 9. Qb3 O-O 10. Rd1 cxd4 11. cxd4 Nf6 12. Bd3 Bg4 13. Qxb7 Bxf3
+14. gxf3 Qxd4 15. Qxe7 Qc3+ 16. Ke2 Nd5 17. Qc5 Qxc5 18. Bxc5 Nc3+ 19. Kd2
+Rfc8 20. Be3 Rd8 21. Rc1 Nxa2 22. Rc4 Rd7 23. Kc2 a5 24. Bc5 Nb4+ 25. Bxb4
+axb4 26. Rd1 Ra2+ 0-1
+

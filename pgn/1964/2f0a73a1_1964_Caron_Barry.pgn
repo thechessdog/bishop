@@ -1,0 +1,17 @@
+[Event "Rhode Island"]
+[Site "Rhode Island"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Caron"]
+[Black "Barry"]
+[Result "0-1"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "2f0a73a1"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 h6 7. Bxf6
+Qxf6 8. Ne2 O-O 9. g3 d5 10. a3 Qf3 11. Rg1 Bc5 12. Kd2 Bxf2 13. Kc1 Bxg1
+14. Nxg1 Qe3+ 0-1
+

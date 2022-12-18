@@ -1,0 +1,16 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "16"]
+[White "Price, C."]
+[Black "Yabra, Freddy"]
+[Result "1-0"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 8.O-O"]
+[HashCode "d7b8c5b7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. O-O Bg7 8.
+Be3 O-O 9. Kh1 Bd7 10. f4 Qc8 11. f5 Nxd4 12. Bxd4 gxf5 13. Bxf6 Bxf6 14. Nd5
+Bg5 15. Bd3 e6 16. Qh5 Qd8 17. exf5 exd5 18. f6 h6 19. h4 1-0

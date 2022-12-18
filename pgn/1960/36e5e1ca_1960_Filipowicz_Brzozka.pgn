@@ -1,0 +1,19 @@
+[Event "Poland ch"]
+[Site "Poland ch"]
+[Date "1960.01.01"]
+[Round "2"]
+[White "Filipowicz, Andrzej"]
+[Black "Brzozka, Stefan"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "36e5e1ca"]
+[Epoch "Bishop"]
+[WhiteID "1100491"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. a4 a6 8. Na3
+Be6 9. Bc4 Be7 10. O-O O-O 11. Be3 Rb8 12. Qe2 Nd4 13. Bxd4 exd4 14. Nd5 Nxd5
+15. Bxd5 Bxd5 16. exd5 Bf6 1/2-1/2

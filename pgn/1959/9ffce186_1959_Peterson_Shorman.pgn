@@ -1,0 +1,18 @@
+[Event "Hayward"]
+[Site "Hayward"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Peterson"]
+[Black "Shorman, R."]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "9ffce186"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bg5 Nc6 6. Nc3 h6 7. Bh4 Be7
+8. Be2 Qb6 9. Nxc6 bxc6 10. Rb1 Ba6 11. O-O Rb8 12. Bxa6 Qxa6 13. Qd3 Qa5
+14. Rfd1 Qc7 15. Ne2 d6 16. c4 O-O 17. Bxf6 Bxf6 18. Qxd6 Qxd6 19. Rxd6
+Bxb2 20. Rxc6 Rfd8 21. Nc1 Rd1# 0-1
+

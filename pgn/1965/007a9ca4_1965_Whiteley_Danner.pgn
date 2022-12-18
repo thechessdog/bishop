@@ -1,0 +1,23 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Whiteley, Andrew Jonathan"]
+[Black "Danner, Georg"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "007a9ca4"]
+[Epoch "Bishop"]
+[BlackID "1600303"]
+[BlackCountry "AUT"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bh4 Qe7 11. e3 b6 12. Qd2 Ba6 13. a4 Bxc4 14. Bxc4 g5 15. Bg3
+Nh5 16. a5 Nd7 17. Bb5 f5 18. Qe2 Nxg3 19. hxg3 Ne5 20. O-O g4 21. f4 Ng6 22.
+Bc6 Rab8 23. Kf2 Qf7 24. Nb5 a6 25. Nxd6 Qc7 26. Nc4 b5 27. Nb6 Rf7 28. Rfd1
+Ne7 29. Bxb5 axb5 30. d6 Qc6 31. dxe7 Rxe7 32. Qc2 Rbe8 33. Nd5 Re4 34. Rac1 c4
+35. b3 Qc5 36. b4 Qc6 37. Rd2 R8e6 38. Rcd1 Qb7 39. Kf1 Qf7 40. Nc3 Rxe3 41.
+Nxb5 Qh5 42. Kg1 Re1+ 43. Rxe1 Rxe1+ 44. Kf2 Qe8 45. Qxc4+ Kh8 46. Re2 1-0

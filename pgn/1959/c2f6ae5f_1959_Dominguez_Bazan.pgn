@@ -1,0 +1,18 @@
+[Event "Argentina"]
+[Site "Buenos Aires"]
+[Date "1959.01.01"]
+[Round "10"]
+[White "Dominguez, Cristoba"]
+[Black "Bazan, Osvaldo"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[HashCode "c2f6ae5f"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. g3 b5 6. Bg2 Bb7 7. O-O d6 8. a4 b4
+9. c3 d5 10. e5 Nc6 11. Nxc6 Bxc6 12. cxb4 Bxb4 13. Qg4 Bf8 14. Nc3 Ne7 15. Rd1
+Qb8 16. f4 Qb6+ 17. Kh1 h5 18. Qh3 Rd8 19. g4 Ng6 20. g5 Ne7 21. g6 Nf5 22.
+gxf7+ Kxf7 23. a5 Qf2 24. Bd2 Bc5 25. Rac1 h4 26. Bf1 Qg1# 0-1

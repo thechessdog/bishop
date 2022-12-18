@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Kaszowski"]
+[Black "Baijot, L."]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[HashCode "8b8ecb4e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+d4 Nxd4 9. Nxd4 exd4 10. e5 Ne8 11. c3 dxc3 12. Nxc3 c6 13. Qf3 Qc7 14. Bf4
+Qb6 15. Rad1 Nc7 16. Ne4 Ne6 17. Be3 c5 18. Nf6+ Bxf6 19. exf6 Nd4 20.
+Bxf7+ 1-0
+

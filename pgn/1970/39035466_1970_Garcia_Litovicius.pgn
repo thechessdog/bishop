@@ -1,0 +1,18 @@
+[Event "Cordoba op"]
+[Site "Cordoba"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Garcia, Hildago"]
+[Black "Litovicius, Miguel"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "39035466"]
+[Epoch "Bishop"]
+[BlackID "100668"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nbd2 O-O 11. Bc2 Nxd2 12. Qxd2 Na5 13. Nd4 c5 14. Nf5 Bxf5
+15. Bxf5 Nc6 16. Qe2 c4 17. Rd1 d4 18. Qe4 g6 19. Qxc6 gxf5 20. Rxd4 1-0

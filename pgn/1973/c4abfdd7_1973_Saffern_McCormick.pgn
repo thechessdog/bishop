@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Saffern"]
+[Black "McCormick"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "c4abfdd7"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Bg2 Nge7 7. O-O Ng6 8.
+Nbd2 Qd7 9. Nb3 O-O-O 10. Bg5 Be7 11. Bxe7 Qxe7 12. Qd2 h5 13. h3 Bxf3 14.
+Bxf3 Ngxe5 15. Bd5 f5 16. f4 Nd7 17. Bxc6 bxc6 18. Nxd4 h4 19. g4 fxg4 20.
+hxg4 h3 21. Kh2 Nf6 22. Nf5 Qe4 0-1
+

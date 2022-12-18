@@ -1,0 +1,17 @@
+[Event "Stavanger"]
+[Site "Stavanger"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Kleppe, Einar"]
+[Black "Haugen, Arild"]
+[Result "0-1"]
+[ECO "A17"]
+[Opening "English opening"]
+[HashCode "30003bd1"]
+[Epoch "Bishop"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. c4 Nf6 2. Nc3 e6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 c6 6. e4 Nb4 7. d4 c5 8. Nge2
+cxd4 9. a3 N4c6 10. Nb5 Qa5+ 11. Qd2 Qxb5 12. Nxd4 Nxd4 13. Qxd4 Nc6 14. Qc3 e5
+15. Be3 Qa5 16. Qxa5 Nxa5 17. b4 Nc4 18. O-O Nxe3 19. fxe3 a5 0-1

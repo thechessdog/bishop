@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Prochazka"]
+[Black "Potzschmann"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Teichmann variation"]
+[HashCode "8c8576d0"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 f6 7. Qh5+ Kf8 8.
+exf6 Nxf6 9. Qf3 h6 10. Bf4 c5 11. Bxb8 Rxb8 12. O-O-O c4 13. Nge2 b5 14.
+g4 Kg8 15. Nf4 b4 16. Nce2 Qa5 17. Kb1 Ne4 18. Ng6 Bd6 19. Nxh8 Nc3+ 20.
+Nxc3 bxc3 21. b3 Kxh8 22. Rh3 Bb4 23. Qe3 e5 24. Rg3 Bd7 25. g5 exd4 26.
+Rxd4 Re8 27. Qc1 Ba3 28. Qd1 cxb3 29. cxb3 Re1 30. Bh3 Rxd1+ 31. Rxd1 Qc5
+0-1
+

@@ -1,0 +1,18 @@
+[Event "Nice olm fin-A"]
+[Site "Nice olm"]
+[Date "1974.06.01"]
+[Round "11"]
+[White "Donner, Jan Hein"]
+[Black "Filip, Miroslav"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "620ff942"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. a3
+Bd6 9. b4 dxc4 10. Bxc4 Nbd7 11. Nb5 Be7 12. Qe2 c5 13. bxc5 bxc5 14. Rd1 Qc8
+15. Bb2 a6 16. Nc3 cxd4 17. exd4 Nc5 1/2-1/2

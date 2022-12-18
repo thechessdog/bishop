@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Bisarde"]
+[Black "Sterna"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "6d2a97f0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 d6 4. Nf3 Nf6 5. d3 g6 6. Be2 Bg7 7. O-O O-O 8. Qe1
+Nd4 9. Nxd4 cxd4 10. Nd1 b6 11. c3 Nd7 12. Bd2 Bb7 13. Kh1 Rc8 14. Nf2 e6 15.
+Nh3 Nc5 16. c4 f5 17. exf5 exf5 18. Qg3 Re8 19. Rae1 Rc7 20. Bd1 Rce7 21. b4
+Rxe1 22. Rxe1 Rxe1+ 23. Qxe1 Qa8 24. Qe2 Na6 25. Ng5 h6 26. Qe6+ Kh8 27. Nf3
+Qf8 28. Qxg6 1-0

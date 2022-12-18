@@ -1,0 +1,18 @@
+[Event "Schilde"]
+[Site "Schilde"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Schumacher"]
+[Black "Meiklejohn"]
+[Result "1/2-1/2"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "c3756f7a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bf4 Nxc3 6. bxc3 Bg7 7. e3 c5 8.
+Nf3 Nc6 9. h3 O-O 10. Rc1 cxd4 11. cxd4 Qa5+ 12. Qd2 Qxd2+ 13. Nxd2 dxc4
+14. Bxc4 e5 15. dxe5 Nxe5 16. Bxe5 Bxe5 17. Nf3 Bf6 18. O-O Bf5 19. Nd4
+Bxd4 20. exd4 Rfd8 1/2-1/2
+

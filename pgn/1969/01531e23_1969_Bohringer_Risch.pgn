@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bohringer"]
+[Black "Risch"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "01531e23"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. d4 g4 6. e4 gxf3 7. Qxf3 c5
+8. Bc4 Qe7 9. O-O cxd4 10. e5 Qxe5 11. Qxf7+ Kd8 12. Bf4 Nh6 13. Bxe5 Nxf7
+14. Bf6+ Kc7 15. Bxf7 Rf8 16. Bg7 Rd8 17. Bxd4 Bxh2+ 18. Kxh2 Rxd4 19. Nc3
+Rh4+ 20. Kg1 Nc6 21. Nd5+ Kd6 22. Rae1 b6 23. Rf6+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Nei, Iivo"]
+[Black "Boleslavsky, Isaac"]
+[Result "0-1"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "abbacee8"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteID "4500059"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c5 8. dxc6
+bxc6 9. Qd2 Qe7 10. c5 d5 11. exd5 Nxd5 12. Nxd5 cxd5 13. Qxd5 Bb7 14. Qd6 Qh4+
+15. g3 Qb4+ 16. Qd2 Nc6 17. Qxb4 Nxb4 18. O-O-O Nxa2+ 19. Kb1 Nb4 20. Be2 e4
+21. h4 a5 22. Rh2 a4 23. Bd2 a3 24. Bxb4 axb2 25. Rf2 Bc6 0-1

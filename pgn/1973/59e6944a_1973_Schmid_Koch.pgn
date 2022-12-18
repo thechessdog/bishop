@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Schmid, H."]
+[Black "Koch, H."]
+[Result "1-0"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "59e6944a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nbd7 6. Bc4 Nb6 7. Bb3 e5
+8. Nde2 Be6 9. Bg5 Be7 10. Qd3 O-O 11. Rd1 Ne8 12. Bc1 Rc8 13. O-O Nf6 14.
+Kh1 Bxb3 15. axb3 Qc7 16. f4 Rfd8 17. Qg3 Nh5 18. Qf3 Nf6 19. g4 d5 20.
+fxe5 Qxe5 21. g5 dxe4 22. Rxd8+ Rxd8 23. Qf2 Bc5 24. Qh4 Nfd5 25. g6 Nf6
+26. gxf7+ Kf8 27. Bg5 Be7 28. Bxf6 Bxf6 29. Qxh7 Kxf7 30. Nxe4 1-0
+

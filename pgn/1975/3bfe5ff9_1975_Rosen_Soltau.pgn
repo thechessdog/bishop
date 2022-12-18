@@ -1,0 +1,19 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Rosen, Willy"]
+[Black "Soltau, A."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "3bfe5ff9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 e5 8. Nb3
+Be7 9. Qe2 Nbd7 10. Bd2 exf4 11. Bxf4 Ne5 12. O-O Be6 13. Kh1 O-O 14. Nd4 Rac8
+15. Nxe6 fxe6 16. Bxe5 dxe5 17. Nd1 Bc5 18. Ne3 Bxe3 19. Qxe3 Qc6 20. a4 Rf7
+21. b4 Rcf8 22. h3 Nh5 23. Rxf7 Rxf7 24. c4 Rd7 25. b5 Qc7 26. c5 axb5 27. axb5
+Rd4 28. Rc1 Qd8 29. Bc4 Rd1+ 30. Kh2 Rxc1 31. Bxe6+ Kf8 32. Qxc1 Qd3 33. c6
+Qg3+ 34. Kh1 bxc6 35. b6 Qf2 36. b7 Qb6 37. Qd1 1-0

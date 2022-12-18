@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Matokhin, A."]
+[Black "Gusev, Y."]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Taimanov (chase/wing/accelerated counterthrust) variation"]
+[HashCode "91c24bd6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. Bxf7+ Kxf7 7. Nxe5+
+Ke7 8. d4 d6 9. Bg5+ Nf6 10. Nc3 Bb7 11. Qf3 dxe5 12. dxe5 Kf7 13. Rd1 Bd6
+14. exf6 gxf6 15. Nd5 Bxd5 16. Rxd5 Rf8 17. Bxf6 Qxf6 18. Rf5 Kg7 19. Rxf6
+Rxf6 20. Qc3 Nc4 21. b3 Be5 22. Qh3 Nb6 23. O-O Raf8 24. f3 Rd6 25. Qh5 Bf4
+26. g3 Be3+ 27. Kh1 Nd7 28. f4 Kh8 29. e5 Rd2 30. Rd1 Rxd1+ 31. Qxd1 Nc5
+32. Qf3 Bd4 33. Qd5 Bf2 34. Kg2 Be3 35. e6 1-0
+

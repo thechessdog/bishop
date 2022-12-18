@@ -1,0 +1,23 @@
+[Event "Tivoli tt"]
+[Site "Tivoli tt"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Santolini"]
+[Black "Mariotti"]
+[Result "1/2-1/2"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "f6750f31"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8.
+Bxf6 Qxf6 9. Qd2 g5 10. f5 Nc6 11. O-O-O Nxd4 12. Qxd4 Qxd4 13. Rxd4 Ke7
+14. Na4 Bd7 15. Nb6 Rd8 16. Nxd7 Rxd7 17. Be2 h5 18. fxe6 fxe6 19. Rf1 Bg7
+20. Rd3 Be5 21. h3 Rc7 22. Kb1 h4 23. Bf3 Rhc8 24. Rf2 Rc4 25. Re2 b5 26.
+Bg4 b4 27. Rf3 a5 28. Rd3 a4 29. Rf3 Bf4 30. Rd3 Kf6 31. Bf3 Ke5 32. Bg4
+Rb8 33. Bf3 a3 34. bxa3 bxa3+ 35. Rb3 Rbb4 36. Re1 Bd2 37. Rd1 Bc3 38. Rd3
+Bb2 39. Rxb4 Rxb4 40. Rb3 Rc4 41. Rd3 Rc6 42. Rb3 Kf4 43. Rd3 e5 44. Rb3
+Rc4 45. Rd3 d5 46. Rxd5 g4 47. Bxg4 Rxe4 48. Rd3 Re1+ 49. Rd1 Rxd1+ 50.
+Bxd1 Bc3 1/2-1/2
+

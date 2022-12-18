@@ -1,0 +1,19 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Ojanen, Kaarle Sakari"]
+[Black "Kinnmark, Ove"]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "bdc7976a"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8. a3
+Ba5 9. cxd5 exd5 10. Ne2 c4 11. Bc2 Bc7 12. b3 cxb3 13. Bxb3 Bg4 14. Ng3 Ne4
+15. Qd3 Re8 16. Bb2 Na5 17. Bc2 Nc4 18. Bc3 Rc8 19. Be1 Re6 20. Ne5 Bxe5 21.
+dxe5 Nxe5 22. Qb3 Nf3+ 23. gxf3 Qh4 24. fxg4 Rh6 25. Kg2 Ng5 26. Rh1 Qh3+ 0-1

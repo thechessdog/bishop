@@ -1,0 +1,18 @@
+[Event "Brno KOLT"]
+[Site "Brno"]
+[Date "1968.??.??"]
+[Round "15"]
+[White "Komarek, P."]
+[Black "Kalendovsky, Jan"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "535db8e9"]
+[Epoch "Bishop"]
+[BlackID "321095"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Rb8 7. Nge2 b5 8. Qd2
+Bd7 9. d4 cxd4 10. Nxd4 Ne5 11. Nde2 Nc4 12. Qc1 Qa5 13. O-O Rc8 14. Bd2 Nxb2
+15. Na4 0-1

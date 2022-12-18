@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Lutikov, Anatoly S"]
+[Black "Gavrilov"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "a7bf9759"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. Nc3 Nf6 5. Bg5 Qb6 6. a3 c5 7. Be3 Bd7 8. e5 Ng8
+9. Nge2 f6 10. f4 Nh6 11. exf6 gxf6 12. Ng3 Qxb2 13. Nb5 Bxb5 14. Rb1 Qc3+ 15.
+Bd2 Qxd4 16. Bxb5+ Kd8 17. c3 1-0

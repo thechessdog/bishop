@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kupreichik"]
+[Black "Molchalov"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "9b432a19"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 b5 10. g4 Be7 11. h4 h6 12. Be3 Ne5 13. Rg1 g5 14. hxg5
+hxg5 15. Bxg5 b4 16. Nb1 Qa5 17. Bxf6 Bxf6 18. a3 Rb8 19. f4 Rh2 20. Qxh2
+bxa3 21. Nxa3 Nf3 22. Qh6 Bxd4 23. Rxd4 Nxd4 24. Qh8+ Ke7 25. Qh4+ Ke8 26.
+Rh1 e5 27. Bc4 Be6 28. Qh8+ Ke7 29. Qxb8 Bxc4 30. Qb7+ Kf6 31. g5+ Kg7 32.
+Qc8 1-0
+

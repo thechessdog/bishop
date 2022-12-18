@@ -1,0 +1,16 @@
+[Event "North Carolina"]
+[Site "North Carolina"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Warren"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "f3e6c395"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 h5 5. g3 h4 6. Nxh4 Rxh4 7. gxh4 Qxh4#
+0-1

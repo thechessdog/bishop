@@ -1,0 +1,18 @@
+[Event "corr WT/M"]
+[Site "corr WT/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Borwell, A."]
+[Black "Proscinski, M."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "King's knight opening"]
+[HashCode "9269112a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 c6 3. Nxe5 Qe7 4. Nf3 Qxe4+ 5. Be2 Be7 6. O-O Nf6 7. Re1
+O-O 8. d4 Qd5 9. c4 Qd6 10. b3 Ng4 11. h3 Nh6 12. Bd3 Bf6 13. Ba3 Qc7 14.
+Bxf8 Kxf8 15. Qe2 Qd8 16. Nc3 g6 17. Ne4 Be7 18. c5 b5 19. Nd6 Ba6 20.
+Qxe7+ Qxe7 21. Rxe7 Kxe7 22. Re1+ Kd8 23. Re8+ Kc7 24. Rh8 Nf5 25. Bxf5
+gxf5 26. Ne5 f6 27. Nef7 b4 28. Rd8 f4 29. Ne8+ Kb7 30. Nfd6# 1-0
+

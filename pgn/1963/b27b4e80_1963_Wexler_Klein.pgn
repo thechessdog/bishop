@@ -1,0 +1,19 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1963.01.01"]
+[Round "5"]
+[White "Wexler, Bernardo"]
+[Black "Klein, Lawrence"]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "b27b4e80"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 g6 6. e4 d6 7. f4 Bg7 8. e5
+Nfd7 9. Nb5 dxe5 10. Nd6+ Ke7 11. Nxc8+ Qxc8 12. d6+ Kf8 13. Nf3 c4 14. fxe5
+Nxe5 15. Nxe5 Qe6 16. Bxc4 Qxe5+ 17. Qe2 Nc6 18. Rf1 Qxe2+ 19. Kxe2 Ne5 20. Bb3
+Rd8 21. Be3 b6 22. Rac1 Rxd6 23. Rc7 f5 24. Bg5 Bf6 25. Bxf6 Rxf6 26. Rd1 Nf7
+27. Bxf7 1-0

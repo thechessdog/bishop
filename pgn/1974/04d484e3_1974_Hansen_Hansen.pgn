@@ -1,0 +1,18 @@
+[Event "Bylderup"]
+[Site "Bylderup"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Hansen, Gerd"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "04d484e3"]
+[Epoch "Bishop"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. c3 b6 7. b4 Bd6 8. Qb3
+Qe8 9. Be3 Ng4 10. Nbd2 Nxe3 11. fxe3 Qe7 12. d4 exd4 13. exd4 Bf4 14. Rae1
+Bxd2 15. Nxd2 Bb7 16. Rf2 Rab8 17. Ref1 a5 18. b5 Nd8 19. a4 Bxe4 20. Nxe4 Qxe4
+21. Bxf7+ Nxf7 22. Rxf7 Rxf7 23. Qxf7+ Kh8 24. Qf8+ Rxf8 25. Rxf8# 1-0

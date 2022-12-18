@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Schroeder"]
+[Black "Reichard, A."]
+[Result "1-0"]
+[ECO "B38"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 6.Be3"]
+[HashCode "991e1834"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. c4 e5 7. Nb5 Nf6 8.
+Nd6+ Kf8 9. Nc3 Qa5 10. Be2 Ne8 11. Nxe8 Kxe8 12. O-O f5 13. exf5 gxf5 14.
+Bh5+ Ke7 15. Bg5+ Ke6 16. Nb5 f4 17. Qg4# 1-0
+

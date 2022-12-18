@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Jean"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "242f2daf"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qg4 7. Qf2 Qb4 8.
+O-O-O Ng4 9. Nd5 Qa5 10. Bb5+ Bd7 11. Qf5 e6 12. Bxd7+ Kd8 13. Qxf7 Nxd7 14.
+Nb6 Ne5 15. Rxd7+ Nxd7 16. Qxd7# 1-0

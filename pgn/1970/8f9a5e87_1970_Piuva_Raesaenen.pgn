@@ -1,0 +1,19 @@
+[Event "corr ch-FIN"]
+[Site "corr ch-FIN"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Piuva, M."]
+[Black "Raesaenen, S."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "8f9a5e87"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 b5 8.
+e5 Nxe5 9. Nxe5 bxa4 10. Qxd4 O-O 11. Bg5 Re8 12. Nc3 h6 13. Bh4 Bb7 14.
+Rad1 d5 15. Qxa4 Qd6 16. Qf4 Rad8 17. Ne2 c5 18. Ng3 Bc8 19. Nf5 Bxf5 20.
+Qxf5 Qe6 21. Qf3 Ne4 22. Bxe7 Qxe7 23. Nc6 Qd6 24. Nxd8 Rxd8 25. Qe3 Qg6
+26. c4 Nf6 27. cxd5 Rxd5 28. Rxd5 Nxd5 29. Qe8+ Kh7 30. Qe4 1-0
+

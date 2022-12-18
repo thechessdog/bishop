@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Kotek, J."]
+[Black "Grivainis, K."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "423f60ca"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nf6 4. Nxe5 Qe7 5. d4 Nc6 6. Nxc6 Qxe4+ 7. Qe2
+dxc6 8. Nc3 Qxe2+ 9. Kxe2 Bd7 10. Re1 O-O-O 11. Kf1 c5 12. Bg5 cxd4 13.
+Bxf6 gxf6 14. Nd5 Bc6 15. Nxf6 Bb4 16. Re5 Rhf8 17. Be6+ Kb8 18. Rxf5 a6
+19. Nxh7 Rh8 20. Ng5 Rxh2 21. Ke2 Rxg2 22. Nf3 Bb5+ 23. Rxb5 axb5 24. Kf1
+Rg6 25. Bf5 Rf6 26. Bg4 Rf4 27. Ne5 Bd6 28. Nd7+ Ka7 29. f3 Rxg4 30. fxg4
+Rxd7 0-1
+

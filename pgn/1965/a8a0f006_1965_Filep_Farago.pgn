@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Filep, Tibor"]
+[Black "Farago, Ivan"]
+[Result "1-0"]
+[ECO "A92"]
+[Opening "Dutch"]
+[Variation "stonewall variation"]
+[HashCode "a8a0f006"]
+[Epoch "Bishop"]
+[WhiteID "701092"]
+[WhiteCountry "HUN"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+
+1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. c4 d5 7. Qc2 c6 8. Nbd2
+Qe8 9. Ne5 Nbd7 10. Nd3 Ne4 11. Nf3 b5 12. c5 a5 13. Bf4 g5 14. Bc7 Ra7 15. Bd6
+Bxd6 16. cxd6 Nb8 17. Nfe5 Nxd6 18. Qc5 Qe7 19. Nxc6 Nxc6 20. Qxc6 Rc7 21. Qb6
+Nc4 22. Qxb5 Bd7 23. Qb3 Nd2 24. Qb6 Nc4 1-0

@@ -1,0 +1,19 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Koolmeister"]
+[Black "Fedorov"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "dccfb189"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nc6 7. Nc3 e5 8.
+dxe5 Nxe5 9. Nxe5 dxe5 10. Bg5 Qxd1 11. Raxd1 c6 12. Rd6 Be6 13. b3 Rfe8
+14. Rfd1 h6 15. Bxf6 Bxf6 16. Ne4 Be7 17. c5 Bxd6 18. Nf6+ Kf8 19. Nxe8
+Kxe8 20. cxd6 a5 21. a4 Kd7 22. Rd3 Ra6 23. f4 exf4 24. gxf4 Rb6 25. e4
+Rxb3 26. Rxb3 Bxb3 27. e5 b5 28. Bxc6+ Kxc6 29. axb5+ Kb6 0-1
+

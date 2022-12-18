@@ -1,0 +1,19 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Mohaupt, H."]
+[Black "Schulz, T."]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "9408bb22"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 h6 9. Bh4 Qc7 10. O-O-O Nbd7 11. Be2 Rb8 12. g4 g5 13. fxg5 Ne5 14. Qg3
+hxg5 15. Bxg5 Nfxg4 16. Bxe7 Qxe7 17. Nf3 Rg8 18. Nxe5 Qg5+ 19. Rd2 Qxe5
+20. Bxg4 Qxg3 21. hxg3 Rxg4 22. Rxd6 Ke7 23. Rhd1 Rg8 24. e5 f5 25. Rh1
+Rxg3 26. Rh7+ Ke8 27. Ne2 Re3 28. Nf4 Re1+ 29. Kd2 Rxe5 30. c4 1-0
+

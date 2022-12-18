@@ -1,0 +1,18 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Iversen, Ralph"]
+[Black "Soby, Frode"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "f68e55c1"]
+[Epoch "Bishop"]
+[BlackID "1407880"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nc3 d5 6. cxd5 Qxd5 7. Bd2 Qxd2+
+8. Qxd2 Nxd2 9. Kxd2 O-O 10. e4 Nc6 11. f4 Rd8+ 12. Ke1 Rd4 13. g3 Rxe4+ 14.
+Ne2 Bg4 15. Kf2 Bc5+ 16. Ke1 Re3 17. Nd1 Nb4 0-1

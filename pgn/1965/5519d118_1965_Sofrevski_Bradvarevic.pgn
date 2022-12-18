@@ -1,0 +1,18 @@
+[Event "Titograd"]
+[Site "Titograd"]
+[Date "1965.01.01"]
+[Round "19"]
+[White "Sofrevski, Jovan"]
+[Black "Bradvarevic, Aleksandar"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "5519d118"]
+[Epoch "Bishop"]
+[WhiteCountry "MKD"]
+[BlackCountry "SRB"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Be7 5. cxd5 exd5 6. Bg5 c6 7. Qc2 g6 8. e3
+Bf5 9. Bd3 Bxd3 10. Qxd3 Nbd7 11. O-O O-O 12. Rab1 a5 13. Rfc1 Ne4 14. Bxe7
+Qxe7 15. Nd2 Nxd2 16. Qxd2 1/2-1/2

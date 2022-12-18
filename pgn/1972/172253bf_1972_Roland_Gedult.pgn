@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Roland, Ametis"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "172253bf"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. e4 Ng4 6. g3 h5 7. d4 h4 8. e5
+Bb4+ 9. c3 hxg3 10. cxb4 Nf2 11. Qa4+ Bd7 12. Qb3 Nxh1 13. Bf4 gxh2 14. Bg2 Ng3
+15. Bxg3 h1=Q+ 16. Bxh1 Rxh1+ 17. Kd2 Bf5 0-1

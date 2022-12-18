@@ -1,0 +1,22 @@
+[Event "Calgary ch-CAN zt"]
+[Site "Calgary ch-CAN zt"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Coudari, Camille"]
+[Black "Berry, Jonathan"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "8d3e1d34"]
+[Epoch "Bishop"]
+[WhiteID "2600293"]
+[WhiteCountry "CAN"]
+[BlackID "2600463"]
+[BlackCountry "CAN"]
+
+1. d4 d5 2. Bg5 f6 3. Bf4 Nc6 4. Nf3 Bg4 5. Bg3 e5 6. dxe5 Bxf3 7. exf3 Nxe5 8.
+Be2 Bd6 9. O-O Ne7 10. c4 Nxc4 11. Bxc4 dxc4 12. Qa4+ Qd7 13. Qxc4 Bxg3 14.
+hxg3 O-O-O 15. Nc3 Nc6 16. Rad1 Qe7 17. Nd5 Qf8 18. Rd3 Rd7 19. f4 Qf7 20. Rfd1
+Rhd8 21. b4 Nxb4 22. Nb6+ axb6 23. Qxf7 Nxd3 24. Qe6 Kb8 25. Qf5 c5 26. Qe6 b5
+27. a4 b4 28. a5 Nxf4 29. Qxd7 Rxd7 30. Rxd7 b3 31. a6 bxa6 32. gxf4 b2 33. Rd1
+c4 0-1

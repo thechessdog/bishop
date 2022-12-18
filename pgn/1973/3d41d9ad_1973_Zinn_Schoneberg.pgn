@@ -1,0 +1,18 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Zinn, Lothar"]
+[Black "Schoeneberg, Manfred"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "3d41d9ad"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. Bb3 b5 8. O-O
+Bb7 9. Re1 b4 10. Nd5 Nbd7 11. Nxb4 Qb6 12. c3 a5 13. Nd3 Nxe4 14. Be3 d5 15.
+Nxe6 Qxe6 16. Nf4 Qf5 17. g4 Qe5 18. Nxd5 Bc5 19. Bf4 Bxf2+ 20. Kg2 Qxf4 21.
+Nxf4 Bxe1 22. Bxf7+ Ke7 23. Bd5 1-0

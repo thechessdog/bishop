@@ -1,0 +1,22 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Mazzucchelli, N."]
+[Black "De Lange, D."]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "2e8ae817"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Nxe4 11. Bxe7 Nxd2 12. Bxd8 Nxf1 13. Nxc6
+bxc6 14. Rxd6 Ne3 15. Rg1 Nd5 16. Nxd5 cxd5 17. g4 Bb7 18. Ba5 Rfc8 19. f5
+e5 20. f6 g6 21. Bd2 d4 22. Bxh6 Be4 23. c3 dxc3 24. b3 a5 25. Rg3 a4 26.
+b4 Rc4 27. a3 Rd4 28. Rh3 g5 29. Re3 Rxd6 30. Rxe4 Rxf6 31. Bxg5 Rf1+ 32.
+Kc2 Rc8 33. Be7 Rf2+ 34. Kc1 c2 35. Bc5 Rxh2 36. Rxe5 f6 37. Rh5 Rg2 38.
+Rf5 Rd8 39. Rf2 Rxf2 40. Bxf2 Rd3 41. Kxc2 Rxa3 42. Bd4 Kf7 43. Bc3 Ra2+
+44. Kd3 a3 45. b5 Rg2 46. Kc4 Rb2 47. Bd4 Rb1 48. b6 a2 0-1
+

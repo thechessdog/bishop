@@ -1,0 +1,18 @@
+[Event "corr Latin America"]
+[Site "corr Latin America"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Copie, J."]
+[Black "Castelli, Raul"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[HashCode "59f79ee2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5 Nbd7
+8. Nc3 Qxe2+ 9. Bxe2 h6 10. Bh4 g6 11. O-O-O Bg7 12. Rhe1 a6 13. Bf1+ Kf8
+14. h3 Nb6 15. d4 Bd7 16. Bg3 Re8 17. Rxe8+ Kxe8 18. Re1+ Kd8 19. Nb1 Re8
+20. Rxe8+ Bxe8 1/2-1/2
+

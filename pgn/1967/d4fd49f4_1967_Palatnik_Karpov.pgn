@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Palatnik, Semon"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "d4fd49f4"]
+[Epoch "Bishop"]
+[BlackID "4100026"]
+[BlackCountry "RUS"]
+[WhiteID "2014610"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 1/2-1/2

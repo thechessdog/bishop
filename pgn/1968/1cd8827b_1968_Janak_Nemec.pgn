@@ -1,0 +1,18 @@
+[Event "Brno KOLT"]
+[Site "Brno"]
+[Date "1968.??.??"]
+[Round "12"]
+[White "Janak, Jaroslav"]
+[Black "Nemec, Anton"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "1cd8827b"]
+[Epoch "Bishop"]
+[BlackID "14905272"]
+[BlackCountry "SVK"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nf6 5. Nf3 Bg4 6. Be2 c6 7. O-O e6 8. Be3
+Nbd7 9. Ne5 Nxe5 10. dxe5 Qxd1 11. Bxd1 Bxd1 12. Rxd1 Ng4 13. Bd4 O-O-O 14. Na3
+Bxa3 15. bxa3 Rd7 16. h3 Rhd8 0-1

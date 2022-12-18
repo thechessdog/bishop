@@ -1,0 +1,21 @@
+[Event "Orense"]
+[Site "Orense"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Janosevic, M."]
+[Black "Benko, Pal"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "aafec0c2"]
+[Epoch "Bishop"]
+[BlackID "2000687"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Bd3 Qc7 8. Nf3
+Be7 9. O-O Nbd7 10. Qe1 Nc5 11. e5 Nfd7 12. Qg3 g6 13. f5 Nxe5 14. Nxe5 dxe5
+15. fxg6 f5 16. gxh7 Bf8 17. Bg5 Qg7 18. Rad1 Be7 19. h4 Rxh7 20. b4 Nxd3 21.
+Rxd3 Bd7 22. Bxe7 Qxg3 23. Rxg3 Kxe7 24. Rg5 Rc8 25. Rf3 e4 26. Rh3 Kf6 27. a3
+Rxh4 28. Rxh4 Kxg5 29. Rh3 Rc4 30. Rh7 Bc6 31. Ne2 e5 32. c3 f4 33. Kf2 f3 34.
+Ng3 Rxc3 35. Rg7+ Kf6 36. Nh5+ Ke6 0-1

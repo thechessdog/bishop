@@ -1,0 +1,19 @@
+[Event "Voroshilovgrad tt"]
+[Site "Voroshilovgrad tt"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Veresov"]
+[Black "Heuer"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "96343fbd"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 exf6 5. e3 Nc6 6. Nge2 Be6 7. g3 cxd4
+8. exd4 Qd7 9. Bg2 Rc8 10. Qd2 Bb4 11. O-O O-O 12. a3 Ba5 13. Rfe1 Rfe8 14.
+Nf4 Bxc3 15. Qxc3 Ne5 16. Qb4 Nc4 17. Re2 a5 18. Qb3 Red8 19. Rae1 Re8 20.
+Nxd5 Bxd5 21. Rxe8+ Rxe8 22. Rxe8+ Qxe8 23. Bxd5 Qe1+ 24. Kg2 Nd2 25. Qd3
+b6 26. c4 f5 27. c5 bxc5 28. dxc5 Kf8 29. c6 Ke7 30. b4 axb4 31. axb4 f4
+32. gxf4 h5 33. b5 1-0
+

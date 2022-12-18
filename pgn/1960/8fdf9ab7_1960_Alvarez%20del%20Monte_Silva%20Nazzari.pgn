@@ -1,0 +1,19 @@
+[Event "URU-ch"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Alvarez del Monte, Jose Luis"]
+[Black "Silva Nazzari, Hector"]
+[Result "1-0"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "8fdf9ab7"]
+[Epoch "Bishop"]
+[BlackID "3001210"]
+[BlackCountry "URU"]
+[WhiteCountry "URY"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 a6 8. O-O
+d5 9. exd5 exd5 10. Re1+ Be7 11. Bg5 O-O 12. Nxd5 Nxd5 13. Nxc6 bxc6 14. Bxe7
+Nxe7 15. Qxd8 Rxd8 16. Rxe7 1-0

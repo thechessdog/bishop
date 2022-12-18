@@ -1,0 +1,22 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Gheorghiu, Florin"]
+[Black "Covey, R."]
+[Result "1-0"]
+[ECO "A96"]
+[Opening "Dutch"]
+[Variation "classical variation"]
+[HashCode "0e394f03"]
+[Epoch "Bishop"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+
+1. d4 f5 2. Nf3 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. c4 d6 7. Nc3 Nbd7 8. Qc2
+Qe8 9. e4 fxe4 10. Nxe4 Nxe4 11. Qxe4 Bf6 12. Bf4 e5 13. dxe5 Nxe5 14. Bxe5
+dxe5 15. Rfe1 Qe6 16. Nxe5 Bxe5 17. Qxe5 Qxe5 18. Rxe5 c6 19. b4 Bd7 20. Rd1
+Rad8 21. b5 Kf7 22. Rde1 Rfe8 23. bxc6 Rxe5 24. Rxe5 Bxc6 25. Bxc6 bxc6 26. Kg2
+Rd1 27. Ra5 Rd7 28. Ra6 Rc7 29. Kf3 Ke6 30. Ke4 Kd6 31. Kd4 Rf7 32. f4 Rc7 33.
+f5 Rd7 34. g4 Rc7 35. h4 Rd7 36. c5+ Ke7+ 37. Ke5 Rc7 38. g5 g6 39. f6+ Kd7 40.
+Ra3 1-0

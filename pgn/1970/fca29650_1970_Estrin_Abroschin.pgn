@@ -1,0 +1,19 @@
+[Event "corr ch-SU"]
+[Site "corr ch-SU"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Abroschin"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "fca29650"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Be2 Bb7 7. Bf3 Qc7 8. O-O
+Nc6 9. Re1 Ne5 10. Bf4 O-O-O 11. Ndxb5 axb5 12. Nxb5 Qb6 13. a4 f6 14. Be2 Bc5
+15. a5 Qc6 16. Bxe5 fxe5 17. b4 Qxe4 18. Bf3 Qxb4 19. Rb1 Bxf2+ 20. Kxf2 Qc5+
+21. Kg3 d5 22. Rb3 Bc6 23. Qe2 Ne7 24. Bg4 Bxb5 25. Rxb5 Qc3+ 26. Qe3 Qxe3+ 27.
+Rxe3 e4 28. Bxe6+ Kc7 29. Rb6 d4 30. Rxe4 Nc6 31. Rb5 d3 32. cxd3 Rxd3+ 33. Kh4
+Re8 34. a6 1-0

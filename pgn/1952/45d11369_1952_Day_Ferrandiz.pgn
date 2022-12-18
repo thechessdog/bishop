@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Day, D."]
+[Black "Ferrandiz, F."]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Schlechter defence"]
+[HashCode "45d11369"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d5 6. Bxd5 Bb4+ 7. Kf1
+Nf6 8. Bxf7+ Kxf7 9. Qb3+ Be6 10. Qxb4 Qd1+ 11. Qe1 Bc4+ 12. Ne2 Bxe2+ 13.
+Kg1 Qxe1# 0-1
+

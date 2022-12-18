@@ -1,0 +1,19 @@
+[Event "DE-SzB"]
+[Site "DE-SzB"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Rott"]
+[Black "Ejzinger"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "37173191"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Bxf6 gxf6 6. Qc1 Nc6 7. c3 d5 8.
+Na3 Bd7 9. g3 cxd4 10. exd4 h5 11. Nc2 Rc8 12. Be2 Bh6 13. Qb1 e5 14. dxe5
+fxe5 15. O-O Bf5 16. Nh4 Bh7 17. Bxh5 Bg5 18. Bg4 Bxh4 19. Bxc8 Bxg3 20.
+Kg2 Be4+ 21. Kxg3 Nd4 22. cxd4 Rg8+ 23. Bg4 Rxg4+ 24. Kxg4 Qg6+ 25. Kh4
+Qh6+ 0-1
+

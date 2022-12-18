@@ -1,0 +1,16 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Ekebjaerg, O."]
+[Black "Moe, Mogens"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "24d6d32c"]
+[Epoch "Bishop"]
+[BlackID "1400550"]
+[BlackCountry "DEN"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 Nf6 4. Nxf6+ gxf6 5. Bc4 Nc6 6. Qh5 Ne5 7. Bb3 Bd7
+8. f4 Bg4 9. Qh4 Qd4 10. fxe5 Qe4+ 11. Kf2 Qd4+ 1/2-1/2

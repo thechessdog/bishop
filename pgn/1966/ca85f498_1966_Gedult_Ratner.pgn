@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Ratner, Boris"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "ca85f498"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 c5 4. d5 Nf6 5. Bb5+ Bd7 6. Qe2 a6 7. Bxd7+ Nbxd7 8.
+Nxe4 Nxd5 9. Nd6# 1-0

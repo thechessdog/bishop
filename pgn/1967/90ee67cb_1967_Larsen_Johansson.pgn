@@ -1,0 +1,23 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Larsen, Bent Ravn"]
+[Black "Johansson, Martin"]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "90ee67cb"]
+[Epoch "Bishop"]
+[WhiteID "1430670"]
+[WhiteCountry "DNK"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Na6 7. Bd6 Re8 8. a3
+Bxc3+ 9. Qxc3 Ne4 10. Qd4 Qa5+ 11. b4 Nxb4 12. axb4 Qxb4+ 13. Kd1 Qb3+ 14. Kc1
+e5 15. Qd3 Qxd3 16. exd3 Nxf2 17. Nh3 Nxh1 18. Be2 f5 19. Kc2 b6 20. Bf3 e4 21.
+dxe4 fxe4 22. Bg4 bxc5 23. Rxh1 a5 24. Nf4 Ra6 25. Rd1 a4 26. Kb2 Rb6+ 27. Ka1
+e3 28. Be2 Ba6 29. g3 a3 30. h4 Rb2 31. Re1 Rxe2 32. Nxe2 Bxc4 33. Bxc5 a2 34.
+Nd4 e2 35. Nc2 Re5 36. Bf2 Rf5 37. Be3 Rf3 38. Bf4 Rd3 39. Rc1 Rd1 40. Kb2 d5
+41. Be5 Kf7 42. Bc3 Bd3 43. Ne1 Bb1 0-1

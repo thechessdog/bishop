@@ -1,0 +1,30 @@
+[Event "Coventry ch-BCF"]
+[Site "Coventry ch-BCF"]
+[Date "1970.08.01"]
+[Round "11"]
+[White "Penrose, Jonathan"]
+[Black "Hartston, William R"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "07c460b9"]
+[Epoch "Bishop"]
+[WhiteID "400360"]
+[WhiteCountry "ENG"]
+[BlackID "400262"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 O-O 9. O-O-O Bd7 10. Bb3 Nxd4 11. Bxd4 Qa5 12. Kb1 Rfe8 13. Rd3 Rac8 14.
+Rhd1 Bc6 15. f4 Qh5 16. g4 Qxg4 17. Qf2 e5 18. fxe5 dxe5 19. Bxe5 Qh5 20. Bd4
+Nxe4 21. Nxe4 Bxe4 22. Rg1 Bf8 23. Rdg3 Bg6 24. Rg5 Re2 25. Qf1 Rexc2 26. Bxc2
+Bxc2+ 27. Ka1 Qh6 28. Bxg7 Bxg7 29. Rxg7+ Qxg7 30. Rxg7+ Kxg7 31. b3 Bg6 32.
+Qb5 b6 33. Qd7 Rc1+ 34. Kb2 Rc2+ 35. Ka3 Rc5 36. b4 Rc3+ 37. Kb2 Rc2+ 38. Kb3
+Rxh2 39. Qxa7 b5 40. Qd7 Rh5 41. a4 bxa4+ 42. Kxa4 Re5 43. b5 Re6 44. Kb4 h6
+45. Qd4+ Kh7 46. Kc5 Be4 47. Qf2 f5 48. Qh2 Rg6 49. Kd4 Rg7 50. Ke5 Rb7 51. Qe2
+Rg7 52. Kf6 Rg6+ 53. Ke5 Rg7 54. Qc4 Rg6 55. Qd4 Rg7 56. Kf6 Rg6+ 57. Kf7 Rg5
+58. b6 Rg8 59. Qe5 Rg5 60. Qd4 Rg8 61. Qe5 Rg5 62. Qe8 Rg7+ 63. Kf6 Rg5 64. b7
+Bxb7 65. Qf7+ Kh8 66. Qxb7 Rg8 67. Kxf5 Rg7 68. Qe4 Rg5+ 69. Kf6 Rg8 70. Qd4
+Kh7 71. Kf7 Rg5 72. Qf6 Rg8 73. Qe6 Rg5 74. Kf8 h5 75. Qf7+ Kh6 76. Qf6+ Rg6
+77. Qf4+ Kh7 78. Qe5 Kh6 79. Kf7 h4 80. Qe4 1-0

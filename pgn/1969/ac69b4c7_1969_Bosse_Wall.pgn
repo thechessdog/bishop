@@ -1,0 +1,17 @@
+[Event "Tacoma,WA"]
+[Site "Tacoma,WA"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Bosse, Ed"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "ac69b4c7"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Qa5 8. Bd2
+Nbc6 9. Qh5 Bd7 10. Nf3 h6 11. g4 Rf8 12. g5 g6 13. Qxh6 Nf5 14. Qh7 O-O-O 15.
+h4 Rh8 16. Qxf7 Rdf8 17. Qxg6 Nce7 0-1

@@ -1,0 +1,25 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Ortega, Rogelio"]
+[Black "Cala, Ugo"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "ad0bcc54"]
+[Epoch "Bishop"]
+[WhiteCountry "CUB"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. O-O Nc6 8. a3
+cxd4 9. exd4 Be7 10. b4 dxc4 11. Bxc4 b6 12. h3 Bb7 13. Be3 Rc8 14. Qd3 Bxb4
+15. axb4 Nxb4 16. Qb1 Rxc4 17. Qb3 Qc8 18. Rxa7 Nbd5 19. Bd2 Rc7 20. Nb5 Rd7
+21. Nf4 Nxf4 22. Bxf4 Qc6 23. f3 Qd5 24. Qb4 Bc6 25. Rxd7 Nxd7 26. Nc7 Qf5 27.
+Bd6 Rc8 28. Rc1 Bb7 29. Qa4 Qg5 30. Rc3 Rd8 31. Qa7 Bc8 32. f4 Qf6 33. Nb5 h6
+34. Qa8 Nc5 35. Be5 Bd7 36. Qa7 Qg6 37. Qxb6 Rc8 38. Nd6 Bc6 39. g4 Na4 40.
+Nxc8 Qe4 41. Qxc6 Qe1+ 42. Kh2 Nxc3 43. Ne7+ Kh7 44. Qa8 Qf2+ 45. Qg2 Qe1 46.
+g5 g6 47. Nxg6 h5 48. Nf8+ Kg8 49. g6 Nd5 50. Nxe6 fxe6 51. Qa2 Qb4 52. Qa8+
+Qf8 53. Qxf8+ Kxf8 54. g7+ Kf7 55. Kg3 Ne7 56. Kf3 Nf5 57. Ke4 Ng3+ 58. Kd3 Nf5
+59. Kc4 Nh6 60. Kc5 Ng8 61. Kd6 Ne7 62. Kd7 Ng8 63. d5 exd5 64. Kd6 Ne7 65. Bd4
+Ng6 66. f5 Nf4 67. f6 Nxh3 68. Be3 d4 69. Bc1 Nf2 70. g8=Q+ Kxg8 71. Ke7 1-0

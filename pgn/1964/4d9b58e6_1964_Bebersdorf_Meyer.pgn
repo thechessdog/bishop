@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Bebersdorf, C."]
+[Black "Meyer, Holger"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "4d9b58e6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8. h3
+Nc6 9. Qd2 d5 10. exd5 Nxd5 11. Nxd5 Nxd4 12. Nxe7+ Qxe7 13. Bxd4 Bxd4 14. Qxd4
+Bf5 15. Qe3 Qb4+ 16. Qc3 Qe4 17. Kf1 Rac8 18. Bd3 Qf4 19. Qe1 Bxd3+ 20. cxd3
+Rc2 21. Qe3 Qxe3 22. fxe3 Rfc8 23. Kg1 Rxb2 24. Kh2 Rcc2 25. Rhg1 b5 26. a4 b4
+27. a5 a6 28. Rac1 b3 29. Rxc2 Rxc2 30. Rb1 b2 31. Kg3 Kf8 32. Kf3 Ke7 33. g4
+f6 34. h4 Kd6 35. e4 Kc5 0-1

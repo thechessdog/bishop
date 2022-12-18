@@ -1,0 +1,18 @@
+[Event "Finland"]
+[Site "Finland"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Heikinheimo"]
+[Black "Raisa, Unto"]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "3de75be5"]
+[Epoch "Bishop"]
+[BlackID "500402"]
+[BlackCountry "FIN"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 g6 4. Be2 Bg7 5. O-O O-O 6. d3 c5 7. Qe1 Nc6 8. c3
+Qd6 9. Qh4 e5 10. e4 dxe4 11. dxe4 exf4 12. Bxf4 Qe7 13. Nbd2 Re8 14. Rae1 Nd7
+15. Bg5 f6 16. Bc4+ Kh8 17. e5 Ndxe5 18. Nxe5 Nxe5 19. Rxf6 Qc7 20. Rf7 Qc6 21.
+Rxe5 Rxe5 22. Rxg7 1-0

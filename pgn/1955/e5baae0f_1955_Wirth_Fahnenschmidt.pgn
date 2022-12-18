@@ -1,0 +1,19 @@
+[Event "Marburg"]
+[Site "Marburg"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Wirth"]
+[Black "Fahnenschmidt, Gerhard"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "e5baae0f"]
+[Epoch "Bishop"]
+[BlackID "4600568"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7. Ke3
+Qe7 8. Kxe4 d5+ 9. Bxd5 Qh4+ 10. g4 Bxg4 11. Bxc6+ Bd7+ 12. Ke3 Qd4+ 13. Ke2
+bxc6 14. Rg1 Bg4+ 15. Rxg4 Qxg4+ 16. Ke1 Qh4+ 17. Kf1 O-O 18. Qe2 Rxf7+ 19. Kg1
+Raf8 20. d3 Rf2 0-1

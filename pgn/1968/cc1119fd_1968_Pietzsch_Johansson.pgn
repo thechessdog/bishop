@@ -1,0 +1,18 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Pietzsch"]
+[Black "Johansson, Martin"]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "cc1119fd"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Bd7 10. f4 Rc8 11. Kb1 Be7 12. Be2 b5 13. a3 b4 14. axb4 Nxb4
+15. Bf3 O-O 16. g4 e5 17. fxe5 dxe5 18. Nf5 Bxf5 19. Qxd8 Rfxd8 20. gxf5 Rxd1+
+21. Rxd1 Bc5 22. Bxc5 Rxc5 23. Rd6 Kf8 24. Rb6 a5 25. Be2 Nd7 26. Rb7 Nf6 27.
+Bb5 g5 28. Ba4 Ng4 29. Bb3 Nxh2 30. f6 Kg8 31. Bxf7+ Kh8 32. Bg6 1-0

@@ -1,0 +1,19 @@
+[Event "ACM Atlanta"]
+[Site "ACM Atlanta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Ostrich"]
+[Black "The Fox"]
+[Result "1-0"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[HashCode "ba499866"]
+[Epoch "Bishop"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 Nc6 4. Bf4 Bf5 5. Nb5 Rc8 6. Nxc7+ Rxc7 7. Bxc7
+Qxc7 8. e3 Qd6 9. Bd3 Qb4+ 10. c3 Qxb2 11. Bxf5 Qxc3+ 12. Nd2 e6 13. Bc2
+Ba3 14. O-O O-O 15. Rb1 Bb2 16. a4 Qa3 17. Bb3 Bc3 18. Qc2 Ba5 19. Ra1 Qd6
+20. f3 Bb4 21. Ra2 Na5 22. Rf2 Re8 23. Rb2 Nxb3 24. Qxb3 Bxd2 25. Rfxd2 Qc7
+26. Rdc2 Qd7 27. Qxb7 Qxb7 28. Rxb7 Ra8 29. Rxa7 Rxa7 30. Rc8+ Ne8 31.
+Rxe8# 1-0
+

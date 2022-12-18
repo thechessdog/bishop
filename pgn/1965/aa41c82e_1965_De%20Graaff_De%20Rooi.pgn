@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1965.07.01"]
+[Round "3"]
+[White "De Graaff, RAG."]
+[Black "De Rooi, Paul"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "5...Be7"]
+[HashCode "aa41c82e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 d6 7. Qb3 Na5 8.
+Bxf7+ Kf8 9. Qa4 Kxf7 10. Qxa5 b6 11. Qa4 Bd7 12. Qc2 Bf6 13. Nbd2 Nh6 14. dxe5
+dxe5 15. Nc4 Re8 16. O-O Kg8 17. Rd1 Nf7 18. a4 Qe7 19. Ba3 Qe6 20. Ne3 Bc6 21.
+c4 Be7 22. Nd5 Bxa3 23. Rxa3 Rad8 24. Rc3 Qg6 25. Nh4 Qh5 26. Nf5 Bxd5 27. cxd5
+Nd6 28. Ng3 Qg6 29. Rxc7 Rc8 30. Rc6 Qf7 31. Rc1 g6 32. Qb2 Rxc6 33. Rxc6 Qd7
+34. Qc3 Rc8 35. Rxd6 1-0

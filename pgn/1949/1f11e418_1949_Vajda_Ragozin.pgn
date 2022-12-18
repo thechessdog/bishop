@@ -1,0 +1,24 @@
+[Event "Budapest-Moscow"]
+[Site "Budapest"]
+[Date "1949.01.01"]
+[Round "4"]
+[White "Vajda, Arpad"]
+[Black "Ragozin, Viacheslav"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "1f11e418"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. a3 Bxc3+ 8. bxc3
+b6 9. O-O Ba6 10. cxd5 exd5 11. f3 Re8 12. g4 Bxd3 13. Qxd3 Nc6 14. Ng3 Rc8 15.
+Bb2 cxd4 16. cxd4 Na5 17. Rae1 Qc7 18. Rf2 Nc4 19. Bc1 Nd6 20. Kg2 b5 21. g5
+Nd7 22. e4 Qc3 23. Qd1 Nc4 24. Nf5 Nf8 25. e5 Rc6 26. f4 Nxa3 27. Re3 Qxc1 28.
+Qxc1 Rxc1 29. Rxa3 Rc7 30. Nd6 Rb8 31. Rfa2 b4 32. Rxa7 Rxa7 33. Rxa7 b3 34.
+Ra1 Ne6 35. Nf5 Kf8 36. Kf2 g6 37. Ne3 Nxd4 38. Ke1 b2 39. Rb1 Rb3 40. Nd1 Ne6
+41. Rxb2 Rxb2 42. Nxb2 Nxf4 43. Kf2 Nh3+ 44. Ke3 Nxg5 45. Nd3 Ne6 46. Nb4 d4+
+47. Ke4 Kg7 48. Nd3 Kh6 49. Kd5 Kg5 50. Ke4 Kh4 51. Nb2 h5 52. Nc4 Kh3 53. Nd6
+Kxh2 54. Nxf7 h4 55. Kf3 Kg1 56. Nd6 h3 0-1

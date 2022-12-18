@@ -1,0 +1,17 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Skold, Kristian"]
+[Black "Florian, Tibor"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "a26dbdf2"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. h3 Bb7 11. d3 Qd6 12. d4 exd4 13. cxd4 Bf6 14. Nbd2 1/2-1/2

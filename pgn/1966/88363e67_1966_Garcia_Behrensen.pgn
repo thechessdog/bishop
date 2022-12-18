@@ -1,0 +1,25 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1966.01.01"]
+[Round "3"]
+[White "Garcia, Raimundo"]
+[Black "Behrensen, Jorge"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "88363e67"]
+[Epoch "Bishop"]
+[WhiteID "100420"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 b6 7. a3 Be7 8. d5
+exd5 9. cxd5 d6 10. Nd4 O-O 11. Be2 Bb7 12. Nf5 Qd7 13. Ne3 Na6 14. b4 Nc7 15.
+O-O Rae8 16. Bb2 Bd8 17. Bf3 Qc8 18. Rc1 Qd7 19. Qb3 b5 20. Rfd1 Na8 21. a4
+bxa4 22. Qxa4 Bc8 23. Qxd7 Bxd7 24. Ra1 Bb6 25. Nc4 Rb8 26. Nxd6 Bc7 27. Nce4
+Bxd6 28. Nxd6 Rxb4 29. Bxf6 gxf6 30. Rxa7 Nb6 31. h3 Rd8 32. Bh5 Ba4 33. Bxf7+
+Kh8 34. Rxa4 Rxa4 35. Nf5 Ra5 36. Ne3 f5 37. Rb1 f4 38. Rxb6 fxe3 39. fxe3 Kg7
+40. Be6 Ra3 41. e4 h5 42. Bf5 Ra2 43. Rg6+ Kf7 44. Rh6 Rb8 45. Rxh5 Rbb2 46.
+Rg5 Kf6 47. h4 Re2 48. d6 Rad2 49. d7 Kf7 50. h5 Kf6 51. Rg8 Kf7 52. d8=Q Rxg2+
+53. Rxg2 Rxg2+ 54. Kxg2 1-0

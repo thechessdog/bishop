@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Tejler, A."]
+[Black "Moore"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "ffc8fe48"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Nc6 6. Be3 e6 7. O-O-O
+Bd6 8. Nge2 e5 9. Nb5 O-O 10. Nxd6 cxd6 1-0
+

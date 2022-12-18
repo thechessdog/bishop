@@ -1,0 +1,17 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Villeneuve"]
+[Black "Jovanovic, Sasa T"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "4a2bf706"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Nh4 h6 11. f4 exf4 12. Bxf4 g5 13. e5 Ng4 14. e6 Nf6 15. Qa4+
+Kf8 16. O-O Kg7 17. Bxd6 Qxd6 18. Rxf6 Bxe6 19. Raf1 Rhf8 20. Bb1 Ng8 21. Nf5+
+1-0

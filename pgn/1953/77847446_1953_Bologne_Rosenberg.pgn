@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Bologne"]
+[Black "Rosenberg"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "77847446"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Nf3
+Qc7 8. Bc4 e6 9. Nh4 Bg6 10. f4 f5 11. Qd3 Nd7 12. Nf3 O-O-O 13. Bd2 Nc5
+14. Qc2 Ne4 15. Be3 Bh6 16. g3 Rhe8 17. O-O-O Nf6 18. Rhe1 Bf8 19. Ne5 Nd5
+20. Nxg6 hxg6 21. Bd2 Kb8 22. Re2 Rd7 23. Rde1 Rc8 24. Bd3 c5 25. dxc5 Qxc5
+26. Be3 Qa5 27. Bd4 Nb4 28. Be5+ Bd6 29. cxb4 Rxc2+ 30. Bxc2 Qxa2 31. Bc3
+Bc7 32. b3 g5 0-1
+

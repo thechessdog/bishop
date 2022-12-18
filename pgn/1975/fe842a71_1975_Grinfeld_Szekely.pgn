@@ -1,0 +1,21 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Grinfeld, Alla B"]
+[Black "Szekely, Peter"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "fe842a71"]
+[Epoch "Bishop"]
+[WhiteID "2019558"]
+[WhiteCountry "USA"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nbd7 9. Qf3 Qc7 10. Bd3 b5 11. a3 Be7 12. Bh4 h6 13. Bf2 g5 14. g3 Bb7 15.
+O-O-O Rg8 16. Rhe1 gxf4 17. gxf4 Nc5 18. Rg1 O-O-O 19. Rxg8 Rxg8 20. Rg1 Rxg1+
+21. Bxg1 Nxb3+ 22. cxb3 d5 23. Kb1 dxe4 24. Nxe4 Qc6 0-1

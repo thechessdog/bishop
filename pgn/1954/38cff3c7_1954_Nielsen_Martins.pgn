@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Nielsen, Hartvig"]
+[Black "Martins, Poul"]
+[Result "0-1"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "38cff3c7"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 e5 7. d5 Ne8 8. g4 f5
+9. exf5 gxf5 10. Qc2 e4 11. Nge2 Na6 12. a3 Nc5 13. Nf4 a5 14. Be2 Be5 15. g5
+Ng7 16. h4 Qe8 17. O-O-O Bxf4 18. Bxf4 Nh5 19. Be3 Bd7 20. Rdg1 Nd3+ 21. Bxd3
+exd3 22. Qxd3 f4 23. Bd4 Bf5 24. Qf3 Qg6 25. Re1 Rae8 26. Rhg1 Bd3 27. b3 a4
+28. Nxa4 Be4 29. Qd1 f3 30. Nc3 Nf4 31. Nxe4 Rxe4 32. Rxe4 Qxe4 33. Be3 Ne2+
+34. Kb2 Qe5+ 35. Kc2 Qc3+ 36. Kb1 Nxg1 37. Qxg1 Qxb3+ 38. Kc1 Qxa3+ 39. Kc2
+Qa2+ 40. Kd3 b5 41. Qc1 Re8 42. Bd2 Re2 43. Be3 Qxc4+ 44. Qxc4 bxc4+ 45. Ke4 c3
+46. Kxf3 Re1 0-1

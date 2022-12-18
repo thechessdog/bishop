@@ -1,0 +1,17 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Rice, John"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "4c41bac1"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5 8.
+Nc3 Qc7 9. Ne2 Bd6 10. Ng3 Ne7 11. b3 O-O 12. Bb2 Ng6 13. Re1 Nf4 14. Qg4 g6
+15. e5 Nxd3 16. exd6 Qxd6 17. cxd3 f5 18. Qd4 Qe7 19. Qh8+ Kf7 20. Qxh7+ 1-0

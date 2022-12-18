@@ -1,0 +1,20 @@
+[Event "corr YUG-CSSR tt"]
+[Site "corr YUG-CSSR tt"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Jedlicka"]
+[Black "Milutinovic"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Alapin variation"]
+[HashCode "72b28651"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Be6 6. a3 Qd7 7. Qc2 Nge7
+8. b4 Ng6 9. c5 Rd8 10. Bb2 a6 11. Rd1 Bf5 12. Qc4 Ngxe5 13. Nxe5 Nxe5 14.
+Qb3 Be7 15. e4 dxe3 16. Qxe3 Ng4 17. Qb3 Bh4 18. g3 Qe7+ 19. Be2 Bd3 20.
+O-O Bxe2 21. gxh4 Bxf1 22. Nxf1 O-O 23. Rxd8 Rxd8 24. Qg3 Qe2 25. h3 Rd1
+26. Qg2 c6 27. hxg4 Qxb2 28. Qe4 g6 29. g5 Qa1 30. Qe2 Re1 31. Qd3 Qd1 32.
+Qc4 Qe2 0-1
+

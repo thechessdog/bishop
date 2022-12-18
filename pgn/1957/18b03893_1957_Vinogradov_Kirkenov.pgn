@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Vinogradov"]
+[Black "Kirkenov"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "18b03893"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Qf6 5. d4 exd4 6. e5 Qg6 7. cxd4 Nxd4
+8. Nxd4 Qb6 9. Qg4 Ne7 10. e6 c6 11. Qxg7 Ng6 12. exf7+ Kd8 13. Ne6+ dxe6
+14. Bg5+ 1-0
+

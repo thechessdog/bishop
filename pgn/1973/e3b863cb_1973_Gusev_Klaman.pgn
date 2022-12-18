@@ -1,0 +1,21 @@
+[Event "Sevastopol"]
+[Site "Sevastopol"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Gusev, Vladimir"]
+[Black "Klaman, Konstantin"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "e3b863cb"]
+[Epoch "Bishop"]
+[WhiteID "4111737"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. Nxe5 Qg5 6. Nf3 Qxg2 7. Rg1 Qh3
+8. Nc3 d6 9. Rg3 Qd7 10. Qe2 Bb7 11. d4 O-O-O 12. Be3 g6 13. O-O-O Bg7 14. Rg5
+f5 15. exf5 Bh6 16. Rg3 Qxf5 17. Ng5 Rf8 18. Rf3 Qd7 19. Rxf8+ Bxf8 20. d5 c5
+21. Ne6 Ne7 22. Qc4 Nf5 23. Ne4 Bg7 24. a4 Re8 25. Rd3 Nd4 26. Bxd4 Bxd4 27.
+Rxd4 cxd4 28. Nf6 1-0

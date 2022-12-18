@@ -1,0 +1,20 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1974.03.01"]
+[Round "5"]
+[White "Van Dop, Arend"]
+[Black "Sosonko, Gennadi"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "84418b50"]
+[Epoch "Bishop"]
+[WhiteID "1000810"]
+[WhiteCountry "NED"]
+[BlackID "1000039"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 g6 8.
+Be3 Nf6 9. f3 Bg7 10. Nc3 O-O 11. O-O Rac8 12. b3 e6 13. Rc1 Rfd8 14. Qd2 d5
+15. exd5 exd5 16. Nxc6 1/2-1/2

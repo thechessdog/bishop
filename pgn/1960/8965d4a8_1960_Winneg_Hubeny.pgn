@@ -1,0 +1,17 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Winneg, A."]
+[Black "Hubeny, V."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "8965d4a8"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. h3 Ng4 10. hxg4 Qf8 11. d6 Qf4 12. Ng6 hxg6 13. Rh8+ Kd7
+14. Rh3 Be3+ 15. Rf3 Qh2 16. Ke1 Qxg2 17. Rxe3 Qh1+ 0-1
+

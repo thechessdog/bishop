@@ -1,0 +1,19 @@
+[Event "Augustow"]
+[Site "Augustow"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Konikowski, Jerzy"]
+[Black "Barbulovic, Borivoj"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "47f323e3"]
+[Epoch "Bishop"]
+[WhiteID "4601467"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. a3
+Bb7 9. Qe2 Nbd7 10. f3 Rc8 11. Be3 Nb6 12. a4 b4 13. Na2 d5 14. Rd1 Qc7 15. O-O
+dxe4 16. fxe4 Bd6 17. Bxe6 Bxh2+ 18. Kh1 O-O 19. Rxf6 gxf6 20. Bf5 Rfd8 21.
+Qg4+ Kf8 22. Ne6+ fxe6 23. Bh6+ Ke8 24. Qg8+ Ke7 25. Qxe6# 1-0

@@ -1,0 +1,18 @@
+[Event "Bognor Regis"]
+[Site "Bognor Regis"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Clough, D."]
+[Black "Reuser"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "41fc4f97"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Bb3 Nbd7 9. Be3 Nc5 10. f3 b6 11. Qd2 Bb7 12. Bd5 Nxd5 13. exd5 e6 14.
+b4 exd5 15. Nde2 Ne6 16. Rac1 Qh4 17. f4 Nc7 18. f5 Qxb4 19. f6 Bh8 20. Rf4
+d4 21. Bxd4 Nd5 22. Nxd5 Qxd2 23. Ne7# 1-0
+

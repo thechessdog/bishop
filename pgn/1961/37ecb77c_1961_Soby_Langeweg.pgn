@@ -1,0 +1,24 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Soby, Frode"]
+[Black "Langeweg, Kick"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "37ecb77c"]
+[Epoch "Bishop"]
+[WhiteID "1407880"]
+[WhiteCountry "DEN"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. O-O Ra7 13. fxg7 Bxg7 14. Nf3
+Qf4 15. Qe1 Rd7 16. Kh1 O-O 17. Bd3 Nc6 18. Ne4 Ne5 19. Nxe5 Qxe5 20. Qh4 f5
+21. Ng3 Qxb2 22. a4 Rd4 23. Qe7 Bf6 24. Qc7 Rd7 25. Qc6 Rxd3 26. cxd3 b4 27.
+Rab1 Qc3 28. Qf3 b3 29. Nh5 Be5 30. Rfc1 Qb4 31. Qe3 Bc3 32. Qg3+ Kh8 33. Qc7
+Bd4 34. Qxc8 h6 35. Qxe6 Qd2 36. Rd1 Qg5 37. Qd5 Rd8 38. Qf3 b2 39. Rf1 Rc8 40.
+Qd1 Rc1 41. Rxc1 1-0

@@ -1,0 +1,19 @@
+[Event "La Habana olm fin-A"]
+[Site "La Habana"]
+[Date "1966.??.??"]
+[Round "5"]
+[White "Kristiansen, Erling"]
+[Black "Kolarov, Atanas S."]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Berlin defence, 6.Bc4"]
+[HashCode "d5942b57"]
+[Epoch "Bishop"]
+[WhiteID "1500244"]
+[WhiteCountry "NOR"]
+[BlackID "2900246"]
+[BlackCountry "BGR"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. d4
+Nh5 9. Nxg4 Ng3 10. Rh2 Qe7+ 11. Kf2 h5 0-1

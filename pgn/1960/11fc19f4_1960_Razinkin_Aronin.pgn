@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Razinkin"]
+[Black "Aronin, Lev Solomonovich"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian defence"]
+[HashCode "11fc19f4"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Qf3 Qc5 6. Qb3 Nc6 7. Nf3 e5
+8. Bc4 f6 9. O-O Bd6 10. d4 exd4 11. Bg8 Ne7 12. Qf7+ Kd7 13. b4 Qxb4 14. Bd2
+Qc5 15. Rfe1 b6 16. Qxg7 Rxg8 17. Rxe7+ Bxe7 18. Qxg8 Bb7 19. Qxh7 Bxf3 20.
+Qh3+ Kc6 21. Qxf3+ Qd5 0-1

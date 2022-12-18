@@ -1,0 +1,20 @@
+[Event "DDR-ch 16th"]
+[Site "Colditz"]
+[Date "1967.??.??"]
+[Round "7"]
+[White "Csulits, Anton"]
+[Black "Hennings, Artur"]
+[Result "1/2-1/2"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "51266986"]
+[Epoch "Bishop"]
+[WhiteID "4611705"]
+[BlackID "4611594"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 Bh3 8. O-O
+Bxg2 9. Kxg2 O-O-O 10. a3 Nge7 11. b4 Ng6 12. Nb3 Ncxe5 13. Qxd4 Qxd4 14. Nbxd4
+Nxc4 15. Ra2 Be7 16. Rc2 Nd6 17. Be3 1/2-1/2

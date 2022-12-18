@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1972.06.01"]
+[Round "7"]
+[White "Hecht, Hans-Joachim"]
+[Black "Van Geet, Dirk Daniel"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "77c2580d"]
+[Epoch "Bishop"]
+[WhiteID "4600320"]
+[WhiteCountry "DEU"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 Be7 5. O-O O-O 6. Bxc6 dxc6 7. Nxe5 Bd6
+8. Nf3 Bg4 9. d3 Nd7 10. h3 Bh5 11. Nbd2 f5 12. exf5 Rxf5 13. g4 Qf6 14. Ne4
+Qe6 15. Nd4 Qg6 16. Nxf5 Qxf5 17. Nxd6 cxd6 18. gxh5 Nf6 19. Kg2 Rf8 20. Bd2
+Nxh5 1-0

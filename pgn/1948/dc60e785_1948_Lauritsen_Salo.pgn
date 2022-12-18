@@ -1,0 +1,20 @@
+[Event "Saltsjobaden tt"]
+[Site "Saltsjobaden"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Lauritsen, Evald"]
+[Black "Salo, Toivo"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "dc60e785"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Bxc3+ 6. bxc3 d6 7. Ne2 e5
+8. Ng3 Nc6 9. O-O Re8 10. f3 b6 11. Rb1 Ba6 12. Qc2 Na5 13. Ne4 Bxc4 14.
+Nxf6+ Qxf6 15. Bxh7+ Kh8 16. Bd3 d5 17. Bd2 exd4 18. cxd4 Bxd3 19. Qxd3 Nc4
+20. Bc1 Re6 21. e4 Qg6 22. Qc3 Rae8 23. Bf4 c6 24. Rf2 b5 25. Re1 dxe4 26.
+fxe4 Rxe4 27. Rxe4 Qxe4 28. Qh3+ Kg8 29. Qd7 f6 30. Be5 Qg6 31. Qxc6 Nxe5
+32. dxe5 Rxe5 33. Rb2 Qd3 34. Qc1 Qd4+ 35. Kf1 Rf5+ 36. Ke1 Qg1+ 0-1
+

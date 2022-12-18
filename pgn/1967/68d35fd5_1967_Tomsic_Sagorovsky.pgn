@@ -1,0 +1,20 @@
+[Event "corr SU-YUG tt"]
+[Site "corr SU-YUG tt"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Tomsic"]
+[Black "Sagorovsky, W."]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[HashCode "68d35fd5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 exd4 6. e5 Bc5 7. O-O Nge7 8.
+Bb3 d5 9. exd6 Qxd6 10. Re1 h6 11. Nbd2 b5 12. a4 Rb8 13. axb5 axb5 14. Nf1
+Kd8 15. c3 Bd7 16. cxd4 Bb4 17. Bd2 Bxd2 18. Qxd2 Kc8 19. d5 Nd8 20. Qd4
+Rh7 21. Ra7 g6 22. Rc1 Nb7 23. Ng3 Kd8 24. Ne2 g5 25. Ne5 Be8 26. Nc6+ Nxc6
+27. dxc6 Qxd4 28. Nxd4 Nd6 29. Ne6+ Kc8 30. Rd1 Rb6 31. Rxd6 cxd6 32. Rxh7
+Rxc6 33. h4 1-0
+

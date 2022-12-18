@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Kogan"]
+[Black "Afonin"]
+[Result "1-0"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "e088d565"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. Bd3 Be7 7. O-O b6 8.
+e4 dxe4 9. Nxe4 Bb7 10. Ne5 Nxe5 11. dxe5 Nxe4 12. Bxe4 Qc7 13. Qf3 O-O 14.
+Re1 Rad8 15. Qg4 Bb4 16. Bh6 f5 17. exf6 Bxe1 18. Bxg7 Bxf2+ 19. Kxf2 Rf7
+1-0
+

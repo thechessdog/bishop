@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Strokov"]
+[Black "Mehidic"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "246cc50b"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 Bf5 3. Bg5 h6 4. Bh4 Nf6 5. f3 Nbd7 6. Nxd5 Nxd5 7. e4 N7f6
+8. Bxf6 exf6 9. exd5 Qxd5 10. Qe2+ Be7 11. Qb5+ Qxb5 12. Bxb5+ c6 13. Ba4
+O-O-O 14. O-O-O Bd6 15. Bb3 Rhe8 16. a3 Re3 17. Bxf7 Rd7 18. Bc4 b5 19. Bf1
+Bf4 20. g3 Rc3+ 21. Kb1 Rxc2 22. Ka2 Be3 23. Ne2 a5 24. d5 c5 25. Nc3 Bd4
+26. Ka1 b4 27. Na4 bxa3 28. Bd3 axb2+ 29. Ka2 Bxd3 30. Nb6+ Kc7 31. Nxd7
+Kxd7 32. Rxd3 Rc1 0-1
+

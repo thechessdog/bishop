@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Nievergelt, Erwin"]
+[Black "Durasevic, Bozidar"]
+[Result "0-1"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "f0f041a6"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nc6 9. cxd5 exd5 10. Nf3 Bf5 11. b4 O-O 12. Bb2 b6 13. g4 Bg6 14. cxb6
+Qxb6 15. e3 Nxb4 16. axb4 Qxb4+ 17. Kd1 Rac8 18. Qe2 Nc3+ 19. Bxc3 Qb3+ 0-1

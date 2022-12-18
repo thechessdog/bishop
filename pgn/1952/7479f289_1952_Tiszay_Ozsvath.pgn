@@ -1,0 +1,17 @@
+[Event "Szeged"]
+[Site "Szeged"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Tiszay"]
+[Black "Ozsvath, Andras"]
+[Result "0-1"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Alekhine variation"]
+[HashCode "7479f289"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6 8.
+O-O O-O 9. Nb3 a5 10. f4 a4 11. Nd4 Qb6 12. Qd3 Ng4 13. Bxg4 Bxd4 14. Bxc8
+Bxe3+ 15. Kh1 Nb4 16. Qe2 Raxc8 17. a3 Rxc3 18. bxc3 Nc6 0-1

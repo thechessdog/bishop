@@ -1,0 +1,17 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hjorth"]
+[Black "Kinnmark, Ove"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "6d476d23"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. O-O Nc6 8. cxd5
+exd5 9. dxc5 Bxc5 10. b3 a6 11. Bb2 Ba7 12. Rc1 Re8 13. h3 Qd6 14. Re1 Rxe3 15.
+fxe3 Bxe3+ 16. Kf1 Qh2 17. Nf4 Qg1+ 0-1

@@ -1,0 +1,22 @@
+[Event "Hungary"]
+[Site "Budapest"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Lengyel, Levente"]
+[Black "Polgar, Istvan"]
+[Result "1-0"]
+[ECO "D66"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, fianchetto variation"]
+[HashCode "f3452f8e"]
+[Epoch "Bishop"]
+[BlackID "700215"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. O-O a6 12. a4 Rc8 13. Qe2 Re8 14. Rfd1 Qa5 15.
+Ne5 bxa4 16. Nxd7 Qxg5 17. Nxf6+ gxf6 18. Bxa6 Bxa6 19. Qxa6 a3 20. bxa3 f5 21.
+Ne2 c5 22. d5 Ra8 23. Qc4 Bd6 24. dxe6 Rxe6 25. Nf4 Re4 26. Qd5 Ra6 27. Qb7
+Rea4 28. Qd7 Bxf4 29. exf4 Qxf4 30. Rxc5 Re6 31. Rc7 Rf6 32. Rd3 Ra8 33. Rg3+
+Kf8 34. Qe7# 1-0

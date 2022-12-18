@@ -1,0 +1,25 @@
+[Event "Oslo CI"]
+[Site "Oslo"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Zwaig, Arne"]
+[Black "Westerinen, Heikki M.J."]
+[Result "0-1"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "09b8543b"]
+[Epoch "Bishop"]
+[WhiteID "1500040"]
+[BlackID "500020"]
+[WhiteCountry "NOR"]
+[BlackCountry "FIN"]
+
+1. g3 d5 2. Nf3 Nf6 3. Bg2 e6 4. O-O Be7 5. d4 O-O 6. b3 Nbd7 7. c4 c6 8. Nbd2
+b6 9. Qc2 Bb7 10. Bb2 Rc8 11. e4 dxe4 12. Nxe4 Rc7 13. Rad1 Qa8 14. Nc3 Rd8 15.
+Qe2 Bf8 16. Rd2 c5 17. Rfd1 cxd4 18. Rxd4 Rcc8 19. Nb5 Nc5 20. Nd6 Bxd6 21.
+Rxd6 Rxd6 22. Rxd6 Rd8 23. Qd1 Rxd6 24. Qxd6 h6 25. Bxf6 gxf6 26. b4 Ne4 27.
+Qe7 Kg7 28. Nd4 Qc8 29. Nxe6+ Qxe6 30. Qxb7 Nd2 31. Bf1 Nxf1 32. Kxf1 Qxc4+ 33.
+Kg2 Qxa2 34. b5 Qc4 35. Qc6 Qd3 36. h4 a6 37. bxa6 Qxa6 38. Qe4 Qc8 39. g4 Qc5
+40. f4 b5 41. Qd3 b4 42. Qd8 b3 43. g5 fxg5 44. hxg5 hxg5 45. fxg5 Qc2+ 46. Kh3
+Qc3+ 47. Kg4 b2 48. Qb6 Qc4+ 0-1

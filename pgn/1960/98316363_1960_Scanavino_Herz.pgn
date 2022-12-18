@@ -1,0 +1,17 @@
+[Event "Azul ch-ARG jr"]
+[Site "Azul ch-ARG jr"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Scanavino, Eduardo"]
+[Black "Herz, E."]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "98316363"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O dxc4 8. Bxc4
+b6 9. Qe2 Bb7 10. Rd1 Nbd7 11. dxc5 Bxc5 12. e4 Qc7 13. h3 Rac8 14. Bb5 Ne5 15.
+Bf4 Nxf3+ 16. Qxf3 Qe7 17. Bg5 Rfd8 18. Qe2 e5 19. Ba6 Bxa6 20. Qxa6 Bd4 21.
+Nd5 Qe6 22. Qe2 Nxd5 23. exd5 Rxd5 24. Rac1 Rdc5 25. Rxd4 Rxc1+ 0-1

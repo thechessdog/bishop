@@ -1,0 +1,20 @@
+[Event "Bari"]
+[Site "Bari"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Honfi"]
+[Black "Tatai, Stefano"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "8bdb1e0c"]
+[Epoch "Bishop"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Bf4 Nc5 13. Nce2 Bb7 14. Qe1 Nc6
+15. Nxc6 Bxc6 16. Rd1 Qc7 17. c3 Be4 18. Nd4 Nxb3 19. axb3 Qb7 20. Qg3 Rfd8 21.
+Bg5 Bxg5 22. Qxg5 Rd7 23. b4 Qb6 24. h4 Rd5 25. h5 f5 26. h6 Ra7 27. Kh2 Rad7
+28. Qg3 Kh8 29. Rde1 Rxd4 30. cxd4 Bb7 31. Rxf5 Qd8 32. Rf4 gxh6 33. Ref1 Qg5
+34. Rg4 Qh5+ 35. Kg1 Rd8 36. Qf4 1-0

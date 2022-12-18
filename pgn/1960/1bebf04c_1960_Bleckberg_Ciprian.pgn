@@ -1,0 +1,18 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Bleckberg"]
+[Black "Ciprian"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "1bebf04c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7.
+Ke3 Qh4 8. Rf1 Ng5 9. Nxh8 d5 10. c3 d4+ 11. Ke2 Bg4+ 12. Rf3 Nxf3 13. Bf7+
+Ke7 14. gxf3 e4 15. Qg1 exf3+ 16. Kd3 Bf5+ 17. Kc4 dxc3+ 18. d4 f2 19. Qg5+
+Kf8 20. Qxh4 f1=Q+ 21. Kc5 Qxc1 0-1
+

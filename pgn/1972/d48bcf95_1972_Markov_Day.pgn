@@ -1,0 +1,20 @@
+[Event "Toronto ch-CAN"]
+[Site "Toronto ch-CAN"]
+[Date "1972.01.01"]
+[Round "10"]
+[White "Markov, B."]
+[Black "Day, Lawrence A."]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "d48bcf95"]
+[Epoch "Bishop"]
+[BlackID "2600137"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. Bd3
+Nbd7 9. Qe2 Qb6 10. Nf3 Bb7 11. f5 e5 12. a4 b4 13. a5 Qc7 14. Nd5 Nxd5 15.
+exd5 Bxd5 16. Bxa6 Be7 17. Bd2 O-O 18. Bxb4 Rxa6 19. Qxa6 Bc4 20. Qxc4 Qxc4 21.
+c3 e4 22. Nd4 Ne5 23. b3 Qd3 24. Ne2 Qe3 25. Rf1 Nf3+ 26. gxf3 Bh4+ 27. Kd1
+Qd3+ 28. Kc1 Qxe2 0-1

@@ -1,0 +1,17 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "11"]
+[White "Primavera, Giuseppe"]
+[Black "Nobrega, W."]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "5ae64232"]
+[Epoch "Bishop"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. a4 Rb8 8. axb5
+axb5 9. c3 d6 10. h3 O-O 11. O-O Be6 12. Bxe6 fxe6 13. d4 exd4 14. cxd4 Qe8 15.
+Ra6 Nb4 16. Ra7 Nc6 17. Ra6 Nb4 18. Ra7 Nc6 1/2-1/2

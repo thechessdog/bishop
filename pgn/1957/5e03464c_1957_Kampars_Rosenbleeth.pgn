@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Kampars, N."]
+[Black "Rosenbleeth, H."]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "5e03464c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Nxe4 6. Qe2 f5 7. Ng5 d3
+8. cxd3 Nd4 9. Qh5+ g6 10. Qh4 Nc2+ 11. Kd1 Nxa1 12. dxe4 c6 13. Bc4 cxd5
+14. exd5 d6 15. Re1+ Qe7 16. Rxe7+ Bxe7 17. Bb5+ Bd7 18. Bxd7+ Kxd7 19.
+Qa4+ Kc7 20. Ne6+ Kb8 21. Qd7 Rc8 22. Qxe7 1-0
+

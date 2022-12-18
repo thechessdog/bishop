@@ -1,0 +1,26 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Toth, P."]
+[Black "Safvat, Y."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Treybal (Bayreuth) variation (exchange var. deferred)"]
+[HashCode "3ddd0310"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. d3 Bd6 7. O-O Bg4
+8. Nbd2 h6 9. Nc4 Qe7 10. a4 Rd8 11. Qe2 Nh7 12. Ne3 Bc8 13. Re1 Ng5 14.
+Nf5 Qf6 15. Nxg5 hxg5 16. Qf3 Bxf5 17. exf5 Kd7 18. Re4 Kc8 19. Be3 Kb8 20.
+Qg4 Be7 21. Re1 Qh6 22. h3 f6 23. d4 Bd6 24. dxe5 Bxe5 25. Bxg5 fxg5 26.
+Rxe5 Qf6 27. Qf3 Rh4 28. g4 Rhh8 29. Qe3 Qd6 30. c3 c5 31. Kg2 c4 32. Qc5
+Qd2 33. Re7 Rc8 34. Qxc4 Qxb2 35. Qe4 Qxc3 36. Re3 Qc5 37. Re5 Qd6 38. Rd3
+Qb6 39. a5 Qb2 40. Qe3 Qc2 41. Rc5 Qa4 42. Rd4 Qa1 43. Rd7 Qb2 44. Qg3 Qb4
+45. Re5 Rh6 46. Rxg7 Rc6 47. Qe3 Rc3 48. Qe4 Qb3 49. Rh7 Qd1 50. Re8 Rxe8
+51. Qxe8+ Ka7 52. Qe4 Rc1 53. Qe3+ c5 54. Qxg5 Qg1+ 55. Kf3 Rc3+ 56. Ke4
+Qe1+ 57. Qe3 Rxe3+ 58. fxe3 c4 59. g5 Qxa5 60. Rd7 c3 61. Rd5 Qc7 62. Rd1
+b5 63. f6 b4 64. g6 c2 65. Rc1 b3 66. g7 Qc4+ 67. Ke5 Qf7 68. Rg1 Qe8+ 69.
+Kf5 b2 0-1
+

@@ -1,0 +1,17 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Janata, J."]
+[Black "Trojan"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "ecee202d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 Nf6 5. d3 Bg4 6. Nge2 Nd4 7. O-O Nf3+
+8. Kh1 h5 9. h3 h4 10. hxg4 hxg3+ 11. Bh3 Rxh3+ 12. Kg2 Qd7 13. fxg3 Rh2+
+14. Kxf3 g6 15. Qe1 Qxg4+ 16. Ke3 Bh6+ 17. Nf4 e5 0-1
+

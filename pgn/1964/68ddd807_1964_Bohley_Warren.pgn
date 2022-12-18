@@ -1,0 +1,19 @@
+[Event "corr USCF"]
+[Site "corr USCF"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Bohley, D."]
+[Black "Warren, J."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "68ddd807"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Bf5 4. f3 Nf6 5. g4 Bg6 6. g5 Nd5 7. fxe4 Nxc3
+8. bxc3 Bxe4 9. Nf3 e5 10. Bc4 Nc6 11. O-O Bd5 12. Qe2 Bxc4 13. Qxc4 Qe7
+14. Qb5 Qd7 15. d5 Nb8 16. Qxb7 Bc5+ 17. Kh1 c6 18. Qxa8 O-O 19. Rb1 Qh3
+20. Bd2 e4 21. Nd4 Bxd4 22. cxd4 e3 23. Bxe3 Qxe3 24. Qxb8 Qe4+ 25. Kg1
+Qxd4+ 26. Rf2 f5 27. Qb2 Qxd5 28. Qb3 g6 29. Qxd5+ cxd5 30. Rd2 Rd8 31.
+Rbd1 1-0
+

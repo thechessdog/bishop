@@ -1,0 +1,16 @@
+[Event "Poznan ch19-POL"]
+[Site "Poznan ch19-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Drozd, R."]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "197cb350"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bh4 Qc7 10. O-O-O Nbd7 11. Bd3 Nc5 12. e5 dxe5 13. fxe5 Nfd7 14. Nxe6
+Nxd3+ 15. Qxd3 fxe6 16. Qg6+ Kf8 17. Bxe7+ Kg8 18. Ne4 Qxe5 19. Nf6+ 1-0

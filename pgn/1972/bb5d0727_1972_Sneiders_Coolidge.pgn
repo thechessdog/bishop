@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Sneiders, E."]
+[Black "Coolidge, PW."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "bb5d0727"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nc6 9. Qh4 Bg4 10. Be3 Bf5 11. h3 Nb4 12. Bh6 Nxc2 13. Rad1 Nb4 14.
+Ng5 e6 15. g4 Qd6 16. Bxg7 Kxg7 17. gxf5 exf5 18. Nce4 1-0
+

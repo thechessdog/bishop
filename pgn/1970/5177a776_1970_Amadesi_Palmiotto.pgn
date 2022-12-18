@@ -1,0 +1,21 @@
+[Event "Rovigo"]
+[Site "Rovigo"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Amadesi"]
+[Black "Palmiotto"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "5177a776"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 e6 5. d3 Nf6 6. f4 Be7 7. Nf3 a6 8. O-O
+Qc7 9. Bd2 b5 10. a3 Bd7 11. h3 h6 12. Ne2 Rb8 13. c3 c4 14. Be3 cxd3 15.
+Qxd3 Na5 16. e5 Nd5 17. Bd4 O-O 18. Kh2 Qc4 19. Qc2 Nb3 20. Rae1 b4 21.
+exd6 Bxd6 22. Nd2 Nxd2 23. Qxd2 bxa3 24. bxa3 Bxa3 25. Rb1 Bb5 26. Rfe1
+Rfd8 27. Qc2 Ba4 28. Rxb8 Rxb8 29. Qe4 Rb2 30. Qe5 Nf6 31. f5 Rb5 32. Qf4
+Rxf5 33. Qb8+ Bf8 34. Nf4 Nd7 35. Qa7 e5 36. Bd5 Qc8 37. Bxe5 Rxe5 38.
+Bxf7+ Kxf7 39. Rxe5 Bc5 0-1
+

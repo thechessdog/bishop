@@ -1,0 +1,21 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Guala"]
+[Black "Timman, Jan H"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "acaf8207"]
+[Epoch "Bishop"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Nd4 7. Nce2 Nxe2 8.
+Nxe2 Bxb2 9. Rb1 Bg7 10. O-O Nf6 11. h3 O-O 12. Qd2 Rb8 13. f4 b6 14. g4 Bb7
+15. c4 Nd7 16. h4 Bc6 17. g5 b5 18. Ng3 bxc4 19. dxc4 Rxb1 20. Rxb1 Qc7 21. h5
+Rb8 22. Rb3 Rb7 23. h6 Bh8 24. e5 dxe5 25. f5 Rxb3 26. axb3 Qb7 27. Bh3 Qxb3
+28. Kh2 Qb7 29. Bxc5 e4 30. fxg6 hxg6 31. Nxe4 Be5+ 32. Kg1 Qb1+ 33. Kf2 Qxe4
+0-1

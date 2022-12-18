@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Roikov"]
+[Black "Orlov"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "compromised defence, Paulsen variation"]
+[HashCode "aee3600f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O dxc3
+8. Qb3 Qf6 9. e5 Qg6 10. Nxc3 Nge7 11. Ba3 a6 12. Nd5 Nxd5 13. Bxd5 b5 14.
+e6 fxe6 15. Bxc6 dxc6 16. Ne5 Qe4 17. Qg3 g6 18. Rad1 b4 19. Rfe1 Qf5 20.
+Nxc6 bxa3 21. Qxa3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rasmus mem"]
+[Site "Randers"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "Jensen, Vagn"]
+[Black "Nielsen, Jesper Arwid"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "145a55bd"]
+[Epoch "Bishop"]
+[WhiteID "1400851"]
+[BlackID "1403389"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Bg5 c6 5. Qd2 d5 6. O-O-O Qa5 7. exd5 cxd5 8.
+Bb5+ Bd7 9. Nxd5 Qxa2 10. Qc3 Qxd5 11. Qc8# 1-0

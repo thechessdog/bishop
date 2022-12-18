@@ -1,0 +1,22 @@
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Lutikov, Anatoly S"]
+[Black "Planinc, Albin"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "b9ff3e90"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "SVN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8. Re1
+O-O 9. c3 h6 10. Nbd2 Re8 11. d4 Bf8 12. a3 d5 13. exd5 Nxd5 14. dxe5 Nf4 15.
+Re4 Nd3 16. e6 fxe6 17. Qe2 Bc5 18. Rxe6 Rxe6 19. Qxe6+ Kh8 20. Ne4 Na5 21.
+Nfg5 Qc8 22. Nxc5 Qxe6 23. Ngxe6 Re8 24. Be3 Nxb3 25. Nxb3 Rxe6 26. Rd1 Be4 27.
+Rd2 Kh7 28. h4 Re8 29. h5 Ne1 30. Rd7 Nxg2 31. Bd4 Rg8 32. Nc5 Bf3 33. Ne6 Bg4
+34. Nf8+ Kh8 35. Kxg2 Bxd7 36. Nxd7 a5 37. Kf3 Re8 38. Ne5 Kg8 39. Ke4 c6 40.
+f4 Kf8 1-0

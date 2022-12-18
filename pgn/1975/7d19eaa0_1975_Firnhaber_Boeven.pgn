@@ -1,0 +1,18 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Firnhaber, I."]
+[Black "Boeven, M."]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "7d19eaa0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 d6 7. Bg2 Bd7 8.
+O-O Rc8 9. Nce2 b5 10. Nxc6 Bxc6 11. Nd4 Bb7 12. c3 Nf6 13. a4 e5 14. axb5
+exd4 15. bxa6 Bc6 16. Qxd4 Be7 17. Rd1 O-O 18. Bf4 Qc7 19. b4 Ba8 20. b5
+Rfd8 21. b6 1-0
+

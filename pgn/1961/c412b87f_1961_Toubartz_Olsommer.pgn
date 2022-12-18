@@ -1,0 +1,20 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Toubartz, H."]
+[Black "Olsommer, C."]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "c412b87f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 b6 7. d5 Qe7 8. d6
+Qe8 9. Bd2 Bb7 10. Qc2 e5 11. Ng5 h6 12. Nge4 Qe6 13. Nxf6+ Qxf6 14. Nb5
+Nc6 15. Rd1 Rac8 16. a3 Bxd2+ 17. Rxd2 Qg5 18. h4 Qxg2 19. Be4 Qg4 20. f3
+Qh5 21. Rg2 Kh8 22. f4 f5 23. Bd5 exf4 24. Qc3 Rf6 25. Rhg1 fxe3 26. Nc7
+Qxh4+ 27. Kd1 f4 28. Rxg7 e2+ 29. Kxe2 Nd4+ 30. Kf1 f3 31. Rg8+ Rxg8 32.
+Rxg8+ Kh7 33. Qd3+ Rf5 0-1
+

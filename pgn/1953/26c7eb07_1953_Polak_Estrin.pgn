@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Polak, T."]
+[Black "Estrin, Yakov Borisovich"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "26c7eb07"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. O-O b5 7. Bb3 O-O 8. a4
+b4 9. a5 d5 10. exd5 e4 11. dxc6 Bg4 12. Re1 Bd6 13. h3 exf3 14. Qd3 Nh5 15. g3
+Nf4 16. gxf4 Qh4 17. Re4 Qxh3 18. Qf1 Qh5 19. Qc4 Bh3 0-1

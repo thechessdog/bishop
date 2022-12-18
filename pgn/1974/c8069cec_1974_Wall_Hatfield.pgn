@@ -1,0 +1,16 @@
+[Event "Guam"]
+[Site "Guam"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Hatfield"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Pillsbury attack"]
+[HashCode "c8069cec"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Be7 6. e3 O-O 7. Bd3 d5 8. cxd5
+exd5 9. Ne5 Nbd7 10. Nxd7 Nxd7 11. h4 Bxg5 12. Bxh7+ Kxh7 13. hxg5+ 1-0

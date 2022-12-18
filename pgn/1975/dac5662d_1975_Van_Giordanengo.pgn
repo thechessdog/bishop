@@ -1,0 +1,17 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Van den Steen"]
+[Black "Giordanengo"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "dac5662d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8.
+Nf3 Nbd7 9. Bf4 Nh5 10. Bg5 Nhf6 11. e5 dxe5 12. Qe2 Ba6 13. Nxe5 Rb8 14.
+Nxf7 Kxf7 15. Qe6+ Kg6 16. Bd3+ Kxg5 17. h4+ Kh6 18. Qe3+ 1-0
+

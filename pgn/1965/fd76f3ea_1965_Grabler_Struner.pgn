@@ -1,0 +1,18 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Grabler"]
+[Black "Struner"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "fd76f3ea"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Be3 Qc7 7. a4 Nf6 8.
+O-O Bd6 9. g3 h5 10. Qe2 h4 11. f4 Nxd4 12. Bxd4 hxg3 13. hxg3 e5 14. Be3
+Bc5 15. Nc3 Bxe3+ 16. Qxe3 Ng4 17. Nd5 Qa5 18. Qb6 Qd2 19. Nc7+ Kf8 20.
+Ne6+ Ke7 0-1
+

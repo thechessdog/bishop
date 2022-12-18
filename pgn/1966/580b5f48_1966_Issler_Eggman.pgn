@@ -1,0 +1,18 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Issler"]
+[Black "Eggman"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "580b5f48"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 h6 5. d4 g5 6. O-O Bg7 7. c3 Nc6 8. g3
+Bh3 9. gxf4 Qd7 10. Rf2 Nf6 11. Qe1 O-O-O 12. e5 dxe5 13. Nxe5 Nxe5 14.
+fxe5 Qg4+ 15. Kh1 Ne4 16. Re2 Bxe5 17. Nd2 Rxd4 18. cxd4 Bxd4 19. Bd5 Re8
+20. Bxe4 Rxe4 21. Qg3 Rxe2 22. Qxg4+ Bxg4 0-1
+

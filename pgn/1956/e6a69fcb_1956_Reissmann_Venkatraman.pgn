@@ -1,0 +1,24 @@
+[Event "Moscow olm fin-C"]
+[Site "Moscow"]
+[Date "1956.??.??"]
+[Round "6"]
+[White "Reissmann, Paul"]
+[Black "Venkatraman, T."]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "e6a69fcb"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. d5
+Nb4 15. Bb1 a5 16. a3 Na6 17. Nf1 Bd7 18. Be3 Nc5 19. Ng3 b4 20. Nd2 Rfc8
+21. a4 Rab8 22. b3 Ne8 23. Bxc5 Qxc5 24. Nc4 g6 25. Bd3 Ng7 26. Rc1 Qa7 27.
+Qf3 Rc5 28. Nf1 f5 29. Nfe3 Rf8 30. Bf1 fxe4 31. Qxe4 Rf4 32. Qd3 Rd4 33.
+Qe2 Qc7 34. g3 Nf5 35. Ra1 Bg5 36. Nc2 Rcxc4 37. bxc4 Rd2 38. Qe4 Nxg3 39.
+fxg3 Bf5 40. Qf3 Bxc2 41. Re2 Qc5+ 42. Kh1 Qd4 43. Rae1 Rxe2 44. Rxe2 Bd1
+45. h4 Bd8 46. Bh3 Bxe2 47. Be6+ Kg7 48. Qf7+ Kh6 49. Qf8+ Kh5 50. c5 b3
+51. Kg2 Qe4+ 52. Kh2 b2 53. Qxd8 h6 54. Bh3 b1=Q 55. Bg2 Bf3 56. Qxd6 Bxg2
+57. g4+ Kxg4 0-1
+

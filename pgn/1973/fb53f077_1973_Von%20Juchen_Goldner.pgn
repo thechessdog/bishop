@@ -1,0 +1,18 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Von Juchen, HP."]
+[Black "Goldner, R."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "fb53f077"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. c3 d6 8.
+O-O O-O 9. d3 Ne7 10. d4 exd4 11. cxd4 Bb6 12. e5 Ne8 13. Bg5 d5 14. Bxd5
+Rb8 15. Nc3 Qd7 16. Bb3 h6 17. Bxe7 Qxe7 18. Nd5 Qd7 19. Nxb6 Rxb6 20. d5
+Rg6 21. e6 fxe6 22. Ne5 1-0
+

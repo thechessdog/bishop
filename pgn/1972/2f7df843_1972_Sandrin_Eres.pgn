@@ -1,0 +1,20 @@
+[Event "Pula"]
+[Site "Pula"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Sandrin"]
+[Black "Eres"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "2f7df843"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 Qc7 7. Bd3 e6
+8. Qe2 Be7 9. c4 O-O 10. O-O Re8 11. b3 b6 12. Bb2 Bb7 13. Ne5 c5 14. Rae1
+cxd4 15. Bxd4 Rad8 16. f4 Nc5 17. Bxc5 Bxc5+ 18. Kh1 Rd4 19. Nh5 Nxh5 20.
+Bxh7+ Kxh7 21. Qxh5+ Kg8 22. Re3 Rd2 23. Rg3 Rf2 24. Rxf2 Bxf2 25. Rh3 Kf8
+26. Qg5 Kg8 27. Ng4 Bd4 28. Nh6+ Kf8 29. Nf5 Kg8 30. Qh5 g6 31. Qh7+ Kf8
+32. Qh8+ Bxh8 33. Rxh8# 1-0
+

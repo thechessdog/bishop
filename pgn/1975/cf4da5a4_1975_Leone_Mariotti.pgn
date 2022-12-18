@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Leone"]
+[Black "Mariotti"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "cf4da5a4"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6
+8. Nf4 Bd6 9. Bb3 Qc7 10. Nxg6 hxg6 11. O-O Nbd7 12. Bg5 Ne4 13. Qg4 f5 14.
+Qe2 Nxg5 15. Bxe6 O-O-O 16. c4 Ne4 17. c5 Bxg3 18. fxg3 Rde8 19. Bf7 Rxh2
+20. Kxh2 Qxg3+ 21. Kg1 Rh8 22. Qxe4 fxe4 23. Rfe1 e3 24. Be6 Qf2# 0-1
+

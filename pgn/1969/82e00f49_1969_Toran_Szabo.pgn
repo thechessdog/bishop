@@ -1,0 +1,18 @@
+[Event "Palma de Mallorca"]
+[Site "Palma de Mallorca"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Toran, Roman"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "82e00f49"]
+[Epoch "Bishop"]
+[BlackID "710741"]
+[WhiteCountry "EST"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 b6 7. O-O Bb7 8. Bd2
+cxd4 9. exd4 d5 10. cxd5 Nxd5 11. Qe2 Nf6 12. Rad1 Nc6 13. Bg5 1/2-1/2

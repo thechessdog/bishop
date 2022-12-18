@@ -1,0 +1,21 @@
+[Event "Timisoara"]
+[Site "Timisoara"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Espig, Lutz"]
+[Black "Messing, Hrvoje"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Pirc-Lisitsin gambit"]
+[HashCode "0f53421a"]
+[Epoch "Bishop"]
+[WhiteID "4611276"]
+[WhiteCountry "GER"]
+[BlackCountry "HRV"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 e5 4. d3 e3 5. Bxe3 Nc6 6. c3 d5 7. d4 Nf6 8. dxe5
+Nxe5 9. h3 Bd6 10. Nd2 O-O 11. Ndf3 Nxf3+ 12. Nxf3 Re8 13. Be2 Rxe3 14. fxe3
+Bg3+ 15. Kf1 Ne4 16. Qa4 Be6 17. Bd3 Nf2 18. Ke2 Nxh1 19. Rxh1 Qe7 20. Qc2 h6
+21. Rf1 c5 22. Qd2 Bf7 23. Bc2 Re8 24. Qd3 Bg6 25. Qxd5+ Kh8 26. e4 Rd8 27. Qc4
+b5 0-1

@@ -1,0 +1,16 @@
+[Event "USSR zt"]
+[Site "USSR zt"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Grechkin"]
+[Black "Matokhin"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "45711741"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. dxc5 Qa5 7. Qd5 e6
+8. Bb5+ Qxb5 9. Nxb5 exd5 10. Nc7+ Kd7 11. Nxa8 Bxc5 12. O-O-O Kc6 13. Ne2
+Be6 0-1
+

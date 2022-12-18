@@ -1,0 +1,20 @@
+[Event "corr NAICCC I"]
+[Site "corr NAICCC I"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Cross, Robert"]
+[Black "McLellan, Richard"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "ff1833f1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8.
+Qf3 O-O 9. Be2 c5 10. dxc5 Nbd7 11. cxb6 Qxb6 12. cxd5 Ne5 13. Qf4 Bxe2 14.
+Qxe5 Bc4 15. dxe6 fxe6 16. Qd4 Qc6 17. f3 Rad8 18. Qh4 Nd7 19. Qe4 Qc7 20.
+b3 Bxb3 21. Nb5 Qb6 22. Nd4 Nc5 23. Qb1 Qa6 24. Kf2 Bc4 25. a4 e5 26. Nb5
+Rxf3+ 27. gxf3 Nd3+ 28. Qxd3 Rxd3 29. Ra3 Qf6 30. Rxd3 Bxd3 31. h4 a6 32.
+Na3 e4 33. f4 Qe6 0-1
+

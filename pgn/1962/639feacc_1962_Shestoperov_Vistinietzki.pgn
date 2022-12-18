@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Shestoperov, Aleksej"]
+[Black "Vistinietzki, Itzhak"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "639feacc"]
+[Epoch "Bishop"]
+[WhiteID "4102258"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Be2 c5 7. O-O dxc4 8. Bxc4
+b6 9. Qe2 Bb7 10. Rd1 cxd4 11. exd4 Be7 12. Bg5 Nc6 13. a3 Nd5 14. Ne4 Bxg5 15.
+Nexg5 Nce7 16. Qe4 Nf5 17. g4 Nde3 18. Qxb7 Nd6 19. Qa6 Nexc4 20. b3 h6 21. Nh3
+Qf6 22. Ne1 Qh4 23. Nf4 Ne4 24. Neg2 Qxf2+ 25. Kh1 Ne3 26. Re1 Nxg2 27. Nxg2
+Qxd4 28. h3 Nf2+ 0-1

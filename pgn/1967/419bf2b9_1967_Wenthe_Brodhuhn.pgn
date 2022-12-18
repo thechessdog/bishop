@@ -1,0 +1,18 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Wenthe, W."]
+[Black "Brodhuhn, H."]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "419bf2b9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Ndxb5 axb5 13. Nxb5 Qc5
+14. h4 h6 15. Bf4 Rxa2 16. Kb1 Ra4 17. Qd2 Bc6 18. Nc3 Ra8 19. Rh3 Qa5 20.
+Kc1 Bb4 21. Qf2 Qc5 22. Rd4 Bxc3 23. bxc3 Ra1+ 24. Kd2 Qa3 25. Ke2 Qb2 0-1
+

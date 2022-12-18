@@ -1,0 +1,19 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Sarbay"]
+[Black "Sobolev"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "d2e5c88d"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8.
+b4 a5 9. bxa5 Qxa5 10. Bb2 d4 11. a4 Qc7 12. c3 dxc3 13. Bxc3 b6 14. Nc4
+Bg4 15. Qb3 Nd7 16. Qb2 Bxf3 17. Bxf3 Rab8 18. d4 b5 19. axb5 cxb5 20. Nxe5
+b4 21. Bxb4 Nxe5 22. dxe5 Qc4 23. Rab1 Nc6 24. Qc3 Rxb4 25. Qe3 Nxe5 26.
+Be2 Qd4 27. Rxb4 Qxb4 0-1
+

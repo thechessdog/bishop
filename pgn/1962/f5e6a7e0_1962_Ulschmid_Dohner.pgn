@@ -1,0 +1,18 @@
+[Event "Bad Mondorf"]
+[Site "Bad Mondorf"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Ulschmid"]
+[Black "Dohner"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "f5e6a7e0"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+
+Kd8 8. Bxg6 Qxh1+ 9. Ke2 c6 10. Nc3 Kc7 11. Bxe4 Nf6 12. Qh4 Nxe4 13. Nf7
+Nxc3+ 14. bxc3 Bd6 15. Nxd6 Qd5 16. Bf4 Kb6 17. c4 Qe6+ 18. Kd2 a5 19. Rb1+
+Ka6 20. d5 Qg8 21. Be3 c5 22. Bxc5 Nc6 23. Rb6+ Ka7 24. Rxb7+ Ka6 25. Rb6+
+Ka7 26. Nb5# 1-0
+

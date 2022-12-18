@@ -1,0 +1,17 @@
+[Event "Siegen ol prel"]
+[Site "Siegen ol prel"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Martinez, F."]
+[Black "Georgiades, G."]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "1caf05e7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. e5 dxe5 8.
+fxe5 Nfd7 9. e6 fxe6 10. Nxe6 Bxc3+ 11. bxc3 Qa5 12. Qd4 Qe5+ 13. Qxe5 Nxe5 14.
+Nc7+ Kd8 15. Nxa8 b6 16. Bf4 Nbd7 17. O-O-O Ng4 18. Rd2 g5 19. Bxg5 Bb7 20. Bb5
+Ne5 21. Rhd1 1-0

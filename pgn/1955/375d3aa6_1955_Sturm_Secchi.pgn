@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Sturm, M."]
+[Black "Secchi, E."]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "375d3aa6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 Nbd7 6. Nbd2 Nb6 7. O-O c5
+8. Nxc4 Nxc4 9. Qa4+ Bd7 10. Qxc4 Qb6 11. b3 Bb5 12. Qc2 cxd4 13. Bb2 d3
+14. exd3 Bc6 15. Qe2 Be7 16. Ne5 Bxg2 17. Kxg2 O-O 18. Qf3 Qb5 19. Rac1
+Rad8 20. Rc4 Rd5 21. d4 Rdd8 22. Rc7 Nd5 23. a4 Qa6 24. Rxe7 Nxe7 25. Ba3
+Nd5 26. Bxf8 Rxf8 27. Rc1 Qd6 28. Rc5 b6 29. Rc6 Qe7 30. Rc4 a5 31. Rc6 h6
+32. Nc4 Qe8 33. Rd6 b5 34. Nxa5 Qe7 35. Ra6 Qd7 36. Qe2 bxa4 37. Qc4 Rc8
+38. Qxa4 Nf4+ 39. gxf4 Qd5+ 40. f3 Rc2+ 41. Kg3 Qh5 42. Qe8+ Kh7 43. Rxe6
+Qxh2+ 0-1
+

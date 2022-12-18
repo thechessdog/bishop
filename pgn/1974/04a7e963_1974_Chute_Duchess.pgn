@@ -1,0 +1,20 @@
+[Event "ACM San Diego"]
+[Site "ACM San Diego"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Chute 1"]
+[Black "Duchess"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "04a7e963"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qd4 6. Nf3 Qxe4+ 7. Kf1
+Be6 8. d3 Qb4 9. a3 Qb6 10. b3 O-O-O 11. Be3 Bc5 12. d4 Bxd4 13. Bxd4 c5
+14. Ke2 Qb5+ 15. c4 Qe8 16. Kf1 cxd4 17. Qd3 Bg4 18. Nbd2 Qd7 19. Ne5 Qe6
+20. Re1 Bh5 21. Nef3 Qf6 22. Ne4 Qf4 23. Nxd4 Bg6 24. Qe3 Qxe3 25. Rxe3
+Rxd4 26. Nc5 Nf6 27. Re7 Ne4 28. Re5 Rd1+ 29. Ke2 Nc3+ 30. Kf3 Rxh1 31. h3
+Rf8 32. Kg3 Rd8 33. Re7 Rg8 34. h4 Rd1 35. Re3 Rc1 36. Kh2 Nb1 0-1
+

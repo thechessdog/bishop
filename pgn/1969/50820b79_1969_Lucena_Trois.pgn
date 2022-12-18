@@ -1,0 +1,26 @@
+[Event "Brasilia"]
+[Site "Brasilia"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Lucena, Lincoln"]
+[Black "Trois, Francisco R.T."]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "50820b79"]
+[Epoch "Bishop"]
+[WhiteID "2100410"]
+[WhiteCountry "BRA"]
+[BlackID "2100096"]
+[BlackCountry "BRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 Bf6 10. b3 Re8 11. Bb2 b6 12. Qd2 c5 13. Rad1 a5 14. a4 g6 15.
+Qc1 Bg7 16. Qa1 Qe7 17. h3 Ba6 18. Ne3 Rad8 19. Nh2 Bb7 20. Nhg4 h5 21. Nh2 Bh6
+22. Bc1 Bg7 23. Bb2 Bh6 24. Nf3 Kh7 25. Nd2 Rg8 26. Ndc4 f6 27. Bc1 Nf8 28. c3
+Ne6 29. Qb2 Nf4 30. Qc2 Rd7 31. g3 Nxh3+ 32. Kh2 Qe6 33. Qe2 Ng5 34. Rh1 Rgd8
+35. Kg2 Rxd3 36. Rxd3 Bxe4+ 37. f3 Bxd3 38. Qf2 Qc6 39. Nd2 f5 40. g4 hxg4 41.
+Nxg4 fxg4 42. Qh4 gxf3+ 43. Kf2 Nf7 44. Nxf3 g5 45. Nxg5+ Nxg5 46. Bxg5 Rf8+
+47. Ke1 Qxh1+ 48. Qxh1 Rf1+ 49. Qxf1 Bxf1 50. Bd8 c4 51. bxc4 Bxc4 52. Bxc7 Be3
+0-1

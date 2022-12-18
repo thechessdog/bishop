@@ -1,0 +1,19 @@
+[Event "RSFSR ch"]
+[Site "RSFSR ch"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Novotelnov, N."]
+[Black "Nezhmetdinov, Rashid"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "f1a24bfa"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O Re8 10. f3 b6 11. a4 Na6 12. Bb5 Re7 13. Bg5 Nb4 14. Qd2 a6 15. Bc6
+Raa7 16. Qf4 Re5 17. Ng3 Nd3 18. Qh4 Nxb2 19. f4 Rxg5 20. fxg5 Ng4 21. Nge2 h6
+22. Rab1 Nc4 23. Rfd1 hxg5 24. Qe1 Re7 25. h3 Nge5 26. Qf2 f5 27. Qg3 Rf7 28.
+exf5 gxf5 29. Qf2 f4 30. Ne4 f3 31. N2c3 fxg2 0-1

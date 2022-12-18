@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Hedler"]
+[Black "Baller"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "3e8d2bd3"]
+[Epoch "Bishop"]
+
+1. g4 e5 2. d3 d5 3. Bg2 Bxg4 4. c4 c6 5. cxd5 cxd5 6. Qb3 Ne7 7. Nc3 Be6
+8. Qxb7 Nd7 9. Nb5 1-0
+

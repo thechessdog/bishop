@@ -1,0 +1,17 @@
+[Event "Armenia"]
+[Site "Armenia"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Goldin"]
+[Black "Ambarian"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "178bd68a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qc7
+8. Bb3 b5 9. O-O Bb7 10. Re1 Nb6 11. Bxf6 exf6 12. a4 b4 13. a5 bxc3 14.
+axb6 Qc5 15. Ba4+ Kd8 16. Qg4 Qc8 17. Qh5 g6 18. Qd5 Bxd5 19. exd5 1-0
+

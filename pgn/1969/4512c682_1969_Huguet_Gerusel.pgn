@@ -1,0 +1,21 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "9"]
+[White "Huguet, Bernard"]
+[Black "Gerusel, Mathias"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "4512c682"]
+[Epoch "Bishop"]
+[WhiteID "601462"]
+[BlackID "4601122"]
+[WhiteCountry "FRA"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 a6 3. c4 d6 4. d4 Bg4 5. dxc5 Bxf3 6. Qxf3 dxc5 7. Nc3 Nc6 8.
+Be3 e6 9. Be2 Nd4 10. Bxd4 cxd4 11. Nd1 Qa5+ 12. Kf1 Rd8 13. Qd3 Ne7 14. g3 Nc6
+15. Kg2 g5 16. Qc2 h5 17. b3 d3 18. Qb2 dxe2 19. Qxh8 e1=Q 20. Rxe1 Qxe1 21.
+Ne3 Qe2 0-1

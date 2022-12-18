@@ -1,0 +1,18 @@
+[Event "Schilde"]
+[Site "Schilde"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Mossong"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "0-1"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system"]
+[HashCode "0e18966e"]
+[Epoch "Bishop"]
+[BlackID "900010"]
+[BlackCountry "SRB"]
+
+1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nd7 5. Be3 e5 6. d5 Ne7 7. Bd3 O-O 8. Qd2 f5
+9. g3 a6 10. Nge2 Nc5 11. Bc2 Rb8 12. O-O Nxe4 13. Nxe4 fxe4 14. Bxe4 Bh3 15.
+Bg2 Qd7 16. Bh6 Bxh6 17. Qxh6 Bxg2 18. Kxg2 Qg4 19. Qh4 Qf3+ 20. Kg1 Nf5 0-1

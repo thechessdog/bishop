@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Beni, Alfred"]
+[Black "Schwarzbach"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "cbcf6a11"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8. f4
+Bd7 9. Qf3 a6 10. Bb3 Qa5 11. O-O-O O-O 12. g4 Nxd4 13. Rxd4 Bc6 14. f5 exf5
+15. gxf5 Nd7 16. Rg1 Bf6 17. Rxd6 Bxc3 18. bxc3 Qa3+ 19. Kb1 Qxd6 20. Bd4 Qh6
+21. Qh3 Qxh3 22. Rxg7+ Kh8 23. Rxf7+ Kg8 24. Rg7+ Kh8 25. Rg8# 1-0

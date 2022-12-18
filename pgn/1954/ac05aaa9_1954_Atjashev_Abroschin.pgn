@@ -1,0 +1,18 @@
+[Event "corr ch2-SU"]
+[Site "corr ch2-SU"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Atjashev"]
+[Black "Abroschin"]
+[Result "1-0"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Grigoriev variation"]
+[HashCode "ac05aaa9"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. exf6 hxg5 7. fxg7 Rg8
+8. h4 gxh4 9. Qg4 Qf6 10. Rxh4 Qxg7 11. Qxg7 Rxg7 12. Rh8+ Kd7 13. Nf3 Nc6
+14. O-O-O b6 15. Bb5 f6 16. Rh6 Be7 17. Nxd5 Bb7 18. Nxf6+ Bxf6 19. Rxf6
+Ke7 20. Rh6 1-0
+

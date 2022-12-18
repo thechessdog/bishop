@@ -1,0 +1,21 @@
+[Event "ACM Atlanta"]
+[Site "ACM Atlanta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Ga Tech CP"]
+[Black "USC CP"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "22e258ff"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 Bc5 5. Be3 Bxe3 6. fxe3 Nc6 7. Nbd2
+Nxd2 8. Qxd2 Nxe5 9. Nxe5 d6 10. Nf3 O-O 11. O-O-O Re8 12. Bc4 Bg4 13. h3
+Bd7 14. Qd5 Rb8 15. Qxf7+ Kh8 16. Rhe1 a6 17. e4 Rf8 18. Qh5 b5 19. Bd5 Qe7
+20. e5 Rf5 21. Qg4 dxe5 22. Qe4 Qd6 23. Bb3 Qh6+ 24. Kb1 Bc6 25. Qxf5 Bxf3
+26. Qxf3 Qg5 27. Qc6 a5 28. Rd7 b4 29. Qd5 Re8 30. Bc4 a4 31. Qb5 c6 32.
+Qxc6 a3 33. Rb7 Rf8 34. Qd5 Rd8 35. Qe4 Qd2 36. Bd3 Qxe1+ 37. Qxe1 Re8 38.
+Qe4 g6 39. Qc6 1-0
+

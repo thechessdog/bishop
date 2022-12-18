@@ -1,0 +1,18 @@
+[Event "Asuncion"]
+[Site "Asuncion"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Wexler, Bernardo"]
+[Black "Rossetto, Hector"]
+[Result "1/2-1/2"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "ae74a2af"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+Be7 9. O-O-O Nc6 10. Nxc6 Qxc6 11. Bd3 Bd7 12. e5 Qxf3 13. gxf3 dxe5 14. fxe5
+Nd5 15. Bxe7 Nxc3 16. bxc3 Kxe7 17. Be4 1/2-1/2

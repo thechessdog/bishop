@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1966.01.01"]
+[Round "5"]
+[White "Barendregt, Johan Teunis"]
+[Black "Szilagyi, Gyorgy"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "efd4b956"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nc3 Nxc3 11. bxc3 Bd7 12. Bd3 Rc8 13. Ng5 e6 14. Qg4 Ne7
+15. Nxh7 Kxh7 16. Qh4+ Kg8 17. Bg5 Re8 18. Re3 Rxc3 19. Rh3 Rxd3 20. Qh7+ Kf8
+21. Bf6 Nf5 22. Qh8+ 1-0

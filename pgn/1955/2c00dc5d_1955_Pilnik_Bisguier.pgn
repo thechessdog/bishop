@@ -1,0 +1,18 @@
+[Event "Gothenburg Interzonal"]
+[Site "Goteborg izt"]
+[Date "1955.08.01"]
+[Round "21"]
+[White "Pilnik, Herman"]
+[Black "Bisguier, Arthur Bernard"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "2c00dc5d"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Ba5 10. Bd3 cxd4 11. exd4 Bb6 12. Be3 Qd6 13. Nb5 Qd5 14. Nc3 Qd6 15.
+Nb5 Qd5 16. Nc3 1/2-1/2

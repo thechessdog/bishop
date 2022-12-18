@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Beliavsky, Alexander G"]
+[Black "Kupreichik, Viktor D"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "cc259dad"]
+[Epoch "Bishop"]
+[WhiteID "14602377"]
+[WhiteCountry "SLO"]
+[BlackCountry "BLR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. f4 O-O 8. O-O
+Qb6 9. Be3 Qxb2 10. Qd3 Qb4 11. e5 dxe5 12. fxe5 Ng4 13. Bxg4 Bxg4 14. Rf4 Bd7
+15. Nd5 Qa5 16. Nxe7+ Kh8 17. e6 Qd8 18. Raf1 Qxe7 19. Rxf7 Rxf7 20. Rxf7 Qe8
+21. Nf5 gxf5 22. Bd4 Qxe6 23. Rf8+ Qg8 24. Rxg8+ Kxg8 25. Qg3 Kf7 26. Qxg7+ 1-0

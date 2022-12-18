@@ -1,0 +1,23 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Darga, Klaus"]
+[Black "Nievergelt, Erwin"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "f45ff808"]
+[Epoch "Bishop"]
+[WhiteID "4600150"]
+[WhiteCountry "GER"]
+[BlackCountry "CHE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 Qc7 8. Ba2
+Nc6 9. O-O b5 10. Kh1 Rb8 11. f4 b4 12. axb4 Rxb4 13. Nxc6 Qxc6 14. f5 Be7 15.
+fxe6 fxe6 16. Bg5 Rxb2 17. Qd3 Rb7 18. Bb3 O-O 19. Rxa6 Qc5 20. Be3 Qh5 21. Ra8
+Bd7 22. Rxf8+ Bxf8 23. Bd4 Rc7 24. Ne2 Ng4 25. Qg3 Ne5 26. Nf4 Qh6 27. Be3 Qf6
+28. h3 Nc4 29. Rf2 Qc3 30. Rf3 Nxe3 31. Nxe6 Qa1+ 32. Kh2 Nf1+ 33. Rxf1 Qxf1
+34. Nxf8+ Kxf8 35. Qxd6+ Ke8 36. Qxc7 Qf6 37. Qb8+ Ke7 38. Qb4+ Ke8 39. Qb8+
+Ke7 40. Qg3 h6 41. e5 Qf8 42. e6 1-0

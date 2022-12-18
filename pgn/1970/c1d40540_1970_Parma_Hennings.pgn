@@ -1,0 +1,24 @@
+[Event "EU-chT Kapfenberg"]
+[Site "Kapfenberg etc"]
+[Date "1970.05.01"]
+[Round "2"]
+[White "Parma, Bruno"]
+[Black "Hennings, Artur"]
+[Result "1-0"]
+[ECO "C96"]
+[Opening "Ruy Lopez"]
+[Variation "closed (10...c5)"]
+[HashCode "c1d40540"]
+[Epoch "Bishop"]
+[WhiteID "14600706"]
+[WhiteCountry "SLO"]
+[BlackID "4611594"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 cxd4 12. cxd4 Bb7 13. Nbd2 Rc8 14. d5 Qc7 15.
+Bd3 Nd7 16. Nf1 Nc4 17. Ng3 g6 18. b3 Ncb6 19. Bh6 Rfe8 20. Bd2 Nc5 21. Rc1 Qb8
+22. Bc2 Ncd7 23. Nh2 Nf6 24. Ng4 Nbd7 25. Nh6+ Kg7 26. Qf3 Bd8 27. Ngf5+ Kf8
+28. g4 gxf5 29. Qxf5 Ke7 30. g5 Rg8 31. Nxg8+ Nxg8 32. Qxh7 Bb6 33. Bd3 Rxc1
+34. Rxc1 Kf8 35. Be2 Qe8 36. b4 f5 37. Bh5 Qe7 38. Qxf5+ Kg7 39. Rc3 Nf8 40.
+Rf3 1-0

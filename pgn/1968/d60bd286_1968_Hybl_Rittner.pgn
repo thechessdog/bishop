@@ -1,0 +1,17 @@
+[Event "corr Wch6"]
+[Site "corr Wch6"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Hybl, J."]
+[Black "Rittner, H."]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "d60bd286"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nbd7 8.
+a3 Ba5 9. Qc2 cxd4 10. exd4 dxc4 11. Bxc4 Bxc3 12. bxc3 b6 13. Qe2 Bb7 14.
+Bd3 Qc7 15. Bd2 Rfe8 1/2-1/2
+

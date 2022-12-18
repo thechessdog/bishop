@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1949.01.01"]
+[Round "2"]
+[White "Zagorovsky, Vladimir Pavlovich"]
+[Black "Dubinin, Peter Vasilievich"]
+[Result "1-0"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "9ea2d1ee"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O c6 6. Bc4 d5 7. exd5 cxd5 8.
+Re1+ Ne7 9. Bb5+ Bd7 10. a4 a6 11. Bxd7+ Qxd7 12. d3 O-O-O 13. b4 Nf5 14. b5 a5
+15. Bf4 f6 16. b6 Bc5 17. Bc7 Rde8 18. Na3 Bb4 19. Rxe8+ Rxe8 20. Nb5 Qe6 21.
+h3 Bc5 22. Qh5 Nh6 23. Rb1 Kd7 24. Bf4 Qf5 25. Qf3 g5 26. g4 Qxf4 27. Qxd5+ Bd6
+28. Nxd6 Qxd6 29. Qxb7+ Kd8 30. Qa8+ Kd7 31. Qa7+ Kc6 32. b7 Qb8 33. Qxd4 Rd8
+34. Qxd8 Qxd8 35. b8=Q 1-0

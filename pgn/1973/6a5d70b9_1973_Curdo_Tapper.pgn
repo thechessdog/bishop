@@ -1,0 +1,23 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Curdo, John"]
+[Black "Tapper, Larry"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "6a5d70b9"]
+[Epoch "Bishop"]
+[WhiteID "2001705"]
+[BlackID "2001888"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Re8 9. Bf3 e6 10. Nge2 exd5 11. Nxd5 Nc6 12. Nxf6+ Bxf6 13. O-O Nxd4 14.
+Nxd4 Qxd4 15. Be3 Qe5 16. g3 Be6 17. Qxb7 Rab8 18. Qxa7 Rxb2 19. a4 Bh3 20.
+Rfd1 Qf5 21. Bd5 Re7 22. Qc5 Rc2 23. Qb6 Rxe3 24. Qxe3 Bg5 25. f4 Bf6 26. Qe8+
+Kg7 27. Qxf7+ Kh6 28. Qf8+ Kh5 29. Bf3+ Bg4 30. Rd5 Bd4+ 31. Kf1 Qxd5 32. Bxd5
+Rf2+ 33. Ke1 Re2+ 34. Kf1 1/2-1/2

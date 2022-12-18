@@ -1,0 +1,19 @@
+[Event "Oslo CI"]
+[Site "Oslo"]
+[Date "1974.??.??"]
+[Round "11"]
+[White "Westerinen, Heikki M.J."]
+[Black "Ogaard, Leif"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "1909b2da"]
+[Epoch "Bishop"]
+[BlackID "1500074"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Nf3 Qa5 8. Qd2
+Nbc6 1/2-1/2

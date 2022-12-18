@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Füster, Géza"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "fc7bf756"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 c6 6. Bd3 Bg4 7. Qf2 e6 8. h3
+Bh5 9. Nge2 Nbd7 10. O-O Be7 11. g4 Bg6 12. g5 Qa5 13. gxf6 gxf6 14. Nf4 O-O-O
+15. Bd2 Qg5+ 16. Kh1 h6 17. Qh2 Qh4 18. Rg1 f5 19. b4 e5 20. b5 exf4 21. bxc6
+Nb6 22. cxb7+ Kxb7 23. Bxf4 Bd6 24. Bxd6 Rxd6 25. Qxd6 Bh5 26. Qg3 1-0

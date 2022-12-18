@@ -1,0 +1,16 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Svirbulis"]
+[Black "Randviir, Yuri"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Sozin variation"]
+[HashCode "11361a60"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 c6 8.
+a4 exd4 9. Nxd4 Nxe4 10. Qxe4 d5 11. Nxd5 cxd5 12. Qxd5 Nb6 0-1
+

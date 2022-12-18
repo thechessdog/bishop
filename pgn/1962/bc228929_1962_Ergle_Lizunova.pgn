@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Ergle, Astra"]
+[Black "Lizunova, Raisa"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "bc228929"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. exd5 cxd5 5. Bb5+ Bd7 6. Qe2 a6 7. Bxd7+ Qxd7
+8. Ne5 Qd6 9. d4 Nf6 10. O-O g6 11. Bf4 Qe6 12. Rfe1 Bg7 13. Bg5 O-O 14. Qf3
+Ne4 15. Bxe7 Qxe7 16. Nxd5 Qd8 17. Qxe4 Re8 18. Qf3 f6 19. Nd3 Nd7 20. Rxe8+
+1-0

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Leininger"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "bc90ce47"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Nbd7 9. f4 Qc7 10. Be2 b5 11. Bf3 Bb7 12. f5 b4 13. fxe6 bxc3 14. exd7+
+Qxd7 15. bxc3 Nxe4 16. Bxe4 Bxe4 17. Rhe1 f5 18. Bxe7 Kxe7 19. Nxf5+ 1-0

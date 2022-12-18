@@ -1,0 +1,19 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kuebel, W."]
+[Black "Tucek, J."]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "d1f336cd"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. e5 dxe5 10. fxe5 Ng4 11. Bg5 Qa5 12. cxd5 Nxe5 13. O-O Nxf3+ 14.
+Rxf3 a6 15. Ne4 Nd7 16. Be7 Re8 17. d6 Bd4+ 18. Kh1 b5 19. Nxc5 Qb6 20.
+Qxd4 Qxc5 21. Qf4 f5 22. Rh3 Qe5 23. Qh4 Qg7 24. Bf3 Rb8 25. Bd5+ Kh8 26.
+Be6 g5 27. Qh5 Rxe7 28. dxe7 Qxe7 29. Bxf5 1-0
+

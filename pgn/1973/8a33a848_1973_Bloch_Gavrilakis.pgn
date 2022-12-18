@@ -1,0 +1,19 @@
+[Event "EU-ch U20 fin-B"]
+[Site "Groningen"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Bloch, Nigel"]
+[Black "Gavrilakis, Nikolaos"]
+[Result "1/2-1/2"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "8a33a848"]
+[Epoch "Bishop"]
+[WhiteID "1001221"]
+[BlackID "4200063"]
+[WhiteCountry "NED"]
+[BlackCountry "GRE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Bd3 O-O 10. Nf3 a6 11. a4 Nf6 12. O-O Bg4 13. h3 Bxf3 14. Qxf3 1/2-1/2

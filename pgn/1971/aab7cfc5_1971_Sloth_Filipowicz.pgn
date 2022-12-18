@@ -1,0 +1,24 @@
+[Event "EU-chT prel"]
+[Site "Aarhus"]
+[Date "1971.09.05"]
+[Round "1"]
+[White "Sloth, Jorn"]
+[Black "Filipowicz, Andrzej"]
+[Result "0-1"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "aab7cfc5"]
+[Epoch "Bishop"]
+[WhiteID "1400240"]
+[BlackID "1100491"]
+[WhiteCountry "DEN"]
+[BlackCountry "POL"]
+
+1. c4 f5 2. g3 Nf6 3. Nf3 e6 4. Bg2 Be7 5. O-O O-O 6. d4 d6 7. Nc3 Qe8 8. b3 a5
+9. Ba3 Na6 10. Re1 Rb8 11. Rc1 c6 12. Nd2 b5 13. Bb2 Bd7 14. e4 fxe4 15. cxb5
+cxb5 16. Ndxe4 Nxe4 17. Nxe4 Qf7 18. f4 Rfc8 19. d5 Rxc1 20. Bxc1 Nc7 21. dxe6
+Bxe6 22. Nxd6 Qf8 23. f5 Rd8 24. fxe6 Rxd6 25. Qg4 Qf6 26. Bh3 Qc3 27. Qe2 Rd3
+28. Bb2 Qc5+ 29. Qf2 Rd2 30. Qxc5 Bxc5+ 31. Kh1 Rxb2 32. Rc1 Bd6 33. Rd1 Ne8
+34. Bf1 Be7 35. Bxb5 Nd6 36. Rc1 g6 37. Ba4 Nf5 38. Rc8+ Kg7 39. Rc3 Kf6 40. g4
+Nd4 0-1

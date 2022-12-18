@@ -1,0 +1,17 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Sprengler, W."]
+[Black "Guenther, R."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "14140811"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 Qa5
+8. Qxg7 Bxc3+ 9. bxc3 Qxc3+ 10. Ke2 Rf8 11. Bh6 Nf4+ 12. Bxf4 b6 13. Nb3
+Nc6 14. Kd1 Nd4 15. Rc1 Nf5 16. Qf6 Bb7 17. Bd2 Qb2 18. f3 1-0
+

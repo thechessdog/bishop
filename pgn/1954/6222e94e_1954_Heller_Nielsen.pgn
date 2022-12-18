@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Heller, Chr"]
+[Black "Nielsen, E Verner"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "6222e94e"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. Bd3 dxc4
+8. Bxc4 Be7 9. O-O O-O 10. a3 a6 11. d5 exd5 12. Nxd5 Nxd5 13. Qxd5 Qxd5
+14. Bxd5 Rd8 15. Ba2 Bg4 16. Ng5 Bh5 17. Ne4 Bg6 18. f3 Nd4 19. Bg5 Bxg5
+20. Nxg5 Ne2+ 21. Kh1 Rd2 22. b4 Nc3 23. Bb3 Rb2 24. Bd1 h6 25. Nh3 Rd8 26.
+Rc1 Nxd1 27. Rfxd1 Rxd1+ 28. Rxd1 Ra2 29. g3 Rxa3 30. Kg2 Bd3 31. Nf2 Be2
+32. Rd8+ Kh7 33. f4 Bf3+ 0-1
+

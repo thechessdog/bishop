@@ -1,0 +1,26 @@
+[Event "Oberursel"]
+[Site "Oberursel"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Haubt, Georg"]
+[Black "Bastian, Herbert"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "71344d1a"]
+[Epoch "Bishop"]
+[WhiteID "4604016"]
+[WhiteCountry "GER"]
+[BlackID "4601700"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 c6 7. Be2 Nbd7 8. Qd2
+b5 9. a3 a6 10. Bh6 c5 11. Bxg7 Kxg7 12. e5 Ng8 13. dxc5 dxc5 14. O-O Bb7 15.
+e6 Bxf3 16. exd7 Bxe2 17. Qxe2 Qxd7 18. Qe5+ Nf6 19. Qxc5 Rfc8 20. Qe5 Qc7 21.
+Qe3 Rab8 22. Rfe1 Rb7 23. Re2 Qc5 24. Qxc5 Rxc5 25. Rd2 Rbc7 26. Rd8 Rc8 27.
+Rad1 Rc4 28. f3 R8c6 29. Rb8 Rc8 30. Rxc8 Rxc8 31. Rd4 Rc6 32. a4 e5 33. Rb4
+bxa4 34. Rxa4 Nd7 35. Kf2 f5 36. Ke2 Kf7 37. Kd2 Nc5 38. Ra5 Rd6+ 39. Kc1 Rc6
+40. Ra3 Ke6 41. b4 Nb7 42. Na4 e4 43. fxe4 fxe4 44. Rc3 Rxc3 45. Nxc3 Ke5 46.
+Kd2 Kd4 47. Na4 Kc4 48. c3 Nd6 49. Kc2 Nf5 50. Nb2+ Kb5 51. Kb3 e3 52. c4+ Kc6
+53. Kc3 Nh4 1-0

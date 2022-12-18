@@ -1,0 +1,20 @@
+[Event "corr EU/H"]
+[Site "corr EU/H"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Szeiler, J."]
+[Black "Rybalko, G."]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "5432bf82"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bg5 e6 7. e3 Be7 8.
+Bd3 O-O 9. O-O Bd7 10. a3 Rc8 11. Bc2 a6 12. Nd2 b5 13. f4 Na5 14. Rf3 Ne8
+15. Bxh7+ Kxh7 16. Rh3+ Kg8 17. Qh5 f6 18. Rf1 Rxc3 19. bxc3 e5 20. g4 fxg5
+21. Qh7+ Kf7 22. fxg5+ Ke6 23. Qg6+ Bf6 24. Nf3 e4 25. Ne5 Kd6 26. Rh8 Rxh8
+27. Nf7+ Kc7 28. gxf6 Qa8 29. Nxh8 gxf6 30. g5 fxg5 31. Qxg5 Nd6 32. Ng6
+Qg8 33. Rf8 Qg7 34. Qd8+ Kc6 35. Rg8 Nab7 36. Rxg7 Nxd8 37. Ne5+ 1-0
+

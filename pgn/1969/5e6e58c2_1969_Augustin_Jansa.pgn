@@ -1,0 +1,20 @@
+[Event "Luhacovice"]
+[Site "Luhacovice"]
+[Date "1969.01.01"]
+[Round "4"]
+[White "Augustin, Josef"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "5e6e58c2"]
+[Epoch "Bishop"]
+[WhiteID "300373"]
+[WhiteCountry "CZE"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. d3 e6 7. b3 Be7 8.
+Bb2 Bf6 9. c3 Nge7 10. d4 cxd4 11. cxd4 Ng6 12. Nc3 O-O 13. Qd2 d5 14. e5 Be7
+15. Rfe1 Rac8 16. Rac1 1/2-1/2

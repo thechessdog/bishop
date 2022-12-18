@@ -1,0 +1,18 @@
+[Event "Athene zt"]
+[Site "Athene zt"]
+[Date "1969.01.01"]
+[Round "10"]
+[White "Pedersen, Eigil"]
+[Black "Levy, David N L"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "fcb97990"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8. c3
+d6 9. d4 Bb6 10. Bg5 h6 11. Bh4 O-O 12. Qd3 Re8 13. Nbd2 Na5 14. Bc2 exd4 15.
+cxd4 Nc4 16. e5 dxe5 17. Bxf6 Qxf6 18. Qh7+ Kf8 19. Nxc4 bxc4 20. Nxe5 Rxe5 21.
+Rxe5 g6 22. Qxh6+ Kg8 23. Rae1 Bc6 24. Bxg6 1-0

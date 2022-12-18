@@ -1,0 +1,19 @@
+[Event "BSGV-Laren"]
+[Site "BSGV-Laren"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Metzers"]
+[Black "Weyerstrass, Ronald"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "241f98fb"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 c5 5. Be3 Nc6 6. Nf3 Nge7 7. O-O c4 8. exd5
+cxd3 9. dxc6 Bxc3 10. cxb7 Bxb7 11. bxc3 dxc2 12. Qxc2 Bxf3 13. gxf3 Nd5 14.
+Qa4+ Kf8 15. Qa3+ Ke8 16. c4 Nb6 17. Qd3 Rc8 18. Rac1 Qd7 19. Qb3 Qc6 20. d5
+Qc7 21. Qb5+ Kf8 22. Qb4+ Ke8 23. d6 Qc6 24. c5 Nd7 25. Qh4 f6 26. Qe4 Ne5 27.
+Qxc6+ Nxc6 28. Rb1 Rb8 29. Rxb8+ Nxb8 30. Rb1 Kd7 31. Rb7+ Kc6 32. Rc7+ Kd5 33.
+d7 1-0

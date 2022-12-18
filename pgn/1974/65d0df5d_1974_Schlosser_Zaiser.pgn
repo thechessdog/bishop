@@ -1,0 +1,18 @@
+[Event "corr Europe"]
+[Site "corr Europe"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Schlosser, W."]
+[Black "Zaiser, P."]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "65d0df5d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. Qe2 Be7 6. d4 O-O 7. g4 fxg3 8.
+Qg2 d6 9. hxg3 Bg4 10. Nh2 Bd7 11. Nf3 g6 12. g4 Ng7 13. Bh6 dxe5 14. Nbd2
+exd4 15. Qh2 Bd6 16. Bf4 Re8+ 17. Ne5 Rxe5+ 18. Bxe5 Bxe5 19. Qxh7+ Kf8 20.
+O-O-O Ne6 0-1
+

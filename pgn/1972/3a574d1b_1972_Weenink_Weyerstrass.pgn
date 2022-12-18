@@ -1,0 +1,16 @@
+[Event "DBC-Laren"]
+[Site "DBC-Laren"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Weenink"]
+[Black "Weyerstrass, Ronald"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "3a574d1b"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. d4 g4 6. Ng5 Bf5 7. e4 Bd7 8. Bc4
+Nh6 9. O-O f6 10. Ne6 Qe7 11. Nxc7+ Bxc7 12. Bxh6 Nc6 13. e5 fxe5 14. Bf7+ Kd8
+15. Bg7 1-0

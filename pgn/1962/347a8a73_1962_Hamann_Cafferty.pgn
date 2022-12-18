@@ -1,0 +1,16 @@
+[Event "Hastings II"]
+[Site "Hastings II"]
+[Date "1962.12.01"]
+[Round "1"]
+[White "Hamann, Svend"]
+[Black "Cafferty, Bernard"]
+[Result "1/2-1/2"]
+[ECO "B37"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 5...Bg7"]
+[HashCode "347a8a73"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Nc2 d6 7. Be2 f5 8. exf5
+Bxf5 9. O-O Nf6 10. Nc3 O-O 11. Be3 Ne4 12. Nxe4 Bxe4 13. Nd4 Qd7 14. Rc1 b6
+15. b3 Nxd4 16. Bxd4 Qb7 17. Bxg7 Kxg7 18. f3 Bc6 19. Qd4+ Rf6 20. Bd3 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Bratslavsky"]
+[Black "Ostermeyer"]
+[Result "0-1"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "pawn storm variation"]
+[HashCode "e374076b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Nbd7 8.
+Nf3 Qe7 9. Bd3 Bg7 10. O-O O-O 11. a4 a6 12. Nd2 Ne8 13. Nc4 Rb8 14. Qe2 f6
+15. Bd2 Qd8 16. Nd1 b5 17. Na5 c4 18. Bc2 Qb6+ 19. Ne3 Bb7 20. h4 Ba8 21.
+axb5 axb5 22. h5 Rf7 23. hxg6 hxg6 24. b3 f5 25. exf5 gxf5 26. Ra2 c3 27.
+Be1 Bd4 28. Bf2 Re7 29. Bxf5 Bxe3 30. Qg4+ Rg7 31. Be6+ Kf8 32. Qf5+ Ndf6
+33. b4 Bxf2+ 34. Rfxf2 Qd4 35. Qc2 Bxd5 36. Bxd5 Qxd5 37. Qxc3 Ne4 38. Qc6
+Qd1+ 39. Rf1 Qd4+ 0-1
+

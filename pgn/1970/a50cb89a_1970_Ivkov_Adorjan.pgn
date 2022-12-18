@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1970.01.01"]
+[Round "8"]
+[White "Ivkov, Borislav"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Botvinnik variation"]
+[HashCode "a50cb89a"]
+[Epoch "Bishop"]
+[WhiteID "900141"]
+[WhiteCountry "SRB"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c5 7. dxc5 Be6 8. Nf3
+Nc6 9. Be2 Ne4 1/2-1/2

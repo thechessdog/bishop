@@ -1,0 +1,17 @@
+[Event "corr URS/K"]
+[Site "corr URS/K"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Podzerov"]
+[Black "Kuntzevic"]
+[Result "1-0"]
+[ECO "E10"]
+[Opening "Blumenfeld counter-gambit, Dus-Chotimursky variation"]
+[HashCode "8f00a79f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5 Qb6 6. Bxf6 gxf6 7. e4 bxc4 8.
+Qc2 f5 9. Bxc4 Bg7 10. e5 d6 11. Qe2 O-O 12. Nc3 dxe5 13. Nxe5 exd5 14.
+Nxd5 Qa5+ 15. b4 cxb4 16. O-O Ba6 17. Rad1 Re8 18. Qh5 Nd7 19. Qxf7+ Kh8
+20. Qg8+ 1-0
+

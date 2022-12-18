@@ -1,0 +1,16 @@
+[Event "Varna ol prel D"]
+[Site "Varna ol prel D"]
+[Date "1962.01.01"]
+[Round "4"]
+[White "Murphy, R."]
+[Black "Mohamed, H."]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "13cf5315"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h5 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 e6 10. O-O Ngf6 11. Re1 Bd6 12. Nf5 Bf8 13. Qb3 Qa5 14. Ne5 Qxe1+
+15. Kh2 Nxe5 16. Be3 Neg4+ 17. Kg3 Ne4+ 18. Kf3 Nd2+ 19. Bxd2 0-1

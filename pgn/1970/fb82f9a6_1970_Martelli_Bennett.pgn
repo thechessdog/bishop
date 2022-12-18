@@ -1,0 +1,19 @@
+[Event "Siegen olm"]
+[Site "Siegen"]
+[Date "1970.01.01"]
+[Round "16"]
+[White "Martelli, R."]
+[Black "Bennett, Gerald H"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "fb82f9a6"]
+[Epoch "Bishop"]
+[BlackID "400998"]
+[BlackCountry "ENG"]
+
+1. b3 d5 2. Bb2 Nd7 3. e3 e5 4. d4 e4 5. c4 Bb4+ 6. Nc3 Ne7 7. a3 Bxc3+ 8. Bxc3
+O-O 9. Rc1 c6 10. cxd5 Nxd5 11. Bb2 Qg5 12. Ne2 f5 13. g3 Qe7 14. Bg2 N7f6 15.
+O-O g5 16. Nc3 Be6 17. Qd2 g4 18. Ne2 Qg7 19. Nf4 Nxf4 20. exf4 Nd5 21. Qe2 Rf6
+22. h3 gxh3 23. Bxh3 Nxf4 24. Qd2 Nxh3+ 25. Kg2 Bd5 26. Qe3 f4 0-1

@@ -1,0 +1,24 @@
+[Event "Dravograd"]
+[Site "Dravograd"]
+[Date "1963.01.01"]
+[Round "6"]
+[White "Ivanovic, Bozidar"]
+[Black "Jelen, Iztok"]
+[Result "0-1"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "7ef532f9"]
+[Epoch "Bishop"]
+[WhiteID "900095"]
+[WhiteCountry "MNE"]
+[BlackID "14600056"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 O-O 7. O-O d5 8. cxd5
+exd5 9. Ne5 Nbd7 10. f4 Ne4 11. Qb3 Bxc3 12. bxc3 c5 13. c4 Ndf6 14. Rd1 cxd4
+15. exd4 dxc4 16. Bxc4 Bd5 17. Bxd5 Qxd5 18. Ba3 Rfc8 19. Rac1 Rxc1 20. Bxc1
+Rc8 21. Ng4 Qxb3 22. Nxf6+ Nxf6 23. axb3 Nd5 24. Kf2 Rc3 25. Re1 f6 26. f5 Kf7
+27. b4 Nxb4 28. Bd2 Nd3+ 29. Ke3 Nxe1+ 30. Bxc3 Nxg2+ 31. Kf3 Nh4+ 32. Kg4 g5
+33. d5 h5+ 34. Kxh5 Nxf5 35. Bb4 a5 36. Bc3 Ne3 37. d6 Nd5 38. Bd2 Ke6 39. h4
+gxh4 40. d7 Kxd7 41. Kxh4 a4 0-1

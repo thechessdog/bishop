@@ -1,0 +1,18 @@
+[Event "Bad Pyrmont"]
+[Site "Bad Pyrmont"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Nurenberg"]
+[Result "1-0"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "26b80efe"]
+[Epoch "Bishop"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 Nxd4 7. Nxd4 exd4 8.
+e5 Nd5 9. Qg4 g6 10. Bh6 Nb6 11. Qxd4 Nxa4 12. e6 Rg8 13. exf7+ Kxf7 14. Qd5+
+Kf6 15. g4 g5 16. Qf5# 1-0

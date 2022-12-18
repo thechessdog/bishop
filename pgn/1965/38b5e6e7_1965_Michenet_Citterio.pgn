@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Michenet"]
+[Black "Citterio"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "38b5e6e7"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. a4 Rb8 8.
+axb5 axb5 9. d3 O-O 10. Bg5 d6 11. Nc3 Bb4 12. h3 Nd4 13. Qe3 Be6 14. Bxe6
+Nxc2+ 0-1
+

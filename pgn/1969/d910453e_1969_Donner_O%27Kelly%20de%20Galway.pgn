@@ -1,0 +1,17 @@
+[Event "Capablanca Memorial"]
+[Site "Havana"]
+[Date "1969.01.01"]
+[Round "5"]
+[White "Donner, Jan Hein"]
+[Black "O'Kelly, Albéric de Galway"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "d910453e"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Be7 7. Nf3 b6 8. O-O
+Bb7 9. cxd5 exd5 10. Ne5 c5 11. Qf3 Nc6 12. Qh3 g6 13. Bd2 Ne4 14. Be1 Nxe5 15.
+dxe5 Qc8 16. Qxc8 Raxc8 1/2-1/2

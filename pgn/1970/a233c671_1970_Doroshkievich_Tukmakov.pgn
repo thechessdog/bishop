@@ -1,0 +1,18 @@
+[Event "URS-ch38 Riga"]
+[Site "Riga ch-URS"]
+[Date "1970.12.01"]
+[Round "9"]
+[White "Doroshkievich, Vladimir K"]
+[Black "Tukmakov, Vladimir B"]
+[Result "0-1"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "a233c671"]
+[Epoch "Bishop"]
+[BlackID "14100096"]
+[BlackCountry "UKR"]
+[WhiteCountry "RUS"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 e4 5. Bg5 Nf6 6. d5 exf3 7. dxc6 fxg2 8.
+cxd7+ Nxd7 0-1

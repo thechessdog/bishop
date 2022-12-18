@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Enksson, S."]
+[Black "Voigt"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "c069b2d6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 Be7 8.
+O-O O-O 9. Ba2 b5 10. f4 Nbd7 11. Rf3 Bb7 12. Rh3 Bxe4 13. Nxe4 Nxe4 14.
+Nxe6 1-0
+

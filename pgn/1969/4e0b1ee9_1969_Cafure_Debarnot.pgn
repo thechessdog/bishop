@@ -1,0 +1,16 @@
+[Event "Buenos Aires ch"]
+[Site "Buenos Aires ch"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Cafure"]
+[Black "Debarnot, Roberto"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "4e0b1ee9"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. e3 Nc6 8. cxd5
+Nxd5 9. Qd3 cxd4 10. cxd4 f5 11. e4 Nf6 12. Ne2 O-O 13. Bb2 fxe4 14. fxe4 Ne5
+15. Qb3 Nxe4 16. Qc2 Qh4+ 0-1

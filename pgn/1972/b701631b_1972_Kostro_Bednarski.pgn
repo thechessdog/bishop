@@ -1,0 +1,19 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Kostro, Jerzy"]
+[Black "Bednarski, Jacek B"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "b701631b"]
+[Epoch "Bishop"]
+[WhiteID "1101188"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Ne4 5. Nxe4 dxe4 6. Bc4 c5 7. d5 Nd7 8. dxe6
+fxe6 9. Bxe6 Qe7 10. Qd6 Qxd6 11. exd6 Bxd6 12. Ne2 Nf6 13. Bxc8 Rxc8 14. Bf4
+Bxf4 15. Nxf4 Kf7 16. Rd1 1/2-1/2

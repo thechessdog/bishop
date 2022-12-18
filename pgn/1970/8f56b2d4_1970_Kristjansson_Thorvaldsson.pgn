@@ -1,0 +1,23 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1970.??.??"]
+[Round "5"]
+[White "Kristjansson, Bragi"]
+[Black "Thorvaldsson, Jonas"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "8f56b2d4"]
+[Epoch "Bishop"]
+[WhiteID "2300346"]
+[BlackID "2300192"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O d6 5. c3 a6 6. Bc4 Ng6 7. d4 Be7 8. Re1
+O-O 9. Nbd2 exd4 10. cxd4 Bf6 11. Nb3 Bg4 12. Be2 Re8 13. h3 Bd7 14. Bd3 a5 15.
+Be3 a4 16. Nbd2 Nb4 17. Bb1 Bb5 18. Nf1 Bxf1 19. Kxf1 c5 20. Re2 a3 21. bxa3
+Rxa3 22. Bc1 Rxf3 23. gxf3 Bxd4 24. Bb2 Bxb2 25. Rxb2 Qf6 26. e5 Nxe5 27. Be4
+Qh4 28. Qa4 Qxh3+ 29. Ke2 Nec6 30. a3 Nd4+ 31. Kd2 Qh6+ 32. Kc3 b5 33. Qa7 Qf6
+34. Qd7 Nxf3+ 35. Kb3 Nd4+ 36. Kc3 Ndc6+ 37. Kb3 Na5# 0-1

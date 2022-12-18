@@ -1,0 +1,18 @@
+[Event "corr BDGW1"]
+[Site "corr BDGW1"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Fechner, J."]
+[Black "Wolff, G."]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "74400139"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. dxe5 Qxd1+ 5. Kxd1 Nc6 6. Nd5 Bg4+ 7. Ke1
+O-O-O 8. Ne3 Nb4 9. Bd2 Be6 10. a3 Nc6 11. Bc3 Bc5 12. Ne2 Bxe3 13. fxe3
+Nge7 14. Nf4 Bf5 15. Bc4 Rhf8 16. Rd1 Rxd1+ 17. Kxd1 g5 18. Ne2 Bg4 19. Rf1
+Nf5 20. Ke1 Nxe3 21. Rxf7 Rxf7 22. Bxf7 Bxe2 23. Kxe2 Nxg2 24. e6 Nf4+ 25.
+Ke3 Nd5+ 26. Kxe4 Nxc3+ 27. bxc3 Kd8 28. Kf5 Ke7 29. Kxg5 Ne5 1/2-1/2
+

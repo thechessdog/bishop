@@ -1,0 +1,19 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Soltis, Andrew"]
+[Black "Kaufmann, Lawrence"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "44539ede"]
+[Epoch "Bishop"]
+[WhiteID "2000741"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qc7 11. a3 O-O 12. Rad1 Nc6 13. Bg5 Bd7 14. Qg3 Rfd8 15.
+Nf3 Ne8 16. Bxe7 Nxe7 17. Rfe1 Rac8 18. Nd4 a5 19. Qg5 Ng6 20. Ndxb5 h6 21. Qh5
+Qb7 22. Nxd6 Qc6 23. Nf5 exf5 24. exf5 Qxg2+ 25. Kxg2 Nf4+ 26. Kf1 Nxh5 0-1

@@ -1,0 +1,20 @@
+[Event "Villa Gesell"]
+[Site "Villa Gesell"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Guimard, Carlos E"]
+[Black "Schweber, Samuel"]
+[Result "0-1"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[HashCode "70f13e09"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 d6 2. g3 Nf6 3. Bg2 c6 4. c4 e5 5. Nc3 Qb6 6. Nf3 e4 7. Ng5 d5 8. O-O h6
+9. c5 Qd8 10. Nh3 b6 11. b4 a5 12. b5 bxc5 13. bxc6 Nxc6 14. dxc5 Bxc5 15. Nf4
+Bd4 16. Bd2 O-O 17. Rc1 Ne7 18. Qa4 Be5 19. Rfd1 g5 20. Nfxd5 Nexd5 21. Nxd5
+Qxd5 22. Bxg5 Qe6 23. Bxf6 Qxf6 24. Qxe4 Rb8 25. Rc5 Bd4 26. Rc6 Qxf2+ 27. Kh1
+Bf5 28. Qh4 Bg7 29. Bf3 Rb4 30. Rc4 Rb1 31. Rcc1 Rxc1 32. Rxc1 Qe3 33. Rd1 Rc8
+34. g4 Be4 35. Qg3 Bxf3+ 36. exf3 Be5 37. Qg2 Rc1 0-1

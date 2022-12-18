@@ -1,0 +1,18 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Olsson, Ake 1936"]
+[Black "Kinnmark, Ove"]
+[Result "1/2-1/2"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Botvinnik variation"]
+[HashCode "c64f4f78"]
+[Epoch "Bishop"]
+[WhiteID "1732439"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. e3 O-O 8. cxd5
+Nxd5 9. Bd2 f5 10. Bc4 Nc6 11. Ne2 1/2-1/2

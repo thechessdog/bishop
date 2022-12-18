@@ -1,0 +1,20 @@
+[Event "RPI ch"]
+[Site "RPI ch"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Rizzo, Robert"]
+[Black "Hom, Ed"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "128f35d2"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Be3 Nge7 6. Be2 cxd4 7. cxd4 Nf5 8.
+a3 Nxe3 9. fxe3 Qg5 10. Kf2 Qf5+ 11. Nf3 f6 12. Bd3 Qh5 13. exf6 gxf6 14.
+Nfd2 Qf7 15. Qf3 Bd7 16. Nc3 O-O-O 17. Rac1 Kb8 18. Ne2 Bd6 19. e4 dxe4 20.
+Nxe4 Be7 21. b4 Be8 22. Nc5 Bf8 23. Rc4 b5 24. Rc3 Bxc5 25. Rxc5 Rd5 26.
+Rxd5 exd5 27. Bxb5 Ne7 28. Ba6 Ng6 29. Nf4 Nxf4 30. Qxf4+ Ka8 31. Rc1 Bd7
+32. Qc7 Be6 33. Bb7# 1-0
+

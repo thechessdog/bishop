@@ -1,0 +1,16 @@
+[Event "Valenza Po"]
+[Site "Valenza Po"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "De Eccher, Stefano"]
+[Black "Garofalo"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "19e52b70"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Qe2
+Nbd7 9. g4 b4 10. Nd5 exd5 11. Nc6 Qb6 12. exd5+ Ne5 13. Ba4 Nd7 14. f4 f6 15.
+g5 Be7 16. fxe5 fxe5 17. Be3 Qc7 18. O-O Nb6 19. Qf2 Bd8 20. Ne7+ 1-0

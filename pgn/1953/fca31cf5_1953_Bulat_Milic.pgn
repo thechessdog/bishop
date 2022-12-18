@@ -1,0 +1,23 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1953.01.01"]
+[Round "12"]
+[White "Bulat, Ante"]
+[Black "Milic, Borislav"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "fca31cf5"]
+[Epoch "Bishop"]
+[WhiteID "14500418"]
+[WhiteCountry "CRO"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O c6 7. b3 Nbd7 8. Nbd2
+a5 9. Qc2 a4 10. Bb2 b5 11. Ne5 Nxe5 12. dxe5 Nd7 13. cxb5 a3 14. Bc3 c5 15.
+Nc4 Bb7 16. Qc1 Qc7 17. Nxa3 c4 18. Nb1 cxb3 19. a4 Rfc8 20. Qb2 Qc4 21. Rd1
+Bc5 22. e3 Bb4 23. Rc1 Nxe5 24. Bd2 Qe2 25. Re1 Nf3+ 26. Bxf3 Qxf3 27. Bxb4 d4
+28. e4 Bxe4 29. Rxe4 Qxe4 30. Nd2 Rc2 31. Nxe4 Rxb2 32. b6 Ra2 33. Rc1 b2 34.
+Rb1 Ra1 35. Nd2 R8xa4 36. Bd6 Rxb1+ 37. Nxb1 Ra1 38. b7 Rxb1+ 39. Kg2 Rg1+ 40.
+Kh3 b1=Q 41. b8=Q+ Qxb8 42. Bxb8 0-1

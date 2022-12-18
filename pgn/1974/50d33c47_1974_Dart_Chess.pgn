@@ -1,0 +1,23 @@
+[Event "ACM San Diego"]
+[Site "ACM San Diego"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Dart 4 1"]
+[Black "Chess 4 0"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Quaade gambit"]
+[HashCode "50d33c47"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Nc3 g4 5. Ne5 Qh4+ 6. g3 fxg3 7. Qxg4 g2+
+8. Qxh4 gxh1=Q 9. Qh5 Bb4 10. Nxf7 Nf6 11. Nd6+ Kd8 12. Nf7+ Ke7 13. Nd5+
+Nxd5 14. Nxh8 Qxe4+ 15. Be2 Nf4 16. Qg5+ Kf8 17. Qg4 Bd6 18. Qf3 Qxe2+ 19.
+Qxe2 Nxe2 20. Kxe2 Bxh2 21. d3 Be5 22. Bh6+ Ke7 23. Bg5+ Ke6 24. Rf1 Bxh8
+25. Rf8 Bxb2 26. Rxc8 Be5 27. Re8+ Kd6 28. Rf8 h5 29. c4 c6 30. a4 b6 31.
+Rf7 Na6 32. Ke3 Nc5 33. a5 Rg8 34. Bh4 bxa5 35. Kd2 Rg2+ 36. Ke3 Bd4+ 37.
+Kxd4 Rg4+ 38. Kc3 Rxh4 39. Rf6+ Ke5 40. Rf3 a4 41. Re3+ Kd6 42. Kd2 a3 43.
+Rg3 a2 44. Rg1 a1=Q 45. Rxa1 Nb3+ 46. Kc3 Nxa1 47. Kb2 Rh1 48. Kc3 Ke5 49.
+c5 Rh2 50. Kc4 a5 51. d4+ Ke4 52. Kc3 Rc2# 0-1
+

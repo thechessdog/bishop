@@ -1,0 +1,23 @@
+[Event "Aspen"]
+[Site "Aspen"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Tarjan, James"]
+[Black "Larsen, Bent Ravn"]
+[Result "0-1"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "a3818b77"]
+[Epoch "Bishop"]
+[BlackID "1430670"]
+[BlackCountry "DNK"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 a6 8.
+O-O-O b5 9. Bxf6 gxf6 10. Kb1 e6 11. f4 Qb6 12. g3 b4 13. Nce2 Na5 14. Nb3 Nxb3
+15. cxb3 Bc6 16. Bg2 e5 17. g4 h5 18. g5 Qf2 19. Rhg1 Bb5 20. Rde1 fxg5 21.
+fxg5 Be7 22. Qd5 Rc8 23. Bh3 Rc5 24. Qd2 Rg8 25. Bf5 Rxg5 26. Rgf1 Qxh2 27. Rh1
+Qf2 28. Rhf1 Qg2 29. Rg1 Qf3 30. Nc1 Qf4 31. Qd1 Rxg1 32. Rxg1 Bg5 33. a4 Rxc1+
+34. Qxc1 Bd3+ 0-1

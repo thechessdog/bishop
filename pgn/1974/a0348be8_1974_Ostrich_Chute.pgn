@@ -1,0 +1,20 @@
+[Event "ACM San Diego"]
+[Site "ACM San Diego"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Ostrich"]
+[Black "Chute"]
+[Result "1-0"]
+[ECO "D04"]
+[Opening "Queen's pawn game"]
+[HashCode "a0348be8"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e3 Nf6 3. Nf3 Bg4 4. Nc3 e6 5. Bd2 Bd6 6. Bd3 O-O 7. O-O Nc6 8.
+Nb5 a6 9. Nxd6 Qb8 10. Nxb7 Qxb7 11. Bc3 Rab8 12. Qe2 Ra8 13. h3 Bh5 14. g4
+Bg6 15. Bxg6 fxg6 16. Ne5 Nxe5 17. dxe5 Ne4 18. Qd3 Rf3 19. b4 Raf8 20. Be1
+Rxh3 21. c4 Qc6 22. cxd5 Qxd5 23. Qxd5 exd5 24. Rd1 c6 25. Rc1 Ng5 26. f4
+Nf3+ 27. Kg2 Rh2+ 28. Kxf3 Rc8 29. e6 Rxa2 30. e7 Ra3 31. Rxc6 Re8 32. Bh4
+d4 33. Re6 Kf7 34. Re4 d3 35. f5 gxf5 36. gxf5 Ra2 37. Rd1 Ra3 38. Rd4 Rb8
+39. Rd8 Rxd8 40. exd8=Q 1-0
+

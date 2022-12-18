@@ -1,0 +1,18 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Szabo, Janos"]
+[Black "Grabczewski, Romuald"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "9ea142b6"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8. c3
+O-O 9. d4 Bb6 10. Bg5 h6 11. Bh4 Re8 12. d5 Na5 13. Bc2 c6 14. Nbd2 d6 15. b4
+Nc4 16. Nxc4 bxc4 17. Ba4 Rc8 18. Bxc6 Bxc6 19. dxc6 Rxc6 20. Qa4 Qa8 21. Bxf6
+gxf6 22. Nh4 d5 23. Nf5 Kh7 24. exd5 Rcc8 25. Qc2 Qxd5 26. Rad1 1-0

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Malmgren, H."]
+[Black "Cuadrado"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack, Adam variation"]
+[HashCode "30254bca"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Qe2 Be7 10. c4 bxc4 11. Ba4 Bd7 12. Nc3 Nxc3 13. bxc3 Na7 14.
+Bc2 Qc8 15. Bg5 Qd8 16. Bf6 O-O 17. Ng5 h6 18. Qh5 Nb5 19. Qxh6 1-0
+

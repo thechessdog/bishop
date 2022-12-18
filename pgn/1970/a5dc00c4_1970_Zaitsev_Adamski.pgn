@@ -1,0 +1,20 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1970.08.01"]
+[Round "4"]
+[White "Zaitsev, Igor A"]
+[Black "Adamski, Jan"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "a5dc00c4"]
+[Epoch "Bishop"]
+[WhiteID "4103017"]
+[WhiteCountry "RUS"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 b5 6. Bd3 Bb7 7. O-O Nd7 8. e5 c5
+9. Ng5 Nh6 10. f5 cxd4 11. fxg6 dxc3 12. gxf7+ Nxf7 13. Nxf7 Qb6+ 14. Kh1 Qc6
+15. Qg4 O-O 16. Bxh7+ Kxh7 17. Ng5+ Kg8 18. Qe6+ Rf7 19. Qxf7+ 1-0

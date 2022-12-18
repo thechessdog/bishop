@@ -1,0 +1,19 @@
+[Event "Lissone"]
+[Site "Lissone"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Rossi, G."]
+[Black "Mariani"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "bbdec833"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6 7. O-O Qa5 8.
+Qc2 Qh5 9. Re1 e5 10. d5 cxd5 11. cxd5 Na6 12. e4 Bg4 13. Nd2 Nb4 14. Qb1
+Bh3 15. a3 Na6 16. Nc4 Ng4 17. Bh1 Nc5 18. b4 Nxh2 19. Kxh2 Nd3 20. Re3
+Nxf2 21. Bf3 Bg4+ 22. Kg2 f5 23. Kxf2 fxe4 24. Qxe4 Bxf3 25. Rxf3 Rxf3+ 26.
+Qxf3 Rf8 27. Qxf8+ Kxf8 28. Kg2 e4 0-1
+

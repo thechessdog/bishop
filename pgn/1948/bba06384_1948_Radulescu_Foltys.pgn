@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Radulescu"]
+[Black "Foltys, Jan"]
+[Result "0-1"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation"]
+[HashCode "bba06384"]
+[Epoch "Bishop"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nf3 h6 8. O-O
+Be7 9. Be3 O-O 10. Ne1 Be6 11. Nd3 d5 12. exd5 Nxd5 13. Nxd5 Bxd5 14. Bc5 Bxc5
+15. Nxc5 Nd4 16. Nb3 Qg5 17. f3 Qe3+ 18. Rf2 Bxb3 19. axb3 Rfd8 20. Bd3 Nxc2
+21. Bh7+ Kxh7 22. Qxc2+ Kg8 23. Kf1 Rac8 24. Re1 Rxc2 0-1

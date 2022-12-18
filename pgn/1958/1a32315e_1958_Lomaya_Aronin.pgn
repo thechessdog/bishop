@@ -1,0 +1,20 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Lomaya"]
+[Black "Aronin, Lev Solomonovich"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "1a32315e"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 g6 8. Qf3
+Bg7 9. O-O-O Qc7 10. g4 Nb6 11. h3 O-O 12. Bg2 Bd7 13. e5 dxe5 14. fxe5 Qxe5
+15. Bf4 Qc5 16. Nb3 Qc4 17. Qf2 Be6 18. Be3 Nbd7 19. Nd4 Ne5 20. Nxe6 fxe6 21.
+Qe2 Qxe2 22. Nxe2 Nd5 23. Bxd5 exd5 24. Rxd5 Nc4 25. Bd4 e5 26. Bc3 Rf2 27. Re1
+Re8 28. b3 Ne3 29. Rd2 Ng2 30. Rg1 e4 31. Bxg7 Kxg7 32. Nd4 e3 33. Re2 Nf4 34.
+Rxe3 Rd8 35. Rd1 0-1

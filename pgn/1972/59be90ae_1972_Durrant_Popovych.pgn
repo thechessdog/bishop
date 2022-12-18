@@ -1,0 +1,23 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1972.01.01"]
+[Round "2"]
+[White "Durrant, E."]
+[Black "Popovych, Orest"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "59be90ae"]
+[Epoch "Bishop"]
+[BlackID "2002558"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 b5 8. a3
+Bb7 9. O-O Nbd7 10. Kh1 g6 11. Qe1 Bg7 12. Nf3 e5 13. Qh4 O-O 14. fxe5 dxe5 15.
+Bh6 Nh5 16. Bxg7 Kxg7 17. Ng5 Ndf6 18. Rf3 h6 19. Nh3 Rae8 20. Raf1 Qe7 21. g4
+Nf4 22. Nxf4 exf4 23. g5 hxg5 24. Qxg5 Nxe4 25. Qxe7 Rxe7 26. Nxe4 Rxe4 27. Kg1
+Re5 28. Rxf4 Rg5+ 29. Kf2 Rg2+ 30. Ke3 Rxh2 31. a4 bxa4 32. Kd4 f5 33. Kc5 Bc8
+34. Rxa4 g5 35. b4 g4 36. b5 axb5 37. Ra7+ Rf7 38. Rxf7+ Kxf7 39. Kxb5 g3 40.
+Rg1 g2 41. Kb6 Be6 42. c4 Kf6 43. Be2 Ke5 44. Bf3 Bxc4 45. Bxg2 Bd5 46. Re1+
+Be4 47. Bf3 Kd4 48. Be2 Kc3 49. Bg4 Rh6+ 50. Kc7 fxg4 51. Rxe4 Rg6 0-1

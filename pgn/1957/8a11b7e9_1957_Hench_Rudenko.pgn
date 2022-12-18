@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Hench"]
+[Black "Rudenko"]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O"]
+[HashCode "8a11b7e9"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Qc2 c6 6. Nf3 d6 7. Bd3 Nbd7 8.
+O-O Re8 9. e4 e5 10. d5 Bxc3 11. Qxc3 cxd5 12. cxd5 Nc5 13. Re1 Nxd3 14.
+Qxd3 Qb6 15. Be3 Qb4 16. Bd2 Qb6 17. Be3 Qb4 18. Bd2 Qb6 19. h3 Bd7 20. Bg5
+Bb5 21. Qa3 Qa6 22. Qxa6 Bxa6 23. Bxf6 gxf6 24. Nh4 b6 25. Nf5 Rad8 26.
+Rac1 Bc8 27. Ne3 Re7 28. Rc3 Bb7 29. Nf5 Red7 30. Rec1 Kf8 31. h4 Kg8 32.
+h5 Kh8 33. h6 Rg8 34. Rc7 Rgd8 35. Nxd6 Rxd6 36. Rxb7 f5 37. Rc6 Rg6 38.
+exf5 Rg5 39. Rxf7 Kg8 40. Rxa7 Rxf5 41. Rcc7 Rxd5 42. Rg7+ 1-0
+

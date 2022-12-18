@@ -1,0 +1,23 @@
+[Event "DDR-12ch"]
+[Site "Gera"]
+[Date "1962.??.??"]
+[Round "4"]
+[White "Golz, Werner"]
+[Black "Handel, Horst"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "31d9c3f5"]
+[Epoch "Bishop"]
+[BlackID "4666542"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Ne2 Ne4 6. Bd2 Nxd2 7. Qxd2 cxd4 8.
+exd4 O-O 9. a3 Be7 10. d5 e5 11. Ng3 d6 12. Be2 Bg5 13. Qc2 f5 14. O-O g6 15.
+Rad1 b6 16. b4 Nd7 17. Rfe1 a6 18. Bf1 Bh6 19. Na4 Ra7 20. Qb3 Rc7 21. Re2 Qh4
+22. Rc2 Bb7 23. c5 b5 24. Nb2 Nf6 25. c6 Bc8 26. a4 f4 27. axb5 axb5 28. Nh1
+Bf5 29. Bxb5 Bxc2 30. Qxc2 f3 31. g3 Qxb4 32. Bf1 e4 33. Nc4 Rb8 34. Qa2 Bf8
+35. Qa1 Bg7 36. Qc1 Qc5 37. Qf4 Rd8 38. Ne3 Rf8 39. Bh3 h5 40. Qg5 Kh7 41. Qh4
+Bh6 0-1

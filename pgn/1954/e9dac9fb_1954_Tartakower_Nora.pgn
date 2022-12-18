@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "Nora"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "e9dac9fb"]
+[Epoch "Bishop"]
+[WhiteCountry "FRA"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. Bg5 e3 6. Bc4 e6 7. Nge2 Be7 8. g4
+Bxg4 9. Bxf6 Bxf3 10. O-O Bxe2 11. Bxe7 Bxd1 12. Bxd8 e2 13. Bxe2 Bxe2 14. Nxe2
+Kxd8 15. Rxf7 Re8 16. Raf1 Nc6 17. Rxg7 Ne7 18. Rff7 Kd7 19. Ng3 Rad8 20. Ne4
+Kc6 21. Rxe7 Rxe7 22. Rxe7 Rxd4 23. Nc3 Rd2 24. Rxe6+ Kd7 25. Re2 1-0

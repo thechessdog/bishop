@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Spassky, Boris V."]
+[Black "Vinogradov, Oleg"]
+[Result "1-0"]
+[ECO "A84"]
+[Opening "Dutch defence"]
+[HashCode "cde9b1ed"]
+[Epoch "Bishop"]
+[WhiteID "600024"]
+[WhiteCountry "RUS"]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 g6 4. Nc3 Bg7 5. g3 O-O 6. Bg2 d6 7. d5 Na6 8. O-O
+Re8 9. Ng5 Nc5 10. Be3 e5 11. dxe6 Nxe6 12. Nxe6 Rxe6 13. Nd5 Re8 14. Nf4 g5
+15. Nd5 c6 16. Nc3 Ng4 17. Bd4 Ne5 18. b3 Qf6 19. e3 f4 20. Rc1 Qg6 21. exf4
+gxf4 22. Be4 Bf5 23. Bxe5 Rxe5 24. Bxf5 Rxf5 25. Kh1 f3 26. Re1 Raf8 27. Qd3
+Qh6 28. Qf1 Rh5 29. Qg1 Rh3 30. Ne4 Rf5 31. g4 Be5 32. gxf5+ 1-0

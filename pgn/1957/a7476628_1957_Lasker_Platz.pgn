@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Lasker, Emanuel"]
+[Black "Platz, Joseph"]
+[Result "0-1"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "a7476628"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 d4 6. exf6 dxc3 7. bxc3 Qxf6 8.
+Nf3 Bd6 9. Be2 O-O 10. d4 Re8 11. O-O Nc6 12. Bg5 Qg6 13. h3 h6 14. Be3 Bxh3
+15. Nh4 Qf6 16. gxh3 Qxh4 17. Qd2 Qxh3 0-1

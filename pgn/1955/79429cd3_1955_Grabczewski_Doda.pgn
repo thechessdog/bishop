@@ -1,0 +1,20 @@
+[Event "Poland ch13"]
+[Site "Poland ch13"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Grabczewski, Romuald"]
+[Black "Doda, Zbigniew"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "79429cd3"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Bd7 8. e5
+dxe5 9. fxe5 Qa5 10. Bb5 axb5 11. exf6 b4 12. Ne4 Qd5 13. O-O Qxe4 14. Nxe6
+Qxe6 15. Re1 Bc5+ 16. Kh1 O-O 17. Rxe6 Bxe6 18. Qe1 Nc6 19. Bh6 Rfe8 20. Bxg7
+Bf5 21. Qg3 Bg6 22. Bh6 Re5 23. Re1 Rf5 24. Qc7 Rxf6 25. Qxb7 Rd8 26. h3 Rfd6
+27. Kh2 Nd4 28. Qc7 Rd5 29. Qe7 Rh5 30. Kh1 Bd6 31. Qb7 Ne6 1-0

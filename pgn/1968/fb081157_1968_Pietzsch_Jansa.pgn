@@ -1,0 +1,19 @@
+[Event "Rubinstein mem"]
+[Site "Polanica Zdroj"]
+[Date "1968.??.??"]
+[Round "4"]
+[White "Pietzsch, Wolfgang"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "fb081157"]
+[Epoch "Bishop"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e5 7. Qd2 Nge7 8. Nge2
+O-O 9. O-O Be6 10. f4 Nd4 11. Rf2 Qd7 12. Raf1 Rae8 13. Nc1 b6 14. fxe5 dxe5
+15. Bg5 Kh8 16. Bf6 Ng8 17. Bxg7+ Kxg7 18. Nd1 f6 19. Ne3 1/2-1/2

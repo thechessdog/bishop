@@ -1,0 +1,22 @@
+[Event "England"]
+[Site "England"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Milan, S."]
+[Black "Borwell, A."]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "fd0c9204"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5
+8. Ba3 Bxc4 9. Bxc4 dxc4 10. e4 Qd7 11. O-O Na6 12. f3 h5 13. Ne2 h4 14.
+Qc2 O-O-O 15. Bc1 Rdg8 16. h3 g5 17. Be3 Nh5 18. Qd2 f5 19. Bxg5 Qg7 20. f4
+Nf6 21. e5 Ne4 22. Qe3 c6 23. d5 cxd5 24. a4 Nxg5 25. fxg5 Qxg5 26. Nf4 Rh7
+27. a5 b5 28. Rf2 Rb7 29. Rb1 Kd7 30. Qd4 Nc7 31. Rd2 Qh6 32. Rf2 Kc6 33.
+Qe3 Rg3 34. Qd4 Rg7 35. Rd2 Rd7 36. Ne2 Rd8 37. Rbd1 Na6 38. Qf2 b4 39. Rd4
+Kc7 40. Rxh4 Qf8 41. Nd4 Nc5 42. a6 Rb6 43. cxb4 Nxa6 44. Rh7+ Kc8 45. b5
+Nc7 46. Nc6 1-0
+

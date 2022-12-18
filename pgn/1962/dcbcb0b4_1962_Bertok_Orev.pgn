@@ -1,0 +1,25 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Bertok, Mario"]
+[Black "Orev, Petar"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Lundin (Kevitz-Mikenas) defence"]
+[HashCode "dcbcb0b4"]
+[Epoch "Bishop"]
+[BlackID "2900742"]
+[WhiteCountry "HRV"]
+[BlackCountry "FID"]
+
+1. d4 Nc6 2. Nf3 d6 3. e4 g6 4. Bc4 Bg7 5. Nc3 Nf6 6. h3 O-O 7. Bb3 Na5 8. Bg5
+c6 9. O-O Nxb3 10. axb3 h6 11. Bf4 g5 12. Bh2 g4 13. hxg4 Nxg4 14. Bg3 e5 15.
+dxe5 Nxe5 16. Nxe5 dxe5 17. Qxd8 Rxd8 18. Rfd1 Re8 19. f3 f5 20. Bf2 a6 21. Na4
+fxe4 22. Nb6 Rb8 23. Nxc8 Rbxc8 24. fxe4 Kf7 25. Rd7+ Re7 26. Rad1 Ke8 27. R7d6
+Rf7 28. Be3 Bf8 29. Rg6 Rh7 30. Rf1 Kd7 31. Rf5 Re8 32. g4 Rh8 33. Kg2 Re6 34.
+Rxe6 Kxe6 35. Kg3 Bg7 36. Kh4 Bf6+ 37. Kh5 Bg5 38. Bxg5 hxg5+ 39. Kxg5 Rh2 40.
+Rf6+ Ke7 41. Rh6 Rxc2 42. Kf5 Rxb2 43. Rh3 a5 44. Kxe5 b5 45. g5 c5 46. Kd5 c4
+47. bxc4 b4 48. Rh7+ Kf8 49. Ra7 Ra2 50. c5 a4 51. c6 b3 52. c7 Rc2 53. Kd6
+Rd2+ 54. Kc6 Rc2+ 55. Kb7 1-0

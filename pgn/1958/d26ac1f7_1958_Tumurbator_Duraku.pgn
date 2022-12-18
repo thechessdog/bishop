@@ -1,0 +1,18 @@
+[Event "Varna tt"]
+[Site "Varna tt"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Tumurbator"]
+[Black "Duraku"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "d26ac1f7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Nbd7
+8. Be2 Qa5 9. Qe3 Nxe4 10. Qxe4 Qxg5 11. f4 Qa5 12. O-O-O Nc5 13. Qf3 Be7
+14. Nc6 Qc7 15. Nxe7 Qxe7 16. Bd3 O-O 17. Qh5 f5 18. Rhe1 Qf6 19. Bc4 d5
+20. Rxd5 g6 21. Qh6 exd5 22. Nxd5 Qg7 23. Ne7+ 1-0
+

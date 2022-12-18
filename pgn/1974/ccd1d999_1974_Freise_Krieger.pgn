@@ -1,0 +1,22 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Freise, Helmut"]
+[Black "Krieger, Hermann"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "ccd1d999"]
+[Epoch "Bishop"]
+[WhiteID "4641426"]
+[WhiteCountry "GER"]
+[BlackID "4609867"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Nc4 Nb6 10. Ne3 O-O 11. Be2 Qe7 12. Qc2 Re8 13. Bf3 Nxe4 14. Bxe4 Bxc3+
+15. Qxc3 Qxe4 16. O-O Bd7 17. Rd1 Qe5 18. Qxe5 Rxe5 19. b3 f5 20. Bb2 Re4 21.
+Rac1 Rae8 22. g3 f4 23. gxf4 Rxf4 24. Bc3 Bh3 25. Rd2 Ree4 26. Ba5 Nd7 27. Bc7
+Ne5 28. Kh1 Nf7 29. Rc4 Rxe3 0-1

@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Palermo, Vicente"]
+[Black "Benzaquen"]
+[Result "0-1"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "9c678cde"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Nc6 7. d5 Nb8 8. O-O
+e5 9. Ne1 Nbd7 10. Be3 b6 11. b4 Ne8 12. Nd3 f5 13. f3 f4 14. Bf2 g5 15. c5 Rf6
+16. a4 bxc5 17. bxc5 Rh6 18. Qd2 Qe7 19. Rfc1 Ndf6 20. h3 Qf7 21. Kf1 Qg6 22.
+cxd6 cxd6 23. Nb5 g4 24. hxg4 Rh1+ 25. Bg1 Bxg4 26. Nf2 Bh3 27. Nxh3 Nh5 28.
+Bd3 Bf6 29. Nc3 Bh4 30. Ne2 Kh8 31. Rc6 Nef6 32. Rac1 Rg8 33. g4 Rxh3 34. Rc8
+Rxf3+ 35. Kg2 Qxg4+ 36. Kh1 Qg2# 0-1

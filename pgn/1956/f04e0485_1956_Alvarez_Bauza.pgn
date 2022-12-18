@@ -1,0 +1,17 @@
+[Event "Montevideo"]
+[Site "Montevideo"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Alvarez del Monte, Jose Luis"]
+[Black "Bauza, Lorenzo"]
+[Result "1-0"]
+[ECO "A81"]
+[Opening "Dutch defence"]
+[HashCode "f04e0485"]
+[Epoch "Bishop"]
+[BlackCountry "URY"]
+[WhiteCountry "URY"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. b3 Bg7 5. Bb2 O-O 6. c4 c5 7. d5 d6 8. Nd2 Na6
+9. Nh3 Rb8 10. Nf4 b5 11. h4 Bh6 12. e3 Ng4 13. Kf1 Ne5 14. h5 g5 15. Ng6 hxg6
+16. hxg6 Bg7 17. Qh5 Re8 18. f4 e6 19. fxe5 exd5 20. Bxd5+ Kf8 21. exd6 1-0

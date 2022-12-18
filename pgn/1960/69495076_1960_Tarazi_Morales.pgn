@@ -1,0 +1,21 @@
+[Event "Leipzig olm prel"]
+[Site "Leipzig"]
+[Date "1960.??.??"]
+[Round "9"]
+[White "Tarazi, Andre"]
+[Black "Morales, J."]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "69495076"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 d6 8.
+h3 O-O 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. dxe5
+dxe5 15. Bb3 Bb7 16. Nf1 Rad8 17. Qe2 Na5 18. Bc2 Bb4 19. Rd1 Rxd1 20. Qxd1
+Nxe4 21. Qe2 Nf6 22. Nxe5 Re8 23. f4 Nc6 24. Be3 Nxe5 25. fxe5 Qxe5 26. Qf2
+Ne4 27. Bxe4 Qxe4 28. Rd1 Qc6 29. a3 Bd6 30. b4 Be5 31. Bc5 Bf6 32. Rd6 Qe4
+33. Rd7 Bc6 34. Rc7 h6 35. Ne3 Qb1+ 36. Nf1 Bd5 37. Ra7 Bc4 38. Rxa6 Re1
+39. Rxf6 gxf6 0-1
+

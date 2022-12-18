@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Neistadt, J."]
+[Black "Jablonski, J."]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred, Rubinstein variation"]
+[HashCode "ea71f9c2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Nf6 6. Bxc6+ bxc6 7. d4 Nxe4
+8. Re1 f5 9. dxe5 d5 10. Nd4 Bc5 11. c3 Qh4 12. f3 Nf2 13. g3 Qh5 14. Kxf2
+Qxh2+ 15. Ke3 Qxg3 16. Kd2 O-O 17. b3 f4 18. Kc2 Bxd4 19. cxd4 Qf2+ 20. Bd2
+Qxd4 21. Bc3 Bf5+ 22. Kb2 Qf2+ 23. Ka3 Be6 24. Bd4 Qh4 25. Bc5 Rf5 26. Nc3
+Qh5 27. Ne2 Rxe5 28. Nxf4 Qf5 29. Qd4 Rxe1 30. Rxe1 Re8 31. Rg1 g6 32. Nxg6
+hxg6 33. Rh1 1-0
+

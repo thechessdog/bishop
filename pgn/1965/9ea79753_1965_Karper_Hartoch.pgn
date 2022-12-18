@@ -1,0 +1,35 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1965.07.01"]
+[Round "5"]
+[White "Karper, G."]
+[Black "Hartoch, Robert G"]
+[Result "0-1"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation, 4.Nf3"]
+[HashCode "9ea79753"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. Bg5 Be7 6. e3 O-O 7. Be2 Ne8 8.
+Bxe7 Qxe7 9. Qc2 c6 10. O-O-O a6 11. d5 c5 12. h4 f5 13. g3 Ndf6 14. Ng5 Rb8
+15. Rdg1 h6 16. Nh3 Ng4 17. Qd2 e4 18. Nf4 Ne5 19. h5 Nf6 20. Qc2 Bd7 21. a4
+Qe8 22. b3 Qe7 23. Kd2 Nh7 24. Ng6 Nxg6 25. hxg6 Nf6 26. Ra1 a5 27. Rh4 Be8 28.
+Bh5 Nxh5 29. Rxh5 Bxg6 30. Rh2 Bf7 31. Rah1 h5 32. Ne2 Qe5 33. Nf4 g6 34. Qc3
+Qxc3+ 35. Kxc3 Kg7 36. Kd2 Kf6 37. Ne2 Rh8 38. Nc3 Be8 39. Ke2 Bd7 40. Rh4 Rh7
+41. Kd2 Rbh8 42. R4h2 g5 43. Ne2 h4 44. Ke1 Be8 45. Nc3 Kg6 46. gxh4 Rxh4 47.
+Rxh4 Rxh4 48. Rg1 Kf6 49. Ne2 Bh5 50. Nc3 Bg4 51. Nb5 Ke5 52. Nc7 Rh5 53. Ne6
+Kf6 54. Nd8 b6 55. Nc6 Bf3 56. Na7 Ke7 57. Nc6+ Kd7 58. Nb8+ Ke8 59. Nc6 Rh1
+60. Rxh1 Bxh1 61. Na7 Bf3 62. Nb5 Ke7 63. Nc7 Bh5 64. Ne6 Kf6 65. Kd2 Bf7 66.
+Nc7 Ke7 67. Nb5 Be8 68. Nc3 Bd7 69. Ke1 Kf6 70. Kf1 Ke5 71. Kg2 f4 72. Kh2 Be8
+73. Kg2 Bh5 74. Kh2 Bf3 75. Kg1 g4 76. Kf1 g3 77. exf4+ Kxf4 78. fxg3+ Kxg3 79.
+Ke1 Kf4 80. Nb5 Ke5 81. Kd2 e3+ 82. Kxe3 Bd1 83. Kd3 Bxb3 84. Kc3 Bxa4 85. Nc7
+Bd7 86. Na8 b5 87. cxb5 Bxb5 88. Nc7 Bd7 89. Kc4 Kf6 90. Na6 a4 91. Nc7 Ke7 92.
+Kc3 Kd8 93. Na8 Kc8 94. Nb6+ Kc7 95. Nc4 Bb5 96. Ne3 Bd7 97. Kb2 Kd8 98. Kc3
+Ke7 99. Kb2 Bb5 100. Nf5+ Kd7 101. Ne3 Bd3 102. Ka3 Ke7 103. Kxa4 Kf6 104. Kb3
+Ke5 105. Kc3 Be2 106. Kd2 Bf3 107. Kd3 Bxd5 108. Ng4+ Ke6 109. Ne3 Ba2 110. Nd1
+d5 111. Nc3 Bc4+ 112. Kd2 d4 113. Ne4 Kd5 114. Nf6+ Ke5 115. Nd7+ Kd6 116. Nf6
+Bb5 117. Ne4+ Kd5 118. Nf6+ Ke5 119. Ng4+ Kd6 120. Nf2 c4 121. Kc2 Bd7 122. Kb2
+Bf5 123. Ka3 Kc5 124. Nh1 d3 125. Kb2 Kd4 126. Nf2 c3+ 127. Kc1 d2+ 128. Kd1
+Ke3 129. Nd3 Bg4+ 0-1

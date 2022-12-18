@@ -1,0 +1,19 @@
+[Event "France"]
+[Site "France"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Muffang, Andre"]
+[Black "Devos, Paul"]
+[Result "1-0"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "54ede48b"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a3 Be7 8.
+Qe2 b5 9. Ba2 Bb7 10. dxc5 Bxc5 11. b4 Ba7 12. Bb2 O-O 13. Nbd2 Ne4 14.
+Rfd1 Qe7 15. Rac1 Nxd2 16. Qxd2 Bb6 17. Qc3 f6 18. Nd4 Bxd4 19. Qxd4 Nc6
+20. Qc5 Rfe8 21. Rd6 Nd8 22. Qd4 Bc8 23. h4 Kh8 24. Bb1 Rb8 25. Qe4 f5 26.
+Qe5 Ra8 27. Rc7 1-0
+

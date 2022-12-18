@@ -1,0 +1,21 @@
+[Event "Essen"]
+[Site "Essen"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Elm"]
+[Black "Lange"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "c27c6ea7"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4 4. Nxe4 dxe4 5. Qd2 h6 6. Bf4 Nd7 7. O-O-O
+Nb6 8. e3 c6 9. f3 Bf5 10. Kb1 Nd5 11. fxe4 Bxe4 12. Bd3 Bxd3 13. Qxd3 e6
+14. Be5 Nb4 15. Qe2 Qd5 16. b3 Qe4 17. Nh3 Nd5 18. Rd3 a5 19. Qf3 Qxf3 20.
+gxf3 a4 21. c4 Nb4 22. Rc3 axb3 23. Rxb3 c5 24. a3 Nc6 25. Rxb7 cxd4 26.
+exd4 Nxe5 27. dxe5 Bxa3 28. Rd1 O-O 29. Rdd7 Bc5 30. Nf4 Rab8 31. Rxb8
+Rxb8+ 32. Kc2 Kf8 33. Nd3 Rc8 34. Kc3 Ke8 35. Rb7 Bg1 36. h3 g5 37. Rb1 Be3
+38. Rb5 Ra8 39. c5 Ra3+ 40. Kc4 Ra4+ 41. Kb3 Ra7 42. Nb4 Kd7 43. Kc4 Bd2
+44. Rb6 Bxb4 45. Kxb4 Kc7 46. Kb5 Ra3 47. Rc6+ Kb7 48. Rb6+ Kc7 1/2-1/2
+

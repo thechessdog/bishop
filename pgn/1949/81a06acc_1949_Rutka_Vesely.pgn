@@ -1,0 +1,18 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Rutka"]
+[Black "Vesely, Jiri"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "81a06acc"]
+[Epoch "Bishop"]
+[BlackID "353280"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7. Ke3
+Qe7 8. Kxe4 d5+ 9. Bxd5 Qh4+ 10. g4 Bxg4 11. Qe1 Bf5+ 12. Kf3 Nd4+ 13. Kg2 Bh3+
+14. Kg1 Qxe1# 0-1

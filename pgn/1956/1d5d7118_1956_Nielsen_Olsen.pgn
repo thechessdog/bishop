@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Nielsen, E Verner"]
+[Black "Olsen, Svend"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "1d5d7118"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 Bxd3
+8. Qxd3 e6 9. O-O Ngf6 10. Re1 Be7 11. Bd2 O-O 12. c4 c5 13. Bc3 cxd4 14.
+Nxd4 Rc8 15. b3 a6 16. Rad1 Nb8 17. Qe3 Qb6 18. Ndf5 Bc5 19. Ne7+ Kh8 20.
+Nxc8 Rxc8 21. Bd4 Nbd7 22. h3 Bxd4 23. Qxd4 Qxd4 24. Rxd4 g6 25. Ne4 Kg7
+26. Red1 Rc7 27. f3 e5 28. Nxf6 Nxf6 29. Rd6 e4 30. Kf2 Re7 31. Re1 h6 32.
+Rd4 1-0
+

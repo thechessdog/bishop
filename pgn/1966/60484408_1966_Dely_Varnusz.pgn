@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Dely, Peter"]
+[Black "Varnusz, Egon"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "60484408"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Bg5 Na6 9. Bc4 Nc7 10. a4 b6 11. Nf3 Bb7 12. Bxf6 Bxf6 13. O-O Qd6 14. a5 Rab8
+15. axb6 axb6 16. Qa3 b5 17. Qxd6 exd6 18. Bb3 Ra8 19. Rac1 Rfc8 20. Rfe1 Kf8
+21. Ne4 Be7 22. Ne5 dxe5 23. d6 Bxe4 24. dxe7+ Kxe7 25. Rxe4 Ne6 26. Rce1 exd4
+27. Bxe6 1/2-1/2

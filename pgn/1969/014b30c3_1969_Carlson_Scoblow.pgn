@@ -1,0 +1,14 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Scoblow"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez (Spanish opening)"]
+[HashCode "014b30c3"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bd6 4. O-O Nge7 5. Ng5 Nd4 6. Bc4 O-O 7. c3 Bc5 8.
+cxd4 exd4 9. Qh5 Qe8 10. Qxh7# 1-0

@@ -1,0 +1,16 @@
+[Event "Cienfuegos"]
+[Site "Cienfuegos"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Triana"]
+[Black "Razuvaev, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "1aae5f1a"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Nc3 O-O-O 9. Be3 Ne7 1/2-1/2

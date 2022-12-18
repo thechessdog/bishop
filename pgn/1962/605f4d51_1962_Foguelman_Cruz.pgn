@@ -1,0 +1,20 @@
+[Event "Argentina"]
+[Site "Buenos Aires"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Foguelman, Alberto"]
+[Black "Cruz, Raul C."]
+[Result "1/2-1/2"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, 4...c5, 5.dc Nc6"]
+[HashCode "605f4d51"]
+[Epoch "Bishop"]
+[WhiteID "101435"]
+[BlackID "5215234"]
+[WhiteCountry "ARG"]
+[BlackCountry "PHI"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Bd2 Bxc5 7. e3 O-O 8.
+Rc1 b6 9. Nf3 Bb7 10. Be2 d5 11. cxd5 exd5 12. Na4 Bd6 13. O-O Qe7 14. Rfd1 d4
+15. Bb5 dxe3 16. Qxe3 1/2-1/2

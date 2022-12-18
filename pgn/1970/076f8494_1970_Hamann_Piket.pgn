@@ -1,0 +1,25 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1970.07.01"]
+[Round "9"]
+[White "Hamann, Svend"]
+[Black "Piket, Joop J"]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Czech Benoni defence"]
+[HashCode "076f8494"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+[BlackID "1001256"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Bd3 O-O 7. Nf3 Ne8 8. h3 Nd7
+9. g4 Kh8 10. Qc2 Ndf6 11. a3 Bd7 12. b4 b6 13. Be3 g6 14. Nd2 Ng8 15. f4 exf4
+16. Bxf4 Bh4+ 17. Kd1 Bg5 18. Bh2 Qf6 19. Rf1 Ba4 20. Nb3 Bxb3 21. Qxb3 Qd4 22.
+Rf3 Qg7 23. Kc2 f6 24. Raf1 Qe7 25. bxc5 bxc5 26. Bg3 Bh6 27. Rb1 Rd8 28. Ne2
+Bg7 29. Nf4 Nc7 30. Qb7 Rd7 31. Qc6 Nh6 32. Ne2 Nf7 33. h4 Na8 34. Nc3 Nb6 35.
+a4 Rc7 36. Qb5 Nd7 37. Rff1 Nde5 38. Be2 Nh6 39. Qa6 Rd7 40. Rf4 Rfd8 41. Qb5
+g5 42. Rff1 Nhxg4 43. Rh1 Nh6 44. a5 Ng6 45. h5 Nf4 46. Bxf4 gxf4 47. Bd3 Qe5
+48. Rbe1 f5 49. Na4 Ng4 50. exf5 Ne3+ 51. Kd2 Qd4 52. h6 Bf6 53. Rhg1 Re7 54.
+Rh1 Ree8 55. Qa6 Rb8 56. Rb1 Rxb1 57. Rxb1 Rg8 58. Re1 f3 0-1

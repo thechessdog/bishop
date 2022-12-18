@@ -1,0 +1,18 @@
+[Event "Munich olm fin-C"]
+[Site "Munchen olm"]
+[Date "1958.01.01"]
+[Round "7"]
+[White "Walsh, J."]
+[Black "Heidenfeld, Wolfgang"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "f6f4e23d"]
+[Epoch "Bishop"]
+[BlackCountry "IRL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Qb6 7. Ne2 f6 8. c3 Nc6
+9. g4 cxd4 10. cxd4 fxe5 11. fxe5 Bb4+ 12. Bd2 O-O 13. Bg2 Ndxe5 14. dxe5 Nxe5
+15. Qb3 Bxd2+ 16. Kxd2 Nxf3+ 17. Bxf3 Qxb3 18. axb3 Rxf3 19. Nd4 Rf4 20. Nb5
+Bd7 0-1

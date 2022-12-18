@@ -1,0 +1,18 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Weltmander, J."]
+[Black "Reich, H."]
+[Result "1-0"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "4ef07c90"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 e6 5. Bg5 Bg7 6. e3 c6 7. Be2 Nbd7 8.
+O-O O-O 9. Qc2 Qc7 10. Bf4 Qd8 11. Rfd1 b6 12. b4 dxc4 13. Bxc4 Nd5 14. Bd6
+Re8 15. Rab1 Bb7 16. Ne2 b5 17. Bd3 Ne7 18. e4 Nb6 19. Be5 f6 20. Bg3 a5
+21. Qb3 Qd7 1-0
+

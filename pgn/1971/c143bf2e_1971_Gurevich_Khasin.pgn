@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Gurevich, Vladimir"]
+[Black "Khasin, Abram"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "c143bf2e"]
+[Epoch "Bishop"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 d6 5. e4 Nf6 6. Be2 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Bg4 11. Nd2 Bxe2 12. Qxe2 Re8 13. Qd3 Nbd7 14. Qc2 Nh5
+15. g3 Rc8 16. a5 c4 17. Ra4 Ne5 18. f4 Nd3 19. Nxc4 Nc5 20. Rb4 Bxc3 21. bxc3
+Nxe4 22. Bb2 Nexg3 23. hxg3 Nxg3 24. Qh2 Nxf1 25. Kxf1 Qe7 26. Qf2 Qe4 0-1

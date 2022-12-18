@@ -1,0 +1,22 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Hoehne"]
+[Black "Schober"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "fd6ce277"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. Nc3 d5 3. e4 Nc6 4. Bb5 Nf6 5. Nf3 Bb4 6. Bg5 dxe4 7. Ne5 Qd5
+8. O-O Bxc3 9. Bxc6+ bxc6 10. bxc3 c5 11. Bxf6 gxf6 12. Ng4 Ke7 13. Rb1
+cxd4 14. cxd4 Ba6 15. Re1 Rhd8 16. c3 Bd3 17. Rb2 Rab8 18. Qd2 Qa5 19. Rc1
+Qa3 20. Rb3 Rxb3 21. axb3 h5 22. Ne3 Qxb3 23. h3 Rb8 24. Ra1 a5 25. Rxa5
+Qb1+ 26. Kh2 Rb2 27. Qd1 Qxd1 28. Nxd1 Rd2 29. Ra1 Be2 30. Ne3 h4 31. Rc1
+Bd3 32. Kg1 f5 33. g3 Re2 34. Ng2 e3 35. f3 hxg3 36. c4 Rd2 37. Nxe3 Be2
+38. f4 Bf3 39. Rc3 Be4 40. c5 Rh2 41. Nd5+ Bxd5 42. Rxg3 Rd2 43. h4 Rxd4
+44. h5 Rxf4 45. Rh3 Rg4+ 0-1
+

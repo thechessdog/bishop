@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Nemes, J."]
+[Black "Halasz"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "2f807835"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. d4 e4 5. Ne5 Nf6 6. Bb5+ Bd7 7. Qe2 O-O
+8. Nc3 Re8 9. Bf4 Bb4 10. Bxd7 Nbxd7 11. O-O Bxc3 12. bxc3 Nxd5 13. Qd2
+Nxf4 14. Qxf4 Nxe5 15. dxe5 Qd5 16. e6 Qxe6 17. Qxc7 Re7 18. Qa5 b6 19. Qb4
+Rc8 20. Rfd1 e3 21. fxe3 Qxe3+ 22. Kh1 Rce8 23. Qd4 Qg5 24. Rf1 Re2 25. Rf2
+Re1+ 26. Rf1 Rxa1 27. Rxa1 Rd8 28. Qe4 Qd5 29. Qe2 Qd2 30. Qf3 Qxc2 31. Rf1
+Qxa2 32. Qc6 Qd5 33. Qa4 Qd3 34. Re1 g6 35. Re8+ Kg7 36. h3 Qd1+ 0-1
+

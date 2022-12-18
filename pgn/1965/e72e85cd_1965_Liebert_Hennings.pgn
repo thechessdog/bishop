@@ -1,0 +1,17 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Liebert"]
+[Black "Hennings"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "e72e85cd"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. e3 Nbd7 5. Bd3 Bxd3 6. cxd3 e6 7. Nf3 Be7
+8. O-O O-O 9. h3 c5 10. dxc5 Nxc5 11. Bxf6 Bxf6 12. d4 Nd7 13. Qb3 Qb6 14.
+Rfc1 Rfc8 15. Qxb6 Nxb6 16. Nb5 Rxc1+ 17. Rxc1 Rc8 18. Rxc8+ Nxc8 19. b3 a6
+20. Nc3 1/2-1/2
+

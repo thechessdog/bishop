@@ -1,0 +1,17 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Milic, Borislav"]
+[Result "1/2-1/2"]
+[ECO "E64"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav system"]
+[HashCode "87e965cf"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c5 7. h3 Nc6 8. Be3
+cxd4 9. Nxd4 Bd7 10. Rc1 Rc8 11. b3 Qa5 12. Qd2 Nxd4 13. Bxd4 Bc6 14. O-O Bxg2
+15. Kxg2 Ne4 16. Qe3 Bxd4 17. Qxd4 Nxc3 18. Rxc3 e5 1/2-1/2

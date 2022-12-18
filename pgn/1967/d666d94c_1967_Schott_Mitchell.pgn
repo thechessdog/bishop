@@ -1,0 +1,16 @@
+[Event "corr Eberhardt-Wilhelm"]
+[Site "corr Eberhardt-Wilhelm"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Schott, P."]
+[Black "Mitchell, G."]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld with e3    Bd3"]
+[HashCode "d666d94c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd3 c5 7. cxd5 Nxd5 8.
+O-O Nc6 9. Nxd5 Qxd5 10. e4 Qd6 11. dxc5 Qxc5 12. Qe2 Bg4 13. h3 Nd4 14.
+Qd1 Nxf3+ 15. gxf3 Bxh3 16. Be3 Bd4 0-1
+

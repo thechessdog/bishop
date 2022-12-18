@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Wikstrom, B."]
+[Black "Sagorowskij, V."]
+[Result "0-1"]
+[ECO "D98"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Keres variation"]
+[HashCode "ac63791c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4
+8. Be3 Nfd7 9. Be2 Nb6 10. Qd3 Nc6 11. O-O-O Bxf3 12. Bxf3 e5 13. d5 Nd4
+14. Bxd4 exd4 15. Nb5 c5 16. dxc6 bxc6 17. Na3 c5 18. Kb1 Rc8 19. Rc1 c4
+20. Nxc4 Nxc4 21. Rxc4 Rxc4 22. Qxc4 d3 23. e5 Bxe5 24. Rd1 Qb6 25. Rd2 Rb8
+26. b3 Bg7 27. Rxd3 Qxf2 28. Qc2 Qe1+ 29. Qd1 Qe7 30. Rd6 Re8 31. Qd2 Qe5
+32. Kc2 Qb2+ 33. Kd3 Qa3 0-1
+

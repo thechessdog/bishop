@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Herzog, F."]
+[Black "Lang, H."]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "4decb989"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. cxd5 exd5 8.
+Bd2 Nc6 9. a3 cxd4 10. exd4 Bd6 11. O-O Be6 12. Rc1 Rc8 13. b4 a5 14. b5
+Ne7 15. Qb3 Ne4 16. Be1 Nf5 17. Qb2 Qf6 18. Rd1 Qh6 19. Ng3 Rxc3 20. Bxc3
+Nfxg3 21. fxg3 Qe3+ 22. Kh1 Nxg3+ 23. hxg3 Qxg3 24. Kg1 Bh3 0-1
+

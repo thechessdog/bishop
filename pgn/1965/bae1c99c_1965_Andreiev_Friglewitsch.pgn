@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Andreiev"]
+[Black "Friglewitsch"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "bae1c99c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. e5 Nc6 6. Qh4 Nxe5 7. Nxe5
+Qa5+ 8. Nc3 Qxe5+ 9. Be2 Bg7 10. Bf4 Qa5 11. O-O-O O-O 12. Rd3 e6 13. g4
+Re8 14. Rh3 e5 15. Bg5 Re6 16. Bc4 d5 17. Nxd5 Nxd5 18. Bxd5 Qxd5 19. Rd1
+Qc6 20. Qxh7+ Kf8 21. Bh6 Bxh6+ 22. Qxh6+ Ke7 23. Qg5+ Rf6 24. Qxe5+ Kf8
+25. Rd8+ Kg7 26. Rdh8 1-0
+

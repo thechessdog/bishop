@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Sommovigo"]
+[Black "Meystre"]
+[Result "1-0"]
+[ECO "A47"]
+[Opening "Queen's Indian"]
+[Variation "Marienbad system"]
+[HashCode "4f8c46bb"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. O-O cxd4 6. Nxd4 Bxg2 7. Kxg2
+Qc8 8. Nc3 g6 9. Bg5 Bg7 10. e4 Nc6 11. Re1 h6 12. Be3 Ne5 13. f4 Nc4 14.
+e5 Nxb2 15. Qf3 Nh7 16. Nd5 Rb8 17. f5 Nc4 18. fxg6 Nxe5 19. gxf7+ Nxf7 20.
+Bxh6 Be5 21. Rxe5 Nxe5 22. Qh5+ Nf7 23. Bg7 1-0
+

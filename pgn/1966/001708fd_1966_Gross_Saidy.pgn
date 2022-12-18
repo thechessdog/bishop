@@ -1,0 +1,19 @@
+[Event "Seattle US op"]
+[Site "Seattle US op"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Gross, Georg"]
+[Black "Saidy"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "001708fd"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 f5 3. Bg5 Nf6 4. Bxf6 exf6 5. e3 c6 6. Bd3 g6 7. Qf3 Be6 8.
+Nge2 Qd7 9. Nf4 Rg8 10. Nce2 a5 11. h4 h5 12. Nxe6 Qxe6 13. Nf4 Qf7 14. Rc1 b5
+15. a4 b4 16. c4 bxc3 17. bxc3 Na6 18. O-O Bd6 19. c4 Nb4 20. cxd5 Bxf4 21.
+exf4 cxd5 22. Rc5 Kf8 23. Rfc1 Ra7 24. Qg3 Nxd3 25. Qxd3 Kg7 26. Qb5 Rd8 27.
+Qb6 Rdd7 28. Rxa5 Rab7 29. Qa6 Rb4 30. Qc8 Rxd4 31. Ra8 Kh6 32. Qh8+ Qh7 33.
+Qxf6 1-0

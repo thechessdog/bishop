@@ -1,0 +1,20 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Saligo"]
+[Black "Bosjoer"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Paulsen variation"]
+[HashCode "c6201904"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. O-O d6 8.
+cxd4 Bb6 9. d5 Na5 10. Bb2 Ne7 11. Bd3 O-O 12. Nc3 Ng6 13. Ne2 c5 14. Rc1
+Rb8 15. e5 Bc7 16. Nc3 a6 17. Ne4 b6 18. Nfg5 h6 19. Nf6+ gxf6 20. exf6 Ne5
+21. Bxe5 dxe5 22. Qf3 Re8 23. Ne6 Rxe6 24. Qg4+ Kf8 25. Qg7+ Ke8 26. dxe6
+Bxe6 27. Rfd1 Bd6 28. Bxa6 Nc6 29. Bb5 Kd7 30. Rd2 Kc7 31. Bxc6 Kxc6 32.
+Rcd1 c4 33. Qxh6 c3 34. Rd3 b5 35. Rxc3+ Kd7 36. Qe3 b4 37. Rxd6+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Nyvang"]
+[Black "Moller"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "cca3c182"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 c5 5. e5 Nfd7 6. Ngf3 cxd4 7. O-O Nc6
+8. Re1 Be7 9. Nb3 O-O 10. Nbxd4 Nxd4 11. Nxd4 Nc5 12. Be2 f6 13. exf6 Bxf6
+14. Nb3 Ne4 15. Bd3 Nxf2 16. Kxf2 Bd4+ 17. Kg3 Bf2+ 0-1
+

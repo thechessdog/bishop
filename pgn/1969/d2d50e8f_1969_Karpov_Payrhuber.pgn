@@ -1,0 +1,17 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Karpov, Anatoly"]
+[Black "Payrhuber, K."]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "d2d50e8f"]
+[Epoch "Bishop"]
+[WhiteID "4100026"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. g3 Nf6 4. d3 Nc6 5. Bg2 g6 6. O-O Bg7 7. Re1 O-O 8. c3
+Ne8 9. Na3 f5 10. Ng5 Nc7 11. Qb3+ Kh8 12. exf5 Bxf5 13. Nf7+ Rxf7 14. Qxf7 e6
+15. Bg5 1-0

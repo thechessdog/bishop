@@ -1,0 +1,21 @@
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Planinc, Albin"]
+[Black "Kurajica, Bojan"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "8ed6d32f"]
+[Epoch "Bishop"]
+[BlackID "14400057"]
+[WhiteCountry "SVN"]
+[BlackCountry "BIH"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. d4 e6 5. h3 Bh5 6. g4 Bg6 7. Ne5 Bxe4 8. Nxe4
+dxe4 9. Bg2 Nd7 10. Nxd7 Qxd7 11. Bxe4 Nf6 12. Bg2 Rd8 13. c3 Bd6 14. Bg5 Qc7
+15. Qf3 Ke7 16. O-O h6 17. Bh4 g5 18. Bg3 h5 19. c4 hxg4 20. hxg4 Rh6 21. Rad1
+Kf8 22. Rd2 Kg7 23. a3 a5 24. Re1 Bxg3 25. fxg3 Rg6 26. Bf1 e5 27. Rxe5 Rxd4
+28. Rxd4 Qxe5 29. Rd2 Ne4 30. Re2 Re6 31. Bg2 Nd2 0-1

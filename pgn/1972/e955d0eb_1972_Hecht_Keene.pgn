@@ -1,0 +1,22 @@
+[Event "Teeside"]
+[Site "Teeside"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Hecht, Hans-Joachim"]
+[Black "Keene, Raymond D"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "e955d0eb"]
+[Epoch "Bishop"]
+[WhiteID "4600320"]
+[BlackID "400211"]
+[WhiteCountry "DEU"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. Nc3 Bg7 3. g3 c5 4. Bg2 Nc6 5. d3 d6 6. Be3 Rb8 7. Nf3 Nf6 8. h3 b5
+9. Qd2 b4 10. Nd1 Ba6 11. Nh4 O-O 12. O-O c4 13. f4 Qc7 14. Rf2 Rfd8 15. d4 d5
+16. e5 Ne4 17. Bxe4 c3 18. bxc3 dxe4 19. Kh2 e6 20. Qe1 Bf8 21. f5 exf5 22. Bg5
+bxc3 23. Bxd8 Qxd8 24. Qxc3 Rc8 25. Ne3 Qxd4 26. Qxd4 Nxd4 27. Rd1 Nc6 28. Rd5
+Re8 29. g4 Bh6 30. Nexf5 gxf5 31. Nxf5 Bf8 32. Nd6 Rxe5 0-1

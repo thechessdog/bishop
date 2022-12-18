@@ -1,0 +1,17 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Pupols, Viktors"]
+[Black "Kotek, J."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "5ec27e26"]
+[Epoch "Bishop"]
+[WhiteID "2008009"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 f5 3. d4 fxe4 4. Nxe5 Nf6 5. Bg5 d6 6. Nc3 dxe5 7. dxe5 Qxd1+
+8. Rxd1 Nfd7 9. Nd5 Nc5 10. Nxc7+ Kf7 11. Nxa8 Ne6 12. Bc4 Na6 13. Be3 b6 14.
+Bxa6 Bxa6 15. Nc7 1-0

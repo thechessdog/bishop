@@ -1,0 +1,19 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Schneider, K."]
+[Black "Schreiber"]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Simagin variation"]
+[HashCode "4022f296"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nh4 exd4 12. cxd4 Nb6 13. Nf3 c5 14. Bg5
+Bb7 15. Nbd2 Re8 16. e5 dxe5 17. dxc5 Bxc5 18. Rxe5 Nbd7 19. Rxe8+ Qxe8 20.
+Bxf6 Nxf6 21. Ng5 Qc6 22. Ndf3 Qb6 23. Bxf7+ Kf8 24. Ne5 Bd6 25. Qe2 Bxe5
+26. Qxe5 Qc6 27. f3 Nd7 28. Qf4 Nf6 29. Qb4+ 1-0
+

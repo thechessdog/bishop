@@ -1,0 +1,16 @@
+[Event "Omaha"]
+[Site "Omaha"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Martinson, J."]
+[Black "Vincent, Patrick"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, 3...e4"]
+[HashCode "0cb435ff"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Nc3 Nf6 5. d3 Bb4 6. Bd2 exd3 7. Bxd3 O-O 8.
+Nge2 Bg4 9. h3 Bxe2 10. Nxe2 Bxd2+ 11. Qxd2 Qxd5 12. O-O-O Qxa2 13. Qc3 Nc6 14.
+Kd2 Rad8 15. Ke1 Nd5 16. Qd2 Qxb2 17. Kf2 Ncb4 0-1

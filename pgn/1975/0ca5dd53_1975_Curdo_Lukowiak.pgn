@@ -1,0 +1,19 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Curdo, John"]
+[Black "Lukowiak, W."]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "0ca5dd53"]
+[Epoch "Bishop"]
+[WhiteID "2001705"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Nxd5 6. exd5 Bb4+ 7. Bd2 Qe7+
+8. Qe2 Bxd2+ 9. Kxd2 Qxe2+ 10. Bxe2 Nb4 11. Bc4 c5 12. Rhe1+ Kf8 13. a3 b5 14.
+axb4 bxc4 15. bxc5 Bb7 16. Ne5 Bxd5 17. Nxd7+ Kg8 18. Nb6 c3+ 19. bxc3 dxc3+
+20. Kxc3 1-0

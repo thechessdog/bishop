@@ -1,0 +1,24 @@
+[Event "London open"]
+[Site "London open"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Bellin, Robert"]
+[Black "Botterill, George S."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "cbc0625c"]
+[Epoch "Bishop"]
+[WhiteID "400343"]
+[BlackID "1800035"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. e5
+Nd7 9. Be4 f6 10. exd6 exd6 11. h3 Bxf3 12. Bxf3 f5 13. Ne2 Qf6 14. c3 Nb6 15.
+a4 a5 16. d5 Ne7 17. Be3 Qf7 18. Bxb6 cxb6 19. Qb3 Rae8 20. Qxb6 Nxd5 21. Qxa5
+Ne3 22. Rf2 Kh8 23. Qb5 Re7 24. Nd4 Bxd4 25. cxd4 Qf6 26. Qd3 Rfe8 27. Re1 g5
+28. Bh5 Nd5 29. Rxe7 Rxe7 30. fxg5 Qxg5 31. Qxf5 Re1+ 32. Kh2 Qxf5 33. Rxf5 Ne3
+34. Rb5 Ra1 35. b3 Nf1+ 36. Kg1 Nd2+ 37. Kf2 Ra2 38. Ke3 Nf1+ 39. Kf3 Nh2+ 40.
+Ke4 Rxg2 41. Rxb7 Rg3 42. a5 1-0

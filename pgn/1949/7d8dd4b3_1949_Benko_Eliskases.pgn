@@ -1,0 +1,25 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1949.04.01"]
+[Round "6"]
+[White "Benko, Francisco"]
+[Black "Eliskases, Erich Gottlieb"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "7d8dd4b3"]
+[Epoch "Bishop"]
+[WhiteID "101753"]
+[WhiteCountry "ARG"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Be2 Bg7 8. Nb3
+a5 9. a4 O-O 10. Be3 Be6 11. Nd4 Nxd4 12. Bxd4 Qc8 13. O-O Bc4 14. Rf2 Re8 15.
+Qf1 Bxe2 16. Rxe2 Nd7 17. Bxg7 Kxg7 18. Rd2 Qc5+ 19. Qf2 Qxf2+ 20. Kxf2 Nc5 21.
+e5 dxe5 22. fxe5 Rac8 23. Rad1 Rc6 24. Rd8 Rxd8 25. Rxd8 b6 26. Ke3 Na6 27. Rd2
+Nb4 28. Kd4 Rc5 29. Ke4 e6 30. Kf4 h6 31. h4 g5+ 32. hxg5 hxg5+ 33. Kxg5 Rxe5+
+34. Kf4 Re1 35. Rd6 Rc1 36. Rxb6 Rxc2 37. Rb5 Rxg2 38. Rxa5 Rxb2 39. Rg5+ Kf6
+40. Ne4+ Ke7 41. Ra5 Nd5+ 42. Ke5 f6+ 43. Kd4 Rb4+ 44. Kd3 Kf7 45. Nc5 e5 46.
+Ra7+ Kg6 47. a5 Rd4+ 48. Ke2 Rc4 49. Nd7 e4 50. Nf8+ Kf5 51. Rd7 Rc2+ 52. Ke1
+Nf4 53. a6 e3 54. a7 Ra2 0-1

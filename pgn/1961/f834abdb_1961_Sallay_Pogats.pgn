@@ -1,0 +1,18 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1961.10.01"]
+[Round "1"]
+[White "Sallay, Roland"]
+[Black "Pogats, Jozsef Jr."]
+[Result "0-1"]
+[ECO "E28"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "f834abdb"]
+[Epoch "Bishop"]
+[BlackID "744450"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. e3 d6 7. Bd3 e5 8. Ne2
+e4 9. Bb1 Be6 10. Ng3 Bxc4 11. Nxe4 Nxe4 12. Bxe4 c6 13. Qh5 g6 14. Qh6 Qa5 15.
+Bd2 Nd7 16. h4 Qh5 17. Qf4 Qe2# 0-1

@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Skopolik, V."]
+[Black "Jansma, J."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "e868a4a6"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. Bb5 Ne7 6. exd5 exd5 7. Qe2 Qd6
+8. d4 a6 9. dxc5 Qxc5 10. Be3 Qb4 11. Bxc6+ bxc6 12. O-O Bg4 13. a3 Qd6 14.
+b4 Bxf3 15. Rxf3 Qe6 16. Qf2 Nf5 17. Re1 Kd7 18. Na4 Re8 19. Bd2 Qf6 20.
+Qa7+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Papp, Bela"]
+[Black "Solt"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "84e21a80"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. d4 Nf6 7. Bg5 Be7 8.
+Bxf6 Bxf6 9. e5 Be7 10. O-O-O c5 11. dxc5 Bxc5 12. Ne4 Be7 13. Qg3 O-O 14.
+Kb1 Nd7 15. h4 Qc7 16. Ng5 Qxe5 17. f4 Qc7 18. Bd3 h6 19. Qh3 Bf6 20. c3
+Qb6 21. Bc2 Rfc8 22. Ka1 d4 23. Qd3 dxc3 24. b3 Nc5 25. Qh7+ Kf8 26. Rb1
+Qb4 27. Rhe1 Ke7 28. Nxf7 Kxf7 29. Qg6+ Ke7 30. f5 Rc6 31. fxe6 Nxe6 32.
+Re4 Qa3 33. g4 Rd8 34. g5 Qb2+ 35. Rxb2 cxb2+ 36. Kb1 Rd1+ 0-1
+

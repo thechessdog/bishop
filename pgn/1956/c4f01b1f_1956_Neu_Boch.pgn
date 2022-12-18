@@ -1,0 +1,17 @@
+[Event "corr BdF-cup3"]
+[Site "corr BdF-cup3"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Neu, K."]
+[Black "Boch, W."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "c4f01b1f"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Qg4 Kf8 8.
+Nf3 Qc7 9. Bd3 Nc6 10. O-O Nxe5 11. Nxe5 Qxe5 12. Bf4 Qf6 13. Qg3 cxb2 14.
+Bg5 bxa1=Q 15. Qd6+ 1-0
+

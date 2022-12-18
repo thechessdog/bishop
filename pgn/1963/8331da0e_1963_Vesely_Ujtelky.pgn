@@ -1,0 +1,25 @@
+[Event "CSR-ch"]
+[Site "Prague"]
+[Date "1963.??.??"]
+[Round "13"]
+[White "Vesely, Jiri"]
+[Black "Ujtelky, Maximilián Samuel Rudolf"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "8331da0e"]
+[Epoch "Bishop"]
+[WhiteID "353280"]
+[WhiteCountry "CZE"]
+[BlackCountry "SVK"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 b5 6. e5 d5 7. Bd3 e6 8. O-O Ne7
+9. Qe1 a5 10. Bd2 Nd7 11. Nd1 Qb6 12. Kh1 Nf5 13. Qf2 h5 14. Ne3 Bf8 15. a4
+Nxe3 16. Bxe3 Ba6 17. Ng5 Rg8 18. Nxf7 Be7 19. Nh6 Rg7 20. Qg3 O-O-O 21. axb5
+Bxb5 22. Bxb5 cxb5 23. f5 h4 24. Qg4 Rh7 25. fxe6 Nxe5 26. dxe5 Qxe3 27. Nf7
+Rg8 28. Nd6+ Kb8 29. Rxa5 Qxe5 30. Rxb5+ Kc7 31. Nf7 Qe4 32. Qxe4 dxe4 33. Rd1
+Ra8 34. h3 Kc6 35. c4 Bf6 36. Ne5+ Kc7 37. Rc5+ Kb6 38. Rb5+ Kc7 39. Nd7 Be7
+40. Nb6 Ra6 41. Rd7+ Kc6 42. Nc8 Bc5 43. Rxc5+ Kxc5 44. Rxh7 e3 45. Rc7+ Kb4
+46. Rb7+ Kc5 47. Rb5+ Kxc4 48. Re5 Kd4 49. e7 Ra1+ 50. Kh2 Kxe5 51. e8=Q+ Kd4
+52. Nd6 1-0

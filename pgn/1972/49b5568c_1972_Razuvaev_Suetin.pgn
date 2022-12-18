@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Suetin, Alexey S"]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "49b5568c"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 a6 6. Ne5 c5 7. Be3 Nd5 8. dxc5
+Nxe3 9. Qxd8+ Kxd8 10. fxe3 Ke8 11. c6 bxc6 12. Nxc4 Bc5 13. Nc3 a5 14. Na4
+Bb4+ 15. Kf2 Ba6 16. a3 Bxc4 17. axb4 axb4 18. Nc5 Rxa1 19. Rxa1 Ke7 20. Ra7+
+Kf6 21. Rb7 Bb5 22. Be4 Na6 23. Rxb5 cxb5 24. Nxa6 Rc8 25. Ke1 b3 26. Kd2 Kg5
+27. h3 h5 28. Bb1 f5 29. Nb4 h4 30. gxh4+ Kxh4 31. Nd3 g5 32. e4 f4 33. e5 Kxh3
+34. Nf2+ Kh4 35. Be4 g4 36. Bd3 Rc2+ 37. Ke1 Kg3 0-1

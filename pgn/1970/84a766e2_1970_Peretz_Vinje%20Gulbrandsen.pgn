@@ -1,0 +1,19 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "6"]
+[White "Peretz, Malkiel"]
+[Black "Vinje Gulbrandsen, Arne"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, normal variation"]
+[HashCode "84a766e2"]
+[Epoch "Bishop"]
+[WhiteID "2800446"]
+[WhiteCountry "ISR"]
+[BlackCountry "NOR"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. d4 Nc6 6. Bg5 e6 7. Nf3 Be7 8. Bd3
+dxc4 9. Bxc4 O-O 10. O-O a6 11. Rc1 b5 12. Bb3 Bb7 13. Bxf6 Bxf6 14. d5 exd5
+15. Bxd5 Na5 16. Bxb7 Nxb7 1/2-1/2

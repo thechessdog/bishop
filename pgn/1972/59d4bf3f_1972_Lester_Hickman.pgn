@@ -1,0 +1,20 @@
+[Event "corr USCCC1"]
+[Site "corr USCCC1"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Lester, O."]
+[Black "Hickman, H."]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "59d4bf3f"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 Bg4 6. c5 N6d7 7. Be2 e6
+8. h3 Bxf3 9. Bxf3 c6 10. O-O Be7 11. Re1 O-O 12. Bf4 Nf6 13. Nc3 Nbd7 14.
+b4 Nd5 15. Nxd5 exd5 16. b5 Nf6 17. Qa4 Qd7 18. bxc6 bxc6 19. Rab1 a5 20.
+Rb2 Rfc8 21. Reb1 Bd8 22. Rb7 Qf5 23. Bg3 h5 24. Qd1 g6 25. R1b3 Ne4 26.
+Bxe4 dxe4 27. Be5 f6 28. Rf3 Qe6 29. Rg3 fxe5 30. Qxh5 g5 31. Qh7+ Kf8 32.
+Rg7 1-0
+

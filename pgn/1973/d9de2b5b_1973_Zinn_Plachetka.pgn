@@ -1,0 +1,21 @@
+[Event "Karlovy Vary"]
+[Site "Karlovy Vary"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Zinn, Lothar"]
+[Black "Plachetka, Jan"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "d9de2b5b"]
+[Epoch "Bishop"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d3 f6 7. Be3 Be6 8.
+Nbd2 O-O-O 9. b3 Ne7 10. Nc4 Qd7 11. Ne1 g5 12. c3 Ng6 13. d4 Qf7 14. Na5 exd4
+15. cxd4 Bb4 16. Nc4 Bxc4 17. bxc4 Qxc4 18. Nd3 Bd6 19. Rb1 Nf4 20. Bxf4 gxf4
+21. Nxf4 Bxf4 22. Qg4+ Kb8 23. Qxf4 Qxd4 24. g3 Rhe8 25. Rfd1 Qxd1+ 26. Rxd1
+Rxd1+ 27. Kg2 Rd6 28. h4 c5 29. g4 Rc6 0-1

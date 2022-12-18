@@ -1,0 +1,22 @@
+[Event "Enschede zt"]
+[Site "Enschede zt"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Gligorić, Svetozar"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "965dbe4d"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+b6 9. a3 Bxc3 10. bxc3 Nbd7 11. Bd3 Bb7 12. Re1 Be4 13. Bf1 Qc7 14. Bb2 Rad8
+15. Nd2 Bb7 16. e4 e5 17. d5 Ne8 18. c4 Nd6 19. a4 Rfe8 20. Bd3 a6 21. Rc1 Rb8
+22. Nf1 Bc8 23. Ne3 Nf8 24. g3 Bd7 25. Ba3 f6 26. f3 Rec8 27. Kg2 Qd8 28. Ra1
+Qe8 29. Bc1 Qh5 30. Kg1 Rc7 31. f4 Qxd1 32. Nxd1 Ng6 33. Nc3 Rcb7 34. Be3 Re8
+35. f5 Ne7 36. a5 Rc8 37. axb6 Rxb6 38. Reb1 Rxb1+ 39. Nxb1 Nb7 40. Rxa6 Kf7
+41. Nd2 Rb8 42. Nb3 Nc8 43. Nxc5 Nxc5 44. Bxc5 1-0

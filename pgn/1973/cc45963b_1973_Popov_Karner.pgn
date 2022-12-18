@@ -1,0 +1,26 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1973.02.01"]
+[Round "1"]
+[White "Popov, Luben"]
+[Black "Karner, Hillar"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "cc45963b"]
+[Epoch "Bishop"]
+[WhiteID "2900173"]
+[WhiteCountry "FID"]
+[BlackID "4500202"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 c6 6. Bg2 Be7 7. O-O O-O 8. b3
+d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Bb2 b5 12. cxd5 cxd5 13. a3 Bb7 14. Nf3 a5 15.
+Ne5 Nb6 16. Nd3 a4 17. Nc5 Qc8 18. b4 Nc4 19. Qc2 Bc6 20. Rad1 Ra7 21. Bc1 Bf6
+22. Rfe1 g6 23. Bf1 Bg7 24. Qc3 f5 25. Nd3 h6 26. h4 Kh7 27. Bg2 Bf6 28. Ne5
+Rg7 29. Nxc4 bxc4 30. f3 g5 31. hxg5 hxg5 32. e4 g4 33. exf5 gxf3 34. Qxf3 Bg5
+35. Rxe6 Qxe6 36. fxe6 Rxf3 37. Bxf3 Bxc1 38. Rxc1 Rxg3+ 39. Kf2 Rg5 40. Rxc4
+dxc4 41. Bxc6 c3 42. Ke2 Rg1 43. Kd3 Re1 44. d5 Kg7 45. Bxa4 Kf6 46. Kxc3 Re3+
+47. Kd4 Rxa3 48. Bc6 Ke7 49. Kc5 Rc3+ 50. Kb6 Kd6 51. b5 Re3 52. Kb7 Rg3 53. b6
+Rg7+ 54. Kb8 Rg3 55. b7 Rg7 56. Ka8 1-0

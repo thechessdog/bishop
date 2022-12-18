@@ -1,0 +1,20 @@
+[Event "HUN-ch21"]
+[Site "Budapest"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Dely, Peter"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "38d1d512"]
+[Epoch "Bishop"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bb5 a6 12. Bd3 e5 13. Qc2 Re8 14. e4 exd4
+15. cxd4 Bg4 16. e5 Bxf3 17. exf6 Nxd4 18. Bxh7+ Kh8 19. fxg7+ Kxg7 20. Bb2
+Rad8 21. Rac1 Rh8 22. Qxc5 Qxc5 23. Rxc5 Kxh7 24. gxf3 Rhg8+ 0-1

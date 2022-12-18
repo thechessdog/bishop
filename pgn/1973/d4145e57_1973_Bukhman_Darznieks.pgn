@@ -1,0 +1,18 @@
+[Event "Latvia"]
+[Site "Latvia"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Bukhman, Eduard"]
+[Black "Darznieks, Artur"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "d4145e57"]
+[Epoch "Bishop"]
+[WhiteID "4102088"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. e3 Nbd7 6. Qc2 Bb4 7. Bd3 Qe7 8. O-O
+O-O 9. a3 Bd6 10. h3 Re8 11. e4 dxc4 12. Bxc4 e5 13. Be3 exd4 14. Nxd4 Nxe4 15.
+Rae1 Nef6 16. Nf5 Qf8 17. Qd2 Bc7 18. Nh6+ gxh6 19. Bxh6 Qc5 20. Nd5 1-0

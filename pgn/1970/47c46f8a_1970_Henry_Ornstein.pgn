@@ -1,0 +1,24 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Henry"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "47c46f8a"]
+[Epoch "Bishop"]
+[WhiteID "11201967"]
+[WhiteCountry "BRN"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nf3 O-O 6. Nc3 Nc6 7. O-O e5 8. d5
+Ne7 9. e4 Ne8 10. Ne1 f5 11. Nd3 Nf6 12. f3 c5 13. a3 b6 14. b4 h6 15. bxc5
+bxc5 16. Rb1 g5 17. f4 exf4 18. gxf4 Nxe4 19. Nxe4 fxe4 20. Bxe4 Bh3 21. Bg2
+Bd4+ 22. Kh1 Qd7 23. Qe2 Rf7 24. Bd2 Bg4 25. Bf3 Bxf3+ 26. Rxf3 g4 27. Rg3 h5
+28. Qe6 Nf5 29. Rg2 Re8 30. Qg6+ Ng7 31. Re1 Rxe1+ 32. Nxe1 Rf6 33. Qd3 Qf5 34.
+Re2 Qxd3 35. Nxd3 Nf5 36. Re8+ Rf8 37. Rxf8+ Kxf8 38. Kg2 Kf7 39. Ne1 Be3 40.
+Ba5 Bxf4 41. Nc2 0-1

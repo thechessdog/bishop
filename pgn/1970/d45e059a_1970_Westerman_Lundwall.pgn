@@ -1,0 +1,21 @@
+[Event "Dieren"]
+[Site "Dieren"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Westerman, H."]
+[Black "Lundwall"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "d45e059a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8.
+g3 Bg7 9. Bg2 O-O 10. O-O Nbd7 11. Re1 Nb6 12. e4 Nfd7 13. Qc2 Qc7 14. b3
+c4 15. Bb2 Rfc8 16. b4 Ne5 17. Nxe5 Bxe5 18. a4 Nd7 19. Bh3 Rcb8 20. Bxd7
+Qxd7 21. b5 Bc8 22. Ne2 Qh3 23. Bxe5 dxe5 24. Qxc4 Bg4 25. Qd3 h5 26. Nc3
+Rc8 27. Rec1 Bd7 28. b6 Rcb8 29. a5 h4 30. Qf1 Qg4 31. f3 Qg5 32. f4 Qf6
+33. d6 Qxd6 34. Nd5 Be6 35. Nc7 Rxb6 36. Nxa8 Rb2 37. Qd1 Rd2 38. Qf3 Qd4+
+39. Kh1 Bg4 40. Qxg4 Qxe4+ 0-1
+

@@ -1,0 +1,24 @@
+[Event "La Habana olm fin-B"]
+[Site "Havana olm"]
+[Date "1966.10.01"]
+[Round "11"]
+[White "Zuidema, Coen"]
+[Black "Kinzel, Anton"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "c95bdcae"]
+[Epoch "Bishop"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 Be7 6. Bd3 d5 7. O-O Nc6 8. c4
+Nf6 9. cxd5 Nxd5 10. Nc3 O-O 11. Re1 Nf6 12. h3 h6 13. Be3 Nb4 14. Bb1 Re8 15.
+a3 Nbd5 16. Nxd5 Qxd5 17. Bf4 Bd6 18. Rxe8+ Nxe8 19. Ne5 Be6 20. Ba2 Qe4 21.
+Bxe6 fxe6 22. Qg4 Qf5 23. Qf3 Bxe5 24. dxe5 Rd8 25. g4 Qf7 26. Qe4 b6 27. b4
+Qd7 28. Be3 Qd3 29. Qc6 Qd5 30. Qxd5 Rxd5 31. f4 g6 32. Kf2 h5 33. Kf3 hxg4+
+34. hxg4 Kf7 35. Ke4 Ng7 36. Rc1 Rd7 37. Rc6 Ne8 38. Bd4 Rd8 39. Rc1 Rd7 40.
+Rc2 Kg7 41. Rc6 Kf7 42. a4 Rd8 43. Rc1 Rd7 44. Kd3 Rd8 45. Kc4 Ng7 46. Ra1 Rh8
+47. a5 Rh4 48. axb6 axb6 49. Ra7 Ne8 50. Bxb6 Rxg4 51. Bxc7 Rxf4+ 52. Kc5 g5
+53. Bd6+ Kg6 54. b5 Rf1 55. Ra4 Rc1+ 56. Rc4 Rb1 57. b6 Kf5 58. Rb4 1-0

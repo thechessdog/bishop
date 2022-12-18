@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Mititelu, Gheorghe"]
+[Black "Lahti, Jouko"]
+[Result "0-1"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "fefc0c5f"]
+[Epoch "Bishop"]
+[BlackID "504327"]
+[BlackCountry "FIN"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8. b4
+c6 9. Ng3 Re8 10. Bd3 Nbd7 11. O-O Bf8 12. Qc2 g6 13. Bb2 Bg7 14. Qb3 Ng4 15.
+h3 Ngf6 16. b5 Nf8 17. bxc6 bxc6 18. Na4 Qd6 19. Rfd1 Rxe3 20. fxe3 Qxg3 21.
+Qc2 Bh6 22. Re1 Bxe3+ 23. Kf1 Ng4 24. hxg4 Qf4+ 0-1

@@ -1,0 +1,17 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Niemand, G."]
+[Black "Keffler, P."]
+[Result "1/2-1/2"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "f290bbfd"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Qh4+ 6. g3 Qd4+ 7. Kg2
+Qxe5 8. Qe2 d6 9. Qxe5+ dxe5 10. Bb5+ Bd7 11. Bxd7+ Nxd7 12. d3 Ne7 13. Rf1
+O-O 14. g4 h5 15. h3 hxg4 16. hxg4 g6 17. Bg5 Nd5 18. a3 gxf5 19. Rxf5 Rxf5
+20. gxf5 Rf8 21. Bd2 Rxf5 22. Nc3 1/2-1/2
+

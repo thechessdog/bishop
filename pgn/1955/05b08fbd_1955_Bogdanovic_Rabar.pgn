@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1955.01.01"]
+[Round "10"]
+[White "Bogdanovic, Rajko"]
+[Black "Rabar, Braslav"]
+[Result "1/2-1/2"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "05b08fbd"]
+[Epoch "Bishop"]
+[WhiteID "14400316"]
+[WhiteCountry "BIH"]
+[BlackCountry "HRV"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 g6 8. f3
+Bg7 9. Qd2 h6 10. Be3 Qc7 11. Bb3 Ne5 12. O-O b5 13. Nd5 Nxd5 14. Bxd5 Bb7 15.
+Bxb7 Qxb7 16. b3 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Van Kortenhof, H."]
+[Black "Boer, B."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "two pawns' (Lasker's) attack"]
+[HashCode "405a5597"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Nc3 Nxc3 6. dxc3 d6 7. Qb3 dxe5
+8. Bg5 Qd7 9. Bc4 Qf5 10. Rd1 h6 11. Bxf7+ Qxf7 12. Rd8+ Kxd8 13. Qxf7 hxg5
+14. Nf3 Nd7 15. Nxg5 Nf6 16. O-O Bd7 17. Rd1 Kc8 18. Ne6 Nh7 19. Qe8+ 1-0
+

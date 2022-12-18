@@ -1,0 +1,18 @@
+[Event "Massachusetts"]
+[Site "Massachusetts"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Lester, O."]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "f2d0c0f8"]
+[Epoch "Bishop"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. Nd4
+Bc5 9. Nb3 Bg4 10. Qd2 Nxc4 11. dxc4 e3 12. Qd3 exf2+ 13. Kd2 Bd6 14. Qe3+ Kd7
+15. Nc3 Re8 16. Qd4 Bb4 17. Nc5+ Kc8 18. a3 Qe7 0-1

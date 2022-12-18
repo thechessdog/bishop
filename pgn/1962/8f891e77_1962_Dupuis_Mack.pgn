@@ -1,0 +1,18 @@
+[Event "match"]
+[Site "match"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Dupuis, P."]
+[Black "Mack, A."]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[HashCode "8f891e77"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 exd4 6. e5 Bc5 7. O-O Nge7 8.
+Bb3 h6 9. c3 d5 10. cxd4 Bb4 11. Nc3 Bxc3 12. bxc3 Be6 13. a4 b6 14. Ba3
+Qd7 15. Rc1 O-O-O 16. c4 dxc4 17. Bxc4 Bxc4 18. Rxc4 Ng6 19. Qc2 Na5 20. e6
+Qxe6 21. Rxc7+ Kb8 22. Rc1 Rc8 23. Bd6 Rxc7 24. Qxc7+ Ka8 25. Qxb6 1-0
+

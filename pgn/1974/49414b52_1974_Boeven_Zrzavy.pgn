@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Boeven, M."]
+[Black "Zrzavy, J."]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "49414b52"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 Nge7 5. d4 cxd4 6. Nxd4 d5 7. Bb5 dxe4
+8. Nxe4 Qd5 9. Qd3 Bd7 10. Be3 Nb4 11. Bxd7+ Kxd7 12. Qd2 Qxe4 13. Kf2 Ned5
+14. Rhc1 Bc5 0-1
+

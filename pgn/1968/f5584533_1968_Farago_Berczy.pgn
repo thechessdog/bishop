@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Berczy, Robert"]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "f5584533"]
+[Epoch "Bishop"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 Be6 6. Nbd2 Qd7 7. b4 Nge7 8. b5
+Na5 9. Qa4 b6 10. Bb2 a6 11. Nxd4 axb5 12. cxb5 Ng6 13. Nxe6 Qxe6 14. e3 Nxe5
+15. Qe4 1-0

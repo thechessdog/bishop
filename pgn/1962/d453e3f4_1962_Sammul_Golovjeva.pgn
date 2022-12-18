@@ -1,0 +1,24 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Sammul, Mari"]
+[Black "Golovjeva"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "d453e3f4"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf5 d5 7. Ng3 Bb4 8.
+Bd2 d4 9. Nce2 Bc5 10. Nc1 Nc6 11. Nb3 Ba7 12. Bd3 O-O 13. O-O Be6 14. f4
+exf4 15. Bxf4 Ng4 16. Qd2 Ne3 17. Rfe1 Qh4 18. Bxe3 dxe3 19. Qc1 e2+ 20.
+Kh1 Bf2 21. Nxe2 Bxe1 22. Qxe1 Qxe1+ 23. Rxe1 Bxb3 24. axb3 Rad8 25. Nf4
+Nb4 26. Re3 Rd7 27. Kg1 Rc8 28. c3 Nxd3 29. Nxd3 Rcd8 30. Nc5 Re7 31. Nd3
+a5 32. Kf2 Red7 33. Ke2 h6 34. Rf3 f6 35. Re3 Rd6 36. Rf3 Re6 37. Re3 Red6
+38. Rf3 Rc8 39. Re3 Rcd8 40. Rf3 Rc8 41. Re3 Re6 42. Kf3 Kf7 43. Re2 Rd6
+44. Re3 Rcd8 45. Ke2 Ke7 46. Rf3 b6 47. Re3 Kd7 48. Rf3 Kc6 49. Re3 Kb5 50.
+c4+ Kc6 51. Rf3 Kb7 52. Re3 Rd4 53. h3 a4 54. c5 axb3 55. cxb6 Kxb6 56. Nc1
+Rd2+ 57. Kf3 Rxb2 58. Nxb3 Rd1 59. g4 Kb5 0-1
+

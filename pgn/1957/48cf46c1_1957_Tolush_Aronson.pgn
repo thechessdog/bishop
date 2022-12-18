@@ -1,0 +1,17 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1957.01.01"]
+[Round "20"]
+[White "Tolush, Alexander"]
+[Black "Aronin, Lev Solomonovich"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "48cf46c1"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. Nf3 Bg4 5. Nc3 Qa5 6. d5 O-O-O 7. Bd2 Bxf3
+8. exf3 Nb4 9. a3 Nxd5 10. Na4 1-0

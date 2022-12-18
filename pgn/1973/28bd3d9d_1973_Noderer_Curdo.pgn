@@ -1,0 +1,18 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Noderer, L."]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "28bd3d9d"]
+[Epoch "Bishop"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d3 Nf6 6. O-O fxe4 7. dxe4 O-O 8.
+Bxc6 bxc6 9. Qb3+ d5 10. Bg5 Ba6 11. Bxf6 Qxf6 12. Re1 Bxf2+ 13. Kxf2 Qh4+ 14.
+g3 Qxh2+ 15. Ke3 Rxf3+ 16. Kxf3 Rf8+ 17. Kg4 Bc8+ 0-1

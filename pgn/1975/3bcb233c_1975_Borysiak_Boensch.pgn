@@ -1,0 +1,23 @@
+[Event "DDR-POL"]
+[Site "Zinnowitz"]
+[Date "1975.??.??"]
+[Round "1"]
+[White "Borysiak, Boguslaw"]
+[Black "Boensch, Uwe"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "3bcb233c"]
+[Epoch "Bishop"]
+[WhiteID "1103202"]
+[BlackID "4611268"]
+[WhiteCountry "POL"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Nbd7 9. O-O-O Qc7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. a3 Rb8 14. h4 b4 15.
+axb4 Rxb4 16. h5 Qb6 17. Nb3 a5 18. g6 fxg6 19. hxg6 h6 20. Rh5 Rf8 21. Qh3 a4
+22. Qxe6 Qe3+ 23. Nd2 Nb6 24. Qa2 Bg4 25. Nd5 Nxd5 26. Qxd5 Bxh5 27. Qxh5 Bf6
+28. e5 a3 29. exf6 axb2+ 30. Kb1 Qa3 31. Qe2+ Kd7 32. Qe7+ Kc6 33. Bg2+ d5 34.
+Bxd5+ Kb5 35. Qb7+ 1-0

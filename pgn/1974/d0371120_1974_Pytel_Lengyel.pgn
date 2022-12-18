@@ -1,0 +1,19 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Pytel, Krzysztof"]
+[Black "Lengyel, L."]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "d0371120"]
+[Epoch "Bishop"]
+[WhiteID "600199"]
+[WhiteCountry "FRA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. Bd3
+Bb7 9. O-O Nbd7 10. Qe2 Ne4 11. Bg3 Bd6 12. Rac1 Bxg3 13. hxg3 Nxc3 14. Rxc3
+dxc4 15. Bxc4 c5 16. Rd1 Qe7 1/2-1/2

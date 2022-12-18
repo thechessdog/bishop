@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Livshin, Iosif"]
+[Black "Zagoriansky, Evgeny"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "f5f9c202"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 d4 6. Bc4 e6 7. Ne2 c5 8. d3
+Nc6 9. O-O a6 10. Qg3 h5 11. Bg5 h4 12. Qg4 Nf6 13. Bxh4 Ne5 14. Qg3 Nxc4 15.
+Bxf6 gxf6 16. dxc4 Qb6 17. b3 O-O-O 18. Rad1 Qc6 19. Qd3 Rh4 20. f4 Be7 21. Rf3
+Bd6 22. Rdf1 Bc7 23. Kh1 Rdh8 24. Ng1 e5 25. g3 f5 26. Re1 Ba5 27. Re2 Rxh3+
+28. Nxh3 Qh6 29. g4 fxg4 30. Rg3 Qxf4 31. Kg1 gxh3 32. Rxh3 Qg4+ 33. Rg3 Qh4
+34. Qf3 Kb8 35. Qg2 Ka7 36. Rg4 Qh6 37. Kf2 Bd2 38. Kf1 Be3 39. Re1 Qh5 40. Re2
+f5 0-1

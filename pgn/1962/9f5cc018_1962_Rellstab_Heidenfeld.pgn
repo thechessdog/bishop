@@ -1,0 +1,17 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Rellstab, Ludwig Sr"]
+[Black "Heidenfeld, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "A98"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with Qc2"]
+[HashCode "9f5cc018"]
+[Epoch "Bishop"]
+[BlackCountry "IRL"]
+
+1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 Be7 5. c4 d6 6. Nc3 O-O 7. O-O Qe8 8. Qc2
+Qg6 9. Ne1 Nc6 10. d5 Nd8 11. dxe6 Nxe6 12. Nd5 Bd8 13. Nd3 Kh8 14. N3f4 Nxf4
+15. Nxf4 Qe8 16. b3 Ne4 17. Bb2 Bf6 18. Rad1 Bxb2 19. Qxb2 a5 1/2-1/2

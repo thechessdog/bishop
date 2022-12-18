@@ -1,0 +1,17 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Palombi, Roberto"]
+[Black "De Carolis"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "c9ce37b6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5 Bg7 7. Be2 O-O 8.
+Qd2 Re8 9. O-O-O Qd7 10. Qf4 Qe7 11. Qh4 Be6 12. f4 h6 13. Nxe6 Qxe6 14. Bxh6
+Bxh6 15. Qxh6 Nxe4 16. Rhe1 Nxc3 17. Bc4 Nxa2+ 18. Bxa2 Qd7 19. Qxg6+ Kf8 20.
+Qh6+ Kg8 21. f5 Nc6 22. Qg5+ Kh8 23. f6 1-0

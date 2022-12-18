@@ -1,0 +1,22 @@
+[Event "corr USSR-BRD"]
+[Site "corr USSR-BRD"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Preinfalk, A."]
+[Black "Pruess, J."]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "f79cda65"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Be2 Bb7 7. Bf3 Qc7 8.
+O-O Nc6 9. Nxc6 dxc6 10. Bg5 Bd6 11. g3 Nf6 12. Qe2 Be5 13. Nd1 O-O 14. Bg2
+h6 15. Bd2 Bd4 16. c3 Bb6 17. a4 Rfd8 18. Re1 Rd7 19. e5 Nh7 20. Bf4 Rad8
+21. h4 Nf8 22. h5 a5 23. axb5 cxb5 24. Qxb5 Bxg2 25. Kxg2 Rd3 26. Be3 Bxe3
+27. Nxe3 Rd2 28. Nc4 R2d5 29. Qa6 Rb8 30. Re2 Rdb5 31. Ra4 Nd7 32. Nd6 Rxe5
+33. Rxe5 Nxe5 34. Rxa5 Nd3 35. Rb5 Rd8 36. Nb7 Ne1+ 37. Kh3 Qc4 38. Nxd8
+Qf1+ 39. Kg4 Qe2+ 40. Kh3 e5 41. Kh4 Qe4+ 42. f4 Qh1+ 43. Kg4 Qf3+ 44. Kf5
+Qd3+ 45. Kg4 f5+ 46. Kh4 Nf3+ 47. Kh3 Qf1# 0-1
+

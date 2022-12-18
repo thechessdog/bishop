@@ -1,0 +1,17 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Hofmann, H."]
+[Black "Tanin, S."]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "2a32c28c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Be3 Bg7 8.
+h3 O-O 9. Nf3 Re8 10. Qc2 Na6 11. a3 Bd7 12. Be2 Rb8 13. O-O b5 14. Rab1 b4
+15. Bxa6 bxc3 16. Bd3 cxb2 17. Bd2 c4 0-1
+

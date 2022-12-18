@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1972.06.01"]
+[Round "8"]
+[White "Van Geet, Dirk Daniel"]
+[Black "Soos, Bela"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "c2af4416"]
+[Epoch "Bishop"]
+[BlackID "4601670"]
+[BlackCountry "GER"]
+[WhiteCountry "NLD"]
+
+1. b3 e5 2. Bb2 Nc6 3. Nf3 d6 4. d4 e4 5. d5 Nce7 6. Ng5 f5 7. e3 Ng6 8. Bb5+
+Ke7 9. g4 Nf6 10. gxf5 Bxf5 11. f3 h6 12. Nxe4 Bxe4 13. fxe4 Ne5 14. Nd2 a6 15.
+Bf1 Qe8 16. Qe2 g5 17. Nf3 Nxf3+ 18. Qxf3 Bg7 19. e5 dxe5 20. Bxe5 Kf7 21. Bd4
+Qe4 22. Bg2 Qxf3 23. Bxf3 Rhe8 24. O-O Kg6 25. d6 c6 26. Rad1 Rad8 27. Bb6 Rd7
+28. Be2 h5 29. c4 Ne4 30. Bd3 Kh6 31. c5 Re5 32. b4 Nc3 33. Rd2 Nd5 34. Ba5
+Nxe3 35. Rf3 Re8 36. Re2 Bd4 37. Kh1 g4 38. Rf4 Bg7 39. Bf5 Rf7 40. d7 Ref8 1-0

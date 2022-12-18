@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Mattsson, Bertil"]
+[Black "Bryntse, Arne"]
+[Result "1-0"]
+[ECO "A86"]
+[Opening "Dutch with c4 & g3"]
+[HashCode "fb8395d3"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. c4 Nf6 3. g3 e5 4. dxe5 Ng4 5. Nf3 Nc6 6. Bg2 Ncxe5 7. Qc2 Bc5
+8. Nxe5 Nxe5 9. O-O d6 10. Nd2 O-O 11. Nb3 Bb6 12. Bf4 Qf6 13. Qc3 c6 14.
+c5 Bc7 15. cxd6 Bxd6 16. Rad1 Bc7 17. Nc5 g5 18. Bxe5 Bxe5 19. Qb3+ Kg7 20.
+Nd7 Bxd7 21. Rxd7+ Rf7 22. Qxb7 Rb8 23. Qxa7 Rxb2 24. Bxc6 Rxe2 25. Bb5 Rc2
+26. Rfd1 Rc7 27. Rxc7 Bxc7 28. Rd7 Rxd7 29. Bxd7 Bb6 30. Qb7 Qd4 31. Bxf5+
+Kf6 32. Qf3 Ke5 33. Bb1 Qb2 34. Qe4+ Kd6 35. Qc2 Qf6 36. Qd2+ 1-0
+

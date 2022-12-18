@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Nicevski, Risto"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "069a3cae"]
+[Epoch "Bishop"]
+[WhiteCountry "SRB"]
+[BlackCountry "MKD"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Bxf6 gxf6 10. Na3 b5 11. Nd5 f5 12. exf5 Bxf5 13. Bd3 e4 14. Qe2 Bg7
+15. Bxe4 O-O 16. Bxf5 Re8 17. Ne3 Qg5 18. h4 Rxe3 19. Bxh7+ Kf8 20. hxg5 Rxe2+
+21. Kxe2 Bxb2 22. Rae1 Re8+ 23. Kd1 Rxe1+ 24. Kxe1 Bxa3 25. Be4 Ne5 26. f4 Nd7
+27. Rh8+ Ke7 28. Ra8 Ke6 29. Re8# 1-0

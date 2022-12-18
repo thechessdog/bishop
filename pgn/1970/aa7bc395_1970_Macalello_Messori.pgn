@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Macalello"]
+[Black "Messori"]
+[Result "0-1"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "aa7bc395"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5 Qc7 7. Nd5 Nxd5
+8. exd5 a6 9. Bxc6+ bxc6 10. Nxc6 Bb7 11. O-O Bxc6 12. dxc6 Qxc6 13. b3 d5
+14. Bb2 f6 15. Re1 e5 16. Bxe5 fxe5 17. Rxe5+ Be7 18. Qg4 Kf7 19. Qf5+ Qf6
+20. Rxd5 Qxf5 21. Rxf5+ Bf6 22. Rd1 Rhd8 23. Rfd5 Ke6 24. c4 Rxd5 25. Rxd5
+Rd8 26. Rxd8 Bxd8 27. Kf1 Ke5 28. Ke2 Kd4 29. Kd2 Ba5+ 30. Kc2 Be1 31. f4
+Bb4 32. g3 h5 33. h3 Ke4 0-1
+

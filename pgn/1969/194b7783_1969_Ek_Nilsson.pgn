@@ -1,0 +1,18 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ek, Hans"]
+[Black "Nilsson, Zandor"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "194b7783"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nc6 7. h3 e5 8. Be3
+exd4 9. Nxd4 Nxd4 10. Bxd4 c6 11. Qa4 Re8 12. Nc3 Qc7 13. Rad1 Bf5 14. Rd2 Ne4
+15. Nxe4 Bxe4 16. Bxg7 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Mil ch"]
+[Site "Mil ch"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Steffers, H."]
+[Black "Schuyt, T."]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "40b9b5ed"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+c3 e6 9. Bf4 Ngf6 10. h5 Bh7 11. Ne5 Nd5 12. Bd2 Nxe5 13. dxe5 Qb6 14. b4
+O-O-O 15. Qf3 Nxb4 16. cxb4 Rxd2 17. Be2 Rd5 18. O-O Rxe5 19. b5 c5 20. a4
+Qc7 21. a5 Bd6 22. a6 b6 23. Qa8+ Qb8 24. Qc6+ Kd8 25. Rfd1 Ke7 26. Bf3 Qc7
+27. Rd2 Qxc6 28. Bxc6 Rd8 29. Rad1 c4 30. Ne2 Rxe2 31. Rxe2 Bh2+ 32. Kxh2
+Rxd1 33. f3 c3 34. Be4 Rd2 35. Re1 c2 36. Rc1 Bxe4 37. fxe4 Kd6 0-1
+

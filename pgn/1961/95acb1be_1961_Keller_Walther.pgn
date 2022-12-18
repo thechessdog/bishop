@@ -1,0 +1,21 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "Walther, Edgar"]
+[Result "1-0"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[HashCode "95acb1be"]
+[Epoch "Bishop"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+[BlackCountry "CHE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e6 6. c4 Be7 7. Nc3 O-O 8. Be2
+b6 9. O-O Bb7 10. b3 Nc6 11. Kh1 Rc8 12. Ba3 Rc7 13. Ncb5 Rd7 14. Qc2 Nxd4 15.
+Nxd4 d5 16. Bxe7 Qxe7 17. e5 Nh5 18. f4 dxc4 19. Rad1 cxb3 20. Qxb3 Qh4 21. Nf5
+exf5 22. Rxd7 Bc6 23. Rd6 Be4 24. Qe3 Rc8 25. Kg1 g6 26. e6 fxe6 27. Rxe6 Rc2
+28. Rxe4 1-0

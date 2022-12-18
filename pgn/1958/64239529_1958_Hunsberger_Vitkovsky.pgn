@@ -1,0 +1,18 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Hunsberger"]
+[Black "Vitkovsky"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "64239529"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 d6 7. Bb5+ Nc6
+8. O-O Be7 9. exd6 Qxd6 10. dxc5 Qxc5 11. Qd3 a6 12. Ba4 b5 13. Bb3 d4 14.
+Bf4 Bf5 15. Qd2 O-O 16. Rfe1 Bf6 17. Bg5 Bd8 18. Bxd8 Raxd8 19. Qg5 Rd6 20.
+Nh4 Rf6 21. g4 h6 22. Qh5 g6 23. Qxh6 Bxc2 24. g5 Rd6 25. Bxf7+ 1-0
+

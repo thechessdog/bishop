@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Veresov"]
+[Black "Nahaenko"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "67dbd565"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 gxf6 5. e3 c6 6. Nge2 e5 7. Ng3 Be6
+8. Qh5 Qb6 9. O-O-O Nd7 10. f4 exf4 11. exf4 f5 12. Nxf5 O-O-O 13. Nh6 Nf6
+14. Qe5 Ng4 15. Nxg4 Bxg4 16. Be2 Bxe2 17. Qxe2 Bd6 18. g3 h5 19. Qd3 Qc7
+20. Nb1 Qd7 21. Nd2 h4 22. Nf3 hxg3 23. hxg3 Qg4 24. Ng5 Rxh1 25. Rxh1 Re8
+26. a3 Bc7 27. Kb1 f6 28. Qg6 Qe2 29. Qxf6 Qf2 30. Qf7 Re1+ 31. Rxe1 Qxe1+
+32. Ka2 Qe2 33. Qf5+ 1-0
+

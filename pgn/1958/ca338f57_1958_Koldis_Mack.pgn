@@ -1,0 +1,19 @@
+[Event "Cody-UD"]
+[Site "Cody-UD"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Koldis"]
+[Black "Mack, A."]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[HashCode "ca338f57"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Bg5 Bg7 4. e3 d5 5. Nf3 Bg4 6. c5 b6 7. b4 a5 8. b5
+c6 9. a4 bxc5 10. dxc5 Ne4 11. Ra3 Nxg5 12. bxc6 e5 13. Bb5 O-O 14. Rd3 e4
+15. Rxd5 Qe7 16. h3 Nxf3+ 17. gxf3 Bxf3 18. Qc2 Bxh1 19. Na3 Rd8 20. Qd2
+Rxd5 21. Qxd5 Bc3+ 22. Kd1 Na6 23. Bxa6 Rd8 24. Qxd8+ Qxd8+ 25. Kc2 Qd2+
+26. Kb3 Qb2+ 27. Kc4 Bg2 28. Kd5 Bxh3 29. Nb5 Be6+ 30. Kd6 Be5+ 31. Ke7 Qd2
+32. Nd4 Bxd4 33. exd4 Qxd4 34. Ke8 Qxc5 35. c7 Qf8# 0-1
+

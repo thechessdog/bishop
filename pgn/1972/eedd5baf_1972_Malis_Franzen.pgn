@@ -1,0 +1,21 @@
+[Event "Trinec"]
+[Site "Trinec"]
+[Date "1972.01.01"]
+[Round "7"]
+[White "Malis, Jiri"]
+[Black "Franzen, Jozef"]
+[Result "0-1"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "eedd5baf"]
+[Epoch "Bishop"]
+[WhiteID "302317"]
+[WhiteCountry "CZE"]
+[BlackID "14900181"]
+[BlackCountry "SVK"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 h6 8. Be3 Nbd7
+9. Qd2 Kh7 10. g4 Ne5 11. h3 a6 12. f4 Ned7 13. Nf3 Qa5 14. Bd3 b5 15. O-O bxc4
+16. Bc2 Rb8 17. e5 dxe5 18. fxe5 Ng8 19. e6 Rxb2 20. Bxg6+ fxg6 21. Qxb2 Bxc3
+22. Qb1 Qc7 23. Kg2 Bxa1 24. Nh4 Rxf1 25. Qxg6+ Kh8 26. Kxf1 Nf8 0-1

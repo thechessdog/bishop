@@ -1,0 +1,18 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Ermenkov, Evgenij"]
+[Black "Ajanski, Jordan"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "6dc549f3"]
+[Epoch "Bishop"]
+[WhiteID "2900106"]
+[WhiteCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O b4 12. Ne4 Qxe5 13. Nf3 Qa5 14. Qc4 Bb7
+15. Rd6 f6 16. Qxe6+ Be7 17. Rxd7 1-0

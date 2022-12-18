@@ -1,0 +1,18 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1966.01.01"]
+[Round "6"]
+[White "Antoshin, Vladimir S"]
+[Black "Bobotsov, Milko G"]
+[Result "1-0"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "f947a1a8"]
+[Epoch "Bishop"]
+[BlackCountry "BGR"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Nc3 Be7 6. Bd3 d5 7. b3 O-O 8. O-O c5
+9. Bb2 Nc6 10. Rc1 Rc8 11. Qe2 cxd4 12. exd4 g6 13. Qe3 Re8 14. h3 Bf8 15. Rfe1
+Bg7 16. Ba3 e5 17. Nxd5 Nxd5 18. cxd5 Nxd4 19. Nxd4 Rxc1 20. Bxc1 1-0

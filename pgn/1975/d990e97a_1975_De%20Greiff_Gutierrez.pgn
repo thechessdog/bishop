@@ -1,0 +1,17 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos B"]
+[Date "1975.01.01"]
+[Round "6"]
+[White "De Greiff, Boris"]
+[Black "Gutierrez, Jose Antonio"]
+[Result "1/2-1/2"]
+[ECO "D79"]
+[Opening "Neo-Gruenfeld, 6.O-O, main line"]
+[HashCode "d990e97a"]
+[Epoch "Bishop"]
+[WhiteCountry "COL"]
+[BlackCountry "COL"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. c4 c6 7. cxd5 cxd5 8. Nc3
+Nc6 9. Ne5 e6 10. Bf4 Nxe5 11. Bxe5 Bd7 12. Qb3 Bc6 13. Rac1 Qa5 14. Rfd1 Rfc8
+15. e3 b5 16. a3 Ne8 17. Bf4 1/2-1/2

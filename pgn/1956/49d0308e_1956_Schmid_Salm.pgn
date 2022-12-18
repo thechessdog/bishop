@@ -1,0 +1,22 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Schmid"]
+[Black "Salm"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "49d0308e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 c5
+8. Nxe5 Qd4 9. Nd3 Nxe4 10. b3 Nf6 11. Bb2 Qd6 12. Nc3 Bf5 13. Ne5 O-O 14.
+d3 Rfe8 15. Ne4 Qd5 16. Ng3 Bc8 17. f4 Ng4 18. Ne4 Nh6 19. Qf2 f6 20. Nc4
+Nf5 21. Rae1 Bd7 22. Ne3 Nxe3 23. Rxe3 b6 24. f5 Qf7 25. Qh4 Bc6 26. Rh3 h6
+27. Rg3 Bxe4 28. dxe4 Bd6 29. Rg6 Be5 30. Bxe5 Rxe5 31. Rf4 Rf8 32. Qxh6
+Qd7 33. h3 Re7 34. Rh4 Qd1+ 35. Kh2 Qd6+ 36. g3 Kf7 37. Rxg7+ Ke8 38. Rxe7+
+Kxe7 39. Qf4 Qxf4 40. gxf4 c4 41. bxc4 Kd6 42. Kg3 Rf7 43. Kg4 Re7 44. e5+
+fxe5 45. Rh6+ 1-0
+

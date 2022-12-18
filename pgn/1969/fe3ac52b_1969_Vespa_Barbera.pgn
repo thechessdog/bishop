@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Vespa"]
+[Black "Barbera Estelles, Rosendo"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "fe3ac52b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. Bg5 Be7 8. O-O
+Qc7 9. f4 Nc6 10. Nf3 Qb6+ 11. Kh1 O-O 12. a3 Qc7 13. Bd3 e5 14. f5 Re8 15. Qe1
+g6 16. fxg6 fxg6 17. h3 Nh5 18. Bc4+ Kg7 19. Nd5 Qd8 20. Nxe7 Nxe7 21. Nxe5 Rf8
+22. Qc3 1-0

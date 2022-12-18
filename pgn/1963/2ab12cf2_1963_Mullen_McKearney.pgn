@@ -1,0 +1,15 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Mullen, I."]
+[Black "McKearney"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "2ab12cf2"]
+[Epoch "Bishop"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Bc4 Bg4 5. Bxf7+ Kxf7 6. Ng5+ Ke8 7. Qxg4
+Nf6 8. Qf3 Rf8 9. Ne6 Nfd7 10. Nxg7# 1-0
+

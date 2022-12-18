@@ -1,0 +1,25 @@
+[Event "Cordoba op"]
+[Site "Cordoba"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Incutto, Carlos"]
+[Black "Herrera, Fernando"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "c44f7f95"]
+[Epoch "Bishop"]
+[BlackID "101451"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. Be3
+Ng4 9. Bg5 f6 10. Bc1 f5 11. exf5 gxf5 12. dxe5 Ncxe5 13. h3 Nxf3+ 14. Bxf3 Ne5
+15. Bd5+ Kh8 16. f4 Ng6 17. Be3 c6 18. Bf3 Rg8 19. Qd2 Nh4 20. Rad1 Be6 21. b3
+Qa5 22. Ne2 Qxd2 23. Rxd2 d5 24. Nd4 Nxf3+ 25. Rxf3 Bd7 26. cxd5 cxd5 27. Bf2
+Rge8 28. Rc3 Bc6 29. Rg3 Bd7 30. Nf3 Bc6 31. Bd4 Re7 32. Rxg7 Rxg7 33. Re2 Re8
+34. Kf2 Re4 35. g3 Kg8 36. Bxg7 Kxg7 37. Ng5 Rxe2+ 38. Kxe2 Bb5+ 39. Ke3 Bf1
+40. h4 Bg2 41. Kd4 Kh6 42. b4 Be4 43. a4 Kg6 44. Nh3 Kf6 45. Nf2 Bc2 46. a5 Ke6
+47. Kc5 Be4 48. Nd1 Bf3 49. Nc3 Be4 50. Nb5 b6+ 51. Kd4 bxa5 52. bxa5 Kd7 53.
+Nxa7 Kc7 54. Nb5+ Kb7 55. Nc3 Ka6 56. Nxe4 dxe4 57. g4 1-0

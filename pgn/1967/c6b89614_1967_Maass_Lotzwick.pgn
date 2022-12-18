@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Maass, H."]
+[Black "Lotzwick, J."]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "c6b89614"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Nbd2 Bb4 7. Bg2 Qd7 8.
+Qb3 Nge7 9. a3 Bxf3 10. exf3 Bxd2+ 11. Bxd2 Nxe5 12. O-O O-O 13. f4 N5c6
+14. Rad1 Rad8 15. Qd3 Nb8 16. b4 b6 17. c5 bxc5 18. bxc5 Qa4 19. Rb1 Na6
+20. Rfc1 Rb8 21. Bb7 1-0
+

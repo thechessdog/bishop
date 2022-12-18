@@ -1,0 +1,17 @@
+[Event "Houston"]
+[Site "Houston"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Lerner, A."]
+[Black "West"]
+[Result "0-1"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "ba1c400c"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. Qb3 Nc6 5. Nf3 Nf6 6. Qxb7 Nb4 7. Nb5 Ng4
+8. Nxc7+ Qxc7 9. Qxa8+ Kd7 10. Ne5+ Nxe5 11. dxe5 Nc2+ 12. Kd1 Nxa1 13. Be3
+Nc2 14. Bxa7 Nb4 15. c5 Bxc5 16. Qxh8 Bxa7 17. e4 Qc2+ 18. Ke1 Bxf2# 0-1
+

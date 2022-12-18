@@ -1,0 +1,19 @@
+[Event "Bariloche"]
+[Site "Bariloche"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Rossetto, Hector"]
+[Black "Bielicki, Carlos"]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "ad3621a5"]
+[Epoch "Bishop"]
+[BlackID "100684"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Bd3 Nc6 5. O-O e5 6. Bc2 Be7 7. d3 O-O 8. Re1
+Qc7 9. Nbd2 Re8 10. Nc4 g6 11. Ne3 Bf8 12. h3 Bg7 13. Nh2 Be6 14. Qf3 Rf8 15.
+Nhg4 Nxg4 16. hxg4 Ne7 17. Bb3 Qd7 18. g5 Rad8 19. Bxe6 Qxe6 20. Ng4 Kh8 21.
+Qg3 1-0

@@ -1,0 +1,21 @@
+[Event "Oslo CI"]
+[Site "Oslo"]
+[Date "1973.01.01"]
+[Round "4"]
+[White "Westerinen, Heikki M.J."]
+[Black "Wibe, Terje"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Nimzovich variation"]
+[HashCode "2e6e6ded"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "1500236"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Ne3 c6 7. Bc4 Qg6 8. O-O
+Nf6 9. f3 d5 10. Bb3 exf3 11. Qxf3 Bd6 12. c4 O-O 13. cxd5 cxd5 14. Nxd5 Kh8
+15. Nxf6 Rxf6 16. Qd5 Rxf1+ 17. Kxf1 Qf6+ 18. Kg1 Qf8 19. Nc3 Nc6 20. Ne4 Bc7
+21. Be3 Bg4 22. Ng5 Bh5 23. Ne6 Qe8 24. Qg5 1-0

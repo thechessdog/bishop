@@ -1,0 +1,18 @@
+[Event "Siegen"]
+[Site "Siegen"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Terrazas"]
+[Black "Bedros"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "27ae9be5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 Nbd7 5. Bd3 Bd6 6. Nbd2 e5 7. e4 exd4
+8. Nxd4 Ne5 9. Be2 Be7 10. exd5 Qxd5 11. N2f3 Bg4 12. Bxf6 Bxf6 13. Nb5
+Nxf3+ 14. gxf3 Qc6 15. Nxc7+ Qxc7 16. fxg4 O-O 17. c3 Rad8 18. Qc2 Qf4 19.
+Qc1 Qe4 20. f3 Bh4+ 21. Kf1 Qe5 22. Qc2 Qe3 0-1
+

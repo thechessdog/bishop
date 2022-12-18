@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kramer, George Mortimer"]
+[Black "Walka, W."]
+[Result "0-1"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "ba7fbb8d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 a6 8. O-O-O
+Rb8 9. h4 e5 10. d5 Nd4 11. Nge2 c5 12. dxc6 bxc6 13. Nxd4 exd4 14. Bxd4 Be6
+15. h5 c5 16. Bf2 Nxh5 17. g4 Nf6 18. Qxd6 Nd7 19. Qh2 h6 20. Be3 Qa5 21. Qc2
+Rxb2 0-1

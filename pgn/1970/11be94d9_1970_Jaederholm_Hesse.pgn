@@ -1,0 +1,18 @@
+[Event "corr ch-FIN"]
+[Site "corr ch-FIN"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Jaederholm, B."]
+[Black "Hesse, G."]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "11be94d9"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. Re1 Qf6
+8. hxg4 hxg4 9. Nxe5 Qxe5 10. Qxg4 Nf6 11. Qf3 Bd6 12. g3 O-O-O 13. c3 Rh5
+14. d4 Qe6 15. e5 Rdh8 16. Nd2 Ng4 17. Ne4 Nh2 18. Qe2 Qf5 19. f4 Ng4 20.
+Qf3 Bxe5 21. dxe5 Nxe5 22. Qg2 Rh1+ 0-1
+

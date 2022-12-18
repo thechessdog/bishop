@@ -1,0 +1,18 @@
+[Event "Uelzen"]
+[Site "Uelzen"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Kiffmeyer"]
+[Black "Sandmeier, Toni"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "649dc8c0"]
+[Epoch "Bishop"]
+[BlackID "4606060"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6 8.
+Qe2 Be7 9. Rd1 O-O 10. e5 Ne8 11. exd6 Bxd6 12. Nb5 Qe7 13. Bg5 f6 14. Be3 Bb8
+15. Rac1 b6 16. Bb3 Bb7 17. Bc5 bxc5 18. Bxe6+ Kh8 19. Rd7 1-0

@@ -1,0 +1,19 @@
+[Event "Hamburg etc"]
+[Site "Hamburg etc"]
+[Date "1965.06.01"]
+[Round "4"]
+[White "Langeweg, Kick"]
+[Black "Schmid, Lothar"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "b779a2d1"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. g5 hxg5 8. Bxg5
+Nc6 9. Qd2 a6 10. O-O-O Bd7 11. f4 Qc7 12. Nf5 exf5 13. Bxf6 gxf6 14. Nd5 Qd8
+15. Qe1 Be7 16. Rg1 fxe4 17. Qxe4 Be6 18. Bc4 f5 19. Qe3 b5 20. Bb3 Na5 21. Qc3
+Nxb3+ 22. axb3 Kd7 0-1

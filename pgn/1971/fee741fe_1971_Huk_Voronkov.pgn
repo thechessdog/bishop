@@ -1,0 +1,21 @@
+[Event "corr EU cup"]
+[Site "corr EU cup"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Huk"]
+[Black "Voronkov"]
+[Result "0-1"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "fee741fe"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 Qc7 10. Bb2 dxc4 11. Bxc4 e5 12. h3 e4 13. Nd2 Na5 14. Ba2
+c4 15. Qe2 Be6 16. f3 Bd5 17. f4 b5 18. g4 Nd7 19. Rf2 Qc6 20. h4 Nb6 21.
+Qd1 Na4 22. Rb1 Qd6 23. h5 Rab8 24. Qc1 Nb3 25. Qc2 Nxd2 26. Qxd2 Rfc8 27.
+Ra1 a5 28. Qc1 Bb7 29. Rb1 Ba6 30. Ba1 Nb6 31. Rc2 Nd5 32. Kf2 Rb6 33. Ke1
+Rbc6 34. Re2 Kf8 35. Bb2 Ke8 36. Qd2 b4 37. axb4 axb4 38. Ra1 Bb5 39. Bb1
+Ra6 40. Rxa6 Qxa6 41. Bc2 bxc3 0-1
+

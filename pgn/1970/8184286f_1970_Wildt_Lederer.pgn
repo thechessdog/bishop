@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Wildt, V."]
+[Black "Lederer, G."]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "8184286f"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Be2 e5 12. d5 e4 13. dxc6 Ng4 14. g3
+exf3 15. Bxf3 Ne5 16. Be4 Bg4 17. f3 Rad8 18. Qe2 Be6 19. Re1 f5 20. Bc2
+Bd5 0-1
+

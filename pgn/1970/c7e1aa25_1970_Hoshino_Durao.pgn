@@ -1,0 +1,16 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "1"]
+[White "Hoshino, I."]
+[Black "Durão, Joaquim Manuel"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "c7e1aa25"]
+[Epoch "Bishop"]
+[BlackCountry "PRT"]
+
+1. g3 g6 2. Bg2 Bg7 3. Nf3 e5 4. e4 d6 5. O-O Ne7 6. c3 f5 7. Qb3 fxe4 8. Ng5
+d5 9. d3 h6 10. Nh3 exd3 11. c4 dxc4 12. Qxc4 Nbc6 13. Rd1 Qd4 14. Qb3 Qd6 15.
+Rxd3 Nd4 16. Qd1 Bf5 17. Re3 Nc2 18. Qe2 Nxa1 19. g4 Bxb1 0-1

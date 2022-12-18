@@ -1,0 +1,15 @@
+[Event "Halle EU tt"]
+[Site "Halle EU tt"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Malich, Burkhard, Dr."]
+[Black "Filip, Miroslav"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "d5fdea7b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 Qd7 6. Bd3 Bxd3 7. Qxd3 f5 8.
+O-O-O Bb4 9. Nge2 Nc6 10. a3 Bxc3 11. Nxc3 Ne7 12. f3 O-O-O 13. Kb1 Rhe8 14. h3
+h5 15. Rhe1 Kb8 16. Ne2 h4 17. Nc1 Nc8 18. Qb3 Nd6 19. Qb4 1/2-1/2

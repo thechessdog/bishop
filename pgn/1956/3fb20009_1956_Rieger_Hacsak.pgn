@@ -1,0 +1,19 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Rieger"]
+[Black "Hacsak, I."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "3fb20009"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. e3 cxd4 4. exd4 d5 5. Nc3 dxc4 6. Bxc4 e6 7. Nf3 Be7
+8. O-O O-O 9. Bg5 Nc6 10. Rc1 a6 11. Bd3 Nb4 12. Bb1 b5 13. Qe2 Bb7 14.
+Rfd1 Rc8 15. a3 Nbd5 16. Ne4 Nxe4 17. Qxe4 g6 18. Bh6 Re8 19. Qd3 Nb6 20.
+Rxc8 Bxc8 21. Ne5 Qd5 22. Qg3 Bd6 23. f4 Bxe5 24. fxe5 Bb7 25. b3 Rc8 26.
+h4 Rc3 27. Qg5 Re3 28. Rd2 Re1+ 29. Kh2 Rf1 30. Qe7 1-0
+

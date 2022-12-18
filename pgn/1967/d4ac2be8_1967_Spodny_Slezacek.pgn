@@ -1,0 +1,19 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Spodny, J."]
+[Black "Slezacek"]
+[Result "1-0"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "d4ac2be8"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Ne2 O-O 8.
+Ng3 Nc6 9. Bd3 Ba6 10. e4 Ne8 11. Be3 Na5 12. Qe2 Rc8 13. Rc1 Nd6 14. e5
+cxd4 15. cxd4 Ndxc4 16. O-O Nxe3 17. Rxc8 Bxc8 18. fxe3 d5 19. Nh5 g6 20.
+Qg4 Nc6 21. Qf4 f5 22. exf6 Rf7 23. Qg5 Kh8 24. Nf4 Qd6 25. Bxg6 hxg6 26.
+Nxg6+ 1-0
+

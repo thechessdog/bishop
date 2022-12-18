@@ -1,0 +1,17 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Den Ouden, A."]
+[Black "Vogel, Jaap"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "48dd3b11"]
+[Epoch "Bishop"]
+[BlackID "1000764"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. a3 Bf8 6. Nf3 Qd7 7. Bf4 Ne7 8. Bd3 c5
+9. O-O Nbc6 10. Re1 Bb7 11. Bg3 h6 12. Rb1 g5 0-1

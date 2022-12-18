@@ -1,0 +1,17 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kamenetsky, J."]
+[Black "Kaschner, G."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "eee79b22"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 c6 6. Bd3 Qc8 7. Qf3 Bxd3
+8. cxd3 Bb4 9. Ne2 O-O 10. O-O Nd7 11. Rac1 Nb6 12. g4 Qd7 13. Ng3 Rae8 14.
+Nce2 Bd6 15. Nh5 Nc8 16. Neg3 Bxg3 17. hxg3 Ne7 18. Kg2 f5 19. g5 Kh8 20.
+Rh1 Ng8 21. Nf6 1-0
+

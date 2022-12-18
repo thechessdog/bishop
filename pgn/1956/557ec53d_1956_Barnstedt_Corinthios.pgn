@@ -1,0 +1,17 @@
+[Event "Mindeturnering"]
+[Site "Mindeturnering"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Barnstedt"]
+[Black "Corinthios"]
+[Result "0-1"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "557ec53d"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 e6 4. e3 c5 5. Nbd2 Nbd7 6. Ne5 Qb6 7. Bxf6 gxf6
+8. dxc5 Nxc5 9. Nd3 e5 10. Nb3 Ne4 11. c3 Rg8 12. Qe2 Be6 13. g3 a5 14. f3
+a4 15. Nd2 Nd6 16. a3 Nc4 17. Nxc4 dxc4 18. Nb4 Bc5 19. Kf2 O-O-O 20. Bg2
+Bxe3+ 21. Qxe3 Rd2+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr BdF/PZ"]
+[Site "corr BdF/PZ"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Hecht, Hans-Joachim"]
+[Black "Walther, Edgar"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "80a0c05a"]
+[Epoch "Bishop"]
+[BlackCountry "CHE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 c5 7. dxc5 dxc5 8. e5
+Nd5 9. Nxd5 Qxd5 10. Qe2 Be6 11. Be4 Qd7 12. Be3 Qc7 13. h4 Bg4 14. Qf2 Nd7 15.
+Nh2 Be6 16. h5 Nxe5 17. fxe5 Bxe5 18. Nf1 Bxb2 19. hxg6 fxg6 20. Qh4 Rf7 21.
+Rb1 Qe5 22. Nd2 Bxa2 0-1

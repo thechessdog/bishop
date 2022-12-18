@@ -1,0 +1,28 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1972.06.01"]
+[Round "8"]
+[White "Kraidman, Yair"]
+[Black "Hennings, Artur"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "aec87075"]
+[Epoch "Bishop"]
+[WhiteID "2800187"]
+[WhiteCountry "ISR"]
+[BlackID "4611594"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Qxd4 Bg4 8.
+Qe3 Ne7 9. Nbd2 Ng6 10. h3 Bd7 11. Nc4 Qc5 12. Qxc5 Bxc5 13. Be3 Be7 14. Rfd1
+O-O-O 15. Bd4 f6 16. Be3 Be6 17. Ncd2 c5 18. Nf1 Bd6 19. Rd2 b6 20. b3 a5 21.
+Rad1 Rhe8 22. Ne1 c4 23. Nf3 cxb3 24. axb3 Bb4 25. Rd4 Bc3 26. R4d3 Rxd3 27.
+Rxd3 Bb4 28. Ng3 Bd7 29. Nd4 Ne5 30. Rd1 Nc6 31. f3 Nxd4 32. Bxd4 a4 33. bxa4
+Bxa4 34. Rc1 Rd8 35. c3 Bf8 36. Kf2 Kb7 37. Ra1 Bb5 38. Ne2 c5 39. Be3 Bc4 40.
+Nf4 Be7 41. h4 f5 42. g3 fxe4 43. fxe4 Bf6 44. Rc1 g6 45. Kf3 Kc6 46. Bf2 Ra8
+47. Be1 Ra3 48. Bd2 b5 49. Kf2 Ra2 50. Ke3 Be5 51. Be1 Bg7 52. Bd2 Kd6 53. Nh3
+Ra3 54. Kf2 Ke5 55. Ng5 Ra2 56. Ke3 h6 57. Nf3+ Ke6 58. Kf4 Be2 59. Be3 Ra7 60.
+Bxc5 Rf7+ 61. Ke3 Bxf3 62. Ra1 Rc7 63. Bd4 Bg4 64. Ra5 Bxd4+ 65. cxd4 Rb7 66.
+d5+ Ke5 67. Ra6 b4 68. Rxg6 b3 0-1

@@ -1,0 +1,20 @@
+[Event "Moscow olm prel"]
+[Site "Moskou olm"]
+[Date "1956.09.01"]
+[Round "9"]
+[White "Conrady, Alphonse"]
+[Black "Rantanen, Matti"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "7425c858"]
+[Epoch "Bishop"]
+[WhiteID "4000846"]
+[WhiteCountry "LUX"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Rg1 b5 11. e5 Bb7 12. Qe2 dxe5 13. fxe5 Qxe5 14. Qxe5
+Nxe5 15. Bf4 Ng6 16. Bg5 h6 17. Bxf6 Bxf6 18. a4 Rd8 19. Nde2 Rxd1+ 20. Nxd1 b4
+21. Kb1 Kd7 22. Nc1 Bd4 23. Rh1 Nf4 24. Nd3 Nxd3 25. Bxd3 Bd5 26. a5 Rc8 0-1

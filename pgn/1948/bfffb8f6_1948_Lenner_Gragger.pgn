@@ -1,0 +1,18 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Lenner, L."]
+[Black "Gragger"]
+[Result "0-1"]
+[ECO "D96"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation"]
+[HashCode "bfffb8f6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. Bf4 c6
+8. e3 Nbd7 9. h3 Nb6 10. Qd3 Be6 11. Nd2 Nfd5 12. Bh2 c5 13. dxc5 Nxc3 14.
+Qxd8 Rfxd8 15. cxb6 axb6 16. Bc7 Rxd2 17. Kxd2 Ne4+ 18. Ke1 Bxb2 19. Rd1
+Rxa2 20. Be2 Bb3 21. Rd8+ Kg7 22. g3 Ra1+ 0-1
+

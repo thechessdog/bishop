@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Portisch, Ferenc"]
+[Black "Prelovszky, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "d574ad6c"]
+[Epoch "Bishop"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 b6 8. Bd3
+Bb7 9. O-O dxc4 10. Bxc4 Nbd7 11. Qe2 Nd5 12. Bg3 Nxc3 13. bxc3 Bd6 14. e4 Bxg3
+15. hxg3 Qe7 16. e5 c5 1/2-1/2

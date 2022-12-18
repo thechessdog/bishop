@@ -1,0 +1,22 @@
+[Event "Wroclaw"]
+[Site "Wroclaw"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Kwilecki, A."]
+[Black "Gadalinski, J."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "e9100848"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. e4 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 f5 8. Qh5+
+Kf8 9. Nh3 Qe8 10. Bxe7+ Qxe7 11. Nf4 Qf7 12. Qxf7+ Kxf7 13. Ncxd5 exd5 14. e6+
+Ke7 15. exd7 Bxd7 16. Nxd5+ Kd6 17. Ne3 b5 18. Bd3 Rf8 19. O-O-O Nc6 20. c3 Ne7
+21. Rde1 g6 22. b3 Be6 23. f3 Rae8 24. c4 Bd7 25. Nc2 c6 26. Re2 Ng8 27. Rhe1
+Rxe2 28. Rxe2 Nf6 29. Nb4 Ra8 30. Bc2 c5 31. dxc5+ Kxc5 32. Nd3+ Kd4 33. Re7
+bxc4 34. bxc4 Ba4 35. Bxa4 Kxd3 36. c5 Kc3 37. Bb3 Rc8 38. Rf7 Ne8 39. Rxh7
+Rxc5 40. Rd7 Nc7 41. Rd2 Nb5 42. Rc2+ Kb4 43. Rxc5 Kxc5 44. Bf7 Nc3 45. Bxg6
+Nxa2+ 46. Kb2 Nb4 47. Bxf5 Nd5 48. h5 Ne3 49. h6 Nc4+ 50. Ka2 Ne5 51. h7 Nf7
+52. g4 Kd6 53. g5 Ke5 54. g6 1-0

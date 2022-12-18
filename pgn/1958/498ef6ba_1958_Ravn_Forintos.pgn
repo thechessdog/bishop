@@ -1,0 +1,22 @@
+[Event "Munich olm fin-B"]
+[Site "Munchen olm"]
+[Date "1958.01.01"]
+[Round "2"]
+[White "Ravn, Palle"]
+[Black "Forintos, Gyozo V"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "498ef6ba"]
+[Epoch "Bishop"]
+[BlackID "700690"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Nc6 9. a3 Bxc3 10. Nxc3 O-O 11. Nxe4 dxe4 12. Bc3 Qd5 13. Qd2 Rd8 14. Rd1 Ne7
+15. Ba5 Rf8 16. Bc7 Nf5 17. Qc3 Qc6 18. Bf4 b5 19. Be2 Bb7 20. O-O Rad8 21.
+Rfe1 Rd7 22. Bg4 Ne7 23. Bd6 f5 24. Be2 Rf6 25. Qb3 a6 26. f4 Rg6 27. Rf1 Nd5
+28. Bh5 Rh6 29. Be8 Qc8 30. Bxd7 Qxd7 31. Rde1 Rg6 32. Re2 a5 33. Rc1 Qc6 34.
+Qa2 h6 35. b4 axb4 36. axb4 Nxb4 37. Qa5 e3 38. d5 Qxd5 39. c6 Bxc6 40. Kf1
+Rxg2 0-1

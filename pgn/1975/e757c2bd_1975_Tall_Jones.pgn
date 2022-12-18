@@ -1,0 +1,17 @@
+[Event "Michigan"]
+[Site "Michigan"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Tall, E."]
+[Black "Jones, Brian"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7, 5.e3 O-O"]
+[HashCode "e757c2bd"]
+[Epoch "Bishop"]
+[BlackID "3200663"]
+[BlackCountry "AUS"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. cxd5 exd5 7. Nf3 Ne4 8.
+Bxe7 Nxc3 9. Bxd8 Nxd1 10. Be7 Re8 11. Ba3 Nxe3 12. fxe3 Rxe3+ 13. Kf2 1-0

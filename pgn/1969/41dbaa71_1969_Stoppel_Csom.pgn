@@ -1,0 +1,28 @@
+[Event "Athene zt"]
+[Site "Athene zt"]
+[Date "1969.01.01"]
+[Round "12"]
+[White "Stoppel, Franz"]
+[Black "Csom, Istvan"]
+[Result "0-1"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "41dbaa71"]
+[Epoch "Bishop"]
+[WhiteID "1601288"]
+[WhiteCountry "AUT"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 b6 5. Nf3 Bb7 6. Bd2 O-O 7. Bd3 c5 8. dxc5
+bxc5 9. O-O d6 10. Be2 Nc6 11. Qc2 Qe7 12. Rfd1 Rfd8 13. Rac1 Rab8 14. b3 Ba3
+15. Ra1 a6 16. Bc1 Nb4 17. Qd2 Bxc1 18. Raxc1 Ne4 19. Nxe4 Bxe4 20. Ne1 Qc7 21.
+Bd3 Ba8 22. Bb1 a5 23. Nd3 a4 24. Nxb4 Rxb4 25. Bc2 Bc6 26. e4 Rbb8 27. Qc3 e5
+28. Rd2 axb3 29. axb3 f6 30. Ra1 Qb7 31. f3 Kf8 32. Rdd1 Ke7 33. Ra5 Ra8 34.
+Rda1 Rdb8 35. Kf2 Qc8 36. Ra7+ Rxa7 37. Rxa7+ Rb7 38. Qa5 Rxa7 39. Qxa7+ Bd7
+40. Bd3 g6 41. Ke2 Qf8 42. b4 cxb4 43. c5 dxc5 44. Bb5 Qc8 45. Bxd7 Qxd7 46.
+Qxc5+ Qd6 47. Qa7+ Kd8 48. Qxh7 Qa6+ 49. Kf2 Qb6+ 50. Ke2 Qa6+ 51. Kf2 Qa2+ 52.
+Ke3 Qb3+ 53. Kf2 Qc2+ 54. Kg3 b3 55. Qh8+ Kd7 56. Qg7+ Kc8 57. Qg8+ Kb7 58.
+Qf7+ Kb6 59. Qxf6+ Qc6 60. Qd8+ Kb5 61. Qb8+ Qb6 62. Qxe5+ Kc4 63. Qb2 Qd4 64.
+Qb1 b2 65. Qa2+ Kc3 66. Qa3+ Kc2 67. Qa2 Qc5 68. f4 Kc1 0-1

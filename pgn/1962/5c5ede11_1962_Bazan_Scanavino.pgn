@@ -1,0 +1,21 @@
+[Event "Argentina"]
+[Site "Buenos Aires"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Bazan, Osvaldo"]
+[Black "Scanavino, Eduardo"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "5c5ede11"]
+[Epoch "Bishop"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. c3 b6 7. Bd3 c5 8. O-O
+cxd4 9. cxd4 Bf5 10. Bxf5 gxf5 11. Rc1 Qd7 12. Ne5 Qe6 13. Bxf6 Bxf6 14. Ndf3
+Bxe5 15. Nxe5 f6 16. Nd3 Nc6 17. Qf3 Qd7 18. Rc3 Rac8 19. Rfc1 e6 20. h3 Kh8
+21. Qf4 a5 22. a3 a4 23. Qh6 Rf7 24. Nf4 Na7 25. Rxc8+ Nxc8 26. Nh5 Qd8 27.
+Nxf6 Rxf6 28. Rxc8 Qxc8 29. Qxf6+ Kg8 30. Kh2 Qc6 31. h4 Qd6+ 32. f4 Qd7 33. h5
+Qf7 34. Qxf7+ Kxf7 35. Kh3 Kf6 36. Kh4 b5 37. Kh3 Kf7 38. Kh4 Kf6 39. g4 fxg4
+40. Kxg4 h6 41. Kg3 Kf7 42. Kf3 Ke7 43. e4 1-0

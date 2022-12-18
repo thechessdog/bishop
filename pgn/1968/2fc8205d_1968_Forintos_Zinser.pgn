@@ -1,0 +1,23 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1968.01.01"]
+[Round "6"]
+[White "Forintos, Gyozo V"]
+[Black "Zinser, Sylvain"]
+[Result "1-0"]
+[ECO "A12"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system"]
+[HashCode "2fc8205d"]
+[Epoch "Bishop"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+[BlackID "600687"]
+[BlackCountry "FRA"]
+
+1. Nf3 d5 2. c4 c6 3. b3 Bf5 4. g3 e6 5. Bg2 Nf6 6. O-O Bc5 7. Bb2 O-O 8. d3
+Qe7 9. Nbd2 Rd8 10. a3 a5 11. Qe1 h6 12. e4 dxe4 13. dxe4 Bh7 14. e5 Ne8 15.
+Ne4 Nd7 16. Qe2 Bb6 17. Nfd2 Nc5 18. Nxc5 Bxc5 19. Be4 Rd7 20. Bxh7+ Kxh7 21.
+Ne4 Rad8 22. Bc3 b6 23. Nxc5 Qxc5 24. b4 Qe7 25. bxa5 bxa5 26. Bxa5 Rc8 27. Bb6
+g6 28. Rfb1 Nc7 29. a4 Na6 30. a5 c5 31. Rd1 Nb8 32. Qe4 Nc6 33. Rxd7 Qxd7 34.
+Bxc5 1-0

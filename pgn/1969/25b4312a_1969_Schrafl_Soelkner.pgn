@@ -1,0 +1,17 @@
+[Event "Graz"]
+[Site "Graz"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Schrafl"]
+[Black "Soelkner"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "25b4312a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nf6 5. Bc4 Be6 6. Bxe6 fxe6 7. fxe5
+dxe5 8. Nxe5 Qd4 9. Nd3 Bb6 10. Qe2 O-O 11. b3 c5 12. Bb2 Nc6 13. Nd5 exd5
+14. Bxd4 Nxd4 15. Qd1 Nxe4 16. Qb1 Rae8 17. Kd1 c4 18. Nb4 Ne2 0-1
+

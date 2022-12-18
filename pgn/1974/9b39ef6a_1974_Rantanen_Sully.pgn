@@ -1,0 +1,18 @@
+[Event "Nice olm fin-A"]
+[Site "Nice"]
+[Date "1974.??.??"]
+[Round "1"]
+[White "Rantanen, Yrjo A."]
+[Black "Sully, David John"]
+[Result "1-0"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "9b39ef6a"]
+[Epoch "Bishop"]
+[WhiteID "500038"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Be3 exd4 11. cxd4 Na5 12. Bc2 c5 13. dxc5 dxc5 14. Qe2 Nc4
+15. Nc3 Nxe3 16. Qxe3 Bxf3 17. Qxf3 b4 18. Rad1 Qc7 19. e5 1-0

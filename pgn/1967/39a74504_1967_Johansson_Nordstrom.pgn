@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Johansson, Martin"]
+[Black "Nordstrom, Eric"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "39a74504"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Nbd7 8. f4
+b5 9. Bf3 Bb7 10. e5 Bxf3 11. Nxf3 Qb6+ 12. Kh1 Ng4 13. Qe2 d5 14. Ng5 Nh6 15.
+f5 O-O-O 16. a4 b4 17. fxe6 fxe6 18. Be3 Bc5 19. a5 Qc6 20. Na4 Bxe3 21. Qxe3
+Rdf8 22. Rf4 Rf5 23. Rxb4 Rhf8 24. Nf3 Kd8 25. Kg1 Rxf3 26. gxf3 Rf5 27. Rf4
+Rg5+ 28. Kh1 Nf5 29. Qc3 Qb5 30. Nb6 Nc5 31. Re1 d4 32. Rxd4+ Nxd4 33. Qxd4+
+Ke8 34. Nc4 Qc6 35. Nd6+ Ke7 36. Qf4 1-0

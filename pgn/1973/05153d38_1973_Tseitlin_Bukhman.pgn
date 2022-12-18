@@ -1,0 +1,28 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Tseitlin, Mikhail S"]
+[Black "Bukhman, Eduard"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "05153d38"]
+[Epoch "Bishop"]
+[BlackID "4102088"]
+[BlackCountry "RUS"]
+[WhiteCountry "BLR"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Nge2 Re8 9. g3 e6 10. d6 Qxd6 11. Bg2 Nc6 12. O-O Nd5 13. a3 Nxc3 14. bxc3 e5
+15. d5 Na5 16. Qa4 Qd8 17. Bg5 f6 18. Be3 Bd7 19. Qb4 Bf8 20. d6 b6 21. c4 Be6
+22. Rfd1 Nxc4 23. Rac1 Bxd6 24. Rxd6 Qxd6 25. Rxc4 Qd1+ 26. Bf1 Rac8 27. Nc3
+Rxc4 28. Qb5 Qd7 29. Qxd7 Bxd7 30. Bxc4+ Be6 31. Ba6 Re7 32. f4 Bb3 33. Kf2 Rc7
+34. Bd2 exf4 35. gxf4 Kf7 36. Ke3 Bc4 37. Bxc4+ Rxc4 38. Nb5 Ke6 39. Nxa7 Kd7
+40. Nb5 Rc5 41. Nc3 Rh5 42. a4 f5 43. Kf3 Rxh2 44. Be3 Rh3+ 45. Kf2 Kc6 46. Ne2
+Kb7 47. Nc3 Rh2+ 48. Kg3 Rb2 49. Nd5 Rb3 50. Kf2 Ra3 51. Nf6 h5 52. Nd7 h4 53.
+Nxb6 h3 54. Nc4 Rc3 55. Na5+ Ka6 56. Bd2 Rc2 57. Nb3 Rb2 58. Nc5+ Ka7 59. Kg3
+Rxd2 60. Kxh3 Kb6 61. Ne6 Kc6 62. Nf8 Kd5 63. Nxg6 Ke4 64. Kh4 Ra2 65. Kg5 Rxa4
+66. Ne7 Ra7 67. Nc8 Rg7+ 68. Kf6 Rg8 69. Ne7 Re8 70. Ng6 Ra8 71. Ne7 Re8 72.
+Ng6 Rb8 73. Ne7 Rb7 0-1

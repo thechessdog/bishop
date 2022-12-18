@@ -1,0 +1,19 @@
+[Event "CSR-ch sf"]
+[Site "Bratislava"]
+[Date "1956.??.??"]
+[Round "1"]
+[White "Altschul, Milos"]
+[Black "Lax, Hendrich"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "ddfde4f9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nc6 8.
+O-O Bd7 9. Be3 Qc7 10. f4 h5 11. h3 b5 12. f5 b4 13. fxe6 fxe6 14. Nb1 Qc8
+15. Nd2 Ne5 16. c3 bxc3 17. Rc1 Qb7 18. Rxc3 d5 19. N2f3 Nxf3+ 20. Qxf3 Bb4
+21. Rcc1 O-O 22. exd5 exd5 23. Qg3 Qb8 24. Qxb8 Raxb8 25. Nc6 Rb7 26. Nxb4
+Rxb4 27. Bc5 1-0
+

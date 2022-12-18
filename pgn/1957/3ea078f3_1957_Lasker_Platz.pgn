@@ -1,0 +1,20 @@
+[Event "Manhattan"]
+[Site "Manhattan"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Lasker, Emanuel"]
+[Black "Platz"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "3ea078f3"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4 Nc6
+9. Nf3 Nge7 10. Bd3 Bb8 11. O-O a6 12. Nbxd4 Nxd4 13. Nxd4 Nc6 14. Nf3 Ba7+ 15.
+Kh1 h6 16. Bb2 Bd7 17. Rc1 Rc8 18. c4 dxc4 19. Rxc4 Ne7 20. Rc2 Nd5 21. Be4 Ne3
+22. Qe2 Bb5 23. Rxc8 Qxc8 24. Bd3 Bxd3 25. Qxd3 Nxf1 26. Qxf1 O-O 27. h3 Rd8
+28. Qe2 Qd7 29. Kh2 Qd3 30. Qxd3 Rxd3 31. Kg3 Rb3 32. Bc1 Be3 33. Bxe3 Rxe3 34.
+a4 Ra3 35. b5 a5 36. Kg4 Rxa4 37. g3 Rb4 38. Kh5 a4 0-1

@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Kollowa"]
+[Black "Herschel"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "e5512028"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. a3 Bd6 8.
+Nge2 Re8 9. Ng3 c6 10. b4 Nbd7 11. O-O Nf8 12. f4 a5 13. b5 c5 14. e4 dxe4
+15. Ncxe4 cxd4 16. Bb2 Bc7 17. Nxf6+ Qxf6 18. Ne4 Qd8 19. Nc5 Ne6 20. Nxe6
+Rxe6 21. Rc1 Bb6 22. f5 Re3 23. Rc4 Bd7 24. a4 Qf6 25. Bc1 Re7 26. Qg4 h6
+27. Qf3 Rae8 28. Rc2 Bc8 29. Bd2 Re5 1/2-1/2
+

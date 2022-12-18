@@ -1,0 +1,16 @@
+[Event "Krynica"]
+[Site "Krynica"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Sojka"]
+[Black "Balcarek, Wiktor"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "a9d57c77"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. Nf3 Nf6 5. e3 c6 6. Bd3 Bd6 7. O-O O-O 8. Ne5
+Bxe5 9. dxe5 Ng4 10. f4 d4 11. Ne2 dxe3 12. Qb3 Na6 13. Bc2 Nc5 14. Qa3 Ne4 15.
+Bxe3 Nd2 16. Bxd2 Qxd2 17. Qd3 Rd8 18. Rad1 Rxd3 19. Bxd3 Qe3+ 0-1

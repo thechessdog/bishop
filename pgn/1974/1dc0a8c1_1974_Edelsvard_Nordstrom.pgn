@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Edelsvard, Olle"]
+[Black "Nordstrom, Eric"]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "1dc0a8c1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 c5 6. d5 d6 7. Be3 Nbd7 8.
+Qd2 Re8 9. Nh3 Ne5 10. Nf2 a6 11. Be2 Qa5 12. O-O Rb8 13. a3 b5 14. b4 cxb4
+15. axb4 Qc7 16. cxb5 Nc4 17. Bxc4 Qxc4 18. Rfc1 Nd7 19. Nd3 Bd4 20. Ra5
+Ne5 21. Nxe5 dxe5 22. Na2 Qb3 23. Bxd4 exd4 24. bxa6 e5 25. a7 Ra8 26. Rc7
+Rd8 27. Nc1 Qb1 28. Rc2 1-0
+

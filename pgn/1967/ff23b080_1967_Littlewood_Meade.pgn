@@ -1,0 +1,18 @@
+[Event "Oxford ch-BCF"]
+[Site "Oxford ch-BCF"]
+[Date "1967.08.01"]
+[Round "6"]
+[White "Littlewood, Norman"]
+[Black "Meade, PJ."]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "ff23b080"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 O-O 6. Bd3 d5 7. O-O Nc6 8. a3
+cxd4 9. exd4 Be7 10. b4 dxc4 11. Bxc4 a6 12. Re1 b5 13. Bb3 Bb7 14. Bg5 Rc8 15.
+Qd3 Re8 16. Rac1 Nd5 17. Ne4 Bxg5 18. Nfxg5 f5 19. Bxd5 exd5 20. Qh3 h6 21.
+Qxf5 hxg5 22. Nxg5 1-0

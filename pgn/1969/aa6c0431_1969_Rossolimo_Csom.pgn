@@ -1,0 +1,18 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Rossolimo, Nicolas"]
+[Black "Csom, Istvan"]
+[Result "1/2-1/2"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[HashCode "aa6c0431"]
+[Epoch "Bishop"]
+[BlackID "700100"]
+[WhiteCountry "USA"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bb5+ Bd7 6. Bxd7+ Nbxd7 7. Qe2 Qb6
+8. c3 Nc5 9. f3 g6 10. Na3 Bg7 11. Nc4 Qd8 12. O-O O-O 13. Rd1 Re8 14. Bg5 Qc8
+15. Rac1 Ne6 16. Bh4 Nf4 17. Qf1 d5 18. exd5 N4xd5 19. Bf2 1/2-1/2

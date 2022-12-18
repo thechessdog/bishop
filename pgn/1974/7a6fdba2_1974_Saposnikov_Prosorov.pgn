@@ -1,0 +1,18 @@
+[Event "corr WER/K"]
+[Site "corr WER/K"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Saposnikov"]
+[Black "Prosorov"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "7a6fdba2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Bb4 7. O-O Nf6
+8. Bg5 Bxc3 9. Bxf6 gxf6 10. bxc3 d6 11. f4 h5 12. Bxh5 Qxc3 13. Rf3 Qc5
+14. Rh3 Ke7 15. Kh1 Bd7 16. Nb3 Qc7 17. Bxf7 Rxh3 18. gxh3 Bc6 19. Bg6 f5
+20. Nd2 Nd7 21. Qh5 Nf6 22. Qh4 Qa5 0-1
+

@@ -1,0 +1,21 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Szily, Jozsef"]
+[Black "Sallay, Roland"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "33740f61"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. Nf3 d5 2. d4 c5 3. e3 e6 4. c4 Nf6 5. Nc3 Nc6 6. a3 a6 7. b3 cxd4 8. exd4
+Ne4 9. Bb2 Nxc3 10. Bxc3 Be7 11. Bd3 O-O 12. O-O Rb8 13. Bb2 Bf6 14. Qe2 Ne7
+15. Ne5 g6 16. Rad1 Bg7 17. Rfe1 Bd7 18. Ba1 dxc4 19. bxc4 Ba4 20. Rb1 Nc6 21.
+d5 exd5 22. cxd5 Nxe5 23. Bxe5 Re8 24. Qb2 Qa5 25. h3 Bxe5 26. Rxe5 Rxe5 27.
+Qxe5 Re8 28. Qd4 Re1+ 29. Rxe1 Qxe1+ 30. Kh2 Bd7 31. Qf6 Qe8 32. g3 Qc8 33. h4
+Bf5 34. Bxf5 Qxf5 35. Qd4 Kf8 36. g4 Qd7 37. d6 Kg8 38. Kg3 f5 39. gxf5 gxf5
+40. Kf4 b5 41. Qb6 Qe6 42. Qd4 Qd7 43. Qf6 a5 44. Ke5 Qf7 45. Qe6 Kf8 46. d7
+Qe7 47. Kd5 b4 48. axb4 axb4 49. Qxf5+ Kg7 50. Qg5+ Kf7 51. d8=Q 1-0

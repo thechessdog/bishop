@@ -1,0 +1,18 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Tomson"]
+[Black "Rumens, David E"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Rubinstein variation"]
+[HashCode "216a4eea"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Nc3 Nf6 5. Qe2 Bf5 6. h3 Nxd5 7. Nxe4 Be7 8. g3
+O-O 9. d3 Nc6 10. Nf3 Bf6 11. Bg2 Nd4 12. Qd1 Re8 13. O-O Bxe4 14. dxe4 Rxe4
+15. c3 Ne2+ 16. Kh2 Nxc1 17. Ng5 Re2 18. Qxc1 Ne3 19. Rg1 Bxg5 20. fxg5 Qxg5
+21. Qb1 Qd5 0-1

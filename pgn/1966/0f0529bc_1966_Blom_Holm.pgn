@@ -1,0 +1,23 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Blom, Kaj"]
+[Black "Holm, Sejer"]
+[Result "0-1"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence"]
+[HashCode "0f0529bc"]
+[Epoch "Bishop"]
+[BlackID "1400304"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. Nf3 d5 5. e3 Nc6 6. a3 cxd4 7. exd4 Be7 8. Bd3
+dxc4 9. Bxc4 O-O 10. O-O b6 11. b4 Bb7 12. Bb2 Rc8 13. Qd3 Qc7 14. Ba2 Rfd8 15.
+Rac1 Qf4 16. Qe3 Qb8 17. Bxe6 fxe6 18. Qxe6+ Kh8 19. Ng5 Rf8 20. d5 Nd4 21.
+Nf7+ Rxf7 22. Qxf7 Bd6 23. Ne4 Rxc1 24. Rxc1 Bxd5 25. Nxd6 Ne2+ 26. Kf1 Bxf7
+27. Rc8+ Qxc8 28. Nxc8 Bc4 29. Ke1 Nf4 30. Kd2 Nxg2 31. Kc3 Bf1 32. a4 h5 33.
+Kd4 h4 34. Nxa7 Ne1 35. Nc8 Nf3+ 36. Ke3 Nxh2 37. f3 Nhg4+ 38. fxg4 h3 39. g5
+Ng4+ 0-1

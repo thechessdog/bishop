@@ -1,0 +1,19 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1960.01.01"]
+[Round "14"]
+[White "Polugaevsky, Lev"]
+[Black "Petrosian, Tigran"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "865de85b"]
+[Epoch "Bishop"]
+[WhiteCountry "BLR"]
+[BlackCountry "GEO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+b6 9. Qe2 Bb7 10. Rd1 Nbd7 11. d5 Bxc3 12. dxe6 Ba5 13. exd7 Qc7 14. e4 Nxd7
+15. Ng5 Rad8 16. Bxf7+ Rxf7 17. Ne6 Qc8 18. Nxd8 Ba6 19. Qe3 Re7 20. Qb3+ c4
+21. Qa3 Nc5 22. Be3 Rxe4 23. Bxc5 Qxc5 24. Qf3 1-0

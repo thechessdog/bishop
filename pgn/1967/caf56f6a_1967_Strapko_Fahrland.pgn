@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Strapko, G."]
+[Black "Fahrland, P."]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "caf56f6a"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O g6
+8. Ne4 Qd8 9. Nxd4 Bd7 10. Bg5 Qc7 11. Qd3 Bc6 12. Nf6+ Nxf6 13. Bxf6 Rg8
+14. Bxe6 fxe6 15. Nxe6 Qd6 16. Qb3 Kf7 17. Nd8+ Kxf6 18. Qf7+ Kg5 19. Ne6+
+Kh6 20. Rad1 Rg7 21. Qf6 1-0
+

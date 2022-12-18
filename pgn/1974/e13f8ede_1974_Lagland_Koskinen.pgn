@@ -1,0 +1,20 @@
+[Event "corr FIN jub10"]
+[Site "corr FIN jub10"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Lagland, G."]
+[Black "Koskinen, U."]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Simagin variation"]
+[HashCode "e13f8ede"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Bd6 7. c5 Be7 8. b4
+b6 9. Nf4 c6 10. Bb2 bxc5 11. bxc5 Nfd7 12. Qb3 Bf6 13. Be2 e5 14. Nfxd5
+exd4 15. Nxf6+ Qxf6 16. exd4 Qxd4 17. Nb5 Qf4 18. Qc3 Nf6 19. Qf3 Qxf3 20.
+Bxf3 Re8+ 21. Kd2 Rd8+ 22. Ke3 a6 23. Nd6 Nd5+ 24. Bxd5 cxd5 25. Bc3 Nc6
+26. Rab1 Ra7 27. Rb6 Rc7 28. Rd1 Ne7 29. Kd4 h5 30. Re1 Nc6+ 31. Rxc6 Rxc6
+32. Ba5 1-0
+

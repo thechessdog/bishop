@@ -1,0 +1,24 @@
+[Event "Hungary"]
+[Site "Budapest"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Antal, Sebestyen"]
+[Black "Musil, Vojko"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "bc0b2cc5"]
+[Epoch "Bishop"]
+[WhiteID "717967"]
+[WhiteCountry "HUN"]
+[BlackID "14600145"]
+[BlackCountry "SLO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Nc6 10. Be2 Qa3 11. O-O Be7 12. Qe3 h6 13. Bh4 Nxe4 14. Bxe7 Nxc3
+15. Qxc3 Nxe7 16. Qxg7 Rg8 17. Qxh6 Bd7 18. Qf6 Bc6 19. Bf3 a5 20. Kh1 a4 21.
+Bxc6+ bxc6 22. f5 e5 23. Nd2 Nd5 24. Qh6 O-O-O 25. Rab1 Qe3 26. Qxe3 Nxe3 27.
+Rf2 Nxc2 28. Nc4 Nd4 29. Nb6+ Kc7 30. Nxa4 Ra8 31. Nc3 Rab8 32. Rxb8 Rxb8 33.
+h4 Rh8 34. g3 d5 35. Kg2 e4 36. Kh3 Nf3 37. Kg4 Kd6 38. Kf4 Ne5 39. Nxe4+ dxe4
+40. Kxe4 0-1

@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Treumann"]
+[Black "Kunnemann"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "cafef395"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Bc4 e6 5. O-O d6 6. c3 dxc3 7. Nxc3 Nf6
+8. Qe2 Be7 9. Rd1 Qa5 10. Nb5 d5 11. exd5 exd5 12. Nd6+ Kf8 13. Nxc8 Rxc8
+14. Bb3 h6 15. Bf4 g6 16. Ne5 Qd8 17. Qf3 Bd6 18. Rxd5 Nxd5 19. Bxh6+ 1-0
+

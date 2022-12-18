@@ -1,0 +1,26 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Minev, Nikolay Nikolaev"]
+[Black "Ungureanu, Emil"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "d1081dc6"]
+[Epoch "Bishop"]
+[WhiteCountry "BGR"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d3 Nge7 7. Be3 d6 8. d4
+cxd4 9. cxd4 O-O 10. d5 Nb8 11. Nfd2 f5 12. f3 Rf7 13. Na3 Nd7 14. Bxd7 Bxd7
+15. Rc1 Qa5 16. Ndc4 Qa6 17. Qd2 fxe4 18. fxe4 Rxf1+ 19. Rxf1 Rf8 20. Rc1 b5
+21. Qa5 Qxa5 22. Nxa5 Rc8 23. Nb7 Rxc1+ 24. Bxc1 Nc8 25. Nc2 Bf6 26. Be3 Be8
+27. Kf2 Kf8 28. Nb4 Ke7 29. Na5 Kd7 30. Nac6 Kc7 31. Nxa7 Ne7 32. Ke2 Kb7 33.
+Kd3 Bh4 34. g3 Bf6 35. b3 Bd7 36. Kc3 Bg7 37. a4 bxa4 38. Nac6 Ng8 39. bxa4 Nf6
+40. Kd3 Bh3 41. Nd8+ Kc8 42. Ne6 Bf1+ 43. Kd2 Ne8 44. a5 h5 45. a6 Bf6 46. a7
+Kb7 47. h4 Bb5 48. Nc6 Ka8 49. Kc3 Kb7 50. Na5+ Ka8 51. Nc4 Kb7 52. Kb3 Be7 53.
+Kb4 Ba6 54. Kc3 Bf6 55. Bb6 Be7 56. Na5+ Ka8 57. Nc6 Bf6 58. Nc7+ Nxc7 59. Bxc7
+g5 60. hxg5 Bxg5 61. Bxd6 h4 62. gxh4 Bxh4 63. Bxe5 Be1+ 64. Kc2 Bf2 65. Bb8
+Bc5 66. Kc3 Bb5 67. e5 Kb7 68. e6 Ka8 69. e7 1-0

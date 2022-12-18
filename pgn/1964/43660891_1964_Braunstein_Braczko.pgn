@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Braunstein, A."]
+[Black "Braczko, M."]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "43660891"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 Nd7
+8. d4 exd4 9. Nxd4 O-O 10. Nc3 Nb6 11. Be3 Nc4 12. Rd1 Qe8 13. Bc1 f6 14.
+Qe2 b5 15. b3 Ne5 16. h3 c5 17. Nf5 Bd8 18. Be3 Bxf5 19. exf5 Be7 20. f4
+Nf7 21. Qf3 Qc8 22. g4 Kh8 23. Ne4 c4 24. bxc4 bxc4 25. Ng3 Qe8 26. Rf2 Qa4
+27. c3 Rab8 28. Rfd2 Qa5 29. Bf2 Nd6 30. Re1 Rfe8 31. Qc6 Bf8 32. Rxe8 Nxe8
+33. Qxc4 Nd6 34. Qd3 Qa4 35. Bd4 Nc4 36. Re2 Nb2 37. Qb1 Ba3 38. Kh2 Qc4
+39. Re4 Rd8 40. h4 Qd5 41. g5 c5 42. gxf6 cxd4 43. fxg7+ Kxg7 44. f6+ Kh8
+45. Rxd4 Qa5 46. Qf5 Qc7 47. f7 1-0
+

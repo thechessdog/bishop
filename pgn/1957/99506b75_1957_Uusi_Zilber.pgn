@@ -1,0 +1,18 @@
+[Event "Minsk zt"]
+[Site "Minsk zt"]
+[Date "1957.01.01"]
+[Round "10"]
+[White "Uusi, Gunnar"]
+[Black "Zilber, Israel"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "99506b75"]
+[Epoch "Bishop"]
+[BlackID "2000776"]
+[BlackCountry "USA"]
+[WhiteCountry "EST"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e5 7. Nf3 Be7 8. O-O
+O-O 9. Bg5 Be6 10. Bxf6 Bxc4 11. Bxe7 Qxe7 12. Re1 Nd7 13. Nd5 1/2-1/2

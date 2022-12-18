@@ -1,0 +1,17 @@
+[Event "Appleton"]
+[Site "Appleton"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Webster, Peter"]
+[Black "White, John"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "74842110"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. d4 dxe4 3. f3 exf3 4. Nxf3 f6 5. Bc4 e5 6. O-O e4 7. Ne5 fxe5
+8. Qh5+ Kd7 9. Qf5+ Kc6 10. Qxe4+ Kb6 11. Be3 c5 12. dxc5+ Bxc5 13. Bxc5+
+Kxc5 14. Qxe5+ Kb6 15. Nc3 a6 16. Na4+ Ka7 17. Rf8 Nc6 18. Qc5+ b6 19. Rxd8
+bxc5 20. Rxg8 Rxg8 21. Bxg8 Bf5 22. Bd5 1-0
+

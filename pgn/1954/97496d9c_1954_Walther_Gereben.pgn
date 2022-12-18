@@ -1,0 +1,17 @@
+[Event "Amsterdam olm"]
+[Site "Amsterdam olm"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Gereben, Erno"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "97496d9c"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 a6 5. Ba4 Nf6 6. Bc2 e6 7. d4 Be7 8. O-O
+Qc7 9. Re1 e5 10. dxe5 dxe5 11. Nbd2 O-O 12. Nf1 b5 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Sanchez"]
+[Black "Soto Larrea, M."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "dbd60485"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 c5 4. dxc5 d4 5. Bxf6 exf6 6. Ne4 Bf5 7. Nd6+
+Bxd6 8. cxd6 Qxd6 9. Nf3 Nc6 10. c3 O-O-O 11. cxd4 Qb4+ 12. Qd2 Nxd4 13.
+Rc1+ Nc2+ 14. Rxc2+ Bxc2 15. Qxb4 Rd1# 0-1
+

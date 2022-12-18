@@ -1,0 +1,21 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1972.01.01"]
+[Round "12"]
+[White "Asselin, J."]
+[Black "Crossen, Stephen F"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "b264186c"]
+[Epoch "Bishop"]
+[BlackID "2017741"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 b5 7. Bg2 Bb7 8. O-O
+d6 9. Re1 Nf6 10. Bg5 Nbd7 11. Nd5 exd5 12. exd5+ Kd8 13. Qe2 Kc8 14. Qe8+ Qd8
+15. Qxf7 h6 16. Nc6 hxg5 17. Nxd8 Kxd8 18. a4 b4 19. c3 bxc3 20. bxc3 Rc8 21.
+Rab1 Rc7 22. Qg6 g4 23. Rb4 Nc5 24. a5 Rh6 25. Qb1 Rh5 26. Rf4 Re7 27. Qb6+ Kc8
+28. Rb1 Rhe5 29. h3 Re1+ 30. Rxe1 Rxe1+ 31. Kh2 Be7 32. c4 Nfd7 33. Qb2 Nd3 34.
+Qd2 Nxf4 35. Qxe1 gxh3 36. Qxe7 Nxg2 37. Kxh3 Ne5 38. Qxd6 1-0

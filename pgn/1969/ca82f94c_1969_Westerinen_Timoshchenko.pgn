@@ -1,0 +1,26 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Timoshchenko, Gennadi Anatolyevich"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "ca82f94c"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "SVN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Be7 7. d3 d6 8. Nd5
+Na5 9. Nxe7 Qxe7 10. h3 O-O 11. Bg5 Nxb3 12. axb3 Qe6 13. Nh4 h6 14. Bd2 d5 15.
+exd5 Nxd5 16. Qf3 Rb8 17. O-O-O a5 18. Rde1 Re8 19. g4 a4 20. b4 Nb6 21. Rhg1
+Qa2 22. Bc3 Bb7 23. Qg3 f6 24. Nf5 Rbd8 25. Kd2 Qd5 26. g5 hxg5 27. h4 Qd7 28.
+Ne3 gxh4 29. Qxh4 Qe6 30. Rg6 Nc4+ 31. Nxc4 bxc4 32. Reg1 Rd7 33. Rxf6 Qe7 34.
+Qxc4+ Bd5 35. Qh4 Rd6 36. Rh6 Rxh6 37. Qxh6 Rf8 38. Qh2 Rf5 39. Kc1 Qf6 40. Qg3
+Rxf2 41. Bxe5 Qh6+ 42. Kb1 Rf3 43. Qxg7+ Qxg7 44. Rxg7+ Kf8 45. c4 Bf7 46. Kc2
+c6 47. Kc3 Ke7 48. b5 cxb5 49. cxb5 Rf5 50. d4 Rf3+ 51. Kb4 Rb3+ 52. Kxa4 Rxb2
+53. Ka5 Ke6 54. d5+ Kxe5 55. Rxf7 Kxd5 56. Rc7 Kd6 57. Rc1 Rb3 58. Ka6 Ra3+ 59.
+Kb7 Rb3 60. b6 Rb2 61. Rd1+ Ke7 62. Kc7 Rc2+ 63. Kb8 Rb2 64. b7 Ra2 65. Rd4 1-0

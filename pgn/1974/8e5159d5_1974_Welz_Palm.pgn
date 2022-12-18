@@ -1,0 +1,19 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Welz, P."]
+[Black "Palm, H."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "8e5159d5"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+Qe2 Be7 9. Bg5 Qa5 10. Bd2 Qc7 11. O-O-O Bd7 12. f3 Nc6 13. Nxc6 Bxc6 14.
+Be3 O-O 15. g4 b4 16. Nb1 Bb5 17. Qd2 a5 18. a4 bxa3 19. Nxa3 Rfb8 20. Nxb5
+Rxb5 21. Ba4 Rb4 22. b3 d5 23. c3 dxe4 24. Kb2 Rxa4 25. bxa4 Rb8+ 26. Ka1
+Rb3 27. Qd4 e5 0-1
+

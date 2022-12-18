@@ -1,0 +1,21 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Valent, Ing"]
+[Black "Kaposztas, Miklos"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "b7509a71"]
+[Epoch "Bishop"]
+[BlackID "700711"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 g6 3. Be2 Bg7 4. d4 a6 5. O-O Nc6 6. dxc5 Qa5 7. c3 Qxc5 8. Qd5
+Qb6 9. Nbd2 Nf6 10. Qd3 Qc7 11. Nb3 O-O 12. h3 b5 13. Be3 d6 14. Rfd1 Bb7 15.
+a4 b4 16. Rac1 bxc3 17. Rxc3 Qb8 18. Rc4 a5 19. e5 dxe5 20. Qd2 Rd8 21. Qc1 Nd5
+22. Rxd5 Rxd5 23. Rxc6 Rd8 24. Rb6 Rd6 25. Qc5 Rxb6 26. Qxb6 Bxf3 27. gxf3 Qxb6
+28. Bxb6 Rb8 29. Bxa5 Rxb3 30. Bd8 Rxb2 31. Ba6 Kf8 32. Bb5 e4 33. Bc6 exf3 34.
+a5 Rb1+ 35. Kh2 Be5# 0-1

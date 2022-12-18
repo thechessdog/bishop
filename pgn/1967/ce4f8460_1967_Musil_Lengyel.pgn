@@ -1,0 +1,23 @@
+[Event "Maribor"]
+[Site "Maribor"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Musil, Vojko"]
+[Black "Lengyel, Laszlo"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "ce4f8460"]
+[Epoch "Bishop"]
+[WhiteID "14600145"]
+[WhiteCountry "SLO"]
+[BlackID "701998"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Qe2 Nc6 8.
+O-O Nge7 9. Be3 e5 10. c4 d6 11. Rd1 O-O 12. Nc3 Nb4 13. Bxa7 Rxa7 14. Qe3 Ra8
+15. Rac1 Nxd3 16. Qxd3 Bg4 17. f3 Qb6+ 18. c5 dxc5 19. Qe3 Be6 20. Qxc5 Qxc5+
+21. Nxc5 Ng6 22. Rd6 Rac8 23. Nxe6 fxe6 24. Rcd1 Rfe8 25. Rd7 Rb8 26. Na4 Rec8
+27. Nb6 Rc2 28. R1d2 Rc6 29. R7d6 Nf8 30. Rxc6 bxc6 31. Nc4 Rb5 32. Rd8 Rc5 33.
+b3 Kf7 34. Ra8 1-0

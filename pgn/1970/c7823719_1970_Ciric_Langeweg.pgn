@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1970.07.01"]
+[Round "6"]
+[White "Ciric, Dragoljub M"]
+[Black "Langeweg, Kick"]
+[Result "1-0"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, Benko variation"]
+[HashCode "c7823719"]
+[Epoch "Bishop"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nb3 e6 8.
+O-O Be7 9. Kh1 O-O 10. f4 Rd8 11. Bd3 a6 12. Qf3 Qc7 13. Bd2 b5 14. a3 b4 15.
+axb4 Nxb4 16. Nb5 Qb8 17. Bxb4 axb5 18. Rae1 Re8 19. Nd4 Bd7 20. c3 Qb7 21. h3
+Rab8 22. g4 e5 23. Ne2 Bc6 24. Ng3 exf4 25. Qxf4 Bf8 26. g5 1-0

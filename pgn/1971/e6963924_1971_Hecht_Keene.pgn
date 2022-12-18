@@ -1,0 +1,19 @@
+[Event "FRG-ch International"]
+[Site "Berlin-West"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Hecht, Hans-Joachim"]
+[Black "Keene, Raymond D"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "e6963924"]
+[Epoch "Bishop"]
+[BlackID "400211"]
+[BlackCountry "ENG"]
+[WhiteID "4600320"]
+[WhiteCountry "DEU"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. O-O Nc6 8. Qe1
+b6 9. Qh4 e6 1/2-1/2

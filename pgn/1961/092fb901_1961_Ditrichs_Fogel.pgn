@@ -1,0 +1,16 @@
+[Event "Iowa City"]
+[Site "Iowa City"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Ditrichs, R."]
+[Black "Fogel, M."]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann defence"]
+[HashCode "092fb901"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Bc4 Bf5 5. f3 Nf6 6. fxe4 Nxe4 7. Qf3 Qxd4
+8. Qxf5 Nd6 9. Bxf7+ Nxf7 10. Nf3 Qd7 11. Qe4 Na6 12. O-O O-O-O 13. Be3 Kb8
+14. Rad1 Qe8 15. Ne5 Rxd1 16. Rxd1 Nxe5 17. Qxe5+ Ka8 18. Qa5 1-0
+

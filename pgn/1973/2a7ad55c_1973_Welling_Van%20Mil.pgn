@@ -1,0 +1,19 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Welling, Gerard"]
+[Black "Van Mil, Johannes A J"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Keres (Mason-Steinitz) gambit"]
+[HashCode "2a7ad55c"]
+[Epoch "Bishop"]
+[WhiteID "1000446"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 d5 5. Nxd5 Bg4+ 6. Nf3 Nc6 7. Nxc7+ Kd8
+8. Nxa8 Ne5 9. h3 Bxf3+ 10. gxf3 Qg3 11. d3 Qxf3+ 12. Ke1 Qg3+ 13. Ke2 Qf3+ 14.
+Ke1 Qg3+ 1/2-1/2

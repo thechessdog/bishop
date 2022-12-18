@@ -1,0 +1,19 @@
+[Event "France"]
+[Site "France"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Bessenay, Maurice"]
+[Black "Marić, Rudolf"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "e961462d"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. d4 g6 6. Bg5 Bg7 7. Nf3 Ne4 8.
+cxd5 Nxg5 9. Nxg5 O-O 10. Bc4 e5 11. Nf3 exd4 12. Nxd4 Qh4 13. Nce2 Bg4 14. Rc1
+Nd7 15. O-O Nb6 16. f3 Nxc4 17. Rxc4 Bd7 18. Qb3 Qg5 19. Rb4 b6 20. f4 Qe7 21.
+f5 Rae8 22. Ng3 Qc5 23. f6 Bh6 24. Qc4 a5 25. Qxc5 bxc5 26. Rb7 Bc8 27. Re7
+cxd4 0-1

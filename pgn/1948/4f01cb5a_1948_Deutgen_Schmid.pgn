@@ -1,0 +1,16 @@
+[Event "Celle"]
+[Site "Celle"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Deutgen"]
+[Black "Schmid, Lothar Maximilian Lorenz"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "4f01cb5a"]
+[Epoch "Bishop"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nc3 Bb4 5. Qc2 d5 6. exd6 Bf5 7. Qb3 Nc6 8.
+Nf3 Qxd6 9. e3 O-O-O 10. Be2 Qg6 11. Nh4 Qf6 12. Nxf5 Qxf5 13. O-O Nc5 0-1

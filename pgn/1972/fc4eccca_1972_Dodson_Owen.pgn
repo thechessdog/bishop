@@ -1,0 +1,17 @@
+[Event "corr GB-USA"]
+[Site "corr GB-USA"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Dodson, P."]
+[Black "Owen, John"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "fc4eccca"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Be2 Nbd7 11. O-O b5 12. e5 dxe5 13. fxe5 Nxe5 14. Rxf6 gxf6
+15. Bxf6 Ng6 16. Bf3 Ra7 17. Ndxb5 Bc5+ 18. Kh1 Rd7 19. Nc7+ Kf8 20. Qh6+ 1-0

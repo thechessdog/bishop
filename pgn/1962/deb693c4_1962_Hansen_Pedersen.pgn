@@ -1,0 +1,18 @@
+[Event "radio"]
+[Site "radio"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Hansen, Poul Martin"]
+[Black "Pedersen, Eigil"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[HashCode "deb693c4"]
+[Epoch "Bishop"]
+[WhiteID "1412388"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. Nf3 Bg4 6. Be2 dxe5 7. Nxe5 Bxe2 8.
+Qxe2 Qxd4 9. Nc3 e6 10. Nb5 Bb4+ 11. Kf1 Qd8 12. Qg4 Nc6 13. Bf4 O-O 14. Rd1
+Qf6 15. Nd3 Be7 16. Bxc7 Na4 17. Qe2 Rac8 18. Bg3 Rfd8 19. Na3 Bxa3 0-1

@@ -1,0 +1,17 @@
+[Event "corr Wch5 sf"]
+[Site "corr Wch5 sf"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Zanta, J."]
+[Black "Mahel, V."]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[HashCode "b9943d3d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. c3 d5 10. exd5 Nxd5 11. Nxe5 Nxe5 12. Rxe5 Nf4 13. Re3 Bd6 14.
+Rg3 Qe7 15. Kf1 Rae8 16. Na3 Nxg2 17. Nc2 Bxg3 18. fxg3 Qd7 19. d4 Qxh3 0-1
+

@@ -1,0 +1,23 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Milicevic, Miodrag"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "3ad30574"]
+[Epoch "Bishop"]
+[WhiteID "900010"]
+[BlackID "905364"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Bxf6
+gxf6 9. Be2 b5 10. Bh5 b4 11. Nce2 Bg7 12. f5 O-O 13. fxe6 fxe6 14. Nf4 Qe7 15.
+O-O e5 16. Nf5 Qa7+ 17. Kh1 Bxf5 18. exf5 exf4 19. Bf3 Nd7 20. Bxa8 Qxa8 21.
+Qxd6 Ne5 22. Rxf4 a5 23. Rd1 Nf7 24. Qd5 Qa7 25. Qe6 Qb8 26. Rg4 Kh8 27. Rgd4
+Ne5 28. h3 Qc7 29. R1d2 Bh6 30. Rd8 Qf7 31. R2d7 Qxe6 32. fxe6 Nxd7 33. e7 Kg7
+34. Rxf8 1-0

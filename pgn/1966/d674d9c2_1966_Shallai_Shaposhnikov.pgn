@@ -1,0 +1,19 @@
+[Event "match"]
+[Site "match"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Shallai"]
+[Black "Shaposhnikov, Yuri"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "d674d9c2"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 c5 6. d5 d6 7. Nf3 e6 8. Be2
+exd5 9. exd5 Nh5 10. O-O Bxc3 11. bxc3 Ng7 12. Ng5 Nd7 13. f5 Nxf5 14. Bd3
+Ng7 15. Ne4 f5 16. Nxd6 Nb6 17. Bf4 a6 18. Qd2 Rf6 19. Nxc8 Qxc8 20. Rae1
+Qd7 21. Be5 Rf7 22. Bxg7 Rxg7 23. Re6 Na4 24. Bc2 b5 25. Bxa4 bxa4 26. Qe3
+Rc8 27. Re1 Rc7 28. d6 1-0
+

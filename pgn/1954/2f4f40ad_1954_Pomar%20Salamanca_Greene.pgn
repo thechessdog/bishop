@@ -1,0 +1,17 @@
+[Event "Hollywood op"]
+[Site "Hollywood"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Pomar Salamanca, Arturo"]
+[Black "Greene, Sanford"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "2f4f40ad"]
+[Epoch "Bishop"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. a3 cxd4 6. exd4 Be7 7. Bd3 d5 8. c5
+O-O 9. Nf3 b6 10. b4 a5 11. Bf4 Nfd7 12. O-O f5 13. Nb5 Na6 14. Qe2 Nf6 15. Ne5
+Qe8 16. cxb6 1-0

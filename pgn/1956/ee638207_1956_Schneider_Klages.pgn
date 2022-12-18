@@ -1,0 +1,21 @@
+[Event "Hitzacker"]
+[Site "Hitzacker"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Shneider, Aleksandr"]
+[Black "Klages"]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "ee638207"]
+[Epoch "Bishop"]
+[WhiteID "14100045"]
+[WhiteCountry "UKR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7 8.
+Be3 a5 9. Nd5 Nxd5 10. exd5 Nb8 11. a4 O-O 12. O-O Bg5 13. f4 exf4 14. Bxf4
+Bxf4 15. Rxf4 Nd7 16. Bd3 Qg5 17. Qd2 Ne5 18. Raf1 Bh3 19. Bb5 Rfd8 20. Kh1 Bd7
+21. Bxd7 Rxd7 22. Qc3 Qd8 23. Qh3 Rc8 24. Nd4 h6 25. b3 Ng6 26. Rg4 Re7 27. c4
+Qe8 28. Qc3 Re4 29. Nf5 Qe5 30. Qxe5 Rxe5 31. Nxd6 Rb8 32. Nxf7 Rf8 33. Rxg6
+Rxf7 34. Kg1 Re3 35. Rxf7 Kxf7 36. Rb6 1-0

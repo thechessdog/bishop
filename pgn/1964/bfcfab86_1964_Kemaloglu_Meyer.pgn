@@ -1,0 +1,16 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Kemaloglu, T."]
+[Black "Meyer, Holger"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "bfcfab86"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8. b3 O-O
+9. Bb2 Ne4 10. Bd3 Nxc3 11. Bxc3 dxc4 12. bxc4 Qd7 13. Qh5 h6 14. Qf3 Rc8 15.
+d5 e5 16. Nh5 g6 17. Qg3 Kh7 18. Qxe5 Rg8 19. Nf6+ Bxf6 20. Qxf6 c6 21. h4 1-0

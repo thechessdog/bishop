@@ -1,0 +1,22 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Petran, Pal"]
+[Black "Tompa, Janos"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "7925b150"]
+[Epoch "Bishop"]
+[WhiteID "700304"]
+[WhiteCountry "HUN"]
+[BlackID "700193"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Bd3 e5 6. Ne2 d5 7. O-O dxc4 8. Bxc4
+O-O 9. a3 Bd6 10. d5 Ne7 11. Ng3 c6 12. dxc6 Nxc6 13. Nge4 Nxe4 14. Nxe4 Bc7
+15. Qh5 Qe7 16. Bd2 h6 17. Rac1 Rd8 18. Bb4 Nxb4 19. Bxf7+ Qxf7 20. Qxf7+ Kxf7
+21. Rxc7+ Rd7 22. Rxd7+ Bxd7 23. axb4 Bc6 24. Nc3 Rd8 25. b5 Be8 26. Ra1 Rd2
+27. Rxa7 Rxb2 28. Rxb7+ Kg6 29. h4 Rb3 30. Re7 Bf7 31. Ne4 Rxb5 32. h5+ 1-0

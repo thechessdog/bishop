@@ -1,0 +1,19 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Stabenow, J."]
+[Black "Strickert, H."]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "fd1e8486"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h6 8. h5
+Bh7 9. f4 Nc6 10. Be3 cxd4 11. Nxd4 Bb4 12. Bd3 Bxd3 13. Qxd3 Nge7 14.
+O-O-O Nxd4 15. Bxd4 Nc6 16. f5 Nxd4 17. Qxd4 Bxc3 18. bxc3 Qa5 19. fxe6
+fxe6 20. Rhf1 Rc8 21. Qd3 Qxc3 22. Qg6+ Kd8 23. Rxd5+ Kc7 24. Qd3 Kb8 25.
+Qxc3 Rxc3 26. Rd6 Rhc8 27. Rf2 R3c6 28. Rd7 R6c7 29. Rxc7 1/2-1/2
+

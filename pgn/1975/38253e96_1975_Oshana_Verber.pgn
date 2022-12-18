@@ -1,0 +1,20 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Oshana, D."]
+[Black "Verber, R."]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "38253e96"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d3 e5 3. Nf3 d6 4. g3 f5 5. Bg2 Nf6 6. Nc3 g6 7. Qe2 Bg7 8. Bg5
+h6 9. Bxf6 Qxf6 10. O-O-O f4 11. d4 O-O 12. Qc4+ Kh8 13. dxe5 dxe5 14. h4
+Na6 15. gxf4 Be6 16. Qe2 Qxf4+ 17. Kb1 Bg4 18. Rd3 Nc5 19. Re3 b5 20. Qe1
+Qf7 21. Rg1 b4 22. Nd1 a5 23. Bh1 Be6 24. b3 Rfb8 25. Nd2 a4 26. Reg3 Qa7
+27. Qe3 axb3 28. Nxb3 Qxa2+ 29. Kc1 Nxb3+ 30. cxb3 Qa1+ 31. Kd2 Rd8+ 32.
+Ke2 Ra2+ 33. Kf3 Rxd1 0-1
+

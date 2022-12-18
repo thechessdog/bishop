@@ -1,0 +1,20 @@
+[Event "Cardenas"]
+[Site "Cardenas"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Martinez, Gustavo"]
+[Black "Yepez, Olavo"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "52800223"]
+[Epoch "Bishop"]
+[BlackID "3600033"]
+[BlackCountry "ECU"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Nc5 10. h3 Re8 11. Be3 Ncxe4 12. Nxe4 Nxe4 13. Qc2 Nxg3 14. fxg3
+Rxe3 15. Nf3 Qe7 16. Rae1 Bd7 17. Qf2 Re8 18. Kh2 Bc6 19. Rxe3 Qxe3 20. Ng5
+Qxf2 21. Rxf2 Bxg2 22. Kxg2 h6 23. Nf3 Re3 24. Rc2 f5 25. Kf2 Re4 26. b3 Kf7
+27. Nd2 Bd4+ 28. Kf1 Re3 0-1

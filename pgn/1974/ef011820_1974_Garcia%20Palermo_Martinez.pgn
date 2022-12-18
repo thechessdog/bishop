@@ -1,0 +1,17 @@
+[Event "Caseros ch-ARG"]
+[Site "Caseros ch-ARG"]
+[Date "1974.01.01"]
+[Round "8"]
+[White "Garcia Palermo, Carlos"]
+[Black "Martinez, Carlos"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "ef011820"]
+[Epoch "Bishop"]
+[WhiteID "110124"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Qa3 10. Bd3 Be7 11. O-O Nc6 12. Rae1 h6 13. Bh4 Nxe4 14. Rxe4 1-0

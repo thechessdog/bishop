@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Sneiders, E."]
+[Black "Ruys, F."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "4a6554b6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 exf3 5. Qxf3 e6 6. Bf4 Bb4 7. Bd3 Nc6
+8. Ne2 Bd7 9. O-O Ne7 10. Be5 Bc6 11. Ne4 Nf5 12. N2g3 Bxe4 13. Nxe4 O-O
+14. Bxf6 gxf6 15. c3 Be7 16. Qh5 Re8 17. Rf3 1-0
+

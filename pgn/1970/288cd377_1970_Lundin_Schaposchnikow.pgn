@@ -1,0 +1,19 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Lundin, A."]
+[Black "Schaposchnikow, J."]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "288cd377"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. h4 Qa5 11. g4 Rfc8 12. Nb3 Ne5 13. Be2 Qd8 14. h5 b5
+15. hxg6 hxg6 16. Bh6 Qf8 17. g5 b4 18. gxf6 bxc3 19. bxc3 exf6 20. O-O-O
+f5 21. Bxg7 Qxg7 22. exf5 Bxf5 23. Nd4 Bd7 24. Rh4 g5 25. Rh5 f6 26. Rdh1
+Nf7 27. Bd3 f5 28. Bxf5 Bxf5 29. Nxf5 Qxc3 30. Rh8+ 1-0
+

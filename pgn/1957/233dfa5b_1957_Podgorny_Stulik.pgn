@@ -1,0 +1,17 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Podgorny, E."]
+[Black "Stulik, Vlastimil"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "233dfa5b"]
+[Epoch "Bishop"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Nc3 Nxe4 6. Ne5 Nd6 7. Bb3 Bh4+ 8.
+g3 fxg3 9. O-O gxh2+ 10. Kh1 Bf6 11. d4 b6 12. Qh5 Bb7+ 13. Kxh2 g6 14. Qh6 Bg7
+15. Nxf7 Bxh6 16. Nxd6+ cxd6 17. Bf7+ Ke7 18. Bxh6 Qg8 19. Bxg8 1-0

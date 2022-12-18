@@ -1,0 +1,19 @@
+[Event "Bled"]
+[Site "Bled"]
+[Date "1950.01.01"]
+[Round "15"]
+[White "Stoltz, Gösta"]
+[Black "Pfeiffer, Gerhard"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "e4623306"]
+[Epoch "Bishop"]
+[BlackID "1649027"]
+[BlackCountry "AUT"]
+[WhiteCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Nd7 6. cxd5 cxd5 7. Nge2 Ne7 8. Ng3
+Bg6 9. h4 h6 10. h5 Bh7 11. Bd3 Bxd3 12. Qxd3 Nc6 13. a3 Be7 14. Nge2 Qb6 15.
+b4 O-O-O 16. Bd2 Kb8 17. Na4 Qa6 18. Qxa6 bxa6 1/2-1/2

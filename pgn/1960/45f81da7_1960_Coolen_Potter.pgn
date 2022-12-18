@@ -1,0 +1,20 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Coolen, J."]
+[Black "Potter, RB."]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "45f81da7"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 Nc6 4. Nc3 d6 5. Bb5 Bd7 6. Na4 Qe7 7. Nxc5 dxc5
+8. d3 O-O-O 9. Bxc6 Bxc6 10. Nxe5 Bxe4 11. Qg4+ f5 12. Qh3 Bd5 13. Qxf5+
+Be6 14. Qe4 Nf6 15. Qe2 Rhe8 16. O-O Bd5 17. Bd2 g5 18. Rae1 gxf4 19. Bxf4
+Qg7 20. c4 Be6 21. Qf2 Rg8 22. Re2 Rd4 23. Bh6 Qxh6 24. Qxf6 Qxf6 25. Rxf6
+Bh3 26. Kf1 Bg4 27. Nxg4 Rdxg4 28. Rf7 R4g7 29. Ree7 Rxf7+ 30. Rxf7 Rh8 31.
+g4 h6 32. Kf2 Rg8 33. Kf3 Rg6 34. h4 b6 35. Kf4 Rd6 36. g5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Hostalet Ferrer, P."]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "10c815dd"]
+[Epoch "Bishop"]
+[BlackID "4100026"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. e3 O-O 6. a3 Bxc3+ 7. Qxc3 Nc6 8.
+Bd3 cxd4 9. exd4 d5 10. Ne2 dxc4 11. Bxc4 e5 12. Be3 Ne4 13. Qb3 Qa5+ 14. Kf1
+Nxd4 15. Nxd4 exd4 16. f3 dxe3 17. fxe4 Qd2 0-1

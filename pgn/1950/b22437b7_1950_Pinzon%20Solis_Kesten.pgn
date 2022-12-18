@@ -1,0 +1,18 @@
+[Event "Dubrovnik olm"]
+[Site "Dubrovnik olm"]
+[Date "1950.01.01"]
+[Round "10"]
+[White "Pinzon Solis, Felipe"]
+[Black "Kesten, S."]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "b22437b7"]
+[Epoch "Bishop"]
+[WhiteCountry "PER"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Nf3 Nbd7 5. Bf4 c6 6. e3 Be7 7. h3 O-O 8. c5
+Re8 9. Bd3 Bxc5 10. dxc5 e5 11. Nxe5 Nxe5 12. Bc2 Ng6 13. Bd6 Ne7 14. O-O Bf5
+15. Bxe7 Bxc2 16. Bxd8 Bxd1 17. Bxf6 Bc2 18. Bd4 Rab8 19. Rac1 Bg6 20. f4 f6
+21. f5 Bf7 22. Ne2 1-0

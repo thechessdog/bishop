@@ -1,0 +1,19 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Platz"]
+[Black "Vogt, Lothar"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "dfb5dc70"]
+[Epoch "Bishop"]
+[BlackID "4611292"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 Nd7 10. b4 f5 11. c5 dxc5 12. bxc5 Nxc5 13. f3 c6 14. Ba3 b6 15. Bc4
+Kh8 16. Nb3 Nxb3 17. axb3 c5 18. b4 cxb4 19. Bxb4 Bd7 20. Ba6 b5 21. Kh1 Re8
+22. Ba5 1-0

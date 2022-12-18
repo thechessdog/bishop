@@ -1,0 +1,23 @@
+[Event "Caseros ch-ARG"]
+[Site "Caseros ch-ARG"]
+[Date "1974.01.01"]
+[Round "10"]
+[White "Varas, Lauro"]
+[Black "Sabao, Raimundo"]
+[Result "1-0"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "84e3dfc8"]
+[Epoch "Bishop"]
+[WhiteID "100951"]
+[WhiteCountry "ARG"]
+[BlackID "101567"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. e4 Bg7 6. Nf3 O-O 7. Be2 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 Na6 11. a4 Nc7 12. f3 Nd7 13. Nc4 Ne5 14. Ne3 f5 15.
+f4 Nf7 16. exf5 Nh6 17. fxg6 Bd4 18. gxh7+ Kh8 19. Rf3 Ng4 20. Qd3 Qh4 21. h3
+Qe1+ 22. Rf1 Qxc1 23. Raxc1 Rxe3 24. Qc4 Rg3+ 25. Kh1 Ne3 26. Qb3 Nxg2 27. Rf3
+Rxf3 28. Bxf3 Nxf4 29. Be4 Bxh3 30. Qc2 Rf8 31. Qh2 Bd7 32. Rf1 Be5 33. Qh6 Rf6
+34. Qg5 Rf8 35. Rg1 1-0

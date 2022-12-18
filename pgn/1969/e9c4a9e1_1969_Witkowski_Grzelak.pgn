@@ -1,0 +1,21 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Witkowski, Stefan"]
+[Black "Grzelak, Rafal"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "e9c4a9e1"]
+[Epoch "Bishop"]
+[BlackID "1103245"]
+[BlackCountry "POL"]
+[WhiteCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 a5 7. Bd3 Bd7 8. Bc2 Nge7
+9. O-O Ng6 10. h4 Be7 11. h5 Nh4 12. Nxh4 Bxh4 13. Qg4 Be7 14. Qxg7 O-O-O 15.
+dxc5 Qxc5 16. b4 Qc4 17. h6 Rdg8 18. Qxf7 Qg4 19. g3 Nxe5 20. Qf4 Nf3+ 21. Kg2
+Nh4+ 22. Kh2 Qh5 23. Kg1 e5 24. Bd1 Bg4 25. Bxg4+ Rxg4 26. Qe3 Re4 27. Qb6 Nf3+
+28. Kg2 Qh2+ 29. Kxf3 Rf8+ 30. Bf4 Rfxf4+ 31. gxf4 Qh3# 0-1

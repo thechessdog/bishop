@@ -1,0 +1,24 @@
+[Event "Baja"]
+[Site "Baja"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Polgar, Istvan"]
+[Black "Csom, Istvan"]
+[Result "0-1"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, Benko variation"]
+[HashCode "1926d345"]
+[Epoch "Bishop"]
+[WhiteID "700215"]
+[WhiteCountry "HUN"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nb3 e6 8.
+Be3 Qc7 9. f4 a6 10. Bd3 b5 11. Qf3 Bb7 12. g4 b4 13. Na4 Nd7 14. g5 Na5 15.
+Qe2 Rb8 16. O-O Be7 17. f5 exf5 18. exf5 Nxb3 19. cxb3 Qc6 20. Rac1 Qh1+ 21.
+Kf2 Qxh2+ 22. Ke1 Qh4+ 23. Kd2 Ne5 24. f6 gxf6 25. gxf6 Bd8 26. Bxa6 Bxa6 27.
+Qxa6 O-O 28. Rf4 Qh5 29. Rg1+ Ng6 30. Kc2 Re8 31. Qa7 Qe2+ 32. Bd2 Rc8+ 33. Rc4
+Rxc4+ 34. bxc4 Qxc4+ 35. Kb1 Qd3+ 36. Kc1 Bxf6 37. Qd7 Rd8 38. Qc6 Qf5 39. Nb6
+Bd4 0-1

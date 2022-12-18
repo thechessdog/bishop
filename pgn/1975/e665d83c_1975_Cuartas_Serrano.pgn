@@ -1,0 +1,23 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos B"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Cuartas, Carlos Enrique"]
+[Black "Serrano, Waldo"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "e665d83c"]
+[Epoch "Bishop"]
+[WhiteID "4428161"]
+[WhiteCountry "COL"]
+[BlackID "2001594"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O a6 5. Bxc6 bxc6 6. e5 Ne7 7. Nc3 Ng6 8. d4
+cxd4 9. Qxd4 Be7 10. Ne4 O-O 11. Bg5 Bxg5 12. Nfxg5 f6 13. Nf3 fxe5 14. Nxe5
+Nxe5 15. Qxe5 d5 16. Nd6 Qf6 17. Rae1 Rb8 18. b3 Bd7 19. c4 Qxe5 20. Rxe5 Rf6
+21. Rd1 Kf8 22. Ne4 Ke7 23. Nxf6 gxf6 24. Rh5 Rh8 25. cxd5 cxd5 26. Rh6 Kf7 27.
+Rc1 Kg7 28. Rh4 Rd8 29. Rc7 Kg6 30. Rg4+ Kf5 31. Rg7 Bb5 32. a4 Be2 33. Rxh7 d4
+34. Rhd7 Rxd7 35. Rxd7 Ke4 36. b4 e5 37. h4 Bd1 38. a5 Bg4 39. f3+ 1-0

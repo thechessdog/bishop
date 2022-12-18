@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Schattauer, G."]
+[Black "Giertz, A."]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "beda1548"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5
+8. Bb5 Qa5 9. Qb3 Bxf3 10. gxf3 O-O-O 11. Bxc6 bxc6 12. Qc4 Qc7 13. Nxd5
+Rxd5 14. Bf4 Qb6 15. Rc1 Kd7 16. Rc3 e6 17. O-O Bd6 18. Bxd6 Kxd6 19. Rfc1
+Rc8 20. Qa4 Rb5 21. Rc5 Rxb2 22. Rxc6+ Rxc6 23. Rxc6+ Qxc6 24. Qa3+ Kd5 25.
+Qxb2 Qb6 26. Qa3 f5 27. Qe7 Kxd4 28. Qxg7+ Kd3 29. Qxh7 Ke2 30. Qh4 Qb1+
+31. Kg2 Qf1+ 32. Kg3 Qxf2+ 33. Kh3 Qxf3+ 0-1
+

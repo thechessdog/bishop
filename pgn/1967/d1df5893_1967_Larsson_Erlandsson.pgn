@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Larsson"]
+[Black "Erlandsson, Carl"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "d1df5893"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. O-O d6
+8. c3 Qe8 9. b4 Bb6 10. Bb2 Qg6 11. Nf3 Bg4 12. Bxc6 Nh5 13. Nh4 Qg5 14.
+Qe1 Qxh4 15. Ba4 Nf4 16. d4 Qh3 17. gxh3 Bf3 0-1
+

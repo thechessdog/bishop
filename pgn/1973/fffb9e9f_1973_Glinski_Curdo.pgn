@@ -1,0 +1,18 @@
+[Event "Massachusetts"]
+[Site "Massachusetts"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Glinski, S."]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "fffb9e9f"]
+[Epoch "Bishop"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qf6 5. c3 Nge7 6. d4 exd4 7. Bxc6 dxc3 8.
+Bxd7+ Bxd7 9. Nxc3 O-O-O 10. Qc2 Bg4 11. Bg5 Qe6 12. Nd5 Bxf3 13. Bxe7 Rxd5 14.
+gxf3 Qg6+ 15. Kh1 Bxe7 16. Rg1 Rg5 17. Qa4 Kb8 18. Rgd1 Qh5 19. Qb3 Bd6 0-1

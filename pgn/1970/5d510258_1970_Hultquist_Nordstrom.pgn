@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hultquist, Torsten"]
+[Black "Nordstrom, Eric"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "5d510258"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O e5 8.
+fxe5 dxe5 9. d5 Ne7 10. Ne2 c6 11. dxc6 Qb6+ 12. Kh1 Nxc6 13. Qe1 Be6 14.
+Ng5 Nb4 15. Qh4 h5 16. Qg3 Nxd3 17. cxd3 Nh7 18. Nf3 Rfe8 19. Nc3 Rad8 20.
+Ne1 Rd7 21. Qf2 Qxf2 22. Rxf2 Bf8 23. Be3 b6 24. Rd2 Red8 25. Rad1 Be7 26.
+d4 exd4 27. Rxd4 Rxd4 28. Rxd4 Rxd4 29. Bxd4 Nf6 30. Nd3 Nd7 31. b3 1/2-1/2
+

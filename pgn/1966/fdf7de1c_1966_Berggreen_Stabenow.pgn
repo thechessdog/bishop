@@ -1,0 +1,25 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Berggreen, A."]
+[Black "Stabenow, J."]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "fdf7de1c"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bd3 h6 9. N5f3 Bd6 10. Ne5 c5 11. dxc5 Bxc5 12. Ngf3 Bd6 13. O-O O-O 14.
+Bd2 Nbd7 15. Nxd7 Bxd7 16. c4 Qe7 17. Bc3 Rac8 18. Rfd1 Rfd8 19. Ne5 Bc6
+20. Rac1 Be8 21. h3 Bxe5 22. Bxe5 Bc6 23. c5 Nd5 24. Qg4 Qg5 25. Qxg5 hxg5
+26. Bf1 Nf4 27. Rxd8+ Rxd8 28. Bd6 Bxg2 29. Bxf4 Bxf1 30. Bxg5 Rd5 31. Kxf1
+Rxg5 32. Rc3 Kf8 33. b4 Ke7 34. Ra3 a6 35. Rd3 Rd5 36. Rxd5 exd5 37. Ke2
+Kd7 38. Kd3 Kc6 39. Kd4 Kb5 40. Kxd5 Kxb4 41. h4 a5 42. h5 a4 43. Kd6 a3
+44. Ke7 Kxc5 45. Kxf7 b5 46. f4 b4 47. f5 b3 48. f6 gxf6 49. h6 bxa2 50. h7
+a1=Q 51. h8=Q Qa2+ 52. Kg6 Qg2+ 53. Kf5 Qg5+ 54. Ke4 f5+ 55. Ke5 f4+ 56.
+Ke6 Qd5+ 57. Ke7 Qd6+ 58. Kf7 Kb4 59. Qa1 Qd3 60. Qg1 Qe3 61. Qg6 f3 62.
+Qd6+ Kb3 63. Kg7 a2 64. Kh7 Qe4+ 0-1
+

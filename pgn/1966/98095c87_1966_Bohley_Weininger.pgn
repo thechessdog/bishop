@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Bohley, D."]
+[Black "Weininger, J."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "98095c87"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nbd7 9. Qh4 Re8 10. Bxf7+ Kh8 11. Ng5 Nf8 12. Bb3 1-0
+

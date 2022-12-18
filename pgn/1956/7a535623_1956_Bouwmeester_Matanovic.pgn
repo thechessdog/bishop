@@ -1,0 +1,23 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Bouwmeester, Hans"]
+[Black "Matanovic, Aleksandar"]
+[Result "0-1"]
+[ECO "E65"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav, 7.O-O"]
+[HashCode "7a535623"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[BlackCountry "SRB"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c5 6. d4 d6 7. Nc3 Nc6 8. dxc5
+dxc5 9. Be3 Qa5 10. Nd5 e6 11. Nxf6+ Bxf6 12. Qc2 Qb6 13. Rad1 e5 14. Bh6 Re8
+15. Ng5 Nd4 16. Qd2 Bg4 17. f3 Be6 18. b3 Rad8 19. Ne4 Be7 20. Qe1 Qa6 21. Nc3
+b5 22. cxb5 Qb6 23. Be3 Nc2 24. Rxd8 Bxd8 25. Qc1 Nxe3 26. Qxe3 c4 27. Qxb6
+Bxb6+ 28. Kh1 cxb3 29. axb3 Rc8 30. Na4 Be3 31. Rb1 Rc2 32. Nb2 Rxe2 33. Nc4
+Bd4 34. f4 e4 35. Nd6 e3 0-1

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Schutz, H."]
+[Black "Hertel, R."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "9a3f33b0"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. a3 Bxc3+ 7. bxc3 O-O 8.
+Nf3 Nbc6 9. Be2 Qa5 10. Bd2 c4 11. h4 Qa4 12. Bd1 f6 13. Bf4 fxe5 14. Nxe5
+Nxe5 15. Bxe5 Ng6 16. Rh3 Nxe5 17. dxe5 Rf5 18. f4 Qe8 19. h5 Qf8 20. g3
+Qc5 21. Kd2 Bd7 22. Be2 d4 23. Bf3 Qa5 24. Rb1 Qxc3+ 25. Kd1 d3 26. Rc1
+dxc2+ 27. Ke2 Qd3+ 0-1
+

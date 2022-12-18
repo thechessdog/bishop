@@ -1,0 +1,18 @@
+[Event "Cracow"]
+[Site "Cracow"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Konikowski, Jerzy"]
+[Black "Tiaknybok"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "fb840c59"]
+[Epoch "Bishop"]
+[WhiteID "4601467"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. Be3 Nxe4 11. Nxe4 Bxe4 12. f5 exf5 13. Nxf5 O-O 14. Nxg7 Bf6
+15. Nh5 1-0

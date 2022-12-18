@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Schubert"]
+[Black "Ruppe, O."]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "fd5050c6"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 Nbd7 6. Nf3 e5 7. O-O O-O 8.
+Re1 c6 9. Bf1 Re8 10. d5 c5 11. g3 a6 12. a3 Nh5 13. Bd2 Nf8 14. h3 Bd7 15.
+b4 b6 16. bxc5 bxc5 17. Rb1 Rb8 18. Rxb8 Qxb8 19. Qc2 Qc7 20. Rb1 Rb8 21.
+Nh4 h6 22. Rxb8 Qxb8 23. Qb1 Qxb1 24. Nxb1 Ba4 25. Bd3 Nd7 26. Ba5 Ndf6 27.
+Nc3 Bd7 1/2-1/2
+

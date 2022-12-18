@@ -1,0 +1,20 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1953.01.01"]
+[Round "8"]
+[White "Troianescu, Octavio"]
+[Black "Ciocaltea, Victor"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "4307d5c5"]
+[Epoch "Bishop"]
+[BlackCountry "ROU"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bb4 7. Bg5 d6 8. Bc4
+h6 9. Bd2 Qc7 10. Qe2 Bg4 11. Qd3 Nbd7 12. Nd5 Nxd5 13. Bxd5 Bxd2+ 14. Nxd2 O-O
+15. O-O Rac8 16. c4 Nc5 17. Qe3 b5 18. b4 Ne6 19. f3 Bh5 20. Bxe6 fxe6 21. Rfc1
+bxc4 22. Nxc4 Qb8 23. a3 Rfe8 24. Na5 d5 25. Nb3 d4 26. Qd3 Qb5 27. Nc5 Rxc5
+28. Qxb5 Rxb5 29. Rc7 a5 30. bxa5 Ra8 31. Rac1 Raxa5 32. R1c6 Rxa3 0-1

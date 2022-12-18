@@ -1,0 +1,19 @@
+[Event "corr ol8"]
+[Site "corr ol8"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Kretschmar, H."]
+[Black "Kovacs"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "9ca2e162"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Bd3 Be7
+8. Qc2 O-O 9. Nf3 Re8 10. O-O Nf8 11. Rab1 Ng6 12. Ne5 Nxe5 13. dxe5 Ng4
+14. Bxh7+ Kh8 15. Bf4 g6 16. Bxg6 fxg6 17. f3 Nxe3 18. Qxg6 Nf5 19. Rfe1
+Bc5+ 20. Kh1 Be6 21. g4 Ng7 22. Bg5 Re7 23. Bf6 Qg8 24. h4 Qf7 25. Qh6+ Kg8
+26. Ne2 1-0
+

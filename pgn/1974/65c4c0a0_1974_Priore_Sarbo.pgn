@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Priore, R."]
+[Black "Sarbo, M."]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "65c4c0a0"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 b6 7. O-O Bb7 8.
+Na4 cxd4 9. exd4 h6 10. Be2 d5 11. c5 bxc5 12. a3 Ba5 13. Nxc5 Qe7 14. b4
+Bd8 15. a4 Nc6 16. Ba3 Re8 17. b5 Na5 18. Na6 Qd7 19. Ne5 Qc8 20. Rc1 Nc4
+21. Bxc4 1-0
+

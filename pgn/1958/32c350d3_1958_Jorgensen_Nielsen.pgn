@@ -1,0 +1,19 @@
+[Event "Nyborg"]
+[Site "Nyborg"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Jorgensen, Holger"]
+[Black "Nielsen, Mogens"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "32c350d3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 Ne7 6. Nc3 Ng6 7. b3 Be7
+8. Bb2 O-O 9. O-O Qc7 10. Ne2 e5 11. Ng3 d6 12. h3 f5 13. exf5 Bxf5 14.
+Nxf5 Rxf5 15. Bc1 Raf8 16. Nh2 Qd7 17. Ng4 h5 18. Ne3 Rg5 19. Kh2 Nf4 20.
+g4 d5 21. f3 Bd6 22. Ng2 hxg4 23. fxg4 Rh5 24. Bxf4 exf4 25. Rf3 Qxg4 26.
+Qf1 Rxh3+ 27. Rxh3 f3+ 28. Nf4 Qxf4+ 29. Kg1 Rf6 30. Qf2 Qg4+ 0-1
+

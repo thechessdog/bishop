@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Pflumm, Eugene"]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "D28"]
+[Opening "QGA"]
+[Variation "classical, 7.Qe2"]
+[HashCode "12bc89b1"]
+[Epoch "Bishop"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 Nc6 8. Nc3
+b5 9. Bb3 c4 10. Bc2 Bb7 11. Rd1 Be7 12. e4 Nb4 13. Bb1 Nd3 14. Bxd3 cxd3 15.
+Rxd3 b4 16. e5 bxc3 17. exf6 gxf6 18. bxc3 Qd5 19. Bf4 h5 20. Bg3 Rg8 21. Re3
+Rc8 22. Rb1 Bf8 23. Rb6 Bh6 24. Rd3 Bc6 25. Rd1 Bb5 26. Qb2 Rg4 27. Re1 Re4 28.
+Rxe4 Qxe4 29. a4 Qd3 30. h3 Qd1+ 31. Kh2 Qxa4 32. Nd2 Qa5 33. Rb8 Rxb8 34. Bxb8
+Bc6 35. Bg3 Qb5 36. Qc2 h4 37. Bxh4 Qe2 38. Qh7 Bf4+ 39. Bg3 Bxg3+ 40. Kxg3
+Qxd2 41. Qg8+ Ke7 42. Qc8 Qg5+ 43. Kh2 Qxg2# 0-1

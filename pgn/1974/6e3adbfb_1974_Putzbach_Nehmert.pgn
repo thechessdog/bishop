@@ -1,0 +1,27 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Putzbach, Gerd"]
+[Black "Nehmert, Ulrich"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "6e3adbfb"]
+[Epoch "Bishop"]
+[BlackID "4600681"]
+[BlackCountry "GER"]
+[WhiteID "4611128"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. Be2 Qc5 11. Bf3 e6 12. Na4 Qa3 13. e5 Qxa4 14. exf6
+gxf6 15. Bh4 d5 16. Bh5 Nc5 17. O-O Ne4 18. Qe3 Bc5 19. Rbd1 Bd7 20. Kh1 O-O-O
+21. c4 Bc6 22. Bxf7 dxc4 23. Bxe6+ Kb8 24. Bxf6 Nxf6 25. Qe5+ Ka8 26. Qxc5 Ne4
+27. Qh5 Nc3 28. Rd2 Ne4 29. Rdd1 Nc3 30. Rd2 Ne4 31. Nxc6 Nxd2 32. Nxd8 Nxf1
+33. Qd5 Qb5 34. Qd4 Ne3 35. h3 Qb1+ 36. Kh2 Nf1+ 37. Kg1 Rf8 38. Bc8 Ne3+ 39.
+Kf2 Qf1+ 40. Kxe3 Qg1+ 41. Kf3 Qxd4 42. Bxb7+ Kb8 43. Nc6+ Kxb7 44. Nxd4 c3 45.
+Ke4 Rd8 46. Nb3 c2 47. f5 Kc7 48. f6 Rd1 49. Kf5 Kd6 50. Kg5 c1=Q+ 51. Nxc1
+Rxc1 52. g4 Ke6 53. h4 Rc4 54. h5 Kf7 55. a3 h6+ 56. Kxh6 Rxg4 57. Kh7 Rg5 58.
+h6 Rh5 59. a4 a5 60. Kh8 Rxh6# 0-1

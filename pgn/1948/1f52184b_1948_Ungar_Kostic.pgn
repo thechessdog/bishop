@@ -1,0 +1,16 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Ungar"]
+[Black "Kostic, Boris"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "1f52184b"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 d5 5. exd6 Bf5 6. Qa4+ Nc6 7. Nf3 Bxd6 8.
+Nbd2 Nc5 9. Qd1 Nb4 10. e4 Nxe4 11. Nd4 Bc5 12. N2b3 Bxd4 13. Nxd4 Qxd4 0-1

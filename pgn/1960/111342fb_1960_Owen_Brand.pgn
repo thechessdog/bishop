@@ -1,0 +1,18 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Owen"]
+[Black "Brand, L."]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Lasker trap"]
+[HashCode "111342fb"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e3 Bb4+ 5. Bd2 dxe3 6. Qa4+ Bd7 7. Qxb4
+exd2+ 8. Nxd2 Nc6 9. Qc3 Nge7 10. e6 Bxe6 11. Qxg7 Rg8 12. Qxh7 Qd4 13. Rb1
+Bf5 14. Qh5 Bxb1 15. Nxb1 Qxb2 16. Qd1 Qb4+ 17. Nd2 O-O-O 18. Nf3 Qa5 19.
+g3 Qxa2 20. Bh3+ Kb8 21. O-O Rd3 0-1
+

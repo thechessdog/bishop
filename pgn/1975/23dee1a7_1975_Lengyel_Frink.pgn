@@ -1,0 +1,20 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Lengyel, Laszlo"]
+[Black "Frink, Ferenc"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "23dee1a7"]
+[Epoch "Bishop"]
+[WhiteID "701998"]
+[WhiteCountry "HUN"]
+[BlackID "704946"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 a6 4. Nf3 b5 5. d3 Bb7 6. g3 e6 7. Bg2 d5 8. O-O d4
+9. Ne2 Nf6 10. h3 h5 11. a4 Qc7 12. axb5 axb5 13. Rxa8+ Bxa8 14. Nh4 Be7 15. f5
+e5 16. b3 Nb4 1/2-1/2

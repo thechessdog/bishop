@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Ioffe"]
+[Black "Ljubin"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "47e5605e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 a6 9. O-O-O Qc7 10. Bb3 b5 11. g4 Nxd4 12. Bxd4 O-O 13. g5 Nd7 14.
+Qh5 Nc5 15. Rhg1 b4 16. Bd5 bxc3 17. Qh6 f6 18. gxf6 Bxf6 19. Bxa8 cxb2+
+20. Kb1 Bxd4 21. Rxd4 Rxf2 22. Qe3 Rf7 23. Qg3 Rd7 24. Rgd1 Qb8 25. Bc6 Rc7
+26. Rxd6 h6 27. Qg6 Qb6 1-0
+

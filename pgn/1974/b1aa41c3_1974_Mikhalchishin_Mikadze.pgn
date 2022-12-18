@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Mikhalchishin, Adrian"]
+[Black "Mikadze, Zurab"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "b1aa41c3"]
+[Epoch "Bishop"]
+[BlackID "13600150"]
+[WhiteID "14602385"]
+[WhiteCountry "SLO"]
+[BlackCountry "GEO"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Bf5 7. Nc3 e6 8. Nf3
+Be7 9. Be3 O-O 10. Bd3 Bg4 11. O-O Nc6 12. h3 Bh5 13. Bxh7+ Kxh7 14. Ng5+ Kg8
+15. Qxh5 Bxg5 16. Bxg5 Qxd4+ 17. Kh1 Qxe5 18. Rae1 Qa5 19. Ne4 Nd7 20. b4 Nxb4
+21. Rd1 Rad8 22. Qh4 f6 23. Bxf6 Nxf6 24. Nxf6+ gxf6 25. Rxd8 Rxd8 26. Qxf6 Nc6
+27. Qg6+ Kh8 28. Qh6+ Kg8 29. Qg6+ Kh8 30. Qh6+ Kg8 31. Qxe6+ Kh8 32. Rf5 Qd2
+33. Qf6+ Kh7 1-0

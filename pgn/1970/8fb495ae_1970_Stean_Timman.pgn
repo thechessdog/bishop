@@ -1,0 +1,25 @@
+[Event "Islington open"]
+[Site "Islington open"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Stean, Michael F"]
+[Black "Timman, Jan H"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "exchange, Karpov variation"]
+[HashCode "8fb495ae"]
+[Epoch "Bishop"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+[WhiteID "400130"]
+[WhiteCountry "ENG"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 7. h3 Bg7 8. Nf3
+O-O 9. Be2 Nc6 10. O-O Bf5 11. Bf4 h6 12. Be3 d5 13. c5 Nc4 14. Bxc4 dxc4 15.
+Qa4 Bd3 16. Rfd1 Qa5 17. Qxa5 Nxa5 18. Ne1 Bf5 19. Rd2 g5 20. Rad1 Rfd8 21. d5
+Rd7 22. Nc2 Rad8 23. Nb4 e6 24. g4 Bd3 25. d6 Rc8 26. Na4 Be4 27. Bd4 Nc6 28.
+Bxg7 Kxg7 29. Re1 f5 30. Nxc6 Rxc6 31. Re3 Kf7 32. f3 Bd3 33. b4 Ra6 34. Nc3
+Ra3 35. Nb5 Ra4 36. a3 a6 37. Nd4 Rxa3 38. Nxe6 Ra1+ 39. Kf2 f4 40. Re5 Kf6 41.
+Nf8 Rd8 42. Re7 Rxf8 43. Rxb7 c3 44. Rxd3 c2 45. Rc3 c1=Q 46. Rxc1 Rxc1 47. Rb6
+Ke6 48. Rxa6 Rb8 0-1

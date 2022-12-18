@@ -1,0 +1,22 @@
+[Event "Rochester"]
+[Site "Rochester"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Strazzabosco, J."]
+[Black "Turner, H."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "c5c7df08"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Nxe4 7. d4 exd4
+8. Re1 d5 9. Nxd4 Nxd4 10. Qxd4 Be6 11. Be3 Be7 12. Nd2 Bf6 13. Qd3 Nxd2
+14. Bxd2 Bxb2 15. Rad1 O-O 16. Bb4 Re8 17. c3 a5 18. Bc5 b4 19. cxb4 axb4
+20. Bxb4 c6 21. Bc2 g6 22. a4 Qf6 23. Qg3 Reb8 24. Bd6 Rb7 25. Be5 Qd8 26.
+Rd2 Qa5 27. Qf4 Bxe5 28. Rxe5 Rb2 29. Ree2 Rab8 30. h4 R2b4 31. Rd4 c5 32.
+Rxb4 Rxb4 33. Qf6 Qc7 34. h5 Qf4 35. Rxe6 fxe6 36. Qxe6+ Qf7 37. Qc8+ Qf8
+38. Qe6+ Qf7 39. Qc8+ Qf8 40. Qe6+ Kg7 41. hxg6 Qf6 42. Qd7+ Kh6 43. Qxh7+
+Kg5 44. g3 Qa1+ 45. Kg2 Rb1 46. f4+ Kf6 47. Qf7# 1-0
+

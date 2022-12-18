@@ -1,0 +1,19 @@
+[Event "Buenos Aires ch-ARG plof"]
+[Site "Buenos Aires ch-ARG plof"]
+[Date "1963.01.01"]
+[Round "3"]
+[White "Klein, Lawrence"]
+[Black "Garcia, Raimundo"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "b2c517ce"]
+[Epoch "Bishop"]
+[BlackID "100420"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c3 g6 7. d4 Bg7 8. Na3
+Nge7 9. Bb3 O-O 10. Nc4 exd4 11. cxd4 Bg4 12. Be3 d5 13. exd5 Nxd5 14. Qd2 Bxf3
+15. gxf3 Nxe3 16. fxe3 b5 17. Na3 Qg5+ 18. Kh1 Nxd4 19. Bd1 Rad8 20. Qf2 Nf5
+21. f4 Qe7 22. Re1 b4 23. Nc2 Bxb2 24. e4 Nd4 0-1

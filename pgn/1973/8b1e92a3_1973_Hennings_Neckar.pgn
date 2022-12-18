@@ -1,0 +1,20 @@
+[Event "CSSR"]
+[Site "CSSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Hennings, Artur"]
+[Black "Neckar, Lubomir"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "8b1e92a3"]
+[Epoch "Bishop"]
+[BlackID "300705"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 a6 8.
+O-O-O e6 9. f4 h6 10. Bh4 Nxe4 11. Qe1 Nf6 12. Nf5 Qa5 13. Nxd6+ Bxd6 14. Rxd6
+Nb4 15. Qe5 Nxa2+ 16. Nxa2 Qxa2 17. Bxf6 gxf6 18. Qxf6 Rg8 19. f5 Rc8 20. Be2
+Qa4 21. c4 Rxg2 22. Rd4 Qa1+ 23. Kc2 Rxe2+ 24. Kd3 Rd2+ 25. Kxd2 Qxb2+ 26. Ke3
+Qc3+ 27. Kf4 e5+ 28. Qxe5+ Kf8 29. Qh8+ Ke7 30. Rxd7+ 1-0

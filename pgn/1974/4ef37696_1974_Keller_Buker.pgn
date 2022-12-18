@@ -1,0 +1,16 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Keller, Martina"]
+[Black "Buker, H."]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "4ef37696"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O e5 6. c3 Ngf6 7. Qe2 a6 8.
+a4 Be7 9. Na3 O-O 10. d4 Qc7 11. Bg5 Qc6 12. d5 Qxa4 13. Nc4 Qb5 14. Ra5 Qb3
+15. Rc1 1-0

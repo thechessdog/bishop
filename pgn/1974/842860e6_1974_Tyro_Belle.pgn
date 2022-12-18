@@ -1,0 +1,20 @@
+[Event "ACM San Diego"]
+[Site "ACM San Diego"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Tyro"]
+[Black "Belle"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[HashCode "842860e6"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+d3 Bb7 9. a3 Bc5 10. c3 Qe7 11. d4 exd4 12. cxd4 Bb6 13. e5 Ng4 14. Qd3 Na5
+15. Ng5 g6 16. Bd1 h6 17. Bxg4 hxg5 18. b4 Nc4 19. f4 gxf4 20. Ra2 Nxe5 21.
+Qd1 Qd6 22. Kh1 Qxd4 23. Rd2 Bxg2+ 24. Kxg2 Qa1 25. Bb2 Qa2 26. Bxe5 Qc4
+27. Bxd7 Be3 28. Rd5 c6 29. Rd3 Qe4+ 30. Kh3 Qxe5 31. Bxc6 Qe6+ 32. Qg4
+Qxc6 33. Qd7 Qf3+ 34. Kh4 Qh5# 0-1
+

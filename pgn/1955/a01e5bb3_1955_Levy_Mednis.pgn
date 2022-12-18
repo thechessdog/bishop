@@ -1,0 +1,19 @@
+[Event "Marshall CC-ch 5556"]
+[Site "New York"]
+[Date "1955.11.30"]
+[Round "2"]
+[White "Levy, Louis"]
+[Black "Mednis, Edmar John"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "a01e5bb3"]
+[Epoch "Bishop"]
+[WhiteID "2002310"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nc6 7. Be3 Nf6 8.
+N2c3 O-O 9. Bb5 Nxe4 10. Nxe4 f5 11. Bxc6 bxc6 12. Nc5 f4 13. Bc1 e5 14. c3
+exd4 15. Qxd4 Bxc5 16. Qxc5 Re8+ 0-1

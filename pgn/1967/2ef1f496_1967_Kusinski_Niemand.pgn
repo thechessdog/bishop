@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kusinski, B."]
+[Black "Niemand, G."]
+[Result "1-0"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "2ef1f496"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8.
+Ne5 Bb4 9. g4 Bg6 10. Bb5 Qa5 11. O-O Bxc3 12. Bxc6+ bxc6 13. bxc3 c5 14.
+dxc5 Ne4 15. c6 f6 16. Nxg6 hxg6 17. f3 Nxc3 18. Qd3 Kf7 19. Rfc1 Nb5 20.
+Rcb1 1-0
+

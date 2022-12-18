@@ -1,0 +1,18 @@
+[Event "Agler"]
+[Site "Agler"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Blechzin"]
+[Black "Tarasov"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "1c88b728"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nf3 O-O 6. O-O Nbd7 7. b3 e5 8.
+Bb2 e4 9. Nfd2 e3 10. fxe3 Ng4 11. Rf3 Bh6 12. Nf1 Re8 13. e4 Qe7 14. Nc3
+Bg7 15. Qd3 c6 16. Ba3 f6 17. h3 Nh6 18. Ne3 Nf7 19. Raf1 Ng5 20. R3f2 Nf8
+21. g4 Nf7 22. e5 Bh6 23. Ned5 cxd5 24. Nxd5 1-0
+

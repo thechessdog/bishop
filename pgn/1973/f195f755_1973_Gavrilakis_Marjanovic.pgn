@@ -1,0 +1,20 @@
+[Event "EU-ch U20 fin-B"]
+[Site "Groningen"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Gavrilakis, Nikolaos"]
+[Black "Marjanovic, Slavoljub"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "f195f755"]
+[Epoch "Bishop"]
+[WhiteID "4200063"]
+[BlackID "900354"]
+[WhiteCountry "GRE"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. f3
+Be6 9. Qd2 Nbd7 10. O-O-O Qc7 11. g4 h6 12. h4 O-O-O 13. Be2 Nb6 14. g5 Nh5 15.
+f4 Nxf4 16. Bxf4 exf4 17. Qxf4 hxg5 18. hxg5 Rxh1 19. Rxh1 d5 20. e5 Nd7 0-1

@@ -1,0 +1,21 @@
+[Event "Cordoba"]
+[Site "Cordoba"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Caglieri"]
+[Black "Bronstein, Luis Marcos"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "e006ccf8"]
+[Epoch "Bishop"]
+[BlackID "100463"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Rg1 b4 14. Na4 Nc5 15.
+Nxc5 dxc5 16. Nb3 c4 17. Nd2 c3 18. Nc4 cxb2+ 19. Kb1 Bb7 20. Bd3 O-O-O 21. Qe2
+Bc5 22. Rgf1 Kb8 23. f5 e5 24. h4 Bd4 25. f6 g6 26. h5 Bc8 27. Nd2 Be6 28. Bc4
+Rc8 29. hxg6 hxg6 30. Bb3 Rh3 31. Nf3 Bxb3 32. Nxd4 Bxa2+ 33. Kxb2 exd4 34.
+Kxa2 Ra3+ 0-1

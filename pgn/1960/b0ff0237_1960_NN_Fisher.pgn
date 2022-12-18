@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Fisher"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[HashCode "b0ff0237"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. f4 Bf5 5. Bd3 Bxd3 6. Qxd3 dxe5 7. Qb5+ Nc6
+8. dxe5 e6 9. Bd2 Qd7 10. Ne2 O-O-O 11. a4 Ne3 12. Kf2 Nxc2 13. Ra2 a6 14.
+Qc4 N6b4 15. Bxb4 Nxb4 16. Ra1 Bc5+ 17. Kg3 Qd3+ 18. Qxd3 Rxd3+ 19. Kh4
+Be7+ 20. Kh5 g6+ 21. Kh6 Bf8+ 22. Kg5 h6+ 23. Kf6 Rd7 24. Nbc3 Rh7 0-1
+

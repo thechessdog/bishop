@@ -1,0 +1,19 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ghizdavu, Dumitru"]
+[Black "Tratatovici, Moise"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "f4b4f137"]
+[Epoch "Bishop"]
+[WhiteID "2000610"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+Nbd7 9. O-O b5 10. Qe1 Bb7 11. Kh1 b4 12. Nd1 Nc5 13. Nf2 Be7 14. Bd2 a5 15. a3
+b3 16. fxe5 dxe5 17. Bc3 Nfd7 18. cxb3 Nxb3 19. Rd1 Ba6 20. Bxa6 Rxa6 21. Ng4
+f6 22. Ne3 O-O 23. Nd5 Qd8 24. Qe2 1-0

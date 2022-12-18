@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Stock"]
+[Black "Pape"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "d816671e"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. Bg5 O-O
+8. Qd2 c5 9. d5 Nbd7 10. a4 Nb6 11. Ba2 Bf5 12. O-O Nc8 13. h3 Nd6 14. g4
+Nfe4 15. Nxe4 Bxe4 16. Rae1 c4 17. c3 Re8 18. Re3 Qa5 19. Bb1 f5 20. gxf5
+Bxb1 21. Rxb1 Nxf5 22. Re4 Rad8 23. Rxc4 Rxd5 24. Qe2 e5 25. Re1 Nd6 26. b4
+Qxa4 27. Rc5 Rxc5 1-0
+

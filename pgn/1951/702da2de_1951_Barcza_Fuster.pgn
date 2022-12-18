@@ -1,0 +1,18 @@
+[Event "Hungary ch"]
+[Site "Hungary ch"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Barcza, Gedeon"]
+[Black "Füster, Géza"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "702da2de"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 Bd6 8.
+O-O O-O 9. Qe2 Qc7 10. Re1 Bf4 11. Ne5 Bxc1 12. Raxc1 b6 13. Nh5 Nxh5 14. Qxh5
+Nf6 15. Qh4 h6 16. g4 Rd8 17. c3 Bb7 18. f4 Nd7 19. Qe7 Nxe5 20. Qxc7 1-0

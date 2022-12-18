@@ -1,0 +1,21 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Emma, Jaime"]
+[Black "Castro, Carlos"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "35cc9ea9"]
+[Epoch "Bishop"]
+[BlackID "163511"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 b6 7. Bb5 Ba6 8. a4 Be7
+9. Ndf3 O-O 10. Ne2 f6 11. O-O f5 12. h3 h6 13. g4 g5 14. Kh2 fxg4 15. hxg4 Qe8
+16. Qd3 Bb7 17. a5 a6 18. Ba4 c4 19. Qd1 b5 20. Bc2 b4 21. fxg5 Bxg5 22. Bxg5
+hxg5 23. Qd2 Qe7 24. Nxg5 Nc6 25. Bh7+ Kg7 26. Ng3 Ncxe5 27. dxe5 Nxe5 28. Nh5+
+Kh8 29. Kg3 Nc6 30. Bg6 Qd6+ 31. Kh3 1-0

@@ -1,0 +1,20 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Kolvig, Bent"]
+[Black "Reid"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "0cf11cba"]
+[Epoch "Bishop"]
+[WhiteID "1400746"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. g3 O-O 6. Bg2 c6 7. O-O dxc4 8. Ne5
+Nbd7 9. Nxc4 Nb6 10. Ne5 Nbd5 11. e4 Nxc3 12. bxc3 Qa5 13. Qf3 Bd7 14. Rd1 Rac8
+15. Bh3 Qd8 16. Bf4 b6 17. c4 Re8 18. d5 exd5 19. Nxd7 Nxd7 20. exd5 c5 21. Qg4
+Nf6 22. Qxc8 Qxc8 23. Bxc8 Rxc8 24. d6 Bf8 25. d7 Rd8 26. Bc7 Rxd7 27. Rxd7
+Nxd7 28. Rd1 Nf6 29. Rd8 h6 30. Bd6 Nh7 31. Ra8 a6 32. f4 f5 33. Rb8 1-0

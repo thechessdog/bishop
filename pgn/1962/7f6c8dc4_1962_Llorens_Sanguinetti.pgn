@@ -1,0 +1,19 @@
+[Event "corr ol4"]
+[Site "corr ol4"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Llorens, R."]
+[Black "Sanguinetti, Renato"]
+[Result "1-0"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "7f6c8dc4"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Qa5 7. e3 Na6 8. Ne2
+Qxc5 9. a3 Qxc4 10. axb4 Nxb4 11. Qb1 Nd3+ 12. Kd2 Nxf2 13. Ng3 Qc5 14. b4 Qb6
+15. Rg1 d5 16. Be5 N2g4 17. Bd4 Qd8 18. h3 Nxe3 19. Kxe3 e5 20. Bc5 d4+ 21. Kf2
+dxc3 22. Qd3 Nd5 23. Be2 Qf6+ 24. Bf3 Be6 25. Bxf8 Rxf8 26. Rgc1 Rc8 27. Kg1
+Nf4 28. Qe3 Qg5 29. Kh2 1-0

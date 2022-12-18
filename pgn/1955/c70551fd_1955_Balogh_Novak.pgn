@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Balogh"]
+[Black "Nowak, Jan"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "c70551fd"]
+[Epoch "Bishop"]
+[BlackID "1108310"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 h6 7. Be3 c5 8. Qg4 g6
+9. Bd3 cxd4 10. Bxd4 Nc5 11. Bxc5 Bxc5 12. O-O-O Qe7 13. Nxd5 1-0

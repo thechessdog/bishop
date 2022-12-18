@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Glaskow"]
+[Black "Muratov"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "double Muzio gambit"]
+[HashCode "b31f935f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. e5 Qxe5
+8. Bxf7+ Kxf7 9. d4 Qxd4+ 10. Be3 Qf6 11. Bxf4 Ne7 12. Nc3 Qf5 13. Qe2 Ke8
+14. Be5 Qe6 15. Rf6 Qg8 16. Qh5+ Kd8 17. Raf1 Bg7 18. Rf7 Bxe5 19. Qxe5
+Nbc6 20. Qxh8 1-0
+

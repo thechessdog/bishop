@@ -1,0 +1,23 @@
+[Event "corr ch-SWE"]
+[Site "corr ch-SWE"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Mattsson, B."]
+[Black "Appelquist, Olle"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "37100729"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. g3 Nf6 5. Bg2 c6 6. Qb3 Be7 7. Nf3 Nbd7 8.
+O-O Nb6 9. cxd5 exd5 10. Ne5 Be6 11. f4 O-O 12. e3 Qc8 13. Na4 Nc4 14. Qc2
+b5 15. b3 Nxe5 16. fxe5 bxa4 17. exf6 Bxf6 18. b4 a5 19. Rb1 axb4 20. Rxb4
+a3 21. Rd1 Be7 22. Rb3 h5 23. Qc3 h4 24. gxh4 Rf6 25. Bxa3 Bd8 26. Bd6 Rxa2
+27. Rdb1 Rg6 28. Bg3 Kh7 29. Rb8 Qd7 30. h5 Rg5 31. R1b7 Qe8 32. Bf3 Bf7
+33. Rxd8 Qxd8 34. Rxf7 Qb8 35. Qe1 Qb2 36. Kf1 Ra1 37. Bd1 Qb1 38. Ke2 Ra2+
+39. Kf1 Qe4 40. Be2 Ra1 41. Qxa1 Qh1+ 42. Kf2 Qxa1 43. h4 Rxg3 44. Kxg3
+Qe1+ 45. Kf3 Qh1+ 46. Kg3 Qe1+ 47. Kf3 Qxh4 48. Kg2 Qg5+ 49. Kf2 Kg8 50.
+Rc7 f4 0-1
+

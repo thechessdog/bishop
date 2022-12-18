@@ -1,0 +1,22 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Johannessen, Svein"]
+[Black "Ravn, Palle"]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "959cfc6b"]
+[Epoch "Bishop"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. Nf3 c5 6. a3 Bxc3+ 7. bxc3 Nc6 8. e3
+O-O 9. Bd3 b6 10. cxd5 exd5 11. O-O c4 12. Be2 Re8 13. Nd2 Na5 14. Re1 Qd7 15.
+a4 Bb7 16. Ba3 Ne4 17. Nxe4 Rxe4 18. Bd1 Nb3 19. Ra2 Bc6 20. f3 Ree8 21. e4
+Bxa4 22. Qf2 f5 23. e5 Bc6 24. f4 Na5 25. g4 g6 26. Qh4 Qd8 27. Qh6 Bd7 28. Rg2
+b5 29. Re3 Be6 30. Rh3 Qd7 31. Rh4 Nc6 32. gxf5 Bxf5 33. Bf3 b4 34. cxb4 Re7
+35. b5 Nxd4 36. Bxd5+ Qxd5 37. Bxe7 Nf3+ 38. Kf2 Nxh4 39. Qxh4 Qd2+ 40. Kg1
+Qd1+ 41. Kf2 c3 42. Qf6 Qd2+ 43. Kf3 Qd3+ 44. Kf2 Qd4+ 45. Kf3 Qe4+ 46. Kf2 c2
+47. Ba3 Qxf4+ 48. Ke2 Re8 0-1

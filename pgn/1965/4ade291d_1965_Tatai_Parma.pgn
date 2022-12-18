@@ -1,0 +1,24 @@
+[Event "Reggio Emilia 6566"]
+[Site "Reggio Emilia"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Tatai, Stefano"]
+[Black "Parma, Bruno"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "4ade291d"]
+[Epoch "Bishop"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. f4
+Bb7 9. f5 e5 10. Nf3 Be7 11. Qe2 Nbd7 12. a4 O-O 13. axb5 axb5 14. Rxa8 Qxa8
+15. Qxb5 Nc5 16. Bd5 Qa1 17. O-O Ba6 18. Bg5 Qxf1+ 19. Qxf1 Bxf1 20. Bxf6 Bxf6
+21. Kxf1 Rb8 22. b3 Bd8 23. Nd1 Nd7 24. Bc4 Nf6 25. Bd3 g6 26. Ne3 Bb6 27. Nd5
+Kg7 28. Nxf6 Kxf6 29. g4 h6 30. Ke2 gxf5 31. gxf5 Rg8 32. b4 Rg2+ 33. Ke1 Be3
+34. Be2 Rg4 35. c4 Rxe4 36. Bd3 Rg4 37. Ke2 Ba7 38. Nd2 d5 39. cxd5 Rxb4 40. d6
+Rd4 41. Bb5 Kxf5 42. Nc4 Ke6 43. d7 Bb8 44. Ne3 Bc7 45. Bc4+ Kxd7 46. Bxf7 Rh4
+47. Nf1 e4 48. Bg6 Ke6 49. Ke3 Ke5 0-1

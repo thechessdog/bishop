@@ -1,0 +1,18 @@
+[Event "corr HUN-FRA"]
+[Site "corr HUN-FRA"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Vashegyi, E."]
+[Black "Malezieux, P."]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "fc38d841"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nh3 Nf6 8.
+Nf4 Bh7 9. Bc4 e5 10. Qe2 e4 11. Be3 Nbd7 12. O-O-O Qc7 13. Nfh5 Nd5 14.
+Nxe4 Bxe4 15. Bf4 Nxf4 16. Qxe4+ Be7 17. Nxf4 Nf6 18. Bxf7+ Kd7 19. Qf5+
+1-0
+

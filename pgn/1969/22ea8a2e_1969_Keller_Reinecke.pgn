@@ -1,0 +1,18 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Keller, Martina"]
+[Black "Reinecke, K."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "22ea8a2e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nbd7 9. Qf3 Be7 10. O-O-O Qc7 11. Bd3 h6 12. Qh3 Rg8 13. Nd4 b5 14. Nxe6 fxe6
+15. e5 hxg5 16. Bg6+ Kd8 17. exd6 Bxd6 18. fxg5 Bf4+ 19. Kb1 Bxg5 20. Qxe6 Rb8
+21. Rhe1 Qc4 22. Qe7+ Kc7 23. Bf7 Qc5 24. Bxg8 Qxe7 25. Rxe7 Bh6 26. Bb3 Bb7
+27. g3 Re8 28. Rdxd7+ Nxd7 29. Rxe8 Nf6 30. Re7+ 1-0

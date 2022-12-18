@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Boyd, H."]
+[Black "Eising, Johannes"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Modern defence"]
+[HashCode "7e537bc8"]
+[Epoch "Bishop"]
+[BlackID "4602510"]
+[BlackCountry "GER"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 d6 5. e4 e6 6. Bd3 Ne7 7. Nf3 a6 8. O-O O-O
+9. Bf4 e5 10. Be3 Nd7 11. Rb1 f5 12. exf5 gxf5 13. Ng5 Nf6 14. f4 Ng4 15. Bd2
+exf4 16. Qf3 Ng6 17. Nh3 Qh4 18. Be1 Qh6 19. Nd1 N6e5 20. Qe2 f3 21. gxf3 Qxh3
+22. fxg4 Qxd3 0-1

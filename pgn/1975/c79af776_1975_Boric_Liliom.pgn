@@ -1,0 +1,20 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Boric, M."]
+[Black "Liliom, I."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "c79af776"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nf6 6. Bc4 e6 7. Be3 Qc7 8.
+Qe2 Be7 9. Bb3 Nc6 10. O-O-O b5 11. g4 Bb7 12. g5 Nd7 13. Bxe6 Nxd4 14.
+Bxd7+ Qxd7 15. Rxd4 O-O 16. Rg1 Bc6 17. h4 a5 18. h5 b4 19. Nd5 Bxd5 20.
+Rxd5 a4 21. g6 b3 22. gxh7+ Kxh7 23. a3 bxc2 24. e5 Qf5 25. f4 Rg8 26. Qg2
+dxe5 27. Rxe5 Qd7 28. Qe4+ f5 29. Rxf5 Kh8 30. h6 Rad8 31. hxg7+ Rxg7 32.
+Rh5+ Kg8 33. Rh7 1-0
+

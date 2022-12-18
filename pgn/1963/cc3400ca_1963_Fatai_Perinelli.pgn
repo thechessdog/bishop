@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Fatai"]
+[Black "Perinelli"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Blackburne variation"]
+[HashCode "cc3400ca"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 cxb5 9. Qxa8 Qd7 10. Qf3 Bb7 11. Qe2 Nc6 12. Nf3 Be7 13. d3 O-O
+14. Nc3 Nd4 15. Nxd4 exd4 16. Ne4 Nd5 17. O-O f5 18. Ng5 Bxg5 19. Bxg5 f4
+20. Bh4 f3 21. Qe5 Nf4 22. Rfe1 fxg2 23. Re4 Nh3+ 24. Kxg2 Qg4+ 25. Kf1
+Bxe4 26. Qxe4 Qg1+ 27. Ke2 Qxa1 28. Qe6+ Kh8 29. Be7 Ng1+ 30. Kd2 Nf3+ 31.
+Ke2 Qe1# 0-1
+

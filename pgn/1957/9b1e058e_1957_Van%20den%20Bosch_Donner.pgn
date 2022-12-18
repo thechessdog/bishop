@@ -1,0 +1,22 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Van den Bosch, Johannes"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "9b1e058e"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. e5 Nxb5 6. Nxb5 Nd5 7. O-O a6 8.
+c4 Nb4 9. Nc3 Nc6 10. Re1 e6 11. d4 cxd4 12. Nxd4 d6 13. Nxc6 bxc6 14. exd6
+Bxd6 15. Qh5 O-O 16. c5 Be7 17. Bf4 f5 18. Rad1 Qa5 19. Bd6 Bxd6 20. cxd6 Bd7
+21. Ne4 e5 22. Ng5 h6 23. Nf3 e4 24. Rxe4 Be8 25. Rxe8 Raxe8 26. d7 Re4 27. h3
+Qc7 28. Nh4 Rd8 29. Qxf5 Rxd7 30. Qxd7 Re1+ 31. Rxe1 Qxd7 32. Nf3 Qd3 33. Rc1
+a5 34. b3 Qe4 35. a3 Qd3 36. b4 Qxa3 37. Rxc6 Qxb4 38. h4 a4 39. h5 a3 40. Rc8+
+Kh7 41. Ra8 a2 0-1

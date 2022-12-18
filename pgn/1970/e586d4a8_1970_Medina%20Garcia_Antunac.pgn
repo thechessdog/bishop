@@ -1,0 +1,19 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1970.01.01"]
+[Round "15"]
+[White "Medina Garcia, Antonio Angel"]
+[Black "Antunac, Goran"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "e586d4a8"]
+[Epoch "Bishop"]
+[BlackID "14500264"]
+[BlackCountry "CRO"]
+[WhiteCountry "EST"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Qd2 Rb8 11. Qf2 Nxf3+ 12. Bxf3 b6 13. Rad1 Nc6 14. Bg2 Nd4
+15. g4 f5 16. gxf5 exf5 17. Nd5 1/2-1/2

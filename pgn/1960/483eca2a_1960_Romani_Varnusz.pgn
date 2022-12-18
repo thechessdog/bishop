@@ -1,0 +1,20 @@
+[Event "ITA - HUN"]
+[Site "Reggio Emilia m"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Romani, Elio"]
+[Black "Varnusz, Egon"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "483eca2a"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 a6 10. Bg5 h6 11. Bh4 Be7 12. Bb3 b5 13. Qd3 Bb7 14. Bxf6 Bxf6 15.
+Ne4 Bxe4 16. Qxe4 Ra7 17. Rad1 Rd7 18. Rd3 Qb6 19. Rfd1 Nc6 20. d5 exd5 21.
+Rxd5 Re7 22. Qg4 Rfe8 23. Ng3 Bxb2 24. Rd6 Qc5 25. R6d5 Qc3 26. h3 Ne5 27. Qh5
+Nc4 28. Nf5 Re1+ 29. Kh2 Rxd1 30. Qxd1 Qf6 31. Bc2 Be5+ 32. g3 h5 33. Qxh5 g6
+34. Qg4 Kf8 35. f4 0-1

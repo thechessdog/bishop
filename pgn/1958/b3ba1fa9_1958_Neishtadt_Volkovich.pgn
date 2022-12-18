@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Neishtadt, Yakov"]
+[Black "Volkovich"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "b3ba1fa9"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nxe4 5. Qxd4 Nf6 6. Bg5 Be7 7. Nc3 c6
+8. O-O-O d5 9. Rhe1 Be6 10. Bd3 Nbd7 11. Qh4 Nc5 12. Nd4 Nfd7 13. Bxe7 Qxe7
+14. Qxe7+ Kxe7 15. f4 Nxd3+ 16. Rxd3 g6 17. g4 Nc5 18. Rde3 Kd6 19. b4 Ne4
+20. Nxe4+ dxe4 21. Nxe6 fxe6 22. Rxe4 1-0
+

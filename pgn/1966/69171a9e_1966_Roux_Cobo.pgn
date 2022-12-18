@@ -1,0 +1,29 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Roux, F."]
+[Black "Cobo, Eldis"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "69171a9e"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. Be2 dxc4 7. Bxc4 c5 8. O-O
+Nc6 9. dxc5 Qa5 10. Nb5 Qb4 11. Qb3 Qxc5 12. Bd2 Ne4 13. Rac1 Nxd2 14. Nxd2 Qb6
+15. Nc3 Qxb3 16. Nxb3 Rb8 17. Rfd1 Rd8 18. Rxd8+ Nxd8 19. Nd2 Bd7 20. b3 Rc8
+21. a4 Nc6 22. Na2 Kf8 23. Be2 e6 24. Kf1 Ke7 25. Ke1 Na5 26. Rxc8 Bxc8 27. b4
+Nc6 28. Nc4 Nxb4 29. Nxb4 Bc3+ 30. Kd1 Bxb4 31. Kc2 Bd7 32. Kb3 Be1 33. f3 f6
+34. Na3 a6 35. Nc4 b5 36. Nb6 Be8 37. axb5 Bxb5 38. Nc8+ Kd7 39. Bxb5+ axb5 40.
+Na7 Bf2 41. Nxb5 Bxe3 42. Kc4 f5 43. Kd3 Bg1 44. h3 Ke7 45. Nc3 e5 46. Ne2 Bb6
+47. Nc3 Ke6 48. Kc4 Ba5 49. Ne2 Be1 50. Nc1 Bd2 51. Ne2 Ba5 52. Ng3 h5 53. Ne2
+h4 54. Nc1 e4 55. fxe4 fxe4 56. Kd4 Kf5 57. Ne2 Bb6+ 58. Kd5 Bc7 59. Kd4 Bb8
+60. Ke3 Ba7+ 61. Kd2 Ke5 62. Nc3 Bd4 63. Ne2 Bb6 64. Nc1 Ba5+ 65. Ke3 Bd8 66.
+Ne2 Bg5+ 67. Kf2 Kd5 68. g3 hxg3+ 69. Kxg3 Kc4 70. Kg4 Kd3 71. Ng3 Bd2 72. h4
+e3 73. Kf3 Be1 74. Ne4 Bxh4 75. Nc5+ Kc4 76. Nd7 Kd4 77. Nf8 g5 78. Ne6+ Ke5
+79. Nc5 Bf2 80. Nd3+ Kf5 81. Nc1 g4+ 82. Kg2 Ke4 83. Kf1 g3 84. Kg2 Kd4 85. Kf3
+Kc3 86. Ne2+ Kd2 87. Nf4 Ke1 88. Ng2+ Kf1 89. Nxe3+ Kg1 90. Nd1 Be1 91. Nc3 g2
+92. Ne2+ Kf1 93. Ke3 Bh4 94. Kd3 Bg5 95. Ng3+ Ke1 0-1

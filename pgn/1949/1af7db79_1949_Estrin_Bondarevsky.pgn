@@ -1,0 +1,25 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1949.01.01"]
+[Round "13"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Bondarevsky, Igor"]
+[Result "0-1"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, 6...e6"]
+[HashCode "1af7db79"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Be2 Be7 8.
+O-O O-O 9. Qd3 Bd7 10. Rad1 Nxd4 11. Qxd4 Bc6 12. Rd3 Nxe4 13. Nxe4 Bxg5 14.
+Nxd6 Qf6 15. c4 Qxd4 16. Rxd4 Bf6 17. Rd2 b6 18. Rfd1 Rfd8 19. f4 Kf8 20. Kf2
+Ke7 21. Nb5 Rxd2 22. Rxd2 g5 23. Bf3 Bxf3 24. Kxf3 gxf4 25. Kxf4 a6 26. Na3 Rc8
+27. b3 Rc5 28. Kf3 Rf5+ 29. Ke2 Rh5 30. h3 Rg5 31. Kf3 Rf5+ 32. Ke2 Rg5 33. Kf3
+Rf5+ 34. Ke2 Ra5 35. Nb1 Bg5 36. Rc2 Re5+ 37. Kf3 Rf5+ 38. Ke2 Re5+ 39. Kf3
+Rf5+ 40. Ke2 Bh4 41. Ke3 Rg5 42. Re2 Rg3+ 43. Kd2 f5 44. Nc3 Bg5+ 45. Kc2 Be3
+46. Nd1 Bd4 47. Nb2 e5 48. Nd3 Kd6 49. Ne1 e4 50. Kd1 a5 51. Kc1 Bc5 52. Nc2
+Ke5 53. Kd2 h5 54. Kd1 h4 55. Kd2 Rd3+ 56. Kc1 Kf4 57. Ne1 Rd8 58. Nc2 Kg3 59.
+Ne1 Bf2 0-1

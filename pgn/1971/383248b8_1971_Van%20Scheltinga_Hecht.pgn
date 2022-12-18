@@ -1,0 +1,29 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "van Scheltinga, Theo Daniel"]
+[Black "Hecht, Hans-Joachim"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "383248b8"]
+[Epoch "Bishop"]
+[BlackID "4600320"]
+[BlackCountry "DEU"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Qb3 a5 6. g3 Bb7 7. Bg2 d6 8. O-O
+Bxc3 9. Qxc3 Nbd7 10. Ne1 Bxg2 11. Nxg2 O-O 12. Qc2 c5 13. Rd1 Qc7 14. dxc5
+bxc5 15. Bf4 Ra6 16. Qd3 Ne8 17. g4 Qb7 18. Rd2 Nb8 19. Rad1 Rb6 20. Qc3 e5 21.
+Bg5 Nc6 22. Ne3 f6 23. Bh4 Nd4 24. Nd5 Ra6 25. Qh3 Nc7 26. Nxc7 Qxc7 27. e3 Ne6
+28. Qg2 Rb6 29. Bg3 Nd8 30. f4 Nf7 31. fxe5 fxe5 32. Qd5 Qb7 33. Qxb7 Rxb7 34.
+Rf1 Rfb8 35. b3 a4 36. bxa4 Ra8 37. Rd3 Rxa4 38. Rb3 Rxb3 39. axb3 Ra2 40. Rf2
+Ra1+ 41. Kg2 Rb1 42. Ra2 h5 43. gxh5 Rxb3 44. Kf3 Rb4 45. Ke4 Rxc4+ 46. Kd5 Rc1
+47. Ke6 Rf1 48. Bh4 Kh7 49. Ra7 Nh6 50. e4 Rf4 51. Bg5 Rxe4 52. Kxd6 Rg4 53.
+Bf6 e4 54. Kxc5 e3 55. Bc3 Nf5 56. Rf7 Rg5 57. Rf8 Rxh5 58. Kc4 Kg6 59. Kd3
+Rxh2 60. Bxg7 Rd2+ 61. Kc3 Rd5 62. Bh8 Kg5 63. Kc4 Rd1 64. Bc3 Nd6+ 65. Kb3 Ne4
+66. Ba5 e2 67. Kc2 Kg4 68. Rg8+ Kf3 69. Rf8+ Kg2 70. Rg8+ Kf1 71. Rf8+ Nf2 72.
+Bb4 Rd4 73. Bc3 Rc4 74. Re8 Ne4 75. Rf8+ Kg2 76. Kd3 Nxc3 77. Re8 Rc7 78. Kd2
+Rf7 0-1

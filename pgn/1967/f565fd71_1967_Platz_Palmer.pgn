@@ -1,0 +1,19 @@
+[Event "Springfield"]
+[Site "Springfield"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Palmer, D."]
+[Result "1-0"]
+[ECO "D96"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation"]
+[HashCode "f565fd71"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 c6 6. e3 O-O 7. Bd3 b6 8. cxd5
+cxd5 9. Bd2 Ba6 10. Nb5 Nc6 11. Rc1 Bb7 12. O-O Qd7 13. Ne5 Qc8 14. Nxa7 Rxa7
+15. Bb5 Ne4 16. Nxc6 Bxc6 17. Rxc6 Nxd2 18. Qc2 Qxc6 19. Qxc6 Nxf1 20. Kxf1
+Rxa2 21. Qc3 e6 22. Ke2 Rfa8 23. Kf3 Rb8 24. Qc7 Rba8 25. Bc6 R8a6 26. b4 Rb2
+27. Qc8+ Bf8 28. Qxa6 Rxb4 29. Qb7 1-0

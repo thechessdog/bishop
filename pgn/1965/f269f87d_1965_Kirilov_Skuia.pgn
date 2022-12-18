@@ -1,0 +1,18 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Kirilov, Valentins"]
+[Black "Skuia, P."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f269f87d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3 Qa5
+8. d5 Ne5 9. Nxe5 Bxd1 10. Bb5+ Kd8 11. Nxf7+ Kc8 12. Kxd1 Nh6 13. Nxh8 e5
+14. dxe6 Bb4 15. Bd7+ Kc7 16. Nb5+ Kb6 17. Be3+ Ka6 18. a3 Be7 19. Ke2 Rxh8
+20. b4 Qd8 21. Rhc1 b6 22. Rc7 Qb8 23. Rac1 Bd8 24. Nd6 1-0
+

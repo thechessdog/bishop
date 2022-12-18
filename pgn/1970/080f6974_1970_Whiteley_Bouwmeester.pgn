@@ -1,0 +1,19 @@
+[Event "ENG-NED m"]
+[Site "Vlissingen"]
+[Date "1970.11.01"]
+[Round "2.5"]
+[White "Whiteley, Andrew Jonathan"]
+[Black "Bouwmeester, Hans"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "080f6974"]
+[Epoch "Bishop"]
+[BlackID "1000187"]
+[BlackCountry "NED"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
+f3 d5 9. e3 Nbd7 10. Bd3 dxc4 11. Bxc4 h6 12. Bh4 c5 13. dxc5 Nxc5 14. Bxf6
+Qxf6 15. Qxf6 gxf6 1/2-1/2

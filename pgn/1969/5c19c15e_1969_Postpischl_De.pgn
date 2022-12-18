@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Postpischl"]
+[Black "De Biase"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "5c19c15e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 h6
+8. Nf4 Bh7 9. Qe2 Nf6 10. O-O g5 11. Nxe6 fxe6 12. Qxe6+ Be7 13. Re1 Rf8
+14. Nh5 Nxh5 15. Qxh6 Kd7 16. Qe6+ 1-0
+

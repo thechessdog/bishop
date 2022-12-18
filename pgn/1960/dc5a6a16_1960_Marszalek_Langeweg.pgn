@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Marszalek"]
+[Black "Langeweg, Kick"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "dc5a6a16"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 c6 6. Bd3 Bxd3 7. Qxd3 Bb4 8.
+Ne2 O-O 9. O-O Qd6 10. e4 Bxc3 11. Nxc3 Nd7 12. exd5 cxd5 13. Qb5 Nb6 14. a4 a6
+15. Qc5 Rfd8 16. a5 Nc4 17. Qxd6 Rxd6 18. b3 Nd2 19. Rfe1 Rc8 20. Rad1 g6 21.
+Re3 Re6 22. Rxd2 Rxc3 23. Rde2 Rexe3 24. fxe3 f5 25. Kf2 Kf8 26. Ke1 Ke7 27.
+Kd2 Rc6 28. Kd3 Re6 29. c4 Kd6 30. Re1 h5 31. Rc1 Re7 32. cxd5 Kxd5 33. Rc4 Kd6
+34. Rb4 Kc7 35. Rb6 Re6 36. Rxe6 fxe6 37. h4 b6 38. axb6+ Kxb6 39. e4 Kb5 40.
+e5 Kc6 41. Kc4 f4 42. b4 1-0

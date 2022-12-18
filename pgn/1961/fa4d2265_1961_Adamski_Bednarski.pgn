@@ -1,0 +1,21 @@
+[Event "Katowice ch18-POL"]
+[Site "Katowice ch18-POL"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Adamski, Andrzej"]
+[Black "Bednarski, Jacek B"]
+[Result "0-1"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[HashCode "fa4d2265"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+[WhiteID "1101439"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 Nc6 6. c4 e6 7. Nc3 Be7 8. Be3
+O-O 9. Nc2 d5 10. cxd5 exd5 11. Nxd5 Nxd5 12. Qxd5 Qc7 13. Qb5 Bd7 14. Qc4 Be6
+15. Qc3 Rfd8 16. f4 Rac8 17. Kf2 Qb8 18. Ne1 Nd4 19. Qa5 Rc5 20. Qa4 b5 21. Qd1
+Nb3 22. Qxd8+ Qxd8 23. axb3 Rc7 24. Bxb5 Bxb3 25. Nd3 Rc2+ 26. Kf3 f5 27. Nf2
+fxe4+ 28. Nxe4 0-1

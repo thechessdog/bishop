@@ -1,0 +1,16 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Brinkmann, W."]
+[Black "Frank, I."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "4c90a505"]
+[Epoch "Bishop"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Qe7 5. Ne2 Nh6 6. O-O d6 7. c3 Bc5 8.
+d4 Bb6 9. a4 a6 10. a5 Ba7 11. Qb3 Nc6 12. f4 Nf7 13. Kh1 O-O 14. fxe5 fxe5
+15. Nd2 1-0
+

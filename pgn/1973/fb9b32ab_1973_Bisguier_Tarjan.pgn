@@ -1,0 +1,20 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Bisguier, Arthur Bernard"]
+[Black "Tarjan, James"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "fb9b32ab"]
+[Epoch "Bishop"]
+[BlackID "2000180"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 g6 4. Bg5 c6 5. f4 Bg7 6. Nf3 O-O 7. Qd2 b5 8. Bd3
+Nbd7 9. e5 b4 10. Ne2 dxe5 11. fxe5 Nd5 12. Bh6 f5 13. h4 e6 14. h5 Qe7 15.
+hxg6 hxg6 16. Bxg7 Qxg7 17. Ng5 Re8 18. Rh7 Qf8 19. O-O-O Re7 20. Rdh1 Rxh7 21.
+Rxh7 1-0

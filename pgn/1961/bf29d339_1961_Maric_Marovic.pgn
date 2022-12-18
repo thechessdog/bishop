@@ -1,0 +1,19 @@
+[Event "Belgrade op"]
+[Site "Belgrade"]
+[Date "1961.01.01"]
+[Round "3"]
+[White "Marić, Rudolf"]
+[Black "Marovic, Drazen"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "bf29d339"]
+[Epoch "Bishop"]
+[BlackID "14500183"]
+[BlackCountry "CRO"]
+[WhiteCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Qd3 Qc7 7. Ne2 h5 8.
+h4 e5 9. dxe5 fxe5 10. Ng3 Be6 11. Bg5 Nd7 12. Ne4 f5 13. Ng3 e4 14. Qc3 Kf7
+15. Bc4 Qe5 16. Bxe6+ Qxe6 17. O-O-O Bg7 18. Qa5 Be5 19. Rxd7+ 1-0

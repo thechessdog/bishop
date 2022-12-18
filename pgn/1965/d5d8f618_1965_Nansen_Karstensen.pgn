@@ -1,0 +1,20 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Nansen"]
+[Black "Karstensen"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "d5d8f618"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 dxc4 5. Bxc4 e6 6. a3 Nd7 7. Nc3 Ne7 8.
+Nge2 Nb6 9. Bb3 Ned5 10. Ng3 Bg6 11. Nce4 Be7 12. O-O h5 13. f4 Qd7 14. Bc2
+h4 15. f5 hxg3 16. fxg6 gxh2+ 17. Kh1 f5 18. exf6 Nxf6 19. Ng5 Nh5 20. Qf3
+Qd6 21. Ne4 Qd5 22. Qf7+ Kd8 23. Bf4 Nxf4 24. Rxf4 Rf8 25. Qxf8+ Bxf8 26.
+Rxf8+ Kc7 27. Rf7+ Nd7 28. Nc5 Rd8 29. Bb3 Qh5 30. Nxe6+ Kc8 31. Nxd8 Kxd8
+32. Rxg7 Qf5 33. Rg8+ Kc7 34. g7 Nf6 35. Rf8 Qg5 36. Rxf6 1-0
+

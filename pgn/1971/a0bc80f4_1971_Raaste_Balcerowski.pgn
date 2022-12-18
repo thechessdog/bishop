@@ -1,0 +1,20 @@
+[Event "EU-chT prel"]
+[Site "Aarhus"]
+[Date "1971.09.09"]
+[Round "5"]
+[White "Raaste, Eero J."]
+[Black "Balcerowski, Witold"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "a0bc80f4"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+[WhiteID "500097"]
+[WhiteCountry "FIN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Ng4 9. Be4 f6 10. h3 Nh6 11. exf6 exf6 12. O-O Nf5 13. Bxc6 bxc6 14. Ne4 Be6
+15. c3 Re8 16. Re1 Bd5 17. Nc5 Qd6 18. Bd2 Qg3 19. Nb3 Bf8 20. Rxe8 Rxe8 21.
+Be1 Bxf3 0-1

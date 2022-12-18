@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Frank, I."]
+[Black "Reimer, K."]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Soerensen defence"]
+[HashCode "347fbbe5"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Be2 Nf6
+8. Nc3 Qa5 9. O-O Be7 10. Be3 O-O-O 11. a3 Qf5 12. Qa4 Nd5 13. Nxd5 Rxd5
+14. b4 Bd6 15. Rfc1 Qg6 16. b5 Ne7 17. Qxa7 Kd7 18. Qxb7 Ke6 19. Re1 h6 20.
+Nh4 1-0
+

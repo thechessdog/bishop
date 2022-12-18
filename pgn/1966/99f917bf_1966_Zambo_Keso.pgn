@@ -1,0 +1,18 @@
+[Event "corr Hungary"]
+[Site "corr Hungary"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Zambo, L."]
+[Black "Keso, G."]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "99f917bf"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. cxd5 Re8 10. Qc2 a6 11. a4 Bg4 12. O-O Qb6 13. a5 Qc7 14. h3 Bd7
+15. Bd2 c4 16. Na4 Rxe4 17. Nb6 Rxe2 18. Nxa8 Qc5+ 19. Kh1 Bxh3 20. gxh3
+Ne4 21. Rg1 Qf2 22. Raf1 Ng3+ 23. Rxg3 Qxg3 0-1
+

@@ -1,0 +1,20 @@
+[Event "Yurmala"]
+[Site "Yurmala"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Frenkel"]
+[Black "Shternberg, P."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "df77133c"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Ne7 6. Nxe5 Qd4 7. Qh5 g6
+8. Qg5 Bg7 9. Nd3 f5 10. e5 c5 11. b3 h6 12. Qe3 f4 13. Qf3 Qxa1 14. Nc3
+Bd7 15. Qxb7 O-O 16. Bb2 Qxf1+ 17. Kxf1 Rfd8 18. Qxc7 Rac8 19. Qd6 Nf5 20.
+Qxa6 f3 21. g4 Nd4 22. Qxg6 Be8 23. Qa6 Kh8 24. Ne4 Bb5 25. Qg6 Nxc2 26.
+Nd6 Rc6 27. a4 Ba6 28. Nf7+ Kg8 29. Nxh6+ Kh8 30. Qxc6 Rxd3 31. Qxa6 Rxd2
+32. Qc8+ 1-0
+

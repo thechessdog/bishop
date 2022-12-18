@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Smith, Olle"]
+[Black "Osterling, Gosta"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "768f5374"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. e5 Nxb5 6. Nxb5 Nd5 7. O-O a6
+8. Nc3 Nxc3 9. dxc3 e6 10. Bf4 Be7 11. Qe2 b6 12. Rad1 Bb7 13. Nd2 g5 14.
+Bg3 h5 15. f3 Qc7 16. Ne4 O-O-O 17. Nd6+ Bxd6 18. Rxd6 h4 19. Bf2 f5 20. b4
+g4 21. h3 Rdg8 22. Kh1 Rg7 23. a4 Rhg8 24. Qd3 gxf3 25. gxf3 Qd8 26. Qe2
+Qg5 27. Rg1 Qf4 28. Rd3 Rxg1+ 29. Bxg1 Rg3 0-1
+

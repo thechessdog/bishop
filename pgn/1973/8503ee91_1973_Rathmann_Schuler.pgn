@@ -1,0 +1,23 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Rathmann, H."]
+[Black "Schuler, W."]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "8503ee91"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+Nxe5 Nxe5 9. dxe5 c6 10. c3 Bf5 11. Be3 Be7 12. Bc2 Qd7 13. f3 Nc5 14. b4
+Bxc2 15. Qxc2 Ne6 16. Qf2 a5 17. bxa5 Rxa5 18. Nd2 O-O 19. Nb3 Ra4 20. f4
+f5 21. Rfe1 Rfa8 22. Bd4 b4 23. cxb4 Rxb4 24. Be3 d4 25. Bd2 Rc4 26. Qf3
+Rca4 27. Rec1 c5 28. Rc2 R8a7 29. Qd3 g6 30. Nc1 Qd5 31. Qb5 Nc7 32. Qb8+
+Kg7 33. Rb1 c4 34. Be1 Ne6 35. Rb5 Bc5 36. Kf1 d3 37. Rf2 Nc7 38. Bc3 Nxb5
+39. Qxb5 Kf7 40. Rd2 R7a6 41. e6+ Ke7 42. Qb8 Qc6 43. Qg8 Qxe6 44. Qxh7+
+Ke8 45. Qh8+ Kd7 46. Be5 Rb4 47. Qg7+ Kc6 48. Qc7+ Kb5 49. Ke1 Rb1 50. Kd1
+Ba3 0-1
+

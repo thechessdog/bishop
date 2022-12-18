@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Echmann"]
+[Black "Strapko"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "62a12797"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O
+8. Nf3 c5 9. Bd3 f6 10. Nb5 Nc6 11. c3 a6 12. Nd6 cxd4 13. cxd4 fxe5 14.
+fxe5 h6 15. O-O Nd8 16. Qc2 Nf7 17. Bh7+ Kh8 18. Bg6 Nxd6 19. exd6 Qxd6 20.
+Ne5 Nf6 21. Bf7 1-0
+

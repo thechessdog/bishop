@@ -1,0 +1,20 @@
+[Event "Staunton mem"]
+[Site "Birmingham"]
+[Date "1951.01.01"]
+[Round "13"]
+[White "Rossolimo, Nicolas"]
+[Black "Klein, Ernst Ludwig"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "fc1e834d"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 Nxd2 11. Bxd2 Qd7 12. Qe2 Rd8 13. Be3 Be7 14. Nd4 O-O
+15. f4 Nxd4 16. cxd4 Bf5 17. Bc2 c5 18. a4 b4 19. b3 Bxc2 20. Qxc2 Rc8 21. dxc5
+d4 22. Qd3 Bxc5 23. Rac1 Ba7 24. Bf2 Rc3 25. Qxa6 Rxb3 26. Qc6 Qxc6 27. Rxc6
+Rc3 28. Rd6 Rc4 29. Rd1 b3 30. Bxd4 Rxd4 31. Kf1 Rxd1+ 32. Rxd1 Be3 0-1

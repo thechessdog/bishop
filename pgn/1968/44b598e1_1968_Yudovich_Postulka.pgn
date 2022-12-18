@@ -1,0 +1,17 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Yudovich, Mikhail Jr"]
+[Black "Postulka"]
+[Result "1-0"]
+[ECO "D95"]
+[Opening "Gruenfeld with e3 & Qb3"]
+[HashCode "44b598e1"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 g6 4. c4 Bg7 5. Nc3 O-O 6. Qb3 dxc4 7. Bxc4 c5 8. d5
+Nbd7 9. e4 Nb6 10. O-O Nxc4 11. Qxc4 b6 12. Re1 e6 13. Bf4 exd5 14. exd5 Bb7
+15. Rad1 Qd7 16. Ne5 Qf5 17. h3 Rad8 18. Nc6 Bxc6 19. dxc6 Nh5 20. Rxd8 Rxd8
+21. c7 Ra8 22. Nd5 Qd7 23. Ne7+ Kh8 24. Qe4 1-0

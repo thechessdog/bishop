@@ -1,0 +1,29 @@
+[Event "Siegen olm"]
+[Site "Siegen olm"]
+[Date "1970.09.01"]
+[Round "16"]
+[White "Ogaard, Leif"]
+[Black "De Castro, Edgar"]
+[Result "1-0"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "6bffe6e3"]
+[Epoch "Bishop"]
+[WhiteID "1500074"]
+[WhiteCountry "NOR"]
+[BlackID "5200091"]
+[BlackCountry "PHI"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nbd7 8. Re1
+c6 9. Bf1 exd4 10. Nxd4 Re8 11. Nb3 Qc7 12. h3 a5 13. Bf4 Ne5 14. Nd4 Nh5 15.
+Be3 Nd7 16. Qd2 Nc5 17. Bh6 Bf6 18. Rad1 a4 19. Be2 Ng7 20. Bg4 Bxg4 21. hxg4
+Nge6 22. Be3 Qa5 23. Nxe6 Rxe6 24. Bd4 Bxd4 25. Qxd4 Rae8 26. f3 Qd8 27. Qf2
+Qf6 28. Rd4 g5 29. Red1 Qe5 30. Ne2 Rh6 31. Qg3 Qg7 32. R4d2 Ne6 33. Qxd6 Nf4
+34. Qc7 Nxe2+ 35. Rxe2 Qf8 36. Qa5 Qe7 37. Qf5 Re6 38. Qa5 b5 39. Qc3 b4 40.
+Qe3 Re5 41. Red2 Qf6 42. b3 axb3 43. axb3 R8e6 44. c5 h5 45. gxh5 g4 46. Rd8+
+Kh7 47. R8d6 g3 48. f4 Rxh5 49. Qxg3 Rxc5 50. Rd8 Qg7 51. Qxg7+ Kxg7 52. R8d4
+Rg6 53. R1d2 Rc1+ 54. Kf2 c5 55. Rd1 Rc3 56. R4d3 Rc2+ 57. R1d2 Rc1 58. Ra2 Rb6
+59. Ke2 Rg6 60. Kf3 Rf1+ 61. Rf2 Rc1 62. e5 Ra6 63. Ke4 Ra3 64. Rff3 c4 65.
+bxc4 Rxc4+ 66. Kf5 Rcc3 67. Rg3+ Kh7 68. Rh3+ Kg7 69. Rd7 Rxh3 70. gxh3 Kf8 71.
+h4 b3 72. Rb7 Kg8 73. h5 Kf8 74. h6 Ra6 75. Rb8+ Ke7 76. h7 1-0

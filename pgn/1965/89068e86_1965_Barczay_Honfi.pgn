@@ -1,0 +1,21 @@
+[Event "HUN-ch21"]
+[Site "Budapest"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Honfi, Karoly"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "89068e86"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. Re1 Nc5 11. Qc2 a5 12. h3 Nfd7 13. Rd1 Ne5 14. Nce2 Bd7
+15. Be3 Qe7 16. Nf4 Nc6 17. Nd5 Qd8 18. Nb3 Na4 19. Rab1 f5 20. h4 Nb4 21. Qd2
+Nxd5 22. exd5 f4 23. Bd4 fxg3 24. fxg3 Bf5 25. Rbc1 Qd7 26. Re1 b6 27. Bxg7
+Qxg7 28. Nd4 Rxe1+ 29. Rxe1 Bd7 30. Ne6 Qxb2 31. Qf4 Rc8 32. Rf1 Bxe6 33. dxe6
+Kg7 34. Qe3 Qe5 35. Qxe5+ dxe5 36. Bc6 1-0

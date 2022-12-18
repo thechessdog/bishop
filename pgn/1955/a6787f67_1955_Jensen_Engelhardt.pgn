@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Jensen, Johs"]
+[Black "Engelhardt"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Herman Steiner variation"]
+[HashCode "a6787f67"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 e4 10. Ng5 Bd6 11. h3 Ne5 12. Nxe4 Nxe4 13. Rxe4 Bf5 14. Re3
+Qh4 15. d4 Ng4 16. hxg4 Qh2+ 17. Kf1 Qh1+ 18. Ke2 Bxg4+ 19. f3 Qxg2+ 20.
+Kd3 Bf5+ 21. Re4 Rae8 22. Nd2 h5 23. Qf1 Qg3 24. Bd1 Bxe4+ 25. Nxe4 Rxe4
+26. Kxe4 Re8+ 27. Kf5 Qg6# 0-1
+

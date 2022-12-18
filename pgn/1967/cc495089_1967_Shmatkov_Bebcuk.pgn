@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Shmatkov"]
+[Black "Bebchuk, Evgeni"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "cc495089"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 e6 6. Bc4 Nf6 7. e5 d5 8. exf6
+dxc4 9. Qxd8+ Kxd8 10. Bg5 Ke8 11. O-O-O Nd7 12. Nd5 exd5 13. Rhe1+ Ne5 14.
+Rxe5+ Be6 15. Rdxd5 gxf6 16. Bxf6 Rg8 17. Ng5 Rg6 18. Nxe6 fxe6 19. Bh4 Rc8 20.
+g3 c3 21. bxc3 Rxc3+ 22. Kd1 Rc7 23. Rd8+ Kf7 24. f4 Bg7 25. Re3 b5 26. Rd6 a5
+27. Bd8 Ra7 28. Bb6 Bf8 29. Rc6 Rd7+ 30. Kc2 a4 31. Re5 Rd5 32. Rc7+ Kg8 33.
+Rxd5 exd5 34. Bd4 Rh6 35. Bg1 Re6 36. Kd3 b4 37. f5 Re1 38. Bd4 Rd1+ 0-1

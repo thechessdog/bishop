@@ -1,0 +1,18 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Ungureanu, Emil"]
+[Black "Gipslis, Aivars"]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "3ba0bb53"]
+[Epoch "Bishop"]
+[BlackCountry "LVA"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Na6 7. e3 Nxc5 8. a3
+Bxc3+ 9. Qxc3 d6 10. f3 e5 11. Bg3 a5 12. Rd1 Qb6 13. Qd2 Na4 14. b4 axb4 15.
+axb4 Be6 16. e4 Rfc8 17. Qxd6 Qe3+ 18. Be2 Nb2 19. Bxe5 Nxd1 0-1

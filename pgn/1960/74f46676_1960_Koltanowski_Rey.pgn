@@ -1,0 +1,18 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Rey, Guillermo"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Steinitz variation"]
+[HashCode "74f46676"]
+[Epoch "Bishop"]
+[BlackID "2001144"]
+[WhiteCountry "BEL"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 exd4 6. e5 Ng4 7. Bf4 O-O 8. h3
+Nh6 9. Bxh6 gxh6 10. Qd2 Qe7 11. Qxh6 Nxe5 12. Ng5 1-0

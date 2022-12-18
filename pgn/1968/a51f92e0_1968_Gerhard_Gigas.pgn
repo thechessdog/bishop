@@ -1,0 +1,25 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Gerhard"]
+[Black "Gigas"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a51f92e0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. cxd4 d6 6. Nf3 Nc6 7. exd6 Qxd6
+8. Nc3 Bg4 9. Be2 e6 10. O-O Be7 11. Qb3 O-O 12. Nxd5 exd5 13. Be3 Bd8 14.
+Rac1 Bc7 15. g3 Bb6 16. Bf4 Qe6 17. Rfe1 Ba5 18. Ng5 Nxd4 19. Qd3 Nxe2+ 20.
+Rxe2 Qg6 21. Qxg6 hxg6 22. f3 Bf5 23. g4 Bd7 24. Bc7 Rac8 25. Rec2 Bb4 26.
+Nh3 Bc6 27. Be5 Rfe8 28. Bd4 Bd6 29. Rd1 Ba4 30. Rxc8 Rxc8 31. b3 Bc6 32.
+Rd2 b6 33. Rc2 Bd7 34. Rxc8+ Bxc8 35. Nf2 g5 36. Nd3 f6 37. h3 Ba6 38. Ne1
+Kf7 39. Kf2 Ke6 40. Ke3 Bc5 41. Nc2 g6 42. b4 Bd6 43. Bc3 Bf4+ 44. Kf2 Bc4
+45. a4 Be5 46. Nd4+ Kd6 47. b5 a5 48. bxa6 Bxa6 49. Bb4+ Kd7 50. Ke3 Bf1
+51. a5 bxa5 52. Bxa5 Bxh3 53. Ne2 f5 54. gxf5 gxf5 55. f4 gxf4+ 56. Nxf4
+d4+ 57. Kf3 Bg4+ 58. Kg3 Kc6 59. Bd2 Kb5 60. Kf2 Kc4 61. Ke1 Kb3 62. Nd3
+Bg3+ 0-1
+

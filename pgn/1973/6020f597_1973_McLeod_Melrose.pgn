@@ -1,0 +1,17 @@
+[Event "Australia op"]
+[Site "Australia op"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "McLeod, S."]
+[Black "Melrose, G."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "6020f597"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bg5 b5 8.
+Bb3 Be7 9. Qd3 O-O 10. O-O-O Bb7 11. f3 Nbd7 12. h4 Nc5 13. Qe2 Qa5 14. a3
+b4 15. axb4 Qxb4 16. Qc4 Qa5 17. Ba2 Rfc8 18. b4 Qa3+ 19. Kb1 Na4 0-1
+

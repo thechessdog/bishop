@@ -1,0 +1,17 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1971.07.01"]
+[Round "11"]
+[White "Gligorić, Svetozar"]
+[Black "Langeweg, Kick"]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "b00c7d8a"]
+[Epoch "Bishop"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. e3 Qa5 7. Qb3 Nc6 8. Nf3
+cxd4 9. exd4 Bg7 10. cxd5 Nxc3 11. bxc3 Bxd4 12. Rc1 1-0

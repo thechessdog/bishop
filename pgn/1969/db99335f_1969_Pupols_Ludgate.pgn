@@ -1,0 +1,20 @@
+[Event "Washington"]
+[Site "Washington"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Pupols, Viktors"]
+[Black "Ludgate, Alan"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "db99335f"]
+[Epoch "Bishop"]
+[WhiteID "2008009"]
+[BlackID "2500183"]
+[WhiteCountry "USA"]
+[BlackCountry "IRL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Ba2 e5 12. h3 e4 13. Nh2 b6 14. Qe2 Na5 15.
+c4 cxd4 16. exd4 Ba6 17. Bg5 Bxc4 18. Rfc1 Qxh2+ 0-1

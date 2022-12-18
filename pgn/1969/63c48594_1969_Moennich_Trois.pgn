@@ -1,0 +1,21 @@
+[Event "Brasilia"]
+[Site "Brasilia"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Moennich, Marcos"]
+[Black "Trois, Francisco R.T."]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "63c48594"]
+[Epoch "Bishop"]
+[BlackID "2100096"]
+[BlackCountry "BRA"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O b6
+9. Be3 Bb7 10. d4 O-O 11. dxc5 dxc5 12. Qe1 Ba6 13. Rf2 Qc7 14. e5 Nd5 15. Ne4
+Ncb4 16. Nd6 Rad8 17. a3 Nxe3 18. Qxe3 Nd5 19. Qe1 Ne7 20. Ng5 Rxd6 21. exd6
+Qxd6 22. Rd1 Bd4 23. c3 Bxf2+ 24. Kxf2 Qc7 25. Nxe6 fxe6 26. Qxe6+ Kh8 27. Rd7
+Bc8 28. Qxe7 Rxf4+ 29. gxf4 Qxf4+ 30. Ke2 Bxd7 31. Qd8+ Kg7 32. Qxd7+ Kf6 33.
+Qd8+ Kg7 34. Qe7+ Kh8 35. Qe8+ Kg7 36. Qe7+ Kh8 37. h3 a5 38. Qe8+ 1-0

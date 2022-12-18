@@ -1,0 +1,16 @@
+[Event "Bognor Regis-B"]
+[Site "Bognor Regis"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Michieli, G."]
+[Black "Guthrie, Y."]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "2acac3eb"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bc4 h6 5. d3 Bb4 6. Bd2 d6 7. h3 O-O 8. O-O
+Be6 9. Nd5 Bxd2 10. Qxd2 a6 11. Bb3 Re8 12. Rfe1 Ne7 13. Nxf6+ gxf6 14. Qxh6
+Ng6 15. Nh4 Bxb3 16. Nf5 1-0

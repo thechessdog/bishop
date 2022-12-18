@@ -1,0 +1,19 @@
+[Event "Leipzig Inter-1"]
+[Site "Leipzig"]
+[Date "1965.01.01"]
+[Round "6"]
+[White "Pietzsch, Wolfgang"]
+[Black "Bobotsov, Milko G"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "d3a588c5"]
+[Epoch "Bishop"]
+[BlackCountry "BGR"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Be2 g5 12. fxg5 Ne5 13. Qe3 Nfg4 14. Qd2 hxg5
+15. Bxg5 Nf2 16. Ndb5 Qd8 17. Nxd6+ Kf8 18. Bxe7+ Qxe7 19. Qf4 Nxh1 20. Qxe5 f6
+21. Rf1 Kg8 22. Rxf6 Rh7 23. Rg6+ 1-0

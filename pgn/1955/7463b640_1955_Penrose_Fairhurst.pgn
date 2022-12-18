@@ -1,0 +1,20 @@
+[Event "Glasgow"]
+[Site "Glasgow"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Penrose"]
+[Black "Fairhurst"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Soerensen defence"]
+[HashCode "7463b640"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Nf6 7. Nc3 Bb4
+8. Be2 O-O 9. O-O Qa5 10. Bd2 Rd8 11. a3 Be7 12. d5 Nb8 13. Bc4 c6 14. Ne5
+Qc7 15. Nxf7 cxd5 16. Ba2 Kxf7 17. Nxd5 Nxd5 18. Qh5+ Kg8 19. Rfe1 Nc6 20.
+Bxd5+ Rxd5 21. Qxd5+ Kh8 22. Qf7 Bg4 23. Bc3 Rg8 24. h3 Bc8 25. Rad1 h6 26.
+Rd5 Bd6 27. Qg6 Be5 28. Bxe5 Nxe5 29. Rdxe5 Bd7 30. Re7 Qd8 31. Qf7 Bc6 32.
+R1e6 Qd1+ 33. Kh2 Qd2 34. Rg6 a6 35. Rxg7 1-0
+

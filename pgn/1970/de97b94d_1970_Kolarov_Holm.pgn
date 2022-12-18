@@ -1,0 +1,20 @@
+[Event "Kapfenberg etc"]
+[Site "Kapfenberg etc"]
+[Date "1970.05.01"]
+[Round "1"]
+[White "Kolarov, Atanas S"]
+[Black "Holm Petersen, Sejer"]
+[Result "1-0"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "de97b94d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. Nd2 Re8 10. O-O Na6 11. f3 Nc7 12. a4 Nd7 13. Nc4 Ne5 14. Ne3 f5 15.
+exf5 gxf5 16. f4 Nf7 17. Kh1 Qf6 18. Bd2 Bd7 19. Rf3 Nh6 20. Rg3 Re7 21. Qc2
+Kh8 22. Rf1 Rae8 23. Bh5 Rb8 24. Ncd1 b5 25. Bc3 Qf8 26. b3 bxa4 27. bxa4 Bxc3
+28. Qxc3+ Rg7 29. Nb2 Rb4 30. Nbc4 Rxa4 31. Nxd6 Nb5 32. Nxb5 Bxb5 33. Rd1 Ng4
+34. Bxg4 fxg4 35. f5 h5 36. d6 Bd7 37. h3 Kg8 38. Qxc5 gxh3 39. Rxh3 Qf7 40.
+Qe5 1-0

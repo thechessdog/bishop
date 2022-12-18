@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Mandolfo"]
+[Black "Zaniratti"]
+[Result "1-0"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "6860c15c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Bc4 e5 12. fxe5 dxe5 13. Qd3 Bg4
+14. Rdf1 Rfd8 15. Qg3 Nxe4 16. Bxf7+ Kh8 17. Nxe4 Bxg5+ 18. Nxg5 Qd2+ 19.
+Kb1 Qxg5 20. h3 Rd4 21. hxg4 Qxg4 22. Rxh7+ 1-0
+

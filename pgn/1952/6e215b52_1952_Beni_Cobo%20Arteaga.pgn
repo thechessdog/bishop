@@ -1,0 +1,20 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Beni, Alfred"]
+[Black "Cobo Arteaga, Eldis"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[HashCode "6e215b52"]
+[Epoch "Bishop"]
+[WhiteCountry "AUT"]
+[BlackCountry "CUB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. Nc3
+d6 9. Nd5 Na5 10. Nxe7+ Qxe7 11. d3 Bg4 12. h3 Bh5 13. Qe2 c5 14. Bd2 Nxb3 15.
+axb3 b4 16. g4 Nxg4 17. hxg4 Bxg4 18. Qe3 f5 19. exf5 Rxf5 20. Nh2 Bh5 21. f3
+Raf8 22. Rf1 Qb7 23. Qe4 d5 24. Qe3 R8f6 25. Rf2 e4 26. f4 g5 27. Raf1 gxf4 28.
+Rxf4 Qg7+ 29. Kh1 Bf3+ 30. R1xf3 exf3 31. Rxf5 Qg2# 0-1

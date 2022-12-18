@@ -1,0 +1,20 @@
+[Event "Wch U20 fin-B"]
+[Site "The Hague"]
+[Date "1961.??.??"]
+[Round "11"]
+[White "Kuettner, Uwe"]
+[Black "Rosino, Antonio"]
+[Result "1-0"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit"]
+[HashCode "dd5231b0"]
+[Epoch "Bishop"]
+[WhiteID "24670839"]
+[BlackID "800376"]
+[WhiteCountry "GER"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Qb3 c5 7. cxd5 Qa5 8. Bc4
+cxd4 9. exd4 Nbd7 10. Nf3 Nb6 11. O-O Bf5 12. d6 e6 13. Ne5 Nh5 14. Be3 Rfd8
+15. Be2 Nf6 16. Bf3 h5 17. Bxb7 Rxd6 18. Bxa8 Nxa8 1-0

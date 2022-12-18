@@ -1,0 +1,19 @@
+[Event "Chernobyl"]
+[Site "Chernobyl"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Zheliandinov, Viktor"]
+[Black "Khavsky"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "97e201b2"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Bf5 12. Nb3 Bg4 13. Nxc5 Nxc5 14. Bf4 Re8
+15. Re1 d4 16. h3 Bh5 17. cxd4 Bxf3 18. Qxf3 Nxd4 19. Qc3 Nxc2 20. Qxc2 Ne6 21.
+Rad1 Qe7 22. Be3 Red8 23. f4 c5 24. f5 Nd4 25. Qe4 Qa7 26. e6 fxe6 27. fxe6 Re8
+28. Bxd4 cxd4 29. e7 h6 30. Kh1 Rab8 31. Qe6+ Kh7 32. Qf7 Qd7 33. Rd3 Qd6 34.
+Re6 Qc7 35. Rg6 Qe5 36. Rdg3 1-0

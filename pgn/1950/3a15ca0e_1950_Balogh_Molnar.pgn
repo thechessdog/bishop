@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Balogh, Janos"]
+[Black "Molnar, Istvan"]
+[Result "1/2-1/2"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, not Scheveningen"]
+[HashCode "3a15ca0e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e5 7. Nf3 h6 8. Be3
+Be7 9. h3 Be6 10. Bb3 a6 11. Nd5 Bxd5 12. Bxd5 Nxd5 13. Qxd5 Qa5+ 14. Qxa5 Nxa5
+15. b3 b5 16. O-O-O Rc8 17. Kb2 Nb7 18. Rd5 O-O 19. g4 Rc6 20. c3 Rfc8 21. Rc1
+Bd8 1/2-1/2

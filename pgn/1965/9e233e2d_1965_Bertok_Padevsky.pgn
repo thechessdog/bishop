@@ -1,0 +1,19 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Bertok, Mario"]
+[Black "Padevsky, Nikola"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Kholmov variation"]
+[HashCode "9e233e2d"]
+[Epoch "Bishop"]
+[WhiteCountry "HRV"]
+[BlackID "2900190"]
+[BlackCountry "FID"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Be6 10. d4 Bxb3 11. Qxb3 Qd7 12. Bg5 h6 13. Bxf6 Bxf6 14. dxe5 Nxe5
+15. Nxe5 dxe5 16. Na3 Rfd8 17. Nc2 c6 18. Ne3 g6 19. Rad1 Qe7 1/2-1/2

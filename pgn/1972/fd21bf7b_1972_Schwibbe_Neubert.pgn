@@ -1,0 +1,23 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Schwibbe, R."]
+[Black "Neubert, G."]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "fd21bf7b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6
+dxc6 8. Nxe5 Be7 9. d4 Ne6 10. c3 O-O 11. Qc2 Bd6 12. f4 f6 13. Nd3 f5 14.
+Ne5 Bxe5 15. fxe5 Qd5 16. Be3 f4 17. Bf2 f3 18. Qe4 Qxe4 19. Rxe4 Ng5 20.
+Re3 fxg2 21. Kxg2 Bh3+ 22. Kg3 Rae8 23. Nd2 h5 24. Bg1 h4+ 25. Kxh4 Rf4+
+26. Kxg5 Rg4+ 27. Kf5 Rxg1+ 28. Rxh3 Rxa1 29. a3 Re1 30. Rg3 Re7 31. Rg2
+Rf7+ 32. Kg6 Re3 33. h4 c5 34. h5 cxd4 35. cxd4 Rd3 36. Ne4 Rxd4 37. h6
+gxh6 38. Nf6+ Kf8 39. Rf2 Rg7+ 40. Kxh6 Rh4+ 41. Nh5+ Rf7 42. Rg2 Rf5 43.
+Rg5 Rxg5 44. Kxg5 Rh2 45. b4 Ra2 46. Nf4 Rxa3 47. e6 Rg3+ 48. Kh4 Re3 49.
+e7+ Rxe7 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr Eberhardt"]
+[Site "corr Eberhardt"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Filzer, F."]
+[Black "Roose, J."]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "a68e1ac2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. d4 cxd4 6. cxd4 e6 7. Nc3 Qd6
+8. Ne4 Qd5 9. Bd3 Nc6 10. O-O Be7 11. Re1 Nf6 12. Bg5 Nxe4 13. Bxe4 Qd8 14.
+Bxc6+ bxc6 15. Bxe7 Qxe7 16. Rc1 Bb7 17. Ne5 Rc8 18. d5 cxd5 19. Qa4+ Kf8
+20. Rxc8+ Bxc8 21. Rc1 Qd8 22. Qc6 Ke7 23. Qc5+ Kf6 24. Qd4 Qe8 25. Rc7 1-0
+

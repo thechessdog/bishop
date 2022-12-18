@@ -1,0 +1,20 @@
+[Event "Kharkov"]
+[Site "Kharkov"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Boleslavsky, Isaac"]
+[Black "Shashin"]
+[Result "0-1"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "cb43cafb"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Nf6 6. Nc3 Bg7 7. Bc4 d6 8. f3
+Qb6 9. Bb5 Qc7 10. Qd2 O-O 11. O-O Bd7 12. Rad1 a6 13. Be2 b5 14. Rf2 Rfc8 15.
+Nxc6 Qxc6 16. a3 Qb7 17. Bd4 Be6 18. Bf1 Bc4 19. Bxc4 Rxc4 20. Ne2 a5 21. Qd3
+Rac8 22. c3 R4c6 23. Be3 b4 24. cxb4 axb4 25. Nd4 Rc4 26. a4 Nd7 27. Nb5 Ne5
+28. Qb3 h5 29. h3 Bf6 30. Rfd2 g5 31. Rd5 g4 32. f4 Ng6 33. Na7 Rc3 34. bxc3
+Rxc3 35. Qb1 Rxe3 36. Nb5 Nxf4 37. Qxb4 gxh3 38. gxh3 Qb6 0-1

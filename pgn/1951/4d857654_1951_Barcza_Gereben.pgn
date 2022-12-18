@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Barcza, Gedeon"]
+[Black "Gereben, Erno"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "4d857654"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. Nf3 d5 2. b3 c5 3. e3 Nc6 4. Bb2 Bg4 5. h3 Bh5 6. Bb5 f6 7. c4 e5 8. cxd5
+Qxd5 9. Nc3 Qd8 10. O-O Ne7 11. d4 cxd4 12. exd4 exd4 13. Ne4 Qd5 14. Qxd4 Bxf3
+15. Qxd5 Nxd5 16. gxf3 O-O-O 17. Rfc1 Kc7 18. a3 Nf4 19. Rc3 Kb6 20. Bf1 Be7
+21. Rc2 Nd3 22. Bc3 Nce5 23. Nd2 Bc5 24. f4 Ng6 25. Nc4+ Kc7 26. Nb2 Nxb2 27.
+Bxb2 Kb6 28. Re1 Nxf4 29. Re4 g5 30. b4 Bxf2+ 31. Kxf2 Nd3+ 32. Ke3 1-0

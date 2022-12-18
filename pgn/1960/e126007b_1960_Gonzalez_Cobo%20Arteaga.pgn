@@ -1,0 +1,23 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Gonzalez, Juan"]
+[Black "Cobo Arteaga, Eldis"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "e126007b"]
+[Epoch "Bishop"]
+[WhiteID "6413153"]
+[WhiteCountry "DOM"]
+[BlackCountry "CUB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. c3 d5 10. exd5 Nxd5 11. d3 Qd6 12. axb5 axb5 13. Rxa8 Rxa8 14. Na3 Qd7
+15. Nxb5 Ra1 16. Qe2 Rxc1 17. Rxc1 Nf4 18. Qf1 Na5 19. Bxf7+ Kf8 20. c4 Bxf3
+21. gxf3 Kxf7 22. Re1 Nc6 23. Re4 Bc5 24. b4 Nh3+ 25. Kg2 Bxb4 26. d4 exd4 27.
+Nxc7 Qxc7 28. Kxh3 Qd7+ 29. Kg2 d3 30. c5 Qd5 31. Rf4+ Kg8 32. Qa1 Ba5 33. Rg4
+Qf7 34. Ra4 d2 35. Rg4 h6 36. h4 Qd7 37. Qa2+ Kh8 38. Rf4 d1=Q 39. Rf8+ Kh7 40.
+Qg8+ Kg6 0-1

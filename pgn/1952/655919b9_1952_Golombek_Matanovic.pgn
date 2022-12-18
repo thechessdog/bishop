@@ -1,0 +1,22 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Golombek, Harry"]
+[Black "Matanovic, Aleksandar"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "655919b9"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[WhiteCountry "ENG"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. e3 c6 7. Nge2 Be6 8. d5
+cxd5 9. cxd5 Bd7 10. O-O Na6 11. e4 Qc7 12. Nf4 Qc4 13. Qd3 Qb4 14. h3 Nc5 15.
+Qe2 Rac8 16. Nd3 Nxd3 17. Qxd3 Ne8 18. a3 Qb3 19. Qd1 Qxd1 20. Nxd1 Nc7 21. Bg5
+Rfe8 22. Rc1 h6 23. Be3 Nb5 24. Nc3 Nd4 25. Rcd1 Nc2 26. Bxa7 Bxc3 27. bxc3 Bb5
+28. Rb1 Bxf1 29. Bxf1 Rxc3 30. a4 Ra3 31. Bb5 Ra8 32. Bb6 Ra1 33. Rxa1 Nxa1 34.
+f4 Nb3 35. e5 Nc5 36. Bc7 Nxa4 37. exd6 exd6 38. Bxd6 Nb6 39. f5 Rd8 0-1

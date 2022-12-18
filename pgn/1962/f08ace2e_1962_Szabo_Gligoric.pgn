@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Gligorić, Svetozar"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "f08ace2e"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6 7. Nc3 e5 8. d5
+Ne7 9. c5 Ng4 10. cxd6 cxd6 11. Qb3 f6 12. Bd2 Nh6 13. Rfc1 a6 14. a4 Nf7 15.
+a5 Rb8 16. Be3 Bg4 17. Na4 Qxa5 18. Nb6 Qb5 19. Qxb5 axb5 20. h3 Bxf3 21. exf3
+Rfd8 22. Rc7 Nf5 23. Ra7 Nxe3 24. fxe3 f5 25. Nd7 Rbc8 26. Rcxb7 f4 27. e4 fxg3
+28. h4 Rc1+ 29. Bf1 Rdc8 30. Kg2 Nd8 31. Rb8 Rxb8 32. Nxb8 Bh6 33. Nd7 Rc2+ 34.
+Kh3 Rh2+ 35. Kg4 Nf7 36. Nf6+ Kg7 37. Ne8+ Kf8 38. Nc7 Nd8 39. Bxb5 Bf4 40. h5
+g2 0-1

@@ -1,0 +1,18 @@
+[Event "San Antonio"]
+[Site "San Antonio"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Lyman"]
+[Black "Lombardy, William James"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "b50da266"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. e5 dxe5 11. fxe5 Nfd7 12. Bc4 Be7 13. Bxe6 O-O 14. Bxf7+
+Rxf7 15. e6 Rf8 16. Nd5 Nc6 17. Nxc6 Bxg5 18. Qxg5 bxc6 19. Ne7+ Kh8 20. Nxc8
+Nc5 21. Nb6 Rae8 0-1

@@ -1,0 +1,18 @@
+[Event "USSR zt"]
+[Site "USSR zt"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Timofeev"]
+[Black "Kapellko"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "35b69dbf"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c5 5. cxd5 cxd4 6. Qa4+ Bd7 7. Qxd4
+exd5 8. Nxd5 Qa5+ 9. Nc3 Nc6 10. Qd1 Ne4 11. Qd5 Nc5 12. Ne5 O-O-O 13. Nxc6
+Bxc6 14. Qc4 b5 15. b4 Qc7 16. Nxb5 Bxb5 17. Qxb5 Qe5 18. Qc4 Qxa1 19. bxc5
+Qd4 20. Qa6+ Kb8 21. Qb5+ Kc7 22. Qa5+ Kc8 23. Qa6+ 1/2-1/2
+

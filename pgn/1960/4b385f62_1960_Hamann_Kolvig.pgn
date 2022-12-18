@@ -1,0 +1,28 @@
+[Event "Nimzowitsch mem"]
+[Site "Copenhagen"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Hamann, Svend"]
+[Black "Kolvig, Bent"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "4b385f62"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[BlackID "1400746"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Bxf6
+gxf6 9. f5 Nc6 10. fxe6 fxe6 11. Be2 Rg8 12. Bh5+ Ke7 13. Nxc6+ bxc6 14. Qf3
+Qa5 15. O-O Qe5 16. Rf2 Rg5 17. Bg4 h5 18. Bh3 Rb8 19. b3 Bg7 20. Raf1 Rb4 21.
+a3 Rd4 22. Kh1 Bb7 23. Re2 a5 24. Rfe1 Ba6 25. Rf2 Kf8 26. Qe3 c5 27. Bxe6 Bh6
+28. Qh3 Rg7 29. Bd5 Bd2 30. Rf5 Bc8 31. Qxh5 Bxf5 32. Qh8+ Ke7 33. Qxg7+ Kd8
+34. Qf8+ Kd7 35. Qf7+ Qe7 36. Bc6+ Kd8 37. Qg8+ Kc7 38. Nb5+ Kxc6 39. Nxd4+
+cxd4 40. Qd5+ Kc7 41. Re2 Be6 42. Qxd4 Bf4 43. Qa7+ Kd8 44. Qxa5+ Ke8 45. Qh5+
+Bf7 46. Qf5 Be5 47. Qc8+ Qd8 48. Qxd8+ Kxd8 49. h3 Kc7 50. Kg1 Bg3 51. Kf1 Kc6
+52. Re3 Be5 53. Ke2 Bb2 54. a4 Bg6 55. Kf3 Kc5 56. b4+ Kc4 57. Rb3 Bd4 58. b5
+d5 59. b6 Bxe4+ 60. Ke2 Bxc2 61. b7 Be5 62. b8=Q Bxb8 63. Rxb8 Bxa4 64. Kd2 d4
+65. Rf8 Bc6 66. g3 Bd7 67. h4 f5 68. h5 1-0

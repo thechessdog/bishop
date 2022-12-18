@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Machacek, H."]
+[Black "Dahlhaus, F."]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "8d963366"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Bxc3+ 7. Nxc3 cxd4
+8. exd4 Nc6 9. c5 O-O 10. Be2 b6 11. O-O bxc5 12. dxc5 a5 13. Bg5 Qe7 14.
+Na4 h6 15. Bh4 g5 16. Bg3 Ne4 17. Rc1 Ba6 18. Bxa6 Rxa6 19. Qd3 Ra7 20. f3
+Nxg3 21. hxg3 Qf6 22. Rfd1 Qe5 23. Kf2 Rb8 24. Rb1 Ne7 25. Re1 Qc7 26. g4
+Rab7 27. Qd4 Ng6 28. Nb6 Rxb6 29. cxb6 Qc2+ 30. Kg3 Nf4 31. Qf2 Qxf2+ 32.
+Kxf2 Nd3+ 33. Ke2 Nxe1 34. Kxe1 Rxb6 35. b4 axb4 36. axb4 Kg7 37. Kd2 Kg6
+38. b5 f5 39. gxf5+ Kxf5 40. Kd3 e5 41. g4+ Kf4 42. Ke2 e4 43. Rb4 d4 44.
+Kf2 e3+ 45. Ke2 Kg3 46. Rb1 Kg2 47. Rb4 Rd6 48. Rb1 Re6 49. Rd1 Re5 50.
+Rxd4 Rxb5 1/2-1/2
+

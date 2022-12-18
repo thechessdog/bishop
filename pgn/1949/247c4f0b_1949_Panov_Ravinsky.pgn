@@ -1,0 +1,25 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Panov, Vasily"]
+[Black "Ravinsky, Grigory Ionovich"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "247c4f0b"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. Nbd2 Bg7 8. Nf1
+O-O 9. Ng3 b5 10. Bb3 d5 11. Bd2 dxe4 12. dxe4 Qd6 13. O-O Bg4 14. Be3 Qxd1 15.
+Rfxd1 Rfd8 16. h3 Rxd1+ 17. Bxd1 Be6 18. Be2 Nd7 19. Ng5 Bc4 20. Bxc4 bxc4 21.
+Rd1 Nb6 22. Bxb6 cxb6 23. Rd6 Rc8 24. Rd7 Nd8 25. Nf1 Bh6 26. Nf3 Bc1 27. Ne3
+Bxe3 28. fxe3 Ne6 29. Nxe5 Nc5 30. Ra7 b5 31. Nxf7 Nd3 32. Nh6+ Kh8 33. Ng4 Rc6
+34. e5 Kg8 35. Nf6+ Kf8 36. Nxh7+ Ke8 37. Nf6+ Kd8 38. Ra8+ Kc7 39. Nd5+ Kb7
+40. Re8 Nxb2 41. Re7+ Kb8 42. Nb4 Rb6 43. Re8+ Kb7 44. e6 a5 45. Nd5 Rd6 46. e7
+Rxd5 47. Rb8+ Kxb8 48. e8=Q+ Kc7 49. Qxg6 Nd1 50. Qf7+ Kc6 51. e4 Rd3 52. e5
+Nxc3 53. e6 Nd5 54. e7 Nxe7 55. Qxe7 b4 56. h4 Kd5 57. Qf7+ Kd4 58. Qf6+ Ke3
+59. Qe5+ Kd2 60. Qf4+ Kc3 1-0

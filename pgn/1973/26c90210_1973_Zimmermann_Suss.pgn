@@ -1,0 +1,16 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Zimmermann, H."]
+[Black "Suess, Alois"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "26c90210"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O b6 10. f4 Ba6 11. Bxa6 Nxa6 12. Ng3 c4 13. Be3 Nc5 14. Bxc5 bxc5 15.
+Qe2 Rb8 16. Rab1 Re8 17. Qxc4 Ng4 18. Qe2 Bd4+ 19. Kh1 Nxh2 0-1

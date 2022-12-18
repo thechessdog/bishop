@@ -1,0 +1,20 @@
+[Event "CSzK ZSRR ch"]
+[Site "CSzK ZSRR ch"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Grubin"]
+[Black "Szaszin"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "233ce2d4"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. f4 Rb8 12. a4 a6 13. a5 b5 14. axb6
+Nxb6 15. Bf3 c4 16. Re1 Nfd7 17. Be2 Qc7 18. Kh1 Nc5 19. Bf1 Bd7 20. Ra3
+Bb5 21. g4 Re7 22. Bg2 Nd3 23. Rf1 Rbe8 24. Qf3 Bxc3 25. Rxc3 Nxd5 26. exd5
+Re3 27. Rxd3 cxd3 28. Qd1 Qc2 29. Nf3 Re2 30. Qxc2 Rxc2 31. Rd1 Ree2 32.
+Bd2 Bc4 33. Re1 Rexd2 0-1
+

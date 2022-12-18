@@ -1,0 +1,20 @@
+[Event "Menden"]
+[Site "Menden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Lieb, Harald"]
+[Black "Rosen, Willy"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "8192e760"]
+[Epoch "Bishop"]
+[BlackID "4605535"]
+[BlackCountry "GER"]
+[WhiteID "4604814"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. O-O d6 6. Re1 e5 7. c3 Nf6 8. d4
+cxd4 9. cxd4 Qc7 10. Qc2 Bg4 11. dxe5 dxe5 12. Nxe5 Bb4 13. Nd2 Rc8 14. Nxg4
+Nxg4 15. e5 Rd8 16. Re4 O-O 17. Rxb4 Qxe5 18. Nf1 1-0

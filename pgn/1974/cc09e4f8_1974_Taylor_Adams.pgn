@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Taylor, D."]
+[Black "Adams"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "cc09e4f8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Bc4 Qc7 6. Qe2 Nb6 7. Bd3 Nc6 8.
+Nf3 d5 9. exd6 Qxd6 10. Nxd4 Nxd4 11. cxd4 Bd7 12. Nc3 Bc6 13. Nb5 Qd7 14.
+Bf4 Nd5 15. Nd6+ Kd8 16. Nxf7+ Ke8 17. Bf5 1-0
+

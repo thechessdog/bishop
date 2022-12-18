@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Ivanov, Igor Vasilyevich"]
+[Black "Nabeiev"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "0b3b58af"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Bxc3 8.
+bxc3 Qc7 9. f4 Nxc3 10. Qf3 Nd5 11. Nb5 Qd8 12. Nd6+ Kf8 13. Qh5 g6 14. Qh6+
+Kg8 15. c4 Ne7 16. Bd3 Nbc6 17. O-O Qb6+ 18. Kh1 Qd4 19. Ne8 1-0

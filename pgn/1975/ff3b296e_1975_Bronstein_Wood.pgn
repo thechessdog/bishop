@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Bronstein, David Ionovich"]
+[Black "Wood, Stephen"]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "ff3b296e"]
+[Epoch "Bishop"]
+[BlackID "425869"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 h6 6. d4 g5 7. h4 Qe7+ 8. Be2
+g4 9. Ne5 f3 10. gxf3 gxf3 11. Bxf3 Nbd7 12. Bf4 Bg7 13. Qe2 Ng8 14. Nc3 Nxe5
+15. dxe5 Bf5 16. O-O-O O-O-O 17. Rhg1 Qxh4 18. Qe3 Bf8 19. Rh1 Qe7 20. d6 cxd6
+21. Qxa7 1-0

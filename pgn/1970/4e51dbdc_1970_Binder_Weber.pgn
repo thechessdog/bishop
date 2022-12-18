@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Binder, G."]
+[Black "Weber, K."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "4e51dbdc"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O d5 10. exd5 exd5 11. Nf3 Be6 12. Bg5 Nb4 13. Bb3 Qa5
+14. Nd4 Rfc8 15. Nxe6 Rxc3 16. bxc3 Ne4 17. Kb2 Bd6 18. Qxe4 dxe4 19. Rxd6
+fxe6 20. Rxe6 Nd5 21. Rd6 Qxc3+ 22. Kb1 h6 23. Rxd5 Kh7 24. Bc1 1-0
+

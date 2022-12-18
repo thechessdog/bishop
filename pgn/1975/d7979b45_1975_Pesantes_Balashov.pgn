@@ -1,0 +1,24 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Pesantes, Carlos"]
+[Black "Balashov, Yuri S"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "d7979b45"]
+[Epoch "Bishop"]
+[WhiteID "3800067"]
+[WhiteCountry "PER"]
+[BlackID "4100263"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 e6 4. Nc3 Bb7 5. a3 d5 6. cxd5 exd5 7. Bg5 Be7 8. e3
+O-O 9. Bd3 Nbd7 10. O-O c5 11. Rc1 Ne4 12. Bf4 Nxc3 13. Rxc3 c4 14. Bb1 b5 15.
+Re1 Nf6 16. Ne5 a5 17. Rc1 Ra6 18. h3 a4 19. Qc2 Bc8 20. Rcd1 g6 21. f3 Nh5 22.
+Bh6 Re8 23. g4 Ng7 24. f4 Bf8 25. Qg2 f6 26. Bxg7 Kxg7 27. Nf3 b4 28. g5 bxa3
+29. gxf6+ Qxf6 30. bxa3 Rb6 31. Bc2 Rb2 32. Rb1 c3 33. Ne5 Qh4 34. Re2 Qxh3 35.
+f5 Rxb1+ 36. Bxb1 Bxf5 37. Qxd5 Qg3+ 38. Kh1 Qh3+ 39. Kg1 Qg3+ 40. Kh1 Bxb1 41.
+Qb7+ Be7 42. Qxb1 Rf8 43. Rh2 Rf5 0-1

@@ -1,0 +1,16 @@
+[Event "Worms"]
+[Site "Worms"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Bachl"]
+[Black "Dietz"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "e515d1ff"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Nc6 5. d5 Ne5 6. fxe4 e6 7. Nf3 Nxf3+
+8. Qxf3 exd5 9. exd5 Bg4 10. Qe3+ Qe7 11. Bb5+ Bd7 12. Bxd7+ Kxd7 13. O-O
+Qxe3+ 14. Bxe3 1-0
+

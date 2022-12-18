@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Soderborg, Berndt"]
+[Black "Ekenberg, Bengt"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Sokolsky variation"]
+[HashCode "e414496e"]
+[Epoch "Bishop"]
+[WhiteID "1705539"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Nbd2 Nxd2 6. Bxd2 Nc6 7. Bc3 dxe5
+8. Qxd8+ Nxd8 9. Bxe5 Ne6 10. Nd4 Nxd4 11. Bxd4 Be6 12. Be2 a6 13. O-O-O O-O-O
+14. Rhe1 Rg8 15. a3 g6 16. Bf6 Bh6+ 17. Kb1 Rxd1+ 18. Rxd1 Bg7 19. Bxg7 Rxg7
+20. f4 h6 21. h4 h5 1/2-1/2

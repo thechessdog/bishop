@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Kellner, J."]
+[Black "Trajkovic, M."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lesser bishop's (Petroff-Jaenisch-Tartakower) gambit"]
+[HashCode "7b829370"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Be2 d5 4. exd5 Nf6 5. Nf3 Nxd5 6. O-O Bc5+ 7. d4 Be7
+8. Nc3 Nxc3 9. bxc3 g5 10. Rb1 Nd7 11. c4 Nf8 12. h4 h6 13. c3 Ne6 14. d5
+Nc5 15. Qd4 Rg8 16. Ne5 Bf5 17. Bh5 Rf8 18. Rb5 Ne4 19. Re1 a6 20. Ra5 b6
+21. Nc6 Qd7 22. Rxe4 Bxe4 23. Qxe4 bxa5 24. Ba3 1-0
+

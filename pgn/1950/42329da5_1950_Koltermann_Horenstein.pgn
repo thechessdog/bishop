@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Koltermann"]
+[Black "Horenstein"]
+[Result "1-0"]
+[ECO "E09"]
+[Opening "Catalan"]
+[Variation "closed, main line"]
+[HashCode "42329da5"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c6 5. Nd2 Be7 6. Ngf3 O-O 7. O-O Nbd7 8.
+Qc2 b6 9. e4 Bb7 10. e5 Ne8 11. b3 Rc8 12. Bb2 c5 13. cxd5 cxd4 14. Qd1
+Bxd5 15. Bxd4 Qc7 16. Rc1 Qb7 17. Qe2 Nc7 18. Nc4 Rfd8 19. Rfd1 Ne8 20. Bb2
+Qa6 21. Rxd5 exd5 22. e6 dxc4 23. exf7+ Kxf7 24. Re1 Bf6 25. Qe6+ Kf8 26.
+Ng5 Bxg5 27. Bd5 Ne5 28. Qg8+ Ke7 29. Bxe5 Rxd5 30. Bf4+ Re5 31. Rxe5+ Kd6
+32. Qd5+ Kc7 33. Re7# 1-0
+

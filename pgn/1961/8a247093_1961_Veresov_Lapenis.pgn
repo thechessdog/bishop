@@ -1,0 +1,17 @@
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Veresov"]
+[Black "Lapenis"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "8a247093"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 Bb4 6. Bd3 Qd7 7. Qf3
+Bxd3 8. cxd3 c6 9. Ne2 O-O 10. O-O Re8 11. e4 dxe4 12. dxe4 Bxc3 13. bxc3
+c5 14. d5 f5 15. exf5 Re5 16. Ng3 Rxd5 17. Rad1 Rxd1 18. Rxd1 Qc8 19. f6
+Nc6 20. Nf5 Qe6 21. Nxg7 Qe5 22. g3 Qg5 23. h4 1-0
+

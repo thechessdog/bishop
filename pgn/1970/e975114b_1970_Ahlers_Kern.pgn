@@ -1,0 +1,20 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ahlers, K."]
+[Black "Kern, M."]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "e975114b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Bd7 10. f3 b5 11. Kb1 Na5 12. Qf2 b4 13. Nce2 Nc4 14. g4
+Qc7 15. Ng3 Bb5 16. Bd3 e5 17. Ndf5 g6 18. Nxh6 Nxe3 19. Qxe3 Rxh6 20. g5
+Rh4 21. gxf6 Bh6 22. Qe1 Rc8 23. Bxb5+ axb5 24. Qe2 Qc6 25. Rd5 Rb8 26.
+Rhd1 Bf8 27. Nf1 Rf4 28. Ne3 Rxf6 29. R5d3 Re6 30. Nd5 Qc5 31. Rb3 Qc4 32.
+Rdd3 1-0
+

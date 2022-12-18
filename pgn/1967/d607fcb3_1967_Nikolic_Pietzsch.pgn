@@ -1,0 +1,18 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1967.03.01"]
+[Round "15"]
+[White "Nikolic, Stanimir"]
+[Black "Pietzsch, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "d607fcb3"]
+[Epoch "Bishop"]
+[WhiteID "903191"]
+[WhiteCountry "SRB"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bd3 Nd7
+8. O-O Nc5 9. Re1 O-O 10. h3 Nxd3 11. cxd3 Bf6 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Alekseev"]
+[Black "Dzagurov"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "fbe44ce1"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bf4 Na6 10. Bxd6 Re8 11. e3 Ne4 12. Nxe4 Rxe4 13. Bg3 b5 14. Nd6
+Rb4 15. Be2 Bxb2 16. O-O c4 17. Rb1 Bf5 18. e4 Bd7 19. a4 Nc5 20. axb5 c3
+21. Qc2 a6 22. Nc4 Nxe4 23. Nxb2 Nxg3 24. hxg3 cxb2 25. Qc3 Qa5 26. Rxb2
+Rxb5 27. Qxa5 1/2-1/2
+

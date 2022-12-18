@@ -1,0 +1,17 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1966.??.??"]
+[Round "15"]
+[White "Kinnmark, Ove"]
+[Black "Horberg, Beng Eric"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "c316fbfe"]
+[Epoch "Bishop"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. O-O Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d6 11. b3 Nd7 12. Bb2 Bf6 13. Qd2 e5 14. Rad1 exd4
+15. Bxd4 Bxd4 16. Qxd4 Qf6 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Sigurjonsson, Johann O"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "8bb6c56f"]
+[Epoch "Bishop"]
+[WhiteID "2300710"]
+[WhiteCountry "ISL"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d6 5. f4 g6 6. Nf3 Bg7 7. d4 O-O 8. Bd3
+c5 9. O-O dxe5 10. fxe5 Nc6 11. Bc4 Bg4 12. Be3 Rc8 13. h3 cxd4 14. cxd4 Bxf3
+15. Qxf3 Nxe5 16. dxe5 Rxc4 17. Qxb7 Bxe5 18. Rad1 Qc7 19. Rd7 Qxb7 20. Rxb7
+Bd6 21. Rxa7 Rxc2 22. a4 f6 23. a5 Re2 24. Bb6 Rc8 25. Kh1 Rcc2 26. Rg1 Rb2 27.
+Rb7 Ra2 28. Ra7 Reb2 29. Bd4 Rb4 30. Bb6 Rbb2 31. Bd4 Rd2 32. Bb6 Kf7 33. a6
+Rdb2 34. Bd4 Rb4 0-1

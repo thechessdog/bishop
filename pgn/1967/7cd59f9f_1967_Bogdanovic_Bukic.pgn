@@ -1,0 +1,20 @@
+[Event "Budva"]
+[Site "Budva"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Bogdanovic, Rajko"]
+[Black "Bukic, Enver"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "7cd59f9f"]
+[Epoch "Bishop"]
+[WhiteID "14400316"]
+[BlackID "14600030"]
+[WhiteCountry "BIH"]
+[BlackCountry "SLO"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 Qc7 10. Bd2 Ngf6 11. O-O-O e6 12. Qe2 O-O-O 13. Ne5 Nxe5 14. dxe5
+Nd7 15. f4 Be7 16. Be3 Nb6 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Moczalov, J."]
+[Black "Carenkov, N."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "0f0f3e04"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bg5 Re8 10. Qd2 a6 11. a4 b6 12. g3 Ra7 13. Qf4 h6 14. Bxh6 Bxh6
+15. Qxh6 Ne4 16. Qf4 Rae7 17. e3 g5 18. Qf3 b5 19. axb5 Nxc3 20. bxc3 axb5
+21. Nd2 c4 22. h4 g4 23. Qf4 Re5 24. Bg2 Na6 25. O-O f5 26. Rfb1 Nc7 27.
+Ra7 R8e7 28. Qd4 Bd7 29. Qb6 Be8 30. Rba1 Kh7 31. Rb7 Rg7 32. Raa7 Ree7 33.
+e4 Qc8 34. exf5 Na8 35. Rxe7 Nxb6 36. Rxg7+ Kh8 37. Rh7+ Kg8 38. Rag7+ Kf8
+39. f6 1-0
+

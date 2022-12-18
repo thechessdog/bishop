@@ -1,0 +1,18 @@
+[Event "Firenze"]
+[Site "Firenze"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Beggi"]
+[Black "Mondaini"]
+[Result "1-0"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "6d939f56"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 Be7 7. O-O O-O 8.
+b3 b6 9. Bb2 Bb7 10. Qe2 c5 11. Rfd1 cxd4 12. exd4 Rc8 13. Rac1 dxc4 14.
+bxc4 Qc7 15. d5 Nc5 16. Nb5 Qb8 17. Be5 Qa8 18. Nc7 Rxc7 19. Bxc7 Nxd3 20.
+Rxd3 Rc8 21. Bf4 1-0
+

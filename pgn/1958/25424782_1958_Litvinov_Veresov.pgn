@@ -1,0 +1,16 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Litvinov, Vladimir"]
+[Black "Veresov, Gavril"]
+[Result "0-1"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "25424782"]
+[Epoch "Bishop"]
+[WhiteID "34318704"]
+[WhiteCountry "RUS"]
+
+1. c4 f5 2. d4 Nf6 3. Nc3 e6 4. Nf3 Bb4 5. Qc2 O-O 6. e3 b6 7. Be2 Bb7 8. O-O
+Bxc3 9. Qxc3 Ne4 10. Qc2 Rf6 11. Nd2 Rh6 12. g3 Qh4 13. Nf3 Ng5 0-1

@@ -1,0 +1,16 @@
+[Event "corr CSSR sf"]
+[Site "corr CSSR sf"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Cvachoucek, F."]
+[Black "Strada"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "7403001a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. Ng5 Ne5 6. Bb3 h6 7. f4 hxg5
+8. fxe5 Nxe4 9. Qxd4 d5 10. Bxd5 Bf5 11. Rf1 g6 12. g4 c6 13. Bxf7+ Ke7 14.
+Qb4+ c5 15. Qxb7+ Qd7 16. Qxe4 Bxe4 17. Bxg5# 1-0
+

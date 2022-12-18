@@ -1,0 +1,27 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Damjanovic, Mato"]
+[Black "Farago, Ivan"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "3aa8a184"]
+[Epoch "Bishop"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+[WhiteCountry "HRV"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. Nc3 d5 5. cxd5 Nxd5 6. g3 Be7 7. Bg2 Be6 8.
+Nf3 O-O 9. O-O Nxc3 10. Bxc3 e4 11. Ne1 f5 12. d3 exd3 13. Bxc6 bxc6 14. Nxd3
+Bd6 15. Qd2 Bd5 16. Be5 Bxe5 17. Nxe5 f4 18. Rad1 fxg3 19. hxg3 Qe8 20. Nd3 Qh5
+21. f3 Qh3 22. Qe1 g5 23. Qf2 Rae8 24. Rde1 Re3 25. Nb4 Be4 26. Qg2 Qxg2+ 27.
+Kxg2 a5 28. Na6 Bf5 29. Kf2 Rfe8 30. g4 Bc2 31. Nc5 Rc3 32. Na4 Rce3 33. Nb2
+Bg6 34. Nc4 Rc3 35. Rc1 Rxc1 36. Rxc1 a4 37. bxa4 Ra8 38. a5 Bf7 39. Ne5 Rxa5
+40. Rxc6 Rxe5 41. Rxc7 Bxa2 42. e3 Rb5 43. Kg3 Bf7 44. Kf2 Kg7 45. Kg3 Kf6 46.
+Kf2 Rb2+ 47. Kg3 Re2 48. Rc3 Be6 49. Ra3 h6 50. Rc3 Ke5 51. Rd3 Bc4 52. Rd4 Rc2
+53. Rd1 Ra2 54. Rh1 Ra6 55. Rc1 Bd5 56. Rc5 Kd6 57. Rc1 Ra3 58. Kf2 Ra2+ 59.
+Kg3 Re2 60. e4 Bb7 61. Rh1 Ke5 62. Rxh6 Bxe4 63. fxe4 Re3+ 64. Kf2 Ra3 65. Rh8
+Kf4 66. Re8 Kxg4 1/2-1/2

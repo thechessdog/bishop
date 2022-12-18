@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Evans, Henry"]
+[Black "Parker, Frank H"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "556a34f5"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nc6 4. d5 Ne5 5. f4 exf3 6. Nxf3 Nxf3+ 7. Qxf3 Nf6
+8. Bg5 Bd7 9. O-O-O Bg4 10. Bb5+ c6 11. Qxg4 Nxg4 12. dxc6 Nf6 13. Bxf6 exf6
+14. c7+ Ke7 15. Rhe1# 1-0

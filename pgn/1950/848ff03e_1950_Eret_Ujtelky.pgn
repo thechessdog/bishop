@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Eret, J."]
+[Black "Ujtelky, Maximilián Samuel Rudolf"]
+[Result "0-1"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "848ff03e"]
+[Epoch "Bishop"]
+[BlackCountry "SVK"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 g6 4. b3 Bg7 5. Bb2 O-O 6. c4 c6 7. Ne5 Ng4 8. Be2
+Nxe5 9. fxe5 Nd7 10. d4 f6 11. cxd5 cxd5 12. Nc3 fxe5 13. dxe5 e6 14. e4 Nxe5
+15. exd5 Qf6 16. Qd2 Qf2+ 17. Kd1 Qxg2 18. Kc2 exd5 19. Rag1 Bf5+ 20. Kc1 Qh3
+21. Qxd5+ Kh8 22. Ne4 Qe3+ 0-1

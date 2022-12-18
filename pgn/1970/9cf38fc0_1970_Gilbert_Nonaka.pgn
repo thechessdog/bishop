@@ -1,0 +1,17 @@
+[Event "Siegen olm"]
+[Site "Siegen"]
+[Date "1970.??.??"]
+[Round "10"]
+[White "Gilbert, Jonathan A"]
+[Black "Nonaka"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "9cf38fc0"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 O-O
+8. Nxe5 Re8 9. d3 Bd6 10. Nc4 Ng4 11. Nxd6 Qxd6 12. g3 Qc5 13. Qe2 Qe7 14.
+Nd2 Ne5 15. f4 Ng4 16. f5 Qc5+ 17. Kh1 Ne3 18. Nb3 Qe7 19. Qxe3 1-0
+

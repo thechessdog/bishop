@@ -1,0 +1,15 @@
+[Event "corr Denmark"]
+[Site "corr Denmark"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Christiansen, H."]
+[Black "Hansen, O."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Maurian defence"]
+[HashCode "a8b878eb"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 Nc6 3. Bc4 exf4 4. Nc3 Qh4+ 5. Kf1 Bc5 6. Nf3 Qf2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Rellstab, Ludwig"]
+[Black "Faber"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "32b07c8f"]
+[Epoch "Bishop"]
+[WhiteID "4671155"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. h4 Nf6 5. Nc3 Nc6 6. Bc4 d6 7. d4 Nh5 8. O-O
+Bg4 9. Nd5 Be7 10. Nxf4 Ng3 11. Bxf7+ Kf8 12. Ng5 g6 13. Nge6+ Bxe6 14. Nxe6#
+1-0

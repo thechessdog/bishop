@@ -1,0 +1,23 @@
+[Event "Palma"]
+[Site "Palma"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Giustolisi"]
+[Black "O'Kelly"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "5680fb66"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 dxc4 5. Qa4+ Bd7 6. Qxc4 Bc6 7. Nbd2
+Nbd7 8. Bg2 Bd5 9. Qc2 Bb4 10. O-O Bxd2 11. Bxd2 O-O 12. Bg5 h6 13. Bf4 c6
+14. Rfd1 Re8 15. h3 Qe7 16. g4 Bxf3 17. Bxf3 e5 18. dxe5 Nxe5 19. Bh1 Ng6
+20. Be3 Qc7 21. Rd3 Re6 22. Rad1 Rae8 23. Qc5 b6 24. Qc3 c5 25. b3 Nf4 26.
+Bxf4 Qxf4 27. e3 Qg5 28. Qe1 h5 29. Bd5 hxg4 30. h4 Qxh4 31. Bxe6 Rxe6 32.
+Rd8+ Kh7 33. Rf8 Ne8 34. Rxf7 Rh6 35. Kf1 Nf6 36. Ke2 g3 37. f3 c4 38. e4
+Qg5 39. bxc4 Qe5 40. Kd3 Rh2 41. Qc3 Qd6+ 42. Qd4 Qa3+ 43. Qc3 Qxa2 44. Kd4
+Kg6 45. Re7 Nh5 46. Ke5 g2 47. Qe3 Qb2+ 48. Ke6 Rh1 49. e5 Rxd1 50. Qe4+
+Kh6 51. Qe3+ g5 52. Kf7 Ng7 53. f4 g4 54. Qg3 Rh1 55. Qxg4 g1=Q 56. Re6+
+Kh7 0-1
+

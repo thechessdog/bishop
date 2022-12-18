@@ -1,0 +1,22 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1970.01.01"]
+[Round "9"]
+[White "Marić, Rudolf"]
+[Black "Velimirovic, Dragoljub"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "527e71c5"]
+[Epoch "Bishop"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Bb5 Bd6 7. dxc5 Qe7+ 8.
+Qe2 Bxc5 9. Nbd2 Bg4 10. Qxe7+ Nxe7 11. Ne5 Bh5 12. Nb3 Bd6 13. Nxc6 bxc6 14.
+Ba6 Rb8 15. Be3 Nf5 16. Bxa7 Ra8 17. Bd3 Rxa7 18. Bxf5 Re7+ 19. Kf1 Kd8 20. g4
+Bg6 21. Nd4 Kc7 22. Kg2 Bxf5 23. gxf5 c5 24. Nb5+ Kc6 25. Nxd6 Kxd6 26. Rhe1
+Rhe8 27. Rxe7 Rxe7 28. a4 Rb7 29. Ra2 Kc6 30. a5 Kb5 31. b4 Ra7 32. bxc5 Rxa5
+33. Rb2+ Kc4 34. Rb7 Kxc3 35. Rxf7 d4 36. c6 d3 37. c7 Rc5 38. Kf3 d2 39. Rd7
+Kc2 40. Ke2 Re5+ 41. Kf3 Rxf5+ 42. Ke3 Re5+ 0-1

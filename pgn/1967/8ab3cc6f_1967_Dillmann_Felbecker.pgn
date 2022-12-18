@@ -1,0 +1,17 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Dillmann, B."]
+[Black "Felbecker, H."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian defence"]
+[HashCode "8ab3cc6f"]
+[Epoch "Bishop"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 c6 4. dxc6 Nxc6 5. Bb5 e5 6. Qe2 Bb4+ 7. c3 O-O
+8. Bxc6 exd4 9. cxb4 bxc6 10. Qd3 Qb6 11. Ne2 Re8 12. b5 Bg4 13. f3 Bf5 14.
+Qxf5 Nd5 15. a4 g6 16. Qd3 Nb4 17. Qc4 d3 18. Qxb4 Rxe2+ 19. Kd1 Qf2 20.
+Bd2 Qxg2 0-1
+

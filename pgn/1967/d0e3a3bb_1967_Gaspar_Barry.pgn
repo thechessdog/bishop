@@ -1,0 +1,18 @@
+[Event "Albuquerque open"]
+[Site "Albuquerque open"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Gaspar"]
+[Black "Barry"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "d0e3a3bb"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e5 7. Nb3 Be6 8.
+Nd5 Nxd5 9. exd5 Bf5 10. Bd3 Bg6 11. O-O Be7 12. Bxg6 hxg6 13. f4 f5 14.
+Qe2 Nd7 15. Bd2 Bf6 16. Na5 Nc5 17. b4 Ne4 18. Be1 exf4 19. Rb1 Bd4+ 20.
+Bf2 Bxf2+ 21. Rxf2 Qb6 0-1
+

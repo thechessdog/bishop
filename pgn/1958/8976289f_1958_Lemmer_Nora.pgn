@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Lemmer"]
+[Black "Nora"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "8976289f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Ne2 Nc6 7. a3 cxd4 8.
+exd4 Be7 9. O-O O-O 10. Be3 b6 11. cxd5 exd5 12. Rc1 Be6 13. Nf4 Qe8 14.
+Bb5 Bd7 15. Nfxd5 Nxd5 16. Nxd5 Bd6 17. Qf3 Nxd4 18. Bxd4 Bxb5 19. Nf6+ 1-0
+

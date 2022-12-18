@@ -1,0 +1,25 @@
+[Event "Lugano olm"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Schulman, M."]
+[Black "Hecht, Hans-Joachim"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "b25bee97"]
+[Epoch "Bishop"]
+[BlackID "4600320"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 Nge7 5. Nf3 b6 6. Bb5 Bb7 7. a3 Qd7 8. O-O
+a6 9. Bd3 Nf5 10. Ne2 O-O-O 11. c3 Na5 12. Ng3 Kb8 13. Nd2 Be7 14. Qe2 Ka7 15.
+b4 Nc4 16. Nxc4 dxc4 17. Bxc4 Qc6 18. f3 Nxg3 19. hxg3 Qd7 20. a4 h5 21. Be3 g5
+22. Bd3 g4 23. Be4 gxf3 24. Qxf3 Bd5 25. Bxd5 exd5 26. Qf5 Qc6 27. Bd2 h4 28.
+gxh4 Rxh4 29. Qxf7 Rdh8 30. Qxe7 Qc4 31. Rae1 Kb7 32. Rf7 Rh1+ 33. Kf2 Rxe1 34.
+Bxe1 Rh1 35. Bd2 Qf1+ 36. Kg3 Qd3+ 37. Kg4 Qe4+ 38. Kg3 Qd3+ 39. Kg4 Qg6+ 40.
+Bg5 Qh5+ 41. Kg3 Qh2+ 42. Kf2 Qg1+ 43. Kf3 Qd1+ 44. Kg3 Qe1+ 45. Kg4 Qe4+ 46.
+Rf4 Qxg2+ 47. Kf5 Rh7 48. Qf8 Rh5 49. Qg7 Qc2+ 50. Kf6 Qxc3 51. e6 Qxb4 52. e7
+Qxa4 53. Qf8 Qc6+ 54. Kf5 Qc2+ 55. Kf6 Qc6+ 56. Kf7 Rxg5 57. Rf6 Qd7 58. Qd8
+Qg4 59. Qh8 Rh5 60. Qg7 1-0

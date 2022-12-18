@@ -1,0 +1,21 @@
+[Event "Monte Carlo-B"]
+[Site "Monte Carlo"]
+[Date "1969.01.01"]
+[Round "10"]
+[White "Gerusel, Mathias"]
+[Black "Tatai, Stefano"]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "4d5d2e71"]
+[Epoch "Bishop"]
+[WhiteID "4601122"]
+[WhiteCountry "GER"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Na6 7. a3 Bxc3+ 8.
+Qxc3 Nxc5 9. f3 d5 10. Rd1 Bd7 11. e3 Ba4 12. Rb1 dxc4 13. Bxc4 Rc8 14. Be2 Bb3
+15. Qd4 Nd5 16. Nh3 Bc2 17. O-O Bxb1 18. Rxb1 Nxf4 19. Qxf4 Qd2 20. Bc4 Qc2 21.
+Rf1 Qxb2 22. Nf2 Qxa3 23. Ng4 Qc3 24. Ba2 Nd3 25. Qg5 Kh8 26. f4 Qd2 27. Bb1 f5
+0-1

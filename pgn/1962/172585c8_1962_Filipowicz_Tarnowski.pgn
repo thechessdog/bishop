@@ -1,0 +1,18 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Filipowicz, Andrzej"]
+[Black "Tarnowski, Alfred"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "172585c8"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 6. Qe2 O-O 7. Nc3 c6 8. d4
+d5 9. Bd3 Bh4+ 10. g3 fxg3 11. Bxh7+ Kh8 12. hxg3 Bxg3+ 13. Kf1 Nf2 14. Qxf2
+Bxf2 15. Kxf2 Nd7 16. Bg5 f6 17. Bg6+ Kg8 18. Rh2 fxg5 19. Rah1 Rxf3+ 20. Kxf3
+g4+ 21. Kg3 Kf8 22. Rh8+ Ke7 23. Rxd8 Kxd8 24. Rh8+ Ke7 25. Re8# 1-0

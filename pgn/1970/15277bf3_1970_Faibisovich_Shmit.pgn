@@ -1,0 +1,22 @@
+[Event "Dnepropetrovsk"]
+[Site "Dnepropetrovsk"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Faibisovich, Vadim Z"]
+[Black "Shmit, Anatoly"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "15277bf3"]
+[Epoch "Bishop"]
+[WhiteID "4102703"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. b3 O-O 10. Bb2 d6 11. Nxc6 bxc6 12. Na4 Bb7 13. c4 c5 14. Qe2 Nd7 15. f4
+Rad8 16. Rad1 Bc6 17. Nc3 Bf6 18. Rd3 Bd4+ 19. Kh1 Rfe8 20. Re1 Nb6 21. Rdd1
+Qb7 22. Qf1 Rb8 23. Ba1 Rbc8 24. h4 Rcd8 25. Kh2 Nd7 26. Re2 Nf6 27. Rde1 Ng4+
+28. Kh3 h5 29. Bb2 Qc8 30. Bf3 d5 31. exd5 exd5 32. Rxe8+ Rxe8 33. Rxe8+ Bxe8
+34. Bxg4 Qxg4+ 35. Kh2 dxc4 36. bxc4 Qe6 37. Nd1 Bc6 38. Bxd4 cxd4 39. Nf2 Qe3
+40. Nd3 Be4 41. Nc5 d3 42. Nxe4 Qxe4 43. c5 d2 44. c6 Qc2 0-1

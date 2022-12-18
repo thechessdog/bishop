@@ -1,0 +1,21 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Teodorescu, Margare"]
+[Black "Veroci_Petronic, Zs"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz, Rosenthal variation"]
+[HashCode "f1509cab"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nd5 Bg7 6. Bg5 Nce7 7. Bc4 h6
+8. Bf4 Nxd5 9. exd5 Qe7+ 10. Qe2 Qxe2+ 11. Kxe2 d6 12. Rhe1 Bf5 13. Kf1+
+Kd7 14. Bb3 g5 15. Bg3 Ne7 16. Nd2 a6 17. Ba4+ b5 18. Bb3 Rae8 19. a4 Ng6
+20. axb5 axb5 21. Rxe8 Rxe8 22. Re1 Rxe1+ 23. Kxe1 d3 24. c3 b4 25. cxb4
+Bxb2 26. Kd1 h5 27. Nc4 Bd4 28. f3 h4 29. Be1 Nf4 30. Bd2 Nxg2 31. Bxg5 f6
+32. Bh6 Bg1 33. Ba4+ Ke7 34. b5 h3 35. Nd2 Bxh2 36. Nf1 Be5 37. f4 Nxf4 38.
+Ke1 Nxd5 0-1
+

@@ -1,0 +1,17 @@
+[Event "corr Baltic"]
+[Site "corr Baltic"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Juhandi"]
+[Black "Johani"]
+[Result "1-0"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack"]
+[HashCode "04794a0a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 O-O 7. Bxc6 dxc6
+8. Nxe5 Re8 9. d3 Bd6 10. Nc4 Ng4 11. Nxd6 Qxd6 12. f4 Qc5+ 13. Kh1 f5 14.
+e5 Re6 15. h3 Rh6 16. c3 Be6 17. b4 Qe7 18. Nd2 Bd5 19. Nf3 1-0
+

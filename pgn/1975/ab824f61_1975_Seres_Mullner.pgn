@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Seres"]
+[Black "Mullner, Imre"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "ab824f61"]
+[Epoch "Bishop"]
+[BlackID "703346"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bb3 Rf8 7. Nc3 Bxf2+
+8. Kxf2 Nxe4+ 9. Kg1 Nxg5 10. d4 Nf7 11. dxe5 Qe8 12. Nd5+ Kd8 13. e6 Qxe6 14.
+Nxc7 Qe5 15. Ne6+ Ke7 1-0

@@ -1,0 +1,18 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Pedersen, Eigil"]
+[Black "Norman Hansen, Holger"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "6d120235"]
+[Epoch "Bishop"]
+[WhiteCountry "DNK"]
+[BlackCountry "DNK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Na5 10. Nd4 Qh4 11. c3 Nxb3 12. axb3 Bd7 13. f3 Ng5 14. Bxg5 Qxg5
+15. e6 Bc8 16. f4 Qf6 17. exf7+ Kxf7 18. Qh5+ g6 19. Qxd5+ 1-0

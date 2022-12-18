@@ -1,0 +1,17 @@
+[Event "Bad Gastein"]
+[Site "Bad Gastein"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Rossolimo, Nicolas"]
+[Black "Romanenko"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "2e60dd71"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. Nc3 Nd4 7. e5 Ng8 8. d3
+Nxb5 9. Nxb5 a6 10. Nd6+ exd6 11. Bg5 Qa5 12. exd6+ Kf8 13. Re8+ Kxe8 14. Qe2+
+Kf8 15. Be7+ Ke8 16. Bd8+ Kxd8 17. Ng5 Nh6 18. Qe7# 1-0

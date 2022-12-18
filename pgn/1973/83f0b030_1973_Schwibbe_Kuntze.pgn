@@ -1,0 +1,17 @@
+[Event "corr Behting mem"]
+[Site "corr Behting mem"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Schwibbe, Rudolf"]
+[Black "Kuntze, K."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "83f0b030"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Nxc6 dxc6 5. Nc3 Bb4 6. Bc4 Qe7 7. O-O
+Bxc3 8. dxc3 fxe4 9. f3 Nf6 10. fxe4 Bg4 11. Qd4 c5 12. Qf2 O-O-O 13. Bg5
+Qxe4 14. Qxc5 b6 15. Qb5 Qxc2 16. Bxf6 gxf6 17. Qc6 1-0
+

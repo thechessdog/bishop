@@ -1,0 +1,17 @@
+[Event "corr NAICCC I"]
+[Site "corr NAICCC I"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Pupols, Viktors"]
+[Black "McLellan, Richard"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Neo-Indian (Seirawan) attack"]
+[HashCode "8431be5d"]
+[Epoch "Bishop"]
+[WhiteID "2008009"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Bg5 h6 4. Bh4 Bb4+ 5. Nd2 d5 6. e3 c5 7. a3 Bxd2+ 8. Qxd2
+g5 9. Bg3 Ne4 10. Qc1 Qa5+ 11. b4 cxb4 12. Bd3 b3+ 13. Ke2 Nc3+ 14. Kf1 Na4 15.
+cxd5 Bd7 16. Rb1 b2 17. Rxb2 Nxb2 18. Qxb2 exd5 19. Nf3 Qb6 20. Qe2 Qe6 0-1

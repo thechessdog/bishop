@@ -1,0 +1,23 @@
+[Event "Southend"]
+[Site "Southend"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Hartston, William R"]
+[Black "Wright, Daniel"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "33d4ce69"]
+[Epoch "Bishop"]
+[WhiteID "400262"]
+[WhiteCountry "ENG"]
+[BlackID "402397"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. d5 d6 5. Nc3 Nf6 6. Be2 O-O 7. O-O e6 8. Nd2
+exd5 9. exd5 b6 10. a4 Re8 11. Nc4 Ne4 12. Nxe4 Rxe4 13. Bd3 Re8 14. Bf4 Bf8
+15. Qf3 Ba6 16. Rfe1 Bxc4 17. Bxc4 a6 18. Qg3 Rxe1+ 19. Rxe1 b5 20. axb5 axb5
+21. Bf1 Na6 22. Ra1 Nb4 23. Rxa8 Qxa8 24. Bxd6 Qxd5 25. Bxf8 Kxf8 26. Qb8+ Kg7
+27. c3 Nd3 28. Qxb5 Nf4 29. Qc4 g5 30. b4 Kf6 31. bxc5 Ke5 32. c6 Kd6 33. c7
+Qxc4 34. Bxc4 Kxc7 35. g3 1-0

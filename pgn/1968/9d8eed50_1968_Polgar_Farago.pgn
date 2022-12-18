@@ -1,0 +1,26 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Polgar, Istvan"]
+[Black "Farago, Ivan"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "9d8eed50"]
+[Epoch "Bishop"]
+[WhiteID "700215"]
+[WhiteCountry "HUN"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Nf3
+Nbc6 9. Bd3 f5 10. exf6 Rxf6 11. Qh5 h6 12. O-O c4 13. Be2 Bd7 14. Ne5 Be8 15.
+Qh3 Qc7 16. Ng4 Rf8 17. Nxh6+ gxh6 18. Qxe6+ Bf7 19. Qxh6 Bg6 20. Bf3 Qd6 21.
+Re1 Rf7 22. Bg4 Qf6 23. f3 Nf5 24. Qg5 Kg7 25. Qxf6+ Kxf6 26. Bf4 Ng7 27. Be5+
+Nxe5 28. Rxe5 Rd8 29. h4 Bxc2 30. h5 Re7 31. Rae1 Rxe5 32. Rxe5 b5 33. Kf2 a5
+34. h6 Nf5 35. h7 Ne7 36. Re6+ Kf7 37. Rb6 Bxh7 38. Rxb5 a4 39. f4 Be4 40. Rb4
+Rh8 41. Bh3 Nf5 42. Bxf5 Bxf5 43. Rxa4 Be4 44. g4 Rh3 45. Ra7+ Ke6 46. Ra6+ Kd7
+47. Ra7+ Kc6 48. f5 Rxc3 49. Ra6+ Kb7 50. Rh6 Rf3+ 51. Ke2 Rg3 52. Rh7+ Kb6 53.
+f6 Rxg4 54. Rh2 Rf4 55. Rf2 Rxf2+ 56. Kxf2 Bg6 0-1

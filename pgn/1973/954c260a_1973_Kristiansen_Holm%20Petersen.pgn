@@ -1,0 +1,22 @@
+[Event "Rasmussen mem"]
+[Site "Randers"]
+[Date "1973.10.15"]
+[Round "2"]
+[White "Kristiansen, Jens"]
+[Black "Holm Petersen, Sejer"]
+[Result "1-0"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, Benko variation"]
+[HashCode "954c260a"]
+[Epoch "Bishop"]
+[WhiteID "1400061"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nb3 e6 8.
+O-O a6 9. Bd3 Be7 10. Be3 Qc7 11. f4 b5 12. Qf3 Bb7 13. Qh3 Nb4 14. a3 Nxd3 15.
+cxd3 Rc8 16. Rac1 Qd8 17. Nd4 Nd7 18. f5 e5 19. Ne6 fxe6 20. Qh5+ g6 21. fxg6
+Nf6 22. g7+ Kd7 23. gxh8=Q Qxh8 24. Qe2 Qg7 25. a4 b4 26. Na2 d5 27. Rxc8 Kxc8
+28. Rc1+ Kb8 29. Qc2 Ng4 30. Qc7+ Ka8 31. Bc5 Bxc5+ 32. Qxc5 Qh6 33. h3 d4 34.
+Re1 1-0

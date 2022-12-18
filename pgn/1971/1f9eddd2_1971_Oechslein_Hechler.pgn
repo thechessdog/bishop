@@ -1,0 +1,24 @@
+[Event "corr ch-BRD"]
+[Site "corr ch-BRD"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Oechslein"]
+[Black "Hechler"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "1f9eddd2"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Nxc3 a6
+14. Rb1 Nf5 15. g4 Rxg4 16. Bh3 Nxe5 17. fxe5 Qxe5+ 18. Ne2 Re4 19. Bxf5
+exf5 20. Kd1 Rc8 21. Bd2 d4 22. Ng3 Ba4 23. Rb2 Rc5 24. Nxe4 fxe4 25. Qg3
+Qxg3 26. hxg3 b5 27. Rh4 f5 28. Bb4 Rc6 29. Kd2 Rg6 30. Bc5 Rxg3 31. Bxd4
+Kd7 32. Rf4 Ke6 33. c3 Rd3+ 34. Ke2 Bd1+ 35. Ke1 Bg4 36. a4 bxa4 37. Rb6+
+Kd5 38. Rxg4 fxg4 39. Rxa6 g3 40. Ra5+ Ke6 41. Re5+ Kd6 42. Rxe4 g2 43. Rg4
+Kd5 44. Rxg2 Kc4 45. Rb2 Rh3 46. Rb4+ Kd3 47. Rxa4 Rh2 48. Ra5 Re2+ 49. Kd1
+Rd2+ 50. Kc1 Rc2+ 51. Kb1 Rh2 52. Ra2 Rh5 53. Kb2 Rb5+ 54. Kc1 Rb8 55. Be5
+Rb5 56. Rc2 Kc4 57. Bf6 1-0
+

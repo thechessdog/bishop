@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Manin"]
+[Result "1-0"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "b6b3e9b2"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Re1 b5 8. e5
+Nxe5 9. Nxe5 bxa4 10. Qxd4 O-O 11. Qxa4 Re8 12. Nc3 Rb8 13. a3 Rb6 14. Bg5 Bb7
+15. Rad1 Re6 16. Nxf7 Rxe1+ 17. Rxe1 Bc5 18. Ne5 Re6 19. Qc4 Qe7 20. Bxf6 gxf6
+21. Nxd7 1-0

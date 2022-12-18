@@ -1,0 +1,24 @@
+[Event "NLD-SWE telex"]
+[Site "NLD-SWE telex"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Liljedahl, Lennart"]
+[Black "Zuidema, Coen"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "0e4561a0"]
+[Epoch "Bishop"]
+[WhiteID "1700758"]
+[WhiteCountry "SWE"]
+[BlackID "1000101"]
+[BlackCountry "NED"]
+
+1. b3 d5 2. Bb2 c6 3. e3 Nf6 4. f4 g6 5. Nf3 Bg4 6. Be2 Bg7 7. O-O O-O 8. Qe1
+Bxf3 9. Rxf3 e6 10. Rh3 Ne4 11. Bxg7 Kxg7 12. d3 Qf6 13. c3 Nd6 14. d4 Nd7 15.
+Bd3 c5 16. g4 Qe7 17. Nd2 Rac8 18. Nf3 Nf6 19. Qh4 Rh8 20. Qh6+ Kg8 21. Ne5
+cxd4 22. cxd4 Nfe4 23. Rf1 Qf8 24. Qh4 Qd8 25. Qh6 Qf8 26. Qh4 h6 27. Bxe4 Nxe4
+28. f5 gxf5 29. gxf5 Qg7+ 30. Qg4 Qxg4+ 31. Nxg4 h5 32. Ne5 Rh7 33. f6 Rh6 34.
+Rhf3 Kf8 35. Rf4 Ke8 36. Kh1 Rc3 37. R1f3 Rc1+ 38. Rf1 Rxf1+ 39. Rxf1 Rxf6 40.
+Rg1 Nf2+ 0-1

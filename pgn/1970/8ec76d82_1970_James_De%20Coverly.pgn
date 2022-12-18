@@ -1,0 +1,20 @@
+[Event "CU Champ"]
+[Site "CU Champ"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "James, GD."]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Cordel variation"]
+[HashCode "8ec76d82"]
+[Epoch "Bishop"]
+[BlackID "405213"]
+[BlackCountry "END"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 Na5 7. Bd3 c5 8. Nxe5
+Nf6 9. O-O O-O 10. f4 d5 11. exd5 Qxd5 12. Bb2 cxd4 13. cxd4 b6 14. Nd2 Bb7 15.
+Ndf3 Rac8 16. Qd2 h6 17. Rfe1 Qd6 18. Nh4 Qb4 19. Qe2 Nd5 20. Nf5 Bf6 21. Qg4
+Nxf4 22. Nxh6+ Kh8 23. Nexf7+ Rxf7 24. Nxf7+ Kg8 25. Qxf4 Qxb2 26. Nd6 Qxg2#
+0-1

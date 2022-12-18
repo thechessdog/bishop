@@ -1,0 +1,23 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Krabbe, Tim"]
+[Black "Ciocaltea, Victor"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "effc0ea9"]
+[Epoch "Bishop"]
+[WhiteID "1000969"]
+[WhiteCountry "NED"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. h4 h5 8. Nh3 Nge7
+9. O-O Nd4 10. Nf4 Nec6 11. Qd2 Ne5 12. f3 Bd7 13. Nd1 Ndc6 14. c3 Ne7 15. Rf2
+O-O 16. Bf1 Rc8 17. b3 N5c6 18. Rh2 e5 19. Ne2 b6 20. c4 Nd4 21. Nxd4 cxd4 22.
+Bh6 f5 23. Bxg7 Kxg7 24. Nf2 Ng8 25. Bh3 fxe4 26. fxe4 Nh6 27. Qe2 Bxh3 28.
+Rxh3 Qd7 29. Rh2 Rf6 30. Rg2 Rcf8 31. g4 hxg4 32. Nxg4 Rf4 33. Nxh6 Kxh6 34.
+Rg3 Qf7 35. Qg2 Rxh4 36. b4 Rf4 37. a4 Kg7 38. Ra2 Rf1+ 39. Kh2 Rh8+ 40. Rh3
+Qf4+ 0-1

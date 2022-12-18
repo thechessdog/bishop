@@ -1,0 +1,17 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Kahn, M."]
+[Black "Yudovich, Mikhail Sr"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "d9fb33f4"]
+[Epoch "Bishop"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Bg5 c5 5. d5 d6 6. e3 exd5 7. cxd5 Nbd7 8. Bb5
+Bxc3+ 9. bxc3 O-O 10. Bxd7 Bxd7 11. Qf3 Bg4 12. Qg3 Re8 13. Ne2 Bxe2 14. Kxe2
+Re5 15. Rab1 h6 16. Bxf6 Qxf6 17. c4 Rg5 18. Qh3 Qg6 19. Rhc1 Rxg2 20. Rxb7 Re8
+21. a4 Re5 22. Qh4 Rh5 23. Qf4 Rhxh2 24. Rf1 Rh5 25. Rxa7 Rg4 26. Qf3 Qc2+ 0-1

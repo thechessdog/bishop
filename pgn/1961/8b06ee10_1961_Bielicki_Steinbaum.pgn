@@ -1,0 +1,18 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Bielicki, Carlos"]
+[Black "Steinbaum"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "8b06ee10"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 c5 6. d5 d6 7. Nf3 e5 8. O-O a6
+9. a4 Ne8 10. e4 f5 11. Ng5 Nc7 12. f4 h6 13. Nf3 Nd7 14. Nh4 exf4 15. Nxg6
+fxg3 16. Nxf8 gxh2+ 17. Kh1 Qxf8 18. exf5 Ne8 19. Ne4 Nef6 20. Ra3 Ne5 21. Rg3
+Kh7 22. Nxf6+ Qxf6 23. Qh5 Bd7 24. Be4 Kh8 25. Qxh2 Nf7 26. Rg6 Qd4 27. Bg2 Kh7
+28. Qg3 Bxf5 29. Rxf5 Qd1+ 30. Kh2 Ng5 31. Rxg7+ Kxg7 32. Bxg5 1-0

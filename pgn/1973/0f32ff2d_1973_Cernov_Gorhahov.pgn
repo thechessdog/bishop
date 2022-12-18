@@ -1,0 +1,16 @@
+[Event "Appunti"]
+[Site "Appunti"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Cernov"]
+[Black "Gorhahov"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "0f32ff2d"]
+[Epoch "Bishop"]
+
+1. e4 g6 2. d4 c6 3. Nc3 d5 4. Bf4 Qb6 5. exd5 Qxb2 6. Nge2 Bf5 7. Rb1 Qa3
+8. Rxb7 Na6 9. dxc6 g5 10. Nb5 Qxa2 11. Nec3 Qxc2 12. Qxc2 Bxc2 13. Nd5 1-0
+

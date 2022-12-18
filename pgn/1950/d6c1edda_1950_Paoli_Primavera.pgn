@@ -1,0 +1,24 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1950.09.01"]
+[Round "9"]
+[White "Paoli, Enrico"]
+[Black "Primavera, Giuseppe"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "d6c1edda"]
+[Epoch "Bishop"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Qc7 7. O-O b5 8. Bf3
+e5 9. Nf5 Be6 10. Bg5 Nbd7 11. a3 h6 12. Bxf6 Nxf6 13. Ne3 Be7 14. Rc1 O-O 15.
+Qd2 Qa5 16. Rfd1 Qb6 17. g4 Rac8 18. Kh1 Qd8 19. Rg1 Ne8 20. Ne2 Bg5 21. Ng3 g6
+22. c3 Kh8 23. Rcd1 Bb3 24. Rde1 Ng7 25. Bd1 Be6 26. f3 Bc4 27. Be2 Bb3 28. Bd1
+Bc4 29. Qc2 Ne6 30. b3 Qb6 31. Ng2 Bxb3 32. Qxb3 Bd2 33. Re2 Bxc3 34. Ra2 Bd4
+35. Rf1 Rc3 36. Qb1 Ng5 37. h4 Ne6 38. Ne2 Rc6 39. Bb3 a5 40. Bd5 Rc7 41. Qd3
+Bc5 42. Bxe6 fxe6 43. Qb3 Re7 44. Raa1 b4 45. axb4 axb4 46. Qc4 g5 47. hxg5
+hxg5 48. Ne1 d5 49. Qd3 Rh7+ 50. Kg2 Kg7 51. Ng3 d4 52. Ra6 Qb7 53. Qc4 Rh6 54.
+Nd3 Rc8 55. Rc1 b3 56. Nxc5 Rxc5 57. Qxc5 Qxa6 58. Qe7+ Kg6 59. Nh5 1-0

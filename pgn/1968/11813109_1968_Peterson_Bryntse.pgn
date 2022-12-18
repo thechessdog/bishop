@@ -1,0 +1,18 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Peterson, Gosta"]
+[Black "Bryntse, Arne"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "11813109"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 Nc6 7. Nxc6
+dxc6 8. e5 Nd7 9. Qg4 Qa5 10. O-O Bxc3 11. bxc3 Qxe5 12. Bf4 Qxc3 13. Rae1
+h6 14. Bd6 Kd8 15. Qg3 Qf6 16. Re4 e5 17. Rd4 Re8 18. Re1 c5 19. Rd5 Qf4
+20. Qxg7 c4 21. Bf1 Qf6 22. Bc7+ 1-0
+

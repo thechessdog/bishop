@@ -1,0 +1,21 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1972.08.01"]
+[Round "4"]
+[White "Bednarski, Jacek B"]
+[Black "Zuckerman, Bernard"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "b8f5439f"]
+[Epoch "Bishop"]
+[BlackID "2000423"]
+[BlackCountry "USA"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Qh5 Nf6 13. exf6 Qxd4+ 14. Kh1 Bxf6
+15. Qf3 Qa7 16. Ne4 Nd7 17. Be3 Qb8 18. Rad1 Kh8 19. Rxd7 Bxd7 20. Nxf6 Qd8 21.
+Bg5 h6 22. Qh5 Bc6 23. Bxh6 gxf6 24. Bg5+ Kg7 25. Qh6+ Kg8 26. Bxf6 Bxg2+ 27.
+Kxg2 Qd2+ 28. Qxd2 1-0

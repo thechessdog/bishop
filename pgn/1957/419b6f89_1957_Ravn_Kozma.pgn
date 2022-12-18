@@ -1,0 +1,18 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Ravn, Palle"]
+[Black "Kozma, Julius"]
+[Result "0-1"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Ragozin variation"]
+[HashCode "419b6f89"]
+[Epoch "Bishop"]
+[BlackID "14934019"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O dxc4 8.
+Bxc4 Bd6 9. e4 e5 10. dxe5 Nxe5 11. Nxe5 Bxe5 12. Bd3 Ng4 13. h3 Qh4 14. Ne2
+Nh2 15. Re1 Bxh3 16. gxh3 Qxh3 17. f4 Ng4 0-1

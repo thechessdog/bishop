@@ -1,0 +1,19 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Schou, Steen"]
+[Black "From, Martin Severin"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "3593c097"]
+[Epoch "Bishop"]
+[WhiteID "1422480"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Nxc6 dxc6 5. d4 Qe7 6. e5 Be6 7. c4 O-O-O 8.
+Nc3 Qf7 9. Bg5 Rd7 10. Qa4 Kb8 11. d5 cxd5 12. cxd5 Bxd5 13. O-O-O Be6 14. Bc4
+Rxd1+ 15. Rxd1 Ne7 16. Be3 Nc8 17. Bxa7+ Nxa7 18. Rd8+ Nc8 19. Nb5 Bc5 20. Rxh8
+Bxc4 21. Qa8+ 1-0

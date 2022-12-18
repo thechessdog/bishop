@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Klovans, Janis"]
+[Black "Mukhin, Georgy"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "e483f31c"]
+[Epoch "Bishop"]
+[BlackID "4102215"]
+[WhiteCountry "LVA"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Nf6 7. O-O d6 8. f4
+Nbd7 9. Bf3 Rb8 10. Kh1 b5 11. e5 dxe5 12. Nc6 e4 13. Nxe4 Rb6 14. Ne5 Nxe4 15.
+Bxe4 Nf6 16. Bd3 Bc5 17. Qe2 O-O 18. Bd2 Rd6 19. b4 Bd4 20. c3 Ba7 21. c4 bxc4
+22. Nxc4 Rd5 23. Rac1 Qd8 24. Ne5 Bb8 25. Bc3 Bxe5 26. fxe5 Rxd3 27. exf6 e5
+28. Qxe5 gxf6 29. Rxf6 Rd1+ 30. Rf1 Rxf1+ 31. Rxf1 f6 32. Qg3+ Kh8 33. Qg5 1-0

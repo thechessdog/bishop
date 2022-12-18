@@ -1,0 +1,17 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Pogats, Jozsef Jr."]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz, Rosenthal variation"]
+[HashCode "f07e2ef2"]
+[Epoch "Bishop"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nd5 Bg7 6. Bg5 Nce7 7. Bc4 c6 8.
+Nxe7 Nxe7 9. O-O O-O 10. Nxd4 h6 11. Bh4 g5 12. Bg3 d5 13. exd5 Nxd5 14. Re1
+Nb6 15. Bd3 Qxd4 16. c3 Qd5 17. Qe2 Bf5 18. Rad1 Bxd3 19. Rxd3 Qxa2 0-1

@@ -1,0 +1,14 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Bronstein, David Ionovich"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "cac06e39"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 dxe4 4. Bc4 Qg5 5. Bxf7+ Ke7 6. Qh5 Qxg2 7. Bxg8
+Qxh1+ 8. Ke2 Rxg8 9. Qf7+ Kd6 10. Qxg8 Kxe5 11. Qxf8 Bg4+ 12. Ke3 Qe1# 0-1

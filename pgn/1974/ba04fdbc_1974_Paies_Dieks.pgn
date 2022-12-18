@@ -1,0 +1,21 @@
+[Event "Bacollad"]
+[Site "Bacollad"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Paies"]
+[Black "Dieks"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "ba04fdbc"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 e6 12. O-O-O Qc7 13. Qe2 Bd6 14.
+Nf5 Bf4 15. Nxg7+ Kf8 16. Nxe6+ fxe6 17. Qxe6 Re8 18. Qf5 Bxd2+ 19. Rxd2
+Qd6 20. Nh4 Rh7 21. Ng6+ Kg8 22. f4 Qd5 23. Ne5 Qxa2 24. Rd3 Rg7 25. Ra3
+Qd5 26. Rxa7 Qxd4 27. Nxd7 Nxd7 28. Ra3 Rf8 29. Qe6+ Kh7 30. g3 Nc5 31. Qh3
+Ne4 32. Rf1 Qd2+ 33. Kb1 Qb4 34. Kc1 Qd2+ 35. Kb1 Qe2 36. Kc1 Nxg3 37. Rg1
+Nf5 0-1
+

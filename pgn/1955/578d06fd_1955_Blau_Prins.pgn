@@ -1,0 +1,21 @@
+[Event "Vevey"]
+[Site "Vevey"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Blau, Max"]
+[Black "Prins, Lodewijk"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "578d06fd"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "CHE"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nde2 Bc5 7. Ng3 d6 8.
+Be2 h5 9. h4 Ng4 10. Bxg4 Bxg4 11. Qd3 Nc6 12. Nd5 Ne7 13. Nxe7 Qxe7 14. Nf1
+O-O 15. Be3 Rfd8 16. c3 Rac8 17. b4 Bxe3 18. Nxe3 Be6 19. a4 Qc7 20. Ra3 Bc4
+21. Qd1 Qc6 22. Qf3 d5 23. exd5 Qh6 24. Ra1 Bd3 25. Rc1 f5 26. Qd1 e4 27. Nxf5
+Qf6 28. Qxh5 Rxc3 29. Kd2 e3+ 30. fxe3 Rxc1 31. Nh6+ Qxh6 32. Qxh6 gxh6 33.
+Rxc1 Be4 0-1

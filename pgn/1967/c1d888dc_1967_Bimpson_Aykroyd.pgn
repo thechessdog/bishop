@@ -1,0 +1,18 @@
+[Event "Whitby"]
+[Site "Whitby"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Bimpson"]
+[Black "Aykroyd, Colin D"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "c1d888dc"]
+[Epoch "Bishop"]
+[BlackID "2610736"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. Nxe5
+Nxe5 9. dxe5 c6 10. Be3 Be7 11. c3 Bf5 12. g4 Bd7 13. f3 Ng5 14. Nd2 h5 15. h4
+Nh3+ 16. Kg2 hxg4 17. Rh1 Rxh4 18. f4 Bf5 19. Qe2 Qd7 20. a4 b4 21. Rad1 Qb7
+22. Rdf1 c5 23. Kg3 Rh7 24. Qxg4 Bxg4 25. Kxg4 d4 26. Rxh3 Qg2+ 0-1

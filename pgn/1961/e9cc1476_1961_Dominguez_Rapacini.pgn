@@ -1,0 +1,16 @@
+[Event "Balcarce"]
+[Site "Balcarce"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Dominguez, Christobal"]
+[Black "Rapacini, J."]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "e9cc1476"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8.
+Qd2 a6 9. h4 b5 10. Bf3 Bb7 11. e5 Bxf3 12. exf6 Bxg2 13. fxg7 Bxh1 14. gxf8=Q+
+Kxf8 15. O-O-O Bb7 16. Bh6+ Kg8 17. Re1 Nd7 18. Nf5 Ne5 19. f4 1-0

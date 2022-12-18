@@ -1,0 +1,22 @@
+[Event "corr FIN jub10"]
+[Site "corr FIN jub10"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Letic, S."]
+[Black "Miettinen, R."]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "6b6b842d"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Bb4 5. e3 O-O 6. Bd3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. Ne5 Bd6 10. f4 c5 11. Qf3 Nc6 12. Qh3 Nb4 13. Bb1 Ne4 14. a3
+Na6 15. b3 Nc7 16. Bb2 cxd4 17. exd4 f5 18. b4 Rc8 19. Nd1 Ne6 20. Ne3 g6
+21. Bxe4 dxe4 22. d5 Ng7 23. Qh6 Rf6 24. N5c4 Bf8 25. Bxf6 Qxf6 26. Rac1 b5
+27. Qg5 Qxg5 28. fxg5 bxc4 29. Rfd1 Bd6 30. Rxc4 Bf4 31. Rxc8+ Bxc8 32. Kf2
+Bxg5 33. Rc1 Ba6 34. Rc6 Bb5 35. Rc8+ Ne8 36. g3 Kf7 37. Ra8 a6 38. Ra7+
+Kf6 39. a4 Bd3 40. b5 axb5 41. a5 Ke5 42. h4 Bxe3+ 43. Kxe3 Kd6 44. Kd4 Nc7
+45. Rb7 Bc4 46. Rb6+ Kd7 47. d6 Nd5 48. Kc5 Nxb6 49. axb6 Kc8 0-1
+

@@ -1,0 +1,21 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Novak, Ivan"]
+[Black "Szukszta, Janus"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "6279aa7f"]
+[Epoch "Bishop"]
+[WhiteID "14900246"]
+[WhiteCountry "SVK"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 d6 7. Bd3 Nc6 8. O-O
+c4 9. Be2 a6 10. Re1 Be7 11. b3 dxe5 12. dxe5 b5 13. Nd4 Qb6 14. Nxc6 Qxc6 15.
+bxc4 bxc4 16. c3 O-O 17. Be3 Rb8 18. Bf3 Rd8 19. Rb1 Rb5 20. a4 Rxb1 21. Qxb1
+Qxa4 22. Bb6 Re8 23. Bxd5 Be6 24. Bxe6 fxe6 25. Bd4 Qc6 26. Qa2 Ra8 27. Rb1 a5
+28. Rb6 Qd5 29. Qa4 Kf7 30. h3 h6 31. Rc6 Kf8 32. Rxc4 Rb8 33. Rc7 Rb5 34. Kh2
+Bg5 35. Qc2 Bf4+ 36. g3 Bxe5 37. Rc8+ Kf7 38. c4 Qxd4 39. cxb5 a4 40. Ra8 1-0

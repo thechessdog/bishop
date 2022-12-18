@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Pietzsch, Wolfgang"]
+[Black "Kollberg"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "9a1ca8ed"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4 8.
+Bd3 Qa5 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qxh7 Nd7 12. Bf4 Nf8 13. Qh6 Bd7 14. O-O
+O-O-O 15. Bg5 Qc5 16. Qf6 Re8 17. h4 Nf5 18. Bxf5 exf5 19. Qxf7 Ng6 20. Bf6 Qc4
+21. Rab1 Bc6 22. Ng3 Qg4 23. Rxb7 Bxb7 24. Rb1 Ne7 25. Qe6+ Kb8 26. Qd7 1-0

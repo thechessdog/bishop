@@ -1,0 +1,16 @@
+[Event "corr CADAP"]
+[Site "corr CADAP"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Tener, N."]
+[Black "Zeidaks, A."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "0f8134da"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qe6 6. d3 exd3+ 7. Ne3
+dxc2 8. Qxc2 Bb4 9. Bc4 Qe5 10. Bd2 Nc6 11. O-O Nge7 12. Ned5 Nd4 13. Qd3
+Bd6 14. Bf4 Qf5 15. Qxd4 1-0
+

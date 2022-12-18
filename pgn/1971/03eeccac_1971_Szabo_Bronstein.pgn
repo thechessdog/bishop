@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Bronstein, David Ionovich"]
+[Result "1/2-1/2"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "Nd2 variation"]
+[HashCode "03eeccac"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. Nd2
+Qa5 9. g3 Nbd7 10. Bh3 Bg7 11. O-O O-O 12. Qc2 c4 13. Rd1 Nb6 14. Bg2 Bb7 15.
+b4 cxb3 16. Nxb3 Qa6 17. e4 Rfc8 18. Bf1 Qa7 19. Nd4 Qa5 20. Bd2 Qc5 21. Nb3
+Qa3 1/2-1/2

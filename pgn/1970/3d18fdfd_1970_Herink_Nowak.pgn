@@ -1,0 +1,19 @@
+[Event "CSR-ch Havirov"]
+[Site "Havirov"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "Herink, Miroslav"]
+[Black "Nowak, Erwin"]
+[Result "1/2-1/2"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "3d18fdfd"]
+[Epoch "Bishop"]
+[WhiteID "339784"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 h6 6. Bh4 exd5 7. cxd5 d6 8. e3
+Nbd7 9. Bd3 Ne5 10. Bb5+ Bd7 11. Bxd7+ Nexd7 12. Ne2 O-O 13. O-O Re8 14. Nb5
+Qb6 15. Nbc3 Bxc3 1/2-1/2

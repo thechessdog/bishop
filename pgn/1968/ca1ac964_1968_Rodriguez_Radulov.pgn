@@ -1,0 +1,18 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Rodriguez Vargas, Orestes"]
+[Black "Radulov, J."]
+[Result "0-1"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "ca1ac964"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 b6 7. Rc1 Bb7 8. cxd5
+exd5 9. Bd3 c5 10. O-O Nbd7 11. Ne5 Nxe5 12. dxe5 Ne4 13. Bf4 f5 14. exf6 Nxf6
+15. Re1 Bd6 16. Bxd6 Qxd6 17. e4 d4 18. e5 Qc6 19. Ne4 Nd5 20. Qh5 g6 21. Qh6
+Qc7 22. Bc4 Kh8 23. Ng5 Rae8 24. e6 Rf5 25. h4 Re7 26. h5 Qf4 27. Nf7+ Rfxf7
+28. exf7 Qxh6 29. Bxd5 Bxd5 0-1

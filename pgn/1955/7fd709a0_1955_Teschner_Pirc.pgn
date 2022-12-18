@@ -1,0 +1,18 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1955.01.01"]
+[Round "3"]
+[White "Teschner, Rudolf"]
+[Black "Pirc, Vasja"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "7fd709a0"]
+[Epoch "Bishop"]
+[BlackCountry "SVN"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 d6 5. exd6 cxd4 6. cxd4 Qxd6 7. Nf3 Nc6 8.
+Nc3 Bg4 9. Be2 e6 10. O-O Be7 11. h3 Bh5 12. Qb3 O-O 13. Rd1 Bg6 14. Nxd5 exd5
+15. Be3 Qb4 16. Qxd5 Qxb2 17. Qb5 Qxb5 18. Bxb5 Nb4 19. Ne5 Nd5 20. Bc4 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "HUN-ch21"]
+[Site "Budapest"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Polgar, Istvan"]
+[Black "Csom, Istvan"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "f368f0cf"]
+[Epoch "Bishop"]
+[WhiteID "700215"]
+[WhiteCountry "HUN"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bxc3+ 6. bxc3 d6 7. e3 Bb7 8. d5
+h6 9. Bh4 Nbd7 10. dxe6 fxe6 11. Bd3 O-O 12. Nd4 Qe8 13. f3 Nc5 14. Be2 e5 15.
+Nf5 Bc8 16. g4 Bxf5 17. gxf5 Qh5 18. Bg3 Qxf5 19. Qd2 e4 20. f4 Nd3+ 21. Bxd3
+exd3 22. O-O-O Rae8 23. Qxd3 Qxd3 24. Rxd3 Re4 25. Kd2 Rfe8 26. f5 Rxc4 27. Rd4
+Ne4+ 0-1

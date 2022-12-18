@@ -1,0 +1,20 @@
+[Event "Belgrade URS-World"]
+[Site "Belgrade"]
+[Date "1970.03.01"]
+[Round "1"]
+[White "Larsen, Bent Ravn"]
+[Black "Spassky, Boris V."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "d54ff787"]
+[Epoch "Bishop"]
+[WhiteID "1430670"]
+[WhiteCountry "DNK"]
+[BlackID "600024"]
+[BlackCountry "RUS"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. Nf3 e4 5. Nd4 Bc5 6. Nxc6 dxc6 7. e3 Bf5 8.
+Qc2 Qe7 9. Be2 O-O-O 10. f4 Ng4 11. g3 h5 12. h3 h4 13. hxg4 hxg3 14. Rg1 Rh1
+15. Rxh1 g2 16. Rf1 Qh4+ 17. Kd1 gxf1=Q+ 0-1

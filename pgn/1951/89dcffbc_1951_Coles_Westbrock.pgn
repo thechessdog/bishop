@@ -1,0 +1,17 @@
+[Event "USA-op52"]
+[Site "Forth Worth"]
+[Date "1951.??.??"]
+[Round "12"]
+[White "Coles, A."]
+[Black "Westbrock, C."]
+[Result "1-0"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon variation"]
+[HashCode "89dcffbc"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. Bd3 dxe4 6. Bxe4 c5 7. Ne2 cxd4
+8. Nxd4 Qa5 9. Bxf6 Bxc3+ 10. bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Ke2 Qb2 13. Rb1
+Qxb1 14. Nxe6 Bd7 15. Nxg7+ Kf8 16. Ne6+ fxe6 17. Qd6+ Kg8 18. Qg3+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "SWE-ch"]
+[Site "Eskilstuna"]
+[Date "1971.??.??"]
+[Round "5"]
+[White "Carlsson, Aake"]
+[Black "Liljedahl, Lennart"]
+[Result "0-1"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "21487e72"]
+[Epoch "Bishop"]
+[BlackID "1700758"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 b6 6. Bd3 Bb7 7. a3 Bxc3+ 8.
+bxc3 d6 9. O-O Nbd7 10. Re1 Ne4 11. Nd2 f5 12. f3 Nxd2 13. Bxd2 e5 14. Qc2 Qg5
+15. e4 f4 16. c5 dxc5 17. Bc4+ Kh8 18. Be6 Qe7 19. Bxd7 Qxd7 20. dxc5 Rad8 21.
+Red1 Ba6 22. Bxf4 Bd3 23. Rxd3 Qxd3 24. Qxd3 Rxd3 25. Bxe5 Re8 26. cxb6 Rxe5
+27. bxc7 Rxc3 28. Rd1 Re8 0-1

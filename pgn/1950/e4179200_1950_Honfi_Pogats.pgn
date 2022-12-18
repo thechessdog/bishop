@@ -1,0 +1,19 @@
+[Event "HUN-ch06"]
+[Site "Budapest"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Pogats, Jozsef Jr."]
+[Result "1/2-1/2"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "e4179200"]
+[Epoch "Bishop"]
+[BlackID "744450"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. d3 d5 6. exd5 Nxd5 7. Bxd5 Qxd5 8.
+Bxf4 O-O 9. O-O Bf6 10. d4 c5 11. Nc3 Bxd4+ 12. Nxd4 Qxd4+ 13. Qxd4 cxd4 14.
+Nb5 Nc6 15. Nc7 Rb8 16. Nb5 Ra8 1/2-1/2

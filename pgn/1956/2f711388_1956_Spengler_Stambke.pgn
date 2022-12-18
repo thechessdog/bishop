@@ -1,0 +1,18 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Spengler"]
+[Black "Stambke"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "2f711388"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6
+8. Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 a6 11. a4 Qc7 12. Qe2 Bd6 13. Nf3 b6 14.
+b3 Bb7 15. h3 O-O 16. Bb2 Nh5 17. Rfd1 Nf4 18. Qe3 Bc5 19. Qc3 f6 20. Nd4
+Kh8 21. Ne2 Nxg2 22. b4 Qc6 23. Bd5 exd5 24. bxc5 Nf4 25. Nd4 Ne2+ 1-0
+

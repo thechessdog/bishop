@@ -1,0 +1,26 @@
+[Event "corr ch-SWE"]
+[Site "corr ch-SWE"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Wikstrom, Bertil"]
+[Black "Petersson, Gosta"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "510bf490"]
+[Epoch "Bishop"]
+[BlackID "1701908"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8.
+Nxc6 dxc6 9. f4 b5 10. Bf3 Bb7 11. Qe2 Be7 12. Bd2 O-O 13. e5 Nd5 14. Ne4 a5
+15. Rfc1 Qb6+ 16. Kh1 c5 17. c4 bxc4 18. Qxc4 Rfc8 19. Qb3 Qc7 20. a3 a4 21.
+Qc4 Qd7 22. Qc2 Qb5 23. Rab1 c4 24. Nc3 Qd7 25. Rd1 Nxc3 26. Bxc3 Qb5 27. Bxb7
+Qxb7 28. Rbc1 Qc6 29. Rd4 Rd8 30. Qe4 Qxe4 31. Rxe4 Rac8 32. Kg1 Rc6 33. Kf1
+Kf8 34. Rce1 Ke8 35. Ke2 Rd5 36. Rd1 Kd7 37. Rdd4 Rxd4 38. Rxd4+ Kc8 39. Ba5 f5
+40. Kd2 g5 41. Kc3 gxf4 42. Rxc4 Kb7 43. Bb4 Bd8 44. Bc5 Ba5+ 45. Kd3 Rc8 46.
+Bd6 Rxc4 47. Kxc4 Kc6 48. h3 h5 49. Bb4 Bb6 50. Bc3 Bc5 51. b4 axb3 52. Kxb3
+Kd5 53. a4 Ke4 54. Kc4 Ba7 55. a5 f3 56. gxf3+ Kf4 57. Bd4 Bb8 58. a6 Kg3 59.
+Kb5 Kxh3 60. Kb6 Kg3 61. Kb7 h4 62. Kxb8 h3 63. Bg1 Kg2 64. a7 Kxg1 65. a8=Q h2
+66. f4 h1=Q 67. Qxh1+ Kxh1 68. Kc7 Kg2 69. Kd6 Kf3 70. Kxe6 Kxf4 71. Kf6 1-0

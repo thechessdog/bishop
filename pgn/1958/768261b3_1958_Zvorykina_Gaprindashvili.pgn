@@ -1,0 +1,26 @@
+[Event "Kharkov ch20-SU"]
+[Site "Kharkov ch20-SU"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Zvorykina, Kira Alekseyevna"]
+[Black "Gaprindashvili, Nona"]
+[Result "1-0"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Herman Steiner variation"]
+[HashCode "768261b3"]
+[Epoch "Bishop"]
+[BlackID "13600125"]
+[BlackCountry "GEO"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. c3
+d5 9. exd5 e4 10. Ng5 Na5 11. Nxe4 Nxe4 12. Rxe4 Nxb3 13. axb3 Bb7 14. c4 c6
+15. dxc6 Bxc6 16. Re1 Bc5 17. d3 Qf6 18. Be3 Qg6 19. f3 Bd6 20. Bf2 Qh5 21. Bg3
+Bc5+ 22. d4 Rfd8 23. Bf2 Rd6 24. Nc3 Rh6 25. Bg3 Rd8 26. Nd5 Bd6 27. Ne7+ Kf8
+28. Nxc6 Bxg3 29. hxg3 Rxc6 30. Qe2 Qg5 31. d5 Rcc8 32. Rxa6 Qxg3 33. Qe7+ Kg8
+34. Raa1 h5 35. Re4 Re8 36. Qh4 Qxh4 37. Rxh4 Re3 38. Rc1 Rxb3 39. c5 Rxb2 40.
+Rxh5 Rd2 41. c6 f6 42. Rc5 g5 43. Rxb5 Kg7 44. Rh3 Kg6 45. f4 gxf4 46. Rhb3 Re8
+47. Rb2 Re1+ 48. Kh2 Rdd1 49. g4 Rh1+ 50. Kg2 Kg5 51. Kf3 Rh3+ 52. Ke2 Rg1 53.
+R5b3 Rh2+ 54. Kd3 Rd1+ 55. Kc4 Rxb2 56. Rxb2 f3 57. Rc2 Kxg4 58. c7 f2 59.
+c8=Q+ 1-0

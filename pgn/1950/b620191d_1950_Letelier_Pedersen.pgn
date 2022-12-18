@@ -1,0 +1,19 @@
+[Event "Dubrovnik olm"]
+[Site "Dubrovnik olm"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Letelier, Rene"]
+[Black "Pedersen, Eigil"]
+[Result "0-1"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "b620191d"]
+[Epoch "Bishop"]
+[WhiteCountry "CHL"]
+[BlackCountry "DNK"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. g3 Nf6 5. Bg2 Be7 6. O-O O-O 7. Nc3 Nbd7 8. Qc2
+dxc4 9. Rd1 Nd5 10. a3 b5 11. e4 Nxc3 12. bxc3 Bb7 13. a4 a6 14. e5 Nb6 15. a5
+Nd5 16. Nd2 c5 17. Ne4 cxd4 18. Rxd4 Qc7 19. Bg5 h6 20. Bxe7 Nxe7 21. f4 Nf5
+22. Rad1 Nxd4 23. Rxd4 Bxe4 24. Qxe4 Rad8 25. f5 Rxd4 26. cxd4 c3 0-1

@@ -1,0 +1,18 @@
+[Event "match"]
+[Site "match"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Dupuis, P."]
+[Black "Mack, A."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "f4ae99f8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. d3 Nf6 6. Nge2 O-O 7. O-O Nc6 8.
+h3 e6 9. Be3 Rb8 10. f4 Ne8 11. Qd2 Nd4 12. Rae1 Qa5 13. g4 Nxe2+ 14. Rxe2
+b5 15. f5 Bd4 16. Kh1 Bxe3 17. Qxe3 b4 18. Nd1 Kg7 19. e5 exf5 20. gxf5
+Bxf5 21. Rxf5 gxf5 22. exd6 Qd8 23. d7 Qxd7 24. Qg3+ 1-0
+

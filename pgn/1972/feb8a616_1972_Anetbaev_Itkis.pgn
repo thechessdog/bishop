@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Anetbaev, Berik"]
+[Black "Itkis, Boris"]
+[Result "1-0"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, Normal position"]
+[HashCode "feb8a616"]
+[Epoch "Bishop"]
+[WhiteID "13700120"]
+[WhiteCountry "KAZ"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 e6 4. Bg2 Nf6 5. Nf3 d5 6. cxd5 exd5 7. d4 Be7 8. O-O
+O-O 9. dxc5 d4 10. Na4 Bg4 11. a3 Ne4 12. b4 Bf6 13. Bb2 a6 14. Rc1 Re8 15. Re1
+Qe7 16. Nd2 Nxf2 17. Kxf2 Qe3+ 18. Kf1 d3 19. Nf3 Bf5 20. Qd2 dxe2+ 21. Rxe2
+Bd3 1-0

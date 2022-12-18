@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Morgado, Juan Sebastian"]
+[Black "Araujo Ladeiro, C."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "50d5ace8"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e5 7. Nf3 Be6 8. Bb3
+Be7 9. Bg5 Nbd7 10. Qd2 Nc5 11. Bxf6 gxf6 12. Bd5 f5 13. exf5 Bxf5 14. b4 Ne6
+15. Bxb7 1-0

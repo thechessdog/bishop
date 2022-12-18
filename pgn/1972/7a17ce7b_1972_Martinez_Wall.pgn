@@ -1,0 +1,16 @@
+[Event "Okinawa"]
+[Site "Okinawa"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Martinez, Louis"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Steinitz variation"]
+[HashCode "7a17ce7b"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. d4 exd4 6. e5 Ng4 7. Bf4 d3 8.
+Qxd3 Nb4 9. Qf5 d5 10. e6 Bxe6 11. Qh5 Bxf2+ 12. Rxf2 g6 0-1

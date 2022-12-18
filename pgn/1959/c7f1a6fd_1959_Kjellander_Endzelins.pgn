@@ -1,0 +1,19 @@
+[Event "corr Wch3"]
+[Site "corr Wch3"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Kjellander, S."]
+[Black "Endzelins, L."]
+[Result "1/2-1/2"]
+[ECO "D28"]
+[Opening "QGA"]
+[Variation "classical, 7...b5"]
+[HashCode "c7f1a6fd"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8.
+Bd3 cxd4 9. exd4 Be7 10. a4 bxa4 11. Rxa4 Bb7 12. Nc3 O-O 13. Bg5 a5 14.
+Rd1 Nbd7 15. d5 exd5 16. Rh4 Re8 17. Nd4 g6 18. Bb5 Nh5 19. Bxe7 Rxe7 20.
+Qg4 Ne5 21. Qg5 f6 22. Qd2 Qf8 23. Nb3 Nc4 24. Qc1 Nb6 25. Nc5 Qc8 26. Nxb7
+Rxb7 27. Nxd5 Qxc1 28. Rxc1 Kh8 1/2-1/2
+

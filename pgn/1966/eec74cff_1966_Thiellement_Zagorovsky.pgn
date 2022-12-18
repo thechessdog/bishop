@@ -1,0 +1,24 @@
+[Event "Le Havre"]
+[Site "Le Havre"]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Thiellement"]
+[Black "Zagorovsky"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "eec74cff"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 h6 5. Bf4 c6 6. e3 Nh5 7. Ne5 Nxf4
+8. exf4 Nf6 9. Be2 h5 10. a3 Bf5 11. Bd3 g6 12. O-O e6 13. Re1 Bh6 14. Ne2
+h4 15. b4 Nd7 16. Bxf5 gxf5 17. Qd3 Rg8 18. Kh1 a6 19. a4 Nxe5 20. dxe5 Qb6
+21. Qe3 Qxb4 22. Reb1 Qe7 23. Rb6 Qc7 24. Rab1 Ra7 25. Qb3 Kd7 26. Rxb7
+Rxb7 27. Qxb7 a5 28. Qb3 Bf8 29. Qb8 Qxb8 30. Rxb8 c5 31. h3 Kc6 32. c3 Rh8
+33. Ra8 Kb6 34. Re8 Bg7 35. Re7 Rf8 36. g3 Bh6 37. Kg2 hxg3 38. fxg3 Rd8
+39. Rxf7 d4 40. cxd4 cxd4 41. Rf6 Bg7 42. Rxe6+ Kc5 43. Kf3 Bf8 44. g4 Kc4
+45. Rc6+ Bc5 46. gxf5 d3 47. Rxc5+ Kxc5 48. Nc3 Kd4 49. Ne4 Rh8 50. Nf2 d2
+51. Ke2 Rh4 52. Kxd2 Rxf4 53. Ke2 Rxf5 54. Nd3 Rh5 55. e6 Rxh3 56. Nf4 Re3+
+57. Kf2 Re5 58. Kf3 Kc4 59. Kg4 Kd4 60. Kf3 Re3+ 61. Kg4 Kc5 62. Kg5 Kd6
+63. Kf6 Re4 64. Kf5 Rxa4 65. Ng6 Ra1 66. e7 Re1 67. Kf6 a4 0-1
+

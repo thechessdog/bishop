@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Faibisovich, Vadim Z"]
+[Black "Lomaja, Teimuraz"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "cf4f2f0e"]
+[Epoch "Bishop"]
+[WhiteID "4102703"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bd3 Nxe5
+8. Rxe5 O-O 9. Nc3 c6 10. b3 Ne8 11. Bb2 d5 12. Qh5 g6 13. Nxd5 Qxd5 14. Qh6
+Be6 15. Rxd5 cxd5 16. Re1 Bf6 17. Ba3 Bg7 18. Qf4 Rc8 19. h4 Nc7 20. Bxf8 Bxf8
+21. h5 Be7 22. Qd4 b6 23. Qa4 1-0

@@ -1,0 +1,21 @@
+[Event "ACM Chicago"]
+[Site "ACM Chicago"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "CCCP"]
+[Black "Coco III"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov's defence"]
+[HashCode "cd41c786"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Qe7 4. d4 d6 5. Bb5+ c6 6. Bxc6+ Nxc6 7. Nxc6
+Qxe4+ 8. Be3 Qxg2 9. Rf1 Bh3 10. Nd2 bxc6 11. Qf3 Qxf3 12. Nxf3 Bg2 13. Nd2
+Bxf1 14. Kxf1 d5 15. c4 dxc4 16. Nxc4 Ng4 17. h4 Nxe3+ 18. fxe3 f5 19. a4
+Be7 20. h5 g6 21. h6 Bg5 22. Nd6+ Ke7 23. Nc4 Bxh6 24. b4 f4 25. exf4 Bxf4
+26. Re1+ Kf6 27. b5 Rad8 28. bxc6 Rxd4 29. Nb2 Rc8 30. a5 Rxc6 31. Kg1 Bh2+
+32. Kxh2 Rc2+ 33. Kh3 Rc3+ 34. Kh2 Rd2+ 35. Kg1 Rg3+ 36. Kf1 Rf3+ 37. Kg1
+Rg3+ 38. Kf1 Rf3+ 39. Kg1 Rxb2 40. a6 Ra3 41. Rf1+ Kg5 42. Rf2 Rxf2 43.
+Kxf2 h6 44. Kg2 Kf4 45. Kh1 Kg3 46. Kg1 Ra1# 0-1
+

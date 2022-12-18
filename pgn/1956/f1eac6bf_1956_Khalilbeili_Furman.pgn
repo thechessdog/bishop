@@ -1,0 +1,16 @@
+[Event "URS-ch sf"]
+[Site "Tbilisi"]
+[Date "1956.01.01"]
+[Round "5"]
+[White "Khalilbeili, Sultan"]
+[Black "Abramovich Furman, Semyon"]
+[Result "0-1"]
+[ECO "D33"]
+[Opening "QGD"]
+[Variation "Tarrasch, Schlechter-Rubinstein system, Rey Ardid variation"]
+[HashCode "f1eac6bf"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 c4 7. e4 dxe4 8. Ng5
+Qxd4 9. Bf4 Bb4 10. Nxe4 Qxe4+ 0-1

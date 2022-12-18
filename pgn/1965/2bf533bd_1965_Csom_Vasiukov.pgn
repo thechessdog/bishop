@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "Vasiukov, Evgeni"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "2bf533bd"]
+[Epoch "Bishop"]
+[WhiteID "700100"]
+[BlackID "4100522"]
+[WhiteCountry "HUN"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bg4 4. Nbd2 e6 5. c3 Bd6 6. Bg3 Nge7 7. e3 O-O 8.
+Be2 Ng6 9. Ne5 Ncxe5 10. Bxg4 Nxg4 11. Qxg4 f5 12. Qe2 f4 13. exf4 Qf6 14. Nf3
+Bxf4 15. O-O Rae8 16. Rae1 Re7 17. Qc2 c6 18. Bxf4 Qxf4 1/2-1/2

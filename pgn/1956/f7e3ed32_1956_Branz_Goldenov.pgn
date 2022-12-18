@@ -1,0 +1,17 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Branz"]
+[Black "Goldenov, Boris Petrovich"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "f7e3ed32"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 d6 6. Nf3 O-O 7. e3 b6 8. Bd3
+Bb7 9. Qc2 Re8 10. O-O e5 11. Nd2 Nbd7 12. f3 Nf8 13. Nb3 e4 14. Be2 exf3 15.
+gxf3 Qd7 16. Bd3 Ng6 17. Qf2 Re7 18. e4 Nh5 19. Be3 f5 20. Bg5 Nhf4 21. Qd2
+fxe4 22. Bxe7 exd3 23. Bg5 Qg4+ 0-1

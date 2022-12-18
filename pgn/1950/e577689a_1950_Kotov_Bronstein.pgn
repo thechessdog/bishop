@@ -1,0 +1,18 @@
+[Event "Candidats Tournament"]
+[Site "Budapest ct"]
+[Date "1950.04.01"]
+[Round "12"]
+[White "Kotov, Alexander"]
+[Black "Bronstein, David Ionovich"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "e577689a"]
+[Epoch "Bishop"]
+[WhiteID "24145602"]
+[WhiteCountry "RUS"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Qc2 c5 8. b3
+cxd4 9. Nxd4 Bxg2 10. Kxg2 d5 11. Bb2 Qc8 12. cxd5 Qxc2 13. Nxc2 Nxd5 14. e4
+Nf6 15. Nc3 Nc6 1/2-1/2

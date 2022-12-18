@@ -1,0 +1,19 @@
+[Event "Novi Travnik ch"]
+[Site "Novi Travnik ch"]
+[Date "1969.01.01"]
+[Round "16"]
+[White "Minic, Dragoljub"]
+[Black "Vukic, Milan"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "5a6f0aec"]
+[Epoch "Bishop"]
+[BlackID "900273"]
+[BlackCountry "BIH"]
+[WhiteCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Bg5 Nbd7 9. Be2 Nb6 10. Bf3 Bg4 11. Bxf6 Bxf3 12. Nxf3 exf6 13. O-O Qd7 14.
+Rfe1 Rfd8 15. a4 Nxd5 16. Nxd5 Qxd5 17. Re8+ 1-0

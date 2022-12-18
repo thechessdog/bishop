@@ -1,0 +1,17 @@
+[Event "Rhode Island"]
+[Site "Rhode Island"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Adenstedt"]
+[Black "Barry"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "dbd0badd"]
+[Epoch "Bishop"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Bg4 10. Qd2 Be7 11. O-O-O Qd7 12. h3 Bh5 13. d5 Na5 14. Qd4
+O-O 15. g4 Bg6 16. g5 Bb4 17. Nb5 a6 18. Nxc7 Qa4 19. Rd2 Nb3+ 1-0
+

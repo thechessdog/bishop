@@ -1,0 +1,15 @@
+[Event "Rastatt"]
+[Site "Rastatt"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Reinert"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "1282e526"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. e4 c5 3. exd5 cxd4 4. Qxd4 e6 5. Bb5+ Bd7 6. dxe6 Bxb5 7. exf7+ Ke7
+8. fxg8=N+ Ke8 9. Qe5+ Kf7 10. Qxb5 Rxg8 11. Qc4+ Kg6 12. Qe6+ 1-0

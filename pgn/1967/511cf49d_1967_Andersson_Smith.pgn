@@ -1,0 +1,23 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Andersson, Arne"]
+[Black "Smith, Olle"]
+[Result "0-1"]
+[ECO "D36"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 6.Qc2"]
+[HashCode "511cf49d"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c6 5. cxd5 exd5 6. Qc2 Be7 7. e3 Nbd7
+8. Bd3 Nh5 9. Bxe7 Qxe7 10. Qe2 g6 11. Nf3 O-O 12. h3 Re8 13. a3 Qd6 14.
+Qd2 a5 15. Be2 Ng7 16. O-O Nb6 17. Rad1 Qe7 18. Rfe1 Bf5 19. Bd3 Bxd3 20.
+Qxd3 Nc4 21. Qc2 f5 22. a4 Ne6 23. b3 Nd6 24. Ne5 Nf7 25. Nd3 Kg7 26. f3
+Qd6 27. Nf2 h6 28. e4 Qb4 29. Qb2 Nc7 30. Na2 Qd6 31. e5 Qe7 32. Nd3 Ng5
+33. Rc1 Nge6 34. g3 Kh7 35. Kh2 f4 36. Rg1 Rf8 37. Rcf1 Ne8 38. Nac1 N8g7
+39. gxf4 Nh5 40. Ne2 Nhxf4 41. Ndxf4 Nxf4 42. Qc2 Qe6 43. Rg3 Nxe2 44. Qxe2
+Rf4 45. Rg4 Raf8 46. Qe3 g5 47. Qc3 Kg6 48. Rg3 b6 49. Rc1 Rc8 50. Rg4 Qf5
+51. Rxf4 Qxf4+ 52. Kg2 h5 53. Rd1 h4 54. Qe1 c5 0-1
+

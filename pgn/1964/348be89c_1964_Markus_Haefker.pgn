@@ -1,0 +1,17 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Markus, O."]
+[Black "Haefker, U."]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "348be89c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 d5 5. Nbd2 Be7 6. Qc2 Nc6 7. dxc5 Bxc5
+8. e4 Qb6 9. Bxf6 Bxf2+ 10. Kd1 gxf6 11. exd5 exd5 12. Bd3 Ne5 13. Bxh7 Bg4
+14. Kc1 Qe3 15. Nd4 Rxh7 0-1
+

@@ -1,0 +1,18 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Eggink, L."]
+[Black "Sassen, Th"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "498a6d95"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Nc3 Nxe4 6. Bxf7+ Kxf7 7. Ne5+
+Ke6 8. d4 Nxc3 9. Qg4+ Kd5 10. bxc3 Rf8 11. Bxf4 Rxf4 12. Qxf4 Bf6 13. O-O
+Qg8 14. Rae1 c5 15. c4+ Ke6 16. Nc6+ Kf7 17. Re7+ Kf8 18. Qxf6+ gxf6 19.
+Rxf6+ Qf7 20. Rfxf7+ Kg8 21. Nd8 1-0
+

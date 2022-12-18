@@ -1,0 +1,16 @@
+[Event "Montevideo"]
+[Site "Montevideo"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Cantero, Ronaldo"]
+[Black "Munoz Izcua"]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Balogh defence"]
+[HashCode "693b355c"]
+[Epoch "Bishop"]
+[WhiteCountry "PRY"]
+
+1. e4 d6 2. d4 f5 3. Bd3 Nc6 4. exf5 Nxd4 5. Qh5+ g6 6. fxg6 Nf6 7. g7+ Nxh5 8.
+gxh8=Q Nf6 9. Bh6 Ne6 10. Bf5 Bd7 11. Qxh7 Ng7 12. Qg6# 1-0

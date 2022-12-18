@@ -1,0 +1,17 @@
+[Event "corr Wch6"]
+[Site "corr Wch6"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Kauranen, R."]
+[Black "Thiele, E."]
+[Result "1/2-1/2"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "4bffb447"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 exd4
+8. Qxd4 c5 9. Qd3 Be7 10. e5 Ng4 11. Re1 Nxe5 12. Nxe5 dxe5 13. Qe4 Be6 14.
+Qxe5 O-O 15. Nc3 Rb8 16. Ne4 c4 17. Bh6 gxh6 18. Qg3+ Kh8 1/2-1/2
+

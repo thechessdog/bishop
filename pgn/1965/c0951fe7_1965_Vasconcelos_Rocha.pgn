@@ -1,0 +1,20 @@
+[Event "Rio de Janeiro"]
+[Site "Rio de Janeiro"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Vasconcelos, T."]
+[Black "Rocha, Antonio"]
+[Result "0-1"]
+[ECO "E13"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3, main line"]
+[HashCode "c0951fe7"]
+[Epoch "Bishop"]
+[BlackID "1901869"]
+[BlackCountry "POR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 h6 6. Bh4 Bb4 7. e3 g5 8. Bg3
+Ne4 9. Qc2 f5 10. a3 Bxc3+ 11. bxc3 d6 12. Nd2 Qf6 13. Nxe4 Bxe4 14. Qd2 Nd7
+15. f3 Bb7 16. Bd3 O-O-O 17. O-O e5 18. Bf2 h5 19. e4 f4 20. a4 g4 21. a5 Rdg8
+22. Kh1 Qg6 23. Bg1 Nf6 24. axb6 axb6 25. c5 h4 26. Ba6 Bxa6 27. Rxa6 Nh5 28.
+Bf2 gxf3 29. Bxh4 fxg2+ 30. Qxg2 Qxg2# 0-1

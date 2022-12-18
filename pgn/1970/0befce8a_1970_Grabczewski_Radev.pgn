@@ -1,0 +1,17 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Grabczewski, Romuald"]
+[Black "Radev, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "B44"]
+[Opening "Sicilian, Szen (`anti-Taimanov') variation"]
+[HashCode "0befce8a"]
+[Epoch "Bishop"]
+[BlackCountry "BGR"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 a6 7. N5c3 Nf6 8. Be2
+Be7 9. O-O O-O 10. Na3 Bd7 11. Be3 Nb4 12. Qb3 Qa5 13. Rad1 Rfe8 14. f4 Bc6 15.
+Nc2 Nxc2 16. Qxc2 d5 1/2-1/2

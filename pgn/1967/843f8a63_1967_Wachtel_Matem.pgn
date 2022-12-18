@@ -1,0 +1,15 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Wachtel"]
+[Black "Matem"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "843f8a63"]
+[Epoch "Bishop"]
+
+1. b4 Nf6 2. Bb2 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. d3 Nbd7 7. Nbd2 Re8
+8. c4 c6 9. O-O Nb6 10. cxd5 cxd5 11. Nb3 Na4 12. Bd4 Qd6 0-1
+

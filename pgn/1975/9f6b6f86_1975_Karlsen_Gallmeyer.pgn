@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Karlsen, Arne"]
+[Black "Gallmeyer, Peter"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9f6b6f86"]
+[Epoch "Bishop"]
+[BlackID "1401157"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6 5. Nf3 Nc6 6. c4 Ndb4 7. d5 exd5 8. cxd5
+Nd4 9. Nxd4 cxd4 10. Bc4 Qc7 11. Qe2 b5 12. Bb3 Qxc1+ 0-1

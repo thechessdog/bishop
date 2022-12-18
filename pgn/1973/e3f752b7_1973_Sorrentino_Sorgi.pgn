@@ -1,0 +1,20 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Sorrentino"]
+[Black "Sorgi"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "e3f752b7"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Bg6 5. h4 h6 6. h5 Bh7 7. e6 fxe6 8. Bd3
+Bxd3 9. Qxd3 Qd6 10. Qg6+ Kd8 11. Nf3 Nd7 12. Nc3 e5 13. dxe5 Nxe5 14. Nxe5
+Qxe5+ 15. Be3 Qf6 16. Qd3 e5 17. O-O-O Kc7 18. Nxd5+ cxd5 19. Qxd5 Bd6 20.
+Qc4+ Kb8 21. Rxd6 Qxd6 22. Rd1 Qc7 23. Bc5 Qc6 24. Bd6+ Kc8 25. Qe6+ Qd7
+26. Qxe5 Nf6 27. Be7 Qc6 28. Rd3 Qh1+ 29. Kd2 Qe4 30. Qc5+ Qc6 31. Qf5+ Kc7
+32. Rc3 1-0
+

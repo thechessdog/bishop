@@ -1,0 +1,18 @@
+[Event "Gijon"]
+[Site "Gijon"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Moran, P."]
+[Black "Franco, E."]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, Geller variation"]
+[HashCode "25333956"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 e5 10. Nf3 Bg4 11. h3 Bxf3 12. gxf3 Nd4 13. fxe5 dxe5
+14. f4 Qa5 15. fxe5 Nf3 16. exf6 Nxd2 17. fxe7 Nxf1 18. exf8=Q+ Kxf8 19.
+Bf4 Ng3 20. Rhg1 Nxe4 21. Nxe4 Qxa2 22. Bd6+ Kg8 23. Rxg7+ Kh8 24. Rg8+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Polacek, L."]
+[Black "Kunert, G."]
+[Result "0-1"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "28775f90"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O
+8. Nf3 c5 9. Bd3 f6 10. exf6 Nxf6 11. O-O Nc6 12. dxc5 Qxc5+ 13. Kh1 Qb4
+14. Ng5 h6 15. a3 Qc5 16. Bg6 Ne7 17. Bd3 Nc6 18. Nf3 a6 19. Qd2 b5 20. b4
+Qd6 21. Rae1 Nd7 22. Qe3 d4 23. Nxd4 Nxd4 24. Qe4 Nf6 25. Qxa8 Qc7 26. Nxb5
+axb5 27. Qa5 Qb7 0-1
+

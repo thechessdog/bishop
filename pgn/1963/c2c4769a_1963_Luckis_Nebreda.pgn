@@ -1,0 +1,17 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1963.01.01"]
+[Round "5"]
+[White "Luckis, Marcos"]
+[Black "Nebreda"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "c2c4769a"]
+[Epoch "Bishop"]
+[WhiteCountry "LTU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 b6 7. O-O Bb7 8. Qe2
+Bxc3 9. bxc3 Ne4 10. Ne1 f5 11. f3 Ng5 12. Rb1 d6 13. Nc2 Nd7 14. Bd2 e5 15. e4
+f4 16. d5 Qf6 17. a4 1/2-1/2

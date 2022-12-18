@@ -1,0 +1,18 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1962.01.01"]
+[Round "6"]
+[White "Rellstab, Ludwig"]
+[Black "Kieninger, Georg"]
+[Result "1/2-1/2"]
+[ECO "A44"]
+[Opening "Semi-Benoni (`blockade variation')"]
+[HashCode "1b27ba94"]
+[Epoch "Bishop"]
+[WhiteID "4671155"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Nc3 a6 5. a4 Ne7 6. Bd3 Ng6 7. Nf3 Be7 8. O-O O-O
+9. Ne2 Bg4 10. Ng3 Nh4 11. Be2 Bxf3 12. Bxf3 Nd7 13. Bg4 Nf6 14. Bg5 Nxg4 15.
+Bxh4 Bxh4 16. Qxg4 Bxg3 1/2-1/2

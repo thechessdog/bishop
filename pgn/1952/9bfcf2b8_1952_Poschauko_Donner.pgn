@@ -1,0 +1,18 @@
+[Event "Helsinki olm"]
+[Site "Helsinki olm"]
+[Date "1952.08.01"]
+[Round "1"]
+[White "Poschauko, Karl"]
+[Black "Donner, Jan Hein"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "9bfcf2b8"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Qc2 h6 9. Be3 Be6 10. Ne2 Qc7 11. Qd2 f5 12. h3 Re8 13. g4 Bd5 14. O-O-O Bxh1
+15. Rxh1 Nd7 16. gxf5 Nf6 17. Rg1 Kf8 18. Kb1 Nd5 19. Rxg7 Kxg7 20. Bxh6+ Kh8
+21. f6 Rg8 22. Bg7+ 1-0

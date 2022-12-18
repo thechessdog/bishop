@@ -1,0 +1,23 @@
+[Event "Capablanca Memorial"]
+[Site "Havana"]
+[Date "1963.01.01"]
+[Round "21"]
+[White "De Greiff, Boris"]
+[Black "Darga, Klaus"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "f197c7a8"]
+[Epoch "Bishop"]
+[BlackID "4600150"]
+[BlackCountry "GER"]
+[WhiteCountry "COL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nbd7 8. Re1
+c6 9. Rb1 exd4 10. Nxd4 Re8 11. Bf1 a5 12. f3 Nc5 13. Be3 Nfd7 14. Qd2 Be5 15.
+g3 Bg7 16. Rbd1 a4 17. Qc2 Qa5 18. Kg2 Ne5 19. f4 Ng4 20. Bg1 Nf6 21. Nf3 a3
+22. b3 Bg4 23. h3 Bxf3+ 24. Kxf3 h5 25. Rxd6 Nfxe4 26. Rxe4 Bxc3 27. Rxe8+ Rxe8
+28. Rxg6+ Bg7 29. Rxg7+ Kxg7 30. Bd4+ Kg8 31. Qf5 Nxb3 32. Qxa5 Nxa5 33. Bc3
+Rd8 34. Bxa5 Rd1 35. Be2 Ra1 36. Bc3 Rxa2 37. c5 Rc2 38. Be5 a2 39. Ke3 Rxc5
+40. Bd4 0-1

@@ -1,0 +1,18 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Bader, H."]
+[Black "Schulz, T."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "a5733c4a"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
+f4 O-O 9. Qf3 Qc7 10. Be3 Nc6 11. O-O-O Nd7 12. g4 Nc5 13. f5 Ne5 14. Qh3
+Bd7 15. g5 Rfe8 16. Rhf1 b5 17. f6 Bf8 18. Nf3 Nxb3+ 19. axb3 Ng6 20. Nh4
+Ne5 21. Bd4 g6 22. Bxe5 dxe5 23. Nxg6 1-0
+

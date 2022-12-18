@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1957.03.01"]
+[Round "9"]
+[White "Kotov, Alexander"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "24bd218e"]
+[Epoch "Bishop"]
+[WhiteID "24145602"]
+[WhiteCountry "RUS"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. Qc2 Re8 13. e4 c4 14. Bxc4 exd4
+15. cxd4 Na5 16. Bd3 Qxc2 17. Bxc2 Nxe4 1/2-1/2

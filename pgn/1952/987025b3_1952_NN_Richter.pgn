@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Richter, Kurt"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "987025b3"]
+[Epoch "Bishop"]
+[BlackID "4623541"]
+[BlackCountry "GER"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 f6 4. exf6 Nxf6 5. Nc3 Bc5 6. Bg5 Ng4 7. Bxd8 Bxf2+
+8. Kd2 Be3+ 9. Kd3 d5 10. Nxd5 Bf5+ 11. Kc3 Rxd8 12. Nxc7+ Ke7 13. Nd5+ Ke6 14.
+Ng5+ Bxg5 15. e4 Ke5 16. exf5 Nf2 17. Qe1+ Ne4+ 18. Kb3 Nd4+ 19. Kc4 b5+ 20.
+Kb4 a5+ 21. Kxa5 Ra8+ 22. Kb6 Rhb8+ 23. Kc7 Bd8+ 24. Kd7 Ra7+ 25. Ke8 Bf6# 0-1

@@ -1,0 +1,17 @@
+[Event "Wichita Falls"]
+[Site "Wichita Falls"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Torre, Manuel"]
+[Result "1-0"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[HashCode "11fc5822"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bc5 5. f4 d6 6. fxe5 dxe5 7. Nf3 Bg4 8. a3
+Bxf3 9. Qxf3 Nd4 10. Qg3 Nxc2+ 11. Kd1 Nxa1 12. Qxg7 Rf8 13. Bg5 Be7 14. Rf1
+Nh5 15. Bxf7+ Kd7 16. Qxe5 c6 17. Be6+ Ke8 18. Rxf8+ Bxf8 19. Bf5+ Kf7 20. Qe6+
+Kg7 21. Qh6+ Kf7 22. Be6+ Ke8 23. Qxh5# 1-0

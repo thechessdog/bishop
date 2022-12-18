@@ -1,0 +1,20 @@
+[Event "corr FRG-PK"]
+[Site "corr FRG-PK"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Prochnow, S."]
+[Black "Scholz, G."]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "ea8b60c0"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 Be6
+8. b3 Nd7 9. Bb2 Bd6 10. d4 f6 11. c4 exd4 12. Nxd4 Qe7 13. Na3 Ne5 14. Qc3
+Bd7 15. Nac2 Ng4 16. Nf3 O-O-O 17. Rae1 Rhe8 18. b4 c5 19. b5 axb5 20. Qa5
+Kb8 21. cxb5 b6 22. Qa4 Ne5 23. Nxe5 Bxe5 24. Bxe5 fxe5 25. Ne3 Qg5 26. Kh1
+Bc8 27. Nd5 Rd6 28. Re3 Rf8 29. Kg1 Bb7 30. Ra3 Rg6 31. g3 h5 32. Rd1 h4
+33. Qa7+ Kc8 34. Nxc7 hxg3 35. fxg3 Qg4 36. Rad3 Qxe4 37. Nd5 Bxd5 0-1
+

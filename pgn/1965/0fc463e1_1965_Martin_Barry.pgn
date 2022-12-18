@@ -1,0 +1,17 @@
+[Event "Rhode Island"]
+[Site "Rhode Island"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Martin, Andrew D"]
+[Black "Barry, R."]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Goteborg (Argentine) variation"]
+[HashCode "0fc463e1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bh4 g5 10. fxg5 Nfd7 11. Nxe6 fxe6 12. Qh5+ Kf8 13. Bb5 Ne5 14. Bg3 Kg7
+15. Bxe5+ dxe5 16. O-O Rf8 17. Qxh6+ Kg8 18. Kh1 Bc5 19. Rf6 Rxf6 20. gxf6 Qc7
+21. Qg6+ Kf8 22. Qe8# 1-0

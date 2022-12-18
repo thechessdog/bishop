@@ -1,0 +1,20 @@
+[Event "Rasmus mem"]
+[Site "Randers"]
+[Date "1970.??.??"]
+[Round "1"]
+[White "Pedersen, Karl"]
+[Black "Mortensen, Steen Juul"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "1044162f"]
+[Epoch "Bishop"]
+[WhiteID "1400525"]
+[BlackID "1408143"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. c3 O-O 8. Nbd2
+d5 9. Qe2 Bb7 10. Nf1 d4 11. Ng3 Ne8 12. O-O g6 13. cxd4 Nxd4 14. Nxd4 Qxd4 15.
+Be3 Qd7 16. f4 exf4 17. Rxf4 Rd8 18. Raf1 Qxd3 19. Qf3 Bg5 20. Rd1 1-0

@@ -1,0 +1,24 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Van der Weide, Piet"]
+[Black "Riksen"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "065380d4"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. Be3 e5 8. fxe5
+dxe5 9. d5 Ne7 10. Qe2 c6 11. dxc6 Nxc6 12. O-O Bg4 13. Qf2 Nd4 14. a4 Nh5 15.
+Nd5 f5 16. Qd2 f4 17. Bxd4 exd4 18. Qb4 Rb8 19. a5 Kh8 20. Ra4 Bd7 21. Ra3 Be6
+22. Bc4 g5 23. Ba2 g4 24. Nxd4 Bxd5 25. Bxd5 f3 26. g3 Nxg3 27. hxg3 Qc7 28.
+Kf2 Be5 29. Rg1 Qg7 30. Ke3 Qh6+ 31. Kd3 Qh2 32. Raa1 f2 33. Rh1 Qxg3+ 34. Kc4
+b5+ 35. axb6 Rfc8+ 36. Nc6 Rb7 37. Rxa7 Rxa7 38. bxa7 Qf3 39. Qe7 f1=Q+ 40.
+Rxf1 Qxf1+ 41. Kc5 Bg7 42. Kb6 g3 43. Kb7 Rf8 44. c4 g2 45. Nd8 g1=Q 46. a8=Q
+h6 47. Nf7+ Kh7 48. Qaxf8 Bxf8 49. Ng5+ Kg6 50. Bf7+ Kg7 51. Ne6+ Kh8 52. Qxf8+
+Kh7 53. Qe7 Qff2 54. c5 Qxb2+ 55. Kc8 Qbf2 56. c6 Qff1 57. Nf8+ Kh8 58. Ng6+
+Kh7 59. Nf8+ Kh8 60. Ng6+ Kh7 61. Bc4+ Kxg6 62. Bxf1 Qxf1 63. c7 Qa6+ 64. Kd8
+Qb6 65. Ke8 Qc6+ 66. Kf8 Qc3 67. Qe6+ 1-0

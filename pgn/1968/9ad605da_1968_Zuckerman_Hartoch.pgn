@@ -1,0 +1,17 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Zuckerman, Bernard"]
+[Black "Hartoch, Robert G"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "9ad605da"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. d4 Nf6 7. c3 Be7 8. Nbd2
+O-O 9. Re1 b5 10. Bb3 exd4 11. cxd4 Nb4 12. e5 Ne8 13. Ne4 dxe5 14. Nxe5 Nf6
+15. Nxf6+ gxf6 16. Nxd7 Qxd7 17. Bh6 Rfe8 18. Rxe7 Rxe7 19. Qf3 1-0

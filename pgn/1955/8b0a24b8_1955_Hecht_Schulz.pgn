@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Hecht, Hans-Joachim"]
+[Black "Schulz, Klaus-Juergen"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "8b0a24b8"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. b4 d5 2. Bb2 Nf6 3. e3 e6 4. b5 c5 5. f4 b6 6. Nf3 Nbd7 7. c4 Bb7 8. a4 a5
+9. Be2 Bd6 10. Na3 Qc7 11. Rc1 O-O 12. O-O d4 13. exd4 cxd4 14. Nc2 d3 15. Bxd3
+Nc5 16. Nce1 Bxf4 17. Bc2 Rad8 18. Qe2 Ng4 19. g3 Bh6 20. Rd1 f5 21. d4 Ne4 22.
+Rd3 f4 0-1

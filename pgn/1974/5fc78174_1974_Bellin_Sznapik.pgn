@@ -1,0 +1,24 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Bellin, Robert"]
+[Black "Sznapik, Aleksander"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "5fc78174"]
+[Epoch "Bishop"]
+[WhiteID "400343"]
+[WhiteCountry "ENG"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. h4 h5 11. O-O-O Rc8 12. Bb3 Ne5 13. g4 hxg4 14. h5 Nxh5 15.
+Bh6 e6 16. Rdg1 Qf6 17. Bxg7 Qxg7 18. fxg4 Nf6 19. g5 Nh5 20. Rh3 Nc4 21. Bxc4
+Rxc4 22. Nde2 Qe5 23. Rxh5 gxh5 24. Nf4 Rfc8 25. Nxh5 Kf8 26. g6 Ke7 27. Rg5
+Qd4 28. Qf4 fxg6 29. Rxg6 Kd8 30. Rg7 R8c5 31. Nf6 Rf5 32. Rxd7+ Kc8 33. Qd2
+Rf1+ 34. Nd1 Qxd2+ 35. Kxd2 Rd4+ 36. Kc3 Rdxd1 37. Rf7 Rf3+ 38. Kb4 Rdf1 39.
+Rf8+ Kc7 40. Ne8+ Kd7 0-1

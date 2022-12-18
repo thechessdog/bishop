@@ -1,0 +1,24 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Bouwmeester, Hans"]
+[Black "Bhend, Edwin"]
+[Result "0-1"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "b5d57b96"]
+[Epoch "Bishop"]
+[WhiteID "1000187"]
+[BlackID "1300288"]
+[WhiteCountry "NED"]
+[BlackCountry "SUI"]
+
+1. d4 f5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. Nf3 d6 6. O-O O-O 7. Nc3 Qe8 8. b3
+Qh5 9. Ba3 g5 10. e3 Rf7 11. c5 g4 12. cxd6 Bxd6 13. Bxd6 gxf3 14. Bxf3 Ng4 15.
+Bxg4 fxg4 16. Bf4 Nd7 17. f3 Nf6 18. Be5 Qh6 19. Qe2 b6 20. Bxf6 Rxf6 21. fxg4
+Rxf1+ 22. Rxf1 Ba6 23. Qf3 Rc8 24. Rf2 c5 25. dxc5 Qg7 26. Ne4 bxc5 27. Nf6+
+Kh8 28. h4 c4 29. bxc4 Bxc4 30. Rc2 Qc7 31. Nh5 Qd8 32. Kh2 Rc5 33. Rf2 e5 34.
+Qf8+ Qxf8 35. Rxf8+ Bg8 36. Ra8 h6 37. Nf6 Kg7 38. Nxg8 Rc2+ 39. Kh3 Rxa2 40.
+Ne7 e4 41. Nf5+ Kg6 0-1

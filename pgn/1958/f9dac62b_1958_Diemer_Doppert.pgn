@@ -1,0 +1,18 @@
+[Event "Worms"]
+[Site "Worms"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Doppert"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "f9dac62b"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O 8.
+Qe1 Nc6 9. Qh4 Bg4 10. Be3 Bxf3 11. Rxf3 e5 12. d5 Nd4 13. Rf2 Nf5 14. Rxf5
+gxf5 15. Bg5 Qd6 16. Rf1 Qb6+ 17. Kh1 Qxb2 18. Bxf6 Bxf6 19. Qxf6 Qxc2 20. Rxf5
+Qc1+ 21. Bf1 Rfe8 22. Qxf7+ Kh8 23. Qf6+ Kg8 24. Rg5+ Qxg5 25. Qxg5+ Kh8 26.
+Qf6+ Kg8 27. d6 1-0

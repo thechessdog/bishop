@@ -1,0 +1,22 @@
+[Event "corr AUS"]
+[Site "corr AUS"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Crowl, F."]
+[Black "Purdy, C."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lesser bishop's (Petroff-Jaenisch-Tartakower) gambit"]
+[HashCode "d067554a"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Be2 f5 4. exf5 Qh4+ 5. Kf1 d5 6. Nc3 c6 7. d4 Bd6 8.
+Bd3 Ne7 9. Qe2 O-O 10. Nf3 Qf6 11. g4 fxg3 12. Bg5 Qf7 13. Bxe7 Qxe7 14.
+Qxe7 Bxe7 15. Re1 Bd6 16. Kg2 gxh2 17. Nh4 Nd7 18. Ne2 Nf6 19. Ng3 Ng4 20.
+Rhf1 Bd7 21. Kh3 h1=Q+ 22. Nxh1 Nh6 23. Kg2 Rf7 24. Re5 Re7 25. f6 Bxe5 26.
+fxe7 Bxd4 27. Rf8+ Rxf8 28. Bxh7+ Kf7 29. exf8=Q+ Kxf8 30. c3 Bf6 31. Ng6+
+Kf7 32. Nf2 Bf5 33. Nh8+ Ke6 34. Ng6 Kd6 35. Kf3 Bb1 36. a3 Kc5 37. Ke2 Bf5
+38. Nf8 Kc4 39. Bxf5 Nxf5 40. Kd2 Kb3 41. Kc1 d4 42. cxd4 Bxd4 43. Nd3 g5
+44. Ne6 g4 0-1
+

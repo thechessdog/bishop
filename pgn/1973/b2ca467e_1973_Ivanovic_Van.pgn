@@ -1,0 +1,16 @@
+[Event "corr NLD-YUG tt"]
+[Site "corr NLD-YUG tt"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Ivanovic, Bozidar"]
+[Black "Van Mullem"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Anderssen variation"]
+[HashCode "b2ca467e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 e6 3. e4 d5 4. Bg5 Be7 5. Bxf6 Bxf6 6. Nf3 O-O 7. Bd3 c5 8. e5
+Be7 9. dxc5 Bxc5 10. h4 Nd7 11. Bxh7+ Kh8 12. Bd3 Qc7 13. Qe2 Bb4 14. O-O-O Rd8
+15. Nb5 Qb8 16. Ng5 Kg8 17. f4 Nf8 18. Qh5 g6 19. Qh6 Rd7 20. h5 1-0

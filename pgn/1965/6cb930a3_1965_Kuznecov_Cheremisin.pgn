@@ -1,0 +1,18 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Kuznecov, Alex"]
+[Black "Cheremisin, Felix"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "6cb930a3"]
+[Epoch "Bishop"]
+[WhiteID "2600331"]
+[WhiteCountry "CAN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 b5 7. O-O Bb7 8. a3
+Nf6 9. Bg5 Be7 10. Kh1 d6 11. f4 Nbd7 12. Qe1 h6 13. Bh4 g5 14. fxg5 hxg5 15.
+Bxg5 Ng4 16. Bxe7 Rxh2+ 17. Kg1 Qc5 0-1

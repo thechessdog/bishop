@@ -1,0 +1,19 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Nijdam, Wietse"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "1-0"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "eac931d4"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 Nc6 7. Bd3 d6 8. Ne2
+e5 9. O-O O-O 10. Ng3 Re8 11. d5 Na5 12. e4 b6 13. f4 Bg4 14. Qc2 b5 15. fxe5
+Rxe5 16. Bf4 bxc4 17. Be2 Bxe2 18. Qxe2 Qe8 19. Bxe5 Qxe5 20. Rac1 Re8 21. Rf5
+Qe7 22. Rcf1 Nd7 23. Rxf7 Qxf7 24. Rxf7 Kxf7 25. Qh5+ Kf8 26. Qf5+ Nf6 27. Qg5
+Rb8 28. h3 h6 29. Qg6 Rd8 30. Nf5 Ne8 31. Qe6 Rb8 32. Nxd6 1-0

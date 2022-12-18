@@ -1,0 +1,21 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Leopoldi, N."]
+[Black "Fischeimer, D."]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "6b6580bc"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 dxc4 4. Qxd8+ Kxd8 5. Nc3 c6 6. Bg5+ Be7 7.
+O-O-O+ Kc7 8. Bf4 g5 9. Bg3 Be6 10. e4 h5 11. h4 g4 12. Nd5+ Kc8 13. Bxc4
+cxd5 14. exd5 Bf5 15. Ne2 Bc5 16. a3 Nd7 17. b4 Bb6 18. Rhe1 Kd8 19. Kb2
+Rc8 20. Bb3 Ke7 21. Nf4 a5 22. e6 fxe6 23. dxe6 Ndf6 24. Re5 Nh6 25. Rb5
+Rc6 26. bxa5 Bc7 27. Rxb7 Rd8 28. Nd5+ Nxd5 29. Bxd5 Rc2+ 30. Kb3 Rxd5 31.
+Rxd5 Kxe6 32. Rxf5 Nxf5 33. Rxc7 Rxc7 34. Bxc7 Nd4+ 35. Kc4 Nc6 36. a6 Kd7
+37. Bg3 1-0
+

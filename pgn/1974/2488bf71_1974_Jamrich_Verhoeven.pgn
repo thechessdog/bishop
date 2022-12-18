@@ -1,0 +1,18 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Jamrich"]
+[Black "Verhoeven"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "2488bf71"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 a6 10. e5 dxe5 11. Nxc6 bxc6 12. fxe5 Nd5 13. Ne4 Qb6
+14. Bxe7 Nxe7 15. Bd3 Rb8 16. c4 c5 17. Rhf1 Nf5 18. Rf2 Bb7 19. g4 Bxe4
+20. Bxe4 Rfd8 21. Bd3 Nd4 1-0
+

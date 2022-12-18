@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Volkov"]
+[Black "Golubev"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "5707fefd"]
+[Epoch "Bishop"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Nc6 5. f4 Nge7 6. fxe5 fxe5 7. Qh5+
+Ng6 8. Nf3 d6 9. O-O Bc5+ 10. d4 exd4 11. Nbd2 Qe7 12. e5 dxe5 13. Rae1 Kd8
+14. Ng5 Rf8 15. Nf7+ Ke8 16. Ne4 Bb6 17. Qxh7 Be6 18. Bxe6 Qxe6 19. Neg5
+Qxa2 20. Qxg6 Ne7 21. Rxe5 Kd7 22. Rxe7+ Kxe7 23. Ba3+ Ke8 24. Qe4+ Kd7 25.
+Ne5+ Ke8 26. Rxf8# 1-0
+

@@ -1,0 +1,21 @@
+[Event "England"]
+[Site "England"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Golombek, Harry"]
+[Black "Klein, Ernst Ludwig"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "47b8f4cc"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. e3 Nbd7 7. Nge2 a5 8. O-O
+c6 9. d5 Nb6 10. dxc6 bxc6 11. Nd4 Bd7 12. Bxc6 e5 13. Bxa8 exd4 14. Qxd4 Nxa8
+15. Qxd6 Qc8 16. Qd3 Nb6 17. b3 Bh3 18. Rd1 Qg4 19. e4 Nfd7 20. f3 Qh5 21. Bf4
+Ne5 22. Bxe5 Qxe5 23. Ne2 Qc5+ 24. Kh1 Bxa1 25. Rxa1 f5 26. Qd4 Qxd4 27. Nxd4
+fxe4 28. fxe4 Nd7 29. Ne2 Bg4 30. Nf4 Bf3+ 31. Kg1 Bxe4 32. h4 Ne5 33. Rd1 Nc6
+34. Kf2 Re8 35. Rd6 Kf7 36. a3 Re5 37. Rd7+ Re7 38. Rd6 Rb7 39. Ke3 Bh1 40. Rd1
+Rxb3+ 41. Kf2 Be4 0-1

@@ -1,0 +1,20 @@
+[Event "Islington op"]
+[Site "Islington op"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Mabbs"]
+[Black "Bernegger"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "45c8e191"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 Bf5 3. f3 e6 4. e4 Bg6 5. Nge2 c6 6. Nf4 Bb4 7. Be3 dxe4 8.
+Bc4 Qa5 9. Kd2 Nf6 10. Ne2 exf3 11. gxf3 Nbd7 12. Qg1 Nb6 13. Bb3 Na4 14.
+Bxa4 Qxa4 15. b3 Qa3 16. Qc1 Qa5 17. a3 Bxc3+ 18. Nxc3 Qf5 19. Ke2 O-O 20.
+Ra2 Bh5 21. Qf1 e5 22. dxe5 Qxe5 23. Nd1 Rfe8 24. c4 Ne4 25. Kd3 Nc3 26.
+Bd4 Rad8 27. Kxc3 Qxd4+ 28. Kb4 a5+ 29. Ka4 b5+ 30. Kxa5 Qc5 31. Ka6 Ra8+
+32. Kb7 Ra7# 0-1
+

@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Vitolinsh, Alvis"]
+[Black "Sakharov, Yuri G."]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "bef00f7c"]
+[Epoch "Bishop"]
+[BlackID "34113743"]
+[BlackCountry "RUS"]
+[WhiteCountry "LVA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 h6 10. Be3 b5 11. Bd3 b4 12. Nce2 d5 13. exd5 Nxd5 14. Be4 Be7
+15. Nf4 Nxd4 16. Bxd4 O-O 17. Nxd5 exd5 18. Bxd5 Rc8 19. Qd3 Bg5+ 20. Kb1 Bb5
+21. Qg6 1-0

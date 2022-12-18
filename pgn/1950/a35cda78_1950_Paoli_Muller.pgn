@@ -1,0 +1,25 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1950.09.01"]
+[Round "1"]
+[White "Paoli, Enrico"]
+[Black "Mueller, Helge"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "a35cda78"]
+[Epoch "Bishop"]
+[WhiteCountry "ITA"]
+[BlackID "4603524"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+Be6 9. Be3 Nbd7 10. Qe1 O-O 11. Rd1 Qc7 12. f3 b5 13. Rd2 b4 14. Nd5 Nxd5 15.
+exd5 Bf5 16. Qf2 a5 17. Bb5 a4 18. Nc1 a3 19. b3 Rfb8 20. Bc6 Ra5 21. Nd3 Nf6
+22. Rfd1 Bd7 23. Bxd7 Nxd7 24. Ne1 Bf6 25. Qe2 g6 26. g3 Bg7 27. Ng2 f5 28. Bf2
+Re8 29. Kh1 Raa8 30. Rd3 Rac8 31. Ne1 e4 32. fxe4 fxe4 33. Re3 Nf6 34. Qf1 Ng4
+35. Re2 Rf8 36. Qg2 Nxf2+ 37. Rxf2 Rxf2 38. Qxf2 Rf8 39. Qe2 Qf7 40. Kg1 Bc3
+41. Ng2 Qa7+ 42. Qe3 Qxe3+ 43. Nxe3 Rf3 44. Ng2 g5 45. Ne1 Rf5 46. g4 Rf4 47.
+h3 Kg7 48. Kg2 Kf6 49. Kg1 Ke5 50. Kg2 h6 51. Kg3 Bxe1+ 52. Rxe1 Rf3+ 53. Kg2
+Rc3 54. Re2 Kxd5 0-1

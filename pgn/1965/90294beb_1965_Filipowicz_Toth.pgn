@@ -1,0 +1,24 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Filipowicz, Andrzej"]
+[Black "Toth, Bela"]
+[Result "1-0"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, solid line"]
+[HashCode "90294beb"]
+[Epoch "Bishop"]
+[WhiteID "1100491"]
+[WhiteCountry "POL"]
+[BlackID "736112"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. h3 O-O 11. d4 Qc7 12. dxe5 dxe5 13. Re1 Rd8 14. Nbd2 Be6 15.
+Ng5 c4 16. Nf1 Nb7 17. Nxe6 fxe6 18. b3 cxb3 19. Bxb3 Nc5 20. Bc2 Nb7 21. Bb3
+Nc5 22. Bc2 Rac8 23. Nh2 Nd3 24. Bxd3 Qxc3 25. Bxb5 Qxa1 26. Bc4 Rc6 27. Bb2
+Qxe1+ 28. Qxe1 Rxc4 29. Nf3 Bb4 30. Qe2 Rxe4 31. Qxa6 Bd6 32. Bxe5 Ne8 33. Bxd6
+Nxd6 34. Ng5 Re1+ 35. Kh2 Nf7 36. Nxe6 Re8 37. Nd4 Kh8 38. a4 Ng5 39. Qa5 R1e5
+40. Qb6 Re1 41. a5 Ne4 42. a6 Nf6 43. a7 Rc8 44. Ne6 Rg8 45. Nd8 1-0

@@ -1,0 +1,15 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Dykes, B."]
+[Black "Somoza, J."]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "30d78194"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nxe5 Qd4 0-1
+

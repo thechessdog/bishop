@@ -1,0 +1,21 @@
+[Event "Zuerich"]
+[Site "Zuerich"]
+[Date "1961.01.01"]
+[Round "6"]
+[White "Christoffel, Martin"]
+[Black "Keller, Dieter"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "cfa39af3"]
+[Epoch "Bishop"]
+[BlackID "1300156"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. a3 a5 8. f4 a4
+9. Nf3 Be7 10. Ng3 cxd4 11. cxd4 Nb6 12. Bd3 Nc4 13. O-O Qb6 14. Rf2 Nxd4 15.
+Bxc4 Bc5 16. Kh1 Nxf3 17. Rxf3 dxc4 18. Ne4 Be7 19. Rg3 Bd7 20. Qe2 O-O-O 21.
+Qxc4+ Bc6 22. Be3 Qxb2 23. Rc1 Bxa3 24. Qf1 Kb8 25. Nc5 Bb5 26. Qg1 Rd5 27. Rb1
+Rhd8 28. Rxb2 Bxb2 29. Rxg7 Rd1 30. Rxf7 Bc6 31. Nd7+ R8xd7 32. Rf8+ Rd8 33.
+Qxd1 Rxf8 34. Qd6+ 1-0

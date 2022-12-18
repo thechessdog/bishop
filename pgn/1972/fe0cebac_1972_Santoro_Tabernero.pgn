@@ -1,0 +1,23 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Santoro"]
+[Black "Tabernero"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "fe0cebac"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8.
+Bxc4 b6 9. a3 cxd4 10. axb4 dxc3 11. Qxd8 Rxd8 12. bxc3 Bb7 13. Be2 Nc6 14.
+Bb2 a5 15. b5 Ne7 16. Rfd1 Ne4 17. c4 f6 18. Nd4 Kf7 19. f3 Nc5 20. Ba3 a4
+21. Bb4 Ng6 22. Nc2 Rxd1+ 23. Rxd1 Nf8 24. Ba3 Nfd7 25. Nb4 Ke7 26. Nd3 g5
+27. Nb2 h5 28. Bd3 g4 29. f4 Kd8 30. Bc2 Kc7 31. Nd3 Nxd3 32. Bxd3 f5 33.
+Bc2 Nc5 34. Rd4 Be4 35. Bxe4 Nxe4 36. Kf1 h4 37. Rd3 Rd8 38. Ke2 Ng3+ 39.
+Kd2 Nf1+ 40. Ke2 Rxd3 41. Kxd3 Nxh2 42. Ke2 h3 43. gxh3 gxh3 44. Bc1 Ng4
+45. Kf3 h2 46. Kg2 a3 47. Bxa3 Nxe3+ 48. Kxh2 Nxc4 49. Bb4 Nd6 50. Kg3 Nxb5
+51. Kh4 Kc6 52. Kg5 Kd5 53. Kf6 Nd4 54. Bc3 b5 55. Bb2 b4 0-1
+

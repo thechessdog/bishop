@@ -1,0 +1,19 @@
+[Event "Bariloche"]
+[Site "Bariloche"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Reinhardt, Enrique Heinrich"]
+[Black "Shocron, Ruben"]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "QGD Slav"]
+[Variation "Semmering variation"]
+[HashCode "e673ad97"]
+[Epoch "Bishop"]
+[BlackID "2002582"]
+[BlackCountry "USA"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 c6 5. Nbd2 Nbd7 6. Bd3 c5 7. O-O Be7 8. b3
+b6 9. Bb2 Bb7 10. Ne5 dxc4 11. Ndxc4 cxd4 12. exd4 O-O 13. Qe2 Rc8 14. Rac1 b5
+15. Ne3 a6 16. Nxd7 Qxd7 17. d5 Nxd5 18. Qh5 f5 19. g4 Nf4 0-1

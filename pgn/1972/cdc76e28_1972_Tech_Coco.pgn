@@ -1,0 +1,36 @@
+[Event "ACM Boston"]
+[Site "ACM Boston"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Tech"]
+[Black "Coco III"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "cdc76e28"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Bb4+ 4. Bd2 Bxd2+ 5. Nbxd2 exd4 6. Nxd4 O-O 7.
+Bc4 Nxe4 8. Nxe4 d5 9. Bxd5 Qxd5 10. f3 Nc6 11. c3 f5 12. Nxc6 Qxc6 13. Ng5
+Re8+ 14. Kf2 h6 15. Qb3+ Be6 16. Nxe6 Rxe6 17. Rad1 Qb6+ 18. Rd4 c5 19. Rd5
+c4+ 20. Qxb6 axb6 21. a4 Rxa4 22. Rxf5 g6 23. Rd5 Ra2 24. Rb1 Kf7 25. f4
+Re4 26. Kf3 Re7 27. f5 gxf5 28. Rxf5+ Ke6 29. Ke4 Ra5 30. g4 h5 31. Rxh5
+Rxh5 32. gxh5 Kd6+ 33. Kd4 Rh7 34. Rd1 Rxh5 35. Kxc4+ Kc6 36. Rd2 b5+ 37.
+Kd4 Rd5+ 38. Ke3 Re5+ 39. Kd4 Rd5+ 40. Ke3 Re5+ 41. Kf4 Rh5 42. Ke4 Rh4+
+43. Ke5 Rh5+ 44. Ke4 Rh4+ 45. Ke5 Rh5+ 46. Ke6 Rh6+ 47. Ke7 Rh7+ 48. Ke6
+Rh6+ 49. Ke7 Rh7+ 50. Kf6 Rh6+ 51. Kf5 Kc5 52. Ke5 Rh5+ 53. Ke4 Rh4+ 54.
+Ke5 Rh5+ 55. Ke4 Rh4+ 56. Ke3 b4 57. cxb4+ Rxb4 58. Rc2+ Kd5 59. Rd2+ Ke5
+60. Rc2 Rb3+ 61. Ke2 Rh3 62. Ke1 Ke4 63. Rc4+ Kd5 64. Rc7 b5 65. Rd7+ Ke4
+66. Re7+ Kd4 67. Rd7+ Ke4 68. Re7+ Kd4 69. Re2 b4 70. Kd2 Rd3+ 71. Kc2 b3+
+72. Kc1 Rh3 73. Kd2 Rd3+ 74. Ke1 Rh3 75. Kd2 Rd3+ 76. Ke1 Rh3 77. Kd1 Kd3
+78. Rf2 Kd4 79. Kd2 Rd3+ 80. Ke2 Re3+ 81. Kd2 Rd3+ 82. Ke2 Re3+ 83. Kd1 Rh3
+84. Rf4+ Ke5 85. Rb4 Rd3+ 86. Ke2 Rh3 87. Kd2 Rxh2+ 88. Kc3 Rc2+ 89. Kxb3
+Rc6 90. Rg4 Rb6+ 91. Kc3 Kf5 92. Rd4 Ke5 93. b4 Rc6+ 94. Kd3 Rb6 95. Re4+
+Kd5 96. Rf4 Ke5 97. Re4+ Kd5 98. Rf4 Ke5 99. Ke3 Rb5 100. Rc4 Ke6 101. Ke4
+Re5+ 102. Kd4 Rd5+ 103. Ke4 Re5+ 104. Kd4 Rd5+ 105. Ke3 Kd6 106. Ke4 Re5+
+107. Kd4 Rd5+ 108. Ke4 Re5+ 109. Kd4 Rd5+ 110. Ke3 Ke6 111. Kf4 Rf5+ 112.
+Ke3 Rd5 113. Kf4 Rf5+ 114. Kg4 Rd5 115. Rc6+ Ke5 116. Kf3 Rd3+ 117. Ke2 Rb3
+118. Rc4 Rb2+ 119. Ke3 Rb3+ 120. Kd2 Kd5 121. Rf4 Ke5 122. Rc4 Kd5 123. Rf4
+Ke5 124. Rg4 Rb2+ 125. Ke3 1-0
+

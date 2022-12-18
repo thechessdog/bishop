@@ -1,0 +1,17 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "347fbb69"]
+[Epoch "Bishop"]
+[BlackID "900010"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O Nf6 5. Re1 a6 6. Bf1 b6 7. c3 Bb7 8. d3
+g6 9. Re3 1/2-1/2

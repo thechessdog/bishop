@@ -1,0 +1,23 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1970.07.01"]
+[Round "7"]
+[White "Donner, Jan Hein"]
+[Black "Ree, Hans"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "1b00d227"]
+[Epoch "Bishop"]
+[BlackID "1000098"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. a3
+Bd6 9. b4 dxc4 10. Bxc4 Nbd7 11. Bb2 a5 12. bxa5 Rxa5 13. Qe2 e5 14. Nb5 e4 15.
+Ne5 Be7 16. Bc3 Ra8 17. Bb4 Nb8 18. Qb2 Nc6 19. Nxc6 Bxc6 20. Rac1 Bxb4 21.
+axb4 Qd7 22. Nxc7 Ra7 23. b5 Bb7 24. Be2 Ra5 25. Rc2 Qf5 26. Rfc1 h5 27. h3 g5
+28. Ra1 Rxa1+ 29. Qxa1 g4 30. h4 Bd5 31. g3 Rc8 32. Qa6 Rb8 33. Qa7 Rb7 34.
+Qa8+ Kg7 35. Nxd5 Qxd5 36. Rc6 Qd7 37. Bc4 Ne8 38. Kg2 Ra7 39. Qb8 Ra1 40. Qe5+
+f6 41. Qxh5 1-0

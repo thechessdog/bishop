@@ -1,0 +1,21 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Ballard, J."]
+[Black "Howell, James C"]
+[Result "0-1"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "3316d81b"]
+[Epoch "Bishop"]
+[BlackID "400297"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 d6 5. d3 a6 6. a4 Rb8 7. Nge2 Bg4 8. O-O
+Qc8 9. f3 Bh3 10. Be3 Bxg2 11. Kxg2 e5 12. Nd5 Nxd5 13. exd5 Nb4 14. c4 a5 15.
+Qd2 Be7 16. f4 exf4 17. Bxf4 O-O 18. Rae1 Qd7 19. Nc3 Rfe8 20. Nb5 b6 21. Rxe7
+Qxe7 22. Kf2 Rbd8 23. Bg5 f6 24. Bf4 g5 25. Be3 Qe5 26. Nc7 Qxb2 27. Qxb2 Nxd3+
+28. Ke2 Nxb2 29. Nxe8 Rxe8 30. Rxf6 Nxc4 31. Re6 Rxe6 32. dxe6 Nxe3 33. Kxe3 d5
+34. h4 gxh4 35. gxh4 Kg7 0-1

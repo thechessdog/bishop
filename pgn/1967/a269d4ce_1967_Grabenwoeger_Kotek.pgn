@@ -1,0 +1,18 @@
+[Event "corr Austria"]
+[Site "corr Austria"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Grabenwoeger"]
+[Black "Kotek"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "a269d4ce"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Ng5 d5 8.
+exd5 Nd4 9. c3 Nxb3 10. axb3 Qxd5 11. Nf3 e4 12. Ne1 O-O-O 13. Na3 Qe5 14.
+Qe2 Bd6 15. g3 h5 16. f3 h4 17. g4 Bc5+ 18. Kh1 exf3 19. Qxe5 f2+ 20. Ng2
+h3 0-1
+

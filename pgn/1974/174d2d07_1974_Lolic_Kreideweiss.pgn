@@ -1,0 +1,15 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Lolic, M."]
+[Black "Kreideweiss, F."]
+[Result "1-0"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "174d2d07"]
+[Epoch "Bishop"]
+
+1. d4 c5 2. dxc5 Qa5+ 3. Nc3 Qxc5 4. Nf3 e5 5. e4 a6 6. Be3 Qa5 7. Bc4 h6
+8. Qd5 1-0
+

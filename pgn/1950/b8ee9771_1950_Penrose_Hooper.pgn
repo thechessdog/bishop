@@ -1,0 +1,18 @@
+[Event "BCF ch"]
+[Site "BCF ch"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Penrose, Jonathan"]
+[Black "Hooper"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "b8ee9771"]
+[Epoch "Bishop"]
+[WhiteID "400360"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. a3
+Bg4 9. Be3 O-O 10. c4 f5 11. cxd5 Qxd5 12. Qc1 Kh8 13. Bc4 Qd6 14. Ne5 Nxe5 15.
+dxe5 Qxe5 16. f3 f4 17. fxe4 fxe3 18. Nc3 Bd6 19. g3 e2 0-1

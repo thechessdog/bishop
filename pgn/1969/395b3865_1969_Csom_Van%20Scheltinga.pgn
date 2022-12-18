@@ -1,0 +1,18 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[Opening "Inverted Hungarian"]
+[HashCode "395b3865"]
+[Epoch "Bishop"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Be2 d6 4. d4 Bg4 5. dxe5 Bxf3 6. Bxf3 dxe5 7. Qxd8+ Rxd8
+8. c3 Be7 9. Be3 h6 10. h4 Nf6 11. Nd2 Nd7 12. b4 Nb6 13. Bd1 O-O 14. Bb3 a5
+15. a3 axb4 16. axb4 Ra8 17. Ke2 Na7 18. Ra5 Nc6 1/2-1/2

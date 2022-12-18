@@ -1,0 +1,15 @@
+[Event "Tubingen"]
+[Site "Tubingen"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Fuchs, W."]
+[Black "Totzauer"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "41dfcc0e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 Bf5 5. Qe2 exf3 6. Qb5+ Bd7 7. Qxb7
+Bc6 8. Bb5 f2+ 9. Kxf2 Qxd4+ 10. Ke1 Qd7 11. Bxc6 Qxc6 12. Qc8# 1-0
+

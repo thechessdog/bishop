@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Galula"]
+[Black "Andor"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "09a1c5dd"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Nf6 6. Qxg7 Rg8 7. Qh6 Qxd4
+8. O-O-O Ng4 9. Qxh7 Rh8 10. Qxe4 Bxc3 11. Qf3 Bxb2+ 12. Kb1 Nxf2 13. Bb5+
+c6 14. Ne2 Qb6 15. Kxb2 Qxb5+ 16. Ka1 Nxh1 17. Qf6 Qxe2 18. Qxh8+ Kd7 19.
+Qd8+ Kxd8 20. Bg5+ Kc7 21. Bd8# 1-0
+

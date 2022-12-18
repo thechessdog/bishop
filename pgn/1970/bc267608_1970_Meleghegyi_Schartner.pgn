@@ -1,0 +1,15 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Meleghegyi, C."]
+[Black "Schartner"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[HashCode "bc267608"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. Nb3 Qg6 6. Qe2 d6 7. Nc3 Be6
+8. f4 Bxb3 9. axb3 Nf6 10. Ra4 Be7 11. Nd5 O-O 12. f5 1-0
+

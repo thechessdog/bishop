@@ -1,0 +1,27 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Levy, David N L"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "a81c962b"]
+[Epoch "Bishop"]
+[WhiteID "2400120"]
+[WhiteCountry "SCO"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+
+1. e4 Nc6 2. Nf3 e6 3. d4 d5 4. Nc3 Nf6 5. Bg5 Be7 6. e5 Ne4 7. Bxe7 Qxe7 8. a3
+Bd7 9. Qd3 f5 10. exf6 Nxf6 11. Be2 O-O 12. O-O Be8 13. Rae1 Bg6 14. Qd2 Ne4
+15. Qe3 Qf6 16. Bb5 Ne7 17. Ne5 Nf5 18. Nxe4 Qxe5 19. dxe5 Nxe3 20. Rxe3 Bxe4
+21. Rc3 c6 22. Bd3 Rf5 23. Bxe4 dxe4 24. Re3 Rxe5 25. f4 Rd5 26. Rxe4 Rd2 27.
+Rf2 Rd1+ 28. Rf1 Rxf1+ 29. Kxf1 Kf7 30. Rd4 Ke7 31. Ke2 Rf8 32. Ke3 Rf5 33. g4
+Rf8 34. Ke4 c5 35. Rd1 Rc8 36. Rd3 c4 37. Rh3 h6 38. a4 a6 39. Kd4 b5 40. axb5
+axb5 41. Ra3 Rd8+ 42. Kc5 Rd2 43. Rc3 Rxh2 44. Kxb5 Rg2 45. g5 hxg5 46. fxg5
+Rxg5+ 47. Kxc4 Kd6 48. b4 Kc6 49. Re3 Rg4+ 50. Kb3 Kd5 51. Rd3+ Kc6 52. c4 Rg1
+53. Re3 Kd6 54. Ka4 e5 55. Kb5 g5 56. Kb6 g4 57. c5+ Kd5 58. c6 Rc1 59. b5 e4
+60. Rg3 Kd4 61. Rxg4 Kd3 62. c7 e3 63. Rg3 Ke4 64. Rg8 1-0

@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Holm, Sejer"]
+[Black "Pedersen, Carl"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "14eb727f"]
+[Epoch "Bishop"]
+[WhiteID "1400304"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. a4 O-O 8. Nf3 d6
+9. e4 Bb7 10. Bg5 Qa5 11. Nd2 e6 12. Nc4 Qc7 13. dxe6 Nxe4 14. Nxe4 d5 15. e7
+Re8 16. Ned6 Nd7 17. Nxb7 dxc4 18. Nd6 Bxb2 19. Bxc4 Ne5 20. Nxe8 1-0

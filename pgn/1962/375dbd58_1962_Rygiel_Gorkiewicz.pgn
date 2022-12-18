@@ -1,0 +1,25 @@
+[Event "corr ch4-POL"]
+[Site "corr ch4-POL"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Rygiel, J."]
+[Black "Gorkiewicz, S."]
+[Result "0-1"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "375dbd58"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 b6 6. f4 Bb7 7. Nf3 e6 8. e5
+Nge7 9. Ne4 Nf5 10. c3 d5 11. exd6 Nxd6 12. O-O O-O 13. Qe2 Nf5 14. g4 Nfe7
+15. Bd2 Qc7 16. Rad1 Rad8 17. Bc1 Rd7 18. Ng3 Rfd8 19. Ng5 Ba6 20. Rf3 Nd5
+21. Qc2 Nf6 22. h3 h6 23. N5e4 Nxe4 24. Nxe4 f5 25. Nf2 Ne7 26. Nh1 Nd5 27.
+Ng3 Nf6 28. g5 hxg5 29. fxg5 Nd5 30. Re1 e5 31. Qa4 Bb7 32. Rf2 a6 33. Qh4
+Ne7 34. Bf1 b5 35. Be2 f4 36. Ne4 Nf5 37. Qg4 Kf7 38. Rh2 c4 39. Bf1 cxd3
+40. Bd2 Qb6+ 41. Nf2 Ne3 42. Bxe3 fxe3 43. Nxd3 Rxd3 44. Bxd3 Rxd3 45. Rhe2
+Bf8 46. Rf1+ Kg7 47. Qh4 Kg8 48. Kh2 Qc6 49. Qe1 Qe4 50. Qg3 Rd2 51. Qe1
+Qg2+ 52. Rxg2 Rxg2+ 53. Kh1 Rxg5+ 54. Kh2 Rg2+ 55. Kh1 Rxb2+ 56. Kg1 Rg2+
+57. Kh1 Rxa2+ 58. Kg1 Rg2+ 59. Kh1 Re2+ 60. Kg1 Rxe1 61. Rxe1 Bc5 62. Kf1
+Bf3 63. Ra1 Be7 0-1
+

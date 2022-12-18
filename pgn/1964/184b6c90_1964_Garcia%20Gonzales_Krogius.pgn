@@ -1,0 +1,23 @@
+[Event "Chigorin mem"]
+[Site "Sochi"]
+[Date "1964.??.??"]
+[Round "5"]
+[White "Garcia Gonzales, G2."]
+[Black "Krogius, Nikolai V"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "184b6c90"]
+[Epoch "Bishop"]
+[BlackID "4100565"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bh4 b6 11. e3 Ba6 12. a4 Bxc4 13. Bxc4 a6 14. O-O Re8 15. Qe2
+Qc7 16. Kh1 Ne4 17. Nxe4 Rxe4 18. Bg3 Bxb2 19. Qxb2 Rxc4 20. Qf6 Nd7 21. Qe7
+Qd8 22. Qxd6 Nf6 23. Qc6 Ne4 24. Bc7 Qe8 25. Qb7 Rb4 26. d6 Nf6 27. Rfd1 Nd7
+28. Qc6 Rc8 29. f3 a5 30. e4 Qe6 31. Rd5 Re8 32. Rad1 f5 33. h3 fxe4 34. Re1
+Qf7 35. f4 e3 36. Re5 Rxe5 37. fxe5 Nxe5 38. Qa8+ Kh7 39. d7 Nxd7 40. Rxe3 Rd4
+41. Qd8 Ne5 42. Qb8 Rd1+ 43. Kh2 Qf4+ 44. Rg3 Qc1 45. Rb3 Rh1+ 46. Kg3 Qe1+ 47.
+Kf4 Rf1+ 48. Rf3 Nd3+ 0-1

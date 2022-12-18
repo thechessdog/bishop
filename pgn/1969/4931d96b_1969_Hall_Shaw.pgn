@@ -1,0 +1,18 @@
+[Event "Pinner"]
+[Site "Pinner"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Hall, Arthur"]
+[Black "Shaw, RH."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer"]
+[Variation "Euwe defence"]
+[HashCode "4931d96b"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 e6 6. Bg5 Be7 7. Bd3 Nc6
+8. Qd2 a6 9. a3 O-O 10. Qf4 Nd5 11. Nxd5 exd5 12. O-O f6 13. Qh4 g6 14. Bh6
+Rf7 15. Rae1 f5 16. Ng5 Bxg5 17. Bxg5 Qf8 18. c4 Qd6 19. Re8+ Rf8 20. Rxf8+
+Qxf8 21. cxd5 Na7 22. Re1 1-0
+

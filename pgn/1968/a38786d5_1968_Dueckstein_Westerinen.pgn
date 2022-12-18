@@ -1,0 +1,20 @@
+[Event "Bamberg"]
+[Site "Bamberg"]
+[Date "1968.04.01"]
+[Round "8"]
+[White "Dueckstein, Andreas"]
+[Black "Westerinen, Heikki M.J."]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "a38786d5"]
+[Epoch "Bishop"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+[WhiteID "1600168"]
+[WhiteCountry "AUT"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d6 5. f4 g6 6. d4 Bg7 7. Bd3 O-O 8. Nf3
+c5 9. O-O dxe5 10. dxe5 Nc6 11. Be3 Qc7 12. Qe1 Bf5 13. Bxf5 gxf5 14. Nh4 e6
+15. Bxc5 Rfd8 16. Qe3 Na5 17. Bxa7 Rxa7 0-1

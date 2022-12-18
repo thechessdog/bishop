@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Averby, Rune"]
+[Black "Wastfelt, Torsten"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "74f68f75"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8.
+g3 cxd4 9. cxd4 Bb4+ 10. Kf2 f6 11. Kg2 a5 12. Bd3 f5 13. Ne2 Nf8 14. Nc3
+Bd7 15. Na4 Qc7 16. a3 Be7 17. Bd2 b5 18. Bxb5 Nxe5 19. Bxd7+ Nexd7 20. b4
+axb4 21. axb4 Nf6 22. Qb3 Ne4 23. Rhc1 Qb8 24. b5 Nd7 25. b6 O-O 26. Qb5
+Rd8 27. Bb4 Bxb4 28. Qxb4 Qd6 29. Qxd6 Nxd6 30. Ne5 Ra6 31. Nxd7 Rxd7 32.
+Nc5 Rxa1 33. Rxa1 Rd8 34. Ra7 1-0
+

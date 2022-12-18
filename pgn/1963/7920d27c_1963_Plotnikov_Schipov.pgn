@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Plotnikov, A."]
+[Black "Schipov"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "7920d27c"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 b5 7. a3 e6 8.
+Be2 Bb7 9. Bh5 g6 10. e5 Nbd7 11. exf6 gxh5 12. Nxe6 Qc8 13. Ng7+ Kd8 14.
+Qxh5 Qc5 15. Qxf7 Qe5+ 16. Be3 Kc7 17. Ne6+ Kc6 18. O-O-O Qxf6 19. Nd5 1-0
+

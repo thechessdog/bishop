@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Prieditis, G."]
+[Black "Prokopp, Heinz"]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "49f09eda"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 dxc4 9. Bxc4 Ba5 10. Qd3 a6 11. Rd1 b5 12. Ba2 c4 13. Qe2 Qe8 14. Bd2
+Bb6 15. Bb1 Bb7 16. Ne4 Nxe4 17. Bxe4 f5 18. Bc2 e5 19. dxe5 Nxe5 20. Nxe5
+Qxe5 21. Bc3 Qe6 22. Qh5 g6 23. Qh6 Rf7 24. Rd2 Qc6 25. Qh3 Rd8 26. Rad1
+Rxd2 27. Rxd2 Rd7 28. Rxd7 Qxd7 29. Qh4 Qd5 30. e4 Bd8 31. Qh6 Qd7 32. exf5
+gxf5 33. h3 Be4 34. Bxe4 fxe4 35. Qf4 Be7 36. Qxe4 Qd1+ 37. Qe1 Qd7 38. g3
+Kf7 39. Qe4 Qxh3 40. Qb7 1-0
+

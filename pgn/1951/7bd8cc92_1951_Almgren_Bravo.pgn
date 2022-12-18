@@ -1,0 +1,19 @@
+[Event "Capablanca mem"]
+[Site "Capablanca mem"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Almgren, Sven"]
+[Black "Bravo, R."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "7bd8cc92"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Be7 7. c3 Nxe4
+8. Bxe4 Nf6 9. Bc2 c5 10. O-O O-O 11. Qd3 b6 12. Ng5 g6 13. Qf3 Ba6 14. Rd1
+Qc8 15. Ne4 Nh5 16. Bh6 Rd8 17. dxc5 Rxd1+ 18. Rxd1 Bb7 19. g4 Ng7 20. Nf6+
+Bxf6 21. Qxf6 Ne8 22. Qe7 Qxc5 23. Qxb7 Rc8 24. Rd7 Qc4 25. Rxf7 Qxg4+ 26.
+Kh1 1-0
+

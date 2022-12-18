@@ -1,0 +1,17 @@
+[Event "Aspen"]
+[Site "Aspen"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Seglins"]
+[Black "Hall, Arthur"]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[Variation "wing gambit deferred"]
+[HashCode "c21fd656"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. b4 cxb4 4. Bb2 Nf6 5. Bb5+ Bd7 6. Qe2 a6 7. Bxd7+
+Nbxd7 8. d4 e6 9. O-O Be7 10. a3 bxa3 11. Rxa3 d5 12. exd5 O-O 13. dxe6 Nb6
+14. exf7+ Kh8 15. Rb3 Rc8 16. Ne5 Na4 17. Rh3 1-0
+

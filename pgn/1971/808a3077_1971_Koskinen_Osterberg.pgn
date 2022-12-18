@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Koskinen"]
+[Black "Osterberg"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "808a3077"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. Ngf3 c5 5. dxc5 Bxc5 6. Bd3 Nc6 7. O-O Nge7
+8. c3 O-O 9. Re1 Ng6 10. exd5 exd5 11. Nb3 Bb6 12. Be3 Bxe3 13. Rxe3 Nf4
+14. Qd2 Ne6 15. Qc2 g6 16. Rae1 Bd7 17. Ne5 Nxe5 18. Rxe5 Qf6 19. Rxd5 Bc6
+20. Rde5 Rad8 21. R5e3 Rd6 22. Na5 Rfd8 23. Nxc6 bxc6 24. Rf3 Qh4 25. g3
+Qh5 26. Rfe3 Ng5 27. Be2 Qh3 28. Qa4 h5 29. Qa5 Rd5 30. Qxa6 Qf5 31. Qxc6
+Nh3+ 32. Kh1 Rd2 33. f4 Nf2+ 34. Kg1 Ng4 35. Re8+ Rxe8 36. Qxe8+ Kh7 37. b4
+Rxa2 38. c4 Nh6 39. Qe7 Qc2 40. b5 Qd2 41. Kf1 Ng4 42. Qxf7+ Kh6 43. Qf8+
+Kh7 44. Qe7+ Kh6 45. h3 Ne3+ 46. Kf2 Nd1+ 47. Rxd1 Qxd1 48. c5 Qd4+ 49. Qe3
+Qd7 50. c6 Qxh3 51. f5+ Kh7 52. Qe7+ Kh6 53. Qh4 Qxf5+ 54. Qf4+ Qxf4+ 55.
+gxf4 1-0
+

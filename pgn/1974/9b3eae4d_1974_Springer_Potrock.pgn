@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Springer, H."]
+[Black "Potrock, E."]
+[Result "0-1"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "9b3eae4d"]
+[Epoch "Bishop"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5
+8. dxc5 Nc6 9. cxd5 exd5 10. Nf3 Bf5 11. b4 O-O 12. Bb2 d4 13. Qc4 Re8 14.
+Bxd4 a5 15. Rd1 axb4 16. Bc3 Qxd1+ 17. Kxd1 Nxc3+ 18. Kc1 Rxa3 0-1
+

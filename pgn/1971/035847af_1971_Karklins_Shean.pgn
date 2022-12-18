@@ -1,0 +1,19 @@
+[Event "USA-72ch"]
+[Site "Ventura"]
+[Date "1971.??.??"]
+[Round "6"]
+[White "Karklins, Andrew"]
+[Black "Shean, Robert"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "035847af"]
+[Epoch "Bishop"]
+[WhiteID "2001730"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Nbd7 9. O-O-O Qc7 10. g4 b5 11. Bxf6 gxf6 12. a3 Bb7 13. f5 Ne5 14. Qh3 exf5
+15. Nxf5 O-O-O 16. Nd5 Bxd5 17. Rxd5 Kb7 18. Bxb5 axb5 19. Rxb5+ Kc6 20. Qb3
+Rb8 21. Nxe7+ Kd7 22. Nd5 Qa7 23. Nxf6+ Ke7 24. Nd5+ Kd7 25. Rf1 1-0

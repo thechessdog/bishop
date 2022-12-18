@@ -1,0 +1,21 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Winants"]
+[Black "Reyss"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "3017aade"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 a6 8.
+a4 Bg7 9. Nc4 O-O 10. g3 Qc7 11. Bg2 Re8 12. h3 Nbd7 13. O-O Rb8 14. Bf4
+Bf8 15. Na3 Ne5 16. Bg5 Bg7 17. f4 Ned7 18. e4 h6 19. Bh4 c4 20. Qc2 Qc5+
+21. Kh2 b5 22. axb5 axb5 23. g4 Ba6 24. Nxc4 Qxc4 25. Rxa6 Nxe4 26. Rc6
+Ndc5 27. Rc1 Nxc3 28. bxc3 Re2 29. Qd1 Rbe8 30. Rc2 Rxc2 31. Qxc2 Re2 32.
+Qd1 Bxc3 33. Rxd6 Qxf4+ 34. Bg3 Qf3 35. Rd8+ Kh7 36. Qh1 Ne4 37. Bb8 Nd2
+38. Qg1 Qf6 39. Rd6 Nf3+ 40. Kh1 Qh4 41. Rc6 Nxg1 42. Rxc3 Qe1 0-1
+

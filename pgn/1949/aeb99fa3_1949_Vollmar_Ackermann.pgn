@@ -1,0 +1,19 @@
+[Event "US op"]
+[Site "Omaha"]
+[Date "1949.??.??"]
+[Round "4"]
+[White "Vollmar, R."]
+[Black "Ackermann, Daniel"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "aeb99fa3"]
+[Epoch "Bishop"]
+[BlackID "12944785"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8.
+Nbd2 Re8 9. Re1 Bf5 10. b3 Nd7 11. c4 c6 12. c5 Bc7 13. Qc2 Ndf6 14. Bb2 g6 15.
+Nh4 Bxh2+ 16. Kxh2 Ng4+ 17. Kg1 Qxh4 18. Nf3 Qh5 19. Rf1 Re6 20. g3 Rf6 21. Kg2
+Nexf2 22. Bxf5 Ne3+ 0-1

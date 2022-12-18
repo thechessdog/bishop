@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.03.01"]
+[Round "11"]
+[White "Smyslov, Vasily"]
+[Black "Gligorić, Svetozar"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "e5947ed0"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. h3 O-O 5. e3 d5 6. Nbd2 c5 7. c3 cxd4 8. cxd4
+Nc6 9. Be2 Qb6 10. Qb3 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Boston US op"]
+[Site "Boston US op"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Smith, Arthur"]
+[Black "Berry, Jonathan"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "ce21f7e9"]
+[Epoch "Bishop"]
+[WhiteID "2003996"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 d5 8. e5
+Nfd7 9. Be3 Nxe5 10. Qd2 Nbc6 11. O-O-O Bd7 12. f4 Nxd4 13. Qxd4 Nc6 14. Qd2
+Bb4 15. f5 Qa5 16. fxe6 Bxe6 17. Bg2 O-O-O 18. Bd4 Nxd4 19. Qxd4 Bxc3 20. bxc3
+Qxa2 21. Qxg7 h5 22. g5 Bf5 0-1

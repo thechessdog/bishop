@@ -1,0 +1,21 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Robinson, Richard"]
+[Black "Wall, Bill"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "eab20038"]
+[Epoch "Bishop"]
+[WhiteID "8800090"]
+[WhiteCountry "BER"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 b6 6. d4 Be7 7. Bd3 Bb7 8. c3
+a5 9. O-O Nbd7 10. Bg5 h6 11. Bxf6 Nxf6 12. Re1 O-O 13. Rc1 c5 14. Qe2 Rc8 15.
+Red1 Qc7 16. Bb1 Rfd8 17. dxc5 Bxc5 18. Ne5 Bd6 19. Ng4 Nd5 20. Qc2 Bxg3 21.
+Qh7+ Kf8 22. hxg3 Qc6 23. Ne5 Qa4 24. Qh8+ Ke7 25. Qxg7 Qe8 26. f4 Nf6 27. Ng6#
+1-0

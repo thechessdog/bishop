@@ -1,0 +1,18 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Eriksson, Sixten"]
+[Black "Bryntse, Arne"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "1455d8e7"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 O-O
+8. Bh6 g6 9. Bxf8 Qxf8 10. Ne2 Nc6 11. Qg3 Qh6 12. a3 Ba5 13. f4 b5 14. Qh3
+Qf8 15. O-O-O Bxc3 16. Nxc3 Nxf4 17. Qh4 b4 18. Ne4 Nh5 19. axb4 Nxe5 20.
+Be2 Qh6+ 21. Kb1 Qf4 22. Qd8+ Kg7 23. Ng3 Qxb4 24. Qg5 1-0
+

@@ -1,0 +1,27 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Krabbe, T."]
+[Black "Brinck-Claussen, Bjorn"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "db4c443c"]
+[Epoch "Bishop"]
+[BlackID "1400134"]
+[BlackCountry "DEN"]
+
+1. e4 g6 2. d4 c5 3. dxc5 Qa5+ 4. Nc3 Bg7 5. Bd2 Qxc5 6. Nf3 Nf6 7. Be2 Nc6 8.
+O-O O-O 9. Be3 Qa5 10. Nd2 Qc7 11. Nc4 d6 12. g4 Na5 13. Nxa5 Qxa5 14. g5 Nd7
+15. Nd5 Qd8 16. f4 e6 17. Nc3 Qe7 18. Bd4 e5 19. Nd5 Qd8 20. Be3 exf4 21. Bxf4
+Ne5 22. Nf6+ Bxf6 23. gxf6 Qxf6 24. Bh6 Qe7 25. Bxf8 Kxf8 26. Qd2 Kg7 27. Rad1
+Bh3 28. Rf2 Rd8 29. Qe3 Bd7 30. Qxa7 Qg5+ 31. Rg2 Qf4 32. Qd4 Bc6 33. Rg4 Qf6
+34. Rg3 Qh4 35. Bd3 f5 36. Qf2 fxe4 37. Be2 Rf8 38. Qe3 Nf3+ 39. Bxf3 exf3 40.
+Qd4+ Qxd4+ 41. Rxd4 Re8 42. Rd2 Re5 43. Kf2 Kf7 44. Rg4 Ke7 45. h4 Be4 46. c3
+h6 47. Rg1 Rh5 48. Kg3 g5 49. hxg5 Rxg5+ 50. Kf2 Rh5 51. Rgd1 d5 52. Ke3 Re5
+53. Kf2 Kf6 54. Rh1 h5 55. Rd4 Rg5 56. Rg1 h4 57. Rxg5 Kxg5 58. c4 h3 59. cxd5
+h2 60. Rd1 h1=Q 61. Rxh1 Bxd5 62. a3 Kf5 63. Ke3 Ke5 64. Rh5+ Kd6 65. Kd4 Bc6
+66. Rh6+ Kd7 67. Rf6 Kc7 68. b4 Kd7 69. Kc5 Ke7 70. Rf4 Ke6 71. b5 Bd5 72. Kd4
+b6 73. Rh4 Kd6 74. Rh6+ Be6 75. Rf6 Kd7 76. Rxf3 Kc7 77. Rf6 Bb3 78. Rc6+ Kb7
+79. Rg6 1-0

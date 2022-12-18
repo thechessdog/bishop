@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1973.01.01"]
+[Round "7"]
+[White "Buerger, Ed"]
+[Black "Timm, John C"]
+[Result "0-1"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "85982b16"]
+[Epoch "Bishop"]
+[BlackID "2002604"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 c6 6. Be3 a6 7. Qd2 b5 8. Bd3 Nbd7
+9. Nge2 O-O 10. g4 bxc4 11. Bxc4 d5 12. Bd3 dxe4 13. Nxe4 e5 14. O-O-O Rb8 15.
+Nxf6+ Qxf6 16. Be4 Nb6 17. b3 Qe7 18. Qc2 Be6 19. dxe5 Qa3+ 20. Kb1 Bxe5 21.
+Bc5 Nc4 22. Bxf8 Qxf8 23. Qd3 Qa3 24. Qc2 Ne3 25. Qd2 Rxb3+ 26. axb3 Qa1# 0-1

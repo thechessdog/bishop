@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Voicik"]
+[Black "Krezberg"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "67206598"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Nd7 5. g3 Ngf6 6. Bg2 dxe4 7. dxe4 Bc5
+8. O-O O-O 9. c3 a5 10. Qc2 Qe7 11. Nc4 b5 12. Ne3 Nb6 13. Rd1 Bg4 14. h3
+Bxf3 15. Bxf3 Rad8 16. Rxd8 Rxd8 17. Nf5 Qd7 18. Be2 Nc4 19. Bg5 Qa7 20.
+Rf1 h6 21. Nxh6+ gxh6 22. Bxf6 Rd2 23. Qc1 Bxf2+ 24. Rxf2 Rxe2 25. Qf1 Rxb2
+26. Qe1 Rxa2 0-1
+

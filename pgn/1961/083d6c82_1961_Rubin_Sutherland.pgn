@@ -1,0 +1,17 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Rubin"]
+[Black "Sutherland, D."]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "083d6c82"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 Be7 6. Bc4 Bf6 7. Qb3
+Bxc3+ 8. Qxc3 Qf6 9. e5 Qe7 10. O-O h6 11. b3 Qb4 12. Qd3 Qe7 13. Bb2 a6
+14. a4 Nb4 15. Qd2 a5 16. Nd4 Rh7 17. Rae1 g6 18. f4 c6 19. f5 Qg5 20. fxg6
+Qxg6 21. Nf5 Kd8 22. Qf2 d5 23. exd6 Bxf5 24. Qb6+ 1-0
+

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Zar"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "7ea2ba13"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 Nc6 8. Qd2
+O-O 9. O-O-O Nxd4 10. Bxd4 Be6 11. h4 Qa5 12. Kb1 Rfc8 13. a3 Rab8 14. Nd5 Qxd2
+15. Rxd2 Bxd5 16. exd5 a6 17. Bf2 b5 18. g4 0-1

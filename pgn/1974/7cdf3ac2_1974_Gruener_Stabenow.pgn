@@ -1,0 +1,23 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Gruener"]
+[Black "Stabenow"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "7cdf3ac2"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bd3 h6 9. N5f3 c5 10. Be3 Qc7 11. Ne5 Nbd7 12. Ngf3 Bd6 13. Nc4 Be7 14.
+a4 b6 15. O-O Bb7 16. c3 Ng4 17. Ncd2 O-O 18. h3 Ngf6 19. Nc4 a6 20. Nce5
+Bd6 21. Bd2 Rfe8 22. Rfe1 Rad8 23. Nxd7 Nxd7 24. Bxa6 Bxa6 25. Qxa6 c4 26.
+Qb5 Ra8 27. b4 cxb3 28. c4 b2 29. Ra2 e5 30. Rxb2 exd4 31. Rbb1 Bc5 32.
+Rxe8+ Rxe8 33. a5 bxa5 34. Bxa5 Qa7 35. Qc6 Qxa5 36. Qxd7 Rd8 37. Qb5 Qxb5
+38. Rxb5 Be7 39. Rd5 Rxd5 40. cxd5 Bc5 41. Ne5 f6 42. Nc4 Kf7 43. Kf1 f5
+44. f3 d3 45. Ne5+ Ke7 46. Nxd3 Bd4 47. Ke2 Kd6 48. Nf4 g5 49. Kd3 Bb6 50.
+Nh5 Kxd5 51. g3 1/2-1/2
+

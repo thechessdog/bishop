@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1948.01.01"]
+[Round "1"]
+[White "Eliashew"]
+[Black "Molnar"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "4ec9d5ce"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. d4 g4 6. Ng5 f5 7. e4 Be7 8.
+Nh3 gxh3 9. Qh5+ Kf8 10. Bc4 Qe8 11. Qh6+ Nxh6 12. Bxh6# 1-0
+

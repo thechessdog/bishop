@@ -1,0 +1,22 @@
+[Event "Marlow"]
+[Site "Marlow"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Turner, LC."]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "b4b23323"]
+[Epoch "Bishop"]
+[BlackID "405213"]
+[BlackCountry "END"]
+
+1. c4 Nf6 2. Nc3 d5 3. e3 g6 4. d4 Bg7 5. Nf3 O-O 6. b3 c5 7. Bd2 cxd4 8. Nxd4
+e5 9. Nf3 d4 10. Na4 Nc6 11. exd4 exd4 12. Bd3 Re8+ 13. Kf1 Bg4 14. h3 Bxf3 15.
+gxf3 Ne5 16. Bg5 h6 17. Bh4 Qa5 18. Bxf6 Bxf6 19. a3 b5 20. cxb5 Nxd3 21. Qxd3
+Rab8 22. Nc5 Qxb5 23. b4 Qxd3+ 24. Nxd3 Rbc8 25. Nc5 Be7 26. Rd1 Bxc5 27. bxc5
+Red8 28. Kg2 Rxc5 29. Rd3 Rc3 30. Rhd1 Rxd3 31. Rxd3 Kg7 32. Kg3 f5 33. Kf4 Kf6
+34. h4 g5+ 35. hxg5+ hxg5+ 36. Kg3 Ke5 37. Kg2 Rc8 38. Kf1 Rc3 39. f4+ gxf4 40.
+Ke2 Rxd3 41. Kxd3 Kd5 0-1

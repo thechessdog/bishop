@@ -1,0 +1,19 @@
+[Event "Caracas"]
+[Site "Caracas"]
+[Date "1970.06.01"]
+[Round "11"]
+[White "Barcza, Gedeon"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "E09"]
+[Opening "Catalan"]
+[Variation "closed, main line"]
+[HashCode "b43aec31"]
+[Epoch "Bishop"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+[WhiteCountry "HUN"]
+
+1. c4 Nf6 2. g3 e6 3. Nf3 d5 4. d4 Be7 5. Bg2 O-O 6. O-O c6 7. Nbd2 Nbd7 8. Qc2
+b5 9. cxb5 cxb5 10. Nb3 Ba6 11. Bf4 Rc8 12. Qd3 Qb6 13. Rfc1 Ne4 14. Rxc8 Rxc8
+15. Rc1 Rxc1+ 16. Nxc1 Qc6 1/2-1/2

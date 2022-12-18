@@ -1,0 +1,19 @@
+[Event "Torino jr"]
+[Site "Torino jr"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Arri, P."]
+[Black "Cappello, R."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "cb85cd10"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. cxd4 Nxd4 12. Qd3 Nxc2+ 13. Kd1
+Nxa1 14. Bb2 Bd7 15. Bxa1 Rc8 16. Bc3 a6 17. Kd2 Bb5 18. Qf3 Nc6 19. Ng3 d4
+20. Bb4 Nxb4 21. Bxb5+ axb5 22. axb4 Qc2+ 23. Ke1 Rg5 24. Qf6 Ra8 25. Qh8+
+Kd7 26. Qxa8 Rxe5+ 0-1
+

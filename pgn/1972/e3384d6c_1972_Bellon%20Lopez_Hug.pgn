@@ -1,0 +1,27 @@
+[Event "Palma de Mallorca"]
+[Site "Palma de Mallorca"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Hug, Werner"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "e3384d6c"]
+[Epoch "Bishop"]
+[WhiteID "2200031"]
+[WhiteCountry "SWE"]
+[BlackID "1300040"]
+[BlackCountry "SUI"]
+
+1. b3 Nf6 2. Bb2 d5 3. e3 g6 4. Nf3 Bg7 5. d3 O-O 6. g3 c5 7. Bg2 Nc6 8. Nbd2
+Qc7 9. O-O b6 10. c4 Rd8 11. Qe2 Bb7 12. Rfc1 dxc4 13. Nxc4 Rac8 14. Bh3 e6 15.
+a3 Qd7 16. Rd1 b5 17. Nce5 Nxe5 18. Nxe5 Qc7 19. f4 Nd7 20. Ng4 f5 21. Nf2 e5
+22. Bg2 Bxg2 23. Kxg2 Qc6+ 24. e4 Rf8 25. fxe5 Bxe5 26. Kg1 Rce8 27. Rac1 Qf6
+28. Bxe5 Qxe5 29. b4 Qd4 30. Qa2+ Kg7 31. bxc5 Nxc5 32. Qc2 Rc8 33. Qc3 Ne6 34.
+Qxd4+ Nxd4 35. Kf1 Nc2 36. Ke2 Nxa3 37. e5 b4 38. Ke3 Nc2+ 39. Kd2 b3 40. Rb1
+Rb8 41. Rdc1 Rfc8 42. Nd1 Nd4 43. Rxc8 Rxc8 44. Ke3 Nc2+ 45. Kd2 Nd4 46. Ke3
+Rd8 47. Nb2 a5 48. Rc1 Nc2+ 49. Kd2 Rc8 50. Nc4 Rc5 51. Kc3 a4 52. Rb1 Ne3 53.
+Ra1 b2 54. Kxb2 Nxc4+ 55. dxc4 Rxc4 56. Rd1 Re4 57. Rd7+ Kh6 58. Re7 Re2+ 59.
+Kc3 a3 60. h3 a2 61. Ra7 Rxe5 62. Kd3 Rb5 63. Kc3 Rb1 64. Rxa2 Rg1 0-1

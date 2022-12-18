@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Huntzinger"]
+[Black "Ouchi"]
+[Result "0-1"]
+[ECO "A50"]
+[Opening "Queen's Indian accelerated"]
+[HashCode "ad9e4f3b"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 b6 3. f3 e6 4. d5 Bb4+ 5. Nd2 O-O 6. e4 exd5 7. cxd5 Nxe4
+8. fxe4 Qh4+ 9. Ke2 Ba6+ 10. Kf3 f5 0-1
+

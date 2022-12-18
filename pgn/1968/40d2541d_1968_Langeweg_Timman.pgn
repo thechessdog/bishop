@@ -1,0 +1,24 @@
+[Event "Den Haag"]
+[Site "Den Haag"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "40d2541d"]
+[Epoch "Bishop"]
+[WhiteID "1000160"]
+[BlackID "1000012"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. d4 O-O 5. e3 d5 6. Bd3 c5 7. O-O Nbd7 8. cxd5
+exd5 9. Qb3 Nb6 10. Nb5 Ne4 11. a3 c4 12. Bxc4 Nxc4 13. Qxb4 a6 14. Nc3 a5 15.
+Qb5 Nxc3 16. bxc3 Qd6 17. e4 dxe4 18. Ng5 Be6 19. Nxe4 Qd5 20. Qxd5 Bxd5 21. f3
+Rae8 22. Rb1 f5 23. Ng3 Rf7 24. Rb5 Rd8 25. Re1 h6 26. h4 Kh7 27. Nh5 b6 28.
+Nf4 Bc6 29. Rb1 g6 30. Re6 Bd7 31. Rxg6 Re8 32. h5 Re1+ 33. Kf2 Rh1 34. Nd5
+Rxh5 35. Rf6 Rg7 36. Rfxb6 Rh1 37. Nf6+ Kg6 38. Nxd7+ Nxb6 39. Rxb6+ Kf7 40.
+Ne5+ 1-0

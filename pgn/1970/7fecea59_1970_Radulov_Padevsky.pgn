@@ -1,0 +1,23 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Radulov, Ivan"]
+[Black "Padevsky, Nikola"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "7fecea59"]
+[Epoch "Bishop"]
+[WhiteID "2900300"]
+[WhiteCountry "FID"]
+[BlackID "2900190"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bc4 a6 7. Bb3 b5 8. Qe2
+Be7 9. Bg5 O-O 10. O-O-O Nxe4 11. Qxe4 Bxg5+ 12. f4 d5 13. Nxd5 exd5 14. Bxd5
+Bxf4+ 15. Kb1 Ra7 16. Qxf4 Qxd5 17. Qxb8 Rd7 18. Qg3 Rfd8 19. Rd3 Qh5 20. Re1
+f5 21. Ne6 Qe8 22. Nxd8 Qxd8 23. Red1 Qb6 24. Rxd7 Bxd7 25. Qd6 Bc6 26. Qd8+
+Qxd8 27. Rxd8+ Kf7 28. g3 Ke6 29. Kc1 g5 30. Kd2 Be4 31. c3 a5 32. Ke3 Bd5 33.
+b3 a4 34. c4 bxc4 35. bxa4 h5 36. a5 Ke5 37. Re8+ Kd6 38. a6 c3 39. a7 1-0

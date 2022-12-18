@@ -1,0 +1,20 @@
+[Event "Freiberg ch19-DDR"]
+[Site "Freiberg ch19-DDR"]
+[Date "1970.01.01"]
+[Round "4"]
+[White "Schmitz, Bernd"]
+[Black "Hennings, Artur"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "d16bf7e3"]
+[Epoch "Bishop"]
+[BlackID "4611594"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d3 Be7 5. Be2 O-O 6. O-O d6 7. b4 a6 8. Nbd2
+Ne8 9. d4 exd4 10. Nxd4 Nxd4 11. cxd4 d5 12. e5 Bxb4 13. Bd3 Be7 14. f4 f5 15.
+g4 g6 16. h3 Ng7 17. Kh2 Be6 18. a4 b6 19. a5 Bb4 20. axb6 fxg4 21. b7 Rb8 22.
+Bxa6 Qh4 23. Qb3 Nh5 24. Qxb4 Qxh3+ 25. Kg1 Qg3+ 26. Kh1 Nxf4 27. Rxf4 Rxf4 28.
+Nf1 Qh4+ 29. Kg2 Qf2+ 30. Kh1 g3 0-1

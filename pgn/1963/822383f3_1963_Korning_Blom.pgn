@@ -1,0 +1,26 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1963.01.01"]
+[Round "11"]
+[White "Korning, Peter"]
+[Black "Blom, Kaj"]
+[Result "0-1"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Capablanca variation"]
+[HashCode "822383f3"]
+[Epoch "Bishop"]
+[WhiteID "1723332"]
+[WhiteCountry "SWE"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c6 7. Qb3 Na6 8. Nf3
+Nc7 9. Be2 dxc4 10. Bxc4 Ncd5 11. Bxd5 cxd5 12. O-O b6 13. h3 Ba6 14. Rfd1 Ne4
+15. Qa3 Nxc3 16. Rxc3 Be2 17. Rdc1 Bxf3 18. gxf3 Qd7 19. Kg2 Qf5 20. Bg3 e5 21.
+dxe5 Bxe5 22. Bxe5 Qxe5 23. Rc7 d4 24. e4 Qg5+ 25. Kh2 Qf4+ 26. Kg2 Rac8 27.
+Qd3 Rcd8 28. R1c4 f5 29. Rxa7 fxe4 30. Qxe4 Qxe4 31. fxe4 d3 32. Rc1 Rd4 33. f3
+d2 34. Rd1 Rd3 35. Ra3 Rfxf3 36. Rxd3 Rxd3 37. h4 Kf7 38. Kf2 Ke6 39. Ke2 Rd4
+40. Ke3 Ke5 41. Rxd2 Rxe4+ 42. Kf3 Rxh4 43. Kg3 Rd4 44. Re2+ Kf5 45. Re3 Rb4
+46. b3 Re4 47. Rc3 b5 48. Rc7 h5 49. Rb7 Re3+ 50. Kf2 Re5 51. Kf3 Rd5 52. Rb8
+Kg5 53. Rb6 Rf5+ 54. Kg3 Rc5 55. Kf3 h4 56. Kg2 Kh5 57. Rb8 Kg4 58. a4 Rc2+ 59.
+Kf1 h3 60. Rh8 bxa4 61. bxa4 h2 0-1

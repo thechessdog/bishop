@@ -1,0 +1,21 @@
+[Event "Munich zt"]
+[Site "Munich"]
+[Date "1954.01.01"]
+[Round "7"]
+[White "Castaldi, Vincenzo"]
+[Black "Rabar, Braslav"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "bad9bad1"]
+[Epoch "Bishop"]
+[BlackCountry "HRV"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. Bd3
+Be7 9. O-O b5 10. a3 O-O 11. Qe2 Bb7 12. Kh1 Rc8 13. Bd2 Re8 14. Rad1 Qc7 15.
+fxe5 dxe5 16. Nh4 g6 17. Qf3 Qb6 18. Bg5 Qe6 19. h3 Rc7 20. Rd2 Rxc3 21. bxc3
+Nxe4 22. Bxe4 Bxe4 23. Qxe4 Bxg5 24. Rdd1 f5 25. Qb4 Be7 26. Qb3 Bxh4 27. Qxe6+
+Rxe6 28. Rxd7 e4 29. g3 Bxg3 30. Kg2 Bh4 31. Rfd1 e3 32. Ra7 e2 33. Rdd7 e1=Q
+0-1

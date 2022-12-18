@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Andersen, Henrik"]
+[Black "Jorgensen, Leon"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "26bb2644"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 Nf5 7. d4 exd4
+8. O-O Be7 9. Nxf7 Kxf7 10. d6+ Kf8 11. dxe7+ Qxe7 12. cxd4 h6 13. b3 g6
+14. Re1 Qd8 15. Ba3+ Kg7 16. Nc3 Re8 17. Rxe8 Qxe8 18. Qd2 c6 19. Re1 Qd8
+20. Qf4 Bd7 21. g4 g5 22. Qe5 Nh4 23. Qe7+ Kh8 24. Re3 Nxg4 25. Qf7 Nxe3
+26. Be7 Ng4 27. Bxd8 Rxd8 28. f3 1-0
+

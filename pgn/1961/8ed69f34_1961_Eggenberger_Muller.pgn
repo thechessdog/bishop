@@ -1,0 +1,19 @@
+[Event "Birseck"]
+[Site "Birseck"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Eggenberger"]
+[Black "Muller, Hans P"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "8ed69f34"]
+[Epoch "Bishop"]
+[BlackID "3223167"]
+[BlackCountry "AUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb4 12. Nf5 exf5 13. Nd5 Qa5 14. e6 O-O
+15. exd7 Nxd7 16. Be7 Bxe7 17. Nxe7+ Kh8 18. Nxc8 Raxc8 19. Rxd7 Qxa2 20. Qe7
+Qa1+ 21. Kd2 Rfe8 22. Rc7 Qa5+ 0-1

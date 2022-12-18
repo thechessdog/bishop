@@ -1,0 +1,18 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Titjen"]
+[Black "Maeder, Karl Heinz"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "3cd11d19"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Nbd7 8. f4
+b5 9. Bf3 Bb7 10. a3 Qc7 11. Kh1 h5 12. Be3 Rc8 13. Bg1 Be7 14. Qe1 Nb6 15. Qg3
+Nc4 16. e5 dxe5 17. fxe5 Ng4 18. Bxg4 hxg4 19. Qxg4 Qxe5 20. Nf3 Qh5 21. Qxh5
+Rxh5 22. Nd1 Rd5 23. Bd4 Nd2 24. Nxd2 Rxd4 25. Nb3 Rh4 26. Rf2 Bd6 27. Re2 Bxh2
+28. c3 Ke7 0-1

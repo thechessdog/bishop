@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Berni"]
+[Black "Palmiotto"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "6b45c8bb"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. Bf4 Nh5 8.
+Bg3 Bg4 9. h3 Bxf3 10. Bxf3 Nxg3 11. fxg3 e5 12. d5 Qb6+ 13. Kh1 Qxb2 14.
+Qd2 Bh6 15. Qd3 Qa3 16. Rab1 Na6 17. Rb3 Qa5 18. Qc4 Nc5 19. Rb2 b5 20. Qb4
+Qxb4 21. Rxb4 Bd2 0-1
+

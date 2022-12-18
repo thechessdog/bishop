@@ -1,0 +1,18 @@
+[Event "Amsterdam ol"]
+[Site "Amsterdam ol"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Matanovic, Aleksandar"]
+[Black "Goode, Royal"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "5c2d892c"]
+[Epoch "Bishop"]
+[WhiteID "900230"]
+[WhiteCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Qe7+ 6. Qe2 Qxe2+ 7. Bxe2 Nf6
+8. O-O O-O 9. Nc3 c6 10. Bg5 Nbd7 11. Bd3 h6 12. Bxf6 Nxf6 13. h3 Re8 14. Rfe1
+Bd7 15. a3 Rxe1+ 16. Rxe1 Re8 17. Rxe8+ Bxe8 18. Kf1 Kf8 1/2-1/2

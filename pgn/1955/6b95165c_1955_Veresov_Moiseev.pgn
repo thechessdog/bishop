@@ -1,0 +1,17 @@
+[Event "USSR tt"]
+[Site "USSR tt"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Veresov"]
+[Black "Moiseev"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "6b95165c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 g6 4. Qd2 h6 5. Bxf6 exf6 6. e4 dxe4 7. Nxe4 Bg7
+8. O-O-O O-O 9. c4 a6 10. g3 b5 11. Bg2 bxc4 12. Nd6 cxd6 13. Bxa8 d5 14.
+Ne2 Be6 15. Qb4 Re8 16. Nc3 Bf8 17. Qa4 Re7 18. Rhe1 Rd7 19. Re3 Qb6 20. a3
+Rd8 21. Kb1 Bd7 22. Nxd5 Bxa4 23. Nxb6 Bxd1 24. Nd5 Kg7 25. Nc3 Rxd4 0-1
+

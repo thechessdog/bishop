@@ -1,0 +1,18 @@
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Smailbegovic, Hasan"]
+[Black "Pirc, Vasja"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "e5a0b38c"]
+[Epoch "Bishop"]
+[BlackCountry "SVN"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. c4 Nc6 5. dxc5 Qa5+ 6. Bd2 Qxc5 7. Bc3 Nf6 8.
+Bd3 Nb4 9. O-O Nxd3 10. Qxd3 d6 11. Bd4 Qa5 12. Nc3 O-O 13. Nd5 Nxd5 14. exd5
+Bf5 15. Qe3 e5 16. dxe6 Bxe6 17. b3 d5 18. Bxg7 Kxg7 19. Qe5+ Kg8 20. Ng5 Rae8
+21. Ne4 1-0

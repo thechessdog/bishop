@@ -1,0 +1,16 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Gorschakov"]
+[Black "Kaiszauri, Konstanty"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "da62ed47"]
+[Epoch "Bishop"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 h5 6. d4 g4 7. Nh4 Nc6 8. c3
+Be7 9. Ng2 h4 10. Rg1 hxg3 11. hxg3 Nf6 12. Bf4 Nd5 13. e3 Rh2 14. Nd2 Nxf4 15.
+Nxf4 Bh4 16. Bd3 Bg5 17. Qb3 Bxf4 18. exf4 Qe7+ 19. Kd1 Qe3 0-1

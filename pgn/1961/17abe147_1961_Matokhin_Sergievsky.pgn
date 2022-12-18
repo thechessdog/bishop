@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Matokhin, A."]
+[Black "Sergievsky, V."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "17abe147"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
+f4 Qc7 9. Qf3 Nc6 10. Be3 O-O 11. O-O-O Bd7 12. g4 Nxd4 13. Bxd4 e5 14.
+fxe5 dxe5 15. Qg3 Bd6 16. Be3 Bc6 17. Qf3 Rac8 18. h4 b5 19. g5 Nd7 20. h5
+Kh8 21. g6 Nf6 22. Bg5 Be7 23. Rdg1 b4 24. Bh6 bxc3 25. Bxg7+ Kxg7 26.
+gxf7+ Kh8 27. Qg3 cxb2+ 28. Kb1 Ng4 29. Qxg4 Rxf7 30. Bxf7 1-0
+

@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1950.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Koch, Wolfgang"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "422f5265"]
+[Epoch "Bishop"]
+[BlackID "12929794"]
+[BlackCountry "GER"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Nxc3 8.
+bxc3 Be7 9. Qg4 Kf8 10. Bd3 d6 11. f4 Nd7 12. O-O Nc5 13. f5 dxe5 14. fxe6 Bf6
+15. Rxf6 Qxf6 16. Bg5 Bxe6 17. Qg3 exd4 18. Bxf6 1-0

@@ -1,0 +1,17 @@
+[Event "Siegen"]
+[Site "Siegen"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Lim, Kok"]
+[Black "Heidenfeld, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "c0c19ea8"]
+[Epoch "Bishop"]
+[BlackCountry "IRL"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 Ngxe5 7. Nxe5 Nxe5
+8. Nd2 O-O 9. Nf3 d6 10. Nxe5 dxe5 11. Qxd8 Rxd8 12. Bd2 f6 13. Rd1 c6 14. O-O
+f5 15. Rfe1 1/2-1/2

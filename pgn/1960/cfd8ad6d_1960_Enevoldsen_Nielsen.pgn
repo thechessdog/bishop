@@ -1,0 +1,27 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1960.01.01"]
+[Round "8"]
+[White "Enevoldsen, Jens"]
+[Black "Nielsen, Axel"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "cfd8ad6d"]
+[Epoch "Bishop"]
+[BlackID "1421905"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Ne2 e6 8.
+c3 Bd6 9. Ng3 Bg6 10. Qe2 Nd7 11. Ne4 Bxe4 12. Qxe4 f5 13. Qe2 Qf6 14. Bd2
+O-O-O 15. O-O-O Rhg8 16. g3 Kb8 17. Qf3 Nb6 18. Bb3 Qg7 19. Bf4 Bxf4+ 20. Qxf4+
+Kc8 21. Kb1 Nd5 22. Qd2 Rd7 23. c4 Ne7 24. d5 Rgd8 25. Qe3 exd5 26. cxd5 Nxd5
+27. Qxa7 Nc7 28. Rxd7 Rxd7 29. f4 Qf6 30. Bc2 Rd5 31. Re1 Rb5 32. Qa3 Ne6 33.
+Ba4 Ra5 34. Qb4 Rd5 35. Bb3 Rd4 36. Qa5 Re4 37. Bc2 Rxe1+ 38. Qxe1 Nd4 39. Bd3
+Kd7 40. Qe3 Kc7 41. Bc4 Ne6 42. a3 b5 43. Be2 Kd6 44. Kc1 Nd4 45. Bh5 c5 46.
+Qe8 Qe6 47. Bxf7 Qxe8 48. Bxe8 Kd5 49. Kd2 Ke4 50. Bh5 h6 51. Bd1 Kd5 52. Kd3
+c4+ 53. Ke3 Ne6 54. h3 Ng7 55. g4 fxg4 56. hxg4 Ne6 57. Bf3+ Kd6 58. Be4 Nc5
+59. Bc2 Kd5 60. g5 h5 61. g6 Ke6 62. Kd4 Nb7 63. f5+ Kf6 64. Kd5 h4 65. Kc6
+Na5+ 66. Kxb5 Nb3 67. Kxc4 Nd2+ 68. Kd3 1-0

@@ -1,0 +1,17 @@
+[Event "match"]
+[Site "match"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Van der Poel"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "255de5e7"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. g3 Nc6 5. Bg2 Nf6 6. Ne2 Be7 7. O-O b5 8. f4 Qb6
+9. h3 c4+ 10. Kh2 cxd3 11. cxd3 dxe4 12. dxe4 Bb7 13. e5 Nd5 14. Nf3 Rd8 15.
+Nfd4 Nxd4 16. Qxd4 Bc5 17. Qe4 Rd7 18. Qc2 Nb4 19. Qb1 Bxg2 20. Kxg2 Qc6+ 21.
+Kh2 Nc2 22. a3 Nxa1 23. Qxa1 O-O 24. Qb1 Rfd8 0-1

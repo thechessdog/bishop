@@ -1,0 +1,23 @@
+[Event "Mar del Plata zt"]
+[Site "Mar del Plata zt"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Van Riemsdijk, Herman Claudius"]
+[Black "Alvarez, Jose Luis"]
+[Result "1-0"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "ef56caee"]
+[Epoch "Bishop"]
+[WhiteID "2100053"]
+[WhiteCountry "BRA"]
+[BlackID "6601480"]
+[BlackCountry "PAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Be3 Nxe4 11. Bd5 Qd7 12. Bxe4 d5 13. Bxh7+ Kxh7 14. dxe5 Qf5
+15. Nd4 Qg6 16. f3 Bd7 17. Nxc6 Bxc6 18. Nd2 f6 19. exf6 gxf6 20. Nb3 Bd6 21.
+Qd4 Qh5 22. Bf4 Rf7 23. Bxd6 cxd6 24. Re6 Rg8 25. Rae1 Rfg7 26. Re7 Qg5 27. g3
+f5 28. Rxg7+ Rxg7 29. f4 Qh5 30. Nd2 Qh3 31. Re3 b4 32. cxb4 Qg4 33. Nf3 Kh8
+34. Re7 1-0

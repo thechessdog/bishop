@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gipslis, Aivars"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[ECO "D16"]
+[Opening "QGD Slav accepted"]
+[Variation "Alapin variation"]
+[HashCode "d7a63642"]
+[Epoch "Bishop"]
+[WhiteCountry "LVA"]
+[BlackCountry "BLR"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Na6 6. Ne5 Ng4 7. Nxc4 e5 8.
+Nxe5 Nxe5 9. dxe5 Qxd1+ 10. Kxd1 Be6 11. e4 O-O-O+ 12. Ke2 Nb4 13. Bg5 Rd7 14.
+Rd1 Bc4+ 15. Kf3 Rxd1 16. Nxd1 Bxf1 17. Rxf1 Nd3 18. Ke2 1/2-1/2

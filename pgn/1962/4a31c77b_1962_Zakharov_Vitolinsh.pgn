@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Zakharov, Alexander V"]
+[Black "Vitolinsh, Alvis"]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "4a31c77b"]
+[Epoch "Bishop"]
+[BlackCountry "LVA"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. c4 c6 12. c5 Bb7 13. Nc3 h6 14. cxd6 Bxd6 15. Be3
+Qc7 16. Rc1 exd4 17. Nxd4 Rad8 18. Nd5 Nxd5 19. exd5 c5 20. Nf5 Kh8 21. Qd2 Be5
+22. Bxh6 g6 23. Rxe5 Rg8 24. Bg7+ Rxg7 25. d6 Qb6 26. Nxg7 Kxg7 27. Rh5 c4 28.
+Qh6+ Kf6 29. Bc2 Ke6 30. Re1+ 1-0

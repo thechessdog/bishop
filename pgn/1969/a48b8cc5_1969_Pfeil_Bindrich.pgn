@@ -1,0 +1,20 @@
+[Event "DDR-ch 18th"]
+[Site "Schwerin"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Pfeil, Hartmut"]
+[Black "Bindrich, Oswald"]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "a48b8cc5"]
+[Epoch "Bishop"]
+[BlackID "4633024"]
+[BlackCountry "GER"]
+[WhiteID "4611810"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 cxd4 10. cxd4 Qa5+ 11. Bd2 Qa3 12. O-O Nxd4 13. Nxd4 Bxd4 14.
+Bb5+ 1-0

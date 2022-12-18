@@ -1,0 +1,17 @@
+[Event "Torremolinos"]
+[Site "Torremolinos"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Martin, Pedro"]
+[Black "Langeweg, Kick"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "a6b876c9"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nc6 6. g3 Nge7 7. Nb3 b5 8. Bg2
+d6 9. f4 Bb7 10. Be3 Na5 11. Nxa5 Qxa5 12. Qd2 Nc6 13. O-O Be7 14. e5 dxe5 15.
+f5 exf5 16. Qf2 Bd8 17. Qxf5 O-O 18. Qd7 Bb6 19. Qxb7 Bxe3+ 20. Kh1 Nb4 21. a3
+Nxc2 22. Rxf7 Bh6 23. Raf1 1-0

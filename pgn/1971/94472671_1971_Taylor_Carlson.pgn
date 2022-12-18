@@ -1,0 +1,16 @@
+[Event "corr Golden Knights"]
+[Site "corr Golden Knights"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Taylor, G."]
+[Black "Carlson, Curtis"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "94472671"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bd3 Be7 8. O-O
+Nxe4 9. Bxe7 Nxc3 10. Bxd8 Nxd1 11. Raxd1 Kxd8 12. f4 Nc6 13. Nf3 Ke7 14. a3
+Rd8 15. Rfe1 b5 16. Bxh7 g6 17. f5 gxf5 18. Bxf5 Bb7 19. Be4 Rac8 20. Rd3 1-0

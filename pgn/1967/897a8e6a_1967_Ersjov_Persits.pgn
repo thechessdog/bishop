@@ -1,0 +1,20 @@
+[Event "corr ch-SU"]
+[Site "corr ch-SU"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Ersjov"]
+[Black "Persits"]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Tartakower variation"]
+[HashCode "897a8e6a"]
+[Epoch "Bishop"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. g4 h6 5. h4 d5 6. Bh3 Nc6 7. Bf4 g5 8.
+Be5 Be6 9. Na4 Nxe5 10. dxe5 Nd7 11. f4 Bf7 12. Nc3 c6 13. Nge2 gxf4 14. e6
+Bxe6 15. Nxf4 Bf7 16. O-O e5 17. Nfxd5 Bc5+ 18. Kh2 O-O 19. g5 cxd5 20.
+Nxd5 hxg5 21. Bxd7 Kg7 22. Nf6 Rh8 23. Nxe4 Rxh4+ 24. Kg3 Bg6 25. Nxc5 Qb6
+26. Ne6+ Kh6 27. Qd2 Rh5 28. Rh1 Rg8 29. Raf1 Kh7 30. Rxh5+ Bxh5 31. Rh1
+Kh6 32. Rxh5+ Kxh5 33. Be8+ Rxe8 34. Qxg5# 1-0
+

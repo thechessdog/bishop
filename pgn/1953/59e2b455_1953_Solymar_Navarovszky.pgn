@@ -1,0 +1,16 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1953.01.01"]
+[Round "1"]
+[White "Solymar"]
+[Black "Navarovszky, Laszlo"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "59e2b455"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 bxc6 7. c4 e5 8.
+Nc3 Bc5 9. O-O Rb8 10. Kh1 d6 11. Qe2 Ng4 12. f3 Nxh2 13. Re1 Nf1 0-1

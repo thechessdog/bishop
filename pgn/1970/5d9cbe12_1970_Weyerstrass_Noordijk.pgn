@@ -1,0 +1,16 @@
+[Event "Blaricum"]
+[Site "Blaricum"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Noordijk"]
+[Result "1-0"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "5d9cbe12"]
+[Epoch "Bishop"]
+
+1. Nf3 d5 2. d4 Nf6 3. Bg5 Ne4 4. Bf4 e6 5. e3 Bb4+ 6. c3 Be7 7. Nbd2 Nxd2 8.
+Qxd2 Bd6 9. Bg3 Bxg3 10. hxg3 c6 11. O-O-O O-O 12. Bd3 g6 13. Rh2 Nd7 14. Rdh1
+Nf6 15. Qc2 Kg7 16. Ng5 Rh8 17. Nxf7 Qg8 18. Nxh8 Qxh8 19. Bxg6 Ng4 20. Rxh7+
+Qxh7 21. Rxh7+ 1-0

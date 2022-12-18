@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1966.01.01"]
+[Round "1"]
+[White "Post, E."]
+[Black "Nilsson, Zandor"]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack, Ekstroem variation"]
+[HashCode "c9ffce10"]
+[Epoch "Bishop"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 O-O 11. c4 bxc4 12. Bxc4 Qd7 13. Bb3 Nc5 14. Nbd2 Bg4
+15. h3 Nd4 16. Qf1 Nxf3+ 17. Nxf3 Bxf3 18. gxf3 Nxb3 19. axb3 f6 20. Bf4 Qe6
+21. Re1 Bb4 22. Re2 Rae8 23. Bg3 a5 24. f4 c5 25. Qg2 d4 26. Bh4 fxe5 27. Rxe5
+Qf7 28. Qg3 h6 29. Rd1 Rxe5 30. fxe5 g5 31. Qg4 Qf3 32. Bg3 Rf5 0-1

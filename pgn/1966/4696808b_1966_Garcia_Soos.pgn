@@ -1,0 +1,28 @@
+[Event "La Habana olm fin-A"]
+[Site "La Habana"]
+[Date "1966.01.01"]
+[Round "6"]
+[White "Garcia, Raimundo"]
+[Black "Soos, Bela"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "4696808b"]
+[Epoch "Bishop"]
+[WhiteID "100420"]
+[WhiteCountry "ARG"]
+[BlackID "4601670"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 a6 8. a4 Bg4
+9. Be2 Bxf3 10. Bxf3 Nbd7 11. Bf4 Qb8 12. O-O Bg7 13. Be2 O-O 14. Qc2 Re8 15.
+h3 Qc7 16. a5 Re7 17. Ra4 Rae8 18. Rfa1 b5 19. axb6 Nxb6 20. Rxa6 Nxe4 21. Bb5
+Nxc3 22. bxc3 Re1+ 23. Rxe1 Rxe1+ 24. Kh2 h5 25. Qd2 Re4 26. g3 Be5 27. Bxe5
+Rxe5 28. c4 h4 29. g4 Qd8 30. Qf4 g5 31. Qf3 Kg7 32. Ra7 Re7 33. Qc3+ Kg6 34.
+Ra6 Rb7 35. Bc6 Rb8 36. Bb5 Qf6 37. Qxf6+ Kxf6 38. Ra3 Nxd5 39. Rd3 Nf4 40.
+Rxd6+ Ke5 41. Rd7 f6 42. Re7+ Kd4 43. Rd7+ Kc3 44. Rd6 Rf8 45. Ba6 Kb4 46. Rb6+
+Ka5 47. Rd6 Re8 48. Rxf6 Re2 49. Bb7 Rxf2+ 50. Kh1 Nxh3 51. Rg6 Kb4 52. Bd5 Rd2
+53. Rg8 Kc3 54. Be6 Kd4 55. Ra8 Ke5 56. Re8 Kf4 57. Ra8 Nf2+ 58. Kg1 Nxg4 59.
+Bxg4 Kxg4 60. Ra5 Rc2 61. Rxc5 h3 62. Ra5 Rxc4 63. Ra3 Kh4 64. Rb3 g4 65. Rb8
+Rc1+ 0-1

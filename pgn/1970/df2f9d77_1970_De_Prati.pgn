@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "De Sortis"]
+[Black "Prati"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "df2f9d77"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Rb8 9. Bxc6+ Nxc6 10. Qxc6+ Nd7 11. d3 Be7 12. h4 O-O 13. Qe4
+Nf6 14. Qe2 Qd5 15. Ne4 Qa5+ 16. Bd2 Qc7 17. Nxf6+ Bxf6 18. Bc3 Qc6 19. Qe4
+Qe6 20. f3 Bb7 21. Qe2 e4 22. fxe4 Rfe8 23. Bxf6 Qxf6 24. Nc3 Bc6 25. Qe3
+Rxb2 26. O-O-O Qxc3 0-1
+

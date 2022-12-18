@@ -1,0 +1,21 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Mattsson, Bertil"]
+[Black "Hultquist, Torsten"]
+[Result "0-1"]
+[ECO "D60"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Botvinnik variation"]
+[HashCode "621da071"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Bd3 dxc4
+8. Bxc4 c5 9. O-O a6 10. a4 b6 11. Qe2 Qc7 12. Bf4 Bd6 13. Bxd6 Qxd6 14.
+Rfd1 Bb7 15. Rd2 Qc7 16. Rad1 h6 17. b3 Rfd8 18. dxc5 Nxc5 19. Rxd8+ Rxd8
+20. Rxd8+ Qxd8 21. b4 Nce4 22. Nxe4 Nxe4 23. Qd3 Qxd3 24. Bxd3 Nc3 25. b5
+axb5 26. axb5 Bxf3 27. gxf3 Kf8 28. e4 Ke7 29. e5 Nd5 30. h4 Nf4 31. Be4 f6
+32. exf6+ gxf6 33. Kh2 f5 34. Bc6 Ne2 35. Bb7 Nd4 36. Kg3 Nxb5 37. Ba6 Nc7
+38. Bd3 Nd5 0-1
+

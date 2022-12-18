@@ -1,0 +1,17 @@
+[Event "corr BdF-cup3"]
+[Site "corr BdF-cup3"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Doehner, HJ."]
+[Black "Laux, R."]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "9cf45d2d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Nc3 Nxe4 6. Ne5 d5 7. Bxd5
+Bh4+ 8. g3 fxg3 9. O-O gxh2+ 10. Kxh2 Qg5 11. d4 Bg3+ 12. Kg2 Bf4+ 13. Kf3
+Qg3+ 14. Ke2 Nxc3+ 15. bxc3 Bxe5 16. Bxf7+ Ke7 0-1
+

@@ -1,0 +1,22 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Gatto"]
+[Black "Gualandi"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "c113776d"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Be7 7. a3 d6 8.
+h3 Bb7 9. d3 h6 10. Nd5 Nd4 11. Nxf6+ Bxf6 12. Nxd4 exd4 13. f4 Bh4+ 14.
+Kf1 Bg3 15. Qg4 Qh4 16. Qxh4 Bxh4 17. g3 Bf6 18. Bd2 a5 19. a4 b4 20. Ke2
+g5 21. Raf1 O-O 22. fxg5 Bxg5 23. Bxg5 hxg5 24. Rf5 Rae8 25. Rxg5+ Kh7 26.
+Rxa5 f5 27. Ra7 Rb8 28. Rf1 Kg6 29. Be6 c5 30. Rxf5 Rxf5 31. Bxf5+ Kf6 32.
+b3 d5 33. h4 Ke5 34. Kf3 dxe4+ 35. dxe4 Bxe4+ 36. Bxe4 Rf8+ 37. Ke2 Kxe4
+38. a5 Kd5 39. a6 Kc6 40. Rg7 Re8+ 41. Kd2 Kb6 42. a7 Rd8 43. h5 d3 44. h6
+c4 45. h7 Rh8 46. Rg8 Rxh7 47. a8=Q Rh2+ 48. Ke3 1-0
+

@@ -1,0 +1,28 @@
+[Event "Chigorin mem"]
+[Site "Sochi"]
+[Date "1964.??.??"]
+[Round "1"]
+[White "Damjanovic, Mato"]
+[Black "Forintos, Gyozo V"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "115746a5"]
+[Epoch "Bishop"]
+[BlackID "700690"]
+[WhiteCountry "HRV"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nf6 7. Bg2 Nc6 8. O-O
+Be7 9. Nce2 O-O 10. c4 Nxd4 11. Qxd4 d6 12. b3 e5 13. Qd2 b5 14. cxb5 axb5 15.
+Bb2 Bd7 16. Rfc1 Qb7 17. Nc3 Rfc8 18. Re1 h6 19. h3 Ra7 20. Kh2 Rca8 21. b4 Bc6
+22. a3 Nd7 23. Bf1 Nf6 24. Qe2 Rb8 25. Rad1 Qa8 26. Bg2 Rc7 27. Rc1 Qb7 28. Nd5
+Nxd5 29. exd5 Be8 30. Bxe5 Rxc1 31. Rxc1 Bg5 32. f4 dxe5 33. fxg5 Qe7 34. gxh6
+g6 35. Rc5 Kh7 36. Qc2 Kxh6 37. Rc7 Qf6 38. Qc5 Kg7 39. Qa7 Rd8 40. Qb7 Rd6 41.
+Qb8 Bd7 42. Ra7 Rb6 43. Qc7 Bf5 44. Qc3 e4 45. Rc7 Qxc3 46. Rxc3 g5 47. g4 Bg6
+48. Bf1 Rd6 49. Bxb5 Rxd5 50. Bc6 Rd3 51. Rxd3 exd3 52. Kg3 d2 53. Ba4 f5 54.
+Kf3 Be8 55. Bd1 Kf6 56. Ke3 f4+ 57. Kxd2 Ke5 58. a4 Kd4 59. b5 Kc5 60. Kc3 Bf7
+61. Bf3 Bg6 62. Bc6 Bb1 63. a5 Ba2 64. a6 Kb6 65. Kd4 Bb3 66. Bf3 Ba4 67. Be2
+f3 68. Bxf3 Bxb5 69. Bg2 Bxa6 70. Ke5 Kc7 71. Kf6 Kd8 72. Kxg5 Ke7 73. Kh6 Kf8
+74. g5 Bd3 75. Bd5 1-0

@@ -1,0 +1,22 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[Round "6"]
+[White "Zuidema, Coen"]
+[Black "Trmal, Jaroslav"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "624dda04"]
+[Epoch "Bishop"]
+[BlackID "309877"]
+[BlackCountry "CZE"]
+[WhiteID "1000101"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8. Ne2
+d5 9. O-O dxc4 10. Bxc4 O-O 11. a3 Bd6 12. Ng3 b5 13. Bb3 Qe7 14. Bg5 Rd8 15.
+Qc1 h6 16. Bxf6 Qxf6 17. Nxb5 Na5 18. Nxd6 Nxb3 19. Qe3 Nxa1 20. e5 Qe7 21.
+Rxa1 Bb7 22. f4 f5 23. Nh5 Rd7 24. Rc1 Rc7 25. Rc3 Rxc3 26. Qxc3 Rd8 27. Qg3
+Kh7 28. b4 Bd5 29. Qd3 Qa7+ 30. Kh1 Qf2 0-1

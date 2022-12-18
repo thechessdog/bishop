@@ -1,0 +1,17 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1959.01.01"]
+[Round "1"]
+[White "Constantin"]
+[Black "Grosu"]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Janowski variation"]
+[HashCode "1020f46e"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 f6 6. exf6 Qxf6 7. g3 Bg4
+8. Bg2 O-O-O 9. h3 Bh5 10. O-O d3 11. exd3 Rxd3 12. g4 Be8 13. Qa4 Ra3 14.
+bxa3 Qxa1 15. Nb3 Qf6 16. Nfd4 Nge7 17. Be3 a6 18. Nc5 Ng6 19. Nxb7 1-0
+

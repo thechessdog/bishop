@@ -1,0 +1,22 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Arregui, A."]
+[Black "Poberznik, R."]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "32810a7b"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. Nb3 b5 10. f4 b4 11. Bxf6 gxf6 12. Ne2 a5 13. Nbd4 Qb6 14.
+Nxc6 Bxc6 15. Nd4 Bxe4 16. Bb5+ Kd8 17. Rhe1 Bd5 18. Ba4 Rc8 19. f5 e5 20.
+Nb5 Rc5 21. Kb1 Rg8 22. g3 Rg4 23. Qf2 Re4 24. Rxe4 Bxe4 25. Qe3 Bxf5 26.
+Qf2 e4 27. Nd4 Bg6 28. Qxf6+ Kc7 29. Rf1 Kb7 30. Be8 Re5 31. Bc6+ Kc7 32.
+Rd1 Bh5 33. g4 Bxg4 34. Qxf7+ Be7 35. Bd5 Bxd1 36. Be6 Qc5 37. Qxe7+ Kb6
+38. Kc1 Bh5 39. Qd8+ Qc7 40. Qa8 Rg5 41. Kd2 d5 42. Ke3 Rg3+ 43. hxg3 Qxg3+
+44. Nf3 Qxf3+ 45. Kd4 Qf6+ 46. Kxd5 Qg5+ 47. Kd4 Qc5+ 48. Kxe4 Bg6+ 0-1
+

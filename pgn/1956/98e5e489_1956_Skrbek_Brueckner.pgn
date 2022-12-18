@@ -1,0 +1,18 @@
+[Event "corr GER cup"]
+[Site "corr GER cup"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Skrbek, F."]
+[Black "Brueckner, P."]
+[Result "1-0"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[HashCode "98e5e489"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Bb4+ 5. Nc3 dxc4 6. e4 c5 7. Bxc4 cxd4
+8. Nxd4 Qa5 9. Bxf6 Bxc3+ 10. bxc3 Qxc3+ 11. Kf1 gxf6 12. Rc1 Qa5 13. Nb5
+O-O 14. Rc3 Rd8 15. Qh5 Qb4 16. f4 a6 17. Qh6 Qb1+ 18. Kf2 Rd2+ 19. Be2
+Rxe2+ 20. Kg3 1-0
+

@@ -1,0 +1,16 @@
+[Event "corr Baltic"]
+[Site "corr Baltic"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Rosdestvenski, V."]
+[Black "Engel"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "f95bc357"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 b6 9. dxc5 Qxd1 10. Rxd1 Bxc5 11. a3 Bb7 12. b4 Be7 13. Bb2 1/2-1/2
+

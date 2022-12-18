@@ -1,0 +1,20 @@
+[Event "BUCA"]
+[Site "BUCA"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "De Coverly, Roger D"]
+[Black "Overend, WJ."]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "c3dd757d"]
+[Epoch "Bishop"]
+[WhiteID "405213"]
+[WhiteCountry "END"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. e4 Bb7 5. d5 exd5 6. cxd5 d6 7. f4 Nbd7 8. Nf3
+Qe7 9. Qc2 Nxd5 10. Nxd5 Bxd5 11. Bd3 Nc5 12. Nd2 f5 13. O-O fxe4 14. Bc4 Bxc4
+15. Qxc4 Qf7 16. Qc2 d5 17. b4 Nd7 18. Nxe4 O-O-O 19. Ng5 Qf6 20. Bb2 d4 21.
+Qc4 Ne5 22. fxe5 Qxg5 23. Rac1 Qxe5 24. Rfe1 b5 25. Qc6 Qd6 26. Qxb5 Qxb4 27.
+Qa6+ Qb7 28. Qe6+ Kb8 29. Rb1 Bc5 30. Kh1 Rd6 31. Qf7 Rdd8 32. Bxd4 Bb6 33. Be5
+Rd2 34. Rb2 Qxg2# 0-1

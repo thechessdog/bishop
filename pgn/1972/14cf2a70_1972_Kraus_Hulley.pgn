@@ -1,0 +1,17 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Kraus, E."]
+[Black "Hulley, F."]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "14cf2a70"]
+[Epoch "Bishop"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 d4 6. Bc4 Nf6 7. e5 dxc3
+8. exf6 cxd2+ 9. Bxd2 exf6 10. O-O-O Qb6 11. Rhe1+ Be7 12. Qa3 Qc7 13.
+Rxe7+ Qxe7 14. Re1 1-0
+

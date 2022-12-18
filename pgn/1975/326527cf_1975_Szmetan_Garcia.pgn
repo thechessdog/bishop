@@ -1,0 +1,20 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1975.01.01"]
+[Round "17"]
+[White "Szmetan, Jorge"]
+[Black "Garcia, Raimundo"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "326527cf"]
+[Epoch "Bishop"]
+[WhiteID "100366"]
+[WhiteCountry "ARG"]
+[BlackID "100420"]
+[BlackCountry "ARG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 Ne8 7. Be3 c5 8. dxc5
+Nc6 9. Bb5 Bg4 10. cxd6 exd6 11. O-O Qa5 12. h3 Bxf3 13. Qxf3 Rc8 14. Rad1 dxe5
+15. Bxc6 Rxc6 16. Nd5 Rxc2 17. f5 1-0

@@ -1,0 +1,19 @@
+[Event "Tivoli tt"]
+[Site "Tivoli tt"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Passerotti"]
+[Black "Zichichi"]
+[Result "0-1"]
+[ECO "B44"]
+[Opening "Sicilian, Szen (`anti-Taimanov') variation"]
+[HashCode "e1791dac"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. Bf4 e5 7. Be3 Be6 8.
+c4 Nf6 9. N1c3 a6 10. Na3 Be7 11. Be2 O-O 12. O-O Rc8 13. Qd2 Kh8 14. f3
+Ne8 15. Nd5 f5 16. Nxe7 Qxe7 17. exf5 Bxf5 18. Rad1 Rd8 19. b4 Nf6 20. Rfe1
+Qf7 21. b5 Nb8 22. Qb2 Rfe8 23. Bb6 Rd7 24. Rd2 Qg6 25. Red1 e4 26. Rxd6
+exf3 27. Bxf3 Rxd6 28. Rxd6 Ng4 29. Bxg4 Qxd6 30. Bxf5 Qxb6+ 31. Kf1 Qe3
+0-1
+

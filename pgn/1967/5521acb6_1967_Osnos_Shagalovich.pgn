@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Osnos, Vyacheslav"]
+[Black "Shagalovich, Abo"]
+[Result "1-0"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "5521acb6"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 c5 6. Nf3 O-O 7. Be3 Qa5 8. Bd3
+cxd4 9. Nxd4 Nc6 10. O-O Nxd4 11. Bxd4 Be6 12. Rc1 Rfc8 13. b3 a6 14. f4 b5 15.
+f5 Bd7 16. Bxf6 Bxf6 17. Nd5 Bd4+ 18. Kh1 Qd8 19. Qf3 Qf8 20. e5 bxc4 21. f6
+cxd3 22. fxe7 Qg7 23. Nf6+ Kh8 24. Rxc8+ Rxc8 25. Qb7 1-0

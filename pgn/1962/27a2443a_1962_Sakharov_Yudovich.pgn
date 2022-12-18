@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Sakharov, I."]
+[Black "Yudovich, Mikhail Jr"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "27a2443a"]
+[Epoch "Bishop"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. dxc5 d4 5. Bxf6 gxf6 6. Ne4 Qd5 7. Qd3 Bf5 8.
+Nc3 Qe5 9. Qb5+ Bd7 10. Qxb7 dxc3 11. b4 Bh6 12. e3 O-O 13. Qxa8 Bxe3 14. Nf3
+Bd2+ 15. Kd1 Qf4 16. Qd5 Bc6 17. Qd3 Be4 18. Qe2 Rd8 19. Ne1 Nc6 20. a3 Bxe1+
+21. Kxe1 Nd4 22. Rd1 Nxc2+ 23. Qxc2 Rxd1+ 0-1

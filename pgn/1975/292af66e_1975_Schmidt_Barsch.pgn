@@ -1,0 +1,17 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Barsch"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "292af66e"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bb4 7. Bd3 d5 8. Bg5
+O-O 9. Nd2 Bxc3 10. bxc3 Be6 11. O-O Nbd7 12. Re1 Qc7 13. exd5 Nxd5 14. c4 N5b6
+15. Re3 f5 16. Qh5 Nf6 17. Qh4 Rae8 18. Rae1 Nbd7 19. Bxf6 Rxf6 20. Rg3 Kh8 21.
+Rg5 e4 22. Bf1 Qa5 23. Rd1 Qxa2 24. Nxe4 fxe4 25. Qxe4 Qb2 26. Bd3 Rh6 0-1

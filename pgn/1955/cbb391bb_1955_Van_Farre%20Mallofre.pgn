@@ -1,0 +1,18 @@
+[Event "Wch U20 prel-C"]
+[Site "Antwerp"]
+[Date "1955.??.??"]
+[Round "6"]
+[White "Van Hoorne"]
+[Black "Farre Mallofre, Miguel"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "cbb391bb"]
+[Epoch "Bishop"]
+[BlackID "32003188"]
+[BlackCountry "ESP"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Qd2 e6 8. f4
+Be7 9. O-O-O Qc7 10. f5 Ne5 11. h3 Bd7 12. g4 h6 13. Bf4 b5 14. fxe6 fxe6 15.
+Bxb5 axb5 16. Ndxb5 Qa5 17. Nxd6+ Bxd6 18. Qxd6 Nc4 19. Qd3 Qb4 0-1

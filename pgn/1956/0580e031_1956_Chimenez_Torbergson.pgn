@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Chimenez"]
+[Black "Thorbergsson, Freysteinn"]
+[Result "1/2-1/2"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "0580e031"]
+[Epoch "Bishop"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. f4 Rb8 12. Re1 Nc7 13. a4 b6 14. Bf3 Ba6 15. Nb3
+Bc4 16. Be3 Nd7 17. Bf2 a6 18. Nd2 Bd3 19. Nb3 1/2-1/2

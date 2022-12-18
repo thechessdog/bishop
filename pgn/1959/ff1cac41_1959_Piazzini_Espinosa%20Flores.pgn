@@ -1,0 +1,26 @@
+[Event "Argentina"]
+[Site "Buenos Aires"]
+[Date "1959.01.01"]
+[Round "4"]
+[White "Piazzini, Luis Roberto"]
+[Black "Espinosa Flores, Rafael Emilio"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "ff1cac41"]
+[Epoch "Bishop"]
+[BlackID "5100038"]
+[WhiteCountry "ARG"]
+[BlackCountry "MEX"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Be3 O-O-O 9. Nd2 Ne7 10. O-O-O Ng6 11. f3 Be7 12. Rhe1 Bf6 13. Ne2 h5 14.
+Bd4 Bxd4 15. Nxd4 c5 16. N4b3 b6 17. Nc4 Be6 18. Ne3 Bxb3 19. axb3 Nf4 20.
+Rxd8+ Rxd8 21. h4 Ne6 22. c3 Nf4 23. Kc2 c6 24. g3 Ne6 25. f4 Re8 26. e5 Kc7
+27. Nf5 Rf8 28. Nd6 f6 29. Nc4 f5 30. Ra1 Kb7 31. Rd1 Kc7 32. Rd6 Re8 33. Nd2
+Nf8 34. Nc4 Re6 35. Rd1 b5 36. Nd6 g6 37. Ra1 Kb6 38. Nc8+ Kb7 39. Nd6+ Kb6 40.
+Nf7 Re7 41. Ng5 Rd7 42. b4 cxb4 43. cxb4 Kb7 44. Kc3 Kb6 45. Re1 Kb7 46. Re3
+Kc7 47. Rd3 Rxd3+ 48. Kxd3 Kd7 49. Kd4 Kc7 50. b3 Nd7 51. Ne6+ Kb6 52. Nd8 Kc7
+53. Nf7 Nf8 54. Ng5 Nd7 55. Nh7 Nb6 56. Nf8 Nd5 57. Nxg6 Nxb4 58. Ne7 Kb6 59.
+Nxf5 c5+ 60. Kc3 Nd5+ 61. Kb2 a5 62. Ng7 b4 63. f5 a4 64. bxa4 1-0

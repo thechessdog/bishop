@@ -1,0 +1,22 @@
+[Event "Netherlands tt"]
+[Site "Netherlands tt"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Piket, Jeroen"]
+[Black "Krabbe, Tim"]
+[Result "0-1"]
+[ECO "A84"]
+[Opening "Dutch"]
+[Variation "Staunton gambit deferred"]
+[HashCode "6b823a3e"]
+[Epoch "Bishop"]
+[BlackID "1000969"]
+[BlackCountry "NED"]
+
+1. d4 e6 2. c4 f5 3. e4 fxe4 4. Nc3 Nf6 5. Bg5 Bb4 6. f3 c5 7. d5 Qa5 8. Bxf6
+gxf6 9. Qc2 exf3 10. Nxf3 exd5 11. cxd5 d6 12. Bd3 Qc7 13. O-O Bxc3 14. Qxc3
+O-O 15. Ng5 f5 16. Ne6 Bxe6 17. dxe6 Nc6 18. Bc4 Qe7 19. g4 f4 20. Rae1 Nd4 21.
+Re4 f3 22. Qe3 Rf6 23. Bd5 Raf8 24. Kh1 b5 25. b4 Kh8 26. bxc5 dxc5 27. Qg5 Qd6
+28. Qe5 Qxe5 29. Rxe5 Re8 30. e7 Kg7 31. h3 c4 32. Rd1 c3 33. Re3 c2 34. Rc1
+Ne2 35. Rxc2 f2 36. Bg2 f1=Q+ 37. Bxf1 Rxf1+ 38. Kg2 Rg1+ 39. Kh2 Nd4 40. Rd2
+Re1 0-1

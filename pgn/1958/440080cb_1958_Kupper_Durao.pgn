@@ -1,0 +1,21 @@
+[Event "Munich olm prel"]
+[Site "Munchen olm"]
+[Date "1958.01.01"]
+[Round "7"]
+[White "Kupper, Josef"]
+[Black "Durão, Joaquim Manuel"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "440080cb"]
+[Epoch "Bishop"]
+[WhiteID "1300121"]
+[WhiteCountry "SUI"]
+[BlackCountry "PRT"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3
+h5 9. Qh3 cxd4 10. Nf3 Nc6 11. g4 Nfe7 12. gxh5 Qc7 13. Bf4 Ng6 14. Qg4 Ncxe5
+15. Nxe5 Nxe5 16. Qxg7 Rxh5 17. Ke2 dxc3 18. Rhg1 Rf5 19. Bg3 Rh5 20. Rae1 Bd7
+21. Kf1 O-O-O 22. Rxe5 Rxe5 23. Qxe5 Qxe5 24. Bxe5 d4 25. Rg4 f6 26. Bxf6 e5
+27. Bxd8 Bxg4 28. Bf6 1-0

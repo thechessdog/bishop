@@ -1,0 +1,17 @@
+[Event "corr BRD/M"]
+[Site "corr BRD/M"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Kruetzfeldt, HA."]
+[Black "Rosen, W."]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "e2d99118"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Kf8 9. Nf3 Nxe4 10. Nxe4 Qa5+ 11. Bd2 Qxb5 12. Nxd6 Qxb2 13. Rb1 Qxa2
+14. Nxc8 Qxd5 15. Be3 Bc3+ 16. Kf2 Qa2+ 17. Kg3 Kg7 18. Nd6 b6 19. Nb5 1-0
+

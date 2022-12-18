@@ -1,0 +1,25 @@
+[Event "Stavanger"]
+[Site "Stavanger"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Haugen, Arild"]
+[Black "Hansen, Kjell"]
+[Result "1-0"]
+[ECO "E61"]
+[Opening "King's Indian defence, 3.Nc3"]
+[HashCode "da6edc13"]
+[Epoch "Bishop"]
+[WhiteID "1505076"]
+[WhiteCountry "NOR"]
+
+1. d4 g6 2. c4 Nf6 3. Nc3 e6 4. e4 d6 5. Bg5 Bg7 6. f4 h6 7. Bh4 Qd7 8. Nf3 b6
+9. d5 Bb7 10. Qd4 Nh5 11. e5 c5 12. Qe4 O-O 13. g4 exd5 14. Nxd5 Bxd5 15. Qxd5
+Nxf4 16. Qxd6 Qxg4 17. Kf2 Nd7 18. Bg3 Nh3+ 19. Bxh3 Qxh3 20. Rhe1 Rae8 21.
+Rad1 Nb8 22. Qc7 Qe6 23. Qxa7 Qxc4 24. Qxb6 Qxa2 25. Ra1 Nd7 26. Qb5 Qe6 27.
+Rad1 Re7 28. Rd6 Qf5 29. Rd5 g5 30. Kg2 Rfe8 31. Qe2 f6 32. Qc4 Kh8 33. exf6
+Qxf6 34. Rxd7 Rxe1 35. Bxe1 Qxb2+ 36. Rd2 Qb6 37. Bf2 Qg6 38. Bxc5 g4 39. Ng1
+Rc8 40. Qd5 h5 41. Bd4 Rf8 42. Bxg7+ Kxg7 43. Qd7+ Rf7 44. Qd3 Qc6+ 45. Qd5 Qg6
+46. Qe5+ Kh7 47. Qc3 Qe4+ 48. Kg3 Qe1+ 49. Kg2 Rf2+ 50. Kh1 Qxd2 51. Qc7+ Kg6
+52. Qc6+ Rf6 53. Qe8+ Kg5 54. Qe5+ Kg6 55. Qe8+ Rf7 56. Qg8+ Rg7 57. Qe6+ Kh7
+58. Qf5+ Kh6 59. Qf6+ Rg6 60. Qh8+ Kg5 61. Qe5+ Kh6 62. Qh8+ Kg5 63. Qe5+ Kh4
+64. Qg3+ Kg5 65. Nf3+ 1-0

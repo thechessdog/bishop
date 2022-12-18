@@ -1,0 +1,16 @@
+[Event "Dubna"]
+[Site "Dubna"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Dudkin"]
+[Black "Sorokin"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Balogh variation"]
+[HashCode "afff0645"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Qe7 6. a3 Nxe5 7. Nxd4 Nd3#
+0-1
+

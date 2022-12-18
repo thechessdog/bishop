@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Sziszkin"]
+[Black "Wolowicz"]
+[Result "0-1"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "pawn storm variation"]
+[HashCode "370a4f1e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 a6 8. e5
+Nfd7 9. Nf3 Bg7 10. Ne4 dxe5 11. Nd6+ Kf8 12. Ng5 exf4 13. Ndxf7 Qf6 14.
+Bxf4 h6 15. Nxh8 hxg5 16. Nxg6+ Qxg6 17. Be3 Bxb2 18. Qd2 Bxa1 19. Bd3 Qg7
+20. O-O+ Bf6 21. Bxg5 Ke8 22. Bh6 Qg8 23. Bf5 Kd8 24. d6 Nc6 25. Kh1 Nce5
+26. Qe1 Qh8 27. Bf4 a5 28. Bg3 Ra6 29. Qd2 c4 30. Qd5 Rc6 31. Bxd7 Bxd7 32.
+Qxa5+ b6 33. Qa8+ Bc8 34. Qa7 Rxd6 35. Qb8 Rc6 36. Bf2 Nd7 37. Qa8 Be5 38.
+Bg1 Bxh2 0-1
+

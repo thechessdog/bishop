@@ -1,0 +1,19 @@
+[Event "corr Baltic"]
+[Site "corr Baltic"]
+[Date "1965.01.01"]
+[Round "1"]
+[White "Fedorov"]
+[Black "Punzulis"]
+[Result "1/2-1/2"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "cfa34332"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 b6 6. Bd3 c5 7. O-O Bb7 8.
+Na4 Qe7 9. a3 Ba5 10. dxc5 bxc5 11. Nxc5 Qxc5 12. b4 Bxf3 13. Qxf3 Qe5 14.
+Qxa8 Qxa1 15. bxa5 Qc3 16. Be2 Nc6 17. Qb7 Rb8 18. Qc7 h6 19. Qd6 Qxa5 20.
+Bd2 Qa4 21. Bf3 Rb6 22. c5 Rb7 23. Bc3 Ne4 24. Bxe4 Qxe4 25. h3 Qh4 26. Ba1
+Qe7 27. Qxe7 Nxe7 28. Be5 1/2-1/2
+

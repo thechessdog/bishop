@@ -1,0 +1,18 @@
+[Event "Thea"]
+[Site "Thea"]
+[Date "1970.??.??"]
+[Round "7"]
+[White "Valerio, Jose"]
+[Black "Hase, Ricardo"]
+[Result "0-1"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "2f56119a"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. Qa4+ c6 6. e3 dxc4 7. Qxc4 O-O
+8. Nf3 Nbd7 9. h3 Nb6 10. Qd3 Be6 11. Ne5 Nbd5 12. Bh2 Bf5 13. Qd2 c5 14.
+Bc4 cxd4 15. exd4 Nxc3 16. bxc3 Ne4 17. Qb2 Rc8 18. Qb3 e6 19. Rc1 Qg5 20.
+Nd3 Rxc4 0-1
+

@@ -1,0 +1,22 @@
+[Event "CSSR"]
+[Site "CSSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Hort, Vlastimil"]
+[Black "Plachetka, Jan"]
+[Result "1-0"]
+[ECO "D63"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Swiss, Karlsbad variation"]
+[HashCode "a2ef7f1b"]
+[Epoch "Bishop"]
+[WhiteID "4600029"]
+[BlackID "14900068"]
+[WhiteCountry "GER"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. Nf3 O-O 6. e3 Nbd7 7. Rc1 a6 8. cxd5
+exd5 9. Bd3 Nb6 10. Ne5 Ne8 11. Bf4 Nd6 12. Qc2 g6 13. h4 Bf5 14. Bxf5 Nxf5 15.
+h5 Bg5 16. Ne2 Bxf4 17. Nxf4 Qf6 18. hxg6 hxg6 19. Qd3 Rfc8 20. g4 Nxd4 21.
+Qxd4 c5 22. Qd3 Qxe5 23. Nxg6 Qxb2 24. Rb1 Qf6 25. Ne7+ Kf8 26. Nxc8 Rxc8 27.
+Rxb6 1-0

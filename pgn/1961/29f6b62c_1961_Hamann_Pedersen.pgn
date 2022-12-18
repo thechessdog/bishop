@@ -1,0 +1,27 @@
+[Event "Nykobing"]
+[Site "Nykobing"]
+[Date "1961.01.01"]
+[Round "3"]
+[White "Hamann, Svend"]
+[Black "Pedersen, Eigil"]
+[Result "1-0"]
+[ECO "E93"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, main line"]
+[HashCode "29f6b62c"]
+[Epoch "Bishop"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 Nbd7 8. Bg5
+h6 9. Bh4 g5 10. Bg3 Nc5 11. Nd2 a5 12. O-O c6 13. Qc2 cxd5 14. cxd5 Bd7 15.
+Nc4 Qc7 16. Rfc1 b5 17. Nd2 Qb6 18. Qb1 b4 19. Nd1 Bb5 20. Bxb5 Qxb5 21. f3
+Rac8 22. b3 Nd3 23. Rxc8 Rxc8 24. Nc4 Qc5+ 25. Kf1 Qd4 26. Ndb2 Nxb2 27. Nxb2
+g4 28. Bf2 Qc3 29. Nd1 Qd2 30. Be3 Qc2 31. Qxc2 Rxc2 32. Bb6 gxf3 33. gxf3 Nh7
+34. h4 Bf6 35. Bf2 Nf8 36. h5 Bg5 37. Bb6 Nd7 38. Bxa5 Bd2 39. Bd8 Kf8 40. a4
+Ke8 41. Bh4 Nc5 42. Rb1 f5 43. Bf2 fxe4 44. Bxc5 Rxc5 45. fxe4 Ke7 46. Ra1 Rc2
+47. a5 Bc1 48. a6 Rc8 49. Ra4 Ra8 50. Ke2 Kf6 51. Kd3 Kg5 52. Kc4 Kf4 53. Kb5
+Kxe4 54. Kc6 Kf3 55. Kb7 Rg8 56. a7 Ke2 57. Nb2 Bxb2 58. Ra2 Kd3 59. Rxb2 Kc3
+60. Ra2 Kxb3 61. a8=Q Rxa8 62. Rxa8 Kc2 63. Kc6 b3 64. Kxd6 e4 65. Ke5 e3 66.
+Kd4 Kd2 67. Re8 1-0

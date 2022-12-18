@@ -1,0 +1,27 @@
+[Event "Malaga"]
+[Site "Malaga"]
+[Date "1966.01.01"]
+[Round "9"]
+[White "Ulvestad, Olaf"]
+[Black "Zinser, Sylvain"]
+[Result "0-1"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "4ec3232d"]
+[Epoch "Bishop"]
+[BlackID "600687"]
+[BlackCountry "FRA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Bg5 Bb7 12. Nbd2 Ne8 13. Be3 Bf6 14. g4 g6 15.
+Bh6 Bg7 16. Bg5 Bf6 17. h4 Ng7 18. Bh6 c5 19. d5 c4 20. Bc2 Nc5 21. Nf1 Bc8 22.
+Ne3 Be7 23. Kg2 f6 24. Rg1 Rf7 25. Kf1 Kh8 26. b4 cxb3 27. axb3 a5 28. Rg3 Bd7
+29. Kg2 Bf8 30. Qd2 Ne8 31. Bxf8 Rxf8 32. h5 g5 33. h6 Nc7 34. Rh3 N7a6 35.
+Rhh1 b4 36. Nh2 bxc3 37. Qxc3 Nb4 38. Bb1 Qc7 39. Rc1 Rfc8 40. Nhf1 Qd8 41. Nc4
+Bxg4 42. f3 Bh5 43. Nfe3 Bg6 44. Ra3 Nb7 45. Qe1 Nc5 46. Rd1 Rcb8 47. Nb2 Kg8
+48. Rd2 Rb5 49. Na4 Nba6 50. Bc2 Rab8 51. Nc3 R5b7 52. Qa1 Nb4 53. Bd1 Nbd3 54.
+Rxa5 Nf4+ 55. Kf1 Nxb3 56. Bxb3 Rxb3 57. Ra7 Qc8 58. Rg7+ Kh8 59. Qa7 Qh3+ 60.
+Kg1 Qxh6 61. Rc7 Qh3 62. Ncd1 Qg3+ 63. Kf1 Qxf3+ 64. Ke1 Qh1+ 65. Nf1 Qxe4+ 66.
+Nde3 Rb1+ 0-1

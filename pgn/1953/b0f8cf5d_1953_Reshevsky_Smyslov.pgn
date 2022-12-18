@@ -1,0 +1,18 @@
+[Event "Candidats Tournament"]
+[Site "Zurich ct"]
+[Date "1953.01.01"]
+[Round "10"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Smyslov, Vasily"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "b0f8cf5d"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 b6 7. O-O Bb7 8. Bd2
+cxd4 9. exd4 d5 10. cxd5 Bxc3 11. bxc3 Qxd5 12. Re1 Nbd7 13. Qe2 Qh5 14. a4 a6
+15. Reb1 Rfd8 16. Be3 Be4 17. Bf4 Qf5 18. Bxe4 Nxe4 19. Bd2 1/2-1/2

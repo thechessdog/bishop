@@ -1,0 +1,17 @@
+[Event "Bladel"]
+[Site "Bladel"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Flohr, Salo"]
+[Black "Euwe, Max"]
+[Result "1/2-1/2"]
+[ECO "A84"]
+[Opening "Dutch defence"]
+[Variation "Bladel variation"]
+[HashCode "1e2b164e"]
+[Epoch "Bishop"]
+[BlackCountry "NLD"]
+[WhiteCountry "CZE"]
+
+1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4 d6 5. b3 Bg7 6. Bb2 O-O 7. Nf3 Nc6 8. Be2 e5
+9. dxe5 Nxe5 10. exf5 Nxf5 11. O-O Bd7 12. Qd2 1/2-1/2

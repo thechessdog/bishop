@@ -1,0 +1,22 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Pogats, Jozsef Jr."]
+[Black "Weinberger, Tibor"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "c6dd9fdc"]
+[Epoch "Bishop"]
+[WhiteID "744450"]
+[BlackID "2003449"]
+[WhiteCountry "HUN"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2 Qc7
+8. c4 e6 9. Qb3 Nd7 10. Bd2 a5 11. a4 f5 12. O-O-O Bg7 13. Bg5 b5 14. h3 Bh5
+15. Qa3 Bf8 16. c5 h6 17. Bh4 bxa4 18. Rd2 Bg7 19. Rg1 Bg6 20. Bd1 Rb8 21. Re1
+Rb4 22. Bxa4 h5 23. Bg5 O-O 24. Be7 Qb7 25. Bxf8 Bxf8 26. h4 Bh6 27. Ng5 Qa6
+28. f4 Nf6 29. Bc2 Nd5 30. g3 a4 31. Nf3 Nxf4 32. gxf4 Bxf4 33. Qxb4 1-0

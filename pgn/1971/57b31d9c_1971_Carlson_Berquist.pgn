@@ -1,0 +1,16 @@
+[Event "corr Golden Knights"]
+[Site "corr Golden Knights"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Berquist"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "57b31d9c"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 exd5 5. dxc5 Bxc5 6. Qxd5 Bxf2+ 7. Kxf2
+Qb6+ 8. Be3 Qxb2 9. Qb5+ Qxb5 10. Bxb5+ Bd7 11. Bxd7+ Nxd7 12. Nf3 Ngf6 13.
+Rhe1 O-O 0-1

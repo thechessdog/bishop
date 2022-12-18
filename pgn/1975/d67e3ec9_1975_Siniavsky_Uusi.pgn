@@ -1,0 +1,29 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Siniavsky, Alexande"]
+[Black "Uusi, Gunnar"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "d67e3ec9"]
+[Epoch "Bishop"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 c5 8. O-O
+a6 9. Qe2 b5 10. Bd3 cxd4 11. exd4 Bb7 12. Rd1 Nbd7 13. Bg5 b4 14. Ne4 Nxe4 15.
+Bxe7 Qxe7 16. Bxe4 Nf6 17. Bxb7 Qxb7 18. Rac1 Qd5 19. Rc4 Qa5 20. Qe1 Qxa2 21.
+Rxb4 Nd5 22. Ra1 Qxa1 23. Qxa1 Nxb4 24. h4 Rfc8 25. Qa4 Nd5 26. g4 Rc7 27. Ne5
+h6 28. g5 hxg5 29. hxg5 Nf4 30. Kh2 f6 31. gxf6 gxf6 32. Nd7 Kf7 33. Kg3 Nd5
+34. Nc5 a5 35. Kf3 f5 36. Qa1 a4 37. Qh1 Nf6 38. Qh2 Re7 39. Nd3 Ng4 40. Qh7+
+Kf6 41. Qh4+ Kf7 42. Qh7+ Kf6 43. Qh4+ Kf7 44. Qh5+ Kf6 45. Nf4 Rg7 46. Qh4+
+Kf7 47. d5 exd5 48. Qh5+ Kf6 49. Nxd5+ Ke5 50. Nb6 Rd8 51. Qh4 Rd3+ 52. Ke2 Rb3
+53. Nxa4 Kf4 54. Qd8 Rgb7 55. Qd2+ Ke5 56. Nc5 R3b5 57. Qc3+ Kd6 58. Qd4+ Kc6
+59. Nxb7 Kxb7 60. f4 Kc6 61. b4 Rd5 62. Qc4+ Kd6 63. Qa6+ Ke7 64. Qb7+ Kd6 65.
+Qb6+ Ke7 66. Qc7+ Ke6 67. Qc6+ Rd6 68. Qc8+ Ke7 69. Qxf5 Nf6 70. Qc5 Nd7 71.
+Qg5+ Rf6 72. Kf3 Kd8 73. Kg4 Kc7 74. b5 Rb6 75. Qf5 Rf6 76. Qc2+ Kd8 77. Kg5
+Rb6 78. Qd3 Kc7 79. f5 Kc8 80. Qa3 Kd8 81. Qa8+ Kc7 82. Qh8 Rxb5 83. Kg6 Rb8
+84. Qh2+ Kd8 85. Kf7 Rb6 86. Qh8+ Kc7 87. Ke7 Nb8 88. Qh2+ Kb7 89. Kd8 Nc6+ 90.
+Ke8 1-0

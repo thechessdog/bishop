@@ -1,0 +1,19 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Hosnedl"]
+[Black "Hrubos"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "3adeae79"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 Be7 11. Nf3 b5 12. e5 b4 13. exd6 bxc3 14. Qxc3
+Bf8 15. f5 Rg8 16. Bc4 Qa5 17. Bxf6 gxf6 18. fxe6 fxe6 19. Qxf6 Bg7 20.
+Qg6+ Kf8 21. Ne5 Qxe5 22. Rhf1+ Bf6 23. Rxf6+ Qxf6 24. Qxf6+ Ke8 25. Bxe6
+1-0
+

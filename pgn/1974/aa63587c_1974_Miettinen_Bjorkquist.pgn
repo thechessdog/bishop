@@ -1,0 +1,19 @@
+[Event "corr FIN jub10"]
+[Site "corr FIN jub10"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Miettinen, R."]
+[Black "Bjorkquist, A."]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "aa63587c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bb5 Rd8 12. Bb2 Ne7 13. Qe2 b6 14. e4
+Bb7 15. Bd3 Ng6 16. g3 Qc6 17. Nd2 e5 18. d5 Nxd5 19. exd5 Rxd5 20. Ne4
+Rad8 21. Bb5 Nf4 22. gxf4 Qg6+ 23. Ng3 exf4 24. Rfe1 h5 25. Qe4 Qg5 26. Bc1
+Qf6 27. Qxf4 Qxc3 28. Be3 1-0
+

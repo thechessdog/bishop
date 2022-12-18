@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Keller, Martina"]
+[Black "Krajkowski, H."]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "03f21562"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+Nb6 9. Bd3 h5 10. Nh3 Bd7 11. O-O Be7 12. Nhg5 a5 13. Qe2 Bxg5 14. fxg5 g6 15.
+Qf2 Nb4 16. Bxg6 fxg6 17. Nh4 Qe7 18. Nxg6 Qg7 19. Nxh8 Qxh8 20. Qf7+ Kd8 21.
+g6 1-0

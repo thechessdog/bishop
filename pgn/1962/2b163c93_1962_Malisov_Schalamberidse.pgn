@@ -1,0 +1,18 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Malisov"]
+[Black "Schalamberidse"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "2b163c93"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. Nf3 Bg7 5. Bg5 O-O 6. Qd2 c6 7. O-O-O Qa5
+8. Bh6 e5 9. h4 Bg4 10. dxe5 dxe5 11. Bxg7 Kxg7 12. h5 Bxh5 13. g4 Nxg4 14.
+Rxh5 gxh5 15. Qg5+ Kh8 16. Qxh5 f5 17. Ng5 Nf6 18. Qh6 Qb4 19. Ne6 Rf7 20.
+Rd8+ Ng8 21. Qg5 1-0
+

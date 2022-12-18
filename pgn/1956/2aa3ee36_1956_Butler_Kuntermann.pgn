@@ -1,0 +1,20 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Butler, D."]
+[Black "Kuntermann, H."]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "2aa3ee36"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d4 Bg4 10. Be3 a5 11. Nbd2 a4 12. Bc2 a3 13. b4 exd4 14. Bxd4
+Nxd4 15. cxd4 d5 16. e5 Nd7 17. Rb1 Nb6 18. h3 Be6 19. Re3 Ra7 20. g4 Nc4
+21. Nxc4 dxc4 22. Qc1 Bd5 23. Rxa3 Rxa3 24. Qxa3 Qa8 25. Qxa8 Rxa8 26. Nd2
+Rxa2 27. Be4 c6 28. Bxd5 cxd5 29. Nf1 Bh4 30. Ng3 g6 31. Kf1 Bxg3 32. fxg3
+Rd2 33. Ra1 c3 34. Ke1 Rxd4 35. Rc1 Rc4 0-1
+

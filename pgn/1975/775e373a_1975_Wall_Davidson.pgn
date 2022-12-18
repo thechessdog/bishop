@@ -1,0 +1,17 @@
+[Event "North Carolina"]
+[Site "North Carolina"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Davidson"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "775e373a"]
+[Epoch "Bishop"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+b5 9. O-O-O Bb7 10. Bd3 h6 11. Qh3 O-O 12. Bxh6 gxh6 13. e5 dxe5 14. fxe5 Nh7
+15. Kb1 Bg5 16. Nxe6 Qc8 17. Qf5 1-0

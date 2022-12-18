@@ -1,0 +1,18 @@
+[Event "Wch U20 fin-A"]
+[Site "The Hague"]
+[Date "1961.??.??"]
+[Round "7"]
+[White "Westerinen, Heikki M.J."]
+[Black "Thomson, Derec"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "130404dc"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nc3 Nbd7 6. Qc2 Be7 7. b3 O-O 8. Bd3
+c5 9. O-O cxd4 10. exd4 h6 11. Re1 Re8 12. cxd5 exd5 13. Nb5 Rf8 14. Bf4 Ne8
+15. Nc7 Bb4 16. Nxa8 1-0

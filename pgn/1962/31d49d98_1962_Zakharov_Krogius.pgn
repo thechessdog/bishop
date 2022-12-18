@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Zakharov"]
+[Black "Krogius"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "31d49d98"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. e3 Nbd7 5. Bd3 Bg6 6. f4 e6 7. f5 Bxf5 8.
+Bxf5 exf5 9. Nxd5 h6 10. Bxf6 Nxf6 11. Nxf6+ Qxf6 12. Qf3 O-O-O 13. O-O-O
+Qe6 14. Kb1 Bd6 15. Nh3 Rhe8 16. Rd3 Qe4 17. Nf2 Qxf3 18. gxf3 Be7 19. c4
+Bh4 20. Nd1 f4 21. e4 f5 22. Nc3 c5 23. d5 Bf6 24. exf5 Bxc3 25. Rxc3 Rf8
+26. Ra3 Kb8 27. Re1 Rd7 28. Re4 b6 29. Rxf4 g5 30. Re4 Rxf5 31. Rae3 Rdf7
+32. Re8+ Kc7 33. R3e7+ Rxe7 34. Rxe7+ Kc8 35. Rh7 Rxf3 36. Rxh6 Rf4 37. b3
+Rf2 38. h3 Rh2 39. Rh5 a6 40. a4 Kc7 41. Rxg5 Rxh3 42. Kc2 Rh2+ 43. Kd3
+Rh3+ 44. Ke4 Rxb3 45. Rg7+ Kd6 46. Rg6+ Kd7 47. a5 b5 48. cxb5 axb5 49. a6
+Ra3 50. a7 Ke7 51. d6+ 1-0
+

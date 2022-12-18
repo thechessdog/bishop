@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Cottarelli"]
+[Black "Primavera, Roberto"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "c10e0254"]
+[Epoch "Bishop"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. Nf3 d5 5. e3 O-O 6. c4 Be7 7. Bb2 c5 8. Be2
+Nc6 9. cxd5 Nxd5 10. O-O Bf6 11. d4 Bg4 12. Ne5 Bxe2 13. Qxe2 cxd4 14. Nxc6
+bxc6 15. Bxd4 Bxd4 16. exd4 Nf4 17. Qf3 Qxd4 18. Na3 Rfe8 19. Qxc6 Rac8 20. Qb7
+Qc5 21. Qf3 Qe5 0-1

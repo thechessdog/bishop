@@ -1,0 +1,20 @@
+[Event "Yalta"]
+[Site "Yalta"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Novopashin, Arkady"]
+[Black "Vorobetz"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "c49c2eaa"]
+[Epoch "Bishop"]
+[WhiteID "4103670"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Ne7 8. bxa5
+dxc3 9. Qxg7 Rg8 10. Qxh7 Nbc6 11. f4 Qxa5 12. Nf3 Bd7 13. Ng5 Rxg5 14. fxg5
+O-O-O 15. Bd3 Qc5 16. Qh4 Nxe5 17. Qb4 Qxb4 18. axb4 Nxd3+ 19. cxd3 Bb5 20. O-O
+Nc6 21. Rxf7 Bxd3 22. Rf3 Nxb4 23. Rxa7 Kc7 24. Ra4 d4 25. Rxb4 Be2 26. Rf7+
+Kc6 27. Rbxb7 1-0

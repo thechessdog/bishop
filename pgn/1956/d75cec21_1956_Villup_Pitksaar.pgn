@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Villup"]
+[Black "Pitksaar"]
+[Result "0-1"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "d75cec21"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. d4 Bd7 6. dxe5 dxe5 7. O-O Bd6
+8. c3 Nge7 9. Nbd2 b5 10. Bc2 Ng6 11. Nb3 O-O 12. Be3 Qe7 13. Qd5 Nf4 14.
+Bxf4 exf4 15. Rfe1 Ne5 16. Nxe5 Bxe5 17. Nc5 c6 18. Qxd7 Qxc5 19. Bb3 Rad8
+20. Bxf7+ Kh8 21. Qe6 Rd2 22. Rf1 Rxb2 23. Rad1 Bxc3 24. Rd3 Bf6 25. Rh3
+Qxf2+ 0-1
+

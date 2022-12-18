@@ -1,0 +1,21 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1975.01.01"]
+[Round "11"]
+[White "Bachmann, Karlheinz"]
+[Black "Langeweg, Kick"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "1bd10c1d"]
+[Epoch "Bishop"]
+[WhiteID "4602021"]
+[WhiteCountry "GER"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+
+1. Nf3 d5 2. b3 Bg4 3. Bb2 Nd7 4. g3 e6 5. Bg2 Ngf6 6. h3 Bh5 7. O-O Bd6 8. c4
+c6 9. d3 O-O 10. Qd2 Ne8 11. Nc3 f5 12. cxd5 Bxf3 13. exf3 exd5 14. f4 Qa5 15.
+Qe3 Nc7 16. Qd4 Rf7 17. Rfe1 Bc5 18. Qa4 Qb6 19. Re2 a5 20. d4 Bb4 21. a3 Bxc3
+22. Bxc3 Qa6 0-1

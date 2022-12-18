@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Tschater, B."]
+[Black "Kremper, H."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "c0f3093e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3
+Nxe4 8. O-O Bxc3 9. bxc3 O-O 10. d5 Nxc3 11. Qb3 Nxb5 12. Qxb5 a6 13. Qd3
+Nb4 14. Qc4 a5 15. a3 Na6 16. Bg5 f6 17. d6+ Kh8 18. Bf4 c6 19. Rfe1 b5 20.
+Qc3 c5 21. Re7 Nc7 22. Bh6 Nd5 23. Bxg7+ Kg8 24. Qxc5 Bb7 25. Bxf8 Qxf8 26.
+Rxd7 Rc8 27. Qxb5 Bc6 28. Qxa5 Bxd7 29. Qxd5+ Kh8 30. Nd4 Qh6 31. Nb3 Qg7
+32. Nc5 f5 33. Re1 Re8 34. Rxe8+ Bxe8 35. h3 Qh6 36. Qe5+ 1-0
+

@@ -1,0 +1,26 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Suetin, Alexey S"]
+[Black "Vaisser, Anatoly"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "abeda61c"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackID "603252"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. a4 Nbc6 8. Nf3
+Bd7 9. Be2 Qc7 10. O-O f6 11. exf6 gxf6 12. c4 O-O-O 13. c3 Rhg8 14. Kh1 dxc4
+15. Bxc4 Na5 16. Ba2 c4 17. Ba3 Bc6 18. Ne1 Nd5 19. Bb4 Rg6 20. Qd2 Nf4 21. f3
+Rd5 22. Bxa5 Rxa5 23. Bb1 f5 24. Bc2 Rd5 25. Be4 fxe4 26. fxe4 Nxg2 27. exd5
+Bxd5 28. Rf8+ Kd7 29. Nxg2 Rxg2 30. Qxg2 Qc6 31. Ra2 Bxg2+ 32. Rxg2 Qe4 33. Rf1
+Kd6 34. Rc1 h5 35. Rc2 Qe1+ 36. Rg1 Qe4+ 37. Rgg2 Qf3 38. h4 Qh3+ 39. Kg1 Qxh4
+40. Rce2 Qh3 41. Rg6 Qf5 42. Rg3 h4 43. Rge3 Qg4+ 44. Kh2 Kd7 45. Rf2 b6 46.
+Rfe2 a6 47. Kh1 Qf5 48. Kg2 Qg5+ 49. Kh3 Qf4 50. Kg2 Qf5 51. Kh2 b5 52. axb5
+axb5 53. Kg2 Qg4+ 54. Kh2 b4 55. cxb4 c3 56. Rf2 c2 57. Rc3 c1=Q 58. Rf7+ Ke8
+0-1

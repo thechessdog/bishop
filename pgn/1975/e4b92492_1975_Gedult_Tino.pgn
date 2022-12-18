@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Tino, P."]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "e4b92492"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. e4 Bxc3+ 6. bxc3 Nc6 7. Bd3 Ba6 8.
+Nf3 Na5 9. e5 Ng8 10. Be4 Rb8 11. Bxh7 Bxc4 12. Bxg8 Rxg8 13. Qh7 Rf8 14. Bg5
+Qc8 15. Qxg7 f6 16. exf6 Rf7 17. Qg8+ Rf8 18. f7# 1-0

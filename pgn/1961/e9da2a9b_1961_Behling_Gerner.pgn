@@ -1,0 +1,17 @@
+[Event "Minden"]
+[Site "Minden"]
+[Date "1961.01.01"]
+[Round "1"]
+[White "Behling"]
+[Black "Gerner, Paul"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "e9da2a9b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Qe7 5. Bc4 Nf6 6. d4 exd4 7. cxd4 Bb6 8. O-O
+Nxe4 9. Re1 f5 10. Be3 Nd7 11. Qa4 c6 12. d5 Bxe3+ 13. Rxe3 b5 14. Bxb5 cxb5
+15. Qxb5 O-O 16. Nbd2 Ndf6 17. Rc1 Qb7 18. Rb3 Qxd5 19. Nxe4 fxe4 20. Ng5 Qxb5
+21. Rxb5 h6 0-1

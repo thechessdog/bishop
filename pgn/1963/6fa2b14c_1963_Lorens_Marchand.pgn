@@ -1,0 +1,20 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Lorens"]
+[Black "Marchand"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "6fa2b14c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nc3 Qe7 7. Qd5
+Bxc3+ 8. bxc3 Qa3 9. Rc1 f6 10. exf6 Nxf6 11. Qd2 d6 12. Nd4 O-O 13. e4 Qc5
+14. f3 Ne5 15. Nb3 Qc6 16. Qd4 Re8 17. c5 Bd7 18. cxd6 cxd6 19. Na5 Qc7 20.
+Nc4 Nxc4 21. Bxc4+ Be6 22. Bxe6+ Rxe6 23. O-O Qc5 24. Rfd1 Qxd4+ 25. cxd4
+d5 26. e5 Ne8 27. Rc5 Rd8 28. Bg5 Rd7 29. Rc8 Kf8 30. Rdc1 h6 31. g4 Rc6
+32. R1xc6 bxc6 33. Bh4 Kf7 34. e6+ Kxe6 35. Rxe8+ Kf7 36. Rc8 1-0
+

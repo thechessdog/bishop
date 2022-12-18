@@ -1,0 +1,18 @@
+[Event "URS-ch sf"]
+[Site "Vilnius"]
+[Date "1949.01.01"]
+[Round "11"]
+[White "Podolny"]
+[Black "Sokolsky, Alexey"]
+[Result "0-1"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Capablanca variation"]
+[HashCode "acf7dc65"]
+[Epoch "Bishop"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Nbd2 O-O 7. O-O d5 8. a3
+Be7 9. Ne5 Nbd7 10. Nxd7 Qxd7 11. b3 c5 12. cxd5 Nxd5 13. Bb2 cxd4 14. Bxd4
+Rac8 15. Nc4 Rfd8 16. Bb2 Qe8 17. Qe1 Qb5 18. Nd2 Ba6 19. Rc1 Rxc1 20. Qxc1
+Qxe2 21. Re1 Nf4 22. gxf4 Qxd2 23. f5 Bc5 0-1

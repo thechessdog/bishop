@@ -1,0 +1,16 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1949.01.01"]
+[Round "1"]
+[White "Koblenz, A."]
+[Black "Randviir, Y."]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "c36488ac"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. h3 O-O 7. O-O c6 8.
+a4 Nxe4 9. Nxe4 d5 10. Bb3 dxe4 11. Nxe5 Nxe5 12. dxe5 Bf5 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Watzl"]
+[Black "Koch"]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "e1ed830f"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Nc6 9. Bg5 Na5 10. Bb3 b6 11. Qd2 Bb7 12. f3 Ba6 13. Rd1 Qd7 14. Kf2
+Bxe2 15. Qxe2 Nxb3 16. axb3 a5 17. Qd3 b5 18. Rd2 a4 19. bxa4 Rxa4 20. Rb1
+c6 21. d5 h6 22. Be3 Rc4 23. Rb3 Ra8 24. dxc6 Qxc6 25. Bd4 Rd8 26. Qb1
+Bxd4+ 27. cxd4 Qc7 28. h3 Rdxd4 29. Rdb2 Rc1 0-1
+

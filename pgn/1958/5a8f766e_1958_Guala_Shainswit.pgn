@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Guala"]
+[Black "Shainswit, George"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "5a8f766e"]
+[Epoch "Bishop"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. c4 dxe4 4. Nc3 Nf6 5. Bg5 Be7 6. f3 exf3 7. Nxf3 b6 8. Bd3
+Bb7 9. O-O Nbd7 10. Qc2 c5 11. d5 exd5 12. cxd5 O-O 13. d6 Bxd6 14. Bxh7+ Kh8
+15. Rad1 Qb8 16. Bf5 Bc6 17. Qf2 g6 18. Rxd6 Qxd6 19. Rd1 Qc7 20. Rxd7 Nxd7 21.
+Qh4+ Kg8 22. Bxd7 Bxf3 23. Nd5 1-0

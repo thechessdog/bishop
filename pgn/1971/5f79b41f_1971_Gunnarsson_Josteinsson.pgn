@@ -1,0 +1,19 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1971.??.??"]
+[Round "7"]
+[White "Gunnarsson, Gunnar K"]
+[Black "Josteinsson, Leifur"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "5f79b41f"]
+[Epoch "Bishop"]
+[WhiteID "2300354"]
+[WhiteCountry "ISL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Nc6 7. Bd3 b5 8. Qe2
+Bb4 9. O-O Nf6 10. a4 Nxd4 11. Bxd4 e5 12. Nd5 Nxd5 13. exd5 d6 14. axb5 O-O
+15. Bxe5 dxe5 16. Qe4 f5 17. Qxb4 Rb8 18. Rfe1 e4 19. Bc4 axb5 20. Bb3 Kh8 21.
+Qxf8# 1-0

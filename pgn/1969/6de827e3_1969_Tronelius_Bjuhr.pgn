@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Tronelius, Ivar"]
+[Black "Bjuhr, Arne"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "6de827e3"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd2 O-O 8.
+e5 Bxc3 9. Bxc3 Ne4 10. Bb4 d6 11. Nc2 Qb6 12. Qf3 Nc6 13. Qxe4 Nxb4 14.
+exd6 f5 15. Qe2 Qxd6 16. Rd1 Nxc2+ 17. Qxc2 Qc6 18. Qd3 b5 19. a3 bxc4 20.
+Qxc4 Qb6 21. b4 Bb7 22. Qd4 Qc7 23. Qe3 f4 24. Qc5 Qxc5 25. bxc5 Rf5 26.
+Bc4 Re5+ 27. Kd2 Bxg2 28. Rhg1 Bf3 29. Rc1 Rd8+ 30. Kc3 Rxc5 31. Kb4 Rc6
+32. Rc3 Be2 0-1
+

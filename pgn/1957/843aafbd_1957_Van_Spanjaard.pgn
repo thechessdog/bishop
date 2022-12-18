@@ -1,0 +1,19 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Van den Berg, Carel Benjamin"]
+[Black "Spanjaard"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto with ...Nc6"]
+[HashCode "843aafbd"]
+[Epoch "Bishop"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O Rb8 8. d5
+Na5 9. Nd2 c5 10. Qc2 e6 11. b3 exd5 12. cxd5 b5 13. Bb2 b4 14. Nd1 Ba6 15. Re1
+Nd7 16. Bxg7 Kxg7 17. Ne3 f5 18. a3 Rb5 19. Nec4 Nxc4 20. Nxc4 Nb8 21. e4 Rb7
+22. e5 Bxc4 23. Qxc4 bxa3 24. exd6 Nd7 25. Rxa3 Qf6 26. Ra6 f4 27. Qxf4 Qxf4
+28. gxf4 Rxf4 29. Rc6 Rxb3 30. Rc7 Rb2 31. Rxd7+ Kh6 32. Rf1 1-0

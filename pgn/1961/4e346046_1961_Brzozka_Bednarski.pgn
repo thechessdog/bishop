@@ -1,0 +1,19 @@
+[Event "Katowice ch18-POL"]
+[Site "Katowice ch18-POL"]
+[Date "1961.01.01"]
+[Round "2"]
+[White "Brzozka, Stefan"]
+[Black "Bednarski, Jacek B"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Ne2 e5 (Botvinnik)"]
+[HashCode "4e346046"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Ne2 d6 3. Nbc3 e5 4. g3 g6 5. Bg2 Bg7 6. d3 Nc6 7. Be3 Nge7 8. Qd2
+O-O 9. O-O Nd4 10. Nd1 d5 11. Nec3 Nxc2 12. Qxc2 d4 13. Bc1 dxc3 14. bxc3 Be6
+15. Ne3 Qa5 16. c4 Rfd8 17. Rb1 Qc7 18. Nd5 Bxd5 19. cxd5 Nc8 20. Be3 b6 21. f4
+Qe7 22. a4 Nd6 1/2-1/2

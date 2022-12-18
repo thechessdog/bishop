@@ -1,0 +1,14 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1951.01.01"]
+[Round "1"]
+[White "Truelsen, Ole Illum"]
+[Black "Nilesen, Peter"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[HashCode "e933e652"]
+[Epoch "Bishop"]
+
+1. b3 g5 2. Bb2 f6 3. e4 e5 4. Qh5+ Ke7 5. Bc4 Nh6 6. Bxe5 fxe5 7. Qxg5+ Ke8 8.
+Qh5+ Ke7 9. Qxe5# 1-0

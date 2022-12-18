@@ -1,0 +1,17 @@
+[Event "Massachusetts"]
+[Site "Massachusetts"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Ault, R."]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "47d56fc1"]
+[Epoch "Bishop"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. d3 Nc6 6. c3 O-O 7. Qe2 Re8 8. f5 d5
+9. Bb3 Bxf5 10. exf5 e4 11. Kd1 exf3 12. Qxf3 Ne5 13. Qg3 Neg4 0-1

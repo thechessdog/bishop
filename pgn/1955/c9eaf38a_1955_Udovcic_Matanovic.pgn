@@ -1,0 +1,25 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1955.01.01"]
+[Round "6"]
+[White "Udovcic, Mijo"]
+[Black "Matanovic, Aleksandar"]
+[Result "0-1"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "c9eaf38a"]
+[Epoch "Bishop"]
+[BlackID "900230"]
+[BlackCountry "SRB"]
+[WhiteCountry "HRV"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 O-O 7. O-O d5 8. cxd5
+exd5 9. a3 Bxc3 10. bxc3 Ba6 11. Bxa6 Nxa6 12. Ne5 c5 13. a4 Nc7 14. f3 Ne6 15.
+Bd2 Rc8 16. Qe2 Nd7 17. Ng4 Re8 18. Qd3 Nb8 19. Rad1 Nc6 20. Qf5 Ne7 21. Qh5 f5
+22. Ne5 g6 23. Qh6 Nc6 24. g4 Nxe5 25. dxe5 fxg4 26. f4 Ng7 27. h4 Qd7 28. Bc1
+g3 29. Kg2 Qxa4 30. Qg5 Nf5 31. Kh3 Qe4 32. Rg1 Rc6 33. Rg2 a5 34. Rdg1 b5 35.
+h5 Kh8 36. c4 bxc4 37. Bb2 d4 38. h6 Nxe3 39. Rxg3 Qf5+ 40. Kh4 Qxg5+ 41. Kxg5
+c3 42. Rxe3 cxb2 43. Rb3 c4 44. Rxb2 c3 45. Rb7 d3 46. Rd7 c2 47. Rc1 Rc3 48.
+f5 gxf5 49. e6 a4 50. Kf6 Rc6 51. Rxd3 Rcxe6+ 52. Kxf5 Rc6 53. Ra3 Rc4 54. Kf6
+Ra8 55. Ke6 Rd8 56. Ra2 Rd2 0-1

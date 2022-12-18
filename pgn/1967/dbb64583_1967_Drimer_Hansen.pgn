@@ -1,0 +1,17 @@
+[Event "Whitby"]
+[Site "Whitby"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Drimer, Dolfi"]
+[Black "Hansen, Bjarne"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, 6...Ne7"]
+[HashCode "dbb64583"]
+[Epoch "Bishop"]
+[WhiteCountry "ROU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Nbc6 8. h5
+h6 9. Qg4 Nf5 10. Bd3 Nce7 11. Nf3 Qc7 12. Bd2 Bd7 13. Qf4 cxd4 14. cxd4 Nc6
+15. Bxf5 exf5 16. e6 1-0

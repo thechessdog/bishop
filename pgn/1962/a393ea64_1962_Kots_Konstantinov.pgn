@@ -1,0 +1,19 @@
+[Event "URS-ch30 sf"]
+[Site "Novosibirsk"]
+[Date "1962.01.01"]
+[Round "2"]
+[White "Kots, Yury Isakovich"]
+[Black "Konstantinov, Alexander I"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "a393ea64"]
+[Epoch "Bishop"]
+[WhiteCountry "UKR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Bxf3 9. Qxf3 Qf6 10. Qc3 Nxd4 11. Qxc7 Ne7 12. Nc3 Rd8 13. f4 Rd7 14. Qc8+ Rd8
+15. Qb7 Rd7 16. Qa8+ Rd8 17. Qxa6 d5 18. Qxf6 gxf6 19. fxe5 fxe5 20. Bg5 Rc8
+21. Nxd5 Nxd5 22. Bxd5 Rxc2 23. Bxf7+ Kd7 24. Bf6 Rh7 25. Bxe5 Bc5 26. Rad1
+Rxf7 27. Rxf7+ Ke6 28. Bxd4 1-0

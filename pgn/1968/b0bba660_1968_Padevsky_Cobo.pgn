@@ -1,0 +1,22 @@
+[Event "Lugano olm"]
+[Site "Lugano olm"]
+[Date "1968.10.01"]
+[Round "1"]
+[White "Padevsky, Nikola"]
+[Black "Cobo, E."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "b0bba660"]
+[Epoch "Bishop"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 h6 6. Bxf6 Qxf6 7. Rc1 O-O 8. e3
+exd5 9. cxd5 d6 10. Nf3 Bg4 11. Be2 Nd7 12. O-O Bxf3 13. Bxf3 Bxc3 14. bxc3 b5
+15. Qb3 Rfb8 16. e4 a5 17. Rb1 b4 18. c4 a4 19. Qc2 Re8 20. Rfe1 Nb6 21. Re3 a3
+22. Be2 Na4 23. Bf1 Re7 24. g3 Qd4 25. Kg2 Kh8 26. h4 Nc3 27. Rbe1 Rae8 28. Bd3
+f5 29. f3 fxe4 30. fxe4 Rf8 31. e5 Rxe5 32. Rxe5 dxe5 33. Bg6 e4 34. Bxe4 Re8
+35. Kf3 b3 0-1

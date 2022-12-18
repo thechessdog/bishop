@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Kapengut, Albert Z"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "6fcb3848"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackID "13500058"]
+[BlackCountry "USA"]
+
+1. b3 e5 2. Bb2 d6 3. e3 Nd7 4. f4 Be7 5. Nc3 exf4 6. exf4 Bf6 7. Qf3 Ne7 8.
+O-O-O O-O 9. g4 Nc6 10. g5 Bd4 11. Nge2 Bb6 12. h4 f5 13. h5 d5 14. Qd3 Bc5 15.
+h6 g6 16. a3 Qe7 17. b4 Bxb4 18. axb4 Nxb4 19. Qd4 c5 20. Qh8+ Kxh8 21. Nxd5+
+Kg8 22. Nxe7+ Kf7 23. Nxc8 1-0

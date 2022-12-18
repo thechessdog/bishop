@@ -1,0 +1,19 @@
+[Event "URS-ch sf"]
+[Site "Moscow"]
+[Date "1955.01.01"]
+[Round "1"]
+[White "Krogius, Nikolai V"]
+[Black "Antoshin, Vladimir S"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "42ad7341"]
+[Epoch "Bishop"]
+[WhiteID "4100565"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 b6 7. O-O Bb7 8. cxd5
+exd5 9. Ne5 a6 10. a3 Bd6 11. b4 Nbd7 12. f4 Ne4 13. Nxe4 dxe4 14. Bc4 b5 15.
+Nxd7 Qxd7 16. Be2 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Norman Hansen, Holger"]
+[Black "Lindroos"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "e229df5b"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. O-O d6 8.
+h3 h6 9. Nf3 Qe8 10. Bxc6 bxc6 11. d4 exd4 12. Nxd4 Ba6 13. Re1 Kd7 14. e5 Bxd4
+15. exf6 Bxf2+ 16. Kxf2 Rxf6+ 17. Kg1 Qf7 18. Qg4+ Rf5 19. Nd2 h5 20. Qg3 Rf8
+21. Nf3 c5 22. Bg5 1-0

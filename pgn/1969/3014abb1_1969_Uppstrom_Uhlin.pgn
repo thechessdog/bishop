@@ -1,0 +1,18 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Uppstrom"]
+[Black "Uhlin, Eric"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "3014abb1"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 a6 9. Rd1 Qc7 10. Bg5 Be7 11. Rac1 O-O 12. Bb3 Bd7 13. Bh4 Rae8 14.
+Bc2 e5 15. Nd5 Qd8 16. Nxe7+ Qxe7 17. Qd3 Bg4 18. Qxd6 Bxf3 19. Bxf6 Qxf6
+20. Qxf6 gxf6 21. gxf3 Nd4 22. Bd3 Rc8 23. Kg2 Rfd8 24. Bc4 1/2-1/2
+

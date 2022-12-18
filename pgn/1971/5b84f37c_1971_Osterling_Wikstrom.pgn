@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Osterling, G."]
+[Black "Wikstrom, B."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "5b84f37c"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 cxd4 6. Qxd4 dxe4 7. Qxd8+
+Kxd8 8. O-O-O+ Bd7 9. Nxe4 Kc7 10. Nf3 a6 11. Bc4 Be8 12. Nd4 Nc6 13. Nxc6
+Bxc6 14. Rhe1 Bh6+ 15. Kb1 f5 16. Nc3 e6 17. f3 Rhg8 18. Bf1 Rad8 19. Rxd8
+Rxd8 20. Rd1 Rxd1+ 21. Nxd1 Bf4 22. h3 Kd6 23. c3 e5 24. Kc2 e4 25. Be2 Ke5
+26. c4 Bg5 27. b4 Ba4+ 28. Kc3 Bh4 29. Ne3 Be1+ 30. Kb2 Kf4 31. Nd5+ Kg3
+32. fxe4 fxe4 33. Bg4 Bd2 34. Nf6 e3 35. Bf3 Bc6 36. Kc2 Bxf3 37. gxf3 Bxb4
+38. Kd3 Kxf3 39. Ng4 e2 0-1
+

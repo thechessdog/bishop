@@ -1,0 +1,15 @@
+[Event "Indianapolis"]
+[Site "Indianapolis"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Lutes, W."]
+[Black "Hartenstein, R."]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "fe81868f"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 f5 6. Qh5+ g6 7. Qe2 Nf6
+8. exf5+ 1-0
+

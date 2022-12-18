@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Eropov, Ivan"]
+[Black "Karner, Hillar"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "ec7d92ae"]
+[Epoch "Bishop"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. Ng5 Nb6 8. Bd3
+Nc6 9. d5 Nb4 10. e6 Nxd3+ 11. Qxd3 fxe6 12. dxe6 Qe8 13. Qh3 h6 14. Nf7 Rxf7
+15. exf7+ Qxf7 16. Qf3 d5 17. O-O Bf5 18. Qe2 d4 19. Ne4 Qc4 20. Re1 Rd8 21.
+Qd3 Qc6 22. b3 Nd5 23. Bd2 Nf6 24. Nxf6+ Bxf6 25. Qc4+ Qxc4 26. bxc4 Bxc2 27.
+Rac1 d3 28. Re4 c5 29. Rce1 Kf7 30. Kf2 a6 31. g3 b5 32. Kf1 b4 33. Re6 Rd6 34.
+R6e4 a5 35. Kf2 a4 0-1

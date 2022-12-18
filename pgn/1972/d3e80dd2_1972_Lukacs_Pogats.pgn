@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Lukacs, Peter"]
+[Black "Pogats, Jozsef Jr."]
+[Result "1/2-1/2"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "d3e80dd2"]
+[Epoch "Bishop"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackID "744450"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O c6 7. Qc2 Nbd7 8. b3
+Ne4 9. Bb2 f5 10. Nbd2 Qe8 11. Ne5 Nxe5 12. dxe5 b6 13. Nxe4 dxe4 14. f3 exf3
+15. exf3 Bb7 16. f4 Qc8 17. Rad1 Qc7 18. Rd3 Rad8 19. Rfd1 Rxd3 20. Rxd3 Rd8
+21. Rxd8+ Qxd8 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Gunderam, Gerhard"]
+[Black "Gabrans, Harijs"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Rousseau gambit"]
+[HashCode "8f09d254"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nc6 4. d4 Qe7 5. O-O d6 6. Nc3 Nf6 7. Bg5 h6 8. Nd5
+Qd8 9. Bxf6 gxf6 10. Nxe5 dxe5 11. Qh5+ Kd7 12. Qf7+ Ne7 13. dxe5 Kc6 14. Rad1
+Nxd5 15. Bxd5+ Kb6 16. Bxb7 Qe7 17. Qb3+ Qb4 18. Bxa8 Qxb3 19. axb3 Bc5 20. Bd5
+fxe5 21. exf5 Bxf5 22. Rfe1 1-0

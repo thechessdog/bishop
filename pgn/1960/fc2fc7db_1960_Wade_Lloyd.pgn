@@ -1,0 +1,17 @@
+[Event "Bognor"]
+[Site "Bognor"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Wade, Robert Graham"]
+[Black "Lloyd, A."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "fc2fc7db"]
+[Epoch "Bishop"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Kf8 8. Nf3
+Qa5 9. Bd2 Qa4 10. Ra2 b6 11. h4 Ba6 12. Bxa6 Qxa6 13. h5 h6 14. Rh3 Qc4 15.
+Rb2 Nbc6 16. Nh4 cxd4 17. Ng6+ Nxg6 18. hxg6 dxc3 19. Qxc4 cxd2+ 0-1

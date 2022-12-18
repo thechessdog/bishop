@@ -1,0 +1,18 @@
+[Event "Munich olm fin-B"]
+[Site "Munchen olm"]
+[Date "1958.01.01"]
+[Round "10"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Sliwa, Bogdan"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "0fe405c3"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+[WhiteCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. c3 Qf6 7. d3 Ne7 8. h3 h5
+9. Be3 Ng6 10. hxg4 hxg4 11. Bg5 Qe6 12. Bb3 Qd7 13. Nh2 Be7 14. Be3 Nf4 15. d4
+Bg5 16. Bxf4 Bxf4 17. g3 Bg5 18. d5 Na5 19. Qxg4 1-0

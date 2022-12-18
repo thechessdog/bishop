@@ -1,0 +1,25 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Boehm, Hermann"]
+[Black "Vujacic, Borivoje"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "fe7e86d4"]
+[Epoch "Bishop"]
+[WhiteID "1603019"]
+[BlackID "903000"]
+[WhiteCountry "AUT"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. Bxf6 Bxf6 6. e4 O-O 7. exd5 Qxd5
+8. Bc4 Qd6 9. O-O Bf5 10. c3 Nd7 11. Re1 Nb6 12. Bb3 c5 13. dxc5 Qxc5 14. Qe2
+a5 15. a4 Nc8 16. Ne4 Bxe4 17. Qxe4 Nd6 18. Qe3 Qxe3 19. Rxe3 Ra6 20. Rb1 Rb6
+21. Ba2 Rc8 22. Ne5 Rc7 23. g3 e6 24. Re2 Kf8 25. Ng4 Kg7 26. Ne3 Ne4 27. Rc1
+Nc5 28. Nc4 Ra6 29. b3 Ra8 30. Rcc2 Rd7 31. Kg2 Rd3 32. Re3 Rxe3 33. Nxe3 Ne4
+34. Ng4 Rc8 35. Nxf6 Kxf6 36. c4 Rd8 37. c5 Rd2 38. Rxd2 Nxd2 39. f3 Ke5 40.
+Kf2 Kd4 41. Ke2 Kc3 42. b4 axb4 43. a5 b3 44. a6 bxa2 45. axb7 a1=Q 46. b8=Q
+Qf1+ 0-1

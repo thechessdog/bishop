@@ -1,0 +1,19 @@
+[Event "Capablanca Memorial"]
+[Site "Havana"]
+[Date "1968.01.01"]
+[Round "1"]
+[White "Cobo Arteaga, Eldis"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "4f21a630"]
+[Epoch "Bishop"]
+[BlackID "3500179"]
+[BlackCountry "CUB"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Bd7 9. a3 Bxc3 10. bxc3 Bc6 11. Ne5 Bd5 12. Bd3 Be4 13. f3 Bxd3 14. Qxd3 Nbd7
+15. Nxd7 Qxd7 16. e4 cxd4 17. cxd4 Rfd8 18. Rd1 h6 19. Bb2 1/2-1/2

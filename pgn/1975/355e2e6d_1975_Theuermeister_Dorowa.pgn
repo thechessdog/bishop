@@ -1,0 +1,22 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Theuermeister"]
+[Black "Dorowa"]
+[Result "0-1"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation"]
+[HashCode "355e2e6d"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Bxf6
+gxf6 8. Nf5 Qa5 9. Qd5 Qb6 10. Qd2 e6 11. Nxd6+ Bxd6 12. O-O-O Be5 13.
+Qxd7+ Kf8 14. Qd2 Nb4 15. Bc4 Qc7 16. Qe2 Rc8 17. Bb3 Bxc3 18. bxc3 Qxc3
+19. Kb1 a5 20. Rd7 Qc6 21. Rhd1 h5 22. a4 Na6 23. f3 Nc5 24. R1d6 Nxd7 25.
+Rxc6 bxc6 26. f4 Ke7 27. Kb2 Rb8 28. Ka3 Rb6 29. g3 h4 30. gxh4 Rxh4 31.
+Qf2 Rh3 32. f5 Rb4 33. fxe6 fxe6 34. Qg2 Re3 35. Qg7+ Kd6 36. h4 c5 37. Qg1
+Rbxe4 38. Qh2+ Ke7 39. h5 c4 40. h6 cxb3 41. cxb3 Rb4 42. h7 Rbxb3+ 43. Ka2
+Ra3+ 44. Kb2 Reb3+ 0-1
+

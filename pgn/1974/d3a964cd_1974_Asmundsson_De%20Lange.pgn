@@ -1,0 +1,17 @@
+[Event "Eckernforde"]
+[Site "Eckernforde"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Asmundsson, Ingvar"]
+[Black "De Lange, Daan"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "d3a964cd"]
+[Epoch "Bishop"]
+[WhiteCountry "ISL"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Qc7 12. O-O-O Ngf6 13. Rhe1 O-O-O 14. Qe2
+Bd6 15. Ne5 Rhf8 16. Kb1 Kb8 17. a3 c5 1/2-1/2

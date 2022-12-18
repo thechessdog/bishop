@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1974.01.01"]
+[Round "1"]
+[White "Olafsson, Fridrik"]
+[Black "Kaiszauri, Konstanty"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "ad71f320"]
+[Epoch "Bishop"]
+[WhiteID "2300052"]
+[WhiteCountry "ISL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. f4 h6 6. Bh4 c5 7. e5 Nh5 8. dxc5
+Nxf4 9. exd6 g5 10. Bf2 Nc6 11. Qd2 exd6 12. cxd6 O-O 13. O-O-O Qa5 14. g3 Nb4
+15. Bc4 Be6 16. Bd4 Bxc4 17. Bxg7 Bxa2 18. Bxf8 Bb3 19. cxb3 Qa1+ 20. Nb1 Rc8+
+21. Qc3 Rxc3+ 0-1

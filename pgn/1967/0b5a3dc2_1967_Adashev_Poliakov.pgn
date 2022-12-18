@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.01.01"]
+[Round "1"]
+[White "Adashev"]
+[Black "Poliakov"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "0b5a3dc2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Nf6 7. O-O Nc6
+8. Be3 Be7 9. f4 d6 10. Bf3 Bd7 11. Kh1 Nxd4 12. Bxd4 e5 13. Be3 Bc6 14.
+Qe1 O-O 15. Qg3 Kh8 16. Rad1 b5 17. Rd2 b4 18. Nd5 Bxd5 19. exd5 e4 20. Be2
+Qb7 21. Bd4 Rg8 22. Qe3 Rae8 23. Bc4 a5 24. a3 Bd8 25. h3 Nd7 26. axb4 axb4
+27. Ra1 Bb6 28. b3 Bxd4 29. Qxd4 Nc5 30. Re2 Ra8 31. Ree1 Rge8 32. Qd2 h6
+33. Kh2 Rxa1 34. Rxa1 e3 35. Qe1 Qb6 36. c3 bxc3 37. Qxc3 Ne4 38. Qe1 Nd2
+39. Rc1 Qd4 40. Qg3 e2 41. Bd3 Nxb3 42. Rb1 Nd2 43. Re1 Nf1+ 44. Rxf1
+exf1=N+ 45. Bxf1 Qxd5 46. Qg4 Qe6 47. Qd1 Qf6 48. g3 Qb2+ 49. Bg2 Re2 50.
+Qd5 g6 51. h4 Kg7 52. Kh3 h5 53. f5 Rxg2 54. f6+ Kxf6 0-1
+

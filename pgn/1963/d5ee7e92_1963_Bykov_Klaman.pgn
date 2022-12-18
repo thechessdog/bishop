@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1963.01.01"]
+[Round "1"]
+[White "Bykov, Valery"]
+[Black "Klaman, Konstantin"]
+[Result "1-0"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "d5ee7e92"]
+[Epoch "Bishop"]
+[WhiteID "4105460"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Rc8 8.
+O-O-O Nxd4 9. Qxd4 Qa5 10. f4 Qc5 11. e5 Qxd4 12. Rxd4 dxe5 13. fxe5 Rc5 14.
+Bb5 Bxb5 15. Rhd1 Nd5 16. Nxd5 f6 17. e6 Kd8 18. Bf4 1-0

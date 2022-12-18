@@ -1,0 +1,22 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1969.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Scholl, Eddie C"]
+[Result "1-0"]
+[ECO "C93"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Smyslov defence"]
+[HashCode "9713b015"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "1000390"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 h6 10. d3 Na5 11. Bc2 c5 12. Nbd2 Re8 13. Nf1 Nc6 14. N3h2 d5 15.
+exd5 Nxd5 16. Qf3 Bg5 17. Bb3 Be6 18. Bxg5 hxg5 19. Ng4 Qd6 20. Ng3 Nf4 21. Ne4
+Qe7 22. Bxe6 Nxe6 23. Nef6+ gxf6 24. Qxc6 Rec8 25. Qf3 Kg7 26. Ne3 Qd8 27. Nf5+
+Kf8 28. d4 cxd4 29. Rad1 Rc4 30. Qh5 Ke8 31. cxd4 1-0

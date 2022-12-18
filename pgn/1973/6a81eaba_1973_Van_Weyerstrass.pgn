@@ -1,0 +1,18 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Van Dieren"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "6a81eaba"]
+[Epoch "Bishop"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3
+h5 9. Qh3 Nc6 10. g4 Nfe7 11. Nf3 Qc7 12. Rg1 cxd4 13. cxd4 Nxd4 14. Nxd4 Qc3+
+15. Kd1 Qxd4 16. Rb1 Qxe5 17. f4 Qd6 18. gxh5 g6 19. h6 e5 20. Bb5+ Kf8 21. Qc3
+d4 22. Qf3 Nd5 23. fxe5 Qxe5 24. Bd2 Nc3+ 25. Bxc3 dxc3 26. Re1 Qd5+ 27. Kc1
+Qd2# 0-1

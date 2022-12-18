@@ -1,0 +1,18 @@
+[Event "Beverwijk-C"]
+[Site "Beverwijk-C"]
+[Date "1956.01.01"]
+[Round "1"]
+[White "Moran"]
+[Black "Martin, G."]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "34abcdd2"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nc6 10. Nxc6 Qxc6 11. Be2 h6 12. Bh4 Bd7 13. Bf2 Rc8 14. Rd2 b5
+15. a3 Qc7 16. Qe3 Bc6 17. Bf3 a5 18. e5 dxe5 19. fxe5 Nd7 20. Bxc6 Qxc6 21. h4
+b4 22. axb4 axb4 23. Nb1 O-O 24. Rg1 Nc5 25. Re2 Rfd8 26. Rd1 Rxd1+ 27. Kxd1
+Qxg2 28. Be1 Qd5+ 29. Bd2 Qa2 0-1

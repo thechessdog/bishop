@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Stein, Leonid"]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "6ccb54f3"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+[BlackCountry "LVA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Qc7 8.
+Bf4 Ne7 9. Bd3 Ng6 10. Bxg6 hxg6 11. Ne4 Bb7 12. Nd6+ Bxd6 13. Qxd6 Qxd6 14.
+exd6 1/2-1/2

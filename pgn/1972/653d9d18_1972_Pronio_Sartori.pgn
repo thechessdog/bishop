@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1972.01.01"]
+[Round "1"]
+[White "Pronio"]
+[Black "Sartori"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...d6, 8.d4"]
+[HashCode "653d9d18"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 Be7 7. d4 b5 8.
+Bb3 Nxd4 9. Nxd4 exd4 10. a4 b4 11. Qxd4 c5 12. Qd3 Qc7 13. Qf3 Bb7 14. Bd5
+Nxd5 15. exd5 O-O 16. b3 Bf6 17. c3 Rfe8 18. Be3 bxc3 19. Na3 Re5 20. Rad1
+Rae8 21. Nc2 Qc8 22. Bf4 Rxe1+ 23. Nxe1 c4 24. b4 Qd7 25. a5 Qa4 0-1
+

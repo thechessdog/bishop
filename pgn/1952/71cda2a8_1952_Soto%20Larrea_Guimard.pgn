@@ -1,0 +1,23 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1952.01.01"]
+[Round "1"]
+[White "Soto Larrea, M."]
+[Black "Guimard, Carlos E"]
+[Result "0-1"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Riumin variation"]
+[HashCode "71cda2a8"]
+[Epoch "Bishop"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 e6 5. c4 Bb4+ 6. Bd2 Be7 7. Nc3 d5 8. O-O
+O-O 9. Ne5 c6 10. cxd5 cxd5 11. Rc1 Nfd7 12. e4 dxe4 13. Nxe4 Bd5 14. Nc3 Bxg2
+15. Kxg2 Nxe5 16. dxe5 Nc6 17. f4 Rc8 18. Be3 Nb4 19. Qf3 Rc7 20. Rfd1 Rd7 21.
+Rxd7 Qxd7 22. Rd1 Qc8 23. a3 Nc2 24. Bf2 Bc5 25. Rd2 Bxf2 26. Rxc2 Bd4 27. Qe4
+Bxc3 28. Rxc3 Qd7 29. Rd3 Qb5 30. Rd2 a6 31. a4 Qc5 32. Rd7 g6 33. Kh3 b5 34.
+b3 h5 35. axb5 Qxb5 36. Qd3 Rb8 37. Qxb5 Rxb5 38. Rd3 Kg7 39. g4 Rb4 40. Rf3 f6
+41. exf6+ Kxf6 42. gxh5 gxh5 43. Kg2 Kf5 44. Rh3 h4 45. Rxh4 Rxb3 46. Rh5+ Kxf4
+47. Rh4+ Kf5 48. Ra4 Rb6 49. Kf3 e5 50. Rh4 Rb3+ 51. Ke2 Ra3 52. Rh8 a5 53. h4
+Kf4 54. Rf8+ Ke4 55. h5 Ra2+ 56. Kd1 0-1

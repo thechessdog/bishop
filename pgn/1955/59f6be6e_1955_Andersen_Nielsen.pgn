@@ -1,0 +1,26 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1955.01.01"]
+[Round "6"]
+[White "Andersen, Borge"]
+[Black "Nielsen, Axel"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "59f6be6e"]
+[Epoch "Bishop"]
+[BlackID "1421905"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. a3 Bxc3+ 7. Qxc3 a5 8. b3
+Qe7 9. Bb2 O-O 10. g3 Ne4 11. Qc2 f5 12. Bg2 e5 13. O-O Bd7 14. Rfd1 Rae8 15.
+c5 Nf6 16. cxd6 cxd6 17. d5 Nb8 18. Nd2 Rc8 19. Bc3 Na6 20. Nc4 Rc5 21. Qb2 Bb5
+22. Nxa5 Rfc8 23. Rac1 Qc7 24. a4 Rxc3 25. Rxc3 Qxc3 26. Qxc3 Rxc3 27. axb5 Nc7
+28. b6 Nce8 29. b4 Nd7 30. Nxb7 Nxb6 31. Rb1 Kf8 32. e4 fxe4 33. Bxe4 g6 34. b5
+Ke7 35. Na5 Nf6 36. f3 Kd7 37. g4 g5 38. Nc6 Kc7 39. Ra1 Nbxd5 40. Bxd5 Nxd5
+41. Ra7+ Kb6 42. Rxh7 Kxb5 43. Nd8 Rxf3 44. Nf7 Kc6 45. Nxg5 Rf4 46. h3 e4 47.
+Ne6 Rf6 48. Nd8+ Kc5 49. g5 Rf5 50. h4 e3 51. Nb7+ Kc6 52. Nd8+ Kc5 53. Nb7+
+Kb6 54. Nxd6 e2 55. Rb7+ Kc6 56. Rb1 Kxd6 57. g6 Ke6 58. Re1 Nf4 59. h5 Rxh5
+60. Ra1 Re5 61. g7 Kf7 0-1

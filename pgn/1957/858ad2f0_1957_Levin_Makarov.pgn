@@ -1,0 +1,18 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1957.01.01"]
+[Round "1"]
+[White "Levin"]
+[Black "Makarov"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "858ad2f0"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 b5 7. Bg2 Bb7 8.
+O-O b4 9. Na4 Nf6 10. Re1 Be7 11. e5 Nd5 12. Nf5 exf5 13. Bxd5 a5 14. Bf4
+g5 15. e6 gxf4 16. exf7+ Kd8 17. Qd4 Rf8 18. Rxe7 Bxd5 19. Re8+ Rxe8 20.
+Qf6+ 1-0
+

@@ -1,0 +1,22 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Golz, Werner"]
+[Black "Szabo, Laszlo"]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "c6740e0e"]
+[Epoch "Bishop"]
+[WhiteCountry "DEU"]
+[BlackID "710741"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8. g3
+Nbd7 9. Bg2 Nb6 10. Qd3 a5 11. a4 Ne8 12. O-O c6 13. b3 Nd6 14. f3 f5 15. Ba3
+Nf7 16. Bb2 Re8 17. Rad1 Bg5 18. e4 fxe4 19. fxe4 Bg4 20. e5 Qd7 21. Ba3 Be7
+22. Rxf7 Kxf7 23. Qxh7 Qf5 24. Rf1 Qxf1+ 25. Bxf1 Rh8 26. Qc2 Bxa3 27. Nf4 Rh6
+28. Be2 Bxe2 29. Qf5+ Kg8 30. Ncxe2 Nc8 31. Qd7 Ne7 32. Ne6 b5 33. axb5 cxb5
+34. Nc3 a4 35. bxa4 bxa4 36. Nxd5 Nf5 37. Ne3 Ne7 38. Nc2 1-0

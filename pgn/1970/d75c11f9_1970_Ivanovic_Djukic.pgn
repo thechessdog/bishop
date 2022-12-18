@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Ivanovic, Bozidar"]
+[Black "Djukic, Zeljko"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "d75c11f9"]
+[Epoch "Bishop"]
+[BlackID "900737"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Bc4
+O-O 9. Qd2 Bd7 10. h4 Qa5 11. Bb3 Ne5 12. g4 Rfc8 13. O-O-O Nc4 14. Bxc4 Rxc4
+15. Nb3 Qd8 16. h5 Be6 17. Qh2 Qc8 18. hxg6 hxg6 19. Bh6 Qf8 20. Bg5 Qc8 21.
+Rd3 a6 22. Qh4 b5 23. Nd2 b4 24. e5 dxe5 25. Nde4 Bxg4 26. fxg4 Qxg4 27. Nxf6+
+exf6 28. Qh7+ Kf8 29. Bh6 bxc3 30. Qxg7+ Ke7 31. b3 Rc6 32. Rhd1 Re8 1-0

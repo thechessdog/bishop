@@ -1,0 +1,20 @@
+[Event "Bamberg"]
+[Site "Bamberg"]
+[Date "1968.04.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Kestler, Hans-Guenther"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "01857f5e"]
+[Epoch "Bishop"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "4601076"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bc4 e6
+8. O-O Be7 9. Qe2 O-O 10. Bf4 Qb6 11. c3 c5 12. Rad1 Bd7 13. Ne5 Bc6 14. Nxf7
+Rxf7 15. Qxe6 1-0

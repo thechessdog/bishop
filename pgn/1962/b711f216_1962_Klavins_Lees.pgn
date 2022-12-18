@@ -1,0 +1,17 @@
+[Event "Hartford,CT"]
+[Site "Hartford,CT"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Klavins, Arvids"]
+[Black "Lees, David"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld with e3    Bd3"]
+[HashCode "b711f216"]
+[Epoch "Bishop"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 a6 8. O-O
+b5 9. Be2 Bb7 10. b3 Nbd7 11. Bb2 c5 12. dxc5 Nxc5 13. Qc2 Qb6 14. Rfd1 Rac8
+15. Rac1 Nce4 16. Qb1 Nxf2 17. Kxf2 Ng4+ 18. Kg3 Qxe3 19. Kxg4 Rc4+ 20. bxc4
+Bc8+ 21. Kh4 Qf4+ 0-1

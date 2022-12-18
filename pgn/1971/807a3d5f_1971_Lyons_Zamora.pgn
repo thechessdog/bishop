@@ -1,0 +1,18 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Lyons, D."]
+[Black "Zamora, Jorge"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "807a3d5f"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Nxd4 Bb4+ 6. Nc3 Bxc3+ 7. bxc3
+Nf6 8. e5 Qe7 9. f4 O-O 10. Bxc4 Rd8 11. O-O Ng4 12. h3 Nh6 13. Qc2 Bf5 14.
+Nxf5 Nxf5 15. Rd1 Rxd1+ 16. Qxd1 Nc6 17. Kh2 Rd8 18. Qc2 Nxe5 19. fxe5
+Qxe5+ 20. Kg1 Qe1+ 21. Kh2 Qg3+ 22. Kg1 Nh4 23. Qe2 Rd1+ 24. Qf1 Qxg2# 0-1
+

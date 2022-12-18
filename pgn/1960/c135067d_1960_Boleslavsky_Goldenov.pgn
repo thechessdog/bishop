@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1960.01.01"]
+[Round "1"]
+[White "Boleslavsky, Isaac"]
+[Black "Goldenov, Boris"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "c135067d"]
+[Epoch "Bishop"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Bg5 Bg7 8. Nd2
+h6 9. Bh4 O-O 10. e3 Na6 11. Be2 Nc7 12. O-O b5 13. Bxb5 Nxb5 14. Nxb5 Ba6 15.
+a4 Qd7 16. Nc4 g5 17. Bg3 Ne4 18. f3 Nxg3 19. hxg3 Bxb5 20. axb5 Qxb5 21. Qa4
+Qb7 22. Rfd1 Rfd8 23. g4 Qe7 24. Qc2 Rab8 25. Ra3 Be5 26. Kf2 Kg7 27. b3 Rd7
+28. Qf5 Bf6 29. Rd3 Rb4 30. Ra6 Rxc4 31. bxc4 Rb7 32. Ra2 Rb4 33. Rda3 Rb7 34.
+Qc2 Qc7 35. Ra4 Qb8 36. Ra6 Qc7 37. R6a3 Qb8 38. g3 Be5 39. f4 Bf6 40. Kf3 Bb2
+41. Rxa7 Rxa7 42. Qxb2+ Qxb2 43. Rxb2 Kf6 44. Rb8 Ra4 45. Rb7 Rxc4 46. Rd7 Rc1
+47. Rxd6+ Kg7 48. Rc6 c4 49. Ke4 c3 50. Ke5 c2 51. e4 Kf8 52. Kf6 Ke8 53. f5
+Re1 54. Rc8+ Kd7 55. Rxc2 Rxe4 56. Kxf7 Rxg4 57. Rc3 h5 58. f6 1-0

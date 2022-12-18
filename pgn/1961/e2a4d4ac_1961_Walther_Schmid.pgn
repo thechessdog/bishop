@@ -1,0 +1,16 @@
+[Event "Zuerich"]
+[Site "Zuerich"]
+[Date "1961.01.01"]
+[Round "3"]
+[White "Walther, Edgar"]
+[Black "Schmid, Lothar"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[HashCode "e2a4d4ac"]
+[Epoch "Bishop"]
+[WhiteCountry "CHE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nh6 5. c3 Be7 6. Nb3 dxe4 7. Bxh6 exf3 8.
+Bxg7 Rg8 9. Qxf3 Rxg7 10. Bc4 Bd7 11. O-O Bd6 12. Rfe1 Qg5 0-1

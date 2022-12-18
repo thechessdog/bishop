@@ -1,0 +1,21 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1958.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Doda, Zbigniew"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "3b70da11"]
+[Epoch "Bishop"]
+[BlackCountry "POL"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxb5 axb5 11. Ndxb5 Nb4 12. a3 Na2+ 13. Nxa2 Bxb5 14. e5
+dxe5 15. Qxd8+ Rxd8 16. Rxd8+ Kxd8 17. fxe5 h6 18. Bxf6+ gxf6 19. exf6 Rg8 20.
+Nc3 Bc6 21. Rd1+ Kc7 22. g3 Rg6 23. b4 Rxf6 24. Rd2 Rf3 25. Nb1 h5 26. Kb2 Bg7+
+27. c3 Be4 0-1

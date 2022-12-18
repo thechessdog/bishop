@@ -1,0 +1,19 @@
+[Event "Chicago ch-USA"]
+[Site "Chicago ch-USA"]
+[Date "1974.07.01"]
+[Round "3"]
+[White "Weinstein, Norman"]
+[Black "Zuckerman, Bernard"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "e4bf20fe"]
+[Epoch "Bishop"]
+[WhiteID "2000466"]
+[WhiteCountry "USA"]
+[BlackID "2000423"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 e5 6. Nc3 Nc6 7. d3 Nge7 8.
+O-O g6 9. Nd5 Bg7 10. Bg5 Nxd5 11. cxd5 Nd4 12. Nxd4 cxd4 1/2-1/2

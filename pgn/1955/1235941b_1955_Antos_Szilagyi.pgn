@@ -1,0 +1,21 @@
+[Event "Prague tm"]
+[Site "Prague"]
+[Date "1955.01.25"]
+[Round "1"]
+[White "Antos, Zoltan"]
+[Black "Szilagyi, Gyorgy"]
+[Result "0-1"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "1235941b"]
+[Epoch "Bishop"]
+[WhiteID "735078"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c5 8. Qd2 Nh5
+9. Bd3 f5 10. exf5 gxf5 11. O-O-O a6 12. Nge2 b5 13. Rdg1 b4 14. Nd1 f4 15. Bf2
+Kh8 16. g4 Nf6 17. Qc2 e4 18. Bxe4 Nxe4 19. Qxe4 Ra7 20. Qd3 Nd7 21. Kb1 Ne5
+22. Qe4 Raf7 23. Ka1 a5 24. h4 Ba6 25. h5 Nxc4 26. Bh4 Qa8 27. Qe6 Bb7 28. g5
+Bxd5 29. Qh3 a4 30. g6 a3 31. h6 axb2+ 32. Kb1 Be4+ 0-1

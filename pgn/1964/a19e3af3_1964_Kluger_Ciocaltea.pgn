@@ -1,0 +1,21 @@
+[Event "Kislovodsk"]
+[Site "Kislovodsk"]
+[Date "1964.01.01"]
+[Round "1"]
+[White "Kluger, Gyula"]
+[Black "Ciocaltea, Victor"]
+[Result "0-1"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[HashCode "a19e3af3"]
+[Epoch "Bishop"]
+[BlackCountry "ROU"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Ne8 10. Nd3 f5 11. f4 c6 12. fxe5 dxe5 13. Bg5 h6 14. Bxe7 Qxe7 15.
+dxc6 bxc6 16. Qa4 Bd7 17. Rad1 Nc7 18. Qa5 Be8 19. Qc5 Qf6 20. exf5 gxf5 21.
+Ne4 Qh4 22. Ng3 Ne6 23. Qa5 Nd4 24. Rf2 Rd8 25. Bf1 e4 26. Nxf5 Nxf5 27. Rxf5
+exd3 28. Rxf8+ Bxf8 29. Qf5 Qxc4 30. Bxd3 Qc5+ 31. Qxc5 Bxc5+ 32. Kf1 Kg7 33.
+Rc1 Ba3 0-1

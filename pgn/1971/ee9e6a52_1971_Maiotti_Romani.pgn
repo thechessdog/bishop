@@ -1,0 +1,21 @@
+[Event "San Benedetto"]
+[Site "San Benedetto"]
+[Date "1971.01.01"]
+[Round "1"]
+[White "Maiotti"]
+[Black "Romani"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "ee9e6a52"]
+[Epoch "Bishop"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O Qc7 10. Bb3 a6 11. g4 Nxd4 12. Rxd4 e5 13. Rc4 Qd8 14.
+g5 Nd7 15. Rxc8 Rxc8 16. Qh5 g6 17. Qg4 Rxc3 18. bxc3 Nc5 19. h4 Nxb3+ 20.
+axb3 Qc7 21. Kb2 Rc8 22. Bd2 b5 23. h5 Bf8 24. hxg6 hxg6 25. Rh3 Ra8 26.
+Qh4 Bg7 27. Qh7+ Kf8 28. Rf3 a5 29. Qxg6 Kg8 30. Qf5 a4 31. g6 axb3 32.
+Qxf7+ Qxf7 33. gxf7+ Kf8 34. cxb3 Ra7 35. Kc2 Ra2+ 36. Kd3 d5 37. Be3 d4
+38. cxd4 exd4 39. Bd2 1-0
+

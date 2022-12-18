@@ -1,0 +1,23 @@
+[Event "Leningrad Interzonal"]
+[Site "Leningrad izt"]
+[Date "1973.06.01"]
+[Round "12"]
+[White "Torre, Eugenio"]
+[Black "Estevez Morales, Guillermo"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "bbd1fc06"]
+[Epoch "Bishop"]
+[WhiteID "5200016"]
+[WhiteCountry "PHI"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 Ne7 8.
+Nbd2 O-O 9. a4 b6 10. Nc4 Bg4 11. h3 Bxf3 12. Qxf3 Qc7 13. Qg3 b5 14. Na3 a6
+15. Be3 c4 16. Bc5 cxd3 17. Qxd3 Rfd8 18. Qe3 Rab8 19. axb5 axb5 20. c3 Nc8 21.
+Nc2 Nb6 22. b3 Nd7 23. Be7 Re8 24. Ra7 Rb7 25. Bd6 Qc8 26. Rea1 Rxa7 27. Rxa7
+Nf8 28. c4 bxc4 29. bxc4 Ne6 30. Qf3 Nf4 31. c5 Qe6 32. Qg4 Qxg4 33. hxg4 Ne6
+34. Nb4 Bf8 35. Nd3 f6 36. Ra6 Rc8 37. g3 Bxd6 38. cxd6 c5 39. d7 Rd8 40. Rxe6
+c4 41. Re8+ 1-0

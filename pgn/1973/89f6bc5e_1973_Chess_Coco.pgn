@@ -1,0 +1,22 @@
+[Event "ACM Atlanta"]
+[Site "ACM Atlanta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Chess 4 0"]
+[Black "Coco IV"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "89f6bc5e"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Qe7 5. Qxd4 Nc6 6. Qc3 Ne4 7. Qc4 Nf6
+8. Qe2 Nd5 9. Bg5 Qe6 10. c4 Nb6 11. a4 Bb4+ 12. Nbd2 O-O 13. g3 f6 14.
+exf6 gxf6 15. Bh6 Re8 16. Qxe6+ Rxe6+ 17. Be3 d5 18. cxd5 Nxd5 19. Bc4 Rd6
+20. O-O Be6 21. Bh6 f5 22. Rae1 Bf7 23. Ng5 Bh5 24. Ne6 Rc8 25. Bb3 Bf7 26.
+Ng5 Bxd2 27. Nxf7 Kxf7 28. Bxd2 Nd4 29. Bd1 c5 30. Bh5+ Kf8 31. Bg5 h6 32.
+Bh4 Kg7 33. Re5 a6 34. Rfe1 b5 35. a5 f4 36. Be7 Nxe7 37. Rxe7+ Kh8 38.
+Re8+ Rxe8 39. Rxe8+ Kg7 40. gxf4 Nc6 41. Rc8 Kf6 42. Bf3 Nxa5 43. Rxc5 Rd3
+44. Bg4 Nb7 45. Rc6+ Rd6 46. Rc7 Na5 47. Kg2 Nc4 48. b4 1-0
+

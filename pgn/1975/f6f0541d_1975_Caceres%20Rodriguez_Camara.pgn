@@ -1,0 +1,17 @@
+[Event "Fortaleza"]
+[Site "Fortaleza"]
+[Date "1975.01.01"]
+[Round "1"]
+[White "Caceres Rodriguez,"]
+[Black "Camara, Helder"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "f6f0541d"]
+[Epoch "Bishop"]
+[BlackCountry "BRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O 8. f3
+Nc6 9. Qd2 Nd7 10. O-O-O Nde5 11. Bb3 Bd7 12. h4 Qa5 13. h5 Rfc8 14. hxg6 hxg6
+15. Bh6 Bh8 16. Bf8 Nd3+ 17. Kb1 Bxd4 18. Qh6 Be6 19. Nd5 Nf2 20. Rxd4 1-0

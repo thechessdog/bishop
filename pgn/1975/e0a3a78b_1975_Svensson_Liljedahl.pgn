@@ -1,0 +1,22 @@
+[Event "SWE-ch"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Svensson, Gert"]
+[Black "Liljedahl, Lennart"]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "e0a3a78b"]
+[Epoch "Bishop"]
+[WhiteID "1701533"]
+[BlackID "1700758"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Ba5 9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3 Bg4 12. c4 Ne5 13. cxd5 Bxf3 14. gxf3
+Qxd5 15. Be4 Qxc5 16. Bb2 Nxe4 17. fxe4 Rfd8 18. Bd4 Qe7 19. Kh1 Nc6 20. Qd3
+Rd6 21. Rab1 Rad8 22. e5 Qxe5 23. Rxb7 Nxd4 24. e4 Qf4 25. f3 Ne6 26. Qb5 Rd1
+27. Qe2 R1d2 0-1

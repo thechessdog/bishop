@@ -1,0 +1,16 @@
+[Event "Glasgow"]
+[Site "Glasgow"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Brixel, C."]
+[Black "Balmer, S."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "fd56e693"]
+[Epoch "Bishop"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Bf5 4. f3 Nbd7 5. Nxd5 Nxd5 6. e4 h6 7. Bh4 Ne3
+8. Qe2 Nxf1 9. exf5 Nb6 10. O-O-O Qd6 11. b3 g5 12. fxg6 fxg6 13. g4 Nxh2
+14. Qxh2 Bg7 15. Bg3 Qd5 16. Kb1 c5 17. Ne2 cxd4 18. Nf4 Qb5 19. Ne6 1-0
+

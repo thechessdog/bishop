@@ -1,0 +1,18 @@
+[Event "corr DDR-USSR"]
+[Site "corr DDR-USSR"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Horch, J."]
+[Black "Darmogray, Paul"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "fe94ef42"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8.
+Qe2 Nxc4 9. dxc4 Bc5 10. Bf4 O-O 11. Nfd2 Bg4 12. Qf1 c6 13. dxc6 Qb6 14.
+Nb3 Nh5 15. Bc1 e3 16. Nxc5 exf2+ 17. Qxf2 Rfe8+ 18. Kf1 Re2 19. Qd4 Rae8
+20. Bd2 Bh3 21. gxh3 Qxc6 0-1
+

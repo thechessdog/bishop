@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Brenant"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "928d458e"]
+[Epoch "Bishop"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Be7 4. Nf3 g5 5. d3 d6 6. O-O Be6 7. Bxe6 fxe6 8.
+Nd4 e5 9. Qh5+ Kd7 10. Qg4+ Ke8 11. Ne6 Qd7 12. Qh5# 1-0

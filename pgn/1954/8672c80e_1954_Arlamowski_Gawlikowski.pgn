@@ -1,0 +1,20 @@
+[Event "Lodz ch12-PL"]
+[Site "Lodz ch12-PL"]
+[Date "1954.01.01"]
+[Round "1"]
+[White "Arlamowski, Edward"]
+[Black "Gawliczek, Andreas"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "8672c80e"]
+[Epoch "Bishop"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. a3 Bxc3+ 8.
+bxc3 d5 9. cxd5 Bxf1 10. Kxf1 exd5 11. f3 Qd7 12. Kf2 h5 13. Qd3 c5 14. Re1 Nc6
+15. Kg1 Rfe8 16. Bb2 c4 17. Qc2 g6 18. e4 h4 19. Nf1 h3 20. Rad1 dxe4 21. fxe4
+Qg4 22. Ng3 hxg2 23. e5 Nd5 24. Qe4 Qxe4 25. Nxe4 Re6 26. Kxg2 Kg7 27. Bc1 f5
+28. exf6+ Nxf6 29. Nxf6 Rxe1 30. Rxe1 Kxf6 31. h4 b5 32. Bg5+ Kf5 33. Kf3 a5
+34. Bf4 Rd8 35. Rg1 b4 36. Rg5+ Kf6 37. Rc5 Rc8 38. axb4 axb4 39. d5 Ne7 40.
+Bg5+ Kf7 41. Bxe7 1-0

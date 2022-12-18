@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.01.01"]
+[Round "1"]
+[White "Jakira"]
+[Black "Bisarde"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "69bd97e3"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nxe5 Nxe4
+8. Re1 Nd6 9. Qe2 Be6 10. b3 O-O 11. Nxf7 Rxf7 12. Qxe6 Bf6 13. c3 Qf8 14. Qh3
+Bg5 15. d4 Bxc1 16. Rxc1 Rxf2 17. Qe3 Rf6 18. Nd2 Re8 19. Qd3 Rf2 20. Rf1 Ree2
+21. Qxe2 Rxe2 22. Rxf8+ Kxf8 23. Rf1+ Ke7 24. Rf2 Re1+ 25. Rf1 Re2 1/2-1/2

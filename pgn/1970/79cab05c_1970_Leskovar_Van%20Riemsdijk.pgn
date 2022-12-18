@@ -1,0 +1,22 @@
+[Event "Mar del Plata op"]
+[Site "Mar del Plata"]
+[Date "1970.01.01"]
+[Round "5"]
+[White "Leskovar, Mario"]
+[Black "Van Riemsdijk, Herman C"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "79cab05c"]
+[Epoch "Bishop"]
+[WhiteID "100617"]
+[WhiteCountry "ARG"]
+[BlackID "2100053"]
+[BlackCountry "BRA"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e6 4. Nxd4 a6 5. Nc3 Qc7 6. a3 Nc6 7. Be3 Nf6 8. f4
+d5 9. e5 Nd7 10. Nb3 b6 11. Be2 Bc5 12. Qd2 Bb7 13. O-O-O O-O-O 14. Na4 d4 15.
+Bxd4 Bxd4 16. Nxd4 Nc5 17. Nxc5 bxc5 18. Nxe6 Rxd2 19. Nxc7 Rxe2 20. Nd5 Nd4
+21. Ne7+ Kc7 22. Rd2 Rxd2 23. Kxd2 Re8 24. c3 Bxg2 25. Rd1 Nf3+ 26. Ke3 Rxe7
+27. Kf2 Nh4 28. Kg3 Nf5+ 0-1

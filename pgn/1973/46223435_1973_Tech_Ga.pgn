@@ -1,0 +1,21 @@
+[Event "ACM Atlanta"]
+[Site "ACM Atlanta"]
+[Date "1973.01.01"]
+[Round "1"]
+[White "Tech II"]
+[Black "Ga Tech CP"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights game"]
+[HashCode "46223435"]
+[Epoch "Bishop"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Nc6 7. Bc4
+Qf6+ 8. Ke3 Qg5+ 9. Kf3 Qh5+ 10. Kf2 Nf6 11. Qxh5 Nxh5 12. Nb5 Kd8 13. Bxf7
+Nf6 14. Bf4 Nxe4+ 15. Ke3 Nd6 16. Nxd6 cxd6 17. Bxd6 b6 18. Rhf1 g5 19. Rf6
+Ba6 20. Rd1 g4 21. c4 Kc8 22. Bd5 Kb7 23. Be5 Rhf8 24. Rd6 Rad8 25. Rh6 b5
+26. cxb5 Bxb5 27. Rxh7 Kb6 28. Bd6 Rf5 29. Bc5+ Kb7 30. Be6 Rg5 31. Bxd7 g3
+32. h4 Rxc5 33. dxc5 Rf8 34. Rd6 Rf1 35. Bxc6+ Ka6 36. a4 Bxc6 37. b4 Re1+
+38. Kf4 Re4+ 39. Kxg3 Re3+ 40. Kf2 Re6 41. b5+ Ka5 42. Rxe6 Bd5 43. Rxa7+
+Kb4 44. b6 Bxe6 45. b7 Kxc5 46. b8=Q Kd5 47. Ke3 1-0
+

@@ -1,0 +1,20 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1970.01.01"]
+[Round "1"]
+[White "Jimenez Zerquera, Eleazar"]
+[Black "Honfi, Karoly"]
+[Result "0-1"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Botvinnik variation"]
+[HashCode "071dd993"]
+[Epoch "Bishop"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c5 7. dxc5 Be6 8. Nf3
+Nc6 9. Be2 Qa5 10. Nd4 Nxd4 11. exd4 dxc4 12. O-O Rad8 13. Qa4 Qxa4 14. Nxa4
+Nd5 15. Be5 Bxe5 16. dxe5 Nf4 17. Bf3 Nd3 18. Rc3 Rd7 19. Be4 Nxe5 20. f4 Ng4
+21. c6 Rd4 22. Nc5 bxc6 23. Nxe6 fxe6 24. Bxc6 Rfxf4 25. Rxf4 Rxf4 26. Bb5 Ne5
+27. Re3 Nf7 28. Ra3 Nd6 29. Bd7 Kf7 30. Rxa7 Rd4 31. Rc7 Rd2 32. b3 c3 33. h3
+c2 34. Kh2 Nf5 0-1
